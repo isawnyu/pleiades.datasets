@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3711 alignments exist in _Pleiades_ place references as of 2024-10-01. The following list of alignments is grouped by zotkey.
+3715 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15658,6 +15658,13 @@
  - [Jebel al-ʾAqraʿ](https://pleiades.stoa.org/places/668224)
 
 
+## GEO ID 37064: Chiris
+[https://www.trismegistos.org/place/37064](https://www.trismegistos.org/place/37064)  
+
+### alignments:
+ - [Chiris](https://pleiades.stoa.org/places/798054)
+
+
 ## GEO ID 37098: Dibon (Dhiban)
 [http://www.trismegistos.org/place/37098](http://www.trismegistos.org/place/37098)  
 
@@ -18072,6 +18079,13 @@
 
 ### alignments:
  - [Ad Vicesimum](https://pleiades.stoa.org/places/197090)
+
+
+## GEO ID 4127: Dodekaschoinos
+[https://www.trismegistos.org/place/4127](https://www.trismegistos.org/place/4127)  
+
+### alignments:
+ - [Dodekaschoinos](https://pleiades.stoa.org/places/795801)
 
 
 ## GEO ID 41298: Crucium (Šentjernej)
@@ -20921,6 +20935,13 @@
 
 ### alignments:
  - [Ouelaunioi](https://pleiades.stoa.org/places/162344)
+
+
+## GEO ID 43162: Eravisci
+[https://www.trismegistos.org/place/43162](https://www.trismegistos.org/place/43162)  
+
+### alignments:
+ - [Eravisci](https://pleiades.stoa.org/places/197265)
 
 
 ## GEO ID 43185: Musunii Regiani
@@ -24615,6 +24636,13 @@
 
 ### alignments:
  - [Pekty](https://pleiades.stoa.org/places/741552)
+
+
+## GEO ID 64629: Viscera
+[https://www.trismegistos.org/place/64629](https://www.trismegistos.org/place/64629)  
+
+### alignments:
+ - [Viscera natio](https://pleiades.stoa.org/places/355652)
 
 
 ## GEO ID 6482: Pentapolis

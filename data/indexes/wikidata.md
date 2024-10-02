@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3875 alignments exist in _Pleiades_ place references as of 2024-10-01. The following list of alignments is grouped by zotkey.
+3878 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -2956,6 +2956,13 @@
 
 ### alignments:
  - [Forum Brentani/Brentanorum](https://pleiades.stoa.org/places/416811)
+
+
+## Forum Domitii (Q22953907)
+[https://www.wikidata.org/wiki/Q22953907](https://www.wikidata.org/wiki/Q22953907)  
+
+### alignments:
+ - [Forum Domitii](https://pleiades.stoa.org/places/148081)
 
 
 ## Forum Hadriani (Q2586986)
@@ -9051,6 +9058,13 @@
 
 ### alignments:
  - [Monte Calvo](https://pleiades.stoa.org/places/413207)
+
+
+## Q130391669
+[https://www.wikidata.org/wiki/Q130391669](https://www.wikidata.org/wiki/Q130391669)  
+
+### alignments:
+ - [Viscera natio](https://pleiades.stoa.org/places/355652)
 
 
 ## Q130958: The Great Sphinx
@@ -26631,6 +26645,13 @@
 
 ### alignments:
  - [Es Trepucó](https://pleiades.stoa.org/places/13999296)
+
+
+## Triakontaschoinos (Q391260)
+[https://www.wikidata.org/wiki/Q391260](https://www.wikidata.org/wiki/Q391260)  
+
+### alignments:
+ - [Dodekaschoinos](https://pleiades.stoa.org/places/795801)
 
 
 ## Triopium (Q65088955)
