@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-364 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
+365 alignments exist in _Pleiades_ place references as of 2024-10-03. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1312,6 +1312,13 @@
  - [Thouria](https://pleiades.stoa.org/places/570733)
 
 
+## Toponym 707: Apollonia, Pazarouda
+[https://chronique.efa.gr/?kroute=topo_public&id=707](https://chronique.efa.gr/?kroute=topo_public&id=707)  
+
+### alignments:
+ - [Apollonia](https://pleiades.stoa.org/places/491526)
+
+
 ## Toponym 7961: Pakhia Ammos, Pakhiammos
 [https://chronique.efa.gr/?kroute=topo_public&id=7961](https://chronique.efa.gr/?kroute=topo_public&id=7961)  
 
@@ -1538,7 +1545,7 @@
 
 
 ## Toponyme 18743: Frixa, Prixa, Anemochorakion-Δ.Δ.Φρίξης
-[https://chronique.efa.gr/?r=topo_public&id=18743](https://chronique.efa.gr/?r=topo_public&id=18743)  
+[https://chronique.efa.gr/?kroute=topo_public&id=18743](https://chronique.efa.gr/?kroute=topo_public&id=18743)  
 
 ### alignments:
  - [Phrixa(i)](https://pleiades.stoa.org/places/570609)

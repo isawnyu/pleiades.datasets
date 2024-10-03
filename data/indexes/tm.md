@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3715 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
+3716 alignments exist in _Pleiades_ place references as of 2024-10-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14074,6 +14074,13 @@
 
 ### alignments:
  - [Druantium/*Alpis Cottia/Summae Alpes](https://pleiades.stoa.org/places/167743)
+
+
+## GEO ID 33194: Quadrata
+[http://www.trismegistos.org/place/33194](http://www.trismegistos.org/place/33194)  
+
+### alignments:
+ - [Quadrata](https://pleiades.stoa.org/places/383753)
 
 
 ## GEO ID 33196: Cuttiae (Cozzo)

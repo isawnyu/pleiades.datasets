@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3501 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
+3502 alignments exist in _Pleiades_ place references as of 2024-10-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -24543,6 +24543,13 @@
 
 ### alignments:
  - [Zoster Pr.](https://pleiades.stoa.org/places/580140)
+
+
+## Zygouries (Korinthia)
+[https://topostext.org/place/378228XZyg](https://topostext.org/place/378228XZyg)  
+
+### alignments:
+ - [Zygouries (Corinthia)](https://pleiades.stoa.org/places/757208100)
 
 
 ## Zygris (Egypt)

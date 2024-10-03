@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-543 alignments exist in _Pleiades_ place references as of 2024-10-02. The following list of alignments is grouped by zotkey.
+544 alignments exist in _Pleiades_ place references as of 2024-10-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1392,6 +1392,13 @@
 
 ### alignments:
  - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
+
+
+## 10270164: Erythrai
+[https://resource.manto.unh.edu/10270164](https://resource.manto.unh.edu/10270164)  
+
+### alignments:
+ - [Erythrai](https://pleiades.stoa.org/places/550535)
 
 
 ## 10270184: Pamphylia region of Asia Minor
