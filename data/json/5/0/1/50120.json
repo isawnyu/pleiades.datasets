@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        79.966091,
-        8.947567,
-        79.966091,
-        8.947567
+        79.961254,
+        8.956304,
+        79.961254,
+        8.956304
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/50298",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:54:17Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on; Kingwell-Benham 2018",
+                    "modified": "2024-10-02T18:44:08Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:54:17Z",
@@ -46,7 +58,19 @@
             ],
             "id": "50298",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/core/journals/antiquity/article/spice-and-rice-pepper-cloves-and-everyday-cereal-foods-at-the-ancient-port-of-mantai-sri-lanka/57A710C9438E73D78C21494A9E99A1E7",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XDFR587F",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kingwell-Banham, Eleanor, Wijerathne Bohingamuwa, Nimal Perera, Gamini Adikari, Alison Crowther, Dorian Q. Fuller, and Nicole Boivin. “Spice and Rice: Pepper, Cloves and Everyday Cereal Foods at the Ancient Port of Mantai, Sri Lanka.” <i>Antiquity</i> 92, no. 366 (December 2018): 1552–70. https://doi.org/10.15184/aqy.2018.168.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Kingwell-Banham 2018",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Taprobane/Palaisimoundou/Salike (island)",
@@ -84,7 +108,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-23T01:00:16Z",
+    "created": "2024-10-02T18:44:31Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
@@ -97,23 +121,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    79.966091,
-                    8.947567
+                    79.961254,
+                    8.956304
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-30470",
+            "id": "imagery-location-centerpoint-of-modern-excavations",
             "properties": {
-                "description": "5M scale point location",
-                "link": "https://pleiades.stoa.org/places/50120/darmc-location-30470",
+                "description": "Centerpoint of late 20th century and early 21st century excavations after Kingwell-Banham 2018, Figure 2. Dates after Kingwell-Banham 2018.",
+                "link": "https://pleiades.stoa.org/places/50120/imagery-location-centerpoint-of-modern-excavations",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 30470"
+                "snippet": "Archaeological-site; 200 BC - AD 1399",
+                "title": "Imagery Location: Centerpoint of modern Excavations"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC location 30470  = related",
+            "modified": "2024-10-02T22:16:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added Wikidata reference",
+            "modified": "2024-10-02T18:47:00Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-10-02T18:44:29Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-02-26T03:38:24Z",
@@ -164,110 +203,235 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
+                    "timePeriod": "second-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-bce"
+                },
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "first-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "1st-millennium-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/1st-millennium-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "eleventh-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/eleventh-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twelfth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twelfth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "thirteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/thirteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fourteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fourteenth-ce"
                 }
             ],
-            "created": "2011-08-02T21:02:03Z",
+            "contributors": [],
+            "created": "2024-10-02T18:36:04Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "5M scale point location",
-            "details": "DARMC OBJECTID: 30470",
-            "end": 300,
+            "description": "Centerpoint of late 20th century and early 21st century excavations after Kingwell-Banham 2018, Figure 2. Dates after Kingwell-Banham 2018.",
+            "details": "",
+            "end": 1399,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    79.966091,
-                    8.947567
+                    79.961254,
+                    8.956304
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:39:55Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-02T21:59:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-02T22:15:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-02T21:02:04Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-02T18:42:19Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T21:02:03Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2024-10-02T18:41:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-02T18:36:09Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-02T21:02:03Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-02T18:36:04Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-30470",
+            "id": "imagery-location-centerpoint-of-modern-excavations",
             "locationType": [
-                "representative"
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 30470",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.cambridge.org/core/journals/antiquity/article/spice-and-rice-pepper-cloves-and-everyday-cereal-foods-at-the-ancient-port-of-mantai-sri-lanka/57A710C9438E73D78C21494A9E99A1E7",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "30470",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XDFR587F",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Kingwell-Banham, Eleanor, Wijerathne Bohingamuwa, Nimal Perera, Gamini Adikari, Alison Crowther, Dorian Q. Fuller, and Nicole Boivin. “Spice and Rice: Pepper, Cloves and Everyday Cereal Foods at the Ancient Port of Mantai, Sri Lanka.” <i>Antiquity</i> 92, no. 366 (December 2018): 1552–70. https://doi.org/10.15184/aqy.2018.168.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Kingwell-Banham 2018",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -200,
+            "title": "Imagery Location: Centerpoint of modern Excavations",
+            "uri": "https://pleiades.stoa.org/places/50120/imagery-location-centerpoint-of-modern-excavations"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "மாந்தை",
+            "contributors": [],
+            "created": "2024-10-02T18:48:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-02T22:15:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-02T18:48:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-02T18:48:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-02T18:48:26Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "mantai",
+            "language": "ta",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Manthai",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Manthai",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 30470.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 66 see \"Mantai\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 30470",
-            "uri": "https://pleiades.stoa.org/places/50120/darmc-location-30470"
+            "romanized": "Mantai, Māntai",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/50120/mantai"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 inset Mantai",
     "references": [
@@ -314,11 +478,33 @@
             "otherIdentifier": "",
             "shortTitle": "Kingwell-Banham 2018",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q15245625",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Manthai (Q15245625)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "30470 ",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        79.966091,
-        8.947567
+        79.961254,
+        8.956304
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

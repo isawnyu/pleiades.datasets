@@ -172,10 +172,10 @@
             },
             "id": "62a644-62864a62f631",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/423885388/62a644-62864a62f631",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Archaeological-site, Tell",
                 "title": "OSM location of تل بيدر"
             },
             "type": "Feature"
@@ -368,7 +368,14 @@
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2023-06-14T12:18:44Z",
             "creators": [
                 {
@@ -384,14 +391,16 @@
                     "username": "rrattenborg"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "tell"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tell"
             ],
             "geometry": {
                 "coordinates": [
@@ -488,6 +497,11 @@
             },
             "history": [
                 {
+                    "comment": "update",
+                    "modified": "2024-10-02T22:54:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2023-06-14T17:33:34Z",
                     "modifiedBy": "thomase"
@@ -518,7 +532,8 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tell"
             ],
             "provenance": "OpenStreetMap (Way 226879817, version 4, osm:changeset=55418135, 2018-01-13T22:19:13Z)",
             "references": [
@@ -895,11 +910,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+        "https://pleiades.stoa.org/vocabularies/place-types/tell"
     ],
     "placeTypes": [
         "settlement",
-        "archaeological-site"
+        "archaeological-site",
+        "tell"
     ],
     "provenance": "Pleiades",
     "references": [
