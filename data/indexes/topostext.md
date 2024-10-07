@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3502 alignments exist in _Pleiades_ place references as of 2024-10-03. The following list of alignments is grouped by zotkey.
+3504 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2719,6 +2719,13 @@
 
 ### alignments:
  - [Araphen](https://pleiades.stoa.org/places/579876)
+
+
+## Arar river (Gallia) 49 Saone
+[https://topostext.org/place/458048WAra](https://topostext.org/place/458048WAra)  
+
+### alignments:
+ - [Arar (river)](https://pleiades.stoa.org/places/167652)
 
 
 ## Aratispi (Iberia) Cauche el Viejo
@@ -20025,7 +20032,6 @@
 [https://topostext.org/place/379229BAmp](https://topostext.org/place/379229BAmp)  
 
 ### alignments:
- - [Corinth Roman Amphitheater](https://pleiades.stoa.org/places/233061794)
  - [Roman amphitheater at Corinth](https://pleiades.stoa.org/places/54081048)
 
 
@@ -21278,6 +21284,13 @@
 
 ### alignments:
  - [Skylake](https://pleiades.stoa.org/places/511419)
+
+
+## Skyllaion cape (Attica)
+[https://topostext.org/place/374235LSky](https://topostext.org/place/374235LSky)  
+
+### alignments:
+ - [Skyllaion (promontory)](https://pleiades.stoa.org/places/570679)
 
 
 ## Skyros (Sporades) 108 Skyros Kastro - Σκύρος
