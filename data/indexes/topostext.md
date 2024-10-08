@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3504 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
+3507 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1598,6 +1598,13 @@
 
 ### alignments:
  - [Amphissa Tholos](https://pleiades.stoa.org/places/629588005)
+
+
+## Amphitheatre of Statilius Taurus (Rome)
+[https://topostext.org/place/419125BAST](https://topostext.org/place/419125BAST)  
+
+### alignments:
+ - [Amphitheater of Statilius Taurus](https://pleiades.stoa.org/places/728289457)
 
 
 ## Amphitheatrum Castrense (Rome)
@@ -7793,6 +7800,7 @@
 
 ### alignments:
  - [Euonymon](https://pleiades.stoa.org/places/579932)
+ - [Euonymos Theater](https://pleiades.stoa.org/places/597458137)
 
 
 ## Eupalinus tunnel (Samos)
@@ -8052,6 +8060,13 @@
 
 ### alignments:
  - [Firmum Picenum](https://pleiades.stoa.org/places/413135)
+
+
+## Flaminio Obelisk (Rome)
+[https://topostext.org/place/419125AOFl](https://topostext.org/place/419125AOFl)  
+
+### alignments:
+ - [Flaminio Obelisk (Rome)](https://pleiades.stoa.org/places/971580111)
 
 
 ## Florentia (Italy)
@@ -13650,6 +13665,13 @@
 
 ### alignments:
  - [Tell el-Heir](https://pleiades.stoa.org/places/727152)
+
+
+## Magna Mater temple (Rome)
+[https://topostext.org/place/419125SMMT](https://topostext.org/place/419125SMMT)  
+
+### alignments:
+ - [Temple of Magna Mater](https://pleiades.stoa.org/places/192818177)
 
 
 ## Magnesia ad Sipylum (Lydia)

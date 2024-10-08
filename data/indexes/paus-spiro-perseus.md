@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-477 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
+478 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2675,6 +2675,13 @@
 ### alignments:
  - [Argeathai](https://pleiades.stoa.org/places/573116)
  - [Skotane](https://pleiades.stoa.org/places/573525)
+
+
+## 8.23.9
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.23.9](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.23.9)  
+
+### alignments:
+ - [Paos](https://pleiades.stoa.org/places/570558)
 
 
 ## 8.23.9

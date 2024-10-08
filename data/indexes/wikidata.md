@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3926 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
+3942 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -469,6 +469,13 @@
 
 ### alignments:
  - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
+
+
+## Amphitheater of Statilius Taurus (Q2623831)
+[https://www.wikidata.org/wiki/Q2623831](https://www.wikidata.org/wiki/Q2623831)  
+
+### alignments:
+ - [Amphitheater of Statilius Taurus](https://pleiades.stoa.org/places/728289457)
 
 
 ## Amphitheater of Vindonissa (Q475005)
@@ -1592,6 +1599,13 @@
  - [Sidenos (river)](https://pleiades.stoa.org/places/857317)
 
 
+## Bolbe (Q17622961)
+[https://www.wikidata.org/wiki/Q17622961](https://www.wikidata.org/wiki/Q17622961)  
+
+### alignments:
+ - [Bolbai](https://pleiades.stoa.org/places/606279)
+
+
 ## Boothby Roman fort (Q17659532)
 [https://www.wikidata.org/wiki/Q17659532](https://www.wikidata.org/wiki/Q17659532)  
 
@@ -2187,6 +2201,13 @@
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
 
 
+## Chassenon amphitheatre (Q22954443)
+[https://www.wikidata.org/wiki/Q22954443](https://www.wikidata.org/wiki/Q22954443)  
+
+### alignments:
+ - [Chassenon Roman amphitheater](https://pleiades.stoa.org/places/243292711)
+
+
 ## Cheimerion (Q5089691)
 [https://www.wikidata.org/wiki/Q5089691](https://www.wikidata.org/wiki/Q5089691)  
 
@@ -2248,6 +2269,13 @@
 
 ### alignments:
  - [Ephyra/Kichyros](https://pleiades.stoa.org/places/530870)
+
+
+## Ciconiae Nixae (Q5119472)
+[https://www.wikidata.org/wiki/Q5119472](https://www.wikidata.org/wiki/Q5119472)  
+
+### alignments:
+ - [Ciconiae Nixae](https://pleiades.stoa.org/places/248862306)
 
 
 ## Cierium (Q16554823)
@@ -2734,6 +2762,13 @@
  - [Doris](https://pleiades.stoa.org/places/540740)
 
 
+## Doubs (Q14372)
+[https://www.wikidata.org/wiki/Q14372](https://www.wikidata.org/wiki/Q14372)  
+
+### alignments:
+ - [Dubis (river)](https://pleiades.stoa.org/places/177508)
+
+
 ## Drapanokefala (Q25081507)
 [https://www.wikidata.org/wiki/Q25081507](https://www.wikidata.org/wiki/Q25081507)  
 
@@ -3035,6 +3070,13 @@
  - [Euonymon](https://pleiades.stoa.org/places/579932)
 
 
+## Euonymos Theater (Q29052030)
+[https://www.wikidata.org/wiki/Q29052030](https://www.wikidata.org/wiki/Q29052030)  
+
+### alignments:
+ - [Euonymos Theater](https://pleiades.stoa.org/places/597458137)
+
+
 ## Europos (Q16659185)
 [https://www.wikidata.org/wiki/Q16659185](https://www.wikidata.org/wiki/Q16659185)  
 
@@ -3096,6 +3138,13 @@
 
 ### alignments:
  - [The Theater of Larissa](https://pleiades.stoa.org/places/942647940)
+
+
+## Flaminio Obelisk (Q568194)
+[https://www.wikidata.org/wiki/Q568194](https://www.wikidata.org/wiki/Q568194)  
+
+### alignments:
+ - [Flaminio Obelisk (Rome)](https://pleiades.stoa.org/places/971580111)
 
 
 ## Fonissa (Q5465042)
@@ -3364,6 +3413,13 @@
  - [Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
 
 
+## Guattari Cave (Q3117098)
+[https://www.wikidata.org/wiki/Q3117098](https://www.wikidata.org/wiki/Q3117098)  
+
+### alignments:
+ - [Guattari Cave](https://pleiades.stoa.org/places/377313803)
+
+
 ## Guellala (Q2713148)
 [https://www.wikidata.org/wiki/Q2713148](https://www.wikidata.org/wiki/Q2713148)  
 
@@ -3614,6 +3670,13 @@
 
 ### alignments:
  - [Horomos](https://pleiades.stoa.org/places/890816517)
+
+
+## Horrea Agrippiana (Q3786801)
+[https://www.wikidata.org/wiki/Q3786801](https://www.wikidata.org/wiki/Q3786801)  
+
+### alignments:
+ - [Horrea Agrippiana](https://pleiades.stoa.org/places/471592763)
 
 
 ## Horrea Galbae (Q3786802)
@@ -3915,6 +3978,13 @@
 
 ### alignments:
  - [Ionia (region)](https://pleiades.stoa.org/places/550597)
+
+
+## Irminones (Q241194)
+[https://www.wikidata.org/wiki/Q241194](https://www.wikidata.org/wiki/Q241194)  
+
+### alignments:
+ - [Herminones](https://pleiades.stoa.org/places/101199)
 
 
 ## Iruña-Veleia (Q796596)
@@ -4728,6 +4798,13 @@
 
 ### alignments:
  - [Roman amphitheater at Lixus](https://pleiades.stoa.org/places/35858006)
+
+
+## Lod (Q207540)
+[https://www.wikidata.org/wiki/Q207540](https://www.wikidata.org/wiki/Q207540)  
+
+### alignments:
+ - [Lydda/Diospolis/Georgioupolis](https://pleiades.stoa.org/places/687953)
 
 
 ## Loire (Q1469)
@@ -5766,6 +5843,13 @@
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
 
 
+## Oppidum Milseburg (Q2027139)
+[https://www.wikidata.org/wiki/Q2027139](https://www.wikidata.org/wiki/Q2027139)  
+
+### alignments:
+ - [Milseburg (oppidum)](https://pleiades.stoa.org/places/118844)
+
+
 ## Orchomenos (Q543895)
 [https://www.wikidata.org/wiki/Q543895](https://www.wikidata.org/wiki/Q543895)  
 
@@ -5897,6 +5981,13 @@
 
 ### alignments:
  - [Panormos (Megarid)](https://pleiades.stoa.org/places/570557)
+
+
+## Paos (Q26958616)
+[https://www.wikidata.org/wiki/Q26958616](https://www.wikidata.org/wiki/Q26958616)  
+
+### alignments:
+ - [Paos](https://pleiades.stoa.org/places/570558)
 
 
 ## Papremi (Q3894902)
@@ -9375,6 +9466,13 @@
  - [Ad Tres Silanos](https://pleiades.stoa.org/places/290541807)
 
 
+## Q130463724: Caecubus ager
+[https://www.wikidata.org/wiki/Q130463724](https://www.wikidata.org/wiki/Q130463724)  
+
+### alignments:
+ - [Caecubus Ager](https://pleiades.stoa.org/places/432729)
+
+
 ## Q130958: The Great Sphinx
 [https://www.wikidata.org/wiki/Q130958](https://www.wikidata.org/wiki/Q130958)  
 
@@ -10697,6 +10795,13 @@
 
 ### alignments:
  - [Pyramid of Userkaf](https://pleiades.stoa.org/places/393558281)
+
+
+## Q1571046: Halieis
+[http://www.wikidata.org/entity/Q1571046](http://www.wikidata.org/entity/Q1571046)  
+
+### alignments:
+ - [Halieis](https://pleiades.stoa.org/places/570274)
 
 
 ## Q15723477: Theater (Ephesus)
@@ -14267,13 +14372,6 @@
  - [Incheville](https://pleiades.stoa.org/places/937860872)
 
 
-## Q22954443
-[https://www.wikidata.org/wiki/Q22954443](https://www.wikidata.org/wiki/Q22954443)  
-
-### alignments:
- - [Chassenon Roman amphitheater](https://pleiades.stoa.org/places/243292711)
-
-
 ## Q22962384: temple of fortune
 [https://www.wikidata.org/wiki/Q22962384](https://www.wikidata.org/wiki/Q22962384)  
 
@@ -16800,13 +16898,6 @@
 
 ### alignments:
  - [Palaikastro, Crete](https://pleiades.stoa.org/places/213924739)
-
-
-## Q34486509: Caecubus ager
-[https://www.wikidata.org/wiki/Q34486509](https://www.wikidata.org/wiki/Q34486509)  
-
-### alignments:
- - [Caecubus Ager](https://pleiades.stoa.org/places/432729)
 
 
 ## Q34589: Euphrates
@@ -21146,13 +21237,6 @@
  - [Taurisci](https://pleiades.stoa.org/places/197545)
 
 
-## Q59129383
-[https://www.wikidata.org/wiki/Q59129383](https://www.wikidata.org/wiki/Q59129383)  
-
-### alignments:
- - [Grotta Scaloria](https://pleiades.stoa.org/places/493401240)
-
-
 ## Q5915068: House of Julia Felix
 [https://www.wikidata.org/wiki/Q5915068](https://www.wikidata.org/wiki/Q5915068)  
 
@@ -21501,6 +21585,13 @@
 
 ### alignments:
  - [Kurban Höyük](https://pleiades.stoa.org/places/916396910)
+
+
+## Q6098985
+[https://www.wikidata.org/wiki/Q6098985](https://www.wikidata.org/wiki/Q6098985)  
+
+### alignments:
+ - [Çine Tepecik Höyük](https://pleiades.stoa.org/places/745265253)
 
 
 ## Q6100614: Seyitömer Höyük
@@ -25431,6 +25522,13 @@
  - [Scalae caci](https://pleiades.stoa.org/places/606719480)
 
 
+## Scaloria Cave (Q126870318)
+[https://www.wikidata.org/wiki/Q126870318](https://www.wikidata.org/wiki/Q126870318)  
+
+### alignments:
+ - [Grotta Scaloria](https://pleiades.stoa.org/places/493401240)
+
+
 ## Scantia Silva (Q130337406)
 [https://www.wikidata.org/wiki/Q130337406](https://www.wikidata.org/wiki/Q130337406)  
 
@@ -26308,6 +26406,13 @@
  - [Temple of Kronos and Rhea](https://pleiades.stoa.org/places/518758744)
 
 
+## Temple of Montu in Tod (Q1720771)
+[https://www.wikidata.org/wiki/Q1720771](https://www.wikidata.org/wiki/Q1720771)  
+
+### alignments:
+ - [Temple of Montu (El-Tod)](https://pleiades.stoa.org/places/542461377)
+
+
 ## Temple of Rome and Augustus (Q2145005)
 [https://www.wikidata.org/wiki/Q2145005](https://www.wikidata.org/wiki/Q2145005)  
 
@@ -26439,6 +26544,13 @@
 
 ### alignments:
  - [Theangela](https://pleiades.stoa.org/places/599969)
+
+
+## Theater of Tavium (Q125847257)
+[https://www.wikidata.org/wiki/Q125847257](https://www.wikidata.org/wiki/Q125847257)  
+
+### alignments:
+ - [Tavium Theater](https://pleiades.stoa.org/places/154948553)
 
 
 ## Theatre of Clunia Sulpicia (Q7777503)

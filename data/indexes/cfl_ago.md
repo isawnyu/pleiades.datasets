@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-365 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
+366 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1331,6 +1331,13 @@
 
 ### alignments:
  - [Pagasaeus/Demetriacus Sinus](https://pleiades.stoa.org/places/540997)
+
+
+## Toponym 8327: Paos, Skoupi (306/1927)
+[https://chronique.efa.gr/?kroute=topo_public&id=8327](https://chronique.efa.gr/?kroute=topo_public&id=8327)  
+
+### alignments:
+ - [Paos](https://pleiades.stoa.org/places/570558)
 
 
 ## Toponym 9894: Poros

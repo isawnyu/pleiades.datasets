@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3729 alignments exist in _Pleiades_ place references as of 2024-10-07. The following list of alignments is grouped by zotkey.
+3732 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11681,6 +11681,13 @@
  - [Oescus](https://pleiades.stoa.org/places/216907)
 
 
+## GEO ID 2985: Apis (Luxor)
+[http://www.trismegistos.org/place/2985](http://www.trismegistos.org/place/2985)  
+
+### alignments:
+ - [Ophieion](https://pleiades.stoa.org/places/789749)
+
+
 ## GEO ID 2987: Bostra (Bosra)
 [http://www.trismegistos.org/place/2987](http://www.trismegistos.org/place/2987)  
 
@@ -15278,6 +15285,13 @@
 
 ### alignments:
  - [Abila Lysaniou](https://pleiades.stoa.org/places/677993)
+
+
+## GEO ID 35077: Port-sur-Saône
+[https://www.trismegistos.org/place/35077](https://www.trismegistos.org/place/35077)  
+
+### alignments:
+ - [Port-sur-Saône](https://pleiades.stoa.org/places/264681518)
 
 
 ## GEO ID 3507: Patavium (Padova)
@@ -21390,6 +21404,13 @@
 
 ### alignments:
  - [Kanobikon Stoma](https://pleiades.stoa.org/places/727137)
+
+
+## GEO ID 43574: Horrea Agrippiana
+[https://www.trismegistos.org/place/43574](https://www.trismegistos.org/place/43574)  
+
+### alignments:
+ - [Horrea Agrippiana](https://pleiades.stoa.org/places/471592763)
 
 
 ## GEO ID 43589: Pagus Vescinus
