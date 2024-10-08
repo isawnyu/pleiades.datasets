@@ -1,15 +1,76 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "member",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/member",
+            "connectsTo": "https://pleiades.stoa.org/places/48050879",
+            "contributors": [],
+            "created": "2024-10-06T01:00:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-07T19:24:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-06T01:01:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2024-10-06T01:00:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-06T01:00:11Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "delian-league",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.jstor.org/stable/3642760",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MSYWDW28",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Thompson, Wesley E. “The Carian Tribute.” <i>Anatolian Studies</i> 31 (1981): 95–100. https://doi.org/10.2307/3642760.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Thompson 1981",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Delian League",
+            "uri": "https://pleiades.stoa.org/places/606279/delian-league"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/48050879"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,9 +78,21 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:00:42Z",
+    "created": "2024-10-06T00:55:26Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -30,8 +103,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 unlocated Bolbai",
-    "details": "The Barrington Atlas Directory notes: near Heraclea",
+    "description": "Now unlocated, Bolbai was an ancient Greek polis located in Caria. It was a dues-paying member of the Delian League.",
+    "details": "<p>The Barrington Atlas Directory notes: near Heraclea</p>",
     "features": [
         {
             "geometry": null,
@@ -47,6 +120,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references; add summary; updated Connections by @jbecker",
+            "modified": "2024-10-07T19:24:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2024-10-06T00:55:25Z",
@@ -254,10 +332,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/polis"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "polis"
     ],
     "provenance": "Barrington Atlas: BAtlas 61  Bolbai",
     "references": [
@@ -273,14 +353,58 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://search.worldcat.org/title/4260199",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#ATL-1-510",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HIE9DFBX",
+            "citationDetail": "1 510",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Meritt, Benjamin Dean, H. T Wade-Gery, and Malcolm Francis McGregor, eds. <i>The Athenian Tribute Lists</i>. 4 vols. Cambridge, Mass.: Harvard University Press, 1939. https://search.worldcat.org/title/4260199.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ATL",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Bolbae",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Bolbae",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17622961",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Bolbe (Q17622961)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/252695579",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WBM4X5NH",
+            "citationDetail": "880",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hansen, Mogens Herman, and Thomas Heine Nielsen. <i>An Inventory of Archaic and Classical Poleis</i>. Oxford: Oxford University Press, 2004. http://www.worldcat.org/oclc/252695579.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hansen 2004",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/3642760",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MSYWDW28",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ATL 1 510",
+            "formattedCitation": "<div class=\"csl-entry\">Thompson, Wesley E. “The Carian Tribute.” <i>Anatolian Studies</i> 31 (1981): 95–100. https://doi.org/10.2307/3642760.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Thompson 1981",
             "type": "seeFurther"
         }
     ],
