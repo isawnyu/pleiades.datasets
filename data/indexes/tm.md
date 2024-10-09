@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3732 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
+3737 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1659,6 +1659,13 @@
 
 ### alignments:
  - [Naulochon/Smyrna/Palaia Smyrna](https://pleiades.stoa.org/places/550771)
+
+
+## Geo 41416: Athenai (Pazar)
+[https://www.trismegistos.org/place/41416](https://www.trismegistos.org/place/41416)  
+
+### alignments:
+ - [Athenai](https://pleiades.stoa.org/places/857050)
 
 
 ## Geo 4141: Eddana
@@ -11184,6 +11191,13 @@
  - [‘In Murio’](https://pleiades.stoa.org/places/187420)
 
 
+## GEO ID 2868: Ophis
+[https://www.trismegistos.org/place/2868](https://www.trismegistos.org/place/2868)  
+
+### alignments:
+ - [Ophis?](https://pleiades.stoa.org/places/736981)
+
+
 ## GEO ID 2871: Paneuei
 [http://www.trismegistos.org/place/2871](http://www.trismegistos.org/place/2871)  
 
@@ -11483,6 +11497,13 @@
 
 ### alignments:
  - [Bariduum](https://pleiades.stoa.org/places/197159)
+
+
+## GEO ID 2952: Ophis
+[https://www.trismegistos.org/place/2952](https://www.trismegistos.org/place/2952)  
+
+### alignments:
+ - [Ophis](https://pleiades.stoa.org/places/759599)
 
 
 ## GEO ID 29537: Leusaba (Mrkonjić Grad)
@@ -12120,6 +12141,13 @@
 
 ### alignments:
  - [Mendesios (river)](https://pleiades.stoa.org/places/727158)
+
+
+## GEO ID 3093: Onouphis (Mehallet Menuf)
+[https://www.trismegistos.org/place/3093](https://www.trismegistos.org/place/3093)  
+
+### alignments:
+ - [Onouphis](https://pleiades.stoa.org/places/730134)
 
 
 ## GEO ID 3095: Lepidoton Polis (Nag’ el-Mashayikh)
@@ -18450,6 +18478,13 @@
 
 ### alignments:
  - [‘Taspa’?](https://pleiades.stoa.org/places/648790)
+
+
+## GEO ID 41414: Ophis (Of)
+[https://www.trismegistos.org/place/41414](https://www.trismegistos.org/place/41414)  
+
+### alignments:
+ - [Ophis](https://pleiades.stoa.org/places/857257)
 
 
 ## GEO ID 41433: Lucus Basaro (Tercan)

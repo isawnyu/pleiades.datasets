@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3507 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
+3510 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2194,6 +2194,13 @@
 
 ### alignments:
  - [Aphrodite Akraia, T.](https://pleiades.stoa.org/places/707469)
+
+
+## Aphrodite Erykine sanctuary (Achaia)
+[https://topostext.org/place/378219SAph](https://topostext.org/place/378219SAph)  
+
+### alignments:
+ - [Sanctuary of Erynike Aphrodite ](https://pleiades.stoa.org/places/712583012)
 
 
 ## Aphrodite Golgia sanct. (Cyprus)
@@ -12606,6 +12613,13 @@
  - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
 
 
+## Larisa Kremaste (Phthiotis)
+[https://topostext.org/place/390228PLar](https://topostext.org/place/390228PLar)  
+
+### alignments:
+ - [Larisa Kremaste/Pelasgia](https://pleiades.stoa.org/places/540904)
+
+
 ## Larisos R. (Achaia)
 [https://topostext.org/place/381214WLar](https://topostext.org/place/381214WLar)  
 
@@ -16281,6 +16295,13 @@
 
 ### alignments:
  - [O(no)ba](https://pleiades.stoa.org/places/256340)
+
+
+## Onouphis (Egypt) 4 Ezbet El-Tal - Ονουφις
+[https://topostext.org/place/304309UOno](https://topostext.org/place/304309UOno)  
+
+### alignments:
+ - [Onouphis](https://pleiades.stoa.org/places/730134)
 
 
 ## Ophiussa (Propontis)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-478 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
+481 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1303,6 +1303,13 @@
 
 ### alignments:
  - [Skotitas](https://pleiades.stoa.org/places/570678)
+
+
+## 3.16.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.16.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.16.4)  
+
+### alignments:
+ - [Sanctuary of Erynike Aphrodite ](https://pleiades.stoa.org/places/712583012)
 
 
 ## 3.16.5
@@ -2705,6 +2712,13 @@
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 
+## 8.24.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.6)  
+
+### alignments:
+ - [Sanctuary of Erynike Aphrodite ](https://pleiades.stoa.org/places/712583012)
+
+
 ## 8.25.12
 []()  
 
@@ -3308,6 +3322,13 @@
 
 ### alignments:
  - [Mantineia/Antigoneia](https://pleiades.stoa.org/places/570459)
+
+
+## 8.8.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.8.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.8.4)  
+
+### alignments:
+ - [Ophis (river)](https://pleiades.stoa.org/places/570534)
 
 
 ## 8

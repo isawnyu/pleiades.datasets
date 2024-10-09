@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-544 alignments exist in _Pleiades_ place references as of 2024-10-08. The following list of alignments is grouped by zotkey.
+545 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2331,6 +2331,13 @@
 
 ### alignments:
  - [Adrasteia](https://pleiades.stoa.org/places/511138)
+
+
+## 8195179: Larissa (Thessaly)
+[https://resource.manto.unh.edu/8195179](https://resource.manto.unh.edu/8195179)  
+
+### alignments:
+ - [Larisa Kremaste/Pelasgia](https://pleiades.stoa.org/places/540904)
 
 
 ## 8195188: Caria (Asia Minor)
