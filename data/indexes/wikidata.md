@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3957 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
+3960 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3488,6 +3488,13 @@
 
 ### alignments:
  - [Library of Hadrian at Athens](https://pleiades.stoa.org/places/728329644)
+
+
+## Halai Araphenides (Q13526134)
+[https://www.wikidata.org/wiki/Q13526134](https://www.wikidata.org/wiki/Q13526134)  
+
+### alignments:
+ - [Halai Araphenides](https://pleiades.stoa.org/places/579940)
 
 
 ## Halimous (Q13464895)
@@ -25097,6 +25104,13 @@
  - [Red Hill Roman Temple](https://pleiades.stoa.org/places/461726240)
 
 
+## Roman Theater at Cillium (Q130469920)
+[https://www.wikidata.org/wiki/Q130469920](https://www.wikidata.org/wiki/Q130469920)  
+
+### alignments:
+ - [Theater at Cillium](https://pleiades.stoa.org/places/878261409)
+
+
 ## Roman theater at Pelusium (Q25383052)
 [https://www.wikidata.org/wiki/Q25383052](https://www.wikidata.org/wiki/Q25383052)  
 
@@ -27556,6 +27570,13 @@
 
 ### alignments:
  - [Vroulia](https://pleiades.stoa.org/places/590093)
+
+
+## Wadi el-Hol (Q1604301)
+[https://www.wikidata.org/wiki/Q1604301](https://www.wikidata.org/wiki/Q1604301)  
+
+### alignments:
+ - [Wadi el-Hol](https://pleiades.stoa.org/places/313840750)
 
 
 ## Waldgirmes Forum (Q318775)

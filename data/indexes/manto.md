@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-545 alignments exist in _Pleiades_ place references as of 2024-10-09. The following list of alignments is grouped by zotkey.
+546 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1000,6 +1000,13 @@
 
 ### alignments:
  - [Cumae/Kyme (Campanian)](https://pleiades.stoa.org/places/432808)
+
+
+## 10214296: the Tomb of Alcmaion (Psophis)
+[https://resource.manto.unh.edu/10214296](https://resource.manto.unh.edu/10214296)  
+
+### alignments:
+ - [Tomb of Alcmaion (Psophis)](https://pleiades.stoa.org/places/538289364)
 
 
 ## 10214322: Thelpousa
