@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-546 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
+552 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1429,6 +1429,20 @@
  - [Imbrasos (river)](https://pleiades.stoa.org/places/599669)
 
 
+## 10270779: Olmones
+[https://resource.manto.unh.edu/10270779](https://resource.manto.unh.edu/10270779)  
+
+### alignments:
+ - [Olmones](https://pleiades.stoa.org/places/540980)
+
+
+## 10270786: Marpessos
+[https://resource.manto.unh.edu/10270786](https://resource.manto.unh.edu/10270786)  
+
+### alignments:
+ - [Marpessos](https://pleiades.stoa.org/places/550723)
+
+
 ## 10272206: Rhamnous (Attica)
 [https://resource.manto.unh.edu/10272206](https://resource.manto.unh.edu/10272206)  
 
@@ -1436,11 +1450,32 @@
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
+## 10272322: Nora
+[https://resource.manto.unh.edu/10272322](https://resource.manto.unh.edu/10272322)  
+
+### alignments:
+ - [Nora](https://pleiades.stoa.org/places/471979)
+
+
 ## 10272323: Andros (city)
 [https://resource.manto.unh.edu/10272323](https://resource.manto.unh.edu/10272323)  
 
 ### alignments:
  - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
+
+
+## 10272335: Cyrene
+[https://resource.manto.unh.edu/10272335](https://resource.manto.unh.edu/10272335)  
+
+### alignments:
+ - [Cyrene](https://pleiades.stoa.org/places/373778)
+
+
+## 10272341: Olbia
+[https://resource.manto.unh.edu/10272341](https://resource.manto.unh.edu/10272341)  
+
+### alignments:
+ - [Olbia](https://pleiades.stoa.org/places/471987)
 
 
 ## 10272345: Pharsalos (Thessaly)
@@ -1455,6 +1490,13 @@
 
 ### alignments:
  - [Corsica/Kyrnos (island)](https://pleiades.stoa.org/places/472063)
+
+
+## 10272433: Hyettos (Boiotia)
+[https://resource.manto.unh.edu/10272433](https://resource.manto.unh.edu/10272433)  
+
+### alignments:
+ - [Hyettos](https://pleiades.stoa.org/places/540823)
 
 
 ## 10272601: Pessinous (Phrygia)

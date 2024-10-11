@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3737 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
+3740 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2030,6 +2030,13 @@
 
 ### alignments:
  - [Antikragos (mountain)](https://pleiades.stoa.org/places/638747)
+
+
+## Geo 60981: Marpessos (Damkale)
+[https://www.trismegistos.org/place/60981](https://www.trismegistos.org/place/60981)  
+
+### alignments:
+ - [Marpessos](https://pleiades.stoa.org/places/550723)
 
 
 ## Geo 6105: Onysia
@@ -11184,6 +11191,13 @@
  - [Faviana](https://pleiades.stoa.org/places/118673)
 
 
+## GEO ID 28617
+[http://www.trismegistos.org/place/28617](http://www.trismegistos.org/place/28617)  
+
+### alignments:
+ - [Namare](https://pleiades.stoa.org/places/118857)
+
+
 ## GEO ID 28623
 [http://www.trismegistos.org/place/28623](http://www.trismegistos.org/place/28623)  
 
@@ -14417,6 +14431,13 @@
 
 ### alignments:
  - [Haliartos](https://pleiades.stoa.org/places/540801)
+
+
+## GEO ID 33351: Hyettos
+[https://www.trismegistos.org/place/33351](https://www.trismegistos.org/place/33351)  
+
+### alignments:
+ - [Hyettos](https://pleiades.stoa.org/places/540823)
 
 
 ## GEO ID 33354: Hyle (Oungra)

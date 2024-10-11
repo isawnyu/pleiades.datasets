@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-366 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
+368 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1896,6 +1896,13 @@
  - [Ambrossos](https://pleiades.stoa.org/places/540626)
 
 
+## Toponyme 37024: Pavlos, Pavlon-Δ.Δ.Παύλου
+[https://chronique.efa.gr/?r=topo_public&id=37024](https://chronique.efa.gr/?r=topo_public&id=37024)  
+
+### alignments:
+ - [Olmones](https://pleiades.stoa.org/places/540980)
+
+
 ## Toponyme 37029: Platées, Plataeae, Plataiai, Kokla (V29/1916)
 [https://chronique.efa.gr/?kroute=topo_public&id=37029](https://chronique.efa.gr/?kroute=topo_public&id=37029)  
 
@@ -2329,6 +2336,13 @@
 
 ### alignments:
  - [Phalasarna](https://pleiades.stoa.org/places/589989)
+
+
+## Toponyme 67223: Strovikion-Στροβίκιον,το
+[https://chronique.efa.gr/?r=topo_public&id=67223](https://chronique.efa.gr/?r=topo_public&id=67223)  
+
+### alignments:
+ - [Stroviki Helladic Settlement](https://pleiades.stoa.org/places/380437088)
 
 
 ## Toponyme 67540: Stelida

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-3960 alignments exist in _Pleiades_ place references as of 2024-10-10. The following list of alignments is grouped by zotkey.
+3965 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3910,6 +3910,13 @@
  - [Hydramia](https://pleiades.stoa.org/places/589810)
 
 
+## Hyettus (Q12872650)
+[https://www.wikidata.org/wiki/Q12872650](https://www.wikidata.org/wiki/Q12872650)  
+
+### alignments:
+ - [Hyettos](https://pleiades.stoa.org/places/540823)
+
+
 ## Hyllarima (Q1640541)
 [https://www.wikidata.org/wiki/Q1640541](https://www.wikidata.org/wiki/Q1640541)  
 
@@ -5102,6 +5109,13 @@
  - [Dionysus Sanctuary](https://pleiades.stoa.org/places/595596935)
 
 
+## Marpessos (Q1670784)
+[https://www.wikidata.org/wiki/Q1670784](https://www.wikidata.org/wiki/Q1670784)  
+
+### alignments:
+ - [Marpessos](https://pleiades.stoa.org/places/550723)
+
+
 ## Mashkan-shapir (Q2574582)
 [https://www.wikidata.org/wiki/Q2574582](https://www.wikidata.org/wiki/Q2574582)  
 
@@ -5557,6 +5571,13 @@
  - [Nava? (river)](https://pleiades.stoa.org/places/109191)
 
 
+## Namare (Q2739868)
+[https://www.wikidata.org/wiki/Q2739868](https://www.wikidata.org/wiki/Q2739868)  
+
+### alignments:
+ - [Namare](https://pleiades.stoa.org/places/118857)
+
+
 ## Naucratis (Q137721)
 [https://www.wikidata.org/wiki/Q137721](https://www.wikidata.org/wiki/Q137721)  
 
@@ -5702,6 +5723,13 @@
 
 ### alignments:
  - [Nonakris](https://pleiades.stoa.org/places/570510)
+
+
+## Nora (Q677175)
+[https://www.wikidata.org/wiki/Q677175](https://www.wikidata.org/wiki/Q677175)  
+
+### alignments:
+ - [Nora](https://pleiades.stoa.org/places/471979)
 
 
 ## Novi Banovci (Q779333)
@@ -5863,6 +5891,13 @@
 
 ### alignments:
  - [Old Kandahar citadel](https://pleiades.stoa.org/places/630721027)
+
+
+## Olmones (Q12872591)
+[https://www.wikidata.org/wiki/Q12872591](https://www.wikidata.org/wiki/Q12872591)  
+
+### alignments:
+ - [Olmones](https://pleiades.stoa.org/places/540980)
 
 
 ## Olophyxus (Q17623889)
