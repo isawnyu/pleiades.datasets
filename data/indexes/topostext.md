@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3511 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
+3518 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1674,7 +1674,7 @@
 [https://topostext.org/place/378273PAna](https://topostext.org/place/378273PAna)  
 
 ### alignments:
- - [Anaia](https://pleiades.stoa.org/places/599490)
+ - [Kadıkalesi/Anaia](https://pleiades.stoa.org/places/599490)
 
 
 ## Anakaia (Attica)
@@ -4413,7 +4413,7 @@
 [https://topostext.org/place/405285IBes](https://topostext.org/place/405285IBes)  
 
 ### alignments:
- - [Besbikos Ins.](https://pleiades.stoa.org/places/511186)
+ - [Besbikos (island)](https://pleiades.stoa.org/places/511186)
 
 
 ## Bethlehem (Palestine)
@@ -11617,6 +11617,13 @@
  - [Kokkinos](https://pleiades.stoa.org/places/550657)
 
 
+## Kokylion? (Troad) 1 Karaev
+[https://topostext.org/place/397264UKok](https://topostext.org/place/397264UKok)  
+
+### alignments:
+ - [*Kokylion?](https://pleiades.stoa.org/places/550658)
+
+
 ## Kolias cape (Attica) 25 Ag. Kosmas - Κωλιάς
 [https://topostext.org/place/379236LKol](https://topostext.org/place/379236LKol)  
 
@@ -13105,6 +13112,13 @@
 
 ### alignments:
  - [Leuktron](https://pleiades.stoa.org/places/570431)
+
+
+## Leukyanias R. (Eleia)
+[https://topostext.org/place/378218WLeu](https://topostext.org/place/378218WLeu)  
+
+### alignments:
+ - [Leukyanias (river)](https://pleiades.stoa.org/places/570434)
 
 
 ## Liapokhori (Aitolia) Ag. Triada - Λιαποχώρι
@@ -16080,6 +16094,13 @@
  - [Oion Dekeleikon](https://pleiades.stoa.org/places/580041)
 
 
+## Oion Kerameikon deme (Attica)
+[https://topostext.org/place/380237DOiK](https://topostext.org/place/380237DOiK)  
+
+### alignments:
+ - [Oion Kerameikon](https://pleiades.stoa.org/places/585936)
+
+
 ## Oisyme (Kavala)
 [https://topostext.org/place/408243POis](https://topostext.org/place/408243POis)  
 
@@ -18906,6 +18927,13 @@
  - [Nea Pleuron](https://pleiades.stoa.org/places/540961)
 
 
+## Plinthine (Egypt)
+[https://topostext.org/place/310296UPli](https://topostext.org/place/310296UPli)  
+
+### alignments:
+ - [Plinthine](https://pleiades.stoa.org/places/727205)
+
+
 ## Plotheia (Attica)
 [https://topostext.org/place/381239DPlo](https://topostext.org/place/381239DPlo)  
 
@@ -19549,7 +19577,7 @@
 
 ### alignments:
  - [Proconnesus (island)](https://pleiades.stoa.org/places/511379)
- - [Proconnesus](https://pleiades.stoa.org/places/511378)
+ - [Proconnesus (settlement)](https://pleiades.stoa.org/places/511378)
 
 
 ## Proerna (Phthiotida)
@@ -19564,6 +19592,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Propontis (Turkey)
+[https://topostext.org/place/408280WPro](https://topostext.org/place/408280WPro)  
+
+### alignments:
+ - [Propontis](https://pleiades.stoa.org/places/511381)
 
 
 ## Propylaia (Athens)
@@ -19683,6 +19718,13 @@
 
 ### alignments:
  - [Ptolemais/Barkes Limen](https://pleiades.stoa.org/places/373879)
+
+
+## Ptolemais Hermiou/Psoi (Egypt)
+[https://topostext.org/place/264318UPto](https://topostext.org/place/264318UPto)  
+
+### alignments:
+ - [Ptolemais Hermiou/Psoi](https://pleiades.stoa.org/places/756635)
 
 
 ## Ptolemais Theron (Red Sea)
@@ -22345,6 +22387,13 @@
 
 ### alignments:
  - [Temple of Ares](https://pleiades.stoa.org/places/468194251)
+
+
+## Temple of Ceres (Rome)
+[https://topostext.org/place/419125SCer](https://topostext.org/place/419125SCer)  
+
+### alignments:
+ - [Aedes Ceres Liber Liberaque](https://pleiades.stoa.org/places/581361483)
 
 
 ## Temple of Kronos and Rhea (Athens) 1 Olympieion Athens

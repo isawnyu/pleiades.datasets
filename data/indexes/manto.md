@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-552 alignments exist in _Pleiades_ place references as of 2024-10-11. The following list of alignments is grouped by zotkey.
+556 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1415,6 +1415,13 @@
  - [Pamphylia (region)](https://pleiades.stoa.org/places/639034)
 
 
+## 10270708: Anaia
+[https://resource.manto.unh.edu/10270708](https://resource.manto.unh.edu/10270708)  
+
+### alignments:
+ - [Kadıkalesi/Anaia](https://pleiades.stoa.org/places/599490)
+
+
 ## 10270721: The Sanctuary of Hera (Samos)
 [https://resource.manto.unh.edu/10270721](https://resource.manto.unh.edu/10270721)  
 
@@ -1609,6 +1616,13 @@
 
 ### alignments:
  - [Leuktra](https://pleiades.stoa.org/places/540913)
+
+
+## 10772077: Pioniai (Troad)
+[https://resource.manto.unh.edu/10772077](https://resource.manto.unh.edu/10772077)  
+
+### alignments:
+ - [Pionia(i)](https://pleiades.stoa.org/places/550832)
 
 
 ## 10774304: Lake Copais (Boiotia)
@@ -2345,6 +2359,13 @@
 
 ### alignments:
  - [Scamander (river)](https://pleiades.stoa.org/places/550871)
+
+
+## 8195121: Thymbra (Troad)
+[https://resource.manto.unh.edu/8195121](https://resource.manto.unh.edu/8195121)  
+
+### alignments:
+ - [Thymbra](https://pleiades.stoa.org/places/550927)
 
 
 ## 8195127: Lesbos (island)
@@ -3270,6 +3291,13 @@
 
 ### alignments:
  - [Parthenios (river)](https://pleiades.stoa.org/places/845036)
+
+
+## 9688209: River Cephisos (Phocis/Boiotia)
+[https://resource.manto.unh.edu/9688209](https://resource.manto.unh.edu/9688209)  
+
+### alignments:
+ - [Cephisus (river)](https://pleiades.stoa.org/places/540700)
 
 
 ## 9688211: Lilaia (Phocis)
