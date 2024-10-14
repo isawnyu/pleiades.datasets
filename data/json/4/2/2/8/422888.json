@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         12.628977,
-        41.809836,
-        12.628977,
+        41.8097872,
+        12.6290461,
         41.809836
     ],
     "connections": [
@@ -29,6 +29,11 @@
             "end": null,
             "history": [
                 {
+                    "comment": "update references",
+                    "modified": "2024-10-11T13:18:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2018-03-08T20:32:50Z",
                     "modifiedBy": "thomase"
@@ -51,7 +56,19 @@
             ],
             "id": "via-latina",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=5382",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UC92I57E",
+                    "citationDetail": "5382: Villa dei Centroni",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Info.roma.it: La meraviglie di roma.” Accessed February 5, 2020. https://www.info.roma.it.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Info.roma.it",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Latina",
@@ -120,9 +137,32 @@
                 "title": "GeoHack location of Villa dei Centroni"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.6290461,
+                    41.8097872
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-villa-dei-centroni",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422888/osm-location-of-villa-dei-centroni",
+                "location_precision": "precise",
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Villa dei Centroni"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references, add wikidata, arachne, info.roma references",
+            "modified": "2024-10-11T13:14:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update refs.",
             "modified": "2021-06-26T14:13:08Z",
@@ -269,9 +309,176 @@
             "start": -30,
             "title": "GeoHack location of Villa dei Centroni",
             "uri": "https://pleiades.stoa.org/places/422888/geohack-location-of-villa-dei-centroni"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-09-08T02:39:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "villa"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.6290461,
+                    41.8097872
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-11T15:30:47Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-11T12:44:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-09-08T02:39:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-09-08T02:39:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-09-08T02:39:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-villa-dei-centroni",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "provenance": "OpenStreetMap (Node 8868110683, version 3, osm:changeset=138539870, 2023-07-15T10:52:10Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/8868110683",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 8868110683",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=8868110683",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Villa dei Centroni",
+            "uri": "https://pleiades.stoa.org/places/422888/osm-location-of-villa-dei-centroni"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Villa dei Centroni",
+            "contributors": [],
+            "created": "2024-10-11T13:15:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-11T15:30:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-11T13:15:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name added",
+                    "modified": "2024-10-11T13:15:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-11T13:15:37Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "villa-dei-centroni",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=5382",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UC92I57E",
+                    "citationDetail": "5382: Villa dei Centroni",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">“Info.roma.it: La meraviglie di roma.” Accessed February 5, 2020. https://www.info.roma.it.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Info.roma.it",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Villa dei Centroni",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/422888/villa-dei-centroni"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/villa"
     ],
@@ -323,11 +530,44 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q130485553",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Villa of the Centroni (Q130485553)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=5382",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UC92I57E",
+            "citationDetail": "5382: Villa dei Centroni",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">“Info.roma.it: La meraviglie di roma.” Accessed February 5, 2020. https://www.info.roma.it.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Info.roma.it",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/6258328",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Villa dei Centroni Rom (Metropolitanstadt), Italien, Europa",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.628977,
-        41.809836
+        12.629011550000001,
+        41.8098116
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
