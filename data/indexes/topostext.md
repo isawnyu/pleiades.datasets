@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3518 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
+3521 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4477,6 +4477,13 @@
 
 ### alignments:
  - [Bisanthe/Rhaidestos](https://pleiades.stoa.org/places/511187)
+
+
+## Bistonis (Xanthi)
+[https://topostext.org/place/410251WBis](https://topostext.org/place/410251WBis)  
+
+### alignments:
+ - [Bistonis (lake)](https://pleiades.stoa.org/places/501378)
 
 
 ## Bithia (Sardinia)
@@ -11988,6 +11995,13 @@
  - [Koutlougouni](https://pleiades.stoa.org/places/550671)
 
 
+## Kranai (Lakonia)
+[https://topostext.org/place/368226IKra](https://topostext.org/place/368226IKra)  
+
+### alignments:
+ - [Kranae (island)](https://pleiades.stoa.org/places/570379)
+
+
 ## Kranaion cave (Crete)
 [https://topostext.org/place/353246CKra](https://topostext.org/place/353246CKra)  
 
@@ -12387,6 +12401,13 @@
 
 ### alignments:
  - [Lac(c)obriga](https://pleiades.stoa.org/places/256246)
+
+
+## Laconian Gulf (Lakonia)
+[https://topostext.org/place/367227WLac](https://topostext.org/place/367227WLac)  
+
+### alignments:
+ - [Laconicus Sinus](https://pleiades.stoa.org/places/570407)
 
 
 ## Lactodorum (Britannia)

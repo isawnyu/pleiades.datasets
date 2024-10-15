@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3756 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
+3758 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -24232,6 +24232,13 @@
  - [Hypana](https://pleiades.stoa.org/places/570301)
 
 
+## GEO ID 58946: Kranae (Marathonisi)
+[https://www.trismegistos.org/place/58946](https://www.trismegistos.org/place/58946)  
+
+### alignments:
+ - [Kranae (island)](https://pleiades.stoa.org/places/570379)
+
+
 ## GEO ID 58961: Euhippe (Dalama)
 [https://www.trismegistos.org/place/58961](https://www.trismegistos.org/place/58961)  
 
@@ -24391,6 +24398,13 @@
 
 ### alignments:
  - [Oinoe](https://pleiades.stoa.org/places/580040)
+
+
+## GEO ID 60744: Trikrana (Trikeri)
+[https://www.trismegistos.org/place/60744](https://www.trismegistos.org/place/60744)  
+
+### alignments:
+ - [Trikrana (island)](https://pleiades.stoa.org/places/570752)
 
 
 ## GEO ID 60751: Hydroussa (Prasonisi)

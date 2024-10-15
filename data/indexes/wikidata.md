@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4041 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
+4054 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -548,6 +548,13 @@
  - [Roman amphitheater at Thuburbo Maius](https://pleiades.stoa.org/places/883384682)
 
 
+## Amu Darya (Q8493)
+[https://www.wikidata.org/wiki/Q8493](https://www.wikidata.org/wiki/Q8493)  
+
+### alignments:
+ - [Oxus (river)](https://pleiades.stoa.org/places/59969)
+
+
 ## Amymone (Q121886957)
 [https://www.wikidata.org/wiki/Q121886957](https://www.wikidata.org/wiki/Q121886957)  
 
@@ -856,6 +863,13 @@
  - [Arainon](https://pleiades.stoa.org/places/570099)
 
 
+## Aral Sea (Q35883)
+[https://www.wikidata.org/wiki/Q35883](https://www.wikidata.org/wiki/Q35883)  
+
+### alignments:
+ - [Aral Sea](https://pleiades.stoa.org/places/442241741)
+
+
 ## Arcadia (Q12898802)
 [https://www.wikidata.org/wiki/Q12898802](https://www.wikidata.org/wiki/Q12898802)  
 
@@ -889,6 +903,13 @@
 
 ### alignments:
  - [Arc de Campanus](https://pleiades.stoa.org/places/614234198)
+
+
+## Arch of Malborghetto (Q3621780)
+[https://www.wikidata.org/wiki/Q3621780](https://www.wikidata.org/wiki/Q3621780)  
+
+### alignments:
+ - [Arch of Malborghetto](https://pleiades.stoa.org/places/56664012)
 
 
 ## Arch of Marcus Aurelius (Q3621785)
@@ -2012,6 +2033,13 @@
  - [Phrourion?/Boosoura? (promontory)](https://pleiades.stoa.org/places/707612)
 
 
+## Cape Matapan (Q849911)
+[https://www.wikidata.org/wiki/Q849911](https://www.wikidata.org/wiki/Q849911)  
+
+### alignments:
+ - [Tainaron (promontory)](https://pleiades.stoa.org/places/570703)
+
+
 ## Capo Sant'Andrea (Q34835749)
 [https://www.wikidata.org/wiki/Q34835749](https://www.wikidata.org/wiki/Q34835749)  
 
@@ -2171,6 +2199,13 @@
 
 ### alignments:
  - [Clarenna](https://pleiades.stoa.org/places/118632)
+
+
+## Castra Cumidava (Q613565)
+[https://www.wikidata.org/wiki/Q613565](https://www.wikidata.org/wiki/Q613565)  
+
+### alignments:
+ - [Comidava](https://pleiades.stoa.org/places/216775)
 
 
 ## Castra Gelduba (Q835315)
@@ -2425,6 +2460,13 @@
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
 
 
+## Chil Zena (Q28223863)
+[https://www.wikidata.org/wiki/Q28223863](https://www.wikidata.org/wiki/Q28223863)  
+
+### alignments:
+ - [Chil Zena](https://pleiades.stoa.org/places/787408099)
+
+
 ## Christian Basilica (Q810067)
 [https://www.wikidata.org/wiki/Q810067](https://www.wikidata.org/wiki/Q810067)  
 
@@ -2654,6 +2696,13 @@
 
 ### alignments:
  - [Kos (settlement)](https://pleiades.stoa.org/places/599728)
+
+
+## Cranae (Q5181876)
+[https://www.wikidata.org/wiki/Q5181876](https://www.wikidata.org/wiki/Q5181876)  
+
+### alignments:
+ - [Kranae (island)](https://pleiades.stoa.org/places/570379)
 
 
 ## Cremaste (Q65072773)
@@ -4863,6 +4912,13 @@
  - [Quintanilla de la Cueza](https://pleiades.stoa.org/places/236624)
 
 
+## Laconian Gulf (Q589877)
+[https://www.wikidata.org/wiki/Q589877](https://www.wikidata.org/wiki/Q589877)  
+
+### alignments:
+ - [Laconicus Sinus](https://pleiades.stoa.org/places/570407)
+
+
 ## Lacus Juturnae (Q1714672)
 [https://www.wikidata.org/wiki/Q1714672](https://www.wikidata.org/wiki/Q1714672)  
 
@@ -4917,6 +4973,13 @@
 
 ### alignments:
  - [Miletopolitis/Apolloniatis/Artynia L.](https://pleiades.stoa.org/places/511319)
+
+
+## Lake Vistonida (Q1422238)
+[https://www.wikidata.org/wiki/Q1422238](https://www.wikidata.org/wiki/Q1422238)  
+
+### alignments:
+ - [Bistonis (lake)](https://pleiades.stoa.org/places/501378)
 
 
 ## Lamia (Q192980)
@@ -5893,6 +5956,13 @@
  - [Myrmekion](https://pleiades.stoa.org/places/854710)
 
 
+## Myrtoan Sea (Q840427)
+[https://www.wikidata.org/wiki/Q840427](https://www.wikidata.org/wiki/Q840427)  
+
+### alignments:
+ - [Myrtoion Mare](https://pleiades.stoa.org/places/570495)
+
+
 ## Myus (Q1195800)
 [https://www.wikidata.org/wiki/Q1195800](https://www.wikidata.org/wiki/Q1195800)  
 
@@ -5975,6 +6045,13 @@
 
 ### alignments:
  - [Necropolis of Montessu](https://pleiades.stoa.org/places/991190962)
+
+
+## Necropolis of Prato Rosello (Q3346872)
+[https://www.wikidata.org/wiki/Q3346872](https://www.wikidata.org/wiki/Q3346872)  
+
+### alignments:
+ - [Prato Rosello necropolis](https://pleiades.stoa.org/places/175420887)
 
 
 ## Necrópolis de Los Villares (Q6039303)
@@ -6878,6 +6955,13 @@
 
 ### alignments:
  - [Montefí Talayotic settlement](https://pleiades.stoa.org/places/367256898)
+
+
+## Poggio Colla (Q7207585)
+[https://www.wikidata.org/wiki/Q7207585](https://www.wikidata.org/wiki/Q7207585)  
+
+### alignments:
+ - [Poggio Colla](https://pleiades.stoa.org/places/34221419)
 
 
 ## Pogon (Q25168416)
@@ -20204,13 +20288,6 @@
  - [Aufinum](https://pleiades.stoa.org/places/413043)
 
 
-## Q483159: Syr Dar
-[https://www.wikidata.org/wiki/Q483159](https://www.wikidata.org/wiki/Q483159)  
-
-### alignments:
- - [Iaxartes/Silis/Tanais (river)](https://pleiades.stoa.org/places/59844)
-
-
 ## Q4832857: Azoria
 [https://www.wikidata.org/wiki/Q4832857](https://www.wikidata.org/wiki/Q4832857)  
 
@@ -23380,13 +23457,6 @@
 
 ### alignments:
  - [Tigranakert](https://pleiades.stoa.org/places/863907)
-
-
-## Q7207585
-[https://www.wikidata.org/wiki/Q7207585](https://www.wikidata.org/wiki/Q7207585)  
-
-### alignments:
- - [Poggio Colla](https://pleiades.stoa.org/places/34221419)
 
 
 ## Q7228143: Ponte de Segura
@@ -26632,6 +26702,13 @@
  - [Syia](https://pleiades.stoa.org/places/590064)
 
 
+## Syr Dar (Q483159)
+[https://www.wikidata.org/wiki/Q483159](https://www.wikidata.org/wiki/Q483159)  
+
+### alignments:
+ - [Iaxartes/Silis/Tanais (river)](https://pleiades.stoa.org/places/59844)
+
+
 ## Syrna (Q65066296)
 [https://www.wikidata.org/wiki/Q65066296](https://www.wikidata.org/wiki/Q65066296)  
 
@@ -27628,6 +27705,13 @@
  - [Torrellafuda](https://pleiades.stoa.org/places/676647078)
 
 
+## Tower 23, Dura-Europos (Q108073777)
+[https://www.wikidata.org/wiki/Q108073777](https://www.wikidata.org/wiki/Q108073777)  
+
+### alignments:
+ - [Tower 23](https://pleiades.stoa.org/places/980015053)
+
+
 ## Tower of Chrysokamaro (Q108664776)
 [https://www.wikidata.org/wiki/Q108664776](https://www.wikidata.org/wiki/Q108664776)  
 
@@ -27675,6 +27759,13 @@
 
 ### alignments:
  - [Dodekaschoinos](https://pleiades.stoa.org/places/795801)
+
+
+## Trikeri Ydras (Q16523372)
+[https://www.wikidata.org/wiki/Q16523372](https://www.wikidata.org/wiki/Q16523372)  
+
+### alignments:
+ - [Trikrana (island)](https://pleiades.stoa.org/places/570752)
 
 
 ## Triopium (Q65088955)

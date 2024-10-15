@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-556 alignments exist in _Pleiades_ place references as of 2024-10-14. The following list of alignments is grouped by zotkey.
+557 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1742,6 +1742,13 @@
 
 ### alignments:
  - [Perraibia](https://pleiades.stoa.org/places/491689)
+
+
+## 11288834: Cranae (Laconia)
+[https://resource.manto.unh.edu/11288834](https://resource.manto.unh.edu/11288834)  
+
+### alignments:
+ - [Kranae (island)](https://pleiades.stoa.org/places/570379)
 
 
 ## 11288839: Magnesia ad Sipylum (Lydia)
