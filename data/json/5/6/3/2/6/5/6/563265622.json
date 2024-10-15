@@ -3,8 +3,8 @@
     "bbox": [
         35.725,
         31.766667,
-        35.725,
-        31.766667
+        35.725269,
+        31.7681678
     ],
     "connections": [],
     "connectsWith": [
@@ -33,18 +33,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    35.725269,
+                    31.7681678
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-mount-nebo",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/563265622/osm-location-of-mount-nebo",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "OSM location of Mount Nebo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     35.725,
                     31.766667
                 ],
                 "type": "Point"
             },
-            "id": "summit-of-mount-nebo",
+            "id": "imagery-location-summit-of-mount-nebo",
             "properties": {
                 "description": "verified in Google Earth 2013",
-                "link": "https://pleiades.stoa.org/places/563265622/summit-of-mount-nebo",
+                "link": "https://pleiades.stoa.org/places/563265622/imagery-location-summit-of-mount-nebo",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "summit of Mount Nebo"
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "Imagery Location: summit of Mount Nebo"
             },
             "type": "Feature"
         }
@@ -90,9 +108,103 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-10-13T21:05:59Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    35.725269,
+                    31.7681678
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-14T14:51:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-13T21:06:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2024-10-13T21:06:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-10-13T21:06:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-13T21:05:59Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-mount-nebo",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 547993845, version 9, osm:changeset=141748601, 2023-09-25T21:07:58Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/547993845",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 547993845",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=547993845",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Mount Nebo",
+            "uri": "https://pleiades.stoa.org/places/563265622/osm-location-of-mount-nebo"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -103,7 +215,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-01-15T17:12:36Z",
             "creators": [
                 {
@@ -117,12 +236,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -132,6 +249,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2024-10-14T14:52:51Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-02-05T21:28:11Z",
@@ -158,13 +280,12 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "summit-of-mount-nebo",
+            "id": "imagery-location-summit-of-mount-nebo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -182,8 +303,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "summit of Mount Nebo",
-            "uri": "https://pleiades.stoa.org/places/563265622/summit-of-mount-nebo"
+            "title": "Imagery Location: summit of Mount Nebo",
+            "uri": "https://pleiades.stoa.org/places/563265622/imagery-location-summit-of-mount-nebo"
         }
     ],
     "names": [],
@@ -230,8 +351,8 @@
         }
     ],
     "reprPoint": [
-        35.725,
-        31.766667
+        35.725134499999996,
+        31.7674174
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
