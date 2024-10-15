@@ -1,5 +1,8 @@
 #! /usr/local/bin/bash
 set -x
+set -e 
+set -o pipefail
+set -u
 
 SCRIPT_DIR=$(dirname "${BASH_SOURCE[0]}")
 cd $SCRIPT_DIR/..
@@ -10,7 +13,7 @@ git pull origin main
 $VIRTUAL_ENV/bin/python $PD_HOME/scripts/get_json.py -r
 bash ./scripts/get_csv.sh
 bash ./scripts/get_ttl.sh
-git add data/csv
+git add data/csv/*.csv
 git commit -m 'updated csv'
 git add data/json
 git commit -m 'updated json'
