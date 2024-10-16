@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3758 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
+3761 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10413,6 +10413,13 @@
  - [Artigi](https://pleiades.stoa.org/places/255990)
 
 
+## GEO ID 26466: Augustobriga (Talavera la Vieja)
+[http://www.trismegistos.org/place/26466](http://www.trismegistos.org/place/26466)  
+
+### alignments:
+ - [Augustobriga](https://pleiades.stoa.org/places/256001)
+
+
 ## GEO ID 2650: Pois (Bus)
 [http://www.trismegistos.org/place/2650](http://www.trismegistos.org/place/2650)  
 
@@ -10971,6 +10978,13 @@
 
 ### alignments:
  - [Argin](https://pleiades.stoa.org/places/795779)
+
+
+## GEO ID 28073
+[http://www.trismegistos.org/place/28073](http://www.trismegistos.org/place/28073)  
+
+### alignments:
+ - [Salodurum](https://pleiades.stoa.org/places/177624)
 
 
 ## GEO ID 28074: Lousonna (Lausanne)
@@ -24237,6 +24251,13 @@
 
 ### alignments:
  - [Kranae (island)](https://pleiades.stoa.org/places/570379)
+
+
+## GEO ID 58947: Las
+[https://www.trismegistos.org/place/58947](https://www.trismegistos.org/place/58947)  
+
+### alignments:
+ - [La(s)](https://pleiades.stoa.org/places/570417)
 
 
 ## GEO ID 58961: Euhippe (Dalama)

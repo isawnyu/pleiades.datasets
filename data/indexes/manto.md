@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-557 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
+558 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3410,6 +3410,13 @@
 
 ### alignments:
  - [Messa](https://pleiades.stoa.org/places/570478)
+
+
+## 9718762: New Las (Laconia)
+[https://resource.manto.unh.edu/9718762](https://resource.manto.unh.edu/9718762)  
+
+### alignments:
+ - [La(s)](https://pleiades.stoa.org/places/570417)
 
 
 ## 9719368: Cyparisseis (Messenia)

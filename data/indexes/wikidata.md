@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4054 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
+4065 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -217,6 +217,13 @@
 
 ### alignments:
  - [Ai Lia temples](https://pleiades.stoa.org/places/330217806)
+
+
+## Ai-Khanoum (Q857845)
+[https://www.wikidata.org/wiki/Q857845](https://www.wikidata.org/wiki/Q857845)  
+
+### alignments:
+ - [Ai Khanoum (Alexandria Oxiana?)](https://pleiades.stoa.org/places/971693)
 
 
 ## Aiakeion (Q3144678)
@@ -1137,6 +1144,13 @@
  - [Ascheion](https://pleiades.stoa.org/places/573122)
 
 
+## Asclepeion of Kos (Q2655433)
+[https://www.wikidata.org/wiki/Q2655433](https://www.wikidata.org/wiki/Q2655433)  
+
+### alignments:
+ - [Asklepieion (Kos)](https://pleiades.stoa.org/places/599528)
+
+
 ## Asclepeion of Paros (Q61473756)
 [https://www.wikidata.org/wiki/Q61473756](https://www.wikidata.org/wiki/Q61473756)  
 
@@ -1163,6 +1177,13 @@
 
 ### alignments:
  - [Ashqelon/Ascalon](https://pleiades.stoa.org/places/687839)
+
+
+## Asiane (Q122947158)
+[https://www.wikidata.org/wiki/Q122947158](https://www.wikidata.org/wiki/Q122947158)  
+
+### alignments:
+ - [Asiane](https://pleiades.stoa.org/places/573124)
 
 
 ## Asine (Messenia) (Q16488997)
@@ -3420,6 +3441,13 @@
  - [Fagutal](https://pleiades.stoa.org/places/837320803)
 
 
+## Festoi (Q127312344)
+[https://www.wikidata.org/wiki/Q127312344](https://www.wikidata.org/wiki/Q127312344)  
+
+### alignments:
+ - [Festoi](https://pleiades.stoa.org/places/444395424)
+
+
 ## Fidan Burnu (Q34866590)
 [https://www.wikidata.org/wiki/Q34866590](https://www.wikidata.org/wiki/Q34866590)  
 
@@ -5038,6 +5066,13 @@
  - [Larisa Kremaste/Pelasgia](https://pleiades.stoa.org/places/540904)
 
 
+## Las (Q7142558)
+[https://www.wikidata.org/wiki/Q7142558](https://www.wikidata.org/wiki/Q7142558)  
+
+### alignments:
+ - [La(s)](https://pleiades.stoa.org/places/570417)
+
+
 ## Lasion (Q15780077)
 [https://www.wikidata.org/wiki/Q15780077](https://www.wikidata.org/wiki/Q15780077)  
 
@@ -6257,6 +6292,13 @@
  - [Obelisk of Theodosius](https://pleiades.stoa.org/places/820631036)
 
 
+## Oberaden (Q577724)
+[https://www.wikidata.org/wiki/Q577724](https://www.wikidata.org/wiki/Q577724)  
+
+### alignments:
+ - [Oberaden](https://pleiades.stoa.org/places/109229)
+
+
 ## Ochi Mountains (Q734559)
 [https://www.wikidata.org/wiki/Q734559](https://www.wikidata.org/wiki/Q734559)  
 
@@ -6297,6 +6339,13 @@
 
 ### alignments:
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
+
+
+## Oenotrians (Q922562)
+[https://www.wikidata.org/wiki/Q922562](https://www.wikidata.org/wiki/Q922562)  
+
+### alignments:
+ - [Oenotri](https://pleiades.stoa.org/places/452395)
 
 
 ## Oion Kerameikon (Q13464934)
@@ -6738,6 +6787,13 @@
 
 ### alignments:
  - [Roman theater at Petra](https://pleiades.stoa.org/places/612060179)
+
+
+## Petrozetoi (Q65046416)
+[https://www.wikidata.org/wiki/Q65046416](https://www.wikidata.org/wiki/Q65046416)  
+
+### alignments:
+ - [Petrozetoi](https://pleiades.stoa.org/places/511358)
 
 
 ## Peuceti (Q1267337)
@@ -21058,6 +21114,13 @@
  - [Temple of Hercules, Lanuvium](https://pleiades.stoa.org/places/836984433)
 
 
+## Q55169374
+[https://www.wikidata.org/wiki/Q55169374](https://www.wikidata.org/wiki/Q55169374)  
+
+### alignments:
+ - [Santa Liberata](https://pleiades.stoa.org/places/986457209)
+
+
 ## Q55171768: Ponte Sanguinario
 [https://www.wikidata.org/wiki/Q55171768](https://www.wikidata.org/wiki/Q55171768)  
 
@@ -26484,6 +26547,13 @@
  - [Horologium Augusti](https://pleiades.stoa.org/places/986274170)
 
 
+## Solothurn (Q68965)
+[https://www.wikidata.org/wiki/Q68965](https://www.wikidata.org/wiki/Q68965)  
+
+### alignments:
+ - [Salodurum](https://pleiades.stoa.org/places/177624)
+
+
 ## Somapura Mahavihara (Q305044)
 [https://www.wikidata.org/wiki/Q305044](https://www.wikidata.org/wiki/Q305044)  
 
@@ -28201,6 +28271,13 @@
 
 ### alignments:
  - [Volustana](https://pleiades.stoa.org/places/491753)
+
+
+## Vrokastro (Q15715778)
+[https://www.wikidata.org/wiki/Q15715778](https://www.wikidata.org/wiki/Q15715778)  
+
+### alignments:
+ - [Vrokastro](https://pleiades.stoa.org/places/590092)
 
 
 ## Vroulia (Q38282160)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3521 alignments exist in _Pleiades_ place references as of 2024-10-15. The following list of alignments is grouped by zotkey.
+3524 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3317,6 +3317,13 @@
  - [Sanctuary of Asklepios at Athens](https://pleiades.stoa.org/places/954340915)
 
 
+## Asklepieion (Kos) 17 Kos - Ασκληπίειον
+[https://topostext.org/place/369273SAsk](https://topostext.org/place/369273SAsk)  
+
+### alignments:
+ - [Asklepieion (Kos)](https://pleiades.stoa.org/places/599528)
+
+
 ## Asklepieion (Messene) Archaia Messene - Ασκληπιείον
 [https://topostext.org/place/372219SAsk](https://topostext.org/place/372219SAsk)  
 
@@ -3812,6 +3819,13 @@
 
 ### alignments:
  - [Augustobona](https://pleiades.stoa.org/places/108775)
+
+
+## Augustobriga (Iberia) 2 Talavera la Vieja
+[https://topostext.org/place/398000UAug](https://topostext.org/place/398000UAug)  
+
+### alignments:
+ - [Augustobriga](https://pleiades.stoa.org/places/256001)
 
 
 ## Augustobriga (Iberia)
@@ -24389,6 +24403,13 @@
 
 ### alignments:
  - [Vrasna fort (Thessaloniki)](https://pleiades.stoa.org/places/247348186)
+
+
+## Vrokastro exc. (Crete) Vrokastro
+[https://topostext.org/place/351257XVro](https://topostext.org/place/351257XVro)  
+
+### alignments:
+ - [Vrokastro](https://pleiades.stoa.org/places/590092)
 
 
 ## Vronta exc. (Crete)
