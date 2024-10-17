@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4065 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+4088 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1179,6 +1179,13 @@
  - [Ashqelon/Ascalon](https://pleiades.stoa.org/places/687839)
 
 
+## Asia (Q210718)
+[https://www.wikidata.org/wiki/Q210718](https://www.wikidata.org/wiki/Q210718)  
+
+### alignments:
+ - [Asia (Roman province)](https://pleiades.stoa.org/places/981509)
+
+
 ## Asiane (Q122947158)
 [https://www.wikidata.org/wiki/Q122947158](https://www.wikidata.org/wiki/Q122947158)  
 
@@ -1331,6 +1338,13 @@
 
 ### alignments:
  - [Augusta Bagiennorum amphitheater](https://pleiades.stoa.org/places/950560042)
+
+
+## Augustobriga (Q47005672)
+[https://www.wikidata.org/wiki/Q47005672](https://www.wikidata.org/wiki/Q47005672)  
+
+### alignments:
+ - [Augustobriga](https://pleiades.stoa.org/places/256001)
 
 
 ## Aunesis (Q65053244)
@@ -2460,6 +2474,13 @@
  - [Chassenon Roman amphitheater](https://pleiades.stoa.org/places/243292711)
 
 
+## Chauvet Cave (Q374096)
+[https://www.wikidata.org/wiki/Q374096](https://www.wikidata.org/wiki/Q374096)  
+
+### alignments:
+ - [Chauvet Cave](https://pleiades.stoa.org/places/165753155)
+
+
 ## Cheimerion (Q5089691)
 [https://www.wikidata.org/wiki/Q5089691](https://www.wikidata.org/wiki/Q5089691)  
 
@@ -2549,6 +2570,13 @@
 
 ### alignments:
  - [Kierion](https://pleiades.stoa.org/places/540867)
+
+
+## Ciota Ciara (Q20749309)
+[https://www.wikidata.org/wiki/Q20749309](https://www.wikidata.org/wiki/Q20749309)  
+
+### alignments:
+ - [Ciota Ciara](https://pleiades.stoa.org/places/596450512)
 
 
 ## Circus of Maxentius (Q1457351)
@@ -2803,6 +2831,20 @@
  - [Kyrros](https://pleiades.stoa.org/places/491647)
 
 
+## Cyzicus (Q615449)
+[https://www.wikidata.org/wiki/Q615449](https://www.wikidata.org/wiki/Q615449)  
+
+### alignments:
+ - [Cyzicus](https://pleiades.stoa.org/places/511218)
+
+
+## Cyzicus amphitheatre (Q29002438)
+[https://www.wikidata.org/wiki/Q29002438](https://www.wikidata.org/wiki/Q29002438)  
+
+### alignments:
+ - [Roman amphitheater at Cyzicus](https://pleiades.stoa.org/places/263157373)
+
+
 ## Dacia (Q173082) Balkan kingdom of the Dacians (168 BC-106 AD)
 [https://www.wikidata.org/wiki/Q173082](https://www.wikidata.org/wiki/Q173082)  
 
@@ -2990,6 +3032,13 @@
 
 ### alignments:
  - [Didymoi](https://pleiades.stoa.org/places/570196)
+
+
+## Dijon (Q7003)
+[https://www.wikidata.org/wiki/Q7003](https://www.wikidata.org/wiki/Q7003)  
+
+### alignments:
+ - [Castrum Divionense](https://pleiades.stoa.org/places/177489)
 
 
 ## Diodurum (Q16628911)
@@ -3651,6 +3700,13 @@
  - [Gergis](https://pleiades.stoa.org/places/550547)
 
 
+## Geridu Medieval village (Q130543779)
+[https://www.wikidata.org/wiki/Q130543779](https://www.wikidata.org/wiki/Q130543779)  
+
+### alignments:
+ - [Geridu](https://pleiades.stoa.org/places/364873309)
+
+
 ## Germa (Q1513790)
 [https://www.wikidata.org/wiki/Q1513790](https://www.wikidata.org/wiki/Q1513790)  
 
@@ -3684,6 +3740,13 @@
 
 ### alignments:
  - [Gitana](https://pleiades.stoa.org/places/530878)
+
+
+## Glanum Dam (Q605399)
+[https://www.wikidata.org/wiki/Q605399](https://www.wikidata.org/wiki/Q605399)  
+
+### alignments:
+ - [Glanum dam](https://pleiades.stoa.org/places/819897603)
 
 
 ## Glauke (Q65070118)
@@ -4330,6 +4393,13 @@
  - [Iklaina](https://pleiades.stoa.org/places/658873856)
 
 
+## Iluro (Q8346543)
+[https://www.wikidata.org/wiki/Q8346543](https://www.wikidata.org/wiki/Q8346543)  
+
+### alignments:
+ - [Iluro](https://pleiades.stoa.org/places/246436)
+
+
 ## Imbrasos (Q25123205)
 [https://www.wikidata.org/wiki/Q25123205](https://www.wikidata.org/wiki/Q25123205)  
 
@@ -4412,6 +4482,13 @@
 
 ### alignments:
  - [Ithome/Thamiai (Thessaly)](https://pleiades.stoa.org/places/540841)
+
+
+## Iulia Campestris Babba (Q16849065)
+[https://www.wikidata.org/wiki/Q16849065](https://www.wikidata.org/wiki/Q16849065)  
+
+### alignments:
+ - [Babba/Col. Iulia Campestris Babba/Castrabariensis](https://pleiades.stoa.org/places/278602)
 
 
 ## Iulia Constantia Zilil (Q6095436)
@@ -4664,6 +4741,13 @@
 
 ### alignments:
  - [Kaymakçı](https://pleiades.stoa.org/places/886756147)
+
+
+## Kedesh (Q2585161)
+[https://www.wikidata.org/wiki/Q2585161](https://www.wikidata.org/wiki/Q2585161)  
+
+### alignments:
+ - [Kadasa](https://pleiades.stoa.org/places/678215)
 
 
 ## Kef Castle (Q15823298)
@@ -5142,6 +5226,13 @@
 
 ### alignments:
  - [Leibethra](https://pleiades.stoa.org/places/491650)
+
+
+## Leimon (Q85776223)
+[https://www.wikidata.org/wiki/Q85776223](https://www.wikidata.org/wiki/Q85776223)  
+
+### alignments:
+ - [Leimon](https://pleiades.stoa.org/places/599758)
 
 
 ## Lemnos (Q192483)
@@ -5639,6 +5730,13 @@
 
 ### alignments:
  - [Mellissurgin](https://pleiades.stoa.org/places/491661)
+
+
+## Mende (Q3305786)
+[https://www.wikidata.org/wiki/Q3305786](https://www.wikidata.org/wiki/Q3305786)  
+
+### alignments:
+ - [Mende](https://pleiades.stoa.org/places/501515)
 
 
 ## Meninx (Q3306003)
@@ -6299,6 +6397,13 @@
  - [Oberaden](https://pleiades.stoa.org/places/109229)
 
 
+## Oberscheidental (Q104659406)
+[https://www.wikidata.org/wiki/Q104659406](https://www.wikidata.org/wiki/Q104659406)  
+
+### alignments:
+ - [Oberscheidental](https://pleiades.stoa.org/places/118890)
+
+
 ## Ochi Mountains (Q734559)
 [https://www.wikidata.org/wiki/Q734559](https://www.wikidata.org/wiki/Q734559)  
 
@@ -6374,6 +6479,13 @@
 
 ### alignments:
  - [Old Kandahar citadel](https://pleiades.stoa.org/places/630721027)
+
+
+## Olisipo (Q3781561)
+[https://www.wikidata.org/wiki/Q3781561](https://www.wikidata.org/wiki/Q3781561)  
+
+### alignments:
+ - [Olisipo](https://pleiades.stoa.org/places/256338)
 
 
 ## Olmones (Q12872591)
@@ -7011,6 +7123,13 @@
 
 ### alignments:
  - [Montefí Talayotic settlement](https://pleiades.stoa.org/places/367256898)
+
+
+## Poemanenum (Q65043966)
+[https://www.wikidata.org/wiki/Q65043966](https://www.wikidata.org/wiki/Q65043966)  
+
+### alignments:
+ - [Poimanenon](https://pleiades.stoa.org/places/511368)
 
 
 ## Poggio Colla (Q7207585)
@@ -25567,6 +25686,13 @@
  - [Roman Bath House, Castleford](https://pleiades.stoa.org/places/337037056)
 
 
+## Roman baths (Q16764127)
+[https://www.wikidata.org/wiki/Q16764127](https://www.wikidata.org/wiki/Q16764127)  
+
+### alignments:
+ - [Gallo-Roman Settlement at Mamer](https://pleiades.stoa.org/places/109135)
+
+
 ## Roman Bridge (Q2179571)
 [https://www.wikidata.org/wiki/Q2179571](https://www.wikidata.org/wiki/Q2179571)  
 
@@ -26843,11 +26969,32 @@
  - [Tanagra](https://pleiades.stoa.org/places/580114)
 
 
+## Tara (Q1316775)
+[https://it.wikipedia.org/wiki/Tara_(fiume)](https://it.wikipedia.org/wiki/Tara_(fiume))  
+
+### alignments:
+ - [Taras (river)](https://pleiades.stoa.org/places/442811)
+
+
+## Taras (Q3981082)
+[https://www.wikidata.org/wiki/Q3981082](https://www.wikidata.org/wiki/Q3981082)  
+
+### alignments:
+ - [Taras/Tarentum/Neptunia](https://pleiades.stoa.org/places/442810)
+
+
 ## Tarbisu (Q3818869)
 [https://www.wikidata.org/wiki/Q3818869](https://www.wikidata.org/wiki/Q3818869)  
 
 ### alignments:
  - [Tarbiṣu](https://pleiades.stoa.org/places/30774368)
+
+
+## Tasaccora (Q2394839)
+[https://www.wikidata.org/wiki/Q2394839](https://www.wikidata.org/wiki/Q2394839)  
+
+### alignments:
+ - [Tasaccora](https://pleiades.stoa.org/places/285529)
 
 
 ## Tauriana (Q1239561)
@@ -27151,6 +27298,13 @@
  - [Temple of Montu (El-Tod)](https://pleiades.stoa.org/places/542461377)
 
 
+## Temple of Poseidon (Q476876)
+[https://www.wikidata.org/wiki/Q476876](https://www.wikidata.org/wiki/Q476876)  
+
+### alignments:
+ - [Greek Temple at Taras](https://pleiades.stoa.org/places/5043153)
+
+
 ## Temple of Rome and Augustus (Q2145005)
 [https://www.wikidata.org/wiki/Q2145005](https://www.wikidata.org/wiki/Q2145005)  
 
@@ -27212,6 +27366,13 @@
 
 ### alignments:
  - [Teos](https://pleiades.stoa.org/places/550913)
+
+
+## Terkakom (Q109444364)
+[https://www.wikidata.org/wiki/Q109444364](https://www.wikidata.org/wiki/Q109444364)  
+
+### alignments:
+ - [Tertakom](https://pleiades.stoa.org/places/246689)
 
 
 ## Terme Achilliane (Q3984379)

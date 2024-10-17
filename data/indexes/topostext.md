@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3524 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+3525 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -19023,6 +19023,13 @@
 
 ### alignments:
  - [Poikilasion](https://pleiades.stoa.org/places/589999)
+
+
+## Poimanenon (Mysia)
+[https://topostext.org/place/401277UPom](https://topostext.org/place/401277UPom)  
+
+### alignments:
+ - [Poimanenon](https://pleiades.stoa.org/places/511368)
 
 
 ## Pola (Adriatic)

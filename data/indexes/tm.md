@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3761 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+3765 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -805,6 +805,13 @@
 
 ### alignments:
  - [Trimithis](https://pleiades.stoa.org/places/776235)
+
+
+## Geo 2745: Oropos (Skala)
+[https://www.trismegistos.org/place/2745](https://www.trismegistos.org/place/2745)  
+
+### alignments:
+ - [Oropos](https://pleiades.stoa.org/places/580044)
 
 
 ## Geo 2746: Thespiai
@@ -3040,7 +3047,7 @@
  - [Oldenoi](https://pleiades.stoa.org/places/501534)
 
 
-## GEO ID 1208
+## GEO ID 1208: Kyzikos (Belkiz Kale)
 [http://www.trismegistos.org/place/1208](http://www.trismegistos.org/place/1208)  
 
 ### alignments:
@@ -9986,6 +9993,13 @@
  - [Viromandis](https://pleiades.stoa.org/places/109436)
 
 
+## GEO ID 25384: Divio (Dijon)
+[https://www.trismegistos.org/place/25384](https://www.trismegistos.org/place/25384)  
+
+### alignments:
+ - [Castrum Divionense](https://pleiades.stoa.org/places/177489)
+
+
 ## GEO ID 253: Apollonias
 [http://www.trismegistos.org/place/253](http://www.trismegistos.org/place/253)  
 
@@ -15243,6 +15257,13 @@
 
 ### alignments:
  - [Hadrianoutherai](https://pleiades.stoa.org/places/550560)
+
+
+## GEO ID 34556: Poimanenon (Alexa)
+[https://www.trismegistos.org/place/34556](https://www.trismegistos.org/place/34556)  
+
+### alignments:
+ - [Poimanenon](https://pleiades.stoa.org/places/511368)
 
 
 ## GEO ID 34563: Zeleia (Sarıköy)
@@ -24545,6 +24566,13 @@
 
 ### alignments:
  - [Triopion](https://pleiades.stoa.org/places/599988)
+
+
+## GEO ID 60920: Leimon (Kızılkaya)
+[https://www.trismegistos.org/place/60920](https://www.trismegistos.org/place/60920)  
+
+### alignments:
+ - [Leimon](https://pleiades.stoa.org/places/599758)
 
 
 ## GEO ID 60921: Krya (Taşyaka)

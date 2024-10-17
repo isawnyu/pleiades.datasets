@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-484 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+485 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1906,6 +1906,13 @@
 
 ### alignments:
  - [Heraclea ad Latmum/Pleistarcheia](https://pleiades.stoa.org/places/599640)
+
+
+## 5.10.8
+[http://www.perseus.tufts.edu/hopper/text?doc=Paus.%205.10.8&lang=original](http://www.perseus.tufts.edu/hopper/text?doc=Paus.%205.10.8&lang=original)  
+
+### alignments:
+ - [Mende](https://pleiades.stoa.org/places/501515)
 
 
 ## 5.12.6

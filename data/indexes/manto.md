@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-558 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+560 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1504,6 +1504,20 @@
 
 ### alignments:
  - [Hyettos](https://pleiades.stoa.org/places/540823)
+
+
+## 10272457: River Taras
+[https://resource.manto.unh.edu/10272457](https://resource.manto.unh.edu/10272457)  
+
+### alignments:
+ - [Taras (river)](https://pleiades.stoa.org/places/442811)
+
+
+## 10272458: Taras
+[https://resource.manto.unh.edu/10272458](https://resource.manto.unh.edu/10272458)  
+
+### alignments:
+ - [Taras/Tarentum/Neptunia](https://pleiades.stoa.org/places/442810)
 
 
 ## 10272601: Pessinous (Phrygia)

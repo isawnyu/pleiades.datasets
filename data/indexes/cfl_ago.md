@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-368 alignments exist in _Pleiades_ place references as of 2024-10-16. The following list of alignments is grouped by zotkey.
+369 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1338,6 +1338,13 @@
 
 ### alignments:
  - [Paos](https://pleiades.stoa.org/places/570558)
+
+
+## Toponym 9374: Oropos
+[https://chronique.efa.gr/?kroute=topo_public&id=9374](https://chronique.efa.gr/?kroute=topo_public&id=9374)  
+
+### alignments:
+ - [Oropos](https://pleiades.stoa.org/places/580044)
 
 
 ## Toponym 9894: Poros
