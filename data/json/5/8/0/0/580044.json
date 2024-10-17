@@ -4,13 +4,19 @@
         23.786933,
         38.319441,
         23.793064,
-        38.319486
+        38.3210167
     ],
     "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/540628"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
         {
             "homepage": null,
             "name": "Brady Kiesling",
@@ -62,16 +68,34 @@
             "username": "ghawes"
         }
     ],
-    "created": "2024-02-29T00:34:09Z",
+    "created": "2024-10-15T19:32:18Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "Oropos was an ancient settlement and port located on the border between Boeotia and Attica, and was source of ongoing disputes in antiquity. Colonists from Eretria founded Oropos.",
+    "description": "Oropos was an ancient settlement and port located on the border between Boeotia and Attica; the bulk of its Hellenistic - Roman remains are thought to underlie the modern village of Skala Oropou. Oropos was source of ongoing disputes in antiquity. Colonists from Eretria founded Oropos.",
     "details": "<p>The Barrington Atlas Directory notes: near Skala Oropou</p>",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    23.7906151,
+                    38.3210167
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-skala-oropou",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580044/osm-location-skala-oropou",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: Skala Oropou"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -110,6 +134,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "fixed New Pauly link that Brill broke when they migrated reference work servers in summer 2024; cleaned up references; added CFL/AGO reference provided by cbouras; added iDAI.gazetteer and Trismegistos references provided by @bkiesling; added nomisma reference via Trismegistos; summary; added Associated Modern Location and Name. @thomase",
+            "modified": "2024-10-17T00:23:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "add AIO findspot & New Pauly ref; update references; add MANTO; update references",
             "modified": "2024-02-29T01:16:58Z",
@@ -203,6 +232,100 @@
     ],
     "id": "580044",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-10-15T19:40:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    23.7906151,
+                    38.3210167
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-17T00:23:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-15T19:45:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-15T19:41:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-10-15T19:40:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-15T19:40:48Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-skala-oropou",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 1856711754, version 12, osm:changeset=150054223, 2024-04-15T18:56:01Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1856711754",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1856711754",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1856711754",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: Skala Oropou",
+            "uri": "https://pleiades.stoa.org/places/580044/osm-location-skala-oropou"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
@@ -455,6 +578,95 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Σκάλα Ωρωπού",
+            "contributors": [],
+            "created": "2024-10-15T19:44:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-17T00:24:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-15T19:45:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-15T19:44:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-15T19:44:35Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "skala-oropou",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/1856711754",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Skala Oropou (1856711754)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 910 see \"Oropos\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Skala Oropou",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/580044/skala-oropou"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "archaic",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 },
@@ -577,11 +789,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 C1 Oropos",
     "references": [
@@ -621,10 +835,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Oropos",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Oropos",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Oropos.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -698,10 +912,10 @@
         {
             "accessURI": "https://topostext.org/place/383238POro",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Oropos (Attica)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
@@ -751,10 +965,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://referenceworks.brillonline.com/entries/brill-s-new-pauly/oropus-e901210",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e901210",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
-            "citationDetail": "Oropus",
+            "citationDetail": "Oropus (H. Lohmann)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
@@ -793,11 +1007,55 @@
             "otherIdentifier": "",
             "shortTitle": "Hansen 2004",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=topo_public&id=9374",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponym 9374: Oropos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2362186",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2362186: Oropos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/2745",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 2745: Oropos (Skala)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://nomisma.org/id/oropus",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "citationDetail": "Oropus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Nomisma.org. “Nomisma.Org.” Accessed July 15, 2023. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "nomisma.org",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.789998500000003,
-        38.3194635
+        23.790204033333335,
+        38.31998123333333
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
