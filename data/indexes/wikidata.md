@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4088 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
+4102 alignments exist in _Pleiades_ place references as of 2024-10-18. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -1844,6 +1844,13 @@
  - [Brampton Old Church](https://pleiades.stoa.org/places/337405873)
 
 
+## Brancaleone Fortress (Q3939380)
+[https://www.wikidata.org/wiki/Q3939380](https://www.wikidata.org/wiki/Q3939380)  
+
+### alignments:
+ - [Rocca Brancaleone](https://pleiades.stoa.org/places/135828743)
+
+
 ## Brauroneion (Q902329)
 [https://www.wikidata.org/wiki/Q902329](https://www.wikidata.org/wiki/Q902329)  
 
@@ -2796,6 +2803,13 @@
  - [Roman amphitheater at Cumae](https://pleiades.stoa.org/places/471357300)
 
 
+## Cures (Q2246183)
+[https://www.wikidata.org/wiki/Q2246183](https://www.wikidata.org/wiki/Q2246183)  
+
+### alignments:
+ - [Cures](https://pleiades.stoa.org/places/413114)
+
+
 ## Cutina (Q11916329)
 [https://www.wikidata.org/wiki/Q11916329](https://www.wikidata.org/wiki/Q11916329)  
 
@@ -3266,6 +3280,13 @@
  - [el-Lahun](https://pleiades.stoa.org/places/736953)
 
 
+## El-Tor (Q867603)
+[https://www.wikidata.org/wiki/Q867603](https://www.wikidata.org/wiki/Q867603)  
+
+### alignments:
+ - [Rhaithou](https://pleiades.stoa.org/places/746806)
+
+
 ## Elateia (Q1235347)
 [https://www.wikidata.org/wiki/Q1235347](https://www.wikidata.org/wiki/Q1235347)  
 
@@ -3670,6 +3691,13 @@
 
 ### alignments:
  - [Kaudos (island)](https://pleiades.stoa.org/places/589858)
+
+
+## Gediz River (Q1351474)
+[https://www.wikidata.org/wiki/Q1351474](https://www.wikidata.org/wiki/Q1351474)  
+
+### alignments:
+ - [Hermus (river)](https://pleiades.stoa.org/places/550575)
 
 
 ## Genesium (Q16571062)
@@ -4524,6 +4552,13 @@
 
 ### alignments:
  - [Ianus Augustus](https://pleiades.stoa.org/places/143866644)
+
+
+## Jaunay-Clan (Q1436738)
+[https://www.wikidata.org/wiki/Q1436738](https://www.wikidata.org/wiki/Q1436738)  
+
+### alignments:
+ - [Jaunay-Clan](https://pleiades.stoa.org/places/138402)
 
 
 ## Jazīrat as Sīnīyah (Q11949839)
@@ -5921,6 +5956,13 @@
  - [Mochadion](https://pleiades.stoa.org/places/521086)
 
 
+## Monastery of Saint Pishoy (Q3320206)
+[https://www.wikidata.org/wiki/Q3320206](https://www.wikidata.org/wiki/Q3320206)  
+
+### alignments:
+ - [Deir Amba Bishoi](https://pleiades.stoa.org/places/727107)
+
+
 ## Monastery of St. Elian (Q20858492)
 [https://www.wikidata.org/wiki/Q20858492](https://www.wikidata.org/wiki/Q20858492)  
 
@@ -6600,6 +6642,13 @@
  - [Ossonoba](https://pleiades.stoa.org/places/256345)
 
 
+## Pactya (Q7123145)
+[https://www.wikidata.org/wiki/Q7123145](https://www.wikidata.org/wiki/Q7123145)  
+
+### alignments:
+ - [Paktye](https://pleiades.stoa.org/places/501546)
+
+
 ## Pagae (Q935675)
 [https://www.wikidata.org/wiki/Q935675](https://www.wikidata.org/wiki/Q935675)  
 
@@ -7004,6 +7053,13 @@
 
 ### alignments:
  - [Phlya](https://pleiades.stoa.org/places/580076)
+
+
+## Phoenix (Q97341098)
+[https://www.wikidata.org/wiki/Q97341098](https://www.wikidata.org/wiki/Q97341098)  
+
+### alignments:
+ - [Phoinix?](https://pleiades.stoa.org/places/589994)
 
 
 ## Phrearrhioi (Q13465004)
@@ -9829,6 +9885,13 @@
 
 ### alignments:
  - [Villa of the Mysteries](https://pleiades.stoa.org/places/396427768)
+
+
+## Q124354318
+[https://www.wikidata.org/wiki/Q124354318](https://www.wikidata.org/wiki/Q124354318)  
+
+### alignments:
+ - [Rhaithou](https://pleiades.stoa.org/places/746806)
 
 
 ## Q1246134: Via Flaminia minor
@@ -20113,6 +20176,13 @@
  - [Villa Fuente Álamo](https://pleiades.stoa.org/places/570101218)
 
 
+## Q4391777
+[https://www.wikidata.org/wiki/Q4391777](https://www.wikidata.org/wiki/Q4391777)  
+
+### alignments:
+ - [Ouxama Barka](https://pleiades.stoa.org/places/246546)
+
+
 ## Q4459073: Thmuis
 [https://www.wikidata.org/wiki/Q4459073](https://www.wikidata.org/wiki/Q4459073)  
 
@@ -25496,6 +25566,13 @@
  - [Castra Praetorii Mobeni](https://pleiades.stoa.org/places/697647)
 
 
+## Qasr Wurtij (Q104805811)
+[https://www.wikidata.org/wiki/Q104805811](https://www.wikidata.org/wiki/Q104805811)  
+
+### alignments:
+ - [Untitled](https://pleiades.stoa.org/places/375260)
+
+
 ## Qaşr al Maqdam (Q104884242)
 [https://www.wikidata.org/wiki/Q104884242](https://www.wikidata.org/wiki/Q104884242)  
 
@@ -26862,6 +26939,13 @@
  - [Sulloniacis](https://pleiades.stoa.org/places/79701)
 
 
+## Surami Pass (Q2458696)
+[https://www.wikidata.org/wiki/Q2458696](https://www.wikidata.org/wiki/Q2458696)  
+
+### alignments:
+ - [Surami Pass](https://pleiades.stoa.org/places/864481)
+
+
 ## Susa (Q180773)
 [https://www.wikidata.org/wiki/Q180773](https://www.wikidata.org/wiki/Q180773)  
 
@@ -28132,6 +28216,13 @@
  - [Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
 
 
+## Uarkas (Q109795661)
+[https://www.wikidata.org/wiki/Q109795661](https://www.wikidata.org/wiki/Q109795661)  
+
+### alignments:
+ - [Ouxama Barka](https://pleiades.stoa.org/places/246546)
+
+
 ## Ubii (Q664800)
 [https://www.wikidata.org/wiki/Q664800](https://www.wikidata.org/wiki/Q664800)  
 
@@ -28214,6 +28305,13 @@
 
 ### alignments:
  - [Quadrata](https://pleiades.stoa.org/places/383753)
+
+
+## Veroli (Q42466)
+[https://www.wikidata.org/wiki/Q42466](https://www.wikidata.org/wiki/Q42466)  
+
+### alignments:
+ - [Verulae](https://pleiades.stoa.org/places/433187)
 
 
 ## Vescera (Q737094)

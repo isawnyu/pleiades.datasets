@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3765 alignments exist in _Pleiades_ place references as of 2024-10-17. The following list of alignments is grouped by zotkey.
+3766 alignments exist in _Pleiades_ place references as of 2024-10-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20907,6 +20907,13 @@
 
 ### alignments:
  - [Alpes Numidicae](https://pleiades.stoa.org/places/305028)
+
+
+## GEO ID 42782: Uxama Barca (Osma de Vadegobía)
+[http://www.trismegistos.org/place/42782](http://www.trismegistos.org/place/42782)  
+
+### alignments:
+ - [Ouxama Barka](https://pleiades.stoa.org/places/246546)
 
 
 ## GEO ID 42784: Forum Brentani
