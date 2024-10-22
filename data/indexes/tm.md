@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3766 alignments exist in _Pleiades_ place references as of 2024-10-18. The following list of alignments is grouped by zotkey.
+3766 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1022,6 +1022,13 @@
 
 ### alignments:
  - [Kantanos](https://pleiades.stoa.org/places/589838)
+
+
+## Geo 33253: Elyros (Rodobani)
+[https://www.trismegistos.org/place/33253](https://www.trismegistos.org/place/33253)  
+
+### alignments:
+ - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
 ## Geo 33255: Lissos
@@ -14382,13 +14389,6 @@
 
 ### alignments:
  - [Kranaion Antron](https://pleiades.stoa.org/places/589881)
-
-
-## GEO ID 33253: Elyros (Rodobani)
-[https://www.trismegistos.org/place/33253](https://www.trismegistos.org/place/33253)  
-
-### alignments:
- - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
 ## GEO ID 3325: Borbetomagus (Worms)

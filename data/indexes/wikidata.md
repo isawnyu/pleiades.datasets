@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4102 alignments exist in _Pleiades_ place references as of 2024-10-18. The following list of alignments is grouped by zotkey.
+4106 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
 [https://www.wikidata.org/wiki/Q3603238](https://www.wikidata.org/wiki/Q3603238)  
@@ -3420,6 +3420,13 @@
  - [Ergitium](https://pleiades.stoa.org/places/442578)
 
 
+## Eridu (Q210065)
+[https://www.wikidata.org/wiki/Q210065](https://www.wikidata.org/wiki/Q210065)  
+
+### alignments:
+ - [Eridu](https://pleiades.stoa.org/places/912845)
+
+
 ## Erymanthos (Q3555227)
 [https://www.wikidata.org/wiki/Q3555227](https://www.wikidata.org/wiki/Q3555227)  
 
@@ -6012,6 +6019,13 @@
  - [Monument of the Eponymous Heroes](https://pleiades.stoa.org/places/660025690)
 
 
+## Mopsuestia (Q555923)
+[https://www.wikidata.org/wiki/Q555923](https://www.wikidata.org/wiki/Q555923)  
+
+### alignments:
+ - [Mopsou(h)estia/Seleukeia pros to Pyramo](https://pleiades.stoa.org/places/658538)
+
+
 ## Mor Gabriel Monastery (Q1434981)
 [https://www.wikidata.org/wiki/Q1434981](https://www.wikidata.org/wiki/Q1434981)  
 
@@ -6220,6 +6234,13 @@
 
 ### alignments:
  - [Necropolis of Montessu](https://pleiades.stoa.org/places/991190962)
+
+
+## Necropolis of Ponte Messato (Q3874155)
+[https://www.wikidata.org/wiki/Q3874155](https://www.wikidata.org/wiki/Q3874155)  
+
+### alignments:
+ - [Necropolis of Ponte Messato](https://pleiades.stoa.org/places/151473899)
 
 
 ## Necropolis of Prato Rosello (Q3346872)
@@ -24089,13 +24110,6 @@
  - [Til-Bašerê](https://pleiades.stoa.org/places/404687440)
 
 
-## Q7681888: Tamuda
-[https://www.wikidata.org/wiki/Q7681888](https://www.wikidata.org/wiki/Q7681888)  
-
-### alignments:
- - [Tamuda](https://pleiades.stoa.org/places/275732)
-
-
 ## Q769555: Fossa Corbulonis
 [https://www.wikidata.org/wiki/Q769555](https://www.wikidata.org/wiki/Q769555)  
 
@@ -24115,13 +24129,6 @@
 
 ### alignments:
  - [Tell Umm Amer](https://pleiades.stoa.org/places/458345971)
-
-
-## Q7698713: sanctuary of Asclepius, Epidaurus
-[https://www.wikidata.org/wiki/Q7698713](https://www.wikidata.org/wiki/Q7698713)  
-
-### alignments:
- - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
 
 
 ## Q7698721: Temple of Derr
@@ -25570,7 +25577,7 @@
 [https://www.wikidata.org/wiki/Q104805811](https://www.wikidata.org/wiki/Q104805811)  
 
 ### alignments:
- - [Untitled](https://pleiades.stoa.org/places/375260)
+ - [Qasr Wurtij](https://pleiades.stoa.org/places/375260)
 
 
 ## Qaşr al Maqdam (Q104884242)
@@ -26216,6 +26223,13 @@
 
 ### alignments:
  - [Sanctuary of Aphrodite Paphia](https://pleiades.stoa.org/places/828989863)
+
+
+## Sanctuary of Asclepius, Epidaurus (Q7698713)
+[https://www.wikidata.org/wiki/Q7698713](https://www.wikidata.org/wiki/Q7698713)  
+
+### alignments:
+ - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
 
 
 ## Sanctuary of Asklepios, Balagrae (Q104776135)
@@ -27044,6 +27058,13 @@
 ### alignments:
  - [Tall Bāzy](https://pleiades.stoa.org/places/17634131)
  - [Tall Bāzy](https://pleiades.stoa.org/places/241871784)
+
+
+## Tamuda (Q7681888)
+[https://www.wikidata.org/wiki/Q7681888](https://www.wikidata.org/wiki/Q7681888)  
+
+### alignments:
+ - [Tamuda](https://pleiades.stoa.org/places/275732)
 
 
 ## Tanagra acropolis (Q56259452)
@@ -28153,7 +28174,7 @@
  - [Tsovak](https://pleiades.stoa.org/places/656796825)
 
 
-## TT34
+## TT34 (Q3512426)
 [https://www.wikidata.org/wiki/Q3512426](https://www.wikidata.org/wiki/Q3512426)  
 
 ### alignments:
@@ -28235,6 +28256,13 @@
 
 ### alignments:
  - [Umm el-Marra](https://pleiades.stoa.org/places/655074659)
+
+
+## Umma (Q740952)
+[https://www.wikidata.org/wiki/Q740952](https://www.wikidata.org/wiki/Q740952)  
+
+### alignments:
+ - [Umma](https://pleiades.stoa.org/places/44626252)
 
 
 ## Upper Lamptrai (Q2412389)
