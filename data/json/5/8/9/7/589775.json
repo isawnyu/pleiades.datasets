@@ -1,18 +1,14 @@
 {
     "@type": "Place",
     "bbox": [
-        23.794048,
-        35.283178,
-        23.794048,
-        35.283178
+        23.7945601,
+        35.2875151,
+        23.7945601,
+        35.2875151
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
-        {
-            "name": "DARMC",
-            "username": null
-        },
         {
             "homepage": null,
             "name": "Brady Kiesling",
@@ -20,14 +16,16 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Rosemary Selth",
+            "uri": "https://pleiades.stoa.org/author/rselth",
+            "username": "rselth"
         },
         {
             "homepage": null,
@@ -40,9 +38,29 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
+        },
+        {
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
         }
     ],
-    "created": "2018-06-08T00:20:54Z",
+    "created": "2024-10-17T15:56:40Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -53,29 +71,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 A2 Elyros",
+    "description": "An ancient polis in the mountainous Selino area of western Crete. Its site is located near modern Rodovani.",
     "details": "<p>The Barrington Atlas Directory notes: Rodovani</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    23.794048,
-                    35.283178
+                    23.7945601,
+                    35.2875151
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12333",
+            "id": "osm-location-ancient-elyros",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/589775/darmc-location-12333",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+                "link": "https://pleiades.stoa.org/places/589775/osm-location-ancient-elyros",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "DARMC location 12333"
+                "snippet": "Archaeological-site; 330 BC - AD 640",
+                "title": "OSM Location: Ancient Elyros"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC location 12333 = related",
+            "modified": "2024-10-18T14:02:47Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references; added Vagionakis 2020, New Pauly, iDAI.gazetteer, vici.org, and CFL/AGO references; added MANTO reference provided by MANTO team; added Wikidata and Trismegistos references provided by @bkiesling; summary; added associated modern Name; added historical ethnic name; added OSM location, which supersedes currently published locations @thomase",
+            "modified": "2024-10-18T14:01:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "nomisma",
             "modified": "2024-05-13T03:40:30Z",
@@ -136,9 +164,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -161,94 +189,248 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:08:23Z",
+            "contributors": [],
+            "created": "2024-10-17T17:49:42Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12333",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    23.794048,
-                    35.283178
+                    23.7945601,
+                    35.2875151
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:07Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:06:02Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2024-10-18T14:02:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:08:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-17T18:12:11Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:08:24Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2024-10-17T17:50:36Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-10-17T17:49:43Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:08:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-17T17:49:42Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-12333",
+            "id": "osm-location-ancient-elyros",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 12333",
+            "provenance": "OpenStreetMap (Node 8124493210, version 2, osm:changeset=140053832, 2023-08-18T11:38:47Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/8124493210",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12333",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 8124493210",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12333.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=8124493210",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -330,
-            "title": "DARMC location 12333",
-            "uri": "https://pleiades.stoa.org/places/589775/darmc-location-12333"
+            "title": "OSM Location: Ancient Elyros",
+            "uri": "https://pleiades.stoa.org/places/589775/osm-location-ancient-elyros"
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Ροδοβάνι",
+            "contributors": [],
+            "created": "2024-10-17T18:07:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-18T14:03:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-17T18:12:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-17T18:07:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-17T18:07:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "rodovani",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/305073805",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Rodovani (305073805)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 922 see \"Elyros\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Rodovani",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589775/rodovani"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-bce"
+                }
+            ],
+            "attested": "Ἐλύριοι",
+            "contributors": [],
+            "created": "2024-10-17T18:10:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -101,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-10-18T14:03:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-10-17T18:12:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2024-10-17T18:10:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-10-17T18:10:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "elyrioi",
+            "language": "grc",
+            "nameType": "ethnic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://iris.unive.it/handle/10579/17819",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3GB6ML49",
+                    "citationDetail": "page 14",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Vagionakis, Irene. “Kretikai politeiai : le istituzioni cretesi dal 7. al 1. secolo a.C.” Tesi di dottorato, Università Ca’ Foscari Venezia, 2020. https://iris.unive.it/handle/10579/17819.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Vagionakis 2020",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Elyrioi",
+            "start": -200,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589775/elyrioi"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -340,10 +522,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 A2 Elyros",
     "references": [
@@ -359,10 +543,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Elyros",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Elyros",
+            "citationDetail": "Elyros (L. Bürchner)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
@@ -372,24 +556,13 @@
         {
             "accessURI": "https://topostext.org/place/353238PEly",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
             "citationDetail": "Elyros (Chania)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
-        },
-        {
-            "accessURI": "https://www.trismegistos.org/place/33253",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
-            "citationDetail": "GEO ID 33253: Elyros (Rodobani)",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
-            "otherIdentifier": "",
-            "shortTitle": "TM",
-            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://nomisma.org/id/elyrus",
@@ -401,11 +574,110 @@
             "otherIdentifier": "",
             "shortTitle": "nomisma.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e329720",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Elyrus (H. Sonnabend)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10272472",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10272472: Elyros",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3561249",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Elyros (Q3561249)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/33253",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 33253: Elyros (Rodobani)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://iris.unive.it/handle/10579/17819",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3GB6ML49",
+            "citationDetail": "page 14 see \"Elyros\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Vagionakis, Irene. “Kretikai politeiai : le istituzioni cretesi dal 7. al 1. secolo a.C.” Tesi di dottorato, Università Ca’ Foscari Venezia, 2020. https://iris.unive.it/handle/10579/17819.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Vagionakis 2020",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?kroute=report&id=2801",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Report 2801: ELYROS - 2010 (D. Evely)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/23078/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "23078: Elyros [Crete]",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2361647",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2361647: Elyros",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>IDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12333",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.794048,
-        35.283178
+        23.7945601,
+        35.2875151
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

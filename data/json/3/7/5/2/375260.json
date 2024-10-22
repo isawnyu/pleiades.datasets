@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        22.1614,
-        32.5971,
-        22.1614,
-        32.5971
+        22.1571161,
+        32.5887806,
+        22.1573301,
+        32.5889777
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,36 +32,59 @@
             "username": "jbecker"
         }
     ],
-    "created": "2011-01-08T14:20:57Z",
+    "created": "2024-10-17T22:24:30Z",
     "creators": [
         {
             "name": "D.J. Mattingly",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 38 D1 no. 24 (Gasr Uertig)",
-    "details": "The Barrington Atlas Directory notes: Gasr Uertig",
+    "description": "Qasr Wurtij (also Gasr Uertig) is a fortified Roman site located in Cyrene.",
+    "details": "<p>The Barrington Atlas Directory notes: Gasr Uertig</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    22.1614,
-                    32.5971
+                    [
+                        22.1572355,
+                        32.5889777
+                    ],
+                    [
+                        22.1573301,
+                        32.5889202
+                    ],
+                    [
+                        22.1572108,
+                        32.5887806
+                    ],
+                    [
+                        22.1571161,
+                        32.588838
+                    ],
+                    [
+                        22.1572355,
+                        32.5889777
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-uuo1o-c-uo-oauo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/375260/batlas-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/375260/osm-location-of-uuo1o-c-uo-oauo",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "Barrington Atlas map location"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of قلعة ورتنج"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add summary, change place type to fort, remove BAtlas title of untitled and changed title by @jbecker",
+            "modified": "2024-10-18T14:43:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-10-17T22:22:50Z",
@@ -102,108 +125,123 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-01-08T14:20:57Z",
+            "contributors": [],
+            "created": "2024-10-17T22:20:07Z",
             "creators": [
                 {
-                    "name": "D.J. Mattingly",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    22.1614,
-                    32.5971
+                    [
+                        22.1572355,
+                        32.5889777
+                    ],
+                    [
+                        22.1573301,
+                        32.5889202
+                    ],
+                    [
+                        22.1572108,
+                        32.5887806
+                    ],
+                    [
+                        22.1571161,
+                        32.588838
+                    ],
+                    [
+                        22.1572355,
+                        32.5889777
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:31:08Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Update locations from map38-update.csv",
-                    "modified": "2011-01-10T07:03:09Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-08T14:38:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-18T14:44:09Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-08T14:36:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-17T22:20:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-10-17T22:20:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-10-17T22:20:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-08T14:20:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-17T22:20:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-uuo1o-c-uo-oauo",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "Barrington Atlas: BAtlas 38 D1 24",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1210506310, version 2, osm:changeset=158028296, 2024-10-17T22:19:14Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1210506310",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1210506310",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1210506310",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": 300,
-            "title": "Barrington Atlas map location",
-            "uri": "https://pleiades.stoa.org/places/375260/batlas-location"
+            "start": -30,
+            "title": "OSM location of قلعة ورتنج",
+            "uri": "https://pleiades.stoa.org/places/375260/osm-location-of-uuo1o-c-uo-oauo"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 38 D1 24",
     "references": [
@@ -264,8 +302,8 @@
         }
     ],
     "reprPoint": [
-        22.1614,
-        32.5971
+        22.157223110263967,
+        32.58887912789368
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -274,7 +312,7 @@
         "dare:ancient=0",
         "dare:feature=fort"
     ],
-    "title": "Untitled",
+    "title": "Qasr Wurtij",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/375260"
 }
