@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-369 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
+370 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -342,6 +342,13 @@
 
 ### alignments:
  - [Panormos (Crete) / Aulopotamos?](https://pleiades.stoa.org/places/589974)
+
+
+## Report 2801: ELYROS - 2010 (D. Evely)
+[https://chronique.efa.gr/?kroute=report&id=2801](https://chronique.efa.gr/?kroute=report&id=2801)  
+
+### alignments:
+ - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
 ## Report 3055: ANTIKYRA - 2004

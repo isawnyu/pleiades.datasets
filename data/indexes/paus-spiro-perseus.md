@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-485 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
+487 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -303,6 +303,13 @@
 
 ### alignments:
  - [Phlya](https://pleiades.stoa.org/places/580076)
+
+
+## 1.34.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.34.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.34.2)  
+
+### alignments:
+ - [Harma](https://pleiades.stoa.org/places/540805)
 
 
 ## 1.34.2
@@ -2202,6 +2209,13 @@
 
 
 ## 6.22.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.22.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.22.7)  
+
+### alignments:
+ - [Herakleia](https://pleiades.stoa.org/places/570290)
+
+
+## 6.22.7
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.22.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.22.7)  
 
 ### alignments:
@@ -2937,6 +2951,7 @@
 
 ### alignments:
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
+ - [Kromnos](https://pleiades.stoa.org/places/570388)
  - [Peraithea](https://pleiades.stoa.org/places/570583)
 
 
@@ -3387,6 +3402,7 @@
 
 ### alignments:
  - [Demeter Mykalessia](https://pleiades.stoa.org/places/543678)
+ - [Harma](https://pleiades.stoa.org/places/540805)
 
 
 ## 9.23.6

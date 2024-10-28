@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3525 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
+3537 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2154,6 +2154,13 @@
  - [Aperlae](https://pleiades.stoa.org/places/638752)
 
 
+## Aperopia (Attica)
+[https://topostext.org/place/373233IApe](https://topostext.org/place/373233IApe)  
+
+### alignments:
+ - [Aperopia (island)](https://pleiades.stoa.org/places/570089)
+
+
 ## Aphaia T. (Aegina)
 [https://topostext.org/place/378235SAph](https://topostext.org/place/378235SAph)  
 
@@ -2747,6 +2754,13 @@
 
 ### alignments:
  - [Aratispi](https://pleiades.stoa.org/places/265801)
+
+
+## Arausio Col. (Gallia)
+[https://topostext.org/place/441048UCol](https://topostext.org/place/441048UCol)  
+
+### alignments:
+ - [Col. Arausio](https://pleiades.stoa.org/places/148054)
 
 
 ## Araxa (Caria)
@@ -3448,6 +3462,13 @@
 
 ### alignments:
  - [Asso](https://pleiades.stoa.org/places/265807)
+
+
+## Assorus (Sicily)
+[https://topostext.org/place/376144UAss](https://topostext.org/place/376144UAss)  
+
+### alignments:
+ - [Assorus](https://pleiades.stoa.org/places/462106)
 
 
 ## Assos (Troad)
@@ -9796,6 +9817,13 @@
  - [Hybla Heraia](https://pleiades.stoa.org/places/462252)
 
 
+## Hydai (Caria)
+[https://topostext.org/place/373277UHyd](https://topostext.org/place/373277UHyd)  
+
+### alignments:
+ - [*Hydai/*Kydai](https://pleiades.stoa.org/places/599651)
+
+
 ## Hydata Hypsitana (Sardinia)
 [https://topostext.org/place/400088BHyH](https://topostext.org/place/400088BHyH)  
 
@@ -9892,6 +9920,13 @@
 
 ### alignments:
  - [Hyperasia](https://pleiades.stoa.org/places/573256)
+
+
+## Hypnia? (Lokris)
+[https://topostext.org/place/385224PHyp](https://topostext.org/place/385224PHyp)  
+
+### alignments:
+ - [Hypnia?](https://pleiades.stoa.org/places/540828)
 
 
 ## Hyria (Euboea)
@@ -10011,6 +10046,13 @@
 
 ### alignments:
  - [Ide](https://pleiades.stoa.org/places/501436)
+
+
+## Idebessos (Lycia)
+[https://topostext.org/place/366302UIde](https://topostext.org/place/366302UIde)  
+
+### alignments:
+ - [Idebessos](https://pleiades.stoa.org/places/638865)
 
 
 ## Idumaea (Palestine)
@@ -12438,6 +12480,13 @@
  - [Lacus Curtius](https://pleiades.stoa.org/places/459049147)
 
 
+## Ladon or Selleis river? (Eleia)
+[https://topostext.org/place/378214WSel](https://topostext.org/place/378214WSel)  
+
+### alignments:
+ - [Ladon/Selleis (river)](https://pleiades.stoa.org/places/570409)
+
+
 ## Laertes (Caria)
 [https://topostext.org/place/365322ULae](https://topostext.org/place/365322ULae)  
 
@@ -14148,7 +14197,6 @@
 [https://topostext.org/place/419125GHad](https://topostext.org/place/419125GHad)  
 
 ### alignments:
- - [Castel Sant'Angelo](https://pleiades.stoa.org/places/919243561)
  - [Mausoleum Hadriani](https://pleiades.stoa.org/places/334776904)
 
 
@@ -16141,6 +16189,13 @@
 
 ### alignments:
  - [Oisyme](https://pleiades.stoa.org/places/501533)
+
+
+## Oita Mt. (Phthiotis)
+[https://topostext.org/place/388223LOit](https://topostext.org/place/388223LOit)  
+
+### alignments:
+ - [Oeta M.](https://pleiades.stoa.org/places/540968)
 
 
 ## Oitylos (Lakonia)
@@ -19825,6 +19880,13 @@
  - [Nestor's Palace](https://pleiades.stoa.org/places/156116232)
 
 
+## Pyramos river (Cilicia)
+[https://topostext.org/place/370356WPyr](https://topostext.org/place/370356WPyr)  
+
+### alignments:
+ - [Pyramos (river)](https://pleiades.stoa.org/places/658576)
+
+
 ## Pyrasos (Magnesia)
 [https://topostext.org/place/393228PPyr](https://topostext.org/place/393228PPyr)  
 
@@ -22992,6 +23054,13 @@
  - [Tholos of Athens](https://pleiades.stoa.org/places/91288718)
 
 
+## Tholos (Epidauros Asklepieion)
+[https://topostext.org/place/376231BTho](https://topostext.org/place/376231BTho)  
+
+### alignments:
+ - [Tholos at the Sanctuary of Asklepios, Epidauros](https://pleiades.stoa.org/places/995644788)
+
+
 ## Thonis (Egypt)
 [https://topostext.org/place/313300UTho](https://topostext.org/place/313300UTho)  
 
@@ -23137,6 +23206,13 @@
 
 ### alignments:
  - [Thyraion](https://pleiades.stoa.org/places/570735)
+
+
+## Thyrea? (Arkadia) 78 Kastraki Meligou - Θυρέαι
+[https://topostext.org/place/374227PThy](https://topostext.org/place/374227PThy)  
+
+### alignments:
+ - [Thyrea(tis)](https://pleiades.stoa.org/places/570736)
 
 
 ## Thyrides cape (Lakonia)
@@ -23492,6 +23568,13 @@
 
 ### alignments:
  - [Tragurium](https://pleiades.stoa.org/places/197555)
+
+
+## Traianoupolis (Evros)
+[https://topostext.org/place/409260UTra](https://topostext.org/place/409260UTra)  
+
+### alignments:
+ - [Traianoupolis](https://pleiades.stoa.org/places/501649)
 
 
 ## Trajan's Column (Rome)

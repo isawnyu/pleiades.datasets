@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3766 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
+3788 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1752,6 +1752,13 @@
  - [Pydna](https://pleiades.stoa.org/places/491703)
 
 
+## Geo 42373: Olba (Ura)
+[https://www.trismegistos.org/place/42373](https://www.trismegistos.org/place/42373)  
+
+### alignments:
+ - [Olba](https://pleiades.stoa.org/places/648725)
+
+
 ## Geo 42519: Hadriaticum Mare
 [https://www.trismegistos.org/place/42519](https://www.trismegistos.org/place/42519)  
 
@@ -1960,6 +1967,13 @@
 
 ### alignments:
  - [Al-Sabaa wa Arbain](https://pleiades.stoa.org/places/528477900)
+
+
+## Geo 55354: Hypnia
+[https://www.trismegistos.org/place/55354](https://www.trismegistos.org/place/55354)  
+
+### alignments:
+ - [Hypnia?](https://pleiades.stoa.org/places/540828)
 
 
 ## Geo 56034: Aisepos (Gönen Çay)
@@ -3019,6 +3033,13 @@
  - [Sebasteia/Megalopolis?/Talaura?](https://pleiades.stoa.org/places/629075)
 
 
+## GEO ID 12035: Anopolis
+[https://www.trismegistos.org/place/12035](https://www.trismegistos.org/place/12035)  
+
+### alignments:
+ - [Anopolis](https://pleiades.stoa.org/places/589694)
+
+
 ## GEO ID 12049: Apollonia (Nea Apollonia)
 [http://www.trismegistos.org/place/12049](http://www.trismegistos.org/place/12049)  
 
@@ -3138,7 +3159,7 @@
  - [Stobi](https://pleiades.stoa.org/places/491731)
 
 
-## GEO ID 12165
+## GEO ID 12165: Styberra (Prilep)
 [https://www.trismegistos.org/place/12165](https://www.trismegistos.org/place/12165)  
 
 ### alignments:
@@ -6115,7 +6136,7 @@
  - [Aizanoi](https://pleiades.stoa.org/places/609292)
 
 
-## GEO ID 16123
+## GEO ID 16123: Metropolis (Alpaslan)
 [https://www.trismegistos.org/place/16123](https://www.trismegistos.org/place/16123)  
 
 ### alignments:
@@ -6169,6 +6190,13 @@
 
 ### alignments:
  - [Amorion](https://pleiades.stoa.org/places/609302)
+
+
+## GEO ID 16152: Priapos (Karabiğa)
+[https://www.trismegistos.org/place/16152](https://www.trismegistos.org/place/16152)  
+
+### alignments:
+ - [Priapus](https://pleiades.stoa.org/places/511375)
 
 
 ## GEO ID 16157: Nakoleia (Seyitgazi)
@@ -8047,6 +8075,13 @@
  - [Caurium](https://pleiades.stoa.org/places/256087)
 
 
+## GEO ID 19888: Arausio (Orange)
+[http://www.trismegistos.org/place/19888](http://www.trismegistos.org/place/19888)  
+
+### alignments:
+ - [Col. Arausio](https://pleiades.stoa.org/places/148054)
+
+
 ## GEO ID 19892: Celeia (Celje)
 [http://www.trismegistos.org/place/19892](http://www.trismegistos.org/place/19892)  
 
@@ -8836,6 +8871,13 @@
 
 ### alignments:
  - [Bosa](https://pleiades.stoa.org/places/471895)
+
+
+## GEO ID 22106: Aquae Hypsitanae (Caddas)
+[https://www.trismegistos.org/place/22106](https://www.trismegistos.org/place/22106)  
+
+### alignments:
+ - [Hydata Hypsitana/Forum Traiani](https://pleiades.stoa.org/places/471947)
 
 
 ## GEO ID 2210: Syrakousai (Siracusa)
@@ -10180,6 +10222,13 @@
 
 ### alignments:
  - [Ategua](https://pleiades.stoa.org/places/265808)
+
+
+## GEO ID 26037
+[http://www.trismegistos.org/place/26037](http://www.trismegistos.org/place/26037)  
+
+### alignments:
+ - [Iliturgicola](https://pleiades.stoa.org/places/265925)
 
 
 ## GEO ID 26045: Ulia Fidentia (Montemayor)
@@ -13264,7 +13313,7 @@
  - [Atina](https://pleiades.stoa.org/places/432708)
 
 
-## GEO ID 3238
+## GEO ID 3238: Luxovium (Luxeuil)
 [https://www.trismegistos.org/place/3238](https://www.trismegistos.org/place/3238)  
 
 ### alignments:
@@ -15098,6 +15147,13 @@
  - [Gerga/Leukai Stelai?](https://pleiades.stoa.org/places/599625)
 
 
+## GEO ID 34204: Hydai
+[https://www.trismegistos.org/place/34204](https://www.trismegistos.org/place/34204)  
+
+### alignments:
+ - [*Hydai/*Kydai](https://pleiades.stoa.org/places/599651)
+
+
 ## GEO ID 34205: Hyllarima (Çayboyu)
 [https://www.trismegistos.org/place/34205](https://www.trismegistos.org/place/34205)  
 
@@ -15154,6 +15210,13 @@
  - [Germia/Myriangeloi](https://pleiades.stoa.org/places/609388)
 
 
+## GEO ID 34306: Metropolis
+[https://www.trismegistos.org/place/34306](https://www.trismegistos.org/place/34306)  
+
+### alignments:
+ - [Metropolis](https://pleiades.stoa.org/places/550741)
+
+
 ## GEO ID 34311: Panionion
 [https://www.trismegistos.org/place/34311](https://www.trismegistos.org/place/34311)  
 
@@ -15187,6 +15250,13 @@
 
 ### alignments:
  - [Boubon](https://pleiades.stoa.org/places/638792)
+
+
+## GEO ID 34356: Edebessos (Kozağacı)
+[https://www.trismegistos.org/place/34356](https://www.trismegistos.org/place/34356)  
+
+### alignments:
+ - [Idebessos](https://pleiades.stoa.org/places/638865)
 
 
 ## GEO ID 34383: Milyas
@@ -15544,6 +15614,13 @@
 
 ### alignments:
  - [*Sioua](https://pleiades.stoa.org/places/776223)
+
+
+## GEO ID 3562: Persian Gulf
+[http://www.trismegistos.org/place/3562](http://www.trismegistos.org/place/3562)  
+
+### alignments:
+ - [Persicus Sinus/Erythr(ae)um Mare](https://pleiades.stoa.org/places/29713)
 
 
 ## GEO ID 3570: Bosra
@@ -16652,6 +16729,13 @@
  - [Bolbitinon Stoma](https://pleiades.stoa.org/places/727086)
 
 
+## GEO ID 38413: Traianopolis (Loutra)
+[http://www.trismegistos.org/place/38413](http://www.trismegistos.org/place/38413)  
+
+### alignments:
+ - [Traianoupolis](https://pleiades.stoa.org/places/501649)
+
+
 ## GEO ID 38435: Kaulonia (Monasterace)
 [http://www.trismegistos.org/place/38435](http://www.trismegistos.org/place/38435)  
 
@@ -16868,6 +16952,13 @@
 
 ### alignments:
  - [Nilus (river)](https://pleiades.stoa.org/places/727172)
+
+
+## GEO ID 395: Bambyke (Manbij)
+[http://www.trismegistos.org/place/395](http://www.trismegistos.org/place/395)  
+
+### alignments:
+ - [Hierapolis/Bambyke](https://pleiades.stoa.org/places/658480)
 
 
 ## GEO ID 3962: Goudda (Jeddah)
@@ -18786,6 +18877,13 @@
 
 ### alignments:
  - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
+
+
+## GEO ID 41602
+[http://www.trismegistos.org/place/41602](http://www.trismegistos.org/place/41602)  
+
+### alignments:
+ - [Aquitanicus Sinus](https://pleiades.stoa.org/places/138188)
 
 
 ## GEO ID 41603: Bituriges Vivisci
@@ -24295,11 +24393,25 @@
  - [Euhippe](https://pleiades.stoa.org/places/599614)
 
 
+## GEO ID 58967: Syangela (Kaplan Dağ)
+[https://www.trismegistos.org/place/58967](https://www.trismegistos.org/place/58967)  
+
+### alignments:
+ - [Syangela](https://pleiades.stoa.org/places/599948)
+
+
 ## GEO ID 59006: Kanopikos Kolpos
 [https://www.trismegistos.org/place/59006](https://www.trismegistos.org/place/59006)  
 
 ### alignments:
  - [Kanopikos Kolpos](https://pleiades.stoa.org/places/727140)
+
+
+## GEO ID 59008: Deir Amba Baramos
+[https://www.trismegistos.org/place/59008](https://www.trismegistos.org/place/59008)  
+
+### alignments:
+ - [Deir Amba Baramos](https://pleiades.stoa.org/places/727106)
 
 
 ## GEO ID 59291: Kalanthia (Eski Erdemli)
@@ -24617,6 +24729,13 @@
  - [Arginous(s)ai Inss.](https://pleiades.stoa.org/places/550449)
 
 
+## GEO ID 60962: Karene (Assar Kaya)
+[https://www.trismegistos.org/place/60962](https://www.trismegistos.org/place/60962)  
+
+### alignments:
+ - [Karene?](https://pleiades.stoa.org/places/550621)
+
+
 ## GEO ID 60964: Trarion (Assarkaya)
 [https://www.trismegistos.org/place/60964](https://www.trismegistos.org/place/60964)  
 
@@ -24636,6 +24755,13 @@
 
 ### alignments:
  - [Melampagos](https://pleiades.stoa.org/places/550728)
+
+
+## GEO ID 60972: Metropolis (Oyneş)
+[https://www.trismegistos.org/place/60972](https://www.trismegistos.org/place/60972)  
+
+### alignments:
+ - [Metropolis](https://pleiades.stoa.org/places/609470)
 
 
 ## GEO ID 60979: Kale Peuke
@@ -24736,6 +24862,13 @@
  - [Bembina](https://pleiades.stoa.org/places/573141)
 
 
+## GEO ID 61205: Aperopia (Dokos)
+[https://www.trismegistos.org/place/61205](https://www.trismegistos.org/place/61205)  
+
+### alignments:
+ - [Aperopia (island)](https://pleiades.stoa.org/places/570089)
+
+
 ## GEO ID 61206: Phreatto (Phreattys)
 [https://www.trismegistos.org/place/61206](https://www.trismegistos.org/place/61206)  
 
@@ -24790,6 +24923,13 @@
 
 ### alignments:
  - [Zagora](https://pleiades.stoa.org/places/590097)
+
+
+## GEO ID 61450: Adonis (Nahr Ibrahim)
+[https://www.trismegistos.org/place/61450](https://www.trismegistos.org/place/61450)  
+
+### alignments:
+ - [Adonis (river)](https://pleiades.stoa.org/places/668180)
 
 
 ## GEO ID 61455: Batanaia
@@ -25660,6 +25800,20 @@
 
 ### alignments:
  - [Hypaipa](https://pleiades.stoa.org/places/550585)
+
+
+## GEO ID 864: Hypsele (Shutb)
+[http://www.trismegistos.org/place/864](http://www.trismegistos.org/place/864)  
+
+### alignments:
+ - [Hypsele/Schotep](https://pleiades.stoa.org/places/756578)
+
+
+## GEO ID 865: Hypsele (Bamha)
+[https://www.trismegistos.org/place/865](https://www.trismegistos.org/place/865)  
+
+### alignments:
+ - [Peme/Hypsele](https://pleiades.stoa.org/places/736998)
 
 
 ## GEO ID 8665: Xeron Pelagos (Feisaleya)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-560 alignments exist in _Pleiades_ place references as of 2024-10-22. The following list of alignments is grouped by zotkey.
+567 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -335,6 +335,13 @@
 
 ### alignments:
  - [Mainalos](https://pleiades.stoa.org/places/570451)
+
+
+## 10137152: Cromoi (Arcadia)
+[https://resource.manto.unh.edu/10137152](https://resource.manto.unh.edu/10137152)  
+
+### alignments:
+ - [Kromnos](https://pleiades.stoa.org/places/570388)
 
 
 ## 10137154: Charisia
@@ -1380,6 +1387,13 @@
  - [Gargettos](https://pleiades.stoa.org/places/579935)
 
 
+## 10268988: Heracleia (Elis)
+[https://resource.manto.unh.edu/10268988](https://resource.manto.unh.edu/10268988)  
+
+### alignments:
+ - [Herakleia](https://pleiades.stoa.org/places/570290)
+
+
 ## 10269093: Tempe (Thessaly) valley in Thessaly
 [https://resource.manto.unh.edu/10269093](https://resource.manto.unh.edu/10269093)  
 
@@ -1518,6 +1532,13 @@
 
 ### alignments:
  - [Taras/Tarentum/Neptunia](https://pleiades.stoa.org/places/442810)
+
+
+## 10272472: Elyros
+[https://resource.manto.unh.edu/10272472](https://resource.manto.unh.edu/10272472)  
+
+### alignments:
+ - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
 ## 10272601: Pessinous (Phrygia)
@@ -2852,6 +2873,13 @@
  - [Sardinia (island)](https://pleiades.stoa.org/places/472014)
 
 
+## 8254036: Mount Oita (Thessaly)
+[https://resource.manto.unh.edu/8254036](https://resource.manto.unh.edu/8254036)  
+
+### alignments:
+ - [Oeta M.](https://pleiades.stoa.org/places/540968)
+
+
 ## 8254037: Naupactos (Ozolian Locris)
 [https://resource.manto.unh.edu/8254037](https://resource.manto.unh.edu/8254037)  
 
@@ -3300,6 +3328,13 @@
  - [Eteonos/Skaphaliai](https://pleiades.stoa.org/places/543704)
 
 
+## 9651941: Harma (Boiotia)
+[https://resource.manto.unh.edu/9651941](https://resource.manto.unh.edu/9651941)  
+
+### alignments:
+ - [Harma](https://pleiades.stoa.org/places/540805)
+
+
 ## 9651955: Coroneia (Boiotia)
 [https://resource.manto.unh.edu/9651955](https://resource.manto.unh.edu/9651955)  
 
@@ -3601,6 +3636,13 @@
  - [Peneios (river)](https://pleiades.stoa.org/places/541022)
 
 
+## 9721264: the Atlas Mountains (N. Africa)
+[https://resource.manto.unh.edu/9721264](https://resource.manto.unh.edu/9721264)  
+
+### alignments:
+ - [Atlas Mon(te)s](https://pleiades.stoa.org/places/846)
+
+
 ## 9721278: Carthage (N. Africa)
 [https://resource.manto.unh.edu/9721278](https://resource.manto.unh.edu/9721278)  
 
@@ -3781,6 +3823,13 @@
 
 ### alignments:
  - [Athos (mountain)](https://pleiades.stoa.org/places/501366)
+
+
+## 9910853: Cardamyle (Messenia)
+[https://resource.manto.unh.edu/9910853](https://resource.manto.unh.edu/9910853)  
+
+### alignments:
+ - [Kardamyle](https://pleiades.stoa.org/places/570330)
 
 
 ## 9910858: Pedasos
