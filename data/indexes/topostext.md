@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3537 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
+3538 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6241,6 +6241,13 @@
 
 ### alignments:
  - [Dara/Anastasioupolis](https://pleiades.stoa.org/places/874444)
+
+
+## Dardania region 97 Skopje - Δαρδανία
+[https://topostext.org/place/420313RDar](https://topostext.org/place/420313RDar)  
+
+### alignments:
+ - [Dardania](https://pleiades.stoa.org/places/481798)
 
 
 ## Dardanos (Turkey)

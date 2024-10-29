@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4349 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
+4360 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -1417,6 +1417,13 @@
  - [Astypalaia (island)](https://pleiades.stoa.org/places/599536)
 
 
+## Aswan (Q29888)
+[https://www.wikidata.org/wiki/Q29888](https://www.wikidata.org/wiki/Q29888)  
+
+### alignments:
+ - [Syene](https://pleiades.stoa.org/places/786123)
+
+
 ## Atarneus (Q64211631)
 [https://www.wikidata.org/wiki/Q64211631](https://www.wikidata.org/wiki/Q64211631)  
 
@@ -2136,6 +2143,13 @@
 
 ### alignments:
  - [Salbake (mountain)](https://pleiades.stoa.org/places/639088)
+
+
+## Brading Roman Villa (Q17671924)
+[https://www.wikidata.org/wiki/Q17671924](https://www.wikidata.org/wiki/Q17671924)  
+
+### alignments:
+ - [Brading](https://pleiades.stoa.org/places/79343)
 
 
 ## Braich y Pwll (Q24654328)
@@ -3081,6 +3095,13 @@
 
 ### alignments:
  - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
+## Combley Roman villa (Q100377477)
+[https://www.wikidata.org/wiki/Q100377477](https://www.wikidata.org/wiki/Q100377477)  
+
+### alignments:
+ - [Combley Roman villa](https://pleiades.stoa.org/places/919152219)
 
 
 ## Complesso dei Riti Magici (Q27685705)
@@ -5205,6 +5226,13 @@
  - [Isinda (Lycian)](https://pleiades.stoa.org/places/638871)
 
 
+## Isle of Wight (Q9679)
+[https://www.wikidata.org/wiki/Q9679](https://www.wikidata.org/wiki/Q9679)  
+
+### alignments:
+ - [Vectis (island)](https://pleiades.stoa.org/places/79731)
+
+
 ## Italia Suburbicaria (Q3804151)
 [https://www.wikidata.org/wiki/Q3804151](https://www.wikidata.org/wiki/Q3804151)  
 
@@ -5623,6 +5651,13 @@
 
 ### alignments:
  - [Kinaidokolpitai](https://pleiades.stoa.org/places/39360)
+
+
+## Kingdom of Dardania (Q11916620)
+[https://www.wikidata.org/wiki/Q11916620](https://www.wikidata.org/wiki/Q11916620)  
+
+### alignments:
+ - [Dardania](https://pleiades.stoa.org/places/481798)
 
 
 ## Kiosk of Qertassi (Q925318)
@@ -6726,6 +6761,13 @@
  - [Old Bouleuterion/Metroon](https://pleiades.stoa.org/places/415689443)
 
 
+## Metropolis (Q11936659)
+[https://www.wikidata.org/wiki/Q11936659](https://www.wikidata.org/wiki/Q11936659)  
+
+### alignments:
+ - [Metropolis](https://pleiades.stoa.org/places/540947)
+
+
 ## Metropolis (Q11936661)
 [https://www.wikidata.org/wiki/Q11936661](https://www.wikidata.org/wiki/Q11936661)  
 
@@ -6738,6 +6780,13 @@
 
 ### alignments:
  - [Metropolis](https://pleiades.stoa.org/places/550741)
+
+
+## Metropolis (Q17622337)
+[https://www.wikidata.org/wiki/Q17622337](https://www.wikidata.org/wiki/Q17622337)  
+
+### alignments:
+ - [Metropolis (near Priapus)](https://pleiades.stoa.org/places/440964557)
 
 
 ## Mezad Tamar (Q6620770)
@@ -6913,6 +6962,13 @@
 
 ### alignments:
  - [Monopteros](https://pleiades.stoa.org/places/87615187)
+
+
+## Monte Acero (Q3861172)
+[https://www.wikidata.org/wiki/Q3861172](https://www.wikidata.org/wiki/Q3861172)  
+
+### alignments:
+ - [Monte Acero](https://pleiades.stoa.org/places/432944)
 
 
 ## Monte Falterona (Q749841)
@@ -7356,6 +7412,13 @@
  - [Burgenae](https://pleiades.stoa.org/places/207001)
 
 
+## Nowa Wieś Wrocławska (Q7066295)
+[https://www.wikidata.org/wiki/Q7066295](https://www.wikidata.org/wiki/Q7066295)  
+
+### alignments:
+ - [Nowa Wieś Wrocławska](https://pleiades.stoa.org/places/128475)
+
+
 ## Nubian pyramids (Q511686)
 [https://www.wikidata.org/wiki/Q511686](https://www.wikidata.org/wiki/Q511686)  
 
@@ -7550,6 +7613,13 @@
 
 ### alignments:
  - [Olba](https://pleiades.stoa.org/places/648725)
+
+
+## Olba Aqueduct (Q30621554)
+[https://www.wikidata.org/wiki/Q30621554](https://www.wikidata.org/wiki/Q30621554)  
+
+### alignments:
+ - [Olba Aqueduct](https://pleiades.stoa.org/places/649306)
 
 
 ## Olbasa (Q65053537)
@@ -11215,6 +11285,13 @@
 
 ### alignments:
  - [Colonnes de Riez](https://pleiades.stoa.org/places/725543708)
+
+
+## Q127420300
+[https://www.wikidata.org/wiki/Q127420300](https://www.wikidata.org/wiki/Q127420300)  
+
+### alignments:
+ - [*Vicus Phosphorianus](https://pleiades.stoa.org/places/305185)
 
 
 ## Q1274911: Melite
@@ -26499,13 +26576,6 @@
  - [Apollo Tegyraios, T.](https://pleiades.stoa.org/places/540654)
 
 
-## Q9679: Isle of Wight
-[https://www.wikidata.org/wiki/Q9679](https://www.wikidata.org/wiki/Q9679)  
-
-### alignments:
- - [Vectis (island)](https://pleiades.stoa.org/places/79731)
-
-
 ## Q96972175: Oros (Aigina)
 [https://www.wikidata.org/wiki/Q96972175](https://www.wikidata.org/wiki/Q96972175)  
 
@@ -27009,6 +27079,13 @@
 
 ### alignments:
  - [Roman amphitheater of Catania](https://pleiades.stoa.org/places/540685097)
+
+
+## Roman amphitheatre of Lucca (Q2844409)
+[https://www.wikidata.org/wiki/Q2844409](https://www.wikidata.org/wiki/Q2844409)  
+
+### alignments:
+ - [Roman amphitheater at Luca](https://pleiades.stoa.org/places/463189757)
 
 
 ## Roman amphitheatre of Mérida (Q2360379)

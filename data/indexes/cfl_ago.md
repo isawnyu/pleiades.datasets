@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-370 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
+371 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1866,6 +1866,13 @@
 
 ### alignments:
  - [Ithome/Thamiai (Thessaly)](https://pleiades.stoa.org/places/540841)
+
+
+## Toponyme 34224: Mitropolis, Paliokastron
+[https://chronique.efa.gr/?kroute=topo_public&id=34224](https://chronique.efa.gr/?kroute=topo_public&id=34224)  
+
+### alignments:
+ - [Metropolis](https://pleiades.stoa.org/places/540947)
 
 
 ## Toponyme 3447: Amyklai, Sklavochori

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3788 alignments exist in _Pleiades_ place references as of 2024-10-28. The following list of alignments is grouped by zotkey.
+3789 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1078,6 +1078,13 @@
 
 ### alignments:
  - [Limnaion](https://pleiades.stoa.org/places/540916)
+
+
+## Geo 33464: Metropolis (Palaiokastro Georgikon)
+[https://www.trismegistos.org/place/33464](https://www.trismegistos.org/place/33464)  
+
+### alignments:
+ - [Metropolis](https://pleiades.stoa.org/places/540947)
 
 
 ## Geo 33468: Pelinna
@@ -7520,6 +7527,13 @@
 
 ### alignments:
  - [Aquae Thibilitanae](https://pleiades.stoa.org/places/305030)
+
+
+## GEO ID 18720
+[https://www.trismegistos.org/place/18720](https://www.trismegistos.org/place/18720)  
+
+### alignments:
+ - [*Vicus Phosphorianus](https://pleiades.stoa.org/places/305185)
 
 
 ## GEO ID 1873: Poimenon Kome
@@ -14732,13 +14746,6 @@
 
 ### alignments:
  - [Trikka](https://pleiades.stoa.org/places/541163)
-
-
-## GEO ID 33464: Metropolis (Palaiokastro Georgikon)
-[http://www.trismegistos.org/place/33464](http://www.trismegistos.org/place/33464)  
-
-### alignments:
- - [Metropolis](https://pleiades.stoa.org/places/540947)
 
 
 ## GEO ID 33469: Pharkadon
