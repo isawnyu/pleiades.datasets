@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3538 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
+3541 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10616,6 +10616,13 @@
  - [Kabyle/Diospolis](https://pleiades.stoa.org/places/216859)
 
 
+## Kadiston Mt. (Crete) 5 Kadiston - Κάδιστον
+[https://topostext.org/place/353258LKad](https://topostext.org/place/353258LKad)  
+
+### alignments:
+ - [Kadiston (mountain)](https://pleiades.stoa.org/places/589830)
+
+
 ## Kadoi (Phrygia)
 [https://topostext.org/place/390294UKad](https://topostext.org/place/390294UKad)  
 
@@ -14144,6 +14151,13 @@
  - [Temple of Mars Ultor](https://pleiades.stoa.org/places/823121346)
 
 
+## Martyropolis (Sophene) 15 Silvan
+[https://topostext.org/place/381410UMar](https://topostext.org/place/381410UMar)  
+
+### alignments:
+ - [Maipa/Martyropolis/Ioustinianopolis](https://pleiades.stoa.org/places/874573)
+
+
 ## Masada (Palestine)
 [https://topostext.org/place/313354FMas](https://topostext.org/place/313354FMas)  
 
@@ -16202,7 +16216,7 @@
 [https://topostext.org/place/388223LOit](https://topostext.org/place/388223LOit)  
 
 ### alignments:
- - [Oeta M.](https://pleiades.stoa.org/places/540968)
+ - [Oeta (mountain)](https://pleiades.stoa.org/places/540968)
 
 
 ## Oitylos (Lakonia)
@@ -22758,6 +22772,13 @@
 
 ### alignments:
  - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
+
+
+## theatre (Argos Amphiloch.) Kambos
+[https://topostext.org/place/389212BArg](https://topostext.org/place/389212BArg)  
+
+### alignments:
+ - [Ancient Theater of Amphilochian Argos](https://pleiades.stoa.org/places/966876571)
 
 
 ## Theatre (Messene) Mavrommati

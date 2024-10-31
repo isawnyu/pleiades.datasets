@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-371 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
+372 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -41,6 +41,13 @@
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
+
+
+## 2914: ANC. THYRREION - 2012
+[https://chronique.efa.gr/?kroute=report&id=2914](https://chronique.efa.gr/?kroute=report&id=2914)  
+
+### alignments:
+ - [Thyrreion](https://pleiades.stoa.org/places/531123)
 
 
 ## 3988: SYKEONAS - 2004

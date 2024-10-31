@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3789 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
+3794 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5359,6 +5359,13 @@
  - [Nysa/Athymbra](https://pleiades.stoa.org/places/599832)
 
 
+## GEO ID 14861: Voreda (Penrith)
+[http://www.trismegistos.org/place/14861](http://www.trismegistos.org/place/14861)  
+
+### alignments:
+ - [Voreda](https://pleiades.stoa.org/places/89318)
+
+
 ## GEO ID 14865: Pennocrucium (Water Eaton)
 [http://www.trismegistos.org/place/14865](http://www.trismegistos.org/place/14865)  
 
@@ -8024,6 +8031,13 @@
 
 ### alignments:
  - [Isca (river)](https://pleiades.stoa.org/places/79533)
+
+
+## GEO ID 19834: Leuca (River Loughor)
+[http://www.trismegistos.org/place/19834](http://www.trismegistos.org/place/19834)  
+
+### alignments:
+ - [Leuca (river)](https://pleiades.stoa.org/places/79560)
 
 
 ## GEO ID 19838: Certis
@@ -15035,6 +15049,13 @@
  - [Parthenopolis (Chalkidike)](https://pleiades.stoa.org/places/501553)
 
 
+## GEO ID 33962: Tragilos (Aidonochori)
+[https://www.trismegistos.org/place/33962](https://www.trismegistos.org/place/33962)  
+
+### alignments:
+ - [Tragilos](https://pleiades.stoa.org/places/501648)
+
+
 ## GEO ID 33966: Galepsos
 [https://www.trismegistos.org/place/33966](https://www.trismegistos.org/place/33966)  
 
@@ -15868,7 +15889,7 @@
  - [Keryn(e)ia/Keraunia](https://pleiades.stoa.org/places/707531)
 
 
-## GEO ID 36670
+## GEO ID 36670: Pons Aluti (Ioneşti)
 [http://www.trismegistos.org/place/36670](http://www.trismegistos.org/place/36670)  
 
 ### alignments:
@@ -16048,6 +16069,13 @@
 
 ### alignments:
  - [Chairekla](https://pleiades.stoa.org/places/373767)
+
+
+## GEO ID 37315: Maipa (Silvan)
+[https://www.trismegistos.org/place/37315](https://www.trismegistos.org/place/37315)  
+
+### alignments:
+ - [Maipa/Martyropolis/Ioustinianopolis](https://pleiades.stoa.org/places/874573)
 
 
 ## GEO ID 37316: Nippur
@@ -22547,6 +22575,13 @@
 
 ### alignments:
  - [Horrea Galbana](https://pleiades.stoa.org/places/51787061)
+
+
+## GEO ID 45030: Atlanticus Oceanus (Atlantic Ocean)
+[http://www.trismegistos.org/place/45030](http://www.trismegistos.org/place/45030)  
+
+### alignments:
+ - [Atlanticus Oceanus](https://pleiades.stoa.org/places/845)
 
 
 ## GEO ID 45051: Olympos (Ulu Dağ)

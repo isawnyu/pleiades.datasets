@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-567 alignments exist in _Pleiades_ place references as of 2024-10-29. The following list of alignments is grouped by zotkey.
+568 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2877,7 +2877,7 @@
 [https://resource.manto.unh.edu/8254036](https://resource.manto.unh.edu/8254036)  
 
 ### alignments:
- - [Oeta M.](https://pleiades.stoa.org/places/540968)
+ - [Oeta (mountain)](https://pleiades.stoa.org/places/540968)
 
 
 ## 8254037: Naupactos (Ozolian Locris)
@@ -3321,6 +3321,13 @@
  - [Ilissos (river)](https://pleiades.stoa.org/places/579959)
 
 
+## 9651936: Scolos (Boiotia)
+[https://resource.manto.unh.edu/9651936](https://resource.manto.unh.edu/9651936)  
+
+### alignments:
+ - [Skolos](https://pleiades.stoa.org/places/541106)
+
+
 ## 9651937: Eteonos
 [https://resource.manto.unh.edu/9651937](https://resource.manto.unh.edu/9651937)  
 
@@ -3640,7 +3647,7 @@
 [https://resource.manto.unh.edu/9721264](https://resource.manto.unh.edu/9721264)  
 
 ### alignments:
- - [Atlas Mon(te)s](https://pleiades.stoa.org/places/846)
+ - [Atlas (mountains)](https://pleiades.stoa.org/places/846)
 
 
 ## 9721278: Carthage (N. Africa)
