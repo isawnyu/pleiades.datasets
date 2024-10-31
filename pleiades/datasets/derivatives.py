@@ -382,6 +382,11 @@ class JSON2CSV:
                 k: self.connection_schema[k](connection_source, place_source) or ""
                 for k in self.connection_keys
             }
+        except TypeError as err:
+            err.add_note(
+                f"Failure attempting to convert connection: {pformat(connection_source, indent=4)} for place {place_source["uri"]}"
+            )
+            raise err
         except KeyError as err:
             result = dict()
             for k in self.connection_keys:

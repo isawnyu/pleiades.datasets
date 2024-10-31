@@ -1,5 +1,8 @@
 #! /usr/local/bin/bash
 set -x
+set -e 
+set -o pipefail
+set -u
 
 SCRIPT_DIR=$(dirname "${BASH_SOURCE[0]}")
 cd $SCRIPT_DIR/..
