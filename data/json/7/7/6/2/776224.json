@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        30.600769,
-        25.810296,
-        30.600769,
-        25.810296
+        30.6237277,
+        25.7958673,
+        30.6239261,
+        25.796059
     ],
     "connections": [
         {
@@ -121,23 +121,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    30.600769,
-                    25.810296
+                    [
+                        30.6239132,
+                        25.796059
+                    ],
+                    [
+                        30.6237277,
+                        25.7960483
+                    ],
+                    [
+                        30.6237406,
+                        25.7958673
+                    ],
+                    [
+                        30.6239261,
+                        25.7958781
+                    ],
+                    [
+                        30.6239132,
+                        25.796059
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-8327",
+            "id": "osm-location-of-el-sumeira",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/776224/darmc-location-8327",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/776224/osm-location-of-el-sumeira",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 8327"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of el-Sumeira"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
+            "modified": "2024-10-29T14:58:04Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add wikidata el-Sumeira (Q14221094)",
             "modified": "2024-10-24T01:29:54Z",
@@ -198,8 +221,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -217,87 +240,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-31T19:56:33Z",
+            "contributors": [],
+            "created": "2024-10-24T01:31:10Z",
             "creators": [
                 {
-                    "name": "G. Wagner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 8327",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    30.600769,
-                    25.810296
+                    [
+                        30.6239132,
+                        25.796059
+                    ],
+                    [
+                        30.6237277,
+                        25.7960483
+                    ],
+                    [
+                        30.6237406,
+                        25.7958673
+                    ],
+                    [
+                        30.6239261,
+                        25.7958781
+                    ],
+                    [
+                        30.6239132,
+                        25.796059
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:23:51Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-31T20:01:41Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-29T14:57:19Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-31T19:56:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-24T01:31:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-31T19:56:35Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "added osm location",
+                    "modified": "2024-10-24T01:31:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-10-24T01:31:10Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-31T19:56:34Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-10-24T01:31:10Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-8327",
+            "id": "osm-location-of-el-sumeira",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 8327",
+            "provenance": "OpenStreetMap (Way 1327696080, version 1, osm:changeset=158276388, 2024-10-24T01:30:45Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1327696080",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "8327",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1327696080",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 8327.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1327696080",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 8327",
-            "uri": "https://pleiades.stoa.org/places/776224/darmc-location-8327"
+            "title": "OSM location of el-Sumeira",
+            "uri": "https://pleiades.stoa.org/places/776224/osm-location-of-el-sumeira"
         }
     ],
     "names": [
@@ -510,11 +548,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "8327",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.600769,
-        25.810296
+        30.623826887454126,
+        25.7959631735573
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
