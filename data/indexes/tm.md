@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3794 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
+3795 alignments exist in _Pleiades_ place references as of 2024-11-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11784,6 +11784,13 @@
 
 ### alignments:
  - [Ulpiana](https://pleiades.stoa.org/places/482027)
+
+
+## GEO ID 29683: Timacum Minus (Ravna)
+[http://www.trismegistos.org/place/29683](http://www.trismegistos.org/place/29683)  
+
+### alignments:
+ - [Timacum Minus](https://pleiades.stoa.org/places/207501)
 
 
 ## GEO ID 29684: Romuliana (Gamzigrad)

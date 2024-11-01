@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4401 alignments exist in _Pleiades_ place references as of 2024-10-31. The following list of alignments is grouped by zotkey.
+4419 alignments exist in _Pleiades_ place references as of 2024-11-01. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -849,6 +849,13 @@
  - [Theater at Philippi](https://pleiades.stoa.org/places/762595495)
 
 
+## Ancient theatre of Taormina (Q747484)
+[https://www.wikidata.org/wiki/Q747484](https://www.wikidata.org/wiki/Q747484)  
+
+### alignments:
+ - [Greek theater of Taormina](https://pleiades.stoa.org/places/937547557)
+
+
 ## Andros (polis) (Q62944263)
 [https://www.wikidata.org/wiki/Q62944263](https://www.wikidata.org/wiki/Q62944263)  
 
@@ -1127,6 +1134,13 @@
 
 ### alignments:
  - [Arch of Trajan at Benevento](https://pleiades.stoa.org/places/568637774)
+
+
+## Archaeological area of Macchia Grande (Q130380959)
+[https://www.wikidata.org/wiki/Q130380959](https://www.wikidata.org/wiki/Q130380959)  
+
+### alignments:
+ - [Archaeological area of Macchia Grande](https://pleiades.stoa.org/places/240096674)
 
 
 ## archaeological area of the Italic Temple of Casalbore (Q29905393)
@@ -3081,6 +3095,13 @@
 
 ### alignments:
  - [Ani citadel](https://pleiades.stoa.org/places/556544470)
+
+
+## Citadel of Salah Ed-Din (Q277531)
+[https://www.wikidata.org/wiki/Q277531](https://www.wikidata.org/wiki/Q277531)  
+
+### alignments:
+ - [Qal’at Salah El-Din/Fortress of Saladin](https://pleiades.stoa.org/places/397378357)
 
 
 ## Civitas Classis (Q1398802)
@@ -5380,6 +5401,13 @@
  - [Besbikos (island)](https://pleiades.stoa.org/places/511186)
 
 
+## Jaci (Q1382342)
+[https://www.wikidata.org/wiki/Q1382342](https://www.wikidata.org/wiki/Q1382342)  
+
+### alignments:
+ - [Acis (river)](https://pleiades.stoa.org/places/462066)
+
+
 ## Janus Augustus (Q98504656)
 [https://www.wikidata.org/wiki/Q98504656](https://www.wikidata.org/wiki/Q98504656)  
 
@@ -6199,6 +6227,13 @@
 
 ### alignments:
  - [Leros (island)](https://pleiades.stoa.org/places/599764)
+
+
+## Lestenitsas river (Q25020951)
+[https://www.wikidata.org/wiki/Q25020951](https://www.wikidata.org/wiki/Q25020951)  
+
+### alignments:
+ - [Enipeus (river)](https://pleiades.stoa.org/places/570225)
 
 
 ## Lete (Mygdonia) (Q15230039)
@@ -7039,6 +7074,13 @@
 
 ### alignments:
  - [Mochadion](https://pleiades.stoa.org/places/521086)
+
+
+## Modica (Q34102)
+[https://www.wikidata.org/wiki/Q34102](https://www.wikidata.org/wiki/Q34102)  
+
+### alignments:
+ - [Mutyce](https://pleiades.stoa.org/places/462378)
 
 
 ## Monastery of Saint Macarius the Great (Q3320218)
@@ -7942,6 +7984,13 @@
 
 ### alignments:
  - [Palaipharsalos](https://pleiades.stoa.org/places/541004)
+
+
+## Palaiokastro of Kastelorizo (Q38281486)
+[https://www.wikidata.org/wiki/Q38281486](https://www.wikidata.org/wiki/Q38281486)  
+
+### alignments:
+ - [Megiste](https://pleiades.stoa.org/places/638988)
 
 
 ## Palaiomanina citadel (Q113749734)
@@ -8994,6 +9043,13 @@
  - [Pyramid of Djedkare-Isesi](https://pleiades.stoa.org/places/108282408)
 
 
+## Pyramid of Djoser (Q192418)
+[https://www.wikidata.org/wiki/Q192418](https://www.wikidata.org/wiki/Q192418)  
+
+### alignments:
+ - [Pyramid of Djoser](https://pleiades.stoa.org/places/922537087)
+
+
 ## Pyramid of Neferirkare (Q1609149)
 [https://www.wikidata.org/wiki/Q1609149](https://www.wikidata.org/wiki/Q1609149)  
 
@@ -9027,6 +9083,13 @@
 
 ### alignments:
  - [Pyramid of Teti](https://pleiades.stoa.org/places/451238645)
+
+
+## Pyramid of Userkaf (Q1570082)
+[https://www.wikidata.org/wiki/Q1570082](https://www.wikidata.org/wiki/Q1570082)  
+
+### alignments:
+ - [Pyramid of Userkaf](https://pleiades.stoa.org/places/393558281)
 
 
 ## Pyre of Herakles (Q28135305)
@@ -11742,6 +11805,13 @@
  - [Frusteniae](https://pleiades.stoa.org/places/416814)
 
 
+## Q130746992
+[https://www.wikidata.org/wiki/Q130746992](https://www.wikidata.org/wiki/Q130746992)  
+
+### alignments:
+ - [ager Mutycensis](https://pleiades.stoa.org/places/235362439)
+
+
 ## Q130958: The Great Sphinx
 [https://www.wikidata.org/wiki/Q130958](https://www.wikidata.org/wiki/Q130958)  
 
@@ -13054,13 +13124,6 @@
 
 ### alignments:
  - [Charadra](https://pleiades.stoa.org/places/540709)
-
-
-## Q1570082
-[https://www.wikidata.org/wiki/Q1570082](https://www.wikidata.org/wiki/Q1570082)  
-
-### alignments:
- - [Pyramid of Userkaf](https://pleiades.stoa.org/places/393558281)
 
 
 ## Q1571046: Halieis
@@ -15171,13 +15234,6 @@
 
 ### alignments:
  - [Saqqarah](https://pleiades.stoa.org/places/796289136)
-
-
-## Q192418
-[https://www.wikidata.org/wiki/Q192418](https://www.wikidata.org/wiki/Q192418)  
-
-### alignments:
- - [Pyramid of Djoser](https://pleiades.stoa.org/places/922537087)
 
 
 ## Q1924755: Meta Sudans
@@ -18170,6 +18226,13 @@
 
 ### alignments:
  - [Thignica](https://pleiades.stoa.org/places/315207)
+
+
+## Q2882755
+[https://www.wikidata.org/wiki/Q2882755](https://www.wikidata.org/wiki/Q2882755)  
+
+### alignments:
+ - [Portus Victoriae Iuliobrigensium](https://pleiades.stoa.org/places/236613)
 
 
 ## Q2883706: Baquates
@@ -27235,11 +27298,25 @@
  - [Roman amphitheater at Interamnia Praetuttiorum](https://pleiades.stoa.org/places/493909773)
 
 
+## Roman amphitheater of Vercellae (Q109843713)
+[https://www.wikidata.org/wiki/Q109843713](https://www.wikidata.org/wiki/Q109843713)  
+
+### alignments:
+ - [Roman amphitheater at Vercellae](https://pleiades.stoa.org/places/497388377)
+
+
 ## Roman Amphitheatre of Ancona (Q3616680)
 [https://www.wikidata.org/wiki/Q3616680](https://www.wikidata.org/wiki/Q3616680)  
 
 ### alignments:
  - [Roman amphitheater at Ancona](https://pleiades.stoa.org/places/536995786)
+
+
+## Roman Amphitheatre of Cagliari (Q2844403)
+[https://www.wikidata.org/wiki/Q2844403](https://www.wikidata.org/wiki/Q2844403)  
+
+### alignments:
+ - [Roman amphitheater at Caralis](https://pleiades.stoa.org/places/32694356)
 
 
 ## Roman amphitheatre of Catania (Q2844406)
@@ -27597,6 +27674,13 @@
 
 ### alignments:
  - [Uley](https://pleiades.stoa.org/places/79726)
+
+
+## Romano-Celtic temple in Wanborough (Q17663244)
+[https://www.wikidata.org/wiki/Q17663244](https://www.wikidata.org/wiki/Q17663244)  
+
+### alignments:
+ - [Wanborough](https://pleiades.stoa.org/places/79746)
 
 
 ## Rotomagus (Q3442995)
@@ -28138,6 +28222,13 @@
  - [Neapolis](https://pleiades.stoa.org/places/226695)
 
 
+## Sea of Crete (Q193149)
+[https://www.wikidata.org/wiki/Q193149](https://www.wikidata.org/wiki/Q193149)  
+
+### alignments:
+ - [Creticum Mare](https://pleiades.stoa.org/places/589749)
+
+
 ## Sea of Marmara (Q35367)
 [https://www.wikidata.org/wiki/Q35367](https://www.wikidata.org/wiki/Q35367)  
 
@@ -28227,6 +28318,13 @@
 
 ### alignments:
  - [Serpent Column](https://pleiades.stoa.org/places/927063702)
+
+
+## Servian (Q1073096)
+[https://www.wikidata.org/wiki/Q1073096](https://www.wikidata.org/wiki/Q1073096)  
+
+### alignments:
+ - [Servian](https://pleiades.stoa.org/places/148200)
 
 
 ## Sesebi (Q2274450)
@@ -28748,6 +28846,13 @@
  - [Iaxartes/Silis/Tanais (river)](https://pleiades.stoa.org/places/59844)
 
 
+## Syriac sanctuary on Gianicolo hill (Q62036962)
+[https://www.wikidata.org/wiki/Q62036962](https://www.wikidata.org/wiki/Q62036962)  
+
+### alignments:
+ - [Lucus Furrinae](https://pleiades.stoa.org/places/432336962)
+
+
 ## Syrian Monastery (Q1885762)
 [https://www.wikidata.org/wiki/Q1885762](https://www.wikidata.org/wiki/Q1885762)  
 
@@ -29225,6 +29330,13 @@
  - [Aedes Salus](https://pleiades.stoa.org/places/377055053)
 
 
+## Temple of Talamonaccio (Q3517625)
+[https://www.wikidata.org/wiki/Q3517625](https://www.wikidata.org/wiki/Q3517625)  
+
+### alignments:
+ - [Temple of Talamonaccio](https://pleiades.stoa.org/places/254082752)
+
+
 ## Temple of the Dioscuri, Cyrene (Q104776460)
 [https://www.wikidata.org/wiki/Q104776460](https://www.wikidata.org/wiki/Q104776460)  
 
@@ -29665,6 +29777,13 @@
 ### alignments:
  - [Tilmen Höyük](https://pleiades.stoa.org/places/242329712)
  - [Tilmen Höyük](https://pleiades.stoa.org/places/447680269)
+
+
+## Timacum Minus (Q7804557)
+[https://www.wikidata.org/wiki/Q7804557](https://www.wikidata.org/wiki/Q7804557)  
+
+### alignments:
+ - [Timacum Minus](https://pleiades.stoa.org/places/207501)
 
 
 ## Timna valley (Q1973199)
@@ -30625,6 +30744,13 @@
 
 ### alignments:
  - [Circuit wall of Rusellae](https://pleiades.stoa.org/places/999951524)
+
+
+## Walls of Timoleon (Q3867240)
+[https://www.wikidata.org/wiki/Q3867240](https://www.wikidata.org/wiki/Q3867240)  
+
+### alignments:
+ - [Walls of Timoleon](https://pleiades.stoa.org/places/318445896)
 
 
 ## Walwick Fell Roman temporary camp (Q17650321)
