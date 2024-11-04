@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3795 alignments exist in _Pleiades_ place references as of 2024-11-01. The following list of alignments is grouped by zotkey.
+3799 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10035,7 +10035,7 @@
  - [Xanthos](https://pleiades.stoa.org/places/639166)
 
 
-## GEO ID 2511
+## GEO ID 2511: Zakynthos
 [https://www.trismegistos.org/place/2511](https://www.trismegistos.org/place/2511)  
 
 ### alignments:
@@ -10313,6 +10313,13 @@
 
 ### alignments:
  - [(S)Ucia](https://pleiades.stoa.org/places/266051)
+
+
+## GEO ID 26157: Tucci (Martos)
+[http://www.trismegistos.org/place/26157](http://www.trismegistos.org/place/26157)  
+
+### alignments:
+ - [Tucci/Col. Augusta Gemella](https://pleiades.stoa.org/places/266070)
 
 
 ## Geo ID 26169: Urgapa (Alameda)
@@ -16980,6 +16987,13 @@
 
 ### alignments:
  - [Babylon](https://pleiades.stoa.org/places/893951)
+
+
+## GEO ID 392
+[http://www.trismegistos.org/place/392](http://www.trismegistos.org/place/392)  
+
+### alignments:
+ - [Bakchias](https://pleiades.stoa.org/places/736896)
 
 
 ## GEO ID 39403: Blandae
@@ -24119,6 +24133,13 @@
  - [Libyarchai](https://pleiades.stoa.org/places/373842)
 
 
+## GEO ID 5504: Lucania
+[http://www.trismegistos.org/place/5504](http://www.trismegistos.org/place/5504)  
+
+### alignments:
+ - [Lucania (region)](https://pleiades.stoa.org/places/442639)
+
+
 ## GEO ID 55185: Bathos
 [https://www.trismegistos.org/place/55185](https://www.trismegistos.org/place/55185)  
 
@@ -24860,6 +24881,13 @@
 
 ### alignments:
  - [Thermodon (river)](https://pleiades.stoa.org/places/857352)
+
+
+## GEO ID 61071: Herkte
+[https://www.trismegistos.org/place/61071](https://www.trismegistos.org/place/61071)  
+
+### alignments:
+ - [Herkte](https://pleiades.stoa.org/places/465912)
 
 
 ## GEO ID 61083: Scylla (Scilla)

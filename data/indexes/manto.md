@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-568 alignments exist in _Pleiades_ place references as of 2024-11-01. The following list of alignments is grouped by zotkey.
+571 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1002,6 +1002,13 @@
  - [Alea](https://pleiades.stoa.org/places/570062)
 
 
+## 10214285: Psophis (Zacynthos)
+[https://resource.manto.unh.edu/10214285](https://resource.manto.unh.edu/10214285)  
+
+### alignments:
+ - [Zakythos/Zacynthus](https://pleiades.stoa.org/places/531154)
+
+
 ## 10214289: Cumae (Campania)
 [https://resource.manto.unh.edu/10214289](https://resource.manto.unh.edu/10214289)  
 
@@ -1546,6 +1553,20 @@
 
 ### alignments:
  - [Pessinous/Iustinianoupolis](https://pleiades.stoa.org/places/609500)
+
+
+## 10273379: Euryteiai (Achaia)
+[https://resource.manto.unh.edu/10273379](https://resource.manto.unh.edu/10273379)  
+
+### alignments:
+ - [Euryteiai](https://pleiades.stoa.org/places/573225)
+
+
+## 10273411: Mesatis (Achaia)
+[https://resource.manto.unh.edu/10273411](https://resource.manto.unh.edu/10273411)  
+
+### alignments:
+ - [Mesatis/Mesoa](https://pleiades.stoa.org/places/573370)
 
 
 ## 10274458: Pharai (Achaia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3541 alignments exist in _Pleiades_ place references as of 2024-11-01. The following list of alignments is grouped by zotkey.
+3544 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5130,6 +5130,13 @@
  - [Canusium](https://pleiades.stoa.org/places/442525)
 
 
+## Capena (Italy) 31 La Civitucola
+[https://topostext.org/place/422125UCap](https://topostext.org/place/422125UCap)  
+
+### alignments:
+ - [Capena](https://pleiades.stoa.org/places/413062)
+
+
 ## Capitium (Sicily)
 [https://topostext.org/place/378145UCap](https://topostext.org/place/378145UCap)  
 
@@ -9574,6 +9581,13 @@
 
 ### alignments:
  - [Heroonpolis](https://pleiades.stoa.org/places/727124)
+
+
+## Hestiaiotis region (Trikala)
+[https://topostext.org/place/395217RHes](https://topostext.org/place/395217RHes)  
+
+### alignments:
+ - [Hestiaiotis](https://pleiades.stoa.org/places/540815)
 
 
 ## Hexapyla sanct. (Sicily)
@@ -21896,6 +21910,13 @@
 
 ### alignments:
  - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
+
+
+## Strophades islands (Zakynthos)
+[https://topostext.org/place/373210IStr](https://topostext.org/place/373210IStr)  
+
+### alignments:
+ - [Strophades/Plotai (island group)](https://pleiades.stoa.org/places/142847211)
 
 
 ## Strouthos? cape (Argolid)
