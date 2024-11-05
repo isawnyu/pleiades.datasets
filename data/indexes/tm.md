@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3799 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
+3804 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3684,6 +3684,13 @@
  - [Mermertha](https://pleiades.stoa.org/places/741519)
 
 
+## GEO ID 13602: Dierna (Orşova)
+[http://www.trismegistos.org/place/13602](http://www.trismegistos.org/place/13602)  
+
+### alignments:
+ - [Dierna](https://pleiades.stoa.org/places/207078)
+
+
 ## GEO ID 13620: Umbria
 [http://www.trismegistos.org/place/13620](http://www.trismegistos.org/place/13620)  
 
@@ -6689,6 +6696,13 @@
  - [Egra/Meda'in Salih](https://pleiades.stoa.org/places/814675)
 
 
+## GEO ID 16863: Tiberias
+[http://www.trismegistos.org/place/16863](http://www.trismegistos.org/place/16863)  
+
+### alignments:
+ - [Tiberias](https://pleiades.stoa.org/places/678431)
+
+
 ## GEO ID 1688: Pergamon (Bergama)
 [https://www.trismegistos.org/place/1688](https://www.trismegistos.org/place/1688)  
 
@@ -8276,6 +8290,13 @@
 
 ### alignments:
  - [Gabrantouikes](https://pleiades.stoa.org/places/89187)
+
+
+## GEO ID 20088: Summuntorium (Mertingen)
+[www.trismegistos.org/place/20088](www.trismegistos.org/place/20088)  
+
+### alignments:
+ - [Summuntorium](https://pleiades.stoa.org/places/118986)
 
 
 ## GEO ID 20126: Aquincum (Budapest)
@@ -18795,6 +18816,13 @@
  - [Beni Hasan](https://pleiades.stoa.org/places/112509596)
 
 
+## GEO ID 41530: Tigranokerta (Arzan)
+[https://www.trismegistos.org/place/41530](https://www.trismegistos.org/place/41530)  
+
+### alignments:
+ - [Tigranocerta/Cholimma/Chlomaron](https://pleiades.stoa.org/places/874774)
+
+
 ## GEO ID 41531: Caeciliana (Tell Aushariye)
 [http://www.trismegistos.org/place/41531](http://www.trismegistos.org/place/41531)  
 
@@ -24531,6 +24559,13 @@
 
 ### alignments:
  - [Qal’at Sem’an/Church of Saint Simeon Stylites](https://pleiades.stoa.org/places/336554371)
+
+
+## GEO ID 60566: Oinous
+[https://www.trismegistos.org/place/60566](https://www.trismegistos.org/place/60566)  
+
+### alignments:
+ - [Oinous (river)](https://pleiades.stoa.org/places/570523)
 
 
 ## GEO ID 6057: Pnoups (Dokki Gel)

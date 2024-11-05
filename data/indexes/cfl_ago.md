@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-372 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
+372 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -853,7 +853,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=35974](https://chronique.efa.gr/?kroute=topo_public&id=35974)  
 
 ### alignments:
- - [Zakythos/Zacynthus](https://pleiades.stoa.org/places/531154)
+ - [Zakythos/Zacynthus (settlement)](https://pleiades.stoa.org/places/531154)
 
 
 ## Toponym 36434: Palairos, Zaverda (JO81/1928)

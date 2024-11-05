@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3544 alignments exist in _Pleiades_ place references as of 2024-11-04. The following list of alignments is grouped by zotkey.
+3546 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -16191,6 +16191,13 @@
  - [Oinophyta?](https://pleiades.stoa.org/places/540975)
 
 
+## Oinous R. (Lakonia) 4 - Οινούς
+[https://topostext.org/place/371224WOin](https://topostext.org/place/371224WOin)  
+
+### alignments:
+ - [Oinous (river)](https://pleiades.stoa.org/places/570523)
+
+
 ## Oion (Arkadia)
 [https://topostext.org/place/374224UOio](https://topostext.org/place/374224UOio)  
 
@@ -23355,6 +23362,13 @@
  - [Tigani basilica](https://pleiades.stoa.org/places/910479808)
 
 
+## Tigranocerta (Armenia)
+[https://topostext.org/place/381410UTig](https://topostext.org/place/381410UTig)  
+
+### alignments:
+ - [Tigranocerta/Cholimma/Chlomaron](https://pleiades.stoa.org/places/874774)
+
+
 ## Tigris R (Mesopotamia)
 [https://topostext.org/place/346437WTig](https://topostext.org/place/346437WTig)  
 
@@ -24611,7 +24625,7 @@
 [https://topostext.org/place/378209PZak](https://topostext.org/place/378209PZak)  
 
 ### alignments:
- - [Zakythos/Zacynthus](https://pleiades.stoa.org/places/531154)
+ - [Zakythos/Zacynthus (settlement)](https://pleiades.stoa.org/places/531154)
 
 
 ## Zagora exc. (Andros) Palaiopolis - Ζαγορά
