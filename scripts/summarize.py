@@ -62,6 +62,7 @@ def get_pd_commits(recent):
         "data quality": "data quality",
         "bibliography": "bibliography",
         "indexes": "indexes",
+        "sidebar": "sidebar",
     }
     json_sha = None
     msg = list()
