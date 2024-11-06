@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4504 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
+4524 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -597,6 +597,13 @@
  - [Ash Altar of Zeus Lykaios](https://pleiades.stoa.org/places/535233377)
 
 
+## Altyndepe (Q2559322)
+[https://www.wikidata.org/wiki/Q2559322](https://www.wikidata.org/wiki/Q2559322)  
+
+### alignments:
+ - [Altyn-Depe](https://pleiades.stoa.org/places/842000735)
+
+
 ## Alvand (Q2302910)
 [https://www.wikidata.org/wiki/Q2302910](https://www.wikidata.org/wiki/Q2302910)  
 
@@ -630,6 +637,13 @@
 
 ### alignments:
  - [Ambracius Sinus](https://pleiades.stoa.org/places/530795)
+
+
+## Ambrussum (Q1458146)
+[https://www.wikidata.org/wiki/Q1458146](https://www.wikidata.org/wiki/Q1458146)  
+
+### alignments:
+ - [Ambrussum](https://pleiades.stoa.org/places/147990)
 
 
 ## Amnya (Q1072523)
@@ -1262,6 +1276,13 @@
  - [Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
 
 
+## Argadina (Q98923958)
+[https://www.wikidata.org/wiki/Q98923958](https://www.wikidata.org/wiki/Q98923958)  
+
+### alignments:
+ - [Argadina](https://pleiades.stoa.org/places/60427)
+
+
 ## Argeathae (Q4789227)
 [https://www.wikidata.org/wiki/Q4789227](https://www.wikidata.org/wiki/Q4789227)  
 
@@ -1506,6 +1527,13 @@
 
 ### alignments:
  - [Astypalaia (island)](https://pleiades.stoa.org/places/599536)
+
+
+## Astyra (Q65070884)
+[https://www.wikidata.org/wiki/Q65070884](https://www.wikidata.org/wiki/Q65070884)  
+
+### alignments:
+ - [Astyra?](https://pleiades.stoa.org/places/550466)
 
 
 ## Aswan (Q29888)
@@ -2031,6 +2059,13 @@
 
 ### alignments:
  - [Bayon at Angkor Thom](https://pleiades.stoa.org/places/96853716)
+
+
+## Beaucaire (Q211647)
+[https://www.wikidata.org/wiki/Q211647](https://www.wikidata.org/wiki/Q211647)  
+
+### alignments:
+ - [Ugernum](https://pleiades.stoa.org/places/148223)
 
 
 ## Beit She'an (Q152368)
@@ -2726,6 +2761,13 @@
  - [Mausoleum Hadriani](https://pleiades.stoa.org/places/334776904)
 
 
+## Castell Bryn Gwyn (Q5049667)
+[https://www.wikidata.org/wiki/Q5049667](https://www.wikidata.org/wiki/Q5049667)  
+
+### alignments:
+ - [Castell Bryn Gwyn](https://pleiades.stoa.org/places/698771115)
+
+
 ## Castellina del Marangone (Q104551269)
 [https://www.wikidata.org/wiki/Q104551269](https://www.wikidata.org/wiki/Q104551269)  
 
@@ -2934,6 +2976,13 @@
 
 ### alignments:
  - [S. Alessandro](https://pleiades.stoa.org/places/423036)
+
+
+## Cati fons (Q126720169)
+[https://www.wikidata.org/wiki/Q126720169](https://www.wikidata.org/wiki/Q126720169)  
+
+### alignments:
+ - [Cati fons](https://pleiades.stoa.org/places/707840687)
 
 
 ## Cave of Apollon Ipakrion (Q24204697)
@@ -3468,6 +3517,13 @@
  - [Cryptoporticus (Alife)](https://pleiades.stoa.org/places/983012055)
 
 
+## Cubulteria (Q3699071)
+[https://www.wikidata.org/wiki/Q3699071](https://www.wikidata.org/wiki/Q3699071)  
+
+### alignments:
+ - [Kupelternum/Cubulteria](https://pleiades.stoa.org/places/432890)
+
+
 ## Cumae amphitheatre (Q28977996)
 [https://www.wikidata.org/wiki/Q28977996](https://www.wikidata.org/wiki/Q28977996)  
 
@@ -3676,6 +3732,13 @@
 
 ### alignments:
  - [Dema House](https://pleiades.stoa.org/places/726345182)
+
+
+## Derbe (Q20717624)
+[https://www.wikidata.org/wiki/Q20717624](https://www.wikidata.org/wiki/Q20717624)  
+
+### alignments:
+ - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
 
 
 ## Derna (Q211866)
@@ -5450,6 +5513,13 @@
  - [Iklaina](https://pleiades.stoa.org/places/658873856)
 
 
+## Ilgynly-depe (Q130956881)
+[https://www.wikidata.org/wiki/Q130956881](https://www.wikidata.org/wiki/Q130956881)  
+
+### alignments:
+ - [Ilgynly-Depe](https://pleiades.stoa.org/places/374540942)
+
+
 ## Iliturgicola (Q125763307)
 [https://www.wikidata.org/wiki/Q125763307](https://www.wikidata.org/wiki/Q125763307)  
 
@@ -6467,6 +6537,13 @@
  - [Leonforte](https://pleiades.stoa.org/places/764317939)
 
 
+## Lepsimandus (Q17619737)
+[https://www.wikidata.org/wiki/Q17619737](https://www.wikidata.org/wiki/Q17619737)  
+
+### alignments:
+ - [Lepsimandos? (island)](https://pleiades.stoa.org/places/599762)
+
+
 ## Leros (Q426893)
 [https://www.wikidata.org/wiki/Q426893](https://www.wikidata.org/wiki/Q426893)  
 
@@ -6752,6 +6829,13 @@
 
 ### alignments:
  - [Lycian League](https://pleiades.stoa.org/places/68843864)
+
+
+## Lycosura (Q1878714)
+[https://www.wikidata.org/wiki/Q1878714](https://www.wikidata.org/wiki/Q1878714)  
+
+### alignments:
+ - [Lykosoura](https://pleiades.stoa.org/places/570444)
 
 
 ## Lykaion Zeus sanctuary (Q111046342)
@@ -7487,6 +7571,13 @@
 
 ### alignments:
  - [Gaurus (mount)](https://pleiades.stoa.org/places/432861)
+
+
+## Mount Chortiatis (Q1076591)
+[https://www.wikidata.org/wiki/Q1076591](https://www.wikidata.org/wiki/Q1076591)  
+
+### alignments:
+ - [Kissos (mountain)](https://pleiades.stoa.org/places/491636)
 
 
 ## Mount Lykaion (Q1878690)
@@ -8595,6 +8686,13 @@
  - [Pella/Diokletianoupolis](https://pleiades.stoa.org/places/491687)
 
 
+## Pen-y-Crug (Q20584698)
+[https://www.wikidata.org/wiki/Q20584698](https://www.wikidata.org/wiki/Q20584698)  
+
+### alignments:
+ - [Pen-y-crug](https://pleiades.stoa.org/places/56616071)
+
+
 ## Penkalas Bridge (Q942877)
 [https://www.wikidata.org/wiki/Q942877](https://www.wikidata.org/wiki/Q942877)  
 
@@ -9279,6 +9377,13 @@
 
 ### alignments:
  - [Priniatikos Pyrgos](https://pleiades.stoa.org/places/55660936)
+
+
+## Proerna (Q16622363)
+[https://www.wikidata.org/wiki/Q16622363](https://www.wikidata.org/wiki/Q16622363)  
+
+### alignments:
+ - [Proerna](https://pleiades.stoa.org/places/541073)
 
 
 ## Pronnoi (Q7249936)
@@ -15921,6 +16026,13 @@
 
 ### alignments:
  - [Oea](https://pleiades.stoa.org/places/344456)
+
+
+## Q1995379
+[https://www.wikidata.org/wiki/Q1995379](https://www.wikidata.org/wiki/Q1995379)  
+
+### alignments:
+ - [Velzeke](https://pleiades.stoa.org/places/109413)
 
 
 ## Q199547: Harran
@@ -27472,6 +27584,13 @@
  - [Taphitis (promontory)](https://pleiades.stoa.org/places/315184)
 
 
+## Ras Sidi Giogghig (Q106182547)
+[https://www.wikidata.org/wiki/Q106182547](https://www.wikidata.org/wiki/Q106182547)  
+
+### alignments:
+ - [Locri](https://pleiades.stoa.org/places/344424)
+
+
 ## Rass Kaboudia (Q11944750)
 [https://www.wikidata.org/wiki/Q11944750](https://www.wikidata.org/wiki/Q11944750)  
 
@@ -28661,6 +28780,13 @@
 
 ### alignments:
  - [Šeḫa River Land](https://pleiades.stoa.org/places/415460394)
+
+
+## Sekotias Lakas (Q109793548)
+[https://www.wikidata.org/wiki/Q109793548](https://www.wikidata.org/wiki/Q109793548)  
+
+### alignments:
+ - [Segontia](https://pleiades.stoa.org/places/246639)
 
 
 ## Seleucid Empire (Q93180)
@@ -31257,6 +31383,13 @@
  - [Vroulia](https://pleiades.stoa.org/places/590093)
 
 
+## Wadi al-Qura (Q22690572)
+[https://www.wikidata.org/wiki/Q22690572](https://www.wikidata.org/wiki/Q22690572)  
+
+### alignments:
+ - [Wadi al-Qura'](https://pleiades.stoa.org/places/814750)
+
+
 ## Wadi El Natrun (Q1074945)
 [https://www.wikidata.org/wiki/Q1074945](https://www.wikidata.org/wiki/Q1074945)  
 
@@ -31570,6 +31703,13 @@
 
 ### alignments:
  - [Hagar Qin Megalithic Temple Complex (Malta)](https://pleiades.stoa.org/places/75740664)
+
+
+## Šitbořice (Q391753)
+[https://www.wikidata.org/wiki/Q391753](https://www.wikidata.org/wiki/Q391753)  
+
+### alignments:
+ - [Šitbořice](https://pleiades.stoa.org/places/128513)
 
 
 ## Żejtun Roman villa (Q15949942)

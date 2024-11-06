@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-571 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
+572 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## 10113564: Lycosoura (Arcadia)
+[https://resource.manto.unh.edu/10113564](https://resource.manto.unh.edu/10113564)  
+
+### alignments:
+ - [Lykosoura](https://pleiades.stoa.org/places/570444)
 
 
 ## 10113585: Mount Lycaion (Arcadia)

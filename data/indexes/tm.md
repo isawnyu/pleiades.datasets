@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3804 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
+3810 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4665,6 +4665,13 @@
  - [Trebula Balli(ni)ensium](https://pleiades.stoa.org/places/433164)
 
 
+## GEO ID 14442
+[http://www.trismegistos.org/place/14442](http://www.trismegistos.org/place/14442)  
+
+### alignments:
+ - [Kupelternum/Cubulteria](https://pleiades.stoa.org/places/432890)
+
+
 ## GEO ID 14444: Phistelia
 [http://www.trismegistos.org/place/14444](http://www.trismegistos.org/place/14444)  
 
@@ -8579,6 +8586,13 @@
  - [Col. Ruscino](https://pleiades.stoa.org/places/246348)
 
 
+## GEO ID 20678
+[https://www.trismegistos.org/place/20678](https://www.trismegistos.org/place/20678)  
+
+### alignments:
+ - [Ambrussum](https://pleiades.stoa.org/places/147990)
+
+
 ## GEO ID 20682
 [https://www.trismegistos.org/place/20682](https://www.trismegistos.org/place/20682)  
 
@@ -8668,6 +8682,13 @@
 
 ### alignments:
  - [Schedia/Chaireon/Menelais?](https://pleiades.stoa.org/places/727221)
+
+
+## GEO ID 20974
+[http://www.trismegistos.org/place/20974](http://www.trismegistos.org/place/20974)  
+
+### alignments:
+ - [Ugernum](https://pleiades.stoa.org/places/148223)
 
 
 ## GEO ID 21042: Carpentorate (Carpentras)
@@ -14767,6 +14788,13 @@
 
 ### alignments:
  - [Augustobona](https://pleiades.stoa.org/places/108775)
+
+
+## GEO ID 33442: Proerna (Gynaikokastro)
+[http://www.trismegistos.org/place/33442](http://www.trismegistos.org/place/33442)  
+
+### alignments:
+ - [Proerna](https://pleiades.stoa.org/places/541073)
 
 
 ## GEO ID 33450: Palaipharsalos
@@ -24491,6 +24519,13 @@
  - [Euhippe](https://pleiades.stoa.org/places/599614)
 
 
+## GEO ID 58966: Lepsimandos (Kalolimnos)
+[https://www.trismegistos.org/place/58966](https://www.trismegistos.org/place/58966)  
+
+### alignments:
+ - [Lepsimandos? (island)](https://pleiades.stoa.org/places/599762)
+
+
 ## GEO ID 58967: Syangela (Kaplan Dağ)
 [https://www.trismegistos.org/place/58967](https://www.trismegistos.org/place/58967)  
 
@@ -24524,6 +24559,13 @@
 
 ### alignments:
  - [Satyrion/Saturum](https://pleiades.stoa.org/places/442789)
+
+
+## GEO ID 59721: Derbe (Kerti Hüyük)
+[https://www.trismegistos.org/place/59721](https://www.trismegistos.org/place/59721)  
+
+### alignments:
+ - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
 
 
 ## GEO ID 60127: Vroulia

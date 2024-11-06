@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3546 alignments exist in _Pleiades_ place references as of 2024-11-05. The following list of alignments is grouped by zotkey.
+3548 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6448,6 +6448,13 @@
  - [Deobriga](https://pleiades.stoa.org/places/246365)
 
 
+## Derbe (Lykaonia) 12 Kerti Hüyük - Δέρβη
+[https://topostext.org/place/373334UDer](https://topostext.org/place/373334UDer)  
+
+### alignments:
+ - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
+
+
 ## Deris (Thrace)
 [https://topostext.org/place/407268UDer](https://topostext.org/place/407268UDer)  
 
@@ -11568,6 +11575,13 @@
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
 
 
+## Kissos Mt. (Thessaloniki)
+[https://topostext.org/place/408233LKis](https://topostext.org/place/408233LKis)  
+
+### alignments:
+ - [Kissos (mountain)](https://pleiades.stoa.org/places/491636)
+
+
 ## Kisthene (Aiolis)
 [https://topostext.org/place/394268PKis](https://topostext.org/place/394268PKis)  
 
@@ -13052,7 +13066,7 @@
 [https://topostext.org/place/371271PLep](https://topostext.org/place/371271PLep)  
 
 ### alignments:
- - [Lepsimandos? Ins.](https://pleiades.stoa.org/places/599762)
+ - [Lepsimandos? (island)](https://pleiades.stoa.org/places/599762)
 
 
 ## Lepte Akra (Egypt)
