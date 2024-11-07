@@ -355,8 +355,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -386,7 +386,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-07-14T20:26:45Z",
             "creators": [
                 {
@@ -479,6 +486,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "added PAA",
+                    "modified": "2024-11-06T22:21:35Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-08-20T01:27:35Z",
