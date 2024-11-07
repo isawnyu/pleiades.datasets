@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3810 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
+3812 alignments exist in _Pleiades_ place references as of 2024-11-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7830,6 +7830,13 @@
  - [Oktapitaron Akron](https://pleiades.stoa.org/places/79628)
 
 
+## GEO ID 19632: Ratostabius (River Taff)
+[http://www.trismegistos.org/place/19632](http://www.trismegistos.org/place/19632)  
+
+### alignments:
+ - [Ratostabios? (river)](https://pleiades.stoa.org/places/79652)
+
+
 ## GEO ID 19634: Uxela (River Parrett?)
 [http://www.trismegistos.org/place/19634](http://www.trismegistos.org/place/19634)  
 
@@ -10278,6 +10285,13 @@
 
 ### alignments:
  - [Baesippo](https://pleiades.stoa.org/places/256007)
+
+
+## GEO ID 26013: Carbula (Almodóvar del Río)
+[http://www.trismegistos.org/place/26013](http://www.trismegistos.org/place/26013)  
+
+### alignments:
+ - [Carbula](https://pleiades.stoa.org/places/256056)
 
 
 ## GEO ID 26019: Castra Vinaria

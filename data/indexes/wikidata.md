@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with Wikidata
-4524 alignments exist in _Pleiades_ place references as of 2024-11-06. The following list of alignments is grouped by zotkey.
+4553 alignments exist in _Pleiades_ place references as of 2024-11-07. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
 
 ### alignments:
  - [Darenth](https://pleiades.stoa.org/places/79413)
+
+
+## Abariltur (Q11903682)
+[https://www.wikidata.org/wiki/Q11903682](https://www.wikidata.org/wiki/Q11903682)  
+
+### alignments:
+ - [Abariltur](https://pleiades.stoa.org/places/252927)
 
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
@@ -1886,6 +1893,13 @@
  - [Col. Barcino](https://pleiades.stoa.org/places/246343)
 
 
+## Barrow (Q936301)
+[https://www.wikidata.org/wiki/Q936301](https://www.wikidata.org/wiki/Q936301)  
+
+### alignments:
+ - [Birgos? (river)](https://pleiades.stoa.org/places/79329)
+
+
 ## Bartın River (Q2886191)
 [https://www.wikidata.org/wiki/Q2886191](https://www.wikidata.org/wiki/Q2886191)  
 
@@ -2222,11 +2236,39 @@
  - [Blaundos](https://pleiades.stoa.org/places/609344)
 
 
+## Block A6, Dura-Europos (Q116621920)
+[https://www.wikidata.org/wiki/Q116621920](https://www.wikidata.org/wiki/Q116621920)  
+
+### alignments:
+ - [Block A6](https://pleiades.stoa.org/places/451190278)
+
+
+## Block B5, Dura-Europos (Q116621928)
+[https://www.wikidata.org/wiki/Q116621928](https://www.wikidata.org/wiki/Q116621928)  
+
+### alignments:
+ - [Block B5](https://pleiades.stoa.org/places/451190285)
+
+
 ## Block J9, Dura-Europos (Q116622020)
 [https://www.wikidata.org/wiki/Q116622020](https://www.wikidata.org/wiki/Q116622020)  
 
 ### alignments:
  - [Block J9](https://pleiades.stoa.org/places/451190363)
+
+
+## Block L7, Dura-Europos (Q108076746)
+[https://www.wikidata.org/wiki/Q108076746](https://www.wikidata.org/wiki/Q108076746)  
+
+### alignments:
+ - [Block L7](https://pleiades.stoa.org/places/769637719)
+
+
+## Block L7, Dura-Europos (Q108076746)
+[https://www.wikidata.org/wiki/Q115327578](https://www.wikidata.org/wiki/Q115327578)  
+
+### alignments:
+ - [House L7-H](https://pleiades.stoa.org/places/769637721)
 
 
 ## Block M8, Dura-Europos (Q116622045)
@@ -2304,6 +2346,13 @@
 
 ### alignments:
  - [Salbake (mountain)](https://pleiades.stoa.org/places/639088)
+
+
+## Bracara Augusta (Q3331867)
+[https://www.wikidata.org/wiki/Q3331867](https://www.wikidata.org/wiki/Q3331867)  
+
+### alignments:
+ - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
 
 
 ## Brading Roman Villa (Q17671924)
@@ -2642,6 +2691,13 @@
  - [Cappadocia (region)](https://pleiades.stoa.org/places/628949)
 
 
+## Carbula (Q109918561)
+[https://www.wikidata.org/wiki/Q109918561](https://www.wikidata.org/wiki/Q109918561)  
+
+### alignments:
+ - [Carbula](https://pleiades.stoa.org/places/256056)
+
+
 ## Carchemish (Q283680)
 [https://www.wikidata.org/wiki/Q283680](https://www.wikidata.org/wiki/Q283680)  
 
@@ -2796,11 +2852,25 @@
  - [Abusina](https://pleiades.stoa.org/places/118539)
 
 
+## Castra Ad Fines (Q1124663)
+[https://www.wikidata.org/wiki/Q1124663](https://www.wikidata.org/wiki/Q1124663)  
+
+### alignments:
+ - [Ad Fines](https://pleiades.stoa.org/places/187249)
+
+
 ## Castra Albana (Q3663109)
 [https://www.wikidata.org/wiki/Q3663109](https://www.wikidata.org/wiki/Q3663109)  
 
 ### alignments:
  - [Castra Albana](https://pleiades.stoa.org/places/422885)
+
+
+## Castra Arbon (Q1692925)
+[https://www.wikidata.org/wiki/Q1692925](https://www.wikidata.org/wiki/Q1692925)  
+
+### alignments:
+ - [Arbor Felix](https://pleiades.stoa.org/places/187292)
 
 
 ## Castra Caput Stenarum (Q499858)
@@ -2843,6 +2913,13 @@
 
 ### alignments:
  - [Burladingen](https://pleiades.stoa.org/places/118618)
+
+
+## Castra of Dambach (Q1370136)
+[https://www.wikidata.org/wiki/Q1370136](https://www.wikidata.org/wiki/Q1370136)  
+
+### alignments:
+ - [Dambach](https://pleiades.stoa.org/places/118638)
 
 
 ## Castra of Duel (Q1299984)
@@ -3151,6 +3228,13 @@
 
 ### alignments:
  - [Chil Zena](https://pleiades.stoa.org/places/787408099)
+
+
+## Chirchiq (Q1961081)
+[https://www.wikidata.org/wiki/Q1961081](https://www.wikidata.org/wiki/Q1961081)  
+
+### alignments:
+ - [Dymos? (river)](https://pleiades.stoa.org/places/59798)
 
 
 ## Christian Basilica (Q810067)
@@ -3971,6 +4055,13 @@
 
 ### alignments:
  - [Congavata](https://pleiades.stoa.org/places/89151)
+
+
+## Dura-Europos synagogue (Q1577089)
+[https://www.wikidata.org/wiki/Q1577089](https://www.wikidata.org/wiki/Q1577089)  
+
+### alignments:
+ - [Synagogue at Dura-Europos](https://pleiades.stoa.org/places/335307374)
 
 
 ## Duratón Necropolis (Q30728461)
@@ -5457,6 +5548,13 @@
  - [Via Livenza hypogeum](https://pleiades.stoa.org/places/123625165)
 
 
+## Hypogeum of Ħal Saflieni (Q755514)
+[https://www.wikidata.org/wiki/Q755514](https://www.wikidata.org/wiki/Q755514)  
+
+### alignments:
+ - [Hypogeum of Ħal-Saflieni (Malta)](https://pleiades.stoa.org/places/477527423)
+
+
 ## Hypsus (Q12885662)
 [https://www.wikidata.org/wiki/Q12885662](https://www.wikidata.org/wiki/Q12885662)  
 
@@ -5616,6 +5714,13 @@
 
 ### alignments:
  - [Vectis (island)](https://pleiades.stoa.org/places/79731)
+
+
+## Issus (Q1360503)
+[https://www.wikidata.org/wiki/Q1360503](https://www.wikidata.org/wiki/Q1360503)  
+
+### alignments:
+ - [Issus/Nikopolis](https://pleiades.stoa.org/places/658490)
 
 
 ## Italia Suburbicaria (Q3804151)
@@ -5982,6 +6087,13 @@
  - [Kalīshīn](https://pleiades.stoa.org/places/129260382)
 
 
+## Ken River (Q3322395)
+[https://www.wikidata.org/wiki/Q3322395](https://www.wikidata.org/wiki/Q3322395)  
+
+### alignments:
+ - [Cainnas (river)](https://pleiades.stoa.org/places/59757)
+
+
 ## Kephale (Q13445967)
 [https://www.wikidata.org/wiki/Q13445967](https://www.wikidata.org/wiki/Q13445967)  
 
@@ -6115,6 +6227,13 @@
  - [Klukhor Pass](https://pleiades.stoa.org/places/857192)
 
 
+## Kodrana (Q21556405)
+[https://www.wikidata.org/wiki/Q21556405](https://www.wikidata.org/wiki/Q21556405)  
+
+### alignments:
+ - [Kodrana](https://pleiades.stoa.org/places/60546)
+
+
 ## Koiliaris (Q3198324)
 [https://www.wikidata.org/wiki/Q3198324](https://www.wikidata.org/wiki/Q3198324)  
 
@@ -6148,6 +6267,13 @@
 
 ### alignments:
  - [Corcyra Nigra (island)](https://pleiades.stoa.org/places/197224)
+
+
+## Kosi River (Q19747061)
+[https://www.wikidata.org/wiki/Q19747061](https://www.wikidata.org/wiki/Q19747061)  
+
+### alignments:
+ - [Casuagus/Kossoanos (river)](https://pleiades.stoa.org/places/59763)
 
 
 ## Koumasa (Q3199288)
@@ -6190,6 +6316,20 @@
 
 ### alignments:
  - [Ksar el Kaoua](https://pleiades.stoa.org/places/285472)
+
+
+## Kunar River (Q8519)
+[https://www.wikidata.org/wiki/Q8519](https://www.wikidata.org/wiki/Q8519)  
+
+### alignments:
+ - [Euas(...) (river)](https://pleiades.stoa.org/places/59811)
+
+
+## Kunduz River (Q2985144)
+[https://www.wikidata.org/wiki/Q2985144](https://www.wikidata.org/wiki/Q2985144)  
+
+### alignments:
+ - [Dargoidos? (river)](https://pleiades.stoa.org/places/59789)
 
 
 ## Kuntillet Ajrud (Q1399030)
@@ -6303,6 +6443,13 @@
 
 ### alignments:
  - [Quintanilla de la Cueza](https://pleiades.stoa.org/places/236624)
+
+
+## Lacetani (Q386795)
+[https://www.wikidata.org/wiki/Q386795](https://www.wikidata.org/wiki/Q386795)  
+
+### alignments:
+ - [Lacetani](https://pleiades.stoa.org/places/246458)
 
 
 ## Laconian Gulf (Q589877)
@@ -7158,6 +7305,13 @@
 
 ### alignments:
  - [Taphos (island)](https://pleiades.stoa.org/places/531114)
+
+
+## Meghna River (Q1125242)
+[https://www.wikidata.org/wiki/Q1125242](https://www.wikidata.org/wiki/Q1125242)  
+
+### alignments:
+ - [Antibolei (river)](https://pleiades.stoa.org/places/59684)
 
 
 ## Meinarti Island (Q49658086)
@@ -9615,7 +9769,6 @@
 
 ### alignments:
  - [Roman amphitheater at Volaterrae](https://pleiades.stoa.org/places/435476404)
- - [Roman amphitheater at Volaterrae](https://pleiades.stoa.org/places/9176604)
 
 
 ## Q1001533: Lyctus
@@ -10169,7 +10322,6 @@
 
 ### alignments:
  - [Catacombe San Marcellino e Pietro](https://pleiades.stoa.org/places/281289039)
- - [Marcellinus and Peter](https://pleiades.stoa.org/places/176681325)
 
 
 ## Q105604945: Iuvanum Roman theater
@@ -13642,13 +13794,6 @@
 
 ### alignments:
  - [Boi(i)](https://pleiades.stoa.org/places/393390)
-
-
-## Q1577089: Dura-Europos synagogue
-[https://www.wikidata.org/wiki/Q1577089](https://www.wikidata.org/wiki/Q1577089)  
-
-### alignments:
- - [Synagogue at Dura-Europos](https://pleiades.stoa.org/places/335307374)
 
 
 ## Q157747: Lupanar
@@ -27703,6 +27848,13 @@
  - [Phasis (river)](https://pleiades.stoa.org/places/857276)
 
 
+## River Annan (Q614840)
+[https://www.wikidata.org/wiki/Q614840](https://www.wikidata.org/wiki/Q614840)  
+
+### alignments:
+ - [Anava (river)](https://pleiades.stoa.org/places/89103)
+
+
 ## River Gate, Dura-Europos (Q116621905)
 [https://www.wikidata.org/wiki/Q116621905](https://www.wikidata.org/wiki/Q116621905)  
 
@@ -27722,6 +27874,27 @@
 
 ### alignments:
  - [Satnioeis (river)](https://pleiades.stoa.org/places/550870)
+
+
+## River Taff (Q19700)
+[https://www.wikidata.org/wiki/Q19700](https://www.wikidata.org/wiki/Q19700)  
+
+### alignments:
+ - [Ratostabios? (river)](https://pleiades.stoa.org/places/79652)
+
+
+## River Towy (Q2454720)
+[https://www.wikidata.org/wiki/Q2454720](https://www.wikidata.org/wiki/Q2454720)  
+
+### alignments:
+ - [To(u)bios (river)](https://pleiades.stoa.org/places/79717)
+
+
+## River Ystwyth (Q2121702)
+[https://www.wikidata.org/wiki/Q2121702](https://www.wikidata.org/wiki/Q2121702)  
+
+### alignments:
+ - [Stoukkia (river)](https://pleiades.stoa.org/places/79699)
 
 
 ## Rizinia (Q1650066)
@@ -28164,6 +28337,13 @@
 
 ### alignments:
  - [Rotomagus](https://pleiades.stoa.org/places/109287)
+
+
+## Roxolani (Q383325)
+[https://www.wikidata.org/wiki/Q383325](https://www.wikidata.org/wiki/Q383325)  
+
+### alignments:
+ - [Roxolani](https://pleiades.stoa.org/places/216961)
 
 
 ## Royal Hypogeum of Qatna (Q113540761)
@@ -29404,6 +29584,13 @@
 
 ### alignments:
  - [Syia](https://pleiades.stoa.org/places/590064)
+
+
+## Synagogue phase 1 (Q115328450)
+[https://www.wikidata.org/wiki/Q115328450](https://www.wikidata.org/wiki/Q115328450)  
+
+### alignments:
+ - [Synagogue phase 1](https://pleiades.stoa.org/places/769637722)
 
 
 ## Syr Dar (Q483159)
@@ -31453,6 +31640,13 @@
  - [Walwick Fell Roman temporary camp](https://pleiades.stoa.org/places/34684511)
 
 
+## Wesseling Roman Fort (Q1798803)
+[https://www.wikidata.org/wiki/Q1798803](https://www.wikidata.org/wiki/Q1798803)  
+
+### alignments:
+ - [Wesseling Roman Fort](https://pleiades.stoa.org/places/109459)
+
+
 ## White Pyramid (Q275666)
 [https://www.wikidata.org/wiki/Q275666](https://www.wikidata.org/wiki/Q275666)  
 
@@ -31612,6 +31806,13 @@
 
 ### alignments:
  - [Aegimoeroe (islands)](https://pleiades.stoa.org/places/314854)
+
+
+## Zeravshan (Q501027)
+[https://www.wikidata.org/wiki/Q501027](https://www.wikidata.org/wiki/Q501027)  
+
+### alignments:
+ - [Polytimetos (river)](https://pleiades.stoa.org/places/59999)
 
 
 ## Zerzevan Castle (Q28806346)
