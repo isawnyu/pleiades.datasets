@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4553 alignments exist in _Pleiades_ place references as of 2024-11-07. The following list of alignments is grouped by zotkey.
+4574 alignments exist in _Pleiades_ place references as of 2024-11-08. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -1508,6 +1508,13 @@
  - [Ass(er)a?](https://pleiades.stoa.org/places/501363)
 
 
+## Assembly Hall from Synagogue (phase 2) (Q118469354)
+[https://www.wikidata.org/wiki/Q118469354](https://www.wikidata.org/wiki/Q118469354)  
+
+### alignments:
+ - [Assembly Hall from Synagogue at Dura-Europos](https://pleiades.stoa.org/places/435331933)
+
+
 ## Assorus (Q4810310)
 [https://www.wikidata.org/wiki/Q4810310](https://www.wikidata.org/wiki/Q4810310)  
 
@@ -1765,6 +1772,13 @@
 
 ### alignments:
  - [Aşağı Yarımca](https://pleiades.stoa.org/places/872004920)
+
+
+## B Street gate in camp wall, Dura-Europos (Q116622099)
+[https://www.wikidata.org/wiki/Q116622099](https://www.wikidata.org/wiki/Q116622099)  
+
+### alignments:
+ - [B Street Gate in Camp Wall](https://pleiades.stoa.org/places/451190408)
 
 
 ## Bab el-Gasus (Q111630541)
@@ -2243,11 +2257,39 @@
  - [Block A6](https://pleiades.stoa.org/places/451190278)
 
 
+## Block A8, Dura-Europos (Q116621923)
+[https://www.wikidata.org/wiki/Q116621923](https://www.wikidata.org/wiki/Q116621923)  
+
+### alignments:
+ - [Block A8](https://pleiades.stoa.org/places/451190280)
+
+
+## Block B1, Dura-Europos (Q116621924)
+[https://www.wikidata.org/wiki/Q116621924](https://www.wikidata.org/wiki/Q116621924)  
+
+### alignments:
+ - [Block B1](https://pleiades.stoa.org/places/451190281)
+
+
 ## Block B5, Dura-Europos (Q116621928)
 [https://www.wikidata.org/wiki/Q116621928](https://www.wikidata.org/wiki/Q116621928)  
 
 ### alignments:
  - [Block B5](https://pleiades.stoa.org/places/451190285)
+
+
+## Block D10, Dura-Europos (Q116621958)
+[https://www.wikidata.org/wiki/Q116621958](https://www.wikidata.org/wiki/Q116621958)  
+
+### alignments:
+ - [Block D10](https://pleiades.stoa.org/places/451190309)
+
+
+## Block E7, Dura-Europos (Q116621966)
+[https://www.wikidata.org/wiki/Q116621966](https://www.wikidata.org/wiki/Q116621966)  
+
+### alignments:
+ - [Block E7](https://pleiades.stoa.org/places/451190317)
 
 
 ## Block J9, Dura-Europos (Q116622020)
@@ -2773,6 +2815,13 @@
 
 ### alignments:
  - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
+
+
+## Casa di Properzio (Q68096314)
+[https://www.wikidata.org/wiki/Q68096314](https://www.wikidata.org/wiki/Q68096314)  
+
+### alignments:
+ - [Casa di Properzio](https://pleiades.stoa.org/places/902282876)
 
 
 ## Casa Herrera Basilica (Q64850540)
@@ -6290,6 +6339,13 @@
  - [Kourion](https://pleiades.stoa.org/places/707549)
 
 
+## Kranaion cave sanctuary (Q104364036)
+[https://www.wikidata.org/wiki/Q104364036](https://www.wikidata.org/wiki/Q104364036)  
+
+### alignments:
+ - [Kranaion Antron](https://pleiades.stoa.org/places/589881)
+
+
 ## Kranioi (Q1786468)
 [https://www.wikidata.org/wiki/Q1786468](https://www.wikidata.org/wiki/Q1786468)  
 
@@ -6478,6 +6534,13 @@
 
 ### alignments:
  - [Lago dell'Accesa (lake)](https://pleiades.stoa.org/places/532675709)
+
+
+## Lake Burdur (Q1010475)
+[https://www.wikidata.org/wiki/Q1010475](https://www.wikidata.org/wiki/Q1010475)  
+
+### alignments:
+ - [Ascanius (lake)](https://pleiades.stoa.org/places/638774)
 
 
 ## Lake Chiusi (Q655536)
@@ -7601,6 +7664,13 @@
  - [Mutyce](https://pleiades.stoa.org/places/462378)
 
 
+## Mola di Monte Gelato (Q84607951)
+[https://www.wikidata.org/wiki/Q84607951](https://www.wikidata.org/wiki/Q84607951)  
+
+### alignments:
+ - [Mola di Monte Gelato](https://pleiades.stoa.org/places/413205)
+
+
 ## Monastery of Saint Macarius the Great (Q3320218)
 [https://www.wikidata.org/wiki/Q3320218](https://www.wikidata.org/wiki/Q3320218)  
 
@@ -8138,6 +8208,13 @@
 
 ### alignments:
  - [Pyramids of Meroe](https://pleiades.stoa.org/places/97711900)
+
+
+## Nurabad Tower (Q5950677)
+[https://www.wikidata.org/wiki/Q5950677](https://www.wikidata.org/wiki/Q5950677)  
+
+### alignments:
+ - [Nurabad](https://pleiades.stoa.org/places/922687)
 
 
 ## nuraghe Adoni (Q16583231)
@@ -11962,6 +12039,13 @@
 ### alignments:
  - [Casa del pomarius Felix ](https://pleiades.stoa.org/places/769901808)
  - [Horti Sallustiani](https://pleiades.stoa.org/places/166405461)
+
+
+## Q124161731
+[https://www.wikidata.org/wiki/Q124161731](https://www.wikidata.org/wiki/Q124161731)  
+
+### alignments:
+ - [Torraccia dell’Inviolata](https://pleiades.stoa.org/places/423091)
 
 
 ## Q124354318
@@ -27883,6 +27967,13 @@
  - [Ratostabios? (river)](https://pleiades.stoa.org/places/79652)
 
 
+## River Taw (Q2155554)
+[https://www.wikidata.org/wiki/Q2155554](https://www.wikidata.org/wiki/Q2155554)  
+
+### alignments:
+ - [‘Eltabo’ (river)](https://pleiades.stoa.org/places/79449)
+
+
 ## River Towy (Q2454720)
 [https://www.wikidata.org/wiki/Q2454720](https://www.wikidata.org/wiki/Q2454720)  
 
@@ -28057,6 +28148,13 @@
 
 ### alignments:
  - [Ponte de Trajano](https://pleiades.stoa.org/places/566027117)
+
+
+## Roman bridge of Lugo (Q12397861)
+[https://www.wikidata.org/wiki/Q12397861](https://www.wikidata.org/wiki/Q12397861)  
+
+### alignments:
+ - [Roman bridge of Lugo](https://pleiades.stoa.org/places/259024851)
 
 
 ## Roman camp, 290m north west of Seldom Seen (Q17643393)
@@ -28316,6 +28414,13 @@
 
 ### alignments:
  - [Roman Wall and Albarrana Islamic Tower](https://pleiades.stoa.org/places/324534810)
+
+
+## Roman Walls of Lugo (Q2733427)
+[https://www.wikidata.org/wiki/Q2733427](https://www.wikidata.org/wiki/Q2733427)  
+
+### alignments:
+ - [Roman walls of Lugo](https://pleiades.stoa.org/places/49788037)
 
 
 ## Romano-Celtic temple in Uley (Q17645666)
@@ -28624,6 +28729,13 @@
 
 ### alignments:
  - [Hermes, Aphrodite, T.](https://pleiades.stoa.org/places/589805)
+
+
+## Sanctuary of Monte Li Santi (Q3949896)
+[https://www.wikidata.org/wiki/Q3949896](https://www.wikidata.org/wiki/Q3949896)  
+
+### alignments:
+ - [Monte Li Santi](https://pleiades.stoa.org/places/792532423)
 
 
 ## Sanctuary of Pandion (Q3818592)
@@ -29591,6 +29703,13 @@
 
 ### alignments:
  - [Synagogue phase 1](https://pleiades.stoa.org/places/769637722)
+
+
+## Synagogue phase 2 (Q115328507)
+[https://www.wikidata.org/wiki/Q115328507](https://www.wikidata.org/wiki/Q115328507)  
+
+### alignments:
+ - [Synagogue phase 2](https://pleiades.stoa.org/places/769637723)
 
 
 ## Syr Dar (Q483159)
@@ -30652,6 +30771,13 @@
  - [Tomb of Arellia Tertulla](https://pleiades.stoa.org/places/422071346)
 
 
+## Tomb of Artaxerxes III (Q9630189)
+[https://www.wikidata.org/wiki/Q9630189](https://www.wikidata.org/wiki/Q9630189)  
+
+### alignments:
+ - [Tomb of Artaxerxes III](https://pleiades.stoa.org/places/658615446)
+
+
 ## tomb of Caius Cartilius Poplicola (Q55096569)
 [https://www.wikidata.org/wiki/Q55096569](https://www.wikidata.org/wiki/Q55096569)  
 
@@ -30664,6 +30790,13 @@
 
 ### alignments:
  - [Tomb of Gaius Vestorius Priscus](https://pleiades.stoa.org/places/118633297)
+
+
+## Tomb of Cossinia (Q92821132)
+[https://www.wikidata.org/wiki/Q92821132](https://www.wikidata.org/wiki/Q92821132)  
+
+### alignments:
+ - [Tomb of Cossinia](https://pleiades.stoa.org/places/766267488)
 
 
 ## Tomb of Eurysaces the Baker (Q56256396)
@@ -30860,6 +30993,13 @@
 
 ### alignments:
  - [Tower 12](https://pleiades.stoa.org/places/980015042)
+
+
+## Tower 15, Dura-Europos (Q108073668)
+[https://www.wikidata.org/wiki/Q108073668](https://www.wikidata.org/wiki/Q108073668)  
+
+### alignments:
+ - [Tower 15](https://pleiades.stoa.org/places/980015045)
 
 
 ## Tower 19, Dura-Europos (Q108073702)
@@ -31617,6 +31757,13 @@
 
 ### alignments:
  - [Wall0050, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/851079254)
+
+
+## Wall0052, Synagogue, Dura-Europos (Q127506335)
+[https://www.wikidata.org/wiki/Q127506335](https://www.wikidata.org/wiki/Q127506335)  
+
+### alignments:
+ - [Wall0052, Synagogue (Dura-Europos)](https://pleiades.stoa.org/places/185801900)
 
 
 ## walls of Rusellae (Q971697)
