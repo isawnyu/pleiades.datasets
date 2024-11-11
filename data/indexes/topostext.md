@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3548 alignments exist in _Pleiades_ place references as of 2024-11-08. The following list of alignments is grouped by zotkey.
+3555 alignments exist in _Pleiades_ place references as of 2024-11-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4892,6 +4892,13 @@
  - [Byblos](https://pleiades.stoa.org/places/668216)
 
 
+## Bylazora (Paionia)
+[https://topostext.org/place/418219UByl](https://topostext.org/place/418219UByl)  
+
+### alignments:
+ - [Bylazora?](https://pleiades.stoa.org/places/491557)
+
+
 ## Byllis (Illyria)
 [https://topostext.org/place/405197PByl](https://topostext.org/place/405197PByl)  
 
@@ -5723,6 +5730,13 @@
 
 ### alignments:
  - [Cibyra](https://pleiades.stoa.org/places/638804)
+
+
+## Cimmerian Bosphorus (Pontus)
+[https://topostext.org/place/454367WBos](https://topostext.org/place/454367WBos)  
+
+### alignments:
+ - [Cimmerius Bosp(h)orus](https://pleiades.stoa.org/places/854675)
 
 
 ## Circesium fort (Syria)
@@ -12367,6 +12381,13 @@
  - [Kynosoura](https://pleiades.stoa.org/places/580001)
 
 
+## Kynouria region (Arkadia)
+[https://topostext.org/place/374227RKyn](https://topostext.org/place/374227RKyn)  
+
+### alignments:
+ - [Kynouria](https://pleiades.stoa.org/places/570395)
+
+
 ## Kypaira (Phthiotis) 4 Palaia Yannitsou - Κύπαιρα
 [https://topostext.org/place/390221PKyp](https://topostext.org/place/390221PKyp)  
 
@@ -15069,6 +15090,13 @@
  - [Morgantina](https://pleiades.stoa.org/places/462372)
 
 
+## Moridunum (Britannia)
+[https://topostext.org/place/519000UXMo](https://topostext.org/place/519000UXMo)  
+
+### alignments:
+ - [*Moridunum](https://pleiades.stoa.org/places/79602)
+
+
 ## Moryllos (Kilkis)
 [https://topostext.org/place/409228UMor](https://topostext.org/place/409228UMor)  
 
@@ -15109,6 +15137,13 @@
 
 ### alignments:
  - [Munda](https://pleiades.stoa.org/places/256314)
+
+
+## Mursa (Pannonia)
+[https://topostext.org/place/456187UMur](https://topostext.org/place/456187UMur)  
+
+### alignments:
+ - [Mursa](https://pleiades.stoa.org/places/197389)
 
 
 ## Mutina (Italia)
@@ -21609,6 +21644,13 @@
  - [Solygeia](https://pleiades.stoa.org/places/570682)
 
 
+## Sopianae (Pannonia)
+[https://topostext.org/place/461182USop](https://topostext.org/place/461182USop)  
+
+### alignments:
+ - [Sopianae](https://pleiades.stoa.org/places/197523)
+
+
 ## Sora (Italy)
 [https://topostext.org/place/417136USor](https://topostext.org/place/417136USor)  
 
@@ -21994,6 +22036,13 @@
 
 ### alignments:
  - [Sublaqueum](https://pleiades.stoa.org/places/423078)
+
+
+## Sublician Bridge (Rome)
+[https://topostext.org/place/419125BPSu](https://topostext.org/place/419125BPSu)  
+
+### alignments:
+ - [Pons Sublicius](https://pleiades.stoa.org/places/286808786)
 
 
 ## Subur? (Iberia)
