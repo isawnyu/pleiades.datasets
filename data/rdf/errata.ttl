@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2024/11/03 06:48:8.057956 US/Eastern
+# Date: 2024/11/10 06:48:6.102109 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4674
+# Triple count: 4747
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -74,6 +74,11 @@
     spatial:C <https://pleiades.stoa.org//places/632227173%23this>;
     rdfs:comment "SEE *BOCCHORI: https://pleiades.stoa.org/places/265827";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org//errata/143028854> .
+
+<https://pleiades.stoa.org//errata/176681325%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn duplicate: Marcellinus and Peter";
+    rdfs:comment "This place resource was withdrawn and moved to \"errata\" because it is a duplicate of https://pleiades.stoa.org/places/281289039";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org//errata/176681325> .
 
 <https://pleiades.stoa.org//errata/177444%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn (duplicate): Aquae Calidae";
@@ -256,6 +261,12 @@
     rdfs:label "Untitled";
     rdfs:comment "An ancient place, cited: BAtlas 90";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org//errata/884129> .
+
+<https://pleiades.stoa.org//errata/9176604%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn duplicate: Roman amphitheater at Volaterrae";
+    spatial:C <https://pleiades.stoa.org//places/435476404%23this>;
+    rdfs:comment "This place record has been withdrawn and moved to errata because it is a duplicate of https://pleiades.stoa.org/places/435476404";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org//errata/9176604> .
 
 <https://pleiades.stoa.org//errata/919243561%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Castel Sant'Angelo";
@@ -1200,6 +1211,37 @@
         <https://pleiades.stoa.org//vocabularies/time-periods/roman>;
     pleiades:end_date 640;
     pleiades:start_date -1000 .
+
+<https://pleiades.stoa.org//errata/176681325> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "",
+        "Wikidata Q1055805: Catacombs of Marcellinus and Peter",
+        "Wikipedia (English) Catacombs of Marcellinus and Peter";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "This place resource was withdrawn and moved to \"errata\" because it is a duplicate of https://pleiades.stoa.org/places/281289039";
+    dcterms:modified "2024-11-07T08:24:40-05:00";
+    dcterms:title "Withdrawn duplicate: Marcellinus and Peter";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q1055805>;
+    cito:citesForInformation <http://cat.inist.fr/?aModele=afficheN&cpsidt=19915259>,
+        <https://en.wikipedia.org/wiki/Catacombs_of_Marcellinus_and_Peter>;
+    owl:sameAs <http://pleiades.stoa.org//errata/176681325>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//vocabularies/place-types/cemetery>;
+    pleiades:hasLocation <https://pleiades.stoa.org//errata/176681325/imagery-location> .
+
+<https://pleiades.stoa.org//errata/176681325/imagery-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "verified in Google Earth 2012";
+    dcterms:modified "2024-11-07T08:24:40-05:00";
+    dcterms:title "Imagery location of Catacomb of Marcellinus and Peter";
+    owl:sameAs <http://pleiades.stoa.org//errata/176681325/imagery-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org//vocabularies/time-periods/late-antique>,
+        <https://pleiades.stoa.org//vocabularies/time-periods/roman>;
+    pleiades:end_date 640;
+    pleiades:start_date -30 .
 
 <https://pleiades.stoa.org//errata/177444> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -2461,11 +2503,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -2484,11 +2526,11 @@
 
 <https://pleiades.stoa.org//errata/857326/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
     osspatial:partiallyOverlaps <http://atlantides.org/capgrids/87%23A4>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -2502,11 +2544,11 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org//errata/857326/skylax> a <https://pleiades.stoa.org/places/vocab#Name>;
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2661,6 +2703,39 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 90" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org//vocabularies/place-types/unknown> .
 
+<https://pleiades.stoa.org//errata/9176604> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Wikidata Q100106609: Roman amphitheatre of Volterra",
+        "Wikipedia (Italian) Anfiteatro romano di Volterra";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "This place record has been withdrawn and moved to errata because it is a duplicate of https://pleiades.stoa.org/places/435476404";
+    dcterms:modified "2024-11-07T08:18:35-05:00";
+    dcterms:subject "amphitheater",
+        "extant remains";
+    dcterms:title "Withdrawn duplicate: Roman amphitheater at Volaterrae";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q100106609>;
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Volterra>;
+    rdfs:seeAlso <https://pleiades.stoa.org//places/435476404>;
+    owl:sameAs <http://pleiades.stoa.org//errata/9176604>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org//vocabularies/place-types/amphitheatre>;
+    pleiades:hasLocation <https://pleiades.stoa.org//errata/9176604/osm-location-of-roman-amphitheater> .
+
+<https://pleiades.stoa.org//errata/9176604/osm-location-of-roman-amphitheater> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 3685449675";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2024-11-07T08:18:35-05:00";
+    dcterms:title "OSM location of Roman amphitheater";
+    cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/3685449675>;
+    owl:sameAs <http://pleiades.stoa.org//errata/9176604/osm-location-of-roman-amphitheater>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 3685449675, version 1, osm:changeset=33177383, 2015-08-07T11:27:49Z)" ];
+    pleiades:during <https://pleiades.stoa.org//vocabularies/time-periods/roman>;
+    pleiades:end_date 300;
+    pleiades:start_date -30 .
+
 <https://pleiades.stoa.org//errata/919243561> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Arachne Mausoleum des Hadrianus, sog. Engelsburg Rom, (Roma), Rom (Metropolitanstadt)",
@@ -2668,10 +2743,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ];
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ],
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
