@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3830 alignments exist in _Pleiades_ place references as of 2024-11-11. The following list of alignments is grouped by zotkey.
+3834 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6021,7 +6021,7 @@
 [http://www.trismegistos.org/place/15781](http://www.trismegistos.org/place/15781)  
 
 ### alignments:
- - [Dodona](https://pleiades.stoa.org/places/530843)
+ - [Dodona (Epirus)](https://pleiades.stoa.org/places/530843)
 
 
 ## GEO ID 15788: Lissos (Lezhë)
@@ -11331,6 +11331,13 @@
  - [Ad Fines](https://pleiades.stoa.org/places/187249)
 
 
+## GEO ID 28274: Teriolis (Zirl)
+[https://www.trismegistos.org/place/28274](https://www.trismegistos.org/place/28274)  
+
+### alignments:
+ - [Teriolis](https://pleiades.stoa.org/places/187581)
+
+
 ## GEO ID 2828: Kastron Mephaa (Umm el-Rasas)
 [http://www.trismegistos.org/place/2828](http://www.trismegistos.org/place/2828)  
 
@@ -13500,6 +13507,13 @@
 
 ### alignments:
  - [Sinues(s)a/Sinope](https://pleiades.stoa.org/places/433122)
+
+
+## GEO ID 32442
+[http://www.trismegistos.org/place/32442](http://www.trismegistos.org/place/32442)  
+
+### alignments:
+ - [Cereatae Marianae](https://pleiades.stoa.org/places/432776)
 
 
 ## GEO ID 32443: Clostra Romana (Borgo Grappa)
@@ -24617,6 +24631,13 @@
  - [Rhizous](https://pleiades.stoa.org/places/541085)
 
 
+## GEO ID 58927: Phakion
+[https://www.trismegistos.org/place/58927](https://www.trismegistos.org/place/58927)  
+
+### alignments:
+ - [Phakion](https://pleiades.stoa.org/places/543837)
+
+
 ## GEO ID 58933: Lamponeia (Kozlu Dağ)
 [https://www.trismegistos.org/place/58933](https://www.trismegistos.org/place/58933)  
 
@@ -24867,6 +24888,13 @@
 
 ### alignments:
  - [Skyllaion (promontory)](https://pleiades.stoa.org/places/570679)
+
+
+## GEO ID 60761: Panhellenios (Oros Aigina)
+[https://www.trismegistos.org/place/60761](https://www.trismegistos.org/place/60761)  
+
+### alignments:
+ - [Zeus Panhellenios sanctuary (Aegina)](https://pleiades.stoa.org/places/580139)
 
 
 ## GEO ID 60762: Sphairia

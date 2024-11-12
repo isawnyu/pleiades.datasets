@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3555 alignments exist in _Pleiades_ place references as of 2024-11-11. The following list of alignments is grouped by zotkey.
+3561 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6811,7 +6811,7 @@
 [https://topostext.org/place/395208SDod](https://topostext.org/place/395208SDod)  
 
 ### alignments:
- - [Dodona](https://pleiades.stoa.org/places/530843)
+ - [Dodona (Epirus)](https://pleiades.stoa.org/places/530843)
 
 
 ## Dolia Roman Villa (Epidauros)
@@ -15076,6 +15076,13 @@
  - [Monte Tosto](https://pleiades.stoa.org/places/422977)
 
 
+## Mopsion (Thessaly) 23 Gyrtoni - Μόψιον
+[https://topostext.org/place/398224PMop](https://topostext.org/place/398224PMop)  
+
+### alignments:
+ - [Mopsion](https://pleiades.stoa.org/places/540950)
+
+
 ## Mopsouestia (Cilicia)
 [https://topostext.org/place/370356UMop](https://topostext.org/place/370356UMop)  
 
@@ -17531,6 +17538,13 @@
  - [Pelargikon wall](https://pleiades.stoa.org/places/992770796)
 
 
+## Pelasgiotis region (Thessaly) 255 Thessalia - Πελασγία
+[https://topostext.org/place/398223UPel](https://topostext.org/place/398223UPel)  
+
+### alignments:
+ - [Pelasgiotis](https://pleiades.stoa.org/places/541018)
+
+
 ## Pele site (Kos)
 [https://topostext.org/place/368271UPel](https://topostext.org/place/368271UPel)  
 
@@ -17844,6 +17858,13 @@
 
 ### alignments:
  - [Phaistos](https://pleiades.stoa.org/places/589987)
+
+
+## Phakion? (Thessaly) 11 Metamorfosi? - Φάκιον
+[https://topostext.org/place/394223PPha](https://topostext.org/place/394223PPha)  
+
+### alignments:
+ - [Phakion](https://pleiades.stoa.org/places/543837)
 
 
 ## Phakoussa (Egypt)
@@ -18334,6 +18355,13 @@
 
 ### alignments:
  - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
+
+
+## Phrygia region (Asia Minor) 1107 Central Turkey - Φρυγία
+[https://topostext.org/place/400310RPhr](https://topostext.org/place/400310RPhr)  
+
+### alignments:
+ - [Phrygia](https://pleiades.stoa.org/places/511362)
 
 
 ## Phykous (Libya)
@@ -18922,6 +18950,13 @@
 
 ### alignments:
  - [Malis](https://pleiades.stoa.org/places/540930)
+
+
+## Place 389221RAin: Ainianes (Phthiotis)
+[https://topostext.org/place/389221RAin](https://topostext.org/place/389221RAin)  
+
+### alignments:
+ - [Ainis](https://pleiades.stoa.org/places/540611)
 
 
 ## Place 390212RAmp: Amphilochia region (Aitolia)
@@ -22702,6 +22737,13 @@
 
 ### alignments:
  - [Terina?](https://pleiades.stoa.org/places/452470)
+
+
+## Teriolis (Noricum)
+[https://topostext.org/place/473113UTer](https://topostext.org/place/473113UTer)  
+
+### alignments:
+ - [Teriolis](https://pleiades.stoa.org/places/187581)
 
 
 ## Termera (Caria)

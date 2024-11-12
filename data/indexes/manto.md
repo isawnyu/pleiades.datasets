@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-573 alignments exist in _Pleiades_ place references as of 2024-11-11. The following list of alignments is grouped by zotkey.
+576 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -930,6 +930,13 @@
 
 ### alignments:
  - [Amymone](https://pleiades.stoa.org/places/573086)
+
+
+## 10192053: Cryptos (Aigina)
+[https://resource.manto.unh.edu/10192053](https://resource.manto.unh.edu/10192053)  
+
+### alignments:
+ - [Kryptos Limen](https://pleiades.stoa.org/places/579997)
 
 
 ## 10193061: the Saronic Gulf
@@ -2614,6 +2621,13 @@
  - [Phylake](https://pleiades.stoa.org/places/541053)
 
 
+## 8228899: Ainiania
+[https://resource.manto.unh.edu/8228899](https://resource.manto.unh.edu/8228899)  
+
+### alignments:
+ - [Ainis](https://pleiades.stoa.org/places/540611)
+
+
 ## 8228905: Ormenion (Thessaly)
 [https://resource.manto.unh.edu/8228905](https://resource.manto.unh.edu/8228905)  
 
@@ -3669,6 +3683,13 @@
 
 ### alignments:
  - [Aithikia](https://pleiades.stoa.org/places/530789)
+
+
+## 9720490: Dodona (Thessaly)
+[https://resource.manto.unh.edu/9720490](https://resource.manto.unh.edu/9720490)  
+
+### alignments:
+ - [Dodona (Thessaly)](https://pleiades.stoa.org/places/543686)
 
 
 ## 9720495: River Peneios (Thessaly)

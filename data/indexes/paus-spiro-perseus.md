@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-488 alignments exist in _Pleiades_ place references as of 2024-11-11. The following list of alignments is grouped by zotkey.
+488 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -537,7 +537,7 @@
 [http://www.perseus.tufts.edu/hopper/text?doc=Paus.%2010.12.10&lang=original](http://www.perseus.tufts.edu/hopper/text?doc=Paus.%2010.12.10&lang=original)  
 
 ### alignments:
- - [Dodona](https://pleiades.stoa.org/places/530843)
+ - [Dodona (Epirus)](https://pleiades.stoa.org/places/530843)
 
 
 ## 10.13.3
