@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-488 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
+488 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1534,10 +1534,11 @@
  - [Skandeia](https://pleiades.stoa.org/places/570673)
 
 
-## 3.23.2
+## 3.23.3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.23.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.23.2)  
 
 ### alignments:
+ - [(Epi)Delion](https://pleiades.stoa.org/places/570230)
  - [Nymphaion](https://pleiades.stoa.org/places/570511)
 
 
@@ -2873,6 +2874,7 @@
  - [Lykaia](https://pleiades.stoa.org/places/573347)
  - [Lykosoura](https://pleiades.stoa.org/places/570444)
  - [Makareia](https://pleiades.stoa.org/places/570452)
+ - [Malea](https://pleiades.stoa.org/places/570454)
  - [Maleates](https://pleiades.stoa.org/places/573355)
  - [Prosenses/Proseis](https://pleiades.stoa.org/places/573484)
  - [Skirtonion](https://pleiades.stoa.org/places/573519)

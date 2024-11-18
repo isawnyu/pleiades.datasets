@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3834 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
+3850 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -85,6 +85,13 @@
 
 ### alignments:
  - [Eleutherai](https://pleiades.stoa.org/places/540756)
+
+
+## 738931
+[https://www.trismegistos.org/text/738931](https://www.trismegistos.org/text/738931)  
+
+### alignments:
+ - [Bir Tarakenet](https://pleiades.stoa.org/places/373759)
 
 
 ## 804218 = IG V.1 1108 (Kolbe, Walther - 1913)
@@ -2872,6 +2879,13 @@
  - [Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/658446)
 
 
+## GEO ID 11866: Bassianae (Donji Petrovci)
+[https://www.trismegistos.org/place/11866](https://www.trismegistos.org/place/11866)  
+
+### alignments:
+ - [Bassiana](https://pleiades.stoa.org/places/206960)
+
+
 ## GEO ID 11871: Samosata (Samsat)
 [http://www.trismegistos.org/place/11871](http://www.trismegistos.org/place/11871)  
 
@@ -4987,6 +5001,13 @@
  - [Sulloniacis](https://pleiades.stoa.org/places/79701)
 
 
+## GEO ID 14521: Petuaria (Brough-on-Humber)
+[http://www.trismegistos.org/place/14521](http://www.trismegistos.org/place/14521)  
+
+### alignments:
+ - [*Petuaria](https://pleiades.stoa.org/places/79639)
+
+
 ## GEO ID 14522: Navio (Brough-on-Noe)
 [http://www.trismegistos.org/place/14522](http://www.trismegistos.org/place/14522)  
 
@@ -5090,6 +5111,13 @@
 
 ### alignments:
  - [Uxelodu(nu)m](https://pleiades.stoa.org/places/89307)
+
+
+## GEO ID 14559
+[http://www.trismegistos.org/place/14559](http://www.trismegistos.org/place/14559)  
+
+### alignments:
+ - [Traprain Law](https://pleiades.stoa.org/places/89303)
 
 
 ## GEO ID 14560: Walltown Crags
@@ -5623,6 +5651,13 @@
 
 ### alignments:
  - [Durno(no)varia](https://pleiades.stoa.org/places/79431)
+
+
+## GEO ID 15293
+[http://www.trismegistos.org/place/15293](http://www.trismegistos.org/place/15293)  
+
+### alignments:
+ - [Cramond](https://pleiades.stoa.org/places/89153)
 
 
 ## GEO ID 15314: Corinium (Cirencester)
@@ -6234,6 +6269,13 @@
  - [Amorion](https://pleiades.stoa.org/places/609302)
 
 
+## GEO ID 16149: Kolossai (Honaz)
+[https://www.trismegistos.org/place/16149](https://www.trismegistos.org/place/16149)  
+
+### alignments:
+ - [Colossae](https://pleiades.stoa.org/places/638811)
+
+
 ## GEO ID 16152: Priapos (Karabiğa)
 [https://www.trismegistos.org/place/16152](https://www.trismegistos.org/place/16152)  
 
@@ -6456,6 +6498,13 @@
 
 ### alignments:
  - [Zimara](https://pleiades.stoa.org/places/629106)
+
+
+## GEO ID 16447: Arabissos (Afşin)
+[https://www.trismegistos.org/place/16447](https://www.trismegistos.org/place/16447)  
+
+### alignments:
+ - [Arabissos/Tripotamos](https://pleiades.stoa.org/places/628925)
 
 
 ## GEO ID 16449: Archelais (Aksaray)
@@ -7926,6 +7975,13 @@
 
 ### alignments:
  - [Ordovices](https://pleiades.stoa.org/places/79630)
+
+
+## GEO ID 19714: Catuvellauni
+[https://www.trismegistos.org/place/19714](https://www.trismegistos.org/place/19714)  
+
+### alignments:
+ - [Catuvellauni](https://pleiades.stoa.org/places/79381)
 
 
 ## GEO ID 19724: Dumnonii
@@ -13754,6 +13810,13 @@
  - [Varia](https://pleiades.stoa.org/places/423115)
 
 
+## GEO ID 3257: Aquae Granni (Aachen)
+[https://www.trismegistos.org/place/3257](https://www.trismegistos.org/place/3257)  
+
+### alignments:
+ - [Aquae Granni](https://pleiades.stoa.org/places/108749)
+
+
 ## GEO ID 32587: Verulae (Veroli)
 [http://www.trismegistos.org/place/32587](http://www.trismegistos.org/place/32587)  
 
@@ -14613,6 +14676,13 @@
 
 ### alignments:
  - [Borbetomagus](https://pleiades.stoa.org/places/108820)
+
+
+## GEO ID 33261: Soulia
+[https://www.trismegistos.org/place/33261](https://www.trismegistos.org/place/33261)  
+
+### alignments:
+ - [Soulia](https://pleiades.stoa.org/places/590056)
 
 
 ## GEO ID 3327: Aquileia
@@ -16666,6 +16736,13 @@
  - [Diomedeae (islands)](https://pleiades.stoa.org/places/197248)
 
 
+## GEO ID 37850: Erineos (Kastellia)
+[https://www.trismegistos.org/place/37850](https://www.trismegistos.org/place/37850)  
+
+### alignments:
+ - [Erineos](https://pleiades.stoa.org/places/540769)
+
+
 ## GEO ID 37865: Thronion
 [http://www.trismegistos.org/place/37865](http://www.trismegistos.org/place/37865)  
 
@@ -16916,6 +16993,13 @@
 
 ### alignments:
  - [Ad Duodecimum](https://pleiades.stoa.org/places/501326)
+
+
+## GEO ID 38386: Panion (Barbaros)
+[https://www.trismegistos.org/place/38386](https://www.trismegistos.org/place/38386)  
+
+### alignments:
+ - [Panion/Theodosiopolis](https://pleiades.stoa.org/places/511351)
 
 
 ## GEO ID 3839: Bolbitinon Stoma
@@ -18667,6 +18751,13 @@
 
 ### alignments:
  - [Causilena](https://pleiades.stoa.org/places/197204)
+
+
+## GEO ID 41311: Idiminium (Vojka)
+[https://www.trismegistos.org/place/41311](https://www.trismegistos.org/place/41311)  
+
+### alignments:
+ - [Idiminium](https://pleiades.stoa.org/places/207182)
 
 
 ## GEO ID 41312: Ad Basante (Bosut)
@@ -22717,6 +22808,13 @@
  - [Alutus (river)](https://pleiades.stoa.org/places/216701)
 
 
+## GEO ID 44996
+[http://www.trismegistos.org/place/44996](http://www.trismegistos.org/place/44996)  
+
+### alignments:
+ - [Oseriates](https://pleiades.stoa.org/places/197422)
+
+
 ## GEO ID 44997: Ulcirus Mons (Ilica)
 [http://www.trismegistos.org/place/44997](http://www.trismegistos.org/place/44997)  
 
@@ -25724,6 +25822,13 @@
  - [tribus Fabia](https://pleiades.stoa.org/places/182931392)
 
 
+## GEO ID 7232: Papiria
+[https://www.trismegistos.org/place/7232](https://www.trismegistos.org/place/7232)  
+
+### alignments:
+ - [tribus Papiria](https://pleiades.stoa.org/places/66019947)
+
+
 ## GEO ID 7235: Voturia
 [http://www.trismegistos.org/place/7235](http://www.trismegistos.org/place/7235)  
 
@@ -25778,6 +25883,13 @@
 
 ### alignments:
  - [tribus Poblilia](https://pleiades.stoa.org/places/964333742)
+
+
+## GEO ID 7244: Maecia
+[https://www.trismegistos.org/place/7244](https://www.trismegistos.org/place/7244)  
+
+### alignments:
+ - [tribus Maecia](https://pleiades.stoa.org/places/177271381)
 
 
 ## GEO ID 7246: Aniensis

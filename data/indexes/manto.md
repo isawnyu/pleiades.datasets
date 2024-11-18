@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-576 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
+578 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -244,6 +244,13 @@
 
 ### alignments:
  - [Helisson](https://pleiades.stoa.org/places/570282)
+
+
+## 10126261: Macaria (Arcadia)
+[https://resource.manto.unh.edu/10126261](https://resource.manto.unh.edu/10126261)  
+
+### alignments:
+ - [Makareia](https://pleiades.stoa.org/places/570452)
 
 
 ## 10126264: Daseai
@@ -2794,6 +2801,13 @@
 
 ### alignments:
  - [Pholoe (mountain)](https://pleiades.stoa.org/places/570607)
+
+
+## 8253981: Malea (Arcadia)
+[https://resource.manto.unh.edu/8253981](https://resource.manto.unh.edu/8253981)  
+
+### alignments:
+ - [Malea](https://pleiades.stoa.org/places/570454)
 
 
 ## 8253982: Mount Pelion (mountain in Thessaly)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3561 alignments exist in _Pleiades_ place references as of 2024-11-12. The following list of alignments is grouped by zotkey.
+3570 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -842,6 +842,13 @@
 
 ### alignments:
  - [Aelana/Aila](https://pleiades.stoa.org/places/746700)
+
+
+## Aineia (Thessaloniki) 59 Nea Michaniona - Αίνεια
+[https://topostext.org/place/404229PAin](https://topostext.org/place/404229PAin)  
+
+### alignments:
+ - [Aineia](https://pleiades.stoa.org/places/491513)
 
 
 ## Ainos (Thrace)
@@ -2161,6 +2168,13 @@
  - [Aperopia (island)](https://pleiades.stoa.org/places/570089)
 
 
+## Apesas Mt. (Korinthia) 19 Foukas - Απέσας
+[https://topostext.org/place/379227LApe](https://topostext.org/place/379227LApe)  
+
+### alignments:
+ - [Apesas (mountain)](https://pleiades.stoa.org/places/570090)
+
+
 ## Aphaia T. (Aegina)
 [https://topostext.org/place/378235SAph](https://topostext.org/place/378235SAph)  
 
@@ -2649,6 +2663,13 @@
 
 ### alignments:
  - [Aquae Calidae](https://pleiades.stoa.org/places/246168)
+
+
+## Aquae Granni/Aquis (Germania)
+[https://topostext.org/place/508061UAqu](https://topostext.org/place/508061UAqu)  
+
+### alignments:
+ - [Aquae Granni](https://pleiades.stoa.org/places/108749)
 
 
 ## Aquae Terebellicae (Gallia)
@@ -3616,6 +3637,13 @@
 
 ### alignments:
  - [Gate of Athena Archegetis](https://pleiades.stoa.org/places/376031236)
+
+
+## Athena Itonia sanct. (Boeotia)
+[https://topostext.org/place/384230SAth](https://topostext.org/place/384230SAth)  
+
+### alignments:
+ - [Athena Itonia?, T.](https://pleiades.stoa.org/places/540678)
 
 
 ## Athena Kranaia sanct. (Phthiotis)
@@ -6355,6 +6383,13 @@
  - [Delion](https://pleiades.stoa.org/places/599586)
 
 
+## Delian Apollo sanct. (Delos)
+[https://topostext.org/place/374253SSan](https://topostext.org/place/374253SSan)  
+
+### alignments:
+ - [Sanctuary of Apollo on Delos](https://pleiades.stoa.org/places/599506)
+
+
 ## Delion sanct. (Boeotia)
 [https://topostext.org/place/383237UDel](https://topostext.org/place/383237UDel)  
 
@@ -7583,6 +7618,13 @@
 
 ### alignments:
  - [Epidaurum](https://pleiades.stoa.org/places/197263)
+
+
+## Epidelion (Lakonia)
+[https://topostext.org/place/368233UEpi](https://topostext.org/place/368233UEpi)  
+
+### alignments:
+ - [(Epi)Delion](https://pleiades.stoa.org/places/570230)
 
 
 ## Epikephisia (Attica)
@@ -10761,6 +10803,13 @@
 
 ### alignments:
  - [Kale Peuke](https://pleiades.stoa.org/places/550607)
+
+
+## Kalindoia (Chalkidike) 3 Kalamoto - Καλίνδοια
+[https://topostext.org/place/406234PKal](https://topostext.org/place/406234PKal)  
+
+### alignments:
+ - [Kalindoia](https://pleiades.stoa.org/places/491627)
 
 
 ## Kallatis (Romania)
@@ -13953,6 +14002,13 @@
 
 ### alignments:
  - [Malaca](https://pleiades.stoa.org/places/265963)
+
+
+## Malea (Arkadia) 3 Voutsaras - Μηλέα
+[https://topostext.org/place/373222UMal](https://topostext.org/place/373222UMal)  
+
+### alignments:
+ - [Malea](https://pleiades.stoa.org/places/570454)
 
 
 ## Malea cape (Lakonia)
@@ -21192,6 +21248,13 @@
 
 ### alignments:
  - [Shrine of Venus Cloacina](https://pleiades.stoa.org/places/674507252)
+
+
+## Sicani, Sicanians
+[https://topostext.org/people/11018](https://topostext.org/people/11018)  
+
+### alignments:
+ - [Sicani](https://pleiades.stoa.org/places/462491)
 
 
 ## Sicca (Numidia)
