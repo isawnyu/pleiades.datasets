@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3570 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
+3571 alignments exist in _Pleiades_ place references as of 2024-11-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2880,6 +2880,13 @@
 
 ### alignments:
  - [Ardettos](https://pleiades.stoa.org/places/582870)
+
+
+## Ardiaei tribe (Illyria)
+[https://topostext.org/place/423195RArd](https://topostext.org/place/423195RArd)  
+
+### alignments:
+ - [Ardiaei](https://pleiades.stoa.org/places/197136)
 
 
 ## Aregenua/Vidocassii (Gallia)

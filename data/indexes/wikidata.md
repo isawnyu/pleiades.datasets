@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with Wikidata
-4794 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
+4808 alignments exist in _Pleiades_ place references as of 2024-11-19. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
 
 ### alignments:
  - [Darenth](https://pleiades.stoa.org/places/79413)
+
+
+## Aardenburg (Samian Ware Discovery Site) (Q103138125)
+[https://www.wikidata.org/wiki/Q103138125](https://www.wikidata.org/wiki/Q103138125)  
+
+### alignments:
+ - [Aardenburg](https://pleiades.stoa.org/places/108722)
 
 
 ## Abariltur (Q11903682)
@@ -1409,6 +1416,13 @@
  - [Ardettos](https://pleiades.stoa.org/places/582870)
 
 
+## Ardiaei (Q1088762)
+[https://www.wikidata.org/wiki/Q1088762](https://www.wikidata.org/wiki/Q1088762)  
+
+### alignments:
+ - [Ardiaei](https://pleiades.stoa.org/places/197136)
+
+
 ## Area archeologica di Decima (Q85859408)
 [https://www.wikidata.org/wiki/Q85859408](https://www.wikidata.org/wiki/Q85859408)  
 
@@ -2213,6 +2227,13 @@
 
 ### alignments:
  - [Roman baths at Hydata Hypsitana/Forum Traiani](https://pleiades.stoa.org/places/652509965)
+
+
+## Baths of Massaciuccoli (Q3984401)
+[https://www.wikidata.org/wiki/Q3984401](https://www.wikidata.org/wiki/Q3984401)  
+
+### alignments:
+ - [Villa dei Venulei - Terme Romane](https://pleiades.stoa.org/places/181167413)
 
 
 ## Baths of the Trinacria (Q126181252)
@@ -4166,6 +4187,13 @@
 
 ### alignments:
  - [Dacia](https://pleiades.stoa.org/places/207065)
+
+
+## Daldis (Q606535)
+[https://www.wikidata.org/wiki/Q606535](https://www.wikidata.org/wiki/Q606535)  
+
+### alignments:
+ - [Daldis (*Phlabiokaisareia)](https://pleiades.stoa.org/places/550508)
 
 
 ## Dalheim Ricciacum (Q5210859)
@@ -9863,6 +9891,13 @@
  - [Pereia](https://pleiades.stoa.org/places/541025)
 
 
+## Perminounda (Q65122846)
+[https://www.wikidata.org/wiki/Q65122846](https://www.wikidata.org/wiki/Q65122846)  
+
+### alignments:
+ - [*Perminounda](https://pleiades.stoa.org/places/639049)
+
+
 ## Perrhaebia (Q7169613)
 [https://www.wikidata.org/wiki/Q7169613](https://www.wikidata.org/wiki/Q7169613)  
 
@@ -10317,6 +10352,13 @@
 
 ### alignments:
  - [Pons Sublicius](https://pleiades.stoa.org/places/286808786)
+
+
+## Ponte a Moriano (Q48414097)
+[https://www.wikidata.org/wiki/Q48414097](https://www.wikidata.org/wiki/Q48414097)  
+
+### alignments:
+ - [Ponte a Moriano](https://pleiades.stoa.org/places/403257)
 
 
 ## Ponte d'Augusto (Q2063557)
@@ -30658,6 +30700,13 @@
  - [Scyrus (island)](https://pleiades.stoa.org/places/541093)
 
 
+## Snartemo (Q20963605)
+[https://www.wikidata.org/wiki/Q20963605](https://www.wikidata.org/wiki/Q20963605)  
+
+### alignments:
+ - [Snartemo](https://pleiades.stoa.org/places/20609)
+
+
 ## Soa (Q85801783)
 [https://www.wikidata.org/wiki/Q85801783](https://www.wikidata.org/wiki/Q85801783)  
 
@@ -30950,6 +30999,13 @@
 
 ### alignments:
  - [Su Nuraxi di Barumini](https://pleiades.stoa.org/places/948291971)
+
+
+## Sulaiman-Too (Q750190)
+[https://www.wikidata.org/wiki/Q750190](https://www.wikidata.org/wiki/Q750190)  
+
+### alignments:
+ - [Sulayman Mountain](https://pleiades.stoa.org/places/167102197)
 
 
 ## Sulloniacis (Q7636455)
@@ -31316,6 +31372,13 @@
 
 ### alignments:
  - [Temnos](https://pleiades.stoa.org/places/550908)
+
+
+## Tempagnano di Lunata (Q126193680)
+[https://www.wikidata.org/wiki/Q126193680](https://www.wikidata.org/wiki/Q126193680)  
+
+### alignments:
+ - [Tempagnano](https://pleiades.stoa.org/places/403281)
 
 
 ## Tempio italico (Q3983297)
@@ -32467,6 +32530,13 @@
  - [Tower 24](https://pleiades.stoa.org/places/980015054)
 
 
+## Tower 25, Dura-Europos (Q108073803)
+[https://www.wikidata.org/wiki/Q108073803](https://www.wikidata.org/wiki/Q108073803)  
+
+### alignments:
+ - [Tower 25](https://pleiades.stoa.org/places/980015055)
+
+
 ## Tower 26, Dura-Europos (Q108073861)
 [https://www.wikidata.org/wiki/Q108073861](https://www.wikidata.org/wiki/Q108073861)  
 
@@ -32486,6 +32556,13 @@
 
 ### alignments:
  - [Tower 5](https://pleiades.stoa.org/places/980015034)
+
+
+## Tower 7, Dura-Europos (Q108073456)
+[https://www.wikidata.org/wiki/Tower 7, Dura-Europos (Q108073456)](https://www.wikidata.org/wiki/Tower 7, Dura-Europos (Q108073456))  
+
+### alignments:
+ - [Tower 7](https://pleiades.stoa.org/places/980015037)
 
 
 ## Tower 9, Dura-Europos (Q108073590)
@@ -32859,6 +32936,13 @@
  - [Vatican Obelisk](https://pleiades.stoa.org/places/855632226)
 
 
+## Vecchiano (Q103287)
+[https://www.wikidata.org/wiki/Q103287](https://www.wikidata.org/wiki/Q103287)  
+
+### alignments:
+ - [Isola del Migliarino](https://pleiades.stoa.org/places/403225)
+
+
 ## Velian Hill (Q967948)
 [http://www.wikidata.org/entity/Q967948](http://www.wikidata.org/entity/Q967948)  
 
@@ -32894,6 +32978,13 @@
  - [Verona](https://pleiades.stoa.org/places/383816)
 
 
+## Versilia (Q426213)
+[https://www.wikidata.org/wiki/Q426213](https://www.wikidata.org/wiki/Q426213)  
+
+### alignments:
+ - [Fossae Papirianae](https://pleiades.stoa.org/places/403208)
+
+
 ## Vescera (Q737094)
 [https://www.wikidata.org/wiki/Q737094](https://www.wikidata.org/wiki/Q737094)  
 
@@ -32920,6 +33011,13 @@
 
 ### alignments:
  - [Via Aemilia](https://pleiades.stoa.org/places/66908841)
+
+
+## Via Aemilia Scauri (Q1240126)
+[https://www.wikidata.org/wiki/Q1240126](https://www.wikidata.org/wiki/Q1240126)  
+
+### alignments:
+ - [Via Aemilia Scauri](https://pleiades.stoa.org/places/502042016)
 
 
 ## Via Ardeatina (Q739066)

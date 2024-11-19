@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3850 alignments exist in _Pleiades_ place references as of 2024-11-18. The following list of alignments is grouped by zotkey.
+3852 alignments exist in _Pleiades_ place references as of 2024-11-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6309,6 +6309,13 @@
 
 ### alignments:
  - [Olbasa/Col. Iulia Augusta](https://pleiades.stoa.org/places/639015)
+
+
+## GEO ID 16166: Daldis (Nardi)
+[https://www.trismegistos.org/place/16166](https://www.trismegistos.org/place/16166)  
+
+### alignments:
+ - [Daldis (*Phlabiokaisareia)](https://pleiades.stoa.org/places/550508)
 
 
 ## GEO ID 16168: Laodikeia (Ladik)
@@ -25350,6 +25357,13 @@
 
 ### alignments:
  - [Adonis (river)](https://pleiades.stoa.org/places/668180)
+
+
+## GEO ID 61451: Ardiaei
+[https://www.trismegistos.org/place/61451](https://www.trismegistos.org/place/61451)  
+
+### alignments:
+ - [Ardiaei](https://pleiades.stoa.org/places/197136)
 
 
 ## GEO ID 61455: Batanaia
