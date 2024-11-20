@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-4808 alignments exist in _Pleiades_ place references as of 2024-11-19. The following list of alignments is grouped by zotkey.
+4814 alignments exist in _Pleiades_ place references as of 2024-11-20. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -868,6 +868,13 @@
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## Anatolike (Q21556448)
+[https://www.wikidata.org/wiki/Q21556448](https://www.wikidata.org/wiki/Q21556448)  
+
+### alignments:
+ - [Anatolike](https://pleiades.stoa.org/places/1001136)
 
 
 ## Ancient Corsica (Q1784775)
@@ -2563,13 +2570,6 @@
 
 ### alignments:
  - [Block L7](https://pleiades.stoa.org/places/769637719)
-
-
-## Block L7, Dura-Europos (Q108076746)
-[https://www.wikidata.org/wiki/Q115327578](https://www.wikidata.org/wiki/Q115327578)  
-
-### alignments:
- - [House L7-H](https://pleiades.stoa.org/places/769637721)
 
 
 ## Block M8, Dura-Europos (Q116622045)
@@ -5318,6 +5318,13 @@
  - [Germania Inferior](https://pleiades.stoa.org/places/981524)
 
 
+## Germania Superior (Q153553)
+[https://www.wikidata.org/wiki/Q153553](https://www.wikidata.org/wiki/Q153553)  
+
+### alignments:
+ - [Germania Superior](https://pleiades.stoa.org/places/1000)
+
+
 ## Geronio (Q3761234)
 [https://www.wikidata.org/wiki/Q3761234](https://www.wikidata.org/wiki/Q3761234)  
 
@@ -5890,6 +5897,13 @@
 
 ### alignments:
  - [House VIII.2.13](https://pleiades.stoa.org/places/546141835)
+
+
+## House L7-H (Q115327578)
+[https://www.wikidata.org/wiki/Q115327578](https://www.wikidata.org/wiki/Q115327578)  
+
+### alignments:
+ - [House L7-H](https://pleiades.stoa.org/places/769637721)
 
 
 ## House of Bacchus and Ariadne (Q1047006)
@@ -28921,6 +28935,13 @@
  - [Gasr Silina](https://pleiades.stoa.org/places/373811)
 
 
+## Qermez Dere (Q15841331)
+[https://www.wikidata.org/wiki/Q15841331](https://www.wikidata.org/wiki/Q15841331)  
+
+### alignments:
+ - [Qermez Dere](https://pleiades.stoa.org/places/52599409)
+
+
 ## Qohaito (Q4236500)
 [https://www.wikidata.org/wiki/Q4236500](https://www.wikidata.org/wiki/Q4236500)  
 
@@ -30553,6 +30574,13 @@
  - [Roman amphitheater at Calleva Atrebatum](https://pleiades.stoa.org/places/825677263)
 
 
+## Silingi (Q509437)
+[https://www.wikidata.org/wiki/Q509437](https://www.wikidata.org/wiki/Q509437)  
+
+### alignments:
+ - [Silingi](https://pleiades.stoa.org/places/101215)
+
+
 ## Silva Gallinaria (Q3960587)
 [https://www.wikidata.org/wiki/Q3960587](https://www.wikidata.org/wiki/Q3960587)  
 
@@ -31353,6 +31381,13 @@
  - [Matarrah](https://pleiades.stoa.org/places/588990229)
 
 
+## Tell Qarqur (Q14032965)
+[https://www.wikidata.org/wiki/Q14032965](https://www.wikidata.org/wiki/Q14032965)  
+
+### alignments:
+ - [Tell Qarqur](https://pleiades.stoa.org/places/995604669)
+
+
 ## Telmessos (Q1145385)
 [https://www.wikidata.org/wiki/Q1145385](https://www.wikidata.org/wiki/Q1145385)  
 
@@ -32037,6 +32072,13 @@
 
 ### alignments:
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
+
+
+## Thrakike (Q21556445)
+[https://www.wikidata.org/wiki/Q21556445](https://www.wikidata.org/wiki/Q21556445)  
+
+### alignments:
+ - [Thrakike](https://pleiades.stoa.org/places/1001132)
 
 
 ## Throne Room, Knossos (Q7798352)
