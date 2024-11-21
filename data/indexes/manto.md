@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-578 alignments exist in _Pleiades_ place references as of 2024-11-20. The following list of alignments is grouped by zotkey.
+581 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1490,6 +1490,13 @@
 
 ### alignments:
  - [Marpessos](https://pleiades.stoa.org/places/550723)
+
+
+## 10270831: the Castalian Spring (Delphi)
+[https://resource.manto.unh.edu/10270831](https://resource.manto.unh.edu/10270831)  
+
+### alignments:
+ - [Castalian spring](https://pleiades.stoa.org/places/203037083)
 
 
 ## 10272206: Rhamnous (Attica)
@@ -3027,6 +3034,13 @@
  - [Aetna (mountain)](https://pleiades.stoa.org/places/462077)
 
 
+## 9055629: Mount Parnassos (Phocis)
+[https://resource.manto.unh.edu/9055629](https://resource.manto.unh.edu/9055629)  
+
+### alignments:
+ - [Parnassus (mountain)](https://pleiades.stoa.org/places/541012)
+
+
 ## 9055651: Doris
 [https://resource.manto.unh.edu/9055651](https://resource.manto.unh.edu/9055651)  
 
@@ -3326,6 +3340,13 @@
 
 ### alignments:
  - [Kolonos](https://pleiades.stoa.org/places/579985)
+
+
+## 9613774: Mount Cyllene (Arcadia)
+[https://resource.manto.unh.edu/9613774](https://resource.manto.unh.edu/9613774)  
+
+### alignments:
+ - [Kyllene (mountain)](https://pleiades.stoa.org/places/570391)
 
 
 ## 9613865: Amphilochian Argos (Epeiros)
@@ -3906,7 +3927,7 @@
 [https://resource.manto.unh.edu/9910853](https://resource.manto.unh.edu/9910853)  
 
 ### alignments:
- - [Kardamyle](https://pleiades.stoa.org/places/570330)
+ - [Kardamyle (Messenia)](https://pleiades.stoa.org/places/570330)
 
 
 ## 9910858: Pedasos

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3852 alignments exist in _Pleiades_ place references as of 2024-11-20. The following list of alignments is grouped by zotkey.
+3862 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3809,6 +3809,13 @@
 
 ### alignments:
  - [Miletus](https://pleiades.stoa.org/places/599799)
+
+
+## GEO ID 13807: Parnasos
+[https://www.trismegistos.org/place/13807](https://www.trismegistos.org/place/13807)  
+
+### alignments:
+ - [Parnassus (mountain)](https://pleiades.stoa.org/places/541012)
 
 
 ## GEO ID 1384: Moiris (Birket Qarun)
@@ -9713,6 +9720,13 @@
  - [Segessera](https://pleiades.stoa.org/places/109335)
 
 
+## GEO ID 23662: Bibracte (Mont-Beuvray)
+[http://www.trismegistos.org/place/23662](http://www.trismegistos.org/place/23662)  
+
+### alignments:
+ - [Bibracte](https://pleiades.stoa.org/places/177473)
+
+
 ## GEO ID 2366: Themistou Meris
 [http://www.trismegistos.org/place/2366](http://www.trismegistos.org/place/2366)  
 
@@ -9781,6 +9795,13 @@
 
 ### alignments:
  - [Condate](https://pleiades.stoa.org/places/138306)
+
+
+## GEO ID 23871: Pocrinium (Digoin)
+[https://www.trismegistos.org/place/23871](https://www.trismegistos.org/place/23871)  
+
+### alignments:
+ - [Pocrinium?](https://pleiades.stoa.org/places/177605)
 
 
 ## GEO ID 23886: Épiais-Rhus
@@ -13901,6 +13922,13 @@
  - [Firmum Picenum](https://pleiades.stoa.org/places/413135)
 
 
+## GEO ID 3265: Augustodunum (Autun)
+[http://www.trismegistos.org/place/3265](http://www.trismegistos.org/place/3265)  
+
+### alignments:
+ - [Augustodunum](https://pleiades.stoa.org/places/177460)
+
+
 ## GEO ID 32679: Numana
 [http://www.trismegistos.org/place/32679](http://www.trismegistos.org/place/32679)  
 
@@ -14907,6 +14935,13 @@
 
 ### alignments:
  - [Makra Kome](https://pleiades.stoa.org/places/540926)
+
+
+## GEO ID 33404
+[http://www.trismegistos.org/place/33404](http://www.trismegistos.org/place/33404)  
+
+### alignments:
+ - [Narthakion](https://pleiades.stoa.org/places/540957)
 
 
 ## GEO ID 33407: Thetonion
@@ -17318,6 +17353,13 @@
  - [Forum Gallorum](https://pleiades.stoa.org/places/246395)
 
 
+## GEO ID 40286: Telonnum (Saugnacq-et-Muret?)
+[http://www.trismegistos.org/place/40286](http://www.trismegistos.org/place/40286)  
+
+### alignments:
+ - [Telonnum](https://pleiades.stoa.org/places/138613)
+
+
 ## GEO ID 40293: Avesica
 [http://www.trismegistos.org/place/40293](http://www.trismegistos.org/place/40293)  
 
@@ -18359,6 +18401,13 @@
 
 ### alignments:
  - [Fines](https://pleiades.stoa.org/places/138356)
+
+
+## GEO ID 41036: Sitilia (Thiel-sur-Acolin)
+[https://www.trismegistos.org/place/41036](https://www.trismegistos.org/place/41036)  
+
+### alignments:
+ - [Sitillia](https://pleiades.stoa.org/places/181219)
 
 
 ## GEO ID 41041: Vorogio (Vouroux)
@@ -22043,6 +22092,13 @@
  - [Pagus Vescinus](https://pleiades.stoa.org/places/433004)
 
 
+## GEO ID 43595: Trebia (Trebbia)
+[https://www.trismegistos.org/place/43595](https://www.trismegistos.org/place/43595)  
+
+### alignments:
+ - [Trebia (river)](https://pleiades.stoa.org/places/383802)
+
+
 ## GEO ID 43599: Pagus Ulmanus
 [http://www.trismegistos.org/place/43599](http://www.trismegistos.org/place/43599)  
 
@@ -24792,6 +24848,13 @@
  - [Syangela](https://pleiades.stoa.org/places/599948)
 
 
+## GEO ID 58973: Ipsos (Çayırbağ)
+[https://www.trismegistos.org/place/58973](https://www.trismegistos.org/place/58973)  
+
+### alignments:
+ - [Ipsos](https://pleiades.stoa.org/places/609415)
+
+
 ## GEO ID 59006: Kanopikos Kolpos
 [https://www.trismegistos.org/place/59006](https://www.trismegistos.org/place/59006)  
 
@@ -25091,6 +25154,13 @@
 
 ### alignments:
  - [Palaia](https://pleiades.stoa.org/places/711256)
+
+
+## GEO ID 60860: Panagia Kanakaria
+[https://www.trismegistos.org/place/60860](https://www.trismegistos.org/place/60860)  
+
+### alignments:
+ - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
 
 
 ## GEO ID 60881: Triopion (Kumyer)

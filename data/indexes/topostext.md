@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3571 alignments exist in _Pleiades_ place references as of 2024-11-20. The following list of alignments is grouped by zotkey.
+3575 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11019,7 +11019,7 @@
 [https://topostext.org/place/369222PKar](https://topostext.org/place/369222PKar)  
 
 ### alignments:
- - [Kardamyle](https://pleiades.stoa.org/places/570330)
+ - [Kardamyle (Messenia)](https://pleiades.stoa.org/places/570330)
 
 
 ## Karene (Aiolis)
@@ -17136,6 +17136,13 @@
  - [Panagia Arkoudiotissa](https://pleiades.stoa.org/places/589971)
 
 
+## Panagia Kanakaria EC church (Cyprus)
+[https://topostext.org/place/355342EPan](https://topostext.org/place/355342EPan)  
+
+### alignments:
+ - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
 ## Panakton (Attica)
 [https://topostext.org/place/382235FPan](https://topostext.org/place/382235FPan)  
 
@@ -17183,6 +17190,13 @@
 
 ### alignments:
  - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
+
+
+## Pandosia (Preveza)
+[https://topostext.org/place/393207PPan](https://topostext.org/place/393207PPan)  
+
+### alignments:
+ - [Pandosia?](https://pleiades.stoa.org/places/531039)
 
 
 ## Paneas/Caesarea Philippi (Palestine)
@@ -17380,6 +17394,13 @@
 
 ### alignments:
  - [Parma](https://pleiades.stoa.org/places/383737)
+
+
+## Parnassus Mt. (Phokis) 260 Parnassos - Παρνασσός
+[https://topostext.org/place/385226LPar](https://topostext.org/place/385226LPar)  
+
+### alignments:
+ - [Parnassus (mountain)](https://pleiades.stoa.org/places/541012)
 
 
 ## Parnes Mt. (Attica)
@@ -23862,6 +23883,13 @@
 
 ### alignments:
  - [Trasumennus L.](https://pleiades.stoa.org/places/413347)
+
+
+## Trebia river (Cisalpina)
+[https://topostext.org/place/450096WTre](https://topostext.org/place/450096WTre)  
+
+### alignments:
+ - [Trebia (river)](https://pleiades.stoa.org/places/383802)
 
 
 ## Trebula (Campania)
