@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        9.3892026,
-        44.7671115,
-        9.3892026,
-        44.7671115
+        9.3890826,
+        44.7671215,
+        9.3925849,
+        44.7671957
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "crosses",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/crosses",
             "connectsTo": "https://pleiades.stoa.org/places/383802",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:43:17Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype to crosses",
+                    "modified": "2024-11-21T03:51:17Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:43:17Z",
@@ -72,10 +84,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    9.3892026,
-                    44.7671115
+                    [
+                        9.3890826,
+                        44.7671215
+                    ],
+                    [
+                        9.3891058,
+                        44.7671222
+                    ],
+                    [
+                        9.3891652,
+                        44.7671235
+                    ],
+                    [
+                        9.3924707,
+                        44.7671933
+                    ],
+                    [
+                        9.3925849,
+                        44.7671957
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "osm-location",
             "properties": {
@@ -89,6 +119,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata Q844241",
+            "modified": "2024-11-21T03:52:04Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-10-10T12:34:33Z",
@@ -182,12 +217,35 @@
             ],
             "geometry": {
                 "coordinates": [
-                    9.3892026,
-                    44.7671115
+                    [
+                        9.3890826,
+                        44.7671215
+                    ],
+                    [
+                        9.3891058,
+                        44.7671222
+                    ],
+                    [
+                        9.3891652,
+                        44.7671235
+                    ],
+                    [
+                        9.3924707,
+                        44.7671933
+                    ],
+                    [
+                        9.3925849,
+                        44.7671957
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-11-21T03:51:00Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-10-10T12:34:33Z",
@@ -227,7 +285,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/bridge",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 169635342, version 7, osm:changeset=26266005, 2014-10-22T21:08:55Z)",
+            "provenance": "OpenStreetMap (Way 169635342, version 17, osm:changeset=157598230, 2024-10-07T20:19:56Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/169635342",
@@ -277,11 +335,22 @@
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q844241",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ponte Gobbo (Q844241)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        9.3892026,
-        44.7671115
+        9.390833746732293,
+        44.76715873199541
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
