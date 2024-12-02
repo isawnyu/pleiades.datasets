@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         22.621902,
-        38.535435,
-        22.621902,
+        38.5348857,
+        22.6222206,
         38.535435
     ],
     "connections": [],
@@ -73,18 +73,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    22.6222206,
+                    38.5348857
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-diakoura-peak",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/541012/osm-location-of-diakoura-peak",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "OSM location of Λιάκουρα peak"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     22.621902,
                     38.535435
                 ],
                 "type": "Point"
             },
-            "id": "location-of-parnassus-m",
+            "id": "imagery-location-of-parnassus-m",
             "properties": {
                 "description": "verified in Google Earth 2013.",
-                "link": "https://pleiades.stoa.org/places/541012/location-of-parnassus-m",
+                "link": "https://pleiades.stoa.org/places/541012/imagery-location-of-parnassus-m",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "location of Parnassus M."
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "Imagery location of Parnassus M."
             },
             "type": "Feature"
         }
@@ -140,6 +158,100 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-11-20T15:50:39Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "mountain"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "geometry": {
+                "coordinates": [
+                    22.6222206,
+                    38.5348857
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2024-11-21T19:23:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-11-20T15:51:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-11-20T15:51:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-20T15:50:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-11-20T15:50:39Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-diakoura-peak",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
+            ],
+            "provenance": "OpenStreetMap (Node 26863541, version 14, osm:changeset=141240621, 2023-09-14T06:19:17Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/26863541",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 26863541",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=26863541",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Λιάκουρα peak",
+            "uri": "https://pleiades.stoa.org/places/541012/osm-location-of-diakoura-peak"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -153,7 +265,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-02-01T16:06:15Z",
             "creators": [
                 {
@@ -167,12 +286,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -182,6 +299,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2024-11-21T19:24:42Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-04-06T19:52:21Z",
@@ -213,13 +335,12 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-parnassus-m",
+            "id": "imagery-location-of-parnassus-m",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -237,8 +358,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Parnassus M.",
-            "uri": "https://pleiades.stoa.org/places/541012/location-of-parnassus-m"
+            "title": "Imagery location of Parnassus M.",
+            "uri": "https://pleiades.stoa.org/places/541012/imagery-location-of-parnassus-m"
         }
     ],
     "names": [
@@ -442,8 +563,8 @@
         }
     ],
     "reprPoint": [
-        22.621902,
-        38.535435
+        22.6220613,
+        38.53516035
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

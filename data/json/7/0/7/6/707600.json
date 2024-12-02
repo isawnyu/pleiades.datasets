@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        34.156296,
-        35.4776,
-        34.156296,
-        35.4776
+        34.1646324,
+        35.4781445,
+        34.1654965,
+        35.4786501
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,23 +55,59 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.156296,
-                    35.4776
+                    [
+                        34.1646324,
+                        35.4786028
+                    ],
+                    [
+                        34.1654094,
+                        35.4786501
+                    ],
+                    [
+                        34.1654965,
+                        35.47835
+                    ],
+                    [
+                        34.1651861,
+                        35.4782805
+                    ],
+                    [
+                        34.1651915,
+                        35.4782509
+                    ],
+                    [
+                        34.1647395,
+                        35.4781445
+                    ],
+                    [
+                        34.1646324,
+                        35.4786028
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-5283",
+            "id": "osm-location-of-kanakaria-monastery",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/707600/darmc-location-5283",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/707600/osm-location-of-kanakaria-monastery",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 5283"
+                "snippet": "Monastery",
+                "title": "OSM location of Kanakaria Monastery"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "tag = paleochristian",
+            "modified": "2024-11-22T16:30:08Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2024-11-21T19:19:26Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "TM GEO ID 60860: Panagia Kanakaria",
             "modified": "2024-11-20T16:43:30Z",
@@ -122,100 +158,116 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:15:21Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-11-20T16:42:06Z",
             "creators": [
                 {
-                    "name": "D. Rupp",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 5283",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "monastery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
             "geometry": {
                 "coordinates": [
-                    34.156296,
-                    35.4776
+                    [
+                        34.1646324,
+                        35.4786028
+                    ],
+                    [
+                        34.1654094,
+                        35.4786501
+                    ],
+                    [
+                        34.1654965,
+                        35.47835
+                    ],
+                    [
+                        34.1651861,
+                        35.4782805
+                    ],
+                    [
+                        34.1651915,
+                        35.4782509
+                    ],
+                    [
+                        34.1647395,
+                        35.4781445
+                    ],
+                    [
+                        34.1646324,
+                        35.4786028
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:03:24Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:58:20Z",
+                    "modified": "2024-11-21T19:18:50Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:15:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-20T16:42:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:15:22Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-11-20T16:42:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-20T16:42:06Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:15:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-20T16:42:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-5283",
+            "id": "osm-location-of-kanakaria-monastery",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
-            "provenance": "DARMC OBJECTID: 5283",
+            "provenance": "OpenStreetMap (Way 903119295, version 1, osm:changeset=98592516, 2021-02-02T17:23:15Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/903119295",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "5283",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 903119295",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 5283.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=903119295",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 5283",
-            "uri": "https://pleiades.stoa.org/places/707600/darmc-location-5283"
+            "start": null,
+            "title": "OSM location of Kanakaria Monastery",
+            "uri": "https://pleiades.stoa.org/places/707600/osm-location-of-kanakaria-monastery"
         }
     ],
     "names": [],
@@ -281,18 +333,30 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "5283",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.156296,
-        35.4776
+        34.1650455858337,
+        35.47842957009492
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
         "dare:ancient=0",
-        "dare:feature=church"
+        "dare:feature=church",
+        "paleochristian"
     ],
     "title": "Panagia Kanakaria",
     "type": "FeatureCollection",
