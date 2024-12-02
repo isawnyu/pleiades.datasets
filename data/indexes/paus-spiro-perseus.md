@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-488 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
+491 alignments exist in _Pleiades_ place references as of 2024-12-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1112,6 +1112,7 @@
 
 ### alignments:
  - [Halioussa](https://pleiades.stoa.org/places/573242)
+ - [Kolyergia Pr.](https://pleiades.stoa.org/places/570369)
 
 
 ## 2.34.9
@@ -1609,6 +1610,14 @@
  - [Leuktron](https://pleiades.stoa.org/places/570431)
 
 
+## 3.26.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.26.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.26.7)  
+
+### alignments:
+ - [Apollo Karneios cult at Kardamyle ](https://pleiades.stoa.org/places/50714343)
+ - [Sanctuary of Athena at Kardamyle](https://pleiades.stoa.org/places/83493702)
+
+
 ## 3.26
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.26](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.26)  
 
@@ -1679,6 +1688,13 @@
  - [Kaiadas Spelaion](https://pleiades.stoa.org/places/570321)
 
 
+## 4.2.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.2.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.2.2)  
+
+### alignments:
+ - [Oichalia](https://pleiades.stoa.org/places/573398)
+
+
 ## 4.2.4-5
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.2.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.2.4)  
 
@@ -1698,6 +1714,13 @@
 
 ### alignments:
  - [Messene](https://pleiades.stoa.org/places/570479)
+
+
+## 4.3.10
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.3.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.3.10)  
+
+### alignments:
+ - [Oichalia](https://pleiades.stoa.org/places/573398)
 
 
 ## 4.3.2

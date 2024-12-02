@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3575 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
+3593 alignments exist in _Pleiades_ place references as of 2024-12-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3898,6 +3898,13 @@
  - [Augustodunum](https://pleiades.stoa.org/places/177460)
 
 
+## Augustodurum/Civitas Baiocassium (Gallia)
+[https://topostext.org/place/493-07UAug](https://topostext.org/place/493-07UAug)  
+
+### alignments:
+ - [Augustodurum](https://pleiades.stoa.org/places/69471)
+
+
 ## Augustonemetum/Augusta Arvernorum/Arvernis (Gallia)
 [https://topostext.org/place/458031UAug](https://topostext.org/place/458031UAug)  
 
@@ -5135,6 +5142,13 @@
 
 ### alignments:
  - [Caminia (island)](https://pleiades.stoa.org/places/560331)
+
+
+## Campania region (Italy)
+[https://topostext.org/place/411146RCam](https://topostext.org/place/411146RCam)  
+
+### alignments:
+ - [Campania](https://pleiades.stoa.org/places/432742)
 
 
 ## Campona (Noricum)
@@ -6672,6 +6686,13 @@
  - [Dine](https://pleiades.stoa.org/places/570197)
 
 
+## Dinogetia (Dacia)
+[https://topostext.org/place/454281UDin](https://topostext.org/place/454281UDin)  
+
+### alignments:
+ - [Dinogetia](https://pleiades.stoa.org/places/216791)
+
+
 ## Diocletian's Palace, Spolatum (Illyria)
 [https://topostext.org/place/435164BDiP](https://topostext.org/place/435164BDiP)  
 
@@ -7816,6 +7837,13 @@
  - [Erythrai](https://pleiades.stoa.org/places/550535)
 
 
+## Erythrai? (Phthiotis) Phrantzi - Ερυθραί
+[https://topostext.org/place/388224UEry](https://topostext.org/place/388224UEry)  
+
+### alignments:
+ - [Erythrai?](https://pleiades.stoa.org/places/540773)
+
+
 ## Erythras (Ionia)
 [https://topostext.org/place/382265UEry](https://topostext.org/place/382265UEry)  
 
@@ -8448,6 +8476,13 @@
  - [Gargettos](https://pleiades.stoa.org/places/579935)
 
 
+## Garsaura (Cappadocia)
+[https://topostext.org/place/384340UGar](https://topostext.org/place/384340UGar)  
+
+### alignments:
+ - [Garsaura/Col. Claudia Archelais/Koloneia](https://pleiades.stoa.org/places/619164)
+
+
 ## Gate IX (Athens)
 [https://topostext.org/place/380237FHip](https://topostext.org/place/380237FHip)  
 
@@ -8523,6 +8558,13 @@
 
 ### alignments:
  - [Gaulos (island)](https://pleiades.stoa.org/places/462213)
+
+
+## Gaurion (Andros)
+[https://topostext.org/place/379247UGau](https://topostext.org/place/379247UGau)  
+
+### alignments:
+ - [Gaurion](https://pleiades.stoa.org/places/589791)
 
 
 ## Gazoros (Serres)
@@ -10024,7 +10066,7 @@
 [https://topostext.org/place/385236UHyr](https://topostext.org/place/385236UHyr)  
 
 ### alignments:
- - [Hyria](https://pleiades.stoa.org/places/540830)
+ - [Hyria (Boeotia)](https://pleiades.stoa.org/places/540830)
 
 
 ## Hyria (Italy)
@@ -10032,6 +10074,13 @@
 
 ### alignments:
  - [Uria](https://pleiades.stoa.org/places/442839)
+
+
+## Hyria Dionysos sanct. (Naxos) Iria - Υρία
+[https://topostext.org/place/371254SHyr](https://topostext.org/place/371254SHyr)  
+
+### alignments:
+ - [Hyria (Naxos)](https://pleiades.stoa.org/places/599661)
 
 
 ## Hyrkanian Sea (Asia)
@@ -12072,6 +12121,13 @@
  - [Korydallos (mountain)](https://pleiades.stoa.org/places/579993)
 
 
+## Korykion (Phokis)
+[https://topostext.org/place/385225CKor](https://topostext.org/place/385225CKor)  
+
+### alignments:
+ - [Korykion Antron (Parnassos)](https://pleiades.stoa.org/places/540883)
+
+
 ## Korykos/Olympos (Lycia)
 [https://topostext.org/place/363305UOly](https://topostext.org/place/363305UOly)  
 
@@ -13793,6 +13849,13 @@
  - [Lykopolis/Siout](https://pleiades.stoa.org/places/756593)
 
 
+## Lykoreia (Phokis)
+[https://topostext.org/place/385225ULyk](https://topostext.org/place/385225ULyk)  
+
+### alignments:
+ - [Lykoreia](https://pleiades.stoa.org/places/543770)
+
+
 ## Lykos river (Pontus)
 [https://topostext.org/place/412314WLyk](https://topostext.org/place/412314WLyk)  
 
@@ -13896,6 +13959,13 @@
 
 ### alignments:
  - [Magarsa/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648701)
+
+
+## Magdala/Taricheai (Palestine)
+[https://topostext.org/place/328355UTar](https://topostext.org/place/328355UTar)  
+
+### alignments:
+ - [Magdala/Taricheai](https://pleiades.stoa.org/places/678272)
 
 
 ## Magdolos (Egypt)
@@ -14002,6 +14072,13 @@
 
 ### alignments:
  - [Makra Kome](https://pleiades.stoa.org/places/540926)
+
+
+## Makyneia (Aitolia)
+[https://topostext.org/place/384217UMak](https://topostext.org/place/384217UMak)  
+
+### alignments:
+ - [Makyneia](https://pleiades.stoa.org/places/540927)
 
 
 ## Malaca (Iberia)
@@ -14725,6 +14802,13 @@
  - [Voudeni Cemetery](https://pleiades.stoa.org/places/914286390)
 
 
+## Mesoboa? (Achaia)
+[https://topostext.org/place/378221UMes](https://topostext.org/place/378221UMes)  
+
+### alignments:
+ - [Mesoboa](https://pleiades.stoa.org/places/573371)
+
+
 ## Messa? (Lakonia)
 [https://topostext.org/place/365224UMes](https://topostext.org/place/365224UMes)  
 
@@ -14897,14 +14981,14 @@
 [https://topostext.org/place/392306UMet](https://topostext.org/place/392306UMet)  
 
 ### alignments:
- - [Metropolis](https://pleiades.stoa.org/places/609470)
+ - [Metropolis (Oyneş)](https://pleiades.stoa.org/places/609470)
 
 
 ## Metropolis (Thessaly)
 [https://topostext.org/place/393218UMet](https://topostext.org/place/393218UMet)  
 
 ### alignments:
- - [Metropolis](https://pleiades.stoa.org/places/540947)
+ - [Metropolis (Thessaly)](https://pleiades.stoa.org/places/540947)
 
 
 ## Mevania (Umbria)
@@ -16265,7 +16349,7 @@
 [https://topostext.org/place/389218UOic](https://topostext.org/place/389218UOic)  
 
 ### alignments:
- - [Oichalia](https://pleiades.stoa.org/places/540970)
+ - [Oichalia (Aetolia)](https://pleiades.stoa.org/places/540970)
 
 
 ## Oikonomos site (Paros)
@@ -16891,6 +16975,13 @@
  - [Pagrae](https://pleiades.stoa.org/places/658564)
 
 
+## Paiania Hypenerthen (Attica)
+[https://topostext.org/place/380239DPai](https://topostext.org/place/380239DPai)  
+
+### alignments:
+ - [Paiania Hypenerthen](https://pleiades.stoa.org/places/580046)
+
+
 ## Paiania Kathyperthen (Attica)
 [https://topostext.org/place/380238DPai](https://topostext.org/place/380238DPai)  
 
@@ -17295,6 +17386,13 @@
 
 ### alignments:
  - [Panormos](https://pleiades.stoa.org/places/541010)
+
+
+## Panormos harbor (Attica)
+[https://topostext.org/place/376241HPan](https://topostext.org/place/376241HPan)  
+
+### alignments:
+ - [Panormos](https://pleiades.stoa.org/places/580057)
 
 
 ## Panormus (Sicily)
@@ -17846,6 +17944,13 @@
  - [Perniciacum?](https://pleiades.stoa.org/places/109245)
 
 
+## Perperene/Theodosiopolis (Aiolis)
+[https://topostext.org/place/392270UPer](https://topostext.org/place/392270UPer)  
+
+### alignments:
+ - [Perperene/Theodosiopolis](https://pleiades.stoa.org/places/550814)
+
+
 ## Perrhe (Commagene)
 [https://topostext.org/place/378383UPer](https://topostext.org/place/378383UPer)  
 
@@ -18313,6 +18418,13 @@
 
 ### alignments:
  - [Phlygonion?](https://pleiades.stoa.org/places/541047)
+
+
+## Phoenicia (Lebanon)
+[https://topostext.org/place/335354RPho](https://topostext.org/place/335354RPho)  
+
+### alignments:
+ - [Phoenice (region)](https://pleiades.stoa.org/places/678334)
 
 
 ## Phoinike (Illyria)
@@ -21810,7 +21922,6 @@
 
 ### alignments:
  - [Athena, T.](https://pleiades.stoa.org/places/579884)
- - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/925825062)
 
 
 ## Sounion Poseidon T. (Attica)
@@ -23760,7 +23871,6 @@
 ### alignments:
  - [Isthmia](https://pleiades.stoa.org/places/570316)
  - [Kamilari](https://pleiades.stoa.org/places/589835)
- - [Paiania Hypenerthen](https://pleiades.stoa.org/places/580046)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
  - [Vroulia](https://pleiades.stoa.org/places/590093)
@@ -24206,6 +24316,13 @@
 
 ### alignments:
  - [Tyndaris](https://pleiades.stoa.org/places/462527)
+
+
+## Typaneai? (Triphylia)
+[https://topostext.org/place/375218UTyp](https://topostext.org/place/375218UTyp)  
+
+### alignments:
+ - [Typaneai](https://pleiades.stoa.org/places/570758)
 
 
 ## Tyras (Pontus) 30 Bilhorod-Dnistrovskyi
@@ -24815,6 +24932,13 @@
 
 ### alignments:
  - [Xylokastro (fort on Kalamos)](https://pleiades.stoa.org/places/531151)
+
+
+## Xyniai (Phthiotis)
+[https://topostext.org/place/390223UXyn](https://topostext.org/place/390223UXyn)  
+
+### alignments:
+ - [Xyniai](https://pleiades.stoa.org/places/541174)
 
 
 ## Xypete (Attica)

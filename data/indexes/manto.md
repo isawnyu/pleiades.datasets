@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-581 alignments exist in _Pleiades_ place references as of 2024-11-21. The following list of alignments is grouped by zotkey.
+588 alignments exist in _Pleiades_ place references as of 2024-12-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1429,6 +1429,13 @@
  - [Tempe](https://pleiades.stoa.org/places/541131)
 
 
+## 10269108: Lycoreia (Phocis)
+[https://resource.manto.unh.edu/10269108](https://resource.manto.unh.edu/10269108)  
+
+### alignments:
+ - [Lykoreia](https://pleiades.stoa.org/places/543770)
+
+
 ## 10269113: the Corycian Cave (Mt Parnassos)
 [https://resource.manto.unh.edu/10269113](https://resource.manto.unh.edu/10269113)  
 
@@ -1777,6 +1784,13 @@
 
 ### alignments:
  - [Pallene](https://pleiades.stoa.org/places/580051)
+
+
+## 11003301: Ledon (Phocis)
+[https://resource.manto.unh.edu/11003301](https://resource.manto.unh.edu/11003301)  
+
+### alignments:
+ - [Ledon](https://pleiades.stoa.org/places/540908)
 
 
 ## 11015142: Alexandria (Egypt)
@@ -2333,6 +2347,13 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 8188813: the Megarid
+[https://resource.manto.unh.edu/8188813](https://resource.manto.unh.edu/8188813)  
+
+### alignments:
+ - [Megaris](https://pleiades.stoa.org/places/570470)
+
+
 ## 8188816: Epidauros (Argolid)
 [https://resource.manto.unh.edu/8188816](https://resource.manto.unh.edu/8188816)  
 
@@ -2724,6 +2745,13 @@
 
 ### alignments:
  - [Libya](https://pleiades.stoa.org/places/716588)
+
+
+## 8253952: Phoinicia
+[https://resource.manto.unh.edu/8253952](https://resource.manto.unh.edu/8253952)  
+
+### alignments:
+ - [Phoenice (region)](https://pleiades.stoa.org/places/678334)
 
 
 ## 8253956: Seriphos (island in the Cyclades)
@@ -3314,6 +3342,13 @@
  - [Pangaion (mountain)](https://pleiades.stoa.org/places/501551)
 
 
+## 9613030: Hyria (Boiotia)
+[https://resource.manto.unh.edu/9613030](https://resource.manto.unh.edu/9613030)  
+
+### alignments:
+ - [Hyria (Boeotia)](https://pleiades.stoa.org/places/540830)
+
+
 ## 9613044: Eleutherai (Attica/Boiotia)
 [https://resource.manto.unh.edu/9613044](https://resource.manto.unh.edu/9613044)  
 
@@ -3438,6 +3473,13 @@
 
 ### alignments:
  - [Parthenios (river)](https://pleiades.stoa.org/places/845036)
+
+
+## 9688203: Panopeus (Phocis)
+[https://resource.manto.unh.edu/9688203](https://resource.manto.unh.edu/9688203)  
+
+### alignments:
+ - [Panopeos/Phanotis](https://pleiades.stoa.org/places/541008)
 
 
 ## 9688209: River Cephisos (Phocis/Boiotia)
@@ -3648,6 +3690,13 @@
 
 ### alignments:
  - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
+
+
+## 9719931: Pelasgian Argos (Thessaly)
+[https://resource.manto.unh.edu/9719931](https://resource.manto.unh.edu/9719931)  
+
+### alignments:
+ - [Argos Pelasgikon](https://pleiades.stoa.org/places/543639)
 
 
 ## 9720419: Pyrasos (Thessaly)
