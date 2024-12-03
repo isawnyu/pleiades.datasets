@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5085 alignments exist in _Pleiades_ place references as of 2024-12-02. The following list of alignments is grouped by zotkey.
+5086 alignments exist in _Pleiades_ place references as of 2024-12-03. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -8407,6 +8407,13 @@
  - [Lautulae](https://pleiades.stoa.org/places/432903)
 
 
+## Lavinium (Q1352586)
+[https://www.wikidata.org/wiki/Q1352586](https://www.wikidata.org/wiki/Q1352586)  
+
+### alignments:
+ - [Lavinium](https://pleiades.stoa.org/places/422960)
+
+
 ## Le Langon (Q1171614)
 [https://www.wikidata.org/wiki/Q1171614](https://www.wikidata.org/wiki/Q1171614)  
 
@@ -15500,13 +15507,6 @@
 
 ### alignments:
  - [Diomeia](https://pleiades.stoa.org/places/579912)
-
-
-## Q1352586: Lavinium
-[https://www.wikidata.org/wiki/Q1352586](https://www.wikidata.org/wiki/Q1352586)  
-
-### alignments:
- - [Lavinium](https://pleiades.stoa.org/places/422960)
 
 
 ## Q13526102: Araphen
@@ -33254,7 +33254,7 @@
 [https://www.wikidata.org/wiki/Q24204542](https://www.wikidata.org/wiki/Q24204542)  
 
 ### alignments:
- - [Athena, T.](https://pleiades.stoa.org/places/579884)
+ - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/579884)
 
 
 ## Temple of Athena Lindia (Q29963051)
@@ -35062,6 +35062,13 @@
 
 ### alignments:
  - [Sette Bassi](https://pleiades.stoa.org/places/423069)
+
+
+## Villa romana de Carranque (Q766555)
+[https://www.wikidata.org/wiki/Q766555](https://www.wikidata.org/wiki/Q766555)  
+
+### alignments:
+ - [Carranque](https://pleiades.stoa.org/places/642983159)
 
 
 ## Villa Romana del Tellaro (Q499234)
