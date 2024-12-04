@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5086 alignments exist in _Pleiades_ place references as of 2024-12-03. The following list of alignments is grouped by zotkey.
+5098 alignments exist in _Pleiades_ place references as of 2024-12-04. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -259,6 +259,13 @@
 
 ### alignments:
  - [(H)Aedui](https://pleiades.stoa.org/places/177533)
+
+
+## Aefula (Q51731901)
+[https://www.wikidata.org/wiki/Q51731901](https://www.wikidata.org/wiki/Q51731901)  
+
+### alignments:
+ - [Aefula](https://pleiades.stoa.org/places/422821)
 
 
 ## Aegae (Q16737279)
@@ -1444,6 +1451,13 @@
  - [Arch of Marcus Aurelius at Tripoli](https://pleiades.stoa.org/places/680190213)
 
 
+## Arch of Mark Antony (Q3621781)
+[https://www.wikidata.org/wiki/Q3621781](https://www.wikidata.org/wiki/Q3621781)  
+
+### alignments:
+ - [Arch of Marcus Antonius](https://pleiades.stoa.org/places/815189530)
+
+
 ## Arch of Septimius Severus (Q2091585)
 [https://www.wikidata.org/wiki/Q2091585](https://www.wikidata.org/wiki/Q2091585)  
 
@@ -1689,6 +1703,13 @@
  - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
 
 
+## Arslan Kaya (Q131351810)
+[https://www.wikidata.org/wiki/Q131351810](https://www.wikidata.org/wiki/Q131351810)  
+
+### alignments:
+ - [Arslan Kaya monument](https://pleiades.stoa.org/places/938980755)
+
+
 ## Artaiouteichos (Q18286239)
 [https://www.wikidata.org/wiki/Q18286239](https://www.wikidata.org/wiki/Q18286239)  
 
@@ -1919,6 +1940,13 @@
 
 ### alignments:
  - [Syene](https://pleiades.stoa.org/places/786123)
+
+
+## At Tanahma (Q106018841)
+[https://www.wikidata.org/wiki/Q106018841](https://www.wikidata.org/wiki/Q106018841)  
+
+### alignments:
+ - [et-Tanahma](https://pleiades.stoa.org/places/354154)
 
 
 ## Atarneus (Q194810)
@@ -2164,6 +2192,13 @@
 
 ### alignments:
  - [Azoros](https://pleiades.stoa.org/places/540687)
+
+
+## Aşağımollahasan höyük (Q24234673)
+[https://www.wikidata.org/wiki/Q24234673](https://www.wikidata.org/wiki/Q24234673)  
+
+### alignments:
+ - [Aşağımollahasan höyük](https://pleiades.stoa.org/places/389798993)
 
 
 ## Aşağıyarımca (Q10736819)
@@ -2915,6 +2950,13 @@
  - [Phaia](https://pleiades.stoa.org/places/373870)
 
 
+## Boncuklu Tarla (Q104823057)
+[https://www.wikidata.org/wiki/Q104823057](https://www.wikidata.org/wiki/Q104823057)  
+
+### alignments:
+ - [Boncuklu Tarla](https://pleiades.stoa.org/places/682350144)
+
+
 ## Boon (Q65048849)
 [https://www.wikidata.org/wiki/Q65048849](https://www.wikidata.org/wiki/Q65048849)  
 
@@ -3081,6 +3123,13 @@
 
 ### alignments:
  - [Bucinobantes](https://pleiades.stoa.org/places/108834)
+
+
+## Buma el Garbia (Q104807568)
+[https://www.wikidata.org/wiki/Q104807568](https://www.wikidata.org/wiki/Q104807568)  
+
+### alignments:
+ - [Buma](https://pleiades.stoa.org/places/373764)
 
 
 ## Buonabitacolo (Q80685)
@@ -4798,6 +4847,13 @@
  - [Dareioukome](https://pleiades.stoa.org/places/550511)
 
 
+## Darsah (Q942422)
+[https://www.wikidata.org/wiki/Q942422](https://www.wikidata.org/wiki/Q942422)  
+
+### alignments:
+ - [Darsa (island)](https://pleiades.stoa.org/places/900159787)
+
+
 ## Daseae (Q5226539)
 [https://www.wikidata.org/wiki/Q5226539](https://www.wikidata.org/wiki/Q5226539)  
 
@@ -6249,6 +6305,13 @@
  - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
+## Great Zimbabwe (Q209217)
+[https://www.wikidata.org/wiki/Q209217](https://www.wikidata.org/wiki/Q209217)  
+
+### alignments:
+ - [Great Zimbabwe](https://pleiades.stoa.org/places/322739224)
+
+
 ## Greater Armenia (Q5600438)
 [https://www.wikidata.org/wiki/Q5600438](https://www.wikidata.org/wiki/Q5600438)  
 
@@ -7535,6 +7598,13 @@
 
 ### alignments:
  - [Kara-Tepe](https://pleiades.stoa.org/places/348167893)
+
+
+## Karahan Tepe (Q5996986)
+[https://www.wikidata.org/wiki/Q5996986](https://www.wikidata.org/wiki/Q5996986)  
+
+### alignments:
+ - [Karahan Tepe](https://pleiades.stoa.org/places/293884662)
 
 
 ## Karamenderes River (Q2488636)
@@ -10372,6 +10442,13 @@
 
 ### alignments:
  - [Northern Postern Gate](https://pleiades.stoa.org/places/451190409)
+
+
+## Norşuntepe (Q2001555)
+[https://www.wikidata.org/wiki/Q2001555](https://www.wikidata.org/wiki/Q2001555)  
+
+### alignments:
+ - [Norşuntepe](https://pleiades.stoa.org/places/271535243)
 
 
 ## Novi Banovci (Q779333)
@@ -32308,6 +32385,13 @@
 
 ### alignments:
  - [Roman amphitheater at Sipous/Sipontum](https://pleiades.stoa.org/places/249792106)
+
+
+## Sirenuse (Q1812834)
+[https://www.wikidata.org/wiki/Q1812834](https://www.wikidata.org/wiki/Q1812834)  
+
+### alignments:
+ - [Sirenes/Seirenoussai (islands)](https://pleiades.stoa.org/places/433124)
 
 
 ## Sirkap (Q1340954)
