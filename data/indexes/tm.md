@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3902 alignments exist in _Pleiades_ place references as of 2024-12-04. The following list of alignments is grouped by zotkey.
+3905 alignments exist in _Pleiades_ place references as of 2024-12-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7914,6 +7914,20 @@
  - [Epidion Akron](https://pleiades.stoa.org/places/89178)
 
 
+## GEO ID 19615: Nabarus (River Naver)
+[http://www.trismegistos.org/place/19615](http://www.trismegistos.org/place/19615)  
+
+### alignments:
+ - [Nabaros (river)](https://pleiades.stoa.org/places/89248)
+
+
+## GEO ID 19621: Itouna (River Eden)
+[http://www.trismegistos.org/place/19621](http://www.trismegistos.org/place/19621)  
+
+### alignments:
+ - [Itouna (river)](https://pleiades.stoa.org/places/89210)
+
+
 ## GEO ID 19624: Belisama (River Ribble)
 [http://www.trismegistos.org/place/19624](http://www.trismegistos.org/place/19624)  
 
@@ -15698,6 +15712,13 @@
 
 ### alignments:
  - [Axiotta](https://pleiades.stoa.org/places/614621)
+
+
+## GEO ID 34414: Iaza (Ayazviran)
+[https://www.trismegistos.org/place/34414](https://www.trismegistos.org/place/34414)  
+
+### alignments:
+ - [*Iaza](https://pleiades.stoa.org/places/609412)
 
 
 ## GEO ID 3444: Primis Megale (Amara West)

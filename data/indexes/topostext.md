@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3593 alignments exist in _Pleiades_ place references as of 2024-12-04. The following list of alignments is grouped by zotkey.
+3594 alignments exist in _Pleiades_ place references as of 2024-12-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -25072,6 +25072,13 @@
 
 ### alignments:
  - [Zeus Akraios, T.](https://pleiades.stoa.org/places/541178)
+
+
+## Zeus Aphesios (Megarid)
+[https://topostext.org/place/380233SZAp](https://topostext.org/place/380233SZAp)  
+
+### alignments:
+ - [Sanctuary of Zeus Aphesios (Megarid)](https://pleiades.stoa.org/places/526009671)
 
 
 ## Zeus Atabyrios (Rhodes) 6 Mt. Atavyros - Αταβύρου Διός ιερόν

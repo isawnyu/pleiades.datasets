@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-491 alignments exist in _Pleiades_ place references as of 2024-12-04. The following list of alignments is grouped by zotkey.
+491 alignments exist in _Pleiades_ place references as of 2024-12-05. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -465,6 +465,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.44.9](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.44.9)  
 
 ### alignments:
+ - [Sanctuary of Zeus Aphesios (Megarid)](https://pleiades.stoa.org/places/526009671)
  - [Zeus Panhellenios sanctuary (Aegina)](https://pleiades.stoa.org/places/580139)
 
 
