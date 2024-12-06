@@ -10,11 +10,11 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "DARMC",
+            "name": "Nina Willburger",
             "username": null
         },
         {
-            "name": "Nina Willburger",
+            "name": "DARMC",
             "username": null
         },
         {
@@ -69,7 +69,7 @@
                 "description": "Location of Castra Mobene, as can be seen from the arial image on Google Maps. Dates after BAtlas.",
                 "link": "https://pleiades.stoa.org/places/697647/qasr_bshir",
                 "location_precision": "precise",
-                "snippet": "Fort; AD 300 - AD 640",
+                "snippet": "Fort-2, Ruin; AD 300 - AD 640",
                 "title": "Imagery location of Qasr Bshir"
             },
             "type": "Feature"
@@ -181,10 +181,12 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort"
+                "fort-2",
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
@@ -194,6 +196,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "removed deprecated place type and added \"fort\" and \"ruin\"",
+                    "modified": "2024-12-05T15:18:49Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "edited title; location lacks coordinates reference",
                     "modified": "2017-10-29T20:33:14Z",
@@ -230,7 +237,8 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "provenance": "Pleiades",
             "references": [],
@@ -523,11 +531,11 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin"
     ],
     "placeTypes": [
         "fort-2",
-        "fort"
+        "ruin"
     ],
     "provenance": "Barrington Atlas: BAtlas 71 B3 Castra Praetorii Mobeni",
     "references": [
