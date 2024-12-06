@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5147 alignments exist in _Pleiades_ place references as of 2024-12-05. The following list of alignments is grouped by zotkey.
+5174 alignments exist in _Pleiades_ place references as of 2024-12-06. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -763,6 +763,13 @@
 
 ### alignments:
  - [Alvand/Orontes/Oroandes M.](https://pleiades.stoa.org/places/902985)
+
+
+## Alzette (Q450722)
+[https://www.wikidata.org/wiki/Q450722](https://www.wikidata.org/wiki/Q450722)  
+
+### alignments:
+ - [Alisontia (river)](https://pleiades.stoa.org/places/108732)
 
 
 ## Aléria amphitheatre (Q28971455)
@@ -2815,6 +2822,13 @@
 
 ### alignments:
  - [Blaundos](https://pleiades.stoa.org/places/609344)
+
+
+## Blies (Q585833)
+[https://www.wikidata.org/wiki/Q585833](https://www.wikidata.org/wiki/Q585833)  
+
+### alignments:
+ - [Bleza (river)](https://pleiades.stoa.org/places/108813)
 
 
 ## Block A6, Dura-Europos (Q116621920)
@@ -5087,6 +5101,13 @@
  - [Deultum](https://pleiades.stoa.org/places/216788)
 
 
+## Dhron (Q1207730)
+[https://www.wikidata.org/wiki/Q1207730](https://www.wikidata.org/wiki/Q1207730)  
+
+### alignments:
+ - [Drahonus (river)](https://pleiades.stoa.org/places/108934)
+
+
 ## Diacopa (Q85756736)
 [https://www.wikidata.org/wiki/Q85756736](https://www.wikidata.org/wiki/Q85756736)  
 
@@ -5529,6 +5550,13 @@
  - [Rhaithou](https://pleiades.stoa.org/places/746806)
 
 
+## Elaphiti Islands (Q1324957)
+[https://www.wikidata.org/wiki/Q1324957](https://www.wikidata.org/wiki/Q1324957)  
+
+### alignments:
+ - [Elaphites (islands)](https://pleiades.stoa.org/places/197257)
+
+
 ## Elateia (Q1235347)
 [https://www.wikidata.org/wiki/Q1235347](https://www.wikidata.org/wiki/Q1235347)  
 
@@ -5562,6 +5590,13 @@
 
 ### alignments:
  - [Helisson (river in modern Sikyona municipality)](https://pleiades.stoa.org/places/570283)
+
+
+## Elsenz (Q8315)
+[https://www.wikidata.org/wiki/Q8315](https://www.wikidata.org/wiki/Q8315)  
+
+### alignments:
+ - [*Elantia (river)](https://pleiades.stoa.org/places/118664)
 
 
 ## Elyros (Q3561249)
@@ -5618,6 +5653,13 @@
 
 ### alignments:
  - [Southeast fountain house](https://pleiades.stoa.org/places/124501558)
+
+
+## Enns (Q217524)
+[https://www.wikidata.org/wiki/Q217524](https://www.wikidata.org/wiki/Q217524)  
+
+### alignments:
+ - [Anisus (river)](https://pleiades.stoa.org/places/118565)
 
 
 ## Epidamnos (Q3567546)
@@ -6444,6 +6486,13 @@
 
 ### alignments:
  - [Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
+
+
+## Großkrotzenburg (Q634120)
+[https://www.wikidata.org/wiki/Q634120](https://www.wikidata.org/wiki/Q634120)  
+
+### alignments:
+ - [Grosskrotzenburg](https://pleiades.stoa.org/places/118710)
 
 
 ## Guattari Cave (Q3117098)
@@ -7363,6 +7412,13 @@
  - [India](https://pleiades.stoa.org/places/50004)
 
 
+## Indre River (Q217347)
+[https://www.wikidata.org/wiki/Q217347](https://www.wikidata.org/wiki/Q217347)  
+
+### alignments:
+ - [Anger? (river)](https://pleiades.stoa.org/places/138182)
+
+
 ## Ingaevones (Q1097118)
 [https://www.wikidata.org/wiki/Q1097118](https://www.wikidata.org/wiki/Q1097118)  
 
@@ -8215,6 +8271,13 @@
 
 ### alignments:
  - [Kotais](https://pleiades.stoa.org/places/863830)
+
+
+## Kyll (Q677944)
+[https://www.wikidata.org/wiki/Q677944](https://www.wikidata.org/wiki/Q677944)  
+
+### alignments:
+ - [Celbis (river)](https://pleiades.stoa.org/places/108874)
 
 
 ## Kynosoura (Q25018940)
@@ -9199,6 +9262,13 @@
  - [Magis?](https://pleiades.stoa.org/places/89237)
 
 
+## Main (Q1670)
+[https://www.wikidata.org/wiki/Q1670](https://www.wikidata.org/wiki/Q1670)  
+
+### alignments:
+ - [Moenus (river)](https://pleiades.stoa.org/places/109168)
+
+
 ## Mainalo (Q2703145)
 [https://www.wikidata.org/wiki/Q2703145](https://www.wikidata.org/wiki/Q2703145)  
 
@@ -10018,6 +10088,13 @@
  - [Mar Samuel, Simeon](https://pleiades.stoa.org/places/874583)
 
 
+## Morava (Q179251)
+[https://www.wikidata.org/wiki/Q179251](https://www.wikidata.org/wiki/Q179251)  
+
+### alignments:
+ - [Marus (river)](https://pleiades.stoa.org/places/128451)
+
+
 ## Moridunum (Q3399949)
 [https://www.wikidata.org/wiki/Q3399949](https://www.wikidata.org/wiki/Q3399949)  
 
@@ -10172,6 +10249,13 @@
  - [Ain Tauleib](https://pleiades.stoa.org/places/776151)
 
 
+## Municipium Dardanorum (Q4817379)
+[https://www.wikidata.org/wiki/Q4817379](https://www.wikidata.org/wiki/Q4817379)  
+
+### alignments:
+ - [Dard(...)](https://pleiades.stoa.org/places/207069)
+
+
 ## Muradiye (Q1000878)
 [https://www.wikidata.org/wiki/Q1000878](https://www.wikidata.org/wiki/Q1000878)  
 
@@ -10191,6 +10275,13 @@
 
 ### alignments:
  - [Mursella](https://pleiades.stoa.org/places/197390)
+
+
+## Museum und Park Kalkriese (Q1954771)
+[https://www.wikidata.org/wiki/Q1954771](https://www.wikidata.org/wiki/Q1954771)  
+
+### alignments:
+ - [Kalkriese](https://pleiades.stoa.org/places/98992)
 
 
 ## Mustafakemalpaşa River (Q2148345)
@@ -11103,6 +11194,13 @@
  - [Milseburg (oppidum)](https://pleiades.stoa.org/places/118844)
 
 
+## Oppidum Mont Vully (Q2027152)
+[https://www.wikidata.org/wiki/Q2027152](https://www.wikidata.org/wiki/Q2027152)  
+
+### alignments:
+ - [Mont Vully oppidum](https://pleiades.stoa.org/places/980972179)
+
+
 ## Orange (Q187796)
 [https://www.wikidata.org/wiki/Q187796](https://www.wikidata.org/wiki/Q187796)  
 
@@ -11194,6 +11292,13 @@
  - [Hydruntum/Hydrous](https://pleiades.stoa.org/places/442615)
 
 
+## Ouvèze (Q1535195)
+[https://www.wikidata.org/wiki/Q1535195](https://www.wikidata.org/wiki/Q1535195)  
+
+### alignments:
+ - [Ovidis (river)](https://pleiades.stoa.org/places/148150)
+
+
 ## Oxeia (Q1625898)
 [https://www.wikidata.org/wiki/Q1625898](https://www.wikidata.org/wiki/Q1625898)  
 
@@ -11276,6 +11381,13 @@
 
 ### alignments:
  - [Pallantion](https://pleiades.stoa.org/places/570548)
+
+
+## Palmarola (Q1466491)
+[https://www.wikidata.org/wiki/Q1466491](https://www.wikidata.org/wiki/Q1466491)  
+
+### alignments:
+ - [Palmaria (island)](https://pleiades.stoa.org/places/433008)
 
 
 ## Palmyrene Gate (Q98930725)
@@ -12243,6 +12355,13 @@
 
 ### alignments:
  - [Ponte Sodo](https://pleiades.stoa.org/places/980216943)
+
+
+## Pontine Islands (Q844829)
+[https://www.wikidata.org/wiki/Q844829](https://www.wikidata.org/wiki/Q844829)  
+
+### alignments:
+ - [Pontiae (islands)](https://pleiades.stoa.org/places/433042)
 
 
 ## Pontinia (Q128130)
@@ -13496,6 +13615,13 @@
 
 ### alignments:
  - [Ninfa](https://pleiades.stoa.org/places/24162247)
+
+
+## Q107108970
+[https://www.wikidata.org/wiki/Q107108970](https://www.wikidata.org/wiki/Q107108970)  
+
+### alignments:
+ - [Punta Eolo](https://pleiades.stoa.org/places/433057)
 
 
 ## Q10714872: Via Claudia Valeria
@@ -30805,6 +30931,13 @@
  - [Hydraotes/Arouadis/Porrus (river)](https://pleiades.stoa.org/places/59838)
 
 
+## Raša (Q2436664)
+[https://www.wikidata.org/wiki/Q2436664](https://www.wikidata.org/wiki/Q2436664)  
+
+### alignments:
+ - [Arsia (river)](https://pleiades.stoa.org/places/197142)
+
+
 ## Reciu (Q846243)
 [https://www.wikidata.org/wiki/Q846243](https://www.wikidata.org/wiki/Q846243)  
 
@@ -32290,6 +32423,13 @@
  - [Scoglietto](https://pleiades.stoa.org/places/441559176)
 
 
+## Scoglio della Botte (Q3952622)
+[https://www.wikidata.org/wiki/Q3952622](https://www.wikidata.org/wiki/Q3952622)  
+
+### alignments:
+ - [Eumorfiana? Ins.](https://pleiades.stoa.org/places/432823)
+
+
 ## Scolus (Q12884533)
 [https://www.wikidata.org/wiki/Q12884533](https://www.wikidata.org/wiki/Q12884533)  
 
@@ -32689,6 +32829,13 @@
  - [Roman amphitheater at Sipous/Sipontum](https://pleiades.stoa.org/places/249792106)
 
 
+## Sirat Nabigh (Q104807381)
+[https://www.wikidata.org/wiki/Q104807381](https://www.wikidata.org/wiki/Q104807381)  
+
+### alignments:
+ - [Narbek](https://pleiades.stoa.org/places/375241)
+
+
 ## Sirenuse (Q1812834)
 [https://www.wikidata.org/wiki/Q1812834](https://www.wikidata.org/wiki/Q1812834)  
 
@@ -32848,6 +32995,13 @@
 
 ### alignments:
  - [Sora](https://pleiades.stoa.org/places/433126)
+
+
+## Sorgue (Q688959)
+[https://www.wikidata.org/wiki/Q688959](https://www.wikidata.org/wiki/Q688959)  
+
+### alignments:
+ - [Vindelicus/Soulgas (river)](https://pleiades.stoa.org/places/148238)
 
 
 ## Soulia (Q16328541)
@@ -34819,6 +34973,13 @@
  - [Traianoupolis](https://pleiades.stoa.org/places/501649)
 
 
+## Traisen (Q700692)
+[https://www.wikidata.org/wiki/Q700692](https://www.wikidata.org/wiki/Q700692)  
+
+### alignments:
+ - [Tragisa(mus) (river)](https://pleiades.stoa.org/places/118996)
+
+
 ## Trajan's Forum (Q211295)
 [https://www.wikidata.org/wiki/Q211295](https://www.wikidata.org/wiki/Q211295)  
 
@@ -35253,6 +35414,13 @@
  - [Vellavi](https://pleiades.stoa.org/places/167958)
 
 
+## Ventotene (Q1085906)
+[https://www.wikidata.org/wiki/Q1085906](https://www.wikidata.org/wiki/Q1085906)  
+
+### alignments:
+ - [Pandataria (island)](https://pleiades.stoa.org/places/433011)
+
+
 ## Verolengo (Q10343)
 [https://www.wikidata.org/wiki/Q10343](https://www.wikidata.org/wiki/Q10343)  
 
@@ -35646,6 +35814,13 @@
  - [Vroulia](https://pleiades.stoa.org/places/590093)
 
 
+## Waal (Q216171)
+[https://www.wikidata.org/wiki/Q216171](https://www.wikidata.org/wiki/Q216171)  
+
+### alignments:
+ - [Vacalus/Vahalis (river)](https://pleiades.stoa.org/places/109407)
+
+
 ## Wadi al-Qura (Q22690572)
 [https://www.wikidata.org/wiki/Q22690572](https://www.wikidata.org/wiki/Q22690572)  
 
@@ -35877,6 +36052,13 @@
  - [Zacynthus (island)](https://pleiades.stoa.org/places/531155)
 
 
+## Zannone (Q146988)
+[https://www.wikidata.org/wiki/Q146988](https://www.wikidata.org/wiki/Q146988)  
+
+### alignments:
+ - [Sinonia (island)](https://pleiades.stoa.org/places/433121)
+
+
 ## Zarqa River (Q798460)
 [https://www.wikidata.org/wiki/Q798460](https://www.wikidata.org/wiki/Q798460)  
 
@@ -36036,6 +36218,13 @@
 
 ### alignments:
  - [Epiais-Rhus](https://pleiades.stoa.org/places/108962)
+
+
+## Étang de Berre (Q288912)
+[https://www.wikidata.org/wiki/Q288912](https://www.wikidata.org/wiki/Q288912)  
+
+### alignments:
+ - [Stomalimne/Mastramela Stagnum](https://pleiades.stoa.org/places/148206)
 
 
 ## Îles d'Hyères (Q292728)

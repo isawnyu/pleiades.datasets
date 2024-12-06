@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3905 alignments exist in _Pleiades_ place references as of 2024-12-05. The following list of alignments is grouped by zotkey.
+3907 alignments exist in _Pleiades_ place references as of 2024-12-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12101,6 +12101,13 @@
  - [Kovin](https://pleiades.stoa.org/places/207221)
 
 
+## GEO ID 29695
+[http://www.trismegistos.org/place/29695](http://www.trismegistos.org/place/29695)  
+
+### alignments:
+ - [Dard(...)](https://pleiades.stoa.org/places/207069)
+
+
 ## GEO ID 29704: Gabuleum (Prizren)
 [https://www.trismegistos.org/place/29704](https://www.trismegistos.org/place/29704)  
 
@@ -22687,6 +22694,13 @@
 
 ### alignments:
  - [Sucaelo/Siccaenum](https://pleiades.stoa.org/places/270374)
+
+
+## GEO ID 43877: Pandataria (Ventotene)
+[http://www.trismegistos.org/place/43877](http://www.trismegistos.org/place/43877)  
+
+### alignments:
+ - [Pandataria (island)](https://pleiades.stoa.org/places/433011)
 
 
 ## GEO ID 43879: Nonakris (Solos)
