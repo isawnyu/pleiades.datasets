@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3907 alignments exist in _Pleiades_ place references as of 2024-12-06. The following list of alignments is grouped by zotkey.
+3913 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2289,6 +2289,13 @@
 
 ### alignments:
  - [Bovillae](https://pleiades.stoa.org/places/422852)
+
+
+## GEO ID 10321: Domitiane (Umm Balad)
+[http://www.trismegistos.org/place/10321](http://www.trismegistos.org/place/10321)  
+
+### alignments:
+ - [Umm Balad](https://pleiades.stoa.org/places/766411)
 
 
 ## GEO ID 1032: Keos (Kea)
@@ -8640,6 +8647,13 @@
 
 ### alignments:
  - [Cissi](https://pleiades.stoa.org/places/295253)
+
+
+## GEO ID 2047: Paneion (El-Kanayis)
+[http://www.trismegistos.org/place/2047](http://www.trismegistos.org/place/2047)  
+
+### alignments:
+ - [Hydreuma to epi tou Paneiou](https://pleiades.stoa.org/places/786040)
 
 
 ## GEO ID 20491: Tucca (Henchir el-Abiod)
@@ -15707,6 +15721,13 @@
  - [Idebessos](https://pleiades.stoa.org/places/638865)
 
 
+## GEO ID 34360: Gemiler Adası
+[https://www.trismegistos.org/place/34360](https://www.trismegistos.org/place/34360)  
+
+### alignments:
+ - [Lebissos (island)](https://pleiades.stoa.org/places/638956)
+
+
 ## GEO ID 34383: Milyas
 [https://www.trismegistos.org/place/34383](https://www.trismegistos.org/place/34383)  
 
@@ -21203,6 +21224,13 @@
  - [Rubico (river)](https://pleiades.stoa.org/places/393484)
 
 
+## GEO ID 42459: Aspia
+[http://www.trismegistos.org/place/42459](http://www.trismegistos.org/place/42459)  
+
+### alignments:
+ - [Aspia (river)](https://pleiades.stoa.org/places/413038)
+
+
 ## GEO ID 42460: Flusor (Potenza)
 [http://www.trismegistos.org/place/42460](http://www.trismegistos.org/place/42460)  
 
@@ -25163,6 +25191,13 @@
  - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
 
 
+## GEO ID 60100: Themiskyra (Terme)
+[https://www.trismegistos.org/place/60100](https://www.trismegistos.org/place/60100)  
+
+### alignments:
+ - [Themiskyra](https://pleiades.stoa.org/places/857350)
+
+
 ## GEO ID 60127: Vroulia
 [https://www.trismegistos.org/place/60127](https://www.trismegistos.org/place/60127)  
 
@@ -25455,6 +25490,13 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## GEO ID 60876: Telandria (Tersane Ada)
+[https://www.trismegistos.org/place/60876](https://www.trismegistos.org/place/60876)  
+
+### alignments:
+ - [Telandria (island)](https://pleiades.stoa.org/places/639132)
 
 
 ## GEO ID 60881: Triopion (Kumyer)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-588 alignments exist in _Pleiades_ place references as of 2024-12-06. The following list of alignments is grouped by zotkey.
+589 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2885,6 +2885,13 @@
 
 ### alignments:
  - [Paros (island)](https://pleiades.stoa.org/places/599868)
+
+
+## 8253995: Themiscyra (Pontos)
+[https://resource.manto.unh.edu/8253995](https://resource.manto.unh.edu/8253995)  
+
+### alignments:
+ - [Themiskyra](https://pleiades.stoa.org/places/857350)
 
 
 ## 8253997: Thasos (island)

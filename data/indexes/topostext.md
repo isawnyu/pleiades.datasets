@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3594 alignments exist in _Pleiades_ place references as of 2024-12-06. The following list of alignments is grouped by zotkey.
+3595 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -22454,7 +22454,7 @@
 [https://topostext.org/place/363267ISyr](https://topostext.org/place/363267ISyr)  
 
 ### alignments:
- - [Syrnos Ins.](https://pleiades.stoa.org/places/599954)
+ - [Syrnos (island)](https://pleiades.stoa.org/places/599954)
 
 
 ## Syros (Cyclades)
@@ -22734,7 +22734,7 @@
 [https://topostext.org/place/367289ITel](https://topostext.org/place/367289ITel)  
 
 ### alignments:
- - [Telandria Ins.](https://pleiades.stoa.org/places/639132)
+ - [Telandria (island)](https://pleiades.stoa.org/places/639132)
 
 
 ## Telandros (Lycia)
@@ -23191,6 +23191,13 @@
 
 ### alignments:
  - [Themakos](https://pleiades.stoa.org/places/585967)
+
+
+## Themiscyra (Pontus)
+[https://topostext.org/place/412370UThe](https://topostext.org/place/412370UThe)  
+
+### alignments:
+ - [Themiskyra](https://pleiades.stoa.org/places/857350)
 
 
 ## Themisonion (Phrygia)
