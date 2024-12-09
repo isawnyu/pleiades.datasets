@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/884130",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:02:49Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2024-12-09T03:27:03Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:02:49Z",
@@ -46,7 +58,19 @@
             ],
             "id": "884130",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.iranicaonline.org/articles/safidrud",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MGQ4IGT7",
+                    "citationDetail": "SAFIDRUD",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Yar-Shater, Ehsan. <i>Encyclopædia Iranica (Online)</i>. New York: Columbia University, 2010. http://www.iranicaonline.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "EncIran (online)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Caspium/Hyrcanium Mare",
@@ -88,7 +112,7 @@
         }
     ],
     "description": "The Sefīd-Rūd river flows into the Caspian Sea at Rasht.",
-    "details": "The Barrington Atlas Directory notes: Safid Rud",
+    "details": "<p>The Barrington Atlas Directory notes: Safid Rud</p>",
     "features": [
         {
             "geometry": {
@@ -130,6 +154,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-12-09T03:25:38Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "wikidata Q1430986",
+            "modified": "2024-12-09T03:23:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added references",
             "modified": "2015-03-06T19:06:50Z",
@@ -424,6 +458,28 @@
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Sefīd-Rūd.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1430986",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Sefid Rud (Q1430986)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.iranicaonline.org/articles/safidrud",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MGQ4IGT7",
+            "citationDetail": "SAFIDRUD",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Yar-Shater, Ehsan. <i>Encyclopædia Iranica (Online)</i>. New York: Columbia University, 2010. http://www.iranicaonline.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EncIran (online)",
             "type": "seeFurther"
         }
     ],

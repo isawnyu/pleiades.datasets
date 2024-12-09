@@ -1,9 +1,9 @@
 {
     "@type": "Place",
     "bbox": [
-        34.2307636,
-        24.9278957,
-        34.2307636,
+        34.2303751,
+        24.9273473,
+        34.2309989,
         24.9278957
     ],
     "connections": [],
@@ -57,23 +57,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.2307636,
-                    24.9278957
+                    [
+                        34.2307636,
+                        24.9278957
+                    ],
+                    [
+                        34.2303751,
+                        24.927625
+                    ],
+                    [
+                        34.2306103,
+                        24.9273473
+                    ],
+                    [
+                        34.2309989,
+                        24.927618
+                    ],
+                    [
+                        34.2307636,
+                        24.9278957
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "wadi-gerf",
             "properties": {
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/785977/wadi-gerf",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 640",
+                "snippet": "Fort-2; 30 BC - AD 640",
                 "title": "OSM location of Wadi Gerf"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-12-07T21:59:36Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "TP ref.",
             "modified": "2021-02-14T16:51:47Z",
@@ -161,19 +184,47 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    34.2307636,
-                    24.9278957
+                    [
+                        34.2307636,
+                        24.9278957
+                    ],
+                    [
+                        34.2303751,
+                        24.927625
+                    ],
+                    [
+                        34.2306103,
+                        24.9273473
+                    ],
+                    [
+                        34.2309989,
+                        24.927618
+                    ],
+                    [
+                        34.2307636,
+                        24.9278957
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-07T22:00:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-07T21:59:58Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-08-08T11:38:06Z",
@@ -210,7 +261,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 265116881, version 1, osm:changeset=20995686, 2014-03-08T21:51:52Z)",
             "references": [
@@ -333,9 +384,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 80 E4 Aristonis",
@@ -449,11 +502,22 @@
             "otherIdentifier": "",
             "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "862",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        34.2307636,
-        24.9278957
+        34.23068698825893,
+        24.927621498421516
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

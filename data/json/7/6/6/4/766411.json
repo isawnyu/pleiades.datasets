@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         33.2910971,
-        27.142811,
-        33.295592,
-        27.1475927
+        27.1472466,
+        33.2916711,
+        27.1476141
     ],
     "connections": [],
     "connectsWith": [],
@@ -68,46 +68,61 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 78 C3 Umm Balad",
-    "details": "The Barrington Atlas Directory notes: Umm Balad, fort and quarry",
+    "details": "<p>The Barrington Atlas Directory notes: Umm Balad, fort and quarry</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.295592,
-                    27.142811
+                    [
+                        33.2910971,
+                        27.1475927
+                    ],
+                    [
+                        33.2911078,
+                        27.1472466
+                    ],
+                    [
+                        33.2916711,
+                        27.1472466
+                    ],
+                    [
+                        33.2916657,
+                        27.1476141
+                    ],
+                    [
+                        33.2910971,
+                        27.1475927
+                    ]
                 ],
-                "type": "Point"
-            },
-            "id": "darmc-location-22647",
-            "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/766411/darmc-location-22647",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 22647"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    33.2910971,
-                    27.1475927
-                ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-roman-fort",
             "properties": {
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/766411/location-of-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 640",
+                "snippet": "Fort-2; 30 BC - AD 640",
                 "title": "OSM location of Roman fort (Umm Balad, Mons Porphyrites)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Brun 2024",
+            "modified": "2024-12-08T21:15:03Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2024-12-08T14:29:50Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "DARMC location 22647 = related; update references; update deprecated place type",
+            "modified": "2024-12-08T14:29:37Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T21:25:59Z",
@@ -153,109 +168,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:17:32Z",
-            "creators": [
-                {
-                    "name": "S.E. Sidebotham",
-                    "username": null
-                }
-            ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22647",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    33.295592,
-                    27.142811
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:35Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T01:17:33Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:17:33Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-10T01:17:32Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-22647",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 22647",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22647",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22647.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 22647",
-            "uri": "https://pleiades.stoa.org/places/766411/darmc-location-22647"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -290,21 +202,47 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    33.2910971,
-                    27.1475927
+                    [
+                        33.2910971,
+                        27.1475927
+                    ],
+                    [
+                        33.2911078,
+                        27.1472466
+                    ],
+                    [
+                        33.2916711,
+                        27.1472466
+                    ],
+                    [
+                        33.2916657,
+                        27.1476141
+                    ],
+                    [
+                        33.2910971,
+                        27.1475927
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-08T14:30:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-08T14:27:09Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-25T23:12:38Z",
@@ -337,14 +275,11 @@
                 }
             ],
             "id": "location-of-roman-fort",
-            "locationType": [
-                ""
-            ],
+            "locationType": [],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "OpenStreetMap (Way 265139990, version 1, osm:changeset=20998035, 2014-03-09T01:15:44Z)",
+            "provenance": "OpenStreetMap (Way 265139990, version 2, osm:changeset=78713725, 2019-12-21T14:23:57Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/265139990",
@@ -451,10 +386,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/quarry"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2",
+        "quarry"
     ],
     "provenance": "Barrington Atlas: BAtlas 78 C3 Umm Balad",
     "references": [
@@ -470,42 +407,75 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.jstor.org/stable/505894",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sidebotham-1991-580-82",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5NGA4JA5",
+            "citationDetail": "580-82",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Sidebotham 1991 580-82",
+            "formattedCitation": "<div class=\"csl-entry\">Sidebotham, S.E., R.E. Zitterkopf, and J.A. Riley. “Survey of the ’Abu Sha’ar-Nile Road.” <i>American Journal of Archaeology: The Journal of the Archaeological Institute of America</i> 95, no. 4 (1991): 571–622. https://doi.org/https://doi.org/10.2307/505894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Sidebotham 1991",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Brown-1995-223-26",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/52E3Z4WQ",
+            "citationDetail": "223-26",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Brown 1995 223-26",
+            "formattedCitation": "<div class=\"csl-entry\">Brown, V.M., and J.A. Harrell. “Topographical and Petrological Survey of Ancient Roman Quarries in the Eastern Desert of Egypt.” In <i>The Study of Marble and Other Stones Used in Antiquity</i>, edited by Y Maniatis, Norman Herz, and Ioannes Basiakos, 221–34. London: Archetype; Association for the Study of Marble and Other Stones used in Antiquity: International Symposium, 1995.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Brown 1995",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/10321",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "TM, GEO ID 10321",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 10321: Domitiane (Umm Balad)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeAlso"
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22647",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://edh.ub.uni-heidelberg.de/edh/geographie/G000186",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PY3AZV8F",
+            "citationDetail": "G000186: Umm Balad",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDH",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://search.worldcat.org/title/1441717656",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RBWGSXY3",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Brun, Jean-Pierre. <i>Domitianè - Kainè Latomia (Umm Balad) : le praesidium et les carrières | WorldCat.org</i>. Fouilles de l’Institut français d’archéologie orientale du Caire 92, 1288. Cairo: Institut français d’archéologie orientale, 2024. https://search.worldcat.org/title/1441717656.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Brun 2024",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        33.29334455,
-        27.14520185
+        33.291388673535046,
+        27.14742561272448
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
