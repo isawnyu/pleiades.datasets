@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5240 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
+5267 alignments exist in _Pleiades_ place references as of 2024-12-10. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -903,6 +903,13 @@
 
 ### alignments:
  - [Amphitheater of Alba Fucens](https://pleiades.stoa.org/places/535296216)
+
+
+## Amphitheatre of Eleutheropolis (Q30335930)
+[https://www.wikidata.org/wiki/Q30335930](https://www.wikidata.org/wiki/Q30335930)  
+
+### alignments:
+ - [Roman amphitheater at Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/52124866)
 
 
 ## Amphitheatre of Thuburbo Majus (Q29002309)
@@ -2110,6 +2117,13 @@
  - [Atlas (mountains)](https://pleiades.stoa.org/places/846)
 
 
+## Atrek River (Q283622)
+[https://www.wikidata.org/wiki/Q283622](https://www.wikidata.org/wiki/Q283622)  
+
+### alignments:
+ - [Atrek/Sideris?/Sarnios? (river)](https://pleiades.stoa.org/places/942246)
+
+
 ## Atri (Q51420)
 [https://www.wikidata.org/wiki/Q51420](https://www.wikidata.org/wiki/Q51420)  
 
@@ -2691,6 +2705,13 @@
  - [Hypsa(s) (river)](https://pleiades.stoa.org/places/462255)
 
 
+## Belvedere tomb (Q3531028)
+[https://www.wikidata.org/wiki/Q3531028](https://www.wikidata.org/wiki/Q3531028)  
+
+### alignments:
+ - [Belvedere tomb](https://pleiades.stoa.org/places/15230118)
+
+
 ## Bema of Phaidros (Q85746507)
 [https://www.wikidata.org/wiki/Q85746507](https://www.wikidata.org/wiki/Q85746507)  
 
@@ -3172,6 +3193,13 @@
 
 ### alignments:
  - [Oued Cherchira Roman Bridge](https://pleiades.stoa.org/places/798954739)
+
+
+## Broch of Mousa (Q923376)
+[https://www.wikidata.org/wiki/Q923376](https://www.wikidata.org/wiki/Q923376)  
+
+### alignments:
+ - [Broch of Mousa](https://pleiades.stoa.org/places/6525101)
 
 
 ## Brownshill Dolmen (Q33313)
@@ -5178,6 +5206,13 @@
  - [Deultum](https://pleiades.stoa.org/places/216788)
 
 
+## Dez River (Q1207296)
+[https://www.wikidata.org/wiki/Q1207296](https://www.wikidata.org/wiki/Q1207296)  
+
+### alignments:
+ - [Dez/Hithite/Hudhud/Koprates? (river)](https://pleiades.stoa.org/places/912835)
+
+
 ## Dhron (Q1207730)
 [https://www.wikidata.org/wiki/Q1207730](https://www.wikidata.org/wiki/Q1207730)  
 
@@ -5452,6 +5487,13 @@
  - [Dún Aonghasa](https://pleiades.stoa.org/places/902088536)
 
 
+## Dur-Kurigalzu (Q622719)
+[https://www.wikidata.org/wiki/Q622719](https://www.wikidata.org/wiki/Q622719)  
+
+### alignments:
+ - [Dur-(Kuri)galzu](https://pleiades.stoa.org/places/893988)
+
+
 ## Dura-Europos synagogue (Q1577089)
 [https://www.wikidata.org/wiki/Q1577089](https://www.wikidata.org/wiki/Q1577089)  
 
@@ -5681,6 +5723,13 @@
 
 ### alignments:
  - [Helisson (river in modern Sikyona municipality)](https://pleiades.stoa.org/places/570283)
+
+
+## Elliniko pyramid (Q493527)
+[https://www.wikidata.org/wiki/Q493527](https://www.wikidata.org/wiki/Q493527)  
+
+### alignments:
+ - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
 
 
 ## Elsenz (Q8315)
@@ -6481,6 +6530,13 @@
  - [Gioia dei Marsi](https://pleiades.stoa.org/places/432865)
 
 
+## Girsu (Q853946)
+[https://www.wikidata.org/wiki/Q853946](https://www.wikidata.org/wiki/Q853946)  
+
+### alignments:
+ - [[Girsu]/Tello(h)](https://pleiades.stoa.org/places/912855)
+
+
 ## Gitanae (Q5095467)
 [https://www.wikidata.org/wiki/Q5095467](https://www.wikidata.org/wiki/Q5095467)  
 
@@ -6563,6 +6619,13 @@
 
 ### alignments:
  - [Gortys](https://pleiades.stoa.org/places/570267)
+
+
+## Great Zab (Q756018)
+[https://www.wikidata.org/wiki/Q756018](https://www.wikidata.org/wiki/Q756018)  
+
+### alignments:
+ - [Zabas Megas (river)](https://pleiades.stoa.org/places/894183)
 
 
 ## Great Zimbabwe (Q209217)
@@ -6754,6 +6817,13 @@
  - [Amathe/Epiphaneia](https://pleiades.stoa.org/places/668182)
 
 
+## Hambledon Hill (Q5644220)
+[https://www.wikidata.org/wiki/Q5644220](https://www.wikidata.org/wiki/Q5644220)  
+
+### alignments:
+ - [Hambledon Hill](https://pleiades.stoa.org/places/28868344)
+
+
 ## Harappa (Q185562)
 [https://www.wikidata.org/wiki/Q185562](https://www.wikidata.org/wiki/Q185562)  
 
@@ -6864,6 +6934,13 @@
 
 ### alignments:
  - [Helisson](https://pleiades.stoa.org/places/570282)
+
+
+## Helleh River (Q48813086)
+[https://www.wikidata.org/wiki/Q48813086](https://www.wikidata.org/wiki/Q48813086)  
+
+### alignments:
+ - [Helleh/Granis? (river)](https://pleiades.stoa.org/places/922657)
 
 
 ## Hellenistic temple at Skydra (Q111471802)
@@ -7769,6 +7846,13 @@
  - [Ianus Augustus](https://pleiades.stoa.org/places/143866644)
 
 
+## Jarahi River (Q283159)
+[https://www.wikidata.org/wiki/Q283159](https://www.wikidata.org/wiki/Q283159)  
+
+### alignments:
+ - [Jarrahi/Hedyphon? (river)](https://pleiades.stoa.org/places/912871)
+
+
 ## Jaunay-Clan (Q1436738)
 [https://www.wikidata.org/wiki/Q1436738](https://www.wikidata.org/wiki/Q1436738)  
 
@@ -8230,6 +8314,13 @@
 
 ### alignments:
  - [Kiosk of Qertassi](https://pleiades.stoa.org/places/119445131)
+
+
+## Kisurra (Q910253)
+[https://www.wikidata.org/wiki/Q910253](https://www.wikidata.org/wiki/Q910253)  
+
+### alignments:
+ - [Kisurra](https://pleiades.stoa.org/places/797093165)
 
 
 ## Kladeos (Q647970)
@@ -9130,6 +9221,13 @@
  - [Odeon](https://pleiades.stoa.org/places/829196251)
 
 
+## Little Zab (Q954645)
+[https://www.wikidata.org/wiki/Q954645](https://www.wikidata.org/wiki/Q954645)  
+
+### alignments:
+ - [Zabas Mikros/Kapros?/Zerbis? (river)](https://pleiades.stoa.org/places/894184)
+
+
 ## Lixus amphitheatre (Q18640103)
 [https://www.wikidata.org/wiki/Q18640103](https://www.wikidata.org/wiki/Q18640103)  
 
@@ -9261,6 +9359,13 @@
 
 ### alignments:
  - [Lugii](https://pleiades.stoa.org/places/20533)
+
+
+## Lupanar (Q157747)
+[https://www.wikidata.org/wiki/Q157747](https://www.wikidata.org/wiki/Q157747)  
+
+### alignments:
+ - [Lupanar](https://pleiades.stoa.org/places/38626420)
 
 
 ## Lusitania (Q188650)
@@ -9457,6 +9562,13 @@
 
 ### alignments:
  - [Mainalos](https://pleiades.stoa.org/places/570451)
+
+
+## Maes Knoll Camp (Q6729282)
+[https://www.wikidata.org/wiki/Q6729282](https://www.wikidata.org/wiki/Q6729282)  
+
+### alignments:
+ - [Maes Knoll Camp](https://pleiades.stoa.org/places/42178779)
 
 
 ## Maesbury Castle (Q6729291)
@@ -10257,6 +10369,13 @@
  - [Mar Elian](https://pleiades.stoa.org/places/587809526)
 
 
+## Monastery of St. Simeon Stylites the Younger (Q1776331)
+[https://www.wikidata.org/wiki/Q1776331](https://www.wikidata.org/wiki/Q1776331)  
+
+### alignments:
+ - [Monastery of Simeon Stylites the Younger](https://pleiades.stoa.org/places/49430117)
+
+
 ## Monemvasia islet (Q25016538)
 [https://www.wikidata.org/wiki/Q25016538](https://www.wikidata.org/wiki/Q25016538)  
 
@@ -10768,6 +10887,13 @@
  - [Axia](https://pleiades.stoa.org/places/413048)
 
 
+## Necropolis of Filigosa (Q1975256)
+[https://www.wikidata.org/wiki/Q1975256](https://www.wikidata.org/wiki/Q1975256)  
+
+### alignments:
+ - [Necropolis of Filigosa](https://pleiades.stoa.org/places/31345658)
+
+
 ## Necropolis of Montessu (Q1369420)
 [https://www.wikidata.org/wiki/Q1369420](https://www.wikidata.org/wiki/Q1369420)  
 
@@ -11081,6 +11207,13 @@
 
 ### alignments:
  - [Nuraghe Perda Sinnus](https://pleiades.stoa.org/places/855065497)
+
+
+## Nuraghe Ruggiu (Q30265821)
+[https://www.wikidata.org/wiki/Q30265821](https://www.wikidata.org/wiki/Q30265821)  
+
+### alignments:
+ - [Nuraghe Ruggiu at Filigosa](https://pleiades.stoa.org/places/32331672)
 
 
 ## Nuraghe Sa Domu 'e s'Orcu (Q25410534)
@@ -12785,6 +12918,13 @@
  - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
 
 
+## Poundbury Hill (Q7235658)
+[https://www.wikidata.org/wiki/Q7235658](https://www.wikidata.org/wiki/Q7235658)  
+
+### alignments:
+ - [Poundbury hillfort](https://pleiades.stoa.org/places/24992539)
+
+
 ## Pozzo sacro di Nuraghe Irrù (Q47530525)
 [https://www.wikidata.org/wiki/Q47530525](https://www.wikidata.org/wiki/Q47530525)  
 
@@ -13000,6 +13140,13 @@
 
 ### alignments:
  - [Pola](https://pleiades.stoa.org/places/197448)
+
+
+## Pulvar River (Q5680617)
+[https://www.wikidata.org/wiki/Q5680617](https://www.wikidata.org/wiki/Q5680617)  
+
+### alignments:
+ - [Pulvar/Araxes? (river)](https://pleiades.stoa.org/places/922701)
 
 
 ## Punta Pezzo (Q608369)
@@ -17207,13 +17354,6 @@
 
 ### alignments:
  - [Boi(i)](https://pleiades.stoa.org/places/393390)
-
-
-## Q157747: Lupanar
-[https://www.wikidata.org/wiki/Q157747](https://www.wikidata.org/wiki/Q157747)  
-
-### alignments:
- - [Lupanar](https://pleiades.stoa.org/places/38626420)
 
 
 ## Q158058: Pergamon Altar
@@ -23445,13 +23585,6 @@
  - [tribus Tities](https://pleiades.stoa.org/places/640011069)
 
 
-## Q3531028
-[https://www.wikidata.org/wiki/Q3531028](https://www.wikidata.org/wiki/Q3531028)  
-
-### alignments:
- - [Belvedere tomb](https://pleiades.stoa.org/places/15230118)
-
-
 ## Q3531044: Tomba della Montagnola
 [https://www.wikidata.org/wiki/Q3531044](https://www.wikidata.org/wiki/Q3531044)  
 
@@ -24980,13 +25113,6 @@
  - [Greek theater of Segesta](https://pleiades.stoa.org/places/866038915)
 
 
-## Q3982363
-[https://www.wikidata.org/wiki/Q3982363](https://www.wikidata.org/wiki/Q3982363)  
-
-### alignments:
- - [Roman theater at Amiternum](https://pleiades.stoa.org/places/23219358)
-
-
 ## Q3982366: Roman Theatre of Ascoli Piceno
 [https://www.wikidata.org/wiki/Q3982366](https://www.wikidata.org/wiki/Q3982366)  
 
@@ -26002,6 +26128,7 @@
 
 ### alignments:
  - [Mersin-Yumuktepe](https://pleiades.stoa.org/places/648555)
+ - [Yumuktepe](https://pleiades.stoa.org/places/12504073)
 
 
 ## Q4820062: Audleystown Court Cairn
@@ -30099,13 +30226,6 @@
  - [Daoi/Dahae](https://pleiades.stoa.org/places/952076)
 
 
-## Q853946
-[https://www.wikidata.org/wiki/Q853946](https://www.wikidata.org/wiki/Q853946)  
-
-### alignments:
- - [[Girsu]/Tello(h)](https://pleiades.stoa.org/places/912855)
-
-
 ## Q854444: Aguilar de la Frontera
 [https://www.wikidata.org/wiki/Q854444](https://www.wikidata.org/wiki/Q854444)  
 
@@ -31829,6 +31949,13 @@
  - [Roman Theater at Bosra](https://pleiades.stoa.org/places/188349326)
 
 
+## Roman Theatre of Amiternum (Q3982363)
+[https://www.wikidata.org/wiki/Q3982363](https://www.wikidata.org/wiki/Q3982363)  
+
+### alignments:
+ - [Roman theater at Amiternum](https://pleiades.stoa.org/places/23219358)
+
+
 ## Roman Theatre of Anzio (Q3982364)
 [https://www.wikidata.org/wiki/Q3982364](https://www.wikidata.org/wiki/Q3982364)  
 
@@ -31976,6 +32103,13 @@
  - [Roman villa of Capo di Massa](https://pleiades.stoa.org/places/32194089)
 
 
+## Roman villa of Ossaia (Q115813258)
+[https://www.wikidata.org/wiki/Q115813258](https://www.wikidata.org/wiki/Q115813258)  
+
+### alignments:
+ - [Ossaia](https://pleiades.stoa.org/places/413236)
+
+
 ## Roman Villa of Rabaçal (Q2202565)
 [https://www.wikidata.org/wiki/Q2202565](https://www.wikidata.org/wiki/Q2202565)  
 
@@ -32002,6 +32136,13 @@
 
 ### alignments:
  - [Roman walls of Lugo](https://pleiades.stoa.org/places/49788037)
+
+
+## Romano-Celtic temple (Q22926619)
+[https://www.wikidata.org/wiki/Q22926619](https://www.wikidata.org/wiki/Q22926619)  
+
+### alignments:
+ - [Comblessac](https://pleiades.stoa.org/places/44707452)
 
 
 ## Romano-Celtic temple in Uley (Q17645666)
@@ -32128,6 +32269,13 @@
 
 ### alignments:
  - [Sa Caleta](https://pleiades.stoa.org/places/482947334)
+
+
+## Sa Mandra Manna (Q65038144)
+[https://www.wikidata.org/wiki/Q65038144](https://www.wikidata.org/wiki/Q65038144)  
+
+### alignments:
+ - [Sa Mandra Manna](https://pleiades.stoa.org/places/1677899)
 
 
 ## Sabaeans (Q940785)
@@ -34071,6 +34219,13 @@
  - [Tell Qarqur](https://pleiades.stoa.org/places/995604669)
 
 
+## Tell Shmet (Q131414346)
+[https://www.wikidata.org/wiki/Q131414346](https://www.wikidata.org/wiki/Q131414346)  
+
+### alignments:
+ - [Shamīt](https://pleiades.stoa.org/places/935615276)
+
+
 ## Telmessos (Q1145385)
 [https://www.wikidata.org/wiki/Q1145385](https://www.wikidata.org/wiki/Q1145385)  
 
@@ -35226,6 +35381,13 @@
  - [Torre Ciega](https://pleiades.stoa.org/places/180293130)
 
 
+## Torre degli Embrici (Q21190081)
+[https://www.wikidata.org/wiki/Q21190081](https://www.wikidata.org/wiki/Q21190081)  
+
+### alignments:
+ - [Torre degli Embrici](https://pleiades.stoa.org/places/35287426)
+
+
 ## Torre delle Milizie (Q2547165)
 [https://www.wikidata.org/wiki/Q2547165](https://www.wikidata.org/wiki/Q2547165)  
 
@@ -35576,6 +35738,13 @@
  - [Tumulo di Montecalvario](https://pleiades.stoa.org/places/107397415)
 
 
+## Tumulus of Marcinelle (Q2455642)
+[https://www.wikidata.org/wiki/Q2455642](https://www.wikidata.org/wiki/Q2455642)  
+
+### alignments:
+ - [Tumulus of Marcinelle](https://pleiades.stoa.org/places/72972264)
+
+
 ## Tumulus of Noville (Q4520168)
 [https://www.wikidata.org/wiki/Q4520168](https://www.wikidata.org/wiki/Q4520168)  
 
@@ -35882,6 +36051,13 @@
 
 ### alignments:
  - [Vescera](https://pleiades.stoa.org/places/334663)
+
+
+## Vespasian Titus Tunnel (Q18926963)
+[https://www.wikidata.org/wiki/Q18926963](https://www.wikidata.org/wiki/Q18926963)  
+
+### alignments:
+ - [Titus Tunnel](https://pleiades.stoa.org/places/84771631)
 
 
 ## Vestiges antiques de Riez (Q3556380)
@@ -36620,6 +36796,13 @@
  - [Zoitia](https://pleiades.stoa.org/places/570765)
 
 
+## Zohreh River (Q12645787)
+[https://www.wikidata.org/wiki/Q12645787](https://www.wikidata.org/wiki/Q12645787)  
+
+### alignments:
+ - [Zoreh/Or(o)atis? (river)](https://pleiades.stoa.org/places/912992)
+
+
 ## Zorkul (Q226748)
 [https://www.wikidata.org/wiki/Q226748](https://www.wikidata.org/wiki/Q226748)  
 
@@ -36667,6 +36850,13 @@
 
 ### alignments:
  - [Ägelmoos](https://pleiades.stoa.org/places/80236838)
+
+
+## Çayönü (Q272720)
+[https://www.wikidata.org/wiki/Q272720](https://www.wikidata.org/wiki/Q272720)  
+
+### alignments:
+ - [Çayönü](https://pleiades.stoa.org/places/75292543)
 
 
 ## Çelebibağı (Q6103464)

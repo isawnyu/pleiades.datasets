@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3913 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
+3914 alignments exist in _Pleiades_ place references as of 2024-12-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -23863,6 +23863,13 @@
 
 ### alignments:
  - [Skirtos (river)](https://pleiades.stoa.org/places/658602)
+
+
+## GEO ID 47919: Zabas Megas (Greater Zab)
+[http://www.trismegistos.org/place/47919](http://www.trismegistos.org/place/47919)  
+
+### alignments:
+ - [Zabas Megas (river)](https://pleiades.stoa.org/places/894183)
 
 
 ## GEO ID 47920: Urmia

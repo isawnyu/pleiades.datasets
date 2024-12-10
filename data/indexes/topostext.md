@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3595 alignments exist in _Pleiades_ place references as of 2024-12-09. The following list of alignments is grouped by zotkey.
+3597 alignments exist in _Pleiades_ place references as of 2024-12-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7459,6 +7459,13 @@
  - [Ellenikouli](https://pleiades.stoa.org/places/530868)
 
 
+## Elliniko Pyramid (Argolid) Elliniko
+[https://topostext.org/place/376227FEll](https://topostext.org/place/376227FEll)  
+
+### alignments:
+ - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
+
+
 ## Elone (Thessaly)
 [https://topostext.org/place/398223UElo](https://topostext.org/place/398223UElo)  
 
@@ -13854,6 +13861,13 @@
 
 ### alignments:
  - [Lykoreia](https://pleiades.stoa.org/places/543770)
+
+
+## Lykos river (Mesopotamia) 9 Great Zab - Λύκος
+[https://topostext.org/place/360435WLyk](https://topostext.org/place/360435WLyk)  
+
+### alignments:
+ - [Zabas Megas (river)](https://pleiades.stoa.org/places/894183)
 
 
 ## Lykos river (Pontus)
