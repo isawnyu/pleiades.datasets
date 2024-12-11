@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5267 alignments exist in _Pleiades_ place references as of 2024-12-10. The following list of alignments is grouped by zotkey.
+5288 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -364,6 +364,13 @@
 
 ### alignments:
  - [Koite/Akytos (island)](https://pleiades.stoa.org/places/589873)
+
+
+## Agios Nikolaos islet (Q25106026)
+[https://www.wikidata.org/wiki/Q25106026](https://www.wikidata.org/wiki/Q25106026)  
+
+### alignments:
+ - [Agios Nikolaos (island)](https://pleiades.stoa.org/places/63423309)
 
 
 ## Agora nymphaion (Q24204667)
@@ -2166,6 +2173,13 @@
  - [Augusta Bagiennorum amphitheater](https://pleiades.stoa.org/places/950560042)
 
 
+## Augusta Raurica (Q610371)
+[https://www.wikidata.org/wiki/Q610371](https://www.wikidata.org/wiki/Q610371)  
+
+### alignments:
+ - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
 ## Augustobriga (Q47005672)
 [https://www.wikidata.org/wiki/Q47005672](https://www.wikidata.org/wiki/Q47005672)  
 
@@ -2458,6 +2472,13 @@
 
 ### alignments:
  - [Col. Barcino](https://pleiades.stoa.org/places/246343)
+
+
+## Barragem Romana da Fonte Coberta (Q16496954)
+[https://www.wikidata.org/wiki/Q16496954](https://www.wikidata.org/wiki/Q16496954)  
+
+### alignments:
+ - [Fonte Coberta](https://pleiades.stoa.org/places/102500045)
 
 
 ## Barrou (Q583121)
@@ -2773,6 +2794,13 @@
 
 ### alignments:
  - [Bethar](https://pleiades.stoa.org/places/687851)
+
+
+## Beycesultan (Q4081181)
+[https://www.wikidata.org/wiki/Q4081181](https://www.wikidata.org/wiki/Q4081181)  
+
+### alignments:
+ - [Beycesultan](https://pleiades.stoa.org/places/56861725)
 
 
 ## Bezabde (Q65088734)
@@ -4918,6 +4946,13 @@
  - [Cutina](https://pleiades.stoa.org/places/416799)
 
 
+## Cyaneae Theatre (Q131422686)
+[https://www.wikidata.org/wiki/Q131422686](https://www.wikidata.org/wiki/Q131422686)  
+
+### alignments:
+ - [Cyaneae Theater](https://pleiades.stoa.org/places/150531239)
+
+
 ## Cyllene (Q56650616)
 [https://www.wikidata.org/wiki/Q56650616](https://www.wikidata.org/wiki/Q56650616)  
 
@@ -5225,6 +5260,13 @@
 
 ### alignments:
  - [Diakopa](https://pleiades.stoa.org/places/857106)
+
+
+## Diane's Arch (Q2859858)
+[https://www.wikidata.org/wiki/Q2859858](https://www.wikidata.org/wiki/Q2859858)  
+
+### alignments:
+ - [Arc de Diane](https://pleiades.stoa.org/places/127902827)
 
 
 ## Dibsi Faraj (Q5272299)
@@ -6208,6 +6250,20 @@
  - [Forum Subertanum](https://pleiades.stoa.org/places/628738529)
 
 
+## Fossa Philistina (Q3745380)
+[https://www.wikidata.org/wiki/Q3745380](https://www.wikidata.org/wiki/Q3745380)  
+
+### alignments:
+ - [Fossa Philistina](https://pleiades.stoa.org/places/397893)
+
+
+## Fossa Sanguinis (Q1794981)
+[https://www.wikidata.org/wiki/Q1794981](https://www.wikidata.org/wiki/Q1794981)  
+
+### alignments:
+ - [Cybele sanctuary](https://pleiades.stoa.org/places/87367170)
+
+
 ## Franclens (Q819337)
 [https://www.wikidata.org/wiki/Q819337](https://www.wikidata.org/wiki/Q819337)  
 
@@ -6290,6 +6346,13 @@
 
 ### alignments:
  - [Puy-Lautard](https://pleiades.stoa.org/places/138527)
+
+
+## Gallo-Roman Theatre of Alba Augusta Helviorum (Q3527839)
+[https://www.wikidata.org/wiki/Q3527839](https://www.wikidata.org/wiki/Q3527839)  
+
+### alignments:
+ - [Gallo-Roman theater at Alba Helviorum](https://pleiades.stoa.org/places/89384567)
 
 
 ## Gallo-Roman theatre of Sanxay (Q28971473)
@@ -6619,6 +6682,13 @@
 
 ### alignments:
  - [Gortys](https://pleiades.stoa.org/places/570267)
+
+
+## Great Temple (Q20395818)
+[https://www.wikidata.org/wiki/Q20395818](https://www.wikidata.org/wiki/Q20395818)  
+
+### alignments:
+ - [Great Temple of Petra](https://pleiades.stoa.org/places/777218559)
 
 
 ## Great Zab (Q756018)
@@ -8316,6 +8386,13 @@
  - [Kiosk of Qertassi](https://pleiades.stoa.org/places/119445131)
 
 
+## Kirkhill,Roman signal station 400m NNE of (Q56665606)
+[https://www.wikidata.org/wiki/Q56665606](https://www.wikidata.org/wiki/Q56665606)  
+
+### alignments:
+ - [Kirkhill Roman signal station](https://pleiades.stoa.org/places/121620025)
+
+
 ## Kisurra (Q910253)
 [https://www.wikidata.org/wiki/Q910253](https://www.wikidata.org/wiki/Q910253)  
 
@@ -9212,6 +9289,13 @@
 
 ### alignments:
  - [Lista](https://pleiades.stoa.org/places/416825)
+
+
+## Little Ararat (Q4278782)
+[https://www.wikidata.org/wiki/Q4278782](https://www.wikidata.org/wiki/Q4278782)  
+
+### alignments:
+ - [Küçük Ağrı Dağı](https://pleiades.stoa.org/places/446396168)
 
 
 ## Little Theatre of Pompeii (Q3982091)
@@ -11697,6 +11781,13 @@
 
 ### alignments:
  - [Hydruntum/Hydrous](https://pleiades.stoa.org/places/442615)
+
+
+## Oued Ksob (Q4786183)
+[https://www.wikidata.org/wiki/Q4786183](https://www.wikidata.org/wiki/Q4786183)  
+
+### alignments:
+ - [Ivor / Xion (river)](https://pleiades.stoa.org/places/83424586)
 
 
 ## Ouvèze (Q1535195)
@@ -22311,13 +22402,6 @@
  - [Arcus Novus](https://pleiades.stoa.org/places/721487827)
 
 
-## Q2859858
-[https://www.wikidata.org/wiki/Q2859858](https://www.wikidata.org/wiki/Q2859858)  
-
-### alignments:
- - [Arc de Diane](https://pleiades.stoa.org/places/127902827)
-
-
 ## Q2859877: Arch of Glanum
 [https://www.wikidata.org/wiki/Q2859877](https://www.wikidata.org/wiki/Q2859877)  
 
@@ -23562,13 +23646,6 @@
 
 ### alignments:
  - [Roman theater at Vendeuil-Caply](https://pleiades.stoa.org/places/969223180)
-
-
-## Q3527839: Gallo-Roman Theatre of Alba Augusta Helviorum
-[https://www.wikidata.org/wiki/Q3527839](https://www.wikidata.org/wiki/Q3527839)  
-
-### alignments:
- - [Gallo-Roman theater at Alba Helviorum](https://pleiades.stoa.org/places/89384567)
 
 
 ## Q3527911: Roman Theatre of Aosta
@@ -31718,6 +31795,13 @@
  - [Roman amphitheater at Salona](https://pleiades.stoa.org/places/723135881)
 
 
+## Roman amphitheatre of Santa Maria Capua Vetere (Q474970)
+[https://www.wikidata.org/wiki/Q474970](https://www.wikidata.org/wiki/Q474970)  
+
+### alignments:
+ - [Roman amphitheater at Santa Maria Capua Vetere](https://pleiades.stoa.org/places/93820013)
+
+
 ## Roman Bath House, Castleford (Q66480701)
 [https://www.wikidata.org/wiki/Q66480701](https://www.wikidata.org/wiki/Q66480701)  
 
@@ -33139,6 +33223,13 @@
  - [Acquedotto dei Sette Bassi](https://pleiades.stoa.org/places/583864320)
 
 
+## Severan Basilica (Q2124732)
+[https://www.wikidata.org/wiki/Q2124732](https://www.wikidata.org/wiki/Q2124732)  
+
+### alignments:
+ - [Basilica of Septimius Severus](https://pleiades.stoa.org/places/165453294)
+
+
 ## Seyhan River (Q910975)
 [https://www.wikidata.org/wiki/Q910975](https://www.wikidata.org/wiki/Q910975)  
 
@@ -33186,6 +33277,13 @@
 
 ### alignments:
  - [Shop with dwelling (VII.4.22)](https://pleiades.stoa.org/places/743364991)
+
+
+## Shore Temple (Q1144279)
+[https://www.wikidata.org/wiki/Q1144279](https://www.wikidata.org/wiki/Q1144279)  
+
+### alignments:
+ - [Shore Temple of Mahabalipuram](https://pleiades.stoa.org/places/126644698)
 
 
 ## Shortugai (Q1550221)
@@ -34555,6 +34653,13 @@
  - [Temple of Thutmose III](https://pleiades.stoa.org/places/326151648)
 
 
+## Temple of Trajan (Q2448404)
+[https://www.wikidata.org/wiki/Q2448404](https://www.wikidata.org/wiki/Q2448404)  
+
+### alignments:
+ - [Temple of Trajan at Pergamon](https://pleiades.stoa.org/places/146849991)
+
+
 ## Temple of Veiovis (Q764141)
 [https://www.wikidata.org/wiki/Q764141](https://www.wikidata.org/wiki/Q764141)  
 
@@ -34637,6 +34742,13 @@
 
 ### alignments:
  - [Tertakom](https://pleiades.stoa.org/places/246689)
+
+
+## Termas romanas de Las Bóvedas (Marbella) (Q5938445)
+[https://www.wikidata.org/wiki/Q5938445](https://www.wikidata.org/wiki/Q5938445)  
+
+### alignments:
+ - [Termas romanas de las Bóvedas](https://pleiades.stoa.org/places/168208661)
 
 
 ## Terme Achilliane (Q3984379)
@@ -34798,6 +34910,13 @@
 
 ### alignments:
  - [Theater of Nero](https://pleiades.stoa.org/places/406270378)
+
+
+## Theatre of Pompey (Q944814)
+[https://www.wikidata.org/wiki/Q944814](https://www.wikidata.org/wiki/Q944814)  
+
+### alignments:
+ - [Theatrum Pompei](https://pleiades.stoa.org/places/541950317)
 
 
 ## Theatre of Tegea (Q17581805)
@@ -35752,6 +35871,13 @@
  - [Tumulus of Noville](https://pleiades.stoa.org/places/984823813)
 
 
+## Tumulus of Xhendremael (Q2235189)
+[https://www.wikidata.org/wiki/Q2235189](https://www.wikidata.org/wiki/Q2235189)  
+
+### alignments:
+ - [Tumulus of Xhendremael](https://pleiades.stoa.org/places/54976299)
+
+
 ## Tundzha (Q731777)
 [https://www.wikidata.org/wiki/Q731777](https://www.wikidata.org/wiki/Q731777)  
 
@@ -36011,6 +36137,13 @@
  - [Vellavi](https://pleiades.stoa.org/places/167958)
 
 
+## Venta Belgarum (Q538969)
+[https://www.wikidata.org/wiki/Q538969](https://www.wikidata.org/wiki/Q538969)  
+
+### alignments:
+ - [Venta](https://pleiades.stoa.org/places/79734)
+
+
 ## Ventotene (Q1085906)
 [https://www.wikidata.org/wiki/Q1085906](https://www.wikidata.org/wiki/Q1085906)  
 
@@ -36262,6 +36395,20 @@
 
 ### alignments:
  - [Carranque](https://pleiades.stoa.org/places/642983159)
+
+
+## Villa Romana de Santa Catarina de Sítimos (Q66429452)
+[https://www.wikidata.org/wiki/Q66429452](https://www.wikidata.org/wiki/Q66429452)  
+
+### alignments:
+ - [Villa de Santa Catarina de Sítimos](https://pleiades.stoa.org/places/60903328)
+
+
+## Villa romana del Paturro (Q5474005)
+[https://www.wikidata.org/wiki/Q5474005](https://www.wikidata.org/wiki/Q5474005)  
+
+### alignments:
+ - [Paturro Roman villa](https://pleiades.stoa.org/places/141708579)
 
 
 ## Villa Romana del Tellaro (Q499234)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3597 alignments exist in _Pleiades_ place references as of 2024-12-10. The following list of alignments is grouped by zotkey.
+3598 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -23149,6 +23149,13 @@
 
 ### alignments:
  - [Theatrum Marcelli](https://pleiades.stoa.org/places/300583267)
+
+
+## Theatre of Pompey (Rome)
+[https://topostext.org/place/419125BPom](https://topostext.org/place/419125BPom)  
+
+### alignments:
+ - [Theatrum Pompei](https://pleiades.stoa.org/places/541950317)
 
 
 ## Thebai Phthiotides (Magnesia)
