@@ -71,12 +71,18 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
+            "homepage": null,
             "name": "Scott Vanderbilt",
             "uri": "https://pleiades.stoa.org/author/sarcanon",
             "username": "sarcanon"
         }
     ],
-    "created": "2019-06-29T21:14:28Z",
+    "created": "2024-12-11T18:30:34Z",
     "creators": [
         {
             "homepage": null,
@@ -92,29 +98,27 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -2.6327943,
-                            54.9750733
-                        ],
-                        [
-                            -2.6348972,
-                            54.9749316
-                        ],
-                        [
-                            -2.6345538,
-                            54.9732259
-                        ],
-                        [
-                            -2.6323759,
-                            54.9733737
-                        ],
-                        [
-                            -2.6327943,
-                            54.9750733
-                        ]
+                        -2.6327943,
+                        54.9750733
+                    ],
+                    [
+                        -2.6323759,
+                        54.9733737
+                    ],
+                    [
+                        -2.6345538,
+                        54.9732259
+                    ],
+                    [
+                        -2.6348972,
+                        54.9749316
+                    ],
+                    [
+                        -2.6327943,
+                        54.9750733
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "id": "osm-location-of-nether-denton-roman-fort",
             "properties": {
@@ -128,6 +132,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for fort; update references @maximeg",
+            "modified": "2024-12-11T19:32:11Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-11T18:30:34Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2019-08-15T15:03:35Z",
@@ -208,31 +222,34 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            -2.6327943,
-                            54.9750733
-                        ],
-                        [
-                            -2.6323759,
-                            54.9733737
-                        ],
-                        [
-                            -2.6345538,
-                            54.9732259
-                        ],
-                        [
-                            -2.6348972,
-                            54.9749316
-                        ],
-                        [
-                            -2.6327943,
-                            54.9750733
-                        ]
+                        -2.6327943,
+                        54.9750733
+                    ],
+                    [
+                        -2.6323759,
+                        54.9733737
+                    ],
+                    [
+                        -2.6345538,
+                        54.9732259
+                    ],
+                    [
+                        -2.6348972,
+                        54.9749316
+                    ],
+                    [
+                        -2.6327943,
+                        54.9750733
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-11T19:15:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2019-08-15T15:03:36Z",
@@ -261,7 +278,7 @@
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 712280142, version 5, osm:changeset=138540530, 2023-07-15T11:12:10Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/way/712280142",
@@ -294,9 +311,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Pleiades",
@@ -326,18 +345,29 @@
         {
             "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1018501",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
             "citationDetail": "No. 1018501",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Historic England Scheduled Monument List",
-            "type": "seeFurther"
+            "shortTitle": "NHLE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q123012466",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Nether Denton Roman Fort (Q123012466)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -2.633654290486598,
-        54.97414613104578
+        -2.6336520253867097,
+        54.974142989606236
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
