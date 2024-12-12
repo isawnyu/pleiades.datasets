@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3914 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
+3921 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5723,6 +5723,13 @@
  - [Lagentium](https://pleiades.stoa.org/places/79553)
 
 
+## GEO ID 15343: Carzield
+[http://www.trismegistos.org/place/15343](http://www.trismegistos.org/place/15343)  
+
+### alignments:
+ - [Carzield](https://pleiades.stoa.org/places/109408874)
+
+
 ## GEO ID 15344: Magnis (Carvoran)
 [https://www.trismegistos.org/place/15344](https://www.trismegistos.org/place/15344)  
 
@@ -7235,6 +7242,13 @@
  - [Pheradi Maius](https://pleiades.stoa.org/places/315113)
 
 
+## GEO ID 17398: Aulodes (Henchir Sidi Reiss)
+[https://www.trismegistos.org/place/17398](https://www.trismegistos.org/place/17398)  
+
+### alignments:
+ - [Aulodes](https://pleiades.stoa.org/places/314893)
+
+
 ## GEO ID 17403: Pupput (Souk el-Abiod)
 [http://www.trismegistos.org/place/17403](http://www.trismegistos.org/place/17403)  
 
@@ -7779,6 +7793,13 @@
 
 ### alignments:
  - [Via Flaminia](https://pleiades.stoa.org/places/856514595)
+
+
+## GEO ID 18986: Moridunum (Sidford?)
+[https://www.trismegistos.org/place/18986](https://www.trismegistos.org/place/18986)  
+
+### alignments:
+ - [Moridunum](https://pleiades.stoa.org/places/83868)
 
 
 ## GEO ID 18989: Ariconium (Weston under Penyard)
@@ -11216,6 +11237,13 @@
 
 ### alignments:
  - [Ficariensis Locus?](https://pleiades.stoa.org/places/265898)
+
+
+## GEO ID 27803: Calagurris (Calahorra)
+[https://www.trismegistos.org/place/27803](https://www.trismegistos.org/place/27803)  
+
+### alignments:
+ - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
 ## GEO ID 27839: Bingium (Bingen am Rhein)
@@ -15658,6 +15686,13 @@
  - [Trapezopolis](https://pleiades.stoa.org/places/639149)
 
 
+## GEO ID 34244: Alahan
+[https://www.trismegistos.org/place/34244](https://www.trismegistos.org/place/34244)  
+
+### alignments:
+ - [Alahan](https://pleiades.stoa.org/places/648553)
+
+
 ## GEO ID 34269: Lamos [Lamousia]
 [https://www.trismegistos.org/place/34269](https://www.trismegistos.org/place/34269)  
 
@@ -16692,6 +16727,13 @@
 
 ### alignments:
  - [Olenos](https://pleiades.stoa.org/places/570528)
+
+
+## GEO ID 37602: Rhypes (Trapeza)
+[https://www.trismegistos.org/place/37602](https://www.trismegistos.org/place/37602)  
+
+### alignments:
+ - [Rhypes](https://pleiades.stoa.org/places/570647)
 
 
 ## GEO ID 37605: Akrai (Papadates)
@@ -25938,6 +25980,13 @@
 
 ### alignments:
  - [Parthyene/Parthia](https://pleiades.stoa.org/places/952097)
+
+
+## GEO ID 63259: Nemorensis Lacus (Lago di Nemi)
+[https://www.trismegistos.org/place/63259](https://www.trismegistos.org/place/63259)  
+
+### alignments:
+ - [Nemorensis (lake)](https://pleiades.stoa.org/places/422984)
 
 
 ## GEO ID 63898: Aggasus

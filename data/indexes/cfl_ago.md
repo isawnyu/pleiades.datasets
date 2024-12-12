@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-374 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
+375 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -34,6 +34,13 @@
 
 ### alignments:
  - [Sanctuary of Apollo on Delos](https://pleiades.stoa.org/places/599506)
+
+
+## 1595: TRAPEZA - 2000
+[https://chronique.efa.gr/?kroute=report&id=1595](https://chronique.efa.gr/?kroute=report&id=1595)  
+
+### alignments:
+ - [Rhypes](https://pleiades.stoa.org/places/570647)
 
 
 ## 18568: NEA PAPHOS - 2022

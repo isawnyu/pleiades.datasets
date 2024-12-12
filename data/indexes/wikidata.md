@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5288 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
+5321 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -555,6 +555,13 @@
  - [Ad Palatium](https://pleiades.stoa.org/places/393365)
 
 
+## Alahan Monastery (Q94668)
+[https://www.wikidata.org/wiki/Q94668](https://www.wikidata.org/wiki/Q94668)  
+
+### alignments:
+ - [Alahan](https://pleiades.stoa.org/places/648553)
+
+
 ## Alba Fucens (Q127429494)
 [https://www.wikidata.org/wiki/Q127429494](https://www.wikidata.org/wiki/Q127429494)  
 
@@ -961,6 +968,13 @@
  - [Amöneburg](https://pleiades.stoa.org/places/118564)
 
 
+## An unfinished hillfort, a saucer barrow, a disc barrow and sections of two linear earthworks on Ladle Hill (Q17677053)
+[https://www.wikidata.org/wiki/Q17677053](https://www.wikidata.org/wiki/Q17677053)  
+
+### alignments:
+ - [Ladle Hill Iron Age Fort](https://pleiades.stoa.org/places/127132165)
+
+
 ## Anactorium (Q12873561)
 [https://www.wikidata.org/wiki/Q12873561](https://www.wikidata.org/wiki/Q12873561)  
 
@@ -1064,6 +1078,13 @@
 
 ### alignments:
  - [Cohors I Celtiberorum](https://pleiades.stoa.org/places/236437)
+
+
+## Ancient Roman circus of Calagurris (Q127514944)
+[https://www.wikidata.org/wiki/Q127514944](https://www.wikidata.org/wiki/Q127514944)  
+
+### alignments:
+ - [Circus at Calagurris](https://pleiades.stoa.org/places/128652153)
 
 
 ## Ancient Roman circus of Iruña-Veleia (Q127515157)
@@ -3265,6 +3286,13 @@
  - [Bucinobantes](https://pleiades.stoa.org/places/108834)
 
 
+## Bulls Down camp (Q17650598)
+[https://www.wikidata.org/wiki/Q17650598](https://www.wikidata.org/wiki/Q17650598)  
+
+### alignments:
+ - [Bullsdown Camp](https://pleiades.stoa.org/places/127132166)
+
+
 ## Buma el Garbia (Q104807568)
 [https://www.wikidata.org/wiki/Q104807568](https://www.wikidata.org/wiki/Q104807568)  
 
@@ -3473,6 +3501,13 @@
 
 ### alignments:
  - [Caieta](https://pleiades.stoa.org/places/432734)
+
+
+## Calagurris (Q19603600)
+[https://www.wikidata.org/wiki/Q19603600](https://www.wikidata.org/wiki/Q19603600)  
+
+### alignments:
+ - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
 ## Calama (Q17513228)
@@ -3853,6 +3888,13 @@
  - [Salebro?](https://pleiades.stoa.org/places/403269)
 
 
+## Castle Dore (Q5050057)
+[https://www.wikidata.org/wiki/Q5050057](https://www.wikidata.org/wiki/Q5050057)  
+
+### alignments:
+ - [Castle Dore](https://pleiades.stoa.org/places/379233464)
+
+
 ## Castle of Astypalaia (Q38284794)
 [https://www.wikidata.org/wiki/Q38284794](https://www.wikidata.org/wiki/Q38284794)  
 
@@ -4054,6 +4096,13 @@
 
 ### alignments:
  - [Castro de Santaia](https://pleiades.stoa.org/places/104480434)
+
+
+## Castro of Fazouro (Q8342716)
+[https://www.wikidata.org/wiki/Q8342716](https://www.wikidata.org/wiki/Q8342716)  
+
+### alignments:
+ - [Fazouro](https://pleiades.stoa.org/places/128046684)
 
 
 ## Castro of Santa Trega (Q2411979)
@@ -4306,6 +4355,13 @@
 
 ### alignments:
  - [Chalkotheke](https://pleiades.stoa.org/places/764971247)
+
+
+## Chanctonbury Ring (Q5070867)
+[https://www.wikidata.org/wiki/Q5070867](https://www.wikidata.org/wiki/Q5070867)  
+
+### alignments:
+ - [Chanctonbury Ring](https://pleiades.stoa.org/places/997496371)
 
 
 ## Charisia (Q5074395)
@@ -4650,6 +4706,13 @@
 
 ### alignments:
  - [*Kokylion?](https://pleiades.stoa.org/places/550658)
+
+
+## Coelbren Roman Fort (Q13126482)
+[https://www.wikidata.org/wiki/Q13126482](https://www.wikidata.org/wiki/Q13126482)  
+
+### alignments:
+ - [Coelbren Roman auxiliary fort](https://pleiades.stoa.org/places/219618094)
 
 
 ## Colle nocello villa (Q124172424)
@@ -5795,6 +5858,13 @@
  - [(H)Emesa](https://pleiades.stoa.org/places/668261)
 
 
+## Emissarium of Lake Nemi (Q48804918)
+[https://www.wikidata.org/wiki/Q48804918](https://www.wikidata.org/wiki/Q48804918)  
+
+### alignments:
+ - [Emissarium of Lake Nemi](https://pleiades.stoa.org/places/425825)
+
+
 ## Emperor Claudius' sunken nymphaeum (Q18747381)
 [https://www.wikidata.org/wiki/Q18747381](https://www.wikidata.org/wiki/Q18747381)  
 
@@ -6117,6 +6187,13 @@
  - [Leucolla](https://pleiades.stoa.org/places/638959)
 
 
+## Finca del Secretario (Q97634235)
+[https://www.wikidata.org/wiki/Q97634235](https://www.wikidata.org/wiki/Q97634235)  
+
+### alignments:
+ - [Finca del Secretario](https://pleiades.stoa.org/places/177797261)
+
+
 ## First Ancient Theatre, Larissa (Q5452301)
 [https://www.wikidata.org/wiki/Q5452301](https://www.wikidata.org/wiki/Q5452301)  
 
@@ -6136,6 +6213,13 @@
 
 ### alignments:
  - [Flaviobriga](https://pleiades.stoa.org/places/246394)
+
+
+## Flower's Barrow (Q5462123)
+[https://www.wikidata.org/wiki/Q5462123](https://www.wikidata.org/wiki/Q5462123)  
+
+### alignments:
+ - [Flower's Barrow](https://pleiades.stoa.org/places/355161047)
 
 
 ## Flumenelongu Nuraghe (Q122324458)
@@ -7692,6 +7776,13 @@
  - [Mese (island)](https://pleiades.stoa.org/places/589927)
 
 
+## Incastro River (Q16565566)
+[https://www.wikidata.org/wiki/Q16565566](https://www.wikidata.org/wiki/Q16565566)  
+
+### alignments:
+ - [Incastro River](https://pleiades.stoa.org/places/143028853)
+
+
 ## India (Q17055962)
 [https://www.wikidata.org/wiki/Q17055962](https://www.wikidata.org/wiki/Q17055962)  
 
@@ -7725,6 +7816,13 @@
 
 ### alignments:
  - [Pierre Ecrite](https://pleiades.stoa.org/places/157905)
+
+
+## Inveravon Roman fort (Q48798464)
+[https://www.wikidata.org/wiki/Q48798464](https://www.wikidata.org/wiki/Q48798464)  
+
+### alignments:
+ - [Inveravon](https://pleiades.stoa.org/places/800131926)
 
 
 ## Iomnium (Q113827285)
@@ -8370,6 +8468,13 @@
 
 ### alignments:
  - [Dardania](https://pleiades.stoa.org/places/481798)
+
+
+## Kinneil fortlet (Q81444113)
+[https://www.wikidata.org/wiki/Q81444113](https://www.wikidata.org/wiki/Q81444113)  
+
+### alignments:
+ - [Kinneil](https://pleiades.stoa.org/places/728068766)
 
 
 ## Kinneret (Q5533392)
@@ -9914,6 +10019,13 @@
  - [Centcelles Roman villa](https://pleiades.stoa.org/places/250017)
 
 
+## Mausoleum of Lucius Pomponius Grecinus (Q131426847)
+[https://www.wikidata.org/wiki/Q131426847](https://www.wikidata.org/wiki/Q131426847)  
+
+### alignments:
+ - [Mausoleum of Lucius Pomponius Grecinus](https://pleiades.stoa.org/places/131267073)
+
+
 ## Mausoleum of Lucius Sempronius Atratinus (Q28670228)
 [https://www.wikidata.org/wiki/Q28670228](https://www.wikidata.org/wiki/Q28670228)  
 
@@ -10572,6 +10684,13 @@
  - [*Moridunum](https://pleiades.stoa.org/places/79602)
 
 
+## Moridunum (Q775861)
+[https://www.wikidata.org/wiki/Q775861](https://www.wikidata.org/wiki/Q775861)  
+
+### alignments:
+ - [Moridunum](https://pleiades.stoa.org/places/83868)
+
+
 ## Morlanwelz (Q668493)
 [https://www.wikidata.org/wiki/Q668493](https://www.wikidata.org/wiki/Q668493)  
 
@@ -10626,6 +10745,13 @@
 
 ### alignments:
  - [Gaurus (mount)](https://pleiades.stoa.org/places/432861)
+
+
+## Mount Caburn (Q12062109)
+[https://www.wikidata.org/wiki/Q12062109](https://www.wikidata.org/wiki/Q12062109)  
+
+### alignments:
+ - [Mount Caburn hill fort](https://pleiades.stoa.org/places/187989738)
 
 
 ## Mount Chortiatis (Q1076591)
@@ -10759,6 +10885,13 @@
 
 ### alignments:
  - [Rhyndakos (river)](https://pleiades.stoa.org/places/511401)
+
+
+## Musti (Q2760406)
+[https://www.wikidata.org/wiki/Q2760406](https://www.wikidata.org/wiki/Q2760406)  
+
+### alignments:
+ - [Musti](https://pleiades.stoa.org/places/315085)
 
 
 ## Muziris (Q2974112)
@@ -10978,6 +11111,13 @@
  - [Necropolis of Filigosa](https://pleiades.stoa.org/places/31345658)
 
 
+## Necropolis of Li Muri (Q1716175)
+[https://www.wikidata.org/wik/Q1716175](https://www.wikidata.org/wik/Q1716175)  
+
+### alignments:
+ - [Li Muri necropolis](https://pleiades.stoa.org/places/243340660)
+
+
 ## Necropolis of Montessu (Q1369420)
 [https://www.wikidata.org/wiki/Q1369420](https://www.wikidata.org/wiki/Q1369420)  
 
@@ -11053,6 +11193,13 @@
 
 ### alignments:
  - [Nestane](https://pleiades.stoa.org/places/570507)
+
+
+## Nether Denton Roman Fort (Q123012466)
+[https://www.wikidata.org/wiki/Q123012466](https://www.wikidata.org/wiki/Q123012466)  
+
+### alignments:
+ - [Nether Denton Roman fort](https://pleiades.stoa.org/places/24547397)
 
 
 ## Neviodunum (Q15736475)
@@ -11370,6 +11517,13 @@
  - [Oakmere hill fort](https://pleiades.stoa.org/places/434003879)
 
 
+## Oakwood, Roman fort and camp SSE of (Q56666921)
+[https://www.wikidata.org/wiki/Q56666921](https://www.wikidata.org/wiki/Q56666921)  
+
+### alignments:
+ - [Oakwood Roman fort](https://pleiades.stoa.org/places/910468314)
+
+
 ## Obelisk of Theodosius (Q763854)
 [https://www.wikidata.org/wiki/Q763854](https://www.wikidata.org/wiki/Q763854)  
 
@@ -11508,6 +11662,13 @@
 
 ### alignments:
  - [Oion Kerameikon](https://pleiades.stoa.org/places/585936)
+
+
+## Okehampton Roman fort, fortlet and associated enclosures (Q17674536)
+[https://www.wikidata.org/wiki/Q17674536](https://www.wikidata.org/wiki/Q17674536)  
+
+### alignments:
+ - [Okehampton Roman fort and fortlet](https://pleiades.stoa.org/places/781089344)
 
 
 ## Olba (Q157816)
@@ -12196,6 +12357,13 @@
  - [Pen Dinas hill fort](https://pleiades.stoa.org/places/964510419)
 
 
+## Pen Llystyn (Samian Ware Discovery Site) (Q103189134)
+[https://www.wikidata.org/wiki/Q103189134](https://www.wikidata.org/wiki/Q103189134)  
+
+### alignments:
+ - [Pen Llystyn](https://pleiades.stoa.org/places/842094503)
+
+
 ## Pen-y-Crug (Q20584698)
 [https://www.wikidata.org/wiki/Q20584698](https://www.wikidata.org/wiki/Q20584698)  
 
@@ -12215,6 +12383,13 @@
 
 ### alignments:
  - [Pinna](https://pleiades.stoa.org/places/413255)
+
+
+## Pentrehyling Roman fort (Q120064953)
+[https://www.wikidata.org/wiki/Q120064953](https://www.wikidata.org/wiki/Q120064953)  
+
+### alignments:
+ - [Brompton Roman fort](https://pleiades.stoa.org/places/148479467)
 
 
 ## Pephnus (Q16617755)
@@ -16138,6 +16313,13 @@
 
 ### alignments:
  - [Abila Dekapoleos/Seleukeia](https://pleiades.stoa.org/places/677992)
+
+
+## Q131426565
+[https://www.wikidata.org/wiki/Q131426565](https://www.wikidata.org/wiki/Q131426565)  
+
+### alignments:
+ - [Ponte Acque Alte](https://pleiades.stoa.org/places/147468860)
 
 
 ## Q13142: Fano
@@ -26292,13 +26474,6 @@
  - [Balmuildy Roman Fort](https://pleiades.stoa.org/places/89108)
 
 
-## Q48804918: Emissarium of Lake Nemi
-[https://www.wikidata.org/wiki/Q48804918](https://www.wikidata.org/wiki/Q48804918)  
-
-### alignments:
- - [Emissarium of Lake Nemi](https://pleiades.stoa.org/places/425825)
-
-
 ## Q48807618: Subinates
 [https://www.wikidata.org/wiki/Q48807618](https://www.wikidata.org/wiki/Q48807618)  
 
@@ -31507,6 +31682,13 @@
  - [Rhodope](https://pleiades.stoa.org/places/991370)
 
 
+## Rhypes (Q2148349)
+[https://www.wikidata.org/wiki/Q2148349](https://www.wikidata.org/wiki/Q2148349)  
+
+### alignments:
+ - [Rhypes](https://pleiades.stoa.org/places/570647)
+
+
 ## Rhône (Q602)
 [https://www.wikidata.org/wiki/Q602](https://www.wikidata.org/wiki/Q602)  
 
@@ -31886,6 +32068,13 @@
  - [Roman Countermine Near Tower 19](https://pleiades.stoa.org/places/888638022)
 
 
+## Roman Cumbrian Coast defences (Q122975142)
+[https://www.wikidata.org/wiki/Q122975142](https://www.wikidata.org/wiki/Q122975142)  
+
+### alignments:
+ - [Hadrian's Wall (Cumbrian Coast)](https://pleiades.stoa.org/places/579047271)
+
+
 ## Roman fortlet at Ince, 150m north east of Hall Farm (Q17662482)
 [https://www.wikidata.org/wiki/Q17662482](https://www.wikidata.org/wiki/Q17662482)  
 
@@ -31954,6 +32143,13 @@
 
 ### alignments:
  - [Gatcombe](https://pleiades.stoa.org/places/79477)
+
+
+## Roman signal station on Mains Rigg (Q17678003)
+[https://www.wikidata.org/wiki/Q17678003](https://www.wikidata.org/wiki/Q17678003)  
+
+### alignments:
+ - [Mains Rigg signal tower](https://pleiades.stoa.org/places/851023494)
 
 
 ## Roman site on Red Hill (Q17646230)
@@ -32094,6 +32290,13 @@
 
 ### alignments:
  - [Roman theater at Iguvium](https://pleiades.stoa.org/places/418202453)
+
+
+## Roman Theatre of Italica (Q11704271)
+[https://www.wikidata.org/wiki/Q11704271](https://www.wikidata.org/wiki/Q11704271)  
+
+### alignments:
+ - [Roman theater at Italica](https://pleiades.stoa.org/places/132543925)
 
 
 ## Roman Theatre of Orange (Q958961)
@@ -36362,6 +36565,13 @@
  - [Villa Maxentii](https://pleiades.stoa.org/places/423129)
 
 
+## villa of Aulus Vitellius Germanicus (Q131428027)
+[https://www.wikidata.org/wiki/Q131428027](https://www.wikidata.org/wiki/Q131428027)  
+
+### alignments:
+ - [Monte Gentili](https://pleiades.stoa.org/places/178764324)
+
+
 ## Villa of L. Crassius Tertius (Q55588235)
 [https://www.wikidata.org/wiki/Q55588235](https://www.wikidata.org/wiki/Q55588235)  
 
@@ -36684,6 +36894,13 @@
  - [Walwick Fell Roman temporary camp](https://pleiades.stoa.org/places/34684511)
 
 
+## Washing Wells Roman Fort (Q16248636)
+[https://www.wikidata.org/wiki/Q16248636](https://www.wikidata.org/wiki/Q16248636)  
+
+### alignments:
+ - [Washing Wells Roman Fort](https://pleiades.stoa.org/places/455355586)
+
+
 ## Wesseling Roman Fort (Q1798803)
 [https://www.wikidata.org/wiki/Q1798803](https://www.wikidata.org/wiki/Q1798803)  
 
@@ -36710,6 +36927,13 @@
 
 ### alignments:
  - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
+
+
+## Woden Law (Q31105689)
+[https://www.wikidata.org/wiki/Q31105689](https://www.wikidata.org/wiki/Q31105689)  
+
+### alignments:
+ - [Woden Law hill fort](https://pleiades.stoa.org/places/728181788)
 
 
 ## Woodchester Roman Villa (Q1690886)
@@ -36787,6 +37011,13 @@
 
 ### alignments:
  - [Hydroussa (island)](https://pleiades.stoa.org/places/579953)
+
+
+## Yeavering Bell camp (Q17643662)
+[https://www.wikidata.org/wiki/Q17643662](https://www.wikidata.org/wiki/Q17643662)  
+
+### alignments:
+ - [Yeavering Bell](https://pleiades.stoa.org/places/301591388)
 
 
 ## Yesemek Quarry and Sculpture Workshop (Q26959195)

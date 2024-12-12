@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3598 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
+3600 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1066,6 +1066,13 @@
 
 ### alignments:
  - [Alagonia?](https://pleiades.stoa.org/places/570061)
+
+
+## Alahan monastery (Cilicia) Geçimli - Αλαχάν
+[https://topostext.org/place/368333EAla](https://topostext.org/place/368333EAla)  
+
+### alignments:
+ - [Alahan](https://pleiades.stoa.org/places/648553)
 
 
 ## Alalie (Corsica)
@@ -5058,6 +5065,13 @@
 
 ### alignments:
  - [Calabria](https://pleiades.stoa.org/places/442518)
+
+
+## Calaguris (Iberia)
+[https://topostext.org/place/423000UCa2](https://topostext.org/place/423000UCa2)  
+
+### alignments:
+ - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
 ## Calatia (Campania)

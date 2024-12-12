@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-589 alignments exist in _Pleiades_ place references as of 2024-12-11. The following list of alignments is grouped by zotkey.
+590 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2078,6 +2078,13 @@
 
 ### alignments:
  - [Nessonis L.](https://pleiades.stoa.org/places/543806)
+
+
+## 11308533: Rhypes (Achaia)
+[https://resource.manto.unh.edu/11308533](https://resource.manto.unh.edu/11308533)  
+
+### alignments:
+ - [Rhypes](https://pleiades.stoa.org/places/570647)
 
 
 ## 11309266: Epacria (Attica)
