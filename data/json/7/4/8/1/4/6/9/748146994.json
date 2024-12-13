@@ -18,10 +18,17 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_analytical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical",
             "connectsTo": "https://pleiades.stoa.org/places/579047271",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2020-04-12T16:56:04Z",
             "creators": [
                 {
@@ -35,6 +42,11 @@
             "details": "",
             "end": 410,
             "history": [
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2024-12-12T15:35:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-04-12T20:31:40Z",
@@ -58,7 +70,19 @@
             ],
             "id": "hadrians-wall-cumbrian-coast",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1014809",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
+                    "citationDetail": "1014809: Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coas",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "NHLE",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": 43,
             "title": "Hadrian's Wall (Cumbrian Coast)",
@@ -74,9 +98,15 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2020-04-12T16:47:38Z",
+    "created": "2024-12-11T18:18:08Z",
     "creators": [
         {
             "homepage": null,
@@ -101,13 +131,23 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/748146994/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort; AD 43 - AD 410",
-                "title": "OSM Location of Old Mawbray (Coastal Tower 16b)"
+                "snippet": "Tower-defensive; AD 43 - AD 410",
+                "title": "OSM Location of  Mawbray Sandpit Tower (Coastal Tower 16b)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-12-12T15:34:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited type for tower(defensive); wikidata Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coast (Q17662956) @maximeg",
+            "modified": "2024-12-12T15:33:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2023-08-29T02:45:52Z",
@@ -182,10 +222,10 @@
             "details": "",
             "end": 410,
             "featureType": [
-                "fort"
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
@@ -195,6 +235,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update feature type",
+                    "modified": "2024-12-12T15:32:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-12T15:31:29Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-04-12T20:31:40Z",
@@ -231,9 +281,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Node 7395509170, version 4, osm:changeset=138540530, 2023-07-15T11:12:07Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/node/7395509170",
@@ -249,7 +299,7 @@
             ],
             "review_state": "published",
             "start": 43,
-            "title": "OSM Location of Old Mawbray (Coastal Tower 16b)",
+            "title": "OSM Location of  Mawbray Sandpit Tower (Coastal Tower 16b)",
             "uri": "https://pleiades.stoa.org/places/748146994/osm-location"
         }
     ],
@@ -316,15 +366,15 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
     ],
     "placeTypes": [
-        "fort"
+        "tower-defensive"
     ],
     "provenance": "Pleiades",
     "references": [
         {
-            "accessURI": "https://www.pastscape.org.uk/hob.aspx?hob_id=9078",
+            "accessURI": "https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=9078&resourceID=19191",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
             "citationDetail": "Monument no. 9078",
@@ -338,12 +388,23 @@
             "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1014809",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
-            "citationDetail": "Scheduled Monument 1014809",
+            "citationDetail": "1014809: Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coast",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
             "otherIdentifier": "",
             "shortTitle": "NHLE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17662956",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coast (Q17662956)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

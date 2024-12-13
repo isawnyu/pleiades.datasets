@@ -80,8 +80,15 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/83886"
     ],
-    "contributors": [],
-    "created": "2014-07-01T18:12:37Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-12T13:33:36Z",
     "creators": [
         {
             "homepage": null,
@@ -106,13 +113,28 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/247074450/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 300",
+                "snippet": "Fort-2; AD 43 - AD 410",
                 "title": "OSM location of Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-12-12T13:55:00Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited type for fort; update references @maximeg",
+            "modified": "2024-12-12T13:54:33Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-12T13:33:36Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-05-19T00:03:51Z",
@@ -152,8 +174,8 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
             "contributors": [],
@@ -168,14 +190,12 @@
             ],
             "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 410,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -185,6 +205,21 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-12T13:51:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "update Feature type",
+                    "modified": "2024-12-12T13:51:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-12T13:51:08Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2023-11-18T01:24:19Z",
@@ -226,8 +261,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Node 2755058647, version 4, osm:changeset=68406791, 2019-03-22T11:06:43Z)",
             "references": [
@@ -244,29 +278,29 @@
                 }
             ],
             "review_state": "published",
-            "start": -30,
+            "start": 43,
             "title": "OSM location of Roman fort",
             "uri": "https://pleiades.stoa.org/places/247074450/osm-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=1519470",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "monument no. 1519470",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pastscape monument no. 1519470",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PastScape",
             "type": "seeFurther"
         },
         {
@@ -312,6 +346,28 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1004660",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
+            "citationDetail": "1004660: Roman fort, annexes and temporary camp, 290m south-west of Restormel Farm N of Lostwithiel, Cornwall, PL22 0HU",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "NHLE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17642745",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Roman fortlet 440m south west of Restormel Farm (Q17642745)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
