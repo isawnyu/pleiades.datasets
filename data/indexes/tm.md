@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3921 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
+3922 alignments exist in _Pleiades_ place references as of 2024-12-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5581,6 +5581,13 @@
 
 ### alignments:
  - [Irchester](https://pleiades.stoa.org/places/79530)
+
+
+## GEO ID 15087
+[http://www.trismegistos.org/place/15087](http://www.trismegistos.org/place/15087)  
+
+### alignments:
+ - [*Vercovicium](https://pleiades.stoa.org/places/89311)
 
 
 ## GEO ID 1508: Polemonos Meridos Oreine Dioryx (Bahr Gharaq)

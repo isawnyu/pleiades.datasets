@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5321 alignments exist in _Pleiades_ place references as of 2024-12-12. The following list of alignments is grouped by zotkey.
+5349 alignments exist in _Pleiades_ place references as of 2024-12-13. The following list of alignments is grouped by zotkey.
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
 [https://www.wikidata.org/wiki/Q17661980](https://www.wikidata.org/wiki/Q17661980)  
@@ -1162,6 +1162,13 @@
 
 ### alignments:
  - [Greek theater of Taormina](https://pleiades.stoa.org/places/937547557)
+
+
+## Andaman Islands (Q186233)
+[https://www.wikidata.org/wiki/Q186233](https://www.wikidata.org/wiki/Q186233)  
+
+### alignments:
+ - [Maniolai (islands)](https://pleiades.stoa.org/places/50118)
 
 
 ## Andelos (Q3615328)
@@ -2495,6 +2502,13 @@
  - [Col. Barcino](https://pleiades.stoa.org/places/246343)
 
 
+## Barcombe Hill Roman signal station (Q17676761)
+[https://www.wikidata.org/wiki/Q17676761](https://www.wikidata.org/wiki/Q17676761)  
+
+### alignments:
+ - [Barcombe Hill Roman Signal Station](https://pleiades.stoa.org/places/512867195)
+
+
 ## Barragem Romana da Fonte Coberta (Q16496954)
 [https://www.wikidata.org/wiki/Q16496954](https://www.wikidata.org/wiki/Q16496954)  
 
@@ -3279,6 +3293,13 @@
  - [Gholaia](https://pleiades.stoa.org/places/344377)
 
 
+## Bubon (Q997591)
+[https://www.wikidata.org/wiki/Q997591](https://www.wikidata.org/wiki/Q997591)  
+
+### alignments:
+ - [Boubon](https://pleiades.stoa.org/places/638792)
+
+
 ## Bucinobantes (Q927722)
 [https://www.wikidata.org/wiki/Q927722](https://www.wikidata.org/wiki/Q927722)  
 
@@ -3412,6 +3433,13 @@
  - [Barbarion Pr.](https://pleiades.stoa.org/places/256015)
 
 
+## Cadbury Camp (Q5016259)
+[https://www.wikidata.org/wiki/Q5016259](https://www.wikidata.org/wiki/Q5016259)  
+
+### alignments:
+ - [Cadbury Camp Hill Fort](https://pleiades.stoa.org/places/224983652)
+
+
 ## Cadistum (Q12899104)
 [https://www.wikidata.org/wiki/Q12899104](https://www.wikidata.org/wiki/Q12899104)  
 
@@ -3433,6 +3461,13 @@
  - [Caelius Mons](https://pleiades.stoa.org/places/695491849)
 
 
+## Caerau Hillfort (Q5016882)
+[https://www.wikidata.org/wiki/Q5016882](https://www.wikidata.org/wiki/Q5016882)  
+
+### alignments:
+ - [Caerau Hillfort](https://pleiades.stoa.org/places/747167617)
+
+
 ## Caerhûn (Samian Ware Discovery Site) (Q103158162)
 [https://www.wikidata.org/wiki/Q103158162](https://www.wikidata.org/wiki/Q103158162)  
 
@@ -3445,6 +3480,13 @@
 
 ### alignments:
  - [Mithraeum at Segontium](https://pleiades.stoa.org/places/702114508)
+
+
+## Caesar's Camp, Bracknell Forest (Q5016951)
+[https://www.wikidata.org/wiki/Q5016951](https://www.wikidata.org/wiki/Q5016951)  
+
+### alignments:
+ - [Caesar's Camp, Bracknell Forest](https://pleiades.stoa.org/places/211426527)
 
 
 ## Caesareum at Cyrene (Q82073818)
@@ -4168,6 +4210,13 @@
  - [Praetorium](https://pleiades.stoa.org/places/216943)
 
 
+## Castrum Segedunum (Q637958)
+[https://www.wikidata.org/wiki/Q637958](https://www.wikidata.org/wiki/Q637958)  
+
+### alignments:
+ - [Segedunum](https://pleiades.stoa.org/places/89288)
+
+
 ## Castulo (Q1049992)
 [https://www.wikidata.org/wiki/Q1049992](https://www.wikidata.org/wiki/Q1049992)  
 
@@ -4406,6 +4455,13 @@
  - [Chelydorea (mountain)](https://pleiades.stoa.org/places/573169)
 
 
+## Chenab River (Q216875)
+[https://www.wikidata.org/wiki/Q216875](https://www.wikidata.org/wiki/Q216875)  
+
+### alignments:
+ - [Akesinos/Sandabal (river)](https://pleiades.stoa.org/places/59664)
+
+
 ## Chessy (Q929575)
 [https://www.wikidata.org/wiki/Q929575](https://www.wikidata.org/wiki/Q929575)  
 
@@ -4418,6 +4474,13 @@
 
 ### alignments:
  - [Vindolanda](https://pleiades.stoa.org/places/89313)
+
+
+## Chesters Roman Fort (Q3818331)
+[https://www.wikidata.org/wiki/Q3818331](https://www.wikidata.org/wiki/Q3818331)  
+
+### alignments:
+ - [Cilurnum](https://pleiades.stoa.org/places/89144)
 
 
 ## Chetinyova Tomb (Q60715850)
@@ -7503,6 +7566,13 @@
  - [House X7-B](https://pleiades.stoa.org/places/888638042)
 
 
+## Housesteads Roman Fort (Q1812832)
+[https://www.wikidata.org/wiki/Q1812832](https://www.wikidata.org/wiki/Q1812832)  
+
+### alignments:
+ - [*Vercovicium](https://pleiades.stoa.org/places/89311)
+
+
 ## Howardries (Q2483407)
 [https://www.wikidata.org/wiki/Q2483407](https://www.wikidata.org/wiki/Q2483407)  
 
@@ -7790,11 +7860,25 @@
  - [India](https://pleiades.stoa.org/places/50004)
 
 
+## Indian Ocean (Q1239)
+[https://www.wikidata.org/wiki/Q1239](https://www.wikidata.org/wiki/Q1239)  
+
+### alignments:
+ - [Indicum Mare](https://pleiades.stoa.org/places/39352)
+
+
 ## Indre River (Q217347)
 [https://www.wikidata.org/wiki/Q217347](https://www.wikidata.org/wiki/Q217347)  
 
 ### alignments:
  - [Anger? (river)](https://pleiades.stoa.org/places/138182)
+
+
+## Indus River (Q7348)
+[https://www.wikidata.org/wiki/Q7348](https://www.wikidata.org/wiki/Q7348)  
+
+### alignments:
+ - [Indus/Sinthos/Phison (river)](https://pleiades.stoa.org/places/59851)
 
 
 ## Ingaevones (Q1097118)
@@ -8496,6 +8580,13 @@
 
 ### alignments:
  - [Kirkhill Roman signal station](https://pleiades.stoa.org/places/121620025)
+
+
+## Kirmington Roman settlement (Q17641518)
+[https://www.wikidata.org/wiki/Q17641518](https://www.wikidata.org/wiki/Q17641518)  
+
+### alignments:
+ - [Kirmington](https://pleiades.stoa.org/places/849071429)
 
 
 ## Kisurra (Q910253)
@@ -9466,6 +9557,20 @@
  - [Longovicium](https://pleiades.stoa.org/places/89230)
 
 
+## Longthorpe (Samian Ware Discovery Site) (Q103177589)
+[https://www.wikidata.org/wiki/Q103177589](https://www.wikidata.org/wiki/Q103177589)  
+
+### alignments:
+ - [Longthorpe](https://pleiades.stoa.org/places/442436712)
+
+
+## Longthorpe Roman fort and settlement (Q17641267)
+[https://www.wikidata.org/wiki/Q17641267](https://www.wikidata.org/wiki/Q17641267)  
+
+### alignments:
+ - [Longthorpe](https://pleiades.stoa.org/places/442436712)
+
+
 ## Lorium (Q1444690)
 [https://www.wikidata.org/wiki/Q1444690](https://www.wikidata.org/wiki/Q1444690)  
 
@@ -9550,6 +9655,13 @@
  - [Lugii](https://pleiades.stoa.org/places/20533)
 
 
+## Lunt Roman Fort (Q12061402)
+[https://www.wikidata.org/wiki/Q12061402](https://www.wikidata.org/wiki/Q12061402)  
+
+### alignments:
+ - [Lunt Roman fort](https://pleiades.stoa.org/places/878157790)
+
+
 ## Lupanar (Q157747)
 [https://www.wikidata.org/wiki/Q157747](https://www.wikidata.org/wiki/Q157747)  
 
@@ -9604,6 +9716,13 @@
 
 ### alignments:
  - [Luxor Temple](https://pleiades.stoa.org/places/71626430)
+
+
+## Lycia (Q18927)
+[https://www.wikidata.org/wiki/Q18927](https://www.wikidata.org/wiki/Q18927)  
+
+### alignments:
+ - [Lycia](https://pleiades.stoa.org/places/638965)
 
 
 ## Lycia et Pamphylia (Q1246140)
@@ -10047,6 +10166,13 @@
  - [Mausoleum of Theodoric](https://pleiades.stoa.org/places/861709371)
 
 
+## Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coast (Q17662956)
+[https://www.wikidata.org/wiki/Q17662956](https://www.wikidata.org/wiki/Q17662956)  
+
+### alignments:
+ - [Coastal Tower 16b (Old Mawbray)](https://pleiades.stoa.org/places/748146994)
+
+
 ## Maó (Q49550)
 [https://www.wikidata.org/wiki/Q49550](https://www.wikidata.org/wiki/Q49550)  
 
@@ -10362,11 +10488,46 @@
  - [Milatos](https://pleiades.stoa.org/places/589932)
 
 
+## Milecastle 1 (Q6851145)
+[https://www.wikidata.org/wiki/Q6851145](https://www.wikidata.org/wiki/Q6851145)  
+
+### alignments:
+ - [Milecastle 1 (Stott's Pow)](https://pleiades.stoa.org/places/967060287)
+
+
+## Milecastle 20 (Q6851157)
+[https://www.wikidata.org/wiki/Q6851157](https://www.wikidata.org/wiki/Q6851157)  
+
+### alignments:
+ - [Milecastle 20 (Halton Shields)](https://pleiades.stoa.org/places/967060224)
+
+
+## Milecastle 21 (Q6851158)
+[https://www.wikidata.org/wiki/Q6851158](https://www.wikidata.org/wiki/Q6851158)  
+
+### alignments:
+ - [Milecastle 21 (Down Hill)](https://pleiades.stoa.org/places/967060215)
+
+
+## Milecastle 37 (Q16156512)
+[https://www.wikidata.org/wiki/Q16156512](https://www.wikidata.org/wiki/Q16156512)  
+
+### alignments:
+ - [Milecastle 37 (Housesteads)](https://pleiades.stoa.org/places/893595278)
+
+
 ## Milecastle 55 (Q15378719)
 [https://www.wikidata.org/wiki/Q15378719](https://www.wikidata.org/wiki/Q15378719)  
 
 ### alignments:
  - [Milecastle 55 (Low Wall)](https://pleiades.stoa.org/places/967060237)
+
+
+## Milecastle 67 (Q16156868)
+[https://www.wikidata.org/wiki/Q16156868](https://www.wikidata.org/wiki/Q16156868)  
+
+### alignments:
+ - [Milecastle 67 (Stainton)](https://pleiades.stoa.org/places/967060218)
 
 
 ## Milecastle 76 (Q6851196)
@@ -10381,6 +10542,13 @@
 
 ### alignments:
  - [Milefortlet 1 (Biglands House)](https://pleiades.stoa.org/places/988627262)
+
+
+## Milefortlet 9 (Q16247437)
+[https://www.wikidata.org/wiki/Q16247437](https://www.wikidata.org/wiki/Q16247437)  
+
+### alignments:
+ - [Skinburness](https://pleiades.stoa.org/places/504812865)
 
 
 ## Military base, Dura-Europos (Q116622098)
@@ -12350,6 +12518,13 @@
  - [Pella/Diokletianoupolis](https://pleiades.stoa.org/places/491687)
 
 
+## Pen Coed-foel Camp (Q13126362)
+[https://www.wikidata.org/wiki/Q13126362](https://www.wikidata.org/wiki/Q13126362)  
+
+### alignments:
+ - [Pen Coed-foel Camp](https://pleiades.stoa.org/places/964510418)
+
+
 ## Pen Dinas (Q2253186)
 [https://www.wikidata.org/wiki/Q2253186](https://www.wikidata.org/wiki/Q2253186)  
 
@@ -12874,6 +13049,13 @@
 
 ### alignments:
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
+
+
+## Pommeroeul (Samian Ware Discovery Site) (Q103190075)
+[https://www.wikidata.org/wiki/Q103190075](https://www.wikidata.org/wiki/Q103190075)  
+
+### alignments:
+ - [Pommeroeul](https://pleiades.stoa.org/places/109253)
 
 
 ## Pompeii Comitium (Q27688101)
@@ -13868,13 +14050,6 @@
 
 ### alignments:
  - [Noiodounon Diablintum](https://pleiades.stoa.org/places/69539)
-
-
-## Q103177589: Longthorpe (Samian Ware Discovery Site)
-[https://www.wikidata.org/wiki/Q103177589](https://www.wikidata.org/wiki/Q103177589)  
-
-### alignments:
- - [Longthorpe](https://pleiades.stoa.org/places/442436712)
 
 
 ## Q103195334: Shiptonthorpe (Samian Ware Discovery Site)
@@ -17929,13 +18104,6 @@
 
 ### alignments:
  - [Arch of Septimius Severus](https://pleiades.stoa.org/places/370240026)
-
-
-## Q16247437: Milefortlet 9
-[https://www.wikidata.org/wiki/Q16247437](https://www.wikidata.org/wiki/Q16247437)  
-
-### alignments:
- - [Skinburness](https://pleiades.stoa.org/places/504812865)
 
 
 ## Q16261484: Phlygonium
@@ -32061,6 +32229,13 @@
  - [Roman camp, Seldom Seen](https://pleiades.stoa.org/places/36195364)
 
 
+## Roman camp, forts and a vexillation fortress 240m north of Lake Farm (Q17647206)
+[https://www.wikidata.org/wiki/Q17647206](https://www.wikidata.org/wiki/Q17647206)  
+
+### alignments:
+ - [Lake Farm Roman fort](https://pleiades.stoa.org/places/600065939)
+
+
 ## Roman countermine near Tower 19 (Q117857781)
 [https://www.wikidata.org/wiki/Q117857781](https://www.wikidata.org/wiki/Q117857781)  
 
@@ -32073,6 +32248,13 @@
 
 ### alignments:
  - [Hadrian's Wall (Cumbrian Coast)](https://pleiades.stoa.org/places/579047271)
+
+
+## Roman fortlet 440m south west of Restormel Farm (Q17642745)
+[https://www.wikidata.org/wiki/Q17642745](https://www.wikidata.org/wiki/Q17642745)  
+
+### alignments:
+ - [Calstock Roman fort](https://pleiades.stoa.org/places/247074450)
 
 
 ## Roman fortlet at Ince, 150m north east of Hall Farm (Q17662482)
@@ -35920,6 +36102,13 @@
  - [Traron](https://pleiades.stoa.org/places/550942)
 
 
+## Trawscoed Fort (Q16901948)
+[https://www.wikidata.org/wiki/Q16901948](https://www.wikidata.org/wiki/Q16901948)  
+
+### alignments:
+ - [Trawscoed fort](https://pleiades.stoa.org/places/964510417)
+
+
 ## Trebbia (Q732587)
 [https://www.wikidata.org/wiki/Q732587](https://www.wikidata.org/wiki/Q732587)  
 
@@ -36128,6 +36317,13 @@
 
 ### alignments:
  - [Ziyaret Tepe](https://pleiades.stoa.org/places/986129162)
+
+
+## Two Roman forts and three sections of Roman road at Caermote (Q17676226)
+[https://www.wikidata.org/wiki/Q17676226](https://www.wikidata.org/wiki/Q17676226)  
+
+### alignments:
+ - [Caermote Roman fort](https://pleiades.stoa.org/places/452125610)
 
 
 ## Tylissus (Q38280988)
