@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-144 alignments exist in _Pleiades_ place references as of 2024-12-13. The following list of alignments is grouped by zotkey.
+145 alignments exist in _Pleiades_ place references as of 2024-12-16. The following list of alignments is grouped by zotkey.
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  
@@ -672,6 +672,13 @@
 
 ### alignments:
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
+
+
+## Findspot: Vouliagmeni
+[https://www.atticinscriptions.com/browse/byfindspot/vouliagmeni/](https://www.atticinscriptions.com/browse/byfindspot/vouliagmeni/)  
+
+### alignments:
+ - [Vouliagmeni](https://pleiades.stoa.org/places/580132)
 
 
 ## IG II² 5185

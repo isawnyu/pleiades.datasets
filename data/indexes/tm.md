@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3922 alignments exist in _Pleiades_ place references as of 2024-12-13. The following list of alignments is grouped by zotkey.
+3948 alignments exist in _Pleiades_ place references as of 2024-12-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3755,6 +3755,13 @@
  - [Methymna](https://pleiades.stoa.org/places/550738)
 
 
+## GEO ID 13673: Bremetennacum (Ribchester)
+[http://www.trismegistos.org/place/13673](http://www.trismegistos.org/place/13673)  
+
+### alignments:
+ - [Bremetennacum Veteranorum](https://pleiades.stoa.org/places/79352)
+
+
 ## GEO ID 13677: Massicus Mons (Monte Massico)
 [http://www.trismegistos.org/place/13677](http://www.trismegistos.org/place/13677)  
 
@@ -5022,6 +5029,13 @@
  - [Bourton-on-the-Water](https://pleiades.stoa.org/places/79339)
 
 
+## GEO ID 14519: Cicucium (Y Gaer)
+[http://www.trismegistos.org/place/14519](http://www.trismegistos.org/place/14519)  
+
+### alignments:
+ - [‘Cicutio’](https://pleiades.stoa.org/places/79389)
+
+
 ## GEO ID 14520: Sulloniacis (Brockley Hill)
 [http://www.trismegistos.org/place/14520](http://www.trismegistos.org/place/14520)  
 
@@ -5076,6 +5090,13 @@
 
 ### alignments:
  - [‘Cocanges’/‘Concangios’](https://pleiades.stoa.org/places/89146)
+
+
+## GEO ID 14532: Coe Sike
+[http://www.trismegistos.org/place/14532](http://www.trismegistos.org/place/14532)  
+
+### alignments:
+ - [Turret 33B (Coesike)](https://pleiades.stoa.org/places/967060270)
 
 
 ## GEO ID 14534: Banna (Birdoswald)
@@ -5204,6 +5225,13 @@
  - [*Camboglanna](https://pleiades.stoa.org/places/89133)
 
 
+## GEO ID 14574: Bovium (Tilston)
+[http://www.trismegistos.org/place/14574](http://www.trismegistos.org/place/14574)  
+
+### alignments:
+ - [Bovium?](https://pleiades.stoa.org/places/79340)
+
+
 ## GEO ID 14577: Camulodunum (Colchester)
 [http://www.trismegistos.org/place/14577](http://www.trismegistos.org/place/14577)  
 
@@ -5323,6 +5351,13 @@
  - [Segedunum](https://pleiades.stoa.org/places/89288)
 
 
+## GEO ID 14678: Burrium (Usk)
+[http://www.trismegistos.org/place/14678](http://www.trismegistos.org/place/14678)  
+
+### alignments:
+ - [Burrium](https://pleiades.stoa.org/places/79360)
+
+
 ## GEO ID 14682: Uley
 [http://www.trismegistos.org/place/14682](http://www.trismegistos.org/place/14682)  
 
@@ -5386,6 +5421,13 @@
  - [Calleva](https://pleiades.stoa.org/places/79368)
 
 
+## GEO ID 14783: Villa Faustini (Scole)
+[http://www.trismegistos.org/place/14783](http://www.trismegistos.org/place/14783)  
+
+### alignments:
+ - [Villa Faustini](https://pleiades.stoa.org/places/83902)
+
+
 ## GEO ID 14806: Rudston
 [http://www.trismegistos.org/place/14806](http://www.trismegistos.org/place/14806)  
 
@@ -5434,6 +5476,27 @@
 
 ### alignments:
  - [Pumsaint Roman Fort (ancient Louentinon?)](https://pleiades.stoa.org/places/79578)
+
+
+## GEO ID 14841: Prestatyn
+[http://www.trismegistos.org/place/14841](http://www.trismegistos.org/place/14841)  
+
+### alignments:
+ - [Prestatyn](https://pleiades.stoa.org/places/718938476)
+
+
+## GEO ID 14848: Bremia (Llanio)
+[http://www.trismegistos.org/place/14848](http://www.trismegistos.org/place/14848)  
+
+### alignments:
+ - [Bremia](https://pleiades.stoa.org/places/79353)
+
+
+## GEO ID 14855: Anderitum (Pevensey)
+[http://www.trismegistos.org/place/14855](http://www.trismegistos.org/place/14855)  
+
+### alignments:
+ - [Anderidos](https://pleiades.stoa.org/places/79293)
 
 
 ## GEO ID 14861: Voreda (Penrith)
@@ -5513,6 +5576,13 @@
  - [Olympia](https://pleiades.stoa.org/places/570531)
 
 
+## GEO ID 14967: Lemanis (Lympne)
+[http://www.trismegistos.org/place/14967](http://www.trismegistos.org/place/14967)  
+
+### alignments:
+ - [Portus Lemanis](https://pleiades.stoa.org/places/79647)
+
+
 ## GEO ID 1498: Olynthos
 [http://www.trismegistos.org/place/1498](http://www.trismegistos.org/place/1498)  
 
@@ -5553,6 +5623,13 @@
 
 ### alignments:
  - [Onnes](https://pleiades.stoa.org/places/741535)
+
+
+## GEO ID 15033: Bravonium (Leintwardine)
+[http://www.trismegistos.org/place/15033](http://www.trismegistos.org/place/15033)  
+
+### alignments:
+ - [Branogenium](https://pleiades.stoa.org/places/79347)
 
 
 ## GEO ID 1503: Onniton Koite
@@ -5604,6 +5681,13 @@
  - [Henley Wood](https://pleiades.stoa.org/places/79507)
 
 
+## GEO ID 15124: Heddon-on-the-Wall
+[https://www.trismegistos.org/place/15124](https://www.trismegistos.org/place/15124)  
+
+### alignments:
+ - [Milecastle 12 (Heddon)](https://pleiades.stoa.org/places/967060410)
+
+
 ## GEO ID 15142
 [http://www.trismegistos.org/place/15142](http://www.trismegistos.org/place/15142)  
 
@@ -5632,6 +5716,13 @@
  - [Col. Glevum](https://pleiades.stoa.org/places/79394)
 
 
+## GEO ID 15190
+[http://www.trismegistos.org/place/15190](http://www.trismegistos.org/place/15190)  
+
+### alignments:
+ - [Gelligaer](https://pleiades.stoa.org/places/79479)
+
+
 ## GEO ID 15204: Folkestone
 [http://www.trismegistos.org/place/15204](http://www.trismegistos.org/place/15204)  
 
@@ -5644,6 +5735,13 @@
 
 ### alignments:
  - [Fishbourne](https://pleiades.stoa.org/places/79466)
+
+
+## GEO ID 15216
+[http://www.trismegistos.org/place/15216](http://www.trismegistos.org/place/15216)  
+
+### alignments:
+ - [Falkirk](https://pleiades.stoa.org/places/89182)
 
 
 ## GEO ID 15218: Ewell
@@ -5688,6 +5786,13 @@
  - [Durno(no)varia](https://pleiades.stoa.org/places/79431)
 
 
+## GEO ID 15258: Danum (Doncaster)
+[http://www.trismegistos.org/place/15258](http://www.trismegistos.org/place/15258)  
+
+### alignments:
+ - [Danum?](https://pleiades.stoa.org/places/79412)
+
+
 ## GEO ID 15293
 [http://www.trismegistos.org/place/15293](http://www.trismegistos.org/place/15293)  
 
@@ -5707,6 +5812,13 @@
 
 ### alignments:
  - [Noviomagus](https://pleiades.stoa.org/places/79622)
+
+
+## GEO ID 15324: Deva (Chester)
+[http://www.trismegistos.org/place/15324](http://www.trismegistos.org/place/15324)  
+
+### alignments:
+ - [Deva](https://pleiades.stoa.org/places/79420)
 
 
 ## GEO ID 15327: Caesaromagus (Chelmsford)
@@ -5772,6 +5884,13 @@
  - [Duroliponte](https://pleiades.stoa.org/places/79436)
 
 
+## GEO ID 15370: Caister-on-Sea
+[http://www.trismegistos.org/place/15370](http://www.trismegistos.org/place/15370)  
+
+### alignments:
+ - [Caister-on-Sea](https://pleiades.stoa.org/places/79365)
+
+
 ## GEO ID 15374: Segontium (Caernarfon)
 [http://www.trismegistos.org/place/15374](http://www.trismegistos.org/place/15374)  
 
@@ -5784,6 +5903,13 @@
 
 ### alignments:
  - [Magis?](https://pleiades.stoa.org/places/89237)
+
+
+## GEO ID 15383: Gariannum (Burgh Castle)
+[http://www.trismegistos.org/place/15383](http://www.trismegistos.org/place/15383)  
+
+### alignments:
+ - [*Gariann(on)um](https://pleiades.stoa.org/places/79475)
 
 
 ## GEO ID 15384: Aballava (Burgh by Sands)
@@ -5805,6 +5931,13 @@
 
 ### alignments:
  - [Crococalana](https://pleiades.stoa.org/places/79407)
+
+
+## GEO ID 15419: Branodunum (Brancaster)
+[http://www.trismegistos.org/place/15419](http://www.trismegistos.org/place/15419)  
+
+### alignments:
+ - [Branodunum](https://pleiades.stoa.org/places/79346)
 
 
 ## GEO ID 15423: Othona (Bradwell-on-Sea)
@@ -6379,6 +6512,13 @@
 
 ### alignments:
  - [Amphipolis](https://pleiades.stoa.org/places/501347)
+
+
+## GEO ID 16205: Elaioussa (Ayaş)
+[https://www.trismegistos.org/place/16205](https://www.trismegistos.org/place/16205)  
+
+### alignments:
+ - [Elaioussa/Sebaste](https://pleiades.stoa.org/places/648628)
 
 
 ## GEO ID 16212: Apollonia (Uluborlu)
@@ -7774,6 +7914,13 @@
  - [Cambodunum](https://pleiades.stoa.org/places/92124)
 
 
+## GEO ID 18971: Venonis (High Cross)
+[http://www.trismegistos.org/place/18971](http://www.trismegistos.org/place/18971)  
+
+### alignments:
+ - [Venonis](https://pleiades.stoa.org/places/79732)
+
+
 ## GEO ID 18976: Senomagus (Yoxford?)
 [http://www.trismegistos.org/place/18976](http://www.trismegistos.org/place/18976)  
 
@@ -7802,11 +7949,25 @@
  - [Via Flaminia](https://pleiades.stoa.org/places/856514595)
 
 
+## GEO ID 18982: Varis (St Asaph)
+[https://www.trismegistos.org/place/18982](https://www.trismegistos.org/place/18982)  
+
+### alignments:
+ - [Varis](https://pleiades.stoa.org/places/79730)
+
+
 ## GEO ID 18986: Moridunum (Sidford?)
 [https://www.trismegistos.org/place/18986](https://www.trismegistos.org/place/18986)  
 
 ### alignments:
  - [Moridunum](https://pleiades.stoa.org/places/83868)
+
+
+## GEO ID 18987: Bovium (Cowbridge)
+[http://www.trismegistos.org/place/18987](http://www.trismegistos.org/place/18987)  
+
+### alignments:
+ - [‘Bomio’](https://pleiades.stoa.org/places/79335)
 
 
 ## GEO ID 18989: Ariconium (Weston under Penyard)
@@ -8150,6 +8311,13 @@
 
 ### alignments:
  - [*Leucomagus](https://pleiades.stoa.org/places/79562)
+
+
+## GEO ID 19785: Alabum (Llanfair-ar-bryn)
+[http://www.trismegistos.org/place/19785](http://www.trismegistos.org/place/19785)  
+
+### alignments:
+ - [Alabum](https://pleiades.stoa.org/places/79287)
 
 
 ## GEO ID 19787: Magalonium
@@ -11833,6 +12001,13 @@
 
 ### alignments:
  - [Iconium/Claudiconium](https://pleiades.stoa.org/places/648647)
+
+
+## GEO ID 29227: Ulcisia (Szentendre)
+[http://www.trismegistos.org/place/29227](http://www.trismegistos.org/place/29227)  
+
+### alignments:
+ - [Ulcisia Castra/Castra Constantia](https://pleiades.stoa.org/places/197564)
 
 
 ## GEO ID 29253: Lugio (Dunaszekcső)
@@ -24579,6 +24754,13 @@
 
 ### alignments:
  - [*Umbro (river)](https://pleiades.stoa.org/places/413362)
+
+
+## GEO ID 52825: Castell Collen
+[https://www.trismegistos.org/place/52825](https://www.trismegistos.org/place/52825)  
+
+### alignments:
+ - [Castell Collen](https://pleiades.stoa.org/places/79378)
 
 
 ## GEO ID 52835: Pistyros
