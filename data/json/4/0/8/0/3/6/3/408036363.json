@@ -8,8 +8,15 @@
     ],
     "connections": [],
     "connectsWith": [],
-    "contributors": [],
-    "created": "2016-07-14T04:27:25Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-13T21:41:09Z",
     "creators": [
         {
             "homepage": null,
@@ -68,13 +75,23 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/408036363/osm-location-of-cadbury-hill-fort",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 800 BC - AD 100",
+                "snippet": "Hillfort; 800 BC - AD 100",
                 "title": "OSM location of Cadbury Hill Fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for hillfort; update references; wikidata Q17651200 @maximeg",
+            "modified": "2024-12-15T03:09:40Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-13T21:41:09Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-05-19T00:14:14Z",
@@ -127,12 +144,10 @@
             "details": "",
             "end": 100,
             "featureType": [
-                "fort",
-                ""
+                "hillfort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/hillfort"
             ],
             "geometry": {
                 "coordinates": [
@@ -177,6 +192,16 @@
             },
             "history": [
                 {
+                    "comment": "update feature type",
+                    "modified": "2024-12-15T03:04:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-15T03:03:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2021-05-19T00:14:14Z",
                     "modifiedBy": "thomase"
@@ -207,8 +232,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/hillfort"
             ],
             "provenance": "OpenStreetMap (Way 47438198, version 2, osm:changeset=40727037, 2016-07-14T01:54:06Z)",
             "references": [
@@ -232,22 +256,22 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/hillfort"
     ],
     "placeTypes": [
-        "fort"
+        "hillfort"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=195114",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "195114: CADBURY HILL CAMP",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pastscape: CADBURY HILL CAMP",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PastScape",
             "type": "seeFurther"
         },
         {
@@ -264,18 +288,29 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.worldcat.org/oclc/471030876",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IT6JTZNE",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Rahtz, Philip Arthur et al. 1992. Cadbury Congresbury 1968-73 : a late-post Roman hilltop settlement in Somerset. Oxford: BAR.",
+            "formattedCitation": "<div class=\"csl-entry\">Rahtz, Philip A. <i>Cadbury Congresbury 1968-73: A Late / Post Roman Hilltop Settlement in Somerset</i>. BAR British Series 223. Oxford: Tempus Repartum, 1992.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Rahtz 1992",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17651200",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Cadbury Hill Camp, Congresbury (Q17651200)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
         -2.80236813212339,
-        51.3814517914082
+        51.381451791408196
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

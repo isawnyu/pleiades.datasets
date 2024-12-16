@@ -14,9 +14,15 @@
             "name": "Ryan Horne",
             "uri": "https://pleiades.stoa.org/author/rmhorne",
             "username": "rmhorne"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2014-07-07T19:22:14Z",
+    "created": "2024-12-13T18:56:04Z",
     "creators": [
         {
             "homepage": null,
@@ -41,13 +47,23 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/463220210/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 640",
+                "snippet": "Fort-2; 30 BC - AD 640",
                 "title": "OSM location of Cawdor Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for fort; update references @maximeg",
+            "modified": "2024-12-14T03:46:00Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-13T18:56:04Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2016-08-01T18:30:40Z",
@@ -115,12 +131,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -130,6 +144,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-14T03:46:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-14T03:46:08Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-08-01T18:30:57Z",
@@ -166,10 +190,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "OpenStreetMap (Node 2953033485, version 1, osm:changeset=24010290, 2014-07-07T19:21:46Z)",
+            "provenance": "OpenStreetMap (Node 2953033485, version 3, osm:changeset=52344266, 2017-09-25T05:17:24Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/2953033485",
@@ -191,10 +214,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -212,24 +235,35 @@
         {
             "accessURI": "http://roman-britain.co.uk/places/cawdor.htm",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PMV8NEDG",
+            "citationDetail": "Cawdor",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "roman-britain.co.uk: Cawdor Suspected Roman Fort",
+            "formattedCitation": "<div class=\"csl-entry\">White, Kevan, and Mike Haseler. <i>Roman Britain</i>, 2016. https://www.roman-britain.co.uk.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "RBrit",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://canmore.rcahms.gov.uk/en/site/15033/",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9QC8C2K",
+            "citationDetail": "15033",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "CANMORE MONUMENT ID 15033",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Canmore: National Record of the Historic Environment, Part of Historic Environment Scotland</i>, n.d. https://canmore.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Canmore",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3664023",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Cawdor (Q3664023)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
