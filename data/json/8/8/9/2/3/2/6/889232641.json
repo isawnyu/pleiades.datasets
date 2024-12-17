@@ -14,9 +14,21 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2020-04-17T17:06:41Z",
+    "created": "2024-12-16T21:51:01Z",
     "creators": [
         {
             "homepage": null,
@@ -41,13 +53,23 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/889232641/osm-location-of-gittisham-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Fort, Settlement; AD 43 - AD 410",
+                "snippet": "Unknown; AD 43 - AD 410",
                 "title": "OSM location of Gittisham Roman Fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for fort @maximeg",
+            "modified": "2024-12-16T22:38:40Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-16T21:51:00Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2020-04-17T20:59:38Z",
@@ -112,6 +134,12 @@
                     "name": "Jeffrey Becker",
                     "uri": "https://pleiades.stoa.org/author/jbecker",
                     "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2020-04-17T20:58:48Z",
@@ -126,14 +154,8 @@
             "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 410,
-            "featureType": [
-                "fort",
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     -3.2321806,
@@ -142,6 +164,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "removed deprecated place type",
+                    "modified": "2024-12-16T22:38:58Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-04-17T20:59:39Z",
@@ -172,10 +199,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
+            "locationTypeURI": [],
             "provenance": "OpenStreetMap (Node 2407685949, version 2, osm:changeset=22771616, 2014-06-06T09:55:15Z)",
             "references": [
                 {
@@ -283,12 +307,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "fort"
+        "fort-2",
+        "settlement"
     ],
     "provenance": "Pleiades",
     "references": [

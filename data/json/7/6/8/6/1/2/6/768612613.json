@@ -56,8 +56,21 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/911125508"
     ],
-    "contributors": [],
-    "created": "2020-03-07T16:10:50Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-16T21:54:16Z",
     "creators": [
         {
             "homepage": null,
@@ -77,18 +90,28 @@
                 ],
                 "type": "Point"
             },
-            "id": "location-of-castel-hill",
+            "id": "osm-location-of-castel-hill",
             "properties": {
                 "description": "Remains of an Iron Age hill fort. Location based on OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/768612613/location-of-castel-hill",
+                "link": "https://pleiades.stoa.org/places/768612613/osm-location-of-castel-hill",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 800 BC - AD 100",
-                "title": "location of Castle Hill"
+                "snippet": "Unknown; 800 BC - AD 100",
+                "title": "OSM location of Castle Hill"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for hillfort @maximeg",
+            "modified": "2024-12-16T22:34:57Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-16T21:54:16Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2020-12-16T10:31:11Z",
@@ -132,7 +155,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-britain"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-08-07T15:38:45Z",
             "creators": [
                 {
@@ -145,14 +175,8 @@
             "description": "Remains of an Iron Age hill fort. Location based on OpenStreetMap.",
             "details": "",
             "end": 100,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     -1.1793501,
@@ -161,6 +185,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "removed deprecated place type",
+                    "modified": "2024-12-16T22:35:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-16T22:35:10Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-12-16T10:31:11Z",
@@ -192,15 +226,12 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-castel-hill",
+            "id": "osm-location-of-castel-hill",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Node 392134601, version 1, osm:changeset=1112239, 2009-05-07T22:14:15Z)",
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Node 392134601, version 2, osm:changeset=154313183, 2024-07-23T15:39:51Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/392134601",
@@ -216,18 +247,16 @@
             ],
             "review_state": "published",
             "start": -800,
-            "title": "location of Castle Hill",
-            "uri": "https://pleiades.stoa.org/places/768612613/location-of-castel-hill"
+            "title": "OSM location of Castle Hill",
+            "uri": "https://pleiades.stoa.org/places/768612613/osm-location-of-castel-hill"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/hill",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/hillfort"
     ],
     "placeTypes": [
-        "hill",
-        "fort"
+        "hillfort"
     ],
     "provenance": "Pleiades",
     "references": [

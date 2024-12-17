@@ -1,15 +1,28 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.1465233,
-        51.263954,
-        -2.1465233,
-        51.263954
+        -2.1466688,
+        51.2620436,
+        -2.1396295,
+        51.2651799
     ],
     "connections": [],
     "connectsWith": [],
-    "contributors": [],
-    "created": "2013-09-01T05:57:53Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-16T19:28:24Z",
     "creators": [
         {
             "homepage": null,
@@ -195,18 +208,28 @@
                 ],
                 "type": "LineString"
             },
-            "id": "location-of-bratton-castle-hill-fort",
+            "id": "osm-location-of-bratton-castle-hill-fort",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/876608639/location-of-bratton-castle-hill-fort",
+                "link": "https://pleiades.stoa.org/places/876608639/osm-location-of-bratton-castle-hill-fort",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 800 BC - AD 100",
-                "title": "location of Bratton Castle hill fort"
+                "snippet": "Unknown; 800 BC - AD 100",
+                "title": "OSM location of Bratton Castle hill fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for hillfort @maximeg",
+            "modified": "2024-12-16T22:51:59Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-16T19:28:24Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-10-10T12:50:21Z",
@@ -245,7 +268,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/iron-age-britain"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-09-01T06:02:04Z",
             "creators": [
                 {
@@ -258,14 +288,8 @@
             "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 100,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
@@ -441,6 +465,11 @@
             },
             "history": [
                 {
+                    "comment": "removed deprecated place type",
+                    "modified": "2024-12-16T22:52:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-12-05T00:14:43Z",
                     "modifiedBy": "jbecker"
@@ -471,14 +500,11 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-bratton-castle-hill-fort",
+            "id": "osm-location-of-bratton-castle-hill-fort",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "locationTypeURI": [],
             "provenance": "OpenStreetMap (Way 236033342, version 10, osm:changeset=138540530, 2023-07-15T11:12:10Z)",
             "references": [
                 {
@@ -495,16 +521,16 @@
             ],
             "review_state": "published",
             "start": -800,
-            "title": "location of Bratton Castle hill fort",
-            "uri": "https://pleiades.stoa.org/places/876608639/location-of-bratton-castle-hill-fort"
+            "title": "OSM location of Bratton Castle hill fort",
+            "uri": "https://pleiades.stoa.org/places/876608639/osm-location-of-bratton-castle-hill-fort"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/hillfort"
     ],
     "placeTypes": [
-        "fort"
+        "hillfort"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -532,8 +558,8 @@
         }
     ],
     "reprPoint": [
-        -2.1465233,
-        51.263954
+        -2.1429777705849093,
+        51.26355793615337
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
