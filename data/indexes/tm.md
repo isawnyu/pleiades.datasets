@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-3948 alignments exist in _Pleiades_ place references as of 2024-12-16. The following list of alignments is grouped by zotkey.
+3954 alignments exist in _Pleiades_ place references as of 2024-12-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5232,6 +5232,13 @@
  - [Bovium?](https://pleiades.stoa.org/places/79340)
 
 
+## GEO ID 14575: Bremenium (High Rochester)
+[http://www.trismegistos.org/place/14575](http://www.trismegistos.org/place/14575)  
+
+### alignments:
+ - [Bremenium](https://pleiades.stoa.org/places/89124)
+
+
 ## GEO ID 14577: Camulodunum (Colchester)
 [http://www.trismegistos.org/place/14577](http://www.trismegistos.org/place/14577)  
 
@@ -5539,6 +5546,13 @@
 
 ### alignments:
  - [Neatham](https://pleiades.stoa.org/places/79606)
+
+
+## GEO ID 14921: Nanstallon
+[http://www.trismegistos.org/place/14921](http://www.trismegistos.org/place/14921)  
+
+### alignments:
+ - [Nanstallon](https://pleiades.stoa.org/places/47824565)
 
 
 ## GEO ID 14938: Metchley
@@ -5961,11 +5975,25 @@
  - [Clausentum](https://pleiades.stoa.org/places/83827)
 
 
+## GEO ID 15452
+[http://www.trismegistos.org/place/15452](http://www.trismegistos.org/place/15452)  
+
+### alignments:
+ - [Blatobulgium](https://pleiades.stoa.org/places/89117)
+
+
 ## GEO ID 15460: BIgnor
 [http://www.trismegistos.org/place/15460](http://www.trismegistos.org/place/15460)  
 
 ### alignments:
  - [Bignor](https://pleiades.stoa.org/places/79328)
+
+
+## GEO ID 15466: Bertha
+[http://www.trismegistos.org/place/15466](http://www.trismegistos.org/place/15466)  
+
+### alignments:
+ - [Bertha](https://pleiades.stoa.org/places/89116)
 
 
 ## GEO ID 15474: Bibra (Beckfoot)
@@ -6134,6 +6162,13 @@
 
 ### alignments:
  - [Milecastle 49 (Harrow's Scar)](https://pleiades.stoa.org/places/967060303)
+
+
+## GEO ID 15697: Dunum (Hod Hill)
+[http://www.trismegistos.org/place/15697](http://www.trismegistos.org/place/15697)  
+
+### alignments:
+ - [Hod Hill](https://pleiades.stoa.org/places/42178780)
 
 
 ## GEO ID 15698: Hotbank
@@ -8213,6 +8248,13 @@
 
 ### alignments:
  - [Uxela](https://pleiades.stoa.org/places/92194)
+
+
+## GEO ID 19698: Bannatia (Dalginross)
+[http://www.trismegistos.org/place/19698](http://www.trismegistos.org/place/19698)  
+
+### alignments:
+ - [Bannatia?](https://pleiades.stoa.org/places/89112)
 
 
 ## GEO ID 19700: Pinnata Castra

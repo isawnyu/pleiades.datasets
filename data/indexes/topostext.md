@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3600 alignments exist in _Pleiades_ place references as of 2024-12-16. The following list of alignments is grouped by zotkey.
+3601 alignments exist in _Pleiades_ place references as of 2024-12-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5996,6 +5996,13 @@
 
 ### alignments:
  - [Confluentes](https://pleiades.stoa.org/places/108903)
+
+
+## Conimbriga (Lusitania)
+[https://topostext.org/place/401000UCon](https://topostext.org/place/401000UCon)  
+
+### alignments:
+ - [Conimbriga](https://pleiades.stoa.org/places/236443)
 
 
 ## Consentia (Magna Graecia)

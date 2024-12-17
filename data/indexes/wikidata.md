@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5436 alignments exist in _Pleiades_ place references as of 2024-12-16. The following list of alignments is grouped by zotkey.
+5463 alignments exist in _Pleiades_ place references as of 2024-12-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2236,6 +2236,13 @@
  - [Attica](https://pleiades.stoa.org/places/579888)
 
 
+## Auchendavy Roman fort (Q48797214)
+[https://www.wikidata.org/wiki/Q48797214](https://www.wikidata.org/wiki/Q48797214)  
+
+### alignments:
+ - [Auchendavy](https://pleiades.stoa.org/places/89105)
+
+
 ## Auguratorium (Q107353667)
 [https://www.wikidata.org/wiki/Q107353667](https://www.wikidata.org/wiki/Q107353667)  
 
@@ -2425,6 +2432,13 @@
  - [[Vicus Cruciniacum]](https://pleiades.stoa.org/places/109427)
 
 
+## Badbury Rings (Q798831)
+[https://www.wikidata.org/wiki/Q798831](https://www.wikidata.org/wiki/Q798831)  
+
+### alignments:
+ - [Badbury Rings](https://pleiades.stoa.org/places/511968274)
+
+
 ## Baebiana (Q21074142)
 [https://www.wikidata.org/wiki/Q21074142](https://www.wikidata.org/wiki/Q21074142)  
 
@@ -2486,6 +2500,13 @@
 
 ### alignments:
  - [Bactrus?/Zariaspis? (river)](https://pleiades.stoa.org/places/59726)
+
+
+## Balmuildy Roman fort (Q48799919)
+[https://www.wikidata.org/wiki/Q48799919](https://www.wikidata.org/wiki/Q48799919)  
+
+### alignments:
+ - [Balmuildy Roman Fort](https://pleiades.stoa.org/places/89108)
 
 
 ## Balsa (Q2881532)
@@ -2570,6 +2591,13 @@
 
 ### alignments:
  - [Barcombe Hill Roman Signal Station](https://pleiades.stoa.org/places/512867195)
+
+
+## Barochan Hill, Roman fort 440m NNW of Barochan House (Q56668492)
+[https://www.wikidata.org/wiki/Q56668492](https://www.wikidata.org/wiki/Q56668492)  
+
+### alignments:
+ - [Barochan Hill](https://pleiades.stoa.org/places/89111)
 
 
 ## Barragem Romana da Fonte Coberta (Q16496954)
@@ -2668,6 +2696,13 @@
 
 ### alignments:
  - [Basílica des Fornàs de Torelló](https://pleiades.stoa.org/places/654811925)
+
+
+## Bat's Castle (Q4868439)
+[https://www.wikidata.org/wiki/Q4868439](https://www.wikidata.org/wiki/Q4868439)  
+
+### alignments:
+ - [Bat's Castle](https://pleiades.stoa.org/places/251365402)
 
 
 ## Batanaea (Q2479533)
@@ -2824,6 +2859,20 @@
  - [Beacon Hill Hillfort](https://pleiades.stoa.org/places/245109546)
 
 
+## Bearsden Roman Bath House (Q56665516)
+[https://www.wikidata.org/wiki/Q56665516](https://www.wikidata.org/wiki/Q56665516)  
+
+### alignments:
+ - [Bearsden Roman bath house](https://pleiades.stoa.org/places/706911859)
+
+
+## Bearsden Roman fort (Q56665884)
+[https://www.wikidata.org/wiki/Q56665884](https://www.wikidata.org/wiki/Q56665884)  
+
+### alignments:
+ - [Bearsden](https://pleiades.stoa.org/places/89114)
+
+
 ## Beaucaire (Q211647)
 [https://www.wikidata.org/wiki/Q211647](https://www.wikidata.org/wiki/Q211647)  
 
@@ -2899,6 +2948,13 @@
 
 ### alignments:
  - [Bergantino nymphaeum](https://pleiades.stoa.org/places/152437948)
+
+
+## Bertha (Q4895462)
+[https://www.wikidata.org/wiki/Q4895462](https://www.wikidata.org/wiki/Q4895462)  
+
+### alignments:
+ - [Bertha](https://pleiades.stoa.org/places/89116)
 
 
 ## Beta Samati (Q124570925)
@@ -3048,6 +3104,13 @@
  - [Bithynion/Claudiopolis/Hadriana](https://pleiades.stoa.org/places/844879)
 
 
+## Blatobulgium (Q1710821)
+[https://www.wikidata.org/wiki/Q1710821](https://www.wikidata.org/wiki/Q1710821)  
+
+### alignments:
+ - [Blatobulgium](https://pleiades.stoa.org/places/89117)
+
+
 ## Blaundos (Q263669)
 [https://www.wikidata.org/wiki/Q263669](https://www.wikidata.org/wiki/Q263669)  
 
@@ -3172,6 +3235,13 @@
 
 ### alignments:
  - [Bobadela Roman amphitheater](https://pleiades.stoa.org/places/393959242)
+
+
+## Bochastle Roman fort, temporary camp and prehistoric enclosures (Q56664330)
+[https://www.wikidata.org/wiki/Q56664330](https://www.wikidata.org/wiki/Q56664330)  
+
+### alignments:
+ - [Bochastle](https://pleiades.stoa.org/places/89118)
 
 
 ## Boiai (Q11909406)
@@ -3361,6 +3431,13 @@
 
 ### alignments:
  - [‘Cicutio’](https://pleiades.stoa.org/places/79389)
+
+
+## Bremenium (Q4960549)
+[https://www.wikidata.org/wiki/Q4960549](https://www.wikidata.org/wiki/Q4960549)  
+
+### alignments:
+ - [Bremenium](https://pleiades.stoa.org/places/89124)
 
 
 ## Bremetennacum (Q4960578)
@@ -4805,6 +4882,13 @@
  - [Starosel Monumental Tomb](https://pleiades.stoa.org/places/655392792)
 
 
+## Chew Green (Q5094486)
+[https://www.wikidata.org/wiki/Q5094486](https://www.wikidata.org/wiki/Q5094486)  
+
+### alignments:
+ - [Chew Green](https://pleiades.stoa.org/places/414303980)
+
+
 ## Chiana (Q2963229)
 [https://www.wikidata.org/wiki/Q2963229](https://www.wikidata.org/wiki/Q2963229)  
 
@@ -4909,6 +4993,13 @@
 
 ### alignments:
  - [Chyt(h)roi](https://pleiades.stoa.org/places/707496)
+
+
+## Chûn Castle (Q1091047)
+[https://www.wikidata.org/wiki/Q1091047](https://www.wikidata.org/wiki/Q1091047)  
+
+### alignments:
+ - [Chûn Castle](https://pleiades.stoa.org/places/498317289)
 
 
 ## Cibarci (Q544329)
@@ -5203,6 +5294,13 @@
 
 ### alignments:
  - [conventus Caesaraugustanus](https://pleiades.stoa.org/places/941635509)
+
+
+## Conímbriga (Q66942507)
+[https://www.wikidata.org/wiki/Q66942507](https://www.wikidata.org/wiki/Q66942507)  
+
+### alignments:
+ - [Conimbriga](https://pleiades.stoa.org/places/236443)
 
 
 ## Conímbriga amphitheatre (Q28974262)
@@ -7160,6 +7258,13 @@
  - [Gleichen](https://pleiades.stoa.org/places/118703)
 
 
+## Glenlochar,Roman fort, annexe, road, camps & barrows 50m E of Montford (Q56667646)
+[https://www.wikidata.org/wiki/Q56667646](https://www.wikidata.org/wiki/Q56667646)  
+
+### alignments:
+ - [Glenlochar Roman Fort](https://pleiades.stoa.org/places/92163)
+
+
 ## Glyfa ancient cemetery (Q38281183)
 [https://www.wikidata.org/wiki/Q38281183](https://www.wikidata.org/wiki/Q38281183)  
 
@@ -9002,6 +9107,13 @@
  - [Kiosk of Qertassi](https://pleiades.stoa.org/places/119445131)
 
 
+## Kirkby Thore Roman Fort and Associated Vicus (Q17662365)
+[https://www.wikidata.org/wiki/Q17662365](https://www.wikidata.org/wiki/Q17662365)  
+
+### alignments:
+ - [Brav(o)niacum](https://pleiades.stoa.org/places/89123)
+
+
 ## Kirkhill,Roman signal station 400m NNE of (Q56665606)
 [https://www.wikidata.org/wiki/Q56665606](https://www.wikidata.org/wiki/Q56665606)  
 
@@ -9933,6 +10045,13 @@
 
 ### alignments:
  - [Küçük Ağrı Dağı](https://pleiades.stoa.org/places/446396168)
+
+
+## Little Solsbury Hill (Q548780)
+[https://www.wikidata.org/wiki/Q548780](https://www.wikidata.org/wiki/Q548780)  
+
+### alignments:
+ - [Solsbury Hill](https://pleiades.stoa.org/places/562474733)
 
 
 ## Little Theatre of Pompeii (Q3982091)
@@ -11006,6 +11125,13 @@
  - [Milecastle 17 (Welton)](https://pleiades.stoa.org/places/967060425)
 
 
+## Milecastle 18 (Q6851153)
+[https://www.wikidata.org/wiki/Q6851153](https://www.wikidata.org/wiki/Q6851153)  
+
+### alignments:
+ - [Milecastle 18 (East Wallhouses)](https://pleiades.stoa.org/places/967060420)
+
+
 ## Milecastle 19 (Q6851154)
 [https://www.wikidata.org/wiki/Q6851154](https://www.wikidata.org/wiki/Q6851154)  
 
@@ -11144,6 +11270,13 @@
 
 ### alignments:
  - [Milecastle 71 (Wormanby)](https://pleiades.stoa.org/places/967060386)
+
+
+## Milecastle 73 (Q6851195)
+[https://www.wikidata.org/wiki/Q6851195](https://www.wikidata.org/wiki/Q6851195)  
+
+### alignments:
+ - [Milecastle 73 (Dykesfield)](https://pleiades.stoa.org/places/967060416)
 
 
 ## Milecastle 74 (Q6851193)
@@ -12119,6 +12252,13 @@
  - [Nora](https://pleiades.stoa.org/places/471979)
 
 
+## Normandykes (Q3878490)
+[https://www.wikidata.org/wiki/Q3878490](https://www.wikidata.org/wiki/Q3878490)  
+
+### alignments:
+ - [Normandykes](https://pleiades.stoa.org/places/48616465)
+
+
 ## North Leigh Roman Villa (Q1705995)
 [https://www.wikidata.org/wiki/Q1705995](https://www.wikidata.org/wiki/Q1705995)  
 
@@ -12516,6 +12656,13 @@
 
 ### alignments:
  - [Voreda](https://pleiades.stoa.org/places/89318)
+
+
+## Old Winchester Hill (Q7085420)
+[https://www.wikidata.org/wiki/Q7085420](https://www.wikidata.org/wiki/Q7085420)  
+
+### alignments:
+ - [Old Winchester Hill](https://pleiades.stoa.org/places/460428554)
 
 
 ## Olevano sul Tusciano (Q81155)
@@ -13195,6 +13342,13 @@
 
 ### alignments:
  - [Pinna](https://pleiades.stoa.org/places/413255)
+
+
+## Pennymuir Roman camps (Q7164485)
+[https://www.wikidata.org/wiki/Q7164485](https://www.wikidata.org/wiki/Q7164485)  
+
+### alignments:
+ - [Pennymuir](https://pleiades.stoa.org/places/260256453)
 
 
 ## Pentrehyling Roman fort (Q120064953)
@@ -19715,13 +19869,6 @@
 
 ### alignments:
  - [Hucclecote](https://pleiades.stoa.org/places/79520)
-
-
-## Q17645814: Rowberrow Camp: an Iron Age defended settlement north west of Tynings Farm
-[https://www.wikidata.org/wiki/Q17645814](https://www.wikidata.org/wiki/Q17645814)  
-
-### alignments:
- - [Rowberrow Camp](https://pleiades.stoa.org/places/42178778)
 
 
 ## Q17650750
@@ -27223,25 +27370,11 @@
  - [Krokeai](https://pleiades.stoa.org/places/570385)
 
 
-## Q48797214: Auchendavy Roman fort
-[https://www.wikidata.org/wiki/Q48797214](https://www.wikidata.org/wiki/Q48797214)  
-
-### alignments:
- - [Auchendavy](https://pleiades.stoa.org/places/89105)
-
-
 ## Q48797711: Cleddans fortlet
 [https://www.wikidata.org/wiki/Q48797711](https://www.wikidata.org/wiki/Q48797711)  
 
 ### alignments:
  - [Cleddans](https://pleiades.stoa.org/places/325648990)
-
-
-## Q48799919: Balmuildy Roman fort
-[https://www.wikidata.org/wiki/Q48799919](https://www.wikidata.org/wiki/Q48799919)  
-
-### alignments:
- - [Balmuildy Roman Fort](https://pleiades.stoa.org/places/89108)
 
 
 ## Q48807618: Subinates
@@ -30205,13 +30338,6 @@
  - [Auld Bourtreebush](https://pleiades.stoa.org/places/126090984)
 
 
-## Q7085420: Old Winchester Hill
-[https://www.wikidata.org/wiki/Q7085420](https://www.wikidata.org/wiki/Q7085420)  
-
-### alignments:
- - [Old Winchester Hill](https://pleiades.stoa.org/places/460428554)
-
-
 ## Q70863776: ancient Roman theater of Cales
 [https://www.wikidata.org/wiki/Q70863776](https://www.wikidata.org/wiki/Q70863776)  
 
@@ -30945,13 +31071,6 @@
 
 ### alignments:
  - [Summerston](https://pleiades.stoa.org/places/325648991)
-
-
-## Q81329311: Wilderness Plantation fortlet
-[https://www.wikidata.org/wiki/Q81329311](https://www.wikidata.org/wiki/Q81329311)  
-
-### alignments:
- - [Wilderness Plantation Roman fortlet](https://pleiades.stoa.org/places/126777409)
 
 
 ## Q81330446: Cadder Roman fort
@@ -32796,6 +32915,13 @@
  - [Hadrian's Wall (Cumbrian Coast)](https://pleiades.stoa.org/places/579047271)
 
 
+## Roman fort called 'Nanstallon Roman fort' 135m south west of Tregear (Q17643095)
+[https://www.wikidata.org/wiki/Q17643095](https://www.wikidata.org/wiki/Q17643095)  
+
+### alignments:
+ - [Nanstallon](https://pleiades.stoa.org/places/47824565)
+
+
 ## Roman fortlet 440m south west of Restormel Farm (Q17642745)
 [https://www.wikidata.org/wiki/Q17642745](https://www.wikidata.org/wiki/Q17642745)  
 
@@ -33200,6 +33326,13 @@
 
 ### alignments:
  - [Rouvroy-les-Merles](https://pleiades.stoa.org/places/109289)
+
+
+## Rowberrow Camp: an Iron Age defended settlement north west of Tynings Farm (Q17645814)
+[https://www.wikidata.org/wiki/Q17645814](https://www.wikidata.org/wiki/Q17645814)  
+
+### alignments:
+ - [Rowberrow Camp](https://pleiades.stoa.org/places/42178778)
 
 
 ## Roxolani (Q383325)
@@ -34497,6 +34630,13 @@
  - [Slack Roman Fort (Camulodonum?)](https://pleiades.stoa.org/places/79371)
 
 
+## Small Down Knoll (Q7542758)
+[https://www.wikidata.org/wiki/Q7542758](https://www.wikidata.org/wiki/Q7542758)  
+
+### alignments:
+ - [Small Down Knoll hill fort](https://pleiades.stoa.org/places/562474732)
+
+
 ## Snartemo (Q20963605)
 [https://www.wikidata.org/wiki/Q20963605](https://www.wikidata.org/wiki/Q20963605)  
 
@@ -35696,6 +35836,13 @@
  - [tribus Teretina](https://pleiades.stoa.org/places/239510733)
 
 
+## Terich Mir (Q207132)
+[https://www.wikidata.org/wiki/Q207132](https://www.wikidata.org/wiki/Q207132)  
+
+### alignments:
+ - [Meros (mountain)](https://pleiades.stoa.org/places/59927)
+
+
 ## Teriolis (Q15060335)
 [https://www.wikidata.org/wiki/Q15060335](https://www.wikidata.org/wiki/Q15060335)  
 
@@ -35813,6 +35960,13 @@
 
 ### alignments:
  - [Roman Baths of Como](https://pleiades.stoa.org/places/582358499)
+
+
+## The Roman Fortlet at Barburgh Mill, Dumfriesshire (Q58332565)
+[https://www.wikidata.org/wiki/Q58332565](https://www.wikidata.org/wiki/Q58332565)  
+
+### alignments:
+ - [Barburgh Mill Roman fortlet](https://pleiades.stoa.org/places/655739578)
 
 
 ## Theangela (Q3990170)
@@ -36697,6 +36851,13 @@
  - [Trawscoed fort](https://pleiades.stoa.org/places/964510417)
 
 
+## Tre'r Ceiri (Q1088007)
+[https://www.wikidata.org/wiki/Q1088007](https://www.wikidata.org/wiki/Q1088007)  
+
+### alignments:
+ - [Tre'r Ceiri hillfort](https://pleiades.stoa.org/places/479831455)
+
+
 ## Trebbia (Q732587)
 [https://www.wikidata.org/wiki/Q732587](https://www.wikidata.org/wiki/Q732587)  
 
@@ -36709,6 +36870,13 @@
 
 ### alignments:
  - [Trebendai](https://pleiades.stoa.org/places/639150)
+
+
+## Trendle Ring (Q7838292)
+[https://www.wikidata.org/wiki/Q7838292](https://www.wikidata.org/wiki/Q7838292)  
+
+### alignments:
+ - [Trendle Ring](https://pleiades.stoa.org/places/267388586)
 
 
 ## Trepucó (Q43109399)
@@ -37024,6 +37192,13 @@
 
 ### alignments:
  - [Utens (river)](https://pleiades.stoa.org/places/393508)
+
+
+## Ustica Island (Q3593327)
+[https://www.wikidata.org/wiki/Q3593327](https://www.wikidata.org/wiki/Q3593327)  
+
+### alignments:
+ - [Ustica (island)](https://pleiades.stoa.org/places/1361)
 
 
 ## Užice (Q59473)
@@ -37725,6 +37900,20 @@
 
 ### alignments:
  - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
+
+
+## Wilderness Plantation fortlet (Q81329311)
+[https://www.wikidata.org/wiki/Q81329311](https://www.wikidata.org/wiki/Q81329311)  
+
+### alignments:
+ - [Wilderness Plantation Roman fortlet](https://pleiades.stoa.org/places/126777409)
+
+
+## Wincobank (Q8023890)
+[https://www.wikidata.org/wiki/Q8023890](https://www.wikidata.org/wiki/Q8023890)  
+
+### alignments:
+ - [Wincobank hill fort](https://pleiades.stoa.org/places/502974419)
 
 
 ## Woden Law (Q31105689)
