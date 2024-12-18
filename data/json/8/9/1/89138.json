@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -3.949099,
-        55.979,
-        -3.949,
-        55.979363
+        -3.9428085,
+        55.9813084,
+        -3.9382851,
+        55.9832885
     ],
     "connections": [
         {
@@ -54,7 +54,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/91357"
+        "https://pleiades.stoa.org/places/91357",
+        "https://pleiades.stoa.org/places/92120"
     ],
     "contributors": [
         {
@@ -69,9 +70,9 @@
         },
         {
             "homepage": null,
-            "name": "Scott Vanderbilt",
-            "uri": "https://pleiades.stoa.org/author/sarcanon",
-            "username": "sarcanon"
+            "name": "James Cowey",
+            "uri": "https://pleiades.stoa.org/author/jcowey",
+            "username": "jcowey"
         },
         {
             "homepage": null,
@@ -85,9 +86,15 @@
         },
         {
             "homepage": null,
-            "name": "James Cowey",
-            "uri": "https://pleiades.stoa.org/author/jcowey",
-            "username": "jcowey"
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
+            "homepage": null,
+            "name": "Scott Vanderbilt",
+            "uri": "https://pleiades.stoa.org/author/sarcanon",
+            "username": "sarcanon"
         },
         {
             "name": "R. Warner",
@@ -100,7 +107,7 @@
             "username": "sgillies"
         }
     ],
-    "created": "2009-11-02T09:54:26Z",
+    "created": "2024-12-17T14:09:51Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
@@ -113,41 +120,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -3.949099,
-                    55.979363
+                    [
+                        -3.9428085,
+                        55.9821703
+                    ],
+                    [
+                        -3.9386672,
+                        55.9832885
+                    ],
+                    [
+                        -3.9382851,
+                        55.9828607
+                    ],
+                    [
+                        -3.9390162,
+                        55.982258
+                    ],
+                    [
+                        -3.9400844,
+                        55.9820109
+                    ],
+                    [
+                        -3.9399269,
+                        55.9818554
+                    ],
+                    [
+                        -3.9421707,
+                        55.9813084
+                    ],
+                    [
+                        -3.9428085,
+                        55.9821703
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-19085",
-            "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89138/darmc-location-19085",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 19085"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -3.949,
-                    55.979
-                ],
-                "type": "Point"
-            },
-            "id": "boundary-of-fort-walls-approx",
+            "id": "osm-location-boundary-of-fort-walls-approx",
             "properties": {
                 "description": "Location after OpenStreetMap.",
-                "link": "https://pleiades.stoa.org/places/89138/boundary-of-fort-walls-approx",
+                "link": "https://pleiades.stoa.org/places/89138/osm-location-boundary-of-fort-walls-approx",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 300",
-                "title": "Boundary of fort walls (approx)"
+                "snippet": "Unknown; 30 BC - AD 300",
+                "title": "OSM Location: Boundary of fort walls (approx)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2024-12-17T22:22:43Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited type for fort @maximeg",
+            "modified": "2024-12-17T22:20:06Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-17T14:09:51Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "comment": "adjusted contributors' list",
             "modified": "2024-09-10T14:54:30Z",
@@ -213,103 +247,6 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:43:41Z",
-            "creators": [
-                {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
-                }
-            ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 19085",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -3.949099,
-                    55.979363
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:17:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-01-21T13:42:04Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-01-21T05:43:42Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:43:42Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-01-21T05:43:41Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-19085",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 19085",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19085",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19085.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 19085",
-            "uri": "https://pleiades.stoa.org/places/89138/darmc-location-19085"
-        },
-        {
-            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
@@ -323,8 +260,15 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
-            "created": "2013-02-23T23:58:32Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-12-17T22:21:10Z",
             "creators": [
                 {
                     "homepage": null,
@@ -336,22 +280,56 @@
             "description": "Location after OpenStreetMap.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    -3.949,
-                    55.979
+                    [
+                        -3.9428085,
+                        55.9821703
+                    ],
+                    [
+                        -3.9386672,
+                        55.9832885
+                    ],
+                    [
+                        -3.9382851,
+                        55.9828607
+                    ],
+                    [
+                        -3.9390162,
+                        55.982258
+                    ],
+                    [
+                        -3.9400844,
+                        55.9820109
+                    ],
+                    [
+                        -3.9399269,
+                        55.9818554
+                    ],
+                    [
+                        -3.9421707,
+                        55.9813084
+                    ],
+                    [
+                        -3.9428085,
+                        55.9821703
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "removed deprecated place type; corrected OSM reference from \"node\" to \"way\"; Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-17T22:21:57Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2024-12-17T22:21:09Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-03-21T22:38:54Z",
@@ -383,23 +361,20 @@
                     "modifiedBy": "sarcanon"
                 }
             ],
-            "id": "boundary-of-fort-walls-approx",
+            "id": "osm-location-boundary-of-fort-walls-approx",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "Pleiades",
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Way 206912938, version 3, osm:changeset=147068013, 2024-02-04T20:13:05Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/206912938",
+                    "accessURI": "https://www.openstreetmap.org/way/206912938",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 206912938",
+                    "citationDetail": "Way 206912938",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=206912938",
+                    "formattedCitation": "osm:way=206912938",
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
@@ -407,16 +382,16 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of fort walls (approx)",
-            "uri": "https://pleiades.stoa.org/places/89138/boundary-of-fort-walls-approx"
+            "title": "OSM Location: Boundary of fort walls (approx)",
+            "uri": "https://pleiades.stoa.org/places/89138/osm-location-boundary-of-fort-walls-approx"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 D5 Castlecary",
     "references": [
@@ -518,11 +493,22 @@
             "otherIdentifier": "",
             "shortTitle": "",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "19085",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -3.9490495,
-        55.979181499999996
+        -3.940533989296284,
+        55.98230092221129
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

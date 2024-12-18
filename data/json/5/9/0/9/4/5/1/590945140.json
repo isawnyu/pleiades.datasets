@@ -1,15 +1,24 @@
 {
     "@type": "Place",
     "bbox": [
-        -3.4504903,
-        54.7467265,
-        -3.4504903,
-        54.7467265
+        -3.4502116,
+        54.7465309,
+        -3.4502116,
+        54.7465309
     ],
     "connections": [],
-    "connectsWith": [],
-    "contributors": [],
-    "created": "2014-06-16T19:14:24Z",
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/579047271"
+    ],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-16T14:57:41Z",
     "creators": [
         {
             "homepage": null,
@@ -24,23 +33,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -3.4504903,
-                    54.7467265
+                    -3.4502116,
+                    54.7465309
                 ],
                 "type": "Point"
             },
             "id": "osm-location",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/590945140/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 300",
+                "snippet": "Fortlet; 30 BC - AD 300",
                 "title": "OSM location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for fortlet; update references @maximeg",
+            "modified": "2024-12-18T00:07:36Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2024-12-16T14:57:41Z",
@@ -99,25 +113,33 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "fort",
-                ""
+                "fortlet"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
             ],
             "geometry": {
                 "coordinates": [
-                    -3.4504903,
-                    54.7467265
+                    -3.4502116,
+                    54.7465309
                 ],
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-18T00:07:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-18T00:04:05Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-05-19T00:39:35Z",
@@ -149,10 +171,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
             ],
-            "provenance": "OpenStreetMap (Node 1733926313, version 1, osm:changeset=11439680, 2012-04-28T10:13:00Z)",
+            "provenance": "OpenStreetMap (Node 1733926313, version 5, osm:changeset=62797408, 2018-09-21T13:18:51Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/1733926313",
@@ -174,10 +195,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
     ],
     "placeTypes": [
-        "fort"
+        "fortlet"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -195,12 +216,12 @@
         {
             "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=1030618",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2GLEU38X",
+            "citationDetail": "monument no. 1030618",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pastscape monument no. 1030618",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>PastScape: Information on England’s Archaeology and Architecture</i>, 2015. https://www.pastscape.org.uk/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PastScape",
             "type": "seeFurther"
         },
         {
@@ -217,18 +238,29 @@
         {
             "accessURI": "http://whc.unesco.org/en/list/430",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIIFWTIR",
+            "citationDetail": "430: Frontiers of the Roman Empire",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "UNESCO World Heritage List, Frontiers of the Roman Empire",
+            "formattedCitation": "<div class=\"csl-entry\">UNESCO World Heritage Centre. <i>World Heritage List</i>, 1978. http://whc.unesco.org/en/list/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "WHL",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q6851204",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Milefortlet 21 (Q6851204)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -3.4504903,
-        54.7467265
+        -3.4502116,
+        54.7465309
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

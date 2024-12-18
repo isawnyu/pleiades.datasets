@@ -94,9 +94,15 @@
             "name": "Thomas Landvatter",
             "uri": "https://pleiades.stoa.org/author/tlandvatter",
             "username": "tlandvatter"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2022-09-07T18:10:18Z",
+    "created": "2024-12-16T14:15:11Z",
     "creators": [
         {
             "name": "Rose Gatlin",
@@ -120,16 +126,21 @@
             },
             "id": "osm-location-of-bar-hill-forth-bathhouse",
             "properties": {
-                "description": "",
+                "description": "Representative location based on data derived from OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/151622036/osm-location-of-bar-hill-forth-bathhouse",
                 "location_precision": "precise",
-                "snippet": "Bath",
+                "snippet": "Bath; AD 43 - AD 410",
                 "title": "OSM Location of Bar Hill Fort Bathhouse"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for only bath @maximeg",
+            "modified": "2024-12-18T00:41:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2024-12-16T14:15:10Z",
@@ -180,7 +191,14 @@
             "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
             "contributors": [
                 {
                     "homepage": null,
@@ -206,9 +224,9 @@
                     "username": null
                 }
             ],
-            "description": "",
+            "description": "Representative location based on data derived from OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 410,
             "featureType": [
                 "bath"
             ],
@@ -223,6 +241,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2024-12-18T00:42:33Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "added place type = bath",
                     "modified": "2023-02-26T04:22:18Z",
@@ -291,7 +314,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 43,
             "title": "OSM Location of Bar Hill Fort Bathhouse",
             "uri": "https://pleiades.stoa.org/places/151622036/osm-location-of-bar-hill-forth-bathhouse"
         }
@@ -400,11 +423,9 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/bath"
     ],
     "placeTypes": [
-        "fort-2",
         "bath"
     ],
     "provenance": "Pleiades",

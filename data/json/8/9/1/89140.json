@@ -18,6 +18,12 @@
             "username": null
         },
         {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
             "name": "R. Warner",
             "username": null
         },
@@ -40,14 +46,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-11-02T09:54:28Z",
+    "created": "2024-12-17T21:47:40Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 9 F6 Castle Dykes",
+    "description": "Earthwork identified as a possible sub-Roman or early Medieval fort, perhaps defending a villa.",
     "details": "<p>The Barrington Atlas Directory notes: Castle Dykes</p>",
     "features": [
         {
@@ -137,13 +143,28 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/89140/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 300",
+                "snippet": "Unknown; 30 BC - AD 300",
                 "title": "OSM location of Castle Dykes"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; removed Pastscape reference with broken link; added AtlHillforts and Wikidata references; summary",
+            "modified": "2024-12-17T22:15:59Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2024-12-17T21:47:38Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited type and description @maximeg",
+            "modified": "2024-12-17T21:47:09Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
             "modified": "2022-04-11T10:04:15Z",
@@ -227,12 +248,8 @@
             "description": "Representative location based on OpenStreetMap.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "fort"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
@@ -316,6 +333,11 @@
             },
             "history": [
                 {
+                    "comment": "removed deprecated place type",
+                    "modified": "2024-12-17T21:47:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2022-04-11T10:03:16Z",
                     "modifiedBy": "thomase"
@@ -360,9 +382,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "locationTypeURI": [],
             "provenance": "OpenStreetMap (Way 270438819, version 2, osm:changeset=68307887, 2019-03-19T19:17:09Z)",
             "references": [
                 {
@@ -396,12 +416,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/earthwork",
+        "https://pleiades.stoa.org/vocabularies/place-types/villa"
     ],
     "placeTypes": [
-        "villa",
-        "fort"
+        "earthwork",
+        "villa"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 F6 Castle Dykes",
     "references": [
@@ -417,25 +437,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/624430910",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Scott-1993",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EGWGRRDJ",
+            "citationDetail": "151-52",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Scott 1993, 151-52",
+            "formattedCitation": "<div class=\"csl-entry\">Scott, Eleanor. <i>A Gazetteer of Roman Villas in Britain</i>. Leicester: Leicester University Archaeological Research Centre, 1993. http://www.worldcat.org/oclc/624430910.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.pastscape.org.uk/hob.aspx?hob_id=52079",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Pastscape monument no. 52079",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Scott 1993",
             "type": "seeFurther"
         },
         {
@@ -447,6 +456,28 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://hillforts.arch.ox.ac.uk/records/EN2677.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DR9PECMG",
+            "citationDetail": "EN2677 Castle Dikes Camp, Yorkshire (Castle Dykes; North Staniby)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Lock, Gary, and Ian Ralston. <i>Atlas of Hillforts of Britain and Ireland</i>, 2024. https://hillforts.arch.ox.ac.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AtlHillforts",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q17665270",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castle Dikes defended Roman villa (Q17665270)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],

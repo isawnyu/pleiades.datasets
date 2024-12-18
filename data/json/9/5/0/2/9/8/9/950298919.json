@@ -8,8 +8,15 @@
     ],
     "connections": [],
     "connectsWith": [],
-    "contributors": [],
-    "created": "2013-09-02T03:45:05Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        }
+    ],
+    "created": "2024-12-16T14:12:12Z",
     "creators": [
         {
             "homepage": null,
@@ -31,16 +38,26 @@
             },
             "id": "location-of-raeburnfoot-roman-fort",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/950298919/location-of-raeburnfoot-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 300",
-                "title": "location of Raeburnfoot Roman fort"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Raeburnfoot Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Jones and Mckeague 2009",
+            "modified": "2024-12-18T00:41:13Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited type for fort; wikidata Raeburnfoot, Roman fort 200m SW of (Q56668501) @Maximeg",
+            "modified": "2024-12-18T00:39:21Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update reference",
             "modified": "2023-10-31T18:59:41Z",
@@ -94,16 +111,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -113,6 +128,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "edit title, summary, Feature type",
+                    "modified": "2024-12-18T00:38:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-18T00:37:53Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2023-10-31T18:59:06Z",
@@ -149,8 +174,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Node 2442168487, version 2, osm:changeset=79083530, 2020-01-01T15:42:17Z)",
             "references": [
@@ -168,16 +192,16 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "location of Raeburnfoot Roman fort",
+            "title": "OSM location of Raeburnfoot Roman fort",
             "uri": "https://pleiades.stoa.org/places/950298919/location-of-raeburnfoot-roman-fort"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -195,12 +219,34 @@
         {
             "accessURI": "http://canmore.rcahms.gov.uk/en/site/67274/details/raeburnfoot/",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9QC8C2K",
+            "citationDetail": "67274",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Canmore: National Record of the Historic Environment, Part of Historic Environment Scotland</i>, n.d. https://canmore.org.uk/.</div>",
+            "otherIdentifier": " ",
+            "shortTitle": "Canmore",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q56668501",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Raeburnfoot, Roman fort 200m SW of (Q56668501)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/britannia/article/abs/stracathrogated-temporary-camp-at-raeburnfoot-dumfriesshire-scotland/C456F024B99DF82A50113B1013271A37",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/46BA82PE",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RCAHMS, RAEBURNFOOT ",
-            "otherIdentifier": " ",
-            "shortTitle": "",
+            "formattedCitation": "<div class=\"csl-entry\">Jones, Rebecca H., and Peter Mckeague. “A ‘Stracathro’-Gated Temporary Camp at Raeburnfoot, Dumfriesshire, Scotland.” <i>Britannia</i> 40 (November 2009): 123–36. https://doi.org/10.3815/006811309789785891.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Jones and Mckeague 2009",
             "type": "seeFurther"
         }
     ],
