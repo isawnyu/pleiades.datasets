@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3601 alignments exist in _Pleiades_ place references as of 2024-12-17. The following list of alignments is grouped by zotkey.
+3605 alignments exist in _Pleiades_ place references as of 2025-01-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3699,7 +3699,7 @@
 [https://topostext.org/place/419125BAth](https://topostext.org/place/419125BAth)  
 
 ### alignments:
- - [The Athenaeum of Hadrian (Rome)](https://pleiades.stoa.org/places/914715153)
+ - [Athenaeum of Hadrian (Rome)](https://pleiades.stoa.org/places/914715153)
 
 
 ## Athenai (Pontus)
@@ -4729,6 +4729,13 @@
 
 ### alignments:
  - [Boudoron](https://pleiades.stoa.org/places/579896)
+
+
+## Boudroe? (Crete) 1 Souda
+[https://topostext.org/place/355242IBou](https://topostext.org/place/355242IBou)  
+
+### alignments:
+ - [Souda (island)](https://pleiades.stoa.org/places/596541756)
 
 
 ## Boukephalos (Korinthia)
@@ -17650,6 +17657,13 @@
  - [Patra(e)](https://pleiades.stoa.org/places/570567)
 
 
+## Patroklou Charax (Attica)
+[https://topostext.org/place/377240IPat](https://topostext.org/place/377240IPat)  
+
+### alignments:
+ - [Patroklou Charax (island)](https://pleiades.stoa.org/places/580060)
+
+
 ## Pattanam/Muziris? (India)
 [https://topostext.org/place/102762UPat](https://topostext.org/place/102762UPat)  
 
@@ -20954,6 +20968,13 @@
  - [ Sardis/Hyde?](https://pleiades.stoa.org/places/550867)
 
 
+## Sarmizegetusa Ulpia Traiana (Dacia)
+[https://topostext.org/place/455228USUT](https://topostext.org/place/455228USUT)  
+
+### alignments:
+ - [Ulpia Traiana Sarmizegetusa](https://pleiades.stoa.org/places/207527)
+
+
 ## Sarnus river (Campania) 7 Sarno
 [https://topostext.org/place/407145WSar](https://topostext.org/place/407145WSar)  
 
@@ -21746,6 +21767,13 @@
 
 ### alignments:
  - [Scandira (island)](https://pleiades.stoa.org/places/541089)
+
+
+## Skarkos exc. (Ios) Skarkos
+[https://topostext.org/place/367253XSka](https://topostext.org/place/367253XSka)  
+
+### alignments:
+ - [Skarkos Hill](https://pleiades.stoa.org/places/309176138)
 
 
 ## Skarpheia (Phthiotida)

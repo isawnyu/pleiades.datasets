@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-491 alignments exist in _Pleiades_ place references as of 2024-12-17. The following list of alignments is grouped by zotkey.
+491 alignments exist in _Pleiades_ place references as of 2025-01-06. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3622,5 +3622,6 @@
  - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
  - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
  - [Thourion](https://pleiades.stoa.org/places/487031708)
+ - [Untitled](https://pleiades.stoa.org/places/582108)
 
 
