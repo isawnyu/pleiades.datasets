@@ -18,6 +18,12 @@
             "username": null
         },
         {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
             "name": "R. Warner",
             "username": null
         },
@@ -40,14 +46,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-11-02T09:57:12Z",
+    "created": "2024-12-18T21:53:24Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
             "username": null
         }
     ],
-    "description": "A Roman auxiliary fort. Limited excavations in 1969 suggested a construction dates of ca. A.D. 83 with abandonment ca. 87.",
+    "description": "A Roman auxiliary fort. Limited excavations in 1969 suggested a construction date of ca. A.D. 83 with abandonment ca. 87.",
     "details": "<p>The Barrington Atlas Directory notes: Stracathro</p>",
     "features": [
         {
@@ -63,13 +69,23 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/89292/osm-location-of-roman-fort-of-stracathro",
                 "location_precision": "precise",
-                "snippet": "Fort; AD 43 - AD 410",
+                "snippet": "Fort-2; AD 43 - AD 410",
                 "title": "OSM location of Roman fort of Stracathro"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2024-12-20T15:59:27Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited type for fort; update references, add wikidata Stracathro, Roman fort and camp (Q56664433) @maximeg",
+            "modified": "2024-12-20T15:50:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added DARMC reference to maintain linkage after retracting less precise location",
             "modified": "2021-11-30T19:09:43Z",
@@ -157,10 +173,10 @@
             "details": "<p>OSM node following coordinates published by CANMORE.</p>",
             "end": 410,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -170,6 +186,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Feature type",
+                    "modified": "2024-12-20T15:58:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2024-12-20T15:58:47Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-11-30T19:08:56Z",
@@ -201,9 +227,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "OpenStreetMap (Node 6595233798, version 1, osm:changeset=71992220, 2019-07-07T21:27:25Z)",
+            "provenance": "OpenStreetMap (Node 6595233798, version 5, osm:changeset=138540530, 2023-07-15T11:12:07Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/browse/node/6595233798",
@@ -236,10 +262,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 E4 Stracathro",
     "references": [
@@ -301,13 +327,13 @@
         {
             "accessURI": "http://canmore.rcahms.gov.uk/en/site/35945/details/stracathro/",
             "alternateURI": "",
-            "bibliographicURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9QC8C2K",
             "citationDetail": "35945",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Canmore: National Record of the Historic Environment, Part of Historic Environment Scotland</i>, n.d. https://canmore.org.uk/.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Canmore",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://darmc.harvard.edu/",
@@ -318,6 +344,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q56664433",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Stracathro, Roman fort and camp (Q56664433)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],

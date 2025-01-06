@@ -2,9 +2,9 @@
     "@type": "Place",
     "bbox": [
         4.879167,
-        43.711528,
-        4.879167,
-        43.711528
+        43.7114376,
+        4.8793629,
+        43.7115889
     ],
     "connections": [],
     "connectsWith": [],
@@ -69,9 +69,50 @@
                 "title": "DARE Location"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.8791671,
+                        43.7115869
+                    ],
+                    [
+                        4.879336,
+                        43.7115889
+                    ],
+                    [
+                        4.8793629,
+                        43.7114415
+                    ],
+                    [
+                        4.8792019,
+                        43.7114376
+                    ],
+                    [
+                        4.8791671,
+                        43.7115869
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-tericiae-statio",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/148215/osm-location-of-tericiae-statio",
+                "location_precision": "precise",
+                "snippet": "Station; 30 BC - AD 300",
+                "title": "OSM location of Tericiae (Statio)"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-12-27T03:37:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "darmc 8638",
             "modified": "2017-08-06T14:48:30Z",
@@ -218,6 +259,118 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/148215/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-12-27T03:41:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "station"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.8791671,
+                        43.7115869
+                    ],
+                    [
+                        4.879336,
+                        43.7115889
+                    ],
+                    [
+                        4.8793629,
+                        43.7114415
+                    ],
+                    [
+                        4.8792019,
+                        43.7114376
+                    ],
+                    [
+                        4.8791671,
+                        43.7115869
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-03T19:13:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-12-29T01:29:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-12-27T03:41:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-27T03:41:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-12-27T03:41:21Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-tericiae-statio",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/station"
+            ],
+            "provenance": "OpenStreetMap (Way 374452962, version 4, osm:changeset=159469550, 2024-11-22T17:44:43Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/374452962",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 374452962",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=374452962",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Tericiae (Statio)",
+            "uri": "https://pleiades.stoa.org/places/148215/osm-location-of-tericiae-statio"
         }
     ],
     "names": [
@@ -404,34 +557,34 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=tericia",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "TERICIA (Mouriès) Bouches-du-Rhône, France",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), TERICIA (Mouriès) Bouches-du-Rhône, France",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.trismegistos.org/place/21654",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 21654: Tericiae (Mouriès)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "TM GEO ID 21654",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TM",
             "type": "citesAsRelated"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace831.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "1B5 (Talbert 831)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 1B5 (Talbert 831)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
         },
         {
@@ -447,8 +600,8 @@
         }
     ],
     "reprPoint": [
-        4.879167,
-        43.711528
+        4.879216665824316,
+        43.711521319178914
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

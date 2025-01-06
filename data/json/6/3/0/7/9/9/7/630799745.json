@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         -0.0760478,
-        51.5100429,
-        -0.0760478,
+        51.5098159,
+        -0.0759941,
         51.5100429
     ],
     "connections": [
@@ -78,10 +78,16 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.0760478,
-                    51.5100429
+                    [
+                        -0.0759941,
+                        51.5098159
+                    ],
+                    [
+                        -0.0760478,
+                        51.5100429
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "id": "location-of-london-wall",
             "properties": {
@@ -95,6 +101,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2024-12-21T21:18:47Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added Baker 2021",
             "modified": "2022-06-09T21:43:18Z",
@@ -182,12 +193,23 @@
             ],
             "geometry": {
                 "coordinates": [
-                    -0.0760478,
-                    51.5100429
+                    [
+                        -0.0759941,
+                        51.5098159
+                    ],
+                    [
+                        -0.0760478,
+                        51.5100429
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-21T21:17:26Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-09T23:34:47Z",
@@ -247,7 +269,7 @@
                 "https://pleiades.stoa.org/vocabularies/place-types/city-wall",
                 "https://pleiades.stoa.org/vocabularies/place-types/"
             ],
-            "provenance": "OpenStreetMap (Way 55421654, version 3, osm:changeset=4531830, 2010-04-26T13:20:36Z)",
+            "provenance": "OpenStreetMap (Way 55421654, version 8, osm:changeset=99534126, 2021-02-18T15:32:55Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/55421654",
@@ -323,12 +345,12 @@
         {
             "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1018887",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
+            "citationDetail": "1018887: London Wall: site of the Roman and medieval gateway of Cripple Gate",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Historic England: London Wall: site of the Roman and medieval gateway of Cripple Gate",
+            "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "NHLE",
             "type": "seeFurther"
         },
         {
@@ -341,11 +363,22 @@
             "otherIdentifier": "",
             "shortTitle": "Barker 2021",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q60308",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "London Wall (Q60308)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.0760478,
-        51.5100429
+        -0.07602095,
+        51.509929400000004
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
