@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5805 alignments exist in _Pleiades_ place references as of 2025-01-06. The following list of alignments is grouped by zotkey.
+5815 alignments exist in _Pleiades_ place references as of 2025-01-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -61,7 +61,7 @@
 [https://www.wikidata.org/wiki/Q318659](https://www.wikidata.org/wiki/Q318659)  
 
 ### alignments:
- - [Monumenti Funerari Romani](https://pleiades.stoa.org/places/732333582)
+ - [Abella](https://pleiades.stoa.org/places/432617)
 
 
 ## Abia (Messenia) (Q5860118)
@@ -637,6 +637,13 @@
 
 ### alignments:
  - [Alba Fucens](https://pleiades.stoa.org/places/413005)
+
+
+## Alba Fucens Aqueduct (Q118558965)
+[https://www.wikidata.org/wiki/Q118558965](https://www.wikidata.org/wiki/Q118558965)  
+
+### alignments:
+ - [Alba Fucens Aqueduct](https://pleiades.stoa.org/places/102438478)
 
 
 ## Albaniana (Q2663417)
@@ -3774,7 +3781,7 @@
 [https://www.wikidata.org/wiki/Q2781943](https://www.wikidata.org/wiki/Q2781943)  
 
 ### alignments:
- - [Bibey Roman bridge](https://pleiades.stoa.org/places/297797968)
+ - [Puente del Bibey](https://pleiades.stoa.org/places/237829)
 
 
 ## Bridge over the Oued Cherchira (Q42758015)
@@ -8113,6 +8120,13 @@
  - [Gobustan Rock Art Cultural Landscape](https://pleiades.stoa.org/places/380688207)
 
 
+## Golasecca (Q40879)
+[https://www.wikidata.org/wiki/Q40879](https://www.wikidata.org/wiki/Q40879)  
+
+### alignments:
+ - [Golasecca](https://pleiades.stoa.org/places/383665)
+
+
 ## Golgoi (Q3561710)
 [https://www.wikidata.org/wiki/Q3561710](https://www.wikidata.org/wiki/Q3561710)  
 
@@ -9371,6 +9385,13 @@
 
 ### alignments:
  - [Inveravon](https://pleiades.stoa.org/places/800131926)
+
+
+## Inveresk Roman Fort (Q15228768)
+[https://www.wikidata.org/wiki/Q15228768](https://www.wikidata.org/wiki/Q15228768)  
+
+### alignments:
+ - [Inveresk](https://pleiades.stoa.org/places/89207)
 
 
 ## Iomnium (Q113827285)
@@ -11824,6 +11845,13 @@
 
 ### alignments:
  - [Mastaba of Kagemni](https://pleiades.stoa.org/places/916778615)
+
+
+## Mastaba of Khentika (Q3297830)
+[https://www.wikidata.org/wiki/Q3297830](https://www.wikidata.org/wiki/Q3297830)  
+
+### alignments:
+ - [Mastaba of Khentika](https://pleiades.stoa.org/places/497304866)
 
 
 ## mastaba of Ptahshepses (Q87088474)
@@ -14602,7 +14630,6 @@
 [https://www.wikidata.org/wiki/Q7141415](https://www.wikidata.org/wiki/Q7141415)  
 
 ### alignments:
- - [Parys Mountain](https://pleiades.stoa.org/places/767495092)
  - [Parys Mountain](https://pleiades.stoa.org/places/82297)
 
 
@@ -15019,11 +15046,10 @@
  - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
 
 
-## Phrygia (Q32579)
-[https://www.wikidata.org/wiki/Q32579](https://www.wikidata.org/wiki/Q32579)  
+## Phrygia (Q131688182)
+[https://www.wikidata.org/wiki/Q131688182](https://www.wikidata.org/wiki/Q131688182)  
 
 ### alignments:
- - [Phrygia (kingdom)](https://pleiades.stoa.org/places/907036116)
  - [Phrygia](https://pleiades.stoa.org/places/511362)
 
 
@@ -15452,6 +15478,13 @@
 
 ### alignments:
  - [Ponte Mammolo](https://pleiades.stoa.org/places/423010)
+
+
+## Ponte Milvio (Q1127325)
+[https://www.wikidata.org/wiki/Q1127325](https://www.wikidata.org/wiki/Q1127325)  
+
+### alignments:
+ - [Pons Mulvius](https://pleiades.stoa.org/places/423008)
 
 
 ## Ponte Molino (Q474747)
@@ -18947,6 +18980,13 @@
 
 ### alignments:
  - [Area archeologica di Casarinaccio](https://pleiades.stoa.org/places/937942845)
+
+
+## Q131692956
+[https://www.wikidata.org/wiki/Q131692956](https://www.wikidata.org/wiki/Q131692956)  
+
+### alignments:
+ - [Plestinus L.](https://pleiades.stoa.org/places/413265)
 
 
 ## Q131820: Pyramid of Sahure
@@ -25888,6 +25928,13 @@
 
 ### alignments:
  - [Ilicitanus Sinus](https://pleiades.stoa.org/places/265923)
+
+
+## Q32579: Phrygia
+[https://www.wikidata.org/wiki/Q32579](https://www.wikidata.org/wiki/Q32579)  
+
+### alignments:
+ - [Phrygia (kingdom)](https://pleiades.stoa.org/places/907036116)
 
 
 ## Q3267604: Luni sul Mignone
@@ -33861,6 +33908,13 @@
  - [Qermez Dere](https://pleiades.stoa.org/places/52599409)
 
 
+## Qila' el-Dabba (Q14300118)
+[https://www.wikidata.org/wiki/Q14300118](https://www.wikidata.org/wiki/Q14300118)  
+
+### alignments:
+ - [Qila' el-Dabba](https://pleiades.stoa.org/places/301492848)
+
+
 ## Qohaito (Q4236500)
 [https://www.wikidata.org/wiki/Q4236500](https://www.wikidata.org/wiki/Q4236500)  
 
@@ -34811,7 +34865,6 @@
 [https://www.wikidata.org/wiki/Q3896297](https://www.wikidata.org/wiki/Q3896297)  
 
 ### alignments:
- - [Roman theater at Saguntum](https://pleiades.stoa.org/places/794072270)
  - [Roman theater of Saguntum](https://pleiades.stoa.org/places/339756240)
 
 
@@ -37624,6 +37677,13 @@
  - [Temple of Kronos and Rhea](https://pleiades.stoa.org/places/518758744)
 
 
+## Temple of Liber Pater, Sabratha (Q82074405)
+[https://www.wikidata.org/wiki/Q82074405](https://www.wikidata.org/wiki/Q82074405)  
+
+### alignments:
+ - [Temple of Liber Pater at Sabratha](https://pleiades.stoa.org/places/854121351)
+
+
 ## Temple of Montu in Tod (Q1720771)
 [https://www.wikidata.org/wiki/Q1720771](https://www.wikidata.org/wiki/Q1720771)  
 
@@ -38990,6 +39050,13 @@
  - [Trikrana (island)](https://pleiades.stoa.org/places/570752)
 
 
+## Trimontium (Q3539246)
+[https://www.wikidata.org/wiki/Q3539246](https://www.wikidata.org/wiki/Q3539246)  
+
+### alignments:
+ - [Trimontium](https://pleiades.stoa.org/places/89304)
+
+
 ## Triopium (Q65088955)
 [https://www.wikidata.org/wiki/Q65088955](https://www.wikidata.org/wiki/Q65088955)  
 
@@ -39596,7 +39663,7 @@
 [https://www.wikidata.org/wiki/Q673209](https://www.wikidata.org/wiki/Q673209)  
 
 ### alignments:
- - [Vellaunodunum](https://pleiades.stoa.org/places/141963)
+ - [Vellaunodunum](https://pleiades.stoa.org/places/114800)
 
 
 ## Vellavi (Q2574456)

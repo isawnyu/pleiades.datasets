@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4011 alignments exist in _Pleiades_ place references as of 2025-01-06. The following list of alignments is grouped by zotkey.
+4013 alignments exist in _Pleiades_ place references as of 2025-01-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5190,7 +5190,7 @@
  - [Uxelodu(nu)m](https://pleiades.stoa.org/places/89307)
 
 
-## GEO ID 14559
+## GEO ID 14559: Traprain Law
 [http://www.trismegistos.org/place/14559](http://www.trismegistos.org/place/14559)  
 
 ### alignments:
@@ -6147,6 +6147,13 @@
 
 ### alignments:
  - [(A)Esica](https://pleiades.stoa.org/places/89095)
+
+
+## GEO ID 15570: Galacum (Overborough)
+[http://www.trismegistos.org/place/15570](http://www.trismegistos.org/place/15570)  
+
+### alignments:
+ - [Kalagon/Galacum](https://pleiades.stoa.org/places/89215)
 
 
 ## GEO ID 15581: Deultum (Debelt)
@@ -19023,6 +19030,13 @@
 
 ### alignments:
  - [Aritium Praetorium](https://pleiades.stoa.org/places/255983)
+
+
+## GEO ID 40921: Limia (Ponte de Lima)
+[http://www.trismegistos.org/place/40921](http://www.trismegistos.org/place/40921)  
+
+### alignments:
+ - [Limia](https://pleiades.stoa.org/places/236517)
 
 
 ## GEO ID 40928: Ad Rubras
