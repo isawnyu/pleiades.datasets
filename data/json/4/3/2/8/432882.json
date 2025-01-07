@@ -3,8 +3,8 @@
     "bbox": [
         13.703,
         42.0628,
-        13.703,
-        42.0628
+        13.7058243,
+        42.0638768
     ],
     "connections": [
         {
@@ -93,23 +93,46 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.7058243,
+                    42.0638768
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-forca-caruso",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/432882/osm-location-of-forca-caruso",
+                "location_precision": "precise",
+                "snippet": "Pass; AD 2000 - AD 2099",
+                "title": "OSM location of Forca Caruso"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.703,
                     42.0628
                 ],
                 "type": "Point"
             },
-            "id": "location-of-forca-caruso-pass",
+            "id": "imagery-location-of-forca-caruso-pass",
             "properties": {
                 "description": "verified in Google Earth 2013.",
-                "link": "https://pleiades.stoa.org/places/432882/location-of-forca-caruso-pass",
+                "link": "https://pleiades.stoa.org/places/432882/imagery-location-of-forca-caruso-pass",
                 "location_precision": "precise",
                 "snippet": "Pass, ; AD 1700 - AD 2100",
-                "title": "location of Forca Caruso (pass)"
+                "title": "Imagery location of Forca Caruso (pass)"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-01-06T22:19:30Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added TM GEO ID 41109: Imeus Mons (Forca Caruso)",
             "modified": "2021-01-18T01:15:05Z",
@@ -180,6 +203,100 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-06T22:07:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "pass"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
+            ],
+            "geometry": {
+                "coordinates": [
+                    13.7058243,
+                    42.0638768
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-06T22:26:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-06T22:08:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-06T22:07:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-06T22:07:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-06T22:07:38Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-forca-caruso",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/pass"
+            ],
+            "provenance": "OpenStreetMap (Node 903622395, version 10, osm:changeset=111922199, 2021-09-30T15:04:58Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/903622395",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 903622395",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=903622395",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Forca Caruso",
+            "uri": "https://pleiades.stoa.org/places/432882/osm-location-of-forca-caruso"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -243,7 +360,7 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-forca-caruso-pass",
+            "id": "imagery-location-of-forca-caruso-pass",
             "locationType": [
                 "representative"
             ],
@@ -267,8 +384,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Forca Caruso (pass)",
-            "uri": "https://pleiades.stoa.org/places/432882/location-of-forca-caruso-pass"
+            "title": "Imagery location of Forca Caruso (pass)",
+            "uri": "https://pleiades.stoa.org/places/432882/imagery-location-of-forca-caruso-pass"
         }
     ],
     "names": [
@@ -541,11 +658,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "323",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        13.703,
-        42.0628
+        13.70441215,
+        42.063338400000006
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
