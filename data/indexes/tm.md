@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4013 alignments exist in _Pleiades_ place references as of 2025-01-07. The following list of alignments is grouped by zotkey.
+4019 alignments exist in _Pleiades_ place references as of 2025-01-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1869,6 +1869,13 @@
 
 ### alignments:
  - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
+
+
+## Geo 47984: Arsamosata (Haraba)
+[https://www.trismegistos.org/place/47984](https://www.trismegistos.org/place/47984)  
+
+### alignments:
+ - [Arsamosata](https://pleiades.stoa.org/places/874354)
 
 
 ## Geo 48046: Deir el-Surian
@@ -4175,7 +4182,7 @@
  - [Hyria/Uria](https://pleiades.stoa.org/places/442616)
 
 
-## GEO ID 14300
+## GEO ID 14300: Luguvalium (Carlisle)
 [http://www.trismegistos.org/place/14300](http://www.trismegistos.org/place/14300)  
 
 ### alignments:
@@ -5499,6 +5506,13 @@
  - [Vindovala](https://pleiades.stoa.org/places/89315)
 
 
+## GEO ID 14812: Rough Castle
+[http://www.trismegistos.org/place/14812](http://www.trismegistos.org/place/14812)  
+
+### alignments:
+ - [Rough Castle](https://pleiades.stoa.org/places/89282)
+
+
 ## GEO ID 14820: Habitancum (Risingham)
 [http://www.trismegistos.org/place/14820](http://www.trismegistos.org/place/14820)  
 
@@ -5567,6 +5581,13 @@
 
 ### alignments:
  - [Pennocrucium](https://pleiades.stoa.org/places/79638)
+
+
+## GEO ID 14891: Maglona (Old Carlisle)
+[http://www.trismegistos.org/place/14891](http://www.trismegistos.org/place/14891)  
+
+### alignments:
+ - [‘Maglone’](https://pleiades.stoa.org/places/89236)
 
 
 ## GEO ID 14895: Condate (Northwich)
@@ -6819,6 +6840,13 @@
 
 ### alignments:
  - [Olympus/Hadrianopolis](https://pleiades.stoa.org/places/639017)
+
+
+## GEO ID 16435: Olbia
+[http://www.trismegistos.org/place/16435](http://www.trismegistos.org/place/16435)  
+
+### alignments:
+ - [Olbia](https://pleiades.stoa.org/places/639016)
 
 
 ## GEO ID 1643: Peenpibykis
@@ -14717,6 +14745,13 @@
 
 ### alignments:
  - [Foruli](https://pleiades.stoa.org/places/413142)
+
+
+## GEO ID 3277: Cenabum (Orléans)
+[http://www.trismegistos.org/place/3277](http://www.trismegistos.org/place/3277)  
+
+### alignments:
+ - [Cenabum](https://pleiades.stoa.org/places/138281)
 
 
 ## GEO ID 3278
@@ -27906,6 +27941,13 @@
 
 ### alignments:
  - [Aquae Carpitanae](https://pleiades.stoa.org/places/314883)
+
+
+## Text 247594
+[https://www.trismegistos.org/text/247594](https://www.trismegistos.org/text/247594)  
+
+### alignments:
+ - [Allerona](https://pleiades.stoa.org/places/906461649)
 
 
 ## Text 250541
