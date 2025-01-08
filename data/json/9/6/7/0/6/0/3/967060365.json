@@ -3,8 +3,8 @@
     "bbox": [
         -2.430555,
         54.995759,
-        -2.430465,
-        54.995817
+        -2.4304374,
+        54.9958364
     ],
     "connections": [
         {
@@ -59,6 +59,12 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
@@ -68,9 +74,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2012-02-07T17:09:11Z",
+    "created": "2024-12-13T15:12:01Z",
     "creators": [
         {
             "homepage": null,
@@ -82,6 +94,44 @@
     "description": "A turret situated on Hadrian's Wall.",
     "details": "",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.4304538,
+                            54.9957742
+                        ],
+                        [
+                            -2.4305511,
+                            54.9957843
+                        ],
+                        [
+                            -2.4305347,
+                            54.9958364
+                        ],
+                        [
+                            -2.4304374,
+                            54.9958263
+                        ],
+                        [
+                            -2.4304538,
+                            54.9957742
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "id": "osm-location-of-turret-41a-caw-gap",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/967060365/osm-location-of-turret-41a-caw-gap",
+                "location_precision": "precise",
+                "snippet": "Tower-defensive; AD 43 - AD 410",
+                "title": "OSM location of Turret 41A (Caw Gap)"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -115,18 +165,23 @@
                 ],
                 "type": "Polygon"
             },
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/967060365/boundary-of-the-ancient-site",
+                "link": "https://pleiades.stoa.org/places/967060365/approximate-boundary-of-the-ancient-site",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Boundary of the ancient site"
+                "title": "Approximate Boundary of the ancient site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for tower; update references @maximeg",
+            "modified": "2025-01-07T19:06:07Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARE feature tag fix.",
             "modified": "2012-10-23T19:36:36Z",
@@ -167,11 +222,125 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-07T19:14:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "tower-defensive"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -2.4304538,
+                            54.9957742
+                        ],
+                        [
+                            -2.4305511,
+                            54.9957843
+                        ],
+                        [
+                            -2.4305347,
+                            54.9958364
+                        ],
+                        [
+                            -2.4304374,
+                            54.9958263
+                        ],
+                        [
+                            -2.4304538,
+                            54.9957742
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-07T22:13:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-07T19:15:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-07T19:15:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-07T19:14:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-07T19:14:49Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-turret-41a-caw-gap",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "provenance": "OpenStreetMap (Relation 3644600, version 5, osm:changeset=157206671, 2024-09-28T11:48:16Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/3644600",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Relation 3644600",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:relation=3644600",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Turret 41A (Caw Gap)",
+            "uri": "https://pleiades.stoa.org/places/967060365/osm-location-of-turret-41a-caw-gap"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/hadrians-wall-milecastles-and-turrets-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "uncertain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -252,6 +421,11 @@
             },
             "history": [
                 {
+                    "comment": "certain",
+                    "modified": "2025-01-07T22:13:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T09:54:49Z",
                     "modifiedBy": "admin"
@@ -277,7 +451,7 @@
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "locationType": [
                 "representative"
             ],
@@ -300,16 +474,16 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of the ancient site",
-            "uri": "https://pleiades.stoa.org/places/967060365/boundary-of-the-ancient-site"
+            "title": "Approximate Boundary of the ancient site",
+            "uri": "https://pleiades.stoa.org/places/967060365/approximate-boundary-of-the-ancient-site"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
     ],
     "placeTypes": [
-        "fort"
+        "tower-defensive"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -349,18 +523,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.zotero.org/groups/pleiades/items/itemKey/VF8CRNVF/",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VF8CRNVF",
+            "citationDetail": "263-4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Breeze 2006 263-264",
+            "formattedCitation": "<div class=\"csl-entry\">Breeze, David J. <i>Handbook to the Roman Wall</i>. 14th ed. 1 vols. Newcastle upon Tyne: Society of Antiquaries of Newcastle upon Tyne, 2006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Breeze 2006",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        -2.4305097619047626,
-        54.99578842857142
+        -2.4305020059523823,
+        54.99579686428571
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

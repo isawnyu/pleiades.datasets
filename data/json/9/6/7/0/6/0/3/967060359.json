@@ -54,7 +54,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/91358"
+        "https://pleiades.stoa.org/places/91358",
+        "https://pleiades.stoa.org/places/89239"
     ],
     "contributors": [
         {
@@ -74,9 +75,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2012-02-07T17:08:56Z",
+    "created": "2024-12-13T15:08:42Z",
     "creators": [
         {
             "homepage": null,
@@ -85,7 +92,7 @@
             "username": "sarcanon"
         }
     ],
-    "description": "A milecastle situated on Hadrian's Wall.",
+    "description": "A milecastle situated on Hadrian's Wall, Milecastle 80 was superseded by the Roman fort known as Maia.",
     "details": "",
     "features": [
         {
@@ -101,13 +108,23 @@
                 "description": "",
                 "link": "https://pleiades.stoa.org/places/967060359/center-point-of-the-ancient-site",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
+                "snippet": "Fortlet; AD 43 - AD 640",
                 "title": "Center point of the ancient site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "edit summa",
+            "modified": "2025-01-07T21:20:50Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited type for fortlet; Edited @maximeg",
+            "modified": "2025-01-07T21:16:43Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "wikidata Q6851201",
             "modified": "2018-11-03T17:03:04Z",
@@ -160,15 +177,15 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/hadrians-wall-milecastles-and-turrets-2012",
             "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "uncertain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 },
                 {
                     "confidence": "confident",
@@ -178,6 +195,12 @@
                 }
             ],
             "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
                 {
                     "homepage": null,
                     "name": "Sean Gillies",
@@ -204,10 +227,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fortlet"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
             ],
             "geometry": {
                 "coordinates": [
@@ -217,6 +240,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2025-01-07T21:21:19Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T09:54:46Z",
@@ -248,7 +276,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -265,17 +293,17 @@
                 }
             ],
             "review_state": "published",
-            "start": -30,
+            "start": 43,
             "title": "Center point of the ancient site",
             "uri": "https://pleiades.stoa.org/places/967060359/center-point-of-the-ancient-site"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
     ],
     "placeTypes": [
-        "fort"
+        "fortlet"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -327,12 +355,12 @@
             "accessURI": "https://www.wikidata.org/wiki/Q6851201",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
-            "citationDetail": "Q6851201",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationDetail": "Milecastle 80 (Q6851201)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

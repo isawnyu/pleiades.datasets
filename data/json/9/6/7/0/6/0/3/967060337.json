@@ -1,7 +1,7 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.644858,
+        -2.6448759,
         54.980624,
         -2.644745,
         54.980688
@@ -59,6 +59,12 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
@@ -68,9 +74,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2012-02-07T17:08:03Z",
+    "created": "2024-12-13T14:44:36Z",
     "creators": [
         {
             "homepage": null,
@@ -82,6 +94,42 @@
     "description": "A turret situated on Hadrian's Wall.",
     "details": "",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -2.644762,
+                        54.98065
+                    ],
+                    [
+                        -2.6447909,
+                        54.9806875
+                    ],
+                    [
+                        -2.6448759,
+                        54.980666
+                    ],
+                    [
+                        -2.644847,
+                        54.9806285
+                    ],
+                    [
+                        -2.644762,
+                        54.98065
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-piper-sike-turret-51a",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/967060337/osm-location-of-piper-sike-turret-51a",
+                "location_precision": "precise",
+                "snippet": "Tower-defensive; AD 43 - AD 410",
+                "title": "OSM location of Piper Sike Turret (51a)"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -115,18 +163,23 @@
                 ],
                 "type": "Polygon"
             },
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/967060337/boundary-of-the-ancient-site",
+                "link": "https://pleiades.stoa.org/places/967060337/approximate-boundary-of-the-ancient-site",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Boundary of the ancient site"
+                "title": "Approximate boundary of the ancient site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for tower; update references @maximeg",
+            "modified": "2025-01-07T22:20:49Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARE feature tag fix.",
             "modified": "2012-10-23T19:36:30Z",
@@ -165,6 +218,118 @@
     ],
     "id": "967060337",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-07T22:21:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "tower-defensive"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        -2.644762,
+                        54.98065
+                    ],
+                    [
+                        -2.6447909,
+                        54.9806875
+                    ],
+                    [
+                        -2.6448759,
+                        54.980666
+                    ],
+                    [
+                        -2.644847,
+                        54.9806285
+                    ],
+                    [
+                        -2.644762,
+                        54.98065
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T00:31:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-07T22:21:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-07T22:21:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-07T22:21:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-07T22:21:30Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-piper-sike-turret-51a",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
+            ],
+            "provenance": "OpenStreetMap (Way 435104735, version 3, osm:changeset=83761114, 2020-04-19T05:23:45Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/435104735",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 435104735",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=435104735",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Piper Sike Turret (51a)",
+            "uri": "https://pleiades.stoa.org/places/967060337/osm-location-of-piper-sike-turret-51a"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/hadrians-wall-milecastles-and-turrets-2012",
@@ -277,7 +442,7 @@
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "locationType": [
                 "representative"
             ],
@@ -300,16 +465,16 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of the ancient site",
-            "uri": "https://pleiades.stoa.org/places/967060337/boundary-of-the-ancient-site"
+            "title": "Approximate boundary of the ancient site",
+            "uri": "https://pleiades.stoa.org/places/967060337/approximate-boundary-of-the-ancient-site"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
     ],
     "placeTypes": [
-        "fort"
+        "tower-defensive"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -349,18 +514,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://www.zotero.org/groups/pleiades/items/itemKey/VF8CRNVF/",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VF8CRNVF",
+            "citationDetail": "316-318",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Breeze 2006 316-318",
+            "formattedCitation": "<div class=\"csl-entry\">Breeze, David J. <i>Handbook to the Roman Wall</i>. 14th ed. 1 vols. Newcastle upon Tyne: Society of Antiquaries of Newcastle upon Tyne, 2006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "Breeze 2006",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        -2.6448020662188103,
-        54.98065590786948
+        -2.644810508109405,
+        54.98065695393474
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

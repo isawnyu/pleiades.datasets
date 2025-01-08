@@ -74,9 +74,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2012-02-07T17:07:52Z",
+    "created": "2024-12-13T14:42:27Z",
     "creators": [
         {
             "homepage": null,
@@ -88,6 +94,24 @@
     "description": "A milecastle situated on Hadrian's Wall.",
     "details": "",
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.1965602,
+                    55.0384826
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-milecastle-30-limestone-corner",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/967060333/osm-location-of-milecastle-30-limestone-corner",
+                "location_precision": "precise",
+                "snippet": "Fortlet; AD 43 - AD 410",
+                "title": "OSM location of Milecastle 30 (Limestone Corner)"
+            },
+            "type": "Feature"
+        },
         {
             "geometry": {
                 "coordinates": [
@@ -121,18 +145,23 @@
                 ],
                 "type": "Polygon"
             },
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/967060333/boundary-of-the-ancient-site",
+                "link": "https://pleiades.stoa.org/places/967060333/approximate-boundary-of-the-ancient-site",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Boundary of the ancient site"
+                "title": "Approximate boundary of the ancient site"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited type for fortlet @maximeg",
+            "modified": "2025-01-07T22:53:22Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2021-05-15T15:57:14Z",
@@ -176,6 +205,100 @@
     ],
     "id": "967060333",
     "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-07T22:51:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "fortlet"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.1965602,
+                    55.0384826
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T00:30:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-07T22:52:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-07T22:52:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-07T22:51:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-07T22:51:51Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-milecastle-30-limestone-corner",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
+            ],
+            "provenance": "OpenStreetMap (Node 12195509368, version 1, osm:changeset=157013639, 2024-09-23T21:05:56Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/12195509368",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 12195509368",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=12195509368",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Milecastle 30 (Limestone Corner)",
+            "uri": "https://pleiades.stoa.org/places/967060333/osm-location-of-milecastle-30-limestone-corner"
+        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/hadrians-wall-milecastles-and-turrets-2012",
@@ -288,7 +411,7 @@
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "boundary-of-the-ancient-site",
+            "id": "approximate-boundary-of-the-ancient-site",
             "locationType": [
                 "representative"
             ],
@@ -311,16 +434,16 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of the ancient site",
-            "uri": "https://pleiades.stoa.org/places/967060333/boundary-of-the-ancient-site"
+            "title": "Approximate boundary of the ancient site",
+            "uri": "https://pleiades.stoa.org/places/967060333/approximate-boundary-of-the-ancient-site"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fortlet"
     ],
     "placeTypes": [
-        "fort"
+        "fortlet"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -392,8 +515,8 @@
         }
     ],
     "reprPoint": [
-        -2.1967016306306304,
-        55.03854684684685
+        -2.196630915315315,
+        55.038514723423425
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

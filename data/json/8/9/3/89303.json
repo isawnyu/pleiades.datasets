@@ -3,8 +3,8 @@
     "bbox": [
         -2.67285,
         55.96288,
-        -2.67285,
-        55.96288
+        -2.6715299,
+        55.9633081
     ],
     "connections": [],
     "connectsWith": [
@@ -23,9 +23,9 @@
         },
         {
             "homepage": null,
-            "name": "Maxime Guénette",
-            "uri": "https://pleiades.stoa.org/author/maximeg",
-            "username": "maximeg"
+            "name": "Scott Vanderbilt",
+            "uri": "https://pleiades.stoa.org/author/sarcanon",
+            "username": "sarcanon"
         },
         {
             "homepage": null,
@@ -39,9 +39,9 @@
         },
         {
             "homepage": null,
-            "name": "Scott Vanderbilt",
-            "uri": "https://pleiades.stoa.org/author/sarcanon",
-            "username": "sarcanon"
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         },
         {
             "name": "R. Warner",
@@ -77,8 +77,26 @@
                 "description": "Approximate center point of Iron Age hillfort",
                 "link": "https://pleiades.stoa.org/places/89303/centerpoint-of-hillfort-approx",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 30 BC - AD 300",
+                "snippet": "Unknown; 30 BC - AD 300",
                 "title": "Centerpoint of hillfort (approx)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.6715299,
+                    55.9633081
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-traprain-law",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/89303/osm-location-of-traprain-law",
+                "location_precision": "precise",
+                "snippet": "Hill; AD 2000 - AD 2099",
+                "title": "OSM location of Traprain Law"
             },
             "type": "Feature"
         }
@@ -182,8 +200,8 @@
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "less-certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "less-confident",
@@ -192,7 +210,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-02-21T23:00:39Z",
             "creators": [
                 {
@@ -205,14 +230,8 @@
             "description": "Approximate center point of Iron Age hillfort",
             "details": "",
             "end": 300,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     -2.67285,
@@ -221,6 +240,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "certain; removed deprecate place type",
+                    "modified": "2025-01-07T17:10:15Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-03-22T19:49:10Z",
@@ -251,10 +275,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "locationTypeURI": [],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -273,20 +294,124 @@
             "start": -30,
             "title": "Centerpoint of hillfort (approx)",
             "uri": "https://pleiades.stoa.org/places/89303/centerpoint-of-hillfort-approx"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2024-12-19T16:27:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "hill"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.6715299,
+                    55.9633081
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-07T17:09:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-01-07T17:09:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-07T04:30:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-12-19T16:28:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-19T16:27:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-12-19T16:27:50Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-traprain-law",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
+            ],
+            "provenance": "OpenStreetMap (Node 3667998726, version 3, osm:changeset=68659870, 2019-03-29T10:29:22Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3667998726",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3667998726",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=3667998726",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Traprain Law",
+            "uri": "https://pleiades.stoa.org/places/89303/osm-location-of-traprain-law"
         }
     ],
     "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/hillfort",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/hill",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/hill"
     ],
     "placeTypes": [
         "hillfort",
         "settlement",
-        "hill",
-        "fort"
+        "hill"
     ],
     "provenance": "Barrington Atlas: BAtlas 9 E5 Traprain Law",
     "references": [
@@ -413,8 +538,8 @@
         }
     ],
     "reprPoint": [
-        -2.67285,
-        55.96288
+        -2.67218995,
+        55.963094049999995
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
