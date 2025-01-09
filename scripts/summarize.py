@@ -68,26 +68,37 @@ def get_pd_commits(recent):
     msg = list()
     for k, v in components.items():
         success = False
+        alternate_keys = list()
         full_k = f"updated {k}"
         try:
             c = commits[full_k]
         except KeyError:
             if k == "data quality":
-                try:
-                    c = commits[f"updated data_quality"]
-                except KeyError:
-                    pass
-                else:
-                    success = True
+                alternate_keys = ["data_quality", "data quailty"]
+                for alt_k in alternate_keys:
+                    try:
+                        c = commits[f"updated {alt_k}"]
+                    except KeyError:
+                        pass
+                    else:
+                        success = True
+                        break
             elif k == "bibliography":
-                try:
-                    c = commits["updated bibliogreaphy"]
-                except KeyError:
-                    pass
-                else:
-                    success = True
+                alternate_keys = ["bibliogreaphy"]
+                for alt_k in alternate_keys:
+                    try:
+                        c = commits[f"updated {alt_k}"]
+                    except KeyError:
+                        pass
+                    else:
+                        success = True
+                        break
             if not success:
-                goofy_k = [ak for ak in commits.keys() if k in ak]
+                alternate_keys.append(k)
+                goofy_k = list()
+                for this_k in alternate_keys:
+                    logger.debug(this_k)
+                    goofy_k.extend([ak for ak in commits.keys() if this_k in ak])
                 if len(goofy_k) == 1:
                     c = commits[goofy_k[0]]
                     success = True
