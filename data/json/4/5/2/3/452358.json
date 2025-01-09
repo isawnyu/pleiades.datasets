@@ -1,14 +1,79 @@
 {
     "@type": "Place",
     "bbox": [
-        16.1983209,
-        38.7484213,
-        16.2324193,
-        38.7759003
+        16.06667,
+        38.85,
+        16.06667,
+        38.85
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "communicates",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/communicates",
+            "connectsTo": "https://pleiades.stoa.org/places/1356",
+            "contributors": [],
+            "created": "2025-01-08T15:37:25Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T15:37:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2025-01-08T15:37:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T15:37:25Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tyrrhenum-inferum-mare",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Gulf_of_Saint_Euphemia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Gulf of Saint Euphemia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Tyrrhenum/Inferum Mare",
+            "uri": "https://pleiades.stoa.org/places/452358/tyrrhenum-inferum-mare"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/452261"
+        "https://pleiades.stoa.org/places/1356",
+        "https://pleiades.stoa.org/places/452261",
+        "https://pleiades.stoa.org/places/452359"
     ],
     "contributors": [
         {
@@ -45,49 +110,44 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 46 D4 Lametikos Kolpos",
+    "description": "Lametikos Kolpos (sometimes also referred to as Vibonensis Sinus) is the modern-day Gulf of Saint Euphemia (Italian: Golfo di Santa Eufemia or Golfo di Sant'Eufemia) and is part of the Tyrrhenian Sea. It is located on the west coast of Calabria.",
     "details": "<p>The Barrington Atlas Directory notes: Gulf of S. Eufemia</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            38.5
-                        ],
-                        [
-                            16.5,
-                            38.5
-                        ],
-                        [
-                            16.5,
-                            39.0
-                        ],
-                        [
-                            16.0,
-                            39.0
-                        ],
-                        [
-                            16.0,
-                            38.5
-                        ]
-                    ]
+                    16.06667,
+                    38.85
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "location-of-golfo-di-santeufemia",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/452358/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "coordinates after GeoNames",
+                "link": "https://pleiades.stoa.org/places/452358/location-of-golfo-di-santeufemia",
+                "location_precision": "precise",
+                "snippet": "Water-open; AD 1700 - AD 2100",
+                "title": "GeoNames location of Golfo di Sant'Eufemia "
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-01-08T17:22:50Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Edited",
+            "modified": "2025-01-08T17:09:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary",
+            "modified": "2025-01-08T15:36:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2025-01-08T03:12:27Z",
@@ -133,110 +193,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "created": "2010-10-04T18:04:45Z",
+            "contributors": [],
+            "created": "2013-09-21T21:46:51Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "coordinates after GeoNames",
             "details": "",
-            "end": null,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "water-open"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            16.0,
-                            38.5
-                        ],
-                        [
-                            16.5,
-                            38.5
-                        ],
-                        [
-                            16.5,
-                            39.0
-                        ],
-                        [
-                            16.0,
-                            39.0
-                        ],
-                        [
-                            16.0,
-                            38.5
-                        ]
-                    ]
+                    16.06667,
+                    38.85
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:14:29Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-10-04T18:21:54Z",
+                    "modified": "2025-01-08T21:23:18Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "update reference",
+                    "modified": "2023-04-30T00:32:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-10-04T18:12:27Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-09-21T22:09:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-09-21T21:46:58Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-10-04T18:04:45Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2013-09-21T21:46:53Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "location-of-golfo-di-santeufemia",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
             ],
-            "provenance": "Barrington Atlas: BAtlas 46 D4 Lametikos Kolpos",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.geonames.org/2523267/golfo-di-sant-eufemia.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "2523267: Golfo di Sant'Eufemia",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": " ",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/452358/batlas-location"
+            "start": 1700,
+            "title": "GeoNames location of Golfo di Sant'Eufemia ",
+            "uri": "https://pleiades.stoa.org/places/452358/location-of-golfo-di-santeufemia"
         }
     ],
     "names": [
@@ -309,6 +356,448 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/452358/lametikos-kolpos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Golfo di Sant'Eufemia",
+            "contributors": [],
+            "created": "2025-01-08T15:38:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:09:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2025-01-08T15:38:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T15:38:24Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "golfo-di-santeufemia",
+            "language": "it",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q722915",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Golfo di Sant'Eufemia (Q722915)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Golfo di Sant'Eufemia",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/golfo-di-santeufemia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Gulf of Saint Euphemia",
+            "contributors": [],
+            "created": "2025-01-08T15:39:19Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:09:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-01-08T17:09:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name",
+                    "modified": "2025-01-08T15:39:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T15:39:19Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "gulf-of-saint-euphemia",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Gulf_of_Saint_Euphemia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Gulf of Saint Euphemia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Gulf of Saint Euphemia",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/gulf-of-saint-euphemia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Terinaeus sinus",
+            "contributors": [],
+            "created": "2025-01-08T17:11:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:11:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Latin name, add Pliny NH ref.",
+                    "modified": "2025-01-08T17:11:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T17:11:32Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "terinaeus-sinus",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/248/565-574",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.95.10",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Terinaeus sinus",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/terinaeus-sinus"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ἱππωνιάτης κόλπος",
+            "contributors": [],
+            "created": "2025-01-08T17:12:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:19:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Strabo reference to Greek name, set time period = R",
+                    "modified": "2025-01-08T17:18:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Greek name",
+                    "modified": "2025-01-08T17:12:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T17:12:28Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "hipponiates-kolpos",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:6.1.4",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "6.1.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Hipponiates kolpos",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/hipponiates-kolpos"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "sinus Vibonensis",
+            "contributors": [],
+            "created": "2025-01-08T17:13:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:20:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Latin name, add Pliny NH ref.",
+                    "modified": "2025-01-08T17:13:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T17:13:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "sinus-vibonensis",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/241/646-662",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.72.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "sinus Vibonensis",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/sinus-vibonensis"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                }
+            ],
+            "attested": "Τεριναῖος κόλπος",
+            "contributors": [],
+            "created": "2025-01-08T17:16:33Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -330,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:23:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T17:16:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Greek name, Thuc. ref.",
+                    "modified": "2025-01-08T17:16:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T17:16:33Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "terinaios-kolpos",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:6.104",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+                    "citationDetail": "6.104.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Thuc. Hist. (Jones; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Terinaios kolpos",
+            "start": -550,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452358/terinaios-kolpos"
         }
     ],
     "placeTypeURIs": [
@@ -342,10 +831,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://www.persee.fr/collection/btcgi",
+            "accessURI": "https://www.persee.fr/doc/btcgi_0000-0009_1990_num_8_1_3620",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
-            "citationDetail": "VIII, 417-23",
+            "citationDetail": "VIII, 417-23 s.v. \"Lamezia\" (Roberto Spadea)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
             "otherIdentifier": "",
@@ -364,12 +853,12 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Cic.%20Att.%2016.6&lang=original",
+            "accessURI": "https://latin.packhum.org/loc/474/57/435/313-323",
             "alternateURI": "",
             "bibliographicURI": "",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Cic. Att. 16.6",
+            "formattedCitation": "Cic. Epistulae ad Atticum 16.6.1.4",
             "otherIdentifier": " ",
             "shortTitle": "",
             "type": "citesAsEvidence"
@@ -395,11 +884,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg035.perseus-eng1:7.1329b",
+            "alternateURI": "",
+            "bibliographicURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "Aristot. Pol. 7.1329b",
+            "otherIdentifier": "",
+            "shortTitle": "",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        16.217113929534406,
-        38.76325675868259
+        16.06667,
+        38.85
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

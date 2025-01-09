@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -2.135509,
+        -2.1358214,
         55.025051,
         -2.135509,
-        55.025051
+        55.025087
     ],
     "connections": [
         {
@@ -177,18 +177,36 @@
         {
             "geometry": {
                 "coordinates": [
+                    -2.1358214,
+                    55.025087
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-abutment-of-roman-bridge",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/765102512/osm-location-of-abutment-of-roman-bridge",
+                "location_precision": "precise",
+                "snippet": "Bridge; AD 43 - AD 410",
+                "title": "OSM location of Abutment of Roman Bridge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -2.135509,
                     55.025051
                 ],
                 "type": "Point"
             },
-            "id": "roman-bridge-head",
+            "id": "imagery-location-roman-bridge-head",
             "properties": {
                 "description": "Ancient bridgehead west of Milecastle 27, providing link to Cilurnum",
-                "link": "https://pleiades.stoa.org/places/765102512/roman-bridge-head",
+                "link": "https://pleiades.stoa.org/places/765102512/imagery-location-roman-bridge-head",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Roman bridge head"
+                "title": "Imagery Location: Roman bridge head"
             },
             "type": "Feature"
         }
@@ -234,6 +252,100 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-08T02:51:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "bridge"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.1358214,
+                    55.025087
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:24:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T02:52:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-08T02:52:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-08T02:51:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T02:51:56Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-abutment-of-roman-bridge",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
+            ],
+            "provenance": "OpenStreetMap (Node 2003102778, version 4, osm:changeset=157206671, 2024-09-28T11:48:16Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2003102778",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2003102778",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2003102778",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Abutment of Roman Bridge",
+            "uri": "https://pleiades.stoa.org/places/765102512/osm-location-of-abutment-of-roman-bridge"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-and-geoeye-imagery-2012",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -247,7 +359,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-02-19T16:38:49Z",
             "creators": [
                 {
@@ -300,7 +419,7 @@
                     "modifiedBy": "sdunn"
                 }
             ],
-            "id": "roman-bridge-head",
+            "id": "imagery-location-roman-bridge-head",
             "locationType": [
                 "representative"
             ],
@@ -323,8 +442,8 @@
             ],
             "review_state": "published",
             "start": -30,
-            "title": "Roman bridge head",
-            "uri": "https://pleiades.stoa.org/places/765102512/roman-bridge-head"
+            "title": "Imagery Location: Roman bridge head",
+            "uri": "https://pleiades.stoa.org/places/765102512/imagery-location-roman-bridge-head"
         }
     ],
     "names": [
@@ -471,8 +590,8 @@
         }
     ],
     "reprPoint": [
-        -2.135509,
-        55.025051
+        -2.1356652,
+        55.025069
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

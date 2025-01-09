@@ -1,20 +1,91 @@
 {
     "@type": "Place",
     "bbox": [
-        25.579513,
-        35.14556,
-        25.579513,
-        35.14556
+        25.5662651,
+        35.1469233,
+        25.5662651,
+        35.1469233
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/589748",
+            "contributors": [],
+            "created": "2025-01-08T19:36:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-08T21:20:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-08T19:36:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2025-01-08T19:36:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-08T19:36:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "creta-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q6376254",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Katharo Plateau (Q6376254)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Creta (island)",
+            "uri": "https://pleiades.stoa.org/places/589854/creta-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589748"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
+        {
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +93,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-22T19:21:07Z",
@@ -36,28 +119,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 60 E2 Katharo",
-    "details": "The Barrington Atlas Directory notes: Katharo",
+    "details": "<p>The Barrington Atlas Directory notes: Katharo</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    25.579513,
-                    35.14556
+                    25.5662651,
+                    35.1469233
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-13060",
+            "id": "osm-location-of-katharon",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/589854/darmc-location-13060",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589854/osm-location-of-katharon",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 13060"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Katharon"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-08T21:22:03Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2025-01-08T19:32:53Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T20:31:50Z",
@@ -98,8 +191,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -107,103 +200,98 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:27:42Z",
+            "contributors": [],
+            "created": "2025-01-08T19:35:03Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 13060",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    25.579513,
-                    35.14556
+                    25.5662651,
+                    35.1469233
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:48:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:07:09Z",
+                    "modified": "2025-01-08T21:21:26Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:27:43Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-01-08T19:35:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:27:43Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2025-01-08T19:35:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-08T19:35:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:27:42Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-01-08T19:35:03Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-13060",
+            "id": "osm-location-of-katharon",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 13060",
+            "provenance": "OpenStreetMap (Node 5212389613, version 9, osm:changeset=140205998, 2023-08-22T02:05:10Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5212389613",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "13060",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5212389613",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 13060.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=5212389613",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 13060",
-            "uri": "https://pleiades.stoa.org/places/589854/darmc-location-13060"
+            "start": 2000,
+            "title": "OSM location of Katharon",
+            "uri": "https://pleiades.stoa.org/places/589854/osm-location-of-katharon"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 E2 Katharo",
     "references": [
@@ -219,27 +307,71 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.jstor.org/stable/1353935",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Watrous-1982",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R9AX3IN5",
+            "citationDetail": "49 (no. 34)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Watrous 1982, 49 (no. 34)",
+            "formattedCitation": "<div class=\"csl-entry\">Watrous, Livingston Vance. <i>Lasithi, a History of Settlement on a Highland Plain in Crete</i>. Hesperia (Princeton, N.J.), Supplement 18. Princeton, NJ: American School of Classical Studies at Athens, 1982. https://www.jstor.org/stable/1353935.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Watrous 1982",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Katharo",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Katharo",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q6376254",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Katharo Plateau (Q6376254)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?r=report&id=18571",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "18571: Katharo Plateau - 2023",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "13060",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.579513,
-        35.14556
+        25.5662651,
+        35.1469233
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Katharo",
     "type": "FeatureCollection",
