@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5839 alignments exist in _Pleiades_ place references as of 2025-01-08. The following list of alignments is grouped by zotkey.
+5858 alignments exist in _Pleiades_ place references as of 2025-01-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -371,6 +371,13 @@
 
 ### alignments:
  - [Semachonitis L.](https://pleiades.stoa.org/places/678385)
+
+
+## Ager Teuranus (Q131704216)
+[https://www.wikidata.org/wiki/Q131704216](https://www.wikidata.org/wiki/Q131704216)  
+
+### alignments:
+ - [Teuranus Ager](https://pleiades.stoa.org/places/452473)
 
 
 ## Agia Dynamis (Q38284225)
@@ -1360,6 +1367,13 @@
  - [Roman amphitheater at Carmo](https://pleiades.stoa.org/places/347507191)
 
 
+## Angitola (Q769543)
+[https://www.wikidata.org/wiki/Q769543](https://www.wikidata.org/wiki/Q769543)  
+
+### alignments:
+ - [Angitula (river)](https://pleiades.stoa.org/places/452261)
+
+
 ## Angkor (Q163607)
 [https://www.wikidata.org/wiki/Q163607](https://www.wikidata.org/wiki/Q163607)  
 
@@ -1465,6 +1479,13 @@
  - [Propaxos (island)](https://pleiades.stoa.org/places/531075)
 
 
+## Antiphellus (Q4775098)
+[https://www.wikidata.org/wiki/Q4775098](https://www.wikidata.org/wiki/Q4775098)  
+
+### alignments:
+ - [Antiphellos/Habesos](https://pleiades.stoa.org/places/638749)
+
+
 ## Antonine baths (Q3523842)
 [https://www.wikidata.org/wiki/Q3523842](https://www.wikidata.org/wiki/Q3523842)  
 
@@ -1477,6 +1498,13 @@
 
 ### alignments:
  - [Antron(es)](https://pleiades.stoa.org/places/540644)
+
+
+## Anzi (Q52513)
+[https://www.wikidata.org/wiki/Q52513](https://www.wikidata.org/wiki/Q52513)  
+
+### alignments:
+ - [Anxia](https://pleiades.stoa.org/places/442465)
 
 
 ## Aperlae (Q618234)
@@ -1554,6 +1582,13 @@
 
 ### alignments:
  - [Porticus Absidata](https://pleiades.stoa.org/places/245668206)
+
+
+## Aqua Anio Vetus (Q548614)
+[https://www.wikidata.org/wiki/Q548614](https://www.wikidata.org/wiki/Q548614)  
+
+### alignments:
+ - [Aqua Anio Vetus](https://pleiades.stoa.org/places/423560)
 
 
 ## Aqua Appia (Q278579)
@@ -5843,6 +5878,13 @@
  - [Iulia Concordia](https://pleiades.stoa.org/places/393441)
 
 
+## Condercum (Q5159195)
+[https://www.wikidata.org/wiki/Q5159195](https://www.wikidata.org/wiki/Q5159195)  
+
+### alignments:
+ - [Condercum](https://pleiades.stoa.org/places/89150)
+
+
 ## Confluenta (Q5782986)
 [https://www.wikidata.org/wiki/Q5782986](https://www.wikidata.org/wiki/Q5782986)  
 
@@ -8260,6 +8302,13 @@
  - [Greek Theater at Hadrian's Villa](https://pleiades.stoa.org/places/519235462)
 
 
+## Greek Theatre of Antiphellos (Q56640720)
+[https://www.wikidata.org/wiki/Q56640720](https://www.wikidata.org/wiki/Q56640720)  
+
+### alignments:
+ - [Greek Theater of Antiphellos](https://pleiades.stoa.org/places/161299463)
+
+
 ## Greek Theatre of Miletus (Q56640740)
 [https://www.wikidata.org/wiki/Q56640740](https://www.wikidata.org/wiki/Q56640740)  
 
@@ -8405,6 +8454,13 @@
 
 ### alignments:
  - [Library of Hadrian at Athens](https://pleiades.stoa.org/places/728329644)
+
+
+## Hadrian's Wall Turret 7B (Q17534356)
+[https://www.wikidata.org/wiki/Q17534356](https://www.wikidata.org/wiki/Q17534356)  
+
+### alignments:
+ - [Turret 7B (Denton)](https://pleiades.stoa.org/places/967060348)
 
 
 ## Hadrianopolis (Q65044019)
@@ -10011,6 +10067,13 @@
  - [Katakekaumene](https://pleiades.stoa.org/places/609427)
 
 
+## Katharo Plateau (Q6376254)
+[https://www.wikidata.org/wiki/Q6376254](https://www.wikidata.org/wiki/Q6376254)  
+
+### alignments:
+ - [Katharo](https://pleiades.stoa.org/places/589854)
+
+
 ## Kavousi Vronda (Q23586062)
 [https://www.wikidata.org/wiki/Q23586062](https://www.wikidata.org/wiki/Q23586062)  
 
@@ -10179,6 +10242,13 @@
  - [‘Arios’/Charieis (river)](https://pleiades.stoa.org/places/857045)
 
 
+## Kibyra (Q1643467)
+[https://www.wikidata.org/wiki/Q1643467](https://www.wikidata.org/wiki/Q1643467)  
+
+### alignments:
+ - [Cibyra](https://pleiades.stoa.org/places/638804)
+
+
 ## Kikynna (Q13446026)
 [https://www.wikidata.org/wiki/Q13446026](https://www.wikidata.org/wiki/Q13446026)  
 
@@ -10254,6 +10324,13 @@
 
 ### alignments:
  - [Kisurra](https://pleiades.stoa.org/places/797093165)
+
+
+## Kition (Q1743884)
+[https://www.wikidata.org/wiki/Q1743884](https://www.wikidata.org/wiki/Q1743884)  
+
+### alignments:
+ - [Kition](https://pleiades.stoa.org/places/707534)
 
 
 ## Kladeos (Q647970)
@@ -10450,6 +10527,13 @@
 
 ### alignments:
  - [Ksar el Kaoua](https://pleiades.stoa.org/places/285472)
+
+
+## Kuban (Q82308)
+[https://www.wikidata.org/wiki/Q82308](https://www.wikidata.org/wiki/Q82308)  
+
+### alignments:
+ - [Hypanis/Kuban (river)](https://pleiades.stoa.org/places/825273)
 
 
 ## Kunar River (Q8519)
@@ -12674,6 +12758,13 @@
  - [Milecastle 76 (Drumburgh)](https://pleiades.stoa.org/places/967060411)
 
 
+## Milecastle 77 (Q6851197)
+[https://www.wikidata.org/wiki/Q6851197](https://www.wikidata.org/wiki/Q6851197)  
+
+### alignments:
+ - [Milecastle 77 (Raven Bank)](https://pleiades.stoa.org/places/967060324)
+
+
 ## Milecastle 80 (Q6851201)
 [https://www.wikidata.org/wiki/Q6851201](https://www.wikidata.org/wiki/Q6851201)  
 
@@ -14870,6 +14961,13 @@
 
 ### alignments:
  - [Monument of Eumenes II/Agrippa](https://pleiades.stoa.org/places/573299846)
+
+
+## Peel Gap Tower (Q131707818)
+[https://www.wikidata.org/wiki/Q131707818](https://www.wikidata.org/wiki/Q131707818)  
+
+### alignments:
+ - [Peel Gap Tower](https://pleiades.stoa.org/places/967060397)
 
 
 ## Peithesa (Q124157929)
@@ -21473,13 +21571,6 @@
 
 ### alignments:
  - [Aetokremnos](https://pleiades.stoa.org/places/751079112)
-
-
-## Q17534356: Roman Turret Opposite Number 800, Bishops House (denton Hall) With Section Of Hadrian's Wall
-[https://www.wikidata.org/wiki/Q17534356](https://www.wikidata.org/wiki/Q17534356)  
-
-### alignments:
- - [Turret 7B (Denton)](https://pleiades.stoa.org/places/967060348)
 
 
 ## Q1754028: Siphnian Treasury
@@ -28826,6 +28917,13 @@
  - [Mausoleum at Halicarnassus](https://pleiades.stoa.org/places/461581651)
 
 
+## Q455765
+[https://www.wikidata.org/wiki/Q455765](https://www.wikidata.org/wiki/Q455765)  
+
+### alignments:
+ - [Lametus (river)](https://pleiades.stoa.org/places/452359)
+
+
 ## Q457362: Djémila
 [https://www.wikidata.org/wiki/Q457362](https://www.wikidata.org/wiki/Q457362)  
 
@@ -29385,13 +29483,6 @@
 
 ### alignments:
  - [Compsa](https://pleiades.stoa.org/places/442550)
-
-
-## Q5159195: Condercum
-[https://www.wikidata.org/wiki/Q5159195](https://www.wikidata.org/wiki/Q5159195)  
-
-### alignments:
- - [Condercum](https://pleiades.stoa.org/places/89150)
 
 
 ## Q516783: Temple romain de Château-Bas
@@ -36773,6 +36864,13 @@
  - [Southeast temple of the Athenian Agora](https://pleiades.stoa.org/places/34983805)
 
 
+## Southern Bug (Q188940)
+[https://www.wikidata.org/wiki/Q188940](https://www.wikidata.org/wiki/Q188940)  
+
+### alignments:
+ - [Hypanis/Southern Bug (river)](https://pleiades.stoa.org/places/226630)
+
+
 ## Southwest fountain house (Q24204673)
 [https://www.wikidata.org/wiki/Q24204673](https://www.wikidata.org/wiki/Q24204673)  
 
@@ -39471,6 +39569,27 @@
  - [Tourmanin](https://pleiades.stoa.org/places/658626)
 
 
+## Turret 22B (Stanley) (Q131708490)
+[https://www.wikidata.org/wiki/Q131708490](https://www.wikidata.org/wiki/Q131708490)  
+
+### alignments:
+ - [Turret 22B (Stanley)](https://pleiades.stoa.org/places/967060250)
+
+
+## Turret 48B (Willowford West) (Q131707149)
+[https://www.wikidata.org/wiki/Q131707149](https://www.wikidata.org/wiki/Q131707149)  
+
+### alignments:
+ - [Turret 48B (Willowford West)](https://pleiades.stoa.org/places/967060304)
+
+
+## Turret 49B (Birdoswald) (Q131706780)
+[https://www.wikidata.org/wiki/Q131706780](https://www.wikidata.org/wiki/Q131706780)  
+
+### alignments:
+ - [Turret 49B (Birdoswald)](https://pleiades.stoa.org/places/967060305)
+
+
 ## Turris ad Algam (Q106298758)
 [https://www.wikidata.org/wiki/Q106298758](https://www.wikidata.org/wiki/Q106298758)  
 
@@ -39812,6 +39931,13 @@
 
 ### alignments:
  - [Isola del Migliarino](https://pleiades.stoa.org/places/403225)
+
+
+## Veh-Ardashir (Q18358552)
+[https://www.wikidata.org/wiki/Q18358552](https://www.wikidata.org/wiki/Q18358552)  
+
+### alignments:
+ - [Veh Ardashir/Coche/Mahoza/‘Seleucia’](https://pleiades.stoa.org/places/894178)
 
 
 ## Velian Hill (Q967948)
@@ -40660,6 +40786,13 @@
 
 ### alignments:
  - [Zabala](https://pleiades.stoa.org/places/921099766)
+
+
+## Zagarolo amphitheatre (Q28978109)
+[https://www.wikidata.org/wiki/Q28978109](https://www.wikidata.org/wiki/Q28978109)  
+
+### alignments:
+ - [Il Tondo](https://pleiades.stoa.org/places/423086)
 
 
 ## Zagorus (Q65047426)

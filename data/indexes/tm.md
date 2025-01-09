@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4019 alignments exist in _Pleiades_ place references as of 2025-01-08. The following list of alignments is grouped by zotkey.
+4025 alignments exist in _Pleiades_ place references as of 2025-01-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1766,6 +1766,13 @@
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
 
 
+## Geo 42544: Hypanis (Bug)
+[https://www.trismegistos.org/place/42544](https://www.trismegistos.org/place/42544)  
+
+### alignments:
+ - [Hypanis/Southern Bug (river)](https://pleiades.stoa.org/places/226630)
+
+
 ## Geo 42604: Keria (Keros)
 [https://www.trismegistos.org/place/42604](https://www.trismegistos.org/place/42604)  
 
@@ -2121,6 +2128,13 @@
 
 ### alignments:
  - [Teumessos](https://pleiades.stoa.org/places/541133)
+
+
+## Geo 64437: Hypanis (Kuban)
+[https://www.trismegistos.org/place/64437](https://www.trismegistos.org/place/64437)  
+
+### alignments:
+ - [Hypanis/Kuban (river)](https://pleiades.stoa.org/places/825273)
 
 
 ## Geo 659: Eretria
@@ -6840,6 +6854,13 @@
 
 ### alignments:
  - [Olympus/Hadrianopolis](https://pleiades.stoa.org/places/639017)
+
+
+## GEO ID 16434: Antiphellos (Kaş)
+[https://www.trismegistos.org/place/16434](https://www.trismegistos.org/place/16434)  
+
+### alignments:
+ - [Antiphellos/Habesos](https://pleiades.stoa.org/places/638749)
 
 
 ## GEO ID 16435: Olbia
@@ -14439,6 +14460,13 @@
  - [Oplontis](https://pleiades.stoa.org/places/432992)
 
 
+## GEO ID 32524: Ponte Amato
+[https://www.trismegistos.org/place/32524](https://www.trismegistos.org/place/32524)  
+
+### alignments:
+ - [Ponte Amato](https://pleiades.stoa.org/places/426615)
+
+
 ## GEO ID 32525: Privernum (Priverno)
 [http://www.trismegistos.org/place/32525](http://www.trismegistos.org/place/32525)  
 
@@ -19550,6 +19578,13 @@
  - [Castra Hannibalis](https://pleiades.stoa.org/places/452293)
 
 
+## GEO ID 41125: Arciade
+[http://www.trismegistos.org/place/41125](http://www.trismegistos.org/place/41125)  
+
+### alignments:
+ - [Arciade](https://pleiades.stoa.org/places/452264)
+
+
 ## GEO ID 41126: Scyle (Bova Marina)
 [http://www.trismegistos.org/place/41126](http://www.trismegistos.org/place/41126)  
 
@@ -22971,6 +23006,13 @@
 
 ### alignments:
  - [Aqua Appia](https://pleiades.stoa.org/places/423562)
+
+
+## GEO ID 43551: Aqua Anio Vetus
+[https://www.trismegistos.org/place/43551](https://www.trismegistos.org/place/43551)  
+
+### alignments:
+ - [Aqua Anio Vetus](https://pleiades.stoa.org/places/423560)
 
 
 ## GEO ID 43552: Aqua Alsietina

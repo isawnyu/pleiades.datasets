@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3605 alignments exist in _Pleiades_ place references as of 2025-01-08. The following list of alignments is grouped by zotkey.
+3606 alignments exist in _Pleiades_ place references as of 2025-01-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2614,6 +2614,13 @@
 
 ### alignments:
  - [Aqua Anio Novus](https://pleiades.stoa.org/places/423559)
+
+
+## Aqua Anio Vetus (Rome)
+[https://topostext.org/place/419125AqAV](https://topostext.org/place/419125AqAV)  
+
+### alignments:
+ - [Aqua Anio Vetus](https://pleiades.stoa.org/places/423560)
 
 
 ## Aqua Appia (Rome)
@@ -10069,11 +10076,11 @@
  - [Hypana](https://pleiades.stoa.org/places/570301)
 
 
-## Hypanis river (Pontus)
+## Hypanis river (Pontus) 61 Southern Bug - Ύπανις
 [https://topostext.org/place/469320WHyp](https://topostext.org/place/469320WHyp)  
 
 ### alignments:
- - [Hypanis (river)](https://pleiades.stoa.org/places/825273)
+ - [Hypanis/Southern Bug (river)](https://pleiades.stoa.org/places/226630)
 
 
 ## Hypata (Phthiotis)
