@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-5858 alignments exist in _Pleiades_ place references as of 2025-01-09. The following list of alignments is grouped by zotkey.
+5886 alignments exist in _Pleiades_ place references as of 2025-01-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -560,6 +560,13 @@
 
 ### alignments:
  - [Ep(e)ion](https://pleiades.stoa.org/places/570226)
+
+
+## Aisne (Q41962)
+[https://www.wikidata.org/wiki/Q41962](https://www.wikidata.org/wiki/Q41962)  
+
+### alignments:
+ - [Axona (river)](https://pleiades.stoa.org/places/108779)
 
 
 ## Aixone (Q13424322)
@@ -4834,6 +4841,13 @@
  - [Mursa](https://pleiades.stoa.org/places/197389)
 
 
+## Castra of Budapest-Albertfalva (Q578687)
+[https://www.wikidata.org/wiki/Q578687](https://www.wikidata.org/wiki/Q578687)  
+
+### alignments:
+ - [Albertfalva](https://pleiades.stoa.org/places/197100)
+
+
 ## Castra of Burladingen (Q1735342)
 [https://www.wikidata.org/wiki/Q1735342](https://www.wikidata.org/wiki/Q1735342)  
 
@@ -5738,6 +5752,13 @@
  - [Kleandria](https://pleiades.stoa.org/places/554258)
 
 
+## Clearbury Ring (Q17509899)
+[https://www.wikidata.org/wiki/Q17509899](https://www.wikidata.org/wiki/Q17509899)  
+
+### alignments:
+ - [Clearbury Ring](https://pleiades.stoa.org/places/156313336)
+
+
 ## Cleonae (Q1774167)
 [https://www.wikidata.org/wiki/Q1774167](https://www.wikidata.org/wiki/Q1774167)  
 
@@ -5799,6 +5820,13 @@
 
 ### alignments:
  - [Coelbren Roman auxiliary fort](https://pleiades.stoa.org/places/219618094)
+
+
+## Coesike West Roman temporary camps 1 and 2 (Q17650343)
+[https://www.wikidata.org/wiki/Q17650343](https://www.wikidata.org/wiki/Q17650343)  
+
+### alignments:
+ - [Coesike West temporary camps](https://pleiades.stoa.org/places/941416849)
 
 
 ## Colle nocello villa (Q124172424)
@@ -7362,6 +7390,13 @@
 
 ### alignments:
  - [Euhydrion](https://pleiades.stoa.org/places/540781)
+
+
+## Eume River (Q14551)
+[https://www.wikidata.org/wiki/Q14551](https://www.wikidata.org/wiki/Q14551)  
+
+### alignments:
+ - [Ducanaris? (river)](https://pleiades.stoa.org/places/236453)
 
 
 ## Euonymon (Q5409865)
@@ -10765,7 +10800,7 @@
 [https://www.wikidata.org/wiki/Q6383](https://www.wikidata.org/wiki/Q6383)  
 
 ### alignments:
- - [Pelso L.](https://pleiades.stoa.org/places/197430)
+ - [Pelso (lake)](https://pleiades.stoa.org/places/197430)
 
 
 ## Lake Burdur (Q1010475)
@@ -11292,6 +11327,13 @@
 
 ### alignments:
  - [Lista](https://pleiades.stoa.org/places/416825)
+
+
+## Litani River (Q456415)
+[https://www.wikidata.org/wiki/Q456415](https://www.wikidata.org/wiki/Q456415)  
+
+### alignments:
+ - [Litas (river)](https://pleiades.stoa.org/places/678268)
 
 
 ## Little Ararat (Q4278782)
@@ -12561,6 +12603,13 @@
  - [Milecastle 29 (Tower Tye)](https://pleiades.stoa.org/places/967060332)
 
 
+## Milecastle 3 (Q6851168)
+[https://www.wikidata.org/wiki/Q6851168](https://www.wikidata.org/wiki/Q6851168)  
+
+### alignments:
+ - [Milecastle 3 (Ouseburn)](https://pleiades.stoa.org/places/967060312)
+
+
 ## Milecastle 35 (Q16156487)
 [https://www.wikidata.org/wiki/Q16156487](https://www.wikidata.org/wiki/Q16156487)  
 
@@ -12660,11 +12709,32 @@
  - [Milecastle 48 (Poltross Burn)](https://pleiades.stoa.org/places/967060302)
 
 
+## Milecastle 5 (Q6851185)
+[https://www.wikidata.org/wiki/Q6851185](https://www.wikidata.org/wiki/Q6851185)  
+
+### alignments:
+ - [Milecastle 5 (Quarry House)](https://pleiades.stoa.org/places/967060354)
+
+
+## Milecastle 51 (Q6851186)
+[https://www.wikidata.org/wiki/Q6851186](https://www.wikidata.org/wiki/Q6851186)  
+
+### alignments:
+ - [Milecastle 51 (Wall Bowers)](https://pleiades.stoa.org/places/967060283)
+
+
 ## Milecastle 55 (Q15378719)
 [https://www.wikidata.org/wiki/Q15378719](https://www.wikidata.org/wiki/Q15378719)  
 
 ### alignments:
  - [Milecastle 55 (Low Wall)](https://pleiades.stoa.org/places/967060237)
+
+
+## Milecastle 61 (Q16156802)
+[https://www.wikidata.org/wiki/Q16156802](https://www.wikidata.org/wiki/Q16156802)  
+
+### alignments:
+ - [Milecastle 61 (Wallhead)](https://pleiades.stoa.org/places/967060328)
 
 
 ## Milecastle 62 (Q16156809)
@@ -12716,6 +12786,20 @@
  - [Milecastle 68 (Boomby Gill)](https://pleiades.stoa.org/places/967060217)
 
 
+## Milecastle 7 (Q6851190)
+[https://www.wikidata.org/wiki/Q6851190](https://www.wikidata.org/wiki/Q6851190)  
+
+### alignments:
+ - [Milecastle 7 (Benwell Bank)](https://pleiades.stoa.org/places/967060352)
+
+
+## Milecastle 70 (Q16156917)
+[https://www.wikidata.org/wiki/Q16156917](https://www.wikidata.org/wiki/Q16156917)  
+
+### alignments:
+ - [Milecastle 70 (Braelees)](https://pleiades.stoa.org/places/967060327)
+
+
 ## Milecastle 71 (Q16206539)
 [https://www.wikidata.org/wiki/Q16206539](https://www.wikidata.org/wiki/Q16206539)  
 
@@ -12763,6 +12847,20 @@
 
 ### alignments:
  - [Milecastle 77 (Raven Bank)](https://pleiades.stoa.org/places/967060324)
+
+
+## Milecastle 79 (Q6851200)
+[https://www.wikidata.org/wiki/Q6851200](https://www.wikidata.org/wiki/Q6851200)  
+
+### alignments:
+ - [Milecastle 79 (Solway House)](https://pleiades.stoa.org/places/967060319)
+
+
+## Milecastle 8 (Q6851202)
+[https://www.wikidata.org/wiki/Q6851202](https://www.wikidata.org/wiki/Q6851202)  
+
+### alignments:
+ - [Milecastle 8 (West Denton)](https://pleiades.stoa.org/places/967060349)
 
 
 ## Milecastle 80 (Q6851201)
@@ -14254,6 +14352,13 @@
 
 ### alignments:
  - [Oion Kerameikon](https://pleiades.stoa.org/places/585936)
+
+
+## Oise (Q200231)
+[https://www.wikidata.org/wiki/Q200231](https://www.wikidata.org/wiki/Q200231)  
+
+### alignments:
+ - [Isara (river)](https://pleiades.stoa.org/places/109067)
 
 
 ## Okehampton Roman fort, fortlet and associated enclosures (Q17674536)
@@ -15908,6 +16013,13 @@
  - [Porta Salaria](https://pleiades.stoa.org/places/758962698)
 
 
+## Porta San Paolo (Q1636207)
+[https://www.wikidata.org/wiki/Q1636207](https://www.wikidata.org/wiki/Q1636207)  
+
+### alignments:
+ - [Porta Ostiensis](https://pleiades.stoa.org/places/520255117)
+
+
 ## Porta Settimiana (Q1422040)
 [https://www.wikidata.org/wiki/Q1422040](https://www.wikidata.org/wiki/Q1422040)  
 
@@ -15934,6 +16046,13 @@
 
 ### alignments:
  - [Porta Viminalis](https://pleiades.stoa.org/places/82115967)
+
+
+## Portchester Castle (Q732249)
+[https://www.wikidata.org/wiki/Q732249](https://www.wikidata.org/wiki/Q732249)  
+
+### alignments:
+ - [Portchester Castle](https://pleiades.stoa.org/places/607646886)
 
 
 ## Porte de Mars (Q1243526)
@@ -19268,6 +19387,13 @@
 
 ### alignments:
  - [Plestinus L.](https://pleiades.stoa.org/places/413265)
+
+
+## Q131720917
+[https://www.wikidata.org/wiki/Q131720917](https://www.wikidata.org/wiki/Q131720917)  
+
+### alignments:
+ - [La Loggia](https://pleiades.stoa.org/places/477172416)
 
 
 ## Q131820: Pyramid of Sahure
@@ -34680,6 +34806,13 @@
  - [Roman amphitheater at Santa Maria Capua Vetere](https://pleiades.stoa.org/places/93820013)
 
 
+## Roman aqueduct near Limonum (Q131720940)
+[https://www.wikidata.org/wiki/Q131720940](https://www.wikidata.org/wiki/Q131720940)  
+
+### alignments:
+ - [Roman aqueduct near Limonum](https://pleiades.stoa.org/places/446852118)
+
+
 ## Roman Bath House, Castleford (Q66480701)
 [https://www.wikidata.org/wiki/Q66480701](https://www.wikidata.org/wiki/Q66480701)  
 
@@ -35525,6 +35658,13 @@
 
 ### alignments:
  - [Sambraceni](https://pleiades.stoa.org/places/60666)
+
+
+## Sambre (Q208267)
+[https://www.wikidata.org/wiki/Q208267](https://www.wikidata.org/wiki/Q208267)  
+
+### alignments:
+ - [Sabis? (river)](https://pleiades.stoa.org/places/109299)
 
 
 ## Same (Q7409183)
@@ -37362,6 +37502,13 @@
  - [Tiliaventum (river)](https://pleiades.stoa.org/places/187585)
 
 
+## Tagliata Etrusca (Q131720969)
+[https://www.wikidata.org/wiki/Q131720969](https://www.wikidata.org/wiki/Q131720969)  
+
+### alignments:
+ - [Tagliata Etrusca](https://pleiades.stoa.org/places/293747172)
+
+
 ## Taglin (Q106018679)
 [https://www.wikidata.org/wiki/Q106018679](https://www.wikidata.org/wiki/Q106018679)  
 
@@ -37417,6 +37564,13 @@
 
 ### alignments:
  - [Korokondamitis/Opissas Limne](https://pleiades.stoa.org/places/854700)
+
+
+## Tambre River (Q14546)
+[https://www.wikidata.org/wiki/Q14546](https://www.wikidata.org/wiki/Q14546)  
+
+### alignments:
+ - [Tamaris (river)](https://pleiades.stoa.org/places/236676)
 
 
 ## Tammaro (Q1130883)
@@ -39015,6 +39169,13 @@
  - [Torre degli Embrici](https://pleiades.stoa.org/places/35287426)
 
 
+## Torre dei Conti (Q605721)
+[https://www.wikidata.org/wiki/Q605721](https://www.wikidata.org/wiki/Q605721)  
+
+### alignments:
+ - [Torre dei Conti](https://pleiades.stoa.org/places/728475463)
+
+
 ## Torre delle Milizie (Q2547165)
 [https://www.wikidata.org/wiki/Q2547165](https://www.wikidata.org/wiki/Q2547165)  
 
@@ -39576,6 +39737,27 @@
  - [Turret 22B (Stanley)](https://pleiades.stoa.org/places/967060250)
 
 
+## Turret 30A (Carrowburgh East) (Q131721667)
+[https://www.wikidata.org/wiki/Q131721667](https://www.wikidata.org/wiki/Q131721667)  
+
+### alignments:
+ - [Turret 30A (Carrowburgh East)](https://pleiades.stoa.org/places/967060336)
+
+
+## Turret 33B (Coesike) (Q131717661)
+[https://www.wikidata.org/wiki/Q131717661](https://www.wikidata.org/wiki/Q131717661)  
+
+### alignments:
+ - [Turret 33B (Coesike)](https://pleiades.stoa.org/places/967060270)
+
+
+## Turret 47B (Gap) (Q131721681)
+[https://www.wikidata.org/wiki/Q131721681](https://www.wikidata.org/wiki/Q131721681)  
+
+### alignments:
+ - [Turret 47B (Gap)](https://pleiades.stoa.org/places/967060339)
+
+
 ## Turret 48B (Willowford West) (Q131707149)
 [https://www.wikidata.org/wiki/Q131707149](https://www.wikidata.org/wiki/Q131707149)  
 
@@ -39588,6 +39770,13 @@
 
 ### alignments:
  - [Turret 49B (Birdoswald)](https://pleiades.stoa.org/places/967060305)
+
+
+## Turret 5A (Q131721732)
+[https://www.wikidata.org/wiki/Q131721732](https://www.wikidata.org/wiki/Q131721732)  
+
+### alignments:
+ - [Turret 5A](https://pleiades.stoa.org/places/967060355)
 
 
 ## Turris ad Algam (Q106298758)
@@ -40359,6 +40548,13 @@
 
 ### alignments:
  - [Villar de don Pardo](https://pleiades.stoa.org/places/716077481)
+
+
+## Vil·la romana de Sant Amanç (Q106117107)
+[https://www.wikidata.org/wiki/Q106117107](https://www.wikidata.org/wiki/Q106117107)  
+
+### alignments:
+ - [Sant Amanç de Viladés](https://pleiades.stoa.org/places/623547528)
 
 
 ## Viminacium (Q1231824)

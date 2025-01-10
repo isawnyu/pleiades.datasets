@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4025 alignments exist in _Pleiades_ place references as of 2025-01-09. The following list of alignments is grouped by zotkey.
+4026 alignments exist in _Pleiades_ place references as of 2025-01-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8569,6 +8569,13 @@
 
 ### alignments:
  - [‘Coccuveda’ (river)](https://pleiades.stoa.org/places/89147)
+
+
+## GEO ID 19807: Horrea Classis
+[https://www.trismegistos.org/place/19807](https://www.trismegistos.org/place/19807)  
+
+### alignments:
+ - [Horrea Classis/Horrea](https://pleiades.stoa.org/places/92149)
 
 
 ## GEO ID 19817: Ugrulentum
