@@ -61,6 +61,24 @@
         {
             "geometry": {
                 "coordinates": [
+                    -2.3239708,
+                    54.5213321
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-verterae",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/89312/osm-location-of-verterae",
+                "location_precision": "precise",
+                "snippet": "Fort-2; AD 43 - AD 410",
+                "title": "OSM location of Verterae"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             -2.324397,
@@ -86,13 +104,13 @@
                 ],
                 "type": "Polygon"
             },
-            "id": "boundary-of-fort-walls",
+            "id": "imagery-location-approximate-boundary-of-fort-walls",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/89312/boundary-of-fort-walls",
+                "link": "https://pleiades.stoa.org/places/89312/imagery-location-approximate-boundary-of-fort-walls",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Boundary of fort walls"
+                "title": "Imagery Location: Approximate boundary of fort walls"
             },
             "type": "Feature"
         }
@@ -178,6 +196,100 @@
     "locations": [
         {
             "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
+                }
+            ],
+            "contributors": [],
+            "created": "2024-12-20T15:20:53Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.3239708,
+                    54.5213321
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-09T20:22:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-12-20T15:21:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2024-12-20T15:21:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-20T15:20:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-12-20T15:20:53Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-verterae",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Node 434334334, version 7, osm:changeset=156969024, 2024-09-22T20:53:20Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/434334334",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 434334334",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=434334334",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 43,
+            "title": "OSM location of Verterae",
+            "uri": "https://pleiades.stoa.org/places/89312/osm-location-of-verterae"
+        },
+        {
+            "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
             "accuracy_value": 5.0,
             "archaeologicalRemains": "unknown",
@@ -197,7 +309,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2012-02-05T17:51:11Z",
             "creators": [
                 {
@@ -270,7 +389,7 @@
                     "modifiedBy": "sarcanon"
                 }
             ],
-            "id": "boundary-of-fort-walls",
+            "id": "imagery-location-approximate-boundary-of-fort-walls",
             "locationType": [
                 "representative"
             ],
@@ -281,8 +400,8 @@
             "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Boundary of fort walls",
-            "uri": "https://pleiades.stoa.org/places/89312/boundary-of-fort-walls"
+            "title": "Imagery Location: Approximate boundary of fort walls",
+            "uri": "https://pleiades.stoa.org/places/89312/imagery-location-approximate-boundary-of-fort-walls"
         }
     ],
     "names": [
@@ -560,8 +679,8 @@
         }
     ],
     "reprPoint": [
-        -2.3236738050528625,
-        54.52140814659407
+        -2.3238223025264313,
+        54.52137012329703
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

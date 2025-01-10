@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         12.4877744,
-        41.893609,
-        12.4879193,
+        41.8934516,
+        12.488118,
         41.8937024
     ],
     "connections": [
@@ -85,32 +85,63 @@
             "geometry": {
                 "coordinates": [
                     [
-                        12.4877744,
-                        41.893609
+                        [
+                            12.4879639,
+                            41.8934516
+                        ],
+                        [
+                            12.4877744,
+                            41.893609
+                        ]
                     ],
                     [
-                        12.4879037,
-                        41.8936923
+                        [
+                            12.4877744,
+                            41.893609
+                        ],
+                        [
+                            12.4879037,
+                            41.8936923
+                        ],
+                        [
+                            12.4879193,
+                            41.8937024
+                        ]
                     ],
                     [
-                        12.4879193,
-                        41.8937024
+                        [
+                            12.4879193,
+                            41.8937024
+                        ],
+                        [
+                            12.488118,
+                            41.8935564
+                        ],
+                        [
+                            12.4879639,
+                            41.8934516
+                        ]
                     ]
                 ],
-                "type": "LineString"
+                "type": "MultiLineString"
             },
-            "id": "osm-location",
+            "id": "osm-location-torre-dei-conti",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/728475463/osm-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/728475463/osm-location-torre-dei-conti",
                 "location_precision": "precise",
-                "snippet": "Fort, ; AD 640 - AD 1453",
-                "title": "OSM location"
+                "snippet": "Tower-defensive; AD 1200 - AD 2100",
+                "title": "OSM location: Torre dei Conti"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q605721",
+            "modified": "2025-01-09T21:17:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2021-10-10T12:51:14Z",
@@ -150,12 +181,18 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "mediaeval-byzantine",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
+                    "timePeriod": "thirteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/thirteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
             "contributors": [],
-            "created": "2014-09-24T17:37:38Z",
+            "created": "2024-12-21T04:42:34Z",
             "creators": [
                 {
                     "homepage": null,
@@ -164,92 +201,115 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 1453,
+            "end": 2100,
             "featureType": [
-                "fort",
-                ""
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        12.4877744,
-                        41.893609
+                        [
+                            12.4879639,
+                            41.8934516
+                        ],
+                        [
+                            12.4877744,
+                            41.893609
+                        ]
                     ],
                     [
-                        12.4879037,
-                        41.8936923
+                        [
+                            12.4877744,
+                            41.893609
+                        ],
+                        [
+                            12.4879037,
+                            41.8936923
+                        ],
+                        [
+                            12.4879193,
+                            41.8937024
+                        ]
                     ],
                     [
-                        12.4879193,
-                        41.8937024
+                        [
+                            12.4879193,
+                            41.8937024
+                        ],
+                        [
+                            12.488118,
+                            41.8935564
+                        ],
+                        [
+                            12.4879639,
+                            41.8934516
+                        ]
                     ]
                 ],
-                "type": "LineString"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Reimported full way geometry and updated provenance",
-                    "modified": "2024-12-21T04:41:52Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2021-10-10T12:51:14Z",
+                    "modified": "2025-01-09T20:19:04Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2015-05-16T19:47:57Z",
+                    "modified": "2024-12-21T15:55:35Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added location",
-                    "modified": "2014-09-24T17:38:10Z",
+                    "comment": "Edited",
+                    "modified": "2024-12-21T15:55:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "supersedes previously published location whose underlying OSM data is now deprecated",
+                    "modified": "2024-12-21T04:42:56Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-09-24T17:37:43Z",
+                    "modified": "2024-12-21T04:42:34Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2014-09-24T17:37:41Z",
+                    "modified": "2024-12-21T04:42:34Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location",
+            "id": "osm-location-torre-dei-conti",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "OpenStreetMap (Way 140264384, version 3, osm:changeset=112763149, 2021-10-20T20:59:31Z)",
+            "provenance": "OpenStreetMap (Relation 1899644, version 25, osm:changeset=149775072, 2024-04-09T12:21:25Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/way/140264384",
+                    "accessURI": "https://www.openstreetmap.org/browse/relation/1899644",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Way 140264384",
+                    "citationDetail": "Relation 1899644",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:way=140264384",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:relation=1899644",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 640,
-            "title": "OSM location",
-            "uri": "https://pleiades.stoa.org/places/728475463/osm-location"
+            "start": 1200,
+            "title": "OSM location: Torre dei Conti",
+            "uri": "https://pleiades.stoa.org/places/728475463/osm-location-torre-dei-conti"
         }
     ],
     "names": [],
@@ -273,11 +333,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q605721",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Torre dei Conti (Q605721)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.487846860149158,
-        41.89365568428524
+        12.487945513557511,
+        41.893578616320205
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
