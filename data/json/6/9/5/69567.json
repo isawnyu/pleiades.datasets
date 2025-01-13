@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         -2.552199,
-        49.46466,
-        -2.552199,
+        49.4568142,
+        -2.5389979,
         49.46466
     ],
     "connections": [
@@ -92,7 +92,7 @@
         }
     ],
     "description": "St-Peter-Port is a port city on the island of Guernsey.",
-    "details": "The Barrington Atlas Directory notes: St-Peter-Port, UKG",
+    "details": "<p>The Barrington Atlas Directory notes: St-Peter-Port, UKG</p>",
     "features": [
         {
             "geometry": {
@@ -111,9 +111,37 @@
                 "title": "DARMC location 24871"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.5389979,
+                    49.4568142
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-saint-peter-port",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/69567/osm-location-of-saint-peter-port",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Saint Peter Port"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-12T13:28:24Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "wikidata Saint Peter Port (Q174262)",
+            "modified": "2025-01-11T00:53:00Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "edited description; added references",
             "modified": "2013-04-21T23:16:38Z",
@@ -265,16 +293,112 @@
             "start": -330,
             "title": "DARMC location 24871",
             "uri": "https://pleiades.stoa.org/places/69567/darmc-location-24871"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-11T00:51:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    -2.5389979,
+                    49.4568142
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-12T13:27:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-11T00:52:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2025-01-11T00:52:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-11T00:51:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-11T00:51:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-saint-peter-port",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 116359720, version 31, osm:changeset=159915514, 2024-12-04T11:41:52Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/116359720",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 116359720",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=116359720",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Saint Peter Port",
+            "uri": "https://pleiades.stoa.org/places/69567/osm-location-of-saint-peter-port"
         }
     ],
     "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 7 D2 St-Peter-Port",
     "references": [
@@ -292,12 +416,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Burns-1996",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5ZWGNDVI",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Burns 1996",
+            "formattedCitation": "<div class=\"csl-entry\">Cunliffe, Barry W, Bob Burns, Heather Sebire, and Mike Allen. <i>Guernsey: An Island Community of the Atlantic Iron Age</i>. Monograph (University of Oxford. Committee for Archaeology) 43. Oxford: Oxford University Committee for Archaeology, Institute of Archaeology, 1996.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Burns 1996",
             "type": "seeFurther"
         },
         {
@@ -310,11 +434,33 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q174262",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Saint Peter Port (Q174262)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24871",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -2.552199,
-        49.46466
+        -2.54559845,
+        49.4607371
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
