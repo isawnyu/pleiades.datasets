@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4026 alignments exist in _Pleiades_ place references as of 2025-01-10. The following list of alignments is grouped by zotkey.
+4031 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5849,7 +5849,7 @@
  - [Fishbourne](https://pleiades.stoa.org/places/79466)
 
 
-## GEO ID 15216
+## GEO ID 15216: Falkirk
 [http://www.trismegistos.org/place/15216](http://www.trismegistos.org/place/15216)  
 
 ### alignments:
@@ -7171,6 +7171,13 @@
  - [Tiberias](https://pleiades.stoa.org/places/678431)
 
 
+## GEO ID 16887: Emmaous (Amwas)
+[http://www.trismegistos.org/place/16887](http://www.trismegistos.org/place/16887)  
+
+### alignments:
+ - [Emmaus/Nicopolis](https://pleiades.stoa.org/places/687891)
+
+
 ## GEO ID 1688: Pergamon (Bergama)
 [https://www.trismegistos.org/place/1688](https://www.trismegistos.org/place/1688)  
 
@@ -7246,6 +7253,13 @@
 
 ### alignments:
  - [Simitthu](https://pleiades.stoa.org/places/315174)
+
+
+## GEO ID 1704: Persis
+[https://www.trismegistos.org/place/1704](https://www.trismegistos.org/place/1704)  
+
+### alignments:
+ - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
 ## GEO ID 17050: Thignica (Henchir Ain Tounga)
@@ -17820,6 +17834,13 @@
  - [Phasis/Rheon (river)](https://pleiades.stoa.org/places/863867)
 
 
+## GEO ID 38201: Vani
+[https://www.trismegistos.org/place/38201](https://www.trismegistos.org/place/38201)  
+
+### alignments:
+ - [Vani](https://pleiades.stoa.org/places/863918)
+
+
 ## GEO ID 3820: Byblos (Jubayl)
 [http://www.trismegistos.org/place/3820](http://www.trismegistos.org/place/3820)  
 
@@ -27144,6 +27165,13 @@
  - [Heliopolis](https://pleiades.stoa.org/places/727117)
 
 
+## GEO ID 762: Greece
+[http://www.trismegistos.org/place/762](http://www.trismegistos.org/place/762)  
+
+### alignments:
+ - [Hellas](https://pleiades.stoa.org/places/1001896)
+
+
 ## GEO ID 7646: Tmonpiteb
 [http://www.trismegistos.org/place/7646](http://www.trismegistos.org/place/7646)  
 
@@ -27430,6 +27458,13 @@
 
 ### alignments:
  - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
+
+
+## GEO ID 855: Spain
+[https://www.trismegistos.org/place/855](https://www.trismegistos.org/place/855)  
+
+### alignments:
+ - [Hispania](https://pleiades.stoa.org/places/1027)
 
 
 ## GEO ID 8569: Sebennytes Ano

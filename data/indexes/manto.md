@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-590 alignments exist in _Pleiades_ place references as of 2025-01-10. The following list of alignments is grouped by zotkey.
+592 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1961,6 +1961,13 @@
  - [Babylon](https://pleiades.stoa.org/places/893951)
 
 
+## 11300807: Persia
+[https://resource.manto.unh.edu/11300807](https://resource.manto.unh.edu/11300807)  
+
+### alignments:
+ - [Persis/Pars](https://pleiades.stoa.org/places/922698)
+
+
 ## 11302746: the House of Cacios (Rome)
 [https://resource.manto.unh.edu/11302746](https://resource.manto.unh.edu/11302746)  
 
@@ -3067,6 +3074,13 @@
 
 ### alignments:
  - [Korykion Antron (Kilikia)](https://pleiades.stoa.org/places/44420465)
+
+
+## 9055592: Mount Casios (Assyria)
+[https://resource.manto.unh.edu/9055592](https://resource.manto.unh.edu/9055592)  
+
+### alignments:
+ - [Jebel al-ʾAqraʿ](https://pleiades.stoa.org/places/668224)
 
 
 ## 9055602: Mount Aitna (Sicily)

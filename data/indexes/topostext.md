@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3606 alignments exist in _Pleiades_ place references as of 2025-01-10. The following list of alignments is grouped by zotkey.
+3612 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2908,6 +2908,13 @@
 
 ### alignments:
  - [Aregenoua](https://pleiades.stoa.org/places/69468)
+
+
+## Areiopagos (Athens)
+[https://topostext.org/place/380237LAre](https://topostext.org/place/380237LAre)  
+
+### alignments:
+ - [Areopagus](https://pleiades.stoa.org/places/969121823)
 
 
 ## Arethousa (Sicily)
@@ -10125,6 +10132,13 @@
  - [Hyria (Naxos)](https://pleiades.stoa.org/places/599661)
 
 
+## Hyrkania region (Asia)
+[https://topostext.org/place/370546RHyr](https://topostext.org/place/370546RHyr)  
+
+### alignments:
+ - [Varkana/Hyrcania/Gurgan](https://pleiades.stoa.org/places/942333)
+
+
 ## Hyrkanian Sea (Asia)
 [https://topostext.org/place/400516WHyr](https://topostext.org/place/400516WHyr)  
 
@@ -10193,6 +10207,13 @@
 
 ### alignments:
  - [*Iaza](https://pleiades.stoa.org/places/609412)
+
+
+## Iberia/Hispania (Iberia)
+[https://topostext.org/place/390000RIbe](https://topostext.org/place/390000RIbe)  
+
+### alignments:
+ - [Hispania](https://pleiades.stoa.org/places/1027)
 
 
 ## Ichnai (Thessaloniki)
@@ -15335,6 +15356,13 @@
  - [Mounichia Limen](https://pleiades.stoa.org/places/580029)
 
 
+## Mouseion Hill (Athens)
+[https://topostext.org/place/380237LMus](https://topostext.org/place/380237LMus)  
+
+### alignments:
+ - [Mouseion Hill](https://pleiades.stoa.org/places/968858713)
+
+
 ## Munda (Iberia)
 [https://topostext.org/place/374000UMun](https://topostext.org/place/374000UMun)  
 
@@ -18026,6 +18054,13 @@
 
 ### alignments:
  - [Persepolis/Parsa/Persai/Sat Setun](https://pleiades.stoa.org/places/922695)
+
+
+## Persia (Asia) 4008 Fars - Περσία
+[https://topostext.org/place/295540RPer](https://topostext.org/place/295540RPer)  
+
+### alignments:
+ - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
 ## Perusia (Italy)
@@ -21402,6 +21437,13 @@
 
 ### alignments:
  - [Murus Servii Tullii](https://pleiades.stoa.org/places/103808101)
+
+
+## Sestinum (Italy) 1 Sestino
+[https://topostext.org/place/437123USes](https://topostext.org/place/437123USes)  
+
+### alignments:
+ - [Sestinum](https://pleiades.stoa.org/places/413315)
 
 
 ## Sestos (Thrace)
