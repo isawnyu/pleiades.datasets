@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3612 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
+3614 alignments exist in _Pleiades_ place references as of 2025-01-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8890,6 +8890,13 @@
  - [Gorditanum Pr.](https://pleiades.stoa.org/places/471936)
 
 
+## Gordyene (Asia)
+[https://topostext.org/place/375433RGor](https://topostext.org/place/375433RGor)  
+
+### alignments:
+ - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
+
+
 ## Goritsa Neromyloi site (Pella)
 [https://topostext.org/place/410222XGoN](https://topostext.org/place/410222XGoN)  
 
@@ -12238,6 +12245,13 @@
 
 ### alignments:
  - [Kotilion (mountain)](https://pleiades.stoa.org/places/570377)
+
+
+## Kotyora (Pontus)
+[https://topostext.org/place/379410UKot](https://topostext.org/place/379410UKot)  
+
+### alignments:
+ - [Kotyora](https://pleiades.stoa.org/places/857200)
 
 
 ## Koukos site (Thasos) Astris

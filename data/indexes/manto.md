@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-592 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
+595 alignments exist in _Pleiades_ place references as of 2025-01-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2172,6 +2172,13 @@
  - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
+## 11310367: Gordyene (Mesopotamia)
+[https://resource.manto.unh.edu/11310367](https://resource.manto.unh.edu/11310367)  
+
+### alignments:
+ - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
+
+
 ## 11311527: Astyra (Troad)
 [https://resource.manto.unh.edu/11311527](https://resource.manto.unh.edu/11311527)  
 
@@ -2401,6 +2408,13 @@
 
 ### alignments:
  - [Marathon](https://pleiades.stoa.org/places/580021)
+
+
+## 8190052: the Symplegades
+[https://resource.manto.unh.edu/8190052](https://resource.manto.unh.edu/8190052)  
+
+### alignments:
+ - [Symplegades/Kyaneai (islands)](https://pleiades.stoa.org/places/521160)
 
 
 ## 8190499: The Areiopagos (Athens)
@@ -3494,6 +3508,13 @@
 
 ### alignments:
  - [Coronea](https://pleiades.stoa.org/places/540717)
+
+
+## 9688190: Enete (Paphlagonia)
+[https://resource.manto.unh.edu/9688190](https://resource.manto.unh.edu/9688190)  
+
+### alignments:
+ - [Enete](https://pleiades.stoa.org/places/847875)
 
 
 ## 9688193: River Parthenios (Paphlagonia)

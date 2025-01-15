@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4031 alignments exist in _Pleiades_ place references as of 2025-01-13. The following list of alignments is grouped by zotkey.
+4045 alignments exist in _Pleiades_ place references as of 2025-01-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5113,6 +5113,13 @@
  - [Venta](https://pleiades.stoa.org/places/79733)
 
 
+## GEO ID 14527: Colania (Camelon)
+[http://www.trismegistos.org/place/14527](http://www.trismegistos.org/place/14527)  
+
+### alignments:
+ - [Colani(c)a?](https://pleiades.stoa.org/places/89148)
+
+
 ## GEO ID 14529: Corda (Castledykes)
 [http://www.trismegistos.org/place/14529](http://www.trismegistos.org/place/14529)  
 
@@ -5903,6 +5910,13 @@
 
 ### alignments:
  - [Danum?](https://pleiades.stoa.org/places/79412)
+
+
+## GEO ID 15282: Croy Hill
+[http://www.trismegistos.org/place/15282](http://www.trismegistos.org/place/15282)  
+
+### alignments:
+ - [Croy Hill](https://pleiades.stoa.org/places/89155)
 
 
 ## GEO ID 15293
@@ -9915,6 +9929,13 @@
  - [Ad Fines](https://pleiades.stoa.org/places/383545)
 
 
+## GEO ID 22465: Bergintrum (Bourg-Saint-Maurice)
+[https://www.trismegistos.org/place/22465](https://www.trismegistos.org/place/22465)  
+
+### alignments:
+ - [Bergintrum](https://pleiades.stoa.org/places/167675)
+
+
 ## GEO ID 22478: Octodurus (Martigny)
 [https://www.trismegistos.org/place/22478](https://www.trismegistos.org/place/22478)  
 
@@ -12434,6 +12455,13 @@
 
 ### alignments:
  - [Melite (island)](https://pleiades.stoa.org/places/197376)
+
+
+## GEO ID 29420: Andetrium (Muć)
+[http://www.trismegistos.org/place/29420](http://www.trismegistos.org/place/29420)  
+
+### alignments:
+ - [Andetrium](https://pleiades.stoa.org/places/197115)
 
 
 ## GEO ID 29423: Aenona (Nin)
@@ -15755,6 +15783,13 @@
  - [Phyllos](https://pleiades.stoa.org/places/541056)
 
 
+## GEO ID 3342: Argentorate (Strasbourg)
+[http://www.trismegistos.org/place/3342](http://www.trismegistos.org/place/3342)  
+
+### alignments:
+ - [Argentorate](https://pleiades.stoa.org/places/108754)
+
+
 ## GEO ID 3343: Augustobona (Troyes)
 [http://www.trismegistos.org/place/3343](http://www.trismegistos.org/place/3343)  
 
@@ -16889,7 +16924,7 @@
  - [Heraclea ad Latmum/Pleistarcheia](https://pleiades.stoa.org/places/599640)
 
 
-## GEO ID 3621
+## GEO ID 3621: Hellespontos (Çanakkale Boğazı)
 [https://www.trismegistos.org/place/3621](https://www.trismegistos.org/place/3621)  
 
 ### alignments:
@@ -18115,6 +18150,13 @@
  - [Babylon](https://pleiades.stoa.org/places/727082)
 
 
+## GEO ID 389: Babylon (Fostat)
+[https://www.trismegistos.org/place/389](https://www.trismegistos.org/place/389)  
+
+### alignments:
+ - [Babylon](https://pleiades.stoa.org/places/727082)
+
+
 ## GEO ID 3901: Bonchis (Abshek)
 [https://www.trismegistos.org/place/3901](https://www.trismegistos.org/place/3901)  
 
@@ -18533,6 +18575,13 @@
 
 ### alignments:
  - [Aemate](https://pleiades.stoa.org/places/197093)
+
+
+## GEO ID 40457: Perniciacum (Braives)
+[http://www.trismegistos.org/place/40457](http://www.trismegistos.org/place/40457)  
+
+### alignments:
+ - [Perniciacum?](https://pleiades.stoa.org/places/109245)
 
 
 ## GEO ID 40471: Calloniana
@@ -20159,7 +20208,7 @@
  - [Olcinium/Vicinium](https://pleiades.stoa.org/places/481931)
 
 
-## GEO ID 41596
+## GEO ID 41596: Andesina
 [http://www.trismegistos.org/place/41596](http://www.trismegistos.org/place/41596)  
 
 ### alignments:
@@ -21321,6 +21370,13 @@
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
 
 
+## GEO ID 42088: Bathys Limen
+[https://www.trismegistos.org/place/42088](https://www.trismegistos.org/place/42088)  
+
+### alignments:
+ - [Bathys Limen/Portus Altus](https://pleiades.stoa.org/places/857060)
+
+
 ## GEO ID 42089: Choloe (Dörtyol)
 [https://www.trismegistos.org/place/42089](https://www.trismegistos.org/place/42089)  
 
@@ -22035,11 +22091,25 @@
  - [Iovis Tifatinus](https://pleiades.stoa.org/places/291605573)
 
 
+## GEO ID 42493: Cubin
+[https://www.trismegistos.org/place/42493](https://www.trismegistos.org/place/42493)  
+
+### alignments:
+ - [Cubin](https://pleiades.stoa.org/places/824065916)
+
+
 ## GEO ID 42495: Paropamisos (Hindukush)
 [http://www.trismegistos.org/place/42495](http://www.trismegistos.org/place/42495)  
 
 ### alignments:
  - [Hindu Kush (mountains)](https://pleiades.stoa.org/places/59983)
+
+
+## GEO ID 42496: Terento
+[https://www.trismegistos.org/place/42496](https://www.trismegistos.org/place/42496)  
+
+### alignments:
+ - [Terento](https://pleiades.stoa.org/places/209186396)
 
 
 ## GEO ID 42497: Ad Palmam
@@ -24319,6 +24389,13 @@
  - [Arnus (river)](https://pleiades.stoa.org/places/403181)
 
 
+## GEO ID 46411
+[http://www.trismegistos.org/place/46411](http://www.trismegistos.org/place/46411)  
+
+### alignments:
+ - [Boukation?](https://pleiades.stoa.org/places/540693)
+
+
 ## GEO ID 46415: Tifata
 [http://www.trismegistos.org/place/46415](http://www.trismegistos.org/place/46415)  
 
@@ -24725,6 +24802,13 @@
  - [Campania](https://pleiades.stoa.org/places/432742)
 
 
+## GEO ID 48210: Gordyene (Bohtan)
+[http://www.trismegistos.org/place/48210](http://www.trismegistos.org/place/48210)  
+
+### alignments:
+ - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
+
+
 ## GEO ID 48243: Qasr Serij
 [http://www.trismegistos.org/place/48243](http://www.trismegistos.org/place/48243)  
 
@@ -25011,6 +25095,13 @@
 
 ### alignments:
  - [Phoinikon](https://pleiades.stoa.org/places/786091)
+
+
+## GEO ID 50370: Margara
+[https://www.trismegistos.org/place/50370](https://www.trismegistos.org/place/50370)  
+
+### alignments:
+ - [Margara](https://pleiades.stoa.org/places/50687)
 
 
 ## GEO ID 50420
@@ -25951,6 +26042,13 @@
 
 ### alignments:
  - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
+
+
+## GEO ID 59862: Kotyora (Ordu)
+[https://www.trismegistos.org/place/59862](https://www.trismegistos.org/place/59862)  
+
+### alignments:
+ - [Kotyora](https://pleiades.stoa.org/places/857200)
 
 
 ## GEO ID 60100: Themiskyra (Terme)
