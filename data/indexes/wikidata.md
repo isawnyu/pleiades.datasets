@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6104 alignments exist in _Pleiades_ place references as of 2025-01-15. The following list of alignments is grouped by zotkey.
+6119 alignments exist in _Pleiades_ place references as of 2025-01-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -294,6 +294,13 @@
 
 ### alignments:
  - [Adro Vello](https://pleiades.stoa.org/places/93604430)
+
+
+## Aedicula tomb of Publius Vesonius Phileros (Q108322786)
+[https://www.wikidata.org/wiki/Q108322786](https://www.wikidata.org/wiki/Q108322786)  
+
+### alignments:
+ - [Tomb of Publius Vesonius Phileros ](https://pleiades.stoa.org/places/792436981)
 
 
 ## Aedui (Q677863)
@@ -1437,6 +1444,13 @@
  - [Angkor Thom](https://pleiades.stoa.org/places/364279264)
 
 
+## Angrivarii (Q83150)
+[https://www.wikidata.org/wiki/Q83150](https://www.wikidata.org/wiki/Q83150)  
+
+### alignments:
+ - [Angrivarii](https://pleiades.stoa.org/places/98913)
+
+
 ## Anguillara Sabazia (Q241693)
 [https://www.wikidata.org/wiki/Q241693](https://www.wikidata.org/wiki/Q241693)  
 
@@ -1680,6 +1694,13 @@
 
 ### alignments:
  - [Aqueduct of the Gier](https://pleiades.stoa.org/places/812127749)
+
+
+## Aquileia (Q2859274)
+[https://www.wikidata.org/wiki/Q2859274](https://www.wikidata.org/wiki/Q2859274)  
+
+### alignments:
+ - [Aquileia](https://pleiades.stoa.org/places/187290)
 
 
 ## Aquis Querquennis (Q3394481)
@@ -3411,6 +3432,13 @@
 
 ### alignments:
  - [Bembina](https://pleiades.stoa.org/places/573141)
+
+
+## Bentumersiel (Q1610815)
+[https://www.wikidata.org/wiki/Q1610815](https://www.wikidata.org/wiki/Q1610815)  
+
+### alignments:
+ - [Bentumersiel](https://pleiades.stoa.org/places/98924)
 
 
 ## Bepara (Q21496520)
@@ -8981,6 +9009,13 @@
  - [Guild Temple and Mithraeum of Fructosus](https://pleiades.stoa.org/places/352230499)
 
 
+## Guldara stupa (Q5617331)
+[https://www.wikidata.org/wiki/Q5617331](https://www.wikidata.org/wiki/Q5617331)  
+
+### alignments:
+ - [Guldara Stupa](https://pleiades.stoa.org/places/909832408)
+
+
 ## Gulf of Fethiye (Q1536321)
 [https://www.wikidata.org/wiki/Q1536321](https://www.wikidata.org/wiki/Q1536321)  
 
@@ -13906,6 +13941,13 @@
  - [Monte Falterona](https://pleiades.stoa.org/places/676201591)
 
 
+## Monte Rovello (Q65129683)
+[https://www.wikidata.org/wiki/Q65129683](https://www.wikidata.org/wiki/Q65129683)  
+
+### alignments:
+ - [Monte Rovello](https://pleiades.stoa.org/places/989027460)
+
+
 ## Monte Sacro (Q1234576)
 [https://www.wikidata.org/wiki/Q1234576](https://www.wikidata.org/wiki/Q1234576)  
 
@@ -14753,6 +14795,13 @@
  - [Brigantio](https://pleiades.stoa.org/places/167690)
 
 
+## Noushijan Tappe (Q5951381)
+[https://www.wikidata.org/wiki/Q5951381](https://www.wikidata.org/wiki/Q5951381)  
+
+### alignments:
+ - [Tepe Nush-i Jan](https://pleiades.stoa.org/places/903131)
+
+
 ## Novi Banovci (Q779333)
 [https://www.wikidata.org/wiki/Q779333](https://www.wikidata.org/wiki/Q779333)  
 
@@ -14863,6 +14912,13 @@
 
 ### alignments:
  - [Nuraghe Goni](https://pleiades.stoa.org/places/800924137)
+
+
+## nuraghe La Prisgiona (Q1582077)
+[https://www.wikidata.org/wiki/Q1582077](https://www.wikidata.org/wiki/Q1582077)  
+
+### alignments:
+ - [Nuraghe la Prisciona](https://pleiades.stoa.org/places/962538927)
 
 
 ## nuraghe Loelle (Q14969997)
@@ -16930,6 +16986,13 @@
  - [Porta Naevia](https://pleiades.stoa.org/places/37637607)
 
 
+## Porta Nocera (Q125810166)
+[https://www.wikidata.org/wik/Q125810166](https://www.wikidata.org/wik/Q125810166)  
+
+### alignments:
+ - [Porta Nocera](https://pleiades.stoa.org/places/11924821)
+
+
 ## Porta Nola (Q125996673)
 [https://www.wikidata.org/wiki/Q125996673](https://www.wikidata.org/wiki/Q125996673)  
 
@@ -18489,13 +18552,6 @@
 
 ### alignments:
  - [Khwaja Hafiz](https://pleiades.stoa.org/places/971805)
-
-
-## Q108322786: Aedicula tomb of Publius Vesonius Phileros
-[https://www.wikidata.org/wiki/Q108322786](https://www.wikidata.org/wiki/Q108322786)  
-
-### alignments:
- - [Tomb of Publius Vesonius Phileros ](https://pleiades.stoa.org/places/792436981)
 
 
 ## Q108418823: Sanctuary of Monte San Nicola at Pietravairano
@@ -23188,13 +23244,6 @@
 
 ### alignments:
  - [Akanthos](https://pleiades.stoa.org/places/501339)
-
-
-## Q1816439
-[https://www.wikidata.org/wiki/Q1816439](https://www.wikidata.org/wiki/Q1816439)  
-
-### alignments:
- - [Timpone della Motta](https://pleiades.stoa.org/places/919620902)
 
 
 ## Q18202665: Polizzello archaeological site
@@ -35456,6 +35505,20 @@
  - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
 
 
+## Rhithymna (Q24049839)
+[https://www.wikidata.org/wiki/Q24049839](https://www.wikidata.org/wiki/Q24049839)  
+
+### alignments:
+ - [Rhithymna/Arsinoe](https://pleiades.stoa.org/places/590028)
+
+
+## Rhizon (Q7320766)
+[https://www.wikidata.org/wiki/Q7320766](https://www.wikidata.org/wiki/Q7320766)  
+
+### alignments:
+ - [Rhizon/Risinium](https://pleiades.stoa.org/places/197471)
+
+
 ## Rhodes (Q13533316)
 [https://www.wikidata.org/wiki/Q13533316](https://www.wikidata.org/wiki/Q13533316)  
 
@@ -35679,6 +35742,13 @@
 
 ### alignments:
  - [Robin Hood's Butts](https://pleiades.stoa.org/places/112379514)
+
+
+## Roca Vecchia (Q2727876)
+[https://www.wikidata.org/wiki/Q2727876](https://www.wikidata.org/wiki/Q2727876)  
+
+### alignments:
+ - [Rocavecchia](https://pleiades.stoa.org/places/442746)
 
 
 ## Rocca di Radicofani (Q88454086)
@@ -37830,6 +37900,13 @@
  - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
 
 
+## Sigriane (Q11949747)
+[https://www.wikidata.org/wiki/Q11949747](https://www.wikidata.org/wiki/Q11949747)  
+
+### alignments:
+ - [Sigriane](https://pleiades.stoa.org/places/906028)
+
+
 ## Sigron (Q65121169)
 [https://www.wikidata.org/wiki/Q65121169](https://www.wikidata.org/wiki/Q65121169)  
 
@@ -38718,6 +38795,13 @@
 
 ### alignments:
  - [Tabālu (region)](https://pleiades.stoa.org/places/129678075)
+
+
+## Tabo (Q2386614)
+[https://www.wikidata.org/wiki/Q2386614](https://www.wikidata.org/wiki/Q2386614)  
+
+### alignments:
+ - [Tabo](https://pleiades.stoa.org/places/985706528)
 
 
 ## Tabuda (Q98749704)
@@ -39904,6 +39988,13 @@
  - [Thermes romains de Cimiez](https://pleiades.stoa.org/places/425092509)
 
 
+## Thermes de Cluny (Q2669368)
+[https://www.wikidata.org/wiki/Q2669368](https://www.wikidata.org/wiki/Q2669368)  
+
+### alignments:
+ - [Thermes de Cluny](https://pleiades.stoa.org/places/890816516)
+
+
 ## Thermodon (Q684421)
 [https://www.wikidata.org/wiki/Q684421](https://www.wikidata.org/wiki/Q684421)  
 
@@ -40177,6 +40268,13 @@
  - [Tel Batash (Timnah)](https://pleiades.stoa.org/places/925655548)
 
 
+## Timpone della Motta (Q1816439)
+[https://www.wikidata.org/wiki/Q1816439](https://www.wikidata.org/wiki/Q1816439)  
+
+### alignments:
+ - [Timpone della Motta](https://pleiades.stoa.org/places/919620902)
+
+
 ## Tincausari (Q106154620)
 [https://www.wikidata.org/wiki/Q106154620](https://www.wikidata.org/wiki/Q106154620)  
 
@@ -40427,6 +40525,13 @@
 
 ### alignments:
  - [Tomba del Duce, Vetulonia](https://pleiades.stoa.org/places/182270778)
+
+
+## Tomba di Mezzavia (Q3531047)
+[https://www.wikidata.org/wiki/Q3531047](https://www.wikidata.org/wiki/Q3531047)  
+
+### alignments:
+ - [Tomba di Mezzavia](https://pleiades.stoa.org/places/860967342)
 
 
 ## Tomba di Nerone (Q56256439)

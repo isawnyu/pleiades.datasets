@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4045 alignments exist in _Pleiades_ place references as of 2025-01-15. The following list of alignments is grouped by zotkey.
+4046 alignments exist in _Pleiades_ place references as of 2025-01-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4138,6 +4138,13 @@
 
 ### alignments:
  - [Stournoi/Austranum?](https://pleiades.stoa.org/places/442803)
+
+
+## GEO ID 14283: Roca Vecchia
+[http://www.trismegistos.org/place/14283](http://www.trismegistos.org/place/14283)  
+
+### alignments:
+ - [Rocavecchia](https://pleiades.stoa.org/places/442746)
 
 
 ## GEO ID 14284: Rudiae (Rugge)
