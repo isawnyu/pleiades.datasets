@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6119 alignments exist in _Pleiades_ place references as of 2025-01-16. The following list of alignments is grouped by zotkey.
+6137 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -875,6 +875,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Altar of Androgeos, son of Minos, Phaleron (Q124644553)
+[https://www.wikidata.org/wiki/Q124644553](https://www.wikidata.org/wiki/Q124644553)  
+
+### alignments:
+ - [Altar of Androgeos](https://pleiades.stoa.org/places/756525877)
 
 
 ## Altar of Athena Polias (Q2872350)
@@ -2677,6 +2684,13 @@
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 
+## Augustamnica (Q2870967)
+[https://www.wikidata.org/wiki/Q2870967](https://www.wikidata.org/wiki/Q2870967)  
+
+### alignments:
+ - [Augoustamnike I](https://pleiades.stoa.org/places/1001944)
+
+
 ## Augustobriga (Q47005672)
 [https://www.wikidata.org/wiki/Q47005672](https://www.wikidata.org/wiki/Q47005672)  
 
@@ -3095,6 +3109,13 @@
 
 ### alignments:
  - [Parthenios (river)](https://pleiades.stoa.org/places/845036)
+
+
+## Barzan (Q678047)
+[https://www.wikidata.org/wiki/Q678047](https://www.wikidata.org/wiki/Q678047)  
+
+### alignments:
+ - [Tannum](https://pleiades.stoa.org/places/138606)
 
 
 ## Basento (Q791190)
@@ -4512,6 +4533,13 @@
  - [Campus Viminalis](https://pleiades.stoa.org/places/378562727)
 
 
+## Canal of Drusus (Q1391392)
+[https://www.wikidata.org/wiki/Q1391392](https://www.wikidata.org/wiki/Q1391392)  
+
+### alignments:
+ - [Drusiana Fossa](https://pleiades.stoa.org/places/99663)
+
+
 ## Cangas de Onís Roman Bridge (Q9064489)
 [https://www.wikidata.org/wiki/Q9064489](https://www.wikidata.org/wiki/Q9064489)  
 
@@ -5182,6 +5210,13 @@
 
 ### alignments:
  - [Driel-Baarskamp](https://pleiades.stoa.org/places/98946)
+
+
+## Castra of Overbetuwe-Randwijk (Q1564424)
+[https://www.wikidata.org/wiki/Q1564424](https://www.wikidata.org/wiki/Q1564424)  
+
+### alignments:
+ - [Randwijk](https://pleiades.stoa.org/places/99024)
 
 
 ## Castra of Tolna (Q767611)
@@ -8057,6 +8092,13 @@
  - [Fectio](https://pleiades.stoa.org/places/98956)
 
 
+## Feddersen Wierde (Q878838)
+[https://www.wikidata.org/wiki/Q878838](https://www.wikidata.org/wiki/Q878838)  
+
+### alignments:
+ - [Feddersen Wierde](https://pleiades.stoa.org/places/98957)
+
+
 ## Fendoch Burn,Roman fort N side of (Q56666603)
 [https://www.wikidata.org/wiki/Q56666603](https://www.wikidata.org/wiki/Q56666603)  
 
@@ -8125,6 +8167,13 @@
 
 ### alignments:
  - [Flaviobriga](https://pleiades.stoa.org/places/246394)
+
+
+## Fletio (Q2072212)
+[https://www.wikidata.org/wiki/Q2072212](https://www.wikidata.org/wiki/Q2072212)  
+
+### alignments:
+ - [Kastell Op de Hoge Woerd](https://pleiades.stoa.org/places/99061)
 
 
 ## Flower's Barrow (Q5462123)
@@ -9518,6 +9567,13 @@
 
 ### alignments:
  - [Hippola](https://pleiades.stoa.org/places/570294)
+
+
+## Hispania Carthaginensis (Q650788)
+[https://www.wikidata.org/wiki/Q650788](https://www.wikidata.org/wiki/Q650788)  
+
+### alignments:
+ - [Carthaginiensis](https://pleiades.stoa.org/places/991327)
 
 
 ## Hispellum amphitheatre (Q28978078)
@@ -13037,6 +13093,13 @@
  - [Melangeia](https://pleiades.stoa.org/places/570473)
 
 
+## Melibokus (Q464552)
+[https://www.wikidata.org/wiki/Q464552](https://www.wikidata.org/wiki/Q464552)  
+
+### alignments:
+ - [Melibokon? Oros](https://pleiades.stoa.org/places/99009)
+
+
 ## Melitaea (Q1919416)
 [https://www.wikidata.org/wiki/Q1919416](https://www.wikidata.org/wiki/Q1919416)  
 
@@ -13962,6 +14025,13 @@
  - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
 
 
+## Monte Sirai (Q1945932)
+[https://www.wikidata.org/wiki/Q1945932](https://www.wikidata.org/wiki/Q1945932)  
+
+### alignments:
+ - [Monte Sirai](https://pleiades.stoa.org/places/471974)
+
+
 ## Montjoie Roman column (Q22939373)
 [https://www.wikidata.org/wiki/Q22939373](https://www.wikidata.org/wiki/Q22939373)  
 
@@ -14676,6 +14746,13 @@
  - [Untitled](https://pleiades.stoa.org/places/860844)
 
 
+## Nigrum Pullum (Q3341443)
+[https://www.wikidata.org/wiki/Q3341443](https://www.wikidata.org/wiki/Q3341443)  
+
+### alignments:
+ - [Nigrum Pullum](https://pleiades.stoa.org/places/99014)
+
+
 ## Nijmegen (Samian Ware Discovery Site) (Q103187340)
 [https://www.wikidata.org/wiki/Q103187340](https://www.wikidata.org/wiki/Q103187340)  
 
@@ -14814,6 +14891,13 @@
 
 ### alignments:
  - [Burgenae](https://pleiades.stoa.org/places/207001)
+
+
+## Novigrad (Q5395)
+[https://www.wikidata.org/wiki/Q5395](https://www.wikidata.org/wiki/Q5395)  
+
+### alignments:
+ - [Neapolis](https://pleiades.stoa.org/places/197403)
 
 
 ## Nowa Wieś Wrocławska (Q7066295)
@@ -16279,6 +16363,13 @@
  - [Phalara](https://pleiades.stoa.org/places/541034)
 
 
+## Phalerikon Teichos (Q131765252)
+[https://www.wikidata.org/wiki/Q131765252](https://www.wikidata.org/wiki/Q131765252)  
+
+### alignments:
+ - [Phalerikon Teichos](https://pleiades.stoa.org/places/585129)
+
+
 ## Pharae (Q3562963)
 [https://www.wikidata.org/wiki/Q3562963](https://www.wikidata.org/wiki/Q3562963)  
 
@@ -17194,6 +17285,13 @@
 
 ### alignments:
  - [Praetorium at Gortyna](https://pleiades.stoa.org/places/177278517)
+
+
+## Praevalitana (Q634977)
+[https://www.wikidata.org/wiki/Q634977](https://www.wikidata.org/wiki/Q634977)  
+
+### alignments:
+ - [Praevalitana](https://pleiades.stoa.org/places/991363)
 
 
 ## Praisos (Q11942554)
@@ -35491,6 +35589,13 @@
  - [Rhenus (river)](https://pleiades.stoa.org/places/393483)
 
 
+## Reudigni (Q1421599)
+[https://www.wikidata.org/wiki/Q1421599](https://www.wikidata.org/wiki/Q1421599)  
+
+### alignments:
+ - [Reudigni](https://pleiades.stoa.org/places/99026)
+
+
 ## Rhamnous (Q1768553)
 [https://www.wikidata.org/wiki/Q1768553](https://www.wikidata.org/wiki/Q1768553)  
 
@@ -39029,6 +39134,13 @@
  - [Tbilisi](https://pleiades.stoa.org/places/863903)
 
 
+## Tebaga Gap (Q17023325)
+[https://www.wikidata.org/wiki/Q17023325](https://www.wikidata.org/wiki/Q17023325)  
+
+### alignments:
+ - [Unnamed earthwork in the Tebaga Gap](https://pleiades.stoa.org/places/346547)
+
+
 ## Tegea (Q645234)
 [https://www.wikidata.org/wiki/Q645234](https://www.wikidata.org/wiki/Q645234)  
 
@@ -39314,6 +39426,13 @@
 
 ### alignments:
  - [Temple of Athena Lindia](https://pleiades.stoa.org/places/414067217)
+
+
+## Temple of Athena Skiras at Phaleron (Q131765396)
+[https://www.wikidata.org/wiki/Q131765396](https://www.wikidata.org/wiki/Q131765396)  
+
+### alignments:
+ - [Temple of Athena Skiras at Phaleron](https://pleiades.stoa.org/places/397011004)
 
 
 ## Temple of Augustus (Q770030)
@@ -41569,6 +41688,13 @@
 
 ### alignments:
  - [Tempe](https://pleiades.stoa.org/places/541131)
+
+
+## Valentia Edetanorum (Q9092331)
+[https://www.wikidata.org/wiki/Q9092331](https://www.wikidata.org/wiki/Q9092331)  
+
+### alignments:
+ - [Valentia](https://pleiades.stoa.org/places/266090)
 
 
 ## Valkenburg (Samian Ware Discovery Site) (Q103198668)

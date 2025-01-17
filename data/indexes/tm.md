@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4046 alignments exist in _Pleiades_ place references as of 2025-01-16. The following list of alignments is grouped by zotkey.
+4047 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22376,6 +22376,13 @@
 
 ### alignments:
  - [Tuscia et Umbria](https://pleiades.stoa.org/places/991352)
+
+
+## GEO ID 42706: Carthaginiensis
+[https://www.trismegistos.org/place/42706](https://www.trismegistos.org/place/42706)  
+
+### alignments:
+ - [Carthaginiensis](https://pleiades.stoa.org/places/991327)
 
 
 ## GEO ID 42707: Numidia Cirtensis

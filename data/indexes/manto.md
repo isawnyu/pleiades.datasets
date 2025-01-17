@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-595 alignments exist in _Pleiades_ place references as of 2025-01-16. The following list of alignments is grouped by zotkey.
+596 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1784,6 +1784,13 @@
 
 ### alignments:
  - [Pallene](https://pleiades.stoa.org/places/580051)
+
+
+## 10956126: the Sanctuary of Athena Sciras at Phaleron (Attica)
+[https://resource.manto.unh.edu/10956126](https://resource.manto.unh.edu/10956126)  
+
+### alignments:
+ - [Temple of Athena Skiras at Phaleron](https://pleiades.stoa.org/places/397011004)
 
 
 ## 11003301: Ledon (Phocis)
