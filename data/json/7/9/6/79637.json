@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.338965,
-        51.722207,
-        -0.338965,
-        51.722207
+        -0.3410071,
+        51.7142806,
+        -0.3410071,
+        51.7142806
     ],
     "connections": [],
     "connectsWith": [],
@@ -53,23 +53,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.338965,
-                    51.722207
+                    -0.3410071,
+                    51.7142806
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-21030",
+            "id": "osm-location-of-roman-villa",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/79637/darmc-location-21030",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79637/osm-location-of-roman-villa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 21030"
+                "snippet": "Villa; AD 43 - AD 410",
+                "title": "OSM location of Roman Villa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-17T20:02:01Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "vici.org 6572: Villa at Park Street",
             "modified": "2025-01-14T02:55:07Z",
@@ -135,8 +140,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -144,97 +149,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "roman-britain",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman-britain"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:50:15Z",
+            "contributors": [],
+            "created": "2025-01-14T02:52:54Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 21030",
-            "end": 640,
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 410,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.338965,
-                    51.722207
+                    -0.3410071,
+                    51.7142806
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:33:28Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T13:41:21Z",
+                    "modified": "2025-01-17T20:01:22Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T05:50:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-01-14T02:54:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:50:16Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2025-01-14T02:54:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-14T02:52:54Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T05:50:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-01-14T02:52:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21030",
+            "id": "osm-location-of-roman-villa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 21030",
+            "provenance": "OpenStreetMap (Node 258316432, version 3, osm:changeset=132387988, 2023-02-11T01:41:22Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/258316432",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21030",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 258316432",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21030.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=258316432",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 21030",
-            "uri": "https://pleiades.stoa.org/places/79637/darmc-location-21030"
+            "start": 43,
+            "title": "OSM location of Roman Villa",
+            "uri": "https://pleiades.stoa.org/places/79637/osm-location-of-roman-villa"
         }
     ],
     "names": [],
@@ -311,11 +307,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21030",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.338965,
-        51.722207
+        -0.3410071,
+        51.7142806
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
