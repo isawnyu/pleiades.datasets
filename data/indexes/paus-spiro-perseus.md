@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-491 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
+491 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -32,6 +32,7 @@
  - [Altar of Androgeos](https://pleiades.stoa.org/places/756525877)
  - [Munychia](https://pleiades.stoa.org/places/116035285)
  - [Phaleron Limen](https://pleiades.stoa.org/places/580071)
+ - [Temple of Zeus at Phaleron](https://pleiades.stoa.org/places/457406454)
 
 
 ## 1.10.4

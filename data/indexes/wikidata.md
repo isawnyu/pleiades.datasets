@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with Wikidata
-6137 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
+6229 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
 
 ### alignments:
  - [Radani (river)](https://pleiades.stoa.org/places/894078)
+
+
+## A cross dyke and bowl barrow on the northern spur of Beacon Hill (Q17676995)
+[https://www.wikidata.org/wiki/Q17676995](https://www.wikidata.org/wiki/Q17676995)  
+
+### alignments:
+ - [Cross dyke and bowl barrow on the northern spur of Beacon Hill](https://pleiades.stoa.org/places/542003616)
 
 
 ## A major Roman villa, an Anglo-Saxon settlement and prehistoric remains 600m SSE of Darenth Court Farm (Q17661980)
@@ -97,6 +104,13 @@
 
 ### alignments:
  - [Abu Nafisa](https://pleiades.stoa.org/places/491299691)
+
+
+## Abu Salabikh (Q195128)
+[https://www.wikidata.org/wiki/Q195128](https://www.wikidata.org/wiki/Q195128)  
+
+### alignments:
+ - [Tell Abu Salabikh](https://pleiades.stoa.org/places/912950)
 
 
 ## Abusir South (Q130525059)
@@ -723,6 +737,13 @@
  - [Isurium](https://pleiades.stoa.org/places/89209)
 
 
+## Ale's Stones (Q686510)
+[https://www.wikidata.org/wiki/Q686510](https://www.wikidata.org/wiki/Q686510)  
+
+### alignments:
+ - [Ale's Stones](https://pleiades.stoa.org/places/809110141)
+
+
 ## Alea (Arcadia) (Q3609405)
 [https://www.wikidata.org/wiki/Q3609405](https://www.wikidata.org/wiki/Q3609405)  
 
@@ -1001,6 +1022,13 @@
 
 ### alignments:
  - [Ambrussum](https://pleiades.stoa.org/places/147990)
+
+
+## Amestratus (Q127429525)
+[https://www.wikidata.org/wiki/Q127429525](https://www.wikidata.org/wiki/Q127429525)  
+
+### alignments:
+ - [Amestratus](https://pleiades.stoa.org/places/462093)
 
 
 ## Amheida (Q14202004)
@@ -1645,6 +1673,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/491526)
+
+
+## Apollonia (Q4780392)
+[https://www.wikidata.org/wiki/Q4780392](https://www.wikidata.org/wiki/Q4780392)  
+
+### alignments:
+ - [Apollonia](https://pleiades.stoa.org/places/462097)
 
 
 ## Apollonieis (Q19829611)
@@ -2880,6 +2915,13 @@
  - [[Vicus Cruciniacum]](https://pleiades.stoa.org/places/109427)
 
 
+## Bad-tibira (Q1372270)
+[https://www.wikidata.org/wiki/Q1372270](https://www.wikidata.org/wiki/Q1372270)  
+
+### alignments:
+ - [Patibīri](https://pleiades.stoa.org/places/771224406)
+
+
 ## Badbury Rings (Q798831)
 [https://www.wikidata.org/wiki/Q798831](https://www.wikidata.org/wiki/Q798831)  
 
@@ -3006,6 +3048,13 @@
  - [Banna](https://pleiades.stoa.org/places/89109)
 
 
+## Bannaventa (Q1884439)
+[https://www.wikidata.org/wiki/Q1884439](https://www.wikidata.org/wiki/Q1884439)  
+
+### alignments:
+ - [Bannaventa](https://pleiades.stoa.org/places/79313)
+
+
 ## Banzi (Q52527)
 [https://www.wikidata.org/wiki/Q52527](https://www.wikidata.org/wiki/Q52527)  
 
@@ -3076,6 +3125,13 @@
  - [Cairn de Barnénez](https://pleiades.stoa.org/places/206418675)
 
 
+## Barnsley Park Roman Villa (Q17678122)
+[https://www.wikidata.org/wiki/Q17678122](https://www.wikidata.org/wiki/Q17678122)  
+
+### alignments:
+ - [Barnsley Park](https://pleiades.stoa.org/places/79315)
+
+
 ## Barochan Hill, Roman fort 440m NNW of Barochan House (Q56668492)
 [https://www.wikidata.org/wiki/Q56668492](https://www.wikidata.org/wiki/Q56668492)  
 
@@ -3102,6 +3158,13 @@
 
 ### alignments:
  - [Birgos? (river)](https://pleiades.stoa.org/places/79329)
+
+
+## Bartlow Hills (Q15196890)
+[https://www.wikidata.org/wiki/Q15196890](https://www.wikidata.org/wiki/Q15196890)  
+
+### alignments:
+ - [Bartlow Hills](https://pleiades.stoa.org/places/79317)
 
 
 ## Bartın River (Q2886191)
@@ -3256,6 +3319,13 @@
 
 ### alignments:
  - [Thermae Agrippae](https://pleiades.stoa.org/places/921692078)
+
+
+## Baths of Cilurnum (Q68121996)
+[https://www.wikidata.org/wiki/Q68121996](https://www.wikidata.org/wiki/Q68121996)  
+
+### alignments:
+ - [Baths of Cilurnum](https://pleiades.stoa.org/places/946851921)
 
 
 ## Baths of Constantine (Q588204)
@@ -3672,6 +3742,13 @@
  - [Black Ball Camp](https://pleiades.stoa.org/places/721382239)
 
 
+## Blackwardine Roman settlement (Q17642022)
+[https://www.wikidata.org/wiki/Q17642022](https://www.wikidata.org/wiki/Q17642022)  
+
+### alignments:
+ - [Blackwardine](https://pleiades.stoa.org/places/79332)
+
+
 ## Blatobulgium (Q1710821)
 [https://www.wikidata.org/wiki/Q1710821](https://www.wikidata.org/wiki/Q1710821)  
 
@@ -4022,6 +4099,13 @@
  - [Brazda lui Novac de Nord](https://pleiades.stoa.org/places/208383)
 
 
+## Brean Down (Q3403788)
+[https://www.wikidata.org/wiki/Q3403788](https://www.wikidata.org/wiki/Q3403788)  
+
+### alignments:
+ - [Brean Down](https://pleiades.stoa.org/places/79351)
+
+
 ## Brecon Gaer Roman Fort (Q8046130)
 [https://www.wikidata.org/wiki/Q8046130](https://www.wikidata.org/wiki/Q8046130)  
 
@@ -4085,6 +4169,13 @@
  - [Algund](https://pleiades.stoa.org/places/861853679)
 
 
+## Brigstock (Q2407311)
+[https://www.wikidata.org/wiki/Q2407311](https://www.wikidata.org/wiki/Q2407311)  
+
+### alignments:
+ - [Brigstock](https://pleiades.stoa.org/places/79356)
+
+
 ## Broch of Clickimin (Q923324)
 [https://www.wikidata.org/wiki/Q923324](https://www.wikidata.org/wiki/Q923324)  
 
@@ -4139,6 +4230,13 @@
 
 ### alignments:
  - [Bucinobantes](https://pleiades.stoa.org/places/108834)
+
+
+## Bucknowle Farm (Q999861)
+[https://www.wikidata.org/wiki/Q999861](https://www.wikidata.org/wiki/Q999861)  
+
+### alignments:
+ - [Bucknowle](https://pleiades.stoa.org/places/79359)
 
 
 ## Bulls Down camp (Q17650598)
@@ -4288,6 +4386,13 @@
  - [Barbarion Pr.](https://pleiades.stoa.org/places/256015)
 
 
+## Cabo Touriñán (Q1728341)
+[https://www.wikidata.org/wiki/Q1728341](https://www.wikidata.org/wiki/Q1728341)  
+
+### alignments:
+ - [Nerion/Artabrum/Celticum/Magnum (promuntory)](https://pleiades.stoa.org/places/236567)
+
+
 ## Cabu Abbas (Q1024978)
 [https://www.wikidata.org/wiki/Q1024978](https://www.wikidata.org/wiki/Q1024978)  
 
@@ -4328,6 +4433,13 @@
 
 ### alignments:
  - [Caelius Mons](https://pleiades.stoa.org/places/695491849)
+
+
+## Caer Ffordun (Q13126478)
+[https://www.wikidata.org/wiki/Q13126478](https://www.wikidata.org/wiki/Q13126478)  
+
+### alignments:
+ - [‘Lavobrinta’?](https://pleiades.stoa.org/places/79556)
 
 
 ## Caer Gai (Q17739712)
@@ -4470,6 +4582,13 @@
  - [Kales](https://pleiades.stoa.org/places/844961)
 
 
+## Calleva Atrebatum (Q1027253)
+[https://www.wikidata.org/wiki/Q1027253](https://www.wikidata.org/wiki/Q1027253)  
+
+### alignments:
+ - [Calleva](https://pleiades.stoa.org/places/79368)
+
+
 ## Callow Hill Roman villa (Q17662632)
 [https://www.wikidata.org/wiki/Q17662632](https://www.wikidata.org/wiki/Q17662632)  
 
@@ -4552,6 +4671,13 @@
 
 ### alignments:
  - [Pons Aureoli](https://pleiades.stoa.org/places/383747)
+
+
+## Canonium (Q129098147)
+[https://www.wikidata.org/wiki/Q129098147](https://www.wikidata.org/wiki/Q129098147)  
+
+### alignments:
+ - [Canonium](https://pleiades.stoa.org/places/79373)
 
 
 ## Canopus of the Villa Adriana at Tivoli (Q100718316)
@@ -4734,6 +4860,13 @@
 
 ### alignments:
  - [*Brocolitia](https://pleiades.stoa.org/places/89128)
+
+
+## Carsington Roman Villa (Q86752251)
+[https://www.wikidata.org/wiki/Q86752251](https://www.wikidata.org/wiki/Q86752251)  
+
+### alignments:
+ - [Carsington](https://pleiades.stoa.org/places/79377)
 
 
 ## Carthago Nova amphitheatre (Q651415)
@@ -4944,6 +5077,13 @@
 
 ### alignments:
  - [Castle Greg](https://pleiades.stoa.org/places/109516473)
+
+
+## Castle Hill Roman Villa (Q124685643)
+[https://www.wikidata.org/wiki/Q124685643](https://www.wikidata.org/wiki/Q124685643)  
+
+### alignments:
+ - [Castle Hill, Whitton](https://pleiades.stoa.org/places/79761)
 
 
 ## Castle of Astypalaia (Q38284794)
@@ -5478,6 +5618,13 @@
  - [Segedunum](https://pleiades.stoa.org/places/89288)
 
 
+## Castrum Sorviodurum (Q1528907)
+[https://www.wikidata.org/wiki/Q1528907](https://www.wikidata.org/wiki/Q1528907)  
+
+### alignments:
+ - [Sorviodurum](https://pleiades.stoa.org/places/118968)
+
+
 ## Castrum Tasgetium (Q1331160)
 [https://www.wikidata.org/wiki/Q1331160](https://www.wikidata.org/wiki/Q1331160)  
 
@@ -5504,6 +5651,13 @@
 
 ### alignments:
  - [Catacombs of Commodilla](https://pleiades.stoa.org/places/99836453)
+
+
+## Catacomb of San Zotico (Q3663207)
+[https://www.wikidata.org/wiki/Q3663207](https://www.wikidata.org/wiki/Q3663207)  
+
+### alignments:
+ - [Catacomb of San Zotico](https://pleiades.stoa.org/places/177181834)
 
 
 ## Catacomb of Sant'Ermete (Q3663181)
@@ -5602,6 +5756,13 @@
 
 ### alignments:
  - [Kebren](https://pleiades.stoa.org/places/550633)
+
+
+## Ceccano (Q116706)
+[https://www.wikidata.org/wiki/Q116706](https://www.wikidata.org/wiki/Q116706)  
+
+### alignments:
+ - [Fabrateria Vetus](https://pleiades.stoa.org/places/432826)
 
 
 ## Cedrino (Q3664163)
@@ -5758,6 +5919,13 @@
  - [Roman amphitheatre, Charterhouse](https://pleiades.stoa.org/places/893570731)
 
 
+## Charterhouse Roman Town (Q1067843)
+[https://www.wikidata.org/wiki/Q1067843](https://www.wikidata.org/wiki/Q1067843)  
+
+### alignments:
+ - [Ischalis?](https://pleiades.stoa.org/places/79534)
+
+
 ## Chassenon amphitheatre (Q22954443)
 [https://www.wikidata.org/wiki/Q22954443](https://www.wikidata.org/wiki/Q22954443)  
 
@@ -5805,6 +5973,13 @@
 
 ### alignments:
  - [Gallo-Roman amphitheater at Montbouy](https://pleiades.stoa.org/places/740280236)
+
+
+## Cher (Q213503)
+[https://www.wikidata.org/wiki/Q213503](https://www.wikidata.org/wiki/Q213503)  
+
+### alignments:
+ - [Cares (river)](https://pleiades.stoa.org/places/138270)
 
 
 ## Chessy (Q929575)
@@ -5877,6 +6052,13 @@
  - [Roman theater at Teate](https://pleiades.stoa.org/places/865509854)
 
 
+## Chignall St James (Q588190)
+[https://www.wikidata.org/wiki/Q588190](https://www.wikidata.org/wiki/Q588190)  
+
+### alignments:
+ - [Chignall St. James](https://pleiades.stoa.org/places/79387)
+
+
 ## Chil Zena (Q28223863)
 [https://www.wikidata.org/wiki/Q28223863](https://www.wikidata.org/wiki/Q28223863)  
 
@@ -5889,6 +6071,13 @@
 
 ### alignments:
  - [Dymos? (river)](https://pleiades.stoa.org/places/59798)
+
+
+## Chiris (Q130391617)
+[https://www.wikidata.org/wiki/Q130391617](https://www.wikidata.org/wiki/Q130391617)  
+
+### alignments:
+ - [Chiris](https://pleiades.stoa.org/places/798054)
 
 
 ## Cholargos (Q13436199)
@@ -6102,6 +6291,13 @@
  - [Qal’at Salah El-Din/Fortress of Saladin](https://pleiades.stoa.org/places/397378357)
 
 
+## Cittanova (Q54603)
+[https://www.wikidata.org/wiki/Q54603](https://www.wikidata.org/wiki/Q54603)  
+
+### alignments:
+ - [Cittanova](https://pleiades.stoa.org/places/452303)
+
+
 ## Civitas Camunnorum amphitheatre (Q28978018)
 [https://www.wikidata.org/wiki/Q28978018](https://www.wikidata.org/wiki/Q28978018)  
 
@@ -6219,6 +6415,13 @@
 
 ### alignments:
  - [Coesike West temporary camps](https://pleiades.stoa.org/places/941416849)
+
+
+## Colerne (Q2530698)
+[https://www.wikidata.org/wiki/Q2530698](https://www.wikidata.org/wiki/Q2530698)  
+
+### alignments:
+ - [Colerne](https://pleiades.stoa.org/places/79396)
 
 
 ## Colle nocello villa (Q124172424)
@@ -7378,11 +7581,25 @@
  - [Durnomagus](https://pleiades.stoa.org/places/108941)
 
 
+## Durocobrivis (Q16550901)
+[https://www.wikidata.org/wiki/Q16550901](https://www.wikidata.org/wiki/Q16550901)  
+
+### alignments:
+ - [Durocobrivis](https://pleiades.stoa.org/places/79434)
+
+
 ## Duroliponte (Q1267442)
 [https://www.wikidata.org/wiki/Q1267442](https://www.wikidata.org/wiki/Q1267442)  
 
 ### alignments:
  - [Duroliponte](https://pleiades.stoa.org/places/79436)
+
+
+## Durolitum (Q131759835)
+[https://www.wikidata.org/wiki/Q131759835](https://www.wikidata.org/wiki/Q131759835)  
+
+### alignments:
+ - [Durolitum](https://pleiades.stoa.org/places/79437)
 
 
 ## Durrington Walls (Q471738)
@@ -8127,6 +8344,13 @@
  - [Leucolla](https://pleiades.stoa.org/places/638959)
 
 
+## Fidentia (Q11921969)
+[https://www.wikidata.org/wiki/Q11921969](https://www.wikidata.org/wiki/Q11921969)  
+
+### alignments:
+ - [Fidentia](https://pleiades.stoa.org/places/383648)
+
+
 ## Figsbury Ring (Q1411951)
 [https://www.wikidata.org/wiki/Q1411951](https://www.wikidata.org/wiki/Q1411951)  
 
@@ -8155,11 +8379,25 @@
  - [The Theater of Larissa](https://pleiades.stoa.org/places/942647940)
 
 
+## Firth of Forth (Q202083)
+[https://www.wikidata.org/wiki/Q202083](https://www.wikidata.org/wiki/Q202083)  
+
+### alignments:
+ - [Bodotria? Aestuarium](https://pleiades.stoa.org/places/89120)
+
+
 ## Flaminio Obelisk (Q568194)
 [https://www.wikidata.org/wiki/Q568194](https://www.wikidata.org/wiki/Q568194)  
 
 ### alignments:
  - [Flaminio Obelisk (Rome)](https://pleiades.stoa.org/places/971580111)
+
+
+## Flavia Solva (Q201001)
+[https://www.wikidata.org/wiki/Q201001](https://www.wikidata.org/wiki/Q201001)  
+
+### alignments:
+ - [Flavia Solva](https://pleiades.stoa.org/places/197273)
 
 
 ## Flaviobriga (Q3025521)
@@ -8288,6 +8526,13 @@
  - [Forum Cassii](https://pleiades.stoa.org/places/413144)
 
 
+## Forum Cornelii (Q3748870)
+[https://www.wikidata.org/wiki/Q3748870](https://www.wikidata.org/wiki/Q3748870)  
+
+### alignments:
+ - [Forum Cornelii](https://pleiades.stoa.org/places/393424)
+
+
 ## Forum Domitii (Q22953907)
 [https://www.wikidata.org/wiki/Q22953907](https://www.wikidata.org/wiki/Q22953907)  
 
@@ -8377,6 +8622,13 @@
 
 ### alignments:
  - [Frisiavones](https://pleiades.stoa.org/places/108996)
+
+
+## Frocester (Q666250)
+[https://www.wikidata.org/wiki/Q666250](https://www.wikidata.org/wiki/Q666250)  
+
+### alignments:
+ - [Frocester](https://pleiades.stoa.org/places/79471)
 
 
 ## Frosolone (Q279196)
@@ -8510,6 +8762,13 @@
 
 ### alignments:
  - [Lamarque Gallo-Roman Villa](https://pleiades.stoa.org/places/249936)
+
+
+## Gammai (Q11923758)
+[https://www.wikidata.org/wiki/Q11923758](https://www.wikidata.org/wiki/Q11923758)  
+
+### alignments:
+ - [Gammai](https://pleiades.stoa.org/places/795810)
 
 
 ## Gandhara (Q213651)
@@ -8932,6 +9191,13 @@
  - [Castle of Gradara](https://pleiades.stoa.org/places/858581367)
 
 
+## Great Chesterford (Q1020030)
+[https://www.wikidata.org/wiki/Q1020030](https://www.wikidata.org/wiki/Q1020030)  
+
+### alignments:
+ - [Great Chesterford](https://pleiades.stoa.org/places/79488)
+
+
 ## Great Temple (Q20395818)
 [https://www.wikidata.org/wiki/Q20395818](https://www.wikidata.org/wiki/Q20395818)  
 
@@ -8995,6 +9261,13 @@
  - [Theater of Priene](https://pleiades.stoa.org/places/182750553)
 
 
+## Greetwell Fields Roman Villa (Q124809055)
+[https://www.wikidata.org/wiki/Q124809055](https://www.wikidata.org/wiki/Q124809055)  
+
+### alignments:
+ - [Greetwell](https://pleiades.stoa.org/places/79493)
+
+
 ## Grimsbury Castle (Q12059149)
 [https://www.wikidata.org/wiki/Q12059149](https://www.wikidata.org/wiki/Q12059149)  
 
@@ -9007,6 +9280,13 @@
 
 ### alignments:
  - [Grimspound](https://pleiades.stoa.org/places/248025633)
+
+
+## Grotta Mora Cavorso (Q106963351)
+[https://www.wikidata.org/wiki/Q106963351](https://www.wikidata.org/wiki/Q106963351)  
+
+### alignments:
+ - [Grotta Mora Cavorso](https://pleiades.stoa.org/places/795799414)
 
 
 ## Grottoes of Catullus (Q3777121)
@@ -9275,6 +9555,13 @@
  - [Harpinates](https://pleiades.stoa.org/places/573243)
 
 
+## Hartland Point (Q907467)
+[https://www.wikidata.org/wiki/Q907467](https://www.wikidata.org/wiki/Q907467)  
+
+### alignments:
+ - [Herakleous Akron](https://pleiades.stoa.org/places/79508)
+
+
 ## Haselburg Roman villa (Q1437169)
 [https://www.wikidata.org/wiki/Q1437169](https://www.wikidata.org/wiki/Q1437169)  
 
@@ -9511,6 +9798,13 @@
 
 ### alignments:
  - [Herodeion](https://pleiades.stoa.org/places/687916)
+
+
+## Heronbridge Roman Site (Q15223736)
+[https://www.wikidata.org/wiki/Q15223736](https://www.wikidata.org/wiki/Q15223736)  
+
+### alignments:
+ - [Heronbridge](https://pleiades.stoa.org/places/79509)
 
 
 ## Heroon of Aeneas (Q21208538)
@@ -9882,6 +10176,13 @@
 
 ### alignments:
  - [Huntcliff](https://pleiades.stoa.org/places/89202)
+
+
+## Huntsham (Q2419673)
+[https://www.wikidata.org/wiki/Q2419673](https://www.wikidata.org/wiki/Q2419673)  
+
+### alignments:
+ - [Huntsham](https://pleiades.stoa.org/places/79521)
 
 
 ## Hvar (Q5993)
@@ -10290,6 +10591,13 @@
  - [Ouindogara Kolpos](https://pleiades.stoa.org/places/89268)
 
 
+## Isca Dumnoniorum (Q1226112)
+[https://www.wikidata.org/wiki/Q1226112](https://www.wikidata.org/wiki/Q1226112)  
+
+### alignments:
+ - [Isca Dumnoniorum](https://pleiades.stoa.org/places/79531)
+
+
 ## Ischopolis (Q65048861)
 [https://www.wikidata.org/wiki/Q65048861](https://www.wikidata.org/wiki/Q65048861)  
 
@@ -10302,6 +10610,13 @@
 
 ### alignments:
  - [Aspadana/(I)Spahan/Gay/Gabai?](https://pleiades.stoa.org/places/902990)
+
+
+## Isin (Q501259)
+[https://www.wikidata.org/wiki/Q501259](https://www.wikidata.org/wiki/Q501259)  
+
+### alignments:
+ - [Isin](https://pleiades.stoa.org/places/912868)
 
 
 ## Isinda (Lycia) (Q1673974)
@@ -10921,6 +11236,13 @@
  - [Kerlescan alignments](https://pleiades.stoa.org/places/320384863)
 
 
+## Keston Roman villa (Q15133926)
+[https://www.wikidata.org/wiki/Q15133926](https://www.wikidata.org/wiki/Q15133926)  
+
+### alignments:
+ - [Keston](https://pleiades.stoa.org/places/79544)
+
+
 ## Khanpur Cave (Q66134639)
 [https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
 
@@ -11503,6 +11825,13 @@
  - [Laconicus Sinus](https://pleiades.stoa.org/places/570407)
 
 
+## Lactodurum (Q6469020)
+[https://www.wikidata.org/wiki/Q6469020](https://www.wikidata.org/wiki/Q6469020)  
+
+### alignments:
+ - [Lactodorum](https://pleiades.stoa.org/places/79552)
+
+
 ## Lacus Juturnae (Q1714672)
 [https://www.wikidata.org/wiki/Q1714672](https://www.wikidata.org/wiki/Q1714672)  
 
@@ -11952,6 +12281,13 @@
  - [Lete](https://pleiades.stoa.org/places/491651)
 
 
+## Letocetum (Q1230592)
+[https://www.wikidata.org/wiki/Q1230592](https://www.wikidata.org/wiki/Q1230592)  
+
+### alignments:
+ - [*Letocetum](https://pleiades.stoa.org/places/79559)
+
+
 ## Letoon (Q703480)
 [https://www.wikidata.org/wiki/Q703480](https://www.wikidata.org/wiki/Q703480)  
 
@@ -12069,6 +12405,13 @@
 
 ### alignments:
  - [Lamos (river)](https://pleiades.stoa.org/places/648692)
+
+
+## Lindinis (Q820110)
+[https://www.wikidata.org/wiki/Q820110](https://www.wikidata.org/wiki/Q820110)  
+
+### alignments:
+ - [Lindinis](https://pleiades.stoa.org/places/79565)
 
 
 ## Lindus (Q65122097)
@@ -12202,6 +12545,13 @@
 
 ### alignments:
  - [London Wall](https://pleiades.stoa.org/places/630799745)
+
+
+## Long Melford (Samian Ware Discovery Site) (Q103177530)
+[https://www.wikidata.org/wiki/Q103177530](https://www.wikidata.org/wiki/Q103177530)  
+
+### alignments:
+ - [Long Melford](https://pleiades.stoa.org/places/79576)
 
 
 ## Long Walls (Q1163616)
@@ -13219,6 +13569,13 @@
  - [Metaurus (river)](https://pleiades.stoa.org/places/413199)
 
 
+## Metauron (Q11936633)
+[https://www.wikidata.org/wiki/Q11936633](https://www.wikidata.org/wiki/Q11936633)  
+
+### alignments:
+ - [Metaurum](https://pleiades.stoa.org/places/452379)
+
+
 ## Methana (Q107472458)
 [https://www.wikidata.org/wiki/Q107472458](https://www.wikidata.org/wiki/Q107472458)  
 
@@ -13392,6 +13749,13 @@
 
 ### alignments:
  - [Milecastle 19 (Matfen Piers)](https://pleiades.stoa.org/places/967060221)
+
+
+## Milecastle 2 (Q6851155)
+[https://www.wikidata.org/wiki/Q6851155](https://www.wikidata.org/wiki/Q6851155)  
+
+### alignments:
+ - [Milecastle 2 (Walker)](https://pleiades.stoa.org/places/967060277)
 
 
 ## Milecastle 20 (Q6851157)
@@ -13787,6 +14151,13 @@
  - [Milyas (region)](https://pleiades.stoa.org/places/638996)
 
 
+## Mineo (Q478457)
+[https://www.wikidata.org/wiki/Q478457](https://www.wikidata.org/wiki/Q478457)  
+
+### alignments:
+ - [Menai](https://pleiades.stoa.org/places/462312)
+
+
 ## Mines at Serabit el-Khadim (Q131144727)
 [https://www.wikidata.org/wiki/Q131144727](https://www.wikidata.org/wiki/Q131144727)  
 
@@ -13988,6 +14359,13 @@
 
 ### alignments:
  - [Monte Acero](https://pleiades.stoa.org/places/432944)
+
+
+## Monte Adranone (Q3861168)
+[https://www.wikidata.org/wiki/Q3861168](https://www.wikidata.org/wiki/Q3861168)  
+
+### alignments:
+ - [Monte Adranone (Adranon?)](https://pleiades.stoa.org/places/462073)
 
 
 ## Monte Bernorio's oppidum (Q6022349)
@@ -14473,6 +14851,13 @@
  - [Namare](https://pleiades.stoa.org/places/118857)
 
 
+## Naqa (Q1760360)
+[https://www.wikidata.org/wiki/Q1760360](https://www.wikidata.org/wiki/Q1760360)  
+
+### alignments:
+ - [Naqa](https://pleiades.stoa.org/places/805635)
+
+
 ## Narnia (Q105392316)
 [https://www.wikidata.org/wiki/Q105392316](https://www.wikidata.org/wiki/Q105392316)  
 
@@ -14571,6 +14956,13 @@
  - [Nea Moni](https://pleiades.stoa.org/places/514403427)
 
 
+## Nebelivka (Q18210754)
+[https://www.wikidata.org/wiki/Q18210754](https://www.wikidata.org/wiki/Q18210754)  
+
+### alignments:
+ - [Nebelivka](https://pleiades.stoa.org/places/783634737)
+
+
 ## Necropoli del Poggino (Q3874141)
 [https://www.wikidata.org/wiki/Q3874141](https://www.wikidata.org/wiki/Q3874141)  
 
@@ -14597,6 +14989,13 @@
 
 ### alignments:
  - [Axia](https://pleiades.stoa.org/places/413048)
+
+
+## Necropolis of Contrada Buffa (Q111957932)
+[https://www.wikidata.org/wiki/Q111957932](https://www.wikidata.org/wiki/Q111957932)  
+
+### alignments:
+ - [Buffa necropolis](https://pleiades.stoa.org/places/725373390)
 
 
 ## Necropolis of Filigosa (Q1975256)
@@ -14849,6 +15248,13 @@
 
 ### alignments:
  - [Germanicum Mare](https://pleiades.stoa.org/places/20469)
+
+
+## Northchurch Roman villa (Q60847951)
+[https://www.wikidata.org/wiki/Q60847951](https://www.wikidata.org/wiki/Q60847951)  
+
+### alignments:
+ - [Northchurch](https://pleiades.stoa.org/places/79620)
 
 
 ## Northern postern gate, Dura-Europos (Q116622102)
@@ -15768,6 +16174,13 @@
  - [Paleochristian basilica, Illa del Rei](https://pleiades.stoa.org/places/260468071)
 
 
+## paleochristian basilica of Lugdunum Convenarum (Q56682419)
+[https://www.wikidata.org/wiki/Q56682419](https://www.wikidata.org/wiki/Q56682419)  
+
+### alignments:
+ - [paleochristian basilica of Lugdunum Convenarum](https://pleiades.stoa.org/places/94252436)
+
+
 ## Pallantion (Q11939941)
 [https://www.wikidata.org/wiki/Q11939941](https://www.wikidata.org/wiki/Q11939941)  
 
@@ -16046,6 +16459,13 @@
 
 ### alignments:
  - [Passo Lombardo](https://pleiades.stoa.org/places/659743014)
+
+
+## Pasture House turret 3a (Q17642719)
+[https://www.wikidata.org/wiki/Q17642719](https://www.wikidata.org/wiki/Q17642719)  
+
+### alignments:
+ - [Pasture House Turret 3A](https://pleiades.stoa.org/places/189058537)
 
 
 ## Patroklos, Attica (Q1145107)
@@ -19206,13 +19626,6 @@
  - [Lake Tana](https://pleiades.stoa.org/places/416452801)
 
 
-## Q116706
-[https://www.wikidata.org/wiki/Q116706](https://www.wikidata.org/wiki/Q116706)  
-
-### alignments:
- - [Fabrateria Vetus](https://pleiades.stoa.org/places/432826)
-
-
 ## Q116810261: Koyuk Shahri
 [https://www.wikidata.org/wiki/Q116810261](https://www.wikidata.org/wiki/Q116810261)  
 
@@ -19246,6 +19659,13 @@
 
 ### alignments:
  - [Temple of Kalabsha](https://pleiades.stoa.org/places/996473998)
+
+
+## Q117191836
+[https://www.wikidata.org/wiki/Q117191836](https://www.wikidata.org/wiki/Q117191836)  
+
+### alignments:
+ - [Santuario dei Tre Santi (Alfio, Filadelfio e Cirino)](https://pleiades.stoa.org/places/916097591)
 
 
 ## Q117210: Arch of Germanicus
@@ -20965,13 +21385,6 @@
  - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
 
 
-## Q1372270
-[https://www.wikidata.org/wiki/Q1372270](https://www.wikidata.org/wiki/Q1372270)  
-
-### alignments:
- - [Patibīri](https://pleiades.stoa.org/places/771224406)
-
-
 ## Q1375099: Euromos
 [https://www.wikidata.org/wiki/Q1375099](https://www.wikidata.org/wiki/Q1375099)  
 
@@ -21453,45 +21866,6 @@
 
 ### alignments:
  - [Arnsburg](https://pleiades.stoa.org/places/118575)
-
-
-## Q15196890
-[https://www.wikidata.org/](https://www.wikidata.org/)  
-
-### alignments:
- - [*Igaeditania?](https://pleiades.stoa.org/places/256220)
- - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
- - [Aphrodisias](https://pleiades.stoa.org/places/638753)
- - [Arzâ ](https://pleiades.stoa.org/places/309101265)
- - [Balāwāt](https://pleiades.stoa.org/places/924247288)
- - [Bartlow Hills](https://pleiades.stoa.org/places/79317)
- - [Cabum?](https://pleiades.stoa.org/places/422857)
- - [Cannatello](https://pleiades.stoa.org/places/491524938)
- - [Cholleidai](https://pleiades.stoa.org/places/585901)
- - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
- - [Girmua](https://pleiades.stoa.org/places/248782116)
- - [Granicus (river)](https://pleiades.stoa.org/places/511260)
- - [La Rustica](https://pleiades.stoa.org/places/423026)
- - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
- - [Macael](https://pleiades.stoa.org/places/265957)
- - [Magnum (promontory)](https://pleiades.stoa.org/places/256282)
- - [Marad](https://pleiades.stoa.org/places/912901)
- - [Mount Judi](https://pleiades.stoa.org/places/471828778)
- - [Necropoli del Cavone di Monte Li Santi](https://pleiades.stoa.org/places/706729425)
- - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
- - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
- - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
- - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
- - [Sala](https://pleiades.stoa.org/places/275696)
- - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
- - [Side](https://pleiades.stoa.org/places/570669)
- - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
- - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
- - [Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/811119037)
- - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
- - [Via Francigena](https://pleiades.stoa.org/places/136661131)
- - [Yaat](https://pleiades.stoa.org/places/668398)
- - [Çatıören](https://pleiades.stoa.org/places/779964391)
 
 
 ## Q15209931: Kotilion mountain
@@ -31452,6 +31826,13 @@
  - [Archaeological Site at Plasi of Marathon](https://pleiades.stoa.org/places/226716587)
 
 
+## Q56409652
+[https://www.wikidata.org/wiki/Q56409652](https://www.wikidata.org/wiki/Q56409652)  
+
+### alignments:
+ - [Civita di Artena](https://pleiades.stoa.org/places/795348768)
+
+
 ## Q56441631: Sacellum Streniae
 [https://www.wikidata.org/wiki/Q56441631](https://www.wikidata.org/wiki/Q56441631)  
 
@@ -33137,6 +33518,43 @@
 
 ### alignments:
  - [Kyz Kala](https://pleiades.stoa.org/places/61601089)
+
+
+## Q66764237: Egitania
+[https://www.wikidata.org/](https://www.wikidata.org/)  
+
+### alignments:
+ - [*Igaeditania?](https://pleiades.stoa.org/places/256220)
+ - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
+ - [Aphrodisias](https://pleiades.stoa.org/places/638753)
+ - [Arzâ ](https://pleiades.stoa.org/places/309101265)
+ - [Balāwāt](https://pleiades.stoa.org/places/924247288)
+ - [Cabum?](https://pleiades.stoa.org/places/422857)
+ - [Cannatello](https://pleiades.stoa.org/places/491524938)
+ - [Cholleidai](https://pleiades.stoa.org/places/585901)
+ - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
+ - [Girmua](https://pleiades.stoa.org/places/248782116)
+ - [Granicus (river)](https://pleiades.stoa.org/places/511260)
+ - [La Rustica](https://pleiades.stoa.org/places/423026)
+ - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+ - [Macael](https://pleiades.stoa.org/places/265957)
+ - [Magnum (promontory)](https://pleiades.stoa.org/places/256282)
+ - [Marad](https://pleiades.stoa.org/places/912901)
+ - [Mount Judi](https://pleiades.stoa.org/places/471828778)
+ - [Necropoli del Cavone di Monte Li Santi](https://pleiades.stoa.org/places/706729425)
+ - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
+ - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
+ - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
+ - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
+ - [Sala](https://pleiades.stoa.org/places/275696)
+ - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
+ - [Side](https://pleiades.stoa.org/places/570669)
+ - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
+ - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
+ - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
+ - [Via Francigena](https://pleiades.stoa.org/places/136661131)
+ - [Yaat](https://pleiades.stoa.org/places/668398)
+ - [Çatıören](https://pleiades.stoa.org/places/779964391)
 
 
 ## Q66813871: Eye of Lileika
@@ -35708,6 +36126,13 @@
  - [Anava (river)](https://pleiades.stoa.org/places/89103)
 
 
+## River Boyne (Q896037)
+[https://www.wikidata.org/wiki/Q896037](https://www.wikidata.org/wiki/Q896037)  
+
+### alignments:
+ - [Bououinda (river)](https://pleiades.stoa.org/places/79337)
+
+
 ## River Dee (Q7337328)
 [https://www.wikidata.org/wiki/Q7337328](https://www.wikidata.org/wiki/Q7337328)  
 
@@ -35877,6 +36302,13 @@
  - [Valcamonica](https://pleiades.stoa.org/places/540718543)
 
 
+## Rockbourne Roman Villa (Q7354971)
+[https://www.wikidata.org/wiki/Q7354971](https://www.wikidata.org/wiki/Q7354971)  
+
+### alignments:
+ - [Rockbourne](https://pleiades.stoa.org/places/79659)
+
+
 ## Roman agora of Corinth (Q125523468)
 [https://www.wikidata.org/wiki/Q125523468](https://www.wikidata.org/wiki/Q125523468)  
 
@@ -36038,6 +36470,13 @@
  - [Saint-Thibéry Roman Bridge](https://pleiades.stoa.org/places/601039651)
 
 
+## Roman Bridge (Q25410192)
+[https://www.wikidata.org/wiki/Q25410192](https://www.wikidata.org/wiki/Q25410192)  
+
+### alignments:
+ - [Unnamed Roman bridge (Fidenza)](https://pleiades.stoa.org/places/160277607)
+
+
 ## Roman bridge (Q55188945)
 [https://www.wikidata.org/wiki/Q55188945](https://www.wikidata.org/wiki/Q55188945)  
 
@@ -36197,6 +36636,13 @@
 
 ### alignments:
  - [Villa Cardillio](https://pleiades.stoa.org/places/792786063)
+
+
+## Roman settlement at Wilderspool (Q17640811)
+[https://www.wikidata.org/wiki/Q17640811](https://www.wikidata.org/wiki/Q17640811)  
+
+### alignments:
+ - [Wilderspool](https://pleiades.stoa.org/places/79763)
 
 
 ## Roman settlement, part of an associated field system and earlier Iron Age settlement remains at Gatcombe Farm (Q17676263)
@@ -36528,11 +36974,25 @@
  - [Langton](https://pleiades.stoa.org/places/89223)
 
 
+## Roman villa adjoining Watery Lane (Q17648401)
+[https://www.wikidata.org/wiki/Q17648401](https://www.wikidata.org/wiki/Q17648401)  
+
+### alignments:
+ - [Grimston](https://pleiades.stoa.org/places/79494)
+
+
 ## Roman villa at Anagnina Metro station (Q130485525)
 [https://www.wikidata.org/wiki/Q130485525](https://www.wikidata.org/wiki/Q130485525)  
 
 ### alignments:
  - [Roman villa at Anagnina Metro station ](https://pleiades.stoa.org/places/776367157)
+
+
+## Roman villa at Gayton Thorpe (Q17648447)
+[https://www.wikidata.org/wiki/Q17648447](https://www.wikidata.org/wiki/Q17648447)  
+
+### alignments:
+ - [Gayton Thorpe](https://pleiades.stoa.org/places/79478)
 
 
 ## Roman villa of Can Llauder (Q4893109)
@@ -38299,6 +38759,13 @@
  - [Horologium Augusti](https://pleiades.stoa.org/places/986274170)
 
 
+## Solnitsata (Q3489535)
+[https://www.wikidata.org/wiki/Q3489535](https://www.wikidata.org/wiki/Q3489535)  
+
+### alignments:
+ - [Provadii͡a-Solnit͡sata](https://pleiades.stoa.org/places/802858342)
+
+
 ## Solothurn (Q68965)
 [https://www.wikidata.org/wiki/Q68965](https://www.wikidata.org/wiki/Q68965)  
 
@@ -38467,6 +38934,13 @@
  - [Sri Lanka](https://pleiades.stoa.org/places/50298)
 
 
+## St Asaph (Q548248)
+[https://www.wikidata.org/wiki/Q548248](https://www.wikidata.org/wiki/Q548248)  
+
+### alignments:
+ - [Varis](https://pleiades.stoa.org/places/79730)
+
+
 ## St. Catherine's Hill (Q7587432)
 [https://www.wikidata.org/wiki/Q7587432](https://www.wikidata.org/wiki/Q7587432)  
 
@@ -38605,6 +39079,13 @@
 
 ### alignments:
  - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
+
+
+## Stonea Camp (Q7619094)
+[https://www.wikidata.org/wiki/Q7619094](https://www.wikidata.org/wiki/Q7619094)  
+
+### alignments:
+ - [Stonea](https://pleiades.stoa.org/places/79696)
 
 
 ## Stonehenge (Q39671)
@@ -38970,6 +39451,13 @@
 
 ### alignments:
  - [Talati de Dalt](https://pleiades.stoa.org/places/269068128)
+
+
+## Talianki (Q7679481)
+[https://www.wikidata.org/wiki/Q7679481](https://www.wikidata.org/wiki/Q7679481)  
+
+### alignments:
+ - [Talianki](https://pleiades.stoa.org/places/102929719)
 
 
 ## Tall Bazi (Q2390471)
@@ -39449,6 +39937,13 @@
  - [Temple of Augustus, Barcelona](https://pleiades.stoa.org/places/592223249)
 
 
+## Temple of Beit el-Wali (Q3517508)
+[https://www.wikidata.org/wiki/Q3517508](https://www.wikidata.org/wiki/Q3517508)  
+
+### alignments:
+ - [Beit el-Wali](https://pleiades.stoa.org/places/795784)
+
+
 ## Temple of Bel (Q797481)
 [https://www.wikidata.org/wiki/Q797481](https://www.wikidata.org/wiki/Q797481)  
 
@@ -39708,6 +40203,13 @@
  - [Yeha Temple](https://pleiades.stoa.org/places/763458797)
 
 
+## Temple of Zeus at Phaleron (Q124646272)
+[https://www.wikidata.org/wiki/Q124646272](https://www.wikidata.org/wiki/Q124646272)  
+
+### alignments:
+ - [Temple of Zeus at Phaleron](https://pleiades.stoa.org/places/457406454)
+
+
 ## Temple of Zeus Kyrios/Baal-Shamin (Q38199291)
 [https://www.wikidata.org/wiki/Q38199291](https://www.wikidata.org/wiki/Q38199291)  
 
@@ -39951,6 +40453,13 @@
 
 ### alignments:
  - [Barburgh Mill Roman fortlet](https://pleiades.stoa.org/places/655739578)
+
+
+## The Wash (Q1463998)
+[https://www.wikidata.org/wiki/Q1463998](https://www.wikidata.org/wiki/Q1463998)  
+
+### alignments:
+ - [Metaris Eischusis](https://pleiades.stoa.org/places/79600)
 
 
 ## The Wrekin (Q2914585)
@@ -40226,6 +40735,13 @@
  - [Throni tower](https://pleiades.stoa.org/places/558185735)
 
 
+## Thruxton Roman Villa (Q124791408)
+[https://www.wikidata.org/wiki/Q124791408](https://www.wikidata.org/wiki/Q124791408)  
+
+### alignments:
+ - [Thruxton](https://pleiades.stoa.org/places/79713)
+
+
 ## Thuburbo Majus (Q1967945)
 [https://www.wikidata.org/wiki/Q1967945](https://www.wikidata.org/wiki/Q1967945)  
 
@@ -40457,6 +40973,13 @@
  - [Tolfa](https://pleiades.stoa.org/places/971724591)
 
 
+## Tomb Garden of Aurelius Inachus (Q130469673)
+[https://www.wikidata.org/wiki/Q130469673](https://www.wikidata.org/wiki/Q130469673)  
+
+### alignments:
+ - [Tomb Garden of Aur(elius) Inachus](https://pleiades.stoa.org/places/811119037)
+
+
 ## Tomb of Annedia and Lucius Caesius (Q127510370)
 [https://www.wikidata.org/wiki/Q127510370](https://www.wikidata.org/wiki/Q127510370)  
 
@@ -40639,6 +41162,13 @@
  - [Tomb of the Stronnii](https://pleiades.stoa.org/places/90074311)
 
 
+## Tomb of Tiberius Claudius Secundus (Q110832905)
+[https://www.wikidata.org/wiki/Q110832905](https://www.wikidata.org/wiki/Q110832905)  
+
+### alignments:
+ - [Tomb of Tiberius Claudius Secundus](https://pleiades.stoa.org/places/806179538)
+
+
 ## Tomba del Duce (Q3531029)
 [https://www.wikidata.org/wiki/Q3531029](https://www.wikidata.org/wiki/Q3531029)  
 
@@ -40756,6 +41286,13 @@
 
 ### alignments:
  - [Torthyneion](https://pleiades.stoa.org/places/570742)
+
+
+## Totternhoe Roman villa (Q20979113)
+[https://www.wikidata.org/wiki/Q20979113](https://www.wikidata.org/wiki/Q20979113)  
+
+### alignments:
+ - [Totternhoe Roman Villa](https://pleiades.stoa.org/places/79720)
 
 
 ## Tourves (Q818280)
@@ -40945,6 +41482,13 @@
 
 ### alignments:
  - [Tower 9](https://pleiades.stoa.org/places/980015039)
+
+
+## Tower of Caepio (Q131824651)
+[https://www.wikidata.org/wiki/Q131824651](https://www.wikidata.org/wiki/Q131824651)  
+
+### alignments:
+ - [Caepionis Monu.](https://pleiades.stoa.org/places/256038)
 
 
 ## Tower of Chrysokamaro (Q108664776)
@@ -41347,11 +41891,46 @@
  - [Tourmanin](https://pleiades.stoa.org/places/658626)
 
 
+## Turret 0B (St. Francis) (Q131816808)
+[https://www.wikidata.org/wiki/Q131816808](https://www.wikidata.org/wiki/Q131816808)  
+
+### alignments:
+ - [Turret 0B (St. Francis)](https://pleiades.stoa.org/places/967060285)
+
+
+## Turret 1A (Q131819630)
+[https://www.wikidata.org/wiki/Q131819630](https://www.wikidata.org/wiki/Q131819630)  
+
+### alignments:
+ - [Turret 1A](https://pleiades.stoa.org/places/967060286)
+
+
+## Turret 1B (Q131819650)
+[https://www.wikidata.org/wiki/Q131819650](https://www.wikidata.org/wiki/Q131819650)  
+
+### alignments:
+ - [Turret 1B](https://pleiades.stoa.org/places/967060288)
+
+
 ## Turret 22B (Stanley) (Q131708490)
 [https://www.wikidata.org/wiki/Q131708490](https://www.wikidata.org/wiki/Q131708490)  
 
 ### alignments:
  - [Turret 22B (Stanley)](https://pleiades.stoa.org/places/967060250)
+
+
+## Turret 2A (Q131819663)
+[https://www.wikidata.org/wiki/Q131819663](https://www.wikidata.org/wiki/Q131819663)  
+
+### alignments:
+ - [Turret 2A](https://pleiades.stoa.org/places/967060276)
+
+
+## Turret 2B (Q131819678)
+[https://www.wikidata.org/wiki/Q131819678](https://www.wikidata.org/wiki/Q131819678)  
+
+### alignments:
+ - [Turret 2B](https://pleiades.stoa.org/places/967060311)
 
 
 ## Turret 30A (Carrowburgh East) (Q131721667)
@@ -41366,6 +41945,20 @@
 
 ### alignments:
  - [Turret 33B (Coesike)](https://pleiades.stoa.org/places/967060270)
+
+
+## Turret 3A (Q131820379)
+[https://www.wikidata.org/wiki/Q131820379](https://www.wikidata.org/wiki/Q131820379)  
+
+### alignments:
+ - [Turret 3A](https://pleiades.stoa.org/places/967060314)
+
+
+## Turret 3B (Q131820388)
+[https://www.wikidata.org/wiki/Q131820388](https://www.wikidata.org/wiki/Q131820388)  
+
+### alignments:
+ - [Turret 3B](https://pleiades.stoa.org/places/967060313)
 
 
 ## Turret 45B (Walltown West) (Q113673897)
@@ -41394,6 +41987,13 @@
 
 ### alignments:
  - [Turret 49B (Birdoswald)](https://pleiades.stoa.org/places/967060305)
+
+
+## Turret 4B (Q131820410)
+[https://www.wikidata.org/wiki/Q131820410](https://www.wikidata.org/wiki/Q131820410)  
+
+### alignments:
+ - [Turret 4B](https://pleiades.stoa.org/places/967060317)
 
 
 ## Turret 5A (Q131721732)
@@ -42104,6 +42704,13 @@
  - [Monte Gentili](https://pleiades.stoa.org/places/178764324)
 
 
+## Villa of Caesar and Maxentius at San Cesareo (Q131364669)
+[https://www.wikidata.org/wiki/Q131364669](https://www.wikidata.org/wiki/Q131364669)  
+
+### alignments:
+ - [Villa of Caesar and Maxentius at San Cesareo](https://pleiades.stoa.org/places/716857195)
+
+
 ## Villa of L. Crassius Tertius (Q55588235)
 [https://www.wikidata.org/wiki/Q55588235](https://www.wikidata.org/wiki/Q55588235)  
 
@@ -42181,11 +42788,32 @@
  - [Paduline villa](https://pleiades.stoa.org/places/922522298)
 
 
+## Villa Romana di contrada Geraci (Q38250970)
+[https://www.wikidata.org/wiki/Q38250970](https://www.wikidata.org/wiki/Q38250970)  
+
+### alignments:
+ - [Gerace Roman Villa](https://pleiades.stoa.org/places/462217)
+
+
 ## Villa Romana do Montinho das Laranjeiras (Q10391475)
 [https://www.wikidata.org/wiki/Q10391475](https://www.wikidata.org/wiki/Q10391475)  
 
 ### alignments:
  - [Montinho das Laranjeiras](https://pleiades.stoa.org/places/256311)
+
+
+## Villa Rufinella (Q3558780)
+[https://www.wikidata.org/wiki/Q3558780](https://www.wikidata.org/wiki/Q3558780)  
+
+### alignments:
+ - [Villa Rufinella](https://pleiades.stoa.org/places/803980452)
+
+
+## Villa rustica of Spoonley Wood (Q12069819)
+[https://www.wikidata.org/wiki/Q12069819](https://www.wikidata.org/wiki/Q12069819)  
+
+### alignments:
+ - [Spoonley](https://pleiades.stoa.org/places/79693)
 
 
 ## Villanueva de la Reina (Q1641608)
@@ -42454,6 +43082,13 @@
  - [Wall0042, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/326931718)
 
 
+## Wall0049 Baptistery, Christian house church (Q116950456)
+[https://www.wikidata.org/wiki/Q116950456](https://www.wikidata.org/wiki/Q116950456)  
+
+### alignments:
+ - [Wall0049, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/806747537)
+
+
 ## Wall0050 Baptistery, Christian house church (Q116950457)
 [https://www.wikidata.org/wiki/Q116950457](https://www.wikidata.org/wiki/Q116950457)  
 
@@ -42501,6 +43136,13 @@
 
 ### alignments:
  - [Walwick Fell Roman temporary camp](https://pleiades.stoa.org/places/34684511)
+
+
+## Wanstead Roman Villa (Q30674026)
+[https://www.wikidata.org/wiki/Q30674026](https://www.wikidata.org/wiki/Q30674026)  
+
+### alignments:
+ - [Wanstead](https://pleiades.stoa.org/places/79747)
 
 
 ## Wari-Bateshwar ruins (Q7969421)

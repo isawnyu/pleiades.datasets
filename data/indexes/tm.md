@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4047 alignments exist in _Pleiades_ place references as of 2025-01-17. The following list of alignments is grouped by zotkey.
+4057 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5337,6 +5337,13 @@
  - [Isca Silurum](https://pleiades.stoa.org/places/79532)
 
 
+## GEO ID 14585: Letocetum (Wall)
+[http://www.trismegistos.org/place/14585](http://www.trismegistos.org/place/14585)  
+
+### alignments:
+ - [*Letocetum](https://pleiades.stoa.org/places/79559)
+
+
 ## GEO ID 14586: Salinae (Middlewich)
 [http://www.trismegistos.org/place/14586](http://www.trismegistos.org/place/14586)  
 
@@ -5393,6 +5400,13 @@
  - [‘Vernemeto’](https://pleiades.stoa.org/places/79737)
 
 
+## GEO ID 14629: Wilderspool
+[http://www.trismegistos.org/place/14629](http://www.trismegistos.org/place/14629)  
+
+### alignments:
+ - [Wilderspool](https://pleiades.stoa.org/places/79763)
+
+
 ## GEO ID 1463: Nikiou (Zawyet Razin)
 [http://www.trismegistos.org/place/1463](http://www.trismegistos.org/place/1463)  
 
@@ -5447,6 +5461,13 @@
 
 ### alignments:
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
+
+
+## GEO ID 14697: Lactodurum (Towcester)
+[http://www.trismegistos.org/place/14697](http://www.trismegistos.org/place/14697)  
+
+### alignments:
+ - [Lactodorum](https://pleiades.stoa.org/places/79552)
 
 
 ## GEO ID 1469: Nikopolis (Sidi Gaber)
@@ -5784,6 +5805,13 @@
 
 ### alignments:
  - [Ilkley (Verbeia?)](https://pleiades.stoa.org/places/89205)
+
+
+## GEO ID 15078: Lindinis (Ilchester)
+[http://www.trismegistos.org/place/15078](http://www.trismegistos.org/place/15078)  
+
+### alignments:
+ - [Lindinis](https://pleiades.stoa.org/places/79565)
 
 
 ## GEO ID 15087
@@ -8158,6 +8186,13 @@
  - [Venonis](https://pleiades.stoa.org/places/79732)
 
 
+## GEO ID 18972: Bannaventa (Whilton Lodge)
+[http://www.trismegistos.org/place/18972](http://www.trismegistos.org/place/18972)  
+
+### alignments:
+ - [Bannaventa](https://pleiades.stoa.org/places/79313)
+
+
 ## GEO ID 18976: Senomagus (Yoxford?)
 [http://www.trismegistos.org/place/18976](http://www.trismegistos.org/place/18976)  
 
@@ -8184,6 +8219,13 @@
 
 ### alignments:
  - [Via Flaminia](https://pleiades.stoa.org/places/856514595)
+
+
+## GEO ID 18980: Durolitum (Chigwell)
+[https://www.trismegistos.org/place/18980](https://www.trismegistos.org/place/18980)  
+
+### alignments:
+ - [Durolitum](https://pleiades.stoa.org/places/79437)
 
 
 ## GEO ID 18982: Varis (St Asaph)
@@ -8396,6 +8438,13 @@
  - [Ouxella (river)](https://pleiades.stoa.org/places/83875)
 
 
+## GEO ID 19635: Herakleous Akron (Hartland Point)
+[http://www.trismegistos.org/place/19635](http://www.trismegistos.org/place/19635)  
+
+### alignments:
+ - [Herakleous Akron](https://pleiades.stoa.org/places/79508)
+
+
 ## GEO ID 19636: Antiouestaion Akron (Land's End)
 [http://www.trismegistos.org/place/19636](http://www.trismegistos.org/place/19636)  
 
@@ -8571,7 +8620,7 @@
  - [Macatonion](https://pleiades.stoa.org/places/83859)
 
 
-## GEO ID 19790
+## GEO ID 19790: Levobrinta
 [http://www.trismegistos.org/place/19790](http://www.trismegistos.org/place/19790)  
 
 ### alignments:
@@ -15293,11 +15342,11 @@
  - [Bruttii](https://pleiades.stoa.org/places/452275)
 
 
-## GEO ID 33155
+## GEO ID 33155: Venetia et Histria (Regio X)
 [http://www.trismegistos.org/place/33155](http://www.trismegistos.org/place/33155)  
 
 ### alignments:
- - [Venetia et Histria](https://pleiades.stoa.org/places/991349)
+ - [Venetia et Histria (province)](https://pleiades.stoa.org/places/991349)
 
 
 ## GEO ID 33156
@@ -24375,6 +24424,13 @@
  - [Valseni](https://pleiades.stoa.org/places/241015)
 
 
+## GEO ID 46397: Monte Artesino di Nicosia
+[http://www.trismegistos.org/place/46397](http://www.trismegistos.org/place/46397)  
+
+### alignments:
+ - [Monte Artesino di Nicosia](https://pleiades.stoa.org/places/462328)
+
+
 ## GEO ID 46398: Kakyron (Monte Saraceno)
 [http://www.trismegistos.org/place/46398](http://www.trismegistos.org/place/46398)  
 
@@ -25088,6 +25144,13 @@
 
 ### alignments:
  - [Emporion](https://pleiades.stoa.org/places/452323)
+
+
+## GEO ID 50356: Adranon (Monte Adranone)
+[http://www.trismegistos.org/place/50356](http://www.trismegistos.org/place/50356)  
+
+### alignments:
+ - [Monte Adranone (Adranon?)](https://pleiades.stoa.org/places/462073)
 
 
 ## GEO ID 50358: Leukos Limen (Minet el-Beida)
@@ -26525,6 +26588,13 @@
 
 ### alignments:
  - [Scylla](https://pleiades.stoa.org/places/452436)
+
+
+## GEO ID 61084: Metauron (Gioia Tauro)
+[https://www.trismegistos.org/place/61084](https://www.trismegistos.org/place/61084)  
+
+### alignments:
+ - [Metaurum](https://pleiades.stoa.org/places/452379)
 
 
 ## GEO ID 61126: Encheleioi
