@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/01/12 06:48:9.438143 US/Eastern
+# Date: 2025/01/19 06:48:6.470099 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4879
+# Triple count: 4880
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -688,11 +688,11 @@
     rdfs:comment "A tenth-century church built on the site of a Roman structure that was either a temple or a tomb dating ca. 160 CE.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/55607045> .
 
-<https://pleiades.stoa.org/errata/55607045/location-of-church-of-santurbano-alla-caffarella> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "verified in Google Earth 2013";
-    dcterms:modified "2016-07-19T12:49:05-04:00";
-    dcterms:title "Imagery location of Church of Sant'Urbano alla Caffarella";
-    owl:sameAs <http://pleiades.stoa.org/errata/55607045/location-of-church-of-santurbano-alla-caffarella> .
+<https://pleiades.stoa.org/errata/55607045/osm-location-of-chiesa-di-santurbano-alla> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap";
+    dcterms:modified "2025-01-15T13:27:28-05:00";
+    dcterms:title "OSM location of Chiesa di Sant'Urbano alla Caffarella";
+    owl:sameAs <http://pleiades.stoa.org/errata/55607045/osm-location-of-chiesa-di-santurbano-alla> .
 
 <https://pleiades.stoa.org/errata/570408%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erroneous Duplicate: Ladon (river)";
@@ -3046,7 +3046,7 @@
     dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A tenth-century church built on the site of a Roman structure that was either a temple or a tomb dating ca. 160 CE.";
-    dcterms:modified "2024-07-31T22:54:15-04:00";
+    dcterms:modified "2025-01-15T13:27:42-05:00";
     dcterms:title "Church of Sant'Urbano alla Caffarella";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q3672882>;
     cito:citesForInformation <http://en.wikipedia.org/wiki/Church_of_Sant%2527Urbano_alla_Caffarella>,
@@ -3054,11 +3054,13 @@
     rdfs:seeAlso <https://pleiades.stoa.org/places/422889>,
         <https://pleiades.stoa.org/places/423025>;
     owl:sameAs <http://pleiades.stoa.org/errata/55607045>;
+    geo:lat 41.85786975;
+    geo:long 12.52431835;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/church-2>,
         <https://pleiades.stoa.org/vocabularies/temple-2>;
-    pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-church-of-santurbano-alla-caffarella> .
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-chiesa-di-santurbano-alla> .
 
 <https://pleiades.stoa.org/errata/570408> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -4592,15 +4594,6 @@
     pleiades:end_date 300;
     pleiades:start_date -30 .
 
-<https://pleiades.stoa.org/errata/location-of-church-of-santurbano-alla-caffarella> a <https://pleiades.stoa.org/places/vocab#Location>;
-    owl:sameAs <http://pleiades.stoa.org/errata/location-of-church-of-santurbano-alla-caffarella>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/late-antique>,
-        <https://pleiades.stoa.org/vocabularies/mediaeval-byzantine>,
-        <https://pleiades.stoa.org/vocabularies/roman>;
-    pleiades:end_date 1453;
-    pleiades:start_date -30 .
-
 <https://pleiades.stoa.org/errata/location-of-ekklesiasterion> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 1720486169",
         "Wikipedia (Italian) Morgantina";
@@ -4727,6 +4720,14 @@
     pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
     pleiades:end_date 2100;
     pleiades:start_date 1700 .
+
+<https://pleiades.stoa.org/errata/osm-location-of-chiesa-di-santurbano-alla> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[12.5244248, 41.8578034], [12.5244411, 41.8579179], [12.5242119, 41.8579361], [12.5241956, 41.8578216], [12.5244248, 41.8578034]]]}";
+    osgeo:asWKT "POLYGON ((12.5244248000000002 41.8578034000000017, 12.5244411000000007 41.8579178999999968, 12.5242118999999992 41.8579361000000034, 12.5241956000000005 41.8578216000000012, 12.5244248000000002 41.8578034000000017))";
+    dcterms:bibliographicCitation "OSM Way 23956788";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/23956788>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-chiesa-di-santurbano-alla>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 23956788, version 9, osm:changeset=143781098, 2023-11-08T13:37:59Z)" ] .
 
 <https://pleiades.stoa.org/errata/osm-location-of-sanctuary-of-zeus-pan-hellenios> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 8494874194";
