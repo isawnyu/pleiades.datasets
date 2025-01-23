@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6229 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
+6262 alignments exist in _Pleiades_ place references as of 2025-01-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -658,6 +658,13 @@
 
 ### alignments:
  - [Sennabris/Ginnabris](https://pleiades.stoa.org/places/678386)
+
+
+## Al-Ula (Q27242)
+[https://www.wikidata.org/wiki/Q27242](https://www.wikidata.org/wiki/Q27242)  
+
+### alignments:
+ - [Dedan/al-'Ula](https://pleiades.stoa.org/places/814671)
 
 
 ## Ala (Q243644)
@@ -6087,6 +6094,13 @@
  - [Cholargos](https://pleiades.stoa.org/places/579902)
 
 
+## Choragic Monument of Lysicrates (Q1160691)
+[https://www.wikidata.org/wiki/Q1160691](https://www.wikidata.org/wiki/Q1160691)  
+
+### alignments:
+ - [Choragic Monument of Lysicrates](https://pleiades.stoa.org/places/813654446)
+
+
 ## Chorazin (Q2456076)
 [https://www.wikidata.org/wiki/Q2456076](https://www.wikidata.org/wiki/Q2456076)  
 
@@ -6127,6 +6141,13 @@
 
 ### alignments:
  - [Church of Saint Panteleimon](https://pleiades.stoa.org/places/664535672)
+
+
+## Church of San Peter ad Oratorium (Q14754943)
+[https://www.wikidata.org/wiki/Q14754943](https://www.wikidata.org/wiki/Q14754943)  
+
+### alignments:
+ - [San Pietro ad Oratorium](https://pleiades.stoa.org/places/813943703)
 
 
 ## Church of Sant'Ilario a Port'Aurea (Q3672838)
@@ -7546,6 +7567,13 @@
  - [Dún Aonghasa](https://pleiades.stoa.org/places/902088536)
 
 
+## Dun Carloway (Q1265209)
+[https://www.wikidata.org/wiki/Q1265209](https://www.wikidata.org/wiki/Q1265209)  
+
+### alignments:
+ - [Dun Carloway](https://pleiades.stoa.org/places/814454572)
+
+
 ## Dur-Kurigalzu (Q622719)
 [https://www.wikidata.org/wiki/Q622719](https://www.wikidata.org/wiki/Q622719)  
 
@@ -7586,6 +7614,20 @@
 
 ### alignments:
  - [Durocobrivis](https://pleiades.stoa.org/places/79434)
+
+
+## Durocornovium (Q5316709)
+[https://www.wikidata.org/wiki/Q5316709](https://www.wikidata.org/wiki/Q5316709)  
+
+### alignments:
+ - [Durocornovium](https://pleiades.stoa.org/places/79435)
+
+
+## Durolevum (Q19872819)
+[https://www.wikidata.org/wiki/Q19872819](https://www.wikidata.org/wiki/Q19872819)  
+
+### alignments:
+ - [Durolevum](https://pleiades.stoa.org/places/799667225)
 
 
 ## Duroliponte (Q1267442)
@@ -8090,6 +8132,13 @@
 
 ### alignments:
  - [Erineos](https://pleiades.stoa.org/places/540769)
+
+
+## Ermin Street (Q3056737)
+[https://www.wikidata.org/wiki/Q3056737](https://www.wikidata.org/wiki/Q3056737)  
+
+### alignments:
+ - [Ermin Street](https://pleiades.stoa.org/places/26017958)
 
 
 ## Erymanthos (Q3555227)
@@ -13492,6 +13541,13 @@
  - [Menios (river)](https://pleiades.stoa.org/places/573369)
 
 
+## Meroë (Q5780)
+[https://www.wikidata.org/wiki/Q5780](https://www.wikidata.org/wiki/Q5780)  
+
+### alignments:
+ - [Meroe](https://pleiades.stoa.org/places/805630)
+
+
 ## Mersa Matruh (Q393829)
 [https://www.wikidata.org/wiki/Q393829](https://www.wikidata.org/wiki/Q393829)  
 
@@ -13793,6 +13849,20 @@
  - [Milecastle 25 (Codlawhill)](https://pleiades.stoa.org/places/967060295)
 
 
+## Milecastle 26 (Q6851163)
+[https://www.wikidata.org/wiki/Q6851163](https://www.wikidata.org/wiki/Q6851163)  
+
+### alignments:
+ - [Milecastle 26 (Planetrees)](https://pleiades.stoa.org/places/967060294)
+
+
+## Milecastle 27 (Q6851164)
+[https://www.wikidata.org/wiki/Q6851164](https://www.wikidata.org/wiki/Q6851164)  
+
+### alignments:
+ - [Milecastle 27 (Low Brunton)](https://pleiades.stoa.org/places/967060297)
+
+
 ## Milecastle 28 (Q6851166)
 [https://www.wikidata.org/wiki/Q6851166](https://www.wikidata.org/wiki/Q6851166)  
 
@@ -13812,6 +13882,27 @@
 
 ### alignments:
  - [Milecastle 3 (Ouseburn)](https://pleiades.stoa.org/places/967060312)
+
+
+## Milecastle 32 (Q6851172)
+[https://www.wikidata.org/wiki/Q6851172](https://www.wikidata.org/wiki/Q6851172)  
+
+### alignments:
+ - [Milecastle 32 (Carraw)](https://pleiades.stoa.org/places/967060269)
+
+
+## Milecastle 33 (Q6851171)
+[https://www.wikidata.org/wiki/Q6851171](https://www.wikidata.org/wiki/Q6851171)  
+
+### alignments:
+ - [Milecastle 33 (Shield-on-the-Wall)](https://pleiades.stoa.org/places/967060272)
+
+
+## Milecastle 34 (Q15253381)
+[https://www.wikidata.org/wiki/Q15253381](https://www.wikidata.org/wiki/Q15253381)  
+
+### alignments:
+ - [Milecastle 34 (Grindon)](https://pleiades.stoa.org/places/967060271)
 
 
 ## Milecastle 35 (Q16156487)
@@ -13927,6 +14018,20 @@
  - [Milecastle 51 (Wall Bowers)](https://pleiades.stoa.org/places/967060283)
 
 
+## Milecastle 52 (Q6851187)
+[https://www.wikidata.org/wiki/Q6851187](https://www.wikidata.org/wiki/Q6851187)  
+
+### alignments:
+ - [Milecastle 52 (Bankshead)](https://pleiades.stoa.org/places/967060278)
+
+
+## Milecastle 53 (Q6851189)
+[https://www.wikidata.org/wiki/Q6851189](https://www.wikidata.org/wiki/Q6851189)  
+
+### alignments:
+ - [Milecastle 53 (Banks Burn)](https://pleiades.stoa.org/places/967060243)
+
+
 ## Milecastle 55 (Q15378719)
 [https://www.wikidata.org/wiki/Q15378719](https://www.wikidata.org/wiki/Q15378719)  
 
@@ -13934,11 +14039,25 @@
  - [Milecastle 55 (Low Wall)](https://pleiades.stoa.org/places/967060237)
 
 
+## Milecastle 56 (Q16206492)
+[https://www.wikidata.org/wiki/Q16206492](https://www.wikidata.org/wiki/Q16206492)  
+
+### alignments:
+ - [Milecastle 56 (Walton)](https://pleiades.stoa.org/places/967060244)
+
+
 ## Milecastle 57 (Q16206501)
 [https://www.wikidata.org/wiki/Q16206501](https://www.wikidata.org/wiki/Q16206501)  
 
 ### alignments:
  - [Milecastle 57 (Cambeckhill)](https://pleiades.stoa.org/places/967060258)
+
+
+## Milecastle 60 (Q16156790)
+[https://www.wikidata.org/wiki/Q16156790](https://www.wikidata.org/wiki/Q16156790)  
+
+### alignments:
+ - [Milecastle 60 (High Strand)](https://pleiades.stoa.org/places/967060290)
 
 
 ## Milecastle 61 (Q16156802)
@@ -36217,6 +36336,13 @@
  - [Ratostabios? (river)](https://pleiades.stoa.org/places/79652)
 
 
+## River Tamar (Q578127)
+[https://www.wikidata.org/wiki/Q578127](https://www.wikidata.org/wiki/Q578127)  
+
+### alignments:
+ - [Tamaros (river)](https://pleiades.stoa.org/places/79704)
+
+
 ## River Taw (Q2155554)
 [https://www.wikidata.org/wiki/Q2155554](https://www.wikidata.org/wiki/Q2155554)  
 
@@ -36694,6 +36820,13 @@
  - [Roman Temple of Évora](https://pleiades.stoa.org/places/862813573)
 
 
+## Roman temporary camp at Dargues (Q17649894)
+[https://www.wikidata.org/wiki/Q17649894](https://www.wikidata.org/wiki/Q17649894)  
+
+### alignments:
+ - [Dargues](https://pleiades.stoa.org/places/811686778)
+
+
 ## Roman Theater at Cillium (Q130469920)
 [https://www.wikidata.org/wiki/Q130469920](https://www.wikidata.org/wiki/Q130469920)  
 
@@ -37056,6 +37189,13 @@
 
 ### alignments:
  - [Roman walls of Lugo](https://pleiades.stoa.org/places/49788037)
+
+
+## Romano-British villa 250m south of Park Farm (Q17674077)
+[https://www.wikidata.org/wiki/Q17674077](https://www.wikidata.org/wiki/Q17674077)  
+
+### alignments:
+ - [Romano-British villa 250m south of Park Farm](https://pleiades.stoa.org/places/628686199)
 
 
 ## Romano-British villa at Cockle Pits, near Brantingham (Q17662560)
@@ -40595,6 +40735,13 @@
  - [Themiskyra](https://pleiades.stoa.org/places/857350)
 
 
+## Thenford (Q2216331)
+[https://www.wikidata.org/wiki/Q2216331](https://www.wikidata.org/wiki/Q2216331)  
+
+### alignments:
+ - [Thenford](https://pleiades.stoa.org/places/79711)
+
+
 ## Therapne (Q15940498)
 [https://www.wikidata.org/wiki/Q15940498](https://www.wikidata.org/wiki/Q15940498)  
 
@@ -41288,6 +41435,13 @@
  - [Torthyneion](https://pleiades.stoa.org/places/570742)
 
 
+## Torybeia (Q7827500)
+[https://www.wikidata.org/wiki/Q7827500](https://www.wikidata.org/wiki/Q7827500)  
+
+### alignments:
+ - [Torybeia?](https://pleiades.stoa.org/places/531126)
+
+
 ## Totternhoe Roman villa (Q20979113)
 [https://www.wikidata.org/wiki/Q20979113](https://www.wikidata.org/wiki/Q20979113)  
 
@@ -41919,6 +42073,20 @@
  - [Turret 22B (Stanley)](https://pleiades.stoa.org/places/967060250)
 
 
+## Turret 26A (High Brunton) (Q131857659)
+[https://www.wikidata.org/wiki/Q131857659](https://www.wikidata.org/wiki/Q131857659)  
+
+### alignments:
+ - [Turret 26A (High Brunton)](https://pleiades.stoa.org/places/967060299)
+
+
+## Turret 29B (Limestone Bank) (Q131858154)
+[https://www.wikidata.org/wiki/Q131858154](https://www.wikidata.org/wiki/Q131858154)  
+
+### alignments:
+ - [Turret 29B (Limestone Bank)](https://pleiades.stoa.org/places/967060334)
+
+
 ## Turret 2A (Q131819663)
 [https://www.wikidata.org/wiki/Q131819663](https://www.wikidata.org/wiki/Q131819663)  
 
@@ -41940,11 +42108,39 @@
  - [Turret 30A (Carrowburgh East)](https://pleiades.stoa.org/places/967060336)
 
 
+## Turret 33A (Q131857379)
+[https://www.wikidata.org/wiki/Q131857379](https://www.wikidata.org/wiki/Q131857379)  
+
+### alignments:
+ - [Turret 33A](https://pleiades.stoa.org/places/967060273)
+
+
 ## Turret 33B (Coesike) (Q131717661)
 [https://www.wikidata.org/wiki/Q131717661](https://www.wikidata.org/wiki/Q131717661)  
 
 ### alignments:
  - [Turret 33B (Coesike)](https://pleiades.stoa.org/places/967060270)
+
+
+## Turret 34A (Grindon West) (Q131857394)
+[https://www.wikidata.org/wiki/Q131857394](https://www.wikidata.org/wiki/Q131857394)  
+
+### alignments:
+ - [Turret 34A (Grindon West)](https://pleiades.stoa.org/places/967060274)
+
+
+## Turret 35B (Busy Gap) (Q131857331)
+[https://www.wikidata.org/wiki/Q131857331](https://www.wikidata.org/wiki/Q131857331)  
+
+### alignments:
+ - [Turret 35B (Busy Gap)](https://pleiades.stoa.org/places/967060233)
+
+
+## Turret 37B (Hotbank Crag) (Q131857341)
+[https://www.wikidata.org/wiki/Q131857341](https://www.wikidata.org/wiki/Q131857341)  
+
+### alignments:
+ - [Turret 37B (Hotbank Crag)](https://pleiades.stoa.org/places/967060235)
 
 
 ## Turret 3A (Q131820379)
@@ -41994,6 +42190,13 @@
 
 ### alignments:
  - [Turret 4B](https://pleiades.stoa.org/places/967060317)
+
+
+## Turret 55A (Dovecote) (Q131858089)
+[https://www.wikidata.org/wiki/Q131858089](https://www.wikidata.org/wiki/Q131858089)  
+
+### alignments:
+ - [Turret 55A (Dovecote)](https://pleiades.stoa.org/places/967060236)
 
 
 ## Turret 5A (Q131721732)
@@ -42437,6 +42640,20 @@
  - [Villa del Vergigno, Montelupo Fiorentino](https://pleiades.stoa.org/places/584868518)
 
 
+## Verlucio (Q19740299)
+[https://www.wikidata.org/wiki/Q19740299](https://www.wikidata.org/wiki/Q19740299)  
+
+### alignments:
+ - [Verlucio](https://pleiades.stoa.org/places/79736)
+
+
+## Vernemetum (Q54555359)
+[https://www.wikidata.org/wiki/Q54555359](https://www.wikidata.org/wiki/Q54555359)  
+
+### alignments:
+ - [‘Vernemeto’](https://pleiades.stoa.org/places/79737)
+
+
 ## Verolengo (Q10343)
 [https://www.wikidata.org/wiki/Q10343](https://www.wikidata.org/wiki/Q10343)  
 
@@ -42716,6 +42933,13 @@
 
 ### alignments:
  - [Villa of L. Crassius Tertius](https://pleiades.stoa.org/places/612970100)
+
+
+## Villa of the Antonines (Q107453713)
+[https://www.wikidata.org/wiki/Q107453713](https://www.wikidata.org/wiki/Q107453713)  
+
+### alignments:
+ - [Villa degli Antonini](https://pleiades.stoa.org/places/422838)
 
 
 ## Villa of the Centroni (Q130485553)
@@ -43192,6 +43416,13 @@
 
 ### alignments:
  - [White Pyramid](https://pleiades.stoa.org/places/853958465)
+
+
+## Wick (Q1012502)
+[https://www.wikidata.org/wiki/Q1012502](https://www.wikidata.org/wiki/Q1012502)  
+
+### alignments:
+ - [Wick](https://pleiades.stoa.org/places/79762)
 
 
 ## Wikidata Q56666560: Easter Happrew, Roman fort

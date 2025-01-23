@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4057 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
+4058 alignments exist in _Pleiades_ place references as of 2025-01-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7218,6 +7218,13 @@
 
 ### alignments:
  - [Tiberias](https://pleiades.stoa.org/places/678431)
+
+
+## GEO ID 16868: Al-Ula
+[https://www.trismegistos.org/place/16868](https://www.trismegistos.org/place/16868)  
+
+### alignments:
+ - [Dedan/al-'Ula](https://pleiades.stoa.org/places/814671)
 
 
 ## GEO ID 16887: Emmaous (Amwas)

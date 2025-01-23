@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3614 alignments exist in _Pleiades_ place references as of 2025-01-21. The following list of alignments is grouped by zotkey.
+3616 alignments exist in _Pleiades_ place references as of 2025-01-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6416,6 +6416,13 @@
 
 ### alignments:
  - [Decastadium?](https://pleiades.stoa.org/places/452320)
+
+
+## Dedan (Arabia) al Ula
+[https://topostext.org/place/266379UDed](https://topostext.org/place/266379UDed)  
+
+### alignments:
+ - [Dedan/al-'Ula](https://pleiades.stoa.org/places/814671)
 
 
 ## Deiradiotai (Attica)
@@ -24035,6 +24042,13 @@
 
 ### alignments:
  - [Torthyneion](https://pleiades.stoa.org/places/570742)
+
+
+## Torybeia (Akarnania)
+[https://topostext.org/place/388211PTor](https://topostext.org/place/388211PTor)  
+
+### alignments:
+ - [Torybeia?](https://pleiades.stoa.org/places/531126)
 
 
 ## Toryne (Preveza)
