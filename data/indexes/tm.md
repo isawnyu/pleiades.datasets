@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4058 alignments exist in _Pleiades_ place references as of 2025-01-23. The following list of alignments is grouped by zotkey.
+4062 alignments exist in _Pleiades_ place references as of 2025-01-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6198,6 +6198,13 @@
  - [Koria](https://pleiades.stoa.org/places/92157)
 
 
+## GEO ID 15491: Barkway
+[http://www.trismegistos.org/place/15491](http://www.trismegistos.org/place/15491)  
+
+### alignments:
+ - [Barkway](https://pleiades.stoa.org/places/875809153)
+
+
 ## GEO ID 15504: Baldock
 [http://www.trismegistos.org/place/15504](http://www.trismegistos.org/place/15504)  
 
@@ -10909,6 +10916,13 @@
  - [*Vertillum?](https://pleiades.stoa.org/places/177656)
 
 
+## GEO ID 25443: Baetica
+[https://www.trismegistos.org/place/25443](https://www.trismegistos.org/place/25443)  
+
+### alignments:
+ - [Baetica](https://pleiades.stoa.org/places/862)
+
+
 ## GEO ID 2562
 [http://www.trismegistos.org/place/2562](http://www.trismegistos.org/place/2562)  
 
@@ -12688,6 +12702,13 @@
  - [Mediana](https://pleiades.stoa.org/places/207273)
 
 
+## GEO ID 29642: Viminacium (Drmno)
+[https://www.trismegistos.org/place/29642](https://www.trismegistos.org/place/29642)  
+
+### alignments:
+ - [Viminacium](https://pleiades.stoa.org/places/207549)
+
+
 ## GEO ID 29646: Municipium (Malo Crniće)
 [https://www.trismegistos.org/place/29646](https://www.trismegistos.org/place/29646)  
 
@@ -14206,6 +14227,13 @@
 
 ### alignments:
  - [Helvia Ricina](https://pleiades.stoa.org/places/413166)
+
+
+## GEO ID 32293: Castel Madama
+[http://www.trismegistos.org/place/32293](http://www.trismegistos.org/place/32293)  
+
+### alignments:
+ - [Castel Madama](https://pleiades.stoa.org/places/422882)
 
 
 ## GEO ID 32295: Trebula Suffenas (Ciciliano)
@@ -22315,7 +22343,7 @@
  - [Moesiae](https://pleiades.stoa.org/places/992077)
 
 
-## GEO ID 42666
+## GEO ID 42666: Dioecesis Galliae
 [https://www.trismegistos.org/place/42666](https://www.trismegistos.org/place/42666)  
 
 ### alignments:
