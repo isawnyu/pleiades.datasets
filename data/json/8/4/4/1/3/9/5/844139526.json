@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        38.267151,
-        34.550502,
-        38.267151,
-        34.550502
+        38.2666281,
+        34.5500702,
+        38.2677796,
+        34.5509728
     ],
     "connections": [
         {
@@ -100,8 +100,44 @@
                 "description": "Representative point location for Agora of the Ancient City of Palmyra. Coordinates determined by eye in Google Earth in November 2012, following description in UNESCO World Heritage List.",
                 "link": "https://pleiades.stoa.org/places/844139526/imagery-location",
                 "location_precision": "precise",
-                "snippet": "Plaza, ",
+                "snippet": "Agora",
                 "title": "Imagery Location of the Agora of Palmyra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        38.2666281,
+                        34.550431
+                    ],
+                    [
+                        38.2671133,
+                        34.5500702
+                    ],
+                    [
+                        38.2677796,
+                        34.5506021
+                    ],
+                    [
+                        38.2672889,
+                        34.5509728
+                    ],
+                    [
+                        38.2666281,
+                        34.550431
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-agora",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/844139526/osm-location-of-agora",
+                "location_precision": "precise",
+                "snippet": "Agora; 30 BC - AD 300",
+                "title": "OSM location of Agora"
             },
             "type": "Feature"
         }
@@ -156,6 +192,12 @@
             "contributors": [
                 {
                     "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
                     "name": "Tom Elliott",
                     "uri": "https://pleiades.stoa.org/author/thomase",
                     "username": "thomase"
@@ -174,12 +216,10 @@
             "details": "",
             "end": null,
             "featureType": [
-                "plaza",
-                ""
+                "agora"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "geometry": {
                 "coordinates": [
@@ -189,6 +229,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-01-27T16:48:02Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "location and feature types; archaeo remains",
                     "modified": "2016-08-23T12:09:09Z",
@@ -227,12 +272,10 @@
             ],
             "id": "imagery-location",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -252,15 +295,125 @@
             "start": null,
             "title": "Imagery Location of the Agora of Palmyra",
             "uri": "https://pleiades.stoa.org/places/844139526/imagery-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-01-27T01:39:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "agora"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        38.2666281,
+                        34.550431
+                    ],
+                    [
+                        38.2671133,
+                        34.5500702
+                    ],
+                    [
+                        38.2677796,
+                        34.5506021
+                    ],
+                    [
+                        38.2672889,
+                        34.5509728
+                    ],
+                    [
+                        38.2666281,
+                        34.550431
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-01-27T16:27:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-01-27T01:39:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-01-27T01:39:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-01-27T01:39:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-01-27T01:39:27Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-agora",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
+            ],
+            "provenance": "OpenStreetMap (Way 226891795, version 11, osm:changeset=160025770, 2024-12-07T12:42:23Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/226891795",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 226891795",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=226891795",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Agora",
+            "uri": "https://pleiades.stoa.org/places/844139526/osm-location-of-agora"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
         "https://pleiades.stoa.org/vocabularies/place-types/agora"
     ],
     "placeTypes": [
-        "plaza",
         "agora"
     ],
     "provenance": "Pleiades",
@@ -344,8 +497,8 @@
         }
     ],
     "reprPoint": [
-        38.267151,
-        34.550502
+        38.26717724217791,
+        34.55051104756082
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
