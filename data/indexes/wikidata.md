@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6361 alignments exist in _Pleiades_ place references as of 2025-01-27. The following list of alignments is grouped by zotkey.
+6401 alignments exist in _Pleiades_ place references as of 2025-01-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1661,6 +1661,13 @@
  - [Antron(es)](https://pleiades.stoa.org/places/540644)
 
 
+## Anydros (Q3558596)
+[https://www.wikidata.org/wiki/Q3558596](https://www.wikidata.org/wiki/Q3558596)  
+
+### alignments:
+ - [Anydros? (island)](https://pleiades.stoa.org/places/599498)
+
+
 ## Anzi (Q52513)
 [https://www.wikidata.org/wiki/Q52513](https://www.wikidata.org/wiki/Q52513)  
 
@@ -1745,6 +1752,13 @@
  - [Via Appia](https://pleiades.stoa.org/places/356966898)
 
 
+## Appiaria (Q621033)
+[https://www.wikidata.org/wiki/Q621033](https://www.wikidata.org/wiki/Q621033)  
+
+### alignments:
+ - [Appiaria (Titular See)](https://pleiades.stoa.org/places/890261934)
+
+
 ## Apsidal Portico (Q3909056)
 [https://www.wikidata.org/wiki/Q3909056](https://www.wikidata.org/wiki/Q3909056)  
 
@@ -1820,6 +1834,13 @@
 
 ### alignments:
  - [Arabissos/Tripotamos](https://pleiades.stoa.org/places/628925)
+
+
+## Arachthos (Q624655)
+[https://www.wikidata.org/wiki/Q624655](https://www.wikidata.org/wiki/Q624655)  
+
+### alignments:
+ - [Arachthos/Araththos/Aratthos/Aracthus (river)](https://pleiades.stoa.org/places/530807)
 
 
 ## Aradarum (Q108774401)
@@ -4078,6 +4099,13 @@
  - [Rochemaure milestone](https://pleiades.stoa.org/places/500136301)
 
 
+## Bostel (Q26263600)
+[https://www.wikidata.org/wiki/Q26263600](https://www.wikidata.org/wiki/Q26263600)  
+
+### alignments:
+ - [Bostel](https://pleiades.stoa.org/places/688740628)
+
+
 ## Botan River (Q894622)
 [https://www.wikidata.org/wiki/Q894622](https://www.wikidata.org/wiki/Q894622)  
 
@@ -4475,6 +4503,13 @@
 
 ### alignments:
  - [Roman amphitheater at Béziers](https://pleiades.stoa.org/places/977841705)
+
+
+## Büyükada (Q989883)
+[https://www.wikidata.org/wiki/Q989883](https://www.wikidata.org/wiki/Q989883)  
+
+### alignments:
+ - [Megale/Pityodes/Prinkipos Ins.](https://pleiades.stoa.org/places/521078)
 
 
 ## Bīt-Purutaš (Q130567672)
@@ -5233,6 +5268,13 @@
  - [Castle of Astypalaia](https://pleiades.stoa.org/places/533372008)
 
 
+## Castle of Cabrières (Q2968724)
+[https://www.wikidata.org/wiki/Q2968724](https://www.wikidata.org/wiki/Q2968724)  
+
+### alignments:
+ - [Capraria](https://pleiades.stoa.org/places/148034)
+
+
 ## castle of Donoratico (Q3662596)
 [https://www.wikidata.org/wiki/Q3662596](https://www.wikidata.org/wiki/Q3662596)  
 
@@ -5637,6 +5679,13 @@
 
 ### alignments:
  - [Monte Mozinho](https://pleiades.stoa.org/places/236549)
+
+
+## Castro of San Cibrao de Las (Q2742973)
+[https://www.wikidata.org/wiki/Q2742973](https://www.wikidata.org/wiki/Q2742973)  
+
+### alignments:
+ - [Castro de San Cibrao de Las](https://pleiades.stoa.org/places/298394660)
 
 
 ## Castro of Santa Trega (Q2411979)
@@ -6487,6 +6536,13 @@
  - [Classis](https://pleiades.stoa.org/places/393404)
 
 
+## Civitas Tropaensium (Q5124784)
+[https://www.wikidata.org/wiki/Q5124784](https://www.wikidata.org/wiki/Q5124784)  
+
+### alignments:
+ - [Tropaeum Traiani (settlement)](https://pleiades.stoa.org/places/217027)
+
+
 ## Claudia (Q3538784)
 [https://www.wikidata.org/wiki/Q3538784](https://www.wikidata.org/wiki/Q3538784)  
 
@@ -6667,6 +6723,13 @@
 
 ### alignments:
  - [Via Olevano Romano columbarium](https://pleiades.stoa.org/places/175815320)
+
+
+## Columbarium, Via del Casale Ferranti (Q131909599)
+[https://www.wikidata.org/wiki/Q131909599](https://www.wikidata.org/wiki/Q131909599)  
+
+### alignments:
+ - [Columbarium, Via del Casale Ferranti](https://pleiades.stoa.org/places/782218546)
 
 
 ## Comana Pontica (Q2140586)
@@ -7375,6 +7438,13 @@
 
 ### alignments:
  - [Darnis](https://pleiades.stoa.org/places/373780)
+
+
+## Derris (Q5263157)
+[https://www.wikidata.org/wiki/Q5263157](https://www.wikidata.org/wiki/Q5263157)  
+
+### alignments:
+ - [Deris](https://pleiades.stoa.org/places/501397)
 
 
 ## Derveni (Q5263281)
@@ -8510,6 +8580,13 @@
 
 ### alignments:
  - [Eua?](https://pleiades.stoa.org/places/570241)
+
+
+## Evinos (Q522489)
+[https://www.wikidata.org/wiki/Q522489](https://www.wikidata.org/wiki/Q522489)  
+
+### alignments:
+ - [Euenos (river)](https://pleiades.stoa.org/places/540780)
 
 
 ## Exomvourgo (Q3560397)
@@ -9653,6 +9730,13 @@
  - [Grosskrotzenburg](https://pleiades.stoa.org/places/118710)
 
 
+## Guadalhorce (Q17956)
+[https://www.wikidata.org/wiki/Q17956](https://www.wikidata.org/wiki/Q17956)  
+
+### alignments:
+ - [Salduba (river)](https://pleiades.stoa.org/places/256415)
+
+
 ## Guadiaro (Q17952)
 [https://www.wikidata.org/wiki/Q17952](https://www.wikidata.org/wiki/Q17952)  
 
@@ -9835,6 +9919,13 @@
  - [Halimous](https://pleiades.stoa.org/places/579941)
 
 
+## Halki (Q917162)
+[https://www.wikidata.org/wiki/Q917162](https://www.wikidata.org/wiki/Q917162)  
+
+### alignments:
+ - [Chalke Island](https://pleiades.stoa.org/places/589742)
+
+
 ## Halmyris (Q3437538)
 [https://www.wikidata.org/wiki/Q3437538](https://www.wikidata.org/wiki/Q3437538)  
 
@@ -9861,6 +9952,13 @@
 
 ### alignments:
  - [Amathe/Epiphaneia](https://pleiades.stoa.org/places/668182)
+
+
+## Hamadab (Q965191)
+[https://www.wikidata.org/wiki/Q965191](https://www.wikidata.org/wiki/Q965191)  
+
+### alignments:
+ - [Hamadab](https://pleiades.stoa.org/places/29407544)
 
 
 ## Hambledon Hill (Q5644220)
@@ -10493,6 +10591,13 @@
  - [Domus delle bestie ferite](https://pleiades.stoa.org/places/842400634)
 
 
+## House of Titus Macer (Q55686163)
+[https://www.wikidata.org/wiki/Q55686163](https://www.wikidata.org/wiki/Q55686163)  
+
+### alignments:
+ - [Domus of Titus Macer](https://pleiades.stoa.org/places/411902357)
+
+
 ## House of via Graziosa (Q3279805)
 [https://www.wikidata.org/wiki/Q3279805](https://www.wikidata.org/wiki/Q3279805)  
 
@@ -10939,6 +11044,13 @@
 
 ### alignments:
  - [Ipsos](https://pleiades.stoa.org/places/609415)
+
+
+## Irminio (Q854834)
+[https://www.wikidata.org/wiki/Q854834](https://www.wikidata.org/wiki/Q854834)  
+
+### alignments:
+ - [Hirminum (river)](https://pleiades.stoa.org/places/462249)
 
 
 ## Irminones (Q241194)
@@ -12217,6 +12329,13 @@
  - [Lacus Iuturnae](https://pleiades.stoa.org/places/707467453)
 
 
+## Lacus Ligustinus (Q5968720)
+[https://www.wikidata.org/wiki/Q5968720](https://www.wikidata.org/wiki/Q5968720)  
+
+### alignments:
+ - [Ligustinus (lacus)](https://pleiades.stoa.org/places/256263)
+
+
 ## Lacus Orphei (Q19946784)
 [https://www.wikidata.org/wiki/Q19946784](https://www.wikidata.org/wiki/Q19946784)  
 
@@ -12301,6 +12420,13 @@
  - [Delkos/Derkos/Phileatine](https://pleiades.stoa.org/places/511232)
 
 
+## Lake Dystos (Q15057273)
+[https://www.wikidata.org/wiki/Q15057273](https://www.wikidata.org/wiki/Q15057273)  
+
+### alignments:
+ - [Dystos? L.](https://pleiades.stoa.org/places/540747)
+
+
 ## Lake Flevo (Q2283279)
 [https://www.wikidata.org/wiki/Q2283279](https://www.wikidata.org/wiki/Q2283279)  
 
@@ -12313,6 +12439,13 @@
 
 ### alignments:
  - [Askania L.](https://pleiades.stoa.org/places/511166)
+
+
+## Lake Kerkini (Q1739269)
+[https://www.wikidata.org/wiki/Q1739269](https://www.wikidata.org/wiki/Q1739269)  
+
+### alignments:
+ - [Kerkinitis L.](https://pleiades.stoa.org/places/491635)
 
 
 ## Lake Moeris (Q1330952)
@@ -12357,6 +12490,13 @@
  - [Boane/Sunonensis (lake)](https://pleiades.stoa.org/places/511191)
 
 
+## Lake Skadar (Q203811)
+[https://www.wikidata.org/wiki/Q203811](https://www.wikidata.org/wiki/Q203811)  
+
+### alignments:
+ - [Labeatis L.](https://pleiades.stoa.org/places/481890)
+
+
 ## Lake Stymphalia (Q1251026)
 [https://www.wikidata.org/wiki/Q1251026](https://www.wikidata.org/wiki/Q1251026)  
 
@@ -12376,6 +12516,13 @@
 
 ### alignments:
  - [Bistonis (lake)](https://pleiades.stoa.org/places/501378)
+
+
+## Lake Volvi (Q132099)
+[https://www.wikidata.org/wiki/Q132099](https://www.wikidata.org/wiki/Q132099)  
+
+### alignments:
+ - [Bolbe (lake)](https://pleiades.stoa.org/places/491550)
 
 
 ## Lalandos (Q85775713)
@@ -15467,6 +15614,13 @@
  - [Buffa necropolis](https://pleiades.stoa.org/places/725373390)
 
 
+## Necropolis of Dahshur (Q3874150)
+[https://www.wikidata.org/wiki/Q3874150](https://www.wikidata.org/wiki/Q3874150)  
+
+### alignments:
+ - [Takyris](https://pleiades.stoa.org/places/737063)
+
+
 ## Necropolis of Filigosa (Q1975256)
 [https://www.wikidata.org/wiki/Q1975256](https://www.wikidata.org/wiki/Q1975256)  
 
@@ -15927,6 +16081,13 @@
 
 ### alignments:
  - [Nuraghe Ruggiu at Filigosa](https://pleiades.stoa.org/places/32331672)
+
+
+## nuraghe Rumanedda (Q16583237)
+[https://www.wikidata.org/wiki/Q16583237](https://www.wikidata.org/wiki/Q16583237)  
+
+### alignments:
+ - [Nuraghe Rumanedda](https://pleiades.stoa.org/places/372350839)
 
 
 ## Nuraghe S'Ortali 'e su Monti (Q16583240)
@@ -16573,6 +16734,13 @@
  - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
 
 
+## Pactolus (Q923929)
+[https://www.wikidata.org/wiki/Q923929](https://www.wikidata.org/wiki/Q923929)  
+
+### alignments:
+ - [Pactolus (river)](https://pleiades.stoa.org/places/550794)
+
+
 ## Pactya (Q7123145)
 [https://www.wikidata.org/wiki/Q7123145](https://www.wikidata.org/wiki/Q7123145)  
 
@@ -16998,6 +17166,13 @@
 
 ### alignments:
  - [Pavlopetri](https://pleiades.stoa.org/places/270123726)
+
+
+## Paximadia (Q1777777)
+[https://www.wikidata.org/wiki/Q1777777](https://www.wikidata.org/wiki/Q1777777)  
+
+### alignments:
+ - [Letoa (island)](https://pleiades.stoa.org/places/589906)
 
 
 ## Paxos (Q719518)
@@ -17609,6 +17784,13 @@
  - [Plataea](https://pleiades.stoa.org/places/541063)
 
 
+## Pleuron (Q1317636)
+[https://www.wikidata.org/wiki/Q1317636](https://www.wikidata.org/wiki/Q1317636)  
+
+### alignments:
+ - [Palaia Pleuron](https://pleiades.stoa.org/places/540999)
+
+
 ## Pnyx (Q1125096)
 [https://www.wikidata.org/wiki/Q1125096](https://www.wikidata.org/wiki/Q1125096)  
 
@@ -18034,6 +18216,13 @@
 
 ### alignments:
  - [Porta Nocera](https://pleiades.stoa.org/places/11924821)
+
+
+## Porta Nocera necropolis (Q29886478)
+[https://www.wikidata.org/wiki/Q29886478](https://www.wikidata.org/wiki/Q29886478)  
+
+### alignments:
+ - [Porta Nocera necropolis](https://pleiades.stoa.org/places/694992195)
 
 
 ## Porta Nola (Q125996673)
@@ -20597,6 +20786,13 @@
 
 ### alignments:
  - [Nuraghe Terra Tenera](https://pleiades.stoa.org/places/41722592)
+
+
+## Q122237167
+[https://www.wikidata.org/wiki/Q122237167](https://www.wikidata.org/wiki/Q122237167)  
+
+### alignments:
+ - [Nuraghe Piscu](https://pleiades.stoa.org/places/39090359)
 
 
 ## Q122277678
@@ -37233,6 +37429,13 @@
  - [Gatcombe](https://pleiades.stoa.org/places/79477)
 
 
+## Roman signal station (Q17648304)
+[https://www.wikidata.org/wiki/Q17648304](https://www.wikidata.org/wiki/Q17648304)  
+
+### alignments:
+ - [Thornham Roman Signal Station](https://pleiades.stoa.org/places/709260452)
+
+
 ## Roman signal station at Goldsborough, 130m south east of Scratch Alley (Q17664822)
 [https://www.wikidata.org/wiki/Q17664822](https://www.wikidata.org/wiki/Q17664822)  
 
@@ -39053,6 +39256,13 @@
  - [Shortugai](https://pleiades.stoa.org/places/717754049)
 
 
+## Shushicë (Q742809)
+[https://www.wikidata.org/wiki/Q742809](https://www.wikidata.org/wiki/Q742809)  
+
+### alignments:
+ - [Argyas (river)](https://pleiades.stoa.org/places/481740)
+
+
 ## Si Aioun (Q2107400)
 [https://www.wikidata.org/wiki/Q2107400](https://www.wikidata.org/wiki/Q2107400)  
 
@@ -39156,6 +39366,13 @@
 
 ### alignments:
  - [Silvanectes](https://pleiades.stoa.org/places/109345)
+
+
+## Simav River (Q3181444)
+[https://www.wikidata.org/wiki/Q3181444](https://www.wikidata.org/wiki/Q3181444)  
+
+### alignments:
+ - [Mekestos (river)](https://pleiades.stoa.org/places/511312)
 
 
 ## Simeto (Q1235338)
@@ -39324,6 +39541,13 @@
 
 ### alignments:
  - [Skyllaion (promontory)](https://pleiades.stoa.org/places/570679)
+
+
+## Skyphos sanctuary (Q131920563)
+[https://www.wikidata.org/wiki/Q131920563](https://www.wikidata.org/wiki/Q131920563)  
+
+### alignments:
+ - [Skyphoi sanctuary](https://pleiades.stoa.org/places/486617494)
 
 
 ## Skyros (Q14623748)
@@ -40238,6 +40462,13 @@
  - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
 
 
+## Tavignano (Q182969)
+[https://www.wikidata.org/wiki/Q182969](https://www.wikidata.org/wiki/Q182969)  
+
+### alignments:
+ - [Rhotanos (river)](https://pleiades.stoa.org/places/472122)
+
+
 ## Tavoliere delle Puglie (Q302083)
 [https://www.wikidata.org/wiki/Q302083](https://www.wikidata.org/wiki/Q302083)  
 
@@ -41027,6 +41258,13 @@
 
 ### alignments:
  - [Telandria (island)](https://pleiades.stoa.org/places/639132)
+
+
+## Tesino (Q1218460)
+[https://www.wikidata.org/wiki/Q1218460](https://www.wikidata.org/wiki/Q1218460)  
+
+### alignments:
+ - [Tessuinus (river)](https://pleiades.stoa.org/places/413335)
 
 
 ## Testruna (Q104627095)
@@ -41946,6 +42184,13 @@
  - [Torre dei Conti](https://pleiades.stoa.org/places/728475463)
 
 
+## Torre dell'angelo (Q118120383)
+[https://www.wikidata.org/wiki/Q118120383](https://www.wikidata.org/wiki/Q118120383)  
+
+### alignments:
+ - [Torre Dell'Angelo](https://pleiades.stoa.org/places/201442266)
+
+
 ## Torre delle Milizie (Q2547165)
 [https://www.wikidata.org/wiki/Q2547165](https://www.wikidata.org/wiki/Q2547165)  
 
@@ -42210,6 +42455,13 @@
 
 ### alignments:
  - [Tower of Koronia](https://pleiades.stoa.org/places/688532642)
+
+
+## Tower of Saint Joseph (Q2444564)
+[https://www.wikidata.org/wiki/Q2444564](https://www.wikidata.org/wiki/Q2444564)  
+
+### alignments:
+ - [Torre de San Josep](https://pleiades.stoa.org/places/823633465)
 
 
 ## Traianoupolis/Traianoupoli (Q2284484)
@@ -43186,6 +43438,13 @@
  - [Vellavi](https://pleiades.stoa.org/places/167958)
 
 
+## Vendôme (Q214575)
+[https://www.wikidata.org/wiki/Q214575](https://www.wikidata.org/wiki/Q214575)  
+
+### alignments:
+ - [Vindocinum](https://pleiades.stoa.org/places/138661)
+
+
 ## Venice (Q641)
 [https://www.wikidata.org/wiki/Q641](https://www.wikidata.org/wiki/Q641)  
 
@@ -43815,6 +44074,13 @@
 
 ### alignments:
  - [tribus Voturia](https://pleiades.stoa.org/places/966985945)
+
+
+## Vouraikos (Q1871901)
+[https://www.wikidata.org/wiki/Q1871901](https://www.wikidata.org/wiki/Q1871901)  
+
+### alignments:
+ - [Kerynitis (river)](https://pleiades.stoa.org/places/570355)
 
 
 ## Vrokastro (Q15715778)
@@ -44501,6 +44767,20 @@
 
 ### alignments:
  - [Ägelmoos](https://pleiades.stoa.org/places/80236838)
+
+
+## Çarufa Adası (Q34789890)
+[https://www.wikidata.org/wiki/Q34789890](https://www.wikidata.org/wiki/Q34789890)  
+
+### alignments:
+ - [Halonessos (island)](https://pleiades.stoa.org/places/550563)
+
+
+## Çatalada (Q272668)
+[https://www.wikidata.org/wiki/Q272668](https://www.wikidata.org/wiki/Q272668)  
+
+### alignments:
+ - [Karyanda/Krousa? (island)](https://pleiades.stoa.org/places/599695)
 
 
 ## Çayönü (Q272720)

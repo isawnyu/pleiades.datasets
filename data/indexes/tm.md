@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4062 alignments exist in _Pleiades_ place references as of 2025-01-27. The following list of alignments is grouped by zotkey.
+4064 alignments exist in _Pleiades_ place references as of 2025-01-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12863,6 +12863,13 @@
  - [Ophieion](https://pleiades.stoa.org/places/789749)
 
 
+## GEO ID 29865: Tropaeum Traiani (Adamclisi)
+[http://www.trismegistos.org/place/29865](http://www.trismegistos.org/place/29865)  
+
+### alignments:
+ - [Tropaeum Traiani (settlement)](https://pleiades.stoa.org/places/217027)
+
+
 ## GEO ID 2987: Bostra (Bosra)
 [http://www.trismegistos.org/place/2987](http://www.trismegistos.org/place/2987)  
 
@@ -24030,6 +24037,13 @@
 
 ### alignments:
  - [Alutus (river)](https://pleiades.stoa.org/places/216701)
+
+
+## GEO ID 44993: Argyas (Shushice)
+[http://www.trismegistos.org/place/44993](http://www.trismegistos.org/place/44993)  
+
+### alignments:
+ - [Argyas (river)](https://pleiades.stoa.org/places/481740)
 
 
 ## GEO ID 44996

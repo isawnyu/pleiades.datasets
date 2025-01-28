@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3616 alignments exist in _Pleiades_ place references as of 2025-01-27. The following list of alignments is grouped by zotkey.
+3617 alignments exist in _Pleiades_ place references as of 2025-01-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2924,6 +2924,13 @@
  - [Arethusae Fons](https://pleiades.stoa.org/places/462101)
 
 
+## Argiai (Dodecanese) 1 Strongili and Airilousa - Αργείαι
+[https://topostext.org/place/373268IArg](https://topostext.org/place/373268IArg)  
+
+### alignments:
+ - [Argiai (islands)](https://pleiades.stoa.org/places/599515)
+
+
 ## Argilos (Serres)
 [https://topostext.org/place/408238PArg](https://topostext.org/place/408238PArg)  
 
@@ -5492,6 +5499,7 @@
 
 ### alignments:
  - [Cave of Apollo](https://pleiades.stoa.org/places/870756929)
+ - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
 
 
 ## Cellae (Florina)
@@ -5596,7 +5604,7 @@
 [https://topostext.org/place/362276ICha](https://topostext.org/place/362276ICha)  
 
 ### alignments:
- - [Chalke](https://pleiades.stoa.org/places/589741)
+ - [Chalke (settlement)](https://pleiades.stoa.org/places/589741)
 
 
 ## Chalketor (Caria)
@@ -9230,7 +9238,7 @@
 [https://topostext.org/place/382264IHal](https://topostext.org/place/382264IHal)  
 
 ### alignments:
- - [Halonessos Ins.](https://pleiades.stoa.org/places/550563)
+ - [Halonessos (island)](https://pleiades.stoa.org/places/550563)
 
 
 ## Halonnesos (Ag. Efstratios)
