@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6401 alignments exist in _Pleiades_ place references as of 2025-01-28. The following list of alignments is grouped by zotkey.
+6417 alignments exist in _Pleiades_ place references as of 2025-01-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3595,6 +3595,13 @@
  - [Ugernum](https://pleiades.stoa.org/places/148223)
 
 
+## Beidha (Q2677032)
+[https://www.wikidata.org/wiki/Q2677032](https://www.wikidata.org/wiki/Q2677032)  
+
+### alignments:
+ - [Beidha](https://pleiades.stoa.org/places/525963321)
+
+
 ## Beit She'an (Q152368)
 [https://www.wikidata.org/wiki/Q152368](https://www.wikidata.org/wiki/Q152368)  
 
@@ -5217,6 +5224,13 @@
 
 ### alignments:
  - [Salebro?](https://pleiades.stoa.org/places/403269)
+
+
+## Castle Acre Castle (Q5049976)
+[https://www.wikidata.org/wiki/Q5049976](https://www.wikidata.org/wiki/Q5049976)  
+
+### alignments:
+ - [Castle Acre Castle](https://pleiades.stoa.org/places/95991112)
 
 
 ## Castle Acre Priory (Q5049978)
@@ -7719,6 +7733,13 @@
 
 ### alignments:
  - [Domus of Publius Confuleius Sabbio](https://pleiades.stoa.org/places/715839055)
+
+
+## Domus Romane (Q2527197)
+[https://www.wikidata.org/wiki/Q2527197](https://www.wikidata.org/wiki/Q2527197)  
+
+### alignments:
+ - [Domus Romane di Palazzo Valentini](https://pleiades.stoa.org/places/158092964)
 
 
 ## Domuz Island (Q49636840)
@@ -11733,6 +11754,13 @@
  - [Khanpur Cave](https://pleiades.stoa.org/places/107421147)
 
 
+## Kharaneh IV (Q1740572)
+[https://www.wikidata.org/wiki/Q1740572](https://www.wikidata.org/wiki/Q1740572)  
+
+### alignments:
+ - [Kharaneh IV](https://pleiades.stoa.org/places/21815368)
+
+
 ## Kharg (Q862686)
 [https://www.wikidata.org/wiki/Q862686](https://www.wikidata.org/wiki/Q862686)  
 
@@ -14311,6 +14339,13 @@
  - [Milecastle 21 (Down Hill)](https://pleiades.stoa.org/places/967060215)
 
 
+## Milecastle 22 (Q6851160)
+[https://www.wikidata.org/wiki/Q6851160](https://www.wikidata.org/wiki/Q6851160)  
+
+### alignments:
+ - [Milecastle 22 (Portgate)](https://pleiades.stoa.org/places/967060252)
+
+
 ## Milecastle 23 (Q6851159)
 [https://www.wikidata.org/wiki/Q6851159](https://www.wikidata.org/wiki/Q6851159)  
 
@@ -14536,6 +14571,20 @@
  - [Milecastle 57 (Cambeckhill)](https://pleiades.stoa.org/places/967060258)
 
 
+## Milecastle 58 (Q16156730)
+[https://www.wikidata.org/wiki/Q16156730](https://www.wikidata.org/wiki/Q16156730)  
+
+### alignments:
+ - [Milecastle 58 (Newtown)](https://pleiades.stoa.org/places/967060265)
+
+
+## Milecastle 59 (Q16156741)
+[https://www.wikidata.org/wiki/Q16156741](https://www.wikidata.org/wiki/Q16156741)  
+
+### alignments:
+ - [Milecastle 59 (Old Wall)](https://pleiades.stoa.org/places/967060256)
+
+
 ## Milecastle 60 (Q16156790)
 [https://www.wikidata.org/wiki/Q16156790](https://www.wikidata.org/wiki/Q16156790)  
 
@@ -14688,6 +14737,13 @@
 
 ### alignments:
  - [Milecastle 80](https://pleiades.stoa.org/places/967060359)
+
+
+## Milecastle 9 (Q6851203)
+[https://www.wikidata.org/wiki/Q6851203](https://www.wikidata.org/wiki/Q6851203)  
+
+### alignments:
+ - [Milecastle 9 (Chapel House)](https://pleiades.stoa.org/places/967060373)
 
 
 ## Milefortlet 1 (Q16247408)
@@ -14863,6 +14919,13 @@
 
 ### alignments:
  - [Moesia Inferior (province)](https://pleiades.stoa.org/places/981535)
+
+
+## Mogorjelo (Q3511638)
+[https://www.wikidata.org/wiki/Q3511638](https://www.wikidata.org/wiki/Q3511638)  
+
+### alignments:
+ - [Vila Mogorjelo](https://pleiades.stoa.org/places/572489080)
 
 
 ## Mohenjo-daro (Q5725)
@@ -15453,6 +15516,13 @@
  - [Nagara/Dionysopolis](https://pleiades.stoa.org/places/59942)
 
 
+## Nahal Oren (Q4025912)
+[https://www.wikidata.org/wiki/Q4025912](https://www.wikidata.org/wiki/Q4025912)  
+
+### alignments:
+ - [Nahal Oren](https://pleiades.stoa.org/places/807201017)
+
+
 ## Nahe (Q168696)
 [https://www.wikidata.org/wiki/Q168696](https://www.wikidata.org/wiki/Q168696)  
 
@@ -15717,6 +15787,13 @@
 
 ### alignments:
  - [Nestane](https://pleiades.stoa.org/places/570507)
+
+
+## Nestos (Q193904)
+[https://www.wikidata.org/wiki/Q193904](https://www.wikidata.org/wiki/Q193904)  
+
+### alignments:
+ - [Nestos (river)](https://pleiades.stoa.org/places/501524)
 
 
 ## Nether Denton Roman Fort (Q123012466)
@@ -16594,6 +16671,13 @@
  - [Oppido Lucano](https://pleiades.stoa.org/places/442699)
 
 
+## Oppidum des Caisses de Jean-Jean (Q3354392)
+[https://www.wikidata.org/wiki/Q3354392](https://www.wikidata.org/wiki/Q3354392)  
+
+### alignments:
+ - [Oppidum des Caisses de Jean-Jean](https://pleiades.stoa.org/places/811458570)
+
+
 ## Oppidum Milseburg (Q2027139)
 [https://www.wikidata.org/wiki/Q2027139](https://www.wikidata.org/wiki/Q2027139)  
 
@@ -16823,6 +16907,13 @@
 
 ### alignments:
  - [Palatine Stadium](https://pleiades.stoa.org/places/132886213)
+
+
+## Palazzo Valentini (Q751105)
+[https://www.wikidata.org/wiki/Q751105](https://www.wikidata.org/wiki/Q751105)  
+
+### alignments:
+ - [Palazzo Valentini](https://pleiades.stoa.org/places/947806460)
 
 
 ## Paleochristian Basilica of l'illa del Rei (Q8840707)
@@ -21725,6 +21816,13 @@
 
 ### alignments:
  - [Torcularium villa](https://pleiades.stoa.org/places/100196697)
+
+
+## Q131929912
+[https://www.wikidata.org/wiki/Q131929912](https://www.wikidata.org/wiki/Q131929912)  
+
+### alignments:
+ - [Roman cistern at Largo Zucchi](https://pleiades.stoa.org/places/612452942)
 
 
 ## Q132272
@@ -28017,6 +28115,7 @@
 [https://www.wikidata.org/wiki/Q28978067](https://www.wikidata.org/wiki/Q28978067)  
 
 ### alignments:
+ - [Fabrateria Nova amphitheater](https://pleiades.stoa.org/places/635129231)
  - [Fabrateria Nova](https://pleiades.stoa.org/places/432825)
 
 
@@ -37072,6 +37171,13 @@
  - [Respampani](https://pleiades.stoa.org/places/413285)
 
 
+## Rochester Castle (Q1125527)
+[https://www.wikidata.org/wiki/Q1125527](https://www.wikidata.org/wiki/Q1125527)  
+
+### alignments:
+ - [Rochester Castle](https://pleiades.stoa.org/places/152918786)
+
+
 ## rock drawings in Valcamonica (Q945514)
 [https://www.wikidata.org/wiki/Q945514](https://www.wikidata.org/wiki/Q945514)  
 
@@ -39254,6 +39360,13 @@
 
 ### alignments:
  - [Shortugai](https://pleiades.stoa.org/places/717754049)
+
+
+## Shuqba cave (Q7505195)
+[https://www.wikidata.org/wiki/Q7505195](https://www.wikidata.org/wiki/Q7505195)  
+
+### alignments:
+ - [Shuqba Cave](https://pleiades.stoa.org/places/807201016)
 
 
 ## Shushicë (Q742809)
