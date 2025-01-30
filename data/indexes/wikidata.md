@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6417 alignments exist in _Pleiades_ place references as of 2025-01-29. The following list of alignments is grouped by zotkey.
+6431 alignments exist in _Pleiades_ place references as of 2025-01-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3342,6 +3342,13 @@
  - ["Basilica" of San Vitale](https://pleiades.stoa.org/places/73180225)
 
 
+## Basilica of Sant'Apollinare in Classe (Q744552)
+[https://www.wikidata.org/wiki/Q744552](https://www.wikidata.org/wiki/Q744552)  
+
+### alignments:
+ - [Basilica of Sant'Apollinare in Classe](https://pleiades.stoa.org/places/880538993)
+
+
 ## Basilis (Q4867451)
 [https://www.wikidata.org/wiki/Q4867451](https://www.wikidata.org/wiki/Q4867451)  
 
@@ -3628,6 +3635,13 @@
 
 ### alignments:
  - [Belvedere tomb](https://pleiades.stoa.org/places/15230118)
+
+
+## Belvoir Fortress (Q1010980)
+[https://www.wikidata.org/wiki/Q1010980](https://www.wikidata.org/wiki/Q1010980)  
+
+### alignments:
+ - [Belvoir Fortress](https://pleiades.stoa.org/places/802931429)
 
 
 ## Bema of Phaidros (Q85746507)
@@ -4561,6 +4575,13 @@
  - [Cadbury Camp Hill Fort](https://pleiades.stoa.org/places/224983652)
 
 
+## Cadbury Castle (Q1025082)
+[https://www.wikidata.org/wiki/Q1025082](https://www.wikidata.org/wiki/Q1025082)  
+
+### alignments:
+ - [Cadbury Castle](https://pleiades.stoa.org/places/859366031)
+
+
 ## Cadbury Hill Camp, Congresbury (Q17651200)
 [https://www.wikidata.org/wiki/Q17651200](https://www.wikidata.org/wiki/Q17651200)  
 
@@ -5301,6 +5322,13 @@
 
 ### alignments:
  - [Rocca Calascio](https://pleiades.stoa.org/places/936115714)
+
+
+## Castle Rising Castle (Q1049485)
+[https://www.wikidata.org/wiki/Q1049485](https://www.wikidata.org/wiki/Q1049485)  
+
+### alignments:
+ - [Castle Rising Castle](https://pleiades.stoa.org/places/95991113)
 
 
 ## Castlecary Roman fort (Q81421942)
@@ -6339,6 +6367,13 @@
  - [Chrysa](https://pleiades.stoa.org/places/550500)
 
 
+## Church of Panagia Chalkeon (Q1650229)
+[https://www.wikidata.org/wiki/Q1650229](https://www.wikidata.org/wiki/Q1650229)  
+
+### alignments:
+ - [Church of Panagia Chalkeon](https://pleiades.stoa.org/places/834862589)
+
+
 ## Church of Saint Nicholas Orphanos (Q1504317)
 [https://www.wikidata.org/wiki/Q1504317](https://www.wikidata.org/wiki/Q1504317)  
 
@@ -6947,6 +6982,13 @@
 
 ### alignments:
  - [Costa Murata archaeological area](https://pleiades.stoa.org/places/980724743)
+
+
+## Costești-Cetățuie Dacian fortress (Q5175126)
+[https://www.wikidata.org/wiki/Q5175126](https://www.wikidata.org/wiki/Q5175126)  
+
+### alignments:
+ - [Costești-Blidaru](https://pleiades.stoa.org/places/876112477)
 
 
 ## Cotini (Q430457)
@@ -9457,6 +9499,13 @@
  - [Gheriat el-Garbia](https://pleiades.stoa.org/places/344374)
 
 
+## Gialia Monastery (Q2066634)
+[https://www.wikidata.org/wiki/Q2066634](https://www.wikidata.org/wiki/Q2066634)  
+
+### alignments:
+ - [Gialia Monastery](https://pleiades.stoa.org/places/878103249)
+
+
 ## Giants of Mont'e Prama (Q1817134)
 [https://www.wikidata.org/wiki/Q1817134](https://www.wikidata.org/wiki/Q1817134)  
 
@@ -9968,6 +10017,13 @@
  - [Haltwhistle Burn Temporary Camp 4](https://pleiades.stoa.org/places/711363920)
 
 
+## Ham Hill (Q15222650)
+[https://www.wikidata.org/wiki/Q15222650](https://www.wikidata.org/wiki/Q15222650)  
+
+### alignments:
+ - [Ham Hill Hillfort](https://pleiades.stoa.org/places/859366030)
+
+
 ## Hama (Q173545)
 [https://www.wikidata.org/wiki/Q173545](https://www.wikidata.org/wiki/Q173545)  
 
@@ -10015,6 +10071,13 @@
 
 ### alignments:
  - [Harma](https://pleiades.stoa.org/places/540805)
+
+
+## Harmodius and Aristogeiton (Q3250992)
+[https://www.wikidata.org/wiki/Q3250992](https://www.wikidata.org/wiki/Q3250992)  
+
+### alignments:
+ - [Statues of Harmodios and Aristogeiton](https://pleiades.stoa.org/places/999238742)
 
 
 ## Harpina (Q5663572)
@@ -11333,6 +11396,13 @@
  - [Ǧidda](https://pleiades.stoa.org/places/97875560)
 
 
+## Jerablus Tahtani (Q85771094)
+[https://www.wikidata.org/wiki/Q85771094](https://www.wikidata.org/wiki/Q85771094)  
+
+### alignments:
+ - [Tell Jerablus Tahtani](https://pleiades.stoa.org/places/851753991)
+
+
 ## Jewry Wall: remains of a Roman bath house, palaestra and Anglo-Saxon church (Q17674501)
 [https://www.wikidata.org/wiki/Q17674501](https://www.wikidata.org/wiki/Q17674501)  
 
@@ -12593,6 +12663,13 @@
 
 ### alignments:
  - [Pityoussa/Lampsacus](https://pleiades.stoa.org/places/501570)
+
+
+## Lancaster Castle (Q2969640)
+[https://www.wikidata.org/wiki/Q2969640](https://www.wikidata.org/wiki/Q2969640)  
+
+### alignments:
+ - [Lancaster Castle](https://pleiades.stoa.org/places/902277617)
 
 
 ## Langenhain (Samian Ware Discovery Site) (Q103171995)
@@ -39789,6 +39866,13 @@
  - [Soulia](https://pleiades.stoa.org/places/590056)
 
 
+## South Necropolis (Pergamon) (Q131934430)
+[https://www.wikidata.org/wiki/Q131934430](https://www.wikidata.org/wiki/Q131934430)  
+
+### alignments:
+ - [South Necropolis (Pergamon)](https://pleiades.stoa.org/places/956778056)
+
+
 ## South Shields (Samian Ware Discovery Site) (Q103195988)
 [https://www.wikidata.org/wiki/Q103195988](https://www.wikidata.org/wiki/Q103195988)  
 
@@ -40032,6 +40116,13 @@
 
 ### alignments:
  - [Elleporos (river)](https://pleiades.stoa.org/places/456060)
+
+
+## Stoa of Attalos (Q1263335)
+[https://www.wikidata.org/wiki/Q1263335](https://www.wikidata.org/wiki/Q1263335)  
+
+### alignments:
+ - [Stoa of Attalos](https://pleiades.stoa.org/places/759679649)
 
 
 ## Stoa of Eumenes (Q1905296)
@@ -44894,6 +44985,13 @@
 
 ### alignments:
  - [Karyanda/Krousa? (island)](https://pleiades.stoa.org/places/599695)
+
+
+## Çavuştepe (Q272699)
+[https://www.wikidata.org/wiki/Q272699](https://www.wikidata.org/wiki/Q272699)  
+
+### alignments:
+ - [Sardurihinili](https://pleiades.stoa.org/places/825333700)
 
 
 ## Çayönü (Q272720)
