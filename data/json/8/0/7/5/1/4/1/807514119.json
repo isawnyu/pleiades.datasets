@@ -873,7 +873,7 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/807514119/osm-location-archaeological-site",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 2000 - AD 2099",
+                "snippet": "Agora; AD 2000 - AD 2099",
                 "title": "OSM Location: Archaeological site"
             },
             "type": "Feature"
@@ -891,7 +891,7 @@
                 "description": "The marketplace of the ancient city",
                 "link": "https://pleiades.stoa.org/places/807514119/imagery-location",
                 "location_precision": "precise",
-                "snippet": "Plaza, ; 750 BC - AD 640",
+                "snippet": "Agora; 750 BC - AD 640",
                 "title": "Imagery Location: Agora of Athens"
             },
             "type": "Feature"
@@ -1771,7 +1771,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2024-03-25T00:15:14Z",
             "creators": [
                 {
@@ -1784,8 +1791,12 @@
             "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 2099,
-            "featureType": [],
-            "featureTypeURI": [],
+            "featureType": [
+                "agora"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
+            ],
             "geometry": {
                 "coordinates": [
                     [
@@ -1845,6 +1856,11 @@
             },
             "history": [
                 {
+                    "comment": "Feature type",
+                    "modified": "2025-01-30T04:41:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2024-03-27T17:21:44Z",
                     "modifiedBy": "thomase"
@@ -1874,7 +1890,9 @@
             "locationType": [
                 "associated_modern"
             ],
-            "locationTypeURI": [],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
+            ],
             "provenance": "OpenStreetMap (Way 86494184, version 3, osm:changeset=78031719, 2019-12-06T09:09:26Z)",
             "references": [
                 {
@@ -1947,12 +1965,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "plaza",
-                ""
+                "agora"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "geometry": {
                 "coordinates": [
@@ -1962,6 +1978,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-01-30T04:41:40Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2024-03-29T16:58:51Z",
@@ -2003,8 +2024,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/agora"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -2112,12 +2132,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
         "https://pleiades.stoa.org/vocabularies/place-types/agora",
         "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "plaza",
         "agora",
         "archaeological-site"
     ],

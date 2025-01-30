@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.367807,
-        36.81369,
-        33.367807,
-        36.81369
+        33.351041,
+        36.7908755,
+        33.3539502,
+        36.7915228
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,23 +55,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    33.367807,
-                    36.81369
+                    [
+                        33.3525148,
+                        36.7911476
+                    ],
+                    [
+                        33.3515398,
+                        36.7908755
+                    ],
+                    [
+                        33.351041,
+                        36.7910187
+                    ],
+                    [
+                        33.3512527,
+                        36.7912217
+                    ],
+                    [
+                        33.3519124,
+                        36.7914259
+                    ],
+                    [
+                        33.3539194,
+                        36.7915228
+                    ],
+                    [
+                        33.3539502,
+                        36.791296
+                    ],
+                    [
+                        33.3525148,
+                        36.7911476
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-4991",
+            "id": "osm-location-of-alahan-monastery",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/648553/darmc-location-4991",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/648553/osm-location-of-alahan-monastery",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 4991"
+                "snippet": "Monastery; AD 300 - AD 640",
+                "title": "OSM location of Alahan Monastery"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-29T16:02:18Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2024-12-12T02:24:21Z",
@@ -122,8 +157,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -135,87 +170,124 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:11:00Z",
+            "contributors": [],
+            "created": "2024-12-12T02:16:43Z",
             "creators": [
                 {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 4991",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "monastery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
             "geometry": {
                 "coordinates": [
-                    33.367807,
-                    36.81369
+                    [
+                        33.3525148,
+                        36.7911476
+                    ],
+                    [
+                        33.3515398,
+                        36.7908755
+                    ],
+                    [
+                        33.351041,
+                        36.7910187
+                    ],
+                    [
+                        33.3512527,
+                        36.7912217
+                    ],
+                    [
+                        33.3519124,
+                        36.7914259
+                    ],
+                    [
+                        33.3539194,
+                        36.7915228
+                    ],
+                    [
+                        33.3539502,
+                        36.791296
+                    ],
+                    [
+                        33.3525148,
+                        36.7911476
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:33:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T04:57:57Z",
+                    "modified": "2025-01-29T16:01:47Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:11:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-12-12T15:43:25Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:11:01Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2024-12-12T15:43:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-12-12T02:21:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-12-12T02:16:59Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-12T02:16:43Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:11:00Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-12-12T02:16:43Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-4991",
+            "id": "osm-location-of-alahan-monastery",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/monastery"
             ],
-            "provenance": "DARMC OBJECTID: 4991",
+            "provenance": "OpenStreetMap (Way 173069883, version 18, osm:changeset=160190666, 2024-12-12T02:21:26Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/173069883",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "4991",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 173069883",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 4991.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=173069883",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 4991",
-            "uri": "https://pleiades.stoa.org/places/648553/darmc-location-4991"
+            "title": "OSM location of Alahan Monastery",
+            "uri": "https://pleiades.stoa.org/places/648553/osm-location-of-alahan-monastery"
         }
     ],
     "names": [],
@@ -292,11 +364,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "4991",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.367807,
-        36.81369
+        33.35251362889706,
+        36.79125983107228
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

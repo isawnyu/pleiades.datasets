@@ -72,24 +72,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -9.7663386,
-                    53.1255028
-                ],
-                "type": "Point"
-            },
-            "id": "osm-location",
-            "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/902088536/osm-location",
-                "location_precision": "precise",
-                "snippet": "Fort, ; 2000 BC - 1000 BC",
-                "title": "OSM location"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     [
                         -9.7658252,
                         53.1250853
@@ -314,13 +296,18 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/902088536/osm-location-of-dun-aengus",
                 "location_precision": "precise",
-                "snippet": "Fort; 2000 BC - 1000 BC",
+                "snippet": "Fort-2; 2000 BC - 1000 BC",
                 "title": "OSM location of Dun Aengus"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Place type",
+            "modified": "2025-01-29T18:57:49Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-11-23T02:46:47Z",
@@ -363,103 +350,6 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "2nd-millenium-bce",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/2nd-millenium-bce"
-                }
-            ],
-            "contributors": [],
-            "created": "2014-11-20T19:51:51Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
-            "details": "",
-            "end": -1000,
-            "featureType": [
-                "fort",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    -9.7663386,
-                    53.1255028
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2018-09-26T23:02:15Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2015-05-16T16:07:29Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added location",
-                    "modified": "2014-11-20T19:54:12Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2014-11-20T19:51:56Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2014-11-20T19:51:53Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "osm-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "OpenStreetMap (Node 376080486, version 6, osm:changeset=26915468, 2014-11-20T19:51:34Z)",
-            "references": [
-                {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/376080486",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 376080486",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=376080486",
-                    "otherIdentifier": " ",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -2000,
-            "title": "OSM location",
-            "uri": "https://pleiades.stoa.org/places/902088536/osm-location"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -485,10 +375,10 @@
             "details": "",
             "end": -1000,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -713,6 +603,11 @@
             },
             "history": [
                 {
+                    "comment": "Feature type",
+                    "modified": "2025-01-29T18:58:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-11-23T02:46:16Z",
                     "modifiedBy": "jbecker"
@@ -748,7 +643,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 367009778, version 13, osm:changeset=155144709, 2024-08-12T11:48:30Z)",
             "references": [
@@ -772,10 +667,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -803,8 +698,8 @@
         }
     ],
     "reprPoint": [
-        -9.76649842338263,
-        53.125492101054704
+        -9.766658246765262,
+        53.12548140210941
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

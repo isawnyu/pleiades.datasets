@@ -140,16 +140,21 @@
             },
             "id": "osm-location-of-stoa-at-brauron",
             "properties": {
-                "description": "",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/840019989/osm-location-of-stoa-at-brauron",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "Stoa; 750 BC - 30 BC",
                 "title": "OSM Location of Stoa at Brauron"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-01-29T20:07:19Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2023-05-23T00:58:59Z",
@@ -202,11 +207,37 @@
             "@type": "Location",
             "accuracy": null,
             "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2023-05-22T22:07:58Z",
             "creators": [
                 {
@@ -216,14 +247,14 @@
                     "username": "tlandvatter"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": -30,
             "featureType": [
-                "unknown"
+                "stoa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/stoa"
             ],
             "geometry": {
                 "coordinates": [
@@ -268,6 +299,21 @@
             },
             "history": [
                 {
+                    "comment": "Edited",
+                    "modified": "2025-01-29T20:08:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-01-29T20:08:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-01-29T20:07:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2023-05-23T00:58:59Z",
                     "modifiedBy": "jbecker"
@@ -293,7 +339,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/stoa"
             ],
             "provenance": "Pleiades",
             "references": [
@@ -310,7 +356,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": -750,
             "title": "OSM Location of Stoa at Brauron",
             "uri": "https://pleiades.stoa.org/places/840019989/osm-location-of-stoa-at-brauron"
         }
@@ -395,22 +441,22 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/stoa"
     ],
     "placeTypes": [
-        "unknown"
+        "stoa"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/artifact?name=Brauron&object=site",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVMQVC96",
+            "citationDetail": "Brauron (Site)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "",
+            "formattedCitation": "<div class=\"csl-entry\">“Perseus Art and Archaeology Artifact Browser.” Accessed August 23, 2023. https://www.perseus.tufts.edu/hopper/artifactBrowser.</div>",
             "otherIdentifier": "",
-            "shortTitle": "PECS: Brauron",
+            "shortTitle": "Perseus AAAB",
             "type": "seeFurther"
         },
         {
