@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3617 alignments exist in _Pleiades_ place references as of 2025-01-30. The following list of alignments is grouped by zotkey.
+3620 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -358,6 +358,13 @@
 
 ### alignments:
  - [Actium](https://pleiades.stoa.org/places/530771)
+
+
+## Actium Victory Monument (Preveza)
+[https://topostext.org/place/390207SAug](https://topostext.org/place/390207SAug)  
+
+### alignments:
+ - [Actium Victory Monument](https://pleiades.stoa.org/places/495850428)
 
 
 ## Ad Ansam (Britannia)
@@ -14067,6 +14074,13 @@
  - [Magdala/Taricheai](https://pleiades.stoa.org/places/678272)
 
 
+## Magdalensberg (Noricum) Magdalensberg
+[https://topostext.org/place/467144SMag](https://topostext.org/place/467144SMag)  
+
+### alignments:
+ - [Magdalensberg](https://pleiades.stoa.org/places/197365)
+
+
 ## Magdolos (Egypt)
 [https://topostext.org/place/309324UMag](https://topostext.org/place/309324UMag)  
 
@@ -20657,6 +20671,13 @@
 
 ### alignments:
  - [Roda](https://pleiades.stoa.org/places/531087)
+
+
+## Rokka site (Crete) 2 Troulli - Ρόκκα
+[https://topostext.org/place/355237XRok](https://topostext.org/place/355237XRok)  
+
+### alignments:
+ - [Rokka](https://pleiades.stoa.org/places/590034)
 
 
 ## Roman Agora (Athens)

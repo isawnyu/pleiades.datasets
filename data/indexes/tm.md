@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4064 alignments exist in _Pleiades_ place references as of 2025-01-30. The following list of alignments is grouped by zotkey.
+4065 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12217,6 +12217,13 @@
 
 ### alignments:
  - [[Wadi Sarga]](https://pleiades.stoa.org/places/756676)
+
+
+## GEO ID 28526: Magdalensberg
+[http://www.trismegistos.org/place/28526](http://www.trismegistos.org/place/28526)  
+
+### alignments:
+ - [Magdalensberg](https://pleiades.stoa.org/places/197365)
 
 
 ## GEO ID 2853: Episemou

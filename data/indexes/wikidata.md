@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6431 alignments exist in _Pleiades_ place references as of 2025-01-30. The following list of alignments is grouped by zotkey.
+6444 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -245,6 +245,20 @@
 ### alignments:
  - [Akrai?](https://pleiades.stoa.org/places/540615)
  - [Akrai?](https://pleiades.stoa.org/places/540616)
+
+
+## Acrasus (Q112184834)
+[https://www.wikidata.org/wiki/Q112184834](https://www.wikidata.org/wiki/Q112184834)  
+
+### alignments:
+ - [Akrasos](https://pleiades.stoa.org/places/554181)
+
+
+## Actium Monument (Q98136837)
+[https://www.wikidata.org/wiki/Q98136837](https://www.wikidata.org/wiki/Q98136837)  
+
+### alignments:
+ - [Actium Victory Monument](https://pleiades.stoa.org/places/495850428)
 
 
 ## Acumincum (Q4677883)
@@ -1085,6 +1099,13 @@
 
 ### alignments:
  - [Amiternum](https://pleiades.stoa.org/places/413013)
+
+
+## Ammi Moussa (Q4747238)
+[https://www.wikidata.org/wiki/Q4747238](https://www.wikidata.org/wiki/Q4747238)  
+
+### alignments:
+ - [Ammi Moussa](https://pleiades.stoa.org/places/285414)
 
 
 ## Amnya (Q1072523)
@@ -2065,6 +2086,13 @@
 
 ### alignments:
  - [Archbishop's Chapel, Ravenna](https://pleiades.stoa.org/places/51062012)
+
+
+## Archeological park Magdalensberg (Q877620)
+[https://www.wikidata.org/wiki/Q877620](https://www.wikidata.org/wiki/Q877620)  
+
+### alignments:
+ - [Magdalensberg](https://pleiades.stoa.org/places/197365)
 
 
 ## Arco augusteo, Siracusa (Q3621757)
@@ -3426,6 +3454,20 @@
  - [Bath E3 Phase 2](https://pleiades.stoa.org/places/888638044)
 
 
+## Bathampton Down (Q4868983)
+[https://www.wikidata.org/wiki/Q4868983](https://www.wikidata.org/wiki/Q4868983)  
+
+### alignments:
+ - [Bathampton Down](https://pleiades.stoa.org/places/689737511)
+
+
+## Bathos (Q60791682)
+[https://www.wikidata.org/wiki/Q60791682](https://www.wikidata.org/wiki/Q60791682)  
+
+### alignments:
+ - [Bathos](https://pleiades.stoa.org/places/570149)
+
+
 ## Baths of Agrippa (Q518832)
 [https://www.wikidata.org/wiki/Q518832](https://www.wikidata.org/wiki/Q518832)  
 
@@ -4580,6 +4622,13 @@
 
 ### alignments:
  - [Cadbury Castle](https://pleiades.stoa.org/places/859366031)
+
+
+## Cadbury Castle (Q5016260)
+[https://www.wikidata.org/wiki/Q5016260](https://www.wikidata.org/wiki/Q5016260)  
+
+### alignments:
+ - [Cadbury Castle, Devon](https://pleiades.stoa.org/places/355595792)
 
 
 ## Cadbury Hill Camp, Congresbury (Q17651200)
@@ -17852,6 +17901,13 @@
 
 ### alignments:
  - [Piercebridge](https://pleiades.stoa.org/places/89274)
+
+
+## Pierrière (Q21556443)
+[https://www.wikidata.org/wiki/Q21556443](https://www.wikidata.org/wiki/Q21556443)  
+
+### alignments:
+ - [Pierrière](https://pleiades.stoa.org/places/138516)
 
 
 ## Pigades (Q22986752)
@@ -37269,6 +37325,13 @@
  - [Rockbourne](https://pleiades.stoa.org/places/79659)
 
 
+## Rokka archaeological site (Q104366821)
+[https://www.wikidata.org/wiki/Q104366821](https://www.wikidata.org/wiki/Q104366821)  
+
+### alignments:
+ - [Rokka](https://pleiades.stoa.org/places/590034)
+
+
 ## Roman agora of Corinth (Q125523468)
 [https://www.wikidata.org/wiki/Q125523468](https://www.wikidata.org/wiki/Q125523468)  
 
@@ -38270,6 +38333,13 @@
  - [ St-Peter-Port](https://pleiades.stoa.org/places/69567)
 
 
+## Saint-Galmier (Q687892)
+[https://www.wikidata.org/wiki/Q687892](https://www.wikidata.org/wiki/Q687892)  
+
+### alignments:
+ - [St-Galmier](https://pleiades.stoa.org/places/167894)
+
+
 ## Saint-Guilhem-le-Désert Abbey (Q981723)
 [https://www.wikidata.org/wiki/Q981723](https://www.wikidata.org/wiki/Q981723)  
 
@@ -38401,6 +38471,13 @@
 
 ### alignments:
  - [Samnite Sanctuary at Pietrabbondante](https://pleiades.stoa.org/places/433025)
+
+
+## Samnites (Q500272)
+[https://www.wikidata.org/wiki/Q500272](https://www.wikidata.org/wiki/Q500272)  
+
+### alignments:
+ - [Samnites](https://pleiades.stoa.org/places/442765)
 
 
 ## Samos (Q156882)
@@ -40834,6 +40911,13 @@
  - [Tell Sukas](https://pleiades.stoa.org/places/434181559)
 
 
+## Tell Umm al-Aqarib (Q59655345)
+[https://www.wikidata.org/wiki/Q59655345](https://www.wikidata.org/wiki/Q59655345)  
+
+### alignments:
+ - [Tell Umm al-Aqarib](https://pleiades.stoa.org/places/533622483)
+
+
 ## Telmessos (Q1145385)
 [https://www.wikidata.org/wiki/Q1145385](https://www.wikidata.org/wiki/Q1145385)  
 
@@ -41917,6 +42001,13 @@
 
 ### alignments:
  - [Tibradden Chambered Cairn](https://pleiades.stoa.org/places/989429709)
+
+
+## Tibula (Q3991144)
+[https://www.wikidata.org/wiki/Q3991144](https://www.wikidata.org/wiki/Q3991144)  
+
+### alignments:
+ - [Tibula?](https://pleiades.stoa.org/places/472034)
 
 
 ## Ticino (Q14366)
