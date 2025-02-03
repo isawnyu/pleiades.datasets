@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.241489,
-        27.168976,
-        33.241489,
-        27.168976
+        33.2418931,
+        27.1695152,
+        33.2420236,
+        27.1696268
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,51 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 78 C3 Umm Towat",
-    "details": "The Barrington Atlas Directory notes: Umm Towat, settlement and quarry",
+    "details": "<p>The Barrington Atlas Directory notes: Umm Towat, settlement and quarry</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.241489,
-                    27.168976
+                    [
+                        33.2419261,
+                        27.1696268
+                    ],
+                    [
+                        33.2418931,
+                        27.1695472
+                    ],
+                    [
+                        33.2419905,
+                        27.1695152
+                    ],
+                    [
+                        33.2420236,
+                        27.1695948
+                    ],
+                    [
+                        33.2419261,
+                        27.1696268
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-22645",
+            "id": "osm-location-of-umm-towat",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/766418/darmc-location-22645",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/766418/osm-location-of-umm-towat",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 22645"
+                "snippet": "Archaeological-site; 30 BC - AD 300",
+                "title": "OSM location of Umm Towat"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-31T14:41:05Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-12-08T15:19:36Z",
@@ -111,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -124,87 +147,107 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T01:17:29Z",
+            "contributors": [],
+            "created": "2024-12-08T15:14:36Z",
             "creators": [
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 22645",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    33.241489,
-                    27.168976
+                    [
+                        33.2419261,
+                        27.1696268
+                    ],
+                    [
+                        33.2418931,
+                        27.1695472
+                    ],
+                    [
+                        33.2419905,
+                        27.1695152
+                    ],
+                    [
+                        33.2420236,
+                        27.1695948
+                    ],
+                    [
+                        33.2419261,
+                        27.1696268
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:39Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:19:19Z",
+                    "modified": "2025-01-31T14:40:34Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2011-03-10T01:17:31Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2024-12-08T15:15:33Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T01:17:30Z",
-                    "modifiedBy": "sgillies"
+                    "action": "Submit for review",
+                    "modified": "2024-12-08T15:15:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-12-08T15:15:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-08T15:14:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T01:17:29Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-12-08T15:14:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-22645",
+            "id": "osm-location-of-umm-towat",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 22645",
+            "provenance": "OpenStreetMap (Way 1341029025, version 1, osm:changeset=160060250, 2024-12-08T15:14:02Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1341029025",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "22645",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1341029025",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 22645.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1341029025",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 22645",
-            "uri": "https://pleiades.stoa.org/places/766418/darmc-location-22645"
+            "title": "OSM location of Umm Towat",
+            "uri": "https://pleiades.stoa.org/places/766418/osm-location-of-umm-towat"
         }
     ],
     "names": [],
@@ -294,11 +337,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARE",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "22645",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.241489,
-        27.168976
+        33.241958334108055,
+        27.169571008391195
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.639013,
-        27.362772,
-        33.639013,
-        27.362772
+        33.6326029,
+        27.3684682,
+        33.6334485,
+        27.3692911
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,51 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 78 D3 Deir Abu Sha'ar el-Qibli",
-    "details": "The Barrington Atlas Directory notes: Deir Abu Sha'ar el-Qibli",
+    "details": "<p>The Barrington Atlas Directory notes: Deir Abu Sha'ar el-Qibli</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    33.639013,
-                    27.362772
+                    [
+                        33.6328051,
+                        27.3692911
+                    ],
+                    [
+                        33.6326029,
+                        27.3687754
+                    ],
+                    [
+                        33.6332528,
+                        27.3684682
+                    ],
+                    [
+                        33.6334485,
+                        27.3690972
+                    ],
+                    [
+                        33.6328051,
+                        27.3692911
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-32631",
+            "id": "osm-location-of-deir-abu-shaar-el-qibli",
             "properties": {
-                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/766350/darmc-location-32631",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/766350/osm-location-of-deir-abu-shaar-el-qibli",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 32631"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Deir Abu Sha'ar el-Qibli"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-01-31T14:39:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-12-08T15:36:21Z",
@@ -111,9 +134,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -130,87 +153,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:25:28Z",
+            "contributors": [],
+            "created": "2024-12-08T15:30:07Z",
             "creators": [
                 {
-                    "name": "S.E. Sidebotham",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 32631",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    33.639013,
-                    27.362772
+                    [
+                        33.6328051,
+                        27.3692911
+                    ],
+                    [
+                        33.6326029,
+                        27.3687754
+                    ],
+                    [
+                        33.6332528,
+                        27.3684682
+                    ],
+                    [
+                        33.6334485,
+                        27.3690972
+                    ],
+                    [
+                        33.6328051,
+                        27.3692911
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:22:14Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-02T21:56:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-01-31T14:39:21Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-02T20:25:29Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-12-08T15:36:37Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:25:29Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-12-08T15:30:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-12-08T15:30:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-02T20:25:28Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-12-08T15:30:07Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-32631",
+            "id": "osm-location-of-deir-abu-shaar-el-qibli",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 32631",
+            "provenance": "OpenStreetMap (Way 1341032499, version 1, osm:changeset=160060912, 2024-12-08T15:29:31Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1341032499",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "32631",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1341032499",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 32631.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1341032499",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 32631",
-            "uri": "https://pleiades.stoa.org/places/766350/darmc-location-32631"
+            "title": "OSM location of Deir Abu Sha'ar el-Qibli",
+            "uri": "https://pleiades.stoa.org/places/766350/osm-location-of-deir-abu-shaar-el-qibli"
         }
     ],
     "names": [],
@@ -267,11 +305,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "32631",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        33.639013,
-        27.362772
+        33.633038551509216,
+        27.368897780035557
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
