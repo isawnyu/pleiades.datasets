@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3620 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
+3632 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -113,6 +113,13 @@
 
 ### alignments:
  - [Abarnis](https://pleiades.stoa.org/places/501322)
+
+
+## Abdera (Iberia)
+[https://topostext.org/place/368000UAbd](https://topostext.org/place/368000UAbd)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/265762)
 
 
 ## Abdera (Xanthi)
@@ -603,6 +610,13 @@
 
 ### alignments:
  - [Aginnum](https://pleiades.stoa.org/places/138169)
+
+
+## Agios Donatos Zervochoriou (Thesprotia) Asfaka - Άγιος Δονάτος Ζερβοχωρίου
+[https://topostext.org/place/394206FADZ](https://topostext.org/place/394206FADZ)  
+
+### alignments:
+ - [Zervokhori](https://pleiades.stoa.org/places/531157)
 
 
 ## Agora (Thrace)
@@ -1290,6 +1304,13 @@
 
 ### alignments:
  - [Allia (river)](https://pleiades.stoa.org/places/438670)
+
+
+## Allianoi bath (Aeolis) Paşaköy - Αλλιανοί
+[https://topostext.org/place/392273BAll](https://topostext.org/place/392273BAll)  
+
+### alignments:
+ - [Allianoi](https://pleiades.stoa.org/places/550793)
 
 
 ## Allifae/Alifae (Italy)
@@ -5305,6 +5326,13 @@
  - [Carmo](https://pleiades.stoa.org/places/256058)
 
 
+## Carnuntum (Noricum) 15 Bad Deutsch-Altenburg
+[https://topostext.org/place/481169UCar](https://topostext.org/place/481169UCar)  
+
+### alignments:
+ - [Carnuntum](https://pleiades.stoa.org/places/128376)
+
+
 ## Carpentorate/Memini/Forum Neronis (Gallia)
 [https://topostext.org/place/441050UCar](https://topostext.org/place/441050UCar)  
 
@@ -6361,6 +6389,13 @@
 
 ### alignments:
  - [Daphni Monastery](https://pleiades.stoa.org/places/606653928)
+
+
+## Daphnous sanct. (Mysia)
+[https://topostext.org/place/402286UDap](https://topostext.org/place/402286UDap)  
+
+### alignments:
+ - [Daphnous](https://pleiades.stoa.org/places/511222)
 
 
 ## Dara/Anastasioupolis (Mesopotamia) 62 Oğuz
@@ -9213,6 +9248,13 @@
  - [Halimous](https://pleiades.stoa.org/places/579941)
 
 
+## Halipedon (Attica) 3 Phaleric Delta
+[https://topostext.org/place/379237LHal](https://topostext.org/place/379237LHal)  
+
+### alignments:
+ - [Halipedon](https://pleiades.stoa.org/places/579942)
+
+
 ## Halisarna (Aiolis)
 [https://topostext.org/place/390271PHal](https://topostext.org/place/390271PHal)  
 
@@ -10138,6 +10180,13 @@
 
 ### alignments:
  - [Hypnia?](https://pleiades.stoa.org/places/540828)
+
+
+## Hypokremnos (Ionia)
+[https://topostext.org/place/383266UHyp](https://topostext.org/place/383266UHyp)  
+
+### alignments:
+ - [Hypokremnos](https://pleiades.stoa.org/places/550586)
 
 
 ## Hyria (Euboea)
@@ -15280,6 +15329,13 @@
  - [Iustinianoupolis/Mokissos](https://pleiades.stoa.org/places/619174)
 
 
+## Molykreion? (Aitolia)
+[https://topostext.org/place/384218PMol](https://topostext.org/place/384218PMol)  
+
+### alignments:
+ - [Molykreion?](https://pleiades.stoa.org/places/540948)
+
+
 ## Momemphis (Egypt)
 [https://topostext.org/place/307306UMom](https://topostext.org/place/307306UMom)  
 
@@ -18169,6 +18225,13 @@
  - [Phabra (island)](https://pleiades.stoa.org/places/580069)
 
 
+## Phaika (Thessaly)
+[https://topostext.org/place/395216UPha](https://topostext.org/place/395216UPha)  
+
+### alignments:
+ - [Phaika](https://pleiades.stoa.org/places/541031)
+
+
 ## Phaistinos (Phokida)
 [https://topostext.org/place/384223UPha](https://topostext.org/place/384223UPha)  
 
@@ -18832,6 +18895,13 @@
 
 ### alignments:
  - [Pisaurum](https://pleiades.stoa.org/places/413256)
+
+
+## Pisidia region (Asia Minor)
+[https://topostext.org/place/370306RPis](https://topostext.org/place/370306RPis)  
+
+### alignments:
+ - [Pisidia (region)](https://pleiades.stoa.org/places/639060)
 
 
 ## Piskokefalo Minoan villa (Lasithi)
@@ -20285,6 +20355,13 @@
 
 ### alignments:
  - [Ptolemais Theron](https://pleiades.stoa.org/places/39409)
+
+
+## Ptychia (Kerkyra) 5 Vido - Πτυχία
+[https://topostext.org/place/398198IPty](https://topostext.org/place/398198IPty)  
+
+### alignments:
+ - [Ptychia (island)](https://pleiades.stoa.org/places/531078)
 
 
 ## Pydna (Pieria)
@@ -24345,6 +24422,13 @@
 
 ### alignments:
  - [Troesmis](https://pleiades.stoa.org/places/217025)
+
+
+## Trogodos M. (Cyprus) Olympos/Troodos - Τρόγοδος
+[https://topostext.org/place/348330LTro](https://topostext.org/place/348330LTro)  
+
+### alignments:
+ - [Trogodos (mountain)](https://pleiades.stoa.org/places/707639)
 
 
 ## Troia (Egypt)

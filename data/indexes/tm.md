@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4065 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
+4079 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2912,6 +2912,13 @@
 
 ### alignments:
  - [Kaystros/Kestros](https://pleiades.stoa.org/places/648665)
+
+
+## GEO ID 11876: Herakleia Tracheia
+[https://www.trismegistos.org/place/11876](https://www.trismegistos.org/place/11876)  
+
+### alignments:
+ - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
 
 
 ## GEO ID 11886: Kaukasos
@@ -7052,6 +7059,13 @@
  - [Charcha/‘Arcaiapis’/Karcharoman](https://pleiades.stoa.org/places/874418)
 
 
+## GEO ID 16521: Carnuntum (Petronell)
+[https://www.trismegistos.org/place/16521](https://www.trismegistos.org/place/16521)  
+
+### alignments:
+ - [Carnuntum](https://pleiades.stoa.org/places/128376)
+
+
 ## GEO ID 16526: Apsaros (Gonio)
 [http://www.trismegistos.org/place/16526](http://www.trismegistos.org/place/16526)  
 
@@ -8016,6 +8030,13 @@
 
 ### alignments:
  - [Tigisis](https://pleiades.stoa.org/places/305168)
+
+
+## GEO ID 1837: Pisidia
+[https://www.trismegistos.org/place/1837](https://www.trismegistos.org/place/1837)  
+
+### alignments:
+ - [Pisidia (region)](https://pleiades.stoa.org/places/639060)
 
 
 ## GEO ID 18439: Lamasba (Henchir Merouana)
@@ -10202,6 +10223,13 @@
  - [Tentyra](https://pleiades.stoa.org/places/786127)
 
 
+## GEO ID 23133: Beneharnum (Lescar)
+[http://www.trismegistos.org/place/23133](http://www.trismegistos.org/place/23133)  
+
+### alignments:
+ - [Bene(h)arnum](https://pleiades.stoa.org/places/246237)
+
+
 ## GEO ID 2318: Terenouthis (Kom Abu Billo)
 [http://www.trismegistos.org/place/2318](http://www.trismegistos.org/place/2318)  
 
@@ -10529,6 +10557,13 @@
 
 ### alignments:
  - [Thmouis](https://pleiades.stoa.org/places/727249)
+
+
+## GEO ID 24119: Ariorica (Pontarlier)
+[https://www.trismegistos.org/place/24119](https://www.trismegistos.org/place/24119)  
+
+### alignments:
+ - [Ariorica](https://pleiades.stoa.org/places/177453)
 
 
 ## GEO ID 24139: Condate (Rennes)
@@ -10888,6 +10923,13 @@
  - [Viromandis](https://pleiades.stoa.org/places/109436)
 
 
+## GEO ID 25367: Vesontio (Besançon)
+[https://www.trismegistos.org/place/25367](https://www.trismegistos.org/place/25367)  
+
+### alignments:
+ - [Vesontio](https://pleiades.stoa.org/places/177657)
+
+
 ## GEO ID 25384: Divio (Dijon)
 [https://www.trismegistos.org/place/25384](https://www.trismegistos.org/place/25384)  
 
@@ -10921,6 +10963,13 @@
 
 ### alignments:
  - [Baetica](https://pleiades.stoa.org/places/862)
+
+
+## GEO ID 25556: Briteiros
+[https://www.trismegistos.org/place/25556](https://www.trismegistos.org/place/25556)  
+
+### alignments:
+ - [Briteiros](https://pleiades.stoa.org/places/236385)
 
 
 ## GEO ID 2562
@@ -10977,6 +11026,13 @@
 
 ### alignments:
  - [Balsa](https://pleiades.stoa.org/places/256013)
+
+
+## GEO ID 25860: Abdera (Adra)
+[https://www.trismegistos.org/place/25860](https://www.trismegistos.org/place/25860)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/265762)
 
 
 ## GEO ID 25874: Collippo (Leiria)
@@ -11572,6 +11628,13 @@
 
 ### alignments:
  - [Ad Palem?](https://pleiades.stoa.org/places/265779)
+
+
+## GEO ID 27087: Laminium (Alhambra)
+[http://www.trismegistos.org/place/27087](http://www.trismegistos.org/place/27087)  
+
+### alignments:
+ - [Laminium](https://pleiades.stoa.org/places/265946)
 
 
 ## GEO ID 27098: Oretum (Granátula de Calatrava)
@@ -26254,6 +26317,13 @@
  - [Panormos](https://pleiades.stoa.org/places/541010)
 
 
+## GEO ID 60653: Atene (Charaka)
+[https://www.trismegistos.org/place/60653](https://www.trismegistos.org/place/60653)  
+
+### alignments:
+ - [Atene](https://pleiades.stoa.org/places/579883)
+
+
 ## GEO ID 60665: Agryle Hypenerthen
 [https://www.trismegistos.org/place/60665](https://www.trismegistos.org/place/60665)  
 
@@ -26478,6 +26548,13 @@
  - [Palaia](https://pleiades.stoa.org/places/711256)
 
 
+## GEO ID 60835: Trogodos (Olympos)
+[https://www.trismegistos.org/place/60835](https://www.trismegistos.org/place/60835)  
+
+### alignments:
+ - [Trogodos (mountain)](https://pleiades.stoa.org/places/707639)
+
+
 ## GEO ID 60860: Panagia Kanakaria
 [https://www.trismegistos.org/place/60860](https://www.trismegistos.org/place/60860)  
 
@@ -26518,6 +26595,13 @@
 
 ### alignments:
  - [Glauke](https://pleiades.stoa.org/places/599626)
+
+
+## GEO ID 60933: Hypokremnos (Gülbahce)
+[https://www.trismegistos.org/place/60933](https://www.trismegistos.org/place/60933)  
+
+### alignments:
+ - [Hypokremnos](https://pleiades.stoa.org/places/550586)
 
 
 ## GEO ID 60941: Melia (Guzelcamli)
@@ -26567,6 +26651,13 @@
 
 ### alignments:
  - [Melampagos](https://pleiades.stoa.org/places/550728)
+
+
+## GEO ID 60970: Allianoi (Paşa Ilıca)
+[https://www.trismegistos.org/place/60970](https://www.trismegistos.org/place/60970)  
+
+### alignments:
+ - [Allianoi](https://pleiades.stoa.org/places/550793)
 
 
 ## GEO ID 60972: Metropolis (Oyneş)
@@ -26630,6 +26721,13 @@
 
 ### alignments:
  - [Herkte](https://pleiades.stoa.org/places/465912)
+
+
+## GEO ID 61073: Mylai (Milazzo)
+[https://www.trismegistos.org/place/61073](https://www.trismegistos.org/place/61073)  
+
+### alignments:
+ - [Mylae](https://pleiades.stoa.org/places/462379)
 
 
 ## GEO ID 61078: Lopadusa (Lampedusa)

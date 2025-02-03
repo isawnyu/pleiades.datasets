@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-596 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
+601 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -841,6 +841,13 @@
  - [Temenouthyrai](https://pleiades.stoa.org/places/609549)
 
 
+## 10161356: River Cephisos (Attica)
+[https://resource.manto.unh.edu/10161356](https://resource.manto.unh.edu/10161356)  
+
+### alignments:
+ - [Kephisos (river)](https://pleiades.stoa.org/places/579974)
+
+
 ## 10185031: Rheitoi (Attica) river channels near Eleusis
 [https://resource.manto.unh.edu/10185031](https://resource.manto.unh.edu/10185031)  
 
@@ -1189,6 +1196,13 @@
 
 ### alignments:
  - [Bady (river)](https://pleiades.stoa.org/places/573137)
+
+
+## 10215515: Molycrion (Aitolia)
+[https://resource.manto.unh.edu/10215515](https://resource.manto.unh.edu/10215515)  
+
+### alignments:
+ - [Molykreion?](https://pleiades.stoa.org/places/540948)
 
 
 ## 10215556: Lepreon
@@ -2179,6 +2193,13 @@
  - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
+## 11310357: Arbela (Assyria)
+[https://resource.manto.unh.edu/11310357](https://resource.manto.unh.edu/11310357)  
+
+### alignments:
+ - [Arbela/Arba-ilu](https://pleiades.stoa.org/places/874341)
+
+
 ## 11310367: Gordyene (Mesopotamia)
 [https://resource.manto.unh.edu/11310367](https://resource.manto.unh.edu/11310367)  
 
@@ -3013,6 +3034,13 @@
  - [Sardinia (island)](https://pleiades.stoa.org/places/472014)
 
 
+## 8254033: Trachis (Thessaly)
+[https://resource.manto.unh.edu/8254033](https://resource.manto.unh.edu/8254033)  
+
+### alignments:
+ - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
+
+
 ## 8254036: Mount Oita (Thessaly)
 [https://resource.manto.unh.edu/8254036](https://resource.manto.unh.edu/8254036)  
 
@@ -3690,6 +3718,13 @@
 
 ### alignments:
  - [Alesion (mountain)](https://pleiades.stoa.org/places/570064)
+
+
+## 9719432: Chalcis (Aitolia)
+[https://resource.manto.unh.edu/9719432](https://resource.manto.unh.edu/9719432)  
+
+### alignments:
+ - [(Hypo)Chalkis](https://pleiades.stoa.org/places/540829)
 
 
 ## 9719437: Lyctos (Crete)

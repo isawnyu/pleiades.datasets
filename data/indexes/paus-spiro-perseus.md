@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-492 alignments exist in _Pleiades_ place references as of 2025-01-31. The following list of alignments is grouped by zotkey.
+494 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -342,6 +342,13 @@
 
 ### alignments:
  - [Lakiadai](https://pleiades.stoa.org/places/580006)
+
+
+## 1.37.3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.37.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.37.3)  
+
+### alignments:
+ - [Kephisos (river)](https://pleiades.stoa.org/places/579974)
 
 
 ## 1.37.5
@@ -905,6 +912,13 @@
 
 ### alignments:
  - [Kephisos (river)](https://pleiades.stoa.org/places/573283)
+
+
+## 2.23.5
+[http://www.perseus.tufts.edu/hopper/text?doc=Paus.%202.23.5&lang=original](http://www.perseus.tufts.edu/hopper/text?doc=Paus.%202.23.5&lang=original)  
+
+### alignments:
+ - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
 
 
 ## 2.24.1
@@ -3617,6 +3631,7 @@
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
  - [Antikyra](https://pleiades.stoa.org/places/540642)
+ - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
  - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
  - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
