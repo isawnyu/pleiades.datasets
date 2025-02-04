@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6534 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
+6557 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -777,6 +777,27 @@
 
 ### alignments:
  - [Alcazaba de Mérida](https://pleiades.stoa.org/places/88397175)
+
+
+## Alchester (Samian Ware Discovery Site) (Q103139701)
+[https://www.wikidata.org/wiki/Q103139701](https://www.wikidata.org/wiki/Q103139701)  
+
+### alignments:
+ - [Alchester](https://pleiades.stoa.org/places/79289)
+
+
+## Alchester Roman parade ground, access road and marching camp (Q66480723)
+[https://www.wikidata.org/wiki/Q66480723](https://www.wikidata.org/wiki/Q66480723)  
+
+### alignments:
+ - [Merton Roman Camp](https://pleiades.stoa.org/places/973264595)
+
+
+## Alchester Roman Town (Q2640298)
+[https://www.wikidata.org/wiki/Q2640298](https://www.wikidata.org/wiki/Q2640298)  
+
+### alignments:
+ - [Alchester](https://pleiades.stoa.org/places/79289)
 
 
 ## Alcimoennis (Q4713127)
@@ -5048,7 +5069,7 @@
 [https://www.wikidata.org/wiki/Q25117391](https://www.wikidata.org/wiki/Q25117391)  
 
 ### alignments:
- - [Kolyergia Pr.](https://pleiades.stoa.org/places/570369)
+ - [Kolyergia (promuntory)](https://pleiades.stoa.org/places/570369)
 
 
 ## Cape Aspro (Q22991976)
@@ -5497,6 +5518,13 @@
 
 ### alignments:
  - [Castle Rising Castle](https://pleiades.stoa.org/places/95991113)
+
+
+## Castle Rock (Q8522896)
+[https://www.wikidata.org/wiki/Q8522896](https://www.wikidata.org/wiki/Q8522896)  
+
+### alignments:
+ - [Castle Rock (Edinburgh)](https://pleiades.stoa.org/places/735064887)
 
 
 ## Castlecary Roman fort (Q81421942)
@@ -7446,6 +7474,13 @@
  - [Dacia](https://pleiades.stoa.org/places/207065)
 
 
+## Dacia Mediterranea (Q3626028)
+[https://www.wikidata.org/wiki/Q3626028](https://www.wikidata.org/wiki/Q3626028)  
+
+### alignments:
+ - [Dacia Mediterranea](https://pleiades.stoa.org/places/991365)
+
+
 ## Dacibyza (Q65059743)
 [https://www.wikidata.org/wiki/Q65059743](https://www.wikidata.org/wiki/Q65059743)  
 
@@ -7493,6 +7528,13 @@
 
 ### alignments:
  - [Damastion](https://pleiades.stoa.org/places/483974)
+
+
+## Damavand (Q40758)
+[https://www.wikidata.org/wiki/Q40758](https://www.wikidata.org/wiki/Q40758)  
+
+### alignments:
+ - [Iasonius (mountain)](https://pleiades.stoa.org/places/903045)
 
 
 ## Dana Adası (Q5214669)
@@ -8155,6 +8197,13 @@
  - [Portunata (island)](https://pleiades.stoa.org/places/197455)
 
 
+## Dukkan-e Daud (Q3041097)
+[https://www.wikidata.org/wiki/Q3041097](https://www.wikidata.org/wiki/Q3041097)  
+
+### alignments:
+ - [Dukkan-i Daud](https://pleiades.stoa.org/places/903019)
+
+
 ## Dun Aengus (Q1265205)
 [https://www.wikidata.org/wiki/Q1265205](https://www.wikidata.org/wiki/Q1265205)  
 
@@ -8195,6 +8244,13 @@
 
 ### alignments:
  - [Visigothic necropolis, Duratón](https://pleiades.stoa.org/places/581247661)
+
+
+## Durmuş Dağı (Q31525018)
+[https://www.wikidata.org/wiki/Q31525018](https://www.wikidata.org/wiki/Q31525018)  
+
+### alignments:
+ - [Thorax (mountain)](https://pleiades.stoa.org/places/599980)
 
 
 ## Durnomagus (Q1267419)
@@ -9868,6 +9924,13 @@
 
 ### alignments:
  - [Goderdzi Pass](https://pleiades.stoa.org/places/864479)
+
+
+## Godin Tepe (Q774339)
+[https://www.wikidata.org/wiki/Q774339](https://www.wikidata.org/wiki/Q774339)  
+
+### alignments:
+ - [Godin tepe](https://pleiades.stoa.org/places/903035)
 
 
 ## Golasecca (Q40879)
@@ -12788,7 +12851,7 @@
 [https://www.wikidata.org/wiki/Q1502960](https://www.wikidata.org/wiki/Q1502960)  
 
 ### alignments:
- - [*Summus L.](https://pleiades.stoa.org/places/187562)
+ - [*Summus (lake)](https://pleiades.stoa.org/places/187562)
 
 
 ## Lago di Varano (Q511180)
@@ -12858,7 +12921,7 @@
 [https://www.wikidata.org/wiki/Q192369](https://www.wikidata.org/wiki/Q192369)  
 
 ### alignments:
- - [Askania L.](https://pleiades.stoa.org/places/511166)
+ - [Askania (lake)](https://pleiades.stoa.org/places/511166)
 
 
 ## Lake Kerkini (Q1739269)
@@ -13098,6 +13161,13 @@
 
 ### alignments:
  - [Lato](https://pleiades.stoa.org/places/589899)
+
+
+## Laurium (Q2089258)
+[https://www.wikidata.org/wiki/Q2089258](https://www.wikidata.org/wiki/Q2089258)  
+
+### alignments:
+ - [Laurum](https://pleiades.stoa.org/places/98997)
 
 
 ## Lautulae (Q11753303)
@@ -14330,6 +14400,13 @@
 
 ### alignments:
  - [Ammoniou Pegai](https://pleiades.stoa.org/places/363920)
+
+
+## Median Wall (Q567931)
+[https://www.wikidata.org/wiki/Q567931](https://www.wikidata.org/wiki/Q567931)  
+
+### alignments:
+ - [Wall of Media](https://pleiades.stoa.org/places/896945)
 
 
 ## Medina of Essaouira (Q11858823)
@@ -17161,6 +17238,13 @@
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
 
 
+## Opis (Q1287526)
+[https://www.wikidata.org/wiki/Q1287526](https://www.wikidata.org/wiki/Q1287526)  
+
+### alignments:
+ - [Opis](https://pleiades.stoa.org/places/894056)
+
+
 ## Opitergium (Q130297514)
 [https://www.wikidata.org/wiki/Q130297514](https://www.wikidata.org/wiki/Q130297514)  
 
@@ -17201,6 +17285,13 @@
 
 ### alignments:
  - [Mont Vully oppidum](https://pleiades.stoa.org/places/980972179)
+
+
+## Oppidum of Arrola (Q16544867)
+[https://www.wikidata.org/wiki/Q16544867](https://www.wikidata.org/wiki/Q16544867)  
+
+### alignments:
+ - [Castro de Arrola](https://pleiades.stoa.org/places/873145894)
 
 
 ## Oram's Arbour (Q7099422)
@@ -17488,6 +17579,13 @@
 
 ### alignments:
  - [Pamphylia (region)](https://pleiades.stoa.org/places/639034)
+
+
+## Panagia Ekatontapiliani church (Q1231781)
+[https://www.wikidata.org/wiki/Q1231781](https://www.wikidata.org/wiki/Q1231781)  
+
+### alignments:
+ - [Panagia Ekatontapiliani](https://pleiades.stoa.org/places/484690690)
 
 
 ## Panagia Kanakaria (Q2048868)
@@ -18664,6 +18762,13 @@
 
 ### alignments:
  - [Ponte de Rubiaes](https://pleiades.stoa.org/places/452983868)
+
+
+## Ponte della Maddalena (Q2103761)
+[https://www.wikidata.org/wiki/Q2103761](https://www.wikidata.org/wiki/Q2103761)  
+
+### alignments:
+ - [Ponte della Maddalena](https://pleiades.stoa.org/places/172158347)
 
 
 ## Ponte delle Torri (Q16591375)
@@ -37317,6 +37422,13 @@
  - [Qohaito](https://pleiades.stoa.org/places/698596572)
 
 
+## Quadi (Q308885)
+[https://www.wikidata.org/wiki/Q308885](https://www.wikidata.org/wiki/Q308885)  
+
+### alignments:
+ - [Quadi](https://pleiades.stoa.org/places/128501)
+
+
 ## Queen's Megaron (Q123396375)
 [https://www.wikidata.org/wiki/Q123396375](https://www.wikidata.org/wiki/Q123396375)  
 
@@ -37686,6 +37798,13 @@
 
 ### alignments:
  - [Noouios (river)](https://pleiades.stoa.org/places/89255)
+
+
+## River Parrett (Q3046077)
+[https://www.wikidata.org/wiki/Q3046077](https://www.wikidata.org/wiki/Q3046077)  
+
+### alignments:
+ - [Ouxella (river)](https://pleiades.stoa.org/places/83875)
 
 
 ## River Satnioeis (Troad) (Q130491518)
@@ -39481,6 +39600,13 @@
  - [Sion](https://pleiades.stoa.org/places/109347)
 
 
+## Saxons (Q101985)
+[https://www.wikidata.org/wiki/Q101985](https://www.wikidata.org/wiki/Q101985)  
+
+### alignments:
+ - [Saxones](https://pleiades.stoa.org/places/99035)
+
+
 ## Saône (Q187834)
 [https://www.wikidata.org/wiki/Q187834](https://www.wikidata.org/wiki/Q187834)  
 
@@ -39815,6 +39941,13 @@
 
 ### alignments:
  - [Semna](https://pleiades.stoa.org/places/795856)
+
+
+## Semnones (Q855704)
+[https://www.wikidata.org/wiki/Q855704](https://www.wikidata.org/wiki/Q855704)  
+
+### alignments:
+ - [Semnones](https://pleiades.stoa.org/places/118962)
 
 
 ## Senlis (Samian Ware Discovery Site) (Q103194995)
@@ -40837,6 +40970,13 @@
 
 ### alignments:
  - [Sudelfels](https://pleiades.stoa.org/places/369592150)
+
+
+## Suebi (Q155085)
+[https://www.wikidata.org/wiki/Q155085](https://www.wikidata.org/wiki/Q155085)  
+
+### alignments:
+ - [Suebi](https://pleiades.stoa.org/places/99040)
 
 
 ## Suessiones (Q1196925)
@@ -42106,6 +42246,13 @@
 
 ### alignments:
  - [Teutoburgiensis? Saltus](https://pleiades.stoa.org/places/99043)
+
+
+## Teutons (Q179674)
+[https://www.wikidata.org/wiki/Q179674](https://www.wikidata.org/wiki/Q179674)  
+
+### alignments:
+ - [Teutones?](https://pleiades.stoa.org/places/99044)
 
 
 ## Thalamae (Q16643340)
@@ -44013,6 +44160,13 @@
  - [Uzentum/Ouxenton](https://pleiades.stoa.org/places/442841)
 
 
+## Uitgeest (Q9967)
+[https://www.wikidata.org/wiki/Q9967](https://www.wikidata.org/wiki/Q9967)  
+
+### alignments:
+ - [Uitgeest](https://pleiades.stoa.org/places/99049)
+
+
 ## Ulla (Q14548)
 [https://www.wikidata.org/wiki/Q14548](https://www.wikidata.org/wiki/Q14548)  
 
@@ -44305,6 +44459,13 @@
 
 ### alignments:
  - [Vellavi](https://pleiades.stoa.org/places/167958)
+
+
+## Velsen (Samian Ware Discovery Site) (Q103198883)
+[https://www.wikidata.org/wiki/Q103198883](https://www.wikidata.org/wiki/Q103198883)  
+
+### alignments:
+ - [Velsen](https://pleiades.stoa.org/places/99058)
 
 
 ## Vendôme (Q214575)

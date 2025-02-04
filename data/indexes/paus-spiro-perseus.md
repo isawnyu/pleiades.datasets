@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-494 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
+494 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1129,7 +1129,7 @@
 
 ### alignments:
  - [Halioussa](https://pleiades.stoa.org/places/573242)
- - [Kolyergia Pr.](https://pleiades.stoa.org/places/570369)
+ - [Kolyergia (promuntory)](https://pleiades.stoa.org/places/570369)
 
 
 ## 2.34.9

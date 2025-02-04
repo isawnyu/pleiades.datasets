@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4079 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
+4083 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6233,6 +6233,13 @@
  - [Galava](https://pleiades.stoa.org/places/89191)
 
 
+## GEO ID 15541: Alchester
+[https://www.trismegistos.org/place/15541](https://www.trismegistos.org/place/15541)  
+
+### alignments:
+ - [Alchester](https://pleiades.stoa.org/places/79289)
+
+
 ## GEO ID 15555: Cappuck
 [http://www.trismegistos.org/place/15555](http://www.trismegistos.org/place/15555)  
 
@@ -10760,6 +10767,13 @@
 
 ### alignments:
  - [Tosachmis](https://pleiades.stoa.org/places/741642)
+
+
+## GEO ID 24553: Laurum (Woerden)
+[https://www.trismegistos.org/place/24553](https://www.trismegistos.org/place/24553)  
+
+### alignments:
+ - [Laurum](https://pleiades.stoa.org/places/98997)
 
 
 ## GEO ID 24558: Asciburgium (Asberg)
@@ -20397,6 +20411,13 @@
  - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
 
 
+## GEO ID 41601: Quadi
+[https://www.trismegistos.org/place/41601](https://www.trismegistos.org/place/41601)  
+
+### alignments:
+ - [Quadi](https://pleiades.stoa.org/places/128501)
+
+
 ## GEO ID 41602
 [http://www.trismegistos.org/place/41602](http://www.trismegistos.org/place/41602)  
 
@@ -22469,7 +22490,7 @@
  - [Rhodope](https://pleiades.stoa.org/places/991370)
 
 
-## GEO ID 42684
+## GEO ID 42684: Dacia Mediterranea
 [https://www.trismegistos.org/place/42684](https://www.trismegistos.org/place/42684)  
 
 ### alignments:
@@ -28221,6 +28242,13 @@
 
 ### alignments:
  - [Metaurus (river)](https://pleiades.stoa.org/places/413199)
+
+
+## GEO ID, 38502: Suebi
+[www.trismegistos.org/place/38502](www.trismegistos.org/place/38502)  
+
+### alignments:
+ - [Suebi](https://pleiades.stoa.org/places/99040)
 
 
 ## GEO ID, 40502: Caesariana

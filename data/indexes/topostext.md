@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3632 alignments exist in _Pleiades_ place references as of 2025-02-03. The following list of alignments is grouped by zotkey.
+3633 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7367,6 +7367,13 @@
 
 ### alignments:
  - [Eitea (Antiochis)](https://pleiades.stoa.org/places/579916)
+
+
+## Ekatontapyliani EC basilica (Paros)
+[https://topostext.org/place/371252EEka](https://topostext.org/place/371252EEka)  
+
+### alignments:
+ - [Panagia Ekatontapiliani](https://pleiades.stoa.org/places/484690690)
 
 
 ## Ekbatana (Persia)
