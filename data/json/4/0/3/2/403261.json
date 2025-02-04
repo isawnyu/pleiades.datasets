@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.343319,
-        43.679716,
-        10.346781,
-        43.680035
+        10.3478436,
+        43.6796766,
+        10.3478436,
+        43.6796766
     ],
     "connections": [
         {
@@ -171,41 +171,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    10.343319,
-                    43.680035
+                    10.3478436,
+                    43.6796766
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18804",
+            "id": "osm-location-of-san-piero-a-grado",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/403261/darmc-location-18804",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/403261/osm-location-of-san-piero-a-grado",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 18804"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    10.346781,
-                    43.679716
-                ],
-                "type": "Point"
-            },
-            "id": "dare-location",
-            "properties": {
-                "description": "Representative point location, village precision",
-                "link": "https://pleiades.stoa.org/places/403261/dare-location",
-                "location_precision": "precise",
-                "snippet": "Settlement; 30 BC - AD 640",
-                "title": "DARE Location"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of San Piero a Grado"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-02-03T22:32:25Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Q3909173: Porto Pisano",
             "modified": "2021-11-19T21:04:07Z",
@@ -281,8 +268,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -290,192 +277,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:26:59Z",
+            "contributors": [],
+            "created": "2024-11-18T15:27:08Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18804",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    10.343319,
-                    43.680035
+                    10.3478436,
+                    43.6796766
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:45:36Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:47Z",
+                    "modified": "2025-02-03T22:30:54Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:27:00Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-18T15:27:29Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:27:00Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-11-18T15:27:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-18T15:27:09Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:26:59Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-18T15:27:08Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18804",
+            "id": "osm-location-of-san-piero-a-grado",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 18804",
+            "provenance": "OpenStreetMap (Node 4271513856, version 3, osm:changeset=98652703, 2021-02-03T15:25:51Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4271513856",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18804",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4271513856",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18804.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4271513856",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 18804",
-            "uri": "https://pleiades.stoa.org/places/403261/darmc-location-18804"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-10-23T17:56:06Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Representative point location, village precision",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    10.346781,
-                    43.679716
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2012-10-23T17:56:07Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-10-23T17:56:07Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-23T17:56:07Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2012-10-23T17:56:06Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "dare-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
-            "references": [
-                {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/403261/dare-location"
+            "start": 2000,
+            "title": "OSM location of San Piero a Grado",
+            "uri": "https://pleiades.stoa.org/places/403261/osm-location-of-san-piero-a-grado"
         }
     ],
     "names": [
@@ -647,11 +530,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18804",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        10.34505,
-        43.679875499999994
+        10.3478436,
+        43.6796766
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

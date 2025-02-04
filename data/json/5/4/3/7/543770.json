@@ -1,7 +1,75 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/541012",
+            "contributors": [],
+            "created": "2024-11-22T21:50:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-03T22:14:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-11-22T21:55:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2024-11-22T21:55:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-11-22T21:50:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-11-22T21:50:13Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "parnassus-mountain",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Lycoreia",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Lycoreia",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Parnassus (mountain)",
+            "uri": "https://pleiades.stoa.org/places/543770/parnassus-mountain"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/541012"
     ],
@@ -259,18 +327,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Λυκώρεια",
             "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -278,9 +342,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-23T00:31:26Z",
+            "created": "2024-11-22T21:57:28Z",
             "creators": [
                 {
                     "name": "J. Fossey",
@@ -295,6 +371,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "add Greek name, Strabo reference by @jbecker",
+                    "modified": "2025-02-03T22:14:20Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:13:03Z",
@@ -317,10 +398,22 @@
                 }
             ],
             "id": "lykoreia",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 55 Lykoreia",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.3.3",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "9.3.3",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Lykoreia",
             "start": -550,

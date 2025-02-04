@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.0,
-        37.0,
-        23.5,
-        37.5
+        23.1997671,
+        37.2911978,
+        23.1997671,
+        37.2911978
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,48 +44,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 58 E3 Kolyergia Pr.",
-    "details": "The Barrington Atlas Directory notes: Cape Miliaros",
+    "details": "<p>The Barrington Atlas Directory notes: Cape Miliaros</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.5,
-                            37.0
-                        ],
-                        [
-                            23.5,
-                            37.5
-                        ],
-                        [
-                            23.0,
-                            37.5
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ]
-                    ]
+                    23.1997671,
+                    37.2911978
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-ii3i1i-i-ii1i1-4i1i-i1i-i1-2ii",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570369/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/570369/osm-location-of-ii3i1i-i-ii1i1-4i1i-i1i-i1-2ii",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Άγιος Αιμιλιανός"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title",
+            "modified": "2025-02-03T22:19:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-11-22T06:01:24Z",
@@ -126,110 +111,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:48:51Z",
+            "contributors": [],
+            "created": "2024-11-22T05:59:34Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            23.0,
-                            37.0
-                        ],
-                        [
-                            23.5,
-                            37.0
-                        ],
-                        [
-                            23.5,
-                            37.5
-                        ],
-                        [
-                            23.0,
-                            37.5
-                        ],
-                        [
-                            23.0,
-                            37.0
-                        ]
-                    ]
+                    23.1997671,
+                    37.2911978
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:30:22Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:38:09Z",
+                    "modified": "2025-02-03T22:19:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:19:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-22T06:00:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-11-22T05:59:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-22T05:59:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:48:51Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-22T05:59:34Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-ii3i1i-i-ii1i1-4i1i-i1i-i1-2ii",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 E3 Kolyergia Pr.",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2640754152, version 4, osm:changeset=151856822, 2024-05-26T15:05:09Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2640754152",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2640754152",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2640754152",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570369/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Άγιος Αιμιλιανός",
+            "uri": "https://pleiades.stoa.org/places/570369/osm-location-of-ii3i1i-i-ii1i1-4i1i-i1i-i1-2ii"
         }
     ],
     "names": [
@@ -302,6 +274,78 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/570369/Kolyergia-Pr"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "ἄκρα Κωλυεργία",
+            "contributors": [],
+            "created": "2024-11-22T06:03:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-03T22:19:38Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2024-11-22T06:03:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Greek name, Pausanias reference",
+                    "modified": "2024-11-22T06:03:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-11-22T06:03:00Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "akra-colyergia",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.8",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+                    "citationDetail": "2.34.8",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Paus. (Spiro: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "akra Colyergia",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/570369/akra-colyergia"
         }
     ],
     "placeTypeURIs": [
@@ -347,13 +391,13 @@
         }
     ],
     "reprPoint": [
-        23.25,
-        37.25
+        23.1997671,
+        37.2911978
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Kolyergia Pr.",
+    "title": "Kolyergia (promuntory)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/570369"
 }
