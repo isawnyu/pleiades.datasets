@@ -8,7 +8,7 @@ In order to facilitate reproducibility and to comply with license terms, we enco
 
 Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.
 
-## Version 4.0 - 6 February 2025
+## Version 4.0.1 - 6 February 2025
 
 ### 41,200 place resources
 
