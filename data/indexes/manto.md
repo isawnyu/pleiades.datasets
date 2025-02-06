@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-601 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
+607 alignments exist in _Pleiades_ place references as of 2025-02-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2550,6 +2550,13 @@
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
 
 
+## 8195139: Aigialos (Paphlagonia)
+[https://resource.manto.unh.edu/8195139](https://resource.manto.unh.edu/8195139)  
+
+### alignments:
+ - [Aigialos](https://pleiades.stoa.org/places/844852)
+
+
 ## 8195141: Tenos (city)
 [https://resource.manto.unh.edu/8195141](https://resource.manto.unh.edu/8195141)  
 
@@ -2682,6 +2689,13 @@
 
 ### alignments:
  - [Dolicha (island)](https://pleiades.stoa.org/places/530845)
+
+
+## 8228872: Cephallenia (island)
+[https://resource.manto.unh.edu/8228872](https://resource.manto.unh.edu/8228872)  
+
+### alignments:
+ - [Cephallania (island)](https://pleiades.stoa.org/places/530826)
 
 
 ## 8228879: Rhodes (island in the Aegean, near coast of Asia Minor)
@@ -3552,11 +3566,39 @@
  - [Enete](https://pleiades.stoa.org/places/847875)
 
 
+## 9688191: Cytoros (Pontos)
+[https://resource.manto.unh.edu/9688191](https://resource.manto.unh.edu/9688191)  
+
+### alignments:
+ - [Kytoros](https://pleiades.stoa.org/places/844997)
+
+
+## 9688192: Sesamos (Pontos)
+[https://resource.manto.unh.edu/9688192](https://resource.manto.unh.edu/9688192)  
+
+### alignments:
+ - [Amastris/Sesamos](https://pleiades.stoa.org/places/844856)
+
+
 ## 9688193: River Parthenios (Paphlagonia)
 [https://resource.manto.unh.edu/9688193](https://resource.manto.unh.edu/9688193)  
 
 ### alignments:
  - [Parthenios (river)](https://pleiades.stoa.org/places/845036)
+
+
+## 9688194: Cromna (Paphlagonia)
+[https://resource.manto.unh.edu/9688194](https://resource.manto.unh.edu/9688194)  
+
+### alignments:
+ - [Kromna](https://pleiades.stoa.org/places/844994)
+
+
+## 9688196: Erythinoi (Pontos)
+[https://resource.manto.unh.edu/9688196](https://resource.manto.unh.edu/9688196)  
+
+### alignments:
+ - [Eryth(r)inoi](https://pleiades.stoa.org/places/844918)
 
 
 ## 9688203: Panopeus (Phocis)

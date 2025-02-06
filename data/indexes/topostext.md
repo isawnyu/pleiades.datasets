@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3633 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
+3638 alignments exist in _Pleiades_ place references as of 2025-02-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6321,6 +6321,13 @@
  - [Cyrene](https://pleiades.stoa.org/places/373778)
 
 
+## Dadastana (Galatia) 9
+[https://topostext.org/place/402311UDad](https://topostext.org/place/402311UDad)  
+
+### alignments:
+ - [Dadastana](https://pleiades.stoa.org/places/844901)
+
+
 ## Dafni Pan cave (Attica)
 [https://topostext.org/place/380236CPan](https://topostext.org/place/380236CPan)  
 
@@ -11814,6 +11821,13 @@
  - [Kindye](https://pleiades.stoa.org/places/599716)
 
 
+## Kinolis (Paphlagonia) 9 Konakli
+[https://topostext.org/place/420342UKin](https://topostext.org/place/420342UKin)  
+
+### alignments:
+ - [Kinolis](https://pleiades.stoa.org/places/844984)
+
+
 ## Kirkaion (Italy)
 [https://topostext.org/place/412131LKir](https://topostext.org/place/412131LKir)  
 
@@ -12513,6 +12527,13 @@
 
 ### alignments:
  - [Krokyleion?](https://pleiades.stoa.org/places/540891)
+
+
+## Kromna (Paphlagonia)
+[https://topostext.org/place/418327UKro](https://topostext.org/place/418327UKro)  
+
+### alignments:
+ - [Kromna](https://pleiades.stoa.org/places/844994)
 
 
 ## Kromnos (Arkadia)
@@ -23362,6 +23383,13 @@
  - [Ancient Theater of Amphilochian Argos](https://pleiades.stoa.org/places/966876571)
 
 
+## Theatre (Delos)
+[https://topostext.org/place/374253BThe](https://topostext.org/place/374253BThe)  
+
+### alignments:
+ - [Theater of Delos](https://pleiades.stoa.org/places/917412528)
+
+
 ## Theatre (Messene) Mavrommati
 [https://topostext.org/place/372219BThe](https://topostext.org/place/372219BThe)  
 
@@ -25220,6 +25248,13 @@
 
 ### alignments:
  - [Xypete](https://pleiades.stoa.org/places/580134)
+
+
+## Ypsili exc. (Andros) Kato Aprovato - Υψηλή
+[https://topostext.org/place/378238XYps](https://topostext.org/place/378238XYps)  
+
+### alignments:
+ - [Hypsele](https://pleiades.stoa.org/places/589811)
 
 
 ## Zacynthus (Ionian Islands)

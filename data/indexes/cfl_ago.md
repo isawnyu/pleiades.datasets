@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-377 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
+378 alignments exist in _Pleiades_ place references as of 2025-02-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -97,6 +97,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/491691)
+
+
+## 70022: Hypsili-Υψηλή Άνδρου
+[https://chronique.efa.gr/?r=topo_public&id=70022](https://chronique.efa.gr/?r=topo_public&id=70022)  
+
+### alignments:
+ - [Hypsele](https://pleiades.stoa.org/places/589811)
 
 
 ## AIGES - 2000

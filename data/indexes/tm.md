@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4083 alignments exist in _Pleiades_ place references as of 2025-02-04. The following list of alignments is grouped by zotkey.
+4090 alignments exist in _Pleiades_ place references as of 2025-02-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2305,6 +2305,13 @@
  - [Keos (island)](https://pleiades.stoa.org/places/570348)
 
 
+## GEO ID 1034: Kephallenia
+[https://www.trismegistos.org/place/1034](https://www.trismegistos.org/place/1034)  
+
+### alignments:
+ - [Cephallania (island)](https://pleiades.stoa.org/places/530826)
+
+
 ## GEO ID 1036: Kephisia
 [http://www.trismegistos.org/place/1036](http://www.trismegistos.org/place/1036)  
 
@@ -3626,6 +3633,13 @@
 
 ### alignments:
  - [Tigris/Diglitus (river)](https://pleiades.stoa.org/places/912964)
+
+
+## GEO ID 13139: Gordiou Kome (Sarılar)
+[https://www.trismegistos.org/place/13139](https://www.trismegistos.org/place/13139)  
+
+### alignments:
+ - [Gordioukome/Iuliopolis](https://pleiades.stoa.org/places/844935)
 
 
 ## GEO ID 1318: Massalia (Marseille)
@@ -16889,6 +16903,13 @@
  - [*Navoa](https://pleiades.stoa.org/places/187488)
 
 
+## GEO ID 3519
+[http://www.trismegistos.org/place/3519](http://www.trismegistos.org/place/3519)  
+
+### alignments:
+ - [Kromna](https://pleiades.stoa.org/places/844994)
+
+
 ## GEO ID 3523: Naupaktos
 [http://www.trismegistos.org/place/3523](http://www.trismegistos.org/place/3523)  
 
@@ -18925,6 +18946,20 @@
 
 ### alignments:
  - [Longaticum](https://pleiades.stoa.org/places/197357)
+
+
+## GEO ID 40559: Dadastana (Karahisar)
+[https://www.trismegistos.org/place/40559](https://www.trismegistos.org/place/40559)  
+
+### alignments:
+ - [Dadastana](https://pleiades.stoa.org/places/844901)
+
+
+## GEO ID 40562: Mnizos (Balçiçek Çiftliği)
+[https://www.trismegistos.org/place/40562](https://www.trismegistos.org/place/40562)  
+
+### alignments:
+ - [Mnizos](https://pleiades.stoa.org/places/845020)
 
 
 ## GEO ID 40595: Viroviacum (Wervik)
@@ -21552,6 +21587,13 @@
  - [Psessoi](https://pleiades.stoa.org/places/825360)
 
 
+## GEO ID 42072: Aigialos
+[http://www.trismegistos.org/place/42072](http://www.trismegistos.org/place/42072)  
+
+### alignments:
+ - [Aigialos](https://pleiades.stoa.org/places/844852)
+
+
 ## GEO ID 42076: Karambis (Fakas)
 [http://www.trismegistos.org/place/42076](http://www.trismegistos.org/place/42076)  
 
@@ -23448,6 +23490,13 @@
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
  - [Vaticanus Mons](https://pleiades.stoa.org/places/463398874)
+
+
+## GEO ID 43701: Macellum Liviae
+[http://www.trismegistos.org/place/43701](http://www.trismegistos.org/place/43701)  
+
+### alignments:
+ - [Macellum Liviae](https://pleiades.stoa.org/places/422819772)
 
 
 ## GEO ID 43702: Basilica Iulia
