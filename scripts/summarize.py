@@ -55,7 +55,7 @@ def get_pd_commits(recent):
                 f"commit collision ({c['sha']} and {commits[c['commit']['message']]['sha']}); using the latter"
             )
     components = {
-        "csv": "legacy csv",
+        # "csv": "legacy csv",
         "json": "json",
         "rdf/ttl": "rdf/ttl",
         "gis package": "gis package",
