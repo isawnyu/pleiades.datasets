@@ -34,4 +34,7 @@ printf "\n\nPushing changes to GitHub\n=========================================
 set -x
 git push origin main
 
-
+set +x
+printf "\n\nChecking integrity of downloaded data (have there been retractions?)\n=====================================================\n"
+set -x
+$VIRTUAL_ENV/bin/python $PD_HOME/scripts/check_integrity.py
