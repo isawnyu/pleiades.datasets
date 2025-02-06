@@ -130,3 +130,4 @@ JSON files containing information about incoming links from external resources t
 - MANTO
 - Meadows, Andrew, Sebastian Heath, and Ethan Gruber. _Nomisma.org._ New York: American Numismatic Society, 2010-. http://nomisma.org/.
 - Wikidata
+
