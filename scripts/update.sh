@@ -21,15 +21,6 @@ git commit -m 'updated json'
 set -e
 
 set +x
-printf "\n\nDownloading legacy CSV\n=====================================================\n"
-set -x
-bash ./scripts/get_csv.sh
-git add data/csv/*.csv
-set +e
-git commit -m 'updated csv'
-set -e
-
-set +x
 printf "\n\nDownloading RDF/TTL\n=====================================================\n"
 set -x
 bash ./scripts/get_ttl.sh
