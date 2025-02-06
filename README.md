@@ -4,20 +4,23 @@ Please report problems and make feature requests via [the main _Pleiades_ Gazett
 
 [![License: CC BY 3.0](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/) Content is governed by the copyrights of the individual contributors responsible for its creation. Some rights are reserved. All content is distributed under the terms of a [Creative Commons Attribution license (cc-by)](https://creativecommons.org/licenses/by/3.0/).
 
-We encourage use and citation of numbered releases for scholarly work that will be published in static form.
+In order to facilitate reproducibility and to comply with license terms, we encourage use and citation of [numbered releases](https://pleiades.stoa.org/downloads#releases) for scholarly work that will be published in static form.
 
-__Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.__
+Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.
 
-## Version 3.2 - 3 November 2023
+## Version 4.0 - 6 February 2025
 
-40,418 place resources
+### 41,200 place resources
 
-What's new since 3.1 (1 August 2023):
+Since release 3.2 of _pleiades.datasets_ on 3 November 2023, the _Pleiades_ gazetteer published 876 new and 9,555 updated place resources, reflecting the work of Johan Åhlfeldt, Ella Arnold, Jeffrey Becker, Gabriel Bodard, Sarah Bond, Catherine Bouras, Lucas Butler, Iulian Bîrzescu, Anne Chen, Birgit Christiansen, Niels Christofferson, James Cowey, Francis Deblauwe, Dan Diffendale, Anthony Durham, Denitsa Dzhigova, Tom Elliott, Jordy Didier Orellana Figueroa, Martina Filosa, Jonathan Fu, Ryosuke Furui, Maija Gierhart, Sean Gillies, Matthias Grawehr, Amelia Grissom, Maxime Guénette, Andrew Harris, Greta Hawes, Ryan M. Horne, Carolin Johansson, Daniel C. Browning Jr., Noah Kaye, Philip Kenrick, Brady Kiesling, Yaniv Korman, Mark Krier, Divya Kumar-Dumas, Thomas Landvatter, Chris de Lisle, Yuyao Liu, Stanisław Ludwiński, Sean Manning, Gabriel McKee, John Muccigrosso, Jamie Novotny, Philipp Pilhofer, Jonathan Prag, Adam Rabinowitz, Rune Rattenborg, María Jesús Redondo, Charlotte Roueché, Karen Rubinson, Thomas Seidler, Rosemary Selth, Jason M. Silverman, R. Scott Smith, Néhémie Strupler, Richard Talbert, Francis Tassaux, Clifflena Tiah, Georgios Tsolakis, Scott Vanderbilt, Athanasia Varveri and Valeria Vitale.
 
-- 108 new and 1,629 updated place resources reflecting work by Erin Walcek Averett, Jeffrey Becker, Catherine Bouras, Anne Chen, Niels Christoffersen, Peter Cobb, Tom Elliott, Jonathan Fu, Greta Hawes, Carolin Johansson, Noah Kaye, Brady Kiesling, Thomas Landvatter, Stanisław Ludwiński, Ingrid Luo, Stephan Maurer, Colin McCaffrey, Gabriel McKee, David Meadows, Gabriel Moss, John Muccigrosso, Gifford Quinn, Rune Rattenborg, Enrico Regazzoni, Rosemary Selth, R. Scott Smith, Richard Talbert, Georgios Tsolakis, and Scott Vanderbilt (see `data/changelogs/release.html` for details).
-- Included experimental JSON index of links extracted from _Pleiades_ place resources to "toponym" entries in Veronique Chankowski et al. [_Chronique Des Fouilles En Ligne = Archaeology in Greece Online._](https://chronique.efa.gr/?kroute=homepage) Athens: Ecole française d’Athènes and British School at Athens, 2018, together with links to the associated _Chronique_ archaeological reports. See `data/indexes/pids2chronique.json`.
+### Highlights
 
-
+- Updated gazetteer data in this release: see "Contents" below.
+- Removed deprecated "legacy CSV" serialization. JSON or "CSV for GIS" are the recommended packages for most third-party reuse.
+- Added new "indexes" dataset: _Pleiades_ places that reference certain external resources.
+- Improved serialization of vocabulary terms in "CSV for GIS" serialization and added the previously omitted "Time Periods" vocabulary.
+- Added new "sidebar" dataset: assertions by external datasets of relationships to _Pleiades_ places.
 
 ## Overview
 
@@ -31,9 +34,9 @@ _Pleiades_ is a continuously published scholarly reference work for the 21st cen
 
 The latest versions of this package can be had by fork or download from the `main` branch at https://github.com/isawnyu/pleiades-datasets. [Numbered releases](https://github.com/isawnyu/pleiades-datasets/releases) are created periodically at GitHub. These are archived at:
 
- - zenodo.org using the DOI [10.5281/zenodo.1193921](https://doi.org/10.5281/zenodo.10070421)
- - archive.nyu.edu using the Handle [2451/69536](https://hdl.handle.net/2451/69872)
- - archive.org using the URI https://archive.org/details/pleiades.datasets-3.2
+ - zenodo.org using the DOI [10.5281/zenodo.1193921](https://doi.org/10.5281/zenodo.1193921)
+ - archive.nyu.edu using the Handle [2451/34305](https://hdl.handle.net/2451/34305)
+ - archive.org using the URI https://archive.org/details/pleiades.datasets-{version_number}
 
 ## Credits
 
@@ -41,14 +44,15 @@ _Pleiades_ is brought to you by:
 
   * Our volunteer content contributors (see `data/rdf/authors.ttl` for complete list and associated identifiers or data).
   * _Pleiades_ has received significant, periodic support from the [National Endowment for the Humanities](https://www.neh.gov) since 2006. Grant numbers: HK-230973-15, PA-51873-06, PX-50003-08, and PW-50557-10. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities. 
-  * Additional support has been provided since 2000 by the [Ancient World Mapping Center](https://awmc.unc.edu) at the University of North Carolina at Chapel Hill. * Development hosting and other project incubation support was provided between 2000 and 2008 by [Ross Scaife](https://en.wikipedia.org/wiki/Ross_Scaife) and the [Stoa Consortium](https://www.stoa.org/).
   * Web hosting and additional support has been provided since 2008 by the [Institute for the Study of the Ancient World](https://isaw.nyu.edu) at New York University.
-
+  * Additional support has been provided since 2000 by the [Ancient World Mapping Center](https://awmc.unc.edu) at the University of North Carolina at Chapel Hill. 
+  * Development hosting and other project incubation support was provided between 2000 and 2008 by [Ross Scaife](https://en.wikipedia.org/wiki/Ross_Scaife) and the [Stoa Consortium](https://www.stoa.org/).
+  
 ## Contents
 
 ### JavaScript Object Notation (JSON)
 
-__directory: /data/json/__
+__directory: `/data/json/`__
 
 The __complete__ serialization of each published object in the _Pleiades_ database (i.e., every place, name, location, and connection resource) is written to [a single, large JSON file](http://atlantides.org/downloads/pleiades/json/) once daily. We periodically download this file and split it up into individual files, one for each place resource (together with its subordinate name, location, and connection resources). 
 
@@ -56,17 +60,15 @@ Each file is named with the final, numeric portion of the place resource's Unifo
 
 In order to avoid performance problems on operating systems that cannot handle large numbers of files in a single directory efficiently, the JSON files are distributed throughout a hierarchical directory structure using each of the first few digits in the base filename as a subdirectory. So, for the Heidelberg example, one would find the JSON file at the relative path `data/json/1/1/8/7/118731.json`.
 
-NB: Ryan Baumann has created a script that converts the _Pleiades_ CSV files (q.v.) into GeoJSON files for redistribution, together with a handy JSON index of names. These can be found at https://github.com/ryanfb/pleiades-geojson.
-
 ### GIS Package (in CSV format)
 
-__directory: /data/gis/__
+__directory: `/data/gis/`__
 
-A collection of CSV files derived from data in the _Pleiades_ gazetteer of ancient places. This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS. See further `data/gis/README.md`.
+A collection of CSV files derived from data in the _Pleiades_ gazetteer of ancient places. This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software and other programming contexts where JSON is inconvenient. __NB: not all attributes are included in this serialization.__ Files have been tested for use in QGIS. See further `data/gis/README.md`.
 
 ### Resource Description Framework (RDF)
 
-__directory: /data/rdf/__
+__directory: `/data/rdf/`__
 
 The __summary__ data for all places, errata, authors, place types, and time periods is available for download in Turtle (Terse RDF Triple Language) via http://atlantides.org/downloads/pleiades/rdf/pleiades-latest.tar.gz. This is a gzip-compressed, TAR archive. Previous RDF dumps are also available at http://atlantides.org/downloads/pleiades/rdf/. RDF dumps are updated weekly on Sundays. We periodically download, decompress, and unarchive these files. 
 
@@ -74,15 +76,15 @@ NB: RDF serializations of data for individual places — in both Turtle and RDF/
 
 ### Changelogs
 
-__directory: /data/changelogs/__
+__directory: `/data/changelogs/`__
 
 Monthly listings, in HTML files, of new and updated place resources since 2009. The listings include: place titles and summaries, links to the live resources on the Pleiades website using canonical URIs, and information about the creators and contributors of each resource, with a special entry for the authors of the referenced changes (includes change summary notes). 
 
 ### Data Quality Metrics
 
-__directory: /data/data_quality/__
+__directory: `/data/data_quality/`__
 
-Experimental data quality reports, currently used by the Editorial College to prioritize and organize feature improvement and content cleanup efforts. Files include:
+Data quality and characterization reports, currently used by the Editorial College to prioritize and organize feature improvement and content cleanup efforts. Files include:
 
 - `issues.json`: place ids for each category of error (see below), as well as summary information used in the generation of reports
 - `bad_osm_way.csv`: place resources that reference OSM Way objects but that include coordinate information drawn from only the first Node in the referenced way. See [Pleiades Gazetteer Issue 492: add "reimport from OSM" affordance to Pleiades locations](https://github.com/isawnyu/pleiades-gazetteer/issues/492) for a feature addition that will facilitate supervised programmatic repair of such problems.
@@ -96,19 +98,35 @@ Experimental data quality reports, currently used by the Editorial College to pr
 
 ### Credits
 
-__directory: /data/html/credits.html__
+__directory: `/data/html/credits.html`__
 
 A copy of the _Pleiades_ gazetteer credits page, which is online at https://pleiades.stoa.org/credits.
 
-### DEPRECATED: Comma-Separated Values (CSV)
+### Indexes
 
-__directory: /data/csv/__
+__directory: `/data/indexes/`__
 
-**Try the data in `/data/gis/` first. It may be easier to use and more complete for your use case.**
+Various indexes, potentially of value when working with _Pleiades_ content.
 
-Each morning, tables __summarizing__ the published locations, names, and places are written to compressed CSV files at http://atlantides.org/downloads/pleiades/dumps/. We periodically download these files, decompress them, and incorporate them into this distribution package.
+- `name_index.json`: a list of all name and place title strings occurring in the gazetteer, together with the associated _Pleiades_ place IDs.
+- JSON files, and Markdown generated from them, reporting on references from _Pleiades_ places to the following external resources:
+  - `aio`: Lambert, Stephen, Polly Low, Peter Liddel, and Chris de Lisle, eds. _Attic Inscriptions Online._ Athens: British School at Athens, 2012-. https://www.atticinscriptions.com/.
+  - `cfl_ago`: Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. _Chronique Des Fouilles En Ligne = Archaeology in Greece Online._ Athens: Ecole française d’Athènes and British School at Athens, 2018-. https://chronique.efa.gr/?kroute=homepage.
+  - `manto`: Hawes, Greta, and Scott Smith. MANTO. 2020-. https://www.manto-myth.org/manto.
+  - `paus-spiro-perseus`: Pausanias. _Pausaniae Graeciae descriptio._ Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. As digitized and published by the Perseus Digital Library http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1.
+  - `tm`: Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. _Trismegistos: An Interdisciplinary Portal of the Ancient World._ Leuven, 2006-. http://www.trismegistos.org/.
+  - `topostext`: Kiesling, Brady. _ToposText – a Reference Tool for Greek Civilization._ Version 2.0. Aikaterini Laskaridis Foundation, 2016-. https://topostext.org/.
+  - `wikidata`: _Wikidata: The Free Knowledge Base That Anyone Can Edit._ Wikimedia Foundation, 2014-. https://www.wikidata.org/.
 
-We also periodically export to CSV the contents of [the _Pleiades_ Zotero Library](https://www.zotero.org/groups/2533/pleiades?), which is used for all reference citations in the gazetteer, for incorporation into this package. 
 
-Note the /csv/README.txt file for additional, essential information.
+### Sidebar
 
+__directory: `/data/sidebar/`__
+
+JSON files containing information about incoming links from external resources that are currently indexed. Files are named according to the corresponding _Pleiades_ ID. This data will eventually be used for a "Linked Data" widget on Pleiades place pages. This data is generated using code in the [pleiades_sidebar](https://github.com/isawnyu/pleiades_sidebar) repository. The following resources are currently checked:
+
+- Alföldy, Géza, and Christian Witschel, eds. _Epigraphic Database Heidelberg._ Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997-2021. http://edh-www.adw.uni-heidelberg.de/.
+- Brughmans, Tom, Pau de Soto, A. Pažout, and P. Bjerregaard Vahlstrup. _Itiner-e: The Digital Atlas of Ancient Roads._ 2024. https://itiner-e.org/.
+- MANTO
+- Meadows, Andrew, Sebastian Heath, and Ethan Gruber. _Nomisma.org._ New York: American Numismatic Society, 2010-. http://nomisma.org/.
+- Wikidata
