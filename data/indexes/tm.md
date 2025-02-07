@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4090 alignments exist in _Pleiades_ place references as of 2025-02-06. The following list of alignments is grouped by zotkey.
+4094 alignments exist in _Pleiades_ place references as of 2025-02-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14313,6 +14313,13 @@
  - [Collatia](https://pleiades.stoa.org/places/422898)
 
 
+## GEO ID 3227: Africa
+[http://www.trismegistos.org/place/3227](http://www.trismegistos.org/place/3227)  
+
+### alignments:
+ - [Africa (region)](https://pleiades.stoa.org/places/775)
+
+
 ## GEO ID 32280: Nursia (Norcia)
 [http://www.trismegistos.org/place/32280](http://www.trismegistos.org/place/32280)  
 
@@ -16635,6 +16642,13 @@
 
 ### alignments:
  - [Arabeta](https://pleiades.stoa.org/places/798043)
+
+
+## GEO ID 344
+[http://www.trismegistos.org/place/344](http://www.trismegistos.org/place/344)  
+
+### alignments:
+ - [Asia Minor](https://pleiades.stoa.org/places/837)
 
 
 ## GEO ID 34503: Anisa (Kara Eyük)
@@ -25510,6 +25524,13 @@
  - [Thymbra](https://pleiades.stoa.org/places/550927)
 
 
+## GEO ID 5162: Tripheion (Wannina)
+[http://www.trismegistos.org/place/5162](http://www.trismegistos.org/place/5162)  
+
+### alignments:
+ - [Athribis/Triph(i)eion](https://pleiades.stoa.org/places/756538)
+
+
 ## GEO ID 51690: Mobolla (Muğla)
 [https://www.trismegistos.org/place/51690](https://www.trismegistos.org/place/51690)  
 
@@ -27085,6 +27106,13 @@
 
 ### alignments:
  - [Labeatae](https://pleiades.stoa.org/places/481889)
+
+
+## GEO ID 63120: Sikelikon Pelagos
+[https://www.trismegistos.org/place/63120](https://www.trismegistos.org/place/63120)  
+
+### alignments:
+ - [Siculum/Ausonium Mare](https://pleiades.stoa.org/places/1282)
 
 
 ## GEO ID 6313: Sebennytikon Stoma
