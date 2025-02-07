@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.920485,
-        32.442203,
-        13.920485,
-        32.442203
+        13.902604,
+        32.4555101,
+        13.9030716,
+        32.4558566
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,50 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.920485,
-                    32.442203
+                    [
+                        13.902888,
+                        32.4558566
+                    ],
+                    [
+                        13.902604,
+                        32.455582
+                    ],
+                    [
+                        13.9027016,
+                        32.4555101
+                    ],
+                    [
+                        13.9029001,
+                        32.4555557
+                    ],
+                    [
+                        13.9030716,
+                        32.4557215
+                    ],
+                    [
+                        13.902888,
+                        32.4558566
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-9892",
+            "id": "osm-location-of-diwan-palace",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/344488/darmc-location-9892",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/344488/osm-location-of-diwan-palace",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 9892"
+                "snippet": "Ruin",
+                "title": "OSM location of Diwan Palace"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-02-06T14:31:47Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references, tm geo, wikidata, geonames, heritagw gaz libya",
             "modified": "2024-11-10T19:50:35Z",
@@ -131,106 +158,112 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:27:14Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2024-11-10T19:52:56Z",
             "creators": [
                 {
-                    "name": "D.J. Mattingly",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 9892",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": null,
             "featureType": [
-                "unknown"
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
-                    13.920485,
-                    32.442203
+                    [
+                        13.902888,
+                        32.4558566
+                    ],
+                    [
+                        13.902604,
+                        32.455582
+                    ],
+                    [
+                        13.9027016,
+                        32.4555101
+                    ],
+                    [
+                        13.9029001,
+                        32.4555557
+                    ],
+                    [
+                        13.9030716,
+                        32.4557215
+                    ],
+                    [
+                        13.902888,
+                        32.4558566
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:25:21Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:03:32Z",
+                    "modified": "2025-02-06T14:31:08Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T20:27:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-10T19:53:14Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:27:15Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2024-11-10T19:53:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-10T19:52:56Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T20:27:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-10T19:52:56Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-9892",
+            "id": "osm-location-of-diwan-palace",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
-            "provenance": "DARMC OBJECTID: 9892",
+            "provenance": "OpenStreetMap (Way 1332685088, version 1, osm:changeset=158983433, 2024-11-10T19:52:13Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1332685088",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "9892",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1332685088",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 9892.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1332685088",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 9892",
-            "uri": "https://pleiades.stoa.org/places/344488/darmc-location-9892"
+            "start": null,
+            "title": "OSM location of Diwan Palace",
+            "uri": "https://pleiades.stoa.org/places/344488/osm-location-of-diwan-palace"
         }
     ],
     "names": [
@@ -252,14 +285,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Svbvtvttv",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -267,9 +296,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2009-09-08T19:44:57Z",
+            "created": "2024-11-10T19:53:29Z",
             "creators": [
                 {
                     "name": "D.J. Mattingly",
@@ -280,6 +321,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "add TP name, TP reference by @jbecker",
+                    "modified": "2025-02-06T14:32:18Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:25:22Z",
@@ -317,10 +363,22 @@
                 }
             ],
             "id": "subututtu",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 35 F2 Subututtu",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace302.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "6C3 (Talbert 302)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Subututtu",
             "start": -30,
@@ -426,11 +484,22 @@
             "otherIdentifier": "",
             "shortTitle": "GeoNames",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "9892",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.920485,
-        32.442203
+        13.902839036904052,
+        32.45566677518101
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
