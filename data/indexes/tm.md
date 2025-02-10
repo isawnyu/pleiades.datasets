@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4094 alignments exist in _Pleiades_ place references as of 2025-02-07. The following list of alignments is grouped by zotkey.
+4097 alignments exist in _Pleiades_ place references as of 2025-02-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10958,6 +10958,13 @@
  - [Vesontio](https://pleiades.stoa.org/places/177657)
 
 
+## GEO ID 25372: Argentovaria (Oedenburg)
+[http://www.trismegistos.org/place/25372](http://www.trismegistos.org/place/25372)  
+
+### alignments:
+ - [Argentovaria?](https://pleiades.stoa.org/places/108755)
+
+
 ## GEO ID 25384: Divio (Dijon)
 [https://www.trismegistos.org/place/25384](https://www.trismegistos.org/place/25384)  
 
@@ -11971,6 +11978,13 @@
 
 ### alignments:
  - [Talmis](https://pleiades.stoa.org/places/795868)
+
+
+## GEO ID 27891
+[http://www.trismegistos.org/place/27891](http://www.trismegistos.org/place/27891)  
+
+### alignments:
+ - [Aquae Mattiacorum](https://pleiades.stoa.org/places/108750)
 
 
 ## GEO ID 2789: Karanog
@@ -16263,7 +16277,7 @@
 [https://www.trismegistos.org/place/33691](https://www.trismegistos.org/place/33691)  
 
 ### alignments:
- - [Bylazora?](https://pleiades.stoa.org/places/491557)
+ - [Bylazora](https://pleiades.stoa.org/places/491557)
 
 
 ## GEO ID 3371: Tarraco (Tarragona)
@@ -24072,6 +24086,13 @@
 
 ### alignments:
  - [Fundus Flaminianus](https://pleiades.stoa.org/places/215361873)
+
+
+## GEO ID 44839: Cydara (Arevi-ar)
+[http://www.trismegistos.org/place/44839](http://www.trismegistos.org/place/44839)  
+
+### alignments:
+ - [Cydara (river)](https://pleiades.stoa.org/places/49954)
 
 
 ## GEO ID 44853: Amanos (Nur Dağları)
