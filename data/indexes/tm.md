@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4097 alignments exist in _Pleiades_ place references as of 2025-02-10. The following list of alignments is grouped by zotkey.
+4101 alignments exist in _Pleiades_ place references as of 2025-02-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6028,6 +6028,7 @@
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
  - [Paroria](https://pleiades.stoa.org/places/570562)
  - [Portus](https://pleiades.stoa.org/places/423012)
+ - [Tritium](https://pleiades.stoa.org/places/236691)
 
 
 ## GEO ID 15334: Cawfields
@@ -11553,6 +11554,13 @@
  - [Gigia](https://pleiades.stoa.org/places/236475)
 
 
+## GEO ID 26728: Flavionavia (Pravia)
+[https://www.trismegistos.org/place/26728](https://www.trismegistos.org/place/26728)  
+
+### alignments:
+ - [Flavionavia](https://pleiades.stoa.org/places/236464)
+
+
 ## GEO ID 2676: Nea Polis (Napoli)
 [http://www.trismegistos.org/place/2676](http://www.trismegistos.org/place/2676)  
 
@@ -14409,6 +14417,13 @@
 
 ### alignments:
  - [Inviolata](https://pleiades.stoa.org/places/422947)
+
+
+## GEO ID 3232: Britannia
+[http://www.trismegistos.org/place/3232](http://www.trismegistos.org/place/3232)  
+
+### alignments:
+ - [Britannia/Albion (island)](https://pleiades.stoa.org/places/20419)
 
 
 ## GEO ID 32331: Astura (Nettuno)
@@ -24991,6 +25006,13 @@
  - [Kentrites/Tigris/Zirmas (river)](https://pleiades.stoa.org/places/874545)
 
 
+## GEO ID 47945: Hydaspes (Jhelum)
+[http://www.trismegistos.org/place/47945](http://www.trismegistos.org/place/47945)  
+
+### alignments:
+ - [Hydaspes/Bidaspes (river)](https://pleiades.stoa.org/places/59837)
+
+
 ## GEO ID 47958: Boumelos (Khazir)
 [http://www.trismegistos.org/place/47958](http://www.trismegistos.org/place/47958)  
 
@@ -27864,6 +27886,13 @@
 
 ### alignments:
  - [Azania](https://pleiades.stoa.org/places/39307)
+
+
+## GEO ID 8322
+[http://www.trismegistos.org/place/8322](http://www.trismegistos.org/place/8322)  
+
+### alignments:
+ - [Azanium Mare/Barbarikon Pelagos](https://pleiades.stoa.org/places/39308)
 
 
 ## GEO ID 8337: Athychis

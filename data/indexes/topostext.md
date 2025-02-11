@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3638 alignments exist in _Pleiades_ place references as of 2025-02-10. The following list of alignments is grouped by zotkey.
+3641 alignments exist in _Pleiades_ place references as of 2025-02-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4927,6 +4927,13 @@
  - [Brikinniai?](https://pleiades.stoa.org/places/462118)
 
 
+## Britannia (Atlantic)
+[https://topostext.org/place/530-15IBri](https://topostext.org/place/530-15IBri)  
+
+### alignments:
+ - [Britannia/Albion (island)](https://pleiades.stoa.org/places/20419)
+
+
 ## Brixellum (Italia)
 [https://topostext.org/place/449105UBri](https://topostext.org/place/449105UBri)  
 
@@ -8348,6 +8355,13 @@
 
 ### alignments:
  - [Flaminio Obelisk (Rome)](https://pleiades.stoa.org/places/971580111)
+
+
+## Flavionavia (Iberia)
+[https://topostext.org/place/435000UFla](https://topostext.org/place/435000UFla)  
+
+### alignments:
+ - [Flavionavia](https://pleiades.stoa.org/places/236464)
 
 
 ## Florentia (Italy)
@@ -24443,6 +24457,13 @@
 
 ### alignments:
  - [Triteia](https://pleiades.stoa.org/places/541166)
+
+
+## Tritium (Iberia)
+[https://topostext.org/place/424000UTri](https://topostext.org/place/424000UTri)  
+
+### alignments:
+ - [Tritium](https://pleiades.stoa.org/places/236691)
 
 
 ## Troad region (Asia Minor)

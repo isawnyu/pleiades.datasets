@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6695 alignments exist in _Pleiades_ place references as of 2025-02-10. The following list of alignments is grouped by zotkey.
+6722 alignments exist in _Pleiades_ place references as of 2025-02-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -728,6 +728,13 @@
 
 ### alignments:
  - [Agiation](https://pleiades.stoa.org/places/472047)
+
+
+## Ajay River (Q3350175)
+[https://www.wikidata.org/wiki/Q3350175](https://www.wikidata.org/wiki/Q3350175)  
+
+### alignments:
+ - [Amystis (river)](https://pleiades.stoa.org/places/59680)
 
 
 ## Akamas (Q2087483)
@@ -2044,6 +2051,13 @@
 
 ### alignments:
  - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
+
+
+## Arabian Sea (Q58705)
+[https://www.wikidata.org/wiki/Q58705](https://www.wikidata.org/wiki/Q58705)  
+
+### alignments:
+ - [Azanium Mare/Barbarikon Pelagos](https://pleiades.stoa.org/places/39308)
 
 
 ## Arabissus (Q372545)
@@ -4337,6 +4351,13 @@
  - [Block C11](https://pleiades.stoa.org/places/451190299)
 
 
+## Block C6, Dura-Europos (Q116621942)
+[https://www.wikidata.org/wiki/Q116621942](https://www.wikidata.org/wiki/Q116621942)  
+
+### alignments:
+ - [Block C6](https://pleiades.stoa.org/places/451190294)
+
+
 ## Block C7, Dura-Europos (Q116621943)
 [https://www.wikidata.org/wiki/Q116621943](https://www.wikidata.org/wiki/Q116621943)  
 
@@ -4356,6 +4377,13 @@
 
 ### alignments:
  - [Block D10](https://pleiades.stoa.org/places/451190309)
+
+
+## Block D3, Dura-Europos (Q116621951)
+[https://www.wikidata.org/wiki/Q116621951](https://www.wikidata.org/wiki/Q116621951)  
+
+### alignments:
+ - [Block D3](https://pleiades.stoa.org/places/451190302)
 
 
 ## Block E3, Dura-Europos (Q116621962)
@@ -4790,6 +4818,13 @@
 
 ### alignments:
  - [Brigstock](https://pleiades.stoa.org/places/79356)
+
+
+## Britain (Q23666)
+[https://www.wikidata.org/wiki/Q23666](https://www.wikidata.org/wiki/Q23666)  
+
+### alignments:
+ - [Britannia/Albion (island)](https://pleiades.stoa.org/places/20419)
 
 
 ## Broch of Clickimin (Q923324)
@@ -6598,6 +6633,13 @@
  - [Otzenhausen Hillfort](https://pleiades.stoa.org/places/109042)
 
 
+## Celtic Sea (Q81499)
+[https://www.wikidata.org/wiki/Q81499](https://www.wikidata.org/wiki/Q81499)  
+
+### alignments:
+ - [Ouergionios Okeanos](https://pleiades.stoa.org/places/79632)
+
+
 ## Cencelle (Q3664371)
 [https://www.wikidata.org/wiki/Q3664371](https://www.wikidata.org/wiki/Q3664371)  
 
@@ -7990,6 +8032,13 @@
 
 ### alignments:
  - [Iasonius (mountain)](https://pleiades.stoa.org/places/903045)
+
+
+## Damodar River (Q1971511)
+[https://www.wikidata.org/wiki/Q1971511](https://www.wikidata.org/wiki/Q1971511)  
+
+### alignments:
+ - [Andomatis (river)](https://pleiades.stoa.org/places/59682)
 
 
 ## Dana Adası (Q5214669)
@@ -10451,6 +10500,13 @@
  - [Gobustan Rock Art Cultural Landscape](https://pleiades.stoa.org/places/380688207)
 
 
+## Godavari River (Q191314)
+[https://www.wikidata.org/wiki/Q191314](https://www.wikidata.org/wiki/Q191314)  
+
+### alignments:
+ - [Mandas (river)](https://pleiades.stoa.org/places/50117)
+
+
 ## Goderdzi Pass (Q3493026)
 [https://www.wikidata.org/wiki/Q3493026](https://www.wikidata.org/wiki/Q3493026)  
 
@@ -10722,6 +10778,13 @@
 
 ### alignments:
  - [Bubasius Sinus](https://pleiades.stoa.org/places/599561)
+
+
+## Gulf of Khambhat (Q654010)
+[https://www.wikidata.org/wiki/Q654010](https://www.wikidata.org/wiki/Q654010)  
+
+### alignments:
+ - [Barygazon Kolpos](https://pleiades.stoa.org/places/59738)
 
 
 ## Gulf of Mannar (Q622811)
@@ -12124,6 +12187,13 @@
  - [Ipsos](https://pleiades.stoa.org/places/609415)
 
 
+## Irish Sea (Q41735)
+[https://www.wikidata.org/wiki/Q41735](https://www.wikidata.org/wiki/Q41735)  
+
+### alignments:
+ - [Iouernikos Okeanos](https://pleiades.stoa.org/places/20493)
+
+
 ## Irminio (Q854834)
 [https://www.wikidata.org/wiki/Q854834](https://www.wikidata.org/wiki/Q854834)  
 
@@ -12185,6 +12255,13 @@
 
 ### alignments:
  - [Isinda (Lycian)](https://pleiades.stoa.org/places/638871)
+
+
+## Isle of Man (Q9676)
+[https://www.wikidata.org/wiki/Q9676](https://www.wikidata.org/wiki/Q9676)  
+
+### alignments:
+ - [*Manavia (island)](https://pleiades.stoa.org/places/89242)
 
 
 ## Isle of Skye (Q107393)
@@ -12430,6 +12507,13 @@
 
 ### alignments:
  - [Jewry Wall](https://pleiades.stoa.org/places/484576343)
+
+
+## Jhelum River (Q214874)
+[https://www.wikidata.org/wiki/Q214874](https://www.wikidata.org/wiki/Q214874)  
+
+### alignments:
+ - [Hydaspes/Bidaspes (river)](https://pleiades.stoa.org/places/59837)
 
 
 ## Jisr ed Damiye (Q2916379)
@@ -13757,6 +13841,13 @@
  - [Pityoussa/Lampsacus](https://pleiades.stoa.org/places/501570)
 
 
+## Lamu Archipelago (Q618573)
+[https://www.wikidata.org/wiki/Q618573](https://www.wikidata.org/wiki/Q618573)  
+
+### alignments:
+ - [Pyraloi (islands)](https://pleiades.stoa.org/places/39410)
+
+
 ## Lancaster Castle (Q2969640)
 [https://www.wikidata.org/wiki/Q2969640](https://www.wikidata.org/wiki/Q2969640)  
 
@@ -14414,6 +14505,13 @@
 
 ### alignments:
  - [Angitiae Lucus](https://pleiades.stoa.org/places/432676)
+
+
+## Lucus Asturum (Q933164)
+[https://www.wikidata.org/wiki/Q933164](https://www.wikidata.org/wiki/Q933164)  
+
+### alignments:
+ - [Lucus Asturum](https://pleiades.stoa.org/places/236524)
 
 
 ## Lucus Feroniae (Q3265994)
@@ -16209,6 +16307,13 @@
  - [Molykreion?](https://pleiades.stoa.org/places/540948)
 
 
+## Monastery of Saint Benedict (Q19622375)
+[https://www.wikidata.org/wiki/Q19622375](https://www.wikidata.org/wiki/Q19622375)  
+
+### alignments:
+ - [Sacro Speco](https://pleiades.stoa.org/places/423030)
+
+
 ## Monastery of Saint Macarius the Great (Q3320218)
 [https://www.wikidata.org/wiki/Q3320218](https://www.wikidata.org/wiki/Q3320218)  
 
@@ -17273,6 +17378,13 @@
  - [Normandykes](https://pleiades.stoa.org/places/48616465)
 
 
+## North Atlantic Ocean (Q350134)
+[https://www.wikidata.org/wiki/Q350134](https://www.wikidata.org/wiki/Q350134)  
+
+### alignments:
+ - [Hyperboreios/Douekaledonios Okeanos](https://pleiades.stoa.org/places/20489)
+
+
 ## North Leigh Roman Villa (Q1705995)
 [https://www.wikidata.org/wiki/Q1705995](https://www.wikidata.org/wiki/Q1705995)  
 
@@ -18307,6 +18419,13 @@
 
 ### alignments:
  - [paleochristian basilica of Lugdunum Convenarum](https://pleiades.stoa.org/places/94252436)
+
+
+## Palk Bay (Q27441240)
+[https://www.wikidata.org/wiki/Q27441240](https://www.wikidata.org/wiki/Q27441240)  
+
+### alignments:
+ - [Argarikos Kolpos](https://pleiades.stoa.org/places/49870)
 
 
 ## Pallantion (Q11939941)
@@ -37408,6 +37527,13 @@
  - [Grotte Scalina](https://pleiades.stoa.org/places/294009592)
 
 
+## Q8961780
+[https://www.wikidata.org/wiki/Q8961780](https://www.wikidata.org/wiki/Q8961780)  
+
+### alignments:
+ - [Flavionavia](https://pleiades.stoa.org/places/236464)
+
+
 ## Q896551: Lake Bracciano
 [https://www.wikidata.org/wiki/Q896551](https://www.wikidata.org/wiki/Q896551)  
 
@@ -41266,6 +41392,13 @@
  - [Skarkos Hill](https://pleiades.stoa.org/places/309176138)
 
 
+## Skellig Michael (Q207193)
+[https://www.wikidata.org/wiki/Q207193](https://www.wikidata.org/wiki/Q207193)  
+
+### alignments:
+ - [Skellig Michael](https://pleiades.stoa.org/places/298351810)
+
+
 ## Skiathos (Q7534982)
 [https://www.wikidata.org/wiki/Q7534982](https://www.wikidata.org/wiki/Q7534982)  
 
@@ -41350,6 +41483,13 @@
  - [*Soa](https://pleiades.stoa.org/places/609532)
 
 
+## Soan River (Q2665231)
+[https://www.wikidata.org/wiki/Q2665231](https://www.wikidata.org/wiki/Q2665231)  
+
+### alignments:
+ - [Soanos (river)](https://pleiades.stoa.org/places/60055)
+
+
 ## Socotra Archipelago (Q2860218)
 [https://www.wikidata.org/wiki/Q2860218](https://www.wikidata.org/wiki/Q2860218)  
 
@@ -41390,6 +41530,13 @@
 
 ### alignments:
  - [Son Mercer de Baix](https://pleiades.stoa.org/places/43375550)
+
+
+## Sonmiani Bay (Q7561928)
+[https://www.wikidata.org/wiki/Q7561928](https://www.wikidata.org/wiki/Q7561928)  
+
+### alignments:
+ - [Terabdon Kolpos](https://pleiades.stoa.org/places/60084)
 
 
 ## Sopianae (Q11950215)
@@ -43081,6 +43228,13 @@
  - [Tarmita/Termez](https://pleiades.stoa.org/places/971886)
 
 
+## Territorial Abbey of Subiaco (Q1428446)
+[https://www.wikidata.org/wiki/Q1428446](https://www.wikidata.org/wiki/Q1428446)  
+
+### alignments:
+ - [S. Scholastica](https://pleiades.stoa.org/places/423055)
+
+
 ## Tersane Island (Q30632378)
 [https://www.wikidata.org/wiki/Q30632378](https://www.wikidata.org/wiki/Q30632378)  
 
@@ -44544,6 +44698,13 @@
  - [‘Tripontio’](https://pleiades.stoa.org/places/79722)
 
 
+## Tritium Autrigonum (Q4890277)
+[https://www.wikidata.org/wiki/Q4890277](https://www.wikidata.org/wiki/Q4890277)  
+
+### alignments:
+ - [Tritium](https://pleiades.stoa.org/places/236691)
+
+
 ## Triumphal Arch of Orange (Q1777218)
 [https://www.wikidata.org/wiki/Q1777218](https://www.wikidata.org/wiki/Q1777218)  
 
@@ -45090,6 +45251,13 @@
  - [Uitgeest](https://pleiades.stoa.org/places/99049)
 
 
+## Ulhas River (Q53233)
+[https://www.wikidata.org/wiki/Q53233](https://www.wikidata.org/wiki/Q53233)  
+
+### alignments:
+ - [Goaris (river)](https://pleiades.stoa.org/places/49989)
+
+
 ## Ulla (Q14548)
 [https://www.wikidata.org/wiki/Q14548](https://www.wikidata.org/wiki/Q14548)  
 
@@ -45116,6 +45284,13 @@
 
 ### alignments:
  - [Great Mosque of the Umayyads](https://pleiades.stoa.org/places/833129569)
+
+
+## Umm el-Gbur (Q106156832)
+[https://www.wikidata.org/wiki/Q106156832](https://www.wikidata.org/wiki/Q106156832)  
+
+### alignments:
+ - [Umm el-Gbur](https://pleiades.stoa.org/places/364030)
 
 
 ## Umm el-Marra (Q7881676)
@@ -46358,6 +46533,13 @@
  - [So-called West Church in Apollonia](https://pleiades.stoa.org/places/876619727)
 
 
+## Western Ghats (Q4527)
+[https://www.wikidata.org/wiki/Q4527](https://www.wikidata.org/wiki/Q4527)  
+
+### alignments:
+ - [Adisathron (mountain)](https://pleiades.stoa.org/places/49838)
+
+
 ## Westerwood Roman fort (Q81417278)
 [https://www.wikidata.org/wiki/Q81417278](https://www.wikidata.org/wiki/Q81417278)  
 
@@ -46797,6 +46979,13 @@
 
 ### alignments:
  - [Zaviet Ennablu](https://pleiades.stoa.org/places/373914)
+
+
+## Área Arqueológica do Freixo (Q10383167)
+[https://www.wikidata.org/wiki/Q10383167](https://www.wikidata.org/wiki/Q10383167)  
+
+### alignments:
+ - [*Tongobriga](https://pleiades.stoa.org/places/236685)
 
 
 ## Ägelmoos (Q2894013)
