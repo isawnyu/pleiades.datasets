@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6722 alignments exist in _Pleiades_ place references as of 2025-02-11. The following list of alignments is grouped by zotkey.
+6735 alignments exist in _Pleiades_ place references as of 2025-02-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1603,6 +1603,13 @@
 
 ### alignments:
  - [Roman baths of Acinipo](https://pleiades.stoa.org/places/876596457)
+
+
+## Ancient Roman wall of Zaragoza (Q3328022)
+[https://www.wikidata.org/wiki/Q3328022](https://www.wikidata.org/wiki/Q3328022)  
+
+### alignments:
+ - [Roman city wall of Zaragoza](https://pleiades.stoa.org/places/437163777)
 
 
 ## ancient Roman watchtower Heumensoord (Q2217385)
@@ -4981,6 +4988,13 @@
  - [Bosana](https://pleiades.stoa.org/places/678071)
 
 
+## Bushehr (Q158928)
+[https://www.wikidata.org/wiki/Q158928](https://www.wikidata.org/wiki/Q158928)  
+
+### alignments:
+ - [[Bushahr]/Antiocheia in Persis](https://pleiades.stoa.org/places/922627)
+
+
 ## Bussento (Q1017698)
 [https://www.wikidata.org/wiki/Q1017698](https://www.wikidata.org/wiki/Q1017698)  
 
@@ -6624,6 +6638,13 @@
 
 ### alignments:
  - [Cephaloedium](https://pleiades.stoa.org/places/462154)
+
+
+## Ceglie del Campo (Q654595)
+[https://www.wikidata.org/wiki/Q654595](https://www.wikidata.org/wiki/Q654595)  
+
+### alignments:
+ - [Caelia](https://pleiades.stoa.org/places/442515)
 
 
 ## Celtic circular wall of Otzenhausen (Q1412838)
@@ -8776,6 +8797,13 @@
 
 ### alignments:
  - [Durnomagus](https://pleiades.stoa.org/places/108941)
+
+
+## Durobrivae (Q1267429)
+[https://www.wikidata.org/wiki/Q1267429](https://www.wikidata.org/wiki/Q1267429)  
+
+### alignments:
+ - [Durobrivae (Water Newton)](https://pleiades.stoa.org/places/79432)
 
 
 ## Durocobrivis (Q16550901)
@@ -11011,6 +11039,13 @@
  - [Hambledon Hill](https://pleiades.stoa.org/places/28868344)
 
 
+## Hanau (Q3802)
+[https://www.wikidata.org/wiki/Q3802](https://www.wikidata.org/wiki/Q3802)  
+
+### alignments:
+ - [Hanau](https://pleiades.stoa.org/places/118726)
+
+
 ## Hanches (Q1139329)
 [https://www.wikidata.org/wiki/Q1139329](https://www.wikidata.org/wiki/Q1139329)  
 
@@ -12264,6 +12299,13 @@
  - [*Manavia (island)](https://pleiades.stoa.org/places/89242)
 
 
+## Isle of Noirmoutier (Q292346)
+[https://www.wikidata.org/wiki/Q292346](https://www.wikidata.org/wiki/Q292346)  
+
+### alignments:
+ - [Samnitum (island)](https://pleiades.stoa.org/places/138571)
+
+
 ## Isle of Skye (Q107393)
 [https://www.wikidata.org/wiki/Q107393](https://www.wikidata.org/wiki/Q107393)  
 
@@ -12276,6 +12318,13 @@
 
 ### alignments:
  - [Vectis (island)](https://pleiades.stoa.org/places/79731)
+
+
+## Isles of Scilly (Q180209)
+[https://www.wikidata.org/wiki/Q180209](https://www.wikidata.org/wiki/Q180209)  
+
+### alignments:
+ - [*Silina Inss.](https://pleiades.stoa.org/places/79684)
 
 
 ## Isola Comacina (Q1674456)
@@ -17679,6 +17728,13 @@
  - [Nuraghe Su Casteddu](https://pleiades.stoa.org/places/852463484)
 
 
+## Nuraghe Su Valsu (Q122198734)
+[https://www.wikidata.org/wiki/Q122198734](https://www.wikidata.org/wiki/Q122198734)  
+
+### alignments:
+ - [Nuraghe Su Valsu](https://pleiades.stoa.org/places/229935391)
+
+
 ## Nuraghe Succoronis (Q37283518)
 [https://www.wikidata.org/wiki/Q37283518](https://www.wikidata.org/wiki/Q37283518)  
 
@@ -19366,6 +19422,13 @@
  - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
 
 
+## Piroboridava (Q7198058)
+[https://www.wikidata.org/wiki/Q7198058](https://www.wikidata.org/wiki/Q7198058)  
+
+### alignments:
+ - [Piroboridava](https://pleiades.stoa.org/places/216932)
+
+
 ## Pisidia (Q621805)
 [https://www.wikidata.org/wiki/Q621805](https://www.wikidata.org/wiki/Q621805)  
 
@@ -20372,6 +20435,13 @@
 
 ### alignments:
  - [Puy d'Issolud](https://pleiades.stoa.org/places/562348631)
+
+
+## Pydnae (Q12811458)
+[https://www.wikidata.org/wiki/Q12811458](https://www.wikidata.org/wiki/Q12811458)  
+
+### alignments:
+ - [Kydna/Pydnai](https://pleiades.stoa.org/places/638949)
 
 
 ## Pyramid of Amenemhet I (Q462160)
@@ -32462,6 +32532,13 @@
  - [Temple of Olympian Zeus, Syracuse](https://pleiades.stoa.org/places/659771156)
 
 
+## Q3983310
+[https://www.wikidata.org/wiki/Q3983310](https://www.wikidata.org/wiki/Q3983310)  
+
+### alignments:
+ - [Temple of Castor and Pollux, Cora](https://pleiades.stoa.org/places/426309852)
+
+
 ## Q3983464: Tenna
 [https://www.wikidata.org/wiki/Q3983464](https://www.wikidata.org/wiki/Q3983464)  
 
@@ -38851,6 +38928,13 @@
  - [Respampani](https://pleiades.stoa.org/places/413285)
 
 
+## Rochester (Q507517)
+[https://www.wikidata.org/wiki/Q507517](https://www.wikidata.org/wiki/Q507517)  
+
+### alignments:
+ - [Durobrivae](https://pleiades.stoa.org/places/79433)
+
+
 ## Rochester Castle (Q1125527)
 [https://www.wikidata.org/wiki/Q1125527](https://www.wikidata.org/wiki/Q1125527)  
 
@@ -39640,6 +39724,13 @@
 
 ### alignments:
  - [Sendim Roman villa](https://pleiades.stoa.org/places/330899494)
+
+
+## Roman villa SW of Castor station (Q17641401)
+[https://www.wikidata.org/wiki/Q17641401](https://www.wikidata.org/wiki/Q17641401)  
+
+### alignments:
+ - [Castor](https://pleiades.stoa.org/places/79379)
 
 
 ## Roman villa, via Michelangelo Tilli (Q130629418)
