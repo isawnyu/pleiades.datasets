@@ -119,8 +119,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -145,12 +145,8 @@
             "description": "Matches the BAtlas location. Dates after T.B. Mitford in BAtlas 64.",
             "details": "",
             "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     38.658486,
@@ -159,6 +155,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added Generic GeoHack Accuracy Assessment; switched citation type to data source",
+                    "modified": "2025-02-12T22:18:20Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-07-13T17:15:38Z",
@@ -194,9 +195,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "locationTypeURI": [],
             "provenance": "Pleiades",
             "references": [
                 {
@@ -204,11 +203,11 @@
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
                     "citationDetail": "Karamagara Bridge",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Karamagara Bridge.",
                     "otherIdentifier": " ",
                     "shortTitle": "Wikipedia (English)",
-                    "type": "cites"
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",

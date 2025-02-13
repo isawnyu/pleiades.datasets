@@ -94,7 +94,7 @@
                 "description": "A sixth century AD Byzantine fortress built at Timgad by the governor Solomon",
                 "link": "https://pleiades.stoa.org/places/114562501/byzantine-fortress",
                 "location_precision": "precise",
-                "snippet": "Fort, ; AD 300 - AD 1453",
+                "snippet": "Fort; AD 300 - AD 1453",
                 "title": "Byzantine fortress"
             },
             "type": "Feature"
@@ -156,8 +156,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -175,7 +175,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/mediaeval-byzantine"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-09-30T01:25:02Z",
             "creators": [
                 {
@@ -189,12 +196,10 @@
             "details": "",
             "end": 1453,
             "featureType": [
-                "fort",
-                ""
+                "fort"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "geometry": {
                 "coordinates": [
@@ -204,6 +209,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "corrected reference",
+                    "modified": "2025-02-12T22:39:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added Generic OSM Accuracy Assessment",
+                    "modified": "2025-02-12T22:36:51Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-11-13T01:49:40Z",
@@ -240,20 +255,19 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort"
             ],
             "provenance": "Pleiades",
             "references": [
                 {
                     "accessURI": "",
                     "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/185679249",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UTB74JMV",
                     "citationDetail": "",
                     "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Jean Lassus and Marcel Le Glay. 1981. La forteresse byzantine de Thamugadi : fouilles à Timgad 1938-1956. 1. Paris.",
+                    "formattedCitation": "<div class=\"csl-entry\">Lassus, Jean. <i>La forteresse byzantine de Thamugadi: fouilles à Timgad 1938-1956. 1</i>. Fouilles à Timgad 938-956 1. Paris: Editions du Centre national de la recherche scientifique, 1981.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Lassus 1981",
                     "type": "cites"
                 }
             ],
