@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-608 alignments exist in _Pleiades_ place references as of 2025-02-12. The following list of alignments is grouped by zotkey.
+609 alignments exist in _Pleiades_ place references as of 2025-02-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1770,6 +1770,13 @@
 
 ### alignments:
  - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
+## 10815232: Pythopolis (Bithynia)
+[https://resource.manto.unh.edu/10815232](https://resource.manto.unh.edu/10815232)  
+
+### alignments:
+ - [Pythopolis](https://pleiades.stoa.org/places/511391)
 
 
 ## 10833972: the Ardettos (Athens)

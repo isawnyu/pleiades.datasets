@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3641 alignments exist in _Pleiades_ place references as of 2025-02-12. The following list of alignments is grouped by zotkey.
+3643 alignments exist in _Pleiades_ place references as of 2025-02-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12311,6 +12311,13 @@
  - [Korykos](https://pleiades.stoa.org/places/638939)
 
 
+## Koryphasion cape (Messenia)
+[https://topostext.org/place/370217LKor](https://topostext.org/place/370217LKor)  
+
+### alignments:
+ - [Koryphasion Pr.](https://pleiades.stoa.org/places/570375)
+
+
 ## Kos (Egypt)
 [https://topostext.org/place/291309UKos](https://topostext.org/place/291309UKos)  
 
@@ -18251,6 +18258,13 @@
 
 ### alignments:
  - [Peucetii](https://pleiades.stoa.org/places/442714)
+
+
+## Peuke island (Pontus)
+[https://topostext.org/place/448288IPeu](https://topostext.org/place/448288IPeu)  
+
+### alignments:
+ - [Peuke Nesos (island)](https://pleiades.stoa.org/places/226719)
 
 
 ## Peumata? (Thessaly)

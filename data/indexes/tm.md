@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4101 alignments exist in _Pleiades_ place references as of 2025-02-12. The following list of alignments is grouped by zotkey.
+4105 alignments exist in _Pleiades_ place references as of 2025-02-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -727,14 +727,6 @@
 
 ### alignments:
  - [Teos](https://pleiades.stoa.org/places/550913)
-
-
-## Geo 2346: Thasos
-[https://www.trismegistos.org/place/2346](https://www.trismegistos.org/place/2346)  
-
-### alignments:
- - [Thasos (island)](https://pleiades.stoa.org/places/501635)
- - [Thasos (settlement)](https://pleiades.stoa.org/places/501634)
 
 
 ## Geo 2354: Thebai
@@ -6549,6 +6541,13 @@
  - [Paroikopolis/Parthikopolis](https://pleiades.stoa.org/places/491683)
 
 
+## GEO ID 15861: Anchialos (Pomorie)
+[https://www.trismegistos.org/place/15861](https://www.trismegistos.org/place/15861)  
+
+### alignments:
+ - [Anchialus](https://pleiades.stoa.org/places/216702)
+
+
 ## GEO ID 15863: Philippopolis (Plovdiv)
 [https://www.trismegistos.org/place/15863](https://www.trismegistos.org/place/15863)  
 
@@ -10285,6 +10284,14 @@
 
 ### alignments:
  - [Tarbelli (Quattuorsignani)](https://pleiades.stoa.org/places/246680)
+
+
+## GEO ID 2346: Thasos
+[https://www.trismegistos.org/place/2346](https://www.trismegistos.org/place/2346)  
+
+### alignments:
+ - [Thasos (island)](https://pleiades.stoa.org/places/501635)
+ - [Thasos (settlement)](https://pleiades.stoa.org/places/501634)
 
 
 ## GEO ID 23471: Varatedo (Vayres)
@@ -18991,6 +18998,13 @@
  - [Longaticum](https://pleiades.stoa.org/places/197357)
 
 
+## GEO ID 40551: Kainophrourion (Sinekli)
+[http://www.trismegistos.org/place/40551](http://www.trismegistos.org/place/40551)  
+
+### alignments:
+ - [Caenophrurium](https://pleiades.stoa.org/places/511199)
+
+
 ## GEO ID 40559: Dadastana (Karahisar)
 [https://www.trismegistos.org/place/40559](https://www.trismegistos.org/place/40559)  
 
@@ -19115,6 +19129,13 @@
 
 ### alignments:
  - [Ad Salices](https://pleiades.stoa.org/places/221973)
+
+
+## GEO ID 40716: Tarpodizo (Kayova)
+[https://www.trismegistos.org/place/40716](https://www.trismegistos.org/place/40716)  
+
+### alignments:
+ - [‘Tarpodizo’](https://pleiades.stoa.org/places/511428)
 
 
 ## GEO ID 40740: Anneianum
@@ -20186,6 +20207,13 @@
 
 ### alignments:
  - [Scylla](https://pleiades.stoa.org/places/511413)
+
+
+## GEO ID 41356
+[https://www.trismegistos.org/place/41356](https://www.trismegistos.org/place/41356)  
+
+### alignments:
+ - [‘Utsurgae’](https://pleiades.stoa.org/places/511459)
 
 
 ## GEO ID 41359: Nea Polis (Eriklice Köyü)
