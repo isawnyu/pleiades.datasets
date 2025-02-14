@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4105 alignments exist in _Pleiades_ place references as of 2025-02-13. The following list of alignments is grouped by zotkey.
+4109 alignments exist in _Pleiades_ place references as of 2025-02-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -309,6 +309,7 @@
 
 ### alignments:
  - [Macedonia (region)](https://pleiades.stoa.org/places/491656)
+ - [Macedonia (Roman province)](https://pleiades.stoa.org/places/981531)
 
 
 ## Geo 12804: Panysos
@@ -750,7 +751,7 @@
  - [Thessalonica](https://pleiades.stoa.org/places/491741)
 
 
-## GEO 2414
+## GEO 2414: Thracia
 [http://www.trismegistos.org/place/2414](http://www.trismegistos.org/place/2414)  
 
 ### alignments:
@@ -2549,7 +2550,7 @@
  - [Patmos (island)](https://pleiades.stoa.org/places/599872)
 
 
-## GEO ID 11329
+## GEO ID 11329: Noricum
 [https://www.trismegistos.org/place/11329](https://www.trismegistos.org/place/11329)  
 
 ### alignments:
@@ -6017,6 +6018,7 @@
  - [Iotape](https://pleiades.stoa.org/places/648650)
  - [Ischalis?](https://pleiades.stoa.org/places/79534)
  - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Numidia (Roman province)](https://pleiades.stoa.org/places/981539)
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
  - [Paroria](https://pleiades.stoa.org/places/570562)
  - [Portus](https://pleiades.stoa.org/places/423012)
@@ -8781,7 +8783,7 @@
  - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
 
 
-## GEO ID 19858
+## GEO ID 19858: Lugdunensis
 [https://www.trismegistos.org/place/19858](https://www.trismegistos.org/place/19858)  
 
 ### alignments:
@@ -10074,6 +10076,13 @@
 
 ### alignments:
  - [Cambodunum (Raetia)](https://pleiades.stoa.org/places/187335)
+
+
+## GEO ID 22600: Hispania Tarraconensis
+[https://www.trismegistos.org/place/22600](https://www.trismegistos.org/place/22600)  
+
+### alignments:
+ - [Tarraconensis](https://pleiades.stoa.org/places/981551)
 
 
 ## GEO ID 22601: Mont Sacon
@@ -12710,7 +12719,7 @@
  - [Moesia Inferior (province)](https://pleiades.stoa.org/places/981535)
 
 
-## GEO ID 29481
+## GEO ID 29481: Moesia Superior
 [https://www.trismegistos.org/place/29481](https://www.trismegistos.org/place/29481)  
 
 ### alignments:
@@ -17324,6 +17333,13 @@
  - [Iberia (modern region/peninsula)](https://pleiades.stoa.org/places/540456066)
 
 
+## GEO ID 36807: Caesariensis
+[http://www.trismegistos.org/place/36807](http://www.trismegistos.org/place/36807)  
+
+### alignments:
+ - [Mauretania Caesariensis (Roman province)](https://pleiades.stoa.org/places/981532)
+
+
 ## GEO ID 3681: Troy (Hisarlık)
 [http://www.trismegistos.org/place/3681](http://www.trismegistos.org/place/3681)  
 
@@ -21833,6 +21849,13 @@
  - [Bructeri](https://pleiades.stoa.org/places/98929)
 
 
+## GEO ID 42186: Chauci
+[https://www.trismegistos.org/place/42186](https://www.trismegistos.org/place/42186)  
+
+### alignments:
+ - [Chauci](https://pleiades.stoa.org/places/98937)
+
+
 ## GEO ID 42188: Levefanum (Wijk bij Duurstede)
 [http://www.trismegistos.org/place/42188](http://www.trismegistos.org/place/42188)  
 
@@ -22610,7 +22633,7 @@
  - [Dacia Mediterranea](https://pleiades.stoa.org/places/991365)
 
 
-## GEO ID 42688
+## GEO ID 42688: Noricum Ripense
 [https://www.trismegistos.org/place/42688](https://www.trismegistos.org/place/42688)  
 
 ### alignments:
@@ -28096,6 +28119,13 @@
 
 ### alignments:
  - [Itanos](https://pleiades.stoa.org/places/589824)
+
+
+## Geo ID 936: Iudaea
+[https://www.trismegistos.org/place/936](https://www.trismegistos.org/place/936)  
+
+### alignments:
+ - [Iudaea (province)](https://pleiades.stoa.org/places/981527)
 
 
 ## GEO ID 936

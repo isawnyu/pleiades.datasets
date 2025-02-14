@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3643 alignments exist in _Pleiades_ place references as of 2025-02-13. The following list of alignments is grouped by zotkey.
+3649 alignments exist in _Pleiades_ place references as of 2025-02-14. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -879,6 +879,13 @@
  - [Ainos](https://pleiades.stoa.org/places/501337)
 
 
+## Ainos Mt. (Kefallenia)
+[https://topostext.org/place/381207LAin](https://topostext.org/place/381207LAin)  
+
+### alignments:
+ - [Ainos (mountain)](https://pleiades.stoa.org/places/530788)
+
+
 ## Ainyra region (Thasos)
 [https://topostext.org/place/407247RAin](https://topostext.org/place/407247RAin)  
 
@@ -1045,6 +1052,13 @@
 
 ### alignments:
  - [Akriai](https://pleiades.stoa.org/places/570058)
+
+
+## Akritas cape (Messenia)
+[https://topostext.org/place/368218LAkr](https://topostext.org/place/368218LAkr)  
+
+### alignments:
+ - [Ak(r)itas Pr.](https://pleiades.stoa.org/places/570057)
 
 
 ## Akrocorinth (Korinthia)
@@ -8617,7 +8631,7 @@
  - [Garsaura/Col. Claudia Archelais/Koloneia](https://pleiades.stoa.org/places/619164)
 
 
-## Gate IX (Athens)
+## Gate IX Hippades? (Athens)
 [https://topostext.org/place/380237FHip](https://topostext.org/place/380237FHip)  
 
 ### alignments:
@@ -16367,6 +16381,13 @@
  - [Numantia](https://pleiades.stoa.org/places/246523)
 
 
+## Numidia
+[https://topostext.org/place/360030RNum](https://topostext.org/place/360030RNum)  
+
+### alignments:
+ - [Numidia (Roman province)](https://pleiades.stoa.org/places/981539)
+
+
 ## Nursia (Italy)
 [https://topostext.org/place/428131UNur](https://topostext.org/place/428131UNur)  
 
@@ -18594,6 +18615,13 @@
 
 ### alignments:
  - [Philia](https://pleiades.stoa.org/places/511361)
+
+
+## Philippeion (Olympia
+[https://topostext.org/place/376216BOPl](https://topostext.org/place/376216BOPl)  
+
+### alignments:
+ - [Philippeion](https://pleiades.stoa.org/places/581674477)
 
 
 ## Philippoi (Kavala)
@@ -21825,6 +21853,13 @@
  - [Simena](https://pleiades.stoa.org/places/639110)
 
 
+## Sinai region (Egypt)
+[https://topostext.org/place/299339RSin](https://topostext.org/place/299339RSin)  
+
+### alignments:
+ - [Sinai](https://pleiades.stoa.org/places/746813)
+
+
 ## Sinda (Caria)
 [https://topostext.org/place/371296USin](https://topostext.org/place/371296USin)  
 
@@ -24590,6 +24625,13 @@
 
 ### alignments:
  - [Tugia](https://pleiades.stoa.org/places/266072)
+
+
+## Tullianum (Rome)
+[https://topostext.org/place/419125BTul](https://topostext.org/place/419125BTul)  
+
+### alignments:
+ - [Tullianum](https://pleiades.stoa.org/places/755655444)
 
 
 ## Tullum/Leuci (Gallia)
