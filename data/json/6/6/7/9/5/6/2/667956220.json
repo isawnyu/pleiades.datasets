@@ -108,13 +108,13 @@
                 ],
                 "type": "Point"
             },
-            "id": "centerpoint-of-deir-abu-matta",
+            "id": "imagery-centerpoint-of-deir-abu-matta",
             "properties": {
                 "description": "Location of the remains of the church, specifically.",
-                "link": "https://pleiades.stoa.org/places/667956220/centerpoint-of-deir-abu-matta",
+                "link": "https://pleiades.stoa.org/places/667956220/imagery-centerpoint-of-deir-abu-matta",
                 "location_precision": "precise",
-                "snippet": "Church, ",
-                "title": "Centerpoint of Deir Abu Matta"
+                "snippet": "Church-2",
+                "title": "Imagery Centerpoint of Deir Abu Matta"
             },
             "type": "Feature"
         }
@@ -195,9 +195,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2010",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
@@ -207,6 +207,12 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-07-21T17:04:55Z",
@@ -222,12 +228,10 @@
             "details": "",
             "end": null,
             "featureType": [
-                "church",
-                ""
+                "church-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -238,6 +242,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "place type -> church; substantive archaeology",
+                    "modified": "2025-02-13T21:47:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added PAA",
+                    "modified": "2025-02-13T21:47:01Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Add type, description",
                     "modified": "2012-10-30T17:08:55Z",
@@ -269,34 +283,33 @@
                     "modifiedBy": "auser"
                 }
             ],
-            "id": "centerpoint-of-deir-abu-matta",
+            "id": "imagery-centerpoint-of-deir-abu-matta",
             "locationType": [
-                "representative"
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/church",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
             ],
             "provenance": "Pleiades",
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Centerpoint of Deir Abu Matta",
-            "uri": "https://pleiades.stoa.org/places/667956220/centerpoint-of-deir-abu-matta"
+            "title": "Imagery Centerpoint of Deir Abu Matta",
+            "uri": "https://pleiades.stoa.org/places/667956220/imagery-centerpoint-of-deir-abu-matta"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
         "https://pleiades.stoa.org/vocabularies/place-types/monastery",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
-        "https://pleiades.stoa.org/vocabularies/place-types/church"
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
+        "church-2",
         "monastery",
         "settlement",
-        "archaeological-site",
-        "church"
+        "archaeological-site"
     ],
     "provenance": "Pleiades",
     "references": [
