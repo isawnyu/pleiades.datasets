@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3649 alignments exist in _Pleiades_ place references as of 2025-02-14. The following list of alignments is grouped by zotkey.
+3652 alignments exist in _Pleiades_ place references as of 2025-02-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1142,7 +1142,7 @@
 [https://topostext.org/place/522000UAla](https://topostext.org/place/522000UAla)  
 
 ### alignments:
- - [Alauna?](https://pleiades.stoa.org/places/79288)
+ - [Alauna](https://pleiades.stoa.org/places/79288)
 
 
 ## Alba Fucens (Italy)
@@ -6027,6 +6027,13 @@
  - [Columbarium of Pomponius Hylas](https://pleiades.stoa.org/places/390937014)
 
 
+## Column of Marcus Aurelius (Rome)
+[https://topostext.org/place/419125ACMA](https://topostext.org/place/419125ACMA)  
+
+### alignments:
+ - [Column of Marcus Aurelius](https://pleiades.stoa.org/places/952198991)
+
+
 ## Comana (Cappadocia)
 [https://topostext.org/place/383363UCom](https://topostext.org/place/383363UCom)  
 
@@ -8369,6 +8376,13 @@
 
 ### alignments:
  - [Flaminio Obelisk (Rome)](https://pleiades.stoa.org/places/971580111)
+
+
+## Flavian Palace (Rome)
+[https://topostext.org/place/419125BDFl](https://topostext.org/place/419125BDFl)  
+
+### alignments:
+ - [Domus Flavia](https://pleiades.stoa.org/places/564783056)
 
 
 ## Flavionavia (Iberia)
@@ -16346,6 +16360,13 @@
  - [Noviomagus/Nemetae](https://pleiades.stoa.org/places/109224)
 
 
+## Noviomagus: 515002UNov
+[https://topostext.org/place/515002UNov](https://topostext.org/place/515002UNov)  
+
+### alignments:
+ - [Noviomagus](https://pleiades.stoa.org/places/79623)
+
+
 ## Ntourmiza Corinth Aqueduct arches (Korinthia)
 [https://topostext.org/place/378226WHAD](https://topostext.org/place/378226WHAD)  
 
@@ -23120,7 +23141,7 @@
 [https://topostext.org/place/365273PTel](https://topostext.org/place/365273PTel)  
 
 ### alignments:
- - [Telos](https://pleiades.stoa.org/places/599960)
+ - [Telos (settlement)](https://pleiades.stoa.org/places/599960)
 
 
 ## Temenion (Argolid)

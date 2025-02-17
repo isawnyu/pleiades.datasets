@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4109 alignments exist in _Pleiades_ place references as of 2025-02-14. The following list of alignments is grouped by zotkey.
+4120 alignments exist in _Pleiades_ place references as of 2025-02-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2554,6 +2554,7 @@
 [https://www.trismegistos.org/place/11329](https://www.trismegistos.org/place/11329)  
 
 ### alignments:
+ - [Noricum (province)](https://pleiades.stoa.org/places/981538)
  - [Noricum (region)](https://pleiades.stoa.org/places/187490)
 
 
@@ -5919,6 +5920,13 @@
  - [Ewell](https://pleiades.stoa.org/places/79455)
 
 
+## Geo ID 15235: Ad Pontem (East Stoke)
+[https://www.trismegistos.org/place/15235](https://www.trismegistos.org/place/15235)  
+
+### alignments:
+ - [Ad Pontem](https://pleiades.stoa.org/places/79285)
+
+
 ## GEO ID 1523: Oxyryncha
 [http://www.trismegistos.org/place/1523](http://www.trismegistos.org/place/1523)  
 
@@ -6247,6 +6255,13 @@
 
 ### alignments:
  - [Alchester](https://pleiades.stoa.org/places/79289)
+
+
+## Geo ID 15542: Alauna (Alcester)
+[https://www.trismegistos.org/place/15542](https://www.trismegistos.org/place/15542)  
+
+### alignments:
+ - [Alauna](https://pleiades.stoa.org/places/79288)
 
 
 ## GEO ID 15555: Cappuck
@@ -15660,6 +15675,13 @@
  - [Raetia](https://pleiades.stoa.org/places/187523)
 
 
+## GEO ID 331: Arsinois he kai Eurylochou
+[https://www.trismegistos.org/place/331](https://www.trismegistos.org/place/331)  
+
+### alignments:
+ - [Arsinois he kai Eurylochou](https://pleiades.stoa.org/places/730095)
+
+
 ## GEO ID 33206: Tria Capita
 [http://www.trismegistos.org/place/33206](http://www.trismegistos.org/place/33206)  
 
@@ -17282,6 +17304,13 @@
 
 ### alignments:
  - [Rusubbicari Matidiae](https://pleiades.stoa.org/places/295333)
+
+
+## GEO ID 3660: Arsinoe [Kleopatris]
+[http://www.trismegistos.org/place/3660](http://www.trismegistos.org/place/3660)  
+
+### alignments:
+ - [Kleopatris](https://pleiades.stoa.org/places/730118)
 
 
 ## GEO ID 3665: Kerynia
@@ -19098,7 +19127,7 @@
  - [Libo](https://pleiades.stoa.org/places/668297)
 
 
-## GEO ID 40664
+## GEO ID 40664: Ecobrogis (Sorsovus)
 [http://www.trismegistos.org/place/40664](http://www.trismegistos.org/place/40664)  
 
 ### alignments:
@@ -23699,6 +23728,13 @@
  - [Regio XIV (Transtiberim)](https://pleiades.stoa.org/places/217953464)
 
 
+## GEO ID 43726: Vicus Bublarius
+[https://www.trismegistos.org/place/43726](https://www.trismegistos.org/place/43726)  
+
+### alignments:
+ - [Vicus Bublarius](https://pleiades.stoa.org/places/792170100)
+
+
 ## GEO ID 43727: Vicus Cyclopis
 [https://www.trismegistos.org/place/43727](https://www.trismegistos.org/place/43727)  
 
@@ -25078,6 +25114,13 @@
  - [Crac des Chevaliers](https://pleiades.stoa.org/places/587486981)
 
 
+## GEO ID 47980: Chrysoroas (Barada)
+[http://www.trismegistos.org/place/47980](http://www.trismegistos.org/place/47980)  
+
+### alignments:
+ - [Chrysoroas/Bardines (river)](https://pleiades.stoa.org/places/678095)
+
+
 ## GEO ID 47982: Eriza (Erzincan)
 [http://www.trismegistos.org/place/47982](http://www.trismegistos.org/place/47982)  
 
@@ -25279,6 +25322,13 @@
 
 ### alignments:
  - [Askut](https://pleiades.stoa.org/places/53335947)
+
+
+## GEO ID 4911: Dahlak Archipelago
+[http://www.trismegistos.org/place/4911](http://www.trismegistos.org/place/4911)  
+
+### alignments:
+ - [Alalaiou (islands)](https://pleiades.stoa.org/places/39281)
 
 
 ## GEO ID 4937: Balot (Manfalut)
@@ -26065,6 +26115,13 @@
 
 ### alignments:
  - [Aristonis](https://pleiades.stoa.org/places/785977)
+
+
+## GEO ID 5568: Makaria Nesos
+[https://www.trismegistos.org/place/5568](https://www.trismegistos.org/place/5568)  
+
+### alignments:
+ - [Makaria (island)](https://pleiades.stoa.org/places/40203)
 
 
 ## GEO ID 55892: Letoon
@@ -27321,6 +27378,13 @@
  - [Epirus](https://pleiades.stoa.org/places/530871)
 
 
+## Geo ID 65654: Teredon
+[https://www.trismegistos.org/place/65654](https://www.trismegistos.org/place/65654)  
+
+### alignments:
+ - [Teredon/Diridotis](https://pleiades.stoa.org/places/915902)
+
+
 ## GEO ID 658: Eresos
 [https://www.trismegistos.org/place/658](https://www.trismegistos.org/place/658)  
 
@@ -28268,6 +28332,13 @@
  - [Panopolis/Schmin](https://pleiades.stoa.org/places/756613)
 
 
+## Geo ID, 16454: Komana (Şar)
+[http://www.trismegistos.org/place/16454](http://www.trismegistos.org/place/16454)  
+
+### alignments:
+ - [Comana/Hierapolis/Chryse](https://pleiades.stoa.org/places/628959)
+
+
 ## GEO ID, 16473: Melitene (Malatya)
 [http://www.trismegistos.org/place/16473](http://www.trismegistos.org/place/16473)  
 
@@ -28525,6 +28596,13 @@
 
 ### alignments:
  - [Melampagos](https://pleiades.stoa.org/places/550728)
+
+
+## Pannonia Inferior: 16529
+[https://www.trismegistos.org/place/16529](https://www.trismegistos.org/place/16529)  
+
+### alignments:
+ - [Pannonia Inferior (province)](https://pleiades.stoa.org/places/981540)
 
 
 ## Text - CIL VI 36791
