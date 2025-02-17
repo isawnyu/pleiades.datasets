@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        50.0,
-        20.0,
-        55.0
+        19.5735957,
+        53.9163,
+        19.60656,
+        54.1160596
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T20:45:35Z",
+    "created": "2025-02-14T21:24:09Z",
     "creators": [
         {
             "name": "R. Warner",
@@ -43,49 +43,70 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 2 G3 Krosno, Połowite, Weklice",
+    "description": "A cemetery cluster associated with three modern villages, treated by the Barrington Atlas as a single symbol on the map.",
     "details": "<p>The Barrington Atlas Directory notes: Krosno, Połowite, Weklice, formerly Crossen POL</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            50.0
-                        ],
-                        [
-                            20.0,
-                            50.0
-                        ],
-                        [
-                            20.0,
-                            55.0
-                        ],
-                        [
-                            15.0,
-                            55.0
-                        ],
-                        [
-                            15.0,
-                            50.0
-                        ]
-                    ]
+                    19.60656,
+                    53.9163
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-modern-poaowite",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/20514/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20514/osm-location-modern-poaowite",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Połowite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.5735957,
+                    54.1160596
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-weklice",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20514/osm-location-weklice",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: Weklice"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.6011454,
+                    54.0645939
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-krosno",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20514/osm-location-modern-krosno",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Krosno"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type = cemetery; added an associated modern location for each of the three villages, which should together supersede the currently published batlas location",
+            "modified": "2025-02-14T22:18:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "removed Wikipedia reference (wrong Krosno)",
             "modified": "2023-05-03T21:26:49Z",
@@ -141,131 +162,294 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T20:45:35Z",
+            "contributors": [],
+            "created": "2025-02-14T21:26:41Z",
             "creators": [
                 {
-                    "name": "A. Bursche",
-                    "username": null
-                },
-                {
-                    "name": "R. Warner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            50.0
-                        ],
-                        [
-                            20.0,
-                            50.0
-                        ],
-                        [
-                            20.0,
-                            55.0
-                        ],
-                        [
-                            15.0,
-                            55.0
-                        ],
-                        [
-                            15.0,
-                            50.0
-                        ]
-                    ]
+                    19.60656,
+                    53.9163
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:51:17Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:32:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T21:03:17Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-02-14T22:21:09Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T21:01:48Z",
+                    "modified": "2025-02-14T21:30:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T21:27:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T21:26:41Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T20:45:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-14T21:26:41Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-modern-poaowite",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 2 G3 Krosno, Połowite, Weklice",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 31531016, version 11, osm:changeset=110422253, 2021-08-29T17:46:03Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/31531016",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 31531016",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=31531016",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/20514/batlas-location"
+            "start": 2000,
+            "title": "OSM Location: modern Połowite",
+            "uri": "https://pleiades.stoa.org/places/20514/osm-location-modern-poaowite"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-02-14T21:27:46Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    19.5735957,
+                    54.1160596
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-14T22:21:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-02-14T21:30:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T21:28:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T21:27:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-14T21:27:46Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-weklice",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 31529940, version 21, osm:changeset=110422692, 2021-08-29T18:00:35Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/31529940",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 31529940",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=31529940",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: Weklice",
+            "uri": "https://pleiades.stoa.org/places/20514/osm-location-weklice"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-02-14T21:29:24Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    19.6011454,
+                    54.0645939
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-14T22:21:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-02-14T21:30:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T21:29:51Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T21:29:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-14T21:29:24Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-krosno",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 692610300, version 7, osm:changeset=118412079, 2022-03-12T20:46:28Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/692610300",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 692610300",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=692610300",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Krosno",
+            "uri": "https://pleiades.stoa.org/places/20514/osm-location-modern-krosno"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement",
+        "cemetery",
         "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 2 G3 Krosno, Połowite, Weklice",
@@ -349,13 +533,13 @@
         }
     ],
     "reprPoint": [
-        17.5,
-        52.5
+        19.593767033333332,
+        54.03231783333334
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Krosno, Połowite, Weklice",
+    "title": "Cemetery cluster: Krosno, Połowite, Weklice",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/20514"
 }

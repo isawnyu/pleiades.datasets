@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        15.0,
-        50.0,
-        20.0
+        48.7335031109817,
+        15.941401312396055,
+        48.7335031109817,
+        15.941401312396055
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,17 +14,25 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:03:29Z",
+    "created": "2025-02-14T22:20:05Z",
     "creators": [
         {
             "name": "D.T. Potts",
@@ -32,48 +40,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 4 C2 Are",
-    "details": "The Barrington Atlas Directory notes: 'Urr Mayhan, in region of Hasi YEM",
+    "details": "<p>The Barrington Atlas Directory notes: 'Urr Mayhan, in region of Hasi YEM</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ]
-                    ]
+                    48.7335031109817,
+                    15.941401312396055
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39292/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location digitized from BATlas map",
+                "link": "https://pleiades.stoa.org/places/39292/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type -> settlement after BAtlas; cleaned up references; added location digitized from BAtlas map 4 @thomase",
+            "modified": "2025-02-15T02:20:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:38:01Z",
@@ -104,8 +97,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -117,100 +110,84 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:03:30Z",
+            "contributors": [],
+            "created": "2025-02-14T22:27:59Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location digitized from BATlas map",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            50.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ]
-                    ]
+                    48.7335031109817,
+                    15.941401312396055
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:38:01Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:23Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-02-15T02:21:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-14T22:31:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-02-14T22:28:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T22:27:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:03:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-14T22:27:59Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C2 Are",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C2 Are",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39292/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/39292/batlas-point-location"
         }
     ],
     "names": [
@@ -289,10 +266,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 4 C2 Are",
     "references": [
@@ -310,18 +287,18 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Ryckmans-1957",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/S62H5F3W",
+            "citationDetail": "92-93",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ryckmans 1957, 92-93",
+            "formattedCitation": "<div class=\"csl-entry\">Ryckmans, J. “Petits Royaumes Sud-Arabes d’après Les Auteurs Classiques.” <i>Le Muséon</i> 70 (1957): 75–96.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Ryckmans 1957",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        47.5,
-        17.5
+        48.7335031109817,
+        15.941401312396055
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

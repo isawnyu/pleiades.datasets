@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.0,
-        50.0,
-        25.0,
-        55.0
+        21.25939,
+        53.67292,
+        21.34516,
+        53.7000488
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T20:44:14Z",
+    "created": "2025-02-14T20:53:18Z",
     "creators": [
         {
             "name": "R. Warner",
@@ -43,49 +43,70 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 2 H3 Babięta, Machary, Mojtyny",
-    "details": "The Barrington Atlas Directory notes: Babięta, Machary, Mojtyny, formerly Babienten POL",
+    "description": "A group of cemeteries treated as a single entry by the Barrington Atlas.",
+    "details": "<p>The Barrington Atlas Directory notes: Babięta, Machary, Mojtyny, formerly Babienten POL</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            50.0
-                        ],
-                        [
-                            25.0,
-                            50.0
-                        ],
-                        [
-                            25.0,
-                            55.0
-                        ],
-                        [
-                            20.0,
-                            55.0
-                        ],
-                        [
-                            20.0,
-                            50.0
-                        ]
-                    ]
+                    21.25939,
+                    53.67292
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-modern-babiata",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/20405/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20405/osm-location-modern-babiata",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Babięta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2643794,
+                    53.7000488
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-machary",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20405/osm-location-modern-machary",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Machary"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.34516,
+                    53.69468
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-mojtyny",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/20405/osm-location-modern-mojtyny",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Mojtyny"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "corrected place type; title; summary; cleaned up references; added an associated modern location for each of the three villages, which should together supersede the currently published batlas location @thomase",
+            "modified": "2025-02-14T22:27:20Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added reference",
             "modified": "2013-12-29T15:43:19Z",
@@ -126,130 +147,295 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T20:44:14Z",
+            "contributors": [],
+            "created": "2025-02-14T20:59:30Z",
             "creators": [
                 {
-                    "name": "A. Bursche",
-                    "username": null
-                },
-                {
-                    "name": "R. Warner",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.0,
-                            50.0
-                        ],
-                        [
-                            25.0,
-                            50.0
-                        ],
-                        [
-                            25.0,
-                            55.0
-                        ],
-                        [
-                            20.0,
-                            55.0
-                        ],
-                        [
-                            20.0,
-                            50.0
-                        ]
-                    ]
+                    21.25939,
+                    53.67292
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:50:52Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:31:48Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T21:03:08Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-02-14T22:27:54Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T21:01:40Z",
+                    "modified": "2025-02-14T21:02:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T20:59:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T20:59:31Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T20:44:14Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-14T20:59:30Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-modern-babiata",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 2 H3 Babięta, Machary, Mojtyny",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 31528195, version 15, osm:changeset=134191190, 2023-03-27T19:04:29Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/31528195",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 31528195",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=31528195",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/20405/batlas-location"
+            "start": 2000,
+            "title": "OSM Location: modern Babięta",
+            "uri": "https://pleiades.stoa.org/places/20405/osm-location-modern-babiata"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-02-14T21:00:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    21.2643794,
+                    53.7000488
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-14T22:27:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-02-14T21:02:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T21:00:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T21:00:28Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-14T21:00:28Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-machary",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 31522873, version 16, osm:changeset=143623109, 2023-11-04T17:15:53Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/31522873",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 31522873",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=31522873",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Machary",
+            "uri": "https://pleiades.stoa.org/places/20405/osm-location-modern-machary"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-02-14T21:01:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    21.34516,
+                    53.69468
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-14T22:27:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-02-14T21:02:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-14T21:01:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-14T21:01:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-14T21:01:21Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-mojtyny",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 31522503, version 18, osm:changeset=134191784, 2023-03-27T19:23:03Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/31522503",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 31522503",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=31522503",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Mojtyny",
+            "uri": "https://pleiades.stoa.org/places/20405/osm-location-modern-mojtyny"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "cemetery",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 2 H3 Babięta, Machary, Mojtyny",
     "references": [
@@ -267,56 +453,56 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hollack-1904",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GG27SHXD",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hollack 1904",
+            "formattedCitation": "<div class=\"csl-entry\">Peiser, F.E, and Emil Hollack. <i>Das Gräberfeld von Moythienen</i>. Königsberg i Pr: Verlag von Gräfe &amp; Unzer; Altertumsgesellschaft Prussia, 1904.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hollack 1904",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/n.html#Nowakowski-1983",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KYUWAGRH",
+            "citationDetail": "64-65 (nos. 2, 28, 29)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Nowakowski 1983, 64-65 (nos. 2, 28, 29)",
+            "formattedCitation": "<div class=\"csl-entry\">Nowakowski, W. “Rzymskie Importy Przemysłowe Na Terytorium Zachodniobałtyjskiego Kręgu Kulturowego.” <i>Archeologia (Warsaw)</i> 34 (1985): 63–106.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Nowakowski 1983",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Bursche-1996",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7Z75IJ92",
+            "citationDetail": "172, 176",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Bursche 1996, 172, 176",
+            "formattedCitation": "<div class=\"csl-entry\">Bursche, Aleksander. <i>Later Roman-Barbarian Contacts in Central Europe, Numismatic Evidence</i>. Studien Zu Fundmünzen Der Antike 11. Berlin: Gebr. Mann Verlag, 1996.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Bursche 1996",
             "type": "seeFurther"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Babi%C4%99ta",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Babięta",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Babięta.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        22.5,
-        52.5
+        21.289643133333332,
+        53.68921626666667
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Babięta, Machary, Mojtyny",
+    "title": "Cemetery cluster: Babięta, Machary, Mojtyny",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/20405"
 }
