@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3652 alignments exist in _Pleiades_ place references as of 2025-02-17. The following list of alignments is grouped by zotkey.
+3652 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6388,7 +6388,7 @@
 [https://topostext.org/place/435167RDal](https://topostext.org/place/435167RDal)  
 
 ### alignments:
- - [Dalmatia](https://pleiades.stoa.org/places/197240)
+ - [Dalmatia (region)](https://pleiades.stoa.org/places/197240)
 
 
 ## Damandri site (Lesbos)

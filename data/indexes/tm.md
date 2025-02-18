@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4120 alignments exist in _Pleiades_ place references as of 2025-02-17. The following list of alignments is grouped by zotkey.
+4122 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2618,7 +2618,7 @@
 [https://www.trismegistos.org/place/11624](https://www.trismegistos.org/place/11624)  
 
 ### alignments:
- - [Dalmatia](https://pleiades.stoa.org/places/197240)
+ - [Dalmatia (region)](https://pleiades.stoa.org/places/197240)
 
 
 ## GEO ID 1163: Korinthos
@@ -11037,6 +11037,13 @@
 
 ### alignments:
  - [Briteiros](https://pleiades.stoa.org/places/236385)
+
+
+## GEO ID 25600: Gallaecia
+[http://www.trismegistos.org/place/25600](http://www.trismegistos.org/place/25600)  
+
+### alignments:
+ - [Gallaecia](https://pleiades.stoa.org/places/991317)
 
 
 ## GEO ID 2562
@@ -22880,13 +22887,6 @@
 
 
 ## GEO ID 42815: Circus Maximus
-[http://www.trismegistos.org/place/42815](http://www.trismegistos.org/place/42815)  
-
-### alignments:
- - [Circus Maximus](https://pleiades.stoa.org/places/458808506)
-
-
-## GEO ID 42815: Circus Maximus
 [https://www.trismegistos.org/place/42815](https://www.trismegistos.org/place/42815)  
 
 ### alignments:
@@ -23206,6 +23206,13 @@
 
 ### alignments:
  - [Pirustarum Vicus](https://pleiades.stoa.org/places/211450)
+
+
+## GEO ID 43257: Curunniacis
+[http://www.trismegistos.org/place/43257](http://www.trismegistos.org/place/43257)  
+
+### alignments:
+ - [Curunniacis](https://pleiades.stoa.org/places/240915)
 
 
 ## GEO ID 43284: Segisama Brasaca
@@ -25779,6 +25786,13 @@
 
 ### alignments:
  - [Creta (island)](https://pleiades.stoa.org/places/589748)
+
+
+## GEO ID 527: Creta
+[https://www.trismegistos.org/place/527](https://www.trismegistos.org/place/527)  
+
+### alignments:
+ - [Creta](https://pleiades.stoa.org/places/991373)
 
 
 ## GEO ID 52809

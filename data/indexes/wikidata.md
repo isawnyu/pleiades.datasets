@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6927 alignments exist in _Pleiades_ place references as of 2025-02-17. The following list of alignments is grouped by zotkey.
+6945 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1808,6 +1808,13 @@
  - [Angkor Thom](https://pleiades.stoa.org/places/364279264)
 
 
+## Angles (Q104238)
+[https://www.wikidata.org/wiki/Q104238](https://www.wikidata.org/wiki/Q104238)  
+
+### alignments:
+ - [Angli](https://pleiades.stoa.org/places/98912)
+
+
 ## Anglesey (Q168159)
 [https://www.wikidata.org/wiki/Q168159](https://www.wikidata.org/wiki/Q168159)  
 
@@ -3426,6 +3433,13 @@
  - [Meduacus Minor (river)](https://pleiades.stoa.org/places/393452)
 
 
+## Bactria (Q132646)
+[https://www.wikidata.org/wiki/Q132646](https://www.wikidata.org/wiki/Q132646)  
+
+### alignments:
+ - [Bactria (region)](https://pleiades.stoa.org/places/971705)
+
+
 ## Bad Bertrich (Q565257)
 [https://www.wikidata.org/wiki/Q565257](https://www.wikidata.org/wiki/Q565257)  
 
@@ -4125,6 +4139,13 @@
 
 ### alignments:
  - [Ugernum](https://pleiades.stoa.org/places/148223)
+
+
+## Beelen (Q2815)
+[https://www.wikidata.org/wiki/Q2815](https://www.wikidata.org/wiki/Q2815)  
+
+### alignments:
+ - [Beelen](https://pleiades.stoa.org/places/98922)
 
 
 ## Beidha (Q2677032)
@@ -4876,6 +4897,13 @@
  - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
 
 
+## Bracari (Q2664253)
+[https://www.wikidata.org/wiki/Q2664253](https://www.wikidata.org/wiki/Q2664253)  
+
+### alignments:
+ - [Callaeci Bracari](https://pleiades.stoa.org/places/236398)
+
+
 ## Brading Roman Villa (Q17671924)
 [https://www.wikidata.org/wiki/Q17671924](https://www.wikidata.org/wiki/Q17671924)  
 
@@ -5238,6 +5266,13 @@
 
 ### alignments:
  - [Bylazora](https://pleiades.stoa.org/places/491557)
+
+
+## Byzacena (Q1018744)
+[https://www.wikidata.org/wiki/Q1018744](https://www.wikidata.org/wiki/Q1018744)  
+
+### alignments:
+ - [Byzacena](https://pleiades.stoa.org/places/991345)
 
 
 ## Bzyb River (Q1972264)
@@ -6500,6 +6535,13 @@
  - [Castra Vetera](https://pleiades.stoa.org/places/108867)
 
 
+## Castro da Cola (Q3752952)
+[https://www.wikidata.org/wiki/Q3752952](https://www.wikidata.org/wiki/Q3752952)  
+
+### alignments:
+ - [Castro da Cola](https://pleiades.stoa.org/places/897069080)
+
+
 ## Castro de Alvarelhos (Q17390115)
 [https://www.wikidata.org/wiki/Q17390115](https://www.wikidata.org/wiki/Q17390115)  
 
@@ -7502,6 +7544,13 @@
  - [Ciota Ciara](https://pleiades.stoa.org/places/596450512)
 
 
+## Circus Maximus (Q207808)
+[https://www.wikidata.org/wiki/Q207808](https://www.wikidata.org/wiki/Q207808)  
+
+### alignments:
+ - [Circus Maximus](https://pleiades.stoa.org/places/458808506)
+
+
 ## Circus of Leptis Magna (Q70772483)
 [https://www.wikidata.org/wiki/Q70772483](https://www.wikidata.org/wiki/Q70772483)  
 
@@ -8090,6 +8139,13 @@
  - [Creta et Cyrene (Roman province)](https://pleiades.stoa.org/places/981517)
 
 
+## Crete (Q24049878)
+[https://www.wikidata.org/wiki/Q24049878](https://www.wikidata.org/wiki/Q24049878)  
+
+### alignments:
+ - [Creta](https://pleiades.stoa.org/places/991373)
+
+
 ## Cretone (Q1081360)
 [https://www.wikidata.org/wiki/Q1081360](https://www.wikidata.org/wiki/Q1081360)  
 
@@ -8389,6 +8445,20 @@
 
 ### alignments:
  - [Ricciacum (or Ricciacus)](https://pleiades.stoa.org/places/109279)
+
+
+## Dalmatia (Q1330965)
+[https://www.wikidata.org/wiki/Q1330965](https://www.wikidata.org/wiki/Q1330965)  
+
+### alignments:
+ - [Dalmatia (province)](https://pleiades.stoa.org/places/981522)
+
+
+## Dalmatia (Q528042)
+[https://www.wikidata.org/wiki/Q528042](https://www.wikidata.org/wiki/Q528042)  
+
+### alignments:
+ - [Dalmatia (region)](https://pleiades.stoa.org/places/197240)
 
 
 ## Damascus (Q3766)
@@ -9133,6 +9203,13 @@
 
 ### alignments:
  - [Dukkan-i Daud](https://pleiades.stoa.org/places/903019)
+
+
+## Dulgubnii (Q492571)
+[https://www.wikidata.org/wiki/Q492571](https://www.wikidata.org/wiki/Q492571)  
+
+### alignments:
+ - [Dulgubnii?](https://pleiades.stoa.org/places/98948)
 
 
 ## Dun Aengus (Q1265205)
@@ -10507,6 +10584,14 @@
  - [Galata (island)](https://pleiades.stoa.org/places/314961)
 
 
+## Gallaeci (Q1007723)
+[https://www.wikidata.org/wiki/Q1007723](https://www.wikidata.org/wiki/Q1007723)  
+
+### alignments:
+ - [Callaeci Lucenses](https://pleiades.stoa.org/places/236399)
+ - [Gallaecia](https://pleiades.stoa.org/places/991317)
+
+
 ## Gallarus Oratory (Q1492262)
 [https://www.wikidata.org/wiki/Q1492262](https://www.wikidata.org/wiki/Q1492262)  
 
@@ -11178,6 +11263,13 @@
 
 ### alignments:
  - [Grimspound](https://pleiades.stoa.org/places/248025633)
+
+
+## Grinnes (Q2533914)
+[https://www.wikidata.org/wiki/Q2533914](https://www.wikidata.org/wiki/Q2533914)  
+
+### alignments:
+ - [Grinnes](https://pleiades.stoa.org/places/98967)
 
 
 ## Grotta Campana (Q3531058)
@@ -12510,6 +12602,13 @@
  - [Hysiai](https://pleiades.stoa.org/places/540831)
 
 
+## Hünenburg bei Bielefeld (Q1652354)
+[https://www.wikidata.org/wiki/Q1652354](https://www.wikidata.org/wiki/Q1652354)  
+
+### alignments:
+ - [Bielefeld](https://pleiades.stoa.org/places/98925)
+
+
 ## Ialysos (Q29963099)
 [https://www.wikidata.org/wiki/Q29963099](https://www.wikidata.org/wiki/Q29963099)  
 
@@ -12529,6 +12628,13 @@
 
 ### alignments:
  - [Akidas/Iardanos (river)](https://pleiades.stoa.org/places/573064)
+
+
+## Iasonion (Margiana) (Q23929915)
+[https://www.wikidata.org/wiki/Q23929915](https://www.wikidata.org/wiki/Q23929915)  
+
+### alignments:
+ - [Iasonion](https://pleiades.stoa.org/places/961916)
 
 
 ## Iasos (Q279048)
@@ -13229,6 +13335,13 @@
 
 ### alignments:
  - [Kadmat Island](https://pleiades.stoa.org/places/642557317)
+
+
+## Kafirkala (Q12824964)
+[https://www.wikidata.org/wiki/Q12824964](https://www.wikidata.org/wiki/Q12824964)  
+
+### alignments:
+ - [Kafir Kala](https://pleiades.stoa.org/places/971771)
 
 
 ## Kafkanas (Q21080095)
@@ -24613,13 +24726,6 @@
  - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
 
 
-## Q1330965: Dalmatia
-[https://www.wikidata.org/wiki/Q1330965](https://www.wikidata.org/wiki/Q1330965)  
-
-### alignments:
- - [Dalmatia](https://pleiades.stoa.org/places/197240)
-
-
 ## Q133118: Şanlıurfa
 [https://www.wikidata.org/wiki/Q133118](https://www.wikidata.org/wiki/Q133118)  
 
@@ -28416,13 +28522,6 @@
 
 ### alignments:
  - [Lalibela](https://pleiades.stoa.org/places/403627900)
-
-
-## Q207808: Circus Maximus
-[https://www.wikidata.org/wiki/Q207808](https://www.wikidata.org/wiki/Q207808)  
-
-### alignments:
- - [Circus Maximus](https://pleiades.stoa.org/places/458808506)
 
 
 ## Q207896: Quirinal Hill
@@ -41072,6 +41171,13 @@
  - [Tricomia](https://pleiades.stoa.org/places/678436)
 
 
+## Salona (Q1258998)
+[https://www.wikidata.org/wiki/Q1258998](https://www.wikidata.org/wiki/Q1258998)  
+
+### alignments:
+ - [Salona](https://pleiades.stoa.org/places/197488)
+
+
 ## Salt-en-Donzy (Q1106355)
 [https://www.wikidata.org/wiki/Q1106355](https://www.wikidata.org/wiki/Q1106355)  
 
@@ -43249,6 +43355,13 @@
  - [Surami Pass](https://pleiades.stoa.org/places/864481)
 
 
+## Surkh Kotal (Q1799523)
+[https://www.wikidata.org/wiki/Q1799523](https://www.wikidata.org/wiki/Q1799523)  
+
+### alignments:
+ - [Surkh Kotal](https://pleiades.stoa.org/places/971878)
+
+
 ## Susa (Q180773)
 [https://www.wikidata.org/wiki/Q180773](https://www.wikidata.org/wiki/Q180773)  
 
@@ -44371,6 +44484,13 @@
  - [Teos](https://pleiades.stoa.org/places/550913)
 
 
+## Tepe Ahingaran (Q108311122)
+[https://www.wikidata.org/wiki/Q108311122](https://www.wikidata.org/wiki/Q108311122)  
+
+### alignments:
+ - [Tepe Ahingaran](https://pleiades.stoa.org/places/971887)
+
+
 ## Teppe Hasanlu (Q250844)
 [https://www.wikidata.org/wiki/Q250844](https://www.wikidata.org/wiki/Q250844)  
 
@@ -45482,6 +45602,13 @@
 
 ### alignments:
  - [Tophet de Salammbô](https://pleiades.stoa.org/places/908696791)
+
+
+## Toprakkale (Q108118147)
+[https://www.wikidata.org/wiki/Q108118147](https://www.wikidata.org/wiki/Q108118147)  
+
+### alignments:
+ - [Toprakkale](https://pleiades.stoa.org/places/971894)
 
 
 ## Tor Boacciana (Q3993549)
