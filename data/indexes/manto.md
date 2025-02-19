@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-609 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
+610 alignments exist in _Pleiades_ place references as of 2025-02-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4194,6 +4194,13 @@
 
 ### alignments:
  - [Hyampolis](https://pleiades.stoa.org/places/540820)
+
+
+## Icaros (island)
+[https://resource.manto.unh.edu/9746369](https://resource.manto.unh.edu/9746369)  
+
+### alignments:
+ - [E-kara/Icarus (island)](https://pleiades.stoa.org/places/912841)
 
 
 ## Megalopolis (Arcadia)

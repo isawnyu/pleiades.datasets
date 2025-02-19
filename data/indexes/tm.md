@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4122 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
+4123 alignments exist in _Pleiades_ place references as of 2025-02-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8327,6 +8327,13 @@
 
 ### alignments:
  - [Ariconium](https://pleiades.stoa.org/places/79302)
+
+
+## GEO ID 18991: Abona (River Avon)
+[https://www.trismegistos.org/place/18991](https://www.trismegistos.org/place/18991)  
+
+### alignments:
+ - [Abona (river)](https://pleiades.stoa.org/places/79279)
 
 
 ## GEO ID 18992: Traiectus (Bitton?)

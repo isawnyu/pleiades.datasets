@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-6945 alignments exist in _Pleiades_ place references as of 2025-02-18. The following list of alignments is grouped by zotkey.
+6968 alignments exist in _Pleiades_ place references as of 2025-02-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -118,6 +118,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Abonae (Q61747805)
+[https://www.wikidata.org/wiki/Q61747805](https://www.wikidata.org/wiki/Q61747805)  
+
+### alignments:
+ - [‘Abone’](https://pleiades.stoa.org/places/79280)
 
 
 ## Abraham River (Q2399602)
@@ -6017,6 +6024,13 @@
  - [Roman amphitheater at Casinum](https://pleiades.stoa.org/places/821182910)
 
 
+## Caspingium (Q2571170)
+[https://www.wikidata.org/wiki/Q2571170](https://www.wikidata.org/wiki/Q2571170)  
+
+### alignments:
+ - [Caspingium](https://pleiades.stoa.org/places/479893606)
+
+
 ## Cassibile (Q614659)
 [https://www.wikidata.org/wiki/Q614659](https://www.wikidata.org/wiki/Q614659)  
 
@@ -6176,6 +6190,13 @@
 
 ### alignments:
  - [Capraria](https://pleiades.stoa.org/places/148034)
+
+
+## Castle of Dokos (Q108612431)
+[https://www.wikidata.org/wiki/Q108612431](https://www.wikidata.org/wiki/Q108612431)  
+
+### alignments:
+ - [Castle of Dokos](https://pleiades.stoa.org/places/996483532)
 
 
 ## castle of Donoratico (Q3662596)
@@ -9478,6 +9499,13 @@
  - [Eion](https://pleiades.stoa.org/places/501410)
 
 
+## Eketorp Fort (Q1011625)
+[https://www.wikidata.org/wiki/Q1011625](https://www.wikidata.org/wiki/Q1011625)  
+
+### alignments:
+ - [Eketorp](https://pleiades.stoa.org/places/20454)
+
+
 ## Ekklesiasterion of Agrigento (Q72703512)
 [https://www.wikidata.org/wiki/Q72703512](https://www.wikidata.org/wiki/Q72703512)  
 
@@ -10267,6 +10295,13 @@
 
 ### alignments:
  - [Flower's Barrow](https://pleiades.stoa.org/places/355161047)
+
+
+## Flumendosa (Q1243685)
+[https://www.wikidata.org/wiki/Q1243685](https://www.wikidata.org/wiki/Q1243685)  
+
+### alignments:
+ - [Saipros (river)](https://pleiades.stoa.org/places/472010)
 
 
 ## Flumenelongu Nuraghe (Q122324458)
@@ -11146,11 +11181,25 @@
  - [Goritsa Neromyloi site](https://pleiades.stoa.org/places/167846411)
 
 
+## Gorszewice (Q5586901)
+[https://www.wikidata.org/wiki/Q5586901](https://www.wikidata.org/wiki/Q5586901)  
+
+### alignments:
+ - [Gorszewice](https://pleiades.stoa.org/places/20471)
+
+
 ## Gortys (Arcadia) (Q1538431)
 [https://www.wikidata.org/wiki/Q1538431](https://www.wikidata.org/wiki/Q1538431)  
 
 ### alignments:
  - [Gortys](https://pleiades.stoa.org/places/570267)
+
+
+## Gothiscandza (Q1538832)
+[https://www.wikidata.org/wiki/Q1538832](https://www.wikidata.org/wiki/Q1538832)  
+
+### alignments:
+ - [Gothiscandza](https://pleiades.stoa.org/places/20473)
 
 
 ## Gradara Castle (Q3662625)
@@ -13001,6 +13050,13 @@
  - [[Comacina] (island)](https://pleiades.stoa.org/places/383624)
 
 
+## Isola delle Femmine (Q489865)
+[https://www.wikidata.org/wiki/Q489865](https://www.wikidata.org/wiki/Q489865)  
+
+### alignments:
+ - [Pakonia? (island)](https://pleiades.stoa.org/places/462407)
+
+
 ## Isole Tremiti (Q51930)
 [https://www.wikidata.org/wiki/Q51930](https://www.wikidata.org/wiki/Q51930)  
 
@@ -13623,6 +13679,13 @@
 
 ### alignments:
  - [Katakekaumene](https://pleiades.stoa.org/places/609427)
+
+
+## Katarakta (Q132508612)
+[https://www.wikidata.org/wiki/Q132508612](https://www.wikidata.org/wiki/Q132508612)  
+
+### alignments:
+ - [Katarakta](https://pleiades.stoa.org/places/446258)
 
 
 ## Katharo Plateau (Q6376254)
@@ -16266,6 +16329,13 @@
  - [Mellissurgin](https://pleiades.stoa.org/places/491661)
 
 
+## Meluhha (Q483421)
+[https://www.wikidata.org/wiki/Q483421](https://www.wikidata.org/wiki/Q483421)  
+
+### alignments:
+ - [Meluhha](https://pleiades.stoa.org/places/99829822)
+
+
 ## Mende (Q3305786)
 [https://www.wikidata.org/wiki/Q3305786](https://www.wikidata.org/wiki/Q3305786)  
 
@@ -17126,6 +17196,13 @@
 
 ### alignments:
  - [Minoa (island)](https://pleiades.stoa.org/places/570486)
+
+
+## Minoan villa in Amnisos (Q57625036)
+[https://www.wikidata.org/wiki/Q57625036](https://www.wikidata.org/wiki/Q57625036)  
+
+### alignments:
+ - [Villa of the Lillies (Amnisos)](https://pleiades.stoa.org/places/202079426)
 
 
 ## Minoan villa of Zakros (Q27105787)
@@ -19359,6 +19436,13 @@
 
 ### alignments:
  - [Hydruntum/Hydrous](https://pleiades.stoa.org/places/442615)
+
+
+## Oud-Alblas (Q2603491)
+[https://www.wikidata.org/wiki/Q2603491](https://www.wikidata.org/wiki/Q2603491)  
+
+### alignments:
+ - [Tablis](https://pleiades.stoa.org/places/795920320)
 
 
 ## Oued Ksob (Q4786183)
@@ -39840,6 +39924,13 @@
  - [Anava (river)](https://pleiades.stoa.org/places/89103)
 
 
+## River Avon (Q19711)
+[https://www.wikidata.org/wiki/Q19711](https://www.wikidata.org/wiki/Q19711)  
+
+### alignments:
+ - [Abona (river)](https://pleiades.stoa.org/places/79279)
+
+
 ## River Boyne (Q896037)
 [https://www.wikidata.org/wiki/Q896037](https://www.wikidata.org/wiki/Q896037)  
 
@@ -40833,6 +40924,13 @@
 
 ### alignments:
  - [Castor](https://pleiades.stoa.org/places/79379)
+
+
+## Roman villa, Acton Scott (Q17642345)
+[https://www.wikidata.org/wiki/Q17642345](https://www.wikidata.org/wiki/Q17642345)  
+
+### alignments:
+ - [Acton Scott](https://pleiades.stoa.org/places/79282)
 
 
 ## Roman villa, via Michelangelo Tilli (Q130629418)
@@ -43973,6 +44071,13 @@
  - [Temnos](https://pleiades.stoa.org/places/550908)
 
 
+## Temo (Q1132100)
+[https://www.wikidata.org/wiki/Q1132100](https://www.wikidata.org/wiki/Q1132100)  
+
+### alignments:
+ - [Temos (river)](https://pleiades.stoa.org/places/472030)
+
+
 ## Tempagnano di Lunata (Q126193680)
 [https://www.wikidata.org/wiki/Q126193680](https://www.wikidata.org/wiki/Q126193680)  
 
@@ -44181,6 +44286,13 @@
 
 ### alignments:
  - [Temple of Concordia, Agrigento](https://pleiades.stoa.org/places/943504072)
+
+
+## Temple of Cybele (Q383609)
+[https://www.wikidata.org/wiki/Q383609](https://www.wikidata.org/wiki/Q383609)  
+
+### alignments:
+ - [Temple of Magna Mater](https://pleiades.stoa.org/places/192818177)
 
 
 ## Temple of Delphinian Apollo (Q97206898)
@@ -46997,6 +47109,13 @@
  - [Rhodopolis](https://pleiades.stoa.org/places/863874)
 
 
+## Varvaria (Q12749569)
+[https://www.wikidata.org/wiki/Q12749569](https://www.wikidata.org/wiki/Q12749569)  
+
+### alignments:
+ - [Varvaria](https://pleiades.stoa.org/places/197574)
+
+
 ## Varvarovka (Q6159738)
 [https://www.wikidata.org/wiki/Q6159738](https://www.wikidata.org/wiki/Q6159738)  
 
@@ -47544,6 +47663,13 @@
  - [El Ruedo](https://pleiades.stoa.org/places/266015)
 
 
+## Villa Romana de Rio Maior (Q10391474)
+[https://www.wikidata.org/wiki/Q10391474](https://www.wikidata.org/wiki/Q10391474)  
+
+### alignments:
+ - [Rio Maior](https://pleiades.stoa.org/places/792786064)
+
+
 ## Villa Romana de Santa Catarina de Sítimos (Q66429452)
 [https://www.wikidata.org/wiki/Q66429452](https://www.wikidata.org/wiki/Q66429452)  
 
@@ -47971,11 +48097,46 @@
  - [Wall0042, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/326931718)
 
 
+## Wall0043 Baptistery, Christian house church (Q116950450)
+[https://www.wikidata.org/wiki/Q116950450](https://www.wikidata.org/wiki/Q116950450)  
+
+### alignments:
+ - [Wall0043, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/326931719)
+
+
 ## Wall0044 Baptistery, Christian house church (Q116950451)
 [https://www.wikidata.org/wiki/Q116950451](https://www.wikidata.org/wiki/Q116950451)  
 
 ### alignments:
  - [Wall0044, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/326931720)
+
+
+## Wall0045 Baptistery, Christian house church (Q116950452)
+[https://www.wikidata.org/wiki/Q116950452](https://www.wikidata.org/wiki/Q116950452)  
+
+### alignments:
+ - [Wall0045, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/281255408)
+
+
+## Wall0046 Baptistery, Christian house church (Q116950453)
+[https://www.wikidata.org/wiki/Q116950453](https://www.wikidata.org/wiki/Q116950453)  
+
+### alignments:
+ - [Wall0046, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/167314215)
+
+
+## Wall0047 Baptistery, Christian house church (Q116950454)
+[https://www.wikidata.org/wiki/Q116950454](https://www.wikidata.org/wiki/Q116950454)  
+
+### alignments:
+ - [Wall0047, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/791763702)
+
+
+## Wall0048 Baptistery, Christian house church (Q116950455)
+[https://www.wikidata.org/wiki/Q116950455](https://www.wikidata.org/wiki/Q116950455)  
+
+### alignments:
+ - [Wall0048, Christian house church (Dura-Europos)](https://pleiades.stoa.org/places/731178561)
 
 
 ## Wall0049 Baptistery, Christian house church (Q116950456)
