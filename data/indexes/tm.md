@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4123 alignments exist in _Pleiades_ place references as of 2025-02-19. The following list of alignments is grouped by zotkey.
+4132 alignments exist in _Pleiades_ place references as of 2025-02-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3782,6 +3782,13 @@
 
 ### alignments:
  - [Methymna](https://pleiades.stoa.org/places/550738)
+
+
+## Geo ID 13672: Tungri
+[https://www.trismegistos.org/place/13672](https://www.trismegistos.org/place/13672)  
+
+### alignments:
+ - [Tungri](https://pleiades.stoa.org/places/109397)
 
 
 ## GEO ID 13673: Bremetennacum (Ribchester)
@@ -8952,6 +8959,13 @@
  - [Caledonia (region)](https://pleiades.stoa.org/places/89132)
 
 
+## Geo ID 19930: Bellovaci
+[https://www.trismegistos.org/place/19930](https://www.trismegistos.org/place/19930)  
+
+### alignments:
+ - [Bellovaci](https://pleiades.stoa.org/places/108803)
+
+
 ## GEO ID 19937: Deceangli
 [https://www.trismegistos.org/place/19937](https://www.trismegistos.org/place/19937)  
 
@@ -9377,6 +9391,13 @@
 
 ### alignments:
  - [Boi(i)](https://pleiades.stoa.org/places/393390)
+
+
+## GEO ID 20737: Treveri
+[http://www.trismegistos.org/place/20737](http://www.trismegistos.org/place/20737)  
+
+### alignments:
+ - [Treveri](https://pleiades.stoa.org/places/109390)
 
 
 ## GEO ID 20746: Apta Iulia (Apt)
@@ -11928,6 +11949,13 @@
  - [Iamo/Iamna](https://pleiades.stoa.org/places/265916)
 
 
+## GEO ID 2767: El-Amarna
+[http://www.trismegistos.org/place/2767](http://www.trismegistos.org/place/2767)  
+
+### alignments:
+ - [Amarna](https://pleiades.stoa.org/places/149576487)
+
+
 ## GEO ID 27681: Isla de Cabrera
 [https://www.trismegistos.org/place/27681](https://www.trismegistos.org/place/27681)  
 
@@ -12816,6 +12844,13 @@
 
 ### alignments:
  - [Diluntum](https://pleiades.stoa.org/places/197247)
+
+
+## GEO ID 29566: Ad Matricem (Otinovci)
+[https://www.trismegistos.org/place/29566](https://www.trismegistos.org/place/29566)  
+
+### alignments:
+ - [Ad Matricem](https://pleiades.stoa.org/places/197071)
 
 
 ## GEO ID 29568: In Alperio (Prolog)
@@ -18840,6 +18875,13 @@
  - [Axuenna?](https://pleiades.stoa.org/places/108780)
 
 
+## GEO ID 40423: Ad Mures (Acs-Bumbumkút)
+[https://www.trismegistos.org/place/40423](https://www.trismegistos.org/place/40423)  
+
+### alignments:
+ - [Ad Mures](https://pleiades.stoa.org/places/197074)
+
+
 ## GEO ID 40426: Travectus (Bergerac)
 [http://www.trismegistos.org/place/40426](http://www.trismegistos.org/place/40426)  
 
@@ -20154,6 +20196,20 @@
 
 ### alignments:
  - [Ionnaria](https://pleiades.stoa.org/places/197324)
+
+
+## GEO ID 41320: Ad Libros (Bukova Gora)
+[https://www.trismegistos.org/place/41320](https://www.trismegistos.org/place/41320)  
+
+### alignments:
+ - [Ad Libros](https://pleiades.stoa.org/places/197068)
+
+
+## GEO ID 41321: In Monte Bulsinio (Privala)
+[https://www.trismegistos.org/place/41321](https://www.trismegistos.org/place/41321)  
+
+### alignments:
+ - [In Monte Bulsinio](https://pleiades.stoa.org/places/197321)
 
 
 ## GEO ID 41323: Pardua (Gornji Gradac)
@@ -23241,6 +23297,13 @@
 
 ### alignments:
  - [Basoretensis Vicus](https://pleiades.stoa.org/places/211416)
+
+
+## GEO ID 43314: Vicus Contiomagus (Pachten)
+[https://www.trismegistos.org/place/43314](https://www.trismegistos.org/place/43314)  
+
+### alignments:
+ - [Vicus Contiomagus](https://pleiades.stoa.org/places/109426)
 
 
 ## GEO ID 43315: Condate (Candes-Saint-Martin)
