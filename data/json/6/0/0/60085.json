@@ -1,13 +1,85 @@
 {
     "@type": "Place",
     "bbox": [
-        70.0,
-        20.0,
-        75.0,
-        25.0
+        71.74249400575586,
+        24.375838451964885,
+        71.74249400575586,
+        24.375838451964885
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "member",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/member",
+            "connectsTo": "https://pleiades.stoa.org/places/60034",
+            "contributors": [],
+            "created": "2025-02-21T23:17:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-02-22T04:57:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-02-21T23:17:55Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-21T23:17:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-21T23:17:34Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "sarabastrae",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/405/1024-1035@1#405",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "6.75.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Sarabastrae",
+            "uri": "https://pleiades.stoa.org/places/60085/sarabastrae"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/60034"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -32,56 +104,51 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-23T04:40:29Z",
+    "created": "2025-02-21T23:05:02Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 6 C5 Thorax",
+    "description": "Described as a \"beautiful city of the Sarabastrae\" by Pliny the Elder, this ancient settlement may be identifiable with modern Tharad in the Indian state of Gujarat.",
     "details": "<p>The Barrington Atlas Directory notes: Tharad?</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            70.0,
-                            20.0
-                        ],
-                        [
-                            75.0,
-                            20.0
-                        ],
-                        [
-                            75.0,
-                            25.0
-                        ],
-                        [
-                            70.0,
-                            25.0
-                        ],
-                        [
-                            70.0,
-                            20.0
-                        ]
-                    ]
+                    71.74249400575586,
+                    24.375838451964885
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/60085/batlas-location",
-                "location_precision": "rough",
+                "description": "Point digitized from raster of BAtlas map 6 that had been created and georegistered by the Ancient World Mapping Center. Dates from corresponding entry in BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/60085/batlas-point-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2025-02-22T05:08:34Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; place type = settlement; adjusted Pliny reference link; Edited @thomase",
+            "modified": "2025-02-22T04:57:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-02-21T23:05:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-02-10T21:27:58Z",
@@ -122,11 +189,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -135,100 +202,84 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-23T04:40:30Z",
+            "contributors": [],
+            "created": "2025-02-21T23:02:39Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Point digitized from raster of BAtlas map 6 that had been created and georegistered by the Ancient World Mapping Center. Dates from corresponding entry in BAtlDir.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            70.0,
-                            20.0
-                        ],
-                        [
-                            75.0,
-                            20.0
-                        ],
-                        [
-                            75.0,
-                            25.0
-                        ],
-                        [
-                            70.0,
-                            25.0
-                        ],
-                        [
-                            70.0,
-                            20.0
-                        ]
-                    ]
+                    71.74249400575586,
+                    24.375838451964885
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:04:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T17:21:09Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-02-22T04:57:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-23T04:55:59Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-21T23:03:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-02-21T23:02:40Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-23T04:40:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-21T23:02:39Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "6 C5 Thorax",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 92 see \"Thorax\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 6 C5 Thorax",
-            "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/60085/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/60085/batlas-point-location"
         }
     ],
     "names": [
@@ -307,10 +358,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 6 C5 Thorax",
     "references": [
@@ -326,7 +377,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://latin.packhum.org/loc/978/1/405/113-121@1#405",
+            "accessURI": "https://latin.packhum.org/loc/978/1/405/1036-1043@1#405",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
             "citationDetail": "6.75.4",
@@ -338,8 +389,8 @@
         }
     ],
     "reprPoint": [
-        72.5,
-        22.5
+        71.74249400575586,
+        24.375838451964885
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

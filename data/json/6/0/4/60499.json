@@ -1,33 +1,57 @@
 {
     "@type": "Place",
     "bbox": [
-        65.0,
-        30.0,
-        70.0,
-        35.0
+        65.32867854001125,
+        33.72686557165156,
+        69.17587029758431,
+        33.93506840966171
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/59982",
-            "contributors": [],
-            "created": "2016-07-13T13:49:23Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-02-21T22:55:51Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
+                {
+                    "comment": "added reference, dates, and connection type @thomase",
+                    "modified": "2025-02-22T05:12:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-02-21T22:55:50Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:49:23Z",
@@ -46,9 +70,21 @@
             ],
             "id": "59982",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015022717584&seq=170",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+                    "citationDetail": "6.18.4-5 (pages 134-135)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol. (Nobbe: Hathi)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Paropamisadai",
             "uri": "https://pleiades.stoa.org/places/60499/59982"
         }
@@ -80,14 +116,14 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-23T04:43:28Z",
+    "created": "2025-02-21T22:50:02Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
             "username": null
         }
     ],
-    "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+    "description": "An ancient settlement, listed by Ptolemy in Paropamisadai. Its precise location cannot be determined today.",
     "details": "<p>The Barrington Atlas Directory notes: city in Paropamisadai</p>",
     "features": [
         {
@@ -104,6 +140,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type += settlement; cleaned up Ptolemy reference; replaced pro forma BAtlas reference with accurate BAtlDir reference @thomase",
+            "modified": "2025-02-22T05:13:03Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2019-06-17T13:30:20Z",
@@ -313,39 +354,41 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 6 Daroakana",
     "references": [
         {
             "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
             "citationDetail": "6 Daroakana",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir page 95 see \"Daroakana\"",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015022717584&seq=171",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-6.18.5",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ptol. 6.18.5",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+            "citationDetail": "6.18.5 (page 135)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Ptol. (Nobbe: Hathi)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        67.5,
-        32.5
+        67.63563098252122,
+        33.86433619126623
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

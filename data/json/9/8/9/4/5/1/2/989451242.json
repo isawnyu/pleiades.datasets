@@ -118,18 +118,23 @@
                 ],
                 "type": "Point"
             },
-            "id": "osm-location-ulaca",
+            "id": "osm-location-of-castro-de-ulaca",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/989451242/osm-location-ulaca",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/989451242/osm-location-of-castro-de-ulaca",
                 "location_precision": "precise",
-                "snippet": "Settlement; 330 BC - 30 BC",
-                "title": "OSM Location of Ulaca"
+                "snippet": "Fortified-settlement; 750 BC - AD 300",
+                "title": "OSM location of Castro de Ulaca"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q2941519",
+            "modified": "2025-02-21T22:34:33Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2020-05-14T07:55:33Z",
@@ -172,35 +177,53 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "traces",
+            "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [],
-            "created": "2020-04-29T18:06:16Z",
+            "created": "2020-04-29T21:06:00Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Francisco Javier Cabrera Valdes",
-                    "uri": "https://pleiades.stoa.org/author/fcabrera",
-                    "username": "fcabrera"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": -30,
+            "end": 300,
             "featureType": [
-                "settlement"
+                "fortified-settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement"
             ],
             "geometry": {
                 "coordinates": [
@@ -212,57 +235,74 @@
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2020-05-14T07:55:34Z",
+                    "modified": "2025-02-23T10:32:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Submit for review",
-                    "modified": "2020-04-29T18:16:07Z",
-                    "modifiedBy": "fcabrera"
+                    "comment": "Edited",
+                    "modified": "2025-02-21T22:36:07Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2020-04-29T18:06:17Z",
-                    "modifiedBy": "fcabrera"
+                    "action": "Submit for review",
+                    "modified": "2025-02-21T22:35:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2025-02-21T22:35:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added OSM location",
+                    "modified": "2020-04-29T21:08:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2020-04-29T21:06:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2020-04-29T18:06:16Z",
-                    "modifiedBy": "fcabrera"
+                    "modified": "2020-04-29T21:06:00Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location-ulaca",
+            "id": "osm-location-of-castro-de-ulaca",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement"
             ],
-            "provenance": "OpenStreetMap (Node: Castro de Ulaca (5268587051), Version #3 · Changeset #59406813)",
+            "provenance": "OpenStreetMap (Node 5268587051, version 3, osm:changeset=59406813, 2018-05-30T18:33:32Z)",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/5268587051",
                     "alternateURI": "",
-                    "bibliographicURI": "http://atlantides.org/bibliography/o.html#OSM-Node-5268587051",
-                    "citationDetail": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 5268587051",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "",
+                    "formattedCitation": "osm:node=5268587051",
                     "otherIdentifier": "",
-                    "shortTitle": "OSM Node 5268587051",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "OSM Location of Ulaca",
-            "uri": "https://pleiades.stoa.org/places/989451242/osm-location-ulaca"
+            "start": -750,
+            "title": "OSM location of Castro de Ulaca",
+            "uri": "https://pleiades.stoa.org/places/989451242/osm-location-of-castro-de-ulaca"
         }
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "fortified-settlement",
         "settlement"
     ],
     "provenance": "Pleiades",
@@ -277,6 +317,17 @@
             "otherIdentifier": "",
             "shortTitle": "Wikipedia (Spanish)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q2941519",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castro de Ulaca (Q2941519)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

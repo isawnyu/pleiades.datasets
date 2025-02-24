@@ -67,13 +67,18 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/786076/wadi-khashir",
                 "location_precision": "precise",
-                "snippet": "Fort, Station; 330 BC - AD 640",
+                "snippet": "Station, Fort-2; 330 BC - AD 640",
                 "title": "OSM location of Wadi Khashir"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-02-23T01:34:35Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added DARMC reference to maintain linkage after retracting less precise location",
             "modified": "2021-02-18T19:18:44Z",
@@ -167,12 +172,12 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort",
-                "station"
+                "station",
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/station",
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -182,6 +187,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-02-23T01:35:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2025-02-23T01:34:49Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2024-05-11T19:03:37Z",
@@ -223,8 +238,8 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/station",
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Node 2706539016, version 1, osm:changeset=20981544, 2014-03-08T04:12:26Z)",
             "references": [
@@ -353,12 +368,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/station"
     ],
     "placeTypes": [
-        "station",
-        "fort"
+        "fort-2",
+        "station"
     ],
     "provenance": "Barrington Atlas: BAtlas 80 inset Novum Hydreuma",
     "references": [
@@ -460,6 +475,39 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q105491175",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Novum Hydreuma (Q105491175)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "173,3 Cenon Hidreuma",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItAnt (Cuntz)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "863",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
