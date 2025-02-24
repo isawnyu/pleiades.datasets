@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3652 alignments exist in _Pleiades_ place references as of 2025-02-21. The following list of alignments is grouped by zotkey.
+3653 alignments exist in _Pleiades_ place references as of 2025-02-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12576,6 +12576,13 @@
 
 ### alignments:
  - [Krokyleion?](https://pleiades.stoa.org/places/540891)
+
+
+## Krommyakon cape (Cyprus)
+[https://topostext.org/place/354329LKro](https://topostext.org/place/354329LKro)  
+
+### alignments:
+ - [Krommy(ak)on Pr.](https://pleiades.stoa.org/places/707551)
 
 
 ## Kromna (Paphlagonia)

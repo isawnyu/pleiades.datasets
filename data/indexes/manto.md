@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-610 alignments exist in _Pleiades_ place references as of 2025-02-21. The following list of alignments is grouped by zotkey.
+612 alignments exist in _Pleiades_ place references as of 2025-02-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1996,6 +1996,13 @@
  - [Babylon](https://pleiades.stoa.org/places/893951)
 
 
+## 11300730: Troy (Egypt)
+[https://resource.manto.unh.edu/11300730](https://resource.manto.unh.edu/11300730)  
+
+### alignments:
+ - [Troia](https://pleiades.stoa.org/places/727252)
+
+
 ## 11300807: Persia
 [https://resource.manto.unh.edu/11300807](https://resource.manto.unh.edu/11300807)  
 
@@ -2219,6 +2226,13 @@
 
 ### alignments:
  - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
+
+
+## 11310451: the Trojan Mountain (Egypt)
+[https://resource.manto.unh.edu/11310451](https://resource.manto.unh.edu/11310451)  
+
+### alignments:
+ - [Troikon Oros](https://pleiades.stoa.org/places/737096)
 
 
 ## 11311527: Astyra (Troad)
