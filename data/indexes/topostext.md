@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3653 alignments exist in _Pleiades_ place references as of 2025-02-24. The following list of alignments is grouped by zotkey.
+3657 alignments exist in _Pleiades_ place references as of 2025-02-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12803,6 +12803,13 @@
  - [Kythnos](https://pleiades.stoa.org/places/570402)
 
 
+## Kythrea Aphrodite sanct. (Cyprus) Degirmenlik
+[https://topostext.org/place/353335SAph](https://topostext.org/place/353335SAph)  
+
+### alignments:
+ - [Aphrodite Paphia, T.](https://pleiades.stoa.org/places/707471)
+
+
 ## Kytinion (Phthiotida)
 [https://topostext.org/place/387225PKyt](https://topostext.org/place/387225PKyt)  
 
@@ -17200,6 +17207,13 @@
  - [Locris Ozolia](https://pleiades.stoa.org/places/540919)
 
 
+## Pachyammos sanctuary (Cyprus)
+[https://topostext.org/place/347324SPac](https://topostext.org/place/347324SPac)  
+
+### alignments:
+ - [Pachyammos sanctuary](https://pleiades.stoa.org/places/656052375)
+
+
 ## Pachynos cape (Sicily)
 [https://topostext.org/place/367151LPac](https://topostext.org/place/367151LPac)  
 
@@ -21023,6 +21037,13 @@
  - [Saepinum](https://pleiades.stoa.org/places/433073)
 
 
+## Saepta Iulia (Rome)
+[https://topostext.org/place/419125BSJu](https://topostext.org/place/419125BSJu)  
+
+### alignments:
+ - [Saepta Iulia](https://pleiades.stoa.org/places/854946506)
+
+
 ## Sagalassos (Pisidia)
 [https://topostext.org/place/377305USag](https://topostext.org/place/377305USag)  
 
@@ -23205,6 +23226,13 @@
 
 ### alignments:
  - [Aedes Ceres Liber Liberaque](https://pleiades.stoa.org/places/581361483)
+
+
+## Temple of Hadrian (Rome)
+[https://topostext.org/place/419125SHad](https://topostext.org/place/419125SHad)  
+
+### alignments:
+ - [Temple of Hadrian](https://pleiades.stoa.org/places/666765291)
 
 
 ## Temple of Kronos and Rhea (Athens) 1 Olympieion Athens

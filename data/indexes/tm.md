@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4143 alignments exist in _Pleiades_ place references as of 2025-02-24. The following list of alignments is grouped by zotkey.
+4146 alignments exist in _Pleiades_ place references as of 2025-02-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6256,6 +6256,13 @@
 
 ### alignments:
  - [Appleby-in-Westmorland](https://pleiades.stoa.org/places/224108528)
+
+
+## Geo ID 15528
+[https://www.trismegistos.org/place/15528](https://www.trismegistos.org/place/15528)  
+
+### alignments:
+ - [Ancaster](https://pleiades.stoa.org/places/79292)
 
 
 ## GEO ID 15532: Galava (Ambleside)
@@ -27148,6 +27155,13 @@
  - [Metaurum](https://pleiades.stoa.org/places/452379)
 
 
+## Geo ID 61119
+[https://www.trismegistos.org/place/61119](https://www.trismegistos.org/place/61119)  
+
+### alignments:
+ - [Aous (river)](https://pleiades.stoa.org/places/481726)
+
+
 ## GEO ID 61126: Encheleioi
 [https://www.trismegistos.org/place/61126](https://www.trismegistos.org/place/61126)  
 
@@ -28408,6 +28422,13 @@
 
 ### alignments:
  - [Gallia](https://pleiades.stoa.org/places/993)
+
+
+## Geo ID Antipatreia
+[https://www.trismegistos.org/place/58797](https://www.trismegistos.org/place/58797)  
+
+### alignments:
+ - [Antipatreia](https://pleiades.stoa.org/places/481724)
 
 
 ## GEO ID, 11275: Edessa (Şanlıurfa)
