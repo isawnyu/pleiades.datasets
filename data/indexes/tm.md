@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4146 alignments exist in _Pleiades_ place references as of 2025-02-26. The following list of alignments is grouped by zotkey.
+4148 alignments exist in _Pleiades_ place references as of 2025-02-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5753,6 +5753,13 @@
  - [Portus Lemanis](https://pleiades.stoa.org/places/79647)
 
 
+## Geo ID 14976: Loudoun Hill
+[https://www.trismegistos.org/place/14976](https://www.trismegistos.org/place/14976)  
+
+### alignments:
+ - [Loudoun Hill](https://pleiades.stoa.org/places/264399135)
+
+
 ## GEO ID 1498: Olynthos
 [http://www.trismegistos.org/place/1498](http://www.trismegistos.org/place/1498)  
 
@@ -8615,6 +8622,13 @@
 
 ### alignments:
  - [Uxela](https://pleiades.stoa.org/places/92194)
+
+
+## Geo ID 19681: Lindum (Drumquhassle)
+[https://www.trismegistos.org/place/19681](https://www.trismegistos.org/place/19681)  
+
+### alignments:
+ - [Lindon?](https://pleiades.stoa.org/places/89226)
 
 
 ## GEO ID 19698: Bannatia (Dalginross)

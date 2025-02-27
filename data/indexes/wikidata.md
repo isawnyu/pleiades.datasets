@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7121 alignments exist in _Pleiades_ place references as of 2025-02-26. The following list of alignments is grouped by zotkey.
+7127 alignments exist in _Pleiades_ place references as of 2025-02-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6129,6 +6129,13 @@
  - [Karene?](https://pleiades.stoa.org/places/550621)
 
 
+## Cargill, Roman fort (Q56663355)
+[https://www.wikidata.org/wiki/Q56663355](https://www.wikidata.org/wiki/Q56663355)  
+
+### alignments:
+ - [Cargill](https://pleiades.stoa.org/places/89135)
+
+
 ## Carmine Roman tomb (Q3852984)
 [https://www.wikidata.org/wiki/Q3852984](https://www.wikidata.org/wiki/Q3852984)  
 
@@ -9611,6 +9618,13 @@
  - [Congavata](https://pleiades.stoa.org/places/89151)
 
 
+## Drumquhassle (Q55610033)
+[https://www.wikidata.org/wiki/Q55610033](https://www.wikidata.org/wiki/Q55610033)  
+
+### alignments:
+ - [Lindon?](https://pleiades.stoa.org/places/89226)
+
+
 ## Dubris (Q2105460)
 [https://www.wikidata.org/wiki/Q2105460](https://www.wikidata.org/wiki/Q2105460)  
 
@@ -9651,6 +9665,13 @@
 
 ### alignments:
  - [Dun Carloway](https://pleiades.stoa.org/places/814454572)
+
+
+## Duntocher Roman fort (Q81318308)
+[https://www.wikidata.org/wiki/Q81318308](https://www.wikidata.org/wiki/Q81318308)  
+
+### alignments:
+ - [Duntocher](https://pleiades.stoa.org/places/89171)
 
 
 ## Dur-Kurigalzu (Q622719)
@@ -15951,6 +15972,13 @@
  - [Loudias (river)](https://pleiades.stoa.org/places/491653)
 
 
+## Loudoun Hill (Q132775308)
+[https://www.wikidata.org/wiki/Q132775308](https://www.wikidata.org/wiki/Q132775308)  
+
+### alignments:
+ - [Loudoun Hill](https://pleiades.stoa.org/places/264399135)
+
+
 ## Loughton Camp (Q6686240)
 [https://www.wikidata.org/wiki/Q6686240](https://www.wikidata.org/wiki/Q6686240)  
 
@@ -16733,6 +16761,13 @@
 
 ### alignments:
  - [Centcelles Roman villa](https://pleiades.stoa.org/places/250017)
+
+
+## Mausoleum of Gasr Doga (Q20396636)
+[https://www.wikidata.org/wiki/Q20396636](https://www.wikidata.org/wiki/Q20396636)  
+
+### alignments:
+ - [Gasr Doga](https://pleiades.stoa.org/places/344364)
 
 
 ## Mausoleum of Lucilius Paetus (Q27808180)
@@ -20185,6 +20220,13 @@
 
 ### alignments:
  - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
+
+
+## Oxyrhynchus (Q622640)
+[https://www.wikidata.org/wiki/Q622640](https://www.wikidata.org/wiki/Q622640)  
+
+### alignments:
+ - [Oxyrhynchus/Pemje](https://pleiades.stoa.org/places/736983)
 
 
 ## Pachyammos sanctuary (Q112771862)
@@ -39132,13 +39174,6 @@
  - [Basílica de Son Peretó](https://pleiades.stoa.org/places/123971451)
 
 
-## Q81318308: Duntocher Roman fort
-[https://www.wikidata.org/wiki/Q81318308](https://www.wikidata.org/wiki/Q81318308)  
-
-### alignments:
- - [Duntocher](https://pleiades.stoa.org/places/89171)
-
-
 ## Q81321416: Summerston fortlet
 [https://www.wikidata.org/wiki/Q81321416](https://www.wikidata.org/wiki/Q81321416)  
 
@@ -44796,6 +44831,13 @@
 
 ### alignments:
  - [Unnamed earthwork in the Tebaga Gap](https://pleiades.stoa.org/places/346547)
+
+
+## Tebtunis (Q1500580)
+[https://www.wikidata.org/wiki/Q1500580](https://www.wikidata.org/wiki/Q1500580)  
+
+### alignments:
+ - [Tebtynis/Theodosioupolis?](https://pleiades.stoa.org/places/737072)
 
 
 ## Tegea (Q645234)
