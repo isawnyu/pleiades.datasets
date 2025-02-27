@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        13.699995,
-        32.483315,
-        13.699995,
-        32.483315
+        13.6985189,
+        32.4876394,
+        13.6992374,
+        32.4883887
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,23 +49,63 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.699995,
-                    32.483315
+                    [
+                        13.6991702,
+                        32.4883887
+                    ],
+                    [
+                        13.699202,
+                        32.4882395
+                    ],
+                    [
+                        13.6992374,
+                        32.487923
+                    ],
+                    [
+                        13.6989932,
+                        32.4876812
+                    ],
+                    [
+                        13.6987773,
+                        32.4876394
+                    ],
+                    [
+                        13.6985189,
+                        32.4880185
+                    ],
+                    [
+                        13.6987171,
+                        32.4882783
+                    ],
+                    [
+                        13.6991702,
+                        32.4883887
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-15969",
+            "id": "osm-location-of-qasr-doga",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/344364/darmc-location-15969",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/344364/osm-location-of-qasr-doga",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 15969"
+                "snippet": "Archaeological-site, Tomb; 30 BC - AD 640",
+                "title": "OSM location of Qasr Doga"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-02-26T16:26:42Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "wikidata Mausoleum of Gasr Doga (Q20396636)",
+            "modified": "2025-02-26T15:03:48Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update reference",
             "modified": "2023-07-19T01:36:47Z",
@@ -131,8 +171,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -144,101 +184,133 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 },
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "late-antique",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:48:18Z",
+            "contributors": [],
+            "created": "2025-02-26T15:04:26Z",
             "creators": [
                 {
-                    "name": "D.J. Mattingly",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 15969",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "archaeological-site",
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
-                    13.699995,
-                    32.483315
+                    [
+                        13.6991702,
+                        32.4883887
+                    ],
+                    [
+                        13.699202,
+                        32.4882395
+                    ],
+                    [
+                        13.6992374,
+                        32.487923
+                    ],
+                    [
+                        13.6989932,
+                        32.4876812
+                    ],
+                    [
+                        13.6987773,
+                        32.4876394
+                    ],
+                    [
+                        13.6985189,
+                        32.4880185
+                    ],
+                    [
+                        13.6987171,
+                        32.4882783
+                    ],
+                    [
+                        13.6991702,
+                        32.4883887
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:24:14Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:11:03Z",
+                    "modified": "2025-02-26T16:26:14Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T22:48:19Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-26T15:05:05Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:48:19Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2025-02-26T15:04:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-02-26T15:04:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:48:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-02-26T15:04:26Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-15969",
+            "id": "osm-location-of-qasr-doga",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
-            "provenance": "DARMC OBJECTID: 15969",
+            "provenance": "OpenStreetMap (Way 399487483, version 1, osm:changeset=37392857, 2016-02-23T16:29:02Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/399487483",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15969",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 399487483",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15969.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=399487483",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 15969",
-            "uri": "https://pleiades.stoa.org/places/344364/darmc-location-15969"
+            "title": "OSM location of Qasr Doga",
+            "uri": "https://pleiades.stoa.org/places/344364/osm-location-of-qasr-doga"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "tomb"
+        "tomb",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 35 F2 Gasr Doga",
     "references": [
@@ -274,11 +346,33 @@
             "otherIdentifier": "",
             "shortTitle": "Bigi 2009",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q20396636",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Mausoleum of Gasr Doga (Q20396636)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15969",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        13.699995,
-        32.483315
+        13.69891261525912,
+        32.48802476521477
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
