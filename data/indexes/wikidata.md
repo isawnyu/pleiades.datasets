@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7127 alignments exist in _Pleiades_ place references as of 2025-02-27. The following list of alignments is grouped by zotkey.
+7138 alignments exist in _Pleiades_ place references as of 2025-02-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5331,6 +5331,13 @@
  - [Broch of Mousa](https://pleiades.stoa.org/places/6525101)
 
 
+## Broomholm, Roman fort (Q56667012)
+[https://www.wikidata.org/wiki/Q56667012](https://www.wikidata.org/wiki/Q56667012)  
+
+### alignments:
+ - [Broomholm](https://pleiades.stoa.org/places/752369279)
+
+
 ## Brownshill Dolmen (Q33313)
 [https://www.wikidata.org/wiki/Q33313](https://www.wikidata.org/wiki/Q33313)  
 
@@ -6211,6 +6218,13 @@
 
 ### alignments:
  - [Carus Vicus](https://pleiades.stoa.org/places/844886)
+
+
+## Carzield, Roman fort (Q56666836)
+[https://www.wikidata.org/wiki/Q56666836](https://www.wikidata.org/wiki/Q56666836)  
+
+### alignments:
+ - [Carzield](https://pleiades.stoa.org/places/109408874)
 
 
 ## Casa dei Crescenzi (Q56333829)
@@ -8034,6 +8048,13 @@
  - [Clearbury Ring](https://pleiades.stoa.org/places/156313336)
 
 
+## Cleddans fortlet (Q48797711)
+[https://www.wikidata.org/wiki/Q48797711](https://www.wikidata.org/wiki/Q48797711)  
+
+### alignments:
+ - [Cleddans](https://pleiades.stoa.org/places/325648990)
+
+
 ## Cleonae (Q1774167)
 [https://www.wikidata.org/wiki/Q1774167](https://www.wikidata.org/wiki/Q1774167)  
 
@@ -8501,6 +8522,13 @@
 
 ### alignments:
  - [‘Bomio’](https://pleiades.stoa.org/places/79335)
+
+
+## Cramond Roman fort
+[https://www.wikidata.org/wiki/Q5181854](https://www.wikidata.org/wiki/Q5181854)  
+
+### alignments:
+ - [Cramond](https://pleiades.stoa.org/places/89153)
 
 
 ## Cranae (Q5181876)
@@ -11552,6 +11580,13 @@
  - [Gleichen](https://pleiades.stoa.org/places/118703)
 
 
+## Glenbank (Q100269410)
+[https://www.wikidata.org/wiki/Q100269410](https://www.wikidata.org/wiki/Q100269410)  
+
+### alignments:
+ - [Glenbank](https://pleiades.stoa.org/places/343256472)
+
+
 ## Glenlochar,Roman fort, annexe, road, camps & barrows 50m E of Montford (Q56667646)
 [https://www.wikidata.org/wiki/Q56667646](https://www.wikidata.org/wiki/Q56667646)  
 
@@ -12763,6 +12798,13 @@
  - [House L7-H](https://pleiades.stoa.org/places/769637721)
 
 
+## House M7-W (Q121302023)
+[https://www.wikidata.org/wiki/Q121302023](https://www.wikidata.org/wiki/Q121302023)  
+
+### alignments:
+ - [House M7-W](https://pleiades.stoa.org/places/928161013)
+
+
 ## House M8-A, Dura-Europos (Q117983897)
 [https://www.wikidata.org/wiki/Q117983897](https://www.wikidata.org/wiki/Q117983897)  
 
@@ -13433,6 +13475,13 @@
 
 ### alignments:
  - [Inveresk](https://pleiades.stoa.org/places/89207)
+
+
+## Inverquharity (Q6060305)
+[https://www.wikidata.org/wiki/Q6060305](https://www.wikidata.org/wiki/Q6060305)  
+
+### alignments:
+ - [Inverquharity](https://pleiades.stoa.org/places/25339216)
 
 
 ## Iomnium (Q113827285)
@@ -15052,6 +15101,13 @@
 
 ### alignments:
  - [Stiphane Limne](https://pleiades.stoa.org/places/857335)
+
+
+## Ladyward, Roman fort (Q56668247)
+[https://www.wikidata.org/wiki/Q56668247](https://www.wikidata.org/wiki/Q56668247)  
+
+### alignments:
+ - [Ladyward Roman Fort](https://pleiades.stoa.org/places/89227)
 
 
 ## Laerma (Q123262245)
@@ -17989,6 +18045,13 @@
  - [Mola di Monte Gelato](https://pleiades.stoa.org/places/413205)
 
 
+## Mollins Roman fort (Q56668370)
+[https://www.wikidata.org/wiki/Q56668370](https://www.wikidata.org/wiki/Q56668370)  
+
+### alignments:
+ - [Mollins](https://pleiades.stoa.org/places/484422068)
+
+
 ## Molycreia (Q16608474)
 [https://www.wikidata.org/wiki/Q16608474](https://www.wikidata.org/wiki/Q16608474)  
 
@@ -19058,6 +19121,13 @@
 
 ### alignments:
  - [Untitled](https://pleiades.stoa.org/places/860844)
+
+
+## Nidum (Q10962522)
+[https://www.wikidata.org/wiki/Q10962522](https://www.wikidata.org/wiki/Q10962522)  
+
+### alignments:
+ - [‘Nido’](https://pleiades.stoa.org/places/79616)
 
 
 ## Niederanven (Q985402)
@@ -20206,6 +20276,13 @@
 
 ### alignments:
  - [Ivor / Xion (river)](https://pleiades.stoa.org/places/83424586)
+
+
+## Outwards, Roman fortlet (Q56664636)
+[https://www.wikidata.org/wiki/Q56664636](https://www.wikidata.org/wiki/Q56664636)  
+
+### alignments:
+ - [Outerwards](https://pleiades.stoa.org/places/299804165)
 
 
 ## Ouvèze (Q1535195)
@@ -35511,13 +35588,6 @@
  - [Krokeai](https://pleiades.stoa.org/places/570385)
 
 
-## Q48797711: Cleddans fortlet
-[https://www.wikidata.org/wiki/Q48797711](https://www.wikidata.org/wiki/Q48797711)  
-
-### alignments:
- - [Cleddans](https://pleiades.stoa.org/places/325648990)
-
-
 ## Q48807618: Subinates
 [https://www.wikidata.org/wiki/Q48807618](https://www.wikidata.org/wiki/Q48807618)  
 
@@ -36490,6 +36560,13 @@
 
 ### alignments:
  - [Area archeologica di Colle della Noce](https://pleiades.stoa.org/places/220380718)
+
+
+## Q56662510
+[https://www.wikidata.org/wiki/Q56662510](https://www.wikidata.org/wiki/Q56662510)  
+
+### alignments:
+ - [Elginhaugh Roman fort](https://pleiades.stoa.org/places/217976835)
 
 
 ## Q56663560
@@ -38159,6 +38236,7 @@
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Side](https://pleiades.stoa.org/places/570669)
  - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
+ - [Tassiesholm](https://pleiades.stoa.org/places/292892276)
  - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
  - [Tomb of Seti I](https://pleiades.stoa.org/places/422247194)
  - [Via Francigena](https://pleiades.stoa.org/places/136661131)

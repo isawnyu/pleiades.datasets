@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4148 alignments exist in _Pleiades_ place references as of 2025-02-27. The following list of alignments is grouped by zotkey.
+4151 alignments exist in _Pleiades_ place references as of 2025-02-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5697,6 +5697,13 @@
  - [Neatham](https://pleiades.stoa.org/places/79606)
 
 
+## GEO ID 14916: Nidum (Neath)
+[http://www.trismegistos.org/place/14916](http://www.trismegistos.org/place/14916)  
+
+### alignments:
+ - [‘Nido’](https://pleiades.stoa.org/places/79616)
+
+
 ## GEO ID 14921: Nanstallon
 [http://www.trismegistos.org/place/14921](http://www.trismegistos.org/place/14921)  
 
@@ -6060,6 +6067,13 @@
 
 ### alignments:
  - [Milecastle 42 (Cawfields)](https://pleiades.stoa.org/places/967060363)
+
+
+## GEO ID 15340: Castlehill
+[https://www.trismegistos.org/place/15340](https://www.trismegistos.org/place/15340)  
+
+### alignments:
+ - [Castlehill](https://pleiades.stoa.org/places/89141)
 
 
 ## GEO ID 15341: Lagentium (Castleford)
@@ -8804,6 +8818,13 @@
 
 ### alignments:
  - [Ugueste](https://pleiades.stoa.org/places/92193)
+
+
+## Geo ID 19824
+[https://www.trismegistos.org/place/19824](https://www.trismegistos.org/place/19824)  
+
+### alignments:
+ - [Ladyward Roman Fort](https://pleiades.stoa.org/places/89227)
 
 
 ## GEO ID 19825: Mixa
