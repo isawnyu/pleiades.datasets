@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3657 alignments exist in _Pleiades_ place references as of 2025-02-28. The following list of alignments is grouped by zotkey.
+3658 alignments exist in _Pleiades_ place references as of 2025-03-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -24379,6 +24379,13 @@
 
 ### alignments:
  - [Tralles/Dia/Seleuceia ad Maeandrum/Kaisareia](https://pleiades.stoa.org/places/599987)
+
+
+## Trapeza/Koumari temple (Achaia) Trapeza Koumari - Τράπεζα
+[https://topostext.org/place/382220STra](https://topostext.org/place/382220STra)  
+
+### alignments:
+ - [Trapeza/Koumari temple (Achaia)](https://pleiades.stoa.org/places/741077609)
 
 
 ## Trapezous (Arkadia)

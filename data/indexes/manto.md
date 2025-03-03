@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-612 alignments exist in _Pleiades_ place references as of 2025-02-28. The following list of alignments is grouped by zotkey.
+613 alignments exist in _Pleiades_ place references as of 2025-03-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2155,6 +2155,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## 11309563: Thermon (Aitolia)
+[https://resource.manto.unh.edu/11309563](https://resource.manto.unh.edu/11309563)  
+
+### alignments:
+ - [Thermon](https://pleiades.stoa.org/places/541139)
 
 
 ## 11309768: the Apennine Mountains

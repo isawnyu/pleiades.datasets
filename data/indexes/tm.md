@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4151 alignments exist in _Pleiades_ place references as of 2025-02-28. The following list of alignments is grouped by zotkey.
+4156 alignments exist in _Pleiades_ place references as of 2025-03-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6552,6 +6552,13 @@
  - [Pharsalus](https://pleiades.stoa.org/places/541042)
 
 
+## GEO ID 15770: Thugga (Dougga)
+[http://www.trismegistos.org/place/15770](http://www.trismegistos.org/place/15770)  
+
+### alignments:
+ - [Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+
+
 ## GEO ID 15781: Dodona
 [http://www.trismegistos.org/place/15781](http://www.trismegistos.org/place/15781)  
 
@@ -7313,6 +7320,13 @@
 
 ### alignments:
  - [Gerasa/Antiochia ad Chrysorhoam](https://pleiades.stoa.org/places/678158)
+
+
+## GEO ID 16838: Khirbet el-Kithara
+[http://www.trismegistos.org/place/16838](http://www.trismegistos.org/place/16838)  
+
+### alignments:
+ - [Khirbet el-Kithara](https://pleiades.stoa.org/places/746761)
 
 
 ## GEO ID 16842: Hegra (Mada'in Saleh)
@@ -17783,6 +17797,13 @@
  - [Bararus](https://pleiades.stoa.org/places/324673)
 
 
+## GEO ID 37591: Zenobia (Halabiyya)
+[http://www.trismegistos.org/place/37591](http://www.trismegistos.org/place/37591)  
+
+### alignments:
+ - [Zenobia](https://pleiades.stoa.org/places/894185)
+
+
 ## GEO ID 37594: Aigeira (Vitrinitsa)
 [https://www.trismegistos.org/place/37594](https://www.trismegistos.org/place/37594)  
 
@@ -21674,6 +21695,13 @@
 
 ### alignments:
  - [Praesidium](https://pleiades.stoa.org/places/484007)
+
+
+## GEO ID 41956: Ad Statuas
+[https://www.trismegistos.org/place/41956](https://www.trismegistos.org/place/41956)  
+
+### alignments:
+ - [‘Ad Statuas’](https://pleiades.stoa.org/places/511137)
 
 
 ## GEO ID 41974: Corinthiacus Sinus
@@ -26046,6 +26074,13 @@
 
 ### alignments:
  - [Fatira el-Beida el-Qibli](https://pleiades.stoa.org/places/766362)
+
+
+## GEO ID 52960: Semna [South]
+[https://www.trismegistos.org/place/52960](https://www.trismegistos.org/place/52960)  
+
+### alignments:
+ - [Semna](https://pleiades.stoa.org/places/766402)
 
 
 ## GEO ID 52972: Abu Greiya
