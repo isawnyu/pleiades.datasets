@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2025/02/23 06:47:32.269855 US/Eastern
+# Date: 2025/03/02 06:47:32.049935 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1062
+# Triple count: 1068
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -117,6 +117,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "bridge"@en;
     skos:scopeNote "A bridge as defined by the Getty Art and Architecture Thesaurus: Structures spanning and providing passage over waterways, topographic depressions, transportation routes, or similar circulation barriers."@en .
+
+<https://pleiades.stoa.org/vocabularies/brothel> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/brothel>,
+        <https://vocab.getty.edu/aat/300007218>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "brothel"@en;
+    skos:scopeNote "A brothel as defined by the Getty Art and Architecture Thesaurus: Buildings designed or maintained as houses of prostitution."@en .
 
 <https://pleiades.stoa.org/vocabularies/building> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/building>,
