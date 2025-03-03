@@ -137,13 +137,18 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/776213/osm-location-of-qasr-el-baramuni",
                 "location_precision": "precise",
-                "snippet": "Fort, Settlement; 30 BC - AD 300",
+                "snippet": "Settlement, Fort-2; 30 BC - AD 300",
                 "title": "OSM location of Qasr el-Baramuni"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q14218427",
+            "modified": "2025-03-02T16:25:29Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARMC reference in place of retracted location",
             "modified": "2019-02-28T22:42:27Z",
@@ -226,12 +231,12 @@
             "details": "",
             "end": 300,
             "featureType": [
-                "fort",
-                "settlement"
+                "settlement",
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -320,6 +325,16 @@
             },
             "history": [
                 {
+                    "comment": "Feature type",
+                    "modified": "2025-03-02T16:24:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-03-02T16:24:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2019-02-28T22:41:14Z",
                     "modifiedBy": "thomase"
@@ -350,8 +365,8 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 265694820, version 1, osm:changeset=21053136, 2014-03-11T21:06:12Z)",
             "references": [
@@ -455,12 +470,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "fort"
+        "fort-2",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 79 D3 [*Parammon]?",
     "references": [
@@ -517,6 +532,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q14218427",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Qasr el-Baramuni (Q14218427)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],

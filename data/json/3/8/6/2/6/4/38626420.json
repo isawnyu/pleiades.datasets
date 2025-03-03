@@ -180,16 +180,21 @@
             },
             "id": "lupanare",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/38626420/lupanare",
                 "location_precision": "precise",
-                "snippet": "Taberna-shop, ; 30 BC - AD 300",
+                "snippet": "Brothel; AD 1 - AD 99",
                 "title": "OSM location of so-called \"Lupanare Grande\""
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update place type",
+            "modified": "2025-03-02T03:07:17Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-12-09T20:25:48Z",
@@ -259,8 +264,8 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-ce"
                 }
             ],
             "contributors": [
@@ -280,16 +285,14 @@
                     "username": "avarveri"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 99,
             "featureType": [
-                "taberna-shop",
-                ""
+                "brothel"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/brothel"
             ],
             "geometry": {
                 "coordinates": [
@@ -329,6 +332,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-03-02T03:07:46Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-12-09T20:20:24Z",
@@ -375,8 +383,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/brothel"
             ],
             "provenance": "OpenStreetMap (Way 240573967, version 23, osm:changeset=140198197, 2023-08-21T19:40:32Z)",
             "references": [
@@ -393,7 +400,7 @@
                 }
             ],
             "review_state": "published",
-            "start": -30,
+            "start": 1,
             "title": "OSM location of so-called \"Lupanare Grande\"",
             "uri": "https://pleiades.stoa.org/places/38626420/lupanare"
         }
@@ -565,10 +572,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/taberna-shop"
+        "https://pleiades.stoa.org/vocabularies/place-types/brothel"
     ],
     "placeTypes": [
-        "taberna-shop"
+        "brothel"
     ],
     "provenance": "Pleiades",
     "references": [
