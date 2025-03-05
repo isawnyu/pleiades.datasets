@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3658 alignments exist in _Pleiades_ place references as of 2025-03-03. The following list of alignments is grouped by zotkey.
+3660 alignments exist in _Pleiades_ place references as of 2025-03-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20364,6 +20364,13 @@
  - [Prospalta](https://pleiades.stoa.org/places/580092)
 
 
+## Prosymna tholos (Argolid) Monastiraki
+[https://topostext.org/place/377228GPrT](https://topostext.org/place/377228GPrT)  
+
+### alignments:
+ - [Prosymna tholos](https://pleiades.stoa.org/places/751681995)
+
+
 ## Prusa (Bithynia)
 [https://topostext.org/place/402291UPru](https://topostext.org/place/402291UPru)  
 
@@ -25199,6 +25206,13 @@
 
 ### alignments:
  - [Vindonissa](https://pleiades.stoa.org/places/177661)
+
+
+## Viriodunum (Gallia) 2 Verdun
+[https://topostext.org/place/492054UVir](https://topostext.org/place/492054UVir)  
+
+### alignments:
+ - [Viriodunum](https://pleiades.stoa.org/places/109435)
 
 
 ## Viroconium (Britannia)

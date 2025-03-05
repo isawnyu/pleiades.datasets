@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4156 alignments exist in _Pleiades_ place references as of 2025-03-03. The following list of alignments is grouped by zotkey.
+4160 alignments exist in _Pleiades_ place references as of 2025-03-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9751,6 +9751,13 @@
  - [Araura/Cessero](https://pleiades.stoa.org/places/147997)
 
 
+## GEO ID 21892: Athenopolis (Saint-Tropez)
+[http://www.trismegistos.org/place/21892](http://www.trismegistos.org/place/21892)  
+
+### alignments:
+ - [Athenopolis](https://pleiades.stoa.org/places/157816)
+
+
 ## GEO ID 21939: Condate (Seyssel)
 [https://www.trismegistos.org/place/21939](https://www.trismegistos.org/place/21939)  
 
@@ -10578,6 +10585,13 @@
  - [Breviodurum](https://pleiades.stoa.org/places/114771)
 
 
+## GEO ID 23762: Caen
+[https://www.trismegistos.org/place/23762](https://www.trismegistos.org/place/23762)  
+
+### alignments:
+ - [Caen](https://pleiades.stoa.org/places/69483)
+
+
 ## GEO ID 23767: Vorgium (Carhaix-Plouguer)
 [http://www.trismegistos.org/place/23767](http://www.trismegistos.org/place/23767)  
 
@@ -11024,6 +11038,13 @@
 
 ### alignments:
  - [Beda](https://pleiades.stoa.org/places/108798)
+
+
+## GEO ID 24881: Verodunum (Verdun)
+[http://www.trismegistos.org/place/24881](http://www.trismegistos.org/place/24881)  
+
+### alignments:
+ - [Viriodunum](https://pleiades.stoa.org/places/109435)
 
 
 ## GEO ID 24904: Belginum (Wederath)
@@ -19868,6 +19889,13 @@
 
 ### alignments:
  - [Sitillia](https://pleiades.stoa.org/places/181219)
+
+
+## GEO ID 41037: Gesocribate (Brest)
+[https://www.trismegistos.org/place/41037](https://www.trismegistos.org/place/41037)  
+
+### alignments:
+ - [Gesocribate/Osismis](https://pleiades.stoa.org/places/69511)
 
 
 ## GEO ID 41041: Vorogio (Vouroux)
