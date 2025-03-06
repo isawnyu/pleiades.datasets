@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4160 alignments exist in _Pleiades_ place references as of 2025-03-05. The following list of alignments is grouped by zotkey.
+4164 alignments exist in _Pleiades_ place references as of 2025-03-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2409,6 +2409,13 @@
 
 ### alignments:
  - [Praetorium Agrippinae](https://pleiades.stoa.org/places/99021)
+
+
+## GEO ID 10926: Vindonissa (Windisch)
+[https://www.trismegistos.org/place/10926](https://www.trismegistos.org/place/10926)  
+
+### alignments:
+ - [Vindonissa](https://pleiades.stoa.org/places/177661)
 
 
 ## GEO ID 10927: Aquae Calidae (Bath)
@@ -10206,6 +10213,13 @@
  - [Cambodunum (Raetia)](https://pleiades.stoa.org/places/187335)
 
 
+## GEO ID 22501: Viviscus (Vevey)
+[https://www.trismegistos.org/place/22501](https://www.trismegistos.org/place/22501)  
+
+### alignments:
+ - [Vivisco](https://pleiades.stoa.org/places/177663)
+
+
 ## GEO ID 22600: Hispania Tarraconensis
 [https://www.trismegistos.org/place/22600](https://www.trismegistos.org/place/22600)  
 
@@ -12291,6 +12305,13 @@
 
 ### alignments:
  - [Lenzburg](https://pleiades.stoa.org/places/177557)
+
+
+## GEO ID 28083: Minnodunum (Moudon)
+[https://www.trismegistos.org/place/28083](https://www.trismegistos.org/place/28083)  
+
+### alignments:
+ - [Minnodunum](https://pleiades.stoa.org/places/177580)
 
 
 ## GEO ID 28087: Vitudurum (Oberwinterthur)
@@ -19266,6 +19287,13 @@
 
 ### alignments:
  - [Mnizos](https://pleiades.stoa.org/places/845020)
+
+
+## GEO ID 40590: Uromagus (Oron-la-Ville)
+[https://www.trismegistos.org/place/40590](https://www.trismegistos.org/place/40590)  
+
+### alignments:
+ - [Viromagus/Uromago](https://pleiades.stoa.org/places/181227)
 
 
 ## GEO ID 40595: Viroviacum (Wervik)

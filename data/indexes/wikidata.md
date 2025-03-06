@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7230 alignments exist in _Pleiades_ place references as of 2025-03-05. The following list of alignments is grouped by zotkey.
+7243 alignments exist in _Pleiades_ place references as of 2025-03-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2529,6 +2529,13 @@
  - [Casalbore](https://pleiades.stoa.org/places/442531)
 
 
+## Archaeological park of Posillipo (Q3575454)
+[https://www.wikidata.org/wiki/Q3575454](https://www.wikidata.org/wiki/Q3575454)  
+
+### alignments:
+ - [Theater at Pausilipum](https://pleiades.stoa.org/places/184642281)
+
+
 ## Archaeological Park of the Phlegrean Fields - so-called necropolis of San Vito (Q55673800)
 [https://www.wikidata.org/wiki/Q55673800](https://www.wikidata.org/wiki/Q55673800)  
 
@@ -3571,6 +3578,13 @@
 
 ### alignments:
  - [Avenches Roman amphitheater](https://pleiades.stoa.org/places/199339871)
+
+
+## Aventicum (Q670912)
+[https://www.wikidata.org/wiki/Q670912](https://www.wikidata.org/wiki/Q670912)  
+
+### alignments:
+ - [Aventicum](https://pleiades.stoa.org/places/177495)
 
 
 ## Aventine Hill (Q194103)
@@ -7520,6 +7534,13 @@
 
 ### alignments:
  - [Torre di Centocelle](https://pleiades.stoa.org/places/108334324)
+
+
+## Centum Prata (Q8987384)
+[https://www.wikidata.org/wiki/Q8987384](https://www.wikidata.org/wiki/Q8987384)  
+
+### alignments:
+ - [Kempraten](https://pleiades.stoa.org/places/187438)
 
 
 ## Cephissus (Q1235405)
@@ -18626,6 +18647,13 @@
  - [Motroninskoe Gorodishche](https://pleiades.stoa.org/places/78124778)
 
 
+## Moudon (Q70202)
+[https://www.wikidata.org/wiki/Q70202](https://www.wikidata.org/wiki/Q70202)  
+
+### alignments:
+ - [Minnodunum](https://pleiades.stoa.org/places/177580)
+
+
 ## Mougon (Samian Ware Discovery Site) (Q103185598)
 [https://www.wikidata.org/wiki/Q103185598](https://www.wikidata.org/wiki/Q103185598)  
 
@@ -20523,6 +20551,13 @@
  - [Orolaunum](https://pleiades.stoa.org/places/109232)
 
 
+## Oron-la-Ville (Q689091)
+[https://www.wikidata.org/wiki/Q689091](https://www.wikidata.org/wiki/Q689091)  
+
+### alignments:
+ - [Viromagus/Uromago](https://pleiades.stoa.org/places/181227)
+
+
 ## Oropus (Q18073696)
 [https://www.wikidata.org/wiki/Q18073696](https://www.wikidata.org/wiki/Q18073696)  
 
@@ -22404,6 +22439,13 @@
 
 ### alignments:
  - [Porta Nomentana](https://pleiades.stoa.org/places/187832462)
+
+
+## Porta Principalis Dextra, Tulln (Q37890669)
+[https://www.wikidata.org/wiki/Q37890669](https://www.wikidata.org/wiki/Q37890669)  
+
+### alignments:
+ - [Porta Principalis Dextra, Tulln](https://pleiades.stoa.org/places/483045990)
 
 
 ## Porta Querquetulana (Q3458066)
@@ -39854,6 +39896,13 @@
  - [Albanus L.](https://pleiades.stoa.org/places/422825)
 
 
+## Q849473
+[https://www.wikidata.org/wiki/Q849473](https://www.wikidata.org/wiki/Q849473)  
+
+### alignments:
+ - [Breuni](https://pleiades.stoa.org/places/187323)
+
+
 ## Q849709: Laodicea on the Lycus
 [https://www.wikidata.org/wiki/Q849709](https://www.wikidata.org/wiki/Q849709)  
 
@@ -41542,6 +41591,13 @@
  - [Roman amphitheater at Ancona](https://pleiades.stoa.org/places/536995786)
 
 
+## Roman amphitheatre of Aoste (Q2844396)
+[https://www.wikidata.org/wiki/Q2844396](https://www.wikidata.org/wiki/Q2844396)  
+
+### alignments:
+ - [Roman amphitheater at Aosta](https://pleiades.stoa.org/places/179717289)
+
+
 ## Roman Amphitheatre of Arezzo (Q3616681)
 [https://www.wikidata.org/wiki/Q3616681](https://www.wikidata.org/wiki/Q3616681)  
 
@@ -42116,6 +42172,13 @@
  - [Roman theater at Italica](https://pleiades.stoa.org/places/132543925)
 
 
+## Roman Theatre of Jableh (Q56376871)
+[https://www.wikidata.org/wiki/Q56376871](https://www.wikidata.org/wiki/Q56376871)  
+
+### alignments:
+ - [Roman Theater of Jableh](https://pleiades.stoa.org/places/158138406)
+
+
 ## Roman Theatre of Kanatha (Q60254342)
 [https://www.wikidata.org/wiki/Q60254342](https://www.wikidata.org/wiki/Q60254342)  
 
@@ -42520,6 +42583,13 @@
 
 ### alignments:
  - [Bad Neuenahr-Ahrweiler](https://pleiades.stoa.org/places/108786)
+
+
+## Römischer Gutshof Seeb (Q16919292)
+[https://www.wikidata.org/wiki/Q16919292](https://www.wikidata.org/wiki/Q16919292)  
+
+### alignments:
+ - [Winkel-Seeb](https://pleiades.stoa.org/places/177667)
 
 
 ## Sa Caleta Phoenician Settlement (Q1822057)
@@ -48096,6 +48166,13 @@
  - [Tucci/Col. Augusta Gemella](https://pleiades.stoa.org/places/266070)
 
 
+## Tulln an der Donau (Q489810)
+[https://www.wikidata.org/wiki/Q489810](https://www.wikidata.org/wiki/Q489810)  
+
+### alignments:
+ - [Comagena](https://pleiades.stoa.org/places/128385)
+
+
 ## Tumuli of Libersart (Q2001444)
 [https://www.wikidata.org/wiki/Q2001444](https://www.wikidata.org/wiki/Q2001444)  
 
@@ -49588,6 +49665,13 @@
  - [Vindolanda](https://pleiades.stoa.org/places/89313)
 
 
+## Vindonissa, Celtic oppidum / Roman legionary camp / civilian settlement (Q667811)
+[https://www.wikidata.org/wiki/Q667811](https://www.wikidata.org/wiki/Q667811)  
+
+### alignments:
+ - [Vindonissa](https://pleiades.stoa.org/places/177661)
+
+
 ## Vindunum (Q3559994)
 [https://www.wikidata.org/wiki/Q3559994](https://www.wikidata.org/wiki/Q3559994)  
 
@@ -49628,6 +49712,13 @@
 
 ### alignments:
  - [Viviers Roman bridge](https://pleiades.stoa.org/places/169128)
+
+
+## Vivisco (Q21556427)
+[https://www.wikidata.org/wiki/Q21556427](https://www.wikidata.org/wiki/Q21556427)  
+
+### alignments:
+ - [Vivisco](https://pleiades.stoa.org/places/177663)
 
 
 ## Vodgoriacum (Q2665195)
