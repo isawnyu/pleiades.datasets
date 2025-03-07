@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7243 alignments exist in _Pleiades_ place references as of 2025-03-06. The following list of alignments is grouped by zotkey.
+7245 alignments exist in _Pleiades_ place references as of 2025-03-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7436,6 +7436,13 @@
 
 ### alignments:
  - [Zas Cave](https://pleiades.stoa.org/places/194606909)
+
+
+## Cavoli Island (Q3802946)
+[https://www.wikidata.org/wiki/Q3802946](https://www.wikidata.org/wiki/Q3802946)  
+
+### alignments:
+ - [Ficaria (island)](https://pleiades.stoa.org/places/471924)
 
 
 ## Cawdor (Q3664023)
@@ -48997,6 +49004,13 @@
 
 ### alignments:
  - [Venice](https://pleiades.stoa.org/places/818739154)
+
+
+## Vennones (Q11955025)
+[https://www.wikidata.org/wiki/Q11955025](https://www.wikidata.org/wiki/Q11955025)  
+
+### alignments:
+ - [Vennon(et)es](https://pleiades.stoa.org/places/187611)
 
 
 ## Venonis (Q16620726)
