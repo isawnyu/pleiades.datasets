@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4164 alignments exist in _Pleiades_ place references as of 2025-03-07. The following list of alignments is grouped by zotkey.
+4172 alignments exist in _Pleiades_ place references as of 2025-03-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6051,6 +6051,7 @@
 [http://www.trismegistos.org/](http://www.trismegistos.org/)  
 
 ### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/530768)
  - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
  - [Argithea](https://pleiades.stoa.org/places/540658)
@@ -6655,6 +6656,13 @@
 
 ### alignments:
  - [Ampeliou](https://pleiades.stoa.org/places/741419)
+
+
+## GEO ID 15902
+[https://www.trismegistos.org/place/15902](https://www.trismegistos.org/place/15902)  
+
+### alignments:
+ - [Bourdepa](https://pleiades.stoa.org/places/501381)
 
 
 ## GEO ID 15906: Kabyle (Yambol)
@@ -7404,6 +7412,13 @@
 
 ### alignments:
  - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
+
+
+## GEO ID 16969: Zliten
+[https://www.trismegistos.org/place/16969](https://www.trismegistos.org/place/16969)  
+
+### alignments:
+ - [Zliten](https://pleiades.stoa.org/places/344573)
 
 
 ## GEO ID 16988: Cidamus (Ghadames)
@@ -12721,6 +12736,13 @@
  - [Thosbis](https://pleiades.stoa.org/places/741635)
 
 
+## GEO ID 29126: Andautonia (Velika Gorica)
+[http://www.trismegistos.org/place/29126](http://www.trismegistos.org/place/29126)  
+
+### alignments:
+ - [Andautonia](https://pleiades.stoa.org/places/197113)
+
+
 ## GEO ID 29138: Teutoburgium (Erdut)
 [http://www.trismegistos.org/place/29138](http://www.trismegistos.org/place/29138)  
 
@@ -13181,6 +13203,13 @@
 
 ### alignments:
  - [Montana](https://pleiades.stoa.org/places/207293)
+
+
+## GEO ID 29830: Marcianopolis (Devnya)
+[https://www.trismegistos.org/place/29830](https://www.trismegistos.org/place/29830)  
+
+### alignments:
+ - [Marcianopolis](https://pleiades.stoa.org/places/216878)
 
 
 ## GEO ID 29839: Oescus (Gigen)
@@ -19268,6 +19297,20 @@
  - [Longaticum](https://pleiades.stoa.org/places/197357)
 
 
+## GEO ID 40543: Pizus (Dimitrievo)
+[https://www.trismegistos.org/place/40543](https://www.trismegistos.org/place/40543)  
+
+### alignments:
+ - [Pizus](https://pleiades.stoa.org/places/216935)
+
+
+## GEO ID 40544: Arzus (Kalugerovo)
+[https://www.trismegistos.org/place/40544](https://www.trismegistos.org/place/40544)  
+
+### alignments:
+ - [Arzus](https://pleiades.stoa.org/places/216714)
+
+
 ## GEO ID 40551: Kainophrourion (Sinekli)
 [http://www.trismegistos.org/place/40551](http://www.trismegistos.org/place/40551)  
 
@@ -19413,6 +19456,13 @@
 
 ### alignments:
  - [‘Tarpodizo’](https://pleiades.stoa.org/places/511428)
+
+
+## GEO ID 40719: Castra Iarba (Kolarowo)
+[http://www.trismegistos.org/place/40719](http://www.trismegistos.org/place/40719)  
+
+### alignments:
+ - [Castra Iarba](https://pleiades.stoa.org/places/501384)
 
 
 ## GEO ID 40740: Anneianum
@@ -20848,6 +20898,13 @@
 
 ### alignments:
  - [Acervo](https://pleiades.stoa.org/places/197057)
+
+
+## GEO ID 41625: Ad Publicanos
+[http://www.trismegistos.org/place/41625](http://www.trismegistos.org/place/41625)  
+
+### alignments:
+ - [Ad Publicanos?](https://pleiades.stoa.org/places/197081)
 
 
 ## GEO ID 41626: Ad Zizio

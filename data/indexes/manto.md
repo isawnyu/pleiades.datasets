@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-613 alignments exist in _Pleiades_ place references as of 2025-03-07. The following list of alignments is grouped by zotkey.
+614 alignments exist in _Pleiades_ place references as of 2025-03-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3396,6 +3396,13 @@
 
 ### alignments:
  - [Sanctuary of Poseidon (Onchestos)](https://pleiades.stoa.org/places/162490152)
+
+
+## 9611994: River Acheloos (Aitolia)
+[https://resource.manto.unh.edu/9611994](https://resource.manto.unh.edu/9611994)  
+
+### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/530768)
 
 
 ## 9611997: River Sangarios (Phrygia)
