@@ -71,13 +71,18 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/217976835/osm-location-of-elginhaugh-roman-fort",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 43 - AD 410",
+                "snippet": "Fort-2; AD 43 - AD 410",
                 "title": "OSM location of Elginhaugh Roman fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2025-03-11T15:20:58Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2025-02-28T02:02:17Z",
@@ -182,8 +187,12 @@
             "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 410,
-            "featureType": [],
-            "featureTypeURI": [],
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
             "geometry": {
                 "coordinates": [
                     [
@@ -210,6 +219,16 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-03-11T15:20:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-03-11T15:20:33Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "removed deprecated place type",
                     "modified": "2024-12-16T22:38:18Z",
@@ -245,8 +264,10 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [],
-            "provenance": "OpenStreetMap (Way 739871880, version 1, osm:changeset=76356458, 2019-10-29T16:52:03Z)",
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Way 739871880, version 4, osm:changeset=138540530, 2023-07-15T11:12:14Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/browse/way/739871880",
@@ -268,12 +289,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [

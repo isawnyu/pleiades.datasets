@@ -1,20 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        25.028506,
-        45.263762,
-        25.028506,
-        45.263762
+        25.0116399,
+        45.2200577,
+        25.0133043,
+        45.2214688
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +22,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-20T14:24:25Z",
@@ -32,28 +44,56 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 22 C3 Jidava",
-    "details": "The Barrington Atlas Directory notes: Jidava",
+    "details": "<p>The Barrington Atlas Directory notes: Jidava</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    25.028506,
-                    45.263762
+                    [
+                        25.0116399,
+                        45.220269
+                    ],
+                    [
+                        25.0120462,
+                        45.2214688
+                    ],
+                    [
+                        25.0133043,
+                        45.2212574
+                    ],
+                    [
+                        25.012898,
+                        45.2200577
+                    ],
+                    [
+                        25.0116399,
+                        45.220269
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7844",
+            "id": "osm-location-of-castra-jidava",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/216856/darmc-location-7844",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/216856/osm-location-of-castra-jidava",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 7844"
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Castra Jidava"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-03-11T21:14:52Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2025-03-11T12:38:44Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T19:54:47Z",
@@ -94,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -107,95 +147,110 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T19:55:09Z",
+            "contributors": [],
+            "created": "2025-03-11T12:39:06Z",
             "creators": [
                 {
-                    "name": "A.G. Poulter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7844",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    25.028506,
-                    45.263762
+                    [
+                        25.0116399,
+                        45.220269
+                    ],
+                    [
+                        25.0120462,
+                        45.2214688
+                    ],
+                    [
+                        25.0133043,
+                        45.2212574
+                    ],
+                    [
+                        25.012898,
+                        45.2200577
+                    ],
+                    [
+                        25.0116399,
+                        45.220269
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:10:51Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:01:20Z",
+                    "modified": "2025-03-11T21:14:08Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:55:10Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-03-11T12:39:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:55:10Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2025-03-11T12:39:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-03-11T12:39:06Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:55:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-03-11T12:39:06Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7844",
+            "id": "osm-location-of-castra-jidava",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 7844",
+            "provenance": "OpenStreetMap (Way 231502398, version 5, osm:changeset=140590456, 2023-08-30T13:52:21Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/231502398",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7844",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 231502398",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7844.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=231502398",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7844",
-            "uri": "https://pleiades.stoa.org/places/216856/darmc-location-7844"
+            "title": "OSM location of Castra Jidava",
+            "uri": "https://pleiades.stoa.org/places/216856/osm-location-of-castra-jidava"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 22 C3 Jidava",
     "references": [
@@ -211,20 +266,64 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/883357716",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/c.html#Cătăniciu-1981-34",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/5B2FM4MQ",
+            "citationDetail": "34",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Cătăniciu 1981 34",
+            "formattedCitation": "<div class=\"csl-entry\">Cătăniciu, Ioana Bogdan. <i>Evolution of the System of Defence Works in Roman Dacia</i>. BAR International Series 116. Oxford: B.A.R, 1981. http://www.worldcat.org/oclc/883357716.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Cătăniciu 1981",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q12723650",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castra Jidava (Q12723650)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://de.wikipedia.org/wiki/Kastell_C%C3%A2mpulung_Muscel",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "citationDetail": "Kastell Câmpulung Muscel",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (German)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/7486/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "7486: Jidava",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7844",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.028506,
-        45.263762
+        25.01247208894443,
+        45.2207632289229
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
