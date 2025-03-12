@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-614 alignments exist in _Pleiades_ place references as of 2025-03-11. The following list of alignments is grouped by zotkey.
+616 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2059,6 +2059,13 @@
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
+## 11304947: Mount Calpe (Iberia)
+[https://resource.manto.unh.edu/11304947](https://resource.manto.unh.edu/11304947)  
+
+### alignments:
+ - [Calpe (mountain)](https://pleiades.stoa.org/places/256045)
+
+
 ## 11306299: the Steps of Cacios (Rome)
 [https://resource.manto.unh.edu/11306299](https://resource.manto.unh.edu/11306299)  
 
@@ -4005,6 +4012,13 @@
 
 ### alignments:
  - [Diomedeae (islands)](https://pleiades.stoa.org/places/197248)
+
+
+## 9746328: the Cyclades Islands
+[https://resource.manto.unh.edu/9746328](https://resource.manto.unh.edu/9746328)  
+
+### alignments:
+ - [Cyclades Islands](https://pleiades.stoa.org/places/560353)
 
 
 ## 9746337: White Island (Pontos)

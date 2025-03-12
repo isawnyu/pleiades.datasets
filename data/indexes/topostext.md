@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3660 alignments exist in _Pleiades_ place references as of 2025-03-11. The following list of alignments is grouped by zotkey.
+3662 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6833,6 +6833,13 @@
 ### alignments:
  - [Palace of Diocletian](https://pleiades.stoa.org/places/834862588)
  - [Spalatum](https://pleiades.stoa.org/places/197524)
+
+
+## Diocletianopolis (Thrace) Hisarya
+[https://topostext.org/place/425247UDio](https://topostext.org/place/425247UDio)  
+
+### alignments:
+ - [Diocletianopolis](https://pleiades.stoa.org/places/216792)
 
 
 ## Diogeneion (Athens)
@@ -24527,6 +24534,13 @@
 
 ### alignments:
  - [Trikrana (island)](https://pleiades.stoa.org/places/570752)
+
+
+## Trimammium fort (Moesia) 3 Mechka - Τριμάμμιον
+[https://topostext.org/place/437258FTri](https://topostext.org/place/437258FTri)  
+
+### alignments:
+ - [Trimammium](https://pleiades.stoa.org/places/217023)
 
 
 ## Trinasos (Lakonia)

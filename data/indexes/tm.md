@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4172 alignments exist in _Pleiades_ place references as of 2025-03-11. The following list of alignments is grouped by zotkey.
+4180 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6651,6 +6651,13 @@
  - [Sub Radices](https://pleiades.stoa.org/places/216995)
 
 
+## GEO ID 15879: Augusta (Hisarya)
+[https://www.trismegistos.org/place/15879](https://www.trismegistos.org/place/15879)  
+
+### alignments:
+ - [Diocletianopolis](https://pleiades.stoa.org/places/216792)
+
+
 ## GEO ID 158: Ampeliou Epoikion
 [http://www.trismegistos.org/place/158](http://www.trismegistos.org/place/158)  
 
@@ -12154,6 +12161,13 @@
  - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
+## GEO ID 27828: Tritium Magallum (Tricio)
+[https://www.trismegistos.org/place/27828](https://www.trismegistos.org/place/27828)  
+
+### alignments:
+ - [*Tritium Magallum](https://pleiades.stoa.org/places/246708)
+
+
 ## GEO ID 27839: Bingium (Bingen am Rhein)
 [http://www.trismegistos.org/place/27839](http://www.trismegistos.org/place/27839)  
 
@@ -13198,6 +13212,13 @@
  - [Argaitidos (Diorux)](https://pleiades.stoa.org/places/736892)
 
 
+## GEO ID 29821: Dimum (Belene)
+[https://www.trismegistos.org/place/29821](https://www.trismegistos.org/place/29821)  
+
+### alignments:
+ - [Dimum](https://pleiades.stoa.org/places/216790)
+
+
 ## GEO ID 29824: Montana
 [http://www.trismegistos.org/place/29824](http://www.trismegistos.org/place/29824)  
 
@@ -13226,11 +13247,32 @@
  - [Charax](https://pleiades.stoa.org/places/789736)
 
 
+## GEO ID 29855: Asamus (Osum)
+[https://www.trismegistos.org/place/29855](https://www.trismegistos.org/place/29855)  
+
+### alignments:
+ - [Asamus (river)](https://pleiades.stoa.org/places/216716)
+
+
+## GEO ID 29856: Securisca (Cherkovitsa)
+[https://www.trismegistos.org/place/29856](https://www.trismegistos.org/place/29856)  
+
+### alignments:
+ - [Securisca](https://pleiades.stoa.org/places/216978)
+
+
 ## GEO ID 2985: Apis (Luxor)
 [http://www.trismegistos.org/place/2985](http://www.trismegistos.org/place/2985)  
 
 ### alignments:
  - [Ophieion](https://pleiades.stoa.org/places/789749)
+
+
+## GEO ID 29861: Trimammium (Stălpište)
+[https://www.trismegistos.org/place/29861](https://www.trismegistos.org/place/29861)  
+
+### alignments:
+ - [Trimammium](https://pleiades.stoa.org/places/217023)
 
 
 ## GEO ID 29865: Tropaeum Traiani (Adamclisi)
@@ -13259,6 +13301,13 @@
 
 ### alignments:
  - [Almus](https://pleiades.stoa.org/places/206909)
+
+
+## GEO ID 29942: Iatrus (Krivina)
+[http://www.trismegistos.org/place/29942](http://www.trismegistos.org/place/29942)  
+
+### alignments:
+ - [Iatrus](https://pleiades.stoa.org/places/216846)
 
 
 ## GEO ID 29951: Ad Radices (Popina Leka)
@@ -20926,6 +20975,13 @@
 
 ### alignments:
  - [Combustica](https://pleiades.stoa.org/places/207043)
+
+
+## GEO ID 41645: Asamus (Mussalievo)
+[https://www.trismegistos.org/place/41645](https://www.trismegistos.org/place/41645)  
+
+### alignments:
+ - [Asamus](https://pleiades.stoa.org/places/216715)
 
 
 ## GEO ID 41646: Bastarnae
