@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-616 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
+618 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -629,6 +629,13 @@
 
 ### alignments:
  - [Teuthrone](https://pleiades.stoa.org/places/570714)
+
+
+## 10151060: Amnisos (Crete)
+[https://resource.manto.unh.edu/10151060](https://resource.manto.unh.edu/10151060)  
+
+### alignments:
+ - [Amnisos](https://pleiades.stoa.org/places/524143100)
 
 
 ## 10151142: Pharis
@@ -3018,6 +3025,13 @@
 
 ### alignments:
  - [Torone](https://pleiades.stoa.org/places/501646)
+
+
+## 8254001: Tartessos (Spain)
+[https://resource.manto.unh.edu/8254001](https://resource.manto.unh.edu/8254001)  
+
+### alignments:
+ - [Tartessos](https://pleiades.stoa.org/places/256468)
 
 
 ## 8254003: Abderia (Spain)

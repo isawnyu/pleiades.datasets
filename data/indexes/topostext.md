@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3662 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
+3664 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1542,6 +1542,13 @@
 
 ### alignments:
  - [Ammon](https://pleiades.stoa.org/places/716520)
+
+
+## Amnissos exc. (Crete) Karteros
+[https://topostext.org/place/353252UAmn](https://topostext.org/place/353252UAmn)  
+
+### alignments:
+ - [Amnisos](https://pleiades.stoa.org/places/524143100)
 
 
 ## Amorgos (Cyclades)
@@ -23002,6 +23009,13 @@
 
 ### alignments:
  - [Tarsus/Antiochia ad Cydnum](https://pleiades.stoa.org/places/648789)
+
+
+## Tartessos (Iberia) 73 Huelva? - Ταρτησός
+[https://topostext.org/place/373000PTar](https://topostext.org/place/373000PTar)  
+
+### alignments:
+ - [Tartessos](https://pleiades.stoa.org/places/256468)
 
 
 ## Tarvenna/Morini (Gallia)

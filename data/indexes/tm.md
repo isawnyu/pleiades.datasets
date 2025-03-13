@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4180 alignments exist in _Pleiades_ place references as of 2025-03-12. The following list of alignments is grouped by zotkey.
+4185 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9115,6 +9115,13 @@
  - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
+## GEO ID 19944: Vettones
+[http://www.trismegistos.org/place/19944](http://www.trismegistos.org/place/19944)  
+
+### alignments:
+ - [Vettones](https://pleiades.stoa.org/places/256512)
+
+
 ## GEO ID 19954: Bracara Augusta (Braga)
 [http://www.trismegistos.org/place/19954](http://www.trismegistos.org/place/19954)  
 
@@ -11998,6 +12005,13 @@
 
 ### alignments:
  - [Lucentum](https://pleiades.stoa.org/places/265954)
+
+
+## GEO ID 27402: Dianium (Denia)
+[http://www.trismegistos.org/place/27402](http://www.trismegistos.org/place/27402)  
+
+### alignments:
+ - [Dianium/Hemeroskopeion](https://pleiades.stoa.org/places/265880)
 
 
 ## GEO ID 2744: Orchomenos (Skripou)
@@ -16060,6 +16074,13 @@
 
 ### alignments:
  - [Soulia](https://pleiades.stoa.org/places/590056)
+
+
+## GEO ID 33276: Amnisos
+[https://www.trismegistos.org/place/33276](https://www.trismegistos.org/place/33276)  
+
+### alignments:
+ - [Amnisos](https://pleiades.stoa.org/places/524143100)
 
 
 ## GEO ID 3327: Aquileia
@@ -25319,6 +25340,13 @@
  - [Propontis](https://pleiades.stoa.org/places/511381)
 
 
+## GEO ID 47802: Tartessos
+[https://www.trismegistos.org/place/47802](https://www.trismegistos.org/place/47802)  
+
+### alignments:
+ - [Tartessos](https://pleiades.stoa.org/places/256468)
+
+
 ## GEO ID 47829: Vicus Silani Salientis
 [https://www.trismegistos.org/place/47829](https://www.trismegistos.org/place/47829)  
 
@@ -28528,6 +28556,13 @@
 
 ### alignments:
  - [Iapyges](https://pleiades.stoa.org/places/442618)
+
+
+## GEO ID 8735: Astapous
+[https://www.trismegistos.org/place/8735](https://www.trismegistos.org/place/8735)  
+
+### alignments:
+ - [Astapous (river)](https://pleiades.stoa.org/places/39298)
 
 
 ## GEO ID 8762: Augila (Aujelah)
