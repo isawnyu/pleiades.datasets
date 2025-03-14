@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-379 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
+379 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7386 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
+7411 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13,6 +13,13 @@
 
 ### alignments:
  - [10th Street](https://pleiades.stoa.org/places/451190262)
+
+
+## 2nd street, Dura-Europos (Q116621894)
+[https://www.wikidata.org/wiki/Q116621894](https://www.wikidata.org/wiki/Q116621894)  
+
+### alignments:
+ - [2nd Street](https://pleiades.stoa.org/places/451190254)
 
 
 ## 6th street, Dura-Europos (Q116621896)
@@ -55,6 +62,13 @@
 
 ### alignments:
  - [Lapford](https://pleiades.stoa.org/places/502452939)
+
+
+## A street, Dura-Europos (Q116621881)
+[https://www.wikidata.org/wiki/Q116621881](https://www.wikidata.org/wiki/Q116621881)  
+
+### alignments:
+ - [A Street](https://pleiades.stoa.org/places/451190242)
 
 
 ## Aardenburg (Samian Ware Discovery Site) (Q103138125)
@@ -917,6 +931,13 @@
 
 ### alignments:
  - [Ad Palatium](https://pleiades.stoa.org/places/393365)
+
+
+## Ala miliaria (Q64007082)
+[https://www.wikidata.org/wiki/Q64007082](https://www.wikidata.org/wiki/Q64007082)  
+
+### alignments:
+ - [Ala Miliaria/Tigit](https://pleiades.stoa.org/places/285411)
 
 
 ## Alabum (Q4705432)
@@ -5058,11 +5079,32 @@
  - [Block F3](https://pleiades.stoa.org/places/181763748)
 
 
+## Block H1, Dura-Europos (Q116621984)
+[https://www.wikidata.org/wiki/Q116621984](https://www.wikidata.org/wiki/Q116621984)  
+
+### alignments:
+ - [Block H1](https://pleiades.stoa.org/places/451190335)
+
+
 ## Block H4, Dura-Europos (Q116621988)
 [https://www.wikidata.org/wiki/Q116621988](https://www.wikidata.org/wiki/Q116621988)  
 
 ### alignments:
  - [Block H4](https://pleiades.stoa.org/places/451190338)
+
+
+## Block H6, Dura-Europos (Q116621990)
+[https://www.wikidata.org/wiki/Q116621990](https://www.wikidata.org/wiki/Q116621990)  
+
+### alignments:
+ - [Block H6](https://pleiades.stoa.org/places/451190340)
+
+
+## Block I9, Dura-Europos (Q116622007)
+[https://www.wikidata.org/wiki/Q116622007](https://www.wikidata.org/wiki/Q116622007)  
+
+### alignments:
+ - [Block I9](https://pleiades.stoa.org/places/451190351)
 
 
 ## Block J7, Dura-Europos (Q116622017)
@@ -5079,6 +5121,13 @@
  - [Block J9](https://pleiades.stoa.org/places/451190363)
 
 
+## Block K4, Dura-Europos (Q116622024)
+[https://www.wikidata.org/wiki/Q116622024](https://www.wikidata.org/wiki/Q116622024)  
+
+### alignments:
+ - [Block K4](https://pleiades.stoa.org/places/451190367)
+
+
 ## Block K5, Dura-Europos (Q116622025)
 [https://www.wikidata.org/wiki/Q116622025](https://www.wikidata.org/wiki/Q116622025)  
 
@@ -5091,6 +5140,13 @@
 
 ### alignments:
  - [Block K7](https://pleiades.stoa.org/places/451190370)
+
+
+## Block L2, Dura-Europos (Q116622030)
+[https://www.wikidata.org/wiki/Q116622030](https://www.wikidata.org/wiki/Q116622030)  
+
+### alignments:
+ - [Block L2](https://pleiades.stoa.org/places/451190373)
 
 
 ## Block L5, Dura-Europos (Q116622033)
@@ -5126,6 +5182,20 @@
 
 ### alignments:
  - [Block M8](https://pleiades.stoa.org/places/451190387)
+
+
+## Block N6, Dura-Europos (Q116622076)
+[https://www.wikidata.org/wiki/Q116622076](https://www.wikidata.org/wiki/Q116622076)  
+
+### alignments:
+ - [Block N6](https://pleiades.stoa.org/places/451190393)
+
+
+## Block X3, Dura-Europos (Q116622083)
+[https://www.wikidata.org/wiki/Q116622083](https://www.wikidata.org/wiki/Q116622083)  
+
+### alignments:
+ - [Block X3](https://pleiades.stoa.org/places/451190398)
 
 
 ## Block X7, Dura-Europos (Q116622091)
@@ -7453,6 +7523,13 @@
  - [Mannaricium](https://pleiades.stoa.org/places/99006)
 
 
+## Castrum Novum (Q2941534)
+[https://www.wikidata.org/wiki/Q2941534](https://www.wikidata.org/wiki/Q2941534)  
+
+### alignments:
+ - [Castrum Novum](https://pleiades.stoa.org/places/432772)
+
+
 ## Castrum Ovidiu (Q42882679)
 [https://www.wikidata.org/wiki/Q42882679](https://www.wikidata.org/wiki/Q42882679)  
 
@@ -8378,6 +8455,13 @@
  - [Circus of Maxentius](https://pleiades.stoa.org/places/461581649)
 
 
+## Cirella (Q2118996)
+[https://www.wikidata.org/wiki/Q2118996](https://www.wikidata.org/wiki/Q2118996)  
+
+### alignments:
+ - [Cerilli](https://pleiades.stoa.org/places/452296)
+
+
 ## Cirencester Amphitheatre (Q5121861)
 [https://www.wikidata.org/wiki/Q5121861](https://www.wikidata.org/wiki/Q5121861)  
 
@@ -8397,6 +8481,13 @@
 
 ### alignments:
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
+
+
+## citadel fortification of Dura-Europos (Q116621910)
+[https://www.wikidata.org/wiki/Q116621910](https://www.wikidata.org/wiki/Q116621910)  
+
+### alignments:
+ - [Citadel Fortification of Dura-Europos](https://pleiades.stoa.org/places/451190269)
 
 
 ## Citadel of Ani (Q107690042)
@@ -8474,6 +8565,13 @@
 
 ### alignments:
  - [Tropaeum Traiani (settlement)](https://pleiades.stoa.org/places/217027)
+
+
+## Clampetia (Q3678996)
+[https://www.wikidata.org/wiki/Q3678996](https://www.wikidata.org/wiki/Q3678996)  
+
+### alignments:
+ - [Clampetia](https://pleiades.stoa.org/places/452304)
 
 
 ## Claudia (Q3538784)
@@ -9279,6 +9377,13 @@
 
 ### alignments:
  - [Căciulăteşti](https://pleiades.stoa.org/places/207005)
+
+
+## D street, Dura-Europos (Q116621885)
+[https://www.wikidata.org/wiki/Q116621885](https://www.wikidata.org/wiki/Q116621885)  
+
+### alignments:
+ - [D Street](https://pleiades.stoa.org/places/451190245)
 
 
 ## Dacia (Q173082) Balkan kingdom of the Dacians (168 BC-106 AD)
@@ -10520,6 +10625,13 @@
 
 ### alignments:
  - [Ekklesiasterion of Morgantina](https://pleiades.stoa.org/places/966917974)
+
+
+## Ekklesiasterion of Paestum (Q56258439)
+[https://www.wikidata.org/wiki/Q56258439](https://www.wikidata.org/wiki/Q56258439)  
+
+### alignments:
+ - [Ekklesiasterion at Poseidonia/Paestum](https://pleiades.stoa.org/places/73180224)
 
 
 ## Ekualakos (Q109789822)
@@ -16224,6 +16336,13 @@
  - [Lasion](https://pleiades.stoa.org/places/570418)
 
 
+## Late Mithraeum (Q123911600)
+[https://www.wikidata.org/wiki/Q123911600](https://www.wikidata.org/wiki/Q123911600)  
+
+### alignments:
+ - [Late Mithraeum](https://pleiades.stoa.org/places/888638000)
+
+
 ## Lateran Obelisk (Q645181)
 [https://www.wikidata.org/wiki/Q645181](https://www.wikidata.org/wiki/Q645181)  
 
@@ -20335,6 +20454,13 @@
  - [Numana](https://pleiades.stoa.org/places/413228)
 
 
+## Numerus Syrorum (Q18207216)
+[https://www.wikidata.org/wiki/Q18207216](https://www.wikidata.org/wiki/Q18207216)  
+
+### alignments:
+ - [Numerus Syrorum](https://pleiades.stoa.org/places/285495)
+
+
 ## Numidia (Q12901244)
 [https://www.wikidata.org/wiki/Q12901244](https://www.wikidata.org/wiki/Q12901244)  
 
@@ -21299,6 +21425,13 @@
 
 ### alignments:
  - [Ivor / Xion (river)](https://pleiades.stoa.org/places/83424586)
+
+
+## Oued Mina (Q23802184)
+[https://www.wikidata.org/wiki/Q23802184](https://www.wikidata.org/wiki/Q23802184)  
+
+### alignments:
+ - [Mina (river)](https://pleiades.stoa.org/places/285489)
 
 
 ## Outwards, Roman fortlet (Q56664636)
@@ -22601,6 +22734,13 @@
 
 ### alignments:
  - [Palaia Pleuron](https://pleiades.stoa.org/places/540999)
+
+
+## Plinth in D Street outside the Temple of Artemis Azzanthkona (Q122157543)
+[https://www.wikidata.org/wiki/Q122157543](https://www.wikidata.org/wiki/Q122157543)  
+
+### alignments:
+ - [Plinth in D Street Outside The Temple of Artemis Azzanthkona](https://pleiades.stoa.org/places/888638048)
 
 
 ## Plovdiv Roman theatre (Q1363208)
@@ -25507,6 +25647,13 @@
 
 ### alignments:
  - [Alexandria/Rhambakia](https://pleiades.stoa.org/places/59675)
+
+
+## Q11906698
+[https://www.wikidata.org/wiki/Q11906698](https://www.wikidata.org/wiki/Q11906698)  
+
+### alignments:
+ - [Portus Sigensis](https://pleiades.stoa.org/places/285504)
 
 
 ## Q11909496: Blanda
@@ -37620,13 +37767,6 @@
  - [Forre di Corchiano](https://pleiades.stoa.org/places/104240046)
 
 
-## Q56258514
-[https://www.wikidata.org/wiki/Q56258514](https://www.wikidata.org/wiki/Q56258514)  
-
-### alignments:
- - [Underground Shrine (Paestum)](https://pleiades.stoa.org/places/307187361)
-
-
 ## Q56258623: Mura Serviane
 [https://www.wikidata.org/wiki/Q56258623](https://www.wikidata.org/wiki/Q56258623)  
 
@@ -40677,6 +40817,13 @@
 
 ### alignments:
  - [Pimolisa](https://pleiades.stoa.org/places/845039)
+
+
+## Q85810320
+[https://www.wikidata.org/wiki/Q85810320](https://www.wikidata.org/wiki/Q85810320)  
+
+### alignments:
+ - [Tower of Amfikleia](https://pleiades.stoa.org/places/282029780)
 
 
 ## Q85864302: Cristallini hypogeum
@@ -44033,6 +44180,13 @@
  - [Sapinuwa](https://pleiades.stoa.org/places/964671598)
 
 
+## Sapri (Q81654)
+[https://www.wikidata.org/wiki/Q81654](https://www.wikidata.org/wiki/Q81654)  
+
+### alignments:
+ - [Cesernia](https://pleiades.stoa.org/places/452297)
+
+
 ## Sarantaporo archaeological site (Q12874076)
 [https://www.wikidata.org/wiki/Q12874076](https://www.wikidata.org/wiki/Q12874076)  
 
@@ -46449,6 +46603,13 @@
  - [Temenion](https://pleiades.stoa.org/places/570710)
 
 
+## Temesa (Q3983093)
+[https://www.wikidata.org/wiki/Q3983093](https://www.wikidata.org/wiki/Q3983093)  
+
+### alignments:
+ - [Temesa/Tempsa](https://pleiades.stoa.org/places/452469)
+
+
 ## Temnos (Q376084)
 [https://www.wikidata.org/wiki/Q376084](https://www.wikidata.org/wiki/Q376084)  
 
@@ -46608,6 +46769,13 @@
 
 ### alignments:
  - [The Temple of Athena Polias at Priene](https://pleiades.stoa.org/places/298577312)
+
+
+## Temple of Athena (Q3983228)
+[https://www.wikidata.org/wiki/Q3983228](https://www.wikidata.org/wiki/Q3983228)  
+
+### alignments:
+ - [Temple of Athena at Paestum](https://pleiades.stoa.org/places/375591100)
 
 
 ## Temple of Athena Alea (Tegea) (Q3983230)
@@ -49548,6 +49716,13 @@
 
 ### alignments:
  - [Umma](https://pleiades.stoa.org/places/44626252)
+
+
+## Underground Shrine (Paestum) (Q56258514)
+[https://www.wikidata.org/wiki/Q56258514](https://www.wikidata.org/wiki/Q56258514)  
+
+### alignments:
+ - [Underground Shrine (Paestum)](https://pleiades.stoa.org/places/307187361)
 
 
 ## Unexplored Mansion at Knossos (Q133264191)

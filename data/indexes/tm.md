@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4185 alignments exist in _Pleiades_ place references as of 2025-03-13. The following list of alignments is grouped by zotkey.
+4186 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9414,6 +9414,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/305129)
+
+
+## GEO ID 20557: Numerus Syrorum (Marnia)
+[https://www.trismegistos.org/place/20557](https://www.trismegistos.org/place/20557)  
+
+### alignments:
+ - [Numerus Syrorum](https://pleiades.stoa.org/places/285495)
 
 
 ## GEO ID 2058: Rome
