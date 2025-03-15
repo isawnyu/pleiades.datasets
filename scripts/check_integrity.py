@@ -105,6 +105,7 @@ def main(**kwargs):
         )
         for pid in sorted(list(extraneous_pids_on_disk)):
             print(f"\t{pid}")
+        raise RuntimeError("Missing PIDs in new JSON")
     missing_pids = pids_from_file - pids_on_disk
     if missing_pids:
         print(
@@ -112,6 +113,7 @@ def main(**kwargs):
         )
         for pid in sorted(list(missing_pids)):
             print(f"\t{pid}")
+        raise RuntimeError("Missing PIDs on disk")
 
 
 if __name__ == "__main__":
