@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4186 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
+4199 alignments exist in _Pleiades_ place references as of 2025-03-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -600,13 +600,6 @@
 
 ### alignments:
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
-
-
-## Geo 19864: Augusta Raurica (Augst)
-[http://www.trismegistos.org/place/19864](http://www.trismegistos.org/place/19864)  
-
-### alignments:
- - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 
 ## Geo 20347 Thabudeos (Tehouda)
@@ -8954,6 +8947,13 @@
  - [Saetabis](https://pleiades.stoa.org/places/266018)
 
 
+## Geo ID 19864: Augusta Raurica (Augst)
+[http://www.trismegistos.org/place/19864](http://www.trismegistos.org/place/19864)  
+
+### alignments:
+ - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
 ## GEO ID 19875: Caurium (Coria)
 [https://www.trismegistos.org/place/19875](https://www.trismegistos.org/place/19875)  
 
@@ -9939,6 +9939,13 @@
 
 ### alignments:
  - [Tharros](https://pleiades.stoa.org/places/472032)
+
+
+## GEO ID 22232: Ad Sextum (Sestu)
+[https://www.trismegistos.org/place/22232](https://www.trismegistos.org/place/22232)  
+
+### alignments:
+ - [Sestu](https://pleiades.stoa.org/places/472017)
 
 
 ## GEO ID 22241: Megara Hyblaia (Megara Iblea)
@@ -11403,6 +11410,13 @@
 
 ### alignments:
  - [Castra Vinaria/Binaria/Castra Gemella](https://pleiades.stoa.org/places/260529)
+
+
+## GEO ID 26024: Ipolcobulcula (Carcabuey)
+[http://www.trismegistos.org/place/26024](http://www.trismegistos.org/place/26024)  
+
+### alignments:
+ - [Ipolcobulcola](https://pleiades.stoa.org/places/265935)
 
 
 ## GEO ID 26029: Ategua (Teba la Vieja)
@@ -16559,6 +16573,13 @@
  - [Klaros](https://pleiades.stoa.org/places/599719)
 
 
+## GEO ID 33600: Apollonis
+[https://www.trismegistos.org/place/33600](https://www.trismegistos.org/place/33600)  
+
+### alignments:
+ - [Apollonis](https://pleiades.stoa.org/places/550444)
+
+
 ## GEO ID 33612: Kilbianoi
 [http://www.trismegistos.org/place/33612](http://www.trismegistos.org/place/33612)  
 
@@ -18344,6 +18365,13 @@
  - [Akriai](https://pleiades.stoa.org/places/570058)
 
 
+## GEO ID 37980: Kalamai
+[https://www.trismegistos.org/place/37980](https://www.trismegistos.org/place/37980)  
+
+### alignments:
+ - [Kalamai](https://pleiades.stoa.org/places/570323)
+
+
 ## GEO ID 37998: Pellana (Kalyvia Georgitsi)
 [https://www.trismegistos.org/place/37998](https://www.trismegistos.org/place/37998)  
 
@@ -18714,6 +18742,13 @@
 
 ### alignments:
  - [R(h)oda](https://pleiades.stoa.org/places/246588)
+
+
+## GEO ID 38508: Baeturia Turdulorum
+[http://www.trismegistos.org/place/38508](http://www.trismegistos.org/place/38508)  
+
+### alignments:
+ - [Baeturia Turdulorum](https://pleiades.stoa.org/places/256012)
 
 
 ## GEO ID 38512: Saepo (Dehesa de la Fantasia)
@@ -19766,6 +19801,13 @@
  - [Corneli](https://pleiades.stoa.org/places/442555)
 
 
+## GEO ID 40817: Ad Pirum
+[https://www.trismegistos.org/place/40817](https://www.trismegistos.org/place/40817)  
+
+### alignments:
+ - [Ad Pirum Filumeni/Ad Pirum](https://pleiades.stoa.org/places/416767)
+
+
 ## GEO ID 40818: Ad Aesim
 [https://www.trismegistos.org/place/40818](https://www.trismegistos.org/place/40818)  
 
@@ -20135,6 +20177,13 @@
 
 ### alignments:
  - [Valvata](https://pleiades.stoa.org/places/403289)
+
+
+## GEO ID 41082: Biturgia (Montevarchi)
+[https://www.trismegistos.org/place/41082](https://www.trismegistos.org/place/41082)  
+
+### alignments:
+ - [Biturgia](https://pleiades.stoa.org/places/416780)
 
 
 ## GEO ID 41083: Umbro fl. (Ponte di Pogi)
@@ -21621,6 +21670,13 @@
  - [Succosa](https://pleiades.stoa.org/places/413325)
 
 
+## GEO ID 41820: Ad Aquilam
+[https://www.trismegistos.org/place/41820](https://www.trismegistos.org/place/41820)  
+
+### alignments:
+ - [Ad Aquilam](https://pleiades.stoa.org/places/416763)
+
+
 ## GEO ID 41821: Ad Grecos
 [https://www.trismegistos.org/place/41821](https://www.trismegistos.org/place/41821)  
 
@@ -21649,11 +21705,25 @@
  - [Ad Nonas](https://pleiades.stoa.org/places/416769)
 
 
+## GEO ID 41826: Ad Sextum
+[https://www.trismegistos.org/place/41826](https://www.trismegistos.org/place/41826)  
+
+### alignments:
+ - [Ad Sextum](https://pleiades.stoa.org/places/416771)
+
+
 ## GEO ID 41827: Ad Tine Recine
 [https://www.trismegistos.org/place/41827](https://www.trismegistos.org/place/41827)  
 
 ### alignments:
  - [Ad Tine Recine](https://pleiades.stoa.org/places/416772)
+
+
+## GEO ID 41828: Aequum Faliscum
+[https://www.trismegistos.org/place/41828](https://www.trismegistos.org/place/41828)  
+
+### alignments:
+ - [Aequum Faliscum](https://pleiades.stoa.org/places/416773)
 
 
 ## GEO ID 41829: Castellum Amerinum
@@ -24316,6 +24386,13 @@
 
 ### alignments:
  - [Porta Collina](https://pleiades.stoa.org/places/987367012)
+
+
+## GEO ID 43889: Turduli
+[http://www.trismegistos.org/place/43889](http://www.trismegistos.org/place/43889)  
+
+### alignments:
+ - [Turduli](https://pleiades.stoa.org/places/256489)
 
 
 ## GEO ID 43892: Arauraka (Kalur Kale)
@@ -27765,6 +27842,13 @@
  - [Flamonienses](https://pleiades.stoa.org/places/194047)
 
 
+## GEO ID 64127: Kalamisos
+[https://www.trismegistos.org/place/64127](https://www.trismegistos.org/place/64127)  
+
+### alignments:
+ - [Calamisus](https://pleiades.stoa.org/places/543663)
+
+
 ## GEO ID 64205: Ouallai
 [https://www.trismegistos.org/place/64205](https://www.trismegistos.org/place/64205)  
 
@@ -28668,6 +28752,13 @@
 
 ### alignments:
  - [Kaine/Maximianopolis](https://pleiades.stoa.org/places/786047)
+
+
+## GEO ID 966: Kalamine [east]
+[https://www.trismegistos.org/place/966](https://www.trismegistos.org/place/966)  
+
+### alignments:
+ - [Kalamine](https://pleiades.stoa.org/places/727135)
 
 
 ## GEO ID 96: Alabanda (Doǧanyurt)

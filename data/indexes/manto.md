@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-618 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
+620 alignments exist in _Pleiades_ place references as of 2025-03-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3741,6 +3741,13 @@
  - [Sestos](https://pleiades.stoa.org/places/501609)
 
 
+## 9718664: Abydos (Troad)
+[https://resource.manto.unh.edu/9718664](https://resource.manto.unh.edu/9718664)  
+
+### alignments:
+ - [Abydos](https://pleiades.stoa.org/places/501325)
+
+
 ## 9718707: Styra (Euboia)
 [https://resource.manto.unh.edu/9718707](https://resource.manto.unh.edu/9718707)  
 
@@ -4089,6 +4096,13 @@
 
 ### alignments:
  - [Heniochi/Coraxici (mountain)](https://pleiades.stoa.org/places/863800)
+
+
+## 9847672: Pherai (Messenia)
+[https://resource.manto.unh.edu/9847672](https://resource.manto.unh.edu/9847672)  
+
+### alignments:
+ - [Pherai](https://pleiades.stoa.org/places/570596)
 
 
 ## 9878166: Mount Helicon (Boiotia)

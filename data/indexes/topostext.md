@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3664 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
+3665 alignments exist in _Pleiades_ place references as of 2025-03-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11028,6 +11028,13 @@
 
 ### alignments:
  - [Kalamai](https://pleiades.stoa.org/places/570323)
+
+
+## Kalamianos exc. (Korinthia) Kalamianos
+[https://topostext.org/place/378232UKal](https://topostext.org/place/378232UKal)  
+
+### alignments:
+ - [Kalamianos](https://pleiades.stoa.org/places/458012868)
 
 
 ## Kalamos (Thrace)

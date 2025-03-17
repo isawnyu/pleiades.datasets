@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-379 alignments exist in _Pleiades_ place references as of 2025-03-14. The following list of alignments is grouped by zotkey.
+380 alignments exist in _Pleiades_ place references as of 2025-03-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1443,6 +1443,13 @@
 
 ### alignments:
  - [Krane](https://pleiades.stoa.org/places/530962)
+
+
+## Toponyme - 37913: Kalamata-Δ.Δ.Καλαμάτας
+[https://chronique.efa.gr/?r=topo_public&id=37913](https://chronique.efa.gr/?r=topo_public&id=37913)  
+
+### alignments:
+ - [Kalamai](https://pleiades.stoa.org/places/570323)
 
 
 ## Toponyme - 70018: Argilos, ville antique, ancient city
