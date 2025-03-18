@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7447 alignments exist in _Pleiades_ place references as of 2025-03-17. The following list of alignments is grouped by zotkey.
+7454 alignments exist in _Pleiades_ place references as of 2025-03-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6424,6 +6424,13 @@
  - [Capena](https://pleiades.stoa.org/places/413062)
 
 
+## Capestrano (Q50063)
+[https://www.wikidata.org/wiki/Q50063](https://www.wikidata.org/wiki/Q50063)  
+
+### alignments:
+ - [Capestrano](https://pleiades.stoa.org/places/413063)
+
+
 ## Capitolium Vetus (Q2937495)
 [https://www.wikidata.org/wiki/Q2937495](https://www.wikidata.org/wiki/Q2937495)  
 
@@ -9468,6 +9475,13 @@
 
 ### alignments:
  - [Roman amphitheater at Cyzicus](https://pleiades.stoa.org/places/263157373)
+
+
+## Cáparra amphitheatre (Q29001115)
+[https://www.wikidata.org/wiki/Q29001115](https://www.wikidata.org/wiki/Q29001115)  
+
+### alignments:
+ - [Cáparra amphitheater](https://pleiades.stoa.org/places/74064979)
 
 
 ## Căciulătești (Q12109752)
@@ -19339,6 +19353,13 @@
 
 ### alignments:
  - [Monte Catria](https://pleiades.stoa.org/places/803636721)
+
+
+## Monte Croce Guardia (Arcevia) (Q133284812)
+[https://www.wikidata.org/wiki/Q133284812](https://www.wikidata.org/wiki/Q133284812)  
+
+### alignments:
+ - [Monte Croce Guardia](https://pleiades.stoa.org/places/142118702)
 
 
 ## Monte Falterona (Q749841)
@@ -43038,6 +43059,13 @@
  - [Dargues](https://pleiades.stoa.org/places/811686778)
 
 
+## Roman theater at Castrum Novum (Q130634552)
+[https://www.wikidata.org/wiki/Q130634552](https://www.wikidata.org/wiki/Q130634552)  
+
+### alignments:
+ - [Roman theater at Castrum Novum](https://pleiades.stoa.org/places/285468794)
+
+
 ## Roman Theater at Cillium (Q130469920)
 [https://www.wikidata.org/wiki/Q130469920](https://www.wikidata.org/wiki/Q130469920)  
 
@@ -43645,6 +43673,13 @@
 
 ### alignments:
  - [Winkel-Seeb](https://pleiades.stoa.org/places/177667)
+
+
+## S. Claudio al Chienti (Q3669776)
+[https://www.wikidata.org/wiki/Q3669776](https://www.wikidata.org/wiki/Q3669776)  
+
+### alignments:
+ - [Abbazia San Claudio al Chienti](https://pleiades.stoa.org/places/618528566)
 
 
 ## Sa Caleta Phoenician Settlement (Q1822057)
@@ -46399,6 +46434,13 @@
  - [Daphnai](https://pleiades.stoa.org/places/727103)
 
 
+## Takht-e Soleyman (Q115253)
+[https://www.wikidata.org/wiki/Q115253](https://www.wikidata.org/wiki/Q115253)  
+
+### alignments:
+ - [Adur Gushnasp/[Shiz]](https://pleiades.stoa.org/places/884109)
+
+
 ## Takhti-Sangin (Q6554804)
 [https://www.wikidata.org/wiki/Q6554804](https://www.wikidata.org/wiki/Q6554804)  
 
@@ -47342,6 +47384,13 @@
 
 ### alignments:
  - [Temple of Trajan at Pergamon](https://pleiades.stoa.org/places/146849991)
+
+
+## Temple of Tuthmosis IV (Q18008316)
+[https://www.wikidata.org/wiki/Q18008316](https://www.wikidata.org/wiki/Q18008316)  
+
+### alignments:
+ - [Funerary temple of Thutmose IV](https://pleiades.stoa.org/places/514563052)
 
 
 ## Temple of Veiovis (Q764141)
