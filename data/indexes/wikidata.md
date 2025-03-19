@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7454 alignments exist in _Pleiades_ place references as of 2025-03-18. The following list of alignments is grouped by zotkey.
+7455 alignments exist in _Pleiades_ place references as of 2025-03-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12860,6 +12860,13 @@
 
 ### alignments:
  - [Elaitikos Sinus](https://pleiades.stoa.org/places/550525)
+
+
+## Gunar Tepe (Q3110595)
+[https://www.wikidata.org/wiki/Q3110595](https://www.wikidata.org/wiki/Q3110595)  
+
+### alignments:
+ - [Gonur Tepe](https://pleiades.stoa.org/places/391537222)
 
 
 ## Gurgum (Q143737)
