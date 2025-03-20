@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3665 alignments exist in _Pleiades_ place references as of 2025-03-19. The following list of alignments is grouped by zotkey.
+3665 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5190,7 +5190,7 @@
 [https://topostext.org/place/412141UCal](https://topostext.org/place/412141UCal)  
 
 ### alignments:
- - [Cales](https://pleiades.stoa.org/places/432739)
+ - [Cales (Campania)](https://pleiades.stoa.org/places/432739)
 
 
 ## Calleva Atrebatum (Britannia)
@@ -11531,7 +11531,7 @@
 [https://topostext.org/place/353258SHer](https://topostext.org/place/353258SHer)  
 
 ### alignments:
- - [Hermes, Aphrodite, T.](https://pleiades.stoa.org/places/589805)
+ - [Hermes and Aphrodite Sanctuary](https://pleiades.stoa.org/places/589805)
 
 
 ## Kato Tritos site (Lesbos)

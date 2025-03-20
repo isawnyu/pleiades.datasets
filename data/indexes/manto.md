@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-620 alignments exist in _Pleiades_ place references as of 2025-03-19. The following list of alignments is grouped by zotkey.
+620 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  

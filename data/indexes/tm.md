@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4199 alignments exist in _Pleiades_ place references as of 2025-03-19. The following list of alignments is grouped by zotkey.
+4201 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20858,6 +20858,13 @@
  - [Molchia](https://pleiades.stoa.org/places/874606)
 
 
+## GEO ID 41542: Sammachi (Shammerkh Çay)
+[https://www.trismegistos.org/place/41542](https://www.trismegistos.org/place/41542)  
+
+### alignments:
+ - [Sammachi](https://pleiades.stoa.org/places/874674)
+
+
 ## GEO ID 41549: Sarbane (Gürkaynak)
 [https://www.trismegistos.org/place/41549](https://www.trismegistos.org/place/41549)  
 
@@ -20912,6 +20919,13 @@
 
 ### alignments:
  - [Kimmerikon](https://pleiades.stoa.org/places/854696)
+
+
+## GEO ID 41567: Nabaris (Ambar Çay)
+[https://www.trismegistos.org/place/41567](https://www.trismegistos.org/place/41567)  
+
+### alignments:
+ - [Nabaris/Navarra](https://pleiades.stoa.org/places/874616)
 
 
 ## GEO ID 41573: Medma (Rosarno)
@@ -29080,7 +29094,7 @@
 [http://www.trismegistos.org/place/480](http://www.trismegistos.org/place/480)  
 
 ### alignments:
- - [Cales](https://pleiades.stoa.org/places/432739)
+ - [Cales (Campania)](https://pleiades.stoa.org/places/432739)
 
 
 ## GEO ID, 4878: Arados (Ruad)

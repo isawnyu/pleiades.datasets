@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7455 alignments exist in _Pleiades_ place references as of 2025-03-19. The following list of alignments is grouped by zotkey.
+7460 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6193,6 +6193,13 @@
  - [Caledonia (region)](https://pleiades.stoa.org/places/89132)
 
 
+## Cales (Q1026628)
+[https://www.wikidata.org/wiki/Q1026628](https://www.wikidata.org/wiki/Q1026628)  
+
+### alignments:
+ - [Cales (Campania)](https://pleiades.stoa.org/places/432739)
+
+
 ## Cales (Q65040487)
 [https://www.wikidata.org/wiki/Q65040487](https://www.wikidata.org/wiki/Q65040487)  
 
@@ -10094,6 +10101,13 @@
  - [Little Milton, Ditchend Villa](https://pleiades.stoa.org/places/875950353)
 
 
+## Diyarbakır (Q83387)
+[https://www.wikidata.org/wiki/Q83387](https://www.wikidata.org/wiki/Q83387)  
+
+### alignments:
+ - [Ad Tygrem/Amida](https://pleiades.stoa.org/places/874298)
+
+
 ## Djarkutan (Q1265824)
 [https://www.wikidata.org/wiki/Q1265824](https://www.wikidata.org/wiki/Q1265824)  
 
@@ -13700,6 +13714,13 @@
 
 ### alignments:
  - [House M8-A](https://pleiades.stoa.org/places/888638008)
+
+
+## House of Aufidia Cornelia Valentinilla (Q96757985)
+[https://www.wikidata.org/wiki/Q96757985](https://www.wikidata.org/wiki/Q96757985)  
+
+### alignments:
+ - [House of Aufidia Cornelia Valentinilla](https://pleiades.stoa.org/places/624604510)
 
 
 ## House of Bacchus and Ariadne (Q1047006)
@@ -22862,6 +22883,13 @@
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
 
 
+## Pir Hüseyin Höyüğü (Q133425385)
+[https://www.wikidata.org/wiki/Q133425385](https://www.wikidata.org/wiki/Q133425385)  
+
+### alignments:
+ - [Pir Hüseyin](https://pleiades.stoa.org/places/943028498)
+
+
 ## Piraeus (Q13426467)
 [https://www.wikidata.org/wiki/Q13426467](https://www.wikidata.org/wiki/Q13426467)  
 
@@ -24379,13 +24407,6 @@
 
 ### alignments:
  - [Caereni](https://pleiades.stoa.org/places/356833207)
-
-
-## Q1026628: Cales
-[https://www.wikidata.org/wiki/Q1026628](https://www.wikidata.org/wiki/Q1026628)  
-
-### alignments:
- - [Cales](https://pleiades.stoa.org/places/432739)
 
 
 ## Q10276237: Roman villa of Frielas
@@ -27322,6 +27343,13 @@
 
 ### alignments:
  - [Valley of the Kings](https://pleiades.stoa.org/places/384697574)
+
+
+## Q133441687
+[https://www.wikidata.org/wiki/Q133441687](https://www.wikidata.org/wiki/Q133441687)  
+
+### alignments:
+ - [Ponte Sereno](https://pleiades.stoa.org/places/158906364)
 
 
 ## Q1334825: Pelion
@@ -31632,13 +31660,6 @@
 
 ### alignments:
  - [Sabagura](https://pleiades.stoa.org/places/795853)
-
-
-## Q220: Rome
-[https://www.wikidata.org/wiki/Q220](https://www.wikidata.org/wiki/Q220)  
-
-### alignments:
- - [Roma](https://pleiades.stoa.org/places/423025)
 
 
 ## Q2210995: Sacriporto
@@ -42590,6 +42611,13 @@
  - [Rokka](https://pleiades.stoa.org/places/590034)
 
 
+## Roma (Q18287233)
+[https://www.wikidata.org/wiki/Q18287233](https://www.wikidata.org/wiki/Q18287233)  
+
+### alignments:
+ - [Roma](https://pleiades.stoa.org/places/423025)
+
+
 ## Roman agora of Corinth (Q125523468)
 [https://www.wikidata.org/wiki/Q125523468](https://www.wikidata.org/wiki/Q125523468)  
 
@@ -44225,7 +44253,7 @@
 [https://www.wikidata.org/wiki/Q64002992](https://www.wikidata.org/wiki/Q64002992)  
 
 ### alignments:
- - [Hermes, Aphrodite, T.](https://pleiades.stoa.org/places/589805)
+ - [Hermes and Aphrodite Sanctuary](https://pleiades.stoa.org/places/589805)
 
 
 ## Sanctuary of Minerva (Q3949899)
@@ -52194,6 +52222,13 @@
 
 ### alignments:
  - [Uvecik Tepe](https://pleiades.stoa.org/places/897256486)
+
+
+## Üçtepe Mound (Q6099391)
+[https://www.wikidata.org/wiki/Q6099391](https://www.wikidata.org/wiki/Q6099391)  
+
+### alignments:
+ - [Charcha/‘Arcaiapis’/Karcharoman](https://pleiades.stoa.org/places/874418)
 
 
 ## Ħaġar Qim (Q343053)
