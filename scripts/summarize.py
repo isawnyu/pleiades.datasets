@@ -42,10 +42,13 @@ POSITIONAL_ARGUMENTS = [
 def get_pd_commits(recent):
     commits = dict()
     for c in recent:
+        msg = c["commit"]["message"].strip().lower()
+        msg = msg.split(":")[0].strip()
+        msg = msg.split("\n")[0].strip()
         try:
-            commits[c["commit"]["message"]]
+            commits[msg]
         except KeyError:
-            commits[c["commit"]["message"]] = {
+            commits[msg] = {
                 "sha": c["sha"],
                 "url": c["url"],
                 "datestamp": c["commit"]["author"]["date"],
@@ -74,7 +77,11 @@ def get_pd_commits(recent):
             c = commits[full_k]
         except KeyError:
             if k == "data quality":
-                alternate_keys = ["data_quality", "data quailty", "data quaality"]
+                alternate_keys = [
+                    "data_quality",
+                    "data quailty",
+                    "data quaality",
+                ]
                 for alt_k in alternate_keys:
                     try:
                         c = commits[f"updated {alt_k}"]
@@ -94,6 +101,7 @@ def get_pd_commits(recent):
                         success = True
                         break
             if not success:
+                logger.debug(f"commits.keys: {commits.keys()}")
                 alternate_keys.append(k)
                 goofy_k = list()
                 for this_k in alternate_keys:
