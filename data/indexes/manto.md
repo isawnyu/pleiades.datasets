@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-620 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
+621 alignments exist in _Pleiades_ place references as of 2025-03-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2857,6 +2857,13 @@
 
 ### alignments:
  - [Nilus (river)](https://pleiades.stoa.org/places/727172)
+
+
+## 8253950: Memphis (Egypt)
+[https://resource.manto.unh.edu/8253950](https://resource.manto.unh.edu/8253950)  
+
+### alignments:
+ - [Memphis](https://pleiades.stoa.org/places/736963)
 
 
 ## 8253951: Libya (region in North Africa)

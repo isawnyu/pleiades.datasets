@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7460 alignments exist in _Pleiades_ place references as of 2025-03-20. The following list of alignments is grouped by zotkey.
+7462 alignments exist in _Pleiades_ place references as of 2025-03-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1414,6 +1414,13 @@
 
 ### alignments:
  - [Amanium](https://pleiades.stoa.org/places/108739)
+
+
+## Ambar (Gre Filla) (Q133422846)
+[https://www.wikidata.org/wiki/Q133422846](https://www.wikidata.org/wiki/Q133422846)  
+
+### alignments:
+ - [Gre Fılla](https://pleiades.stoa.org/places/139157615)
 
 
 ## Ambiani (Q223581)
@@ -6555,6 +6562,13 @@
 
 ### alignments:
  - [Carleith](https://pleiades.stoa.org/places/940475797)
+
+
+## Carmarthen (Q133413367)
+[https://www.wikidata.org/wiki/Q133413367](https://www.wikidata.org/wiki/Q133413367)  
+
+### alignments:
+ - [Carmarthen](https://pleiades.stoa.org/places/780447856)
 
 
 ## Carmine Roman tomb (Q3852984)
