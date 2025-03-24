@@ -70,6 +70,12 @@
     ],
     "contributors": [
         {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
             "name": "R. Talbert",
             "username": null
         },
@@ -87,12 +93,12 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
         }
     ],
-    "created": "2009-11-02T15:54:43Z",
+    "created": "2025-03-22T14:03:36Z",
     "creators": [
         {
             "name": "C. Haselgrove",
@@ -5345,13 +5351,23 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/109206/osm-location-of-modern-la-nied",
                 "location_precision": "precise",
-                "snippet": "Unknown",
+                "snippet": "River; AD 2000 - AD 2099",
                 "title": "OSM Location of modern La Nied"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Added Wikidata ref; update references @maximeg",
+            "modified": "2025-03-22T14:34:45Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-03-22T14:03:35Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "comment": "Edited",
             "modified": "2021-10-11T11:39:22Z",
@@ -5407,7 +5423,14 @@
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [
                 {
                     "homepage": null,
@@ -5427,12 +5450,12 @@
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
@@ -10669,6 +10692,11 @@
             },
             "history": [
                 {
+                    "comment": "Edited",
+                    "modified": "2025-03-22T14:33:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Reimported full relation geometry and updated provenance",
                     "modified": "2024-12-23T00:24:19Z",
                     "modifiedBy": "jbecker"
@@ -10701,10 +10729,10 @@
             ],
             "id": "osm-location-of-modern-la-nied",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "provenance": "OpenStreetMap (Relation 406667, version 15, osm:changeset=120850952, 2022-05-11T17:20:44Z)",
             "references": [
@@ -10721,7 +10749,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": 2000,
             "title": "OSM Location of modern La Nied",
             "uri": "https://pleiades.stoa.org/places/109206/osm-location-of-modern-la-nied"
         }
@@ -10904,12 +10932,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Nida",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Nida",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Nida",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -10922,11 +10950,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q210312",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Nied (Q210312)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        6.540314199739661,
-        49.29251101900089
+        6.540312207560464,
+        49.29251201062886
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

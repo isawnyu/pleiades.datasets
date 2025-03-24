@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        8.4447606,
-        50.227157,
-        8.456629,
-        50.231985
+        8.4439081,
+        50.226638,
+        8.4454836,
+        50.2276323
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/524849660"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -31,43 +33,37 @@
         },
         {
             "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         }
     ],
-    "created": "2009-11-02T15:50:57Z",
+    "created": "2025-03-22T13:44:56Z",
     "creators": [
-        {
-            "name": "C. Haselgrove",
-            "username": null
-        },
         {
             "name": "J. Kunow",
             "username": null
+        },
+        {
+            "name": "C. Haselgrove",
+            "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 11 I2 Feldberg",
-    "details": "The Barrington Atlas Directory notes: Feldberg, GER",
+    "description": "A Roman fort occupied ca. 150-260 CE.",
+    "details": "<p>The Barrington Atlas Directory notes: Feldberg, GER</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    8.456629,
-                    50.231985
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-7751",
-            "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/108979/darmc-location-7751",
-                "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 7751"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -81,13 +77,120 @@
                 "description": "Representative point location, site precision",
                 "link": "https://pleiades.stoa.org/places/108979/dare-location",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 300",
+                "snippet": "Unknown; 30 BC - AD 300",
                 "title": "DARE Location"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.4439081,
+                        50.2271541
+                    ],
+                    [
+                        8.4441889,
+                        50.2274055
+                    ],
+                    [
+                        8.4442257,
+                        50.2274303
+                    ],
+                    [
+                        8.4442673,
+                        50.2274574
+                    ],
+                    [
+                        8.4445795,
+                        50.2276306
+                    ],
+                    [
+                        8.4446096,
+                        50.2276323
+                    ],
+                    [
+                        8.4446393,
+                        50.227626
+                    ],
+                    [
+                        8.4450056,
+                        50.2274316
+                    ],
+                    [
+                        8.4450404,
+                        50.2274084
+                    ],
+                    [
+                        8.4454836,
+                        50.2270771
+                    ],
+                    [
+                        8.4454765,
+                        50.2270462
+                    ],
+                    [
+                        8.4451714,
+                        50.2268658
+                    ],
+                    [
+                        8.4451274,
+                        50.2268399
+                    ],
+                    [
+                        8.4447695,
+                        50.226638
+                    ],
+                    [
+                        8.4446785,
+                        50.2266397
+                    ],
+                    [
+                        8.4442646,
+                        50.2269107
+                    ],
+                    [
+                        8.4442235,
+                        50.2269321
+                    ],
+                    [
+                        8.4439194,
+                        50.2271071
+                    ],
+                    [
+                        8.4439081,
+                        50.2271541
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-kastell-kleiner-feldberg",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/108979/osm-location-of-kastell-kleiner-feldberg",
+                "location_precision": "precise",
+                "snippet": "Fort-2; 30 BC - AD 300",
+                "title": "OSM location of Kastell Kleiner Feldberg"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-03-22T22:26:47Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Changed description and type; added Wikidata ref; update references @maximeg",
+            "modified": "2025-03-22T14:42:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-03-22T13:44:54Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-21T00:09:02Z",
@@ -133,7 +236,7 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
             "accuracy_value": 10.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
@@ -148,111 +251,18 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
-            "created": "2011-03-09T19:53:16Z",
-            "creators": [
-                {
-                    "name": "C. Haselgrove",
-                    "username": null
-                },
-                {
-                    "name": "J. Kunow",
-                    "username": null
-                }
-            ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7751",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.456629,
-                    50.231985
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:10:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-14T23:42:35Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:01:12Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T19:53:17Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:53:17Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T19:53:17Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-7751",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 7751",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7751",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7751.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 7751",
-            "uri": "https://pleiades.stoa.org/places/108979/darmc-location-7751"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [],
             "created": "2012-10-21T00:09:01Z",
             "creators": [
                 {
@@ -265,12 +275,8 @@
             "description": "Representative point location, site precision",
             "details": "",
             "end": 300,
-            "featureType": [
-                "fort"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     8.4447606,
@@ -279,6 +285,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2025-03-22T14:42:41Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-10-21T00:09:02Z",
@@ -304,9 +315,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "locationTypeURI": [],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -325,14 +334,182 @@
             "start": -30,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/108979/dare-location"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-03-22T14:44:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        8.4439081,
+                        50.2271541
+                    ],
+                    [
+                        8.4441889,
+                        50.2274055
+                    ],
+                    [
+                        8.4442257,
+                        50.2274303
+                    ],
+                    [
+                        8.4442673,
+                        50.2274574
+                    ],
+                    [
+                        8.4445795,
+                        50.2276306
+                    ],
+                    [
+                        8.4446096,
+                        50.2276323
+                    ],
+                    [
+                        8.4446393,
+                        50.227626
+                    ],
+                    [
+                        8.4450056,
+                        50.2274316
+                    ],
+                    [
+                        8.4450404,
+                        50.2274084
+                    ],
+                    [
+                        8.4454836,
+                        50.2270771
+                    ],
+                    [
+                        8.4454765,
+                        50.2270462
+                    ],
+                    [
+                        8.4451714,
+                        50.2268658
+                    ],
+                    [
+                        8.4451274,
+                        50.2268399
+                    ],
+                    [
+                        8.4447695,
+                        50.226638
+                    ],
+                    [
+                        8.4446785,
+                        50.2266397
+                    ],
+                    [
+                        8.4442646,
+                        50.2269107
+                    ],
+                    [
+                        8.4442235,
+                        50.2269321
+                    ],
+                    [
+                        8.4439194,
+                        50.2271071
+                    ],
+                    [
+                        8.4439081,
+                        50.2271541
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-03-22T22:25:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-03-22T14:44:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-03-22T14:44:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-03-22T14:44:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-03-22T14:44:03Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-kastell-kleiner-feldberg",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Way 707059619, version 2, osm:changeset=142128748, 2023-10-04T06:42:37Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/707059619",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 707059619",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=707059619",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Kastell Kleiner Feldberg",
+            "uri": "https://pleiades.stoa.org/places/108979/osm-location-of-kastell-kleiner-feldberg"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 11 I2 Feldberg",
     "references": [
@@ -359,31 +536,53 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/48699684",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#Römer-Hessen-266-69",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/K6EJU2MM",
+            "citationDetail": "266-69",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Römer Hessen 266-69",
+            "formattedCitation": "<div class=\"csl-entry\">Baatz, Dietwulf, and Fritz-Rudolf Herrmann, eds. <i>Die Römer in Hessen</i>. 2 ed. Stuttgart, Aalen: Theiss, 1989. http://www.worldcat.org/oclc/48699684.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Römer Hessen",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Klee-1989",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UQB9BB5E",
+            "citationDetail": "72-75",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Klee 1989, 72-75",
+            "formattedCitation": "<div class=\"csl-entry\">Klee, Margot. <i>Der Limes zwischen Rhein und Main: vom Beginn des obergermanischen Limes bei Rheinbrohl bis zum Main bei Grosskrotzenburg</i>. Stuttgart: K. Theiss, 1989.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Klee 1989",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1735383",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castra of Glashütten (Q1735383)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7751",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.4506948,
-        50.229571
+        8.444725208845181,
+        50.227142905697136
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

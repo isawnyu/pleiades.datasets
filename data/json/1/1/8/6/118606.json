@@ -14,18 +14,6 @@
             "username": null
         },
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "M. Puhane",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
@@ -42,17 +30,35 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "M. Puhane",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Maxime Guénette",
+            "uri": "https://pleiades.stoa.org/author/maximeg",
+            "username": "maximeg"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         }
     ],
-    "created": "2010-06-11T21:05:32Z",
+    "created": "2025-03-22T22:39:31Z",
     "creators": [
         {
             "name": "H. Bender",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 12 G4 Boiodurum/Boiotro",
-    "details": "The Barrington Atlas Directory notes: Passau/Innstadt",
+    "description": "A multi-period series of Roman fortifications and associated vicus in the Noricum limes, grouped around the confluence of the modern Inn and Danube rivers (modern Passau and Innstadt in Germany). A Celtic oppidum preceded the Roman presence.",
+    "details": "<p>The Barrington Atlas Directory notes: Passau/Innstadt</p>",
     "features": [
         {
             "geometry": {
@@ -64,7 +70,7 @@
             },
             "id": "darmc-location-7455",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/118606/darmc-location-7455",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -82,7 +88,7 @@
             },
             "id": "darmc-location-7456",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/118606/darmc-location-7456",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
@@ -98,18 +104,43 @@
                 ],
                 "type": "Point"
             },
-            "id": "location-of-boiodurum-boiotro",
+            "id": "osm-location-of-roemermuseum-kastell-boiotro",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/118606/location-of-boiodurum-boiotro",
+                "link": "https://pleiades.stoa.org/places/118606/osm-location-of-roemermuseum-kastell-boiotro",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; 30 BC - AD 640",
-                "title": "location of Boiodurum/Boiotro"
+                "snippet": "Unknown; AD 2000 - AD 2099",
+                "title": "OSM location of Römermuseum Kastell Boiotro"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "EDH G018690:  Boiodurum / Boiotro – Passau (Innstadt, Flurstück 256, Lagervicus) - added",
+            "modified": "2025-03-23T01:13:11Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; cleaned up references; added German wikipedia reference; Edited @thomase",
+            "modified": "2025-03-23T00:37:56Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-03-22T22:39:30Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited type and description; added Wikidata+TM refs by @maximeg",
+            "modified": "2025-03-22T22:31:59Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-03-22T18:21:20Z",
+            "modifiedBy": "maximeg"
+        },
         {
             "comment": "Edited",
             "modified": "2013-07-04T05:30:01Z",
@@ -202,7 +233,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 7455",
             "end": 640,
             "featureType": [
@@ -310,7 +341,7 @@
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 7456",
             "end": 640,
             "featureType": [
@@ -388,24 +419,25 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-07-04T05:27:53Z",
             "creators": [
                 {
@@ -417,15 +449,9 @@
             ],
             "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
-            "featureType": [
-                "settlement",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "end": 2099,
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     13.462092,
@@ -434,6 +460,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern (this is the museum)",
+                    "modified": "2025-03-22T22:39:06Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-08-09T15:08:15Z",
@@ -460,14 +491,11 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "location-of-boiodurum-boiotro",
+            "id": "osm-location-of-roemermuseum-kastell-boiotro",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
+            "locationTypeURI": [],
             "provenance": "OpenStreetMap (Node 437472104, version 3, osm:changeset=8810281, 2011-07-23T21:24:04Z)",
             "references": [
                 {
@@ -483,9 +511,9 @@
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "location of Boiodurum/Boiotro",
-            "uri": "https://pleiades.stoa.org/places/118606/location-of-boiodurum-boiotro"
+            "start": 2000,
+            "title": "OSM location of Römermuseum Kastell Boiotro",
+            "uri": "https://pleiades.stoa.org/places/118606/osm-location-of-roemermuseum-kastell-boiotro"
         }
     ],
     "names": [
@@ -663,12 +691,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/vicus"
     ],
     "placeTypes": [
-        "settlement",
-        "fort"
+        "fort-2",
+        "vicus"
     ],
     "provenance": "Barrington Atlas: BAtlas 12 G4 Boiodurum/Boiotro",
     "references": [
@@ -686,24 +714,68 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#Bender-1991",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4ZZ87B85",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Bender 1991",
+            "formattedCitation": "<div class=\"csl-entry\">Bender, H., T. Fischer, J. Michálek, and J.-P. Niemeier. <i>Niemeier, Passau - Batavis - Boiodurum/Boiotro. Archäologischer Plan von Passau in Römischer Zeit</i>. Salzweg, Passau, 1991.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Bender 1991",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace992.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "3A4 Castellv̄ Bolodvrv̄ (Talbert 992)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 3A4 (Talbert 992)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q2739859",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Castrum Boiodurum (Q2739859)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/41062",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "Geo 41062: Boiodurum (Innstadt)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://de.wikipedia.org/wiki/Kastell_Boiodurum",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QVRBJVTM",
+            "citationDetail": "Kastell Boiodurum",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: Die freie Enzyklopädie</i>. Wikimedia Foundation, 2001. https://de.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (German)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://edh.ub.uni-heidelberg.de/edh/geographie/G018690",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PY3AZV8F",
+            "citationDetail": "G018690:  Boiodurum / Boiotro – Passau (Innstadt, Flurstück 256, Lagervicus)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDH",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [

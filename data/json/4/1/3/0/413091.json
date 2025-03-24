@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        12.6087107,
-        42.9312036,
-        12.6087107,
-        42.9312036
+        12.6087358,
+        42.9312039,
+        12.6089347,
+        42.9314293
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/423080",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:00:25Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "update references",
+                    "modified": "2025-03-21T17:11:30Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:00:25Z",
@@ -46,7 +58,19 @@
             ],
             "id": "423080",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Clitunno",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Clitunno",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Tiberis (river)",
@@ -108,16 +132,21 @@
             },
             "id": "osm-location-of-fiume-clitunno",
             "properties": {
-                "description": "Representative modern location based on OpenStreetMap.",
+                "description": "Associated modern location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/413091/osm-location-of-fiume-clitunno",
                 "location_precision": "precise",
-                "snippet": "River, ; AD 1700 - AD 2100",
+                "snippet": "River; AD 2000 - AD 2099",
                 "title": "OSM location of Fiume Clitunno"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata Clitunno (Q1101868)",
+            "modified": "2025-03-21T17:09:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "ctype",
             "modified": "2021-03-15T20:39:42Z",
@@ -187,8 +216,8 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [],
@@ -201,16 +230,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Representative modern location based on OpenStreetMap.",
+            "description": "Associated modern location based on OpenStreetMap.",
             "details": "",
-            "end": 2100,
+            "end": 2099,
             "featureType": [
-                "river",
-                ""
+                "river"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "geometry": {
                 "coordinates": [
@@ -226,6 +253,16 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "update time period and location type = assoc mod",
+                    "modified": "2025-03-21T17:10:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-03-21T17:09:58Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2024-12-06T04:26:03Z",
@@ -259,11 +296,10 @@
             ],
             "id": "osm-location-of-fiume-clitunno",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/river",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/river"
             ],
             "provenance": "OpenStreetMap (Way 301529546, version 2, osm:changeset=46743062, 2017-03-10T16:34:27Z)",
             "references": [
@@ -280,7 +316,7 @@
                 }
             ],
             "review_state": "published",
-            "start": 1700,
+            "start": 2000,
             "title": "OSM location of Fiume Clitunno",
             "uri": "https://pleiades.stoa.org/places/413091/osm-location-of-fiume-clitunno"
         }
@@ -552,11 +588,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Plin. Ep. (Mynors: PHI)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1101868",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Clitunno (Q1101868)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.6087107,
-        42.9312036
+        12.60883525,
+        42.9313166
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
