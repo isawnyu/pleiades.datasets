@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4201 alignments exist in _Pleiades_ place references as of 2025-03-21. The following list of alignments is grouped by zotkey.
+4206 alignments exist in _Pleiades_ place references as of 2025-03-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1645,6 +1645,13 @@
 
 ### alignments:
  - [‘Praesidio’](https://pleiades.stoa.org/places/746796)
+
+
+## Geo 41062: Boiodurum (Innstadt)
+[https://www.trismegistos.org/place/41062](https://www.trismegistos.org/place/41062)  
+
+### alignments:
+ - [Boiodurum/Boiotro](https://pleiades.stoa.org/places/118606)
 
 
 ## Geo 41382: Naulochon (Bayraklı)
@@ -9514,6 +9521,20 @@
  - [Boi(i)](https://pleiades.stoa.org/places/393390)
 
 
+## Geo ID 20717: Aulerci Eburovices
+[https://www.trismegistos.org/place/20717](https://www.trismegistos.org/place/20717)  
+
+### alignments:
+ - [Eburovices](https://pleiades.stoa.org/places/108953)
+
+
+## Geo ID 20721: Lexovii
+[https://www.trismegistos.org/place/20721](https://www.trismegistos.org/place/20721)  
+
+### alignments:
+ - [Lexovii](https://pleiades.stoa.org/places/109110)
+
+
 ## GEO ID 20737: Treveri
 [http://www.trismegistos.org/place/20737](http://www.trismegistos.org/place/20737)  
 
@@ -11109,6 +11130,13 @@
 
 ### alignments:
  - [Belginum](https://pleiades.stoa.org/places/108802)
+
+
+## GEO ID 24911
+[http://www.trismegistos.org/geo/24911](http://www.trismegistos.org/geo/24911)  
+
+### alignments:
+ - [Burungum?](https://pleiades.stoa.org/places/108838)
 
 
 ## GEO ID 2491: Tyros
@@ -25247,6 +25275,13 @@
 
 ### alignments:
  - [Valseni](https://pleiades.stoa.org/places/241015)
+
+
+## GEO ID 46389
+[http://www.trismegistos.org/place/46389](http://www.trismegistos.org/place/46389)  
+
+### alignments:
+ - [Borgellusa di Avola](https://pleiades.stoa.org/places/462115)
 
 
 ## GEO ID 46397: Monte Artesino di Nicosia

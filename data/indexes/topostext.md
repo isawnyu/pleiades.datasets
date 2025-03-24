@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3665 alignments exist in _Pleiades_ place references as of 2025-03-21. The following list of alignments is grouped by zotkey.
+3667 alignments exist in _Pleiades_ place references as of 2025-03-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -91,6 +91,13 @@
 
 ### alignments:
  - [Chalcidice](https://pleiades.stoa.org/places/491561)
+
+
+## 409312RMar
+[https://topostext.org/place/409312RMar](https://topostext.org/place/409312RMar)  
+
+### alignments:
+ - [Mariandynoi](https://pleiades.stoa.org/places/845013)
 
 
 ## 419125FPLa: Porta/Via Latina (Rome) 29 Roma
@@ -20705,6 +20712,13 @@
 
 ### alignments:
  - [Reate](https://pleiades.stoa.org/places/413283)
+
+
+## Regia (Rome)
+[https://topostext.org/place/419125SReg](https://topostext.org/place/419125SReg)  
+
+### alignments:
+ - [Regia](https://pleiades.stoa.org/places/554680094)
 
 
 ## Regina (Iberia)

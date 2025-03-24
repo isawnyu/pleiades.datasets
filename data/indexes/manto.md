@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-621 alignments exist in _Pleiades_ place references as of 2025-03-21. The following list of alignments is grouped by zotkey.
+622 alignments exist in _Pleiades_ place references as of 2025-03-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3326,6 +3326,13 @@
 
 ### alignments:
  - [Aphetai?](https://pleiades.stoa.org/places/540645)
+
+
+## 9412610
+[https://resource.manto.unh.edu/9412610](https://resource.manto.unh.edu/9412610)  
+
+### alignments:
+ - [Mariandynoi](https://pleiades.stoa.org/places/845013)
 
 
 ## 9414330: River Phasis (Colchis)
