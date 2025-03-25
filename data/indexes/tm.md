@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4206 alignments exist in _Pleiades_ place references as of 2025-03-24. The following list of alignments is grouped by zotkey.
+4207 alignments exist in _Pleiades_ place references as of 2025-03-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25058,6 +25058,13 @@
 
 ### alignments:
  - [Thotis](https://pleiades.stoa.org/places/759679)
+
+
+## GEO ID 45400
+[http://www.trismegistos.org/place/45400](http://www.trismegistos.org/place/45400)  
+
+### alignments:
+ - [[Orcla]](https://pleiades.stoa.org/places/413233)
 
 
 ## GEO ID 45426: Scarlino

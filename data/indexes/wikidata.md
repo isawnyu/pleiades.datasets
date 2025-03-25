@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7501 alignments exist in _Pleiades_ place references as of 2025-03-24. The following list of alignments is grouped by zotkey.
+7505 alignments exist in _Pleiades_ place references as of 2025-03-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -18108,6 +18108,13 @@
  - [Roman amphitheater at Durno(no)varia](https://pleiades.stoa.org/places/95537454)
 
 
+## Mauressip (Q22953690)
+[https://www.wikidata.org/wiki/Q22953690](https://www.wikidata.org/wiki/Q22953690)  
+
+### alignments:
+ - [Mauressip](https://pleiades.stoa.org/places/148131)
+
+
 ## Mauretania Caesariensis (Q734505)
 [https://www.wikidata.org/wiki/Q734505](https://www.wikidata.org/wiki/Q734505)  
 
@@ -30924,6 +30931,13 @@
 
 ### alignments:
  - [Matiane/*Kapauta Limne](https://pleiades.stoa.org/places/874593)
+
+
+## Q1997405
+[https://www.wikidata.org/wiki/Q1997405](https://www.wikidata.org/wiki/Q1997405)  
+
+### alignments:
+ - [[Orcla]](https://pleiades.stoa.org/places/413233)
 
 
 ## Q19984384: Albanus mons (Pauly-Wissowa)
@@ -45913,6 +45927,20 @@
 
 ### alignments:
  - [Provadii͡a-Solnit͡sata](https://pleiades.stoa.org/places/802858342)
+
+
+## Solonion (Q21556425)
+[https://www.wikidata.org/wiki/Q21556425](https://www.wikidata.org/wiki/Q21556425)  
+
+### alignments:
+ - [Solonion](https://pleiades.stoa.org/places/172152)
+
+
+## Solonium (Q133503370)
+[https://www.wikidata.org/wiki/Q133503370](https://www.wikidata.org/wiki/Q133503370)  
+
+### alignments:
+ - [Solonium/Solonius Ager](https://pleiades.stoa.org/places/438838)
 
 
 ## Solothurn (Q68965)
