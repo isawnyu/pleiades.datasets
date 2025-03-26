@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7505 alignments exist in _Pleiades_ place references as of 2025-03-25. The following list of alignments is grouped by zotkey.
+7525 alignments exist in _Pleiades_ place references as of 2025-03-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1155,6 +1155,13 @@
 
 ### alignments:
  - [Alfedena](https://pleiades.stoa.org/places/432666)
+
+
+## Alhambra (Q47476)
+[https://www.wikidata.org/wiki/Q47476](https://www.wikidata.org/wiki/Q47476)  
+
+### alignments:
+ - [Alhambra](https://pleiades.stoa.org/places/720436836)
 
 
 ## Aliphera (Q38281053)
@@ -4441,6 +4448,13 @@
  - [Thermae Agrippae](https://pleiades.stoa.org/places/921692078)
 
 
+## Baths of Caracalla in Albano Laziale (Q3984396)
+[https://www.wikidata.org/wiki/Q3984396](https://www.wikidata.org/wiki/Q3984396)  
+
+### alignments:
+ - [Baths of Caracalla (Albano Laziale)](https://pleiades.stoa.org/places/17912164)
+
+
 ## Baths of Cilurnum (Q68121996)
 [https://www.wikidata.org/wiki/Q68121996](https://www.wikidata.org/wiki/Q68121996)  
 
@@ -5023,6 +5037,13 @@
  - [Blaundos](https://pleiades.stoa.org/places/609344)
 
 
+## Blestium (Q572453)
+[https://www.wikidata.org/wiki/Q572453](https://www.wikidata.org/wiki/Q572453)  
+
+### alignments:
+ - [Blestium](https://pleiades.stoa.org/places/79333)
+
+
 ## Blies (Q585833)
 [https://www.wikidata.org/wiki/Q585833](https://www.wikidata.org/wiki/Q585833)  
 
@@ -5401,6 +5422,13 @@
  - [Boothby Roman fort](https://pleiades.stoa.org/places/24547396)
 
 
+## Borbetomagus (Q893354)
+[https://www.wikidata.org/wiki/Q893354](https://www.wikidata.org/wiki/Q893354)  
+
+### alignments:
+ - [Borbetomagus](https://pleiades.stoa.org/places/108820)
+
+
 ## Borgo San Dalmazzo (Q18372)
 [https://www.wikidata.org/wiki/Q18372](https://www.wikidata.org/wiki/Q18372)  
 
@@ -5749,6 +5777,13 @@
 
 ### alignments:
  - [Bucknowle](https://pleiades.stoa.org/places/79359)
+
+
+## Buconica (Q1000377)
+[https://www.wikidata.org/wiki/Q1000377](https://www.wikidata.org/wiki/Q1000377)  
+
+### alignments:
+ - [Buconica](https://pleiades.stoa.org/places/108835)
 
 
 ## Bulls Down camp (Q17650598)
@@ -6109,6 +6144,13 @@
  - [Caerau Hillfort](https://pleiades.stoa.org/places/747167617)
 
 
+## Caerau Roman site (Q20595979)
+[https://www.wikidata.org/wiki/Q20595979](https://www.wikidata.org/wiki/Q20595979)  
+
+### alignments:
+ - [Caerau](https://pleiades.stoa.org/places/882133969)
+
+
 ## Caerhûn (Samian Ware Discovery Site) (Q103158162)
 [https://www.wikidata.org/wiki/Q103158162](https://www.wikidata.org/wiki/Q103158162)  
 
@@ -6121,6 +6163,13 @@
 
 ### alignments:
  - [Mithraeum at Segontium](https://pleiades.stoa.org/places/702114508)
+
+
+## Caerphilly Roman fort (Q133521128)
+[https://www.wikidata.org/wiki/Q133521128](https://www.wikidata.org/wiki/Q133521128)  
+
+### alignments:
+ - [Caerphilly Roman fort](https://pleiades.stoa.org/places/407613499)
 
 
 ## Caersws Roman Fort (Q113710858)
@@ -7621,6 +7670,13 @@
  - [Branodunum](https://pleiades.stoa.org/places/79346)
 
 
+## Castrum Calo (Q1027384)
+[https://www.wikidata.org/wiki/Q1027384](https://www.wikidata.org/wiki/Q1027384)  
+
+### alignments:
+ - [Calo?](https://pleiades.stoa.org/places/108849)
+
+
 ## Castrum Carsium (Q5046883)
 [https://www.wikidata.org/wiki/Q5046883](https://www.wikidata.org/wiki/Q5046883)  
 
@@ -9027,6 +9083,13 @@
 
 ### alignments:
  - [Column of Marcus Aurelius](https://pleiades.stoa.org/places/952198991)
+
+
+## Colwyn fort (Q133503997)
+[https://www.wikidata.org/wiki/Q133503997](https://www.wikidata.org/wiki/Q133503997)  
+
+### alignments:
+ - [Colwyn](https://pleiades.stoa.org/places/120195538)
 
 
 ## Comana (Q952748)
@@ -12839,6 +12902,13 @@
 
 ### alignments:
  - [Tomba Campana](https://pleiades.stoa.org/places/302659740)
+
+
+## Grotta della vipera (Q21192539)
+[https://www.wikidata.org/wiki/Q21192539](https://www.wikidata.org/wiki/Q21192539)  
+
+### alignments:
+ - [Grotta della Vipera](https://pleiades.stoa.org/places/378833154)
 
 
 ## Grotta Mora Cavorso (Q106963351)
@@ -22533,6 +22603,13 @@
  - [Pen Llystyn](https://pleiades.stoa.org/places/842094503)
 
 
+## Pen Llystyn Roman fort (Q133522197)
+[https://www.wikidata.org/wiki/Q133522197](https://www.wikidata.org/wiki/Q133522197)  
+
+### alignments:
+ - [Pen Llystyn](https://pleiades.stoa.org/places/842094503)
+
+
 ## Pen-y-Crug (Q20584698)
 [https://www.wikidata.org/wiki/Q20584698](https://www.wikidata.org/wiki/Q20584698)  
 
@@ -22580,6 +22657,13 @@
 
 ### alignments:
  - [Brompton Roman fort](https://pleiades.stoa.org/places/148479467)
+
+
+## Penydarren (Samian Ware Discovery Site) (Q103189159)
+[https://www.wikidata.org/wiki/Q103189159](https://www.wikidata.org/wiki/Q103189159)  
+
+### alignments:
+ - [Penydarren Roman fort](https://pleiades.stoa.org/places/100271079)
 
 
 ## Pephnus (Q16617755)
@@ -26712,6 +26796,13 @@
 
 ### alignments:
  - [Rhaithou](https://pleiades.stoa.org/places/746806)
+
+
+## Q124497643
+[https://www.wikidata.org/wiki/Q124497643](https://www.wikidata.org/wiki/Q124497643)  
+
+### alignments:
+ - [Saletio](https://pleiades.stoa.org/places/109317)
 
 
 ## Q1245635
@@ -42926,6 +43017,13 @@
  - [Roman amphitheater at Arretium](https://pleiades.stoa.org/places/442563575)
 
 
+## Roman amphitheatre of Caerleon (Q2844398)
+[https://www.wikidata.org/wiki/Q2844398](https://www.wikidata.org/wiki/Q2844398)  
+
+### alignments:
+ - [Caerleon Roman amphitheatre](https://pleiades.stoa.org/places/642665249)
+
+
 ## Roman Amphitheatre of Cagliari (Q2844403)
 [https://www.wikidata.org/wiki/Q2844403](https://www.wikidata.org/wiki/Q2844403)  
 
@@ -43323,6 +43421,13 @@
 
 ### alignments:
  - [Alcántara](https://pleiades.stoa.org/places/255966)
+
+
+## Roman temple of Tawern (Q1460725)
+[https://www.wikidata.org/wiki/Q1460725](https://www.wikidata.org/wiki/Q1460725)  
+
+### alignments:
+ - [Tabernae](https://pleiades.stoa.org/places/109361)
 
 
 ## Roman temple of Vic (Q2294240)
@@ -44394,6 +44499,13 @@
 
 ### alignments:
  - [Church of St. Peter](https://pleiades.stoa.org/places/322772904)
+
+
+## San Pietro ad Mensulas (Q25112721)
+[https://www.wikidata.org/wiki/Q25112721](https://www.wikidata.org/wiki/Q25112721)  
+
+### alignments:
+ - [Pieve di San Pietro ad Mensulas](https://pleiades.stoa.org/places/41658845)
 
 
 ## San Placido necropolis (Q130646799)
@@ -46132,6 +46244,13 @@
  - [Spetisbury Rings](https://pleiades.stoa.org/places/310920749)
 
 
+## Speyer (Q6829)
+[https://www.wikidata.org/wiki/Q6829](https://www.wikidata.org/wiki/Q6829)  
+
+### alignments:
+ - [Noviomagus/Nemetae](https://pleiades.stoa.org/places/109224)
+
+
 ## Sphaeria (Q60791476)
 [https://www.wikidata.org/wiki/Q60791476](https://www.wikidata.org/wiki/Q60791476)  
 
@@ -46698,6 +46817,13 @@
 
 ### alignments:
  - [Tabennisis](https://pleiades.stoa.org/places/786125)
+
+
+## Tabernae (Q1788426)
+[https://www.wikidata.org/wiki/Q1788426](https://www.wikidata.org/wiki/Q1788426)  
+
+### alignments:
+ - [Tabernae](https://pleiades.stoa.org/places/109362)
 
 
 ## Tabo (Q2386614)
@@ -49598,6 +49724,13 @@
  - [Es Trepucó](https://pleiades.stoa.org/places/13999296)
 
 
+## Tres Tabernae (Saverne) (Q21091695)
+[https://www.wikidata.org/wiki/Q21091695](https://www.wikidata.org/wiki/Q21091695)  
+
+### alignments:
+ - [Tres Tabernae](https://pleiades.stoa.org/places/109389)
+
+
 ## Tretos pass (Q123503112)
 [https://www.wikidata.org/wiki/Q123503112](https://www.wikidata.org/wiki/Q123503112)  
 
@@ -51942,6 +52075,13 @@
 
 ### alignments:
  - [So-called West Church in Apollonia](https://pleiades.stoa.org/places/876619727)
+
+
+## West Cocker Roman Villa (Q133521415)
+[https://www.wikidata.org/wiki/Q133521415](https://www.wikidata.org/wiki/Q133521415)  
+
+### alignments:
+ - [West Coker](https://pleiades.stoa.org/places/70083736)
 
 
 ## Western Ghats (Q4527)

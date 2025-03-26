@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4207 alignments exist in _Pleiades_ place references as of 2025-03-25. The following list of alignments is grouped by zotkey.
+4214 alignments exist in _Pleiades_ place references as of 2025-03-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -113,6 +113,13 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
+
+
+## Blestium: 18988
+[https://www.trismegistos.org/place/18988](https://www.trismegistos.org/place/18988)  
+
+### alignments:
+ - [Blestium](https://pleiades.stoa.org/places/79333)
 
 
 ## Geo 10345: Eleusis
@@ -11244,6 +11251,13 @@
  - [Tres Tabernae](https://pleiades.stoa.org/places/109389)
 
 
+## GEO ID 25432: Saletio (Seltz)
+[http://www.trismegistos.org/place/25432](http://www.trismegistos.org/place/25432)  
+
+### alignments:
+ - [Saletio](https://pleiades.stoa.org/places/109317)
+
+
 ## GEO ID 25439: Vertillum (Vertault)
 [http://www.trismegistos.org/place/25439](http://www.trismegistos.org/place/25439)  
 
@@ -12259,6 +12273,20 @@
  - [(Mons) Brisiacus](https://pleiades.stoa.org/places/109174)
 
 
+## GEO ID 27860: Buconica
+[http://www.trismegistos.org/place/27860](http://www.trismegistos.org/place/27860)  
+
+### alignments:
+ - [Buconica](https://pleiades.stoa.org/places/108835)
+
+
+## GEO ID 27863: Noviomagus Nemetum (Speyer)
+[http://www.trismegistos.org/place/27863](http://www.trismegistos.org/place/27863)  
+
+### alignments:
+ - [Noviomagus/Nemetae](https://pleiades.stoa.org/places/109224)
+
+
 ## GEO ID 27865: Echzell
 [http://www.trismegistos.org/place/27865](http://www.trismegistos.org/place/27865)  
 
@@ -12348,6 +12376,13 @@
 
 ### alignments:
  - [Vicus Senot(ensis)](https://pleiades.stoa.org/places/119031)
+
+
+## GEO ID 28003: Tabernae (Rheinzabern)
+[http://www.trismegistos.org/place/28003](http://www.trismegistos.org/place/28003)  
+
+### alignments:
+ - [Tabernae](https://pleiades.stoa.org/places/109362)
 
 
 ## GEO ID 28011: Sumelocenna (Rottenburg am Neckar)
@@ -19843,6 +19878,13 @@
  - [Ad Aesim](https://pleiades.stoa.org/places/412989)
 
 
+## GEO ID 40822: Tres Tabernae
+[https://www.trismegistos.org/place/40822](https://www.trismegistos.org/place/40822)  
+
+### alignments:
+ - [Tres Tabernae](https://pleiades.stoa.org/places/482022)
+
+
 ## GEO ID 40823: Nicia (Capari)
 [https://www.trismegistos.org/place/40823](https://www.trismegistos.org/place/40823)  
 
@@ -20030,6 +20072,13 @@
 
 ### alignments:
  - [Putea Pallene](https://pleiades.stoa.org/places/344462)
+
+
+## GEO ID 40984: Nivirgi Tabernae
+[https://www.trismegistos.org/place/40984](https://www.trismegistos.org/place/40984)  
+
+### alignments:
+ - [Nivirgi Tabernae](https://pleiades.stoa.org/places/344451)
 
 
 ## GEO ID 40987: Casa Rimoniana
