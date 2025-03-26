@@ -22,7 +22,7 @@
             "username": "sarcanon"
         }
     ],
-    "created": "2024-12-11T18:58:19Z",
+    "created": "2025-03-25T18:54:47Z",
     "creators": [
         {
             "homepage": null,
@@ -44,16 +44,21 @@
             },
             "id": "osm-location",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/842094503/osm-location",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 300",
+                "snippet": "Fort-2; 30 BC - AD 300",
                 "title": "OSM location of Pen Llystyn Roman Fort"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added related references; update references @maximeg",
+            "modified": "2025-03-26T00:36:23Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited type for fort; update references @maximeg",
             "modified": "2024-12-11T20:09:47Z",
@@ -134,14 +139,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -151,6 +156,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2025-03-26T00:36:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Feature type",
+                    "modified": "2025-03-26T00:36:53Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2024-12-11T19:33:16Z",
@@ -197,7 +212,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Node 2776565791, version 8, osm:changeset=138540530, 2023-07-15T11:12:04Z)",
             "references": [
@@ -221,12 +236,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -275,15 +288,15 @@
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://www.coflein.gov.uk/en/site/301056/details/PEN+LLYSTYN%2C+SITE+OF+ROMAN+MILITARY+SETTLEMENT/",
+            "accessURI": "https://coflein.gov.uk/en/site/301056/",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Coflein, PEN LLYSTYN, SITE OF ROMAN MILITARY SETTLEMENT",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IGR9XKXE",
+            "citationDetail": "301056",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Royal Commission on the Ancient and Historical Monuments of Wales. <i>Coflein - The Online Catalogue of Archaeological Sites, Historic Buildings, Industrial and Maritime Heritage in Wales</i>. Aberystwyth, Ceredigion: Royal Commission on the Ancient and Historical Monuments of Wales. Accessed March 19, 2025. https://coflein.gov.uk/en/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Coflein",
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://doi.org/10.1080/00665983.1968.11078339",
@@ -301,6 +314,28 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
             "citationDetail": "Pen Llystyn (Samian Ware Discovery Site) (Q103189134)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "imperium.ahlfeldt.se/places/26215",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "26215",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q133522197",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Pen Llystyn Roman fort (Q133522197)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
