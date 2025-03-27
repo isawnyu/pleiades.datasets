@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3667 alignments exist in _Pleiades_ place references as of 2025-03-26. The following list of alignments is grouped by zotkey.
+3668 alignments exist in _Pleiades_ place references as of 2025-03-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -25423,6 +25423,13 @@
 
 ### alignments:
  - [Xanthos/Sirbis (river)](https://pleiades.stoa.org/places/639167)
+
+
+## Xois (Egypt) 7 Sakha - Ξόϊς
+[https://topostext.org/place/311309UXoi](https://topostext.org/place/311309UXoi)  
+
+### alignments:
+ - [Xois](https://pleiades.stoa.org/places/727256)
 
 
 ## Xombourgo castle (Tinos) Tripotamos

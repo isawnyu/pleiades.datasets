@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7525 alignments exist in _Pleiades_ place references as of 2025-03-26. The following list of alignments is grouped by zotkey.
+7538 alignments exist in _Pleiades_ place references as of 2025-03-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -567,6 +567,13 @@
 
 ### alignments:
  - [Aineia](https://pleiades.stoa.org/places/491513)
+
+
+## Aeolian Islands (Q179883)
+[https://www.wikidata.org/wiki/Q179883](https://www.wikidata.org/wiki/Q179883)  
+
+### alignments:
+ - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
 
 
 ## Aethiopia (Q410453)
@@ -4708,6 +4715,13 @@
  - [Bellunum](https://pleiades.stoa.org/places/187311)
 
 
+## Belvedere di Spinello (Q54494)
+[https://www.wikidata.org/wiki/Q54494](https://www.wikidata.org/wiki/Q54494)  
+
+### alignments:
+ - [Belvedere](https://pleiades.stoa.org/places/452271)
+
+
 ## Belvedere tomb (Q3531028)
 [https://www.wikidata.org/wiki/Q3531028](https://www.wikidata.org/wiki/Q3531028)  
 
@@ -4909,6 +4923,13 @@
 
 ### alignments:
  - [Bedesis (river)](https://pleiades.stoa.org/places/393389)
+
+
+## Bidis (Q133460801)
+[https://www.wikidata.org/wiki/Q133460801](https://www.wikidata.org/wiki/Q133460801)  
+
+### alignments:
+ - [Bidis?](https://pleiades.stoa.org/places/462113)
 
 
 ## Bilhorod-Dnistrovskyi fortress (Q1968086)
@@ -6457,6 +6478,13 @@
 
 ### alignments:
  - [Cantiaci](https://pleiades.stoa.org/places/79374)
+
+
+## Canusium (Q1033927)
+[https://www.wikidata.org/wiki/Q1033927](https://www.wikidata.org/wiki/Q1033927)  
+
+### alignments:
+ - [Canusium](https://pleiades.stoa.org/places/442525)
 
 
 ## Cap de Cervera (Q25422882)
@@ -8712,6 +8740,13 @@
 
 ### alignments:
  - [Kirra](https://pleiades.stoa.org/places/540868)
+
+
+## Cirta (Q1093156)
+[https://www.wikidata.org/wiki/Q1093156](https://www.wikidata.org/wiki/Q1093156)  
+
+### alignments:
+ - [Cirta/Constantina](https://pleiades.stoa.org/places/305064)
 
 
 ## Cisamus (Aptera) (Q15966202)
@@ -12378,6 +12413,13 @@
  - [Gela(s) (river)](https://pleiades.stoa.org/places/462215)
 
 
+## Gelligaer Roman Fort I (Q133539201)
+[https://www.wikidata.org/wiki/Q133539201](https://www.wikidata.org/wiki/Q133539201)  
+
+### alignments:
+ - [Gelligaer](https://pleiades.stoa.org/places/79479)
+
+
 ## Gemiler Island (Q4811584)
 [https://www.wikidata.org/wiki/Q4811584](https://www.wikidata.org/wiki/Q4811584)  
 
@@ -14267,6 +14309,13 @@
 
 ### alignments:
  - [Ipogeo delle Ghirlande](https://pleiades.stoa.org/places/482523500)
+
+
+## hypogeum of the Hoplite (Q56258539)
+[https://www.wikidata.org/wiki/Q56258539](https://www.wikidata.org/wiki/Q56258539)  
+
+### alignments:
+ - [Ipogeo dell'Oplita](https://pleiades.stoa.org/places/775133289)
 
 
 ## Hypogeum of via Livenza (Q3801615)
@@ -17203,6 +17252,13 @@
 
 ### alignments:
  - [Roman amphitheater at Lixus](https://pleiades.stoa.org/places/35858006)
+
+
+## Llanfor Roman fort (Q20586656)
+[https://www.wikidata.org/wiki/Q20586656](https://www.wikidata.org/wiki/Q20586656)  
+
+### alignments:
+ - [Llanfor](https://pleiades.stoa.org/places/975153391)
 
 
 ## Llobregat (Q31424)
@@ -27681,6 +27737,13 @@
  - [Pelion (mountain)](https://pleiades.stoa.org/places/541021)
 
 
+## Q133540165
+[https://www.wikidata.org/wiki/Q133540165](https://www.wikidata.org/wiki/Q133540165)  
+
+### alignments:
+ - [Monte Catalfaro](https://pleiades.stoa.org/places/50391614)
+
+
 ## Q13367: Forlì
 [https://www.wikidata.org/wiki/Q13367](https://www.wikidata.org/wiki/Q13367)  
 
@@ -35998,6 +36061,13 @@
  - [Santa Prisca](https://pleiades.stoa.org/places/45016678)
 
 
+## Q3862096
+[https://www.wikidata.org/wiki/Q3862096](https://www.wikidata.org/wiki/Q3862096)  
+
+### alignments:
+ - [Monte Turcisi](https://pleiades.stoa.org/places/462368)
+
+
 ## Q3862149: Monte del Grano
 [https://www.wikidata.org/wiki/Q3862149](https://www.wikidata.org/wiki/Q3862149)  
 
@@ -44025,6 +44095,13 @@
  - [Rutland Roman Villa](https://pleiades.stoa.org/places/776638571)
 
 
+## Ruvo di Puglia (Q51848)
+[https://www.wikidata.org/wiki/Q51848](https://www.wikidata.org/wiki/Q51848)  
+
+### alignments:
+ - [Rubi](https://pleiades.stoa.org/places/442751)
+
+
 ## Ruweiha (Q2177952)
 [https://www.wikidata.org/wiki/Q2177952](https://www.wikidata.org/wiki/Q2177952)  
 
@@ -49787,6 +49864,13 @@
  - [Trimontium](https://pleiades.stoa.org/places/89304)
 
 
+## Triocala (Q11953150)
+[https://www.wikidata.org/wiki/Q11953150](https://www.wikidata.org/wiki/Q11953150)  
+
+### alignments:
+ - [Triokala?](https://pleiades.stoa.org/places/462525)
+
+
 ## Triopium (Q65088955)
 [https://www.wikidata.org/wiki/Q65088955](https://www.wikidata.org/wiki/Q65088955)  
 
@@ -52215,6 +52299,13 @@
 
 ### alignments:
  - [X7 Barracks](https://pleiades.stoa.org/places/888638027)
+
+
+## Xois (Q1068140)
+[https://www.wikidata.org/wiki/Q1068140](https://www.wikidata.org/wiki/Q1068140)  
+
+### alignments:
+ - [Xois](https://pleiades.stoa.org/places/727256)
 
 
 ## Xypete (Q13424319)

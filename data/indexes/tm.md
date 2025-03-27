@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4214 alignments exist in _Pleiades_ place references as of 2025-03-26. The following list of alignments is grouped by zotkey.
+4216 alignments exist in _Pleiades_ place references as of 2025-03-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5809,6 +5809,13 @@
  - [Abdera](https://pleiades.stoa.org/places/501323)
 
 
+## Geo ID 15001: Llanfor
+[https://www.trismegistos.org/place/15001](https://www.trismegistos.org/place/15001)  
+
+### alignments:
+ - [Llanfor](https://pleiades.stoa.org/places/975153391)
+
+
 ## GEO ID 15020: Segelocum (Littleborough)
 [http://www.trismegistos.org/place/15020](http://www.trismegistos.org/place/15020)  
 
@@ -5928,7 +5935,7 @@
  - [Col. Glevum](https://pleiades.stoa.org/places/79394)
 
 
-## GEO ID 15190
+## GEO ID 15190: Gelligaer
 [http://www.trismegistos.org/place/15190](http://www.trismegistos.org/place/15190)  
 
 ### alignments:
@@ -11172,6 +11179,13 @@
 
 ### alignments:
  - [Xanthos](https://pleiades.stoa.org/places/639166)
+
+
+## GEO ID 2507: Xois (Sakha)
+[http://www.trismegistos.org/place/2507](http://www.trismegistos.org/place/2507)  
+
+### alignments:
+ - [Xois](https://pleiades.stoa.org/places/727256)
 
 
 ## GEO ID 2511: Zakynthos
