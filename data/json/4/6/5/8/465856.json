@@ -1,15 +1,76 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/462503",
+            "contributors": [],
+            "created": "2025-03-26T17:48:09Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-03-26T19:08:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-03-26T17:48:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-03-26T17:48:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-03-26T17:48:09Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "syracusae-syrakousai",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/246/1597-1607",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.89.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Syracusae/Syrakousai",
+            "uri": "https://pleiades.stoa.org/places/465856/syracusae-syrakousai"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/462503"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,6 +78,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-11-11T15:02:54Z",
@@ -26,23 +99,25 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 47 unlocated Archidemia Fons",
-    "details": "The Barrington Atlas Directory notes: in territory of Syracuse",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/465856/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "description": "A spring in the territory of ancient Syracuse. Its precise location cannot be determined today.",
+    "details": "<p>The Barrington Atlas Directory notes: in territory of Syracuse</p>",
+    "features": [],
     "history": [
+        {
+            "comment": "summary; place type += spring",
+            "modified": "2025-03-26T19:09:21Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Cook 1959",
+            "modified": "2025-03-26T17:46:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "plin NH 3.89.4",
+            "modified": "2025-03-26T17:45:25Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T19:33:38Z",
@@ -75,92 +150,7 @@
         }
     ],
     "id": "465856",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:02:55Z",
-            "creators": [
-                {
-                    "name": "R.J.A. Wilson",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:24:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-11-11T19:59:45Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-11T15:22:53Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-11-11T15:02:55Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 47 Archidemia Fons",
-            "references": [],
-            "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/465856/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
@@ -174,14 +164,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "fons Archidemia",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -189,9 +175,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-11T15:02:55Z",
+            "created": "2025-03-26T17:46:41Z",
             "creators": [
                 {
                     "name": "R.J.A. Wilson",
@@ -202,6 +200,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "add Latin name , add pliny by @jbecker",
+                    "modified": "2025-03-26T19:08:16Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:24:32Z",
@@ -224,10 +227,22 @@
                 }
             ],
             "id": "archidemia-fons",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 47 Archidemia Fons",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/246/1597-1607",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "3.89.4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Archidemia Fons",
             "start": -30,
@@ -237,10 +252,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/spring"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "spring"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 Archidemia Fons",
     "references": [
@@ -256,14 +273,36 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/8494638",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Manni-1981",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U2CF7U8D",
+            "citationDetail": "98",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Manni, Eugenio. <i>Geografia fisica e politica della Sicilia antica</i>. Supplementi a Kókalos 4. Rome: G. Bretschneider, 1981. http://www.worldcat.org/oclc/8494638.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Manni 1981",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://latin.packhum.org/loc/978/1/246/1597-1607",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "citationDetail": "3.89.4",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/637965",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/6SHNL2NP",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Manni 1981, 98",
+            "formattedCitation": "<div class=\"csl-entry\">Cook, J. M. “Pliny on Icarian Shores.” <i>The Classical Quarterly</i> 9, no. 1 (1959): 116–25. https://www.jstor.org/stable/637965.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Cook 1959",
             "type": "seeFurther"
         }
     ],
