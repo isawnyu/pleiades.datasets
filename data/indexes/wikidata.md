@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7538 alignments exist in _Pleiades_ place references as of 2025-03-27. The following list of alignments is grouped by zotkey.
+7548 alignments exist in _Pleiades_ place references as of 2025-03-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -604,6 +604,13 @@
  - [Aphaka (Temple of Aphrodite Aphakitis)](https://pleiades.stoa.org/places/668195)
 
 
+## Afrin River (Q387842)
+[https://www.wikidata.org/wiki/Q387842](https://www.wikidata.org/wiki/Q387842)  
+
+### alignments:
+ - [Oinoparas (river)](https://pleiades.stoa.org/places/658557)
+
+
 ## Agamemnoneion of Mycenae (Q105948288)
 [https://www.wikidata.org/wiki/Q105948288](https://www.wikidata.org/wiki/Q105948288)  
 
@@ -819,6 +826,13 @@
 
 ### alignments:
  - [Ain Dara temple](https://pleiades.stoa.org/places/818918654)
+
+
+## Ain Manawir (Q405869)
+[https://www.wikidata.org/wiki/Q405869](https://www.wikidata.org/wiki/Q405869)  
+
+### alignments:
+ - [Manawir el-Biyut](https://pleiades.stoa.org/places/776196)
 
 
 ## Ain Sinu (Q123909252)
@@ -4350,6 +4364,13 @@
  - [Basilis](https://pleiades.stoa.org/places/570147)
 
 
+## Basiluzzo (Q810177)
+[https://www.wikidata.org/wiki/Q810177](https://www.wikidata.org/wiki/Q810177)  
+
+### alignments:
+ - [Basiluzzo](https://pleiades.stoa.org/places/548145747)
+
+
 ## Bassae (Q464923)
 [https://www.wikidata.org/wiki/Q464923](https://www.wikidata.org/wiki/Q464923)  
 
@@ -7640,6 +7661,13 @@
 
 ### alignments:
  - [Castro of Zambujal](https://pleiades.stoa.org/places/607327124)
+
+
+## Castro, Lazio (Q1049884)
+[https://www.wikidata.org/wiki/Q1049884](https://www.wikidata.org/wiki/Q1049884)  
+
+### alignments:
+ - [Castro](https://pleiades.stoa.org/places/413072)
 
 
 ## Castromaior (Q20550533)
@@ -12420,6 +12448,13 @@
  - [Gelligaer](https://pleiades.stoa.org/places/79479)
 
 
+## Gelligaer Roman Fort II (Q133567380)
+[https://www.wikidata.org/wiki/Q133567380](https://www.wikidata.org/wiki/Q133567380)  
+
+### alignments:
+ - [Gelligaer Roman Fort II](https://pleiades.stoa.org/places/25712422)
+
+
 ## Gemiler Island (Q4811584)
 [https://www.wikidata.org/wiki/Q4811584](https://www.wikidata.org/wiki/Q4811584)  
 
@@ -15976,6 +16011,13 @@
 
 ### alignments:
  - [Kolona](https://pleiades.stoa.org/places/122622385)
+
+
+## Kom Firin (Q48813242)
+[https://www.wikidata.org/wiki/Q48813242](https://www.wikidata.org/wiki/Q48813242)  
+
+### alignments:
+ - [Kom Firin](https://pleiades.stoa.org/places/286397929)
 
 
 ## Kommos (Q788080)
@@ -43332,6 +43374,13 @@
  - [Nanstallon](https://pleiades.stoa.org/places/47824565)
 
 
+## Roman Fort of Hindwell Farm (Q122217396)
+[https://www.wikidata.org/wiki/Q122217396](https://www.wikidata.org/wiki/Q122217396)  
+
+### alignments:
+ - [Hindwell Farm](https://pleiades.stoa.org/places/810017626)
+
+
 ## Roman fort on Waddon Hill (Q17647953)
 [https://www.wikidata.org/wiki/Q17647953](https://www.wikidata.org/wiki/Q17647953)  
 
@@ -45430,6 +45479,20 @@
 
 ### alignments:
  - [Sellium](https://pleiades.stoa.org/places/256442)
+
+
+## Selvicciola necropolis (Q133569779)
+[https://www.wikidata.org/wiki/Q133569779](https://www.wikidata.org/wiki/Q133569779)  
+
+### alignments:
+ - [Selvicciola necropolis](https://pleiades.stoa.org/places/813943704)
+
+
+## Selvicciola Roman villa (Q133571425)
+[https://www.wikidata.org/wiki/Q133571425](https://www.wikidata.org/wiki/Q133571425)  
+
+### alignments:
+ - [Selvicciola Roman villa](https://pleiades.stoa.org/places/418123958)
 
 
 ## Selymbria (Q12219946)
@@ -48350,6 +48413,13 @@
 
 ### alignments:
  - [Theater of Dionysus Eleuthereus](https://pleiades.stoa.org/places/649966335)
+
+
+## Theatre of Dougga (Q2291068)
+[https://www.wikidata.org/wiki/Q2291068](https://www.wikidata.org/wiki/Q2291068)  
+
+### alignments:
+ - [Roman theater](https://pleiades.stoa.org/places/37204582)
 
 
 ## Theatre of Heraclea Lyncestis (Q70772454)

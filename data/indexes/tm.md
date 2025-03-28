@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4216 alignments exist in _Pleiades_ place references as of 2025-03-27. The following list of alignments is grouped by zotkey.
+4217 alignments exist in _Pleiades_ place references as of 2025-03-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -28871,6 +28871,13 @@
 
 ### alignments:
  - [Kaine/Maximianopolis](https://pleiades.stoa.org/places/786047)
+
+
+## GEO ID 9533: Pmounousire (Manawir el-Biyut)
+[https://www.trismegistos.org/place/9533](https://www.trismegistos.org/place/9533)  
+
+### alignments:
+ - [Manawir el-Biyut](https://pleiades.stoa.org/places/776196)
 
 
 ## GEO ID 966: Kalamine [east]
