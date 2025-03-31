@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7548 alignments exist in _Pleiades_ place references as of 2025-03-28. The following list of alignments is grouped by zotkey.
+7582 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2093,6 +2093,13 @@
 
 ### alignments:
  - [Ani](https://pleiades.stoa.org/places/863739)
+
+
+## Aniene (Q546600)
+[https://www.wikidata.org/wiki/Q546600](https://www.wikidata.org/wiki/Q546600)  
+
+### alignments:
+ - [Anio (river)](https://pleiades.stoa.org/places/422834)
 
 
 ## Anigrus river (Q546636)
@@ -4736,6 +4743,13 @@
  - [Bellunum](https://pleiades.stoa.org/places/187311)
 
 
+## Belmonte Piceno (Q59224)
+[https://www.wikidata.org/wiki/Q59224](https://www.wikidata.org/wiki/Q59224)  
+
+### alignments:
+ - [Belmonte Piceno](https://pleiades.stoa.org/places/652994900)
+
+
 ## Belvedere di Spinello (Q54494)
 [https://www.wikidata.org/wiki/Q54494](https://www.wikidata.org/wiki/Q54494)  
 
@@ -5077,6 +5091,13 @@
 
 ### alignments:
  - [Blaundos](https://pleiades.stoa.org/places/609344)
+
+
+## Blera (Q159678)
+[https://www.wikidata.org/wiki/Q159678](https://www.wikidata.org/wiki/Q159678)  
+
+### alignments:
+ - [Blera](https://pleiades.stoa.org/places/413054)
 
 
 ## Blestium (Q572453)
@@ -6704,6 +6725,13 @@
  - [Carmarthen](https://pleiades.stoa.org/places/780447856)
 
 
+## Carmiano Roman villa (Q133576088)
+[https://www.wikidata.org/wiki/Q133576088](https://www.wikidata.org/wiki/Q133576088)  
+
+### alignments:
+ - [Villa Carmiano](https://pleiades.stoa.org/places/479701642)
+
+
 ## Carmine Roman tomb (Q3852984)
 [https://www.wikidata.org/wiki/Q3852984](https://www.wikidata.org/wiki/Q3852984)  
 
@@ -6891,6 +6919,13 @@
 
 ### alignments:
  - [Balsignano](https://pleiades.stoa.org/places/588233703)
+
+
+## Casale Vignale necropolis (Q133604822)
+[https://www.wikidata.org/wiki/Q133604822](https://www.wikidata.org/wiki/Q133604822)  
+
+### alignments:
+ - [Casale Vignale necropolis](https://pleiades.stoa.org/places/830662330)
 
 
 ## Casamari Abbey (Q833129)
@@ -10101,6 +10136,13 @@
  - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
 
 
+## Dere Street (Q933249)
+[https://www.wikidata.org/wiki/Q933249](https://www.wikidata.org/wiki/Q933249)  
+
+### alignments:
+ - [Dere Street](https://pleiades.stoa.org/places/82519025)
+
+
 ## Derna (Q211866)
 [https://www.wikidata.org/wiki/Q211866](https://www.wikidata.org/wiki/Q211866)  
 
@@ -12995,6 +13037,13 @@
  - [Grotta Mora Cavorso](https://pleiades.stoa.org/places/795799414)
 
 
+## Grotta Papale (Q133698551)
+[https://www.wikidata.org/wiki/Q133698551](https://www.wikidata.org/wiki/Q133698551)  
+
+### alignments:
+ - [Grotta Papale](https://pleiades.stoa.org/places/422939)
+
+
 ## Grottoes of Catullus (Q3777121)
 [https://www.wikidata.org/wiki/Q3777121](https://www.wikidata.org/wiki/Q3777121)  
 
@@ -13462,6 +13511,13 @@
 
 ### alignments:
  - [Headless Pyramid](https://pleiades.stoa.org/places/347826778)
+
+
+## Healam Bridge Roman fort and vicus (Q17678128)
+[https://www.wikidata.org/wiki/Q17678128](https://www.wikidata.org/wiki/Q17678128)  
+
+### alignments:
+ - [Healam Bridge Roman Fort](https://pleiades.stoa.org/places/594235292)
 
 
 ## Hecatompylos (Q1518300)
@@ -14001,6 +14057,13 @@
 
 ### alignments:
  - [Betitius Perpetuus Arzygius, Domus](https://pleiades.stoa.org/places/245668205)
+
+
+## House of Butehamon (Q133575897)
+[https://www.wikidata.org/wiki/Q133575897](https://www.wikidata.org/wiki/Q133575897)  
+
+### alignments:
+ - [House of Butehamon](https://pleiades.stoa.org/places/421420954)
 
 
 ## house of Farnesina (Q1046588)
@@ -17044,6 +17107,13 @@
  - [Letoon](https://pleiades.stoa.org/places/638958)
 
 
+## Leucians (Q1129493)
+[https://www.wikidata.org/wiki/Q1129493](https://www.wikidata.org/wiki/Q1129493)  
+
+### alignments:
+ - [Leuci](https://pleiades.stoa.org/places/109106)
+
+
 ## Leukyanias (Q15148039)
 [https://www.wikidata.org/wiki/Q15148039](https://www.wikidata.org/wiki/Q15148039)  
 
@@ -17308,6 +17378,13 @@
 
 ### alignments:
  - [Rubricatum (river)](https://pleiades.stoa.org/places/246593)
+
+
+## Loch Long (Q1867273)
+[https://www.wikidata.org/wiki/Q1867273](https://www.wikidata.org/wiki/Q1867273)  
+
+### alignments:
+ - [Lemannonios Kolpos](https://pleiades.stoa.org/places/89225)
 
 
 ## Loch Ryan (Q3835988)
@@ -18288,6 +18365,13 @@
 
 ### alignments:
  - [Mauretania Caesariensis (Roman province)](https://pleiades.stoa.org/places/981532)
+
+
+## Mauretania Sitifensis (Q9030702)
+[https://www.wikidata.org/wiki/Q9030702](https://www.wikidata.org/wiki/Q9030702)  
+
+### alignments:
+ - [Mauretania Sitifensis](https://pleiades.stoa.org/places/991334)
 
 
 ## Mauretania Tingitana (Q1244742)
@@ -19488,6 +19572,13 @@
  - [Mirobriga](https://pleiades.stoa.org/places/256302)
 
 
+## Misa (Q3858967)
+[https://www.wikidata.org/wiki/Q3858967](https://www.wikidata.org/wiki/Q3858967)  
+
+### alignments:
+ - [Misus (river)](https://pleiades.stoa.org/places/413204)
+
+
 ## Mithraeum I (Q123437424)
 [https://www.wikidata.org/wiki/Q123437424](https://www.wikidata.org/wiki/Q123437424)  
 
@@ -19843,6 +19934,13 @@
 
 ### alignments:
  - [Marus (river)](https://pleiades.stoa.org/places/128451)
+
+
+## Morecambe Bay (Q1866414)
+[https://www.wikidata.org/wiki/Q1866414](https://www.wikidata.org/wiki/Q1866414)  
+
+### alignments:
+ - [Morikambe *Eischusis](https://pleiades.stoa.org/places/89245)
 
 
 ## Moridunum (Q3399949)
@@ -20552,6 +20650,13 @@
  - [Necropolis of Filigosa](https://pleiades.stoa.org/places/31345658)
 
 
+## Necropolis of Fondo Pacifico (Q29886476)
+[https://www.wikidata.org/wiki/Q29886476](https://www.wikidata.org/wiki/Q29886476)  
+
+### alignments:
+ - [Fondo Pacifico necropolis](https://pleiades.stoa.org/places/437828318)
+
+
 ## Necropolis of Li Muri (Q1716175)
 [https://www.wikidata.org/wik/Q1716175](https://www.wikidata.org/wik/Q1716175)  
 
@@ -20578,6 +20683,13 @@
 
 ### alignments:
  - [Necropolis of Ponte Messato](https://pleiades.stoa.org/places/151473899)
+
+
+## Necropolis of Porta Ercolano (Q29886465)
+[https://www.wikidata.org/wiki/Q29886465](https://www.wikidata.org/wiki/Q29886465)  
+
+### alignments:
+ - [Necropolis of Porta Ercolano](https://pleiades.stoa.org/places/452502505)
 
 
 ## Necropolis of Pranu Muttedu (Q2107814)
@@ -23651,6 +23763,13 @@
 
 ### alignments:
  - [Ponte de Rubiaes](https://pleiades.stoa.org/places/452983868)
+
+
+## Ponte degli Arcinelli (Q131905648)
+[https://www.wikidata.org/wiki/Q131905648](https://www.wikidata.org/wiki/Q131905648)  
+
+### alignments:
+ - [Ponte degli Arcinelli](https://pleiades.stoa.org/places/547738699)
 
 
 ## Ponte della Maddalena (Q2103761)
@@ -27786,6 +27905,20 @@
  - [Monte Catalfaro](https://pleiades.stoa.org/places/50391614)
 
 
+## Q133576040
+[https://www.wikidata.org/wiki/Q133576040](https://www.wikidata.org/wiki/Q133576040)  
+
+### alignments:
+ - [Selvasecca di Blera](https://pleiades.stoa.org/places/876756581)
+
+
+## Q133628811
+[https://www.wikidata.org/wiki/Q133628811](https://www.wikidata.org/wiki/Q133628811)  
+
+### alignments:
+ - [Villa delle Colonne](https://pleiades.stoa.org/places/544641873)
+
+
 ## Q13367: Forlì
 [https://www.wikidata.org/wiki/Q13367](https://www.wikidata.org/wiki/Q13367)  
 
@@ -30231,13 +30364,6 @@
  - [Cataractonium](https://pleiades.stoa.org/places/89143)
 
 
-## Q17678128: Healam Bridge Roman fort and vicus
-[https://www.wikidata.org/wiki/Q17678128](https://www.wikidata.org/wiki/Q17678128)  
-
-### alignments:
- - [Healam Bridge Roman Fort](https://pleiades.stoa.org/places/594235292)
-
-
 ## Q1776730
 [https://www.wikidata.org/wiki/Q1776730](https://www.wikidata.org/wiki/Q1776730)  
 
@@ -30932,12 +31058,11 @@
  - [Sanctuary at Agios Konstantinos (Methana)](https://pleiades.stoa.org/places/865726154)
 
 
-## Q19622518
+## Q19622518: Regio IV Templum Pacis
 [https://www.wikidata.org/wiki/Q19622518](https://www.wikidata.org/wiki/Q19622518)  
 
 ### alignments:
  - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
- - [Sitifis](https://pleiades.stoa.org/places/305153)
 
 
 ## Q19627849: Poblat ibèric del Turó d'en Boscà
@@ -34161,13 +34286,6 @@
 
 ### alignments:
  - [Columbarium of Pomponius Hylas](https://pleiades.stoa.org/places/390937014)
-
-
-## Q29886465: Necropolis of Porta Ercolano
-[https://www.wikidata.org/wiki/Q29886465](https://www.wikidata.org/wiki/Q29886465)  
-
-### alignments:
- - [Necropolis of Porta Ercolano](https://pleiades.stoa.org/places/452502505)
 
 
 ## Q29886472: Necropolis of Porta Nola
@@ -41833,13 +41951,6 @@
  - [Via Aurelia Aeclanensis?](https://pleiades.stoa.org/places/270868200)
 
 
-## Q933249: Dere Street
-[https://www.wikidata.org/wiki/Q933249](https://www.wikidata.org/wiki/Q933249)  
-
-### alignments:
- - [Dere Street](https://pleiades.stoa.org/places/82519025)
-
-
 ## Q93338: Gaziantep
 [https://www.wikidata.org/wiki/Q93338](https://www.wikidata.org/wiki/Q93338)  
 
@@ -42848,6 +42959,13 @@
  - [Deoua (river)](https://pleiades.stoa.org/places/89164)
 
 
+## River Eden (Q1283506)
+[https://www.wikidata.org/wiki/Q1283506](https://www.wikidata.org/wiki/Q1283506)  
+
+### alignments:
+ - [*Ituna (river)](https://pleiades.stoa.org/places/89211)
+
+
 ## River Eden (Q195364)
 [https://www.wikidata.org/wiki/Q195364](https://www.wikidata.org/wiki/Q195364)  
 
@@ -42909,6 +43027,13 @@
 
 ### alignments:
  - [Ouxella (river)](https://pleiades.stoa.org/places/83875)
+
+
+## River Rother (Q1506209)
+[https://www.wikidata.org/wiki/Q1506209](https://www.wikidata.org/wiki/Q1506209)  
+
+### alignments:
+ - [Lemana (river)](https://pleiades.stoa.org/places/79557)
 
 
 ## River Satnioeis (Troad) (Q130491518)
@@ -44900,6 +45025,13 @@
  - [Santa Maria in Tempulo](https://pleiades.stoa.org/places/382995433)
 
 
+## Santa Marinella (Q243425)
+[https://www.wikidata.org/wiki/Q243425](https://www.wikidata.org/wiki/Q243425)  
+
+### alignments:
+ - [Panapio/Punicum](https://pleiades.stoa.org/places/433010)
+
+
 ## Santa Pudenziana (church) (Q3674191)
 [https://www.wikidata.org/wiki/Q3674191](https://www.wikidata.org/wiki/Q3674191)  
 
@@ -45523,6 +45655,13 @@
  - [Semnones](https://pleiades.stoa.org/places/118962)
 
 
+## Sena Gallica (Q2470340)
+[https://www.wikidata.org/wiki/Q2470340](https://www.wikidata.org/wiki/Q2470340)  
+
+### alignments:
+ - [Sena Gallica](https://pleiades.stoa.org/places/413310)
+
+
 ## Senlis (Samian Ware Discovery Site) (Q103194995)
 [https://www.wikidata.org/wiki/Q103194995](https://www.wikidata.org/wiki/Q103194995)  
 
@@ -45535,6 +45674,13 @@
 
 ### alignments:
  - [Roman amphitheater at Augustomagus](https://pleiades.stoa.org/places/465932145)
+
+
+## Senones (Q1048883)
+[https://www.wikidata.org/wiki/Q1048883](https://www.wikidata.org/wiki/Q1048883)  
+
+### alignments:
+ - [Senones](https://pleiades.stoa.org/places/109337)
 
 
 ## Sepulcrum Hirtii (Q112671662)
@@ -45640,6 +45786,13 @@
 
 ### alignments:
  - [Catribana Roman bridge](https://pleiades.stoa.org/places/792786060)
+
+
+## Setifis (Q15847685)
+[https://www.wikidata.org/wiki/Q15847685](https://www.wikidata.org/wiki/Q15847685)  
+
+### alignments:
+ - [Sitifis](https://pleiades.stoa.org/places/305153)
 
 
 ## Sette Bassi aqueduct (Q130252090)
@@ -47960,6 +48113,13 @@
  - [Temple of the Fabri Navales](https://pleiades.stoa.org/places/282772660)
 
 
+## temple of Themis, Athens (Q133699239)
+[https://www.wikidata.org/wiki/Q133699239](https://www.wikidata.org/wiki/Q133699239)  
+
+### alignments:
+ - [Sanctuary of Themis](https://pleiades.stoa.org/places/658982769)
+
+
 ## Temple of Thutmose III (Q86675259)
 [https://www.wikidata.org/wiki/Q86675259](https://www.wikidata.org/wiki/Q86675259)  
 
@@ -49031,6 +49191,20 @@
  - [Sep. C. Maenius Bassus](https://pleiades.stoa.org/places/423063)
 
 
+## Tomb of C. Veranius Rufus (Q29887326)
+[https://www.wikidata.org/wiki/Q29887326](https://www.wikidata.org/wiki/Q29887326)  
+
+### alignments:
+ - [Tomb of C. Veranius Rufus](https://pleiades.stoa.org/places/533715937)
+
+
+## Tomb of Caecilia Agathia (Q133631186)
+[https://www.wikidata.org/wiki/Q133631186](https://www.wikidata.org/wiki/Q133631186)  
+
+### alignments:
+ - [Tomb of Caecilia Agathia](https://pleiades.stoa.org/places/197672107)
+
+
 ## tomb of Caius Cartilius Poplicola (Q55096569)
 [https://www.wikidata.org/wiki/Q55096569](https://www.wikidata.org/wiki/Q55096569)  
 
@@ -49157,11 +49331,25 @@
  - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
 
 
+## Tomb of Novia Amoena (Q29887322)
+[https://www.wikidata.org/wiki/Q29887322](https://www.wikidata.org/wiki/Q29887322)  
+
+### alignments:
+ - [Tomb of Novia Amoena](https://pleiades.stoa.org/places/197672108)
+
+
 ## Tomb of Numerius Agrestinus Equitius Pulcher (Q127510359)
 [https://www.wikidata.org/wiki/Q127510359](https://www.wikidata.org/wiki/Q127510359)  
 
 ### alignments:
  - [Tomb of Numerius Agrestinus Equitius Pulcher](https://pleiades.stoa.org/places/719121735)
+
+
+## Tomb of P. Mancius Diogenes (Q29887371)
+[https://www.wikidata.org/wiki/Q29887371](https://www.wikidata.org/wiki/Q29887371)  
+
+### alignments:
+ - [Tomb of P. Mancius Diogenes](https://pleiades.stoa.org/places/315324212)
 
 
 ## Tomb of Quintus Sulpicius Maximus (Q1540900)
@@ -49199,6 +49387,13 @@
  - [Tomba dell'Arciere](https://pleiades.stoa.org/places/166695364)
 
 
+## Tomb of the Blaesii (Q133631052)
+[https://www.wikidata.org/wiki/Q133631052](https://www.wikidata.org/wiki/Q133631052)  
+
+### alignments:
+ - [Tomb of the Blaesii](https://pleiades.stoa.org/places/176138363)
+
+
 ## Tomb of the Chariots (Q115596015)
 [https://www.wikidata.org/wiki/Q115596015](https://www.wikidata.org/wiki/Q115596015)  
 
@@ -49211,6 +49406,13 @@
 
 ### alignments:
  - [Tomba delle Anatre](https://pleiades.stoa.org/places/244543115)
+
+
+## Tomb of the Lollii (Q133631014)
+[https://www.wikidata.org/wiki/Q133631014](https://www.wikidata.org/wiki/Q133631014)  
+
+### alignments:
+ - [Tomb of the Lollii](https://pleiades.stoa.org/places/477129965)
 
 
 ## Tomb of the Roaring Lions (Q3531109)
@@ -49302,6 +49504,13 @@
 
 ### alignments:
  - [Tumbus (Nubia)](https://pleiades.stoa.org/places/952615577)
+
+
+## Tombs of the Buccii and Melissaei (Q29887268)
+[https://www.wikidata.org/wiki/Q29887268](https://www.wikidata.org/wiki/Q29887268)  
+
+### alignments:
+ - [Tombs of the Buccii and Melissaei](https://pleiades.stoa.org/places/844519765)
 
 
 ## Tomen y Mur (Q12071213)
@@ -50107,6 +50316,13 @@
 
 ### alignments:
  - [Tucci/Col. Augusta Gemella](https://pleiades.stoa.org/places/266070)
+
+
+## Tugunbulak (Q130708103)
+[https://www.wikidata.org/wiki/Q130708103](https://www.wikidata.org/wiki/Q130708103)  
+
+### alignments:
+ - [Tugunbulak](https://pleiades.stoa.org/places/925716437)
 
 
 ## Tulln an der Donau (Q489810)
@@ -51496,6 +51712,13 @@
  - [Cassio](https://pleiades.stoa.org/places/422879)
 
 
+## Villa of Furius Octavianus (Q133730319)
+[https://www.wikidata.org/wiki/Q133730319](https://www.wikidata.org/wiki/Q133730319)  
+
+### alignments:
+ - [Villa of Furius Octavianus](https://pleiades.stoa.org/places/786809029)
+
+
 ## Villa of L. Crassius Tertius (Q55588235)
 [https://www.wikidata.org/wiki/Q55588235](https://www.wikidata.org/wiki/Q55588235)  
 
@@ -51809,6 +52032,13 @@
 
 ### alignments:
  - [Vodgoriacum](https://pleiades.stoa.org/places/109441)
+
+
+## Voghera (Q39981)
+[https://www.wikidata.org/wiki/Q39981](https://www.wikidata.org/wiki/Q39981)  
+
+### alignments:
+ - [Iria/Forum Iulii Iriensium](https://pleiades.stoa.org/places/383680)
 
 
 ## Vojka (Q382981)
@@ -52544,6 +52774,13 @@
 
 ### alignments:
  - [Sinonia (island)](https://pleiades.stoa.org/places/433121)
+
+
+## Zarai (Q127431715)
+[https://www.wikidata.org/wiki/Q127431715](https://www.wikidata.org/wiki/Q127431715)  
+
+### alignments:
+ - [Zarai](https://pleiades.stoa.org/places/334669)
 
 
 ## Zarqa River (Q798460)

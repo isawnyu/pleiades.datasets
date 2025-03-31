@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4217 alignments exist in _Pleiades_ place references as of 2025-03-28. The following list of alignments is grouped by zotkey.
+4221 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9248,6 +9248,13 @@
  - [Auzia](https://pleiades.stoa.org/places/295221)
 
 
+## GEO ID 20390: Zarai (Zraia)
+[https://www.trismegistos.org/place/20390](https://www.trismegistos.org/place/20390)  
+
+### alignments:
+ - [Zarai](https://pleiades.stoa.org/places/334669)
+
+
 ## GEO ID 20395: Choba (Ziama Mansouria)
 [https://www.trismegistos.org/place/20395](https://www.trismegistos.org/place/20395)  
 
@@ -16111,6 +16118,13 @@
  - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
 
 
+## GEO ID 33223: Mauretania Sitifensis
+[http://www.trismegistos.org/place/33223](http://www.trismegistos.org/place/33223)  
+
+### alignments:
+ - [Mauretania Sitifensis](https://pleiades.stoa.org/places/991334)
+
+
 ## GEO ID 33232: Sporades
 [http://www.trismegistos.org/place/33232](http://www.trismegistos.org/place/33232)  
 
@@ -19703,6 +19717,13 @@
  - [Florenti(ol)a](https://pleiades.stoa.org/places/383649)
 
 
+## GEO ID 40752: Comelimagus (Broni)
+[https://www.trismegistos.org/place/40752](https://www.trismegistos.org/place/40752)  
+
+### alignments:
+ - [‘Comeli magus’](https://pleiades.stoa.org/places/383626)
+
+
 ## GEO ID 40754: Ad Turres
 [http://www.trismegistos.org/place/40754](http://www.trismegistos.org/place/40754)  
 
@@ -21451,6 +21472,13 @@
 
 ### alignments:
  - [Ad Capsum Iuliani/Ad Capsu Iuliani](https://pleiades.stoa.org/places/338243)
+
+
+## GEO ID 41734: Ad Oculum Marinum
+[https://www.trismegistos.org/place/41734](https://www.trismegistos.org/place/41734)  
+
+### alignments:
+ - [Ad Oculum Marinum](https://pleiades.stoa.org/places/338247)
 
 
 ## GEO ID 41735: Ad Lali
