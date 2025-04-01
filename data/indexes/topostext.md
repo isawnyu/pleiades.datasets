@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3668 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
+3671 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -113,6 +113,13 @@
 
 ### alignments:
  - [Abai](https://pleiades.stoa.org/places/540582)
+
+
+## Abakainon (Sicily) 8 Casale di Tripi - Αβάκαινον
+[https://topostext.org/place/381151PAba](https://topostext.org/place/381151PAba)  
+
+### alignments:
+ - [Abakainon](https://pleiades.stoa.org/places/462062)
 
 
 ## Abarnis (Mysia)
@@ -2418,6 +2425,13 @@
 
 ### alignments:
  - [Apollo Nasiotas, T.](https://pleiades.stoa.org/places/540653)
+
+
+## Apollo of Abai (Phokis) 20 Kalapodi - Άβαι
+[https://topostext.org/place/386229SAba](https://topostext.org/place/386229SAba)  
+
+### alignments:
+ - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
 
 
 ## Apollo Patroos Temple
@@ -25276,6 +25290,13 @@
 
 ### alignments:
  - [Virunum](https://pleiades.stoa.org/places/197583)
+
+
+## Visurgis R. (Germania) 15 Weser - Ουίσουργις
+[https://topostext.org/place/535055WVis](https://topostext.org/place/535055WVis)  
+
+### alignments:
+ - [Visurgis (river)](https://pleiades.stoa.org/places/99060)
 
 
 ## Vlithias site (Crete)

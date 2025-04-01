@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7582 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
+7593 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -76,6 +76,20 @@
 
 ### alignments:
  - [Aardenburg](https://pleiades.stoa.org/places/108722)
+
+
+## Abacaenum (Q1238713)
+[https://www.wikidata.org/wiki/Q1238713](https://www.wikidata.org/wiki/Q1238713)  
+
+### alignments:
+ - [Abakainon](https://pleiades.stoa.org/places/462062)
+
+
+## Abai Apollo sanctuary (Q38281622)
+[https://www.wikidata.org/wiki/Q38281622](https://www.wikidata.org/wiki/Q38281622)  
+
+### alignments:
+ - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
 
 
 ## Abariltur (Q11903682)
@@ -1778,6 +1792,13 @@
 
 ### alignments:
  - [Anchialus](https://pleiades.stoa.org/places/216702)
+
+
+## Ancient Abdera (Q132527193)
+[https://www.wikidata.org/wiki/Q132527193](https://www.wikidata.org/wiki/Q132527193)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/501323)
 
 
 ## Ancient Corsica (Q1784775)
@@ -6151,6 +6172,13 @@
  - [Cadmea](https://pleiades.stoa.org/places/239936126)
 
 
+## Cae Gaer Roman fort (Q133757978)
+[https://www.wikidata.org/wiki/Q133757978](https://www.wikidata.org/wiki/Q133757978)  
+
+### alignments:
+ - [Cae Gaer Roman fort](https://pleiades.stoa.org/places/8861236)
+
+
 ## Caelian Hill (Q216104)
 [https://www.wikidata.org/wiki/Q216104](https://www.wikidata.org/wiki/Q216104)  
 
@@ -6772,6 +6800,13 @@
 
 ### alignments:
  - [*Brocolitia](https://pleiades.stoa.org/places/89128)
+
+
+## Carrow Hill Roman fort (Q133757369)
+[https://www.wikidata.org/wiki/Q133757369](https://www.wikidata.org/wiki/Q133757369)  
+
+### alignments:
+ - [Carrow Hill Roman fort](https://pleiades.stoa.org/places/792788520)
 
 
 ## Carrowmore (Q260398)
@@ -10304,6 +10339,13 @@
  - [Diocaesarea](https://pleiades.stoa.org/places/648623)
 
 
+## Diocese of Africa (Q1234394)
+[https://www.wikidata.org/wiki/Q1234394](https://www.wikidata.org/wiki/Q1234394)  
+
+### alignments:
+ - [Africa (diocese)](https://pleiades.stoa.org/places/154459219)
+
+
 ## Diocese of Gaul (Q1228610)
 [https://www.wikidata.org/wiki/Q1228610](https://www.wikidata.org/wiki/Q1228610)  
 
@@ -13198,6 +13240,13 @@
  - [Gonur Tepe](https://pleiades.stoa.org/places/391537222)
 
 
+## Gunugu (Q1555056)
+[https://www.wikidata.org/wiki/Q1555056](https://www.wikidata.org/wiki/Q1555056)  
+
+### alignments:
+ - [Gunugu](https://pleiades.stoa.org/places/295268)
+
+
 ## Gurgum (Q143737)
 [https://www.wikidata.org/wiki/Q143737](https://www.wikidata.org/wiki/Q143737)  
 
@@ -14575,6 +14624,13 @@
 
 ### alignments:
  - [Idebessos](https://pleiades.stoa.org/places/638865)
+
+
+## Idistaviso (Q10752474)
+[https://www.wikidata.org/wiki/Q10752474](https://www.wikidata.org/wiki/Q10752474)  
+
+### alignments:
+ - [Idistaviso](https://pleiades.stoa.org/places/101201)
 
 
 ## Ietas (Q1655395)
@@ -24372,6 +24428,13 @@
 
 ### alignments:
  - [Prinassos](https://pleiades.stoa.org/places/606358)
+
+
+## Princely Abbey of Corvey (Q56004)
+[https://www.wikidata.org/wiki/Q56004](https://www.wikidata.org/wiki/Q56004)  
+
+### alignments:
+ - [Corvey](https://pleiades.stoa.org/places/377547412)
 
 
 ## Priniatikos Pyrgos (Q7245224
@@ -36121,13 +36184,6 @@
 
 ### alignments:
  - [Methymna](https://pleiades.stoa.org/places/550738)
-
-
-## Q38281622: Abai Apollo sanctuary
-[https://www.wikidata.org/wiki/Q38281622](https://www.wikidata.org/wiki/Q38281622)  
-
-### alignments:
- - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## Q38281812: Ancient theater of Chaeronea
@@ -48827,6 +48883,13 @@
  - [Thrakike](https://pleiades.stoa.org/places/1001132)
 
 
+## Three Cocks Roman fort (Q133757597)
+[https://www.wikidata.org/wiki/Q133757597](https://www.wikidata.org/wiki/Q133757597)  
+
+### alignments:
+ - [Three Cocks Roman fort](https://pleiades.stoa.org/places/963064754)
+
+
 ## Throne Room, Knossos (Q7798352)
 [https://www.wikidata.org/wiki/Q7798352](https://www.wikidata.org/wiki/Q7798352)  
 
@@ -50309,6 +50372,13 @@
 
 ### alignments:
  - [Thubunae/Tuben Oppidum](https://pleiades.stoa.org/places/334641)
+
+
+## Tucca (?) (Q127431472)
+[https://www.wikidata.org/wiki/Q127431472](https://www.wikidata.org/wiki/Q127431472)  
+
+### alignments:
+ - [Tucca?/Fines Africae et Mauretaniae?](https://pleiades.stoa.org/places/305172)
 
 
 ## Tucci (Q6153672)
@@ -52445,6 +52515,13 @@
 
 ### alignments:
  - [Watling Lodge](https://pleiades.stoa.org/places/77301056)
+
+
+## Weser (Q1650)
+[https://www.wikidata.org/wiki/Q1650](https://www.wikidata.org/wiki/Q1650)  
+
+### alignments:
+ - [Visurgis (river)](https://pleiades.stoa.org/places/99060)
 
 
 ## Wesseling Roman Fort (Q1798803)

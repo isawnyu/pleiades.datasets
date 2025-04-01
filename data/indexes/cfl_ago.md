@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-380 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
+381 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -698,7 +698,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=21301](https://chronique.efa.gr/?kroute=topo_public&id=21301)  
 
 ### alignments:
- - [Abai](https://pleiades.stoa.org/places/540582)
+ - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
 
 
 ## Toponym 21333: Elis, Ilis, Palaiopolis
@@ -2322,6 +2322,13 @@
 
 ### alignments:
  - [Actium](https://pleiades.stoa.org/places/530771)
+
+
+## Toponyme 4762: Acropolis, Acropole-Ακρόπολη Αθηνών
+[https://chronique.efa.gr/?r=topo_public&id=4762](https://chronique.efa.gr/?r=topo_public&id=4762)  
+
+### alignments:
+ - [Acropolis of Athens](https://pleiades.stoa.org/places/638356144)
 
 
 ## Toponyme 4794: Alea, Tegea (271/1940), Piali (Modern history)

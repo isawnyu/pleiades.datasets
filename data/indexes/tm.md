@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4221 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
+4223 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1988,6 +1988,13 @@
 
 ### alignments:
  - [Mataei](https://pleiades.stoa.org/places/736960)
+
+
+## Geo 57044: Akropolis
+[https://www.trismegistos.org/place/57044](https://www.trismegistos.org/place/57044)  
+
+### alignments:
+ - [Acropolis of Athens](https://pleiades.stoa.org/places/638356144)
 
 
 ## Geo 57965: Pserimos
@@ -27672,6 +27679,13 @@
 
 ### alignments:
  - [Castulonensis Saltus](https://pleiades.stoa.org/places/265856)
+
+
+## GEO ID 61171: Visurgis (Weser)
+[https://www.trismegistos.org/place/61171](https://www.trismegistos.org/place/61171)  
+
+### alignments:
+ - [Visurgis (river)](https://pleiades.stoa.org/places/99060)
 
 
 ## GEO ID 6117: Oreine Chersonesos

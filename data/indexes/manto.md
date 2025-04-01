@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-622 alignments exist in _Pleiades_ place references as of 2025-03-31. The following list of alignments is grouped by zotkey.
+623 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2990,6 +2990,13 @@
 
 ### alignments:
  - [Peneios (river)](https://pleiades.stoa.org/places/570579)
+
+
+## 8253990: Abdera (Thrace)
+[https://resource.manto.unh.edu/8253990](https://resource.manto.unh.edu/8253990)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/501323)
 
 
 ## 8253991: Mount Olympos
