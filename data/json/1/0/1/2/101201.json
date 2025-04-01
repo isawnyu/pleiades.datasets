@@ -1,15 +1,64 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/99060",
+            "contributors": [],
+            "created": "2025-03-31T18:31:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-03-31T19:50:57Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-03-31T18:58:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2025-03-31T18:31:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-03-31T18:31:18Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "visurgis-river",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Visurgis (river)",
+            "uri": "https://pleiades.stoa.org/places/101201/visurgis-river"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/99060"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,17 +66,29 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-11-02T14:30:22Z",
+    "created": "2025-03-31T18:28:38Z",
     "creators": [
         {
             "name": "J.H.F. Bloemers",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 10 unlocated Idistaviso",
-    "details": "None",
+    "description": "Now unlocated, Idistaviso was an ancient place on the Weser River. It was the location of a battle in 16 CE between Roman forces commanded by Tiberius and Germanicus and an alliance of Germanic forces commanded by Ariminus.",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": null,
@@ -43,6 +104,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; updated Connections by @jbecker",
+            "modified": "2025-03-31T19:50:28Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2025-03-31T14:32:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T20:30:20Z",
@@ -179,14 +250,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Idistaviso",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -194,9 +261,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2009-11-02T14:30:22Z",
+            "created": "2025-03-31T18:29:02Z",
             "creators": [
                 {
                     "name": "J.H.F. Bloemers",
@@ -207,6 +286,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "add Latin name and Tac. reference by @jbecker",
+                    "modified": "2025-03-31T19:50:48Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T02:08:09Z",
@@ -234,10 +318,22 @@
                 }
             ],
             "id": "idistaviso",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 10 Idistaviso",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/1351/5/96/87-97",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/D7BRHVIM",
+                    "citationDetail": "2.16.2",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Tacitus, Cornelius. <i>Cornelii Taciti Annaliam ab excessu divi Augusti libri</i>. Edited by C. D. Fisher. Scriptorum classicorum bibliotheca Oxoniensis. Oxonii: E Typographeo Clarendoniano, 1906. http://data.perseus.org/texts/urn:cts:latinLit:phi1351.phi005.perseus-lat1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tac. Ann. (Fisher; PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Idistaviso",
             "start": -30,
@@ -266,14 +362,36 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Idistaviso",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Idistaviso",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Idistaviso",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Idistaviso",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q10752474",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Idistaviso (Q10752474)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Battle_of_Idistaviso",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Battle of Idistaviso",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         }
     ],
