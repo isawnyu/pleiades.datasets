@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-381 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
+382 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1943,6 +1943,13 @@
 
 ### alignments:
  - [Amyklai](https://pleiades.stoa.org/places/570074)
+
+
+## Toponyme 3463: Ag. Deka-Δ.Δ. Αγίων Δέκα
+[https://chronique.efa.gr/?r=topo_public&id=3463](https://chronique.efa.gr/?r=topo_public&id=3463)  
+
+### alignments:
+ - [Aulon/Alonion](https://pleiades.stoa.org/places/589721)
 
 
 ## Toponyme 35854: Sami, Samos, Aigialos

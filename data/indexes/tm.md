@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4223 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
+4226 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1367,6 +1367,13 @@
  - [Issus/Nikopolis](https://pleiades.stoa.org/places/658490)
 
 
+## Geo 37478: Abila Dekapoleos (Tell Abil)
+[https://www.trismegistos.org/place/37478](https://www.trismegistos.org/place/37478)  
+
+### alignments:
+ - [Abila Dekapoleos/Seleukeia](https://pleiades.stoa.org/places/677992)
+
+
 ## Geo 37599: 37599
 [https://www.trismegistos.org/place/37599](https://www.trismegistos.org/place/37599)  
 
@@ -2079,6 +2086,13 @@
 
 ### alignments:
  - [Marpessos](https://pleiades.stoa.org/places/550723)
+
+
+## Geo 61009: Abarnis (Çardak)
+[https://www.trismegistos.org/place/61009](https://www.trismegistos.org/place/61009)  
+
+### alignments:
+ - [Abarnis](https://pleiades.stoa.org/places/501322)
 
 
 ## Geo 6105: Onysia
@@ -5779,6 +5793,13 @@
 
 ### alignments:
  - [Portus Lemanis](https://pleiades.stoa.org/places/79647)
+
+
+## GEO ID 14975
+[http://www.trismegistos.org/place/14975](http://www.trismegistos.org/place/14975)  
+
+### alignments:
+ - [‘Leucaro’](https://pleiades.stoa.org/places/79561)
 
 
 ## Geo ID 14976: Loudoun Hill

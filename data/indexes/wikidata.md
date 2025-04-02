@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7593 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
+7599 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -97,6 +97,13 @@
 
 ### alignments:
  - [Abariltur](https://pleiades.stoa.org/places/252927)
+
+
+## Abarnis (Q65073170)
+[https://www.wikidata.org/wiki/Q65073170](https://www.wikidata.org/wiki/Q65073170)  
+
+### alignments:
+ - [Abarnis](https://pleiades.stoa.org/places/501322)
 
 
 ## Abbey of San Pancrazio al Fango (Q3603238)
@@ -223,6 +230,7 @@
 
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
+ - [Akakesion](https://pleiades.stoa.org/places/573061)
 
 
 ## Acamantis (Q2822481)
@@ -5968,6 +5976,13 @@
  - [Bosana](https://pleiades.stoa.org/places/678071)
 
 
+## Bush Farm Roman fort (Q133799827)
+[https://www.wikidata.org/wiki/Q133799827](https://www.wikidata.org/wiki/Q133799827)  
+
+### alignments:
+ - [Bush Farm fort](https://pleiades.stoa.org/places/821226559)
+
+
 ## Bushehr (Q158928)
 [https://www.wikidata.org/wiki/Q158928](https://www.wikidata.org/wiki/Q158928)  
 
@@ -6219,6 +6234,13 @@
 
 ### alignments:
  - [Caer Gybi](https://pleiades.stoa.org/places/79362)
+
+
+## Caer Llugwy (Q5016871)
+[https://www.wikidata.org/wiki/Q5016871](https://www.wikidata.org/wiki/Q5016871)  
+
+### alignments:
+ - [Caer Llugwy](https://pleiades.stoa.org/places/601039653)
 
 
 ## Caer y Twr (Q5016875)
@@ -17163,6 +17185,13 @@
  - [Letoon](https://pleiades.stoa.org/places/638958)
 
 
+## Leucarum (Q6533992)
+[https://www.wikidata.org/wiki/Q6533992](https://www.wikidata.org/wiki/Q6533992)  
+
+### alignments:
+ - [‘Leucaro’](https://pleiades.stoa.org/places/79561)
+
+
 ## Leucians (Q1129493)
 [https://www.wikidata.org/wiki/Q1129493](https://www.wikidata.org/wiki/Q1129493)  
 
@@ -22874,6 +22903,13 @@
 
 ### alignments:
  - [Pen Llystyn](https://pleiades.stoa.org/places/842094503)
+
+
+## Pen-Llwyn Roman fort (Q122219357)
+[https://www.wikidata.org/wiki/Q122219357](https://www.wikidata.org/wiki/Q122219357)  
+
+### alignments:
+ - [Pen-Llwyn fort](https://pleiades.stoa.org/places/636031892)
 
 
 ## Pen-y-Crug (Q20584698)
@@ -52620,6 +52656,13 @@
 
 ### alignments:
  - [Wincobank hill fort](https://pleiades.stoa.org/places/502974419)
+
+
+## Wiston Roman fort (Q72160229)
+[https://www.wikidata.org/wiki/Q72160229](https://www.wikidata.org/wiki/Q72160229)  
+
+### alignments:
+ - [Wiston fort](https://pleiades.stoa.org/places/1754699)
 
 
 ## Woden Law (Q31105689)

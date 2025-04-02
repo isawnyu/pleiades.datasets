@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-495 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
+496 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3117,6 +3117,13 @@
  - [Methydrion](https://pleiades.stoa.org/places/570484)
  - [Phalanthon M.](https://pleiades.stoa.org/places/570588)
  - [Phalanthos](https://pleiades.stoa.org/places/573443)
+
+
+## 8.36.10
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.36.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.36.10)  
+
+### alignments:
+ - [Akakesion](https://pleiades.stoa.org/places/573061)
 
 
 ## 8.36.2

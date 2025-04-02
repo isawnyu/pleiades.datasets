@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-623 alignments exist in _Pleiades_ place references as of 2025-04-01. The following list of alignments is grouped by zotkey.
+623 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -230,6 +230,7 @@
 
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
+ - [Akakesion](https://pleiades.stoa.org/places/573061)
 
 
 ## 10126256: River Helisson (Arcadia)
