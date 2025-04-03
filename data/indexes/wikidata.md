@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7599 alignments exist in _Pleiades_ place references as of 2025-04-02. The following list of alignments is grouped by zotkey.
+7600 alignments exist in _Pleiades_ place references as of 2025-04-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1625,6 +1625,13 @@
 
 ### alignments:
  - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
+
+
+## Amphipolis (Q217414)
+[https://www.wikidata.org/wiki/Q217414](https://www.wikidata.org/wiki/Q217414)  
+
+### alignments:
+ - [Amphipolis](https://pleiades.stoa.org/places/501347)
 
 
 ## amphitheater of Lyon (Q3124)
