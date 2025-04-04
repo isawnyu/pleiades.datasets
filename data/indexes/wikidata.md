@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7600 alignments exist in _Pleiades_ place references as of 2025-04-03. The following list of alignments is grouped by zotkey.
+7618 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2220,6 +2220,13 @@
 
 ### alignments:
  - [Antinoeion at Hadrian's Villa](https://pleiades.stoa.org/places/652231746)
+
+
+## Antinoeis (Q19921935)
+[https://www.wikidata.org/wiki/Q19921935](https://www.wikidata.org/wiki/Q19921935)  
+
+### alignments:
+ - [Antinoeis](https://pleiades.stoa.org/places/585886)
 
 
 ## Antiochia ad Taurum (Q303856)
@@ -4863,6 +4870,13 @@
  - [Berenike?](https://pleiades.stoa.org/places/530819)
 
 
+## Berenike to Taucheira, road (Q104808332)
+[https://www.wikidata.org/wiki/Q104808332](https://www.wikidata.org/wiki/Q104808332)  
+
+### alignments:
+ - [Untitled](https://pleiades.stoa.org/places/375997)
+
+
 ## Bergamo (Samian Ware Discovery Site) (Q103146531)
 [https://www.wikidata.org/wiki/Q103146531](https://www.wikidata.org/wiki/Q103146531)  
 
@@ -6619,6 +6633,13 @@
 
 ### alignments:
  - [Phrourion?/Boosoura? (promontory)](https://pleiades.stoa.org/places/707612)
+
+
+## Cape Dragutina (Q34830247)
+[https://www.wikidata.org/wiki/Q34830247](https://www.wikidata.org/wiki/Q34830247)  
+
+### alignments:
+ - [Sarpedon (promontory in Thrace)](https://pleiades.stoa.org/places/501602)
 
 
 ## Cape Kormakitis (Q959369)
@@ -8607,6 +8628,13 @@
 
 ### alignments:
  - [Chorazin](https://pleiades.stoa.org/places/678091)
+
+
+## Chott el Djerid (Q849143)
+[https://www.wikidata.org/wiki/Q849143](https://www.wikidata.org/wiki/Q849143)  
+
+### alignments:
+ - [Salinarum L./Tritonis Palus](https://pleiades.stoa.org/places/334616)
 
 
 ## Chott el Hodna (Q745975)
@@ -11039,6 +11067,7 @@
 
 ### alignments:
  - [Eetioneia Hellenistic gateway](https://pleiades.stoa.org/places/487072545)
+ - [Eetioneia Pr.](https://pleiades.stoa.org/places/582868)
 
 
 ## Eggardon Hill (Q5347865)
@@ -11200,6 +11229,13 @@
 
 ### alignments:
  - [Elaios](https://pleiades.stoa.org/places/844913)
+
+
+## Elaious (Q13426478)
+[https://www.wikidata.org/wiki/Q13426478](https://www.wikidata.org/wiki/Q13426478)  
+
+### alignments:
+ - [Elaious?](https://pleiades.stoa.org/places/579917)
 
 
 ## Elaiussa Sebaste (Q1324870)
@@ -16189,6 +16225,13 @@
  - [Iconium/Claudiconium](https://pleiades.stoa.org/places/648647)
 
 
+## Kopros (Q18079262)
+[https://www.wikidata.org/wiki/Q18079262](https://www.wikidata.org/wiki/Q18079262)  
+
+### alignments:
+ - [Kopros](https://pleiades.stoa.org/places/579989)
+
+
 ## Korama (Q78339684)
 [https://www.wikidata.org/wiki/Q78339684](https://www.wikidata.org/wiki/Q78339684)  
 
@@ -16229,6 +16272,13 @@
 
 ### alignments:
  - [Casuagus/Kossoanos (river)](https://pleiades.stoa.org/places/59763)
+
+
+## Kothokidai (Q13427378)
+[https://www.wikidata.org/wiki/Q13427378](https://www.wikidata.org/wiki/Q13427378)  
+
+### alignments:
+ - [Kothokidai?](https://pleiades.stoa.org/places/579995)
 
 
 ## Kotyora (Q21089229)
@@ -16301,6 +16351,13 @@
  - [Krobyzoi](https://pleiades.stoa.org/places/216865)
 
 
+## Kropidai (Q13465160)
+[https://www.wikidata.org/wiki/Q13465160](https://www.wikidata.org/wiki/Q13465160)  
+
+### alignments:
+ - [Kropidai](https://pleiades.stoa.org/places/579996)
+
+
 ## Ksar el Kaoua (Q20726070)
 [https://www.wikidata.org/wiki/Q20726070](https://www.wikidata.org/wiki/Q20726070)  
 
@@ -16362,6 +16419,13 @@
 
 ### alignments:
  - [Kotais](https://pleiades.stoa.org/places/863830)
+
+
+## Kydathenaion (Q3200897)
+[https://www.wikidata.org/wiki/Q3200897](https://www.wikidata.org/wiki/Q3200897)  
+
+### alignments:
+ - [Kydathenaion](https://pleiades.stoa.org/places/582862)
 
 
 ## Kyll (Q677944)
@@ -21736,6 +21800,13 @@
  - [Oisyme](https://pleiades.stoa.org/places/501533)
 
 
+## Oeum (Q12882098)
+[https://www.wikidata.org/wiki/Q12882098](https://www.wikidata.org/wiki/Q12882098)  
+
+### alignments:
+ - [Oion Dekeleikon](https://pleiades.stoa.org/places/580041)
+
+
 ## Ofanto (Q841550)
 [https://www.wikidata.org/wiki/Q841550](https://www.wikidata.org/wiki/Q841550)  
 
@@ -22457,6 +22528,13 @@
  - [Baris (river)](https://pleiades.stoa.org/places/49901)
 
 
+## Pambotadai (Q13416289)
+[https://www.wikidata.org/wiki/Q13416289](https://www.wikidata.org/wiki/Q13416289)  
+
+### alignments:
+ - [Pambotadai](https://pleiades.stoa.org/places/585940)
+
+
 ## Pamphylia (Q585250)
 [https://www.wikidata.org/wiki/Q585250](https://www.wikidata.org/wiki/Q585250)  
 
@@ -22476,6 +22554,13 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## Panathenaic Stadium (Q208811)
+[https://www.wikidata.org/wiki/Q208811](https://www.wikidata.org/wiki/Q208811)  
+
+### alignments:
+ - [Panathenaic Stadium](https://pleiades.stoa.org/places/433457819)
 
 
 ## Pancrazi tomb (Via Latina) (Q123986360)
@@ -42932,6 +43017,13 @@
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
+## Rhodius (Q65040466)
+[https://www.wikidata.org/wiki/Q65040466](https://www.wikidata.org/wiki/Q65040466)  
+
+### alignments:
+ - [Rhodios (river)](https://pleiades.stoa.org/places/501590)
+
+
 ## Rhodope (Q2528747)
 [https://www.wikidata.org/wiki/Q2528747](https://www.wikidata.org/wiki/Q2528747)  
 
@@ -45243,6 +45335,13 @@
  - [Sarno Baths](https://pleiades.stoa.org/places/957926371)
 
 
+## Sarpedon (Q11947780)
+[https://www.wikidata.org/wiki/Q11947780](https://www.wikidata.org/wiki/Q11947780)  
+
+### alignments:
+ - [Sarpedonion (promontory)](https://pleiades.stoa.org/places/648764)
+
+
 ## Sarpol-e Zahab (Q765582)
 [https://www.wikidata.org/wiki/Q765582](https://www.wikidata.org/wiki/Q765582)  
 
@@ -45845,6 +45944,13 @@
  - [Serra Orrios](https://pleiades.stoa.org/places/574404728)
 
 
+## Serreion promontory (Q20108903)
+[https://www.wikidata.org/wiki/Q20108903](https://www.wikidata.org/wiki/Q20108903)  
+
+### alignments:
+ - [Serreion (promontory)](https://pleiades.stoa.org/places/501606)
+
+
 ## Servian (Q1073096)
 [https://www.wikidata.org/wiki/Q1073096](https://www.wikidata.org/wiki/Q1073096)  
 
@@ -46291,6 +46397,13 @@
 
 ### alignments:
  - [Nea Skala](https://pleiades.stoa.org/places/531010)
+
+
+## Skambonidai (Q13464949)
+[https://www.wikidata.org/wiki/Q13464949](https://www.wikidata.org/wiki/Q13464949)  
+
+### alignments:
+ - [Skambonidai](https://pleiades.stoa.org/places/582865)
 
 
 ## Skantzoura (Q520124)
@@ -48931,6 +49044,20 @@
 
 ### alignments:
  - [Three Cocks Roman fort](https://pleiades.stoa.org/places/963064754)
+
+
+## Thria (Q13415595)
+[https://www.wikidata.org/wiki/Q13415595](https://www.wikidata.org/wiki/Q13415595)  
+
+### alignments:
+ - [Thria](https://pleiades.stoa.org/places/580120)
+
+
+## Thriasian Plain (Q7798122)
+[https://www.wikidata.org/wiki/Q7798122](https://www.wikidata.org/wiki/Q7798122)  
+
+### alignments:
+ - [Thriasion Pedion](https://pleiades.stoa.org/places/580122)
 
 
 ## Throne Room, Knossos (Q7798352)

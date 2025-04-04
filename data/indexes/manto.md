@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-624 alignments exist in _Pleiades_ place references as of 2025-04-03. The following list of alignments is grouped by zotkey.
+627 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -777,6 +777,13 @@
 
 ### alignments:
  - [Aricia](https://pleiades.stoa.org/places/422844)
+
+
+## 10159357: Colonos Hippios (Attica)
+[https://resource.manto.unh.edu/10159357](https://resource.manto.unh.edu/10159357)  
+
+### alignments:
+ - [Kolonos Hippios](https://pleiades.stoa.org/places/582869)
 
 
 ## 10159362: Cephale (Attica)
@@ -2072,6 +2079,13 @@
 
 ### alignments:
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## 11304845: the Promontory of Sarpedon (Cilicia)
+[https://resource.manto.unh.edu/11304845](https://resource.manto.unh.edu/11304845)  
+
+### alignments:
+ - [Sarpedonion (promontory)](https://pleiades.stoa.org/places/648764)
 
 
 ## 11304947: Mount Calpe (Iberia)
@@ -3607,6 +3621,13 @@
 
 ### alignments:
  - [Dolopia](https://pleiades.stoa.org/places/540737)
+
+
+## 9619274: the Thriasian Plain (Attica)
+[https://resource.manto.unh.edu/9619274](https://resource.manto.unh.edu/9619274)  
+
+### alignments:
+ - [Thriasion Pedion](https://pleiades.stoa.org/places/580122)
 
 
 ## 9619303: Daulia (Phocis)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3671 alignments exist in _Pleiades_ place references as of 2025-04-03. The following list of alignments is grouped by zotkey.
+3674 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12249,6 +12249,13 @@
  - [Kophos Limen (Piraeus)](https://pleiades.stoa.org/places/579988)
 
 
+## Kopros (Attica) 2 E Eleusis - Κόπρειος
+[https://topostext.org/place/380236DKop](https://topostext.org/place/380236DKop)  
+
+### alignments:
+ - [Kopros](https://pleiades.stoa.org/places/579989)
+
+
 ## Koptos (Egypt)
 [https://topostext.org/place/259328UCop](https://topostext.org/place/259328UCop)  
 
@@ -17537,6 +17544,13 @@
  - [Palodes](https://pleiades.stoa.org/places/521104)
 
 
+## Pambotadai (Attica)
+[https://topostext.org/place/380239DPam](https://topostext.org/place/380239DPam)  
+
+### alignments:
+ - [Pambotadai](https://pleiades.stoa.org/places/585940)
+
+
 ## Pamphylia region (Asia Minor) 272 Antalya - Παμφυλία
 [https://topostext.org/place/370320RPam](https://topostext.org/place/370320RPam)  
 
@@ -21346,6 +21360,13 @@
 
 ### alignments:
  - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
+
+
+## Sarpedonion promontory (Cilicia)
+[https://topostext.org/place/362340LSar](https://topostext.org/place/362340LSar)  
+
+### alignments:
+ - [Sarpedonion (promontory)](https://pleiades.stoa.org/places/648764)
 
 
 ## Sarsina (Italy)

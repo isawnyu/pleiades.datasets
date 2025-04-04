@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4226 alignments exist in _Pleiades_ place references as of 2025-04-03. The following list of alignments is grouped by zotkey.
+4230 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -18309,6 +18309,13 @@
  - [Kephale](https://pleiades.stoa.org/places/579971)
 
 
+## GEO ID 37738: Elaious
+[https://www.trismegistos.org/place/37738](https://www.trismegistos.org/place/37738)  
+
+### alignments:
+ - [Elaious?](https://pleiades.stoa.org/places/579917)
+
+
 ## GEO ID 37739: Erchia
 [https://www.trismegistos.org/place/37739](https://www.trismegistos.org/place/37739)  
 
@@ -18356,6 +18363,13 @@
 
 ### alignments:
  - [Phrearroi](https://pleiades.stoa.org/places/580077)
+
+
+## GEO ID 37794: Xypete
+[https://www.trismegistos.org/place/37794](https://www.trismegistos.org/place/37794)  
+
+### alignments:
+ - [Xypete](https://pleiades.stoa.org/places/580134)
 
 
 ## GEO ID 37795: Paiania Kathyperthen (Paiania)
@@ -27247,6 +27261,13 @@
  - [Atene](https://pleiades.stoa.org/places/579883)
 
 
+## GEO ID 60663: Kopros
+[https://www.trismegistos.org/place/60663](https://www.trismegistos.org/place/60663)  
+
+### alignments:
+ - [Kopros](https://pleiades.stoa.org/places/579989)
+
+
 ## GEO ID 60665: Agryle Hypenerthen
 [https://www.trismegistos.org/place/60665](https://www.trismegistos.org/place/60665)  
 
@@ -27266,6 +27287,13 @@
 
 ### alignments:
  - [Paiania Hypenerthen](https://pleiades.stoa.org/places/580046)
+
+
+## GEO ID 60677: Pambotadai
+[https://www.trismegistos.org/place/60677](https://www.trismegistos.org/place/60677)  
+
+### alignments:
+ - [Pambotadai](https://pleiades.stoa.org/places/585940)
 
 
 ## GEO ID 60683: Anakaia (Mygdaleza)
