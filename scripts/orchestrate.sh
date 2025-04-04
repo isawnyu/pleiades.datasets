@@ -8,7 +8,6 @@ set -o pipefail
 set -u
 
 # download and archive exports
-
 # check integrity of downloaded json (prerequisite for following steps)
 
 # FORK 1 STARTS HERE

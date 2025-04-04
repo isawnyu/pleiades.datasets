@@ -15,6 +15,12 @@ set +x
 printf "\n\nDownloading and splitting JSON into individual files\n=====================================================\n"
 set -x
 $VIRTUAL_ENV/bin/python $PD_HOME/scripts/get_json.py -r
+
+set +x
+printf "\n\nChecking integrity of downloaded data (have there been retractions?)\n=====================================================\n"
+set -x
+$VIRTUAL_ENV/bin/python $PD_HOME/scripts/check_integrity.py
+
 git add data/json
 set +e
 git commit -m 'updated json'
@@ -34,7 +40,3 @@ printf "\n\nPushing changes to GitHub\n=========================================
 set -x
 git push origin main
 
-set +x
-printf "\n\nChecking integrity of downloaded data (have there been retractions?)\n=====================================================\n"
-set -x
-$VIRTUAL_ENV/bin/python $PD_HOME/scripts/check_integrity.py
