@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
             "connectsTo": "https://pleiades.stoa.org/places/501638",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:39:47Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located in; batldir reference",
+                    "modified": "2025-04-03T22:04:37Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:39:47Z",
@@ -46,7 +58,19 @@
             ],
             "id": "501638",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 782 see \"Serreion\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Thracia",
@@ -84,30 +108,22 @@
             "username": "thomase"
         }
     ],
-    "created": "2025-03-31T00:42:24Z",
+    "created": "2025-04-03T22:00:31Z",
     "creators": [
         {
             "name": "E.N. Borza",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 51 unlocated Serreion",
+    "description": "Possibly an ancient settlement in Thrace that shared its ancient name with the modern Cape Makri and the modern Mt. Zone, which are relatively close to each other. Despite these correspondences, modern scholars have rejected earlier speculation placing the the settlement on the cape and the Barrington Atlas chose to list it only as an \"unlocated toponym\".",
     "details": "<p>The Barrington Atlas Directory notes: Thrace</p>",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/507461/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
+        {
+            "comment": "title; summary; place type += settlement @thomase",
+            "modified": "2025-04-04T00:40:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "cleaned up references",
             "modified": "2025-03-31T00:43:13Z",
@@ -155,102 +171,7 @@
         }
     ],
     "id": "507461",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T10:38:40Z",
-            "creators": [
-                {
-                    "name": "E.N. Borza",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:49:37Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-06-24T13:29:32Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-06-24T10:55:00Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-06-24T10:38:40Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 51 Serreion",
-            "references": [],
-            "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/507461/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
@@ -337,10 +258,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 51 Serreion",
     "references": [
@@ -374,7 +297,7 @@
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Serreion",
+    "title": "Serreion (settlement)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/507461"
 }
