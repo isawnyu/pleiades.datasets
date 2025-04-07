@@ -1,12 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        24.0,
-        37.5,
-        24.25,
-        37.75
+        24.0617733,
+        37.6981745,
+        24.0617733,
+        37.6981745
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "contributors": [],
+            "created": "2024-11-27T23:07:52Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-04-05T09:11:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-04-04T14:05:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "update reference",
+                    "modified": "2025-04-04T14:05:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2024-11-27T23:07:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2024-11-27T23:07:52Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "attica",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.trismegistos.org/place/60643",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+                    "citationDetail": "GEO ID 60643: Panormos",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TM",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Attica",
+            "uri": "https://pleiades.stoa.org/places/580057/attica"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/579888"
     ],
@@ -53,38 +121,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            24.0,
-                            37.5
-                        ],
-                        [
-                            24.25,
-                            37.5
-                        ],
-                        [
-                            24.25,
-                            37.75
-                        ],
-                        [
-                            24.0,
-                            37.75
-                        ],
-                        [
-                            24.0,
-                            37.5
-                        ]
-                    ]
+                    24.0617733,
+                    37.6981745
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/580057/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580057/osm-location",
+                "location_precision": "precise",
+                "snippet": "Harbor; AD 2000 - AD 2099",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -135,106 +183,114 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-10T21:34:40Z",
+            "created": "2024-11-27T23:03:35Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "harbor"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/harbor"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            24.0,
-                            37.5
-                        ],
-                        [
-                            24.25,
-                            37.5
-                        ],
-                        [
-                            24.25,
-                            37.75
-                        ],
-                        [
-                            24.0,
-                            37.75
-                        ],
-                        [
-                            24.0,
-                            37.5
-                        ]
-                    ]
+                    24.0617733,
+                    37.6981745
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:44:53Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-04-05T09:13:10Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-10T22:07:41Z",
+                    "comment": "certain: matches BAtlas placement",
+                    "modified": "2025-04-05T09:13:02Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-10T22:05:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-04T14:06:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-04-04T14:06:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-11-27T23:03:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-27T23:03:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-10T21:34:40Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-27T23:03:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/harbor"
             ],
-            "provenance": "Barrington Atlas: BAtlas 59 D4 Panormos",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2061272829, version 2, osm:changeset=18174371, 2013-10-04T08:44:03Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2061272829",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2061272829",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2061272829",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/580057/batlas-location"
+            "start": 2000,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/580057/osm-location"
         }
     ],
     "names": [
@@ -403,8 +459,8 @@
         }
     ],
     "reprPoint": [
-        24.125,
-        37.625
+        24.0617733,
+        37.6981745
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
