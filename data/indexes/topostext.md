@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3674 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
+3683 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2258,6 +2258,13 @@
 
 ### alignments:
  - [Aphetai?](https://pleiades.stoa.org/places/540645)
+
+
+## Aphidna fortress (Attica) 63 s of Kapandriti - Άφιδνα
+[https://topostext.org/place/381239DAph](https://topostext.org/place/381239DAph)  
+
+### alignments:
+ - [Aphidna](https://pleiades.stoa.org/places/579873)
 
 
 ## Aphrodisias (Cilicia)
@@ -5881,6 +5888,13 @@
  - [Chrysa](https://pleiades.stoa.org/places/550500)
 
 
+## Chryse island (Crete)
+[https://topostext.org/place/349257IChr](https://topostext.org/place/349257IChr)  
+
+### alignments:
+ - [Chrysea (island)](https://pleiades.stoa.org/places/589746)
+
+
 ## Chrysopolis (Bithynia)
 [https://topostext.org/place/410290UChr](https://topostext.org/place/410290UChr)  
 
@@ -7219,7 +7233,7 @@
 [https://topostext.org/place/381236PDry](https://topostext.org/place/381236PDry)  
 
 ### alignments:
- - [Drymos](https://pleiades.stoa.org/places/585903)
+ - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
 
 
 ## Dryopes tribe (Euboea)
@@ -12579,6 +12593,13 @@
  - [Kreusis](https://pleiades.stoa.org/places/540888)
 
 
+## Krioa deme (Attica)
+[https://topostext.org/place/380239DKri](https://topostext.org/place/380239DKri)  
+
+### alignments:
+ - [Krioa](https://pleiades.stoa.org/places/585923)
+
+
 ## Krios R. (Korinthia)
 [https://topostext.org/place/383228WKri](https://topostext.org/place/383228WKri)  
 
@@ -12705,6 +12726,13 @@
  - [Kydonia](https://pleiades.stoa.org/places/589886)
 
 
+## Kykloboros
+[https://topostext.org/people/6580](https://topostext.org/people/6580)  
+
+### alignments:
+ - [Kykloboros (river)](https://pleiades.stoa.org/places/585925)
+
+
 ## Kyllene (Eleia)
 [https://topostext.org/place/379211PKyl](https://topostext.org/place/379211PKyl)  
 
@@ -12829,6 +12857,13 @@
 
 ### alignments:
  - [Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/658446)
+
+
+## Kyrtones (Phthiotis)
+[https://topostext.org/place/386230SKyr](https://topostext.org/place/386230SKyr)  
+
+### alignments:
+ - [Kyrtones?](https://pleiades.stoa.org/places/540898)
 
 
 ## Kytaion (Rethymno)
@@ -18905,6 +18940,13 @@
  - [Phorbia? Pr.](https://pleiades.stoa.org/places/599886)
 
 
+## Phoron Harbor (Attica) 4 Keratsini?
+[https://topostext.org/place/380236HPhL](https://topostext.org/place/380236HPhL)  
+
+### alignments:
+ - [Phoron Limen](https://pleiades.stoa.org/places/585946)
+
+
 ## Photike (Thesprotia)
 [https://topostext.org/place/395205UPho](https://topostext.org/place/395205UPho)  
 
@@ -24070,6 +24112,13 @@
  - [Thyrea(tis)](https://pleiades.stoa.org/places/570736)
 
 
+## Thyrgonidai, unlocated deme of Attica
+[https://topostext.org/people/6997](https://topostext.org/people/6997)  
+
+### alignments:
+ - [Thyrgonidai](https://pleiades.stoa.org/places/585969)
+
+
 ## Thyrides cape (Lakonia)
 [https://topostext.org/place/365224LThy](https://topostext.org/place/365224LThy)  
 
@@ -24222,6 +24271,13 @@
 
 ### alignments:
  - [Tisaion (mountain)](https://pleiades.stoa.org/places/543891)
+
+
+## Titakidai deme (Attica)
+[https://topostext.org/place/380239DTit](https://topostext.org/place/380239DTit)  
+
+### alignments:
+ - [Titakidai](https://pleiades.stoa.org/places/585970)
 
 
 ## Titane (Korinthia)
@@ -24878,6 +24934,13 @@
 
 ### alignments:
  - [Tyritake](https://pleiades.stoa.org/places/854745)
+
+
+## Tyrmeidai deme (Attica)
+[https://topostext.org/place/380239DTyr](https://topostext.org/place/380239DTyr)  
+
+### alignments:
+ - [Tyrmeidai](https://pleiades.stoa.org/places/585972)
 
 
 ## Tyros (Arkadia) 2 Tyros - Τύρος

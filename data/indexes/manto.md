@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-627 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
+632 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1717,6 +1717,20 @@
  - [Hagnous](https://pleiades.stoa.org/places/579938)
 
 
+## 10764697: Tricorynthos (Attica)
+[https://resource.manto.unh.edu/10764697](https://resource.manto.unh.edu/10764697)  
+
+### alignments:
+ - [Trikorynthos](https://pleiades.stoa.org/places/580125)
+
+
+## 10764710: Hecale (Attica)
+[https://resource.manto.unh.edu/10764710](https://resource.manto.unh.edu/10764710)  
+
+### alignments:
+ - [Hekale?](https://pleiades.stoa.org/places/579944)
+
+
 ## 10769639: Ascalon (the Levant)
 [https://resource.manto.unh.edu/10769639](https://resource.manto.unh.edu/10769639)  
 
@@ -1736,6 +1750,13 @@
 
 ### alignments:
  - [Heraklion](https://pleiades.stoa.org/places/589802)
+
+
+## 10771916: Thymaitadai (Attica)
+[https://resource.manto.unh.edu/10771916](https://resource.manto.unh.edu/10771916)  
+
+### alignments:
+ - [Thymaitadai](https://pleiades.stoa.org/places/580123)
 
 
 ## 10772026: Leuctra (Boiotia)
@@ -1834,6 +1855,13 @@
 
 ### alignments:
  - [Temple of Athena Skiras at Phaleron](https://pleiades.stoa.org/places/397011004)
+
+
+## 1095612: Psyttalea (Saronic Gulf)
+[https://resource.manto.unh.edu/1095612](https://resource.manto.unh.edu/1095612)  
+
+### alignments:
+ - [Psyttaleia (island)](https://pleiades.stoa.org/places/580094)
 
 
 ## 11003301: Ledon (Phocis)
@@ -3614,6 +3642,13 @@
 
 ### alignments:
  - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
+
+
+## 9616046: Aphidnai (Attica)
+[https://resource.manto.unh.edu/9616046](https://resource.manto.unh.edu/9616046)  
+
+### alignments:
+ - [Aphidna](https://pleiades.stoa.org/places/579873)
 
 
 ## 9619213: Dolopia (N. Greece)

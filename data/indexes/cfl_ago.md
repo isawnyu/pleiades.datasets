@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-383 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
+386 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -41,6 +41,13 @@
 
 ### alignments:
  - [Rhypes](https://pleiades.stoa.org/places/570647)
+
+
+## 1775: CHRYSSI ISLAND - 2008
+[https://chronique.efa.gr/?kroute=report&id=1775](https://chronique.efa.gr/?kroute=report&id=1775)  
+
+### alignments:
+ - [Chrysea (island)](https://pleiades.stoa.org/places/589746)
 
 
 ## 18568: NEA PAPHOS - 2022
@@ -139,6 +146,13 @@
 
 ### alignments:
  - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
+
+
+## KAPANDRITI, Kotroni Hill - 2011
+[https://chronique.efa.gr/?kroute=report&id=2476](https://chronique.efa.gr/?kroute=report&id=2476)  
+
+### alignments:
+ - [Aphidna](https://pleiades.stoa.org/places/579873)
 
 
 ## Kastelli Hill - Chania - 2022
@@ -1415,6 +1429,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Toponyme - 16512: Attiki
+[https://chronique.efa.gr/?r=topo_public&id=16512](https://chronique.efa.gr/?r=topo_public&id=16512)  
+
+### alignments:
+ - [Attica](https://pleiades.stoa.org/places/579888)
 
 
 ## Toponyme - 17777: Drapanias

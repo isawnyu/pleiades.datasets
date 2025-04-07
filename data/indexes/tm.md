@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4230 alignments exist in _Pleiades_ place references as of 2025-04-04. The following list of alignments is grouped by zotkey.
+4241 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -18274,6 +18274,13 @@
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
 
 
+## GEO ID 37713: Halimous
+[https://www.trismegistos.org/place/37713](https://www.trismegistos.org/place/37713)  
+
+### alignments:
+ - [Halimous](https://pleiades.stoa.org/places/579941)
+
+
 ## GEO ID 37722: Bate (Ambelokipi)
 [https://www.trismegistos.org/place/37722](https://www.trismegistos.org/place/37722)  
 
@@ -18328,6 +18335,13 @@
 
 ### alignments:
  - [Hagnous](https://pleiades.stoa.org/places/579938)
+
+
+## GEO ID 37748: Hekale (Koukounarti)
+[https://www.trismegistos.org/place/37748](https://www.trismegistos.org/place/37748)  
+
+### alignments:
+ - [Hekale?](https://pleiades.stoa.org/places/579944)
 
 
 ## GEO ID 37751: Ikarion (Dionysos)
@@ -19008,6 +19022,13 @@
 
 ### alignments:
  - [Ǧidda](https://pleiades.stoa.org/places/97875560)
+
+
+## GEO ID 3964: Graias Gony
+[https://www.trismegistos.org/place/3964](https://www.trismegistos.org/place/3964)  
+
+### alignments:
+ - [Graias Gonu](https://pleiades.stoa.org/places/716568)
 
 
 ## GEO ID 40224: Tuniza (La Calle)
@@ -27268,6 +27289,13 @@
  - [Kopros](https://pleiades.stoa.org/places/579989)
 
 
+## GEO ID 60664: Thymaitadai (Keratsini)
+[https://www.trismegistos.org/place/60664](https://www.trismegistos.org/place/60664)  
+
+### alignments:
+ - [Thymaitadai](https://pleiades.stoa.org/places/580123)
+
+
 ## GEO ID 60665: Agryle Hypenerthen
 [https://www.trismegistos.org/place/60665](https://www.trismegistos.org/place/60665)  
 
@@ -27317,6 +27345,13 @@
  - [Dyrr(h)achium/Epidamnos](https://pleiades.stoa.org/places/481818)
 
 
+## GEO ID 60702: Phegaia (Ierotsakouli)
+[https://www.trismegistos.org/place/60702](https://www.trismegistos.org/place/60702)  
+
+### alignments:
+ - [Phegaia](https://pleiades.stoa.org/places/580074)
+
+
 ## GEO ID 60704: Semachidai (Vredou)
 [https://www.trismegistos.org/place/60704](https://www.trismegistos.org/place/60704)  
 
@@ -27331,11 +27366,39 @@
  - [Oion Kerameikon](https://pleiades.stoa.org/places/585936)
 
 
+## GEO ID 60712: Otryne
+[https://www.trismegistos.org/place/60712](https://www.trismegistos.org/place/60712)  
+
+### alignments:
+ - [Otryne](https://pleiades.stoa.org/places/585938)
+
+
+## GEO ID 60713: Krioa
+[https://www.trismegistos.org/place/60713](https://www.trismegistos.org/place/60713)  
+
+### alignments:
+ - [Krioa](https://pleiades.stoa.org/places/585923)
+
+
 ## GEO ID 60714: Phegous
 [https://www.trismegistos.org/place/60714](https://www.trismegistos.org/place/60714)  
 
 ### alignments:
  - [Phegous](https://pleiades.stoa.org/places/585945)
+
+
+## GEO ID 60715: Tyrmeidai
+[https://www.trismegistos.org/place/60715](https://www.trismegistos.org/place/60715)  
+
+### alignments:
+ - [Tyrmeidai](https://pleiades.stoa.org/places/585972)
+
+
+## GEO ID 60716: Titakidai
+[https://www.trismegistos.org/place/60716](https://www.trismegistos.org/place/60716)  
+
+### alignments:
+ - [Titakidai](https://pleiades.stoa.org/places/585970)
 
 
 ## GEO ID 60722: Acherdous
@@ -27433,7 +27496,14 @@
 [https://www.trismegistos.org/place/60773](https://www.trismegistos.org/place/60773)  
 
 ### alignments:
- - [Drymos](https://pleiades.stoa.org/places/585903)
+ - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
+
+
+## GEO ID 60791: Phoron Limen
+[https://www.trismegistos.org/place/60791](https://www.trismegistos.org/place/60791)  
+
+### alignments:
+ - [Phoron Limen](https://pleiades.stoa.org/places/585946)
 
 
 ## GEO ID 60793: Pogon
@@ -27672,6 +27742,13 @@
 
 ### alignments:
  - [Thermodon (river)](https://pleiades.stoa.org/places/857352)
+
+
+## GEO ID 61030: Auridai
+[https://www.trismegistos.org/place/61030](https://www.trismegistos.org/place/61030)  
+
+### alignments:
+ - [Auridai](https://pleiades.stoa.org/places/585892)
 
 
 ## GEO ID 61071: Herkte
