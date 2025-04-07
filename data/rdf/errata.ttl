@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/03/30 06:48:13.944906 GMT-4
+# Date: 2025/04/06 06:48:18.371654 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 4882
+# Triple count: 4924
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -753,6 +753,20 @@
     dcterms:modified "2012-02-14T21:37:49-04:00";
     dcterms:title "Oinoe";
     owl:sameAs <http://pleiades.stoa.org/errata/573401/oinoe> .
+
+<https://pleiades.stoa.org/errata/582866%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Retracted: Akropolis";
+    rdfs:comment "Doublet for https://pleiades.stoa.org/places/582866/";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/582866> .
+
+<https://pleiades.stoa.org/errata/582866/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/109545672>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T21:46:02-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/582866/batlas-location> .
 
 <https://pleiades.stoa.org/errata/592169143%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Mortuary Temple of Ramesses III";
@@ -2353,6 +2367,10 @@
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[22.0, 37.5], [22.0, 38.0], [21.5, 38.0], [21.5, 37.5], [22.0, 37.5]]]}";
     osgeo:asWKT "POLYGON ((22.0000000000000000 37.5000000000000000, 22.0000000000000000 38.0000000000000000, 21.5000000000000000 38.0000000000000000, 21.5000000000000000 37.5000000000000000, 22.0000000000000000 37.5000000000000000))" .
 
+<http://atlantides.org/capgrids/59%23B3-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[23.75, 37.75], [23.75, 38.0], [23.5, 38.0], [23.5, 37.75], [23.75, 37.75]]]}";
+    osgeo:asWKT "POLYGON ((23.7500000000000000 37.7500000000000000, 23.7500000000000000 38.0000000000000000, 23.5000000000000000 38.0000000000000000, 23.5000000000000000 37.7500000000000000, 23.7500000000000000 37.7500000000000000))" .
+
 <http://atlantides.org/capgrids/87%23A4-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[36.0, 40.0], [36.0, 41.0], [35.0, 41.0], [35.0, 40.0], [36.0, 40.0]]]}";
     osgeo:asWKT "POLYGON ((36.0000000000000000 40.0000000000000000, 36.0000000000000000 41.0000000000000000, 35.0000000000000000 41.0000000000000000, 35.0000000000000000 40.0000000000000000, 36.0000000000000000 40.0000000000000000))" .
@@ -3113,6 +3131,27 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/boinoa>,
         <https://pleiades.stoa.org/errata/oinoe> .
+
+<https://pleiades.stoa.org/errata/582866> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/59%23B3>;
+    dcterms:bibliographicCitation "BAtlas 59 B3 Akropolis",
+        "KvA Phyle I Erechtheis 3";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Akropolis";
+    dcterms:creator <http://viaf.org/viaf/109545672>;
+    dcterms:description "Doublet for https://pleiades.stoa.org/places/582866/";
+    dcterms:modified "2025-03-31T16:15:53-04:00";
+    dcterms:title "Retracted: Akropolis";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://www.zotero.org/groups/pleiades/items/97UYB3IF>;
+    owl:sameAs <http://pleiades.stoa.org/errata/582866>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ];
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location> .
 
 <https://pleiades.stoa.org/errata/592169143> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -4887,6 +4926,8 @@
 
 <http://atlantides.org/capgrids/58%23B2> osgeo:extent <http://atlantides.org/capgrids/58%23B2-extent> .
 
+<http://atlantides.org/capgrids/59%23B3> osgeo:extent <http://atlantides.org/capgrids/59%23B3-extent> .
+
 <http://atlantides.org/capgrids/87%23A4> osgeo:extent <http://atlantides.org/capgrids/87%23A4-extent> .
 
 <http://atlantides.org/capgrids/90%23B1> osgeo:extent <http://atlantides.org/capgrids/90%23B1-extent> .
@@ -5048,6 +5089,7 @@
         <http://atlantides.org/capgrids/18%23this>,
         <http://atlantides.org/capgrids/55%23B1>,
         <http://atlantides.org/capgrids/58%23B2>,
+        <http://atlantides.org/capgrids/59%23B3>,
         <http://atlantides.org/capgrids/87%23A4>,
         <http://atlantides.org/capgrids/90%23B1>;
     owl:sameAs <http://pleiades.stoa.org/errata/batlas-location>;
@@ -5057,13 +5099,14 @@
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
-        [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 16" ],
+        [ rdfs:label "Pleiades" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 A4 Skylax fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 24" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
@@ -5072,8 +5115,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
@@ -5083,8 +5126,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
@@ -5096,13 +5139,15 @@
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 25 Untikesken" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/classical>,
+    pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
+        <https://pleiades.stoa.org/vocabularies/classical>,
         <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
         <https://pleiades.stoa.org/vocabularies/late-antique>,
         <https://pleiades.stoa.org/vocabularies/roman>;
     pleiades:end_date -30,
         300,
         640;
-    pleiades:start_date -550,
+    pleiades:start_date -750,
+        -550,
         -330 .
 
