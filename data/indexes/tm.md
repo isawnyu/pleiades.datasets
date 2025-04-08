@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4241 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
+4243 alignments exist in _Pleiades_ place references as of 2025-04-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3642,6 +3642,13 @@
 
 ### alignments:
  - [Mopsou(h)estia/Seleukeia pros to Pyramo](https://pleiades.stoa.org/places/658538)
+
+
+## GEO ID 12956: Abba Sabinou Monasterion
+[https://www.trismegistos.org/place/12956](https://www.trismegistos.org/place/12956)  
+
+### alignments:
+ - [Apa Sabinou, Mon./Borrine Petra](https://pleiades.stoa.org/places/759541)
 
 
 ## GEO ID 12961: Padyandos (Pozantı)
@@ -26045,6 +26052,13 @@
 
 ### alignments:
  - [Caput Africae](https://pleiades.stoa.org/places/243310942)
+
+
+## GEO ID 4971: Gebel el-Teir
+[https://www.trismegistos.org/place/4971](https://www.trismegistos.org/place/4971)  
+
+### alignments:
+ - [Gebel el-Teir el-Qibli](https://pleiades.stoa.org/places/736915)
 
 
 ## GEO ID 4975: Gerf Hussein

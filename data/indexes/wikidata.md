@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7669 alignments exist in _Pleiades_ place references as of 2025-04-07. The following list of alignments is grouped by zotkey.
+7679 alignments exist in _Pleiades_ place references as of 2025-04-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7181,6 +7181,13 @@
  - [Castello di Monte Sant'Angelo](https://pleiades.stoa.org/places/147181486)
 
 
+## Castello Savelli Torlonia (Q3662367)
+[https://www.wikidata.org/wiki/Q3662367](https://www.wikidata.org/wiki/Q3662367)  
+
+### alignments:
+ - [Castello Savelli Torlonia](https://pleiades.stoa.org/places/53963660)
+
+
 ## Castellum Amerinum (Q124155966)
 [https://www.wikidata.org/wiki/Q124155966](https://www.wikidata.org/wiki/Q124155966)  
 
@@ -9800,6 +9807,13 @@
  - [Cursus Barrows (Burial Mounds) ](https://pleiades.stoa.org/places/105470541)
 
 
+## Cutilia (Q11916326)
+[https://www.wikidata.org/wiki/Q11916326](https://www.wikidata.org/wiki/Q11916326)  
+
+### alignments:
+ - [Cutilia](https://pleiades.stoa.org/places/642206904)
+
+
 ## Cutina (Q11916329)
 [https://www.wikidata.org/wiki/Q11916329](https://www.wikidata.org/wiki/Q11916329)  
 
@@ -12239,6 +12253,13 @@
  - [Forum Domitii](https://pleiades.stoa.org/places/148081)
 
 
+## Forum Flaminii (Q1439198)
+[https://www.wikidata.org/wiki/Q1439198](https://www.wikidata.org/wiki/Q1439198)  
+
+### alignments:
+ - [Forum Flaminii](https://pleiades.stoa.org/places/413147)
+
+
 ## Forum granary (Q27687329)
 [https://www.wikidata.org/wiki/Q27687329](https://www.wikidata.org/wiki/Q27687329)  
 
@@ -13291,6 +13312,13 @@
  - [Grotta Papale](https://pleiades.stoa.org/places/422939)
 
 
+## Grotte di Torri (Q3777134)
+[https://www.wikidata.org/wiki/Q3777134](https://www.wikidata.org/wiki/Q3777134)  
+
+### alignments:
+ - [Grotte di Torri](https://pleiades.stoa.org/places/413160)
+
+
 ## Grottoes of Catullus (Q3777121)
 [https://www.wikidata.org/wiki/Q3777121](https://www.wikidata.org/wiki/Q3777121)  
 
@@ -14318,6 +14346,13 @@
 
 ### alignments:
  - [House of Aufidia Cornelia Valentinilla](https://pleiades.stoa.org/places/624604510)
+
+
+## House of Aulus Umbricius Scaurus (Q27688002)
+[https://www.wikidata.org/wiki/Q27688002](https://www.wikidata.org/wiki/Q27688002)  
+
+### alignments:
+ - [House of Aulus Umbricius Scaurus](https://pleiades.stoa.org/places/404426272)
 
 
 ## House of Bacchus and Ariadne (Q1047006)
@@ -19209,6 +19244,13 @@
  - [Metropolis (near Priapus)](https://pleiades.stoa.org/places/440964557)
 
 
+## Mevania (Q17051264)
+[https://www.wikidata.org/wiki/Q17051264](https://www.wikidata.org/wiki/Q17051264)  
+
+### alignments:
+ - [Mevania](https://pleiades.stoa.org/places/413200)
+
+
 ## Mevaniola (Q3307651)
 [https://www.wikidata.org/wiki/Q3307651](https://www.wikidata.org/wiki/Q3307651)  
 
@@ -20202,6 +20244,13 @@
 
 ### alignments:
  - [Monte Falterona](https://pleiades.stoa.org/places/676201591)
+
+
+## Monte Gennaro (Q6698111)
+[https://www.wikidata.org/wiki/Q6698111](https://www.wikidata.org/wiki/Q6698111)  
+
+### alignments:
+ - [Lucretilis Mons](https://pleiades.stoa.org/places/897519353)
 
 
 ## Monte Rovello (Q65129683)
@@ -27983,13 +28032,6 @@
  - [Podere Cannicci (Civitella Paganico - GR)](https://pleiades.stoa.org/places/314862804)
 
 
-## Q130880905
-[https://www.wikidata.org/wiki/Q130880905](https://www.wikidata.org/wiki/Q130880905)  
-
-### alignments:
- - [Tractus Umbriae](https://pleiades.stoa.org/places/798812624)
-
-
 ## Q130958: The Great Sphinx
 [https://www.wikidata.org/wiki/Q130958](https://www.wikidata.org/wiki/Q130958)  
 
@@ -28381,6 +28423,13 @@
 
 ### alignments:
  - [Salone](https://pleiades.stoa.org/places/423032)
+
+
+## Q133834758
+[https://www.wikidata.org/wiki/Q133834758](https://www.wikidata.org/wiki/Q133834758)  
+
+### alignments:
+ - [Colle Sparanise](https://pleiades.stoa.org/places/432796)
 
 
 ## Q1339031: Bignor Roman villa
@@ -33967,13 +34016,6 @@
  - [House of Lucius Cornelius Diadumenus](https://pleiades.stoa.org/places/615457796)
 
 
-## Q27688002: House of Aulus Umbricius Scaurus
-[https://www.wikidata.org/wiki/Q27688002](https://www.wikidata.org/wiki/Q27688002)  
-
-### alignments:
- - [House of Aulus Umbricius Scaurus](https://pleiades.stoa.org/places/404426272)
-
-
 ## Q27688279: House of the Red Walls
 [https://www.wikidata.org/wiki/Q27688279](https://www.wikidata.org/wiki/Q27688279)  
 
@@ -36388,13 +36430,6 @@
 
 ### alignments:
  - [Grotta dell'Uzzo](https://pleiades.stoa.org/places/182402266)
-
-
-## Q3777134
-[https://www.wikidata.org/wiki/Q3777134](https://www.wikidata.org/wiki/Q3777134)  
-
-### alignments:
- - [Grotte di Torri](https://pleiades.stoa.org/places/413160)
 
 
 ## Q3781567
@@ -44817,6 +44852,13 @@
  - [Sabina](https://pleiades.stoa.org/places/423028)
 
 
+## Sabines (Q108356)
+[https://www.wikidata.org/wiki/Q108356](https://www.wikidata.org/wiki/Q108356)  
+
+### alignments:
+ - [Sabini](https://pleiades.stoa.org/places/413291)
+
+
 ## Sacello degli Augustali (Q3944423)
 [https://www.wikidata.org/wiki/Q3944423](https://www.wikidata.org/wiki/Q3944423)  
 
@@ -50488,6 +50530,13 @@
  - [Trachin?](https://pleiades.stoa.org/places/541156)
 
 
+## Tractus Umbriae (Q130880905)
+[https://www.wikidata.org/wiki/Q130880905](https://www.wikidata.org/wiki/Q130880905)  
+
+### alignments:
+ - [Tractus Umbriae](https://pleiades.stoa.org/places/798812624)
+
+
 ## Tragilus (Q18676760)
 [https://www.wikidata.org/wiki/Q18676760](https://www.wikidata.org/wiki/Q18676760)  
 
@@ -50605,6 +50654,13 @@
 
 ### alignments:
  - [Trebiates](https://pleiades.stoa.org/places/53991065)
+
+
+## Trebula (Q3998193)
+[https://www.wikidata.org/wiki/Q3998193](https://www.wikidata.org/wiki/Q3998193)  
+
+### alignments:
+ - [‘Trebula’](https://pleiades.stoa.org/places/433163)
 
 
 ## Trebula Suffenas (Q3998196)
@@ -51067,6 +51123,13 @@
 
 ### alignments:
  - [Tourmanin](https://pleiades.stoa.org/places/658626)
+
+
+## Turocaelum Vettiolum (Q133830778)
+[https://www.wikidata.org/wiki/Q133830778](https://www.wikidata.org/wiki/Q133830778)  
+
+### alignments:
+ - [Turocaelum Vettiolum](https://pleiades.stoa.org/places/416875)
 
 
 ## Turret 0B (St. Francis) (Q131816808)
@@ -52594,6 +52657,13 @@
 
 ### alignments:
  - [Roman amphitheater of Virunum](https://pleiades.stoa.org/places/212586562)
+
+
+## Visuentani (Q124286695)
+[https://www.wikidata.org/wiki/Q124286695](https://www.wikidata.org/wiki/Q124286695)  
+
+### alignments:
+ - [Visuentani](https://pleiades.stoa.org/places/416888)
 
 
 ## Vitellia (Q12902621)
