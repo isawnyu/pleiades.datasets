@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7679 alignments exist in _Pleiades_ place references as of 2025-04-08. The following list of alignments is grouped by zotkey.
+7685 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -799,6 +799,13 @@
 
 ### alignments:
  - [Aianteion](https://pleiades.stoa.org/places/501334)
+
+
+## Aiantis (Q13415437)
+[https://www.wikidata.org/wiki/Q13415437](https://www.wikidata.org/wiki/Q13415437)  
+
+### alignments:
+ - [Aiantis](https://pleiades.stoa.org/places/330976685)
 
 
 ## Aigai (Q404200)
@@ -5486,6 +5493,13 @@
  - [Block X7](https://pleiades.stoa.org/places/451190402)
 
 
+## Blockhouse near Fichti (Q56250623)
+[https://www.wikidata.org/wiki/Q56250623](https://www.wikidata.org/wiki/Q56250623)  
+
+### alignments:
+ - [Limiko blockhouse (Argolid)](https://pleiades.stoa.org/places/500721867)
+
+
 ## Blue Nile (Q882739)
 [https://www.wikidata.org/wiki/Q882739](https://www.wikidata.org/wiki/Q882739)  
 
@@ -9058,6 +9072,13 @@
  - [Iamo/Iamna](https://pleiades.stoa.org/places/265916)
 
 
+## Civic forum of Praeneste (Q3748440)
+[https://www.wikidata.org/wiki/Q3748440](https://www.wikidata.org/wiki/Q3748440)  
+
+### alignments:
+ - [Civic forum of Praeneste](https://pleiades.stoa.org/places/678434580)
+
+
 ## Civitas Camunnorum amphitheatre (Q28978018)
 [https://www.wikidata.org/wiki/Q28978018](https://www.wikidata.org/wiki/Q28978018)  
 
@@ -10478,6 +10499,13 @@
 
 ### alignments:
  - [Dimini](https://pleiades.stoa.org/places/540613)
+
+
+## Dinefwr Park Roman Forts (Q20586641)
+[https://www.wikidata.org/wiki/Q20586641](https://www.wikidata.org/wiki/Q20586641)  
+
+### alignments:
+ - [Dynevor Park](https://pleiades.stoa.org/places/522959909)
 
 
 ## Dinkha Tepe (Q115523702)
@@ -17674,6 +17702,13 @@
 
 ### alignments:
  - [Lindos](https://pleiades.stoa.org/places/589913)
+
+
+## Lio Piccolo Roman Villa (Q133836743)
+[https://www.wikidata.org/wiki/Q133836743](https://www.wikidata.org/wiki/Q133836743)  
+
+### alignments:
+ - [Lio Piccolo Roman Villa](https://pleiades.stoa.org/places/199996184)
 
 
 ## Lion of Amphipolis (Q16328198)
@@ -36550,6 +36585,13 @@
 
 ### alignments:
  - [Lagaria](https://pleiades.stoa.org/places/456082)
+
+
+## Q3825769
+[https://www.wikidata.org/wiki/Q3825769](https://www.wikidata.org/wiki/Q3825769)  
+
+### alignments:
+ - [Lacus Regillus](https://pleiades.stoa.org/places/423023)
 
 
 ## Q3825952: Lago di Fondi

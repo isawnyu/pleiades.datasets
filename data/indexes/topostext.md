@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3683 alignments exist in _Pleiades_ place references as of 2025-04-08. The following list of alignments is grouped by zotkey.
+3683 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -24419,6 +24419,7 @@
 ### alignments:
  - [Isthmia](https://pleiades.stoa.org/places/570316)
  - [Kamilari](https://pleiades.stoa.org/places/589835)
+ - [Limiko blockhouse (Argolid)](https://pleiades.stoa.org/places/500721867)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
  - [Vroulia](https://pleiades.stoa.org/places/590093)
