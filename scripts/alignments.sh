@@ -36,3 +36,8 @@ nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z TN3GJAU8 -f markd
 # Paus. (Spiro: Perseus)
 nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z GTGBFEI9 -f json > $PD_HOME/data/indexes/paus-spiro-perseus.json
 nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z GTGBFEI9 -f markdown -g zotkey > $PD_HOME/data/indexes/paus-spiro-perseus.md
+
+# TP (Talbert: CUP)
+nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z QT8GLGGI -f json > $PD_HOME/data/indexes/tp-talbert-cup.json
+nice $VIRTUAL_ENV/bin/python $PD_HOME/scripts/alignments.py -z QT8GLGGI -f markdown -g zotkey > $PD_HOME/data/indexes/tp-talbert-cup.md
+
