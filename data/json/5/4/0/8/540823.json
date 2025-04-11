@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.103147,
-        38.555375,
-        23.103147,
-        38.555375
+        23.1031,
+        38.558,
+        23.1031,
+        38.558
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,6 +14,10 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -35,10 +39,6 @@
         },
         {
             "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
             "username": null
         },
         {
@@ -75,23 +75,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.103147,
-                    38.555375
+                    23.1031,
+                    38.558
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-12816",
+            "id": "topostext-location",
             "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/540823/darmc-location-12816",
+                "description": "Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/540823/topostext-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - AD 640",
-                "title": "DARMC location 12816"
+                "snippet": "Ruin; 750 BC - AD 640",
+                "title": "Topostext Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC location 12816 = related",
+            "modified": "2025-04-10T16:12:30Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2024-10-11T02:35:46Z",
@@ -177,9 +182,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -214,91 +219,100 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T21:21:04Z",
+            "contributors": [],
+            "created": "2025-04-09T20:29:14Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 12816",
+            "description": "Dates after BAtlDir.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "ruin"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
             "geometry": {
                 "coordinates": [
-                    23.103147,
-                    38.555375
+                    23.1031,
+                    38.558
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:06:20Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-04-10T16:11:47Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:06:49Z",
+                    "action": "Submit for review",
+                    "modified": "2025-04-09T20:29:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Send back",
+                    "modified": "2025-04-09T20:29:39Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T21:21:05Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-09T20:29:29Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T21:21:05Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2025-04-09T20:29:15Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T21:21:04Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-09T20:29:14Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-12816",
+            "id": "topostext-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/ruin"
             ],
-            "provenance": "DARMC OBJECTID: 12816",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://topostext.org/place/386231PHye",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "12816",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Hyettos (Boeotia) 12 Dendri - Υηττός",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 12816.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 824 see \"Hyettos\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -750,
-            "title": "DARMC location 12816",
-            "uri": "https://pleiades.stoa.org/places/540823/darmc-location-12816"
+            "title": "Topostext Location",
+            "uri": "https://pleiades.stoa.org/places/540823/topostext-location"
         }
     ],
     "names": [
@@ -428,9 +442,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "ruin",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 E3 Hyettos",
@@ -577,11 +593,22 @@
             "otherIdentifier": "",
             "shortTitle": "Plin., NH (Mayhoff: PHI)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "12816",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.103147,
-        38.555375
+        23.1031,
+        38.558
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
