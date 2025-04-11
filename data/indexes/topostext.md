@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3683 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
+3685 alignments exist in _Pleiades_ place references as of 2025-04-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12863,7 +12863,14 @@
 [https://topostext.org/place/386230SKyr](https://topostext.org/place/386230SKyr)  
 
 ### alignments:
- - [Kyrtones?](https://pleiades.stoa.org/places/540898)
+ - [Kyrtones](https://pleiades.stoa.org/places/540898)
+
+
+## Kyrtones tower (Phthiotis)
+[https://topostext.org/place/286231FKyT](https://topostext.org/place/286231FKyT)  
+
+### alignments:
+ - [Kyrtones tower (Phthiotis)](https://pleiades.stoa.org/places/595443937)
 
 
 ## Kytaion (Rethymno)
@@ -16904,6 +16911,7 @@
 [https://topostext.org/place/385231UOlm](https://topostext.org/place/385231UOlm)  
 
 ### alignments:
+ - [Monachou/Palio Chorio](https://pleiades.stoa.org/places/775947099)
  - [Olmones](https://pleiades.stoa.org/places/540980)
 
 
@@ -24555,7 +24563,7 @@
 [https://topostext.org/place/432121WTra](https://topostext.org/place/432121WTra)  
 
 ### alignments:
- - [Trasumennus L.](https://pleiades.stoa.org/places/413347)
+ - [Trasumennus (Lake)](https://pleiades.stoa.org/places/413347)
 
 
 ## Trebia river (Cisalpina)
@@ -25663,6 +25671,13 @@
 
 ### alignments:
  - [Zeleia](https://pleiades.stoa.org/places/511461)
+
+
+## Zephyrion Akron (Egypt)
+[https://topostext.org/place/315275LZep](https://topostext.org/place/315275LZep)  
+
+### alignments:
+ - [Zephyrion](https://pleiades.stoa.org/places/716651)
 
 
 ## Zephyrion cape (Cyprus)

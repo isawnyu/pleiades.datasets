@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-497 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
+497 alignments exist in _Pleiades_ place references as of 2025-04-11. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3660,7 +3660,7 @@
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
  - [Kalamai](https://pleiades.stoa.org/places/570323)
- - [Kyrtones?](https://pleiades.stoa.org/places/540898)
+ - [Kyrtones](https://pleiades.stoa.org/places/540898)
  - [Medeon](https://pleiades.stoa.org/places/540939)
  - [Nonakris](https://pleiades.stoa.org/places/570510)
  - [Oenotri](https://pleiades.stoa.org/places/452395)

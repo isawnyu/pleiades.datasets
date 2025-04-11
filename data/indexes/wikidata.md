@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7685 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
+7700 alignments exist in _Pleiades_ place references as of 2025-04-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1072,6 +1072,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Albintimilium (Q3608794)
+[https://www.wikidata.org/wiki/Q3608794](https://www.wikidata.org/wiki/Q3608794)  
+
+### alignments:
+ - [Alb(i)um Intimilium/Albintimilium](https://pleiades.stoa.org/places/157802)
 
 
 ## Alboran Sea (Q199408)
@@ -5087,6 +5094,13 @@
  - [Bilzingsleben](https://pleiades.stoa.org/places/118598)
 
 
+## Bingöl Dağları (Q15856901)
+[https://www.wikidata.org/wiki/Q15856901](https://www.wikidata.org/wiki/Q15856901)  
+
+### alignments:
+ - [Bingöl Dağları (mountain)](https://pleiades.stoa.org/places/874294)
+
+
 ## Bir Hima Rock Petroglyphs and Inscriptions (Q4915544)
 [https://www.wikidata.org/wiki/Q4915544](https://www.wikidata.org/wiki/Q4915544)  
 
@@ -7720,6 +7734,13 @@
  - [Castra Iarba](https://pleiades.stoa.org/places/501384)
 
 
+## Castro (Q52129)
+[https://www.wikidata.org/wiki/Q52129](https://www.wikidata.org/wiki/Q52129)  
+
+### alignments:
+ - [Castrum Minervae/Athenaion/Limen Aphrodites](https://pleiades.stoa.org/places/442536)
+
+
 ## Castro da Cola (Q3752952)
 [https://www.wikidata.org/wiki/Q3752952](https://www.wikidata.org/wiki/Q3752952)  
 
@@ -9842,6 +9863,13 @@
  - [Cutina](https://pleiades.stoa.org/places/416799)
 
 
+## Cwmcarfan Roman fort (Q133843420)
+[https://www.wikidata.org/wiki/Q133843420](https://www.wikidata.org/wiki/Q133843420)  
+
+### alignments:
+ - [Cwmcarfan](https://pleiades.stoa.org/places/810562007)
+
+
 ## Cyaneae Theatre (Q131422686)
 [https://www.wikidata.org/wiki/Q131422686](https://www.wikidata.org/wiki/Q131422686)  
 
@@ -9923,7 +9951,7 @@
 [https://www.wikidata.org/wiki/Q13580763](https://www.wikidata.org/wiki/Q13580763)  
 
 ### alignments:
- - [Kyrtones?](https://pleiades.stoa.org/places/540898)
+ - [Kyrtones](https://pleiades.stoa.org/places/540898)
 
 
 ## Cytinium (Q5201328)
@@ -12470,6 +12498,13 @@
  - [Gadara/Pompeia](https://pleiades.stoa.org/places/678142)
 
 
+## Gadilon (Q65047431)
+[https://www.wikidata.org/wiki/Q65047431](https://www.wikidata.org/wiki/Q65047431)  
+
+### alignments:
+ - [Gadilon/Helega?](https://pleiades.stoa.org/places/857128)
+
+
 ## Gail (Q876978)
 [https://www.wikidata.org/wiki/Q876978](https://www.wikidata.org/wiki/Q876978)  
 
@@ -13704,6 +13739,20 @@
  - [Hamadab](https://pleiades.stoa.org/places/29407544)
 
 
+## Hamae (Q11925174)
+[https://www.wikidata.org/wiki/Q11925174](https://www.wikidata.org/wiki/Q11925174)  
+
+### alignments:
+ - [Hamae](https://pleiades.stoa.org/places/432871)
+
+
+## Hamamkarahisar Mosque (Q127643487)
+[https://www.wikidata.org/wiki/Q127643487](https://www.wikidata.org/wiki/Q127643487)  
+
+### alignments:
+ - [Hamamkarahisar Mosque](https://pleiades.stoa.org/places/162200478)
+
+
 ## Hamaxanteia (Q1572671)
 [https://www.wikidata.org/wiki/Q1572671](https://www.wikidata.org/wiki/Q1572671)  
 
@@ -14171,6 +14220,13 @@
 
 ### alignments:
  - [Hippola](https://pleiades.stoa.org/places/570294)
+
+
+## Hippothontis (Q13415446)
+[https://www.wikidata.org/wiki/Q13415446](https://www.wikidata.org/wiki/Q13415446)  
+
+### alignments:
+ - [Hippothontis](https://pleiades.stoa.org/places/908290183)
 
 
 ## Hirbemerdon Tepe (Q6097390)
@@ -16120,6 +16176,13 @@
  - [Keston](https://pleiades.stoa.org/places/79544)
 
 
+## Keşan (Q951495)
+[https://www.wikidata.org/wiki/Q951495](https://www.wikidata.org/wiki/Q951495)  
+
+### alignments:
+ - [*Zorlanae](https://pleiades.stoa.org/places/501668)
+
+
 ## Khanpur Cave (Q66134639)
 [https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
 
@@ -16720,6 +16783,13 @@
 
 ### alignments:
  - [Kyrteidai](https://pleiades.stoa.org/places/585926)
+
+
+## Kyrtones tower (Phthiotis) (Q106565508)
+[https://www.wikidata.org/wiki/Q106565508](https://www.wikidata.org/wiki/Q106565508)  
+
+### alignments:
+ - [Kyrtones tower (Phthiotis)](https://pleiades.stoa.org/places/595443937)
 
 
 ## Kythera (Q11855334)
@@ -31266,7 +31336,7 @@
 [https://www.wikidata.org/wiki/Q188487](https://www.wikidata.org/wiki/Q188487)  
 
 ### alignments:
- - [Trasumennus L.](https://pleiades.stoa.org/places/413347)
+ - [Trasumennus (Lake)](https://pleiades.stoa.org/places/413347)
 
 
 ## Q188694
@@ -43641,6 +43711,13 @@
  - [Rocavecchia](https://pleiades.stoa.org/places/442746)
 
 
+## Rocca Abbaziale (Q17025596)
+[https://www.wikidata.org/wiki/Q17025596](https://www.wikidata.org/wiki/Q17025596)  
+
+### alignments:
+ - [Rocca Abbaziale](https://pleiades.stoa.org/places/861562863)
+
+
 ## Rocca della Verruca (Q3939451)
 [https://www.wikidata.org/wiki/Q3939451](https://www.wikidata.org/wiki/Q3939451)  
 
@@ -44780,6 +44857,13 @@
 
 ### alignments:
  - [Ruspina](https://pleiades.stoa.org/places/324803)
+
+
+## Ruthin Roman fort (Q64698786)
+[https://www.wikidata.org/wiki/Q64698786](https://www.wikidata.org/wiki/Q64698786)  
+
+### alignments:
+ - [Ruthin](https://pleiades.stoa.org/places/44473572)
 
 
 ## Rutland Roman villa (Q109973603)
@@ -51937,6 +52021,13 @@
  - [Viriodunum](https://pleiades.stoa.org/places/109435)
 
 
+## Veretum (Q4009948)
+[https://www.wikidata.org/wiki/Q4009948](https://www.wikidata.org/wiki/Q4009948)  
+
+### alignments:
+ - [Veretum/Baris](https://pleiades.stoa.org/places/442848)
+
+
 ## Vergigno Roman villa (Q87441002)
 [https://www.wikidata.org/wiki/Q87441002](https://www.wikidata.org/wiki/Q87441002)  
 
@@ -53275,6 +53366,13 @@
  - [Woden Law hill fort](https://pleiades.stoa.org/places/728181788)
 
 
+## Wonastow Roman fort (Q133843452)
+[https://www.wikidata.org/wiki/Q133843452](https://www.wikidata.org/wiki/Q133843452)  
+
+### alignments:
+ - [Wonastow](https://pleiades.stoa.org/places/339480270)
+
+
 ## Woodchester Roman Villa (Q1690886)
 [https://www.wikidata.org/wiki/Q1690886](https://www.wikidata.org/wiki/Q1690886)  
 
@@ -53609,6 +53707,13 @@
 
 ### alignments:
  - [Zillis](https://pleiades.stoa.org/places/187632)
+
+
+## Zimara (Q97254764)
+[https://www.wikidata.org/wiki/Q97254764](https://www.wikidata.org/wiki/Q97254764)  
+
+### alignments:
+ - [Zimara](https://pleiades.stoa.org/places/629106)
 
 
 ## Zindan cave (Q61076964)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4243 alignments exist in _Pleiades_ place references as of 2025-04-09. The following list of alignments is grouped by zotkey.
+4256 alignments exist in _Pleiades_ place references as of 2025-04-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7211,6 +7211,13 @@
  - [*Kanytelis](https://pleiades.stoa.org/places/648663)
 
 
+## GEO ID 16505: Zephyrion (Mersin)
+[https://www.trismegistos.org/place/16505](https://www.trismegistos.org/place/16505)  
+
+### alignments:
+ - [Zephyrion/Hadrianopolis](https://pleiades.stoa.org/places/648810)
+
+
 ## GEO ID 16507: Seleukeia (Silifke)
 [http://www.trismegistos.org/place/16507](http://www.trismegistos.org/place/16507)  
 
@@ -7895,6 +7902,13 @@
 
 ### alignments:
  - [Ziqua](https://pleiades.stoa.org/places/315271)
+
+
+## GEO ID 17418: Zitha (Ziane)
+[http://www.trismegistos.org/place/17418](http://www.trismegistos.org/place/17418)  
+
+### alignments:
+ - [Zitha](https://pleiades.stoa.org/places/344571)
 
 
 ## GEO ID 17419: Rusicade (Ras Skikda)
@@ -11237,6 +11251,13 @@
  - [Zacynthus (island)](https://pleiades.stoa.org/places/531155)
 
 
+## GEO ID 2516: Zephyrion
+[https://www.trismegistos.org/place/2516](https://www.trismegistos.org/place/2516)  
+
+### alignments:
+ - [Zephyrion Pr.](https://pleiades.stoa.org/places/727259)
+
+
 ## GEO ID 2522: Philonikou
 [http://www.trismegistos.org/place/2522](http://www.trismegistos.org/place/2522)  
 
@@ -12222,6 +12243,13 @@
 
 ### alignments:
  - [Turris Augusti](https://pleiades.stoa.org/places/236698)
+
+
+## GEO ID 2764: Ta-benerou (Kafr Matbul)
+[https://www.trismegistos.org/place/2764](https://www.trismegistos.org/place/2764)  
+
+### alignments:
+ - [To-Bener](https://pleiades.stoa.org/places/668288956)
 
 
 ## GEO ID 27676: Iamo (Ciudadela)
@@ -17161,6 +17189,13 @@
  - [Temenouthyrai](https://pleiades.stoa.org/places/609549)
 
 
+## GEO ID 34463: Thermai Theseos (Hamamlar)
+[https://www.trismegistos.org/place/34463](https://www.trismegistos.org/place/34463)  
+
+### alignments:
+ - [Thermai Theseos](https://pleiades.stoa.org/places/609555)
+
+
 ## GEO ID 3449: Bogghi (Ballana)
 [https://www.trismegistos.org/place/3449](https://www.trismegistos.org/place/3449)  
 
@@ -20018,6 +20053,13 @@
  - [Mellissurgin](https://pleiades.stoa.org/places/491661)
 
 
+## GEO ID 40835: Zervae (Kornofolea)
+[https://www.trismegistos.org/place/40835](https://www.trismegistos.org/place/40835)  
+
+### alignments:
+ - [Zervae/Zirinae](https://pleiades.stoa.org/places/501663)
+
+
 ## GEO ID 40837: Ad Acroceraunia (Llogara Pass)
 [https://www.trismegistos.org/place/40837](https://www.trismegistos.org/place/40837)  
 
@@ -20921,6 +20963,13 @@
  - [Eboda](https://pleiades.stoa.org/places/687887)
 
 
+## GEO ID 41386: Gadilon (Bafra)
+[https://www.trismegistos.org/place/41386](https://www.trismegistos.org/place/41386)  
+
+### alignments:
+ - [Gadilon/Helega?](https://pleiades.stoa.org/places/857128)
+
+
 ## GEO ID 41389: Polemonion
 [https://www.trismegistos.org/place/41389](https://www.trismegistos.org/place/41389)  
 
@@ -21031,6 +21080,13 @@
 
 ### alignments:
  - [Caeciliana](https://pleiades.stoa.org/places/658418)
+
+
+## GEO ID 41533: Zanserio (Baykan)
+[https://www.trismegistos.org/place/41533](https://www.trismegistos.org/place/41533)  
+
+### alignments:
+ - [Zanserio](https://pleiades.stoa.org/places/874795)
 
 
 ## GEO ID 41537: Molchia (Amik)
@@ -21332,6 +21388,13 @@
 
 ### alignments:
  - [Numituriana?/Saltus Caeliae Maximae](https://pleiades.stoa.org/places/305122)
+
+
+## GEO ID 41683: Zimises
+[https://www.trismegistos.org/place/41683](https://www.trismegistos.org/place/41683)  
+
+### alignments:
+ - [Zimizes](https://pleiades.stoa.org/places/305189)
 
 
 ## GEO ID 41684: Ad Centenarium
@@ -22412,6 +22475,13 @@
  - [Pida](https://pleiades.stoa.org/places/857281)
 
 
+## GEO ID 42106: Zephyrion (Zefre)
+[https://www.trismegistos.org/place/42106](https://www.trismegistos.org/place/42106)  
+
+### alignments:
+ - [Zephyrion](https://pleiades.stoa.org/places/857383)
+
+
 ## GEO ID 42111: Mesyla
 [https://www.trismegistos.org/place/42111](https://www.trismegistos.org/place/42111)  
 
@@ -22613,6 +22683,13 @@
 
 ### alignments:
  - [Oxus (river)](https://pleiades.stoa.org/places/59969)
+
+
+## GEO ID 42272: Xati Scythae
+[https://www.trismegistos.org/place/42272](https://www.trismegistos.org/place/42272)  
+
+### alignments:
+ - [Xati Scythae](https://pleiades.stoa.org/places/546301139)
 
 
 ## GEO ID 422840: Aquae Albulae (Acque Albule)
@@ -23726,6 +23803,13 @@
 
 ### alignments:
  - [Berenikis Thesmophorou](https://pleiades.stoa.org/places/741443)
+
+
+## GEO ID 4310: Zephyrion
+[https://www.trismegistos.org/place/4310](https://www.trismegistos.org/place/4310)  
+
+### alignments:
+ - [Zephyrion](https://pleiades.stoa.org/places/716651)
 
 
 ## GEO ID 4311: Zeugma (Balkis)
@@ -25239,7 +25323,7 @@
 [https://www.trismegistos.org/place/45433](https://www.trismegistos.org/place/45433)  
 
 ### alignments:
- - [Trasumennus L.](https://pleiades.stoa.org/places/413347)
+ - [Trasumennus (Lake)](https://pleiades.stoa.org/places/413347)
 
 
 ## GEO ID 45437: Afilae (Affile)
@@ -27798,6 +27882,13 @@
 
 ### alignments:
  - [Metaurum](https://pleiades.stoa.org/places/452379)
+
+
+## GEO ID 61086: Zephyrion
+[https://www.trismegistos.org/place/61086](https://www.trismegistos.org/place/61086)  
+
+### alignments:
+ - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
 
 
 ## Geo ID 61119
