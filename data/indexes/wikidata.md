@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7700 alignments exist in _Pleiades_ place references as of 2025-04-11. The following list of alignments is grouped by zotkey.
+7704 alignments exist in _Pleiades_ place references as of 2025-04-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8308,6 +8308,13 @@
  - [Cephaloedium](https://pleiades.stoa.org/places/462154)
 
 
+## Cefn-Brynich Roman Fort (Q133849125)
+[https://www.wikidata.org/wiki/Q133849125](https://www.wikidata.org/wiki/Q133849125)  
+
+### alignments:
+ - [Cefn-Brynich](https://pleiades.stoa.org/places/891506482)
+
+
 ## Ceglie del Campo (Q654595)
 [https://www.wikidata.org/wiki/Q654595](https://www.wikidata.org/wiki/Q654595)  
 
@@ -9224,6 +9231,13 @@
 
 ### alignments:
  - [Cluturnum](https://pleiades.stoa.org/places/432789)
+
+
+## Clyro Roman fort (Q122217395)
+[https://www.wikidata.org/wiki/Q122217395](https://www.wikidata.org/wiki/Q122217395)  
+
+### alignments:
+ - [Clyro](https://pleiades.stoa.org/places/330425754)
 
 
 ## Clysma (Q3775676)
@@ -17886,6 +17900,13 @@
  - [Rubricatum (river)](https://pleiades.stoa.org/places/246593)
 
 
+## Llwyn-y-brain Roman Fort (Q113710835)
+[https://www.wikidata.org/wiki/Q113710835](https://www.wikidata.org/wiki/Q113710835)  
+
+### alignments:
+ - [Llwyn-y-Brain](https://pleiades.stoa.org/places/495616589)
+
+
 ## Loch Long (Q1867273)
 [https://www.wikidata.org/wiki/Q1867273](https://www.wikidata.org/wiki/Q1867273)  
 
@@ -23499,6 +23520,13 @@
 
 ### alignments:
  - [Perrhidai](https://pleiades.stoa.org/places/585942)
+
+
+## Perseis (Q7170085)
+[https://www.wikidata.org/wiki/Q7170085](https://www.wikidata.org/wiki/Q7170085)  
+
+### alignments:
+ - [Perseis](https://pleiades.stoa.org/places/484002)
 
 
 ## Persepolis (Q129072)
@@ -34601,7 +34629,7 @@
 [https://www.wikidata.org/wiki/Q28978022](https://www.wikidata.org/wiki/Q28978022)  
 
 ### alignments:
- - [Roman amphitheater at Aeclanum](https://pleiades.stoa.org/places/570444075)
+ - [Roman macellum at Aeclanum](https://pleiades.stoa.org/places/570444075)
 
 
 ## Q28978025: Falerio Picenus amphitheatre
