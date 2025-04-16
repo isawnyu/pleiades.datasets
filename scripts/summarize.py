@@ -156,7 +156,10 @@ def main(**kwargs):
     recent = [c for c in j if c["commit"]["author"]["date"].startswith(kwargs["date"])]
 
     json_sha, commit_summary = get_pd_commits(recent)
-    count_summary = get_json_changes("/".join((commit_url, json_sha)))
+    try:
+        count_summary = get_json_changes("/".join((commit_url, json_sha)))
+    except TypeError:
+        count_summary = "No new or updated places."
 
     print(f"Export Updates {kwargs['date']}:\nPleiades gazetteer of ancient places\n")
     print(count_summary)
