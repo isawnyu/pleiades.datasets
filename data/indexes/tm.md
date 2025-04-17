@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4256 alignments exist in _Pleiades_ place references as of 2025-04-15. The following list of alignments is grouped by zotkey.
+4264 alignments exist in _Pleiades_ place references as of 2025-04-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11559,6 +11559,13 @@
  - [Iliturgicola](https://pleiades.stoa.org/places/265925)
 
 
+## GEO ID 26040: Solia (El Guijo)
+[https://www.trismegistos.org/place/26040](https://www.trismegistos.org/place/26040)  
+
+### alignments:
+ - [Solia](https://pleiades.stoa.org/places/256456)
+
+
 ## GEO ID 26045: Ulia Fidentia (Montemayor)
 [https://www.trismegistos.org/place/26045](https://www.trismegistos.org/place/26045)  
 
@@ -15061,7 +15068,7 @@
  - [Tifata (mountain)](https://pleiades.stoa.org/places/433153)
 
 
-## GEO ID 32437
+## GEO ID 32437: Sinuessa (Mondragone)
 [http://www.trismegistos.org/place/32437](http://www.trismegistos.org/place/32437)  
 
 ### alignments:
@@ -20095,6 +20102,13 @@
  - [Oleastrum](https://pleiades.stoa.org/places/246529)
 
 
+## GEO ID 40868: Thiar
+[https://www.trismegistos.org/place/40868](https://www.trismegistos.org/place/40868)  
+
+### alignments:
+ - [Thiar](https://pleiades.stoa.org/places/266063)
+
+
 ## GEO ID 40872: Fraxinum (Los Castellones de Ceal)
 [http://www.trismegistos.org/place/40872](http://www.trismegistos.org/place/40872)  
 
@@ -22713,6 +22727,13 @@
  - [Ad Duodecimum](https://pleiades.stoa.org/places/713204842)
 
 
+## GEO ID 42344
+[http://www.trismegistos.org/place/42344](http://www.trismegistos.org/place/42344)  
+
+### alignments:
+ - [Garumna (river)](https://pleiades.stoa.org/places/138369)
+
+
 ## GEO ID 42347: Liger (Loire)
 [https://www.trismegistos.org/place/42347](https://www.trismegistos.org/place/42347)  
 
@@ -24967,6 +24988,13 @@
 
 ### alignments:
  - [Cydara (river)](https://pleiades.stoa.org/places/49954)
+
+
+## GEO ID 44849: Tellurenses
+[https://www.trismegistos.org/place/44849](https://www.trismegistos.org/place/44849)  
+
+### alignments:
+ - [Tellurenses](https://pleiades.stoa.org/places/373872700)
 
 
 ## GEO ID 44853: Amanos (Nur Dağları)
@@ -27380,6 +27408,13 @@
  - [Atene](https://pleiades.stoa.org/places/579883)
 
 
+## GEO ID 60661: Kytherros
+[https://www.trismegistos.org/place/60661](https://www.trismegistos.org/place/60661)  
+
+### alignments:
+ - [Kytherros](https://pleiades.stoa.org/places/580004)
+
+
 ## GEO ID 60663: Kopros
 [https://www.trismegistos.org/place/60663](https://www.trismegistos.org/place/60663)  
 
@@ -28318,6 +28353,13 @@
  - [Eresos](https://pleiades.stoa.org/places/550533)
 
 
+## GEO ID 65931: Veteres
+[https://www.trismegistos.org/place/65931](https://www.trismegistos.org/place/65931)  
+
+### alignments:
+ - [Tabernae Veteres](https://pleiades.stoa.org/places/108635484)
+
+
 ## GEO ID 672: Euboea
 [http://www.trismegistos.org/place/672](http://www.trismegistos.org/place/672)  
 
@@ -28470,6 +28512,13 @@
 
 ### alignments:
  - [Scaptia](https://pleiades.stoa.org/places/438829)
+
+
+## GEO ID 7197: Skammos
+[http://www.trismegistos.org/place/7197](http://www.trismegistos.org/place/7197)  
+
+### alignments:
+ - [Scammos](https://pleiades.stoa.org/places/805653)
 
 
 ## GEO ID 719: Gortyn (Hagioi Deka)
@@ -28836,6 +28885,13 @@
 
 ### alignments:
  - [Herakleopolis](https://pleiades.stoa.org/places/736920)
+
+
+## GEO ID 8046: Chindita
+[https://www.trismegistos.org/place/8046](https://www.trismegistos.org/place/8046)  
+
+### alignments:
+ - [Chindita](https://pleiades.stoa.org/places/798053)
 
 
 ## GEO ID 8131: Psebtomit

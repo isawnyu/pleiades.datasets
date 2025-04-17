@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2055 alignments exist in _Pleiades_ place references as of 2025-04-15. The following list of alignments is grouped by zotkey.
+2057 alignments exist in _Pleiades_ place references as of 2025-04-17. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13422,6 +13422,13 @@
  - [Karoura](https://pleiades.stoa.org/places/638901)
 
 
+## 9B1 (Talbert 2383)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2383.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2383.html)  
+
+### alignments:
+ - [Priene/‘Lince’?](https://pleiades.stoa.org/places/599905)
+
+
 ## 9B1 (Talbert 2384)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2384.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2384.html)  
 
@@ -13805,6 +13812,13 @@
 
 ### alignments:
  - [Comana/Hierapolis/Chryse](https://pleiades.stoa.org/places/628959)
+
+
+## 9B4 (Talbert 2312)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2312.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2312.html)  
+
+### alignments:
+ - [Catara](https://pleiades.stoa.org/places/392319889)
 
 
 ## 9B4 (Talbert 2327)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-632 alignments exist in _Pleiades_ place references as of 2025-04-15. The following list of alignments is grouped by zotkey.
+635 alignments exist in _Pleiades_ place references as of 2025-04-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1934,6 +1934,13 @@
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
 
 
+## 11289316: Myndos (Caria)
+[https://resource.manto.unh.edu/11289316](https://resource.manto.unh.edu/11289316)  
+
+### alignments:
+ - [Myndos](https://pleiades.stoa.org/places/599811)
+
+
 ## 11289334: the Temple of Athena Apaturia (Argolid)
 [https://resource.manto.unh.edu/11289334](https://resource.manto.unh.edu/11289334)  
 
@@ -1995,6 +2002,13 @@
 
 ### alignments:
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
+
+
+## 11296918: Cnidos (Asia Minor)
+[https://resource.manto.unh.edu/11296918](https://resource.manto.unh.edu/11296918)  
+
+### alignments:
+ - [Cnidus](https://pleiades.stoa.org/places/599575)
 
 
 ## 11297903: Bithynia (Pontos)
@@ -2205,6 +2219,13 @@
 
 ### alignments:
  - [Epakria](https://pleiades.stoa.org/places/579921)
+
+
+## 11309269: Cytheros (Attica)
+[https://resource.manto.unh.edu/11309269](https://resource.manto.unh.edu/11309269)  
+
+### alignments:
+ - [Kytherros](https://pleiades.stoa.org/places/580004)
 
 
 ## 11309270: Cephisia (Attica)
