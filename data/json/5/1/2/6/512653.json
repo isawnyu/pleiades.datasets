@@ -1,12 +1,90 @@
 {
     "@type": "Place",
     "bbox": [
-        29.974286,
-        40.370988,
-        29.974286,
-        40.370988
+        29.9657647,
+        40.37777,
+        29.9657647,
+        40.37777
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/511406",
+            "contributors": [],
+            "created": "2022-07-07T12:58:34Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-04-16T13:41:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-04-16T13:29:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "references ",
+                    "modified": "2025-04-16T13:29:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Send back",
+                    "modified": "2025-04-13T14:03:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2022-07-07T12:58:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2022-07-07T12:58:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2022-07-07T12:58:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "sangarius-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://vici.org/vici/38138",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+                    "citationDetail": "38138: Roman Bridge on Göksu Brook - Tasköprü",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "vici.org",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Sangarius (river)",
+            "uri": "https://pleiades.stoa.org/places/512653/sangarius-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/511406"
     ],
@@ -38,36 +116,51 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T08:12:59Z",
+    "created": "2025-04-16T02:21:07Z",
     "creators": [
         {
             "name": "C. Foss",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 52 F4 unnamed bridge (N Mygdum)",
-    "details": "The Barrington Atlas Directory notes: N Mygdum",
+    "description": "An unnamed Roman bridge to the north of Mygdum crosses the Göksu Brook that feeds into the Sangarius River.",
+    "details": "<p>The Barrington Atlas Directory notes: N Mygdum</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    29.974286,
-                    40.370988
+                    29.9657647,
+                    40.37777
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-14767",
+            "id": "osm-location-of-roman-bridge-on-gapksu-brook",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/512653/darmc-location-14767",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/512653/osm-location-of-roman-bridge-on-gapksu-brook",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 14767"
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location of Roman Bridge on Göksu Brook - Tasköprü"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-04-16T13:41:42Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary by @jbecker",
+            "modified": "2025-04-16T13:41:18Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-04-16T02:21:06Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "vici.org 38138: Roman Bridge on Göksu Brook - Tasköprü",
             "modified": "2022-07-07T12:55:57Z",
@@ -113,8 +206,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -126,87 +219,84 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-04T21:21:01Z",
+            "contributors": [],
+            "created": "2025-04-16T02:20:15Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 14767",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
-                    29.974286,
-                    40.370988
+                    29.9657647,
+                    40.37777
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:53:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-04T21:30:16Z",
+                    "modified": "2025-04-16T13:40:51Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-04T21:21:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-16T13:29:44Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-04T21:21:02Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add OSM location",
+                    "modified": "2025-04-16T02:20:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-04-16T02:20:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-04T21:21:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-16T02:20:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-14767",
+            "id": "osm-location-of-roman-bridge-on-gapksu-brook",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "DARMC OBJECTID: 14767",
+            "provenance": "OpenStreetMap (Node 12758738670, version 1, osm:changeset=165007980, 2025-04-16T02:19:47Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/12758738670",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "14767",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 12758738670",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 14767.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=12758738670",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 14767",
-            "uri": "https://pleiades.stoa.org/places/512653/darmc-location-14767"
+            "title": "OSM location of Roman Bridge on Göksu Brook - Tasköprü",
+            "uri": "https://pleiades.stoa.org/places/512653/osm-location-of-roman-bridge-on-gapksu-brook"
         }
     ],
     "names": [],
@@ -239,11 +329,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "14767",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        29.974286,
-        40.370988
+        29.9657647,
+        40.37777
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

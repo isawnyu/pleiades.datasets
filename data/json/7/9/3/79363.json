@@ -52,7 +52,7 @@
             "username": null
         }
     ],
-    "created": "2024-12-15T04:40:33Z",
+    "created": "2025-04-14T12:10:51Z",
     "creators": [
         {
             "name": "A.S. Esmonde Cleary",
@@ -93,13 +93,18 @@
                 "description": "Representative point location, site precision",
                 "link": "https://pleiades.stoa.org/places/79363/dare-location",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 640",
+                "snippet": "Fort-2; 30 BC - AD 640",
                 "title": "DARE Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Added Coflein+DARE ref; Complete fetch for references @maximeg",
+            "modified": "2025-04-14T15:13:26Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited type for fort; Edited description for clarity; update references; wikidata Caersws Roman Fort (Q113710858) @maximeg",
             "modified": "2024-12-15T15:23:39Z",
@@ -282,7 +287,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                }
+            ],
             "created": "2012-10-20T21:30:08Z",
             "creators": [
                 {
@@ -296,10 +314,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -309,6 +327,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Updated feature type to fort ",
+                    "modified": "2025-04-14T15:13:54Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-10-20T21:30:09Z",
@@ -335,7 +358,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
@@ -359,12 +382,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 8 D2 Caersws",
     "references": [
@@ -432,6 +453,28 @@
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://coflein.gov.uk/en/site/92468/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IGR9XKXE",
+            "citationDetail": "92468",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Royal Commission on the Ancient and Historical Monuments of Wales. <i>Coflein - The Online Catalogue of Archaeological Sites, Historic Buildings, Industrial and Maritime Heritage in Wales</i>. Aberystwyth, Ceredigion: Royal Commission on the Ancient and Historical Monuments of Wales. Accessed March 19, 2025. https://coflein.gov.uk/en/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Coflein",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://imperium.ahlfeldt.se/places/23019",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "23019",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
             "type": "citesAsRelated"
         }
     ],
