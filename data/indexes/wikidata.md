@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7756 alignments exist in _Pleiades_ place references as of 2025-04-17. The following list of alignments is grouped by zotkey.
+7765 alignments exist in _Pleiades_ place references as of 2025-04-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2901,6 +2901,13 @@
  - [Magdalensberg](https://pleiades.stoa.org/places/197365)
 
 
+## Arcis-sur-Aube (Q269401)
+[https://www.wikidata.org/wiki/Q269401](https://www.wikidata.org/wiki/Q269401)  
+
+### alignments:
+ - [Artiaca](https://pleiades.stoa.org/places/108759)
+
+
 ## Arco augusteo, Siracusa (Q3621757)
 [https://www.wikidata.org/wiki/Q3621757](https://www.wikidata.org/wiki/Q3621757)  
 
@@ -3474,6 +3481,13 @@
 
 ### alignments:
  - [Ass(er)a?](https://pleiades.stoa.org/places/501363)
+
+
+## Asse (Samian Ware Discovery Site) (Q103143675)
+[https://www.wikidata.org/wiki/Q103143675](https://www.wikidata.org/wiki/Q103143675)  
+
+### alignments:
+ - [Asse](https://pleiades.stoa.org/places/108762)
 
 
 ## Assembly Hall from Synagogue (phase 2) (Q118469354)
@@ -4743,6 +4757,13 @@
  - [Bavares](https://pleiades.stoa.org/places/285419)
 
 
+## Bavay (Samian Ware Discovery Site) (Q103145980)
+[https://www.wikidata.org/wiki/Q103145980](https://www.wikidata.org/wiki/Q103145980)  
+
+### alignments:
+ - [Bagacum](https://pleiades.stoa.org/places/108788)
+
+
 ## Bay of Biscay (Q41573)
 [https://www.wikidata.org/wiki/Q41573](https://www.wikidata.org/wiki/Q41573)  
 
@@ -4798,6 +4819,13 @@
 
 ### alignments:
  - [Ugernum](https://pleiades.stoa.org/places/148223)
+
+
+## Beaumont-sur-Oise (Q243212)
+[https://www.wikidata.org/wiki/Q243212](https://www.wikidata.org/wiki/Q243212)  
+
+### alignments:
+ - [Beaumont-sur-Oise](https://pleiades.stoa.org/places/108795)
 
 
 ## Beda (Q813798)
@@ -7620,6 +7648,13 @@
 
 ### alignments:
  - [Arzbach](https://pleiades.stoa.org/places/108760)
+
+
+## Castra of Bendorf (Q1373100)
+[https://www.wikidata.org/wiki/Q1373100](https://www.wikidata.org/wiki/Q1373100)  
+
+### alignments:
+ - [Bendorf](https://pleiades.stoa.org/places/108804)
 
 
 ## Castra of Buciumi (Q499806)
@@ -12650,6 +12685,12 @@
 
 ### alignments:
  - [Callaeci Lucenses](https://pleiades.stoa.org/places/236399)
+
+
+## Gallaecia (Q369692)
+[https://www.wikidata.org/wiki/Q369692](https://www.wikidata.org/wiki/Q369692)  
+
+### alignments:
  - [Gallaecia](https://pleiades.stoa.org/places/991317)
 
 
@@ -21883,6 +21924,13 @@
  - [Nuceria (Alfaterna)](https://pleiades.stoa.org/places/432985)
 
 
+## Nuithones (Q1125161)
+[https://www.wikidata.org/wiki/Q1125161](https://www.wikidata.org/wiki/Q1125161)  
+
+### alignments:
+ - [Nuithones](https://pleiades.stoa.org/places/101210)
+
+
 ## Numana (Q124456)
 [https://www.wikidata.org/wiki/Q124456](https://www.wikidata.org/wiki/Q124456)  
 
@@ -25115,6 +25163,13 @@
 
 ### alignments:
  - [Praevalitana](https://pleiades.stoa.org/places/991363)
+
+
+## Praibalis (Q21556453)
+[https://www.wikidata.org/wiki/Q21556453](https://www.wikidata.org/wiki/Q21556453)  
+
+### alignments:
+ - [Praibalis](https://pleiades.stoa.org/places/1001903)
 
 
 ## Praisos (Q11942554)
@@ -46627,6 +46682,7 @@
 
 ### alignments:
  - [Senones](https://pleiades.stoa.org/places/109337)
+ - [Senones](https://pleiades.stoa.org/places/413311)
 
 
 ## Sepulcrum Hirtii (Q112671662)
@@ -50590,6 +50646,13 @@
 
 ### alignments:
  - [Tomen y mur](https://pleiades.stoa.org/places/142376597)
+
+
+## Tongeren (Q190113)
+[https://www.wikidata.org/wiki/Q190113](https://www.wikidata.org/wiki/Q190113)  
+
+### alignments:
+ - [Atuatuca](https://pleiades.stoa.org/places/108765)
 
 
 ## Tophet of Carthage (Q3108571)
