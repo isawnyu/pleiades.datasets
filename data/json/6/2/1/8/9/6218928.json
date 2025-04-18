@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        11.288333,
-        42.412778,
-        11.288333,
-        42.412778
+        11.2875791,
+        42.4122294,
+        11.2889958,
+        42.4132113
     ],
     "connections": [
         {
@@ -128,18 +128,36 @@
         {
             "geometry": {
                 "coordinates": [
-                    11.288333,
-                    42.412778
+                    [
+                        11.2880432,
+                        42.4132113
+                    ],
+                    [
+                        11.2889958,
+                        42.4127272
+                    ],
+                    [
+                        11.2885317,
+                        42.4122294
+                    ],
+                    [
+                        11.2875791,
+                        42.4127136
+                    ],
+                    [
+                        11.2880432,
+                        42.4132113
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "forum-of-cosa",
+            "id": "osm-location-of-forum-of-cosa",
             "properties": {
-                "description": "The forum of the city",
-                "link": "https://pleiades.stoa.org/places/6218928/forum-of-cosa",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/6218928/osm-location-of-forum-of-cosa",
                 "location_precision": "precise",
-                "snippet": "Plaza, ; 330 BC - AD 640",
-                "title": "Imagery location of Forum of Cosa"
+                "snippet": "Forum; 300 BC - AD 640",
+                "title": "OSM location of Forum of Cosa"
             },
             "type": "Feature"
         }
@@ -220,17 +238,23 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/google-geoeye-2011",
-            "accuracy_value": 5.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "third-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-bce"
                 },
                 {
                     "confidence": "confident",
@@ -245,21 +269,8 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                },
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "created": "2011-12-03T19:25:47Z",
+            "contributors": [],
+            "created": "2025-04-17T02:21:54Z",
             "creators": [
                 {
                     "homepage": null,
@@ -268,103 +279,92 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "The forum of the city",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "plaza",
-                ""
+                "forum"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
             "geometry": {
                 "coordinates": [
-                    11.288333,
-                    42.412778
+                    [
+                        11.2880432,
+                        42.4132113
+                    ],
+                    [
+                        11.2889958,
+                        42.4127272
+                    ],
+                    [
+                        11.2885317,
+                        42.4122294
+                    ],
+                    [
+                        11.2875791,
+                        42.4127136
+                    ],
+                    [
+                        11.2880432,
+                        42.4132113
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Edited",
-                    "modified": "2016-06-25T15:40:15Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-11-27T18:23:51Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:48:00Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-12-12T17:44:22Z",
+                    "modified": "2025-04-17T14:44:41Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-12-12T17:43:53Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-04-17T02:22:49Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2011-12-12T17:42:59Z",
-                    "modifiedBy": "thomase"
+                    "comment": "supersedes previously published location",
+                    "modified": "2025-04-17T02:22:44Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "created location",
-                    "modified": "2011-12-03T19:25:49Z",
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-04-17T02:21:54Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-12-03T19:25:47Z",
+                    "modified": "2025-04-17T02:21:54Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "forum-of-cosa",
+            "id": "osm-location-of-forum-of-cosa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
-            "provenance": "Pleiades",
+            "provenance": "OpenStreetMap (Way 211356502, version 4, osm:changeset=139650003, 2023-08-09T09:32:56Z)",
             "references": [
                 {
-                    "accessURI": "",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/211356502",
                     "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/5675403",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Brown, F. E. 1980. Cosa, the Making of a Roman Town. Ann Arbor: University of Michigan Press.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/26052727",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Brown, F.E., Richardson E. H. and Richardson, L. jr. 1993. Cosa III, The Buildings of the Forum. MAAR 37. Pennsylvania State University Press.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 211356502",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=211356502",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "Imagery location of Forum of Cosa",
-            "uri": "https://pleiades.stoa.org/places/6218928/forum-of-cosa"
+            "start": -300,
+            "title": "OSM location of Forum of Cosa",
+            "uri": "https://pleiades.stoa.org/places/6218928/osm-location-of-forum-of-cosa"
         }
     ],
     "names": [
@@ -635,8 +635,8 @@
         }
     ],
     "reprPoint": [
-        11.288333,
-        42.412778
+        11.288287456952844,
+        42.41272036671545
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
