@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-635 alignments exist in _Pleiades_ place references as of 2025-04-18. The following list of alignments is grouped by zotkey.
+636 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2114,6 +2114,13 @@
 
 ### alignments:
  - [Heraia (mountain)](https://pleiades.stoa.org/places/462238)
+
+
+## 11304521: Misenum (Italy)
+[https://resource.manto.unh.edu/11304521](https://resource.manto.unh.edu/11304521)  
+
+### alignments:
+ - [Misenum (promontory)](https://pleiades.stoa.org/places/432942)
 
 
 ## 11304676: Rhodes (city)

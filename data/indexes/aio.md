@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with AIO
-145 alignments exist in _Pleiades_ place references as of 2025-04-18. The following list of alignments is grouped by zotkey.
+146 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
+
+## 17.b1 = IG I3 259
+[https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
+
+### alignments:
+ - [Neapolis (Kavalla)](https://pleiades.stoa.org/places/501523)
+
 
 ## 847
 [https://www.atticinscriptions.com/inscription/AIO/847](https://www.atticinscriptions.com/inscription/AIO/847)  

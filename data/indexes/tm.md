@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4264 alignments exist in _Pleiades_ place references as of 2025-04-18. The following list of alignments is grouped by zotkey.
+4270 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3152,6 +3152,13 @@
 
 ### alignments:
  - [Oldenoi](https://pleiades.stoa.org/places/501534)
+
+
+## GEO ID 12081: Nea Polis (Kavala)
+[https://www.trismegistos.org/place/12081](https://www.trismegistos.org/place/12081)  
+
+### alignments:
+ - [Neapolis (Kavalla)](https://pleiades.stoa.org/places/501523)
 
 
 ## GEO ID 1208: Kyzikos (Belkiz Kale)
@@ -10999,6 +11006,13 @@
  - [Augustomagus](https://pleiades.stoa.org/places/108776)
 
 
+## GEO ID 24407: Buzenol
+[http://www.trismegistos.org/place/24407](http://www.trismegistos.org/place/24407)  
+
+### alignments:
+ - [Buzenol](https://pleiades.stoa.org/places/108840)
+
+
 ## GEO ID 2440: Tlos (Düver)
 [https://www.trismegistos.org/place/2440](https://www.trismegistos.org/place/2440)  
 
@@ -17973,6 +17987,13 @@
  - [Veh Ardashir/Coche/Mahoza/‘Seleucia’](https://pleiades.stoa.org/places/894178)
 
 
+## GEO ID 37190: Seleukeia pros tei Tigrei (Tell Baruda)
+[https://www.trismegistos.org/place/37190](https://www.trismegistos.org/place/37190)  
+
+### alignments:
+ - [Seleucia/Sliq Kharawta](https://pleiades.stoa.org/places/894084)
+
+
 ## GEO ID 37191: Alexandria (Kandahar)
 [http://www.trismegistos.org/place/37191](http://www.trismegistos.org/place/37191)  
 
@@ -20128,6 +20149,13 @@
 
 ### alignments:
  - [Aritium Praetorium](https://pleiades.stoa.org/places/255983)
+
+
+## GEO ID 4091: Appadana (Tell Fidain?)
+[https://www.trismegistos.org/place/4091](https://www.trismegistos.org/place/4091)  
+
+### alignments:
+ - [Tell Fidain/Appadana?/Neapolis?](https://pleiades.stoa.org/places/894133)
 
 
 ## GEO ID 40921: Limia (Ponte de Lima)
@@ -23518,6 +23546,13 @@
  - [Aequiculi](https://pleiades.stoa.org/places/413001)
 
 
+## GEO ID 42743: Aquae Sinuessanae (Casino di Transo)
+[https://www.trismegistos.org/place/42743](https://www.trismegistos.org/place/42743)  
+
+### alignments:
+ - [Aquae Sinuessanae](https://pleiades.stoa.org/places/432689)
+
+
 ## GEO ID 42746: Palatium
 [http://www.trismegistos.org/place/42746](http://www.trismegistos.org/place/42746)  
 
@@ -23553,7 +23588,7 @@
  - [Dacia Malvensis (province)](https://pleiades.stoa.org/places/716976703)
 
 
-## GEO ID 42766
+## GEO ID 42766: Dacia Inferior
 [https://www.trismegistos.org/place/42766](https://www.trismegistos.org/place/42766)  
 
 ### alignments:
@@ -28225,6 +28260,13 @@
 
 ### alignments:
  - [Parthyene/Parthia](https://pleiades.stoa.org/places/952097)
+
+
+## GEO ID 63244: Misenus (Capo di Miseno)
+[https://www.trismegistos.org/place/63244](https://www.trismegistos.org/place/63244)  
+
+### alignments:
+ - [Misenum (promontory)](https://pleiades.stoa.org/places/432942)
 
 
 ## GEO ID 63259: Nemorensis Lacus (Lago di Nemi)

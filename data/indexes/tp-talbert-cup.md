@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2057 alignments exist in _Pleiades_ place references as of 2025-04-18. The following list of alignments is grouped by zotkey.
+2058 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -11453,6 +11453,13 @@
 
 ### alignments:
  - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
+
+
+## 7B3 (Talbert 2042)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2042.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2042.html)  
+
+### alignments:
+ - [Neapolis (Kavalla)](https://pleiades.stoa.org/places/501523)
 
 
 ## 7B3 (Talbert 2054)
