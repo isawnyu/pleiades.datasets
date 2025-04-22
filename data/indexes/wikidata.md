@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7796 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
+7807 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -322,6 +322,13 @@
 
 ### alignments:
  - [Acholshausen](https://pleiades.stoa.org/places/118540)
+
+
+## Acilisene (Q5637035)
+[https://www.wikidata.org/wiki/Q5637035](https://www.wikidata.org/wiki/Q5637035)  
+
+### alignments:
+ - [Akilisene (region)](https://pleiades.stoa.org/places/874310)
 
 
 ## Ackling Dyke (Q4674275)
@@ -1459,6 +1466,13 @@
  - [Amaras](https://pleiades.stoa.org/places/884113)
 
 
+## Amardi (Q687458)
+[https://www.wikidata.org/wiki/Q687458](https://www.wikidata.org/wiki/Q687458)  
+
+### alignments:
+ - [(A)Mardoi](https://pleiades.stoa.org/places/884114)
+
+
 ## Amarna (Q5736)
 [https://www.wikidata.org/wiki/Q5736](https://www.wikidata.org/wiki/Q5736)  
 
@@ -1821,6 +1835,13 @@
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## Anariacae (Q4751713)
+[https://www.wikidata.org/wiki/Q4751713](https://www.wikidata.org/wiki/Q4751713)  
+
+### alignments:
+ - [Anariakai?](https://pleiades.stoa.org/places/884117)
 
 
 ## Anatolia (Q51614)
@@ -13114,6 +13135,13 @@
  - [Genesion/Apobathmoi](https://pleiades.stoa.org/places/570257)
 
 
+## Genetes (Q65048848)
+[https://www.wikidata.org/wiki/Q65048848](https://www.wikidata.org/wiki/Q65048848)  
+
+### alignments:
+ - [Genetes](https://pleiades.stoa.org/places/860805)
+
+
 ## Genil (Q17760)
 [https://www.wikidata.org/wiki/Q17760](https://www.wikidata.org/wiki/Q17760)  
 
@@ -14135,6 +14163,13 @@
 
 ### alignments:
  - [Herakleous Akron](https://pleiades.stoa.org/places/79508)
+
+
+## Hasankeyf (Q756957)
+[https://www.wikidata.org/wiki/Q756957](https://www.wikidata.org/wiki/Q756957)  
+
+### alignments:
+ - [(Ris)Kepha(s)](https://pleiades.stoa.org/places/874664)
 
 
 ## Haselburg Roman villa (Q1437169)
@@ -19576,6 +19611,13 @@
 
 ### alignments:
  - [Mesokomai](https://pleiades.stoa.org/places/585933)
+
+
+## Mesopotamia (Q11767)
+[https://www.wikidata.org/wiki/Q11767](https://www.wikidata.org/wiki/Q11767)  
+
+### alignments:
+ - [Mesopotamia (region)](https://pleiades.stoa.org/places/874602)
 
 
 ## Messa (Greece) (Q16606539)
@@ -43869,6 +43911,13 @@
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
+## Rhesaena (Q111536866)
+[https://www.wikidata.org/wiki/Q111536866](https://www.wikidata.org/wiki/Q111536866)  
+
+### alignments:
+ - [Resaina/Theodosiopolis](https://pleiades.stoa.org/places/874662)
+
+
 ## Rhine (Q584)
 [https://www.wikidata.org/wiki/Q584](https://www.wikidata.org/wiki/Q584)  
 
@@ -47294,6 +47343,13 @@
  - [Singos](https://pleiades.stoa.org/places/501613)
 
 
+## Sinjar Mountains (Q1261898)
+[https://www.wikidata.org/wiki/Q1261898](https://www.wikidata.org/wiki/Q1261898)  
+
+### alignments:
+ - [Singaras](https://pleiades.stoa.org/places/874700)
+
+
 ## Sinuessa (Q1349926)
 [https://www.wikidata.org/wiki/Q1349926](https://www.wikidata.org/wiki/Q1349926)  
 
@@ -47369,6 +47425,13 @@
 
 ### alignments:
  - [Sisapo](https://pleiades.stoa.org/places/266043)
+
+
+## Sisauranon (Q48868408)
+[https://www.wikidata.org/wiki/Q48868408](https://www.wikidata.org/wiki/Q48868408)  
+
+### alignments:
+ - [Sarbane/Sisara](https://pleiades.stoa.org/places/874680)
 
 
 ## Site gallo-romain de Barzan (Q3962375)
@@ -47628,6 +47691,13 @@
 
 ### alignments:
  - [Terabdon Kolpos](https://pleiades.stoa.org/places/60084)
+
+
+## Sophene (Q1303676)
+[https://www.wikidata.org/wiki/Q1303676](https://www.wikidata.org/wiki/Q1303676)  
+
+### alignments:
+ - [Sophene](https://pleiades.stoa.org/places/874707)
 
 
 ## Sopianae (Q11950215)
@@ -54413,6 +54483,13 @@
 
 ### alignments:
  - [Ziwiye](https://pleiades.stoa.org/places/884230)
+
+
+## Zoaranda (Q21556412)
+[https://www.wikidata.org/wiki/Q21556412](https://www.wikidata.org/wiki/Q21556412)  
+
+### alignments:
+ - [Zoaranda](https://pleiades.stoa.org/places/874805)
 
 
 ## Zoetia (Q8073335)

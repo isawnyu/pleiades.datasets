@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4270 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
+4272 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25858,6 +25858,13 @@
  - [Euphratesia](https://pleiades.stoa.org/places/1001934)
 
 
+## GEO ID 47881: Hesno d-Kifo
+[http://www.trismegistos.org/place/47881](http://www.trismegistos.org/place/47881)  
+
+### alignments:
+ - [(Ris)Kepha(s)](https://pleiades.stoa.org/places/874664)
+
+
 ## GEO ID 47892: Lake Urmia
 [https://www.trismegistos.org/place/47892](https://www.trismegistos.org/place/47892)  
 
@@ -26052,6 +26059,13 @@
 
 ### alignments:
  - [Iris (river)](https://pleiades.stoa.org/places/857171)
+
+
+## GEO ID 48151: Sophene
+[http://www.trismegistos.org/place/48151](http://www.trismegistos.org/place/48151)  
+
+### alignments:
+ - [Sophene](https://pleiades.stoa.org/places/874707)
 
 
 ## GEO ID 48169: Mount Sindjar

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3685 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
+3686 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -22387,6 +22387,13 @@
 
 ### alignments:
  - [Solygeia](https://pleiades.stoa.org/places/570682)
+
+
+## Sophene (Asia) 34 Elazig - Σωφηνή
+[https://topostext.org/place/387393RSop](https://topostext.org/place/387393RSop)  
+
+### alignments:
+ - [Sophene](https://pleiades.stoa.org/places/874707)
 
 
 ## Sopianae (Pannonia)

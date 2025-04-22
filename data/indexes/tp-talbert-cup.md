@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2058 alignments exist in _Pleiades_ place references as of 2025-04-21. The following list of alignments is grouped by zotkey.
+2059 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -433,6 +433,13 @@
 
 ### alignments:
  - [Harran/Carrhae](https://pleiades.stoa.org/places/658427)
+
+
+## 10B3 (Talbert 2620)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2620.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2620.html)  
+
+### alignments:
+ - [Sahal](https://pleiades.stoa.org/places/874668)
 
 
 ## 10B3 (Talbert 2621)
