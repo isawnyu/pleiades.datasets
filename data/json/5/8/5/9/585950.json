@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        23.65,
+        38.033333,
+        23.65,
+        38.033333
+    ],
     "connections": [
         {
             "@type": "Connection",
@@ -92,30 +97,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T21:29:35Z",
+    "created": "2025-04-21T19:38:57Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 59 unlocated Poikilon M.",
-    "details": "The Barrington Atlas Directory notes: near Daphni",
+    "description": "An ancient peak in Attica that BAtlas chose not to map, but commented (BAtlDir) that it was located \"near Daphni.\" Some commentators have tentatively identified it with modern Aigaleo.",
+    "details": "<p>The Barrington Atlas Directory notes: near Daphni</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    23.65,
+                    38.033333
+                ],
+                "type": "Point"
+            },
+            "id": "geohack-location-of-mount-aigaleo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/585950/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoHack",
+                "link": "https://pleiades.stoa.org/places/585950/geohack-location-of-mount-aigaleo",
+                "location_precision": "precise",
+                "snippet": "Mountain; AD 2000 - AD 2099",
+                "title": "GeoHack location of Mount Aigaleo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; cleaned up references; added RE reference; added Pausanias reference @thomase",
+            "modified": "2025-04-21T23:37:09Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-04-21T19:38:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update",
             "modified": "2022-12-15T21:16:17Z",
@@ -156,93 +177,115 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-10T21:29:35Z",
+            "created": "2025-04-04T19:41:35Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Coordinates following GeoHack",
             "details": "",
-            "end": -330,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    23.65,
+                    38.033333
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:46:47Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-04-21T19:54:02Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-10T22:07:05Z",
+                    "comment": "uncertain",
+                    "modified": "2025-04-21T19:53:52Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-10T22:04:04Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-04T19:41:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add imagery location",
+                    "modified": "2025-04-04T19:41:36Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-10T21:29:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-04T19:41:35Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geohack-location-of-mount-aigaleo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "Barrington Atlas: BAtlas 59 Poikilon M.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://geohack.toolforge.org/geohack.php?pagename=Mount_Aigaleo&params=38_02_N_23_39_E_region:GR_type:mountain_scale:100000",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "GeoHack - Mount Aigaleo",
+                    "otherIdentifier": "",
+                    "shortTitle": "",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Mount_Aigaleo",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Mount Aigaleo",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/585950/batlas-location"
+            "start": 2000,
+            "title": "GeoHack location of Mount Aigaleo",
+            "uri": "https://pleiades.stoa.org/places/585950/geohack-location-of-mount-aigaleo"
         }
     ],
     "names": [
@@ -375,16 +418,41 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#KvA-II",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XW4EGEC2",
+            "citationDetail": "II, 46",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "KvA II, 46",
+            "formattedCitation": "<div class=\"csl-entry\">Curtius, Ernst, Johann August Kaupert, and Arthur Alexander Johann Milchhöfer. <i>Karten von Attika: Text</i>. 9 vols. Berlin: D. Reimer, 1881.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "KvA",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://elexikon.ch/RE/XXI,1_1193.png",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Poikilon (E. Meyer)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.37.7",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
+            "citationDetail": "1.37.7",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Paus. (Spiro: Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        23.65,
+        38.033333
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
