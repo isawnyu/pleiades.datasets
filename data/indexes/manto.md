@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-636 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
+638 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2537,6 +2537,13 @@
  - [Epidauros](https://pleiades.stoa.org/places/570228)
 
 
+## 8188818: Crete (island)
+[https://resource.manto.unh.edu/8188818](https://resource.manto.unh.edu/8188818)  
+
+### alignments:
+ - [Creta (island)](https://pleiades.stoa.org/places/589748)
+
+
 ## 8188819: Naxos (island)
 [https://resource.manto.unh.edu/8188819](https://resource.manto.unh.edu/8188819)  
 
@@ -3957,6 +3964,13 @@
 
 ### alignments:
  - [Lyktos](https://pleiades.stoa.org/places/589918)
+
+
+## 9719439: Lycastos (Crete)
+[https://resource.manto.unh.edu/9719439](https://resource.manto.unh.edu/9719439)  
+
+### alignments:
+ - [Lykastos (Rokka)](https://pleiades.stoa.org/places/589917)
 
 
 ## 9719440: Phaistos (Crete)

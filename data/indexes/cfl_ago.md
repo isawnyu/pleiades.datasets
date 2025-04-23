@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-386 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
+391 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Kastellion](https://pleiades.stoa.org/places/553704982)
+
+
+## KASTELLI KISSAMOU - 2006
+[https://chronique.efa.gr/?kroute=report&id=221](https://chronique.efa.gr/?kroute=report&id=221)  
+
+### alignments:
+ - [Kisamos](https://pleiades.stoa.org/places/589870)
 
 
 ## KASTRO KALLITHÉAS - 2013
@@ -1473,6 +1480,13 @@
  - [Kalamai](https://pleiades.stoa.org/places/570323)
 
 
+## Toponyme - 38085: Kissamos, Kastellion-Δ.Δ.Κισσάμου
+[https://chronique.efa.gr/?r=topo_public&id=38085](https://chronique.efa.gr/?r=topo_public&id=38085)  
+
+### alignments:
+ - [Kisamos](https://pleiades.stoa.org/places/589870)
+
+
 ## Toponyme - 70018: Argilos, ville antique, ancient city
 [https://chronique.efa.gr/?kroute=topo_public&id=70018](https://chronique.efa.gr/?kroute=topo_public&id=70018)  
 
@@ -1865,6 +1879,13 @@
 
 ### alignments:
  - [Thasos (island)](https://pleiades.stoa.org/places/501635)
+
+
+## Toponyme 28967: Kavala, Neapolis-Δ.Δ.Καβάλας
+[https://chronique.efa.gr/?r=topo_public&id=28967](https://chronique.efa.gr/?r=topo_public&id=28967)  
+
+### alignments:
+ - [Neapolis (Kavalla)](https://pleiades.stoa.org/places/501523)
 
 
 ## Toponyme 29057: Dion, Ag. Dimitrios, Malathria
@@ -2443,6 +2464,13 @@
  - [*Ladarma](https://pleiades.stoa.org/places/589891)
 
 
+## Toponyme 6269: Crete, Kriti, Crète (island, île)-Κρήτη (Νήσος)
+[https://chronique.efa.gr/?r=topo_public&id=6269](https://chronique.efa.gr/?r=topo_public&id=6269)  
+
+### alignments:
+ - [Creta (island)](https://pleiades.stoa.org/places/589748)
+
+
 ## Toponyme 6441: Matala
 [https://chronique.efa.gr/?kroute=topo_public&id=6441](https://chronique.efa.gr/?kroute=topo_public&id=6441)  
 
@@ -2518,6 +2546,13 @@
 
 ### alignments:
  - [Exomvourgo](https://pleiades.stoa.org/places/853662205)
+
+
+## Toponyme 69999: Molyvoti-Μολυβωτή, αρχαία Στρύμη
+[https://chronique.efa.gr/?r=topo_public&id=69999](https://chronique.efa.gr/?r=topo_public&id=69999)  
+
+### alignments:
+ - [Stryme](https://pleiades.stoa.org/places/501628)
 
 
 ## Toponyme 70012: Dréros

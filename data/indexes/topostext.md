@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3686 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
+3687 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10569,6 +10569,13 @@
  - [Ill(ib)erris/Helena](https://pleiades.stoa.org/places/246433)
 
 
+## Illyria region (Albania)
+[https://topostext.org/place/405195RIll](https://topostext.org/place/405195RIll)  
+
+### alignments:
+ - [Illyrii](https://pleiades.stoa.org/places/481866)
+
+
 ## Ilurco (Iberia)
 [https://topostext.org/place/373000UIlu](https://topostext.org/place/373000UIlu)  
 
@@ -14163,7 +14170,7 @@
 [https://topostext.org/place/352251ULyk](https://topostext.org/place/352251ULyk)  
 
 ### alignments:
- - [Lykastos](https://pleiades.stoa.org/places/589917)
+ - [Lykastos (Rokka)](https://pleiades.stoa.org/places/589917)
 
 
 ## Lykoa (Arkadia)

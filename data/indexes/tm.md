@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4272 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
+4277 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7064,6 +7064,13 @@
  - [Patsonteos (Oreine)](https://pleiades.stoa.org/places/736994)
 
 
+## GEO ID 16412: Gazioura (Turhal)
+[https://www.trismegistos.org/place/16412](https://www.trismegistos.org/place/16412)  
+
+### alignments:
+ - [Gazioura](https://pleiades.stoa.org/places/857134)
+
+
 ## GEO ID 16417: Lycia et Pamphylia
 [https://www.trismegistos.org/place/16417](https://www.trismegistos.org/place/16417)  
 
@@ -8436,6 +8443,13 @@
  - [Bannaventa](https://pleiades.stoa.org/places/79313)
 
 
+## GEO ID 18974: Noviomagus (Crayford)
+[http://www.trismegistos.org/place/18974](http://www.trismegistos.org/place/18974)  
+
+### alignments:
+ - [Noviomagus](https://pleiades.stoa.org/places/79623)
+
+
 ## GEO ID 18976: Senomagus (Yoxford?)
 [http://www.trismegistos.org/place/18976](http://www.trismegistos.org/place/18976)  
 
@@ -8476,6 +8490,13 @@
 
 ### alignments:
  - [Varis](https://pleiades.stoa.org/places/79730)
+
+
+## GEO ID 18985: Vindocladia (Badbury Rings)
+[http://www.trismegistos.org/place/18985](http://www.trismegistos.org/place/18985)  
+
+### alignments:
+ - [Vindocladia](https://pleiades.stoa.org/places/79740)
 
 
 ## GEO ID 18986: Moridunum (Sidford?)
@@ -22517,6 +22538,13 @@
  - [Pida](https://pleiades.stoa.org/places/857281)
 
 
+## GEO ID 42103: Psoron Limen
+[https://www.trismegistos.org/place/42103](https://www.trismegistos.org/place/42103)  
+
+### alignments:
+ - [Psoron Limen/Hyssos/Sousarmia/Sousourmena/‘Ysiporto’](https://pleiades.stoa.org/places/857291)
+
+
 ## GEO ID 42106: Zephyrion (Zefre)
 [https://www.trismegistos.org/place/42106](https://www.trismegistos.org/place/42106)  
 
@@ -28381,6 +28409,13 @@
  - [Epidauros](https://pleiades.stoa.org/places/570228)
 
 
+## GEO ID 65156: Lykastos
+[https://www.trismegistos.org/place/65156](https://www.trismegistos.org/place/65156)  
+
+### alignments:
+ - [Lycastus (Pontus)](https://pleiades.stoa.org/places/860823)
+
+
 ## GEO ID 6538: Petachor
 [https://www.trismegistos.org/place/6538](https://www.trismegistos.org/place/6538)  
 
@@ -29195,7 +29230,7 @@
  - [Aristomachou Kleros](https://pleiades.stoa.org/places/271757444)
 
 
-## GEO ID 900
+## GEO ID 900: Illyricum
 [https://www.trismegistos.org/place/900](https://www.trismegistos.org/place/900)  
 
 ### alignments:

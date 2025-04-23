@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2059 alignments exist in _Pleiades_ place references as of 2025-04-22. The following list of alignments is grouped by zotkey.
+2064 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1231,6 +1231,13 @@
 
 ### alignments:
  - [Musiris? L.](https://pleiades.stoa.org/places/50145)
+
+
+## 1A1 (Talbert 535)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace535.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace535.html)  
+
+### alignments:
+ - [Ad Taum](https://pleiades.stoa.org/places/219097226)
 
 
 ## 1A1 (Talbert 536)
@@ -11651,11 +11658,32 @@
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
 
 
+## 7B5 (Talbert 2065)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2065.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2065.html)  
+
+### alignments:
+ - [Kisamos](https://pleiades.stoa.org/places/589870)
+
+
+## 7B5 (Talbert 2066)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2066.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2066.html)  
+
+### alignments:
+ - [Kantanos](https://pleiades.stoa.org/places/589838)
+
+
 ## 7B5 (Talbert 2067)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2067.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2067.html)  
 
 ### alignments:
  - [Lissos](https://pleiades.stoa.org/places/589914)
+
+
+## 7B5 (Talbert 2068)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2068.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2068.html)  
+
+### alignments:
+ - [Unnamed place](https://pleiades.stoa.org/places/420180717)
 
 
 ## 7B5 (Talbert 3115)
@@ -13231,6 +13259,13 @@
 
 ### alignments:
  - [Bartae](https://pleiades.stoa.org/places/857057)
+
+
+## 9A3 (Talbert 2397)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2397.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2397.html)  
+
+### alignments:
+ - [Psoron Limen/Hyssos/Sousarmia/Sousourmena/‘Ysiporto’](https://pleiades.stoa.org/places/857291)
 
 
 ## 9A3 (Talbert 2398)
