@@ -130,7 +130,7 @@ def main(**kwargs):
     logger.error(type(bad_zotkeys))
     for badk, count in sorted(bad_zotkeys.items(), key=lambda x: x[1], reverse=True):
         logger.error(
-            f"Bad Zotkey: '{badk}': {count}\t: pids: {', '.join(bad_pids_by_zotkeys[badk])}"
+            f"Bad Zotkey: '{badk}': {count}\t: pids: {', '.join(sorted(bad_pids_by_zotkeys[badk], key=lambda x: int(x)))}"
         )
 
 
