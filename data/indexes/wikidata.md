@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7839 alignments exist in _Pleiades_ place references as of 2025-04-23. The following list of alignments is grouped by zotkey.
+7842 alignments exist in _Pleiades_ place references as of 2025-04-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6941,6 +6941,13 @@
 
 ### alignments:
  - [Argennon Akron](https://pleiades.stoa.org/places/462102)
+
+
+## Capo Vaticano (Q1034760)
+[https://www.wikidata.org/wiki/Q1034760](https://www.wikidata.org/wiki/Q1034760)  
+
+### alignments:
+ - [Tauri(a)num/‘Vaticanum’ Pr.](https://pleiades.stoa.org/places/452467)
 
 
 ## Cappadocia (Q217265)
@@ -45347,6 +45354,13 @@
  - [Gayton Thorpe](https://pleiades.stoa.org/places/79478)
 
 
+## Roman villa at Mill End (Q17660549)
+[https://www.wikidata.org/wiki/Q17660549](https://www.wikidata.org/wiki/Q17660549)  
+
+### alignments:
+ - [Roman villa at Mill End](https://pleiades.stoa.org/places/807201018)
+
+
 ## Roman villa in Via Carciano (Q130263089)
 [https://www.wikidata.org/wiki/Q130263089](https://www.wikidata.org/wiki/Q130263089)  
 
@@ -50604,6 +50618,13 @@
 
 ### alignments:
  - [Timacum Minus](https://pleiades.stoa.org/places/207501)
+
+
+## Timavo (Q506033)
+[https://www.wikidata.org/wiki/Q506033](https://www.wikidata.org/wiki/Q506033)  
+
+### alignments:
+ - [Timavus (river)](https://pleiades.stoa.org/places/187588)
 
 
 ## Timbrias (Q2434483)
