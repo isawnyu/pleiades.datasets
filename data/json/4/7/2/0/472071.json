@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        9.0,
-        41.0,
-        10.0,
-        42.0
+        9.365404,
+        41.595118,
+        9.3655773,
+        41.5952468
     ],
     "connections": [],
     "connectsWith": [],
@@ -46,37 +46,35 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            9.0,
-                            41.0
-                        ],
-                        [
-                            10.0,
-                            41.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            41.0
-                        ]
+                        9.3655773,
+                        41.5952351
+                    ],
+                    [
+                        9.3654196,
+                        41.5952468
+                    ],
+                    [
+                        9.365404,
+                        41.5951298
+                    ],
+                    [
+                        9.3655617,
+                        41.595118
+                    ],
+                    [
+                        9.3655773,
+                        41.5952351
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/472071/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/472071/osm-location",
+                "location_precision": "precise",
+                "snippet": "Lighthouse; AD 1700 - AD 2100",
+                "title": "OSM location of Phare de la Chiappa"
             },
             "type": "Feature"
         }
@@ -122,119 +120,125 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T20:24:16Z",
+            "contributors": [],
+            "created": "2014-05-30T20:12:34Z",
             "creators": [
                 {
-                    "name": "S.L. Dyson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2100,
             "featureType": [
-                "unknown"
+                "lighthouse"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            9.0,
-                            41.0
-                        ],
-                        [
-                            10.0,
-                            41.0
-                        ],
-                        [
-                            10.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            42.0
-                        ],
-                        [
-                            9.0,
-                            41.0
-                        ]
+                        9.3655773,
+                        41.5952351
+                    ],
+                    [
+                        9.3654196,
+                        41.5952468
+                    ],
+                    [
+                        9.365404,
+                        41.5951298
+                    ],
+                    [
+                        9.3655617,
+                        41.595118
+                    ],
+                    [
+                        9.3655773,
+                        41.5952351
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:28:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-12T12:26:30Z",
+                    "modified": "2025-04-24T09:00:59Z",
                     "modifiedBy": "thomase"
                 },
                 {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2024-08-17T00:13:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "update",
+                    "modified": "2023-03-26T00:28:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T20:26:54Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-30T20:14:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2014-05-30T20:13:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2014-05-30T20:12:36Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:24:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2014-05-30T20:12:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/lighthouse"
             ],
-            "provenance": "Barrington Atlas: BAtlas 48 D3 Granianon Akron",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 66470273, version 3, osm:changeset=105564582, 2021-05-30T11:47:50Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/way/66470273",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 66470273",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=66470273",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/472071/batlas-location"
+            "start": 1700,
+            "title": "OSM location of Phare de la Chiappa",
+            "uri": "https://pleiades.stoa.org/places/472071/osm-location"
         }
     ],
     "names": [
@@ -352,8 +356,8 @@
         }
     ],
     "reprPoint": [
-        9.5,
-        41.5
+        9.365490664042927,
+        41.59518242315871
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
