@@ -181,6 +181,20 @@ def main(**kwargs):
         msg = f"no change"
     print(msg)
 
+    print("\n4. pleiades_wikidata: https://github.com/isawnyu/pleiades_wikidata/:\n")
+
+    commit_url = "https://api.github.com/repos/isawnyu/pleiades_wikidata/commits"
+    r = requests.get(commit_url)
+    j = r.json()
+    recent = [c for c in j if c["commit"]["author"]["date"].startswith(kwargs["date"])]
+    if recent:
+        c = recent[0]
+        short_sha = c["sha"][:8]
+        msg = f"{short_sha} - {c['commit']['message']}".split(":")[0].strip()
+    else:
+        msg = f"no change"
+    print(msg)
+
 
 if __name__ == "__main__":
     main(
