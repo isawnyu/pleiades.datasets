@@ -89,10 +89,6 @@
             "username": "bkiesling"
         },
         {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
@@ -112,6 +108,10 @@
         },
         {
             "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -183,13 +183,13 @@
                 ],
                 "type": "Point"
             },
-            "id": "62764464462763064264a629",
+            "id": "osm-location-latakia",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/668290/62764464462763064264a629",
+                "link": "https://pleiades.stoa.org/places/668290/osm-location-latakia",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "Latakia"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM Location: Latakia"
             },
             "type": "Feature"
         }
@@ -465,7 +465,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -476,7 +476,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-10-19T02:38:23Z",
             "creators": [
                 {
@@ -490,12 +497,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -505,6 +510,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "settlement-modern; associated modern",
+                    "modified": "2025-04-24T13:08:37Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-11-07T20:34:56Z",
@@ -531,13 +541,12 @@
                     "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "62764464462763064264a629",
+            "id": "osm-location-latakia",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "OpenStreetMap (Node 192288043, version 13, osm:changeset=13571317, 2012-10-20T18:47:17Z)",
             "references": [
@@ -555,8 +564,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Latakia",
-            "uri": "https://pleiades.stoa.org/places/668290/62764464462763064264a629"
+            "title": "OSM Location: Latakia",
+            "uri": "https://pleiades.stoa.org/places/668290/osm-location-latakia"
         }
     ],
     "names": [
@@ -1020,11 +1029,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/port"
+        "https://pleiades.stoa.org/vocabularies/place-types/port",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "settlement",
-        "port"
+        "port",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 68 A2 Laodicea",
     "references": [
