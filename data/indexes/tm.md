@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4277 alignments exist in _Pleiades_ place references as of 2025-04-24. The following list of alignments is grouped by zotkey.
+4278 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11879,6 +11879,13 @@
 
 ### alignments:
  - [Capera](https://pleiades.stoa.org/places/236405)
+
+
+## GEO ID 26550: Turgalium (Trujillo)
+[https://www.trismegistos.org/place/26550](https://www.trismegistos.org/place/26550)  
+
+### alignments:
+ - [Turgalium](https://pleiades.stoa.org/places/256491)
 
 
 ## GEO ID 26576: Urci (Pechina)

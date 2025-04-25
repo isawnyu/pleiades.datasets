@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7842 alignments exist in _Pleiades_ place references as of 2025-04-24. The following list of alignments is grouped by zotkey.
+7845 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17539,6 +17539,13 @@
 
 ### alignments:
  - [Kerkinitis L.](https://pleiades.stoa.org/places/491635)
+
+
+## Lake Marmara (Q601695)
+[https://www.wikidata.org/wiki/Q601695](https://www.wikidata.org/wiki/Q601695)  
+
+### alignments:
+ - [Gygaia/Koloe/Talaimenis (lake)](https://pleiades.stoa.org/places/550556)
 
 
 ## Lake Martignano (Q1231514)
@@ -43883,6 +43890,13 @@
  - [Reunia](https://pleiades.stoa.org/places/187528)
 
 
+## Ras el-Haddagia (Q106188949)
+[https://www.wikidata.org/wiki/Q106188949](https://www.wikidata.org/wiki/Q106188949)  
+
+### alignments:
+ - [Ras el-Haddagia](https://pleiades.stoa.org/places/344468)
+
+
 ## Ras Mostefa (Q12212774)
 [https://www.wikidata.org/wiki/Q12212774](https://www.wikidata.org/wiki/Q12212774)  
 
@@ -49638,6 +49652,13 @@
 
 ### alignments:
  - [Temple of Talamonaccio](https://pleiades.stoa.org/places/254082752)
+
+
+## Temple of Tellus (Q35322622)
+[https://www.wikidata.org/wiki/Q35322622](https://www.wikidata.org/wiki/Q35322622)  
+
+### alignments:
+ - [Temple of Tellus (Thugga)](https://pleiades.stoa.org/places/379988105)
 
 
 ## Temple of the Dioscuri, Cyrene (Q104776460)
