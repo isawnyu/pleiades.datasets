@@ -128,10 +128,19 @@ def main(**kwargs):
     )
     print(outj)
     logger.error(type(bad_zotkeys))
-    for badk, count in sorted(bad_zotkeys.items(), key=lambda x: x[1], reverse=True):
-        logger.error(
-            f"Bad Zotkey: '{badk}': {count}\t: pids: {', '.join(sorted(bad_pids_by_zotkeys[badk], key=lambda x: int(x)))}"
-        )
+    bad_groups = dict()
+    for badk, count in bad_zotkeys.items():
+        icount = int(count)
+        try:
+            bad_groups[icount]
+        except KeyError:
+            bad_groups[icount] = list()
+        bad_groups[icount].append(badk)
+    for icount in sorted(bad_groups.keys(), reverse=True):
+        for badk in sorted(bad_groups[icount]):
+            logger.error(
+                f"Bad Zotkey: '{badk}': {icount:03}\t: pids: {', '.join(sorted(bad_pids_by_zotkeys[badk], key=lambda x: int(x)))}"
+            )
 
 
 if __name__ == "__main__":
