@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7845 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
+7863 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1226,6 +1226,13 @@
 
 ### alignments:
  - [Antigoneia/(Col. Augusta) Alexandria Troas](https://pleiades.stoa.org/places/550434)
+
+
+## Alexiarus (Q131904099)
+[https://www.wikidata.org/wiki/Q131904099](https://www.wikidata.org/wiki/Q131904099)  
+
+### alignments:
+ - [Alexiarous](https://pleiades.stoa.org/places/543621)
 
 
 ## Alfar romano de la Cartuja (Q21077062)
@@ -6754,6 +6761,13 @@
  - [Campus Agrippae](https://pleiades.stoa.org/places/646461226)
 
 
+## Campus Esquilinus (Q5028639)
+[https://www.wikidata.org/wiki/Q5028639](https://www.wikidata.org/wiki/Q5028639)  
+
+### alignments:
+ - [Campus Esquilinus](https://pleiades.stoa.org/places/133574713)
+
+
 ## Campus Viminalis (Q127516682)
 [https://www.wikidata.org/wiki/Q127516682](https://www.wikidata.org/wiki/Q127516682)  
 
@@ -9695,6 +9709,20 @@
  - [Comani](https://pleiades.stoa.org/places/151768)
 
 
+## Combe Down (Q5150756)
+[https://www.wikidata.org/wiki/Q5150756](https://www.wikidata.org/wiki/Q5150756)  
+
+### alignments:
+ - [Combe Down](https://pleiades.stoa.org/places/544572531)
+
+
+## Combe Hill (Q5167600)
+[https://www.wikidata.org/wiki/Q5167600](https://www.wikidata.org/wiki/Q5167600)  
+
+### alignments:
+ - [Coombe Hill](https://pleiades.stoa.org/places/549429627)
+
+
 ## Combley Roman villa (Q100377477)
 [https://www.wikidata.org/wiki/Q100377477](https://www.wikidata.org/wiki/Q100377477)  
 
@@ -11545,6 +11573,13 @@
  - [Edremit](https://pleiades.stoa.org/places/874362)
 
 
+## Edremit Gulf (Q1089476)
+[https://www.wikidata.org/wiki/Q1089476](https://www.wikidata.org/wiki/Q1089476)  
+
+### alignments:
+ - [Adramyttenos/Idaios Sinus](https://pleiades.stoa.org/places/550402)
+
+
 ## Eetioneia (Q56397345)
 [https://www.wikidata.org/wiki/Q56397345](https://www.wikidata.org/wiki/Q56397345)  
 
@@ -12309,6 +12344,13 @@
  - [Farfarus (river)](https://pleiades.stoa.org/places/413131)
 
 
+## Farfa Abbey (Q2634480)
+[https://www.wikidata.org/wiki/Q2634480](https://www.wikidata.org/wiki/Q2634480)  
+
+### alignments:
+ - [Farfa Abbey](https://pleiades.stoa.org/places/543871523)
+
+
 ## Faro Point (Q2257429)
 [https://www.wikidata.org/wiki/Q2257429](https://www.wikidata.org/wiki/Q2257429)  
 
@@ -12993,6 +13035,13 @@
 
 ### alignments:
  - [Gandaris](https://pleiades.stoa.org/places/59818)
+
+
+## Gandzasar monastery (Q947593)
+[https://www.wikidata.org/wiki/Q947593](https://www.wikidata.org/wiki/Q947593)  
+
+### alignments:
+ - [Gandzasar](https://pleiades.stoa.org/places/548553086)
 
 
 ## Gangani (Q3095139)
@@ -15166,6 +15215,13 @@
  - [Hypereia](https://pleiades.stoa.org/places/573257)
 
 
+## Hypereia spring (Q107588079)
+[https://www.wikidata.org/wiki/Q107588079](https://www.wikidata.org/wiki/Q107588079)  
+
+### alignments:
+ - [Hyperia fons](https://pleiades.stoa.org/places/543727)
+
+
 ## Hyperesia (polis) (Q3563508)
 [https://www.wikidata.org/wiki/Q3563508](https://www.wikidata.org/wiki/Q3563508)  
 
@@ -16607,6 +16663,13 @@
 
 ### alignments:
  - [*Zorlanae](https://pleiades.stoa.org/places/501668)
+
+
+## Khafajah (Q1305112)
+[https://www.wikidata.org/wiki/Q1305112](https://www.wikidata.org/wiki/Q1305112)  
+
+### alignments:
+ - [Ḫafāǧa](https://pleiades.stoa.org/places/490043590)
 
 
 ## Khanpur Cave (Q66134639)
@@ -19347,6 +19410,13 @@
  - [Matalon](https://pleiades.stoa.org/places/589925)
 
 
+## Matera (Q13616)
+[https://www.wikidata.org/wiki/Q13616](https://www.wikidata.org/wiki/Q13616)  
+
+### alignments:
+ - [Matera](https://pleiades.stoa.org/places/442650)
+
+
 ## Matese lake (Q1166662)
 [https://www.wikidata.org/wiki/Q1166662](https://www.wikidata.org/wiki/Q1166662)  
 
@@ -19807,6 +19877,13 @@
 
 ### alignments:
  - [Metaurum](https://pleiades.stoa.org/places/452379)
+
+
+## Meteora (Q3125051)
+[https://www.wikidata.org/wiki/Q3125051](https://www.wikidata.org/wiki/Q3125051)  
+
+### alignments:
+ - [Meteora](https://pleiades.stoa.org/places/548453076)
 
 
 ## Methana (Q107472458)
@@ -24325,6 +24402,13 @@
  - [Phellos](https://pleiades.stoa.org/places/639052)
 
 
+## Pherae (Q1330631)
+[https://www.wikidata.org/wiki/Q1330631](https://www.wikidata.org/wiki/Q1330631)  
+
+### alignments:
+ - [Pherai](https://pleiades.stoa.org/places/541044)
+
+
 ## Phigalia (Q7623270)
 [https://www.wikidata.org/wiki/Q7623270](https://www.wikidata.org/wiki/Q7623270)  
 
@@ -28301,6 +28385,13 @@
 
 ### alignments:
  - [Rhaithou](https://pleiades.stoa.org/places/746806)
+
+
+## Q124365696
+[https://www.wikidata.org/wiki/Q124365696](https://www.wikidata.org/wiki/Q124365696)  
+
+### alignments:
+ - [Peraia](https://pleiades.stoa.org/places/543830)
 
 
 ## Q124497643
@@ -47427,6 +47518,13 @@
  - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
 
 
+## Sigditsa Fort (Q106412527)
+[https://www.wikidata.org/wiki/Q106412527](https://www.wikidata.org/wiki/Q106412527)  
+
+### alignments:
+ - [Sigditsa](https://pleiades.stoa.org/places/541100)
+
+
 ## Sigriane (Q11949747)
 [https://www.wikidata.org/wiki/Q11949747](https://www.wikidata.org/wiki/Q11949747)  
 
@@ -49808,6 +49906,13 @@
  - [Tendeba](https://pleiades.stoa.org/places/599962)
 
 
+## Teneric plain (Q106880398)
+[https://www.wikidata.org/wiki/Q106880398](https://www.wikidata.org/wiki/Q106880398)  
+
+### alignments:
+ - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
+
+
 ## Tenna (Q3983464)
 [https://www.wikidata.org/wiki/Q3983464](https://www.wikidata.org/wiki/Q3983464)  
 
@@ -50051,6 +50156,13 @@
 
 ### alignments:
  - [Thaumakoi](https://pleiades.stoa.org/places/541136)
+
+
+## Thaumacia (Q16637978)
+[https://www.wikidata.org/wiki/Q16637978](https://www.wikidata.org/wiki/Q16637978)  
+
+### alignments:
+ - [Thaumakie](https://pleiades.stoa.org/places/543882)
 
 
 ## The Frith (Q7735332)
@@ -52020,6 +52132,13 @@
  - [Tsimintiri island](https://pleiades.stoa.org/places/392437876)
 
 
+## Tsouka kastro (Q111634755)
+[https://www.wikidata.org/wiki/Q111634755](https://www.wikidata.org/wiki/Q111634755)  
+
+### alignments:
+ - [Tsouka](https://pleiades.stoa.org/places/541168)
+
+
 ## Tsoungiza (Archaia Nemea) (Q132303437)
 [https://www.wikidata.org/wiki/Q132303437](https://www.wikidata.org/wiki/Q132303437)  
 
@@ -52207,6 +52326,13 @@
 
 ### alignments:
  - [Tumulus of Xhendremael](https://pleiades.stoa.org/places/54976299)
+
+
+## Tuna el-Gebel (Q734370)
+[https://www.wikidata.org/wiki/Q734370](https://www.wikidata.org/wiki/Q734370)  
+
+### alignments:
+ - [Tuna el-Gebel](https://pleiades.stoa.org/places/54417737)
 
 
 ## Tundzha (Q731777)

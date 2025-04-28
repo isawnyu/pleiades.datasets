@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4278 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
+4279 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -27483,6 +27483,13 @@
 
 ### alignments:
  - [Panormos](https://pleiades.stoa.org/places/541010)
+
+
+## GEO ID 60650: Hypereia
+[https://www.trismegistos.org/place/60650](https://www.trismegistos.org/place/60650)  
+
+### alignments:
+ - [Hyperia fons](https://pleiades.stoa.org/places/543727)
 
 
 ## GEO ID 60653: Atene (Charaka)

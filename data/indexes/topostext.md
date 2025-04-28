@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3687 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
+3691 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10272,6 +10272,13 @@
 
 ### alignments:
  - [Hypata](https://pleiades.stoa.org/places/540827)
+
+
+## Hypereia spring (Pherai)
+[https://topostext.org/place/394227WHyp](https://topostext.org/place/394227WHyp)  
+
+### alignments:
+ - [Hyperia fons](https://pleiades.stoa.org/places/543727)
 
 
 ## Hyperesia (Achaia)
@@ -21946,6 +21953,13 @@
  - [Sidyma](https://pleiades.stoa.org/places/639108)
 
 
+## Sigditsa fort (Phokis)
+[https://topostext.org/place/386223FSig](https://topostext.org/place/386223FSig)  
+
+### alignments:
+ - [Sigditsa](https://pleiades.stoa.org/places/541100)
+
+
 ## Sigeion (Troad)
 [https://topostext.org/place/400262USig](https://topostext.org/place/400262USig)  
 
@@ -23440,6 +23454,13 @@
  - [Tenedos](https://pleiades.stoa.org/places/550911)
 
 
+## Teneric Plain (Boeotia)
+[https://topostext.org/place/383232LTeP](https://topostext.org/place/383232LTeP)  
+
+### alignments:
+ - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
+
+
 ## Tenos (Tinos) 63 Tinos - Τήνος
 [https://topostext.org/place/375252PTen](https://topostext.org/place/375252PTen)  
 
@@ -24838,6 +24859,13 @@
 
 ### alignments:
  - [Tserli](https://pleiades.stoa.org/places/519794781)
+
+
+## Tsouka fort (Evrytania)
+[https://topostext.org/place/390215XTso](https://topostext.org/place/390215XTso)  
+
+### alignments:
+ - [Tsouka](https://pleiades.stoa.org/places/541168)
 
 
 ## Tucci (Iberia)

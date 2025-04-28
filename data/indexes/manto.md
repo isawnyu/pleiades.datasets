@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-638 alignments exist in _Pleiades_ place references as of 2025-04-25. The following list of alignments is grouped by zotkey.
+641 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1141,6 +1141,13 @@
 
 ### alignments:
  - [Methana/Arsinoe](https://pleiades.stoa.org/places/570482)
+
+
+## 10214791: the Teneric Plain (Boiotia)
+[https://resource.manto.unh.edu/10214791](https://resource.manto.unh.edu/10214791)  
+
+### alignments:
+ - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
 
 
 ## 10214811: River Erasinos (Argolid)
@@ -4076,6 +4083,20 @@
 
 ### alignments:
  - [Methone (Magnesian)](https://pleiades.stoa.org/places/540946)
+
+
+## 9720442: Thaumacia (Thessaly)
+[https://resource.manto.unh.edu/9720442](https://resource.manto.unh.edu/9720442)  
+
+### alignments:
+ - [Thaumakie](https://pleiades.stoa.org/places/543882)
+
+
+## 9720464: Spring Hypereia (Thessaly)
+[https://resource.manto.unh.edu/9720464](https://resource.manto.unh.edu/9720464)  
+
+### alignments:
+ - [Hyperia fons](https://pleiades.stoa.org/places/543727)
 
 
 ## 9720467: Mount Titanos (N. Greece)
