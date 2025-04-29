@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        22.742239,
+        39.3840281,
+        22.7428541,
+        39.384648
+    ],
     "connections": [],
     "connectsWith": [
         "https://pleiades.stoa.org/places/541044"
@@ -11,6 +16,10 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -29,10 +38,6 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
         },
         {
             "name": "G. Reger",
@@ -66,19 +71,72 @@
     "details": "<p>The Barrington Atlas Directory notes: spring in Thessaly</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    [
+                        22.7424926,
+                        39.3840281
+                    ],
+                    [
+                        22.742422,
+                        39.3840824
+                    ],
+                    [
+                        22.7423224,
+                        39.3842584
+                    ],
+                    [
+                        22.742239,
+                        39.3844312
+                    ],
+                    [
+                        22.7423122,
+                        39.384648
+                    ],
+                    [
+                        22.7426171,
+                        39.3845192
+                    ],
+                    [
+                        22.7427676,
+                        39.3844171
+                    ],
+                    [
+                        22.7428386,
+                        39.3843127
+                    ],
+                    [
+                        22.7428541,
+                        39.3840932
+                    ],
+                    [
+                        22.7427284,
+                        39.3840533
+                    ],
+                    [
+                        22.7424926,
+                        39.3840281
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/543727/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/543727/osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site; AD 1800 - AD 2099",
+                "title": "OSM location of Αρχαιολογικός χώρος Υπέρειας Κρήνης"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2025-04-28T19:29:50Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-04-27T02:24:00Z",
@@ -129,88 +187,168 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
             "contributors": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-11-23T00:30:40Z",
+            "created": "2025-04-27T02:25:26Z",
             "creators": [
                 {
-                    "name": "J. Fossey",
-                    "username": null
-                },
-                {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        22.7424926,
+                        39.3840281
+                    ],
+                    [
+                        22.742422,
+                        39.3840824
+                    ],
+                    [
+                        22.7423224,
+                        39.3842584
+                    ],
+                    [
+                        22.742239,
+                        39.3844312
+                    ],
+                    [
+                        22.7423122,
+                        39.384648
+                    ],
+                    [
+                        22.7426171,
+                        39.3845192
+                    ],
+                    [
+                        22.7427676,
+                        39.3844171
+                    ],
+                    [
+                        22.7428386,
+                        39.3843127
+                    ],
+                    [
+                        22.7428541,
+                        39.3840932
+                    ],
+                    [
+                        22.7427284,
+                        39.3840533
+                    ],
+                    [
+                        22.7424926,
+                        39.3840281
+                    ]
+                ],
+                "type": "LineString"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:12:35Z",
-                    "modifiedBy": "admin"
+                    "comment": "archaeological site; certain",
+                    "modified": "2025-04-28T20:21:00Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2010-11-23T14:12:39Z",
+                    "modified": "2025-04-28T19:58:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-04-28T19:58:35Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-23T00:46:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-27T02:25:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2025-04-27T02:25:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-04-27T02:25:26Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-23T00:30:40Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-04-27T02:25:26Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Barrington Atlas: BAtlas 55 Hyperia fons",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 599719198, version 2, osm:changeset=165488118, 2025-04-27T02:25:02Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/599719198",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 599719198",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=599719198",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/543727/batlas-location"
+            "start": 1800,
+            "title": "OSM location of Αρχαιολογικός χώρος Υπέρειας Κρήνης",
+            "uri": "https://pleiades.stoa.org/places/543727/osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy"
         }
     ],
     "names": [
@@ -324,15 +462,89 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/543727/hyperia-fons"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Ὑπέρεια κρήνη",
+            "contributors": [],
+            "created": "2025-04-27T02:28:27Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-04-28T20:49:46Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-04-27T02:28:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add Greek name, Strabo reference",
+                    "modified": "2025-04-27T02:28:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-04-27T02:28:27Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "hypereia-krini",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.5.18",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "9.5.18",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Hypereia Krini",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/543727/hypereia-krini"
         }
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
-        "https://pleiades.stoa.org/vocabularies/place-types/spring"
+        "https://pleiades.stoa.org/vocabularies/place-types/spring",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
         "unlocated",
-        "spring"
+        "spring",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 Hyperia fons",
     "references": [
@@ -414,7 +626,10 @@
             "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        22.742540874196507,
+        39.38431819771304
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
