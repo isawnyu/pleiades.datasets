@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3691 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
+3694 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7692,6 +7692,13 @@
  - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
+## Embata (Ionia)
+[https://topostext.org/place/383264UEmb](https://topostext.org/place/383264UEmb)  
+
+### alignments:
+ - [Embaton](https://pleiades.stoa.org/places/550528)
+
+
 ## Emesa (Syria)
 [https://topostext.org/place/347367UEme](https://topostext.org/place/347367UEme)  
 
@@ -8826,6 +8833,13 @@
 
 ### alignments:
  - [Tempio di Matzanni](https://pleiades.stoa.org/places/349388043)
+
+
+## Gentinos/Balli Dag (Troad)
+[https://topostext.org/place/399263XBaD](https://topostext.org/place/399263XBaD)  
+
+### alignments:
+ - [Gentinos?](https://pleiades.stoa.org/places/550546)
 
 
 ## Genua (Italy)
@@ -12794,6 +12808,13 @@
 
 ### alignments:
  - [Kynos](https://pleiades.stoa.org/places/540896)
+
+
+## Kynosarges sanct. (Athens) 45 Neos Kosmos - Κυνόσαργες
+[https://topostext.org/place/380237BKyn](https://topostext.org/place/380237BKyn)  
+
+### alignments:
+ - [Kynosarges](https://pleiades.stoa.org/places/158698879)
 
 
 ## Kynosoura cape (Attica)

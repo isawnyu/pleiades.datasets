@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-641 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
+642 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2914,6 +2914,13 @@
 
 ### alignments:
  - [Inachos (river)](https://pleiades.stoa.org/places/570313)
+
+
+## 8253941: the Ionian Sea
+[https://resource.manto.unh.edu/8253941](https://resource.manto.unh.edu/8253941)  
+
+### alignments:
+ - [Ionium Mare](https://pleiades.stoa.org/places/1046)
 
 
 ## 8253942: Illyria

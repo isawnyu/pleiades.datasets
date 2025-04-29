@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4279 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
+4283 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6075,6 +6075,13 @@
  - [Cramond](https://pleiades.stoa.org/places/89153)
 
 
+## GEO ID 15301: Combe Down
+[https://www.trismegistos.org/place/15301](https://www.trismegistos.org/place/15301)  
+
+### alignments:
+ - [Combe Down](https://pleiades.stoa.org/places/544572531)
+
+
 ## GEO ID 15314: Corinium (Cirencester)
 [https://www.trismegistos.org/place/15314](https://www.trismegistos.org/place/15314)  
 
@@ -6957,6 +6964,13 @@
 
 ### alignments:
  - [Miletopolis](https://pleiades.stoa.org/places/511318)
+
+
+## GEO ID 16242: Aspaneus (Avcılar)
+[https://www.trismegistos.org/place/16242](https://www.trismegistos.org/place/16242)  
+
+### alignments:
+ - [Aspaneus](https://pleiades.stoa.org/places/550460)
 
 
 ## GEO ID 16247: Saitta (Sidas Kale)
@@ -27317,6 +27331,13 @@
  - [Phakion](https://pleiades.stoa.org/places/543837)
 
 
+## GEO ID 58930: Gentinos (Ballı Dağ)
+[https://www.trismegistos.org/place/58930](https://www.trismegistos.org/place/58930)  
+
+### alignments:
+ - [Gentinos?](https://pleiades.stoa.org/places/550546)
+
+
 ## GEO ID 58933: Lamponeia (Kozlu Dağ)
 [https://www.trismegistos.org/place/58933](https://www.trismegistos.org/place/58933)  
 
@@ -27847,6 +27868,13 @@
 
 ### alignments:
  - [Glauke](https://pleiades.stoa.org/places/599626)
+
+
+## GEO ID 60932: Embaton (Agrilya)
+[https://www.trismegistos.org/place/60932](https://www.trismegistos.org/place/60932)  
+
+### alignments:
+ - [Embaton](https://pleiades.stoa.org/places/550528)
 
 
 ## GEO ID 60933: Hypokremnos (Gülbahce)

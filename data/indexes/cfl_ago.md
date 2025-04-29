@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-391 alignments exist in _Pleiades_ place references as of 2025-04-28. The following list of alignments is grouped by zotkey.
+392 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -440,6 +440,13 @@
 
 ### alignments:
  - [Kastro ano Diakopto](https://pleiades.stoa.org/places/570166)
+
+
+## Report 4050: ATHENS - Kynosarges - 2005
+[https://chronique.efa.gr/?kroute=report&id=4050](https://chronique.efa.gr/?kroute=report&id=4050)  
+
+### alignments:
+ - [Kynosarges](https://pleiades.stoa.org/places/158698879)
 
 
 ## Report 4553: ATHENS - Ancient Agora - 2011
