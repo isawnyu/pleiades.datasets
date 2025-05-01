@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-642 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
+645 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1540,6 +1540,13 @@
 
 ### alignments:
  - [Marpessos](https://pleiades.stoa.org/places/550723)
+
+
+## 10270802: Alexandria (Troad)
+[https://resource.manto.unh.edu/10270802](https://resource.manto.unh.edu/10270802)  
+
+### alignments:
+ - [Antigoneia/(Col. Augusta) Alexandria Troas](https://pleiades.stoa.org/places/550434)
 
 
 ## 10270831: the Castalian Spring (Delphi)
@@ -3203,6 +3210,13 @@
  - [Parthenion (mountain)](https://pleiades.stoa.org/places/570566)
 
 
+## 8254027: Teuthrania (Mysia)
+[https://resource.manto.unh.edu/8254027](https://resource.manto.unh.edu/8254027)  
+
+### alignments:
+ - [Teuthrania](https://pleiades.stoa.org/places/550916)
+
+
 ## 8254029: Laconia (region in the Peloponnese)
 [https://resource.manto.unh.edu/8254029](https://resource.manto.unh.edu/8254029)  
 
@@ -3516,6 +3530,13 @@
 
 ### alignments:
  - [Eryx](https://pleiades.stoa.org/places/462201)
+
+
+## 9603548: Bouthroten (Molossia)
+[https://resource.manto.unh.edu/9603548](https://resource.manto.unh.edu/9603548)  
+
+### alignments:
+ - [Bouthroton](https://pleiades.stoa.org/places/530824)
 
 
 ## 9605358: Icaria (island)
@@ -4103,7 +4124,7 @@
 [https://resource.manto.unh.edu/9720464](https://resource.manto.unh.edu/9720464)  
 
 ### alignments:
- - [Hyperia fons](https://pleiades.stoa.org/places/543727)
+ - [Hypereia (spring)](https://pleiades.stoa.org/places/543727)
 
 
 ## 9720467: Mount Titanos (N. Greece)

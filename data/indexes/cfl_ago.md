@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-392 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
+393 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -510,6 +510,13 @@
 
 ### alignments:
  - [Kirra](https://pleiades.stoa.org/places/540868)
+
+
+## Report 9075: VÉLESTINO. - Phères antique - 1999
+[https://chronique.efa.gr/?r=report&id=9075](https://chronique.efa.gr/?r=report&id=9075)  
+
+### alignments:
+ - [Hypereia (spring)](https://pleiades.stoa.org/places/543727)
 
 
 ## Report 9596: ANDROS. - Kochylas (Épano Kastro) - 2004

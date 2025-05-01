@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3694 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
+3695 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7387,8 +7387,8 @@
 [https://topostext.org/place/379236XEet](https://topostext.org/place/379236XEet)  
 
 ### alignments:
- - [Eetioneia Hellenistic gateway](https://pleiades.stoa.org/places/487072545)
  - [Eetioneia Pr.](https://pleiades.stoa.org/places/582868)
+ - [Eetioneia](https://pleiades.stoa.org/places/487072545)
 
 
 ## Egnatia (Italy)
@@ -8650,6 +8650,13 @@
 
 ### alignments:
  - [Gamala](https://pleiades.stoa.org/places/678146)
+
+
+## Gambrion (Aeolis)
+[https://topostext.org/place/391234UGam](https://topostext.org/place/391234UGam)  
+
+### alignments:
+ - [Gambreion](https://pleiades.stoa.org/places/550542)
 
 
 ## Ganges (India)
@@ -10292,7 +10299,7 @@
 [https://topostext.org/place/394227WHyp](https://topostext.org/place/394227WHyp)  
 
 ### alignments:
- - [Hyperia fons](https://pleiades.stoa.org/places/543727)
+ - [Hypereia (spring)](https://pleiades.stoa.org/places/543727)
 
 
 ## Hyperesia (Achaia)

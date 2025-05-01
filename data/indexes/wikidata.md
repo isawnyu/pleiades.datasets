@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7878 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
+7887 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6291,6 +6291,13 @@
  - [Bouto](https://pleiades.stoa.org/places/727094)
 
 
+## Butrint (Q188694)
+[https://www.wikidata.org/wiki/Q188694](https://www.wikidata.org/wiki/Q188694)  
+
+### alignments:
+ - [Bouthroton](https://pleiades.stoa.org/places/530824)
+
+
 ## Butzbach (Samian Ware Discovery Site) (Q103157996)
 [https://www.wikidata.org/wiki/Q103157996](https://www.wikidata.org/wiki/Q103157996)  
 
@@ -11633,8 +11640,8 @@
 [https://www.wikidata.org/wiki/Q56397345](https://www.wikidata.org/wiki/Q56397345)  
 
 ### alignments:
- - [Eetioneia Hellenistic gateway](https://pleiades.stoa.org/places/487072545)
  - [Eetioneia Pr.](https://pleiades.stoa.org/places/582868)
+ - [Eetioneia](https://pleiades.stoa.org/places/487072545)
 
 
 ## Eggardon Hill (Q5347865)
@@ -12470,6 +12477,13 @@
  - [Festoi](https://pleiades.stoa.org/places/444395424)
 
 
+## Ficana (Q3744504)
+[https://www.wikidata.org/wiki/Q3744504](https://www.wikidata.org/wiki/Q3744504)  
+
+### alignments:
+ - [Ficana](https://pleiades.stoa.org/places/422921)
+
+
 ## Fidan Burnu (Q34866590)
 [https://www.wikidata.org/wiki/Q34866590](https://www.wikidata.org/wiki/Q34866590)  
 
@@ -13091,6 +13105,13 @@
 
 ### alignments:
  - [Lamarque Gallo-Roman Villa](https://pleiades.stoa.org/places/249936)
+
+
+## Gambrion (Q5519742)
+[https://www.wikidata.org/wiki/Q5519742](https://www.wikidata.org/wiki/Q5519742)  
+
+### alignments:
+ - [Gambreion](https://pleiades.stoa.org/places/550542)
 
 
 ## Gammai (Q11923758)
@@ -13808,6 +13829,13 @@
  - [Greek Theater of Antiphellos](https://pleiades.stoa.org/places/161299463)
 
 
+## Greek Theatre of Butrint (Q13046666)
+[https://www.wikidata.org/wiki/Q13046666](https://www.wikidata.org/wiki/Q13046666)  
+
+### alignments:
+ - [Theater at Butrint](https://pleiades.stoa.org/places/404148110)
+
+
 ## Greek Theatre of Miletus (Q56640740)
 [https://www.wikidata.org/wiki/Q56640740](https://www.wikidata.org/wiki/Q56640740)  
 
@@ -14109,6 +14137,13 @@
  - [Library of Hadrian at Athens](https://pleiades.stoa.org/places/728329644)
 
 
+## Hadrian's Villa (Q272777)
+[https://www.wikidata.org/wiki/Q272777](https://www.wikidata.org/wiki/Q272777)  
+
+### alignments:
+ - [Villa Hadriani](https://pleiades.stoa.org/places/423127)
+
+
 ## Hadrian's Wall Turret 7B (Q17534356)
 [https://www.wikidata.org/wiki/Q17534356](https://www.wikidata.org/wiki/Q17534356)  
 
@@ -14268,6 +14303,13 @@
 
 ### alignments:
  - [Hamaxanteia](https://pleiades.stoa.org/places/585916)
+
+
+## Hamaxitus (Q4822608)
+[https://www.wikidata.org/wiki/Q4822608](https://www.wikidata.org/wiki/Q4822608)  
+
+### alignments:
+ - [Hamaxitos](https://pleiades.stoa.org/places/550565)
 
 
 ## Hambledon Hill (Q5644220)
@@ -14655,6 +14697,13 @@
  - [Hermeskeil Roman Camp](https://pleiades.stoa.org/places/8675309)
 
 
+## Hermocapelia (Q24915893)
+[https://www.wikidata.org/wiki/Q24915893](https://www.wikidata.org/wiki/Q24915893)  
+
+### alignments:
+ - [Hermokapeleia/Thyessos?](https://pleiades.stoa.org/places/550574)
+
+
 ## Hermonassa Greek colony (Q2995002)
 [https://www.wikidata.org/wiki/Q2995002](https://www.wikidata.org/wiki/Q2995002)  
 
@@ -14702,6 +14751,13 @@
 
 ### alignments:
  - [Esbous](https://pleiades.stoa.org/places/697662)
+
+
+## Hexamilion wall (Q305428)
+[https://www.wikidata.org/wiki/Q305428](https://www.wikidata.org/wiki/Q305428)  
+
+### alignments:
+ - [Hexamilion wall](https://pleiades.stoa.org/places/242076354)
 
 
 ## Heybeliada (Q253317)
@@ -14998,6 +15054,13 @@
  - [House of Butehamon](https://pleiades.stoa.org/places/421420954)
 
 
+## House of Cupid and Psyche (Q249991)
+[https://www.wikidata.org/wiki/Q249991](https://www.wikidata.org/wiki/Q249991)  
+
+### alignments:
+ - [House of Amor and Psyche](https://pleiades.stoa.org/places/868515126)
+
+
 ## house of Farnesina (Q1046588)
 [https://www.wikidata.org/wiki/Q1046588](https://www.wikidata.org/wiki/Q1046588)  
 
@@ -15073,6 +15136,13 @@
 
 ### alignments:
  - [House of Simon the Shoemaker](https://pleiades.stoa.org/places/982727687)
+
+
+## House of the Ara Maxima (Q1046582)
+[https://www.wikidata.org/wiki/Q1046582](https://www.wikidata.org/wiki/Q1046582)  
+
+### alignments:
+ - [House of the Ara Maxima](https://pleiades.stoa.org/places/340380318)
 
 
 ## House of the Cabinet Maker (Q27070486)
@@ -15317,7 +15387,7 @@
 [https://www.wikidata.org/wiki/Q107588079](https://www.wikidata.org/wiki/Q107588079)  
 
 ### alignments:
- - [Hyperia fons](https://pleiades.stoa.org/places/543727)
+ - [Hypereia (spring)](https://pleiades.stoa.org/places/543727)
 
 
 ## Hyperesia (polis) (Q3563508)
@@ -17286,6 +17356,13 @@
 
 ### alignments:
  - [Ksar el Kaoua](https://pleiades.stoa.org/places/285472)
+
+
+## Kuara (Q911895)
+[https://www.wikidata.org/wiki/Q911895](https://www.wikidata.org/wiki/Q911895)  
+
+### alignments:
+ - [Tell al-Lahm](https://pleiades.stoa.org/places/912953)
 
 
 ## Kuban (Q82308)
@@ -20031,6 +20108,13 @@
 
 ### alignments:
  - [Methydrion](https://pleiades.stoa.org/places/570484)
+
+
+## Methylion (Q17622317)
+[https://www.wikidata.org/wiki/Q17622317](https://www.wikidata.org/wiki/Q17622317)  
+
+### alignments:
+ - [Methylion](https://pleiades.stoa.org/places/543789)
 
 
 ## Metroon (Q65046773)
@@ -24612,6 +24696,13 @@
  - [Phlya](https://pleiades.stoa.org/places/580076)
 
 
+## Phoenice (Q781463)
+[https://www.wikidata.org/wiki/Q781463](https://www.wikidata.org/wiki/Q781463)  
+
+### alignments:
+ - [Phoinike](https://pleiades.stoa.org/places/531061)
+
+
 ## Phoenicia (Q41642)
 [https://www.wikidata.org/wiki/Q41642](https://www.wikidata.org/wiki/Q41642)  
 
@@ -26696,13 +26787,6 @@
 
 ### alignments:
  - [House of the Moralist](https://pleiades.stoa.org/places/557684935)
-
-
-## Q1046582: House of the Ara Maxima
-[https://www.wikidata.org/wiki/Q1046582](https://www.wikidata.org/wiki/Q1046582)  
-
-### alignments:
- - [House of the Ara Maxima](https://pleiades.stoa.org/places/340380318)
 
 
 ## Q104787743
@@ -32219,13 +32303,6 @@
  - [Trasumennus (Lake)](https://pleiades.stoa.org/places/413347)
 
 
-## Q188694
-[https://www.wikidata.org/wiki/Q188694](https://www.wikidata.org/wiki/Q188694)  
-
-### alignments:
- - [Bouthroton](https://pleiades.stoa.org/places/530824)
-
-
 ## Q1887316: Malia
 [https://www.wikidata.org/wiki/Q1887316](https://www.wikidata.org/wiki/Q1887316)  
 
@@ -33417,13 +33494,6 @@
  - [Aigeai](https://pleiades.stoa.org/places/491512)
 
 
-## Q2140194: Velabrum
-[https://www.wikidata.org/wiki/Q2140194](https://www.wikidata.org/wiki/Q2140194)  
-
-### alignments:
- - [Velabrum](https://pleiades.stoa.org/places/432833118)
-
-
 ## Q214178: Nablus
 [https://www.wikidata.org/wiki/Q214178](https://www.wikidata.org/wiki/Q214178)  
 
@@ -34385,13 +34455,6 @@
  - [Mausoleo della Conocchia](https://pleiades.stoa.org/places/281701179)
 
 
-## Q249991: House of Cupid and Psyche
-[https://www.wikidata.org/wiki/Q249991](https://www.wikidata.org/wiki/Q249991)  
-
-### alignments:
- - [House of Amor and Psyche](https://pleiades.stoa.org/places/868515126)
-
-
 ## Q25081519: Drepano cape
 [https://www.wikidata.org/wiki/Q25081519](https://www.wikidata.org/wiki/Q25081519)  
 
@@ -34789,13 +34852,6 @@
 
 ### alignments:
  - [Dispilio](https://pleiades.stoa.org/places/471781651)
-
-
-## Q272777: Hadrian's Villa
-[https://www.wikidata.org/wiki/Q272777](https://www.wikidata.org/wiki/Q272777)  
-
-### alignments:
- - [Villa Hadriani](https://pleiades.stoa.org/places/423127)
 
 
 ## Q2728193: Samarobriva
@@ -35940,13 +35996,6 @@
  - [Sacis ad Padum](https://pleiades.stoa.org/places/393488)
 
 
-## Q30889215: Via Pescara columbaria
-[https://www.wikidata.org/wiki/Q30889215](https://www.wikidata.org/wiki/Q30889215)  
-
-### alignments:
- - [via Taranto columbaria](https://pleiades.stoa.org/places/116905947)
-
-
 ## Q30897986: Ponte Cardona
 [https://www.wikidata.org/wiki/Q30897986](https://www.wikidata.org/wiki/Q30897986)  
 
@@ -36696,13 +36745,6 @@
  - [Adrasteia](https://pleiades.stoa.org/places/511138)
 
 
-## Q3556490: Via Collatina
-[https://www.wikidata.org/wiki/Q3556490](https://www.wikidata.org/wiki/Q3556490)  
-
-### alignments:
- - [Via Collatina](https://pleiades.stoa.org/places/272213280)
-
-
 ## Q3556501
 [https://www.wikidata.org/wiki/Q3556501](https://www.wikidata.org/wiki/Q3556501)  
 
@@ -37305,13 +37347,6 @@
  - [Via Flaminia](https://pleiades.stoa.org/places/856514595)
 
 
-## Q3744504: Ficana
-[https://www.wikidata.org/wiki/Q3744504](https://www.wikidata.org/wiki/Q3744504)  
-
-### alignments:
- - [Ficana](https://pleiades.stoa.org/places/422921)
-
-
 ## Q3747926: Forca Caruso
 [https://www.wikidata.org/wiki/Q3747926](https://www.wikidata.org/wiki/Q3747926)  
 
@@ -37836,13 +37871,6 @@
 
 ### alignments:
  - [Portus Pisanus?](https://pleiades.stoa.org/places/403261)
-
-
-## Q391215: Volubilis
-[https://www.wikidata.org/wiki/Q391215](https://www.wikidata.org/wiki/Q391215)  
-
-### alignments:
- - [Volubilis](https://pleiades.stoa.org/places/275740)
 
 
 ## Q3926611: Quadriportico of the Theatre of Pompeii
@@ -39267,13 +39295,6 @@
 
 ### alignments:
  - [Karoura](https://pleiades.stoa.org/places/638901)
-
-
-## Q5054943: Vari Cave
-[https://www.wikidata.org/wiki/Q5054943](https://www.wikidata.org/wiki/Q5054943)  
-
-### alignments:
- - [Cave of Pan and the Nymphs](https://pleiades.stoa.org/places/580056)
 
 
 ## Q505617: Villa Romana del Casale
@@ -50200,6 +50221,13 @@
  - [Teumessos](https://pleiades.stoa.org/places/541133)
 
 
+## Teuthrania (Q11951693)
+[https://www.wikidata.org/wiki/Q11951693](https://www.wikidata.org/wiki/Q11951693)  
+
+### alignments:
+ - [Teuthrania](https://pleiades.stoa.org/places/550916)
+
+
 ## Teuthrone (Q48781583)
 [https://www.wikidata.org/wiki/Q48781583](https://www.wikidata.org/wiki/Q48781583)  
 
@@ -53084,6 +53112,13 @@
  - [Varakhsha](https://pleiades.stoa.org/places/29800)
 
 
+## Vari Cave (Q5054943)
+[https://www.wikidata.org/wiki/Q5054943](https://www.wikidata.org/wiki/Q5054943)  
+
+### alignments:
+ - [Cave of Pan and the Nymphs](https://pleiades.stoa.org/places/580056)
+
+
 ## Vartsikhe (Q12864352)
 [https://www.wikidata.org/wiki/Q12864352](https://www.wikidata.org/wiki/Q12864352)  
 
@@ -53138,6 +53173,13 @@
 
 ### alignments:
  - [Veh Ardashir/Coche/Mahoza/‘Seleucia’](https://pleiades.stoa.org/places/894178)
+
+
+## Velabrum (Q2140194)
+[https://www.wikidata.org/wiki/Q2140194](https://www.wikidata.org/wiki/Q2140194)  
+
+### alignments:
+ - [Velabrum](https://pleiades.stoa.org/places/432833118)
 
 
 ## Velian Hill (Q967948)
@@ -53413,6 +53455,13 @@
  - [Via Ciminia](https://pleiades.stoa.org/places/229670928)
 
 
+## Via Collatina (Q3556490)
+[https://www.wikidata.org/wiki/Q3556490](https://www.wikidata.org/wiki/Q3556490)  
+
+### alignments:
+ - [Via Collatina](https://pleiades.stoa.org/places/272213280)
+
+
 ## Via Cornelia (Q2692390)
 [https://www.wikidata.org/wiki/Q2692390](https://www.wikidata.org/wiki/Q2692390)  
 
@@ -53467,6 +53516,13 @@
 
 ### alignments:
  - [Via Minucia / Traiana](https://pleiades.stoa.org/places/395708592)
+
+
+## Via Pescara columbaria (Q30889215)
+[https://www.wikidata.org/wiki/Q30889215](https://www.wikidata.org/wiki/Q30889215)  
+
+### alignments:
+ - [via Taranto columbaria](https://pleiades.stoa.org/places/116905947)
 
 
 ## Via Popilia (Q1235451)
@@ -54105,6 +54161,13 @@
 
 ### alignments:
  - [Roman amphitheater at Volsinii](https://pleiades.stoa.org/places/659746118)
+
+
+## Volubilis (Q391215)
+[https://www.wikidata.org/wiki/Q391215](https://www.wikidata.org/wiki/Q391215)  
+
+### alignments:
+ - [Volubilis](https://pleiades.stoa.org/places/275740)
 
 
 ## Volustana (Q7941102)

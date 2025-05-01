@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4283 alignments exist in _Pleiades_ place references as of 2025-04-29. The following list of alignments is grouped by zotkey.
+4285 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -17294,6 +17294,13 @@
  - [Napata](https://pleiades.stoa.org/places/805634)
 
 
+## GEO ID 34543: Gambreion
+[https://www.trismegistos.org/place/34543](https://www.trismegistos.org/place/34543)  
+
+### alignments:
+ - [Gambreion](https://pleiades.stoa.org/places/550542)
+
+
 ## GEO ID 34544: Germe (Kiresun)
 [https://www.trismegistos.org/place/34544](https://www.trismegistos.org/place/34544)  
 
@@ -17418,6 +17425,13 @@
 
 ### alignments:
  - [Gergis](https://pleiades.stoa.org/places/550547)
+
+
+## GEO ID 34748: Hamaxitos
+[http://www.trismegistos.org/place/34748](http://www.trismegistos.org/place/34748)  
+
+### alignments:
+ - [Hamaxitos](https://pleiades.stoa.org/places/550565)
 
 
 ## GEO ID 34749: Neandreia (Çığrı Dağ)
@@ -27510,7 +27524,7 @@
 [https://www.trismegistos.org/place/60650](https://www.trismegistos.org/place/60650)  
 
 ### alignments:
- - [Hyperia fons](https://pleiades.stoa.org/places/543727)
+ - [Hypereia (spring)](https://pleiades.stoa.org/places/543727)
 
 
 ## GEO ID 60653: Atene (Charaka)
