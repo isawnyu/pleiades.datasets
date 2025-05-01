@@ -1,15 +1,80 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "less-certain",
+            "attestations": [],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/501434",
+            "contributors": [],
+            "created": "2025-04-30T17:51:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-01T01:34:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-04-30T17:51:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-04-30T17:51:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-04-30T17:51:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "hellespont-strait",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 782 see \"Meidios fl.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Hellespont (strait)",
+            "uri": "https://pleiades.stoa.org/places/507425/hellespont-strait"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/501434"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "G. Reger",
             "username": null
         },
         {
-            "name": "G. Reger",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -31,15 +96,15 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-06-24T10:37:58Z",
+    "created": "2025-04-30T17:43:59Z",
     "creators": [
         {
             "name": "E.N. Borza",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 51 unlocated Meidios fl.",
-    "details": "The Barrington Atlas Directory notes: Hellespont",
+    "description": "An ancient river mentioned by Thucydides that probably drained into the Hellespont. Its precise identification has not been determined.",
+    "details": "<p>The Barrington Atlas Directory notes: Hellespont</p>",
     "features": [
         {
             "geometry": null,
@@ -55,6 +120,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; reconnected Thucydides reference to Zotero; replaced pro forma BAtlas reference with accurate BAtlDir reference @thomase",
+            "modified": "2025-05-01T01:34:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2023-02-11T04:10:37Z",
@@ -175,19 +245,22 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "G. Reger",
-                    "username": null
-                },
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                }
+            ],
+            "attested": "Μείδιος",
+            "contributors": [
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "G. Reger",
                     "username": null
                 },
                 {
@@ -195,9 +268,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-06-24T10:37:58Z",
+            "created": "2025-04-30T17:51:56Z",
             "creators": [
                 {
                     "name": "E.N. Borza",
@@ -206,8 +285,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": -330,
             "history": [
+                {
+                    "comment": "Greek; Thucydides, dates @thomase",
+                    "modified": "2025-05-01T01:34:31Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:49:19Z",
@@ -230,13 +314,25 @@
                 }
             ],
             "id": "meidios",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 51 Meidios fl.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:8.106",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+                    "citationDetail": "8.106",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Thuc. Hist. (Jones; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Meidios",
-            "start": null,
+            "start": -550,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/507425/meidios"
@@ -253,23 +349,23 @@
         {
             "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "51 Meidios fl.",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 782 see \"Meidios fl.\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:8.106",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8EHPDVHX",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
             "citationDetail": "8.106",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "<div class=\"csl-entry\">Jones, Henry Stuart, ed. <i>Thucydidis Historiae</i>. 2 vols. Oxford Classical Texts. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Thuc. (Jones: Perseus)",
+            "shortTitle": "Thuc. Hist. (Jones; Perseus)",
             "type": "citesAsEvidence"
         }
     ],
