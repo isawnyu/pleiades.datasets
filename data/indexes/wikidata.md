@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7887 alignments exist in _Pleiades_ place references as of 2025-05-01. The following list of alignments is grouped by zotkey.
+7888 alignments exist in _Pleiades_ place references as of 2025-05-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -52928,6 +52928,13 @@
 
 ### alignments:
  - [Pannonia Superior (province)](https://pleiades.stoa.org/places/981541)
+
+
+## Urartu (Q185068)
+[https://www.wikidata.org/wiki/Q185068](https://www.wikidata.org/wiki/Q185068)  
+
+### alignments:
+ - [Urartu](https://pleiades.stoa.org/places/214160492)
 
 
 ## Urbinum Hortense (Q7900277)
