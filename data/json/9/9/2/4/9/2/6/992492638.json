@@ -1,84 +1,12 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        43.4636071,
+        38.5673387,
+        43.4648129,
+        38.5683882
+    ],
     "connections": [
-        {
-            "@type": "Connection",
-            "associationCertainty": "certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "urartian-eastern-anatolia",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/urartian-eastern-anatolia"
-                }
-            ],
-            "connectionType": "route_next",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
-            "connectsTo": "https://pleiades.stoa.org/places/822238500",
-            "contributors": [],
-            "created": "2020-02-24T18:09:27Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Birgit Christiansen ",
-                    "uri": "https://pleiades.stoa.org/author/bchristiansen2",
-                    "username": "bchristiansen2"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": -600,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2023-06-18T13:55:29Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2020-06-20T17:35:23Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "action": "Retract",
-                    "modified": "2020-06-20T17:34:23Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2020-03-22T18:45:44Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-02-24T18:14:12Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2020-02-24T18:10:26Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2020-02-24T18:09:27Z",
-                    "modifiedBy": "bchristiansen2"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2020-02-24T18:09:27Z",
-                    "modifiedBy": "bchristiansen2"
-                }
-            ],
-            "id": "urartu",
-            "provenance": "Pleiades",
-            "references": [],
-            "review_state": "published",
-            "start": -900,
-            "title": "Yukarı Anzaf Fortress",
-            "uri": "https://pleiades.stoa.org/places/992492638/urartu"
-        },
         {
             "@type": "Connection",
             "associationCertainty": "certain",
@@ -146,9 +74,7 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/822238500",
-        "https://pleiades.stoa.org/places/214160492",
-        "https://pleiades.stoa.org/places/822238500"
+        "https://pleiades.stoa.org/places/214160492"
     ],
     "contributors": [
         {
@@ -162,6 +88,12 @@
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2020-02-24T14:18:54Z",
@@ -175,8 +107,50 @@
     ],
     "description": "The Aşağı Anzaf Fortress (\"Lower Anzaf Fortress\") is situated in the Van region in southeast Turkey. It was built by the Urartian King Išpuini (9th / 8th century BCE) who reports about his building activity in several building inscriptions (see especially the building inscription on the fortification wall (CTU A 2-6). Another fortress at Anzaf, namely Yukarı Anzaf (Upper Anzaf) was built by Išpuini's son Minua (9th / 8th century BCE).",
     "details": "",
-    "features": [],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        43.4648129,
+                        38.5676307
+                    ],
+                    [
+                        43.4641696,
+                        38.5673387
+                    ],
+                    [
+                        43.4636071,
+                        38.5680961
+                    ],
+                    [
+                        43.4642504,
+                        38.5683882
+                    ],
+                    [
+                        43.4648129,
+                        38.5676307
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "osm-location-aaaaa-anzaf-kalesi",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/992492638/osm-location-aaaaa-anzaf-kalesi",
+                "location_precision": "precise",
+                "snippet": "Fort-2; 900 BC - 600 BC",
+                "title": "OSM Location: Aşağı-Anzaf Kalesi"
+            },
+            "type": "Feature"
+        }
+    ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-05-02T13:47:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2023-06-18T13:55:29Z",
@@ -279,7 +253,120 @@
         }
     ],
     "id": "992492638",
-    "locations": [],
+    "locations": [
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "urartian-eastern-anatolia",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/urartian-eastern-anatolia"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-05-02T14:25:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": -600,
+            "featureType": [
+                "fort-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    [
+                        43.4648129,
+                        38.5676307
+                    ],
+                    [
+                        43.4641696,
+                        38.5673387
+                    ],
+                    [
+                        43.4636071,
+                        38.5680961
+                    ],
+                    [
+                        43.4642504,
+                        38.5683882
+                    ],
+                    [
+                        43.4648129,
+                        38.5676307
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-02T14:27:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-02T14:25:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-02T14:25:43Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-05-02T14:25:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-02T14:25:01Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-aaaaa-anzaf-kalesi",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
+            ],
+            "provenance": "OpenStreetMap (Way 1057267893, version 1, osm:changeset=120554508, 2022-05-04T17:31:09Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1057267893",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1057267893",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1057267893",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -900,
+            "title": "OSM Location: Aşağı-Anzaf Kalesi",
+            "uri": "https://pleiades.stoa.org/places/992492638/osm-location-aaaaa-anzaf-kalesi"
+        }
+    ],
     "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
@@ -301,12 +388,12 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://oracc.museum.upenn.edu/ecut/index.html",
             "alternateURI": "",
-            "bibliographicURI": "http://oracc.museum.upenn.edu/ecut/Q006881",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9CU8QAI9",
             "citationDetail": "A 02-06 (Q006881)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Electronic Corpus of Urartian Texts (ECUT) Project</i>. Munich: Ludwig-Maximilians-Universität München, Historisches Seminar - Alte Geschichte, 2016.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Electronic Corpus of Urartian Texts (ECUT) Project</i>. Munich: Ludwig-Maximilians-Universität München, Historisches Seminar - Alte Geschichte, 2016. http://oracc.museum.upenn.edu/ecut/index.html.</div>",
             "otherIdentifier": "",
             "shortTitle": "eCUT",
             "type": "citesAsEvidence"
@@ -334,7 +421,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        43.464210004302146,
+        38.56786343329692
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
