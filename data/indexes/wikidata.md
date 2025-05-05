@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7888 alignments exist in _Pleiades_ place references as of 2025-05-02. The following list of alignments is grouped by zotkey.
+7901 alignments exist in _Pleiades_ place references as of 2025-05-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -167,6 +167,13 @@
 
 ### alignments:
  - [Adonis (river)](https://pleiades.stoa.org/places/668180)
+
+
+## Abthugni (Q334495)
+[https://www.wikidata.org/wiki/Q334495](https://www.wikidata.org/wiki/Q334495)  
+
+### alignments:
+ - [Abthugni](https://pleiades.stoa.org/places/314843)
 
 
 ## Abu Mena (Q9278)
@@ -3973,6 +3980,13 @@
  - [Aunesis](https://pleiades.stoa.org/places/638785)
 
 
+## Aurelian Walls (Q625149)
+[https://www.wikidata.org/wiki/Q625149](https://www.wikidata.org/wiki/Q625149)  
+
+### alignments:
+ - [Aurelian Walls](https://pleiades.stoa.org/places/529700371)
+
+
 ## Auridai (Q13426472)
 [https://www.wikidata.org/wiki/Q13426472](https://www.wikidata.org/wiki/Q13426472)  
 
@@ -5710,6 +5724,13 @@
  - [Bobadela Roman amphitheater](https://pleiades.stoa.org/places/393959242)
 
 
+## Bocca di Magra Roman villa (Q25403654)
+[https://www.wikidata.org/wiki/Q25403654](https://www.wikidata.org/wiki/Q25403654)  
+
+### alignments:
+ - [Bocca di Magra Roman villa](https://pleiades.stoa.org/places/277432404)
+
+
 ## Bochastle Roman fort, temporary camp and prehistoric enclosures (Q56664330)
 [https://www.wikidata.org/wiki/Q56664330](https://www.wikidata.org/wiki/Q56664330)  
 
@@ -5757,6 +5778,13 @@
 
 ### alignments:
  - [Boleoi Lithoi](https://pleiades.stoa.org/places/573147)
+
+
+## Bomarzo (Q159689)
+[https://www.wikidata.org/wiki/Q159689](https://www.wikidata.org/wiki/Q159689)  
+
+### alignments:
+ - [Polimartium](https://pleiades.stoa.org/places/413268)
 
 
 ## Bomba (Q3641938)
@@ -6787,6 +6815,13 @@
 
 ### alignments:
  - [Son Espases Roman Camp](https://pleiades.stoa.org/places/400546522)
+
+
+## Campi Veteres (Q11911076)
+[https://www.wikidata.org/wiki/Q11911076](https://www.wikidata.org/wiki/Q11911076)  
+
+### alignments:
+ - [Campi Veteres](https://pleiades.stoa.org/places/446231)
 
 
 ## Campovalano (Q3654770)
@@ -9947,6 +9982,13 @@
  - [Corlier](https://pleiades.stoa.org/places/167726)
 
 
+## Corniculum (Q5171759)
+[https://www.wikidata.org/wiki/Q5171759](https://www.wikidata.org/wiki/Q5171759)  
+
+### alignments:
+ - [Corniculum](https://pleiades.stoa.org/places/422910)
+
+
 ## Corsica and Sardinia (Q281345)
 [https://www.wikidata.org/wiki/Q281345](https://www.wikidata.org/wiki/Q281345)  
 
@@ -11123,6 +11165,13 @@
 
 ### alignments:
  - [Domus Faustae](https://pleiades.stoa.org/places/643547967)
+
+
+## Domus Fulminata (Q108511009)
+[https://www.wikidata.org/wiki/Q108511009](https://www.wikidata.org/wiki/Q108511009)  
+
+### alignments:
+ - [House of the Thunderbolt](https://pleiades.stoa.org/places/1554484)
 
 
 ## domus Gelotiana (Q132263820)
@@ -12811,6 +12860,13 @@
 
 ### alignments:
  - [Forum of Cosa](https://pleiades.stoa.org/places/6218928)
+
+
+## Forum of Pompeii (Q3748443)
+[https://www.wikidata.org/wiki/Q3748443](https://www.wikidata.org/wiki/Q3748443)  
+
+### alignments:
+ - [Forum of Pompeii](https://pleiades.stoa.org/places/188321148)
 
 
 ## Forum Sempronii archaeological site (Q11922647)
@@ -17295,6 +17351,13 @@
  - [Regianum](https://pleiades.stoa.org/places/216955)
 
 
+## Koçaklar (Q3676445)
+[https://www.wikidata.org/wiki/Q3676445](https://www.wikidata.org/wiki/Q3676445)  
+
+### alignments:
+ - [Marmos](https://pleiades.stoa.org/places/608036268)
+
+
 ## Kranaion cave sanctuary (Q104364036)
 [https://www.wikidata.org/wiki/Q104364036](https://www.wikidata.org/wiki/Q104364036)  
 
@@ -19242,6 +19305,13 @@
  - [Mahalibeh Castle](https://pleiades.stoa.org/places/99995226)
 
 
+## Mahmudabad, Urmia (Q5715835)
+[https://www.wikidata.org/wiki/Q5715835](https://www.wikidata.org/wiki/Q5715835)  
+
+### alignments:
+ - [Mahmudabad](https://pleiades.stoa.org/places/252095093)
+
+
 ## Maia Roman Fort (Q3843489)
 [https://www.wikidata.org/wiki/Q3843489](https://www.wikidata.org/wiki/Q3843489)  
 
@@ -19485,6 +19555,13 @@
 
 ### alignments:
  - [Margala/Margana](https://pleiades.stoa.org/places/573361)
+
+
+## Mariana (Q507251)
+[https://www.wikidata.org/wiki/Q507251](https://www.wikidata.org/wiki/Q507251)  
+
+### alignments:
+ - [Mariana](https://pleiades.stoa.org/places/472096)
 
 
 ## Mariandynoi (Q6762088)
@@ -24549,11 +24626,25 @@
  - [Phaistos](https://pleiades.stoa.org/places/589987)
 
 
+## Phalanna (Q111469010)
+[https://www.wikidata.org/wiki/Q111469010](https://www.wikidata.org/wiki/Q111469010)  
+
+### alignments:
+ - [Phalanna?](https://pleiades.stoa.org/places/589988)
+
+
 ## Phalara (Q56292782)
 [https://www.wikidata.org/wiki/Q56292782](https://www.wikidata.org/wiki/Q56292782)  
 
 ### alignments:
  - [Phalara](https://pleiades.stoa.org/places/541034)
+
+
+## Phalasarna (Q996836)
+[https://www.wikidata.org/wiki/Q996836](https://www.wikidata.org/wiki/Q996836)  
+
+### alignments:
+ - [Phalasarna](https://pleiades.stoa.org/places/589989)
 
 
 ## Phalerikon Teichos (Q131765252)
@@ -25144,6 +25235,13 @@
  - [Polichne](https://pleiades.stoa.org/places/570625)
 
 
+## Polimartium (Q11942205)
+[https://www.wikidata.org/wiki/Q11942205](https://www.wikidata.org/wiki/Q11942205)  
+
+### alignments:
+ - [Polimartium](https://pleiades.stoa.org/places/413268)
+
+
 ## Polonnaruwa Vatadage (Q7225955)
 [https://www.wikidata.org/wiki/Q7225955](https://www.wikidata.org/wiki/Q7225955)  
 
@@ -25410,6 +25508,13 @@
  - [Ponte Mammolo](https://pleiades.stoa.org/places/423010)
 
 
+## Ponte medievale (Q114957743)
+[https://www.wikidata.org/wiki/Q114957743](https://www.wikidata.org/wiki/Q114957743)  
+
+### alignments:
+ - [Bridge at Brugnato ](https://pleiades.stoa.org/places/966148098)
+
+
 ## Ponte Milvio (Q1127325)
 [https://www.wikidata.org/wiki/Q1127325](https://www.wikidata.org/wiki/Q1127325)  
 
@@ -25625,6 +25730,13 @@
 
 ### alignments:
  - [Porta Rauduscula](https://pleiades.stoa.org/places/354601172)
+
+
+## Porta Romanelli (Q109672908)
+[https://www.wikidata.org/wiki/Q109672908](https://www.wikidata.org/wiki/Q109672908)  
+
+### alignments:
+ - [Porta Romanelli](https://pleiades.stoa.org/places/918074508)
 
 
 ## Porta Salaria (Q1657663)
@@ -26101,6 +26213,13 @@
 
 ### alignments:
  - [Ptolemais Hermiou/Psoi](https://pleiades.stoa.org/places/756635)
+
+
+## Public Administration Buildings (Q27688042)
+[https://www.wikidata.org/wiki/Q27688042](https://www.wikidata.org/wiki/Q27688042)  
+
+### alignments:
+ - [Public administration buildings](https://pleiades.stoa.org/places/897019599)
 
 
 ## Puente Mocho (Q6091223)
@@ -26901,13 +27020,6 @@
  - [Varnava Tower](https://pleiades.stoa.org/places/580130)
 
 
-## Q1057246: Via Portuensis
-[https://www.wikidata.org/wiki/Q1057246](https://www.wikidata.org/wiki/Q1057246)  
-
-### alignments:
- - [Via Portuensis?](https://pleiades.stoa.org/places/303999556)
-
-
 ## Q105725210: Cyclopean Bridge of Agios Ioannis
 [https://www.wikidata.org/wiki/Q105725210](https://www.wikidata.org/wiki/Q105725210)  
 
@@ -27410,13 +27522,6 @@
 
 ### alignments:
  - [Villa di Fralana](https://pleiades.stoa.org/places/603582704)
-
-
-## Q109672908: Porta Romanelli
-[https://www.wikidata.org/wiki/Q109672908](https://www.wikidata.org/wiki/Q109672908)  
-
-### alignments:
- - [Porta Romanelli](https://pleiades.stoa.org/places/918074508)
 
 
 ## Q109923783: Via Ostiensis necropolis
@@ -29276,6 +29381,13 @@
  - [Pyramid of Sahure](https://pleiades.stoa.org/places/108282409)
 
 
+## Q131901893
+[https://www.wikidata.org/wiki/Q131901893](https://www.wikidata.org/wiki/Q131901893)  
+
+### alignments:
+ - [Aşağı Anzaf](https://pleiades.stoa.org/places/72333196)
+
+
 ## Q131910025
 [https://www.wikidata.org/wiki/Q131910025](https://www.wikidata.org/wiki/Q131910025)  
 
@@ -30767,13 +30879,6 @@
 
 ### alignments:
  - [Kato Phournos Tomb](https://pleiades.stoa.org/places/661894078)
-
-
-## Q159689: Bomarzo
-[https://www.wikidata.org/wiki/Q159689](https://www.wikidata.org/wiki/Q159689)  
-
-### alignments:
- - [Polimartium](https://pleiades.stoa.org/places/413268)
 
 
 ## Q15980592: Ancient Greek theatre of Morgantina
@@ -34532,13 +34637,6 @@
  - [Equus Tiridatis Regis Armeniorum](https://pleiades.stoa.org/places/408402998)
 
 
-## Q25403654: Bocca di Magra Roman villa
-[https://www.wikidata.org/wiki/Q25403654](https://www.wikidata.org/wiki/Q25403654)  
-
-### alignments:
- - [Bocca di Magra Roman villa](https://pleiades.stoa.org/places/277432404)
-
-
 ## Q254087: Arkadiko Bridge
 [https://www.wikidata.org/wiki/Q254087](https://www.wikidata.org/wiki/Q254087)  
 
@@ -37221,13 +37319,6 @@
  - [S. Passera](https://pleiades.stoa.org/places/423051)
 
 
-## Q3678593
-[https://www.wikidata.org/wiki/Q3678593](https://www.wikidata.org/wiki/Q3678593)  
-
-### alignments:
- - [Corniculum](https://pleiades.stoa.org/places/422910)
-
-
 ## Q3679783: Claternae
 [https://www.wikidata.org/wiki/Q3679783](https://www.wikidata.org/wiki/Q3679783)  
 
@@ -37352,13 +37443,6 @@
 
 ### alignments:
  - [Imeus (mountain)](https://pleiades.stoa.org/places/432882)
-
-
-## Q3748443: Forum of Pompeii
-[https://www.wikidata.org/wiki/Q3748443](https://www.wikidata.org/wiki/Q3748443)  
-
-### alignments:
- - [Forum of Pompeii](https://pleiades.stoa.org/places/188321148)
 
 
 ## Q3748759: Fortino di Mazzallakkar
@@ -43825,13 +43909,6 @@
 
 ### alignments:
  - [Alcántara Bridge](https://pleiades.stoa.org/places/257459)
-
-
-## Q996836: Phalasarna
-[https://www.wikidata.org/wiki/Q996836](https://www.wikidata.org/wiki/Q996836)  
-
-### alignments:
- - [Phalasarna](https://pleiades.stoa.org/places/589989)
 
 
 ## Q997756: Usilla
@@ -53112,6 +53189,13 @@
  - [Varus (river)](https://pleiades.stoa.org/places/157942)
 
 
+## Vara (Q1227787)
+[https://www.wikidata.org/wiki/Q1227787](https://www.wikidata.org/wiki/Q1227787)  
+
+### alignments:
+ - [*Boakias (river)](https://pleiades.stoa.org/places/383593)
+
+
 ## Varahsha (Q4103586)
 [https://www.wikidata.org/wiki/Q4103586](https://www.wikidata.org/wiki/Q4103586)  
 
@@ -53538,6 +53622,13 @@
 ### alignments:
  - [Via Popilia (in Aemilia)](https://pleiades.stoa.org/places/910399260)
  - [Via Popilia](https://pleiades.stoa.org/places/438878)
+
+
+## Via Portuensis (Q1057246)
+[https://www.wikidata.org/wiki/Q1057246](https://www.wikidata.org/wiki/Q1057246)  
+
+### alignments:
+ - [Via Portuensis?](https://pleiades.stoa.org/places/303999556)
 
 
 ## Via Sacra (Q655172)

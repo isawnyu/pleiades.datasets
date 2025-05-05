@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4285 alignments exist in _Pleiades_ place references as of 2025-05-02. The following list of alignments is grouped by zotkey.
+4286 alignments exist in _Pleiades_ place references as of 2025-05-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -889,13 +889,6 @@
 
 ### alignments:
  - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
-
-
-## Geo 31981: Polimartium (Bomarzo)
-[https://www.trismegistos.org/place/31981](https://www.trismegistos.org/place/31981)  
-
-### alignments:
- - [Polimartium](https://pleiades.stoa.org/places/413268)
 
 
 ## Geo 3217 Apameia (Qala’at el-Medik)
@@ -14374,6 +14367,13 @@
  - [Anguillara](https://pleiades.stoa.org/places/413015)
 
 
+## GEO ID 31981: Polimartium (Bomarzo)
+[https://www.trismegistos.org/place/31981](https://www.trismegistos.org/place/31981)  
+
+### alignments:
+ - [Polimartium](https://pleiades.stoa.org/places/413268)
+
+
 ## GEO ID 31993: Maternum (Ischia di Castro)
 [http://www.trismegistos.org/place/31993](http://www.trismegistos.org/place/31993)  
 
@@ -16298,6 +16298,13 @@
 
 ### alignments:
  - [Kranaion Antron](https://pleiades.stoa.org/places/589881)
+
+
+## GEO ID 33256
+[http://www.trismegistos.org/place/33256](http://www.trismegistos.org/place/33256)  
+
+### alignments:
+ - [Phalanna?](https://pleiades.stoa.org/places/589988)
 
 
 ## GEO ID 3325: Borbetomagus (Worms)
