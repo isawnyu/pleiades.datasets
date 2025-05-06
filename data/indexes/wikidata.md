@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7901 alignments exist in _Pleiades_ place references as of 2025-05-05. The following list of alignments is grouped by zotkey.
+7915 alignments exist in _Pleiades_ place references as of 2025-05-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2817,6 +2817,13 @@
  - [Arch of Caracalla](https://pleiades.stoa.org/places/486718746)
 
 
+## Arch of Galerius and Rotunda (Q1258082)
+[https://www.wikidata.org/wiki/Q1258082](https://www.wikidata.org/wiki/Q1258082)  
+
+### alignments:
+ - [Arch of Galerius](https://pleiades.stoa.org/places/361097849)
+
+
 ## Arch of Malborghetto (Q3621780)
 [https://www.wikidata.org/wiki/Q3621780](https://www.wikidata.org/wiki/Q3621780)  
 
@@ -4253,6 +4260,13 @@
  - [Tomis (river)](https://pleiades.stoa.org/places/737093)
 
 
+## Bahçecik (Q97235370)
+[https://www.wikidata.org/wiki/Q97235370](https://www.wikidata.org/wiki/Q97235370)  
+
+### alignments:
+ - [Bahçecik](https://pleiades.stoa.org/places/88845163)
+
+
 ## Bainbridge Roman fort and annexe (Q17677518)
 [https://www.wikidata.org/wiki/Q17677518](https://www.wikidata.org/wiki/Q17677518)  
 
@@ -4589,6 +4603,13 @@
  - [Basilica Damous el-Karita](https://pleiades.stoa.org/places/263978015)
 
 
+## Basilica of Junius Bassus (Q2318564)
+[https://www.wikidata.org/wiki/Q2318564](https://www.wikidata.org/wiki/Q2318564)  
+
+### alignments:
+ - [Basilica of Iunius Bassus](https://pleiades.stoa.org/places/691942929)
+
+
 ## Basilica of Pompeii (Q3635629)
 [https://www.wikidata.org/wiki/Q3635629](https://www.wikidata.org/wiki/Q3635629)  
 
@@ -4636,6 +4657,20 @@
 
 ### alignments:
  - [Basilica of Sant'Apollinare in Classe](https://pleiades.stoa.org/places/880538993)
+
+
+## Basilica Opimia (Q2886977)
+[https://www.wikidata.org/wiki/Q2886977](https://www.wikidata.org/wiki/Q2886977)  
+
+### alignments:
+ - [Basilica Opimia](https://pleiades.stoa.org/places/913111964)
+
+
+## Basilica Porcia (Q810068)
+[https://www.wikidata.org/wiki/Q810068](https://www.wikidata.org/wiki/Q810068)  
+
+### alignments:
+ - [Basilica Porcia](https://pleiades.stoa.org/places/547224816)
 
 
 ## Basilis (Q4867451)
@@ -16775,6 +16810,13 @@
 
 ### alignments:
  - [Kawa](https://pleiades.stoa.org/places/805647)
+
+
+## Kayalıdere Castle (Q122936836)
+[https://www.wikidata.org/wiki/Q122936836](https://www.wikidata.org/wiki/Q122936836)  
+
+### alignments:
+ - [Kayalıdere Castle](https://pleiades.stoa.org/places/355216650)
 
 
 ## Kaymakçı Tepe (Q115805884)
@@ -45816,6 +45858,13 @@
  - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
+## Rotunda (Q1584841)
+[https://www.wikidata.org/wiki/Q1584841](https://www.wikidata.org/wiki/Q1584841)  
+
+### alignments:
+ - [Rotunda of Galerius](https://pleiades.stoa.org/places/264924632)
+
+
 ## Rough Castle Fort (Q7370801)
 [https://www.wikidata.org/wiki/Q7370801](https://www.wikidata.org/wiki/Q7370801)  
 
@@ -46661,6 +46710,13 @@
 
 ### alignments:
  - [S. Agnese](https://pleiades.stoa.org/places/423035)
+
+
+## Sant'Andrea Catabarbara (Q3672455)
+[https://www.wikidata.org/wiki/Q3672455](https://www.wikidata.org/wiki/Q3672455)  
+
+### alignments:
+ - [Sant'Andrea Catabarbara](https://pleiades.stoa.org/places/201179211)
 
 
 ## Santa Cecilia in Trastevere (Q1479873)
@@ -50627,6 +50683,13 @@
  - [Thessaliotis](https://pleiades.stoa.org/places/541142)
 
 
+## Thessaloniki (Q17151)
+[https://www.wikidata.org/wiki/Q17151](https://www.wikidata.org/wiki/Q17151)  
+
+### alignments:
+ - [Thessalonica](https://pleiades.stoa.org/places/491741)
+
+
 ## Thetidium (Q60790511)
 [https://www.wikidata.org/wiki/Q60790511](https://www.wikidata.org/wiki/Q60790511)  
 
@@ -51339,6 +51402,13 @@
 
 ### alignments:
  - [Tomb of Gaius Rabirius Postumus Libertus and family](https://pleiades.stoa.org/places/372624618)
+
+
+## Tomb of Septimia Galla (Q105046711)
+[https://www.wikidata.org/wiki/Q105046711](https://www.wikidata.org/wiki/Q105046711)  
+
+### alignments:
+ - [Tomb of Septimia Galla](https://pleiades.stoa.org/places/704804858)
 
 
 ## Tomb of Servilia (Q75826742)
@@ -52972,6 +53042,13 @@
  - [Umma](https://pleiades.stoa.org/places/44626252)
 
 
+## Underground basilica of Porta Maggiore (Q2887175)
+[https://www.wikidata.org/wiki/Q2887175](https://www.wikidata.org/wiki/Q2887175)  
+
+### alignments:
+ - [Porta Maggiore Basilica](https://pleiades.stoa.org/places/806345695)
+
+
 ## Underground Shrine (Paestum) (Q56258514)
 [https://www.wikidata.org/wiki/Q56258514](https://www.wikidata.org/wiki/Q56258514)  
 
@@ -53525,6 +53602,13 @@
  - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
 
 
+## Via Bisignano Sepulchre (Q56256399)
+[https://www.wikidata.org/wiki/Q56256399](https://www.wikidata.org/wiki/Q56256399)  
+
+### alignments:
+ - [Sepolcro di via Bisignano](https://pleiades.stoa.org/places/883152117)
+
+
 ## Via Campana (Q17639427)
 [https://www.wikidata.org/wiki/Q17639427](https://www.wikidata.org/wiki/Q17639427)  
 
@@ -53706,6 +53790,13 @@
 
 ### alignments:
  - [Vicus sandalarius](https://pleiades.stoa.org/places/769742546)
+
+
+## Vicus Veneris Almae (Q134310936)
+[https://www.wikidata.org/wiki/Q134310936](https://www.wikidata.org/wiki/Q134310936)  
+
+### alignments:
+ - [Vicus Veneris Almae](https://pleiades.stoa.org/places/661912806)
 
 
 ## vicus vitrarius (Q107713881)
@@ -54203,6 +54294,13 @@
 
 ### alignments:
  - [Vivisco](https://pleiades.stoa.org/places/177663)
+
+
+## Vlatadon Monastery (Q962846)
+[https://www.wikidata.org/wiki/Q962846](https://www.wikidata.org/wiki/Q962846)  
+
+### alignments:
+ - [Blatades Monastery](https://pleiades.stoa.org/places/66861929)
 
 
 ## Vodgoriacum (Q2665195)
