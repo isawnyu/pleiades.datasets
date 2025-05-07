@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4286 alignments exist in _Pleiades_ place references as of 2025-05-06. The following list of alignments is grouped by zotkey.
+4287 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -373,6 +373,13 @@
 
 ### alignments:
  - [Myrina](https://pleiades.stoa.org/places/550755)
+
+
+## Geo 14441: Caiatia (Caiazzo)
+[https://www.trismegistos.org/place/14441](https://www.trismegistos.org/place/14441)  
+
+### alignments:
+ - [Caiatia](https://pleiades.stoa.org/places/432733)
 
 
 ## Geo 14800: Verulamium (Saint Albans)
@@ -4814,7 +4821,7 @@
  - [Trebula Balli(ni)ensium](https://pleiades.stoa.org/places/433164)
 
 
-## GEO ID 14442
+## GEO ID 14442: Cubulteria (Alvignano)
 [http://www.trismegistos.org/place/14442](http://www.trismegistos.org/place/14442)  
 
 ### alignments:

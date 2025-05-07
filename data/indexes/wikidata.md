@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7915 alignments exist in _Pleiades_ place references as of 2025-05-06. The following list of alignments is grouped by zotkey.
+7919 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5409,6 +5409,13 @@
  - [Bithynion/Claudiopolis/Hadriana](https://pleiades.stoa.org/places/844879)
 
 
+## Bizerte (Q189546)
+[https://www.wikidata.org/wiki/Q189546](https://www.wikidata.org/wiki/Q189546)  
+
+### alignments:
+ - [Hippo Diarrhytus](https://pleiades.stoa.org/places/315038)
+
+
 ## Bi’r ash Shahwī (Q106129062)
 [https://www.wikidata.org/wiki/Q106129062](https://www.wikidata.org/wiki/Q106129062)  
 
@@ -6705,6 +6712,13 @@
  - [Cahercommaun](https://pleiades.stoa.org/places/815733688)
 
 
+## Caiatia, ancient Samnium settlement in Campanium (Q134359776)
+[https://www.wikidata.org/wiki/Q134359776](https://www.wikidata.org/wiki/Q134359776)  
+
+### alignments:
+ - [Caiatia](https://pleiades.stoa.org/places/432733)
+
+
 ## Caietae Portus (Q5017525)
 [https://www.wikidata.org/wiki/Q5017525](https://www.wikidata.org/wiki/Q5017525)  
 
@@ -7207,6 +7221,13 @@
 
 ### alignments:
  - [Carmine Roman tomb](https://pleiades.stoa.org/places/116548159)
+
+
+## Carmo (Q110775489)
+[https://www.wikidata.org/wiki/Q110775489](https://www.wikidata.org/wiki/Q110775489)  
+
+### alignments:
+ - [Carmo](https://pleiades.stoa.org/places/256058)
 
 
 ## Carmylessus (Q18712835)
@@ -12090,6 +12111,13 @@
 
 ### alignments:
  - [Incia (river)](https://pleiades.stoa.org/places/383676)
+
+
+## Eordaea (Q1346328)
+[https://www.wikidata.org/wiki/Q1346328](https://www.wikidata.org/wiki/Q1346328)  
+
+### alignments:
+ - [Eordaia](https://pleiades.stoa.org/places/491591)
 
 
 ## Epidamnos (Q3567546)
@@ -41335,13 +41363,6 @@
  - [Asklepieion](https://pleiades.stoa.org/places/550459)
 
 
-## Q63092: Carmona
-[https://www.wikidata.org/wiki/Q63092](https://www.wikidata.org/wiki/Q63092)  
-
-### alignments:
- - [Carmo](https://pleiades.stoa.org/places/256058)
-
-
 ## Q630974: Kerameikos
 [https://www.wikidata.org/wiki/Q630974](https://www.wikidata.org/wiki/Q630974)  
 
@@ -44385,6 +44406,13 @@
 
 ### alignments:
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
+
+
+## Rhandeia (Q20108782)
+[https://www.wikidata.org/wiki/Q20108782](https://www.wikidata.org/wiki/Q20108782)  
+
+### alignments:
+ - [Rhandeia](https://pleiades.stoa.org/places/876687)
 
 
 ## Rhesaena (Q111536866)
