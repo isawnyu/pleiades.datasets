@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7919 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
+7937 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -876,6 +876,13 @@
 
 ### alignments:
  - [Manawir el-Biyut](https://pleiades.stoa.org/places/776196)
+
+
+## Ain Shams el-Din (Q14299836)
+[https://www.wikidata.org/wiki/Q14299836](https://www.wikidata.org/wiki/Q14299836)  
+
+### alignments:
+ - [(P)Mounesis](https://pleiades.stoa.org/places/776216)
 
 
 ## Ain Sinu (Q123909252)
@@ -2957,6 +2964,13 @@
  - [Cercadilla](https://pleiades.stoa.org/places/874536625)
 
 
+## Archaeological Site of Emporio (Q38281346)
+[https://www.wikidata.org/wiki/Q38281346](https://www.wikidata.org/wiki/Q38281346)  
+
+### alignments:
+ - [Emporio](https://pleiades.stoa.org/places/550530)
+
+
 ## archaeological site of Monte Bibele (Q117087323)
 [https://www.wikidata.org/wiki/Q117087323](https://www.wikidata.org/wiki/Q117087323)  
 
@@ -3971,6 +3985,13 @@
 
 ### alignments:
  - [Augustodurum](https://pleiades.stoa.org/places/69471)
+
+
+## Aula Palatina (Q686773)
+[https://www.wikidata.org/wiki/Q686773](https://www.wikidata.org/wiki/Q686773)  
+
+### alignments:
+ - [Aula Palatina](https://pleiades.stoa.org/places/780510607)
 
 
 ## Aulon (Q17622009)
@@ -7293,6 +7314,13 @@
  - [Carsioli](https://pleiades.stoa.org/places/432760)
 
 
+## Carthago Nova (Q2727884)
+[https://www.wikidata.org/wiki/Q2727884](https://www.wikidata.org/wiki/Q2727884)  
+
+### alignments:
+ - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
+
+
 ## Carthago Nova amphitheatre (Q651415)
 [https://www.wikidata.org/wiki/Q651415](https://www.wikidata.org/wiki/Q651415)  
 
@@ -9282,6 +9310,13 @@
  - [Chyt(h)roi](https://pleiades.stoa.org/places/707496)
 
 
+## Chytrium (Q17627967)
+[https://www.wikidata.org/wiki/Q17627967](https://www.wikidata.org/wiki/Q17627967)  
+
+### alignments:
+ - [Chyton/Chytrion](https://pleiades.stoa.org/places/550502)
+
+
 ## Château de Salkhad (Q3388188)
 [https://www.wikidata.org/wiki/Q3388188](https://www.wikidata.org/wiki/Q3388188)  
 
@@ -9448,6 +9483,13 @@
 
 ### alignments:
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
+
+
+## Cissbury Ring (Q1093239)
+[https://www.wikidata.org/wiki/Q1093239](https://www.wikidata.org/wiki/Q1093239)  
+
+### alignments:
+ - [Cissbury Ring](https://pleiades.stoa.org/places/370546554)
 
 
 ## citadel fortification of Dura-Europos (Q116621910)
@@ -9952,6 +9994,13 @@
 
 ### alignments:
  - [conventus Caesaraugustanus](https://pleiades.stoa.org/places/941635509)
+
+
+## Conventus Carthaginiensis (Q111634790)
+[https://www.wikidata.org/wiki/Q111634790](https://www.wikidata.org/wiki/Q111634790)  
+
+### alignments:
+ - [Conventus Carthaginiensis](https://pleiades.stoa.org/places/791272286)
 
 
 ## Conímbriga (Q66942507)
@@ -14711,6 +14760,13 @@
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
 
 
+## Heraclea (Aeolis) (Q17121842)
+[https://www.wikidata.org/wiki/Q17121842](https://www.wikidata.org/wiki/Q17121842)  
+
+### alignments:
+ - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
 ## Heraclea (Eleia) (Q26721041)
 [https://www.wikidata.org/wiki/Q26721041](https://www.wikidata.org/wiki/Q26721041)  
 
@@ -16531,6 +16587,13 @@
  - [Kaine/Maximianopolis](https://pleiades.stoa.org/places/786047)
 
 
+## Kainon Chorion (Q132527118)
+[https://www.wikidata.org/wiki/Q132527118](https://www.wikidata.org/wiki/Q132527118)  
+
+### alignments:
+ - [Kainon Chorion](https://pleiades.stoa.org/places/857179)
+
+
 ## Kaiseraugst (Q69048)
 [https://www.wikidata.org/wiki/Q69048](https://www.wikidata.org/wiki/Q69048)  
 
@@ -16692,6 +16755,13 @@
  - [Karbala](https://pleiades.stoa.org/places/619181)
 
 
+## Kardamyle (Chios) (Q62921868)
+[https://www.wikidata.org/wiki/Q62921868](https://www.wikidata.org/wiki/Q62921868)  
+
+### alignments:
+ - [Kardamyle?](https://pleiades.stoa.org/places/550619)
+
+
 ## Kardamyle (Q16542973)
 [https://www.wikidata.org/wiki/Q16542973](https://www.wikidata.org/wiki/Q16542973)  
 
@@ -16810,6 +16880,13 @@
 
 ### alignments:
  - [Katakekaumene](https://pleiades.stoa.org/places/609427)
+
+
+## Katapaspanas (Q85773754)
+[https://www.wikidata.org/wiki/Q85773754](https://www.wikidata.org/wiki/Q85773754)  
+
+### alignments:
+ - [Katapaspanas](https://pleiades.stoa.org/places/844975)
 
 
 ## Katarakta (Q132508612)
@@ -17644,6 +17721,13 @@
 
 ### alignments:
  - [Küllüoba Höyüğü](https://pleiades.stoa.org/places/334862818)
+
+
+## Küçük Menderes River (Q922382)
+[https://www.wikidata.org/wiki/Q922382](https://www.wikidata.org/wiki/Q922382)  
+
+### alignments:
+ - [Cayster (river)](https://pleiades.stoa.org/places/550492)
 
 
 ## Kınalıada (Q579117)
@@ -20047,6 +20131,13 @@
  - [Melangeia](https://pleiades.stoa.org/places/570473)
 
 
+## Melet Cayi (Q19296191)
+[https://www.wikidata.org/wiki/Q19296191](https://www.wikidata.org/wiki/Q19296191)  
+
+### alignments:
+ - [Melanthios (river)](https://pleiades.stoa.org/places/857232)
+
+
 ## Melibokus (Q464552)
 [https://www.wikidata.org/wiki/Q464552](https://www.wikidata.org/wiki/Q464552)  
 
@@ -20129,6 +20220,13 @@
 
 ### alignments:
  - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
+
+
+## Mert River (Q6077754)
+[https://www.wikidata.org/wiki/Q6077754](https://www.wikidata.org/wiki/Q6077754)  
+
+### alignments:
+ - [Lykastos (river)](https://pleiades.stoa.org/places/857216)
 
 
 ## Mesatis (Q16332586)
@@ -21796,6 +21894,13 @@
 
 ### alignments:
  - [Kalkriese](https://pleiades.stoa.org/places/98992)
+
+
+## Mushabbak (Q1294802)
+[https://www.wikidata.org/wiki/Q1294802](https://www.wikidata.org/wiki/Q1294802)  
+
+### alignments:
+ - [Mushabbak Basilica](https://pleiades.stoa.org/places/791239360)
 
 
 ## Mustafakemalpaşa River (Q2148345)
@@ -30229,6 +30334,13 @@
  - [Sa Sedda 'e sos Carros](https://pleiades.stoa.org/places/34444021)
 
 
+## Q1453686
+[https://www.wikidata.org/wiki/Q1453686](https://www.wikidata.org/wiki/Q1453686)  
+
+### alignments:
+ - [Umm Howeitat](https://pleiades.stoa.org/places/786137)
+
+
 ## Q1453755: Fregellae
 [https://www.wikidata.org/wiki/Q1453755](https://www.wikidata.org/wiki/Q1453755)  
 
@@ -31075,13 +31187,6 @@
 
 ### alignments:
  - [Phlygonion?](https://pleiades.stoa.org/places/541047)
-
-
-## Q1626365: Monastery of Saint Simeon
-[https://www.wikidata.org/wiki/Q1626365](https://www.wikidata.org/wiki/Q1626365)  
-
-### alignments:
- - [Saint Simeon Monastery (Aswan, Egypt)](https://pleiades.stoa.org/places/631488785)
 
 
 ## Q1626917
@@ -44037,6 +44142,13 @@
  - [Qasr al-Gib](https://pleiades.stoa.org/places/776178)
 
 
+## Qasr Baris (Q14218418)
+[https://www.wikidata.org/wiki/Q14218418](https://www.wikidata.org/wiki/Q14218418)  
+
+### alignments:
+ - [el-Qasr](https://pleiades.stoa.org/places/776218)
+
+
 ## Qasr Bshir (Q13860025)
 [https://www.wikidata.org/wiki/Q13860025](https://www.wikidata.org/wiki/Q13860025)  
 
@@ -47789,6 +47901,13 @@
 
 ### alignments:
  - [Saena](https://pleiades.stoa.org/places/413293)
+
+
+## Sierra de Cazorla (Q7511639)
+[https://www.wikidata.org/wiki/Q7511639](https://www.wikidata.org/wiki/Q7511639)  
+
+### alignments:
+ - [Tugiensis Saltus](https://pleiades.stoa.org/places/266073)
 
 
 ## Sifnos (Q212029)
@@ -54385,6 +54504,13 @@
 
 ### alignments:
  - [Roman amphitheater at Volsinii](https://pleiades.stoa.org/places/659746118)
+
+
+## Voltinia (Q3538815)
+[https://www.wikidata.org/wiki/Q3538815](https://www.wikidata.org/wiki/Q3538815)  
+
+### alignments:
+ - [tribus Voltinia](https://pleiades.stoa.org/places/777690772)
 
 
 ## Volubilis (Q391215)

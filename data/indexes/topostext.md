@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3695 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
+3699 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5909,6 +5909,13 @@
  - [Chyretiai](https://pleiades.stoa.org/places/540712)
 
 
+## Chyton/Chytrion (Ionia) 3 Urla
+[https://topostext.org/place/383267UChy](https://topostext.org/place/383267UChy)  
+
+### alignments:
+ - [Chyton/Chytrion](https://pleiades.stoa.org/places/550502)
+
+
 ## Cibalae (Pannonia)
 [https://topostext.org/place/453188UCib](https://topostext.org/place/453188UCib)  
 
@@ -7718,6 +7725,13 @@
 
 ### alignments:
  - [Emona](https://pleiades.stoa.org/places/197258)
+
+
+## Emporio exc. (Chios) Emporio
+[https://topostext.org/place/382260XEmp](https://topostext.org/place/382260XEmp)  
+
+### alignments:
+ - [Emporio](https://pleiades.stoa.org/places/550530)
 
 
 ## Emporion (Spain)
@@ -9760,6 +9774,13 @@
  - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
 
 
+## Herakleia/Elateia (Aiolis)
+[https://topostext.org/place/393267UHer](https://topostext.org/place/393267UHer)  
+
+### alignments:
+ - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
 ## Herakleion (Egypt)
 [https://topostext.org/place/313301UHer](https://topostext.org/place/313301UHer)  
 
@@ -11351,6 +11372,13 @@
 
 ### alignments:
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
+
+
+## Kardamyle (Chios)
+[https://topostext.org/place/385261PKar](https://topostext.org/place/385261PKar)  
+
+### alignments:
+ - [Kardamyle?](https://pleiades.stoa.org/places/550619)
 
 
 ## Kardamyle (Messenia)

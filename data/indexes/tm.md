@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4287 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
+4292 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12680,6 +12680,13 @@
  - [Septemiacum](https://pleiades.stoa.org/places/123119)
 
 
+## GEO ID 281: Arabia
+[http://www.trismegistos.org/place/281](http://www.trismegistos.org/place/281)  
+
+### alignments:
+ - [Arabia (region)](https://pleiades.stoa.org/places/29475)
+
+
 ## GEO ID 28217: Rapis (Schwabmünchen)
 [https://www.trismegistos.org/place/28217](https://www.trismegistos.org/place/28217)  
 
@@ -14134,6 +14141,13 @@
 
 ### alignments:
  - [Leucerae](https://pleiades.stoa.org/places/383693)
+
+
+## GEO ID 3155: Mounesis (Chams el-Din)
+[http://www.trismegistos.org/place/3155](http://www.trismegistos.org/place/3155)  
+
+### alignments:
+ - [(P)Mounesis](https://pleiades.stoa.org/places/776216)
 
 
 ## GEO ID 31568: Laus Pompeia (Lodi Vecchio)
@@ -17250,6 +17264,13 @@
 
 ### alignments:
  - [*Iaza](https://pleiades.stoa.org/places/609412)
+
+
+## GEO ID 34436: Kaystros [Lydia] (Küçük Menderes)
+[https://www.trismegistos.org/place/34436](https://www.trismegistos.org/place/34436)  
+
+### alignments:
+ - [Cayster (river)](https://pleiades.stoa.org/places/550492)
 
 
 ## GEO ID 3444: Primis Megale (Amara West)
@@ -22349,6 +22370,13 @@
  - [‘Ad Statuas’](https://pleiades.stoa.org/places/511137)
 
 
+## GEO ID 41972: Herakleia (Ayvalık)
+[https://www.trismegistos.org/place/41972](https://www.trismegistos.org/place/41972)  
+
+### alignments:
+ - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
 ## GEO ID 41974: Corinthiacus Sinus
 [http://www.trismegistos.org/place/41974](http://www.trismegistos.org/place/41974)  
 
@@ -24202,6 +24230,13 @@
 
 ### alignments:
  - [Aebisoci](https://pleiades.stoa.org/places/240851)
+
+
+## GEO ID 43406: Graecostasis
+[https://www.trismegistos.org/place/43406](https://www.trismegistos.org/place/43406)  
+
+### alignments:
+ - [Graecostasis](https://pleiades.stoa.org/places/780447855)
 
 
 ## GEO ID 43407: Vicus Tautiomosis

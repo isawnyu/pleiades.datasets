@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2065 alignments exist in _Pleiades_ place references as of 2025-05-07. The following list of alignments is grouped by zotkey.
+2067 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12512,6 +12512,13 @@
  - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
+## 8B3 (Talbert 2219)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2219.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2219.html)  
+
+### alignments:
+ - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
 ## 8B3-8B5 (Talbert 3156)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3156.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3156.html)  
 
@@ -12748,6 +12755,13 @@
 
 ### alignments:
  - [Magnesia ad Maeandrum/Leukophrys](https://pleiades.stoa.org/places/599778)
+
+
+## 8B5 (Talbert 3454)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3454.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3454.html)  
+
+### alignments:
+ - [Cayster (river)](https://pleiades.stoa.org/places/550492)
 
 
 ## 8C1 (Talbert 2069)
