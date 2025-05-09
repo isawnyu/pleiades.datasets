@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-645 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
+646 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1701,6 +1701,13 @@
 
 ### alignments:
  - [Abai](https://pleiades.stoa.org/places/540582)
+
+
+## 10276475: Patara (Lycia)
+[https://resource.manto.unh.edu/10276475](https://resource.manto.unh.edu/10276475)  
+
+### alignments:
+ - [Patara/Arsinoe](https://pleiades.stoa.org/places/639042)
 
 
 ## 10276492: River Crios (Achaia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2067 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
+2071 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13317,11 +13317,25 @@
  - [Ad Vincesimum/Magnana](https://pleiades.stoa.org/places/857012)
 
 
+## 9A3 (Talbert 2408)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2408.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2408.html)  
+
+### alignments:
+ - [Gizenenica/Chaszanenica](https://pleiades.stoa.org/places/857137)
+
+
 ## 9A3 (Talbert 2409)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2409.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2409.html)  
 
 ### alignments:
  - [‘Bylae’](https://pleiades.stoa.org/places/857073)
+
+
+## 9A3 (Talbert 2410)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2410.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2410.html)  
+
+### alignments:
+ - [‘Frigdarium’](https://pleiades.stoa.org/places/857126)
 
 
 ## 9A3 (Talbert 2418)
@@ -13343,6 +13357,13 @@
 
 ### alignments:
  - [Archabis (river)](https://pleiades.stoa.org/places/857039)
+
+
+## 9A4 (Talbert 2411)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2411.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2411.html)  
+
+### alignments:
+ - [Patara (Cappadocia)](https://pleiades.stoa.org/places/857264)
 
 
 ## 9A4 (Talbert 2413)
@@ -13700,6 +13721,13 @@
 
 ### alignments:
  - [Caunus](https://pleiades.stoa.org/places/638796)
+
+
+## 9B2 (Talbert 2390)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2390.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2390.html)  
+
+### alignments:
+ - [Patara/Arsinoe](https://pleiades.stoa.org/places/639042)
 
 
 ## 9B2 (Talbert 2391)

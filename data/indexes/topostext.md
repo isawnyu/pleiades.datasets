@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3699 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
+3699 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11897,6 +11897,8 @@
 
 ### alignments:
  - [Ai Lia temples](https://pleiades.stoa.org/places/330217806)
+ - [Archaic Temple at Ai Lia](https://pleiades.stoa.org/places/499782907)
+ - [Classical Temple at Ai Lia](https://pleiades.stoa.org/places/830424823)
 
 
 ## Kestria (Illyria)

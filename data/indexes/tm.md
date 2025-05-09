@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4292 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
+4298 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -629,6 +629,13 @@
 ### alignments:
  - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## Geo 20617: Timicis (Sidi Bou Chaib)
+[https://www.trismegistos.org/place/20617](https://www.trismegistos.org/place/20617)  
+
+### alignments:
+ - [Timici](https://pleiades.stoa.org/places/295362)
 
 
 ## Geo 2075: Salamis
@@ -6985,6 +6992,13 @@
 
 ### alignments:
  - [Blaundos](https://pleiades.stoa.org/places/609344)
+
+
+## GEO ID 1625: Patara (Gelemiş)
+[https://www.trismegistos.org/place/1625](https://www.trismegistos.org/place/1625)  
+
+### alignments:
+ - [Patara/Arsinoe](https://pleiades.stoa.org/places/639042)
 
 
 ## GEO ID 16260: Oinoanda (Incealiler)
@@ -21166,6 +21180,27 @@
  - [Ophis](https://pleiades.stoa.org/places/857257)
 
 
+## GEO ID 41419: Gizenenica (Hortokop)
+[https://www.trismegistos.org/place/41419](https://www.trismegistos.org/place/41419)  
+
+### alignments:
+ - [Gizenenica/Chaszanenica](https://pleiades.stoa.org/places/857137)
+
+
+## GEO ID 41420: Bylae (Kolathanları)
+[https://www.trismegistos.org/place/41420](https://www.trismegistos.org/place/41420)  
+
+### alignments:
+ - [‘Bylae’](https://pleiades.stoa.org/places/857073)
+
+
+## GEO ID 41421: Frigdarium (Anzarya Hanları)
+[https://www.trismegistos.org/place/41421](https://www.trismegistos.org/place/41421)  
+
+### alignments:
+ - [‘Frigdarium’](https://pleiades.stoa.org/places/857126)
+
+
 ## GEO ID 41433: Lucus Basaro (Tercan)
 [https://www.trismegistos.org/place/41433](https://www.trismegistos.org/place/41433)  
 
@@ -28260,6 +28295,13 @@
 
 ### alignments:
  - [Skolopoeis](https://pleiades.stoa.org/places/599940)
+
+
+## GEO ID 61473: Patara (Eren Tepe)
+[https://www.trismegistos.org/place/61473](https://www.trismegistos.org/place/61473)  
+
+### alignments:
+ - [Patara (mountain)](https://pleiades.stoa.org/places/639041)
 
 
 ## GEO ID 61475: Xanthos (Esen Çay)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7937 alignments exist in _Pleiades_ place references as of 2025-05-08. The following list of alignments is grouped by zotkey.
+7943 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1177,6 +1177,13 @@
 
 ### alignments:
  - [Puente romano de Alconetar](https://pleiades.stoa.org/places/257460)
+
+
+## Alcázar de Arriba y Puerta de Marchena (Q43138933)
+[https://www.wikidata.org/wiki/Q43138933](https://www.wikidata.org/wiki/Q43138933)  
+
+### alignments:
+ - [Alcázar del rey Don Pedro](https://pleiades.stoa.org/places/580732678)
 
 
 ## Aldborough Roman Site (Q1674928)
@@ -11994,6 +12001,13 @@
  - [Albis (river)](https://pleiades.stoa.org/places/98909)
 
 
+## Elephant tomb in Carmona (Q71990681)
+[https://www.wikidata.org/wiki/Q71990681](https://www.wikidata.org/wiki/Q71990681)  
+
+### alignments:
+ - [Elephant tomb at Carmona](https://pleiades.stoa.org/places/521700443)
+
+
 ## Elephas herbarius (Q112654314)
 [https://www.wikidata.org/wiki/Q112654314](https://www.wikidata.org/wiki/Q112654314)  
 
@@ -22169,6 +22183,13 @@
  - [Nauportus](https://pleiades.stoa.org/places/197401)
 
 
+## Naustathmus (Q65047435)
+[https://www.wikidata.org/wiki/Q65047435](https://www.wikidata.org/wiki/Q65047435)  
+
+### alignments:
+ - [Naustathmos](https://pleiades.stoa.org/places/857242)
+
+
 ## Navan Fort (Q1274963)
 [https://www.wikidata.org/wiki/Q1274963](https://www.wikidata.org/wiki/Q1274963)  
 
@@ -24421,6 +24442,20 @@
 
 ### alignments:
  - [Pasture House Turret 3A](https://pleiades.stoa.org/places/189058537)
+
+
+## Patara (Q233121)
+[https://www.wikidata.org/wiki/Q233121](https://www.wikidata.org/wiki/Q233121)  
+
+### alignments:
+ - [Patara/Arsinoe](https://pleiades.stoa.org/places/639042)
+
+
+## Patara (Q629897)
+[https://www.wikidata.org/wiki/Q629897](https://www.wikidata.org/wiki/Q629897)  
+
+### alignments:
+ - [Patara (Cappadocia)](https://pleiades.stoa.org/places/857264)
 
 
 ## Patroklos, Attica (Q1145107)
@@ -49757,6 +49792,13 @@
 
 ### alignments:
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
+
+
+## Temple of Apollo Lepsios (Q134396723)
+[https://www.wikidata.org/wiki/Q134396723](https://www.wikidata.org/wiki/Q134396723)  
+
+### alignments:
+ - [Temple of Apollo Lepsios](https://pleiades.stoa.org/places/599505)
 
 
 ## Temple of Apollo Palatinus (Q1236860)
