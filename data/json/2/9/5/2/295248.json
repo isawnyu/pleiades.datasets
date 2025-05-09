@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.0,
-        36.5,
-        2.5,
-        37.0
+        2.107384450119946,
+        36.5726521905225,
+        2.107384450119946,
+        36.5726521905225
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,48 +44,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 30 D3 Cave-Hardy",
-    "details": "The Barrington Atlas Directory notes: Cave-Hardy",
+    "details": "<p>The Barrington Atlas Directory notes: Cave-Hardy</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            36.5
-                        ],
-                        [
-                            2.5,
-                            36.5
-                        ],
-                        [
-                            2.5,
-                            37.0
-                        ],
-                        [
-                            2.0,
-                            37.0
-                        ],
-                        [
-                            2.0,
-                            36.5
-                        ]
-                    ]
+                    2.107384450119946,
+                    36.5726521905225
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/295248/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/295248/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Villa; 30 BC - AD 640",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-05-08T21:01:10Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2017-10-28T21:09:20Z",
@@ -121,8 +106,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -140,104 +125,90 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T21:00:17Z",
+            "contributors": [],
+            "created": "2025-05-07T22:11:31Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            36.5
-                        ],
-                        [
-                            2.5,
-                            36.5
-                        ],
-                        [
-                            2.5,
-                            37.0
-                        ],
-                        [
-                            2.0,
-                            37.0
-                        ],
-                        [
-                            2.0,
-                            36.5
-                        ]
-                    ]
+                    2.107384450119946,
+                    36.5726521905225
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:01:09Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-25T16:11:31Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-08T20:59:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T23:22:48Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T22:12:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-07T22:11:33Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T21:00:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T22:11:31Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "Barrington Atlas: BAtlas 30 D3 Cave-Hardy",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 D3 Cave-Hardy",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 477 see \"Cave-Hardy\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/295248/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/295248/batlas-point-location"
         }
     ],
     "names": [],
@@ -261,14 +232,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-4.13",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "4.13",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 4.13",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "seeFurther"
         },
         {
@@ -284,8 +255,8 @@
         }
     ],
     "reprPoint": [
-        2.25,
-        36.75
+        2.107384450119946,
+        36.5726521905225
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

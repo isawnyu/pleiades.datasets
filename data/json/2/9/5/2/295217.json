@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.0,
-        36.0,
-        2.5,
-        36.5
+        2.051467044316469,
+        36.49770326637992,
+        2.051467044316469,
+        36.49770326637992
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,38 +49,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            36.0
-                        ],
-                        [
-                            2.5,
-                            36.0
-                        ],
-                        [
-                            2.5,
-                            36.5
-                        ],
-                        [
-                            2.0,
-                            36.5
-                        ],
-                        [
-                            2.0,
-                            36.0
-                        ]
-                    ]
+                    2.051467044316469,
+                    36.49770326637992
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/295217/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Point location extracted using QGIS (2025) from raster image of BAtlas Map 25 that was digitized and georegistered to original projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/295217/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 640",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
@@ -121,8 +101,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -140,104 +120,90 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T20:59:34Z",
+            "contributors": [],
+            "created": "2025-05-07T21:57:20Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Point location extracted using QGIS (2025) from raster image of BAtlas Map 25 that was digitized and georegistered to original projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            2.0,
-                            36.0
-                        ],
-                        [
-                            2.5,
-                            36.0
-                        ],
-                        [
-                            2.5,
-                            36.5
-                        ],
-                        [
-                            2.0,
-                            36.5
-                        ],
-                        [
-                            2.0,
-                            36.0
-                        ]
-                    ]
+                    2.051467044316469,
+                    36.49770326637992
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:00:49Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-25T16:11:25Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-08T20:58:43Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T23:22:41Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T21:57:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-07T21:57:23Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:59:34Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T21:57:20Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 30 D4 el Arba",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 D4 el Arba",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 476 see \"el Arba\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/295217/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/295217/batlas-point-location"
         }
     ],
     "names": [],
@@ -273,8 +239,8 @@
         }
     ],
     "reprPoint": [
-        2.25,
-        36.25
+        2.051467044316469,
+        36.49770326637992
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,12 +1,85 @@
 {
     "@type": "Place",
     "bbox": [
-        1.0,
-        36.0,
-        1.5,
-        36.5
+        1.308867269137911,
+        36.28174332825243,
+        1.308867269137911,
+        36.28174332825243
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "north_of",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/north_of",
+            "connectsTo": "https://pleiades.stoa.org/places/295245",
+            "contributors": [],
+            "created": "2020-10-04T13:58:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-08T20:55:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-08T20:55:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-08T20:55:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "ctype",
+                    "modified": "2024-01-27T22:46:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2020-10-04T13:58:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2020-10-04T13:58:15Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "castellum-tingitanum",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 B4 4",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Castellum Tingitanum",
+            "uri": "https://pleiades.stoa.org/places/297475/castellum-tingitanum"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/295245"
     ],
@@ -51,38 +124,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.0
-                        ]
-                    ]
+                    1.308867269137911,
+                    36.28174332825243
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/297475/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/297475/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
@@ -128,8 +181,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -141,104 +194,95 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T20:59:13Z",
+            "contributors": [],
+            "created": "2025-05-07T22:20:16Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            1.0,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.0
-                        ],
-                        [
-                            1.5,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.5
-                        ],
-                        [
-                            1.0,
-                            36.0
-                        ]
-                    ]
+                    1.308867269137911,
+                    36.28174332825243
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:02:54Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-25T16:11:22Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-08T20:54:47Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T23:22:39Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T22:22:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-07T22:22:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-07T22:20:21Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:59:13Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-07T22:20:16Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 30 B4 4",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 B4 4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 480 sub \"Numbered Sites\" see 4",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/297475/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/297475/batlas-point-location"
         }
     ],
     "names": [],
@@ -274,8 +318,8 @@
         }
     ],
     "reprPoint": [
-        1.25,
-        36.25
+        1.308867269137911,
+        36.28174332825243
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
