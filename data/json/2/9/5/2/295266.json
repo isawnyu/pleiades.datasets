@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        3.774913,
-        36.12011,
+        3.761586121347552,
+        36.10232090465717,
         3.774913,
         36.12011
     ],
@@ -40,14 +40,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-09-24T21:00:38Z",
+    "created": "2025-05-09T21:32:18Z",
     "creators": [
         {
             "name": "T.W. Potter",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 30 G4 Ghorfa des Ouled Selama",
+    "description": "Site of a late antique monumental tomb and other ruined structures located in the modern municipal territory of El Hakimia, Bouira province (Algeria).",
     "details": "<p>The Barrington Atlas Directory notes: Ghorfa des Ouled Selama</p>",
     "features": [
         {
@@ -60,16 +60,44 @@
             },
             "id": "darmc-location-15980",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/295266/darmc-location-15980",
                 "location_precision": "precise",
                 "snippet": "Unknown; AD 300 - AD 640",
                 "title": "DARMC location 15980"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.761586121347552,
+                    36.10232090465717
+                ],
+                "type": "Point"
+            },
+            "id": "batlas-point-location",
+            "properties": {
+                "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/295266/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Tomb; AD 300 - AD 640",
+                "title": "BAtlas Point Location"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; summary @thomase",
+            "modified": "2025-05-10T03:43:21Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-05-09T21:32:17Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2023-07-28T15:28:10Z",
@@ -146,7 +174,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 15980",
             "end": 640,
             "featureType": [
@@ -214,6 +242,106 @@
             "start": 300,
             "title": "DARMC location 15980",
             "uri": "https://pleiades.stoa.org/places/295266/darmc-location-15980"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-05-09T21:30:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "tomb"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "geometry": {
+                "coordinates": [
+                    3.761586121347552,
+                    36.10232090465717
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-10T03:43:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-09T21:38:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-09T21:30:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-09T21:30:30Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "batlas-point-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 G4 Ghorfa des Ouled Selama",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 477 see \"Ghorfa des Ouled Selama\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/295266/batlas-point-location"
         }
     ],
     "names": [],
@@ -237,7 +365,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=159&viewer=picture&o=bookmark&n=0&q=",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
             "citationDetail": "15.37",
@@ -253,7 +381,7 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PK8DFJM5",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">J.-P. Laporte. “Un Mausolée Du IV Siècle: La Ghorfa Des Ouled Selama, Près d’Auzia.” <i>Bulletin d’Archéologie Algérienne</i> 6 (76 1975): 55–59.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Laporte, J.-P. “Un Mausolée Du IV Siècle: La Ghorfa Des Ouled Selama, Près d’Auzia.” <i>Bulletin d’Archéologie Algérienne</i> 6 (76 1975): 55–59.</div>",
             "otherIdentifier": "",
             "shortTitle": "Laporte 1975",
             "type": "seeFurther"
@@ -271,8 +399,8 @@
         }
     ],
     "reprPoint": [
-        3.774913,
-        36.12011
+        3.768249560673776,
+        36.11121545232858
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

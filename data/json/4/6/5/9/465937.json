@@ -2,7 +2,10 @@
     "@type": "Place",
     "bbox": null,
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/462410",
+        "https://pleiades.stoa.org/places/462492"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -35,7 +38,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 47 unlocated Kronion",
-    "details": "The Barrington Atlas Directory notes: fortified settlement near Palermo",
+    "details": "<p>The Barrington Atlas Directory notes: fortified settlement near Palermo</p>",
     "features": [
         {
             "geometry": null,
@@ -51,6 +54,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-05-09T13:35:18Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2023-06-25T20:29:20Z",
@@ -250,10 +258,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "fortified-settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 Kronion",
     "references": [
@@ -280,14 +290,25 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/collection/btcgi",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
-            "citationDetail": "V, 468-70",
+            "citationDetail": "V, 468-70 s.v. \"Cronio\" (Giorgio Bejor)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
             "otherIdentifier": "",
             "shortTitle": "BTCGI",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc3",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N6CPV4WG",
+            "citationDetail": "15.16.3",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Diodorus. <i>Diodorus of Sicily in Twelve Volumes</i>. Edited by C. H. Oldfather, Charles L. Sherman, C. Bradford Welles, Russel M. Geer, and Francis R. Walton. 12 vols. Loeb Classical Library. Cambridge, Mass., London: Harvard Univ. Press ; W. Heinemann, 1970. http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc3.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DiodSic (Oldfather; Perseus)",
             "type": "seeFurther"
         }
     ],
