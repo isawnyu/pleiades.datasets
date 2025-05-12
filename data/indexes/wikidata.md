@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7943 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
+7951 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3284,6 +3284,13 @@
 
 ### alignments:
  - [Armaouira](https://pleiades.stoa.org/places/863745)
+
+
+## Armazi (Q1280770)
+[https://www.wikidata.org/wiki/Q1280770](https://www.wikidata.org/wiki/Q1280770)  
+
+### alignments:
+ - [Harmozike](https://pleiades.stoa.org/places/863799)
 
 
 ## Armenian Highlands (Q211263)
@@ -10535,6 +10542,13 @@
  - [D Street](https://pleiades.stoa.org/places/451190245)
 
 
+## Dablagomi (Q12863534)
+[https://www.wikidata.org/wiki/Q12863534](https://www.wikidata.org/wiki/Q12863534)  
+
+### alignments:
+ - [Dablagomi](https://pleiades.stoa.org/places/863774)
+
+
 ## Dacia (Q173082) Balkan kingdom of the Dacians (168 BC-106 AD)
 [https://www.wikidata.org/wiki/Q173082](https://www.wikidata.org/wiki/Q173082)  
 
@@ -12363,6 +12377,13 @@
 
 ### alignments:
  - [Latopolis](https://pleiades.stoa.org/places/786059)
+
+
+## Etchmiadzin Cathedral (Q1294648)
+[https://www.wikidata.org/wiki/Q1294648](https://www.wikidata.org/wiki/Q1294648)  
+
+### alignments:
+ - [Etchmiadzin Cathedral](https://pleiades.stoa.org/places/327730568)
 
 
 ## Eteonus (Q12877308)
@@ -17209,6 +17230,13 @@
 
 ### alignments:
  - [Dardania](https://pleiades.stoa.org/places/481798)
+
+
+## Kingdom of Iberia (Q19083)
+[https://www.wikidata.org/wiki/Q19083](https://www.wikidata.org/wiki/Q19083)  
+
+### alignments:
+ - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
 
 
 ## Kinnaird Head (Q31312419)
@@ -24199,11 +24227,25 @@
  - [Panopeos/Phanotis](https://pleiades.stoa.org/places/541008)
 
 
+## Panormos (Q60181639)
+[https://www.wikidata.org/wiki/Q60181639](https://www.wikidata.org/wiki/Q60181639)  
+
+### alignments:
+ - [Pan(h)ormus](https://pleiades.stoa.org/places/462410)
+
+
 ## Panormos (Q60791434)
 [https://www.wikidata.org/wiki/Q60791434](https://www.wikidata.org/wiki/Q60791434)  
 
 ### alignments:
  - [Panormos (Crete) / Aulopotamos?](https://pleiades.stoa.org/places/589974)
+
+
+## Panormos (Q7131531)
+[https://www.wikidata.org/wiki/Q7131531](https://www.wikidata.org/wiki/Q7131531)  
+
+### alignments:
+ - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
 ## Panormus (Q1507883)
@@ -29143,13 +29185,6 @@
  - [Pagus Vescinus](https://pleiades.stoa.org/places/433004)
 
 
-## Q128206: Sezze
-[https://www.wikidata.org/wiki/Q128206](https://www.wikidata.org/wiki/Q128206)  
-
-### alignments:
- - [Setia](https://pleiades.stoa.org/places/423068)
-
-
 ## Q12837: Iberian Peninsula
 [https://www.wikidata.org/wiki/Q12837](https://www.wikidata.org/wiki/Q12837)  
 
@@ -29982,6 +30017,13 @@
 
 ### alignments:
  - [Eiresidai](https://pleiades.stoa.org/places/579915)
+
+
+## Q134411309: Setia
+[https://www.wikidata.org/wiki/Q134411309](https://www.wikidata.org/wiki/Q134411309)  
+
+### alignments:
+ - [Setia](https://pleiades.stoa.org/places/423068)
 
 
 ## Q13464963: Deiradiotai
@@ -53378,6 +53420,13 @@
  - [Vagal?](https://pleiades.stoa.org/places/295369)
 
 
+## Vagharshapat (Q183394)
+[https://www.wikidata.org/wiki/Q183394](https://www.wikidata.org/wiki/Q183394)  
+
+### alignments:
+ - [Kainepolis](https://pleiades.stoa.org/places/863815)
+
+
 ## Vagniacis (Q68133414)
 [https://www.wikidata.org/wiki/Q68133414](https://www.wikidata.org/wiki/Q68133414)  
 
@@ -53930,6 +53979,13 @@
 
 ### alignments:
  - [Via Triumphalis necropolis](https://pleiades.stoa.org/places/578501279)
+
+
+## Via Valeria (Q3182204)
+[https://www.wikidata.org/wiki/Q3182204](https://www.wikidata.org/wiki/Q3182204)  
+
+### alignments:
+ - [Via Valeria](https://pleiades.stoa.org/places/863833176)
 
 
 ## Via Valeria (Q683101)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-646 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
+647 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4251,6 +4251,13 @@
 
 ### alignments:
  - [Dioscurias/Sebastopolis](https://pleiades.stoa.org/places/857107)
+
+
+## 9747868: the Land of the Camaritai
+[https://resource.manto.unh.edu/9747868](https://resource.manto.unh.edu/9747868)  
+
+### alignments:
+ - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
 
 
 ## 9747910: River Satnioeis (Troad)

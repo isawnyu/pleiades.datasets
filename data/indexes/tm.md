@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4298 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
+4299 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -28141,6 +28141,13 @@
 
 ### alignments:
  - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
+
+
+## GEO ID 61115: Panormos (Porto Palermo)
+[https://www.trismegistos.org/place/61115](https://www.trismegistos.org/place/61115)  
+
+### alignments:
+ - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
 ## Geo ID 61119

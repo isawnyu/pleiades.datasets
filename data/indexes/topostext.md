@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3699 alignments exist in _Pleiades_ place references as of 2025-05-09. The following list of alignments is grouped by zotkey.
+3700 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17825,6 +17825,13 @@
 
 ### alignments:
  - [Panormos (Crete) / Aulopotamos?](https://pleiades.stoa.org/places/589974)
+
+
+## Panormos (Epiros) 4 Porto Palermo? - Πάνορμος
+[https://topostext.org/place/401198HPan](https://topostext.org/place/401198HPan)  
+
+### alignments:
+ - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
 ## Panormos (Megarid)
