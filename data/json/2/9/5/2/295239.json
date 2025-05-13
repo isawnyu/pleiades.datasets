@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        2.836188,
-        36.13972,
-        2.836188,
-        36.13972
+        2.823424488966616,
+        36.12450067545008,
+        2.823424488966616,
+        36.12450067545008
     ],
     "connections": [],
     "connectsWith": [],
@@ -40,36 +40,46 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-09-24T21:00:03Z",
+    "created": "2025-05-09T20:02:13Z",
     "creators": [
         {
             "name": "T.W. Potter",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 30 E4 Caput Cilani?",
-    "details": "The Barrington Atlas Directory notes: Gouéa/Kherbet el Djouhala",
+    "description": "Attested in ancient sources, Caput Cilani may be identifiable with a fortified archaeological assemblage (castellum?) at a place known as Gouéa or Kherbet el Djouhala.",
+    "details": "<p>The Barrington Atlas Directory notes: Gouéa/Kherbet el Djouhala</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    2.836188,
-                    36.13972
+                    2.823424488966616,
+                    36.12450067545008
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-11900",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/295239/darmc-location-11900",
+                "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/295239/batlas-point-location",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 11900"
+                "snippet": "Settlement; 30 BC - AD 640",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": " DARMC location 11900 =related",
+            "modified": "2025-05-12T13:51:53Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; place type += settlement (fortified); added precise book reader link for AAA reference; added associated modern names @thomase",
+            "modified": "2025-05-12T13:51:06Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2025-05-09T20:02:13Z",
@@ -120,11 +130,11 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -139,90 +149,231 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:56:36Z",
+            "contributors": [],
+            "created": "2025-05-09T19:59:47Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 11900",
+            "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    2.836188,
-                    36.13972
+                    2.823424488966616,
+                    36.12450067545008
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:01:03Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:05:20Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-12T13:51:16Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T20:56:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-09T20:00:39Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:56:37Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2025-05-09T19:59:50Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T20:56:36Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-09T19:59:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-11900",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "DARMC OBJECTID: 11900",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "11900",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "30 E4 Caput Cilani?",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 11900.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 11900",
-            "uri": "https://pleiades.stoa.org/places/295239/darmc-location-11900"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/295239/batlas-point-location"
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Gouéa",
+            "contributors": [],
+            "created": "2025-05-09T20:05:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-12T13:52:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-09T20:07:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-09T20:06:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-09T20:05:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-09T20:05:51Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "gouea",
+            "language": "fr",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=149&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "14.60",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Gouéa",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/295239/gouea"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-09T20:07:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-12T13:52:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-09T20:07:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-09T20:07:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-09T20:07:04Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kherbet-el-djouhala",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=149&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "14.60",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kherbet el Djouhala",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/295239/kherbet-el-djouhala"
+        },
         {
             "@type": "Name",
             "associationCertainty": "less-certain",
@@ -308,9 +459,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fortified-settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "fortified-settlement",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 30 E4 Caput Cilani?",
@@ -327,7 +480,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=149&viewer=picture&o=bookmark&n=0&q=",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
             "citationDetail": "14.60",
@@ -358,11 +511,22 @@
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "11900",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        2.836188,
-        36.13972
+        2.823424488966616,
+        36.12450067545008
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
