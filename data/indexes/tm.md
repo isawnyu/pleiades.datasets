@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4299 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
+4303 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9575,6 +9575,13 @@
 
 ### alignments:
  - [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+
+
+## GEO ID 20624: Vahartanenses (Mechta Skaif)
+[https://www.trismegistos.org/place/20624](https://www.trismegistos.org/place/20624)  
+
+### alignments:
+ - [Vahartanenses](https://pleiades.stoa.org/places/305180)
 
 
 ## GEO ID 20625: Saltus Burunitanus
@@ -19290,6 +19297,13 @@
  - [Ad Sava Municipium](https://pleiades.stoa.org/places/305024)
 
 
+## GEO ID 40298: Ad Basilicam (Bida)
+[http://www.trismegistos.org/place/40298](http://www.trismegistos.org/place/40298)  
+
+### alignments:
+ - [Ad Basilicam](https://pleiades.stoa.org/places/311064)
+
+
 ## GEO ID 40299: Ad Ficum
 [https://www.trismegistos.org/place/40299](https://www.trismegistos.org/place/40299)  
 
@@ -20310,6 +20324,13 @@
 
 ### alignments:
  - [Carae/Caraca](https://pleiades.stoa.org/places/246289)
+
+
+## GEO ID 40964: Muslubium (Sidi Rehane)
+[https://www.trismegistos.org/place/40964](https://www.trismegistos.org/place/40964)  
+
+### alignments:
+ - [Muslubium](https://pleiades.stoa.org/places/305111)
 
 
 ## GEO ID 40965: Picus (Henchir el-Ameri)
@@ -22928,6 +22949,13 @@
 
 ### alignments:
  - [Galaxia](https://pleiades.stoa.org/places/7091375)
+
+
+## GEO ID 42358: Ruzai
+[https://www.trismegistos.org/place/42358](https://www.trismegistos.org/place/42358)  
+
+### alignments:
+ - [Ruzai](https://pleiades.stoa.org/places/835084119)
 
 
 ## GEO ID 42359: Gebalusii

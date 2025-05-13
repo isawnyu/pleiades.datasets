@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7951 alignments exist in _Pleiades_ place references as of 2025-05-12. The following list of alignments is grouped by zotkey.
+7954 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4678,6 +4678,13 @@
 
 ### alignments:
  - [Basilica of Saint-Pierre-aux-Nonnains](https://pleiades.stoa.org/places/837735181)
+
+
+## Basilica of San Francesco d'Assisi (Q207486)
+[https://www.wikidata.org/wiki/Q207486](https://www.wikidata.org/wiki/Q207486)  
+
+### alignments:
+ - [Basilica of St. Francis of Assisi ](https://pleiades.stoa.org/places/617667451)
 
 
 ## Basilica of San Vitale (Q721817)
@@ -11192,6 +11199,13 @@
 
 ### alignments:
  - [Djarkutan](https://pleiades.stoa.org/places/646531235)
+
+
+## Djemaa Saharidj (Q3032885)
+[https://www.wikidata.org/wiki/Q3032885](https://www.wikidata.org/wiki/Q3032885)  
+
+### alignments:
+ - [Bida](https://pleiades.stoa.org/places/295228)
 
 
 ## Dnieper (Q40855)
@@ -21943,6 +21957,13 @@
 
 ### alignments:
  - [Mushabbak Basilica](https://pleiades.stoa.org/places/791239360)
+
+
+## Muslubium (Q134438303)
+[https://www.wikidata.org/wiki/Q134438303](https://www.wikidata.org/wiki/Q134438303)  
+
+### alignments:
+ - [Muslubium](https://pleiades.stoa.org/places/305111)
 
 
 ## Mustafakemalpaşa River (Q2148345)
