@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4303 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
+4310 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8240,6 +8240,13 @@
  - [Timezegeri Turris?](https://pleiades.stoa.org/places/344517)
 
 
+## GEO ID 18247: Paratianis (Mechta El-Hadjar)
+[https://www.trismegistos.org/place/18247](https://www.trismegistos.org/place/18247)  
+
+### alignments:
+ - [Paratianis](https://pleiades.stoa.org/places/305128)
+
+
 ## GEO ID 18251: Thamugadi (Timgad)
 [http://www.trismegistos.org/place/18251](http://www.trismegistos.org/place/18251)  
 
@@ -8259,6 +8266,13 @@
 
 ### alignments:
  - [Gergis](https://pleiades.stoa.org/places/344372)
+
+
+## GEO ID 18296: Culucitani (Sidi bou Merouane)
+[https://www.trismegistos.org/place/18296](https://www.trismegistos.org/place/18296)  
+
+### alignments:
+ - [Culucitanis?](https://pleiades.stoa.org/places/305069)
 
 
 ## GEO ID 18310: Diana Veteranorum (Ain Zana)
@@ -9351,6 +9365,13 @@
 
 ### alignments:
  - [Auzia](https://pleiades.stoa.org/places/295221)
+
+
+## GEO ID 20384: Tacatua (Takouch)
+[https://www.trismegistos.org/place/20384](https://www.trismegistos.org/place/20384)  
+
+### alignments:
+ - [Tacatua](https://pleiades.stoa.org/places/305160)
 
 
 ## GEO ID 20390: Zarai (Zraia)
@@ -17987,11 +18008,25 @@
  - [Iberia (modern region/peninsula)](https://pleiades.stoa.org/places/540456066)
 
 
+## GEO ID 36806: Paccianis Matidiae (Merdja)
+[http://www.trismegistos.org/place/36806](http://www.trismegistos.org/place/36806)  
+
+### alignments:
+ - [Paccianis Matidiae?/Tucca?](https://pleiades.stoa.org/places/305126)
+
+
 ## GEO ID 36807: Caesariensis
 [http://www.trismegistos.org/place/36807](http://www.trismegistos.org/place/36807)  
 
 ### alignments:
  - [Mauretania Caesariensis (Roman province)](https://pleiades.stoa.org/places/981532)
+
+
+## GEO ID 36810: Sulluccu (Sidi bou Zeid)
+[https://www.trismegistos.org/place/36810](https://www.trismegistos.org/place/36810)  
+
+### alignments:
+ - [Sulluctu?](https://pleiades.stoa.org/places/305158)
 
 
 ## GEO ID 3681: Troy (Hisarlık)
@@ -21579,6 +21614,13 @@
  - [Numituriana?/Saltus Caeliae Maximae](https://pleiades.stoa.org/places/305122)
 
 
+## GEO ID 41682: Zacca (Cap de Fer)
+[www.trismegistos.org/place/41682](www.trismegistos.org/place/41682)  
+
+### alignments:
+ - [Zacca](https://pleiades.stoa.org/places/305187)
+
+
 ## GEO ID 41683: Zimises
 [https://www.trismegistos.org/place/41683](https://www.trismegistos.org/place/41683)  
 
@@ -21654,6 +21696,13 @@
 
 ### alignments:
  - [Modolana](https://pleiades.stoa.org/places/311123)
+
+
+## GEO ID 41699: Muharur
+[www.trismegistos.org/place/41699](www.trismegistos.org/place/41699)  
+
+### alignments:
+ - [Muharur](https://pleiades.stoa.org/places/311124)
 
 
 ## GEO ID 41700: Nedibus

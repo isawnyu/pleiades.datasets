@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2072 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
+2078 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3982,6 +3982,13 @@
  - [Rusicade/Thapsus](https://pleiades.stoa.org/places/305137)
 
 
+## 2C3 (Talbert 31)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace31.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace31.html)  
+
+### alignments:
+ - [Paratianis](https://pleiades.stoa.org/places/305128)
+
+
 ## 2C3 (Talbert 41)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace41.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace41.html)  
 
@@ -4029,6 +4036,13 @@
 
 ### alignments:
  - [Galata (island)](https://pleiades.stoa.org/places/314961)
+
+
+## 2C4 (Talbert 32)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace32.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace32.html)  
+
+### alignments:
+ - [Culucitanis?](https://pleiades.stoa.org/places/305069)
 
 
 ## 2C4 (Talbert 38)
@@ -4113,6 +4127,13 @@
 
 ### alignments:
  - [Bobenia (island)](https://pleiades.stoa.org/places/474905)
+
+
+## 2C5 (Talbert 33)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace33.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace33.html)  
+
+### alignments:
+ - [Zacca](https://pleiades.stoa.org/places/305187)
 
 
 ## 2C5 (Talbert 3520)
@@ -5467,6 +5488,20 @@
  - [Cuniculariae (islands)](https://pleiades.stoa.org/places/471909)
 
 
+## 3C1 (Talbert 34)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace34.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace34.html)  
+
+### alignments:
+ - [Muharur](https://pleiades.stoa.org/places/311124)
+
+
+## 3C1 (Talbert 35)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace35.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace35.html)  
+
+### alignments:
+ - [Tacatua](https://pleiades.stoa.org/places/305160)
+
+
 ## 3C1 (Talbert 3522)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3522.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3522.html)  
 
@@ -5549,6 +5584,13 @@
 
 ### alignments:
  - [Magri](https://pleiades.stoa.org/places/311118)
+
+
+## 3C2 (Talbert 36)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace36.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace36.html)  
+
+### alignments:
+ - [Sulluctu?](https://pleiades.stoa.org/places/305158)
 
 
 ## 3C2 (Talbert 37)

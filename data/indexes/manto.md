@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-647 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
+649 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2135,6 +2135,20 @@
 
 ### alignments:
  - [Heraia (mountain)](https://pleiades.stoa.org/places/462238)
+
+
+## 11304376: the Tomb of Antaios (Libya)
+[https://resource.manto.unh.edu/11304376](https://resource.manto.unh.edu/11304376)  
+
+### alignments:
+ - [Tomb of Antaios (Libya)](https://pleiades.stoa.org/places/334110567)
+
+
+## 11304491: Tingi (N. Africa)
+[https://resource.manto.unh.edu/11304491](https://resource.manto.unh.edu/11304491)  
+
+### alignments:
+ - [Tingi](https://pleiades.stoa.org/places/275736)
 
 
 ## 11304521: Misenum (Italy)

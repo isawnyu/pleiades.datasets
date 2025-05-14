@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7954 alignments exist in _Pleiades_ place references as of 2025-05-13. The following list of alignments is grouped by zotkey.
+7961 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7011,6 +7011,13 @@
 
 ### alignments:
  - [Canusium](https://pleiades.stoa.org/places/442525)
+
+
+## Cap Bougaroun (Q2937007)
+[https://www.wikidata.org/wiki/Q2937007](https://www.wikidata.org/wiki/Q2937007)  
+
+### alignments:
+ - [Metagonium (promontory)](https://pleiades.stoa.org/places/305108)
 
 
 ## Cap de Cervera (Q25422882)
@@ -15024,6 +15031,13 @@
 
 ### alignments:
  - [Himera](https://pleiades.stoa.org/places/462244)
+
+
+## Hippo Regius (Q858024)
+[https://www.wikidata.org/wiki/Q858024](https://www.wikidata.org/wiki/Q858024)  
+
+### alignments:
+ - [Hippo Regius](https://pleiades.stoa.org/places/305090)
 
 
 ## Hippodrome of Constantinople (Q387548)
@@ -46187,6 +46201,20 @@
  - [Ruspina](https://pleiades.stoa.org/places/324803)
 
 
+## Russicada (Q7382340)
+[https://www.wikidata.org/wiki/Q7382340](https://www.wikidata.org/wiki/Q7382340)  
+
+### alignments:
+ - [Rusicade/Thapsus](https://pleiades.stoa.org/places/305137)
+
+
+## Rusuccuru (Q15843385)
+[https://www.wikidata.org/wiki/Q15843385](https://www.wikidata.org/wiki/Q15843385)  
+
+### alignments:
+ - [Rusuccuru](https://pleiades.stoa.org/places/295334)
+
+
 ## Ruthin Roman fort (Q64698786)
 [https://www.wikidata.org/wiki/Q64698786](https://www.wikidata.org/wiki/Q64698786)  
 
@@ -49241,6 +49269,13 @@
  - [Tabālu (region)](https://pleiades.stoa.org/places/129678075)
 
 
+## Tabarka (Q986213)
+[https://www.wikidata.org/wiki/Q986213](https://www.wikidata.org/wiki/Q986213)  
+
+### alignments:
+ - [Thabraca](https://pleiades.stoa.org/places/315192)
+
+
 ## Tabenna (Q2478752)
 [https://www.wikidata.org/wiki/Q2478752](https://www.wikidata.org/wiki/Q2478752)  
 
@@ -51339,6 +51374,13 @@
 
 ### alignments:
  - [Isola del Tinetto](https://pleiades.stoa.org/places/403226)
+
+
+## Tingi (Q25247360)
+[https://www.wikidata.org/wiki/Q25247360](https://www.wikidata.org/wiki/Q25247360)  
+
+### alignments:
+ - [Tingi](https://pleiades.stoa.org/places/275736)
 
 
 ## Tino (Q660758)
@@ -54714,6 +54756,13 @@
 
 ### alignments:
  - [Vacalus/Vahalis (river)](https://pleiades.stoa.org/places/109407)
+
+
+## Wadi al-Kabir, Tunisia (Q132173974)
+[https://www.wikidata.org/wiki/Q132173974](https://www.wikidata.org/wiki/Q132173974)  
+
+### alignments:
+ - [Tusca (river)](https://pleiades.stoa.org/places/315238)
 
 
 ## Wadi al-Qura (Q22690572)
