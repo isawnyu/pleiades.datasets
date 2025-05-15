@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4310 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
+4312 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -16006,6 +16006,13 @@
  - [Luca](https://pleiades.stoa.org/places/403234)
 
 
+## GEO ID 33080: Leucopetra (Lazzàro)
+[https://www.trismegistos.org/place/33080](https://www.trismegistos.org/place/33080)  
+
+### alignments:
+ - [Leucopetra](https://pleiades.stoa.org/places/452365)
+
+
 ## GEO ID 33081: Lokroi Epizephyrioi (Locri)
 [http://www.trismegistos.org/place/33081](http://www.trismegistos.org/place/33081)  
 
@@ -22424,6 +22431,13 @@
 
 ### alignments:
  - [Pisandes](https://pleiades.stoa.org/places/446281)
+
+
+## GEO ID 41938: Columna
+[https://www.trismegistos.org/place/41938](https://www.trismegistos.org/place/41938)  
+
+### alignments:
+ - [Ad Columnam](https://pleiades.stoa.org/places/452250)
 
 
 ## GEO ID 41939: Anausaro

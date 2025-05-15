@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-649 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
+650 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3187,6 +3187,13 @@
 
 ### alignments:
  - [Anthemous (river)](https://pleiades.stoa.org/places/491522)
+
+
+## 8254006: Rhegion (Italy)
+[https://resource.manto.unh.edu/8254006](https://resource.manto.unh.edu/8254006)  
+
+### alignments:
+ - [Rhegion/Regium](https://pleiades.stoa.org/places/452416)
 
 
 ## 8254007: Sicily (island)

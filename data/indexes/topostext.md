@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3700 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
+3701 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6082,6 +6082,13 @@
 
 ### alignments:
  - [Column of Marcus Aurelius](https://pleiades.stoa.org/places/952198991)
+
+
+## Columna (Magna Graecia) 15 Villa San Giovanni - Στυλίδα
+[https://topostext.org/place/382156UCol](https://topostext.org/place/382156UCol)  
+
+### alignments:
+ - [Ad Columnam](https://pleiades.stoa.org/places/452250)
 
 
 ## Comana (Cappadocia)

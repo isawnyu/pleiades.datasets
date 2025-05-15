@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7961 alignments exist in _Pleiades_ place references as of 2025-05-14. The following list of alignments is grouped by zotkey.
+7970 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5367,6 +5367,13 @@
  - [Bilzingsleben](https://pleiades.stoa.org/places/118598)
 
 
+## Bindon Hill (Q4914040)
+[https://www.wikidata.org/wiki/Q4914040](https://www.wikidata.org/wiki/Q4914040)  
+
+### alignments:
+ - [Bindon Hill](https://pleiades.stoa.org/places/689737512)
+
+
 ## Bingöl Dağları (Q15856901)
 [https://www.wikidata.org/wiki/Q15856901](https://www.wikidata.org/wiki/Q15856901)  
 
@@ -9891,6 +9898,13 @@
  - [Columbarium, Via del Casale Ferranti](https://pleiades.stoa.org/places/782218546)
 
 
+## Columbrete Grande (Q3330191)
+[https://www.wikidata.org/wiki/Q3330191](https://www.wikidata.org/wiki/Q3330191)  
+
+### alignments:
+ - [Colubraria? (island)](https://pleiades.stoa.org/places/265874)
+
+
 ## Column of Marcus Aurelius (Q265384)
 [https://www.wikidata.org/wiki/Q265384](https://www.wikidata.org/wiki/Q265384)  
 
@@ -9994,6 +10008,13 @@
 
 ### alignments:
  - [Komphloenta](https://pleiades.stoa.org/places/240938)
+
+
+## Constantiana Daphne (Q5163686)
+[https://www.wikidata.org/wiki/Q5163686](https://www.wikidata.org/wiki/Q5163686)  
+
+### alignments:
+ - [Constantiana Daphne](https://pleiades.stoa.org/places/222036)
 
 
 ## Contenebra (Q3688820)
@@ -14312,6 +14333,13 @@
  - [Gyaros (island)](https://pleiades.stoa.org/places/589797)
 
 
+## Gymnasion of Olympia (Q25461278)
+[https://www.wikidata.org/wiki/Q25461278](https://www.wikidata.org/wiki/Q25461278)  
+
+### alignments:
+ - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
+
+
 ## Gymnasium (Q17631557)
 [https://www.wikidata.org/wiki/Q17631557](https://www.wikidata.org/wiki/Q17631557)  
 
@@ -14443,6 +14471,13 @@
 
 ### alignments:
  - [Halai Araphenides](https://pleiades.stoa.org/places/579940)
+
+
+## Halex (Q21095130)
+[https://www.wikidata.org/wiki/Q21095130](https://www.wikidata.org/wiki/Q21095130)  
+
+### alignments:
+ - [Halex? (river)](https://pleiades.stoa.org/places/452331)
 
 
 ## Halimous (Q13464895)
@@ -24050,6 +24085,13 @@
 
 ### alignments:
  - [Palaipharsalos](https://pleiades.stoa.org/places/541004)
+
+
+## Palaestra at Olympia (Q7126543)
+[https://www.wikidata.org/wiki/Q7126543](https://www.wikidata.org/wiki/Q7126543)  
+
+### alignments:
+ - [Palaestra at Olympia](https://pleiades.stoa.org/places/582667283)
 
 
 ## Palaiokastro of Kastelorizo (Q38281486)
@@ -44639,6 +44681,13 @@
  - [Rhandeia](https://pleiades.stoa.org/places/876687)
 
 
+## Rhegion (Q3429952)
+[https://www.wikidata.org/wiki/Q3429952](https://www.wikidata.org/wiki/Q3429952)  
+
+### alignments:
+ - [Rhegion/Regium](https://pleiades.stoa.org/places/452416)
+
+
 ## Rhesaena (Q111536866)
 [https://www.wikidata.org/wiki/Q111536866](https://www.wikidata.org/wiki/Q111536866)  
 
@@ -46906,6 +46955,13 @@
 
 ### alignments:
  - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
+
+
+## Sanctuary of Poseidon and Amphitrite in Kionia (Q22681616)
+[https://www.wikidata.org/wiki/Q22681616](https://www.wikidata.org/wiki/Q22681616)  
+
+### alignments:
+ - [Temple of Poseidon and Amphitrite on Tenos](https://pleiades.stoa.org/places/590006)
 
 
 ## Sanctuary of Poseidon at Kalaureia (Q38281326)
@@ -51850,6 +51906,13 @@
 
 ### alignments:
  - [Tombs of the Buccii and Melissaei](https://pleiades.stoa.org/places/844519765)
+
+
+## Tombs of the Kings (Q1796353)
+[https://www.wikidata.org/wiki/Q1796353](https://www.wikidata.org/wiki/Q1796353)  
+
+### alignments:
+ - [Tombs of the Kings](https://pleiades.stoa.org/places/848646653)
 
 
 ## Tomen y Mur (Q12071213)
