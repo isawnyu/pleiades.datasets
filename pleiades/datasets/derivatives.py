@@ -128,7 +128,7 @@ class JSON2CSV:
             "precise"
             in set([f["properties"]["location_precision"] for f in x["features"]])
         ],
-        hull=lambda x, y: _place_convex_hull(x),
+        # hull=lambda x, y: _place_convex_hull(x), reduce file size
         accuracy_hull=lambda x, y: _place_convex_hull(x, buffer=True),
         max_accuracy_meters=lambda x, y: max(_place_accuracies(x)),
         min_accuracy_meters=lambda x, y: min(_place_accuracies(x)),
