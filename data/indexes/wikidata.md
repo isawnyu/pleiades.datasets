@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7970 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
+7977 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1954,6 +1954,13 @@
 
 ### alignments:
  - [Ancient Egypt (region)](https://pleiades.stoa.org/places/981503)
+
+
+## ancient fortress and settlement Transmarisca (Q64630093)
+[https://www.wikidata.org/wiki/Q64630093](https://www.wikidata.org/wiki/Q64630093)  
+
+### alignments:
+ - [Transmarisca](https://pleiades.stoa.org/places/217021)
 
 
 ## Ancient fortress Trimammium (Q64630083)
@@ -6114,6 +6121,13 @@
 
 ### alignments:
  - [‘Cicutio’](https://pleiades.stoa.org/places/79389)
+
+
+## Bregenz (Samian Ware Discovery Site) (Q103154452)
+[https://www.wikidata.org/wiki/Q103154452](https://www.wikidata.org/wiki/Q103154452)  
+
+### alignments:
+ - [Brigantium](https://pleiades.stoa.org/places/187325)
 
 
 ## Bremenium (Q4960549)
@@ -19753,6 +19767,13 @@
  - [Mansfield Woodhouse](https://pleiades.stoa.org/places/79593)
 
 
+## Mantala (Q21556423)
+[https://www.wikidata.org/wiki/Q21556423](https://www.wikidata.org/wiki/Q21556423)  
+
+### alignments:
+ - [Mantala](https://pleiades.stoa.org/places/167822)
+
+
 ## Manthai (Q15245625)
 [https://www.wikidata.org/wiki/Q15245625](https://www.wikidata.org/wiki/Q15245625)  
 
@@ -23987,6 +24008,13 @@
 
 ### alignments:
  - [Ovidis (river)](https://pleiades.stoa.org/places/148150)
+
+
+## Ovilava (Q134386057)
+[https://www.wikidata.org/wiki/Q134386057](https://www.wikidata.org/wiki/Q134386057)  
+
+### alignments:
+ - [Ovilava](https://pleiades.stoa.org/places/118901)
 
 
 ## Oxeia (Q1625898)
@@ -52118,6 +52146,13 @@
  - [Torthyneion](https://pleiades.stoa.org/places/570742)
 
 
+## Tortona (Q17686)
+[https://www.wikidata.org/wiki/Q17686](https://www.wikidata.org/wiki/Q17686)  
+
+### alignments:
+ - [Dertona](https://pleiades.stoa.org/places/383633)
+
+
 ## Torybeia (Q7827500)
 [https://www.wikidata.org/wiki/Q7827500](https://www.wikidata.org/wiki/Q7827500)  
 
@@ -54149,6 +54184,13 @@
  - [Vicus Africus](https://pleiades.stoa.org/places/462391209)
 
 
+## Vicus Augustanus Laurentium (Q108041042)
+[https://www.wikidata.org/wiki/Q108041042](https://www.wikidata.org/wiki/Q108041042)  
+
+### alignments:
+ - [Vicus Augustanus Laurentium?](https://pleiades.stoa.org/places/423121)
+
+
 ## Vicus Matrini (Q24933804)
 [https://www.wikidata.org/wiki/Q24933804](https://www.wikidata.org/wiki/Q24933804)  
 
@@ -54665,6 +54707,13 @@
 
 ### alignments:
  - [Vivisco](https://pleiades.stoa.org/places/177663)
+
+
+## Vize (Q364021)
+[https://www.wikidata.org/wiki/Q364021](https://www.wikidata.org/wiki/Q364021)  
+
+### alignments:
+ - [Bizye](https://pleiades.stoa.org/places/511190)
 
 
 ## Vlatadon Monastery (Q962846)

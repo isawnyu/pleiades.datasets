@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4312 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
+4322 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9962,6 +9962,13 @@
  - [Sphettos](https://pleiades.stoa.org/places/580109)
 
 
+## GEO ID 21873: Mantala (Saint-Pierre-d'Albigny)
+[https://www.trismegistos.org/place/21873](https://www.trismegistos.org/place/21873)  
+
+### alignments:
+ - [Mantala](https://pleiades.stoa.org/places/167822)
+
+
 ## GEO ID 21891: Cessero (Saint-Thibéry)
 [http://www.trismegistos.org/place/21891](http://www.trismegistos.org/place/21891)  
 
@@ -12778,6 +12785,20 @@
  - [Ad Fines](https://pleiades.stoa.org/places/187249)
 
 
+## GEO ID 28257: Brigantium (Bregenz)
+[http://www.trismegistos.org/place/28257](http://www.trismegistos.org/place/28257)  
+
+### alignments:
+ - [Brigantium](https://pleiades.stoa.org/places/187325)
+
+
+## GEO ID 28261: Ovilava (Wels)
+[https://www.trismegistos.org/place/28261](https://www.trismegistos.org/place/28261)  
+
+### alignments:
+ - [Ovilava](https://pleiades.stoa.org/places/118901)
+
+
 ## GEO ID 28274: Teriolis (Zirl)
 [https://www.trismegistos.org/place/28274](https://www.trismegistos.org/place/28274)  
 
@@ -14260,6 +14281,13 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
+
+
+## GEO ID 31749: Dertona (Tortona)
+[http://www.trismegistos.org/place/31749](http://www.trismegistos.org/place/31749)  
+
+### alignments:
+ - [Dertona](https://pleiades.stoa.org/places/383633)
 
 
 ## GEO ID 3174: Pannonia
@@ -20571,6 +20599,13 @@
  - [Petrensibus/Ptrensibus](https://pleiades.stoa.org/places/123109)
 
 
+## GEO ID 41063: Ad Rhenum (Sankt Margrethen)
+[https://www.trismegistos.org/place/41063](https://www.trismegistos.org/place/41063)  
+
+### alignments:
+ - [Ad Rhenum](https://pleiades.stoa.org/places/187256)
+
+
 ## GEO ID 41070: Lapidaria (Reischen)
 [https://www.trismegistos.org/place/41070](https://www.trismegistos.org/place/41070)  
 
@@ -21220,6 +21255,13 @@
 
 ### alignments:
  - [Seramisa](https://pleiades.stoa.org/places/857313)
+
+
+## GEO ID 41404: Cilca Novum (Nurhak)
+[http://www.trismegistos.org/place/41404](http://www.trismegistos.org/place/41404)  
+
+### alignments:
+ - [Cilca Novum](https://pleiades.stoa.org/places/658439)
 
 
 ## GEO ID 41405: Kongoustos (Altınekin)
@@ -22391,6 +22433,13 @@
  - [Auxanum](https://pleiades.stoa.org/places/442489)
 
 
+## GEO ID 41860: Mons Balabo
+[https://www.trismegistos.org/place/41860](https://www.trismegistos.org/place/41860)  
+
+### alignments:
+ - [Balabo (mountain)](https://pleiades.stoa.org/places/442493)
+
+
 ## GEO ID 41861: Gereonium (Gerione)
 [http://www.trismegistos.org/place/41861](http://www.trismegistos.org/place/41861)  
 
@@ -22627,6 +22676,20 @@
 
 ### alignments:
  - [Tetrapyrgia/Tetra](https://pleiades.stoa.org/places/652374)
+
+
+## GEO ID 42034
+[http://www.trismegistos.org/place/42034](http://www.trismegistos.org/place/42034)  
+
+### alignments:
+ - [Arianodum](https://pleiades.stoa.org/places/658387)
+
+
+## GEO ID 42039: Nastae
+[http://www.trismegistos.org/place/42039](http://www.trismegistos.org/place/42039)  
+
+### alignments:
+ - [Nastae](https://pleiades.stoa.org/places/658543)
 
 
 ## GEO ID 42041: Ourima (Horum Hüyük)
@@ -28680,6 +28743,13 @@
 
 ### alignments:
  - [Teredon/Diridotis](https://pleiades.stoa.org/places/915902)
+
+
+## GEO ID 65668: Catharrei
+[https://www.trismegistos.org/place/65668](https://www.trismegistos.org/place/65668)  
+
+### alignments:
+ - [Catharrei/Cataraei](https://pleiades.stoa.org/places/932444)
 
 
 ## GEO ID 658: Eresos

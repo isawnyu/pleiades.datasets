@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2079 alignments exist in _Pleiades_ place references as of 2025-05-15. The following list of alignments is grouped by zotkey.
+2087 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -258,6 +258,20 @@
 
 ### alignments:
  - [Vereuso?](https://pleiades.stoa.org/places/629102)
+
+
+## 10B1 (Talbert 2557)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2557.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2557.html)  
+
+### alignments:
+ - [Arianodum](https://pleiades.stoa.org/places/658387)
+
+
+## 10B1 (Talbert 2558)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2558.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2558.html)  
+
+### alignments:
+ - [Nastae](https://pleiades.stoa.org/places/658543)
 
 
 ## 10B1 (Talbert 2559)
@@ -3324,6 +3338,20 @@
  - [Arbor Felix](https://pleiades.stoa.org/places/187292)
 
 
+## 2A5 (Talbert 996)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace996.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace996.html)  
+
+### alignments:
+ - [Brigantium](https://pleiades.stoa.org/places/187325)
+
+
+## 2A5 (Talbert 997)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace997.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace997.html)  
+
+### alignments:
+ - [Ad Rhenum](https://pleiades.stoa.org/places/187256)
+
+
 ## 2A5-2B5 (Talbert 3311)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3311.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3311.html)  
 
@@ -3448,6 +3476,13 @@
 
 ### alignments:
  - [Condate](https://pleiades.stoa.org/places/167723)
+
+
+## 2B1 (Talbert 961)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace961.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace961.html)  
+
+### alignments:
+ - [Mantala](https://pleiades.stoa.org/places/167822)
 
 
 ## 2B2 (Talbert 2884)
@@ -8723,6 +8758,13 @@
  - [Pisandes](https://pleiades.stoa.org/places/446281)
 
 
+## 5B5 (Talbert 1354)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1354.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1354.html)  
+
+### alignments:
+ - [Lucos](https://pleiades.stoa.org/places/446262)
+
+
 ## 5B5 (Talbert 1355)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1355.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1355.html)  
 
@@ -8791,6 +8833,13 @@
 
 ### alignments:
  - [Salernum](https://pleiades.stoa.org/places/433075)
+
+
+## 5B5 (Talbert 1365)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1365.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1365.html)  
+
+### alignments:
+ - [Balabo (mountain)](https://pleiades.stoa.org/places/442493)
 
 
 ## 5B5 (Talbert 1366)
@@ -14071,6 +14120,13 @@
 
 ### alignments:
  - [Coele Syria](https://pleiades.stoa.org/places/678096)
+
+
+## 9B5 (Talbert 2314)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2314.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2314.html)  
+
+### alignments:
+ - [Cilca Novum](https://pleiades.stoa.org/places/658439)
 
 
 ## 9B5 (Talbert 2376)
