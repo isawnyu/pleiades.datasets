@@ -10,14 +10,88 @@ Code for making derivatives from JSON
 """
 from bs4 import BeautifulSoup, Tag
 import csv
+from haversine import inverse_haversine, Direction
 import logging
 from pathlib import Path
 from pprint import pformat
 import requests_cache
+from shapely import distance, GeometryCollection, Point, simplify
 from shapely.geometry import shape, box
 import sys
 from textnorm import normalize_space
 import traceback
+
+
+def dd_for_meters(orig_lon, orig_lat, meters):
+    """
+    Given a latitude and longitude in decimal degrees, return maximum distance
+    in degrees to a point in any cardinal direction that is that many meters away.
+    """
+    orig_point = Point(orig_lon, orig_lat)
+    disances_dd = [
+        distance(orig_point, Point(lon, lat))
+        for lat, lon in [
+            inverse_haversine((orig_lat, orig_lon), meters / 1000.0, d)
+            for d in [Direction.EAST, Direction.NORTH, Direction.WEST, Direction.SOUTH]
+        ]
+    ]
+    return max(disances_dd)
+
+
+def _place_accuracies(place_source: dict, *args):
+    """
+    Given a place, return the maximum and minimum accuracy of its locations
+    """
+    accuracies = {
+        loc["accuracy_value"]
+        for loc in place_source["locations"]
+        if loc["accuracy_value"] not in [None, "", 0]
+        and loc["accuracy"] not in [None, ""]
+        and isinstance(loc["accuracy_value"], float)
+    }
+    if len(accuracies) == 0:
+        return [-1]
+    return list(accuracies)
+
+
+def _place_convex_hull(place_source: dict, buffer=False, *args):
+    """
+    Given a place, return the concave hull of its locations
+    """
+    precise_location_ids = [
+        f["id"]
+        for f in place_source["features"]
+        if f["properties"]["location_precision"] == "precise"
+    ]
+    if len(precise_location_ids) == 0:
+        return ""
+
+    precise_locations = {
+        loc["id"]: loc
+        for loc in place_source["locations"]
+        if loc["id"] in precise_location_ids
+        and loc["accuracy_value"] not in [None, ""]
+        and loc["accuracy"] not in [None, ""]
+    }
+    if len(precise_locations) == 0:
+        return ""
+
+    for loc in precise_locations.values():
+        loc["shape"] = shape(loc["geometry"])
+        loc["accuracy_dd"] = dd_for_meters(
+            *reversed(list(loc["shape"].centroid.coords[0])), loc["accuracy_value"]
+        )
+        if buffer:
+            loc["buffered"] = loc["shape"].convex_hull.buffer(
+                loc["accuracy_dd"]
+            )  # using simplify then convex hull to avoid cost of buffering complex geometries
+            loc["convex_hull"] = loc["buffered"].convex_hull
+        else:
+            loc["convex_hull"] = loc["shape"].convex_hull
+
+    gc = GeometryCollection([loc["convex_hull"] for loc in precise_locations.values()])
+
+    return gc.convex_hull.wkt
 
 
 class JSON2CSV:
@@ -45,6 +119,43 @@ class JSON2CSV:
         ],
     )
     place_keys = list(place_schema.keys())
+
+    place_accuracy_schema = dict(
+        place_id=lambda x, y: x["id"],
+        title=lambda x, y: x["title"],
+        uri=lambda x, y: x["uri"],
+        location_precision=lambda x, y: ["rough", "precise"][
+            "precise"
+            in set([f["properties"]["location_precision"] for f in x["features"]])
+        ],
+        hull=lambda x, y: _place_convex_hull(x),
+        accuracy_hull=lambda x, y: _place_convex_hull(x, buffer=True),
+        max_accuracy_meters=lambda x, y: max(_place_accuracies(x)),
+        min_accuracy_meters=lambda x, y: min(_place_accuracies(x)),
+        accuracy_bases=lambda x, y: ",".join(
+            sorted(
+                list(
+                    {
+                        loc["accuracy"].split("/")[-1]
+                        for loc in x["locations"]
+                        if loc["accuracy"] is not None
+                    }
+                )
+            )
+        ),
+        location_types=lambda x, y: ",".join(
+            sorted(
+                list(
+                    {
+                        item
+                        for sublist in [loc["locationType"] for loc in x["locations"]]
+                        for item in sublist
+                    }
+                )
+            )
+        ),
+    )
+    place_accuracy_keys = list(place_accuracy_schema.keys())
 
     location_schema = common_schema.copy()
     location_schema.update(
@@ -125,6 +236,7 @@ class JSON2CSV:
             "place_types",
             "places_place_types",
             "places",
+            "places_accuracy",
             "time_periods",
             "transcription_accuracy",
             "transcription_completeness",
@@ -341,6 +453,11 @@ class JSON2CSV:
         filename = "places.csv"
         self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
 
+    def _write_places_accuracy_csv(self, source_places: list, dirpath: Path):
+        ready_places = [self._convert_place_accuracy(p) for p in source_places]
+        filename = "places_accuracy.csv"
+        self._write_csv(dirpath / filename, ready_places[0].keys(), ready_places)
+
     def _write_name_types_csv(self, source_places: list, dirpath: Path):
         parsed_terms = self._parse_vocab("name-types")
         filename = "name_types.csv"
@@ -443,6 +560,30 @@ class JSON2CSV:
         for k in self.place_keys:
             try:
                 result[k] = self.place_schema[k](place_source, None) or ""
+            except TypeError as err:
+                msg = str(err)
+                if msg in [
+                    "'NoneType' object is not subscriptable",
+                    "shapely.geometry.geo.box() argument after * must be an iterable, not NoneType",
+                ]:
+                    result[k] = ""
+                else:
+                    exc_type, exc_value, exc_traceback = sys.exc_info()
+                    self.logger.error(
+                        f"Error converting place {place_source['id']}, field key {k}:\n"
+                        + "".join(
+                            traceback.format_exception(
+                                exc_type, exc_value, exc_traceback, limit=3
+                            )
+                        )
+                    )
+        return result
+
+    def _convert_place_accuracy(self, place_source: dict, *args):
+        result = dict()
+        for k in self.place_accuracy_keys:
+            try:
+                result[k] = self.place_accuracy_schema[k](place_source, None) or ""
             except TypeError as err:
                 msg = str(err)
                 if msg in [

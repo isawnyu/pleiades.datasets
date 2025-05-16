@@ -22,6 +22,7 @@ setuptools.setup(
         "airtight",
         "beautifulsoup4",
         "encoded_csv",
+        "haversine",
         "lxml",
         "python-dateutil",
         "requests",
