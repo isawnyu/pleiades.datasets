@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7977 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
+7989 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -610,6 +610,13 @@
 
 ### alignments:
  - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
+
+
+## Aesepus Bridge (Q409720)
+[https://www.wikidata.org/wiki/Q409720](https://www.wikidata.org/wiki/Q409720)  
+
+### alignments:
+ - [Unnamed Bridge near Memnonis Vicus](https://pleiades.stoa.org/places/512650)
 
 
 ## Aethiopia (Q410453)
@@ -6922,6 +6929,13 @@
  - [Camp Wall](https://pleiades.stoa.org/places/451190406)
 
 
+## Campae (Q85750335)
+[https://www.wikidata.org/wiki/Q85750335](https://www.wikidata.org/wiki/Q85750335)  
+
+### alignments:
+ - [Kampai?](https://pleiades.stoa.org/places/619178)
+
+
 ## Campament romà de Son Espases (Q95900928)
 [https://www.wikidata.org/wiki/Q95900928](https://www.wikidata.org/wiki/Q95900928)  
 
@@ -9854,6 +9868,13 @@
 
 ### alignments:
  - [Kolonos Agoraios](https://pleiades.stoa.org/places/146086514)
+
+
+## Colopene (Q5148524)
+[https://www.wikidata.org/wiki/Q5148524](https://www.wikidata.org/wiki/Q5148524)  
+
+### alignments:
+ - [Kouloupene (region)](https://pleiades.stoa.org/places/629019)
 
 
 ## Colossae (Q1001370)
@@ -17043,6 +17064,13 @@
  - [Kaymakçı](https://pleiades.stoa.org/places/886756147)
 
 
+## Kayseri (Q48338)
+[https://www.wikidata.org/wiki/Q48338](https://www.wikidata.org/wiki/Q48338)  
+
+### alignments:
+ - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
+
+
 ## Kazane Höyük (Q6097573)
 [https://www.wikidata.org/wiki/Q6097573](https://www.wikidata.org/wiki/Q6097573)  
 
@@ -18442,6 +18470,20 @@
 
 ### alignments:
  - [Lato](https://pleiades.stoa.org/places/589899)
+
+
+## Lato pros Kamara (Q6496895)
+[https://www.wikidata.org/wiki/Q6496895](https://www.wikidata.org/wiki/Q6496895)  
+
+### alignments:
+ - [Lato pros Kamara](https://pleiades.stoa.org/places/589900)
+
+
+## Lattara (Q1806812)
+[https://www.wikidata.org/wiki/Q1806812](https://www.wikidata.org/wiki/Q1806812)  
+
+### alignments:
+ - [Lattara](https://pleiades.stoa.org/places/148107)
 
 
 ## Laurium (Q2089258)
@@ -22713,6 +22755,13 @@
 
 ### alignments:
  - [Monument of Kallimachos](https://pleiades.stoa.org/places/920967112)
+
+
+## Niksar (Q513980)
+[https://www.wikidata.org/wiki/Q513980](https://www.wikidata.org/wiki/Q513980)  
+
+### alignments:
+ - [Kabeira/Neocaesarea/Diospolis/Sebaste/Hadriane](https://pleiades.stoa.org/places/857177)
 
 
 ## Nile Delta (Q179528)
@@ -46488,6 +46537,13 @@
  - [Sangarius (river)](https://pleiades.stoa.org/places/511406)
 
 
+## Salamboreia (Q85799236)
+[https://www.wikidata.org/wiki/Q85799236](https://www.wikidata.org/wiki/Q85799236)  
+
+### alignments:
+ - [Salambriai/Salaberina](https://pleiades.stoa.org/places/619252)
+
+
 ## Salamis (Q767089)
 [https://www.wikidata.org/wiki/Q767089](https://www.wikidata.org/wiki/Q767089)  
 
@@ -48071,6 +48127,13 @@
  - [Tetricus (mountains)](https://pleiades.stoa.org/places/413336)
 
 
+## Sibora (Q85801071)
+[https://www.wikidata.org/wiki/Q85801071](https://www.wikidata.org/wiki/Q85801071)  
+
+### alignments:
+ - [Sibora/Foroba?](https://pleiades.stoa.org/places/629079)
+
+
 ## Sicani (Q952123)
 [https://www.wikidata.org/wiki/Q952123](https://www.wikidata.org/wiki/Q952123)  
 
@@ -48384,6 +48447,13 @@
 
 ### alignments:
  - [Sitones?](https://pleiades.stoa.org/places/20604)
+
+
+## Sivas (Q107401)
+[https://www.wikidata.org/wiki/Q107401](https://www.wikidata.org/wiki/Q107401)  
+
+### alignments:
+ - [Sebasteia/Megalopolis?/Talaura?](https://pleiades.stoa.org/places/629075)
 
 
 ## Skala Roman villa (Q56240191)
@@ -52727,6 +52797,13 @@
  - [Triumphal Arch of Orange](https://pleiades.stoa.org/places/413823808)
 
 
+## Trocmi (Q2395658)
+[https://www.wikidata.org/wiki/Q2395658](https://www.wikidata.org/wiki/Q2395658)  
+
+### alignments:
+ - [Trokmoi](https://pleiades.stoa.org/places/619275)
+
+
 ## Troezen (Q581494)
 [https://www.wikidata.org/wiki/Q581494](https://www.wikidata.org/wiki/Q581494)  
 
@@ -53271,6 +53348,13 @@
 
 ### alignments:
  - [Caermote Roman fort](https://pleiades.stoa.org/places/452125610)
+
+
+## Tylis (Q1286814)
+[https://www.wikidata.org/wiki/Q1286814](https://www.wikidata.org/wiki/Q1286814)  
+
+### alignments:
+ - [Tylis](https://pleiades.stoa.org/places/217030)
 
 
 ## Tylissus (Q38280988)

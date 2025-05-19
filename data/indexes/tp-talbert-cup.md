@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2087 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
+2097 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -10495,6 +10495,13 @@
  - [Olympias/Gonnocondylus](https://pleiades.stoa.org/places/540982)
 
 
+## 6B5 (Talbert 1867)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1867.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1867.html)  
+
+### alignments:
+ - [Tempe](https://pleiades.stoa.org/places/541131)
+
+
 ## 6B5 (Talbert 1870)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1870.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1870.html)  
 
@@ -13562,11 +13569,32 @@
  - [Salambriai/Salaberina](https://pleiades.stoa.org/places/619252)
 
 
+## 9B1 (Talbert 2295)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2295.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2295.html)  
+
+### alignments:
+ - [Caena](https://pleiades.stoa.org/places/619131)
+
+
+## 9B1 (Talbert 2296)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2296.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2296.html)  
+
+### alignments:
+ - [Tracias](https://pleiades.stoa.org/places/208412998)
+
+
 ## 9B1 (Talbert 2315)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2315.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2315.html)  
 
 ### alignments:
  - [Kongoustos/Congussus](https://pleiades.stoa.org/places/619190)
+
+
+## 9B1 (Talbert 2319)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2319.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2319.html)  
+
+### alignments:
+ - [Ubinnaca](https://pleiades.stoa.org/places/619277)
 
 
 ## 9B1 (Talbert 2346)
@@ -13714,6 +13742,20 @@
 
 ### alignments:
  - [Comana Pontica/Hierocaesarea](https://pleiades.stoa.org/places/857095)
+
+
+## 9B2 (Talbert 2281)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2281.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2281.html)  
+
+### alignments:
+ - [Euesa/Euaissa/Seioua/Siva](https://pleiades.stoa.org/places/631203)
+
+
+## 9B2 (Talbert 2282)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2282.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2282.html)  
+
+### alignments:
+ - [Kampai?](https://pleiades.stoa.org/places/619178)
 
 
 ## 9B2 (Talbert 2297)
@@ -13905,6 +13947,20 @@
  - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
 
 
+## 9B3 (Talbert 2284)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2284.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2284.html)  
+
+### alignments:
+ - [Sorpara](https://pleiades.stoa.org/places/208412997)
+
+
+## 9B3 (Talbert 2285)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2285.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2285.html)  
+
+### alignments:
+ - [Sibora/Foroba?](https://pleiades.stoa.org/places/629079)
+
+
 ## 9B3 (Talbert 2304)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2304.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2304.html)  
 
@@ -14008,6 +14064,13 @@
 
 ### alignments:
  - [Magabula](https://pleiades.stoa.org/places/857220)
+
+
+## 9B4 (Talbert 2290)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2290.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2290.html)  
+
+### alignments:
+ - [Sebasteia/Megalopolis?/Talaura?](https://pleiades.stoa.org/places/629075)
 
 
 ## 9B4 (Talbert 2307)
@@ -14120,6 +14183,13 @@
 
 ### alignments:
  - [Coele Syria](https://pleiades.stoa.org/places/678096)
+
+
+## 9B5 (Talbert 2313)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2313.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2313.html)  
+
+### alignments:
+ - [Salandona](https://pleiades.stoa.org/places/221263554)
 
 
 ## 9B5 (Talbert 2314)

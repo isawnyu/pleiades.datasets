@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4322 alignments exist in _Pleiades_ place references as of 2025-05-16. The following list of alignments is grouped by zotkey.
+4332 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9904,6 +9904,13 @@
 
 ### alignments:
  - [Condatomagus?](https://pleiades.stoa.org/places/246353)
+
+
+## GEO ID 21494
+[http://www.trismegistos.org/place/21494](http://www.trismegistos.org/place/21494)  
+
+### alignments:
+ - [Lattara](https://pleiades.stoa.org/places/148107)
 
 
 ## GEO ID 2154: Smyrne (Izmir)
@@ -19934,6 +19941,13 @@
  - [Ecobrogis/Eccobriga](https://pleiades.stoa.org/places/619153)
 
 
+## GEO ID 40668: Sibora (Karamağara)
+[https://www.trismegistos.org/place/40668](https://www.trismegistos.org/place/40668)  
+
+### alignments:
+ - [Sibora/Foroba?](https://pleiades.stoa.org/places/629079)
+
+
 ## GEO ID 40671: Phiara (Yeni Han?)
 [http://www.trismegistos.org/place/40671](http://www.trismegistos.org/place/40671)  
 
@@ -21255,6 +21269,13 @@
 
 ### alignments:
  - [Seramisa](https://pleiades.stoa.org/places/857313)
+
+
+## GEO ID 41402: Salambriai (Kepez Tepe)
+[https://www.trismegistos.org/place/41402](https://www.trismegistos.org/place/41402)  
+
+### alignments:
+ - [Salambriai/Salaberina](https://pleiades.stoa.org/places/619252)
 
 
 ## GEO ID 41404: Cilca Novum (Nurhak)
@@ -22601,6 +22622,13 @@
  - [Caballucome](https://pleiades.stoa.org/places/619130)
 
 
+## GEO ID 41999: Caena
+[https://www.trismegistos.org/place/41999](https://www.trismegistos.org/place/41999)  
+
+### alignments:
+ - [Caena](https://pleiades.stoa.org/places/619131)
+
+
 ## GEO ID 419: Berenike
 [https://www.trismegistos.org/place/419](https://www.trismegistos.org/place/419)  
 
@@ -22608,11 +22636,25 @@
  - [Berenike?](https://pleiades.stoa.org/places/530819)
 
 
+## GEO ID 42000: Kampai
+[https://www.trismegistos.org/place/42000](https://www.trismegistos.org/place/42000)  
+
+### alignments:
+ - [Kampai?](https://pleiades.stoa.org/places/619178)
+
+
 ## GEO ID 42001: Kyzistra
 [https://www.trismegistos.org/place/42001](https://www.trismegistos.org/place/42001)  
 
 ### alignments:
  - [Kyzistra](https://pleiades.stoa.org/places/619195)
+
+
+## GEO ID 42003: Ubinnaca
+[http://www.trismegistos.org/place/42003](http://www.trismegistos.org/place/42003)  
+
+### alignments:
+ - [Ubinnaca](https://pleiades.stoa.org/places/619277)
 
 
 ## GEO ID 42005: Laskoria
@@ -22634,6 +22676,13 @@
 
 ### alignments:
  - [Korne](https://pleiades.stoa.org/places/629016)
+
+
+## GEO ID 42015: Euesa (Yoğunhisar)
+[https://www.trismegistos.org/place/42015](https://www.trismegistos.org/place/42015)  
+
+### alignments:
+ - [Euesa/Euaissa/Seioua/Siva](https://pleiades.stoa.org/places/631203)
 
 
 ## GEO ID 42019: Zenokopis
@@ -23677,6 +23726,20 @@
 
 ### alignments:
  - [Cilicius Aulon](https://pleiades.stoa.org/places/648602)
+
+
+## GEO ID 42644: Sorpara
+[https://www.trismegistos.org/place/42644](https://www.trismegistos.org/place/42644)  
+
+### alignments:
+ - [Sorpara](https://pleiades.stoa.org/places/208412997)
+
+
+## GEO ID 42649: Salandona
+[https://www.trismegistos.org/place/42649](https://www.trismegistos.org/place/42649)  
+
+### alignments:
+ - [Salandona](https://pleiades.stoa.org/places/221263554)
 
 
 ## GEO ID 42653: Tiberiadis Mare
@@ -26542,6 +26605,13 @@
 
 ### alignments:
  - [Qubbet el-Hawa](https://pleiades.stoa.org/places/979588215)
+
+
+## GEO ID 4990: Contra Latopolis (El-Hella)
+[https://www.trismegistos.org/place/4990](https://www.trismegistos.org/place/4990)  
+
+### alignments:
+ - [Contra Latopolin](https://pleiades.stoa.org/places/786007)
 
 
 ## GEO ID 49931: Salduba
