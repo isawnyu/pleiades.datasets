@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        34.572513,
-        37.82365,
-        34.572513,
-        37.82365
+        34.5736203,
+        37.8260608,
+        34.5736203,
+        37.8260608
     ],
     "connections": [
         {
@@ -382,18 +382,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.572513,
-                    37.82365
+                    34.5736203,
+                    37.8260608
                 ],
                 "type": "Point"
             },
-            "id": "dare-location",
+            "id": "osm-location",
             "properties": {
-                "description": "Representative point location, village precision",
-                "link": "https://pleiades.stoa.org/places/648801/dare-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/648801/osm-location",
                 "location_precision": "precise",
-                "snippet": "Settlement; 550 BC - AD 640",
-                "title": "DARE Location"
+                "snippet": "Archaeological-site",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -504,110 +504,90 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
+            "attestations": [],
             "contributors": [],
-            "created": "2012-10-20T21:17:56Z",
+            "created": "2025-05-16T19:07:20Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location, village precision",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": null,
             "featureType": [
-                "settlement"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    34.572513,
-                    37.82365
+                    34.5736203,
+                    37.8260608
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2012-10-20T21:17:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-19T15:17:47Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2012-10-20T21:17:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-16T19:07:46Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T21:17:57Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add osm location",
+                    "modified": "2025-05-16T19:07:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-05-16T19:07:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-10-20T21:17:56Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-16T19:07:20Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Node 799989281, version 1, osm:changeset=5129642, 2010-07-04T04:58:37Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/799989281",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Node 799989281",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=799989281",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/648801/dare-location"
+            "start": null,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/648801/osm-location"
         }
     ],
     "names": [
@@ -2746,8 +2726,8 @@
         }
     ],
     "reprPoint": [
-        34.572513,
-        37.82365
+        34.5736203,
+        37.8260608
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
