@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4332 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
+4336 alignments exist in _Pleiades_ place references as of 2025-05-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12834,6 +12834,13 @@
  - [Zeszes/Oasis Parva](https://pleiades.stoa.org/places/716654)
 
 
+## GEO ID 282: Arabia [nomos]
+[https://www.trismegistos.org/place/282](https://www.trismegistos.org/place/282)  
+
+### alignments:
+ - [Arabia Nomos](https://pleiades.stoa.org/places/727075)
+
+
 ## GEO ID 28344: Flavia Solva (Wagna)
 [http://www.trismegistos.org/place/28344](http://www.trismegistos.org/place/28344)  
 
@@ -17903,6 +17910,13 @@
  - [Hellespont (strait)](https://pleiades.stoa.org/places/501434)
 
 
+## GEO ID 3630: Psantanchnoubis
+[https://www.trismegistos.org/place/3630](https://www.trismegistos.org/place/3630)  
+
+### alignments:
+ - [Psantanchnoubis](https://pleiades.stoa.org/places/789776)
+
+
 ## GEO ID 3631: Lebedos (Kimituria)
 [https://www.trismegistos.org/place/3631](https://www.trismegistos.org/place/3631)  
 
@@ -20583,6 +20597,13 @@
 
 ### alignments:
  - [Condate](https://pleiades.stoa.org/places/167722)
+
+
+## GEO ID 41049: Ictodurus (La Bâtie-Neuve)
+[https://www.trismegistos.org/place/41049](https://www.trismegistos.org/place/41049)  
+
+### alignments:
+ - [Ictodurus](https://pleiades.stoa.org/places/167792)
 
 
 ## GEO ID 41052: Durotincum (La Grave)
@@ -23712,6 +23733,13 @@
 
 ### alignments:
  - [Ida (mountain)](https://pleiades.stoa.org/places/550592)
+
+
+## GEO ID 42637: Rogmorum
+[https://www.trismegistos.org/place/42637](https://www.trismegistos.org/place/42637)  
+
+### alignments:
+ - [Rogmorum](https://pleiades.stoa.org/places/701996832)
 
 
 ## GEO ID 42639: Ad Stabulum

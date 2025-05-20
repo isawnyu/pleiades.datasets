@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2097 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
+2100 alignments exist in _Pleiades_ place references as of 2025-05-20. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3504,6 +3504,20 @@
 
 ### alignments:
  - [Vappincum](https://pleiades.stoa.org/places/167954)
+
+
+## 2B2 (Talbert 803)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace803.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace803.html)  
+
+### alignments:
+ - [Ictodurus](https://pleiades.stoa.org/places/167792)
+
+
+## 2B2 (Talbert 804)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace804.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace804.html)  
+
+### alignments:
+ - [Caturigomagus](https://pleiades.stoa.org/places/167701)
 
 
 ## 2B2 (Talbert 805)
@@ -13553,6 +13567,13 @@
 
 ### alignments:
  - [Garsaura/Col. Claudia Archelais/Koloneia](https://pleiades.stoa.org/places/619164)
+
+
+## 9B1 (Talbert 2259)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2259.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2259.html)  
+
+### alignments:
+ - [Rogmorum](https://pleiades.stoa.org/places/701996832)
 
 
 ## 9B1 (Talbert 2261)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7989 alignments exist in _Pleiades_ place references as of 2025-05-19. The following list of alignments is grouped by zotkey.
+7992 alignments exist in _Pleiades_ place references as of 2025-05-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2696,6 +2696,13 @@
 
 ### alignments:
  - [Azanium Mare/Barbarikon Pelagos](https://pleiades.stoa.org/places/39308)
+
+
+## Arabiates (Q4783410)
+[https://www.wikidata.org/wiki/Q4783410](https://www.wikidata.org/wiki/Q4783410)  
+
+### alignments:
+ - [Arabiates](https://pleiades.stoa.org/places/197132)
 
 
 ## Arabissus (Q372545)
@@ -12153,6 +12160,13 @@
 
 ### alignments:
  - [Embaton](https://pleiades.stoa.org/places/550528)
+
+
+## Embrun (Q207610)
+[https://www.wikidata.org/wiki/Q207610](https://www.wikidata.org/wiki/Q207610)  
+
+### alignments:
+ - [Eburodunum](https://pleiades.stoa.org/places/167750)
 
 
 ## Emesa (Q2548027)
@@ -26556,6 +26570,13 @@
 
 ### alignments:
  - [Pyretos (river)](https://pleiades.stoa.org/places/216947)
+
+
+## Psantanchnoubis (Q134511485)
+[https://www.wikidata.org/wiki/Q134511485](https://www.wikidata.org/wiki/Q134511485)  
+
+### alignments:
+ - [Psantanchnoubis](https://pleiades.stoa.org/places/789776)
 
 
 ## Pserimos (Q644254)
