@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7992 alignments exist in _Pleiades_ place references as of 2025-05-20. The following list of alignments is grouped by zotkey.
+7999 alignments exist in _Pleiades_ place references as of 2025-05-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3516,6 +3516,13 @@
 
 ### alignments:
  - [Ashdod/Azotos (Mesogeios)](https://pleiades.stoa.org/places/687838)
+
+
+## Ashdod-Sea (Q1068119)
+[https://www.wikidata.org/wiki/Q1068119](https://www.wikidata.org/wiki/Q1068119)  
+
+### alignments:
+ - [Azotos Paralios](https://pleiades.stoa.org/places/687843)
 
 
 ## Ashkelon (Q60956)
@@ -7662,6 +7669,13 @@
 
 ### alignments:
  - [Castellum Dimmidi](https://pleiades.stoa.org/places/334518)
+
+
+## Castellum Gurolense (Q134525021)
+[https://www.wikidata.org/wiki/Q134525021](https://www.wikidata.org/wiki/Q134525021)  
+
+### alignments:
+ - [Castellum Gurolense](https://pleiades.stoa.org/places/305049)
 
 
 ## Castellum Mattiacorum (Q18286569)
@@ -11966,6 +11980,13 @@
  - [Ekklesiasterion at Poseidonia/Paestum](https://pleiades.stoa.org/places/73180224)
 
 
+## Ekron (Q1323557)
+[https://www.wikidata.org/wiki/Q1323557](https://www.wikidata.org/wiki/Q1323557)  
+
+### alignments:
+ - [Ekron/Akkaron](https://pleiades.stoa.org/places/687888)
+
+
 ## Ekualakos (Q109789822)
 [https://www.wikidata.org/wiki/Q109789822](https://www.wikidata.org/wiki/Q109789822)  
 
@@ -13210,6 +13231,13 @@
 
 ### alignments:
  - [Murgaual (castle)](https://pleiades.stoa.org/places/704285537)
+
+
+## Fundus Petrensis (Q134524561)
+[https://www.wikidata.org/wiki/Q134524561](https://www.wikidata.org/wiki/Q134524561)  
+
+### alignments:
+ - [Petra/Fundus Petrensis](https://pleiades.stoa.org/places/305129)
 
 
 ## Fusaro Lake (Q764710)
@@ -25170,6 +25198,13 @@
 
 ### alignments:
  - [Philippopolis/Trimontium](https://pleiades.stoa.org/places/216927)
+
+
+## Philistia (Q7185566)
+[https://www.wikidata.org/wiki/Q7185566](https://www.wikidata.org/wiki/Q7185566)  
+
+### alignments:
+ - [Philistia (region)](https://pleiades.stoa.org/places/660988416)
 
 
 ## Philopappou (Q2088161)
@@ -48421,6 +48456,13 @@
  - [Sarbane/Sisara](https://pleiades.stoa.org/places/874680)
 
 
+## Sisi (Q104357383)
+[https://www.wikidata.org/wiki/Q104357383](https://www.wikidata.org/wiki/Q104357383)  
+
+### alignments:
+ - [Sisi, Kephali tou Agiou Antoniou](https://pleiades.stoa.org/places/169879741)
+
+
 ## Site gallo-romain de Barzan (Q3962375)
 [https://www.wikidata.org/wiki/Q3962375](https://www.wikidata.org/wiki/Q3962375)  
 
@@ -49967,6 +50009,13 @@
 
 ### alignments:
  - [Tell Umm al-Aqarib](https://pleiades.stoa.org/places/533622483)
+
+
+## Tell Zurghul (Q110853381)
+[https://www.wikidata.org/wiki/Q110853381](https://www.wikidata.org/wiki/Q110853381)  
+
+### alignments:
+ - [Nina](https://pleiades.stoa.org/places/912909)
 
 
 ## Telmessos (Q1145385)

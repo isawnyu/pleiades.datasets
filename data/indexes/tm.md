@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4336 alignments exist in _Pleiades_ place references as of 2025-05-20. The following list of alignments is grouped by zotkey.
+4343 alignments exist in _Pleiades_ place references as of 2025-05-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1834,6 +1834,7 @@
 
 ### alignments:
  - [Am(p)saga (river)](https://pleiades.stoa.org/places/305029)
+ - [Caput Amsagae](https://pleiades.stoa.org/places/305041)
 
 
 ## Geo 43450: Fundus Dicitanus?
@@ -8821,6 +8822,13 @@
  - [Lindon?](https://pleiades.stoa.org/places/89226)
 
 
+## GEO ID 19682: Victoria
+[https://www.trismegistos.org/place/19682](https://www.trismegistos.org/place/19682)  
+
+### alignments:
+ - [Victoria?](https://pleiades.stoa.org/places/89206)
+
+
 ## GEO ID 19698: Bannatia (Dalginross)
 [http://www.trismegistos.org/place/19698](http://www.trismegistos.org/place/19698)  
 
@@ -9507,6 +9515,13 @@
  - [Cissi](https://pleiades.stoa.org/places/295253)
 
 
+## GEO ID 20474: Kaputtasaccora (Sidi Ali Ben Youb)
+[https://www.trismegistos.org/place/20474](https://www.trismegistos.org/place/20474)  
+
+### alignments:
+ - [Kaputtasaccora](https://pleiades.stoa.org/places/285456)
+
+
 ## GEO ID 2047: Paneion (El-Kanayis)
 [http://www.trismegistos.org/place/2047](http://www.trismegistos.org/place/2047)  
 
@@ -9563,11 +9578,18 @@
  - [Aquae Calidae](https://pleiades.stoa.org/places/295216)
 
 
+## GEO ID 20532: Cohors Breucorum (Henchir Suik)
+[https://www.trismegistos.org/place/20532](https://www.trismegistos.org/place/20532)  
+
+### alignments:
+ - [Cohors Breucorum/Kaputurbe](https://pleiades.stoa.org/places/285428)
+
+
 ## GEO ID 20538: Fundus Petrensis (M'lakou)
 [https://www.trismegistos.org/place/20538](https://www.trismegistos.org/place/20538)  
 
 ### alignments:
- - [Petra](https://pleiades.stoa.org/places/305129)
+ - [Petra/Fundus Petrensis](https://pleiades.stoa.org/places/305129)
 
 
 ## GEO ID 20557: Numerus Syrorum (Marnia)
@@ -18015,6 +18037,13 @@
  - [Kleopatris](https://pleiades.stoa.org/places/730118)
 
 
+## GEO ID 36610: Caput Stenarum (Boița)
+[https://www.trismegistos.org/place/36610](https://www.trismegistos.org/place/36610)  
+
+### alignments:
+ - [Caput Stenarum](https://pleiades.stoa.org/places/216749)
+
+
 ## GEO ID 3665: Kerynia
 [http://www.trismegistos.org/place/3665](http://www.trismegistos.org/place/3665)  
 
@@ -19218,6 +19247,13 @@
 
 ### alignments:
  - [Boutikos potamos](https://pleiades.stoa.org/places/727093)
+
+
+## GEO ID 3888: Ammonos Balithonos Akra (Ras Kapoudia)
+[https://www.trismegistos.org/place/3888](https://www.trismegistos.org/place/3888)  
+
+### alignments:
+ - [Ammonos Balithonos Akra/Caput Vada](https://pleiades.stoa.org/places/324666)
 
 
 ## GEO ID 389: Babylon (Fostat)
@@ -21689,6 +21725,13 @@
 
 ### alignments:
  - [Caumatis/Kanate/Kanthatis](https://pleiades.stoa.org/places/30221)
+
+
+## GEO ID 41677: Ad Portum (Zebacha)
+[https://www.trismegistos.org/place/41677](https://www.trismegistos.org/place/41677)  
+
+### alignments:
+ - [Ad Portum?](https://pleiades.stoa.org/places/305022)
 
 
 ## GEO ID 41678: Ad Rubras (Henchir Ain Kerna)
@@ -27307,6 +27350,13 @@
 
 ### alignments:
  - [Bersiba](https://pleiades.stoa.org/places/658410)
+
+
+## GEO ID 54347: Azotos Paralios (Ashdod-Sea)
+[https://www.trismegistos.org/place/54347](https://www.trismegistos.org/place/54347)  
+
+### alignments:
+ - [Azotos Paralios](https://pleiades.stoa.org/places/687843)
 
 
 ## GEO ID 54349: Azuru (Azor)
