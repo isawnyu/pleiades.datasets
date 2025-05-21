@@ -2,7 +2,7 @@
     "@type": "Place",
     "bbox": [
         34.656061,
-        31.756,
+        31.7557737,
         34.6593,
         31.756038
     ],
@@ -186,9 +186,32 @@
                 "title": "CIGS location of Ashdod"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.6588102,
+                    31.7557737
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-tel-ashdod",
+            "properties": {
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/687838/osm-location-of-tel-ashdod",
+                "location_precision": "precise",
+                "snippet": "Tell",
+                "title": "OSM location of Tel Ashdod"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "nomisma.org Ashdod",
+            "modified": "2025-05-20T14:37:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-11-20T14:43:32Z",
@@ -512,6 +535,93 @@
             "start": null,
             "title": "CIGS location of Ashdod",
             "uri": "https://pleiades.stoa.org/places/687838/cigs-location-of-ashdod"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2025-05-20T14:24:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "tell"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tell"
+            ],
+            "geometry": {
+                "coordinates": [
+                    34.6588102,
+                    31.7557737
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-20T22:47:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-20T14:28:07Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2025-05-20T14:24:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-05-20T14:24:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-20T14:24:20Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-tel-ashdod",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/tell"
+            ],
+            "provenance": "OpenStreetMap (Node 278473109, version 6, osm:changeset=154829177, 2024-08-04T20:29:27Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/278473109",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 278473109",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=278473109",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM location of Tel Ashdod",
+            "uri": "https://pleiades.stoa.org/places/687838/osm-location-of-tel-ashdod"
         }
     ],
     "names": [
@@ -1464,11 +1574,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site",
+        "https://pleiades.stoa.org/vocabularies/place-types/tell"
     ],
     "placeTypes": [
         "settlement",
-        "archaeological-site"
+        "archaeological-site",
+        "tell"
     ],
     "provenance": "Barrington Atlas: BAtlas 70 F2 Ashdod/Azotos (Mesogeios)",
     "references": [
@@ -1658,11 +1770,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://nomisma.org/id/ashdod",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "citationDetail": "Ashdod",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "nomisma.org",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        34.6576805,
-        31.756019000000002
+        34.658057066666665,
+        31.755937233333338
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
