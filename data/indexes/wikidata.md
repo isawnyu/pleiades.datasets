@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-7999 alignments exist in _Pleiades_ place references as of 2025-05-21. The following list of alignments is grouped by zotkey.
+8002 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1877,6 +1877,13 @@
 
 ### alignments:
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
+
+
+## Anah (Q2627750)
+[https://www.wikidata.org/wiki/Q2627750](https://www.wikidata.org/wiki/Q2627750)  
+
+### alignments:
+ - [Anatho](https://pleiades.stoa.org/places/893936)
 
 
 ## Anakaia (Q18079278)
@@ -25655,6 +25662,13 @@
  - [Poggio Gramignano Roman Villa](https://pleiades.stoa.org/places/330348886)
 
 
+## Poggio Serrone di Bove (Q110162981)
+[https://www.wikidata.org/wiki/Q110162981](https://www.wikidata.org/wiki/Q110162981)  
+
+### alignments:
+ - [Serrone di Bove](https://pleiades.stoa.org/places/423067)
+
+
 ## Pogla (Q1458167)
 [https://www.wikidata.org/wiki/Q1458167](https://www.wikidata.org/wiki/Q1458167)  
 
@@ -47060,6 +47074,13 @@
 
 ### alignments:
  - [Sanctuary of Hercules Victor](https://pleiades.stoa.org/places/124758312)
+
+
+## Sanctuary of Jupiter Latiaris (Q134532326)
+[https://www.wikidata.org/wiki/Q134532326](https://www.wikidata.org/wiki/Q134532326)  
+
+### alignments:
+ - [Iuppiter Latiaris, T.](https://pleiades.stoa.org/places/422949)
 
 
 ## Sanctuary of Jupiter Tifatinus (Q131342033)

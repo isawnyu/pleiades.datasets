@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4343 alignments exist in _Pleiades_ place references as of 2025-05-21. The following list of alignments is grouped by zotkey.
+4344 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7364,6 +7364,13 @@
 
 ### alignments:
  - [‘Valle Diocletiana’](https://pleiades.stoa.org/places/678447)
+
+
+## GEO ID 16633: Aracha (Arak)
+[https://www.trismegistos.org/place/16633](https://www.trismegistos.org/place/16633)  
+
+### alignments:
+ - [Aracha/Anatha/‘Harae’](https://pleiades.stoa.org/places/668196)
 
 
 ## GEO ID 16634: Tahun el-Masek
@@ -21731,7 +21738,7 @@
 [https://www.trismegistos.org/place/41677](https://www.trismegistos.org/place/41677)  
 
 ### alignments:
- - [Ad Portum?](https://pleiades.stoa.org/places/305022)
+ - [Ad Portum](https://pleiades.stoa.org/places/305022)
 
 
 ## GEO ID 41678: Ad Rubras (Henchir Ain Kerna)
