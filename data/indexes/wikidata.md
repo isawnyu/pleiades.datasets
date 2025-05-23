@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8002 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
+8013 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9492,6 +9492,13 @@
  - [Cimbri](https://pleiades.stoa.org/places/101183)
 
 
+## Cimini Hills (Q783445)
+[https://www.wikidata.org/wiki/Q783445](https://www.wikidata.org/wiki/Q783445)  
+
+### alignments:
+ - [Ciminius (mountain)](https://pleiades.stoa.org/places/413081)
+
+
 ## Cineto Romano (Q143674)
 [https://www.wikidata.org/wiki/Q143674](https://www.wikidata.org/wiki/Q143674)  
 
@@ -12125,6 +12132,13 @@
 
 ### alignments:
  - [Albis (river)](https://pleiades.stoa.org/places/98909)
+
+
+## Elche de la Sierra (Q575812)
+[https://www.wikidata.org/wiki/Q575812](https://www.wikidata.org/wiki/Q575812)  
+
+### alignments:
+ - [Elche de la Sierra](https://pleiades.stoa.org/places/265890)
 
 
 ## Elephant tomb in Carmona (Q71990681)
@@ -17806,6 +17820,13 @@
  - [Kuntillat 'Ajrud](https://pleiades.stoa.org/places/686550284)
 
 
+## Kupa (Q211046)
+[https://www.wikidata.org/wiki/Q211046](https://www.wikidata.org/wiki/Q211046)  
+
+### alignments:
+ - [Colapis (river)](https://pleiades.stoa.org/places/197217)
+
+
 ## Kupinovik (Q12635079)
 [https://www.wikidata.org/wiki/Q12635079](https://www.wikidata.org/wiki/Q12635079)  
 
@@ -18736,6 +18757,13 @@
 
 ### alignments:
  - [Leuci](https://pleiades.stoa.org/places/109106)
+
+
+## Leukonoion (Q12880146)
+[https://www.wikidata.org/wiki/Q12880146](https://www.wikidata.org/wiki/Q12880146)  
+
+### alignments:
+ - [Leukonoion](https://pleiades.stoa.org/places/580013)
 
 
 ## Leukopyra (Q133821002)
@@ -26061,6 +26089,13 @@
  - [Ponte Sodo](https://pleiades.stoa.org/places/980216943)
 
 
+## Pontecorvo (Q117186)
+[https://www.wikidata.org/wiki/Q117186](https://www.wikidata.org/wiki/Q117186)  
+
+### alignments:
+ - [Pontecorvo (Latium)](https://pleiades.stoa.org/places/249663476)
+
+
 ## Pontine Islands (Q844829)
 [https://www.wikidata.org/wiki/Q844829](https://www.wikidata.org/wiki/Q844829)  
 
@@ -26388,6 +26423,13 @@
 
 ### alignments:
  - [Potamoi](https://pleiades.stoa.org/places/511371)
+
+
+## Potentia (Q20108708)
+[https://www.wikidata.org/wiki/Q20108708](https://www.wikidata.org/wiki/Q20108708)  
+
+### alignments:
+ - [Potentia](https://pleiades.stoa.org/places/442735)
 
 
 ## Poundbury Hill (Q7235658)
@@ -30248,6 +30290,13 @@
 
 ### alignments:
  - [Setia](https://pleiades.stoa.org/places/423068)
+
+
+## Q134544931
+[https://www.wikidata.org/wiki/Q134544931](https://www.wikidata.org/wiki/Q134544931)  
+
+### alignments:
+ - [Campus Caledianus](https://pleiades.stoa.org/places/679258819)
 
 
 ## Q13464963: Deiradiotai
@@ -47952,6 +48001,13 @@
  - [Sanctuary of Hathor (Serabit el-Khadim)](https://pleiades.stoa.org/places/816186710)
 
 
+## Serbinum (Q3480549)
+[https://www.wikidata.org/wiki/Q3480549](https://www.wikidata.org/wiki/Q3480549)  
+
+### alignments:
+ - [Servitium](https://pleiades.stoa.org/places/197509)
+
+
 ## Serchio (Q247494)
 [https://www.wikidata.org/wiki/Q247494](https://www.wikidata.org/wiki/Q247494)  
 
@@ -49708,6 +49764,13 @@
 
 ### alignments:
  - [Tap o' Noth hill fort](https://pleiades.stoa.org/places/535189143)
+
+
+## Taphians (Q1432910)
+[https://www.wikidata.org/wiki/Q1432910](https://www.wikidata.org/wiki/Q1432910)  
+
+### alignments:
+ - [Taphiae? (islands)](https://pleiades.stoa.org/places/531113)
 
 
 ## Taposiris Magna (Q7684735)
@@ -51726,6 +51789,13 @@
  - [Tolfa](https://pleiades.stoa.org/places/971724591)
 
 
+## Tomaronisia (Q1789564)
+[https://www.wikidata.org/wiki/Q1789564](https://www.wikidata.org/wiki/Q1789564)  
+
+### alignments:
+ - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
+
+
 ## Tomb Garden of Aurelius Inachus (Q130469673)
 [https://www.wikidata.org/wiki/Q130469673](https://www.wikidata.org/wiki/Q130469673)  
 
@@ -53012,6 +53082,13 @@
 
 ### alignments:
  - [Thubunae/Tuben Oppidum](https://pleiades.stoa.org/places/334641)
+
+
+## Tubusuctu (Q3541821)
+[https://www.wikidata.org/wiki/Q3541821](https://www.wikidata.org/wiki/Q3541821)  
+
+### alignments:
+ - [Tubusuctu](https://pleiades.stoa.org/places/305171)
 
 
 ## Tucca (?) (Q127431472)

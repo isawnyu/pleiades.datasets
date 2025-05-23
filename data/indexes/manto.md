@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-650 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
+651 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3026,6 +3026,13 @@
 
 ### alignments:
  - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
+
+
+## 8253962: the Taphian Islands
+[https://resource.manto.unh.edu/8253962](https://resource.manto.unh.edu/8253962)  
+
+### alignments:
+ - [Taphiae? (islands)](https://pleiades.stoa.org/places/531113)
 
 
 ## 8253963: Attica (region of the Greek mainland)

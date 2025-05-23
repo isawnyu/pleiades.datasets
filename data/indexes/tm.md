@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4344 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
+4352 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14123,6 +14123,13 @@
  - [Ad Malum](https://pleiades.stoa.org/places/197070)
 
 
+## GEO ID 3096: Leukos Pyrgos
+[http://www.trismegistos.org/place/3096](http://www.trismegistos.org/place/3096)  
+
+### alignments:
+ - [Leukos Pyrgos](https://pleiades.stoa.org/places/759579)
+
+
 ## GEO ID 31016
 [http://www.trismegistos.org/place/31016](http://www.trismegistos.org/place/31016)  
 
@@ -15130,6 +15137,13 @@
 
 ### alignments:
  - [Osteria dell’Osa](https://pleiades.stoa.org/places/422994)
+
+
+## GEO ID 32336: Pontecorvo
+[https://www.trismegistos.org/place/32336](https://www.trismegistos.org/place/32336)  
+
+### alignments:
+ - [Pontecorvo (Latium)](https://pleiades.stoa.org/places/249663476)
 
 
 ## GEO ID 32345: Sette Bassi
@@ -18247,6 +18261,13 @@
  - [Tanamey](https://pleiades.stoa.org/places/759652)
 
 
+## GEO ID 37230: Leukos Oikos (Leukoniko)
+[https://www.trismegistos.org/place/37230](https://www.trismegistos.org/place/37230)  
+
+### alignments:
+ - [Leukos Oikos](https://pleiades.stoa.org/places/707562)
+
+
 ## GEO ID 37274: Seleukeia epi tou Zeugmatos (Killik?)
 [http://www.trismegistos.org/place/37274](http://www.trismegistos.org/place/37274)  
 
@@ -18716,6 +18737,13 @@
  - [Ardettos](https://pleiades.stoa.org/places/582870)
 
 
+## GEO ID 37798: Leukonoion (Peristeri)
+[https://www.trismegistos.org/place/37798](https://www.trismegistos.org/place/37798)  
+
+### alignments:
+ - [Leukonoion](https://pleiades.stoa.org/places/580013)
+
+
 ## GEO ID 37802: Prasiai (Paralio Leonidi)
 [https://www.trismegistos.org/place/37802](https://www.trismegistos.org/place/37802)  
 
@@ -18826,6 +18854,13 @@
 
 ### alignments:
  - [Kalamai](https://pleiades.stoa.org/places/570323)
+
+
+## GEO ID 37989: Leuktron (Leontari)
+[https://www.trismegistos.org/place/37989](https://www.trismegistos.org/place/37989)  
+
+### alignments:
+ - [Leuktron](https://pleiades.stoa.org/places/570433)
 
 
 ## GEO ID 37998: Pellana (Kalyvia Georgitsi)
@@ -21090,6 +21125,13 @@
  - [Ad Fines (Laktaši)](https://pleiades.stoa.org/places/197061)
 
 
+## GEO ID 41317: Castra (Banja Luka)
+[https://www.trismegistos.org/place/41317](https://www.trismegistos.org/place/41317)  
+
+### alignments:
+ - [Castra](https://pleiades.stoa.org/places/197197)
+
+
 ## GEO ID 41318: Sarute (Strojice)
 [https://www.trismegistos.org/place/41318](https://www.trismegistos.org/place/41318)  
 
@@ -22567,6 +22609,13 @@
  - [Sallentini](https://pleiades.stoa.org/places/442762)
 
 
+## GEO ID 41934: Lucos
+[https://www.trismegistos.org/place/41934](https://www.trismegistos.org/place/41934)  
+
+### alignments:
+ - [Lucos](https://pleiades.stoa.org/places/446262)
+
+
 ## GEO ID 41935: Pisandes (Torretta?)
 [http://www.trismegistos.org/place/41935](http://www.trismegistos.org/place/41935)  
 
@@ -23776,6 +23825,13 @@
 
 ### alignments:
  - [Berenikes Hormos](https://pleiades.stoa.org/places/730097)
+
+
+## GEO ID 42601: Leukai (Tokmakia)
+[https://www.trismegistos.org/place/42601](https://www.trismegistos.org/place/42601)  
+
+### alignments:
+ - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
 
 
 ## GEO ID 42608: Ida (Kaz Dağı)
@@ -28214,6 +28270,13 @@
  - [Pediaios (river)](https://pleiades.stoa.org/places/707605)
 
 
+## GEO ID 60823: Leukolla (Paralimne)
+[https://www.trismegistos.org/place/60823](https://www.trismegistos.org/place/60823)  
+
+### alignments:
+ - [Leukolla?](https://pleiades.stoa.org/places/707561)
+
+
 ## GEO ID 60825: Melabron (Hagia Eirene)
 [https://www.trismegistos.org/place/60825](https://www.trismegistos.org/place/60825)  
 
@@ -30442,12 +30505,5 @@
 
 ### alignments:
  - [Epora](https://pleiades.stoa.org/places/265893)
-
-
-## Tubusuctu (Q3541821)
-[http://www.trismegistos.org/wiki/Q3541821](http://www.trismegistos.org/wiki/Q3541821)  
-
-### alignments:
- - [Tubusuctu](https://pleiades.stoa.org/places/305171)
 
 

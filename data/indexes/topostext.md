@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3701 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
+3705 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2412,6 +2412,13 @@
 
 ### alignments:
  - [Apollo Erethimios, T.](https://pleiades.stoa.org/places/589700)
+
+
+## Apollo Leukatas sanct. (Leukas) 36 Cape Lefkatas - Λευκάτα Απόλλωνος ιερόν
+[https://topostext.org/place/386205SApo](https://topostext.org/place/386205SApo)  
+
+### alignments:
+ - [Apollo Leukatas, T.](https://pleiades.stoa.org/places/530806)
 
 
 ## Apollo Mageirios sanct. (Cyprus)
@@ -13704,6 +13711,13 @@
  - [Leukai](https://pleiades.stoa.org/places/550697)
 
 
+## Leukai (Lesbos) Tokmakia
+[https://topostext.org/place/393264ILeu](https://topostext.org/place/393264ILeu)  
+
+### alignments:
+ - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
+
+
 ## Leukanoi (Magna Graecia)
 [https://topostext.org/place/404160RLeu](https://topostext.org/place/404160RLeu)  
 
@@ -13745,6 +13759,13 @@
 
 ### alignments:
  - [Leukolla?](https://pleiades.stoa.org/places/707561)
+
+
+## Leukonoion (Attica) 12 Peristeri? - Λευκονοιεύς
+[https://topostext.org/place/380237DLeu](https://topostext.org/place/380237DLeu)  
+
+### alignments:
+ - [Leukonoion](https://pleiades.stoa.org/places/580013)
 
 
 ## Leukopetra (Magna Graecia)
@@ -23167,6 +23188,13 @@
 
 ### alignments:
  - [Taouion/Tabia](https://pleiades.stoa.org/places/619267)
+
+
+## Taphiai islands (Leukas)
+[https://topostext.org/place/388208ITap](https://topostext.org/place/388208ITap)  
+
+### alignments:
+ - [Taphiae? (islands)](https://pleiades.stoa.org/places/531113)
 
 
 ## Taphos island (Lefkada)

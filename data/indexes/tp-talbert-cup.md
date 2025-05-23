@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2101 alignments exist in _Pleiades_ place references as of 2025-05-22. The following list of alignments is grouped by zotkey.
+2102 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12391,6 +12391,13 @@
 
 ### alignments:
  - [Proconnesus (island)](https://pleiades.stoa.org/places/511379)
+
+
+## 8B1 (Talbert 3133)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3133.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3133.html)  
+
+### alignments:
+ - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
 
 
 ## 8B1 Cnoso (Talbert 2071)
