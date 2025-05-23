@@ -1,33 +1,58 @@
 {
     "@type": "Place",
     "bbox": [
-        4.783022,
-        36.661737,
-        4.855629,
-        36.673393
+        4.781461854059566,
+        36.65818282207514,
+        4.833079682443599,
+        36.67400346106948
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/305171",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:37:18Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 640,
             "history": [
+                {
+                    "comment": "flows into; references; time periods",
+                    "modified": "2025-05-22T15:12:05Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:37:18Z",
@@ -46,9 +71,32 @@
             ],
             "id": "305171",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "31 B3",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 487 sub \"Aqueducts\" see \"B3 Tubusuctu\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Tubusuctu",
             "uri": "https://pleiades.stoa.org/places/305777/305171"
         }
@@ -77,58 +125,427 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T18:43:17Z",
+    "created": "2025-05-22T17:56:54Z",
     "creators": [
         {
             "name": "E.W.B. Fentress",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 31 B3 unnamed aqueduct (Tubusuctu)",
-    "details": "The Barrington Atlas Directory notes: Tubusuctu",
+    "description": "A Roman aqueduct supplying the city of Tubusuctu. It delivered water from the area of modern Thala Itchouren to the El Arouia cistern complex on the northern side of the city. Laoues' 2015 thesis reconsiders the 19th and 20th century reports and hypotheses concerning the aqueduct's catchment, sources, and route in light of extensive on-site survey and ethnographic work with local communities.",
+    "details": "",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            4.5,
-                            36.5
-                        ],
-                        [
-                            5.0,
-                            36.5
-                        ],
-                        [
-                            5.0,
-                            37.0
-                        ],
-                        [
-                            4.5,
-                            37.0
-                        ],
-                        [
-                            4.5,
-                            36.5
-                        ]
+                        4.781461854059566,
+                        36.668495117483744
+                    ],
+                    [
+                        4.783328492231205,
+                        36.668347195213535
+                    ],
+                    [
+                        4.783694775947904,
+                        36.6680936141789
+                    ],
+                    [
+                        4.784525958228106,
+                        36.66832606346065
+                    ],
+                    [
+                        4.78492041761532,
+                        36.668459897895595
+                    ],
+                    [
+                        4.785321920920163,
+                        36.66848102964848
+                    ],
+                    [
+                        4.78587839041284,
+                        36.668713478930236
+                    ],
+                    [
+                        4.786413728152631,
+                        36.66905863089405
+                    ],
+                    [
+                        4.78737874486778,
+                        36.669678495645385
+                    ],
+                    [
+                        4.788393069006331,
+                        36.670326536067236
+                    ],
+                    [
+                        4.789343997886222,
+                        36.670946400818565
+                    ],
+                    [
+                        4.789682105932406,
+                        36.67137607979393
+                    ],
+                    [
+                        4.789984994390445,
+                        36.67195368103949
+                    ],
+                    [
+                        4.790351278107144,
+                        36.672369272179594
+                    ],
+                    [
+                        4.791210636057861,
+                        36.67319341054216
+                    ],
+                    [
+                        4.792112257514351,
+                        36.673925977975564
+                    ],
+                    [
+                        4.792668727007028,
+                        36.67400346106948
+                    ],
+                    [
+                        4.793295635675993,
+                        36.673890758387415
+                    ],
+                    [
+                        4.793802797745268,
+                        36.673721704364326
+                    ],
+                    [
+                        4.794317003732173,
+                        36.673313157141855
+                    ],
+                    [
+                        4.794803034048562,
+                        36.67293982950753
+                    ],
+                    [
+                        4.795239756941549,
+                        36.67264398496712
+                    ],
+                    [
+                        4.795803270351855,
+                        36.67236222826196
+                    ],
+                    [
+                        4.796338608091646,
+                        36.672164998568356
+                    ],
+                    [
+                        4.797500854500401,
+                        36.67177053918114
+                    ],
+                    [
+                        4.798064367910707,
+                        36.67155922165228
+                    ],
+                    [
+                        4.798599705650498,
+                        36.67130564061764
+                    ],
+                    [
+                        4.799078692049259,
+                        36.6710027521596
+                    ],
+                    [
+                        4.799642205459564,
+                        36.67064351236053
+                    ],
+                    [
+                        4.800135279693582,
+                        36.67034062390249
+                    ],
+                    [
+                        4.80074810052729,
+                        36.669960252350535
+                    ],
+                    [
+                        4.803403657473358,
+                        36.67015748204414
+                    ],
+                    [
+                        4.803396613555728,
+                        36.66938265110497
+                    ],
+                    [
+                        4.803488184484904,
+                        36.66879800594178
+                    ],
+                    [
+                        4.80374880943717,
+                        36.66826971211962
+                    ],
+                    [
+                        4.804065785730467,
+                        36.66774141829746
+                    ],
+                    [
+                        4.804305278929847,
+                        36.667156773134266
+                    ],
+                    [
+                        4.804502508623455,
+                        36.66670596240602
+                    ],
+                    [
+                        4.80483357275201,
+                        36.666234019924886
+                    ],
+                    [
+                        4.805206900386337,
+                        36.6657479896085
+                    ],
+                    [
+                        4.80555205235015,
+                        36.66529717888025
+                    ],
+                    [
+                        4.806038082666539,
+                        36.66461391887026
+                    ],
+                    [
+                        4.805643623279324,
+                        36.663662989990364
+                    ],
+                    [
+                        4.805946511737363,
+                        36.66316991575635
+                    ],
+                    [
+                        4.806735430511792,
+                        36.6626697976047
+                    ],
+                    [
+                        4.807545481039107,
+                        36.66162729779563
+                    ],
+                    [
+                        4.807841325579518,
+                        36.66111309180873
+                    ],
+                    [
+                        4.808235784966731,
+                        36.66064819324523
+                    ],
+                    [
+                        4.80872181528312,
+                        36.66031712911668
+                    ],
+                    [
+                        4.809278284775798,
+                        36.660176250764096
+                    ],
+                    [
+                        4.809862929938991,
+                        36.660042416329155
+                    ],
+                    [
+                        4.810419399431668,
+                        36.65985223055317
+                    ],
+                    [
+                        4.810961781089087,
+                        36.65952116642462
+                    ],
+                    [
+                        4.811398503982074,
+                        36.659133750955036
+                    ],
+                    [
+                        4.811947929557123,
+                        36.658936521261424
+                    ],
+                    [
+                        4.812567794308459,
+                        36.658781555073595
+                    ],
+                    [
+                        4.813067912460106,
+                        36.65847866661555
+                    ],
+                    [
+                        4.813631425870413,
+                        36.65823917341617
+                    ],
+                    [
+                        4.814173807527832,
+                        36.6581969099104
+                    ],
+                    [
+                        4.814765496608653,
+                        36.65818282207514
+                    ],
+                    [
+                        4.815364229607104,
+                        36.65818282207514
+                    ],
+                    [
+                        4.815955918687925,
+                        36.65821804166329
+                    ],
+                    [
+                        4.816519432098231,
+                        36.65844344702741
+                    ],
+                    [
+                        4.816927979320702,
+                        36.65878859899122
+                    ],
+                    [
+                        4.817414009637091,
+                        36.65911261920215
+                    ],
+                    [
+                        4.817892996035852,
+                        36.659429595495446
+                    ],
+                    [
+                        4.818357894599353,
+                        36.659802923129774
+                    ],
+                    [
+                        4.818872100586258,
+                        36.66009172375255
+                    ],
+                    [
+                        4.819407438326049,
+                        36.66031008519904
+                    ],
+                    [
+                        4.819900512560067,
+                        36.66055662231606
+                    ],
+                    [
+                        4.820492201640888,
+                        36.6609088181975
+                    ],
+                    [
+                        4.82095710020439,
+                        36.66113422356162
+                    ],
+                    [
+                        4.821569921038098,
+                        36.661324409337595
+                    ],
+                    [
+                        4.822161610118919,
+                        36.661373716761
+                    ],
+                    [
+                        4.822689903941082,
+                        36.6614230241844
+                    ],
+                    [
+                        4.823295680857161,
+                        36.661451199854916
+                    ],
+                    [
+                        4.823894413855611,
+                        36.66146528769018
+                    ],
+                    [
+                        4.824549498195092,
+                        36.66148641944306
+                    ],
+                    [
+                        4.825077792017254,
+                        36.66149346336069
+                    ],
+                    [
+                        4.825669481098075,
+                        36.66152868294883
+                    ],
+                    [
+                        4.82629638976704,
+                        36.66150050727831
+                    ],
+                    [
+                        4.826888078847861,
+                        36.66143006810203
+                    ],
+                    [
+                        4.827479767928683,
+                        36.661380760678625
+                    ],
+                    [
+                        4.828092588762391,
+                        36.66133145325522
+                    ],
+                    [
+                        4.828663146090325,
+                        36.661253970161304
+                    ],
+                    [
+                        4.829177352077229,
+                        36.66116944314976
+                    ],
+                    [
+                        4.82983243641671,
+                        36.66112013572636
+                    ],
+                    [
+                        4.830410037662274,
+                        36.66111309180873
+                    ],
+                    [
+                        4.831036946331239,
+                        36.66113422356162
+                    ],
+                    [
+                        4.83157228407103,
+                        36.66131736541997
+                    ],
+                    [
+                        4.83247390552752,
+                        36.66157799037224
+                    ],
+                    [
+                        4.832692266974013,
+                        36.66101447696193
+                    ],
+                    [
+                        4.833079682443599,
+                        36.6612257944908
+                    ],
+                    [
+                        4.832988111514425,
+                        36.66140893634915
+                    ],
+                    [
+                        4.832988111514425,
+                        36.66140893634915
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "plan-location-theoretical-reconstruction-laoues-2015",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/305777/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Path of the northern aqueduct supplying Tubusuctu via the El Ar(i)ouia cisterns as reconstructed by Laoues 2015. Georegistered Laoues 2015 Fig 4.50 in QGIS using reference points for archaeological vestiges in Laoues 2015 Tableau 4.3. Traced over the reconstruction path and exported to GeoJSON.",
+                "link": "https://pleiades.stoa.org/places/305777/plan-location-theoretical-reconstruction-laoues-2015",
+                "location_precision": "precise",
+                "snippet": "Aqueduct; 30 BC - AD 640",
+                "title": "Plan Location: Theoretical reconstruction (Laoues 2015) "
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; cleaned up references; added AAA 7 reference; direct link to AAA 6 reference; added Laoues 2015; added modern Names used by various authors for this aqueduct; added detailed location, tracing the reconstruction in Laoues 2015, which supersedes currently published locations. @thomase",
+            "modified": "2025-05-23T03:33:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T04:05:57Z",
@@ -169,9 +586,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-50m-horizontal-accuracy",
+            "accuracy_value": 50.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -188,122 +605,682 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T18:43:17Z",
+            "contributors": [],
+            "created": "2025-05-22T22:21:07Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Path of the northern aqueduct supplying Tubusuctu via the El Ar(i)ouia cisterns as reconstructed by Laoues 2015. Georegistered Laoues 2015 Fig 4.50 in QGIS using reference points for archaeological vestiges in Laoues 2015 Tableau 4.3. Traced over the reconstruction path and exported to GeoJSON.",
             "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "aqueduct"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            4.5,
-                            36.5
-                        ],
-                        [
-                            5.0,
-                            36.5
-                        ],
-                        [
-                            5.0,
-                            37.0
-                        ],
-                        [
-                            4.5,
-                            37.0
-                        ],
-                        [
-                            4.5,
-                            36.5
-                        ]
+                        4.781461854059566,
+                        36.668495117483744
+                    ],
+                    [
+                        4.783328492231205,
+                        36.668347195213535
+                    ],
+                    [
+                        4.783694775947904,
+                        36.6680936141789
+                    ],
+                    [
+                        4.784525958228106,
+                        36.66832606346065
+                    ],
+                    [
+                        4.78492041761532,
+                        36.668459897895595
+                    ],
+                    [
+                        4.785321920920163,
+                        36.66848102964848
+                    ],
+                    [
+                        4.78587839041284,
+                        36.668713478930236
+                    ],
+                    [
+                        4.786413728152631,
+                        36.66905863089405
+                    ],
+                    [
+                        4.78737874486778,
+                        36.669678495645385
+                    ],
+                    [
+                        4.788393069006331,
+                        36.670326536067236
+                    ],
+                    [
+                        4.789343997886222,
+                        36.670946400818565
+                    ],
+                    [
+                        4.789682105932406,
+                        36.67137607979393
+                    ],
+                    [
+                        4.789984994390445,
+                        36.67195368103949
+                    ],
+                    [
+                        4.790351278107144,
+                        36.672369272179594
+                    ],
+                    [
+                        4.791210636057861,
+                        36.67319341054216
+                    ],
+                    [
+                        4.792112257514351,
+                        36.673925977975564
+                    ],
+                    [
+                        4.792668727007028,
+                        36.67400346106948
+                    ],
+                    [
+                        4.793295635675993,
+                        36.673890758387415
+                    ],
+                    [
+                        4.793802797745268,
+                        36.673721704364326
+                    ],
+                    [
+                        4.794317003732173,
+                        36.673313157141855
+                    ],
+                    [
+                        4.794803034048562,
+                        36.67293982950753
+                    ],
+                    [
+                        4.795239756941549,
+                        36.67264398496712
+                    ],
+                    [
+                        4.795803270351855,
+                        36.67236222826196
+                    ],
+                    [
+                        4.796338608091646,
+                        36.672164998568356
+                    ],
+                    [
+                        4.797500854500401,
+                        36.67177053918114
+                    ],
+                    [
+                        4.798064367910707,
+                        36.67155922165228
+                    ],
+                    [
+                        4.798599705650498,
+                        36.67130564061764
+                    ],
+                    [
+                        4.799078692049259,
+                        36.6710027521596
+                    ],
+                    [
+                        4.799642205459564,
+                        36.67064351236053
+                    ],
+                    [
+                        4.800135279693582,
+                        36.67034062390249
+                    ],
+                    [
+                        4.80074810052729,
+                        36.669960252350535
+                    ],
+                    [
+                        4.803403657473358,
+                        36.67015748204414
+                    ],
+                    [
+                        4.803396613555728,
+                        36.66938265110497
+                    ],
+                    [
+                        4.803488184484904,
+                        36.66879800594178
+                    ],
+                    [
+                        4.80374880943717,
+                        36.66826971211962
+                    ],
+                    [
+                        4.804065785730467,
+                        36.66774141829746
+                    ],
+                    [
+                        4.804305278929847,
+                        36.667156773134266
+                    ],
+                    [
+                        4.804502508623455,
+                        36.66670596240602
+                    ],
+                    [
+                        4.80483357275201,
+                        36.666234019924886
+                    ],
+                    [
+                        4.805206900386337,
+                        36.6657479896085
+                    ],
+                    [
+                        4.80555205235015,
+                        36.66529717888025
+                    ],
+                    [
+                        4.806038082666539,
+                        36.66461391887026
+                    ],
+                    [
+                        4.805643623279324,
+                        36.663662989990364
+                    ],
+                    [
+                        4.805946511737363,
+                        36.66316991575635
+                    ],
+                    [
+                        4.806735430511792,
+                        36.6626697976047
+                    ],
+                    [
+                        4.807545481039107,
+                        36.66162729779563
+                    ],
+                    [
+                        4.807841325579518,
+                        36.66111309180873
+                    ],
+                    [
+                        4.808235784966731,
+                        36.66064819324523
+                    ],
+                    [
+                        4.80872181528312,
+                        36.66031712911668
+                    ],
+                    [
+                        4.809278284775798,
+                        36.660176250764096
+                    ],
+                    [
+                        4.809862929938991,
+                        36.660042416329155
+                    ],
+                    [
+                        4.810419399431668,
+                        36.65985223055317
+                    ],
+                    [
+                        4.810961781089087,
+                        36.65952116642462
+                    ],
+                    [
+                        4.811398503982074,
+                        36.659133750955036
+                    ],
+                    [
+                        4.811947929557123,
+                        36.658936521261424
+                    ],
+                    [
+                        4.812567794308459,
+                        36.658781555073595
+                    ],
+                    [
+                        4.813067912460106,
+                        36.65847866661555
+                    ],
+                    [
+                        4.813631425870413,
+                        36.65823917341617
+                    ],
+                    [
+                        4.814173807527832,
+                        36.6581969099104
+                    ],
+                    [
+                        4.814765496608653,
+                        36.65818282207514
+                    ],
+                    [
+                        4.815364229607104,
+                        36.65818282207514
+                    ],
+                    [
+                        4.815955918687925,
+                        36.65821804166329
+                    ],
+                    [
+                        4.816519432098231,
+                        36.65844344702741
+                    ],
+                    [
+                        4.816927979320702,
+                        36.65878859899122
+                    ],
+                    [
+                        4.817414009637091,
+                        36.65911261920215
+                    ],
+                    [
+                        4.817892996035852,
+                        36.659429595495446
+                    ],
+                    [
+                        4.818357894599353,
+                        36.659802923129774
+                    ],
+                    [
+                        4.818872100586258,
+                        36.66009172375255
+                    ],
+                    [
+                        4.819407438326049,
+                        36.66031008519904
+                    ],
+                    [
+                        4.819900512560067,
+                        36.66055662231606
+                    ],
+                    [
+                        4.820492201640888,
+                        36.6609088181975
+                    ],
+                    [
+                        4.82095710020439,
+                        36.66113422356162
+                    ],
+                    [
+                        4.821569921038098,
+                        36.661324409337595
+                    ],
+                    [
+                        4.822161610118919,
+                        36.661373716761
+                    ],
+                    [
+                        4.822689903941082,
+                        36.6614230241844
+                    ],
+                    [
+                        4.823295680857161,
+                        36.661451199854916
+                    ],
+                    [
+                        4.823894413855611,
+                        36.66146528769018
+                    ],
+                    [
+                        4.824549498195092,
+                        36.66148641944306
+                    ],
+                    [
+                        4.825077792017254,
+                        36.66149346336069
+                    ],
+                    [
+                        4.825669481098075,
+                        36.66152868294883
+                    ],
+                    [
+                        4.82629638976704,
+                        36.66150050727831
+                    ],
+                    [
+                        4.826888078847861,
+                        36.66143006810203
+                    ],
+                    [
+                        4.827479767928683,
+                        36.661380760678625
+                    ],
+                    [
+                        4.828092588762391,
+                        36.66133145325522
+                    ],
+                    [
+                        4.828663146090325,
+                        36.661253970161304
+                    ],
+                    [
+                        4.829177352077229,
+                        36.66116944314976
+                    ],
+                    [
+                        4.82983243641671,
+                        36.66112013572636
+                    ],
+                    [
+                        4.830410037662274,
+                        36.66111309180873
+                    ],
+                    [
+                        4.831036946331239,
+                        36.66113422356162
+                    ],
+                    [
+                        4.83157228407103,
+                        36.66131736541997
+                    ],
+                    [
+                        4.83247390552752,
+                        36.66157799037224
+                    ],
+                    [
+                        4.832692266974013,
+                        36.66101447696193
+                    ],
+                    [
+                        4.833079682443599,
+                        36.6612257944908
+                    ],
+                    [
+                        4.832988111514425,
+                        36.66140893634915
+                    ],
+                    [
+                        4.832988111514425,
+                        36.66140893634915
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:05:57Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-17T13:58:22Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-23T03:34:03Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-17T13:57:46Z",
+                    "modified": "2025-05-22T22:29:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T22:21:09Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-17T13:56:11Z",
+                    "modified": "2025-05-22T22:21:07Z",
                     "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-11-10T20:21:54Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-11-10T18:47:18Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-11-10T18:43:17Z",
-                    "modifiedBy": "sgillies"
                 }
             ],
-            "id": "batlas-location",
+            "id": "plan-location-theoretical-reconstruction-laoues-2015",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
             ],
-            "provenance": "Barrington Atlas: BAtlas 31 B3 (west of Tubusuctu)",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+                    "citationDetail": "Fig 4.50 and Tableau 4.3",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Laoues 2015",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/305777/batlas-location"
+            "title": "Plan Location: Theoretical reconstruction (Laoues 2015) ",
+            "uri": "https://pleiades.stoa.org/places/305777/plan-location-theoretical-reconstruction-laoues-2015"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "L'aqueduc d'El-Arouia",
+            "contributors": [],
+            "created": "2025-05-22T19:56:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-23T03:34:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-22T22:29:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-22T20:00:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T19:56:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-22T19:56:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "laqueduc-del-arouia",
+            "language": "fr",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WTQZHRP5",
+                    "citationDetail": "page 474",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Birebent, J. <i>Aquae romanae: richerches d’hydraulique romaine dans l’est Algérien</i>. Alger: Service des antiquites de l’Algerie, 1962.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Birebent 1962",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "L'aqueduc d'El-Arouia",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305777/laqueduc-del-arouia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "L'aqueduc de la rive gauche",
+            "contributors": [],
+            "created": "2025-05-22T20:00:08Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-23T03:34:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-22T22:29:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T20:00:09Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-22T20:00:08Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "laqueduc-de-la-rive-gauche",
+            "language": "fr",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WTQZHRP5",
+                    "citationDetail": "page 473",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Birebent, J. <i>Aquae romanae: richerches d’hydraulique romaine dans l’est Algérien</i>. Alger: Service des antiquites de l’Algerie, 1962.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Birebent 1962",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "L'aqueduc de la rive gauche",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305777/laqueduc-de-la-rive-gauche"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "L’aqueduc de la tribu de Fenaia",
+            "contributors": [],
+            "created": "2025-05-22T22:28:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-23T03:34:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-22T22:29:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T22:28:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-22T22:28:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "l2019aqueduc-de-la-tribu-de-fenaia",
+            "language": "fr",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Laoues 2015",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "L’aqueduc de la tribu de Fenaia",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305777/l2019aqueduc-de-la-tribu-de-fenaia"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
     ],
@@ -324,25 +1301,58 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=51&viewer=picture&o=bookmark&n=0&q=",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-6.132",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "6.132",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AAA",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=61&viewer=picture&o=bookmark&n=0&q=",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "7.27.7-8",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "AAA",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 6.132",
+            "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Laoues 2015",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WTQZHRP5",
+            "citationDetail": "pages 473-475",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Birebent, J. <i>Aquae romanae: richerches d’hydraulique romaine dans l’est Algérien</i>. Alger: Service des antiquites de l’Algerie, 1962.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Birebent 1962",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        4.814622249999999,
-        36.668634999999995
+        4.806735276945606,
+        36.665387762729544
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Unnamed aqueduct supplying Tubusuctu",
+    "title": "Aqueduct supplying Tubusuctu from the northwest",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/305777"
 }

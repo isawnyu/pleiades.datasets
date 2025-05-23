@@ -1,33 +1,50 @@
 {
     "@type": "Place",
     "bbox": [
-        4.783022,
-        36.669705,
-        4.783022,
-        36.669705
+        4.781417,
+        36.668528,
+        4.781417,
+        36.668528
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
             "connectsTo": "https://pleiades.stoa.org/places/305777",
-            "contributors": [],
-            "created": "2016-07-13T13:37:00Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-05-22T22:40:01Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "flows into; reference @thomase",
+                    "modified": "2025-05-23T03:12:09Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-05-22T22:40:01Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:37:01Z",
@@ -46,7 +63,19 @@
             ],
             "id": "305777",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+                    "citationDetail": "page 108",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Laoues 2015",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Unnamed aqueduct supplying Tubusuctu",
@@ -54,16 +83,27 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/305777",
         "https://pleiades.stoa.org/places/305777"
     ],
     "contributors": [
         {
-            "name": "R. Warner",
+            "name": "DARMC",
             "username": null
         },
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -72,46 +112,52 @@
             "username": "sgillies"
         },
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         }
     ],
-    "created": "2011-08-11T22:43:21Z",
+    "created": "2025-05-22T22:31:01Z",
     "creators": [
         {
             "name": "E.W.B. Fentress",
             "username": null
         }
     ],
-    "description": "Unlabeled feature captured from the Barrington Atlas",
+    "description": "Laoues 2015 identifies this location as the source of the aqueduct that supplied Tubusuctu from the northwest. It is located between modern Tighilt Messaoud and Takhlicht in the municipal territory of Fenaia Ilmaten in Algeria's Kabylia province.",
     "details": "",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    4.783022,
-                    36.669705
+                    4.781417,
+                    36.668528
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-33268",
+            "id": "gps-location-of-first-spring-capture",
             "properties": {
-                "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/183817897/darmc-location-33268",
+                "description": "Coordinates copied from Laoues 2015, Tableau 4.3, number 1.",
+                "link": "https://pleiades.stoa.org/places/183817897/gps-location-of-first-spring-capture",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 33268"
+                "snippet": "Spring; 30 BC - AD 640",
+                "title": "GPS Location of first spring capture"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": " DARMC location 33268 = related",
+            "modified": "2025-05-23T03:11:15Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "title; summary; added Laoues 2015; added associated modern name from Laoues 2015; added GPS location from Laoues 2015, which supersedes currently published DARMC location. @thomase",
+            "modified": "2025-05-23T03:10:15Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARE feature tag fix.",
             "modified": "2012-10-23T19:32:28Z",
@@ -162,9 +208,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-handheld-gps",
+            "accuracy_value": 15.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -181,113 +227,155 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC",
-                    "username": null
-                },
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-08-11T22:43:22Z",
+            "contributors": [],
+            "created": "2025-05-22T22:37:53Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 33268",
+            "description": "Coordinates copied from Laoues 2015, Tableau 4.3, number 1.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "spring"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/spring"
             ],
             "geometry": {
                 "coordinates": [
-                    4.783022,
-                    36.669705
+                    4.781417,
+                    36.668528
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T02:39:47Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T00:19:44Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-17T14:00:12Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-05-23T03:11:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-11T22:43:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-22T22:39:49Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-11T22:43:22Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T22:37:55Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-11T22:43:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-22T22:37:53Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-33268",
+            "id": "gps-location-of-first-spring-capture",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/spring"
             ],
-            "provenance": "DARMC OBJECTID: 33268",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "33268",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+                    "citationDetail": "Tableau 4.3, number 1",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 33268.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Laoues 2015",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 33268",
-            "uri": "https://pleiades.stoa.org/places/183817897/darmc-location-33268"
+            "title": "GPS Location of first spring capture",
+            "uri": "https://pleiades.stoa.org/places/183817897/gps-location-of-first-spring-capture"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-22T22:39:00Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-23T03:11:40Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-22T22:39:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-22T22:39:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-22T22:39:00Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "thala-itchouren",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+                    "citationDetail": "page 108",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Laoues 2015",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Thala Itchouren",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/183817897/thala-itchouren"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/spring"
     ],
@@ -308,29 +396,51 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&viewer=picture",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-6.132",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "6.132",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 6.132",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://dspace.ummto.dz/handle/ummto/815",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/VJA2FM5F",
+            "citationDetail": "page 108",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Laoues, Souad. “L’aqueduc de la tribu fenaia, un patrimoine archéologique en péril.” Mémoire de Magister, spécialité architecture, Université Mouloud MAMMERI de Tizi-Ouzou, 2015. https://dspace.ummto.dz/handle/ummto/815.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Laoues 2015",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "33268",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        4.783022,
-        36.669705
+        4.781417,
+        36.668528
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:ancient=2",
-        "dare:feature=manmade"
+        "dare:feature=manmade",
+        "dare:ancient=2"
     ],
-    "title": "Unnamed spring supplying Tubusuctu via aqueduct",
+    "title": "Aqueduct source at Thala Itchouren",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/183817897"
 }
