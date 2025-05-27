@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-651 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
+652 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2191,6 +2191,13 @@
 
 ### alignments:
  - [Avernus (lake)](https://pleiades.stoa.org/places/432712)
+
+
+## 11306854: River Po (Italy)
+[https://resource.manto.unh.edu/11306854](https://resource.manto.unh.edu/11306854)  
+
+### alignments:
+ - [Padus/Eridanus (river)](https://pleiades.stoa.org/places/393469)
 
 
 ## 11306921: Gaudos (island)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4352 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
+4367 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3938,6 +3938,13 @@
 
 ### alignments:
  - [Parnassus (mountain)](https://pleiades.stoa.org/places/541012)
+
+
+## GEO ID 13839: Iordanes
+[https://www.trismegistos.org/place/13839](https://www.trismegistos.org/place/13839)  
+
+### alignments:
+ - [Iordanes (river)](https://pleiades.stoa.org/places/687932)
 
 
 ## GEO ID 1384: Moiris (Birket Qarun)
@@ -11490,6 +11497,13 @@
  - [Briteiros](https://pleiades.stoa.org/places/236385)
 
 
+## GEO ID 25594: Limia (Ponte de Lima)
+[https://www.trismegistos.org/place/25594](https://www.trismegistos.org/place/25594)  
+
+### alignments:
+ - [Limia](https://pleiades.stoa.org/places/236517)
+
+
 ## GEO ID 25600: Gallaecia
 [http://www.trismegistos.org/place/25600](http://www.trismegistos.org/place/25600)  
 
@@ -12258,6 +12272,13 @@
 
 ### alignments:
  - [Oxyrhynchites Nomos](https://pleiades.stoa.org/places/736982)
+
+
+## GEO ID 2726: Abu Rawash
+[https://www.trismegistos.org/place/2726](https://www.trismegistos.org/place/2726)  
+
+### alignments:
+ - [Abu Rawash](https://pleiades.stoa.org/places/243245493)
 
 
 ## GEO ID 2727: Abu Sha'ar
@@ -13029,6 +13050,13 @@
 
 ### alignments:
  - [Scardona](https://pleiades.stoa.org/places/197502)
+
+
+## GEO ID 28821: Vindobona (Wien)u
+[https://www.trismegistos.org/place/28821](https://www.trismegistos.org/place/28821)  
+
+### alignments:
+ - [Vindobona](https://pleiades.stoa.org/places/128537)
 
 
 ## GEO ID 28829: Scarbantia (Sopron)
@@ -14492,6 +14520,13 @@
 
 ### alignments:
  - [Veleia](https://pleiades.stoa.org/places/383811)
+
+
+## GEO ID 31972: Vicohabentia (Voghenza)
+[https://www.trismegistos.org/place/31972](https://www.trismegistos.org/place/31972)  
+
+### alignments:
+ - [[Vicus Aventia]](https://pleiades.stoa.org/places/393514)
 
 
 ## GEO ID 31973: Ad Vicesimum (Morlupo)
@@ -17813,6 +17848,13 @@
  - [Persicus Sinus/Erythr(ae)um Mare](https://pleiades.stoa.org/places/29713)
 
 
+## GEO ID 35671: Aequinoctium (Fischamend)
+[http://www.trismegistos.org/place/35671](http://www.trismegistos.org/place/35671)  
+
+### alignments:
+ - [Aequinoctium](https://pleiades.stoa.org/places/128353)
+
+
 ## GEO ID 3570: Bosra
 [http://www.trismegistos.org/place/3570](http://www.trismegistos.org/place/3570)  
 
@@ -19057,6 +19099,13 @@
 
 ### alignments:
  - [Kerkinitis?](https://pleiades.stoa.org/places/226658)
+
+
+## GEO ID 38285: Tanais (Don)
+[https://www.trismegistos.org/place/38285](https://www.trismegistos.org/place/38285)  
+
+### alignments:
+ - [Tanais (river)](https://pleiades.stoa.org/places/825398)
 
 
 ## GEO ID 38298: Nymphaion (Geroyevka)
@@ -20453,13 +20502,6 @@
  - [Tell Fidain/Appadana?/Neapolis?](https://pleiades.stoa.org/places/894133)
 
 
-## GEO ID 40921: Limia (Ponte de Lima)
-[http://www.trismegistos.org/place/40921](http://www.trismegistos.org/place/40921)  
-
-### alignments:
- - [Limia](https://pleiades.stoa.org/places/236517)
-
-
 ## GEO ID 40928: Ad Rubras
 [http://www.trismegistos.org/place/40928](http://www.trismegistos.org/place/40928)  
 
@@ -20754,6 +20796,13 @@
  - [Ad Solaria](https://pleiades.stoa.org/places/403173)
 
 
+## GEO ID 41079
+[http://www.trismegistos.org/place/41079](http://www.trismegistos.org/place/41079)  
+
+### alignments:
+ - [Taberna Frigida](https://pleiades.stoa.org/places/403279)
+
+
 ## GEO ID 41080: Valvata (Cascina)
 [http://www.trismegistos.org/place/41080](http://www.trismegistos.org/place/41080)  
 
@@ -21046,6 +21095,13 @@
 
 ### alignments:
  - [‘Surontio’](https://pleiades.stoa.org/places/197533)
+
+
+## GEO ID 41142: Villa Gai
+[https://www.trismegistos.org/place/41142](https://www.trismegistos.org/place/41142)  
+
+### alignments:
+ - [Villa Gai](https://pleiades.stoa.org/places/129877)
 
 
 ## GEO ID 41143: Ad Vicesimum (Veržej)
@@ -22224,11 +22280,39 @@
  - [Ad Figlinas](https://pleiades.stoa.org/places/383544)
 
 
+## GEO ID 41780: Ad Monilia
+[https://www.trismegistos.org/place/41780](https://www.trismegistos.org/place/41780)  
+
+### alignments:
+ - [Ad Monilia](https://pleiades.stoa.org/places/383550)
+
+
+## GEO ID 41781: Ad Navalia
+[https://www.trismegistos.org/place/41781](https://www.trismegistos.org/place/41781)  
+
+### alignments:
+ - [Ad Navalia](https://pleiades.stoa.org/places/383551)
+
+
 ## GEO ID 41782: Ad Padum
 [https://www.trismegistos.org/place/41782](https://www.trismegistos.org/place/41782)  
 
 ### alignments:
  - [Ad Padum](https://pleiades.stoa.org/places/383552)
+
+
+## GEO ID 41783: Ad Solaria
+[https://www.trismegistos.org/place/41783](https://www.trismegistos.org/place/41783)  
+
+### alignments:
+ - [Ad Solaria](https://pleiades.stoa.org/places/383555)
+
+
+## GEO ID 41785: Hasta (Voltri)
+[https://www.trismegistos.org/place/41785](https://www.trismegistos.org/place/41785)  
+
+### alignments:
+ - [Hasta](https://pleiades.stoa.org/places/383670)
 
 
 ## GEO ID 41786: Quadrata
@@ -23211,7 +23295,7 @@
  - [Ad Duodecimum](https://pleiades.stoa.org/places/713204842)
 
 
-## GEO ID 42344
+## GEO ID 42344: Garumna (Garonne)
 [http://www.trismegistos.org/place/42344](http://www.trismegistos.org/place/42344)  
 
 ### alignments:
@@ -23286,6 +23370,20 @@
 
 ### alignments:
  - [Padus/Eridanus (river)](https://pleiades.stoa.org/places/393469)
+
+
+## GEO ID 42387: Labonia (Lavanestro)
+[https://www.trismegistos.org/place/42387](https://www.trismegistos.org/place/42387)  
+
+### alignments:
+ - [Labonia (river)](https://pleiades.stoa.org/places/482320244)
+
+
+## GEO ID 42393: Tigtila
+[https://www.trismegistos.org/place/42393](https://www.trismegistos.org/place/42393)  
+
+### alignments:
+ - [Tigtila](https://pleiades.stoa.org/places/856757337)
 
 
 ## GEO ID 42398: Galata (Galite)
@@ -23615,6 +23713,13 @@
 
 ### alignments:
  - [Flusor (river)](https://pleiades.stoa.org/places/413139)
+
+
+## GEO ID 42465: Misius
+[https://www.trismegistos.org/place/42465](https://www.trismegistos.org/place/42465)  
+
+### alignments:
+ - [Misius (river)](https://pleiades.stoa.org/places/416831)
 
 
 ## GEO ID 42466: Tinna (Tenna)

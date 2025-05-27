@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2102 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
+2116 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1042,6 +1042,13 @@
 
 ### alignments:
  - [Drangiane/Zarangiane (region)](https://pleiades.stoa.org/places/29547)
+
+
+## 11B2-11B5 (Talbert 3494)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3494.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3494.html)  
+
+### alignments:
+ - [Ganges (river)](https://pleiades.stoa.org/places/59822)
 
 
 ## 11B3 (Talbert 2729)
@@ -2160,6 +2167,13 @@
 
 ### alignments:
  - [Aquitania (region)](https://pleiades.stoa.org/places/138187)
+
+
+## 1B1-1B5 (Talbert 3299)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3299.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3299.html)  
+
+### alignments:
+ - [Garumna (river)](https://pleiades.stoa.org/places/138369)
 
 
 ## 1B2 (Talbert 2854)
@@ -3730,6 +3744,13 @@
  - [Latis (river)](https://pleiades.stoa.org/places/387322)
 
 
+## 2B4 (Talbert 3318)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3318.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3318.html)  
+
+### alignments:
+ - [Labonia (river)](https://pleiades.stoa.org/places/482320244)
+
+
 ## 2B4 (Talbert 827)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace827.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace827.html)  
 
@@ -3765,11 +3786,25 @@
  - [Vada Sabatia](https://pleiades.stoa.org/places/383808)
 
 
+## 2B4 (Talbert 860)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace860.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace860.html)  
+
+### alignments:
+ - [Savo/Vicus Virginis?](https://pleiades.stoa.org/places/383770)
+
+
 ## 2B4 (Talbert 861)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace861.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace861.html)  
 
 ### alignments:
  - [Alba Docilia](https://pleiades.stoa.org/places/383563)
+
+
+## 2B4 (Talbert 862)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace862.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace862.html)  
+
+### alignments:
+ - [Ad Navalia](https://pleiades.stoa.org/places/383551)
 
 
 ## 2B4 (Talbert 955)
@@ -3840,6 +3875,13 @@
 
 ### alignments:
  - [Corsica/Kyrnos (island)](https://pleiades.stoa.org/places/472063)
+
+
+## 2B5 (Talbert 3319)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3319.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3319.html)  
+
+### alignments:
+ - [Tigtila](https://pleiades.stoa.org/places/856757337)
 
 
 ## 2B5 (Talbert 830)
@@ -4890,6 +4932,13 @@
 
 ### alignments:
  - [Pistoriae](https://pleiades.stoa.org/places/403254)
+
+
+## 3B1 (Talbert 1087)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1087.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1087.html)  
+
+### alignments:
+ - [Taberna Frigida](https://pleiades.stoa.org/places/403279)
 
 
 ## 3B1 (Talbert 1088)
@@ -6013,6 +6062,20 @@
  - [Noricum (region)](https://pleiades.stoa.org/places/187490)
 
 
+## 4A2 (Talbert 1543)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1543.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1543.html)  
+
+### alignments:
+ - [Villa Gai](https://pleiades.stoa.org/places/129877)
+
+
+## 4A2 (Talbert 1544)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1544.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1544.html)  
+
+### alignments:
+ - [Aequinoctium](https://pleiades.stoa.org/places/128353)
+
+
 ## 4A2 (Talbert 1545)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1545.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1545.html)  
 
@@ -6706,6 +6769,13 @@
  - [Iader](https://pleiades.stoa.org/places/197312)
 
 
+## 4B3 (Talbert 3368)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3368.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3368.html)  
+
+### alignments:
+ - [Misus (river)](https://pleiades.stoa.org/places/413204)
+
+
 ## 4B3 (Talbert 3369)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3369.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3369.html)  
 
@@ -6865,6 +6935,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## 4B4 (Talbert 3371)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3371.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3371.html)  
+
+### alignments:
+ - [Misius (river)](https://pleiades.stoa.org/places/416831)
 
 
 ## 4B4 (Talbert 3372)
@@ -11378,6 +11455,13 @@
  - [Danuvius/Istros/Hister (river)](https://pleiades.stoa.org/places/226577)
 
 
+## 7A5-8A2 (Talbert 3435)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3435.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3435.html)  
+
+### alignments:
+ - [Tanais (river)](https://pleiades.stoa.org/places/825398)
+
+
 ## 7B1 (Talbert 1839)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1839.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1839.html)  
 
@@ -14428,6 +14512,20 @@
 
 ### alignments:
  - [Rhose](https://pleiades.stoa.org/places/682574)
+
+
+## 9C1-9C2 (Talbert 3477)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3477.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3477.html)  
+
+### alignments:
+ - [Iordanes (river)](https://pleiades.stoa.org/places/687932)
+
+
+## 9C1-9C2 (Talbert 3480)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3480.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3480.html)  
+
+### alignments:
+ - [Hieromyces (river)](https://pleiades.stoa.org/places/678183)
 
 
 ## 9C2 (Talbert 3190)

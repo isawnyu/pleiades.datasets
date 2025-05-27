@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8013 alignments exist in _Pleiades_ place references as of 2025-05-23. The following list of alignments is grouped by zotkey.
+8052 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -55,6 +55,13 @@
 
 ### alignments:
  - [Darenth](https://pleiades.stoa.org/places/79413)
+
+
+## A Ponte Navea (Q65275457)
+[https://www.wikidata.org/wiki/Q65275457](https://www.wikidata.org/wiki/Q65275457)  
+
+### alignments:
+ - [Ponte Navea](https://pleiades.stoa.org/places/237828)
 
 
 ## A Roman fort and Roman camp at Bury Barton (Q17650551)
@@ -1079,6 +1086,13 @@
 
 ### alignments:
  - [Alazones](https://pleiades.stoa.org/places/226513)
+
+
+## Alba Docilia (Q3607827)
+[https://www.wikidata.org/wiki/Q3607827](https://www.wikidata.org/wiki/Q3607827)  
+
+### alignments:
+ - [Alba Docilia](https://pleiades.stoa.org/places/383563)
 
 
 ## Alba Fucens (Q127429494)
@@ -9022,6 +9036,13 @@
  - [Charax](https://pleiades.stoa.org/places/226562)
 
 
+## Charente (Q123362)
+[https://www.wikidata.org/wiki/Q123362](https://www.wikidata.org/wiki/Q123362)  
+
+### alignments:
+ - [Carantonus (river)](https://pleiades.stoa.org/places/138269)
+
+
 ## Charisia (Q5074395)
 [https://www.wikidata.org/wiki/Q5074395](https://www.wikidata.org/wiki/Q5074395)  
 
@@ -9842,6 +9863,13 @@
  - [Coesike West temporary camps](https://pleiades.stoa.org/places/941416849)
 
 
+## Cogoleto (Q265271)
+[https://www.wikidata.org/wiki/Q265271](https://www.wikidata.org/wiki/Q265271)  
+
+### alignments:
+ - [Ad Navalia](https://pleiades.stoa.org/places/383551)
+
+
 ## Cold Knap Roman building (Q121890897)
 [https://www.wikidata.org/wiki/Q121890897](https://www.wikidata.org/wiki/Q121890897)  
 
@@ -10078,6 +10106,13 @@
 
 ### alignments:
  - [Komphloenta](https://pleiades.stoa.org/places/240938)
+
+
+## Confluentes (Q1125398)
+[https://www.wikidata.org/wiki/Q1125398](https://www.wikidata.org/wiki/Q1125398)  
+
+### alignments:
+ - [Confluentes](https://pleiades.stoa.org/places/108903)
 
 
 ## Constantiana Daphne (Q5163686)
@@ -10890,6 +10925,13 @@
 
 ### alignments:
  - [Dataleis?](https://pleiades.stoa.org/places/589752)
+
+
+## Dead Sea (Q23883)
+[https://www.wikidata.org/wiki/Q23883](https://www.wikidata.org/wiki/Q23883)  
+
+### alignments:
+ - [Mortuum Mare/Asphaltitis Limne](https://pleiades.stoa.org/places/697709)
 
 
 ## Decennovium (Q78998849)
@@ -12883,6 +12925,13 @@
  - [Hylias (river)](https://pleiades.stoa.org/places/452339)
 
 
+## Fiumorbo (Q3073099)
+[https://www.wikidata.org/wiki/Q3073099](https://www.wikidata.org/wiki/Q3073099)  
+
+### alignments:
+ - [Hieron (river)](https://pleiades.stoa.org/places/472073)
+
+
 ## Flaminio Obelisk (Q568194)
 [https://www.wikidata.org/wiki/Q568194](https://www.wikidata.org/wiki/Q568194)  
 
@@ -13485,6 +13534,13 @@
  - [Gangani](https://pleiades.stoa.org/places/358920710)
 
 
+## Ganges (Q5089)
+[https://www.wikidata.org/wiki/Q5089](https://www.wikidata.org/wiki/Q5089)  
+
+### alignments:
+ - [Ganges (river)](https://pleiades.stoa.org/places/59822)
+
+
 ## Ganglegg (Q1493490)
 [https://www.wikidata.org/wiki/Q1493490](https://www.wikidata.org/wiki/Q1493490)  
 
@@ -13560,6 +13616,13 @@
 
 ### alignments:
  - [Garni temple](https://pleiades.stoa.org/places/976360689)
+
+
+## Garonne (Q5077)
+[https://www.wikidata.org/wiki/Q5077](https://www.wikidata.org/wiki/Q5077)  
+
+### alignments:
+ - [Garumna (river)](https://pleiades.stoa.org/places/138369)
 
 
 ## Garsaura (Q11923815)
@@ -13688,11 +13751,25 @@
  - [Singilis (river)](https://pleiades.stoa.org/places/256454)
 
 
+## Genoa (Q1449)
+[https://www.wikidata.org/wiki/Q1449](https://www.wikidata.org/wiki/Q1449)  
+
+### alignments:
+ - [Genua](https://pleiades.stoa.org/places/383664)
+
+
 ## Gentinos (Q21515193)
 [https://www.wikidata.org/wiki/Q21515193](https://www.wikidata.org/wiki/Q21515193)  
 
 ### alignments:
  - [Gentinos?](https://pleiades.stoa.org/places/550546)
+
+
+## GEO ID 63068: Naro (Neretva)
+[https://www.trismegistos.org/place/63068](https://www.trismegistos.org/place/63068)  
+
+### alignments:
+ - [Naro (river)](https://pleiades.stoa.org/places/197399)
 
 
 ## GEO ID Q35958: Bosporus
@@ -15976,6 +16053,13 @@
 
 ### alignments:
  - [Idebessos](https://pleiades.stoa.org/places/638865)
+
+
+## Idice (Q723190)
+[https://www.wikidata.org/wiki/Q723190](https://www.wikidata.org/wiki/Q723190)  
+
+### alignments:
+ - [Idex (river)](https://pleiades.stoa.org/places/393440)
 
 
 ## Idistaviso (Q10752474)
@@ -19333,6 +19417,13 @@
  - [Luguvalium](https://pleiades.stoa.org/places/89234)
 
 
+## Luna (Q579763)
+[https://www.wikidata.org/wiki/Q579763](https://www.wikidata.org/wiki/Q579763)  
+
+### alignments:
+ - [Luna](https://pleiades.stoa.org/places/403235)
+
+
 ## Lunt Roman Fort (Q12061402)
 [https://www.wikidata.org/wiki/Q12061402](https://www.wikidata.org/wiki/Q12061402)  
 
@@ -20206,6 +20297,13 @@
 
 ### alignments:
  - [Mausoleum of Theodoric](https://pleiades.stoa.org/places/861709371)
+
+
+## Mausolée romain d'Ausium (Q65130675)
+[https://www.wikidata.org/wiki/Q65130675](https://www.wikidata.org/wiki/Q65130675)  
+
+### alignments:
+ - [Akbou mausoleum](https://pleiades.stoa.org/places/86063779)
 
 
 ## Mawbray Sandpit tower 16b, 680m WSW of Hailforth, part of the Roman frontier defences along the Cumbrian coast (Q17662956)
@@ -21595,6 +21693,13 @@
  - [Monastery of Simeon Stylites the Younger](https://pleiades.stoa.org/places/49430117)
 
 
+## Moneglia (Q267005)
+[https://www.wikidata.org/wiki/Q267005](https://www.wikidata.org/wiki/Q267005)  
+
+### alignments:
+ - [Ad Monilia](https://pleiades.stoa.org/places/383550)
+
+
 ## Monemvasia islet (Q25016538)
 [https://www.wikidata.org/wiki/Q25016538](https://www.wikidata.org/wiki/Q25016538)  
 
@@ -22680,6 +22785,13 @@
  - [Nar (river)](https://pleiades.stoa.org/places/413220)
 
 
+## Neretva (Q190777)
+[https://www.wikidata.org/wiki/Q190777](https://www.wikidata.org/wiki/Q190777)  
+
+### alignments:
+ - [Naro (river)](https://pleiades.stoa.org/places/197399)
+
+
 ## Nervii (Q756812)
 [https://www.wikidata.org/wiki/Q756812](https://www.wikidata.org/wiki/Q756812)  
 
@@ -22853,6 +22965,13 @@
 
 ### alignments:
  - [Nimrud](https://pleiades.stoa.org/places/894019)
+
+
+## Nippur (Q188395)
+[https://www.wikidata.org/wiki/Q188395](https://www.wikidata.org/wiki/Q188395)  
+
+### alignments:
+ - [Nippur/Nufar/‘Hippareni’](https://pleiades.stoa.org/places/912910)
 
 
 ## Nisa (Q854672)
@@ -25053,6 +25172,13 @@
  - [Roman theater at Petra](https://pleiades.stoa.org/places/612060179)
 
 
+## Petronell-Carnuntum (Q585533)
+[https://www.wikidata.org/wiki/Q585533](https://www.wikidata.org/wiki/Q585533)  
+
+### alignments:
+ - [Petronell](https://pleiades.stoa.org/places/128488)
+
+
 ## Petrozetoi (Q65046416)
 [https://www.wikidata.org/wiki/Q65046416](https://www.wikidata.org/wiki/Q65046416)  
 
@@ -25536,6 +25662,13 @@
  - [Piroboridava](https://pleiades.stoa.org/places/216932)
 
 
+## Pisae (Q17591094)
+[https://www.wikidata.org/wiki/Q17591094](https://www.wikidata.org/wiki/Q17591094)  
+
+### alignments:
+ - [Pisae](https://pleiades.stoa.org/places/403253)
+
+
 ## Pisidia (Q621805)
 [https://www.wikidata.org/wiki/Q621805](https://www.wikidata.org/wiki/Q621805)  
 
@@ -25632,6 +25765,13 @@
 
 ### alignments:
  - [Pnyx](https://pleiades.stoa.org/places/205264674)
+
+
+## Po (Q643)
+[https://www.wikidata.org/wiki/Q643](https://www.wikidata.org/wiki/Q643)  
+
+### alignments:
+ - [Padus/Eridanus (river)](https://pleiades.stoa.org/places/393469)
 
 
 ## Po di Primaro (Q3412154)
@@ -25851,6 +25991,13 @@
  - [Pons Sublicius](https://pleiades.stoa.org/places/286808786)
 
 
+## Pont d'Aël (Q844246)
+[https://www.wikidata.org/wiki/Q844246](https://www.wikidata.org/wiki/Q844246)  
+
+### alignments:
+ - [Pondel](https://pleiades.stoa.org/places/167872)
+
+
 ## Pont de Pierre (Q842514)
 [https://www.wikidata.org/wiki/Q842514](https://www.wikidata.org/wiki/Q842514)  
 
@@ -25879,11 +26026,25 @@
  - [Ariorica](https://pleiades.stoa.org/places/177453)
 
 
+## Ponte "Annibale" (Q69555721)
+[https://www.wikidata.org/wiki/Q69555721](https://www.wikidata.org/wiki/Q69555721)  
+
+### alignments:
+ - [Hannibal's Bridge (Rapallo)](https://pleiades.stoa.org/places/636310450)
+
+
 ## Ponte a Moriano (Q48414097)
 [https://www.wikidata.org/wiki/Q48414097](https://www.wikidata.org/wiki/Q48414097)  
 
 ### alignments:
  - [Ponte a Moriano](https://pleiades.stoa.org/places/403257)
+
+
+## Ponte Altinate (Q2103692)
+[https://www.wikidata.org/wiki/Q2103692](https://www.wikidata.org/wiki/Q2103692)  
+
+### alignments:
+ - [Ponte Altinate](https://pleiades.stoa.org/places/967101988)
 
 
 ## ponte Amato (Q55162587)
@@ -25921,6 +26082,20 @@
  - [Ponte da Ladeira dos Envendos](https://pleiades.stoa.org/places/256371)
 
 
+## Ponte de Lima (Q490180)
+[https://www.wikidata.org/wiki/Q490180](https://www.wikidata.org/wiki/Q490180)  
+
+### alignments:
+ - [Limia](https://pleiades.stoa.org/places/236517)
+
+
+## Ponte de Ponte de Lima (Q10351438)
+[https://www.wikidata.org/wiki/Q10351438](https://www.wikidata.org/wiki/Q10351438)  
+
+### alignments:
+ - [Ponte de Nossa Senhora da Guia](https://pleiades.stoa.org/places/381893540)
+
+
 ## Ponte de Rubiães (Q910908)
 [https://www.wikidata.org/wiki/Q910908](https://www.wikidata.org/wiki/Q910908)  
 
@@ -25933,6 +26108,20 @@
 
 ### alignments:
  - [Ponte degli Arcinelli](https://pleiades.stoa.org/places/547738699)
+
+
+## Ponte dei Saraceni, Adrano (Q108841169)
+[https://www.wikidata.org/wiki/Q108841169](https://www.wikidata.org/wiki/Q108841169)  
+
+### alignments:
+ - [Ponte dei Saraceni, Adrano](https://pleiades.stoa.org/places/636310449)
+
+
+## Ponte della Concordia (Q25053886)
+[https://www.wikidata.org/wiki/Q25053886](https://www.wikidata.org/wiki/Q25053886)  
+
+### alignments:
+ - [Ponte della Concordia, Fossombrone](https://pleiades.stoa.org/places/865293111)
 
 
 ## Ponte della Maddalena (Q2103761)
@@ -26026,6 +26215,13 @@
  - [Ponte Molino](https://pleiades.stoa.org/places/567970829)
 
 
+## Ponte Muto (Q28003411)
+[https://www.wikidata.org/wiki/Q28003411](https://www.wikidata.org/wiki/Q28003411)  
+
+### alignments:
+ - [Ponte delle Voze](https://pleiades.stoa.org/places/431472221)
+
+
 ## Ponte Nomentano (Q1351222)
 [https://www.wikidata.org/wiki/Q1351222](https://www.wikidata.org/wiki/Q1351222)  
 
@@ -26080,6 +26276,13 @@
 
 ### alignments:
  - [Pons Aelius](https://pleiades.stoa.org/places/334776903)
+
+
+## Ponte Sisto (Q586329)
+[https://www.wikidata.org/wiki/Q586329](https://www.wikidata.org/wiki/Q586329)  
+
+### alignments:
+ - [Ponte Sisto](https://pleiades.stoa.org/places/726542221)
 
 
 ## Ponte sodo (Q130380905)
@@ -26367,6 +26570,13 @@
 
 ### alignments:
  - [Portus Maurici](https://pleiades.stoa.org/places/157908)
+
+
+## Porto Recanati (Q83355)
+[https://www.wikidata.org/wiki/Q83355](https://www.wikidata.org/wiki/Q83355)  
+
+### alignments:
+ - [Potentia](https://pleiades.stoa.org/places/413272)
 
 
 ## Portus (Q2037271)
@@ -30297,6 +30507,13 @@
 
 ### alignments:
  - [Campus Caledianus](https://pleiades.stoa.org/places/679258819)
+
+
+## Q134568215
+[https://www.wikidata.org/wiki/Q134568215](https://www.wikidata.org/wiki/Q134568215)  
+
+### alignments:
+ - [Ponte Tufaro](https://pleiades.stoa.org/places/747659417)
 
 
 ## Q13464963: Deiradiotai
@@ -39920,13 +40137,6 @@
  - [Maes Howe](https://pleiades.stoa.org/places/506158212)
 
 
-## Q5077: Garonne
-[https://www.wikidata.org/wiki/Q5077](https://www.wikidata.org/wiki/Q5077)  
-
-### alignments:
- - [Garumna (river)](https://pleiades.stoa.org/places/138369)
-
-
 ## Q508651: menhir d'Er Grah
 [https://www.wikidata.org/wiki/Q508651](https://www.wikidata.org/wiki/Q508651)  
 
@@ -40016,13 +40226,6 @@
 
 ### alignments:
  - [Ausculum](https://pleiades.stoa.org/places/442487)
-
-
-## Q51895: Bovino
-[https://www.wikidata.org/wiki/Q51895](https://www.wikidata.org/wiki/Q51895)  
-
-### alignments:
- - [Vibinum/Vibarna](https://pleiades.stoa.org/places/442851)
 
 
 ## Q519033: Carsulae
@@ -46719,6 +46922,13 @@
  - [Salona](https://pleiades.stoa.org/places/197488)
 
 
+## Salso (Q24358)
+[https://www.wikidata.org/wiki/Q24358](https://www.wikidata.org/wiki/Q24358)  
+
+### alignments:
+ - [Kyamosoros (river)](https://pleiades.stoa.org/places/462273)
+
+
 ## Salt-en-Donzy (Q1106355)
 [https://www.wikidata.org/wiki/Q1106355](https://www.wikidata.org/wiki/Q1106355)  
 
@@ -47412,6 +47622,13 @@
  - [Sardinia (island)](https://pleiades.stoa.org/places/472014)
 
 
+## Sardoum Mare (Q134567182)
+[https://www.wikidata.org/wiki/Q134567182](https://www.wikidata.org/wiki/Q134567182)  
+
+### alignments:
+ - [Sardoum Mare](https://pleiades.stoa.org/places/472127)
+
+
 ## Sarmizegetusa amphitheatre (Q28996562)
 [https://www.wikidata.org/wiki/Q28996562](https://www.wikidata.org/wiki/Q28996562)  
 
@@ -47529,6 +47746,13 @@
 
 ### alignments:
  - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
+## Savona (Q13320)
+[https://www.wikidata.org/wiki/Q13320](https://www.wikidata.org/wiki/Q13320)  
+
+### alignments:
+ - [Savo/Vicus Virginis?](https://pleiades.stoa.org/places/383770)
 
 
 ## Savuto (Q605363)
@@ -53756,6 +53980,13 @@
  - [Urso/Col. Genetiva Iulia](https://pleiades.stoa.org/places/256503)
 
 
+## Usellus (Q389355)
+[]()  
+
+### alignments:
+ - [Usel(l)is](https://pleiades.stoa.org/places/472038)
+
+
 ## Uso River (Q3552694)
 [https://www.wikidata.org/wiki/Q3552694](https://www.wikidata.org/wiki/Q3552694)  
 
@@ -53824,6 +54055,13 @@
 
 ### alignments:
  - [Vaccaei](https://pleiades.stoa.org/places/236706)
+
+
+## Vada Sabatia (Q11954163)
+[https://www.wikidata.org/wiki/Q11954163](https://www.wikidata.org/wiki/Q11954163)  
+
+### alignments:
+ - [Vada Sabatia](https://pleiades.stoa.org/places/383808)
 
 
 ## Vagal
@@ -54408,6 +54646,13 @@
  - [Via Valeria](https://pleiades.stoa.org/places/770901484)
 
 
+## Vibinum (Q133275019)
+[https://www.wikidata.org/wiki/Q133275019](https://www.wikidata.org/wiki/Q133275019)  
+
+### alignments:
+ - [Vibinum/Vibarna](https://pleiades.stoa.org/places/442851)
+
+
 ## Viciana (Q16361381)
 [https://www.wikidata.org/wiki/Q16361381](https://www.wikidata.org/wiki/Q16361381)  
 
@@ -54793,6 +55038,13 @@
  - [Paduline villa](https://pleiades.stoa.org/places/922522298)
 
 
+## Villa romana di Bussana (Q4012804)
+[https://www.wikidata.org/wiki/Q4012804](https://www.wikidata.org/wiki/Q4012804)  
+
+### alignments:
+ - [Bussana](https://pleiades.stoa.org/places/157828)
+
+
 ## Villa Romana di contrada Geraci (Q38250970)
 [https://www.wikidata.org/wiki/Q38250970](https://www.wikidata.org/wiki/Q38250970)  
 
@@ -54891,6 +55143,13 @@
  - [Roman amphitheater at Viminacium](https://pleiades.stoa.org/places/227495941)
 
 
+## Vindobona (Q871525)
+[https://www.wikidata.org/wiki/Q871525](https://www.wikidata.org/wiki/Q871525)  
+
+### alignments:
+ - [Vindobona](https://pleiades.stoa.org/places/128537)
+
+
 ## Vindolanda (Q1233131)
 [https://www.wikidata.org/wiki/Q1233131](https://www.wikidata.org/wiki/Q1233131)  
 
@@ -54982,6 +55241,13 @@
  - [Vodgoriacum](https://pleiades.stoa.org/places/109441)
 
 
+## Voghenza (Q18439794)
+[https://www.wikidata.org/wiki/Q18439794](https://www.wikidata.org/wiki/Q18439794)  
+
+### alignments:
+ - [[Vicus Aventia]](https://pleiades.stoa.org/places/393514)
+
+
 ## Voghera (Q39981)
 [https://www.wikidata.org/wiki/Q39981](https://www.wikidata.org/wiki/Q39981)  
 
@@ -55036,6 +55302,13 @@
 
 ### alignments:
  - [tribus Voltinia](https://pleiades.stoa.org/places/777690772)
+
+
+## Voltri (Q1516072)
+[https://www.wikidata.org/wiki/Q1516072](https://www.wikidata.org/wiki/Q1516072)  
+
+### alignments:
+ - [Hasta](https://pleiades.stoa.org/places/383670)
 
 
 ## Volubilis (Q391215)
