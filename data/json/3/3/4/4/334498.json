@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        4.53549,
-        36.461712,
-        4.53549,
-        36.461712
+        4.9238986,
+        34.8607124,
+        4.9251845,
+        34.8620381
     ],
     "connections": [],
     "connectsWith": [],
@@ -48,28 +48,72 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 34 C3 Ausum",
-    "details": "The Barrington Atlas Directory notes: Sadouri",
+    "details": "<p>The Barrington Atlas Directory notes: Sadouri</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    4.53549,
-                    36.461712
+                    [
+                        4.9248652,
+                        34.8620381
+                    ],
+                    [
+                        4.9238986,
+                        34.8619032
+                    ],
+                    [
+                        4.9240906,
+                        34.8608121
+                    ],
+                    [
+                        4.924346,
+                        34.8607124
+                    ],
+                    [
+                        4.92467,
+                        34.8607682
+                    ],
+                    [
+                        4.9249168,
+                        34.8608244
+                    ],
+                    [
+                        4.9251845,
+                        34.8609383
+                    ],
+                    [
+                        4.925069,
+                        34.8614674
+                    ],
+                    [
+                        4.9248652,
+                        34.8620381
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-7164",
+            "id": "osm-location-of-ausum",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/334498/darmc-location-7164",
+                "description": "Representative location based on OpenStreetMap. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/334498/osm-location-of-ausum",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 7164"
+                "snippet": "Fort-2; 30 BC - AD 640",
+                "title": "OSM location of Ausum"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "removed deprecated place type",
+            "modified": "2025-05-23T18:55:20Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-05-23T18:46:36Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-11-27T04:09:05Z",
@@ -115,9 +159,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -136,85 +180,144 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-03-09T19:41:31Z",
+            "created": "2024-11-27T04:09:39Z",
             "creators": [
                 {
-                    "name": "E.W.B. Fentress",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 7164",
+            "description": "Representative location based on OpenStreetMap. Dates after BAtlDir.",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    4.53549,
-                    36.461712
+                    [
+                        4.9248652,
+                        34.8620381
+                    ],
+                    [
+                        4.9238986,
+                        34.8619032
+                    ],
+                    [
+                        4.9240906,
+                        34.8608121
+                    ],
+                    [
+                        4.924346,
+                        34.8607124
+                    ],
+                    [
+                        4.92467,
+                        34.8607682
+                    ],
+                    [
+                        4.9249168,
+                        34.8608244
+                    ],
+                    [
+                        4.9251845,
+                        34.8609383
+                    ],
+                    [
+                        4.925069,
+                        34.8614674
+                    ],
+                    [
+                        4.9248652,
+                        34.8620381
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:18:51Z",
-                    "modifiedBy": "admin"
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-05-23T23:58:20Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:00:18Z",
+                    "modified": "2025-05-23T18:50:11Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T19:41:32Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-05-23T18:50:06Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T19:41:32Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2025-05-23T18:49:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "add OSM location",
+                    "modified": "2024-11-27T04:10:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2024-11-27T04:09:39Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T19:41:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2024-11-27T04:09:39Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-7164",
+            "id": "osm-location-of-ausum",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 7164",
+            "provenance": "OpenStreetMap (Way 1338155675, version 1, osm:changeset=159641507, 2024-11-27T04:09:12Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1338155675",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "7164",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1338155675",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 7164.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1338155675",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 521 see \"Ausum\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 7164",
-            "uri": "https://pleiades.stoa.org/places/334498/darmc-location-7164"
+            "title": "OSM location of Ausum",
+            "uri": "https://pleiades.stoa.org/places/334498/osm-location-of-ausum"
         }
     ],
     "names": [
@@ -300,15 +403,96 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/334498/ausum"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-23T18:53:49Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-23T23:58:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-23T18:54:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-23T18:53:57Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-23T18:53:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-23T18:53:49Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "bir-sadouri",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=482&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "48.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Bir Sadouri, Sadouri (Bir)",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/334498/bir-sadouri"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 34 C3 Ausum",
     "references": [
@@ -366,11 +550,22 @@
             "otherIdentifier": "",
             "shortTitle": "vici.org",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "7164",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        4.53549,
-        36.461712
+        4.924524476204736,
+        34.861382088983
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
