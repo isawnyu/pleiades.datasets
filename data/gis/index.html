@@ -33,8 +33,8 @@
 
 <body>
     <h1 id="pleiades-data-for-gis"><em>Pleiades</em> Data for GIS</h1>
-    <p>Data is updated several times each week.<br />
-    Last update to this “README” document: 6 September 2022</p>
+    <p><strong>Data is updated several times each week.</strong> Last
+    update to this “README” document: 28 May 2025</p>
     <p>A collection of CSV files derived from data in the <a
     href="https://pleiades.stoa.org"><em>Pleiades</em> gazetteer of
     ancient places</a>. This collection is intended to facilitate use of
@@ -67,7 +67,12 @@
     <p>To get an envelope around the feature’s probable location(s),
     load <code>places.csv</code> again as “delimited text” but this time
     use the geometries in <code>bounding_box_wkt</code> instead of the
-    representative lat/lons.</p>
+    representative lat/lons. Or consider the new, experimental
+    <code>places_accuracy.csv</code> file, which contains not only the
+    <code>location_precision</code> field, but also an accuracy-buffered
+    concave hull around all constituent locations for the place
+    (<code>accuracy_hull</code>), as well as minimum/maximum accuracies
+    in meters.</p>
     <h2 id="more-adventures-locations">More Adventures (Locations)</h2>
     <p>The <code>locations.csv</code> file contains each location
     associated with each place. You’ll probably want to use joins to
@@ -105,6 +110,8 @@
     <li><code>place_types.csv</code>: terms from the <a
     href="https://pleiades.stoa.org/vocabularies/place-types">Place
     Types (Feature or Place Categories) Vocabulary</a></li>
+    <li><code>places_accuracy.csv</code>: matches place ids (join to
+    places.csv:id) to additional accuracy information.</li>
     <li><code>places_place_types.csv</code>: matches place ids (join to
     places.csv:id) to placetype ids (join to place_types.csv:key).</li>
     <li><code>places.csv</code>: <em>Pleiades</em> Places.</li>
@@ -149,6 +156,36 @@
     </li>
     <li>
     Applies to: <code>locations.csv</code>
+    </li>
+    </ul>
+    </dd>
+    <dt>
+    accuracy_bases
+    </dt>
+    <dd>
+    <ul>
+    <li>
+    Comma-delimited list of alphanumeric IDs (URL slugs) corresponding
+    to the Postitional Accuracy Assessments associated with all
+    “precise” locations associated with a given place.
+    </li>
+    <li>
+    Applies to: <code>places_accuracy.csv</code>
+    </li>
+    </ul>
+    </dd>
+    <dt>
+    accuracy_hull
+    </dt>
+    <dd>
+    <ul>
+    <li>
+    A concave hull calculated around all of the “precise” locations
+    associated with a given place after each has been buffered with the
+    associated <code>accuracy_radius</code>
+    </li>
+    <li>
+    Applies to: <code>places_accuracy.csv</code>
     </li>
     </ul>
     </dd>
@@ -360,6 +397,32 @@
     </ul>
     </dd>
     <dt>
+    language_tag
+    </dt>
+    <dd>
+    <ul>
+    <li>
+    An alphabetic string indicating the language and writing system of
+    the name contained in the “attested_form” field.
+    </li>
+    <li>
+    Format: A string conforming to
+    <a href="https://tools.ietf.org/rfc/bcp/bcp47.txt">IETF BCP 47
+    Language Tags</a> whose subtags are registered in the
+    <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA
+    Language Subtag Registry</a>.
+    </li>
+    <li>
+    Terms and definitions: all language tags appearing in
+    <em>Pleiades</em> data are defined in
+    <code>languages_and_scripts.csv</code>.
+    </li>
+    <li>
+    Applies to: <code>names.csv</code>.
+    </li>
+    </ul>
+    </dd>
+    <dt>
     location_precision
     </dt>
     <dd>
@@ -390,28 +453,44 @@
     </ul>
     </dd>
     <dt>
-    language_tag
+    location_types
     </dt>
     <dd>
     <ul>
     <li>
-    An alphabetic string indicating the language and writing system of
-    the name contained in the “attested_form” field.
+    Comma-delimited list of location types (e.g. “representative”)
+    assigned to all “precise” locations associated with a given place.
     </li>
     <li>
-    Format: A string conforming to
-    <a href="https://tools.ietf.org/rfc/bcp/bcp47.txt">IETF BCP 47
-    Language Tags</a> whose subtags are registered in the
-    <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA
-    Language Subtag Registry</a>.
+    Applies to: <code>places_accuracy.csv</code>.
+    </li>
+    </ul>
+    </dd>
+    <dt>
+    max_accuracy_meters
+    </dt>
+    <dd>
+    <ul>
+    <li>
+    The largest horizontal accuracy value (in meters) associated with
+    any “precise” location of a place.
     </li>
     <li>
-    Terms and definitions: all language tags appearing in
-    <em>Pleiades</em> data are defined in
-    <code>languages_and_scripts.csv</code>.
+    Applies to: <code>places_accuracy.csv</code>.
+    </li>
+    </ul>
+    </dd>
+    <dt>
+    min_accuracy_meters
+    </dt>
+    <dd>
+    <ul>
+    <li>
+    The smallest horizontal accuracy value (in meters) associated with
+    any “precise” location of a place.
     </li>
     <li>
-    Applies to: <code>names.csv</code>.
+    Applies to: <code>places_accuracy.csv</code>.
     </li>
     </ul>
     </dd>
@@ -446,7 +525,8 @@
     </li>
     <li>
     Applies to: <code>connections.csv</code>,
-    <code>locations_*.csv</code>, and <code>names.csv</code>.
+    <code>locations_*.csv</code>, <code>names.csv</code>,
+    <code>places_accuracy.csv</code>.
     </li>
     </ul>
     </dd>
@@ -570,8 +650,8 @@
     </li>
     <li>
     Applies to: <code>connections.csv</code>,
-    <code>locations_*.csv</code>, <code>names.csv</code>, and
-    <code>places.csv</code>.
+    <code>locations_*.csv</code>, <code>names.csv</code>,
+    <code>places_accuracy.csv</code>, and <code>places.csv</code>.
     </li>
     </ul>
     </dd>
@@ -622,8 +702,8 @@
     </li>
     <li>
     Applies to: <code>connections.csv</code>,
-    <code>locations_*.csv</code>, <code>names.csv</code>, and
-    <code>places.csv</code>.
+    <code>locations_*.csv</code>, <code>names.csv</code>,
+    <code>places_accuracy.csv</code>, and <code>places.csv</code>.
     </li>
     </ul>
     </dd>

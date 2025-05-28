@@ -75,7 +75,8 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
     <dd>
         <ul>
             <li>A concave hull calculated around all of the "precise" locations associated with a given place after each has been buffered with the associated `accuracy_radius`</li>
-            <li>Applies to: `places_accuracy.csv` 
+            <li>Applies to: `places_accuracy.csv`</li>
+        </ul>
     </dd>
     <dt>accuracy_radius</dt>
     <dd>
@@ -196,14 +197,14 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
     <dd>
         <ul>
             <li>The largest horizontal accuracy value (in meters) associated with any "precise" location of a place.</li>
-            <li>Applies to: `places_accuracy.csv`.
+            <li>Applies to: `places_accuracy.csv`.</li>
         </ul>
     </dd>
     <dt>min_accuracy_meters</dt>
     <dd>
         <ul>
             <li>The smallest horizontal accuracy value (in meters) associated with any "precise" location of a place.</li>
-            <li>Applies to: `places_accuracy.csv`.
+            <li>Applies to: `places_accuracy.csv`.</li>
         </ul>
     </dd>
     <dt>name_type</dt>
