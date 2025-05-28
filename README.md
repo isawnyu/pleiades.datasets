@@ -10,9 +10,9 @@ Please share notices of data reuse with the _Pleiades_ community via email to pl
 
 ## Version 4.1 - 28 May 2025
 
-### 41,200 place resources
+### 41,480 place resources
 
-Since release 4.0.1 of _pleiades.datasets_ on 6 February 2025, the _Pleiades_ gazetteer published 287 new and 2,757 updated place resources, reflecting the work of Jeffrey Becker, Sarah Bond, Catherine Bouras, Anne Chen, Birgit Christiansen, Matthew Clark, Stefano Costa, Anthony Durham, Tom Elliott, Margherita Fantoli, E.W.B. Fentress, Güner Girgin, Maxime Guénette, Greta Hawes, Brady Kiesling, Chris de Lisle, Sean Manning, Gabriel McKee, John Muccigrosso, Jamie Novotny, Gethin Rees, Rosemary Selth, R. Scott Smith, Nicolas Souchon, Néhémie Strupler, Richard Talbert, Clifflena Tiah, and Scott Vanderbilt.
+Since release 4.0.1 of _pleiades.datasets_ on 6 February 2025, the _Pleiades_ gazetteer published 287 new and 2,757 updated place resources, reflecting the work of Jeffrey Becker, Sarah Bond, Catherine Bouras, Anne Chen, Birgit Christiansen, Matthew Clark, Stefano Costa, Anthony Durham, Tom Elliott, Margherita Fantoli, E.W.B. Fentress, Güner Girgin, Maxime Guénette, Greta Hawes, Brady Kiesling, Chris de Lisle, Sean Manning, Gabriel McKee, John Muccigrosso, Jamie Novotny, Gethin Rees, Rosemary Selth, R. Scott Smith, Nicolas Souchon, Néhémie Strupler, Richard Talbert, Clifflena Tiah, and Scott Vanderbilt. As a result, this release provides documentation for 41,480 place resources.
 
 ### Highlights
 
@@ -123,11 +123,22 @@ Various indexes, potentially of value when working with _Pleiades_ content.
 
 __directory: `/data/sidebar/`__
 
-JSON files containing information about incoming links from external resources that are currently indexed. Files are named according to the corresponding _Pleiades_ ID. This data will eventually be used for a "Linked Data" widget on Pleiades place pages. This data is generated using code in the [pleiades_sidebar](https://github.com/isawnyu/pleiades_sidebar) repository. The following resources are currently checked:
-
-- Alföldy, Géza, and Christian Witschel, eds. _Epigraphic Database Heidelberg._ Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997-2021. http://edh-www.adw.uni-heidelberg.de/.
-- Brughmans, Tom, Pau de Soto, A. Pažout, and P. Bjerregaard Vahlstrup. _Itiner-e: The Digital Atlas of Ancient Roads._ 2024. https://itiner-e.org/.
-- MANTO
-- Meadows, Andrew, Sebastian Heath, and Ethan Gruber. _Nomisma.org._ New York: American Numismatic Society, 2010-. http://nomisma.org/.
-- Wikidata
-
+JSON files containing information about incoming links from external resources that are currently indexed. Files are named according to the corresponding _Pleiades_ ID. This data is used for [a "Linked Data" widget on Pleiades place pages](https://pleiades.stoa.org/help/linked-data-sidebar). This data is generated using code in the [pleiades_sidebar](https://github.com/isawnyu/pleiades_sidebar) repository. The following external sites are currently indexed for presentation in the sidebar:
+<ul>
+    <li>CFL/AGO: "Toponyme" entries from:<br>
+    Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. _Chronique Des Fouilles En Ligne = Archaeology in Greece Online._ Athens: Ecole française d’Athènes and British School at Athens, 2018-. https://chronique.efa.gr/?kroute=homepage.</li>
+    <li>Classical Temples: entries from:<br>
+    John D. Muccigrosso and Louis I. Hamilton. _Temples of the Classical World._ Rome Research Group. https://romeresearchgroup.org/database-of-temples/.</li>
+    <li>EDH: entries from the "Geographic Database" of:<br>
+    Alföldy, Géza, and Christian Witschel, eds. _Epigraphic Database Heidelberg._ Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997-2021. http://edh-www.adw.uni-heidelberg.de/.</li>
+    <li>Itiner-E: road segment entries from:<br>
+    Brughmans, Tom, Pau de Soto, A. Pažout, and P. Bjerregaard Vahlstrup. _Itiner-e: The Digital Atlas of Ancient Roads,_ 2024. https://itiner-e.org/.</li>
+    <li>MANTO: place records from:<br>
+    Hawes, Greta, and Scott Smith. _MANTO: a digital dataset of Greek myth._ 2020-. https://www.manto-myth.org/manto.</li>
+    <li>Nomisma: mint records from:<br>
+    Meadows, Andrew, Sebastian Heath, and Ethan Gruber. _Nomisma.org._ New York: American Numismatic Society, 2010-. http://nomisma.org/.</li>
+    <li>PAThs Atlas: place records from:<br>
+    Bogdani, Julian, and Paolo Rosati. _An Archaeological Atlas of Coptic Literature. PAThs - Tracking Papyrus and Parchment Paths: An Archaeological Atlas of Coptic Literature. Literary Texts in Their Geographical Context: Production, Copying, Usage, Dissemination and Storage._ Roma: Sapienza Università di Roma, 2016. https://atlas.paths-erc.eu/.</li>
+    <li>Wikidata: items in:<br>
+    _Wikidata: The Free Knowledge Base That Anyone Can Edit._ Wikimedia Foundation, 2014-. https://www.wikidata.org/.</li>
+</ul>
