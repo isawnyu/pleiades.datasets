@@ -3,18 +3,34 @@
     "bbox": [
         4.786161,
         36.194285,
-        4.786161,
-        36.194285
+        4.797511146875398,
+        36.20126488274037
     ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Warner",
+            "name": "DARMC",
             "username": null
         },
         {
             "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Richard Talbert",
+            "uri": "https://pleiades.stoa.org/author/rtalbert",
+            "username": "rtalbert"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "name": "R. Warner",
             "username": null
         },
         {
@@ -24,25 +40,21 @@
             "username": "sgillies"
         },
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
         }
     ],
-    "created": "2010-11-10T18:42:36Z",
+    "created": "2025-05-23T20:07:07Z",
     "creators": [
         {
             "name": "E.W.B. Fentress",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 31 B4 *Vanisnesi",
-    "details": "The Barrington Atlas Directory notes: Oum Sekak",
+    "description": "Extensive Roman ruins identified by Gsell (AAA, whence BAtlas) at a site he called Oum Sekak in the Hassenaoua district of modern Algeria. He estimates the site extent at 13 hectares and reports the remains of a church. An inscription that seems to provide the name of the \"genius loci\" (Genius Vanisnesi) was found in the vicinity. The site is not clearly visible in twenty-first century aerial/satellite imagery and most of the modern toponymy Gsell provides does not appear in the open-source, digital gazetteers and map tools. The site may now lie under modern development in the area.",
+    "details": "<p>The Barrington Atlas Directory notes: Oum Sekak</p>",
     "features": [
         {
             "geometry": {
@@ -54,16 +66,39 @@
             },
             "id": "darmc-location-15350",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/305181/darmc-location-15350",
                 "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARMC location 15350"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.797511146875398,
+                    36.20126488274037
+                ],
+                "type": "Point"
+            },
+            "id": "batlas-point-location",
+            "properties": {
+                "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+                "link": "https://pleiades.stoa.org/places/305181/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 640",
+                "title": "BAtlas Point Location"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; summary; place type += church; Edited; added precise book reader link for AAA reference; Edited; added EDCS-26200837 reference (evidence); Edited @thomase",
+            "modified": "2025-05-27T21:15:57Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2025-05-23T20:07:06Z",
@@ -141,7 +176,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 15350",
             "end": 640,
             "featureType": [
@@ -209,6 +244,123 @@
             "start": -30,
             "title": "DARMC location 15350",
             "uri": "https://pleiades.stoa.org/places/305181/darmc-location-15350"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-1-million-scale",
+            "accuracy_value": 1860.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Richard Talbert",
+                    "uri": "https://pleiades.stoa.org/author/rtalbert",
+                    "username": "rtalbert"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-05-23T20:06:15Z",
+            "creators": [
+                {
+                    "name": "E.W.B. Fentress",
+                    "username": null
+                }
+            ],
+            "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+            "details": "",
+            "end": 640,
+            "featureType": [
+                "settlement"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "geometry": {
+                "coordinates": [
+                    4.797511146875398,
+                    36.20126488274037
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:09:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-23T20:06:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-23T20:06:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "batlas-point-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "provenance": "BAtlas 31 B4 *Vanisnesi",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/MIAGQ5C6",
+                    "citationDetail": "31 B4 *Vanisnesi",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 487 see \"*Vanisnesi\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/305181/batlas-point-location"
         }
     ],
     "names": [
@@ -241,14 +393,16 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2010-11-10T18:42:36Z",
@@ -262,6 +416,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "Latin; evidence ",
+                    "modified": "2025-05-27T20:10:25Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:05:52Z",
@@ -284,22 +443,425 @@
                 }
             ],
             "id": "vanisnesi",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 31 B4 *Vanisnesi",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://db.edcs.eu/epigr/edcs_id.php?s_sprache=en&p_edcs_id=EDCS-26200837",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YG2BW6GH",
+                    "citationDetail": "26200837: CIL 08, 20627 = D 04490",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Clauss, Manfred, Anne Kolb, Wolfgang A. Slaby, and Barbara Woitas, eds. <i>Epigraphik-Datenbank  Clauss / Slaby</i>. Eichstätt: Universität Eichstätt-Ingolstadt, n.d. http://www.manfredclauss.de/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "EDCS",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Vanisnesi",
             "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "reconstructable",
             "uri": "https://pleiades.stoa.org/places/305181/vanisnesi"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident-inferred",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident-inferred",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-27T20:11:23Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:11:29Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-27T20:11:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-27T20:11:23Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "oum-sekak",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=160&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "15.73",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Oum Sekak",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305181/oum-sekak"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-27T20:12:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:12:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-27T20:12:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-27T20:12:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ouled-aziz",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=160&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "15.73",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ouled Aziz",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305181/ouled-aziz"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-27T20:13:05Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:13:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-27T20:13:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-27T20:13:05Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "oued-dahlia",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=160&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "15.73",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Oued Dahlia",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305181/oued-dahlia"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "حسناوة",
+            "contributors": [],
+            "created": "2025-05-27T20:15:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:16:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-05-27T20:16:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-27T20:15:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-27T20:15:31Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "hasnaoua",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/relation/4472187",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Relation: Hasnaoua (4472187)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Hasnaoua",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305181/hasnaoua"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "nineteenth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/nineteenth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-05-27T20:17:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-05-27T21:16:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-05-27T20:17:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-05-27T20:17:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-05-27T20:17:01Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "hassenaoua",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=160&viewer=picture&o=bookmark&n=0&q=",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+                    "citationDetail": "15.73",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "AAA",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Hassenaoua",
+            "start": 1800,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/305181/hassenaoua"
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/church-2",
         "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
+        "church-2",
         "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 31 B4 *Vanisnesi",
@@ -316,20 +878,31 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://bibliotheque-numerique.inha.fr/viewer/21113/?#page=160&viewer=picture&o=bookmark&n=0&q=",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#AAA-15.73",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4TV4GA6X",
+            "citationDetail": "15.73",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "AAA 15.73",
+            "formattedCitation": "<div class=\"csl-entry\">Gsell, S. <i>Atlas Archéologique de l’Algérie</i>. Algiers, Paris: Gouverment Général de l’Algérie; Adolphe Jourdan; Fontemoing et Co., 1911. http://bibliotheque-numerique.inha.fr/viewer/21113/?#page=1&amp;viewer=picture.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "AAA",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://db.edcs.eu/epigr/edcs_id.php?s_sprache=en&p_edcs_id=EDCS-26200837",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YG2BW6GH",
+            "citationDetail": "26200837: CIL 08, 20627 = D 04490",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Clauss, Manfred, Anne Kolb, Wolfgang A. Slaby, and Barbara Woitas, eds. <i>Epigraphik-Datenbank  Clauss / Slaby</i>. Eichstätt: Universität Eichstätt-Ingolstadt, n.d. http://www.manfredclauss.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDCS",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        4.786161,
-        36.194285
+        4.791836073437699,
+        36.197774941370184
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
