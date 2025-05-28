@@ -78,7 +78,7 @@ NB: RDF serializations of data for individual places — in both Turtle and RDF/
 
 __directory: `/data/changelogs/`__
 
-Monthly listings, in HTML files, of new and updated place resources since 2009. The listings include: place titles and summaries, links to the live resources on the Pleiades website using canonical URIs, and information about the creators and contributors of each resource, with a special entry for the authors of the referenced changes (includes change summary notes). 
+Monthly listings, in HTML files, of new and updated place resources since 2009. The listings include: place titles and summaries, links to the live resources on the Pleiades website using canonical URIs, and information about the creators and contributors of each resource, with a special entry for the authors of the referenced changes (includes change summary notes). The file `release.html` provides a changelog for the current release with respect to the previous release.
 
 ### Data Quality Metrics
 
