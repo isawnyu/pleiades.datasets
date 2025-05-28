@@ -1,7 +1,6 @@
 # _Pleiades_ Data for GIS
 
-Data is updated several times each week.   
-Last update to this "README" document: 6 September 2022
+__Data is updated several times each week.__ Last update to this "README" document: 28 May 2025
 
 A collection of CSV files derived from data in the [_Pleiades_ gazetteer of ancient places](https://pleiades.stoa.org). This collection is intended to facilitate use of _Pleiades_ data in geographic information systems software. Files have been tested for use in QGIS.
 
@@ -18,7 +17,7 @@ Download latest dataset: [pleiades_gis_data.zip](pleiades_gis_data.zip)
 
 **If the value in the `location_precision` field for a place is "rough", do not assume the representative point is accurate.** It may just be the centroid of a large bounding box. The accuracy of the representative point for your purposes may also be affected by the accuracy or precision of the source data or by the presence of multiple "less certain" or "uncertain" locations for a given place. "Associated modern" locations may also prove misleading.
 
-To get an envelope around the feature's probable location(s), load `places.csv` again as "delimited text" but this time use the geometries in `bounding_box_wkt` instead of the representative lat/lons.
+To get an envelope around the feature's probable location(s), load `places.csv` again as "delimited text" but this time use the geometries in `bounding_box_wkt` instead of the representative lat/lons. Or consider the new, experimental `places_accuracy.csv` file, which contains not only the `location_precision` field, but also an accuracy-buffered concave hull around all constituent locations for the place (`accuracy_hull`), as well as minimum/maximum accuracies in meters.
 
 ## More Adventures (Locations)
 
@@ -37,6 +36,7 @@ The `locations.csv` file contains each location associated with each place. You'
  - `name_types.csv`: terms from the [Name Types Vocabulary](https://pleiades.stoa.org/vocabularies/name-types)
  - `names.csv`: _Pleiades_ Names.
  - `place_types.csv`: terms from the [Place Types (Feature or Place Categories) Vocabulary](https://pleiades.stoa.org/vocabularies/place-types)
+ - `places_accuracy.csv`: matches place ids (join to places.csv:id) to additional accuracy information.
  - `places_place_types.csv`: matches place ids (join to places.csv:id) to placetype ids (join to place_types.csv:key).
  - `places.csv`: _Pleiades_ Places.
  - `README.md`: this file
@@ -62,6 +62,20 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
         <ul>
             <li>A Uniform Resource Identifier for an HTML document that describes the source, precision, and accuracy of the coordinates provided for a particular location.</li>
             <li>Applies to: `locations.csv`</li>
+        </ul>
+    </dd>
+    <dt>accuracy_bases</dt>
+    <dd>
+        <ul>
+            <li>Comma-delimited list of alphanumeric IDs (URL slugs) corresponding to the Postitional Accuracy Assessments associated with all "precise" locations associated with a given place.</li>
+            <li>Applies to: `places_accuracy.csv`</li>
+        </ul>
+    </dd>
+    <dt>accuracy_hull</dt>
+    <dd>
+        <ul>
+            <li>A concave hull calculated around all of the "precise" locations associated with a given place after each has been buffered with the associated `accuracy_radius`</li>
+            <li>Applies to: `places_accuracy.csv`</li>
         </ul>
     </dd>
     <dt>accuracy_radius</dt>
@@ -154,6 +168,15 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
             <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, and `places.csv`.</li>
         </ul>
     </dd>
+    <dt>language_tag</dt>
+    <dd>
+        <ul>
+            <li>An alphabetic string indicating the language and writing system of the name contained in the "attested_form" field.</li>
+            <li>Format: A string conforming to <a href="https://tools.ietf.org/rfc/bcp/bcp47.txt">IETF BCP 47 Language Tags</a> whose subtags are registered in the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA Language Subtag Registry</a>.</li>
+            <li>Terms and definitions: all language tags appearing in _Pleiades_ data are defined in `languages_and_scripts.csv`.</li>
+            <li>Applies to: `names.csv`.</li>
+        </ul>
+    </dd>
     <dt>location_precision</dt>
     <dd>
         <ul>
@@ -163,13 +186,25 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
             <li>Applies to: `locations_*.csv` and `places.csv`.</li>
         </ul>
     </dd>
-    <dt>language_tag</dt>
+    <dt>location_types</dt>
     <dd>
         <ul>
-            <li>An alphabetic string indicating the language and writing system of the name contained in the "attested_form" field.</li>
-            <li>Format: A string conforming to <a href="https://tools.ietf.org/rfc/bcp/bcp47.txt">IETF BCP 47 Language Tags</a> whose subtags are registered in the <a href="https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA Language Subtag Registry</a>.</li>
-            <li>Terms and definitions: all language tags appearing in _Pleiades_ data are defined in `languages_and_scripts.csv`.</li>
-            <li>Applies to: `names.csv`.</li>
+            <li>Comma-delimited list of location types (e.g. "representative") assigned to all "precise" locations associated with a given place.</li>
+            <li>Applies to: `places_accuracy.csv`.</li>
+        </ul>
+    </dd>
+    <dt>max_accuracy_meters</dt>
+    <dd>
+        <ul>
+            <li>The largest horizontal accuracy value (in meters) associated with any "precise" location of a place.</li>
+            <li>Applies to: `places_accuracy.csv`.</li>
+        </ul>
+    </dd>
+    <dt>min_accuracy_meters</dt>
+    <dd>
+        <ul>
+            <li>The smallest horizontal accuracy value (in meters) associated with any "precise" location of a place.</li>
+            <li>Applies to: `places_accuracy.csv`.</li>
         </ul>
     </dd>
     <dt>name_type</dt>
@@ -184,7 +219,7 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
     <dd>
         <ul>
             <li>An alphabetic string providing the "id" value for the place with which a particular connection, location, or name is associated. In the case of a connection, this is the place **from which** the connection originates. This field can be used to join data about related connections, names, locations, and places.</li>
-            <li>Applies to: `connections.csv`, `locations_*.csv`, and `names.csv`.</li>
+            <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, `places_accuracy.csv`.</li>
         </ul>
     </dd>
     <dt>provenance</dt>
@@ -236,7 +271,7 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
     <dd>
         <ul>
             <li>An alphanumeric string providing a title for a particular connection, location, name, or place. For more information about naming conventions in _Pleiades_, see "<a href="https://pleiades.stoa.org/help/editorial-guidelines#section-2">About Titles</a>" in the *_Pleiades_ Editorial Guidelines.*</li>
-            <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, and `places.csv`.</li>
+            <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, `places_accuracy.csv`, and `places.csv`.</li>
         </ul>
     </dd>
     <dt>transcription_accuracy</dt>
@@ -259,7 +294,7 @@ For definitions of _Pleiades_ Connections, Locations, Names, and Places see the 
     <dd>
         <ul>
             <li>A Uniform Resource Identifier uniquely identifying a particular connection, location, name, or place.</li>
-            <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, and `places.csv`.</li>
+            <li>Applies to: `connections.csv`, `locations_*.csv`, `names.csv`, `places_accuracy.csv`, and `places.csv`.</li>
         </ul>        
     </dd>
     <dt>year_after_which</dt>
