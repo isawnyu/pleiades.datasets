@@ -17,10 +17,8 @@ Since release 4.0.1 of _pleiades.datasets_ on 6 February 2025, the _Pleiades_ ga
 ### Highlights
 
 - Updated gazetteer data in this release: see "Contents" below.
-- Removed deprecated "legacy CSV" serialization. JSON or "CSV for GIS" are the recommended packages for most third-party reuse.
-- Added new "indexes" dataset: _Pleiades_ places that reference certain external resources.
-- Improved serialization of vocabulary terms in "CSV for GIS" serialization and added the previously omitted "Time Periods" vocabulary.
-- Added new "sidebar" dataset: assertions by external datasets of relationships to _Pleiades_ places.
+- Updated `data/gis/README.md` for new `places_accuracy.csv` file, which provides more horizontal accuracy data for use in GIS software.
+- Updated information about Pleiades Sidebar (q.v.)
 
 ## Overview
 
