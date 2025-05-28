@@ -8,11 +8,11 @@ In order to facilitate reproducibility and to comply with license terms, we enco
 
 Please share notices of data reuse with the _Pleiades_ community via email to pleiades.admin@nyu.edu. These reports help us to justify continued funding and operation of the gazetteer and to prioritize updates and improvements.
 
-## Version 4.0.1 - 6 February 2025
+## Version 4.1 - 28 May 2025
 
 ### 41,200 place resources
 
-Since release 3.2 of _pleiades.datasets_ on 3 November 2023, the _Pleiades_ gazetteer published 876 new and 9,555 updated place resources, reflecting the work of Johan Åhlfeldt, Ella Arnold, Jeffrey Becker, Gabriel Bodard, Sarah Bond, Catherine Bouras, Lucas Butler, Iulian Bîrzescu, Anne Chen, Birgit Christiansen, Niels Christofferson, James Cowey, Francis Deblauwe, Dan Diffendale, Anthony Durham, Denitsa Dzhigova, Tom Elliott, Jordy Didier Orellana Figueroa, Martina Filosa, Jonathan Fu, Ryosuke Furui, Maija Gierhart, Sean Gillies, Matthias Grawehr, Amelia Grissom, Maxime Guénette, Andrew Harris, Greta Hawes, Ryan M. Horne, Carolin Johansson, Daniel C. Browning Jr., Noah Kaye, Philip Kenrick, Brady Kiesling, Yaniv Korman, Mark Krier, Divya Kumar-Dumas, Thomas Landvatter, Chris de Lisle, Yuyao Liu, Stanisław Ludwiński, Sean Manning, Gabriel McKee, John Muccigrosso, Jamie Novotny, Philipp Pilhofer, Jonathan Prag, Adam Rabinowitz, Rune Rattenborg, María Jesús Redondo, Charlotte Roueché, Karen Rubinson, Thomas Seidler, Rosemary Selth, Jason M. Silverman, R. Scott Smith, Néhémie Strupler, Richard Talbert, Francis Tassaux, Clifflena Tiah, Georgios Tsolakis, Scott Vanderbilt, Athanasia Varveri and Valeria Vitale.
+Since release 4.0.1 of _pleiades.datasets_ on 6 February 2025, the _Pleiades_ gazetteer published 287 new and 2,757 updated place resources, reflecting the work of Jeffrey Becker, Sarah Bond, Catherine Bouras, Anne Chen, Birgit Christiansen, Matthew Clark, Stefano Costa, Anthony Durham, Tom Elliott, Margherita Fantoli, E.W.B. Fentress, Güner Girgin, Maxime Guénette, Greta Hawes, Brady Kiesling, Chris de Lisle, Sean Manning, Gabriel McKee, John Muccigrosso, Jamie Novotny, Gethin Rees, Rosemary Selth, R. Scott Smith, Nicolas Souchon, Néhémie Strupler, Richard Talbert, Clifflena Tiah, and Scott Vanderbilt.
 
 ### Highlights
 
@@ -43,9 +43,9 @@ The latest versions of this package can be had by fork or download from the `mai
 _Pleiades_ is brought to you by:
 
   * Our volunteer content contributors (see `data/rdf/authors.ttl` for complete list and associated identifiers or data).
-  * _Pleiades_ has received significant, periodic support from the [National Endowment for the Humanities](https://www.neh.gov) since 2006. Grant numbers: HK-230973-15, PA-51873-06, PX-50003-08, and PW-50557-10. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities. 
+  * _Pleiades_ received significant, periodic support from the [National Endowment for the Humanities](https://www.neh.gov) between 2006 and 2019. Grant numbers: HK-230973-15, PA-51873-06, PX-50003-08, and PW-50557-10. Any views, findings, conclusions, or recommendations expressed in this publication do not necessarily reflect those of the National Endowment for the Humanities. 
   * Web hosting and additional support has been provided since 2008 by the [Institute for the Study of the Ancient World](https://isaw.nyu.edu) at New York University.
-  * Additional support has been provided since 2000 by the [Ancient World Mapping Center](https://awmc.unc.edu) at the University of North Carolina at Chapel Hill. 
+  * Additional support and in-kind collaboration has been provided since 2000 by the [Ancient World Mapping Center](https://awmc.unc.edu) at the University of North Carolina at Chapel Hill. 
   * Development hosting and other project incubation support was provided between 2000 and 2008 by [Ross Scaife](https://en.wikipedia.org/wiki/Ross_Scaife) and the [Stoa Consortium](https://www.stoa.org/).
   
 ## Contents
