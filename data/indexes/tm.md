@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4367 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
+4376 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9732,6 +9732,13 @@
  - [Treveri](https://pleiades.stoa.org/places/109390)
 
 
+## GEO ID 20744: Augusta (Aouste-sur-Sye)
+[https://www.trismegistos.org/place/20744](https://www.trismegistos.org/place/20744)  
+
+### alignments:
+ - [Augusta](https://pleiades.stoa.org/places/167658)
+
+
 ## GEO ID 20746: Apta Iulia (Apt)
 [http://www.trismegistos.org/place/20746](http://www.trismegistos.org/place/20746)  
 
@@ -9781,6 +9788,13 @@
  - [ Sardis/Hyde?](https://pleiades.stoa.org/places/550867)
 
 
+## GEO ID 20958
+[http://www.trismegistos.org/place/20958](http://www.trismegistos.org/place/20958)  
+
+### alignments:
+ - [Col. Dea Vocontiorum](https://pleiades.stoa.org/places/167716)
+
+
 ## GEO ID 2096: Schedia (El-Giza)
 [http://www.trismegistos.org/place/2096](http://www.trismegistos.org/place/2096)  
 
@@ -9793,6 +9807,13 @@
 
 ### alignments:
  - [Ugernum](https://pleiades.stoa.org/places/148223)
+
+
+## GEO ID 20994: Morginnum (Moirans)
+[https://www.trismegistos.org/place/20994](https://www.trismegistos.org/place/20994)  
+
+### alignments:
+ - [Morginnum](https://pleiades.stoa.org/places/167845)
 
 
 ## GEO ID 21042: Carpentorate (Carpentras)
@@ -9935,6 +9956,13 @@
  - [Mons Seleucus](https://pleiades.stoa.org/places/167836)
 
 
+## GEO ID 21444
+[http://www.trismegistos.org/place/21444](http://www.trismegistos.org/place/21444)  
+
+### alignments:
+ - [Col. Valentia](https://pleiades.stoa.org/places/167718)
+
+
 ## GEO ID 21466: Condatomagus (La Graufesenque)
 [https://www.trismegistos.org/place/21466](https://www.trismegistos.org/place/21466)  
 
@@ -10038,6 +10066,13 @@
 
 ### alignments:
  - [Segustero](https://pleiades.stoa.org/places/157925)
+
+
+## GEO ID 21975: Turedonnum (Tourdan)
+[https://www.trismegistos.org/place/21975](https://www.trismegistos.org/place/21975)  
+
+### alignments:
+ - [Turedonnum](https://pleiades.stoa.org/places/167942)
 
 
 ## GEO ID 21977: Ad Turrem (Tourves)
@@ -10830,6 +10865,13 @@
 
 ### alignments:
  - [Themistou Meris](https://pleiades.stoa.org/places/737082)
+
+
+## GEO ID 23695: Tinurtium (Tournus)
+[https://www.trismegistos.org/place/23695](https://www.trismegistos.org/place/23695)  
+
+### alignments:
+ - [Tinurtium](https://pleiades.stoa.org/places/177641)
 
 
 ## GEO ID 236: Aphroditopolis (Atfih)
@@ -12062,6 +12104,13 @@
 
 ### alignments:
  - [Alba Longa](https://pleiades.stoa.org/places/422824)
+
+
+## GEO ID 26650: Urbiaca (Albarracín)
+[http://www.trismegistos.org/place/26650](http://www.trismegistos.org/place/26650)  
+
+### alignments:
+ - [Urbiaca](https://pleiades.stoa.org/places/270381)
 
 
 ## GEO ID 26704: Celsa (Velilla de Ebro)
@@ -24205,6 +24254,13 @@
  - [Alpes Numidicae](https://pleiades.stoa.org/places/305028)
 
 
+## GEO ID 42779: Alpes Iuliae
+[http://www.trismegistos.org/place/42779](http://www.trismegistos.org/place/42779)  
+
+### alignments:
+ - [Alpes Iuliae](https://pleiades.stoa.org/places/197108)
+
+
 ## GEO ID 42782: Uxama Barca (Osma de Vadegobía)
 [http://www.trismegistos.org/place/42782](http://www.trismegistos.org/place/42782)  
 
@@ -26901,6 +26957,13 @@
 
 ### alignments:
  - [Jmr-t](https://pleiades.stoa.org/places/776186)
+
+
+## GEO ID 50048: Namnatius Portus?
+[www.trismegistos.org/place/50048](www.trismegistos.org/place/50048)  
+
+### alignments:
+ - [Namnatius Portus](https://pleiades.stoa.org/places/271065)
 
 
 ## GEO ID 50049: Namnasa (Nansa)

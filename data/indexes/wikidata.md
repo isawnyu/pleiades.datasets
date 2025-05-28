@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8052 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
+8066 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2486,6 +2486,13 @@
 
 ### alignments:
  - [*Anzoulada](https://pleiades.stoa.org/places/619108)
+
+
+## Aouste-sur-Sye (Q863614)
+[https://www.wikidata.org/wiki/Q863614](https://www.wikidata.org/wiki/Q863614)  
+
+### alignments:
+ - [Augusta](https://pleiades.stoa.org/places/167658)
 
 
 ## Aoös (Q81503)
@@ -5220,6 +5227,13 @@
  - [Beni Hasan](https://pleiades.stoa.org/places/112509596)
 
 
+## Bent Pyramid (Q459608)
+[https://www.wikidata.org/wiki/Q459608](https://www.wikidata.org/wiki/Q459608)  
+
+### alignments:
+ - [Bent Pyramid](https://pleiades.stoa.org/places/412852518)
+
+
 ## Bentumersiel (Q1610815)
 [https://www.wikidata.org/wiki/Q1610815](https://www.wikidata.org/wiki/Q1610815)  
 
@@ -7361,6 +7375,13 @@
 
 ### alignments:
  - [Garn Fadryn](https://pleiades.stoa.org/places/886371212)
+
+
+## Carnic Alps (Q660390)
+[https://www.wikidata.org/wiki/Q660390](https://www.wikidata.org/wiki/Q660390)  
+
+### alignments:
+ - [Alpes Carnicae](https://pleiades.stoa.org/places/187269)
 
 
 ## Carnuntum (Q508815)
@@ -10927,6 +10948,13 @@
  - [Dataleis?](https://pleiades.stoa.org/places/589752)
 
 
+## Dea Augusta Vocontiorum (Q86724954)
+[https://www.wikidata.org/wiki/Q86724954](https://www.wikidata.org/wiki/Q86724954)  
+
+### alignments:
+ - [Col. Dea Vocontiorum](https://pleiades.stoa.org/places/167716)
+
+
 ## Dead Sea (Q23883)
 [https://www.wikidata.org/wiki/Q23883](https://www.wikidata.org/wiki/Q23883)  
 
@@ -11662,6 +11690,13 @@
 
 ### alignments:
  - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
+
+
+## Drôme (Q743296)
+[https://www.wikidata.org/wiki/Q743296](https://www.wikidata.org/wiki/Q743296)  
+
+### alignments:
+ - [Druna (river)](https://pleiades.stoa.org/places/167745)
 
 
 ## Dubris (Q2105460)
@@ -12944,6 +12979,13 @@
 
 ### alignments:
  - [Flavia Solva](https://pleiades.stoa.org/places/197273)
+
+
+## Flaviac (Q24117)
+[https://www.wikidata.org/wiki/Q24117](https://www.wikidata.org/wiki/Q24117)  
+
+### alignments:
+ - [Flaviac](https://pleiades.stoa.org/places/167767)
 
 
 ## Flavian Palace (Q529806)
@@ -15334,6 +15376,13 @@
  - [Hochdorf Chieftain's Grave](https://pleiades.stoa.org/places/392649590)
 
 
+## Holt Roman tilery (Q121411329)
+[https://www.wikidata.org/wiki/Q121411329](https://www.wikidata.org/wiki/Q121411329)  
+
+### alignments:
+ - [Bovium?](https://pleiades.stoa.org/places/79340)
+
+
 ## Horace's Villa (Q4012755)
 [https://www.wikidata.org/wiki/Q4012755](https://www.wikidata.org/wiki/Q4012755)  
 
@@ -16767,6 +16816,13 @@
 
 ### alignments:
  - [Iudaea (province)](https://pleiades.stoa.org/places/981527)
+
+
+## Julian Alps (Q119206)
+[https://www.wikidata.org/wiki/Q119206](https://www.wikidata.org/wiki/Q119206)  
+
+### alignments:
+ - [Alpes Iuliae](https://pleiades.stoa.org/places/197108)
 
 
 ## Julian Column (Q1712135)
@@ -19389,6 +19445,13 @@
  - [Pumsaint Roman Fort (ancient Louentinon?)](https://pleiades.stoa.org/places/79578)
 
 
+## Lugdunum (Q665)
+[https://www.wikidata.org/wiki/Q665](https://www.wikidata.org/wiki/Q665)  
+
+### alignments:
+ - [Col. Lugdunum](https://pleiades.stoa.org/places/167717)
+
+
 ## Lugdunum Convenarum (Q1876013)
 [https://www.wikidata.org/wiki/Q1876013](https://www.wikidata.org/wiki/Q1876013)  
 
@@ -19975,6 +20038,13 @@
 
 ### alignments:
  - [Mansfield Woodhouse](https://pleiades.stoa.org/places/79593)
+
+
+## Mansio romana (Q97596876)
+[https://www.wikidata.org/wiki/Q97596876](https://www.wikidata.org/wiki/Q97596876)  
+
+### alignments:
+ - [Turrita](https://pleiades.stoa.org/places/409240)
 
 
 ## Mantala (Q21556423)
@@ -31649,6 +31719,13 @@
 
 ### alignments:
  - [Aigition](https://pleiades.stoa.org/places/540608)
+
+
+## Q16008668
+[https://www.wikidata.org/wiki/Q16008668](https://www.wikidata.org/wiki/Q16008668)  
+
+### alignments:
+ - [Castelnau-Montratier](https://pleiades.stoa.org/places/138277)
 
 
 ## Q160483: Chios
@@ -51817,13 +51894,6 @@
  - [Telos (island)](https://pleiades.stoa.org/places/599961)
 
 
-## Tilston (Q2517425)
-[https://www.wikidata.org/wiki/Q2517425](https://www.wikidata.org/wiki/Q2517425)  
-
-### alignments:
- - [Bovium?](https://pleiades.stoa.org/places/79340)
-
-
 ## Tilurium (Q3511836)
 [https://www.wikidata.org/wiki/Q3511836](https://www.wikidata.org/wiki/Q3511836)  
 
@@ -54099,6 +54169,13 @@
  - [Tempe](https://pleiades.stoa.org/places/541131)
 
 
+## Valence (Q8848)
+[https://www.wikidata.org/wiki/Q8848](https://www.wikidata.org/wiki/Q8848)  
+
+### alignments:
+ - [Col. Valentia](https://pleiades.stoa.org/places/167718)
+
+
 ## Valentia Edetanorum (Q9092331)
 [https://www.wikidata.org/wiki/Q9092331](https://www.wikidata.org/wiki/Q9092331)  
 
@@ -54251,6 +54328,13 @@
 
 ### alignments:
  - [tribus Velina](https://pleiades.stoa.org/places/67911853)
+
+
+## Velinae (Q134589185)
+[https://www.wikidata.org/wiki/Q134589185](https://www.wikidata.org/wiki/Q134589185)  
+
+### alignments:
+ - [Velinae](https://pleiades.stoa.org/places/409242)
 
 
 ## Velino (Q1235462)
@@ -54744,6 +54828,13 @@
  - [Vi(n)genna (river)](https://pleiades.stoa.org/places/138652)
 
 
+## Vienne (Samian Ware Discovery Site) (Q103199138)
+[https://www.wikidata.org/wiki/Q103199138](https://www.wikidata.org/wiki/Q103199138)  
+
+### alignments:
+ - [Col. Vienna](https://pleiades.stoa.org/places/167719)
+
+
 ## Vigna Parrocchiale archaeological area (Q104147049)
 [https://www.wikidata.org/wiki/Q104147049](https://www.wikidata.org/wiki/Q104147049)  
 
@@ -54903,6 +54994,13 @@
 
 ### alignments:
  - [Villa of Manlius Vopiscus](https://pleiades.stoa.org/places/766267487)
+
+
+## Villa of Numisia Procula (Q134591834)
+[https://www.wikidata.org/wiki/Q134591834](https://www.wikidata.org/wiki/Q134591834)  
+
+### alignments:
+ - [Villa of Numisia Procula](https://pleiades.stoa.org/places/141644886)
 
 
 ## Villa of the Antonines (Q107453713)

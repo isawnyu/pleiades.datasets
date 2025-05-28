@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2116 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
+2120 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3394,6 +3394,13 @@
  - [Batiana](https://pleiades.stoa.org/places/167668)
 
 
+## 2B1 (Talbert 791)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace791.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace791.html)  
+
+### alignments:
+ - [Col. Valentia](https://pleiades.stoa.org/places/167718)
+
+
 ## 2B1 (Talbert 794)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace794.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace794.html)  
 
@@ -3422,6 +3429,13 @@
  - [Augusta](https://pleiades.stoa.org/places/167659)
 
 
+## 2B1 (Talbert 810)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace810.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace810.html)  
+
+### alignments:
+ - [Turedonnum](https://pleiades.stoa.org/places/167942)
+
+
 ## 2B1 (Talbert 811)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace811.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace811.html)  
 
@@ -3441,6 +3455,20 @@
 
 ### alignments:
  - [Figlinae](https://pleiades.stoa.org/places/167765)
+
+
+## 2B1 (Talbert 820)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace820.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace820.html)  
+
+### alignments:
+ - [Augusta](https://pleiades.stoa.org/places/167658)
+
+
+## 2B1 (Talbert 821)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace821.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace821.html)  
+
+### alignments:
+ - [Col. Dea Vocontiorum](https://pleiades.stoa.org/places/167716)
 
 
 ## 2B1 (Talbert 822)

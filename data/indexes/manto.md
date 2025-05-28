@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-652 alignments exist in _Pleiades_ place references as of 2025-05-27. The following list of alignments is grouped by zotkey.
+653 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2065,6 +2065,13 @@
 
 ### alignments:
  - [Hydaspes/Bidaspes (river)](https://pleiades.stoa.org/places/59837)
+
+
+## 11299774: Lougdounon (Gaul)
+[https://resource.manto.unh.edu/11299774](https://resource.manto.unh.edu/11299774)  
+
+### alignments:
+ - [Col. Lugdunum](https://pleiades.stoa.org/places/167717)
 
 
 ## 11299930: Mount Rhodope (Thrace)
