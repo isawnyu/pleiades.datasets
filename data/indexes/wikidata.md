@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8066 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
+8084 alignments exist in _Pleiades_ place references as of 2025-05-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -673,6 +673,13 @@
 
 ### alignments:
  - [Semachonitis L.](https://pleiades.stoa.org/places/678385)
+
+
+## Agathyrnum (Q4691586)
+[https://www.wikidata.org/wiki/Q4691586](https://www.wikidata.org/wiki/Q4691586)  
+
+### alignments:
+ - [Agathyrnum](https://pleiades.stoa.org/places/462079)
 
 
 ## Ager Gallicus (Q644966)
@@ -2649,6 +2656,13 @@
  - [Aqua Appia](https://pleiades.stoa.org/places/423562)
 
 
+## Aquae Caeretanae (Q118898622)
+[https://www.wikidata.org/wiki/Q118898622](https://www.wikidata.org/wiki/Q118898622)  
+
+### alignments:
+ - [Aquae Caeretanae](https://pleiades.stoa.org/places/432688)
+
+
 ## Aquae Cutiliae (Q383071)
 [https://www.wikidata.org/wiki/Q383071](https://www.wikidata.org/wiki/Q383071)  
 
@@ -3887,6 +3901,13 @@
 
 ### alignments:
  - [Athmonon](https://pleiades.stoa.org/places/579887)
+
+
+## Athribis (Q755734)
+[https://www.wikidata.org/wiki/Q755734](https://www.wikidata.org/wiki/Q755734)  
+
+### alignments:
+ - [Athribis (Lower Egypt)](https://pleiades.stoa.org/places/727078)
 
 
 ## Athribis (Q755738)
@@ -6822,6 +6843,13 @@
 
 ### alignments:
  - [Cafer Höyük](https://pleiades.stoa.org/places/673008674)
+
+
+## Cagliari (Q1897)
+[https://www.wikidata.org/wiki/Q1897](https://www.wikidata.org/wiki/Q1897)  
+
+### alignments:
+ - [Caralis](https://pleiades.stoa.org/places/471899)
 
 
 ## Cahercommaun (Q369004)
@@ -10267,6 +10295,13 @@
 
 ### alignments:
  - [Corniculum](https://pleiades.stoa.org/places/422910)
+
+
+## Cornus (Q1134283)
+[https://www.wikidata.org/wiki/Q1134283](https://www.wikidata.org/wiki/Q1134283)  
+
+### alignments:
+ - [Cornus](https://pleiades.stoa.org/places/471907)
 
 
 ## Corsica and Sardinia (Q281345)
@@ -15033,6 +15068,13 @@
  - [Hellenopolis](https://pleiades.stoa.org/places/23296898)
 
 
+## Helsby hill fort (Q5710393)
+[https://www.wikidata.org/wiki/Q5710393](https://www.wikidata.org/wiki/Q5710393)  
+
+### alignments:
+ - [Helsby Hillfort](https://pleiades.stoa.org/places/433307613)
+
+
 ## Hembury (Q3784763)
 [https://www.wikidata.org/wiki/Q3784763](https://www.wikidata.org/wiki/Q3784763)  
 
@@ -17349,6 +17391,13 @@
 
 ### alignments:
  - [Kephisia](https://pleiades.stoa.org/places/579972)
+
+
+## Kepoi (Q3555347)
+[https://www.wikidata.org/wiki/Q3555347](https://www.wikidata.org/wiki/Q3555347)  
+
+### alignments:
+ - [Kepoi](https://pleiades.stoa.org/places/854695)
 
 
 ## Kerameis (Q13445947)
@@ -22463,6 +22512,13 @@
  - [Nesis? (river)](https://pleiades.stoa.org/places/857246)
 
 
+## Mâcon (Q174247)
+[https://www.wikidata.org/wiki/Q174247](https://www.wikidata.org/wiki/Q174247)  
+
+### alignments:
+ - [Matisco](https://pleiades.stoa.org/places/177577)
+
+
 ## Ménec alignments (Q2179460)
 [https://www.wikidata.org/wiki/Q2179460](https://www.wikidata.org/wiki/Q2179460)  
 
@@ -22531,6 +22587,13 @@
 
 ### alignments:
  - [Namare](https://pleiades.stoa.org/places/118857)
+
+
+## Namnatius Portus? (Q134600520)
+[https://www.wikidata.org/wiki/Q134600520](https://www.wikidata.org/wiki/Q134600520)  
+
+### alignments:
+ - [Namnatius Portus](https://pleiades.stoa.org/places/271065)
 
 
 ## Naqa (Q1760360)
@@ -23357,6 +23420,13 @@
 
 ### alignments:
  - [Nuraghe Cuccurada](https://pleiades.stoa.org/places/347679708)
+
+
+## Nuraghe di Baccu Idda (Q40962634)
+[https://www.wikidata.org/wiki/Q40962634](https://www.wikidata.org/wiki/Q40962634)  
+
+### alignments:
+ - [Nuraghe Baccu Idda](https://pleiades.stoa.org/places/24058407)
 
 
 ## Nuraghe Diana (Q25385631)
@@ -25333,6 +25403,13 @@
  - [Phalerikon Teichos](https://pleiades.stoa.org/places/585129)
 
 
+## Phanagoria (Q1344411)
+[https://www.wikidata.org/wiki/Q1344411](https://www.wikidata.org/wiki/Q1344411)  
+
+### alignments:
+ - [Phanagor(e)ia](https://pleiades.stoa.org/places/854724)
+
+
 ## Pharae (Q1571214)
 [https://www.wikidata.org/wiki/Q1571214](https://www.wikidata.org/wiki/Q1571214)  
 
@@ -27125,6 +27202,13 @@
  - [Pyramid of Amenemhat I](https://pleiades.stoa.org/places/203499429)
 
 
+## Pyramid of Ameny Qemau (Q462453)
+[https://www.wikidata.org/wiki/Q462453](https://www.wikidata.org/wiki/Q462453)  
+
+### alignments:
+ - [Pyramid of Ameny Qemau](https://pleiades.stoa.org/places/245762763)
+
+
 ## Pyramid of Djedkare-Isesi (Q1232134)
 [https://www.wikidata.org/wiki/Q1232134](https://www.wikidata.org/wiki/Q1232134)  
 
@@ -27165,6 +27249,13 @@
 
 ### alignments:
  - [Pyramid of Senusret II](https://pleiades.stoa.org/places/539358755)
+
+
+## Pyramid of Senusret III (Q1752090)
+[https://www.wikidata.org/wiki/Q1752090](https://www.wikidata.org/wiki/Q1752090)  
+
+### alignments:
+ - [Pyramid-complex of Senusret III](https://pleiades.stoa.org/places/2367889)
 
 
 ## Pyramid of Teti (Q1278166)
@@ -33809,6 +33900,13 @@
  - [Curiae Veteres](https://pleiades.stoa.org/places/345477553)
 
 
+## Q20009240
+[https://www.wikidata.org/wiki/Q20009240](https://www.wikidata.org/wiki/Q20009240)  
+
+### alignments:
+ - [Monte Manganello](https://pleiades.stoa.org/places/462352)
+
+
 ## Q20009488: Terme Romane
 [https://www.wikidata.org/wiki/Q20009488](https://www.wikidata.org/wiki/Q20009488)  
 
@@ -39877,13 +39975,6 @@
  - [Amphikleia](https://pleiades.stoa.org/places/540629)
 
 
-## Q47491965: Nuraghe Baccu Idda
-[https://www.wikidata.org/wiki/Q47491965](https://www.wikidata.org/wiki/Q47491965)  
-
-### alignments:
- - [Nuraghe Baccu Idda](https://pleiades.stoa.org/places/24058407)
-
-
 ## Q475012: Amphitheatrum Castrense
 [https://www.wikidata.org/wiki/Q475012](https://www.wikidata.org/wiki/Q475012)  
 
@@ -45872,6 +45963,20 @@
  - [Puente Mayor del Tormes](https://pleiades.stoa.org/places/237851)
 
 
+## Roman camp 50m south of Elm Bank (Q17674041)
+[https://www.wikidata.org/wiki/Q17674041](https://www.wikidata.org/wiki/Q17674041)  
+
+### alignments:
+ - [Waverton Temporary Camp](https://pleiades.stoa.org/places/523130739)
+
+
+## Roman camp at Upton, 400m east of the water tower north of Long Lane (Q17662752)
+[https://www.wikidata.org/wiki/Q17662752](https://www.wikidata.org/wiki/Q17662752)  
+
+### alignments:
+ - [Upton-by-Chester](https://pleiades.stoa.org/places/2297027)
+
+
 ## Roman camp, 290m north west of Seldom Seen (Q17643393)
 [https://www.wikidata.org/wiki/Q17643393](https://www.wikidata.org/wiki/Q17643393)  
 
@@ -47522,6 +47627,13 @@
 
 ### alignments:
  - [Sant Agustí Vell](https://pleiades.stoa.org/places/142936702)
+
+
+## Sant'Agata di Militello (Q491724)
+[https://www.wikidata.org/wiki/Q491724](https://www.wikidata.org/wiki/Q491724)  
+
+### alignments:
+ - [Sant'Agata di Militello](https://pleiades.stoa.org/places/880325202)
 
 
 ## Sant'Agnese fuori le mura (Q1636696)
@@ -51964,6 +52076,13 @@
  - [Tincausari](https://pleiades.stoa.org/places/364022)
 
 
+## Tindari (Q671481)
+[https://www.wikidata.org/wiki/Q671481](https://www.wikidata.org/wiki/Q671481)  
+
+### alignments:
+ - [Tyndaris](https://pleiades.stoa.org/places/462527)
+
+
 ## Tinde (Q29788187)
 [https://www.wikidata.org/wiki/Q29788187](https://www.wikidata.org/wiki/Q29788187)  
 
@@ -54671,6 +54790,13 @@
 
 ### alignments:
  - [via Taranto columbaria](https://pleiades.stoa.org/places/116905947)
+
+
+## Via Pompeia (Q50233639)
+[https://www.wikidata.org/wiki/Q50233639](https://www.wikidata.org/wiki/Q50233639)  
+
+### alignments:
+ - [Via Pompeia?](https://pleiades.stoa.org/places/499882358)
 
 
 ## Via Popilia (Q1235451)

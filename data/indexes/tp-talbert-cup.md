@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2120 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
+2124 alignments exist in _Pleiades_ place references as of 2025-05-29. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -10201,6 +10201,13 @@
  - [Cephaloedium](https://pleiades.stoa.org/places/462154)
 
 
+## 6B1 (Talbert 1496)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1496.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1496.html)  
+
+### alignments:
+ - [Calacte](https://pleiades.stoa.org/places/462123)
+
+
 ## 6B1 (Talbert 1497)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1497.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1497.html)  
 
@@ -10850,6 +10857,13 @@
 
 ### alignments:
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
+
+
+## 6C1 (Talbert 3016)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3016.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3016.html)  
+
+### alignments:
+ - [Girba?](https://pleiades.stoa.org/places/344383)
 
 
 ## 6C1 (Talbert 3017)
@@ -12218,6 +12232,13 @@
  - [Kalos Limen?](https://pleiades.stoa.org/places/226646)
 
 
+## 8A1 (Talbert 2807)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2807.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2807.html)  
+
+### alignments:
+ - [Kazeka](https://pleiades.stoa.org/places/854694)
+
+
 ## 8A1 (Talbert 2808)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2808.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2808.html)  
 
@@ -13518,6 +13539,13 @@
 
 ### alignments:
  - [Trapezus](https://pleiades.stoa.org/places/857359)
+
+
+## 9A2 (Talbert 2832)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2832.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2832.html)  
+
+### alignments:
+ - [Achaia (region)](https://pleiades.stoa.org/places/825220)
 
 
 ## 9A2 (Talbert 3187)

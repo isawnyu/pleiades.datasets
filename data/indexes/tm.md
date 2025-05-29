@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4376 alignments exist in _Pleiades_ place references as of 2025-05-28. The following list of alignments is grouped by zotkey.
+4381 alignments exist in _Pleiades_ place references as of 2025-05-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7758,6 +7758,13 @@
  - [Horrea Caelia](https://pleiades.stoa.org/places/315041)
 
 
+## GEO ID 17171: Girba (Houmt Souk)
+[https://www.trismegistos.org/place/17171](https://www.trismegistos.org/place/17171)  
+
+### alignments:
+ - [Girba?](https://pleiades.stoa.org/places/344383)
+
+
 ## GEO ID 17180: Biia (Ain Batria)
 [http://www.trismegistos.org/place/17180](http://www.trismegistos.org/place/17180)  
 
@@ -10271,6 +10278,13 @@
  - [Pan(h)ormus](https://pleiades.stoa.org/places/462410)
 
 
+## GEO ID 22282: Kalakte (Caronia)
+[http://www.trismegistos.org/place/22282](http://www.trismegistos.org/place/22282)  
+
+### alignments:
+ - [Calacte](https://pleiades.stoa.org/places/462123)
+
+
 ## GEO ID 22289: Katane (Catania)
 [http://www.trismegistos.org/place/22289](http://www.trismegistos.org/place/22289)  
 
@@ -10865,6 +10879,13 @@
 
 ### alignments:
  - [Themistou Meris](https://pleiades.stoa.org/places/737082)
+
+
+## GEO ID 23675: Matisco (Mâcon)
+[https://www.trismegistos.org/place/23675](https://www.trismegistos.org/place/23675)  
+
+### alignments:
+ - [Matisco](https://pleiades.stoa.org/places/177577)
 
 
 ## GEO ID 23695: Tinurtium (Tournus)
@@ -19164,6 +19185,13 @@
  - [Nymphaion](https://pleiades.stoa.org/places/854715)
 
 
+## GEO ID 38305: Phanagoreia (Sennaya)
+[https://www.trismegistos.org/place/38305](https://www.trismegistos.org/place/38305)  
+
+### alignments:
+ - [Phanagor(e)ia](https://pleiades.stoa.org/places/854724)
+
+
 ## GEO ID 38309: Porthmia
 [http://www.trismegistos.org/place/38309](http://www.trismegistos.org/place/38309)  
 
@@ -22306,6 +22334,13 @@
 
 ### alignments:
  - [Mahatanhur](https://pleiades.stoa.org/places/349604)
+
+
+## GEO ID 41769: Rufini Taberna
+[https://www.trismegistos.org/place/41769](https://www.trismegistos.org/place/41769)  
+
+### alignments:
+ - [Rufini Taberna](https://pleiades.stoa.org/places/349622)
 
 
 ## GEO ID 41774: Ad Turrem
