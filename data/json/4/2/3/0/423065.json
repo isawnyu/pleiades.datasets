@@ -10,24 +10,49 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "third-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
             "connectsTo": "https://pleiades.stoa.org/places/423025",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T14:01:56Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 640,
             "history": [
+                {
+                    "comment": "wikidata Tomb of Geta (Q19545588)",
+                    "modified": "2025-05-29T15:55:02Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T14:01:56Z",
@@ -46,9 +71,21 @@
             ],
             "id": "423025",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q19545588",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Tomb of Geta (Q19545588)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": 200,
             "title": "Roma",
             "uri": "https://pleiades.stoa.org/places/423065/423025"
         },
@@ -205,6 +242,11 @@
     ],
     "history": [
         {
+            "comment": "info.roma 9410: Sepolcro di Geta all'Appia Antica",
+            "modified": "2025-05-29T15:54:10Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
             "modified": "2025-02-16T13:20:02Z",
             "modifiedBy": "thomase"
@@ -338,6 +380,11 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-05-29T15:55:22Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2025-02-16T13:18:44Z",
@@ -537,6 +584,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=9410",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UC92I57E",
+            "citationDetail": "9410: Sepolcro di Geta all'Appia Antica",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">“Info.roma.it: La meraviglie di roma.” Accessed February 5, 2020. https://www.info.roma.it.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Info.roma.it",
             "type": "citesAsRelated"
         }
     ],
