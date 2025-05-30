@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8084 alignments exist in _Pleiades_ place references as of 2025-05-29. The following list of alignments is grouped by zotkey.
+8091 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8791,6 +8791,13 @@
  - [Caudium](https://pleiades.stoa.org/places/432773)
 
 
+## Cavalupo Necropolis (Q3346849)
+[https://www.wikidata.org/wiki/Q3346849](https://www.wikidata.org/wiki/Q3346849)  
+
+### alignments:
+ - [Cavalupo Necropolis (Vulci)](https://pleiades.stoa.org/places/973296890)
+
+
 ## Cave of Apollon Ipakrion (Q24204697)
 [https://www.wikidata.org/wiki/Q24204697](https://www.wikidata.org/wiki/Q24204697)  
 
@@ -13310,6 +13317,13 @@
  - [Helvillum](https://pleiades.stoa.org/places/413167)
 
 
+## Fosso del Manganello (Q134601088)
+[https://www.wikidata.org/wiki/Q134601088](https://www.wikidata.org/wiki/Q134601088)  
+
+### alignments:
+ - [Fosso del Manganello](https://pleiades.stoa.org/places/206207290)
+
+
 ## Fount de Rome (Q3079947)
 [https://www.wikidata.org/wiki/Q3079947](https://www.wikidata.org/wiki/Q3079947)  
 
@@ -16489,6 +16503,13 @@
  - [Isinda (Lycian)](https://pleiades.stoa.org/places/638871)
 
 
+## Isis Tomb, Vulci (Q16987572)
+[https://www.wikidata.org/wiki/Q16987572](https://www.wikidata.org/wiki/Q16987572)  
+
+### alignments:
+ - [Isis Tomb](https://pleiades.stoa.org/places/309967946)
+
+
 ## Isle of Man (Q9676)
 [https://www.wikidata.org/wiki/Q9676](https://www.wikidata.org/wiki/Q9676)  
 
@@ -17321,6 +17342,13 @@
 
 ### alignments:
  - [Kazane Höyük](https://pleiades.stoa.org/places/740697574)
+
+
+## Kazeka (Q29997041)
+[https://www.wikidata.org/wiki/Q29997041](https://www.wikidata.org/wiki/Q29997041)  
+
+### alignments:
+ - [Kazeka](https://pleiades.stoa.org/places/854694)
 
 
 ## Kecharis Monastery (Q533496)
@@ -20229,6 +20257,13 @@
  - [Martanum](https://pleiades.stoa.org/places/413194)
 
 
+## Martini-Marescotti Tomb (Q108953048)
+[https://www.wikidata.org/wiki/Q108953048](https://www.wikidata.org/wiki/Q108953048)  
+
+### alignments:
+ - [Martini-Marescotti Tomb](https://pleiades.stoa.org/places/206207289)
+
+
 ## Mashkan-shapir (Q2574582)
 [https://www.wikidata.org/wiki/Q2574582](https://www.wikidata.org/wiki/Q2574582)  
 
@@ -22769,6 +22804,13 @@
 
 ### alignments:
  - [La Salata necropolis](https://pleiades.stoa.org/places/147181487)
+
+
+## Necropolis of Cannicella (Q3346851)
+[https://www.wikidata.org/wiki/Q3346851](https://www.wikidata.org/wiki/Q3346851)  
+
+### alignments:
+ - [Canicella necropolis](https://pleiades.stoa.org/places/364546694)
 
 
 ## necropolis of Castel d'Asso (Q3346847)
@@ -37235,13 +37277,6 @@
  - [Numicus (river)](https://pleiades.stoa.org/places/422988)
 
 
-## Q3346851: Necropolis of Cannicella
-[https://www.wikidata.org/wiki/Q3346851](https://www.wikidata.org/wiki/Q3346851)  
-
-### alignments:
- - [Canicella necropolis](https://pleiades.stoa.org/places/364546694)
-
-
 ## Q3346857: Monte Abatone necropolis
 [https://www.wikidata.org/wiki/Q3346857](https://www.wikidata.org/wiki/Q3346857)  
 
@@ -45683,6 +45718,13 @@
  - [Rockbourne](https://pleiades.stoa.org/places/79659)
 
 
+## Rofalco (Q3940062)
+[https://www.wikidata.org/wiki/Q3940062](https://www.wikidata.org/wiki/Q3940062)  
+
+### alignments:
+ - [Rofalco](https://pleiades.stoa.org/places/421074111)
+
+
 ## Rokka archaeological site (Q104366821)
 [https://www.wikidata.org/wiki/Q104366821](https://www.wikidata.org/wiki/Q104366821)  
 
@@ -51236,6 +51278,13 @@
  - [Alontas (river)](https://pleiades.stoa.org/places/863737)
 
 
+## Terenuthis (Q2404564)
+[https://www.wikidata.org/wiki/Q2404564](https://www.wikidata.org/wiki/Q2404564)  
+
+### alignments:
+ - [Terenouthis](https://pleiades.stoa.org/places/727244)
+
+
 ## Teretina (Q3538811)
 [https://www.wikidata.org/wiki/Q3538811](https://www.wikidata.org/wiki/Q3538811)  
 
@@ -55511,6 +55560,7 @@
 [https://www.wikidata.org/wiki/Q1398480](https://www.wikidata.org/wiki/Q1398480)  
 
 ### alignments:
+ - [Velzna/*Volsinii Veteres/Urbiventus](https://pleiades.stoa.org/places/413373)
  - [Volsinii](https://pleiades.stoa.org/places/413389)
 
 

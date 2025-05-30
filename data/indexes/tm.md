@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4381 alignments exist in _Pleiades_ place references as of 2025-05-29. The following list of alignments is grouped by zotkey.
+4382 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9561,7 +9561,7 @@
 [http://www.trismegistos.org/place/20496](http://www.trismegistos.org/place/20496)  
 
 ### alignments:
- - [Equizeto](https://pleiades.stoa.org/places/334543)
+ - [Ouled Agla](https://pleiades.stoa.org/places/334543)
 
 
 ## GEO ID 20498: Zucchabar (Miliana)
@@ -21683,6 +21683,13 @@
 
 ### alignments:
  - [Kalos Limen?](https://pleiades.stoa.org/places/226646)
+
+
+## GEO ID 41562: Kazeka
+[https://www.trismegistos.org/place/41562](https://www.trismegistos.org/place/41562)  
+
+### alignments:
+ - [Kazeka](https://pleiades.stoa.org/places/854694)
 
 
 ## GEO ID 41563: Kimmerikon (Opuk)
