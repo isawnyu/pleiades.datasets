@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8091 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
+8102 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1254,6 +1254,13 @@
 
 ### alignments:
  - [Aletrinates](https://pleiades.stoa.org/places/288516030)
+
+
+## Alexandria Ariana (Q4720950)
+[https://www.wikidata.org/wiki/Q4720950](https://www.wikidata.org/wiki/Q4720950)  
+
+### alignments:
+ - [Alexandria Ariorum/Artacavan/Harey](https://pleiades.stoa.org/places/961874)
 
 
 ## Alexandria Bucephalous (Q786725)
@@ -8532,6 +8539,13 @@
  - [Caister-on-Sea](https://pleiades.stoa.org/places/79365)
 
 
+## Castrum Grinario (Q1735387)
+[https://www.wikidata.org/wiki/Q1735387](https://www.wikidata.org/wiki/Q1735387)  
+
+### alignments:
+ - [*Grinario](https://pleiades.stoa.org/places/118706)
+
+
 ## Castrum Harenatium (Q1585258)
 [https://www.wikidata.org/wiki/Q1585258](https://www.wikidata.org/wiki/Q1585258)  
 
@@ -12960,6 +12974,13 @@
  - [Filey](https://pleiades.stoa.org/places/89185)
 
 
+## Filo Musiaco (Q134635882)
+[https://www.wikidata.org/wiki/Q134635882](https://www.wikidata.org/wiki/Q134635882)  
+
+### alignments:
+ - [Filo Musiaco](https://pleiades.stoa.org/places/181211)
+
+
 ## Filyos River (Q3572165)
 [https://www.wikidata.org/wiki/Q3572165](https://www.wikidata.org/wiki/Q3572165)  
 
@@ -13868,6 +13889,13 @@
 
 ### alignments:
  - [Bosphorus](https://pleiades.stoa.org/places/520977)
+
+
+## Gepids (Q201706)
+[https://www.wikidata.org/wiki/Q201706](https://www.wikidata.org/wiki/Q201706)  
+
+### alignments:
+ - [Gepidi?](https://pleiades.stoa.org/places/20467)
 
 
 ## Geragathe (Q65046418)
@@ -15474,6 +15502,13 @@
  - [Horrea Piperataria](https://pleiades.stoa.org/places/525081443)
 
 
+## Horreum Margi (Q11926060)
+[https://www.wikidata.org/wiki/Q11926060](https://www.wikidata.org/wiki/Q11926060)  
+
+### alignments:
+ - [Horreum Margi](https://pleiades.stoa.org/places/207173)
+
+
 ## Horti Aciliorum (Q1630231)
 [https://www.wikidata.org/wiki/Q1630231](https://www.wikidata.org/wiki/Q1630231)  
 
@@ -16286,6 +16321,13 @@
  - [Mese (island)](https://pleiades.stoa.org/places/589927)
 
 
+## Imperial Villa of Vicarello (Q116922497)
+[https://www.wikidata.org/wiki/Q116922497](https://www.wikidata.org/wiki/Q116922497)  
+
+### alignments:
+ - [Vicarello](https://pleiades.stoa.org/places/413379)
+
+
 ## Incastro River (Q16565566)
 [https://www.wikidata.org/wiki/Q16565566](https://www.wikidata.org/wiki/Q16565566)  
 
@@ -16508,6 +16550,13 @@
 
 ### alignments:
  - [Isis Tomb](https://pleiades.stoa.org/places/309967946)
+
+
+## Iskar (Q217805)
+[https://www.wikidata.org/wiki/Q217805](https://www.wikidata.org/wiki/Q217805)  
+
+### alignments:
+ - [Oescus (river)](https://pleiades.stoa.org/places/216908)
 
 
 ## Isle of Man (Q9676)
@@ -20535,6 +20584,13 @@
 
 ### alignments:
  - [Medma](https://pleiades.stoa.org/places/452375)
+
+
+## Medveđa (Q846082)
+[https://www.wikidata.org/wiki/Q846082](https://www.wikidata.org/wiki/Q846082)  
+
+### alignments:
+ - [Idimum](https://pleiades.stoa.org/places/207183)
 
 
 ## Megali Magoula (Q1884054)
@@ -39356,7 +39412,6 @@
 
 ### alignments:
  - [Aquae Apollinares Novae](https://pleiades.stoa.org/places/413023)
- - [Vicarello](https://pleiades.stoa.org/places/413379)
 
 
 ## Q4011241
@@ -46782,6 +46837,13 @@
  - [Rotomagus](https://pleiades.stoa.org/places/109287)
 
 
+## Rottenburg (Samian Ware Discovery Site) (Q103192103)
+[https://www.wikidata.org/wiki/Q103192103](https://www.wikidata.org/wiki/Q103192103)  
+
+### alignments:
+ - [Sumelocenna](https://pleiades.stoa.org/places/118985)
+
+
 ## Rotunda (Q1584841)
 [https://www.wikidata.org/wiki/Q1584841](https://www.wikidata.org/wiki/Q1584841)  
 
@@ -48117,6 +48179,13 @@
 
 ### alignments:
  - [Schela Cladovei](https://pleiades.stoa.org/places/207432)
+
+
+## Schleitheim (Samian Ware Discovery Site) (Q103194735)
+[https://www.wikidata.org/wiki/Q103194735](https://www.wikidata.org/wiki/Q103194735)  
+
+### alignments:
+ - [Iuliomagus](https://pleiades.stoa.org/places/187429)
 
 
 ## Schoenus (Corinthia) (Q16564114)
@@ -54412,6 +54481,13 @@
 
 ### alignments:
  - [Varakhsha](https://pleiades.stoa.org/places/29800)
+
+
+## Varcia (Q21556429)
+[https://www.wikidata.org/wiki/Q21556429](https://www.wikidata.org/wiki/Q21556429)  
+
+### alignments:
+ - [Varcia](https://pleiades.stoa.org/places/181224)
 
 
 ## Vari Cave (Q5054943)

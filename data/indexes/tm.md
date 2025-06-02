@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4382 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
+4389 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9508,6 +9508,13 @@
  - [Rusazus?](https://pleiades.stoa.org/places/305138)
 
 
+## GEO ID 20455: Lemellef (Bordj Rhedir)
+[http://www.trismegistos.org/place/20455](http://www.trismegistos.org/place/20455)  
+
+### alignments:
+ - [Lemellef](https://pleiades.stoa.org/places/334576)
+
+
 ## GEO ID 20459: Ala Miliaria (Bénian)
 [http://www.trismegistos.org/place/20459](http://www.trismegistos.org/place/20459)  
 
@@ -12729,6 +12736,13 @@
  - [Aventicum](https://pleiades.stoa.org/places/177495)
 
 
+## GEO ID 28059: Tenedo (Bad Zurzach)
+[https://www.trismegistos.org/place/28059](https://www.trismegistos.org/place/28059)  
+
+### alignments:
+ - [Tenedo](https://pleiades.stoa.org/places/177639)
+
+
 ## GEO ID 2805: Argine (Argin)
 [http://www.trismegistos.org/place/2805](http://www.trismegistos.org/place/2805)  
 
@@ -13533,6 +13547,13 @@
 
 ### alignments:
  - [Mediana](https://pleiades.stoa.org/places/207273)
+
+
+## GEO ID 29639: Idimum (Medveđa)
+[https://www.trismegistos.org/place/29639](https://www.trismegistos.org/place/29639)  
+
+### alignments:
+ - [Idimum](https://pleiades.stoa.org/places/207183)
 
 
 ## GEO ID 29642: Viminacium (Drmno)
@@ -19585,6 +19606,13 @@
  - [Tigisi](https://pleiades.stoa.org/places/295359)
 
 
+## GEO ID 40296: Ad Olivam (Sourinine)
+[http://www.trismegistos.org/place/40296](http://www.trismegistos.org/place/40296)  
+
+### alignments:
+ - [Ad Olivam](https://pleiades.stoa.org/places/311069)
+
+
 ## GEO ID 40297: Ad Sava (Bougaa)
 [http://www.trismegistos.org/place/40297](http://www.trismegistos.org/place/40297)  
 
@@ -21804,6 +21832,20 @@
  - [Bituriges Vivisci](https://pleiades.stoa.org/places/138226)
 
 
+## GEO ID 41614: Eudracinum
+[https://www.trismegistos.org/place/41614](https://www.trismegistos.org/place/41614)  
+
+### alignments:
+ - [Eudracinum](https://pleiades.stoa.org/places/167760)
+
+
+## GEO ID 41622: Iuliomagus
+[https://www.trismegistos.org/place/41622](https://www.trismegistos.org/place/41622)  
+
+### alignments:
+ - [Iuliomagus](https://pleiades.stoa.org/places/187429)
+
+
 ## GEO ID 41623: Viaca
 [http://www.trismegistos.org/place/41623](http://www.trismegistos.org/place/41623)  
 
@@ -23993,6 +24035,13 @@
 
 ### alignments:
  - [‘Locidae Regi’](https://pleiades.stoa.org/places/216872)
+
+
+## GEO ID 42538: Gepidi
+[https://www.trismegistos.org/place/42538](https://www.trismegistos.org/place/42538)  
+
+### alignments:
+ - [Gepidi?](https://pleiades.stoa.org/places/20467)
 
 
 ## GEO ID 42572: Nigize Gaetuli

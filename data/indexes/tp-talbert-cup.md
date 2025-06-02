@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2124 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
+2130 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2806,6 +2806,13 @@
  - [T(h)amascani](https://pleiades.stoa.org/places/334635)
 
 
+## 1C1 (Talbert 92)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace92.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace92.html)  
+
+### alignments:
+ - [Lemellef](https://pleiades.stoa.org/places/334576)
+
+
 ## 1C2 (Talbert 154)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace154.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace154.html)  
 
@@ -2888,6 +2895,13 @@
 
 ### alignments:
  - [Bida](https://pleiades.stoa.org/places/295228)
+
+
+## 1C3 (Talbert 88)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace88.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace88.html)  
+
+### alignments:
+ - [Ad Olivam](https://pleiades.stoa.org/places/311069)
 
 
 ## 1C3 (Talbert 93)
@@ -3336,6 +3350,13 @@
 
 ### alignments:
  - [Tenedo](https://pleiades.stoa.org/places/177639)
+
+
+## 2A5 (Talbert 971)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace971.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace971.html)  
+
+### alignments:
+ - [Iuliomagus](https://pleiades.stoa.org/places/187429)
 
 
 ## 2A5 (Talbert 972)
@@ -3840,6 +3861,13 @@
 
 ### alignments:
  - [Summus P(o)eninus](https://pleiades.stoa.org/places/167932)
+
+
+## 2B4 (Talbert 956)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace956.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace956.html)  
+
+### alignments:
+ - [Eudracinum](https://pleiades.stoa.org/places/167760)
 
 
 ## 2B4 (Talbert 968)
@@ -9689,6 +9717,13 @@
  - [Iovis Pagus](https://pleiades.stoa.org/places/207189)
 
 
+## 6A3 (Talbert 1779)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1779.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1779.html)  
+
+### alignments:
+ - [Idimum](https://pleiades.stoa.org/places/207183)
+
+
 ## 6A3 (Talbert 1780)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1780.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1780.html)  
 
@@ -11369,6 +11404,13 @@
 
 ### alignments:
  - [Bastarnae](https://pleiades.stoa.org/places/216728)
+
+
+## 7A3 (Talbert 3077)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3077.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3077.html)  
+
+### alignments:
+ - [Gepidi?](https://pleiades.stoa.org/places/20467)
 
 
 ## 7A3 (Talbert 3079)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-653 alignments exist in _Pleiades_ place references as of 2025-05-30. The following list of alignments is grouped by zotkey.
+654 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1981,6 +1981,13 @@
 
 ### alignments:
  - [Hymettos M.](https://pleiades.stoa.org/places/579955)
+
+
+## 11293043: Asteris (island)
+[https://resource.manto.unh.edu/11293043](https://resource.manto.unh.edu/11293043)  
+
+### alignments:
+ - [Asteria (island)](https://pleiades.stoa.org/places/530816)
 
 
 ## 11293708: Triphylia
