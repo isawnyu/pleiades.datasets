@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2130 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
+2137 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2804,6 +2804,13 @@
 
 ### alignments:
  - [T(h)amascani](https://pleiades.stoa.org/places/334635)
+
+
+## 1C1 (Talbert 91)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace91.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace91.html)  
+
+### alignments:
+ - [Unnamed place](https://pleiades.stoa.org/places/161974153)
 
 
 ## 1C1 (Talbert 92)
@@ -11146,6 +11153,13 @@
  - [Be (river)](https://pleiades.stoa.org/places/344309)
 
 
+## 6C5-7C1 (Talbert 3422)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3422.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3422.html)  
+
+### alignments:
+ - [Torrens (river)](https://pleiades.stoa.org/places/480467545)
+
+
 ## 7A1 (Talbert 1742)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1742.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1742.html)  
 
@@ -11420,6 +11434,13 @@
  - [‘Locidae Regi’](https://pleiades.stoa.org/places/216872)
 
 
+## 7A3 (Talbert 3080)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3080.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3080.html)  
+
+### alignments:
+ - [Callire Portus](https://pleiades.stoa.org/places/480467544)
+
+
 ## 7A3-7A4 (Talbert 3076)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3076.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3076.html)  
 
@@ -11495,6 +11516,27 @@
 
 ### alignments:
  - [Anchialus](https://pleiades.stoa.org/places/216702)
+
+
+## 7A4 (Talbert 3089)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3089.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3089.html)  
+
+### alignments:
+ - [Dagae](https://pleiades.stoa.org/places/536928624)
+
+
+## 7A4 (Talbert 3091)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3091.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3091.html)  
+
+### alignments:
+ - [Portus Themomontus](https://pleiades.stoa.org/places/480467543)
+
+
+## 7A4 (Talbert 3092)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3092.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3092.html)  
+
+### alignments:
+ - [Portus Boeotorum](https://pleiades.stoa.org/places/50049903)
 
 
 ## 7A5 (Talbert 1971)
@@ -12132,6 +12174,13 @@
 
 ### alignments:
  - [Anabucis](https://pleiades.stoa.org/places/363921)
+
+
+## 7C3 (Talbert 3086)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3086.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3086.html)  
+
+### alignments:
+ - [Boecolen Montes](https://pleiades.stoa.org/places/257034362)
 
 
 ## 7C3 (Talbert 3088)

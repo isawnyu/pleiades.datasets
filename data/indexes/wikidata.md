@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8102 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
+8104 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8236,6 +8236,13 @@
 
 ### alignments:
  - [Zăvoi Roman Camp](https://pleiades.stoa.org/places/206897)
+
+
+## Castra Opia (Q1735402)
+[https://www.wikidata.org/wiki/Q1735402](https://www.wikidata.org/wiki/Q1735402)  
+
+### alignments:
+ - [Opia](https://pleiades.stoa.org/places/118895)
 
 
 ## Castra Othona (Q1523463)
@@ -23273,6 +23280,13 @@
 
 ### alignments:
  - [Nora](https://pleiades.stoa.org/places/471979)
+
+
+## Noret-Khent Nome (Q740597)
+[https://www.wikidata.org/wiki/Q740597](https://www.wikidata.org/wiki/Q740597)  
+
+### alignments:
+ - [Herakleopolites Nomos](https://pleiades.stoa.org/places/736921)
 
 
 ## Noricum (Q131434)

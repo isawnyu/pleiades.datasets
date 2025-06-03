@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4389 alignments exist in _Pleiades_ place references as of 2025-06-02. The following list of alignments is grouped by zotkey.
+4399 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13192,6 +13192,13 @@
  - [*Ponte Navata](https://pleiades.stoa.org/places/197452)
 
 
+## GEO ID 2909: Thmoinepsobthis
+[http://www.trismegistos.org/place/2909](http://www.trismegistos.org/place/2909)  
+
+### alignments:
+ - [Thmoinepsobthis](https://pleiades.stoa.org/places/741629)
+
+
 ## GEO ID 29106: Praetorium Latobicorum (Trebnje)
 [https://www.trismegistos.org/place/29106](https://www.trismegistos.org/place/29106)  
 
@@ -13967,6 +13974,13 @@
 
 ### alignments:
  - [Tigani basilica](https://pleiades.stoa.org/places/910479808)
+
+
+## GEO ID 3040: Pyrgotos (El-Barqi)
+[https://www.trismegistos.org/place/3040](https://www.trismegistos.org/place/3040)  
+
+### alignments:
+ - [Pyrgotos](https://pleiades.stoa.org/places/737031)
 
 
 ## GEO ID 3041: Koba
@@ -17251,6 +17265,13 @@
 
 ### alignments:
  - [Oisyme](https://pleiades.stoa.org/places/501533)
+
+
+## GEO ID 3397: Thmoinepsi (Beni Suleiman el-Sharqiya)
+[http://www.trismegistos.org/place/3397](http://www.trismegistos.org/place/3397)  
+
+### alignments:
+ - [Thmoinepsi](https://pleiades.stoa.org/places/737085)
 
 
 ## GEO ID 33: Amouda (Abu Simbel)
@@ -24030,6 +24051,20 @@
  - [Symaethus (river)](https://pleiades.stoa.org/places/462502)
 
 
+## GEO ID 42533: Torrens
+[https://www.trismegistos.org/place/42533](https://www.trismegistos.org/place/42533)  
+
+### alignments:
+ - [Torrens (river)](https://pleiades.stoa.org/places/480467545)
+
+
+## GEO ID 42536: Callire Portus
+[https://www.trismegistos.org/place/42536](https://www.trismegistos.org/place/42536)  
+
+### alignments:
+ - [Callire Portus](https://pleiades.stoa.org/places/480467544)
+
+
 ## GEO ID 42537: Locidae Regi
 [https://www.trismegistos.org/place/42537](https://www.trismegistos.org/place/42537)  
 
@@ -24042,6 +24077,34 @@
 
 ### alignments:
  - [Gepidi?](https://pleiades.stoa.org/places/20467)
+
+
+## GEO ID 42540: Portus Themomontus
+[https://www.trismegistos.org/place/42540](https://www.trismegistos.org/place/42540)  
+
+### alignments:
+ - [Portus Themomontus](https://pleiades.stoa.org/places/480467543)
+
+
+## GEO ID 42542: Portus Boeotorum
+[https://www.trismegistos.org/place/42542](https://www.trismegistos.org/place/42542)  
+
+### alignments:
+ - [Portus Boeotorum](https://pleiades.stoa.org/places/50049903)
+
+
+## GEO ID 42543: Dagae
+[https://www.trismegistos.org/place/42543](https://www.trismegistos.org/place/42543)  
+
+### alignments:
+ - [Dagae](https://pleiades.stoa.org/places/536928624)
+
+
+## GEO ID 42570: Baikolikon Oros
+[https://www.trismegistos.org/place/42570](https://www.trismegistos.org/place/42570)  
+
+### alignments:
+ - [Boecolen Montes](https://pleiades.stoa.org/places/257034362)
 
 
 ## GEO ID 42572: Nigize Gaetuli
@@ -25976,6 +26039,13 @@
 
 ### alignments:
  - [Auser (river)](https://pleiades.stoa.org/places/403185)
+
+
+## GEO ID 4501: Thmoiamounis (El-Maimun)
+[https://www.trismegistos.org/place/4501](https://www.trismegistos.org/place/4501)  
+
+### alignments:
+ - [Thmoiamounis](https://pleiades.stoa.org/places/737086)
 
 
 ## GEO ID 45020: Kragos
