@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-654 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
+655 alignments exist in _Pleiades_ place references as of 2025-06-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3243,6 +3243,13 @@
 
 ### alignments:
  - [Lydia/Maionia (region)](https://pleiades.stoa.org/places/550701)
+
+
+## 8254020" Ephesos (Asia Minor)
+[https://resource.manto.unh.edu/8254020](https://resource.manto.unh.edu/8254020)  
+
+### alignments:
+ - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 
 ## 8254022: Colchis (region on the Black Sea)

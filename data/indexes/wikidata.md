@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8104 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
+8109 alignments exist in _Pleiades_ place references as of 2025-06-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3431,6 +3431,13 @@
 
 ### alignments:
  - [Arsinoe](https://pleiades.stoa.org/places/707483)
+
+
+## Arsinoia (Q130100981)
+[https://www.wikidata.org/wiki/Q130100981](https://www.wikidata.org/wiki/Q130100981)  
+
+### alignments:
+ - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 
 ## Arsinoites nomos (Q42890017)
@@ -12468,6 +12475,20 @@
 
 ### alignments:
  - [Eordaia](https://pleiades.stoa.org/places/491591)
+
+
+## Ephesus (Q47611)
+[https://www.wikidata.org/wiki/Q47611](https://www.wikidata.org/wiki/Q47611)  
+
+### alignments:
+ - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
+
+
+## Ephesus (Q64699469)
+[https://www.wikidata.org/wiki/Q64699469](https://www.wikidata.org/wiki/Q64699469)  
+
+### alignments:
+ - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 
 ## Epidamnos (Q3567546)
@@ -23835,6 +23856,13 @@
  - [Nymphaion](https://pleiades.stoa.org/places/854715)
 
 
+## Nysa (Q1779332)
+[https://www.wikidata.org/wiki/Q1779332](https://www.wikidata.org/wiki/Q1779332)  
+
+### alignments:
+ - [Nysa/Athymbra](https://pleiades.stoa.org/places/599832)
+
+
 ## Oakmere hill fort (Q7074177)
 [https://www.wikidata.org/wiki/Q7074177](https://www.wikidata.org/wiki/Q7074177)  
 
@@ -23889,6 +23917,13 @@
 
 ### alignments:
  - [Oktapolis](https://pleiades.stoa.org/places/639014)
+
+
+## Octodurus (Q3008539)
+[https://www.wikidata.org/wiki/Q3008539](https://www.wikidata.org/wiki/Q3008539)  
+
+### alignments:
+ - [Octodurus/Forum Claudii Vallensium](https://pleiades.stoa.org/places/167859)
 
 
 ## Odeon in Ptolemais (Q70772393)
@@ -24589,6 +24624,13 @@
 
 ### alignments:
  - [Pagasaeus/Demetriacus Sinus](https://pleiades.stoa.org/places/540997)
+
+
+## Paglia (Q33473)
+[https://www.wikidata.org/wiki/Q33473](https://www.wikidata.org/wiki/Q33473)  
+
+### alignments:
+ - [Pallia (river)](https://pleiades.stoa.org/places/413243)
 
 
 ## Paglicci Cave (Q3777010)
@@ -33073,13 +33115,6 @@
  - [Koh Ker](https://pleiades.stoa.org/places/688874222)
 
 
-## Q1779332: Nysa
-[https://www.wikidata.org/wiki/Q1779332](https://www.wikidata.org/wiki/Q1779332)  
-
-### alignments:
- - [Nysa/Athymbra](https://pleiades.stoa.org/places/599832)
-
-
 ## Q1779768: Comama
 [https://www.wikidata.org/wiki/Q1779768](https://www.wikidata.org/wiki/Q1779768)  
 
@@ -40100,13 +40135,6 @@
  - [Brauron/sanctuary of Artemis Brauronia](https://pleiades.stoa.org/places/579879)
 
 
-## Q47611: Ephesus
-[https://www.wikidata.org/wiki/Q47611](https://www.wikidata.org/wiki/Q47611)  
-
-### alignments:
- - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
-
-
 ## Q476787: Aqua Julia
 [https://www.wikidata.org/wiki/Q476787](https://www.wikidata.org/wiki/Q476787)  
 
@@ -42321,13 +42349,6 @@
  - [Temple of Hera, Olympia](https://pleiades.stoa.org/places/584889481)
 
 
-## Q634196
-[https://www.wikidata.org/wiki/Q634196](https://www.wikidata.org/wiki/Q634196)  
-
-### alignments:
- - [Tomb of Rekhmire at Thebes](https://pleiades.stoa.org/places/447634115)
-
-
 ## Q6343: Carthage
 [https://www.wikidata.org/wiki/Q6343](https://www.wikidata.org/wiki/Q6343)  
 
@@ -42487,13 +42508,6 @@
 
 ### alignments:
  - [La Hoya, Alava](https://pleiades.stoa.org/places/653596356)
-
-
-## Q64699469: Ephesus
-[https://www.wikidata.org/wiki/Q64699469](https://www.wikidata.org/wiki/Q64699469)  
-
-### alignments:
- - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 
 ## Q646998: Argiletum
@@ -49652,6 +49666,13 @@
  - [Stadium at Nemea](https://pleiades.stoa.org/places/301013826)
 
 
+## Stadium of Rhodes (Q25383200)
+[https://www.wikidata.org/wiki/Q25383200](https://www.wikidata.org/wiki/Q25383200)  
+
+### alignments:
+ - [Ancient Stadium of Rhodes](https://pleiades.stoa.org/places/103328498)
+
+
 ## Stadium Quarter (Delos) (Q131169662)
 [https://www.wikidata.org/wiki/Q131169662](https://www.wikidata.org/wiki/Q131169662)  
 
@@ -52558,6 +52579,13 @@
  - [Tomb of Gaius Rabirius Postumus Libertus and family](https://pleiades.stoa.org/places/372624618)
 
 
+## Tomb of Rekhmire (Q634196)
+[https://www.wikidata.org/wiki/Q634196](https://www.wikidata.org/wiki/Q634196)  
+
+### alignments:
+ - [Tomb of Rekhmire at Thebes](https://pleiades.stoa.org/places/447634115)
+
+
 ## Tomb of Septimia Galla (Q105046711)
 [https://www.wikidata.org/wiki/Q105046711](https://www.wikidata.org/wiki/Q105046711)  
 
@@ -53571,6 +53599,13 @@
 
 ### alignments:
  - [Troia](https://pleiades.stoa.org/places/727252)
+
+
+## Trysa (Q6014404)
+[https://www.wikidata.org/wiki/Q6014404](https://www.wikidata.org/wiki/Q6014404)  
+
+### alignments:
+ - [Trysa](https://pleiades.stoa.org/places/639155)
 
 
 ## Tsiknias Oros (Q24888232)

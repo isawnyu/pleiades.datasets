@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4399 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
+4401 alignments exist in _Pleiades_ place references as of 2025-06-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -621,14 +621,6 @@
 
 ### alignments:
  - [Thabudeos/Tabudium Oppidum](https://pleiades.stoa.org/places/334632)
-
-
-## Geo 2057: Rhodos (island (in the sea); city: civitas)
-[https://www.trismegistos.org/place/2057](https://www.trismegistos.org/place/2057)  
-
-### alignments:
- - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
- - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
 ## Geo 20617: Timicis (Sidi Bou Chaib)
@@ -9627,6 +9619,14 @@
  - [Numerus Syrorum](https://pleiades.stoa.org/places/285495)
 
 
+## Geo ID 2057: Rhodos (island (in the sea); city: civitas)
+[https://www.trismegistos.org/place/2057](https://www.trismegistos.org/place/2057)  
+
+### alignments:
+ - [Rhodos (island)](https://pleiades.stoa.org/places/590031)
+ - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
 ## GEO ID 2058: Rome
 [http://www.trismegistos.org/place/2058](http://www.trismegistos.org/place/2058)  
 
@@ -9821,6 +9821,13 @@
 
 ### alignments:
  - [Ugernum](https://pleiades.stoa.org/places/148223)
+
+
+## GEO ID 2097: Schnomthis (Ishmant)
+[https://www.trismegistos.org/place/2097](https://www.trismegistos.org/place/2097)  
+
+### alignments:
+ - [Schmonthis](https://pleiades.stoa.org/places/737039)
 
 
 ## GEO ID 20994: Morginnum (Moirans)
@@ -15809,6 +15816,13 @@
 
 ### alignments:
  - [Andematunnum](https://pleiades.stoa.org/places/177441)
+
+
+## GEO ID 32729: Statulae (Goriano Sicoli)
+[http://www.trismegistos.org/place/32729](http://www.trismegistos.org/place/32729)  
+
+### alignments:
+ - [Statulae](https://pleiades.stoa.org/places/413322)
 
 
 ## GEO ID 32732: Angitiae Lucus (Luco nei Marsi)

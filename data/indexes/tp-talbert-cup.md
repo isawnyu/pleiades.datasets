@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2137 alignments exist in _Pleiades_ place references as of 2025-06-03. The following list of alignments is grouped by zotkey.
+2138 alignments exist in _Pleiades_ place references as of 2025-06-04. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -8350,6 +8350,13 @@
 
 ### alignments:
  - [‘Iovis Lareni’](https://pleiades.stoa.org/places/432886)
+
+
+## 5B2 (Talbert 1304)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1304.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1304.html)  
+
+### alignments:
+ - [Statulae](https://pleiades.stoa.org/places/413322)
 
 
 ## 5B2 (Talbert 1323)
