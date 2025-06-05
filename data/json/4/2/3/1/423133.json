@@ -10,24 +10,43 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "north_of",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/north_of",
             "connectsTo": "https://pleiades.stoa.org/places/423025",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:41:42Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
-            "details": "",
-            "end": null,
+            "details": "<p>The <em>Barrington Atlas</em> directory notes that this place is located north of Rome.</p>",
+            "end": 300,
             "history": [
+                {
+                    "comment": "cnxn",
+                    "modified": "2025-06-05T04:34:55Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:41:42Z",
@@ -46,9 +65,21 @@
             ],
             "id": "423025",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 631",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Roma",
             "uri": "https://pleiades.stoa.org/places/423133/423025"
         }
@@ -102,7 +133,7 @@
         }
     ],
     "description": "A Jewish catacomb discovered in 1919 on the grounds of the Villa Torlonia park in Rome.",
-    "details": "<p>The Barrington Atlas Directory notes: Villa Torlonia, N Roma</p>\r\n<p>This place is not to be confused with the similarly named <a class=\"external-link\" href=\"https://pleiades.stoa.org/places/423134\" target=\"_self\" title=\"\">Villa Torlonia</a> located in modern Frascati.</p>",
+    "details": "<p>The Barrington Atlas Directory notes: Villa Torlonia, N Roma</p>\r\n<p>This place is not to be confused with the similarly named <a class=\"external-link\" href=\"../423134\" target=\"_self\" title=\"\">Villa Torlonia</a> located in modern Frascati.</p>",
     "features": [
         {
             "geometry": {
@@ -124,6 +155,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q3663216",
+            "modified": "2025-06-05T04:33:13Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2020-05-26T04:16:36Z",
@@ -377,6 +413,17 @@
             "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21145 and 23767.",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3663216",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Catacombs of Villa Torlonia (Q3663216)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],
