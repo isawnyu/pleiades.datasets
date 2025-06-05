@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8109 alignments exist in _Pleiades_ place references as of 2025-06-04. The following list of alignments is grouped by zotkey.
+8123 alignments exist in _Pleiades_ place references as of 2025-06-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4204,6 +4204,20 @@
  - [A(u)xoume](https://pleiades.stoa.org/places/39303)
 
 
+## Ayasuluk Citadel (Q206257)
+[https://www.wikidata.org/wiki/Q206257](https://www.wikidata.org/wiki/Q206257)  
+
+### alignments:
+ - [Grand Fortress of Selçuk](https://pleiades.stoa.org/places/964353020)
+
+
+## Ayasuluk Hill (Q6101813)
+[https://www.wikidata.org/wiki/Q6101813](https://www.wikidata.org/wiki/Q6101813)  
+
+### alignments:
+ - [Ayasuluk Hill](https://pleiades.stoa.org/places/336873086)
+
+
 ## Ayla (Q407451)
 [https://www.wikidata.org/wiki/Q407451](https://www.wikidata.org/wiki/Q407451)  
 
@@ -4790,6 +4804,13 @@
 
 ### alignments:
  - [Basilica of Sant'Apollinare in Classe](https://pleiades.stoa.org/places/880538993)
+
+
+## Basilica of St. John (Q930613)
+[https://www.wikidata.org/wiki/Q930613](https://www.wikidata.org/wiki/Q930613)  
+
+### alignments:
+ - [Basilica of St. John](https://pleiades.stoa.org/places/153236391)
 
 
 ## Basilica Opimia (Q2886977)
@@ -8686,6 +8707,13 @@
  - [Catabulum](https://pleiades.stoa.org/places/522251381)
 
 
+## Catacomb di Santa Felicita (Q3663210)
+[https://www.wikidata.org/wiki/Q3663210](https://www.wikidata.org/wiki/Q3663210)  
+
+### alignments:
+ - [S. Felicita](https://pleiades.stoa.org/places/423043)
+
+
 ## Catacomb of Balbina (Q3663169)
 [https://www.wikidata.org/wiki/Q3663169](https://www.wikidata.org/wiki/Q3663169)  
 
@@ -8768,6 +8796,13 @@
 
 ### alignments:
  - [S. Alessandro](https://pleiades.stoa.org/places/423036)
+
+
+## Catacombs of Villa Torlonia (Q3663216)
+[https://www.wikidata.org/wiki/Q3663216](https://www.wikidata.org/wiki/Q3663216)  
+
+### alignments:
+ - [Villa Torlonia](https://pleiades.stoa.org/places/423133)
 
 
 ## Cathedral of St. James, Jerusalem (Q1679598)
@@ -14928,6 +14963,13 @@
  - [Harbaqa Dam](https://pleiades.stoa.org/places/671953)
 
 
+## Harbor Baths (Ephesus) (Q97341255)
+[https://www.wikidata.org/wiki/Q97341255](https://www.wikidata.org/wiki/Q97341255)  
+
+### alignments:
+ - [Harbour Thermae, Ephesos](https://pleiades.stoa.org/places/964353021)
+
+
 ## Hardknott Roman Fort (Q1584994)
 [https://www.wikidata.org/wiki/Q1584994](https://www.wikidata.org/wiki/Q1584994)  
 
@@ -15332,6 +15374,13 @@
 
 ### alignments:
  - [heroon of Aeneas](https://pleiades.stoa.org/places/952037562)
+
+
+## Heroon of Trysa (Q1613842)
+[https://www.wikidata.org/wiki/Q1613842](https://www.wikidata.org/wiki/Q1613842)  
+
+### alignments:
+ - [Heroon of Trysa](https://pleiades.stoa.org/places/956927191)
 
 
 ## Herpeditanoi (Q134245425)
@@ -16417,6 +16466,13 @@
 
 ### alignments:
  - [Pierre Ecrite](https://pleiades.stoa.org/places/157905)
+
+
+## Insula M1 (Ephesus) (Q104641899)
+[https://www.wikidata.org/wiki/Q104641899](https://www.wikidata.org/wiki/Q104641899)  
+
+### alignments:
+ - [Insula M1 (Ephesus)](https://pleiades.stoa.org/places/956927192)
 
 
 ## Inveravon Roman fort (Q48798464)
@@ -19996,6 +20052,13 @@
 
 ### alignments:
  - [Magna Graecia](https://pleiades.stoa.org/places/1113)
+
+
+## Magnesia on the Maeander (Q1432674)
+[https://www.wikidata.org/wiki/Q1432674](https://www.wikidata.org/wiki/Q1432674)  
+
+### alignments:
+ - [Magnesia ad Maeandrum/Leukophrys](https://pleiades.stoa.org/places/599778)
 
 
 ## Mahalibeh Castle (Q6832851)
@@ -30850,6 +30913,13 @@
 
 ### alignments:
  - [Lapurdum](https://pleiades.stoa.org/places/246461)
+
+
+## Q134707539
+[https://www.wikidata.org/wiki/Q134707539](https://www.wikidata.org/wiki/Q134707539)  
+
+### alignments:
+ - [Ponte di Vallerano](https://pleiades.stoa.org/places/426589)
 
 
 ## Q1347586: Villa of the Papyri
@@ -49652,6 +49722,13 @@
  - [Marmenia](https://pleiades.stoa.org/places/422971)
 
 
+## Stadium (Ephesus) (Q97341090)
+[https://www.wikidata.org/wiki/Q97341090](https://www.wikidata.org/wiki/Q97341090)  
+
+### alignments:
+ - [Stadium (Ephesus)](https://pleiades.stoa.org/places/956927189)
+
+
 ## Stadium of Antoninus Pius (Q16608446)
 [https://www.wikidata.org/wiki/Q16608446](https://www.wikidata.org/wiki/Q16608446)  
 
@@ -51018,6 +51095,13 @@
  - [Templum Flora](https://pleiades.stoa.org/places/910953111)
 
 
+## Temple of Hadrian (Q2581040)
+[https://www.wikidata.org/wiki/Q2581040](https://www.wikidata.org/wiki/Q2581040)  
+
+### alignments:
+ - [Temple of Hadrian (Ephesus)](https://pleiades.stoa.org/places/956927190)
+
+
 ## Temple of Hadrian (Q431062)
 [https://www.wikidata.org/wiki/Q431062](https://www.wikidata.org/wiki/Q431062)  
 
@@ -51506,6 +51590,13 @@
 
 ### alignments:
  - [Tetrakis](https://pleiades.stoa.org/places/847908)
+
+
+## Tetragonos Agora (Q77071353)
+[https://www.wikidata.org/wiki/Q77071353](https://www.wikidata.org/wiki/Q77071353)  
+
+### alignments:
+ - [Commercial Market (Tetragonos Agora)](https://pleiades.stoa.org/places/153236390)
 
 
 ## Teumessus (Q15627845)
@@ -54593,6 +54684,13 @@
 
 ### alignments:
  - [Isola del Migliarino](https://pleiades.stoa.org/places/403225)
+
+
+## Vedius Gymnasium (Ephesus) (Q2511690)
+[https://www.wikidata.org/wiki/Q2511690](https://www.wikidata.org/wiki/Q2511690)  
+
+### alignments:
+ - [Vedius Gymnasium](https://pleiades.stoa.org/places/403648099)
 
 
 ## Veh-Ardashir (Q18358552)
