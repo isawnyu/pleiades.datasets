@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8123 alignments exist in _Pleiades_ place references as of 2025-06-05. The following list of alignments is grouped by zotkey.
+8127 alignments exist in _Pleiades_ place references as of 2025-06-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10591,6 +10591,20 @@
  - [Croy Hill](https://pleiades.stoa.org/places/89155)
 
 
+## Crustumerium (Q1142110)
+[https://www.wikidata.org/wiki/Q1142110](https://www.wikidata.org/wiki/Q1142110)  
+
+### alignments:
+ - [Crustumerium](https://pleiades.stoa.org/places/422914)
+
+
+## Crustumerium archaeological park (Q55673277)
+[https://www.wikidata.org/wiki/Q55673277](https://www.wikidata.org/wiki/Q55673277)  
+
+### alignments:
+ - [Crustumerium](https://pleiades.stoa.org/places/422914)
+
+
 ## Crya (Q17628183)
 [https://www.wikidata.org/wiki/Q17628183](https://www.wikidata.org/wiki/Q17628183)  
 
@@ -11283,6 +11297,13 @@
 
 ### alignments:
  - [Deultum](https://pleiades.stoa.org/places/216788)
+
+
+## Devín (Q661046)
+[https://www.wikidata.org/wiki/Q661046](https://www.wikidata.org/wiki/Q661046)  
+
+### alignments:
+ - [Devín](https://pleiades.stoa.org/places/128391)
 
 
 ## Dez River (Q1207296)
@@ -17839,6 +17860,13 @@
 
 ### alignments:
  - [Kladeos (river)](https://pleiades.stoa.org/places/570358)
+
+
+## Kleinkastell Höflein (Q1746877)
+[https://www.wikidata.org/wiki/Q1746877](https://www.wikidata.org/wiki/Q1746877)  
+
+### alignments:
+ - [Höflein](https://pleiades.stoa.org/places/128409)
 
 
 ## Kleitor (Q2537130)
@@ -28951,13 +28979,6 @@
 
 ### alignments:
  - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
-
-
-## Q1142110: Crustumerium
-[https://www.wikidata.org/wiki/Q1142110](https://www.wikidata.org/wiki/Q1142110)  
-
-### alignments:
- - [Crustumerium](https://pleiades.stoa.org/places/422914)
 
 
 ## Q1144126: Tillya Tepe
@@ -41026,13 +41047,6 @@
  - [Jebel Moya](https://pleiades.stoa.org/places/750315751)
 
 
-## Q55673277: Crustumerium archaeological park
-[https://www.wikidata.org/wiki/Q55673277](https://www.wikidata.org/wiki/Q55673277)  
-
-### alignments:
- - [Crustumerium](https://pleiades.stoa.org/places/422914)
-
-
 ## Q55673920: Grotta della Dragonara
 [https://www.wikidata.org/wiki/Q55673920](https://www.wikidata.org/wiki/Q55673920)  
 
@@ -43978,13 +43992,6 @@
 
 ### alignments:
  - [Castra Mefaa](https://pleiades.stoa.org/places/697646)
-
-
-## Q830976
-[https://www.wikidata.org/wiki/Q830976](https://www.wikidata.org/wiki/Q830976)  
-
-### alignments:
- - [Devín](https://pleiades.stoa.org/places/128391)
 
 
 ## Q831361: Santa Costanza
@@ -54273,6 +54280,13 @@
  - [Ucubi/Col. Claritas Iulia](https://pleiades.stoa.org/places/266081)
 
 
+## Ufente (Q4002646)
+[https://www.wikidata.org/wiki/Q4002646](https://www.wikidata.org/wiki/Q4002646)  
+
+### alignments:
+ - [Ufens (river)](https://pleiades.stoa.org/places/433175)
+
+
 ## Uffington White Horse (Q1056493)
 [https://www.wikidata.org/wiki/Q1056493](https://www.wikidata.org/wiki/Q1056493)  
 
@@ -55345,6 +55359,13 @@
  - [Villa Maxentii](https://pleiades.stoa.org/places/423129)
 
 
+## Villa Muti (Q4012349)
+[https://www.wikidata.org/wiki/Q4012349](https://www.wikidata.org/wiki/Q4012349)  
+
+### alignments:
+ - [Villa Muti](https://pleiades.stoa.org/places/423130)
+
+
 ## villa of Aulus Vitellius Germanicus (Q131428027)
 [https://www.wikidata.org/wiki/Q131428027](https://www.wikidata.org/wiki/Q131428027)  
 
@@ -55581,6 +55602,13 @@
 
 ### alignments:
  - [Spoonley](https://pleiades.stoa.org/places/79693)
+
+
+## Villa Torlonia (Q1582108)
+[https://www.wikidata.org/wiki/Q1582108](https://www.wikidata.org/wiki/Q1582108)  
+
+### alignments:
+ - [Villa Torlonia](https://pleiades.stoa.org/places/423134)
 
 
 ## Villa, Dar Buk Ammara (Q104817310)

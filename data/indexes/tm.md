@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4401 alignments exist in _Pleiades_ place references as of 2025-06-05. The following list of alignments is grouped by zotkey.
+4402 alignments exist in _Pleiades_ place references as of 2025-06-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25008,6 +25008,13 @@
 
 ### alignments:
  - [Vofricenses](https://pleiades.stoa.org/places/315265)
+
+
+## GEO ID 43466: Vicus Augusti (Bir Bou Saadia)
+[https://www.trismegistos.org/place/43466](https://www.trismegistos.org/place/43466)  
+
+### alignments:
+ - [Vicus Augusti/*Castellum Medianum Matidium Alexandrianum Tilirvense?](https://pleiades.stoa.org/places/305184)
 
 
 ## GEO ID 43468: Boseth
