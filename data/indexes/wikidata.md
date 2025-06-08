@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8127 alignments exist in _Pleiades_ place references as of 2025-06-06. The following list of alignments is grouped by zotkey.
+8135 alignments exist in _Pleiades_ place references as of 2025-06-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4365,6 +4365,13 @@
  - [Aquae](https://pleiades.stoa.org/places/108748)
 
 
+## Badia di S. Sebastiano (Q3924276)
+[https://www.wikidata.org/wiki/Q3924276](https://www.wikidata.org/wiki/Q3924276)  
+
+### alignments:
+ - [S. Sebastianus](https://pleiades.stoa.org/places/433096)
+
+
 ## Baebiana (Q21074142)
 [https://www.wikidata.org/wiki/Q21074142](https://www.wikidata.org/wiki/Q21074142)  
 
@@ -7720,6 +7727,13 @@
  - [Mausoleum Hadriani](https://pleiades.stoa.org/places/334776904)
 
 
+## Castel Savello (Q3662144)
+[https://www.wikidata.org/wiki/Q3662144](https://www.wikidata.org/wiki/Q3662144)  
+
+### alignments:
+ - [Castel Savello](https://pleiades.stoa.org/places/422884)
+
+
 ## Castell Bryn Gwyn (Q5049667)
 [https://www.wikidata.org/wiki/Q5049667](https://www.wikidata.org/wiki/Q5049667)  
 
@@ -9069,6 +9083,13 @@
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
+
+
+## Cessati Spiriti mausoleum (Q131910840)
+[https://www.wikidata.org/wiki/Q131910840](https://www.wikidata.org/wiki/Q131910840)  
+
+### alignments:
+ - [Cessati Spiriti](https://pleiades.stoa.org/places/422892)
 
 
 ## Ceuclum (Q3414036)
@@ -14480,6 +14501,13 @@
  - [Greetwell](https://pleiades.stoa.org/places/79493)
 
 
+## Greppe Sant'Angelo necropolis (Q128397027)
+[https://www.wikidata.org/wiki/Q128397027](https://www.wikidata.org/wiki/Q128397027)  
+
+### alignments:
+ - [Greppe S. Angelo necropolis](https://pleiades.stoa.org/places/105341156)
+
+
 ## Grimsbury Castle (Q12059149)
 [https://www.wikidata.org/wiki/Q12059149](https://www.wikidata.org/wiki/Q12059149)  
 
@@ -16102,6 +16130,13 @@
 
 ### alignments:
  - [Hypnia?](https://pleiades.stoa.org/places/540828)
+
+
+## Hypogeum of Clepsina (Q134727007)
+[https://www.wikidata.org/wiki/Q134727007](https://www.wikidata.org/wiki/Q134727007)  
+
+### alignments:
+ - [Hypogeum of Clepsina](https://pleiades.stoa.org/places/226222204)
 
 
 ## Hypogeum of the Aurelii (Q3801606)
@@ -22981,6 +23016,13 @@
  - [La Salata necropolis](https://pleiades.stoa.org/places/147181487)
 
 
+## Necropolis Banditaccia (Q859735)
+[https://www.wikidata.org/wiki/Q859735](https://www.wikidata.org/wiki/Q859735)  
+
+### alignments:
+ - [Banditaccia necropolis, Caere](https://pleiades.stoa.org/places/717880824)
+
+
 ## Necropolis of Cannicella (Q3346851)
 [https://www.wikidata.org/wiki/Q3346851](https://www.wikidata.org/wiki/Q3346851)  
 
@@ -26059,6 +26101,13 @@
 
 ### alignments:
  - [Pisae](https://pleiades.stoa.org/places/403253)
+
+
+## Piscina Torta (Ostia, Rome) (Q134737027)
+[https://www.wikidata.org/wiki/Q134737027](https://www.wikidata.org/wiki/Q134737027)  
+
+### alignments:
+ - [Piscina Torta](https://pleiades.stoa.org/places/423002)
 
 
 ## Pisidia (Q621805)
@@ -30065,13 +30114,6 @@
 
 ### alignments:
  - [Iberia (modern region/peninsula)](https://pleiades.stoa.org/places/540456066)
-
-
-## Q128397027
-[https://www.wikidata.org/wiki/Q128397027](https://www.wikidata.org/wiki/Q128397027)  
-
-### alignments:
- - [Greppe S. Angelo necropolis](https://pleiades.stoa.org/places/105341156)
 
 
 ## Q1285264: Golfo di Cagliari
@@ -35322,13 +35364,6 @@
  - [Basilica di Santa Balbina all'Aventino](https://pleiades.stoa.org/places/356557088)
 
 
-## Q2364239
-[https://www.wikidata.org/wiki/Q2364239](https://www.wikidata.org/wiki/Q2364239)  
-
-### alignments:
- - [Banditaccia necropolis, Caere](https://pleiades.stoa.org/places/717880824)
-
-
 ## Q2366205: Porticus Aemilia
 [https://www.wikidata.org/wiki/Q2366205](https://www.wikidata.org/wiki/Q2366205)  
 
@@ -38788,13 +38823,6 @@
 
 ### alignments:
  - [Lagaria](https://pleiades.stoa.org/places/456082)
-
-
-## Q3825769
-[https://www.wikidata.org/wiki/Q3825769](https://www.wikidata.org/wiki/Q3825769)  
-
-### alignments:
- - [Lacus Regillus](https://pleiades.stoa.org/places/423023)
 
 
 ## Q3825952: Lago di Fondi
@@ -45184,6 +45212,13 @@
  - [Quadi](https://pleiades.stoa.org/places/128501)
 
 
+## Quadraro Roman villa (Q134726128)
+[https://www.wikidata.org/wiki/Q134726128](https://www.wikidata.org/wiki/Q134726128)  
+
+### alignments:
+ - [Quadraro](https://pleiades.stoa.org/places/423018)
+
+
 ## Queen's Megaron (Q123396375)
 [https://www.wikidata.org/wiki/Q123396375](https://www.wikidata.org/wiki/Q123396375)  
 
@@ -45378,6 +45413,13 @@
 
 ### alignments:
  - [Regilla](https://pleiades.stoa.org/places/416848)
+
+
+## Regillus (Q17051922)
+[https://www.wikidata.org/wiki/Q17051922](https://www.wikidata.org/wiki/Q17051922)  
+
+### alignments:
+ - [Lacus Regillus](https://pleiades.stoa.org/places/423023)
 
 
 ## Regio I Latium and Campania (Q783107)
@@ -47178,6 +47220,13 @@
 
 ### alignments:
  - [Sabini](https://pleiades.stoa.org/places/413291)
+
+
+## Sacco (Q547937)
+[https://www.wikidata.org/wiki/Q547937](https://www.wikidata.org/wiki/Q547937)  
+
+### alignments:
+ - [Trerus/Tolerus (river)](https://pleiades.stoa.org/places/423105)
 
 
 ## Sacello degli Augustali (Q3944423)
@@ -52635,13 +52684,6 @@
  - [Tomb of Menidi](https://pleiades.stoa.org/places/137893603)
 
 
-## Tomb of Nero (Q95442656)
-[https://www.wikidata.org/wiki/Q95442656](https://www.wikidata.org/wiki/Q95442656)  
-
-### alignments:
- - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
-
-
 ## Tomb of Novia Amoena (Q29887322)
 [https://www.wikidata.org/wiki/Q29887322](https://www.wikidata.org/wiki/Q29887322)  
 
@@ -52661,6 +52703,13 @@
 
 ### alignments:
  - [Tomb of P. Mancius Diogenes](https://pleiades.stoa.org/places/315324212)
+
+
+## Tomb of Publius Vibius Marianus (Q65044108)
+[https://www.wikidata.org/wiki/Q65044108](https://www.wikidata.org/wiki/Q65044108)  
+
+### alignments:
+ - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
 
 
 ## Tomb of Quintus Sulpicius Maximus (Q1540900)
@@ -52801,13 +52850,6 @@
 
 ### alignments:
  - [Tomba di Mezzavia](https://pleiades.stoa.org/places/860967342)
-
-
-## Tomba di Nerone (Q56256439)
-[https://www.wikidata.org/wiki/Q3531050](https://www.wikidata.org/wiki/Q3531050)  
-
-### alignments:
- - [Tomb of Vibius Marianus](https://pleiades.stoa.org/places/423085)
 
 
 ## Tomba Lattanzi, Norchia (Q113112632)
@@ -55268,6 +55310,13 @@
  - [Herios (river)](https://pleiades.stoa.org/places/138384)
 
 
+## Villa Aldobrandini (Q748743)
+[https://www.wikidata.org/wiki/Q748743](https://www.wikidata.org/wiki/Q748743)  
+
+### alignments:
+ - [Villa Aldobrandini](https://pleiades.stoa.org/places/423123)
+
+
 ## Villa Arcinelli (Q131905599)
 [https://www.wikidata.org/wiki/Q131905599](https://www.wikidata.org/wiki/Q131905599)  
 
@@ -55588,6 +55637,13 @@
 
 ### alignments:
  - [Villa Rufinella](https://pleiades.stoa.org/places/803980452)
+
+
+## Villa rustica (Höflein) (Q123860107)
+[https://www.wikidata.org/wiki/Q123860107](https://www.wikidata.org/wiki/Q123860107)  
+
+### alignments:
+ - [Römische Villa](https://pleiades.stoa.org/places/179179194)
 
 
 ## Villa rustica of Sparsholt (Q7573804)
