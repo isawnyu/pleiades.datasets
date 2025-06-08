@@ -1,13 +1,65 @@
 {
     "@type": "Place",
     "bbox": [
-        12.533184,
-        41.862522,
-        12.533184,
-        41.862522
+        12.5286847,
+        41.8653075,
+        12.5288438,
+        41.8654279
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/93042695",
+            "contributors": [],
+            "created": "2025-06-06T09:12:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-06-06T19:12:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-06T14:41:16Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2025-06-06T09:12:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-06T09:12:43Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "via-latina",
+            "provenance": "Pleiades",
+            "references": [],
+            "review_state": "published",
+            "start": null,
+            "title": "Via Latina",
+            "uri": "https://pleiades.stoa.org/places/422892/via-latina"
+        }
+    ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/93042695",
         "https://pleiades.stoa.org/places/425070"
     ],
     "contributors": [
@@ -38,7 +90,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T22:31:30Z",
+    "created": "2025-06-06T09:10:26Z",
     "creators": [
         {
             "name": "L. Quilici",
@@ -49,29 +101,57 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 43 C2 Cessati Spiriti",
+    "description": "A ruined Roman mausoleum on the grounds of the Caffarella regional park. The so-called Cessati Spiriti mausoleum was once clad in travertine.",
     "details": "<p>The Barrington Atlas Directory notes: Cessati Spiriti</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    12.533184,
-                    41.862522
+                    [
+                        12.5287616,
+                        41.8654279
+                    ],
+                    [
+                        12.5286847,
+                        41.8653568
+                    ],
+                    [
+                        12.5287669,
+                        41.8653075
+                    ],
+                    [
+                        12.5288438,
+                        41.8653785
+                    ],
+                    [
+                        12.5287616,
+                        41.8654279
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-3789",
+            "id": "osm-location-of-mausoleo-dei-cessati-spiriti",
             "properties": {
-                "description": "150K scale point location",
-                "link": "https://pleiades.stoa.org/places/422892/darmc-location-3789",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/422892/osm-location-of-mausoleo-dei-cessati-spiriti",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 3789"
+                "snippet": "Tomb; 30 BC - AD 300",
+                "title": "OSM location of Mausoleo dei Cessati Spiriti"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-06-06T19:11:58Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Edited; summary; updated Connections, Locations by @jbecker",
+            "modified": "2025-06-06T19:11:21Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Baseline created",
             "modified": "2025-06-06T09:10:24Z",
@@ -127,8 +207,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -136,103 +216,188 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:06:14Z",
+            "contributors": [],
+            "created": "2025-06-06T09:11:24Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "150K scale point location",
-            "details": "DARMC OBJECTID: 3789",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "tomb"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
             "geometry": {
                 "coordinates": [
-                    12.533184,
-                    41.862522
+                    [
+                        12.5287616,
+                        41.8654279
+                    ],
+                    [
+                        12.5286847,
+                        41.8653568
+                    ],
+                    [
+                        12.5287669,
+                        41.8653075
+                    ],
+                    [
+                        12.5288438,
+                        41.8653785
+                    ],
+                    [
+                        12.5287616,
+                        41.8654279
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:55:18Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-06T19:11:29Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:06:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-06T14:41:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2025-06-06T09:11:42Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-06-06T09:11:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:06:15Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-06T09:11:24Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-3789",
+            "id": "osm-location-of-mausoleo-dei-cessati-spiriti",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
             ],
-            "provenance": "DARMC OBJECTID: 3789",
+            "provenance": "OpenStreetMap (Way 1354333462, version 2, osm:changeset=161767885, 2025-01-26T03:41:32Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1354333462",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "3789",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1354333462",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 3789.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1354333462",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 3789",
-            "uri": "https://pleiades.stoa.org/places/422892/darmc-location-3789"
+            "start": -30,
+            "title": "OSM location of Mausoleo dei Cessati Spiriti",
+            "uri": "https://pleiades.stoa.org/places/422892/osm-location-of-mausoleo-dei-cessati-spiriti"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Cessati Spiriti",
+            "contributors": [],
+            "created": "2025-06-06T09:08:28Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-06-06T14:22:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-06T09:08:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "BAtlas name added",
+                    "modified": "2025-06-06T09:08:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-06T09:08:28Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "cessati-spiriti",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "43 C2 Cessati Spiriti",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Cessati Spiriti",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/422892/cessati-spiriti"
+        }
+    ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/tomb",
         "https://pleiades.stoa.org/vocabularies/place-types/monument"
     ],
     "placeTypes": [
+        "tomb",
         "monument"
     ],
     "provenance": "Barrington Atlas: BAtlas 43 C2 Cessati Spiriti",
@@ -258,11 +423,44 @@
             "otherIdentifier": "",
             "shortTitle": "Quilici 1978",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q131910840",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Cessati Spiriti mausoleum (Q131910840)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=4223",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UC92I57E",
+            "citationDetail": "4223: Sepolcro dei Cessati Spiriti",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">“Info.roma.it: La meraviglie di roma.” Accessed February 5, 2020. https://www.info.roma.it.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Info.roma.it",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "3789",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.533184,
-        41.862522
+        12.528764247980812,
+        41.86536768373254
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
