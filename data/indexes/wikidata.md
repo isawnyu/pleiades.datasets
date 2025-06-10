@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8135 alignments exist in _Pleiades_ place references as of 2025-06-09. The following list of alignments is grouped by zotkey.
+8148 alignments exist in _Pleiades_ place references as of 2025-06-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -162,6 +162,13 @@
  - [Abia](https://pleiades.stoa.org/places/570027)
 
 
+## Abolani (Q133464894)
+[https://www.wikidata.org/wiki/Q133464894](https://www.wikidata.org/wiki/Q133464894)  
+
+### alignments:
+ - [Abolani](https://pleiades.stoa.org/places/438657)
+
+
 ## Abonae (Q61747805)
 [https://www.wikidata.org/wiki/Q61747805](https://www.wikidata.org/wiki/Q61747805)  
 
@@ -259,6 +266,13 @@
 
 ### alignments:
  - [Acarnanian League](https://pleiades.stoa.org/places/231467659)
+
+
+## Accienses (Q134776703)
+[https://www.wikidata.org/wiki/Q134776703](https://www.wikidata.org/wiki/Q134776703)  
+
+### alignments:
+ - [Accienses](https://pleiades.stoa.org/places/438658)
 
 
 ## Accua (Q56279701)
@@ -1669,6 +1683,13 @@
  - [Amendolara](https://pleiades.stoa.org/places/452260)
 
 
+## Ameriola (Q4745792)
+[https://www.wikidata.org/wiki/Q4745792](https://www.wikidata.org/wiki/Q4745792)  
+
+### alignments:
+ - [Ameriola](https://pleiades.stoa.org/places/438671)
+
+
 ## Amestratus (Q127429525)
 [https://www.wikidata.org/wiki/Q127429525](https://www.wikidata.org/wiki/Q127429525)  
 
@@ -1835,6 +1856,13 @@
 
 ### alignments:
  - [Oxus (river)](https://pleiades.stoa.org/places/59969)
+
+
+## Amyclae (Q3614758)
+[https://www.wikidata.org/wiki/Q3614758](https://www.wikidata.org/wiki/Q3614758)  
+
+### alignments:
+ - [Amyclae](https://pleiades.stoa.org/places/438675)
 
 
 ## Amymone (Q121886957)
@@ -4134,6 +4162,13 @@
  - [Aurasius (mountain)](https://pleiades.stoa.org/places/334497)
 
 
+## Ausona (Q3629906)
+[https://www.wikidata.org/wiki/Q3629906](https://www.wikidata.org/wiki/Q3629906)  
+
+### alignments:
+ - [Ausona](https://pleiades.stoa.org/places/438688)
+
+
 ## Autrigones (Q789372)
 [https://www.wikidata.org/wiki/Q789372](https://www.wikidata.org/wiki/Q789372)  
 
@@ -6128,6 +6163,13 @@
 
 ### alignments:
  - [Bourg-St-Pierre](https://pleiades.stoa.org/places/167684)
+
+
+## Bovianum (Q11909916)
+[https://www.wikidata.org/wiki/Q11909916](https://www.wikidata.org/wiki/Q11909916)  
+
+### alignments:
+ - [Bovianum](https://pleiades.stoa.org/places/432725)
 
 
 ## Bozdağ (Q896117)
@@ -9742,6 +9784,13 @@
 
 ### alignments:
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
+
+
+## Cisauna (Q134787563)
+[https://www.wikidata.org/wiki/Q134787563](https://www.wikidata.org/wiki/Q134787563)  
+
+### alignments:
+ - [Cisauna](https://pleiades.stoa.org/places/438716)
 
 
 ## Cissbury Ring (Q1093239)
@@ -18465,6 +18514,13 @@
  - [La Villeneuve-au-Châtelot](https://pleiades.stoa.org/places/109431)
 
 
+## Lacedonia (Q55045)
+[https://www.wikidata.org/wiki/Q55045](https://www.wikidata.org/wiki/Q55045)  
+
+### alignments:
+ - [Aquilonia](https://pleiades.stoa.org/places/442471)
+
+
 ## Lacetani (Q386795)
 [https://www.wikidata.org/wiki/Q386795](https://www.wikidata.org/wiki/Q386795)  
 
@@ -19282,6 +19338,13 @@
 
 ### alignments:
  - [Pharos](https://pleiades.stoa.org/places/727197)
+
+
+## Ligures Baebiani (Q6546891)
+[https://www.wikidata.org/wiki/Q6546891](https://www.wikidata.org/wiki/Q6546891)  
+
+### alignments:
+ - [Ligures Baebiani](https://pleiades.stoa.org/places/432907)
 
 
 ## Ligurian Sea (Q42820)
@@ -27055,6 +27118,13 @@
  - [Portus Magnus](https://pleiades.stoa.org/places/285503)
 
 
+## Portus Themomontus (Q134788611)
+[https://www.wikidata.org/wiki/Q134788611](https://www.wikidata.org/wiki/Q134788611)  
+
+### alignments:
+ - [Portus Themomontus](https://pleiades.stoa.org/places/480467543)
+
+
 ## Poseidon Temple of Isthmia (Q18385210)
 [https://www.wikidata.org/wiki/Q18385210](https://www.wikidata.org/wiki/Q18385210)  
 
@@ -30738,13 +30808,6 @@
 
 ### alignments:
  - [Forum Iulii Concupiensium](https://pleiades.stoa.org/places/416812)
-
-
-## Q133464894
-[https://www.wikidata.org/wiki/Q133464894](https://www.wikidata.org/wiki/Q133464894)  
-
-### alignments:
- - [Abolani](https://pleiades.stoa.org/places/438657)
 
 
 ## Q1334825: Pelion
@@ -40219,13 +40282,6 @@
  - [Amanikai Pylai](https://pleiades.stoa.org/places/658374)
 
 
-## Q4745792: Ameriola
-[https://www.wikidata.org/wiki/Q4745792](https://www.wikidata.org/wiki/Q4745792)  
-
-### alignments:
- - [Ameriola](https://pleiades.stoa.org/places/438671)
-
-
 ## Q474840: Amphicleia
 [https://www.wikidata.org/wiki/Q474840](https://www.wikidata.org/wiki/Q474840)  
 
@@ -45443,6 +45499,13 @@
  - [Italia, Regio VI](https://pleiades.stoa.org/places/699782782)
 
 
+## Regolini-Galassi tomb (Q1877295)
+[https://www.wikidata.org/wiki/Q1877295](https://www.wikidata.org/wiki/Q1877295)  
+
+### alignments:
+ - [Sorbo Necropolis - Regolini-Galassi tomb](https://pleiades.stoa.org/places/893513495)
+
+
 ## Remains of Sasanian Persian siege ramp in Dura-Europos (Q68114116)
 [https://www.wikidata.org/wiki/Q68114116](https://www.wikidata.org/wiki/Q68114116)  
 
@@ -47374,6 +47437,13 @@
 
 ### alignments:
  - [Salt-en-Donzy](https://pleiades.stoa.org/places/167910)
+
+
+## Salutaris Pagus (Q134782910)
+[https://www.wikidata.org/wiki/Q134782910](https://www.wikidata.org/wiki/Q134782910)  
+
+### alignments:
+ - [Salutaris Pagus](https://pleiades.stoa.org/places/438825)
 
 
 ## Salve tumulus (Q124290932)
@@ -50079,6 +50149,13 @@
  - [Sontas (river)](https://pleiades.stoa.org/places/863899)
 
 
+## Superaequum (Q3977650)
+[https://www.wikidata.org/wiki/Q3977650](https://www.wikidata.org/wiki/Q3977650)  
+
+### alignments:
+ - [Superaequum](https://pleiades.stoa.org/places/413326)
+
+
 ## Surami Pass (Q2458696)
 [https://www.wikidata.org/wiki/Q2458696](https://www.wikidata.org/wiki/Q2458696)  
 
@@ -50547,6 +50624,13 @@
 
 ### alignments:
  - [Tatev](https://pleiades.stoa.org/places/874798111)
+
+
+## Taurasia (Q11950970)
+[https://www.wikidata.org/wiki/Q11950970](https://www.wikidata.org/wiki/Q11950970)  
+
+### alignments:
+ - [Taurasia](https://pleiades.stoa.org/places/438849)
 
 
 ## Tauriana (Q1239561)
@@ -55721,6 +55805,13 @@
 
 ### alignments:
  - [Roman amphitheater at Viminacium](https://pleiades.stoa.org/places/227495941)
+
+
+## Vimitellari (Q124177998)
+[https://www.wikidata.org/wiki/Q124177998](https://www.wikidata.org/wiki/Q124177998)  
+
+### alignments:
+ - [Vimitellari](https://pleiades.stoa.org/places/438885)
 
 
 ## Vindobona (Q871525)

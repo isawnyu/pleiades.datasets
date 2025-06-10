@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4402 alignments exist in _Pleiades_ place references as of 2025-06-09. The following list of alignments is grouped by zotkey.
+4412 alignments exist in _Pleiades_ place references as of 2025-06-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4308,6 +4308,13 @@
 
 ### alignments:
  - [Fratte](https://pleiades.stoa.org/places/432845)
+
+
+## GEO ID 14339: Aequana (Vico Equense)
+[https://www.trismegistos.org/place/14339](https://www.trismegistos.org/place/14339)  
+
+### alignments:
+ - [Aequana](https://pleiades.stoa.org/places/432649)
 
 
 ## GEO ID 14340: Stabiae (Castellammare di Stabia)
@@ -12365,6 +12372,13 @@
  - [Abu Rawash](https://pleiades.stoa.org/places/243245493)
 
 
+## GEO ID 27271: Ausona (Vic)
+[http://www.trismegistos.org/place/27271](http://www.trismegistos.org/place/27271)  
+
+### alignments:
+ - [Auso](https://pleiades.stoa.org/places/246212)
+
+
 ## GEO ID 2727: Abu Sha'ar
 [http://www.trismegistos.org/place/2727](http://www.trismegistos.org/place/2727)  
 
@@ -19970,6 +19984,13 @@
  - [Aternum](https://pleiades.stoa.org/places/413039)
 
 
+## GEO ID 40486: Ad Matrem Magnam
+[https://www.trismegistos.org/place/40486](https://www.trismegistos.org/place/40486)  
+
+### alignments:
+ - [Ad Matrem Magnam](https://pleiades.stoa.org/places/438660)
+
+
 ## GEO ID 40489: Ad fluvium Bradanum
 [https://www.trismegistos.org/place/40489](https://www.trismegistos.org/place/40489)  
 
@@ -25495,6 +25516,20 @@
  - [Pagus Augustus Felix Suburbanus](https://pleiades.stoa.org/places/904891411)
 
 
+## GEO ID 43848: Pagus Agrifanus
+[https://www.trismegistos.org/place/43848](https://www.trismegistos.org/place/43848)  
+
+### alignments:
+ - [Agrifanus Pagus](https://pleiades.stoa.org/places/438666)
+
+
+## GEO ID 43849: Pagus Apollinaris
+[http://www.trismegistos.org/place/43849](http://www.trismegistos.org/place/43849)  
+
+### alignments:
+ - [Apollinaris Pagus](https://pleiades.stoa.org/places/438678)
+
+
 ## GEO ID 43854: Pagus Boedinus
 [http://www.trismegistos.org/place/43854](http://www.trismegistos.org/place/43854)  
 
@@ -29138,6 +29173,13 @@
  - [Aianteion Pr.](https://pleiades.stoa.org/places/540600)
 
 
+## GEO ID 62605: Batulum
+[https://www.trismegistos.org/place/62605](https://www.trismegistos.org/place/62605)  
+
+### alignments:
+ - [Batulum](https://pleiades.stoa.org/places/438692)
+
+
 ## GEO ID 62940: Palmaria
 [https://www.trismegistos.org/place/62940](https://www.trismegistos.org/place/62940)  
 
@@ -29173,6 +29215,13 @@
  - [Sebennytikon Stoma](https://pleiades.stoa.org/places/727224)
 
 
+## GEO ID 63194: Scantia Silva
+[https://www.trismegistos.org/place/63194](https://www.trismegistos.org/place/63194)  
+
+### alignments:
+ - [Scantia Silva](https://pleiades.stoa.org/places/438828)
+
+
 ## GEO ID 6322: Parthia
 [https://www.trismegistos.org/place/6322](https://www.trismegistos.org/place/6322)  
 
@@ -29201,11 +29250,32 @@
  - [Comani](https://pleiades.stoa.org/places/151768)
 
 
+## GEO ID 63766: Ameriola
+[https://www.trismegistos.org/place/63766](https://www.trismegistos.org/place/63766)  
+
+### alignments:
+ - [Ameriola](https://pleiades.stoa.org/places/438671)
+
+
+## GEO ID 63781: Amyclae
+[https://www.trismegistos.org/place/63781](https://www.trismegistos.org/place/63781)  
+
+### alignments:
+ - [Amyclae](https://pleiades.stoa.org/places/438675)
+
+
 ## GEO ID 63898: Aggasus
 [https://www.trismegistos.org/place/63898](https://www.trismegistos.org/place/63898)  
 
 ### alignments:
  - [Portus Aggasus](https://pleiades.stoa.org/places/446282)
+
+
+## GEO ID 63926: Anxatini
+[https://www.trismegistos.org/place/63926](https://www.trismegistos.org/place/63926)  
+
+### alignments:
+ - [Anxatini/Anxates](https://pleiades.stoa.org/places/438676)
 
 
 ## GEO ID 63967: Paesinates
