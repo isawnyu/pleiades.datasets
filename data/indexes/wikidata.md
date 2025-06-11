@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8148 alignments exist in _Pleiades_ place references as of 2025-06-10. The following list of alignments is grouped by zotkey.
+8165 alignments exist in _Pleiades_ place references as of 2025-06-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5255,6 +5255,13 @@
  - [Hypsa(s) (river)](https://pleiades.stoa.org/places/462255)
 
 
+## Belikio (Q127429744)
+[https://www.wikidata.org/wiki/Q127429744](https://www.wikidata.org/wiki/Q127429744)  
+
+### alignments:
+ - [Belikiom](https://pleiades.stoa.org/places/252939)
+
+
 ## Belle Île (Q815838)
 [https://www.wikidata.org/wiki/Q815838](https://www.wikidata.org/wiki/Q815838)  
 
@@ -8903,6 +8910,13 @@
  - [Caucasus (mountain range)](https://pleiades.stoa.org/places/863766)
 
 
+## Caudini (Q2555710)
+[https://www.wikidata.org/wiki/Q2555710](https://www.wikidata.org/wiki/Q2555710)  
+
+### alignments:
+ - [Caudini](https://pleiades.stoa.org/places/45806447)
+
+
 ## Caudium (Q1051478)
 [https://www.wikidata.org/wiki/Q1051478](https://www.wikidata.org/wiki/Q1051478)  
 
@@ -9870,6 +9884,13 @@
  - [Civic forum of Praeneste](https://pleiades.stoa.org/places/678434580)
 
 
+## Civitanova del Sannio (Q279026)
+[https://www.wikidata.org/wiki/Q279026](https://www.wikidata.org/wiki/Q279026)  
+
+### alignments:
+ - [Civitanova](https://pleiades.stoa.org/places/432784)
+
+
 ## Civitas Camunnorum amphitheatre (Q28978018)
 [https://www.wikidata.org/wiki/Q28978018](https://www.wikidata.org/wiki/Q28978018)  
 
@@ -9938,6 +9959,13 @@
 
 ### alignments:
  - [Kleonai](https://pleiades.stoa.org/places/570361)
+
+
+## Cliternia Frentana (Q3680845)
+[https://www.wikidata.org/wiki/Q3680845](https://www.wikidata.org/wiki/Q3680845)  
+
+### alignments:
+ - [Cliternia](https://pleiades.stoa.org/places/432787)
 
 
 ## Clitunno (Q1101868)
@@ -10374,6 +10402,20 @@
  - [Corobilium?](https://pleiades.stoa.org/places/108910)
 
 
+## Corbio (Q1131991)
+[https://www.wikidata.org/wiki/Q1131991](https://www.wikidata.org/wiki/Q1131991)  
+
+### alignments:
+ - [Corbio](https://pleiades.stoa.org/places/438722)
+
+
+## Corbio (Q134822855)
+[https://www.wikidata.org/wiki/Q134822855](https://www.wikidata.org/wiki/Q134822855)  
+
+### alignments:
+ - [Corbio](https://pleiades.stoa.org/places/252193)
+
+
 ## Corduene (Q29237)
 [https://www.wikidata.org/wiki/Q29237](https://www.wikidata.org/wiki/Q29237)  
 
@@ -10736,6 +10778,13 @@
 
 ### alignments:
  - [Cursus Barrows (Burial Mounds) ](https://pleiades.stoa.org/places/105470541)
+
+
+## Cusuetani (Q134823317)
+[https://www.wikidata.org/wiki/Q134823317](https://www.wikidata.org/wiki/Q134823317)  
+
+### alignments:
+ - [Cusuetani](https://pleiades.stoa.org/places/438724)
 
 
 ## Cutilia (Q11916326)
@@ -12042,6 +12091,13 @@
  - [Durolitum](https://pleiades.stoa.org/places/79437)
 
 
+## Duronia (Q277486)
+[https://www.wikidata.org/wiki/Q277486](https://www.wikidata.org/wiki/Q277486)  
+
+### alignments:
+ - [Duronia](https://pleiades.stoa.org/places/432817)
+
+
 ## Durovernum Cantiacorum (Q1267451)
 [https://www.wikidata.org/wiki/Q1267451](https://www.wikidata.org/wiki/Q1267451)  
 
@@ -12986,6 +13042,13 @@
 
 ### alignments:
  - [Falerna](https://pleiades.stoa.org/places/534380454)
+
+
+## Falernus Ager (Q11921525)
+[https://www.wikidata.org/wiki/Q11921525](https://www.wikidata.org/wiki/Q11921525)  
+
+### alignments:
+ - [Falernus Ager](https://pleiades.stoa.org/places/432828)
 
 
 ## Falkirk Roman fort (Q81435044)
@@ -15418,6 +15481,13 @@
  - [Hercynia Silva](https://pleiades.stoa.org/places/123090)
 
 
+## Herdonia (Q937054)
+[https://www.wikidata.org/wiki/Q937054](https://www.wikidata.org/wiki/Q937054)  
+
+### alignments:
+ - [Herdoniae/Ardaneae/Civitas Serdonis](https://pleiades.stoa.org/places/442613)
+
+
 ## Hergla (Q1203456)
 [https://www.wikidata.org/wiki/Q1203456](https://www.wikidata.org/wiki/Q1203456)  
 
@@ -16494,6 +16564,13 @@
 
 ### alignments:
  - [Imbrasos (river)](https://pleiades.stoa.org/places/599669)
+
+
+## Imbrinium (Q11926589)
+[https://www.wikidata.org/wiki/Q11926589](https://www.wikidata.org/wiki/Q11926589)  
+
+### alignments:
+ - [Imbrinium](https://pleiades.stoa.org/places/438755)
 
 
 ## Imeri Gramvousa (Q12872532)
@@ -21833,6 +21910,13 @@
  - [Caveirac milestone](https://pleiades.stoa.org/places/828895928)
 
 
+## Milonia (Q23925255)
+[https://www.wikidata.org/wiki/Q23925255](https://www.wikidata.org/wiki/Q23925255)  
+
+### alignments:
+ - [Milionia](https://pleiades.stoa.org/places/438786)
+
+
 ## Milos (Q203979)
 [https://www.wikidata.org/wiki/Q203979](https://www.wikidata.org/wiki/Q203979)  
 
@@ -22260,6 +22344,13 @@
  - [Monte Sirai](https://pleiades.stoa.org/places/471974)
 
 
+## Monte Soratte (Q1334215)
+[https://www.wikidata.org/wiki/Q1334215](https://www.wikidata.org/wiki/Q1334215)  
+
+### alignments:
+ - [Soracte (mountain)](https://pleiades.stoa.org/places/413317)
+
+
 ## Monte Testaccio (Q781595)
 [https://www.wikidata.org/wiki/Q781595](https://www.wikidata.org/wiki/Q781595)  
 
@@ -22279,6 +22370,13 @@
 
 ### alignments:
  - [Monteverde](https://pleiades.stoa.org/places/422978)
+
+
+## Monti Simbruini (Q838788)
+[https://www.wikidata.org/wiki/Q838788](https://www.wikidata.org/wiki/Q838788)  
+
+### alignments:
+ - [Simbruini (mountain)](https://pleiades.stoa.org/places/433120)
 
 
 ## Montjoie Roman column (Q22939373)
@@ -29016,13 +29114,6 @@
  - [Sepulcra Salaria](https://pleiades.stoa.org/places/770401461)
 
 
-## Q1131991: Corbio
-[https://www.wikidata.org/wiki/Q1131991](https://www.wikidata.org/wiki/Q1131991)  
-
-### alignments:
- - [Corbio](https://pleiades.stoa.org/places/438722)
-
-
 ## Q1132798: Sepphoris
 [https://www.wikidata.org/wiki/Q1132798](https://www.wikidata.org/wiki/Q1132798)  
 
@@ -29392,13 +29483,6 @@
 
 ### alignments:
  - [Egeta](https://pleiades.stoa.org/places/207107)
-
-
-## Q11921525: Falernus Ager
-[https://www.wikidata.org/wiki/Q11921525](https://www.wikidata.org/wiki/Q11921525)  
-
-### alignments:
- - [Falernus Ager](https://pleiades.stoa.org/places/432828)
 
 
 ## Q11924438
@@ -38572,13 +38656,6 @@
  - [Claterna](https://pleiades.stoa.org/places/393405)
 
 
-## Q3680845: Cliternia Frentana
-[https://www.wikidata.org/wiki/Q3680845](https://www.wikidata.org/wiki/Q3680845)  
-
-### alignments:
- - [Cliternia](https://pleiades.stoa.org/places/432787)
-
-
 ## Q3682385: Coggabata
 [https://www.wikidata.org/wiki/Q3682385](https://www.wikidata.org/wiki/Q3682385)  
 
@@ -47439,6 +47516,13 @@
  - [Salt-en-Donzy](https://pleiades.stoa.org/places/167910)
 
 
+## Salto (river) (Q71609)
+[https://www.wikidata.org/wiki/Q71609](https://www.wikidata.org/wiki/Q71609)  
+
+### alignments:
+ - [Himella (river)](https://pleiades.stoa.org/places/413169)
+
+
 ## Salutaris Pagus (Q134782910)
 [https://www.wikidata.org/wiki/Q134782910](https://www.wikidata.org/wiki/Q134782910)  
 
@@ -47976,6 +48060,13 @@
 
 ### alignments:
  - [Sant'Andrea Catabarbara](https://pleiades.stoa.org/places/201179211)
+
+
+## Santa Anatolia (Q2066500)
+[https://www.wikidata.org/wiki/Q2066500](https://www.wikidata.org/wiki/Q2066500)  
+
+### alignments:
+ - [S. Anatolia](https://pleiades.stoa.org/places/413295)
 
 
 ## Santa Cecilia in Trastevere (Q1479873)
@@ -48824,6 +48915,13 @@
 
 ### alignments:
  - [Servian](https://pleiades.stoa.org/places/148200)
+
+
+## Sesars (Q127431256)
+[https://www.wikidata.org/wiki/Q127431256](https://www.wikidata.org/wiki/Q127431256)  
+
+### alignments:
+ - [Sesars](https://pleiades.stoa.org/places/252984)
 
 
 ## Sesebi (Q2274450)
@@ -50112,6 +50210,13 @@
 
 ### alignments:
  - [Suebi](https://pleiades.stoa.org/places/99040)
+
+
+## Suessetani (Q4445582)
+[https://www.wikidata.org/wiki/Q4445582](https://www.wikidata.org/wiki/Q4445582)  
+
+### alignments:
+ - [Suessetani](https://pleiades.stoa.org/places/246669)
 
 
 ## Suessiones (Q1196925)
@@ -53650,6 +53755,13 @@
  - [Trebiae](https://pleiades.stoa.org/places/413349)
 
 
+## Trevi nel Lazio (Q117471)
+[https://www.wikidata.org/wiki/Q117471](https://www.wikidata.org/wiki/Q117471)  
+
+### alignments:
+ - [Treba](https://pleiades.stoa.org/places/433162)
+
+
 ## Triakontaschoinos (Q391260)
 [https://www.wikidata.org/wiki/Q391260](https://www.wikidata.org/wiki/Q391260)  
 
@@ -53669,6 +53781,13 @@
 
 ### alignments:
  - [Tricasses](https://pleiades.stoa.org/places/109392)
+
+
+## Trigno (Q71768)
+[https://www.wikidata.org/wiki/Q71768](https://www.wikidata.org/wiki/Q71768)  
+
+### alignments:
+ - [Trinius (river)](https://pleiades.stoa.org/places/433170)
 
 
 ## Trikeri Ydras (Q16523372)

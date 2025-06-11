@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4412 alignments exist in _Pleiades_ place references as of 2025-06-10. The following list of alignments is grouped by zotkey.
+4422 alignments exist in _Pleiades_ place references as of 2025-06-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4889,6 +4889,13 @@
 
 ### alignments:
  - [Aquinum](https://pleiades.stoa.org/places/432695)
+
+
+## GEO ID 14456: Caudini
+[https://www.trismegistos.org/place/14456](https://www.trismegistos.org/place/14456)  
+
+### alignments:
+ - [Caudini](https://pleiades.stoa.org/places/45806447)
 
 
 ## GEO ID 14457: Caudium (Montesarchio)
@@ -15832,6 +15839,13 @@
  - [Andematunnum](https://pleiades.stoa.org/places/177441)
 
 
+## GEO ID 32711: Agellum (Aielli)
+[http://www.trismegistos.org/place/32711](http://www.trismegistos.org/place/32711)  
+
+### alignments:
+ - [Agellum](https://pleiades.stoa.org/places/432655)
+
+
 ## GEO ID 32729: Statulae (Goriano Sicoli)
 [http://www.trismegistos.org/place/32729](http://www.trismegistos.org/place/32729)  
 
@@ -22826,6 +22840,20 @@
  - [Ebutiana](https://pleiades.stoa.org/places/438729)
 
 
+## GEO ID 41855: In Monte Grani
+[https://www.trismegistos.org/place/41855](https://www.trismegistos.org/place/41855)  
+
+### alignments:
+ - [In Monte Grani](https://pleiades.stoa.org/places/438756)
+
+
+## GEO ID 41856: In Monte Carbonario
+[https://www.trismegistos.org/place/41856](https://www.trismegistos.org/place/41856)  
+
+### alignments:
+ - [In Monte Carbonario](https://pleiades.stoa.org/places/438757)
+
+
 ## GEO ID 41858: Ad Silarum
 [https://www.trismegistos.org/place/41858](https://www.trismegistos.org/place/41858)  
 
@@ -26328,6 +26356,13 @@
  - [Pomptinae Paludes](https://pleiades.stoa.org/places/433033)
 
 
+## GEO ID 45556: Corbio (Rocca Priora)
+[https://www.trismegistos.org/place/45556](https://www.trismegistos.org/place/45556)  
+
+### alignments:
+ - [Corbio](https://pleiades.stoa.org/places/438722)
+
+
 ## GEO ID 45561: Turnacum (Ternay)
 [http://www.trismegistos.org/place/45561](http://www.trismegistos.org/place/45561)  
 
@@ -28123,6 +28158,20 @@
  - [Mersin-Yumuktepe](https://pleiades.stoa.org/places/648555)
 
 
+## GEO ID 58814: Belikiom
+[https://www.trismegistos.org/place/58814](https://www.trismegistos.org/place/58814)  
+
+### alignments:
+ - [Belikiom](https://pleiades.stoa.org/places/252939)
+
+
+## GEO ID 58850: Sesars
+[https://www.trismegistos.org/place/58850](https://www.trismegistos.org/place/58850)  
+
+### alignments:
+ - [Sesars](https://pleiades.stoa.org/places/252984)
+
+
 ## GEO ID 58869: Astakos (Baş İskele)
 [https://www.trismegistos.org/place/58869](https://www.trismegistos.org/place/58869)  
 
@@ -28900,6 +28949,13 @@
  - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
 
 
+## GEO ID 61101: Corioli
+[https://www.trismegistos.org/place/61101](https://www.trismegistos.org/place/61101)  
+
+### alignments:
+ - [Corioli](https://pleiades.stoa.org/places/438723)
+
+
 ## GEO ID 61115: Panormos (Porto Palermo)
 [https://www.trismegistos.org/place/61115](https://www.trismegistos.org/place/61115)  
 
@@ -29243,6 +29299,13 @@
  - [Nemorensis (lake)](https://pleiades.stoa.org/places/422984)
 
 
+## GEO ID 63664: Suessetani
+[https://www.trismegistos.org/place/63664](https://www.trismegistos.org/place/63664)  
+
+### alignments:
+ - [Suessetani](https://pleiades.stoa.org/places/246669)
+
+
 ## Geo ID 63714: Comani
 [https://www.trismegistos.org/place/63714](https://www.trismegistos.org/place/63714)  
 
@@ -29262,6 +29325,13 @@
 
 ### alignments:
  - [Amyclae](https://pleiades.stoa.org/places/438675)
+
+
+## GEO ID 63792: Cusuetani
+[https://www.trismegistos.org/place/63792](https://www.trismegistos.org/place/63792)  
+
+### alignments:
+ - [Cusuetani](https://pleiades.stoa.org/places/438724)
 
 
 ## GEO ID 63898: Aggasus
