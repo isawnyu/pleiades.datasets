@@ -1,13 +1,78 @@
 {
     "@type": "Place",
     "bbox": [
-        14.404873,
-        41.66871,
-        14.404873,
-        41.66871
+        14.3903263,
+        41.6709297,
+        14.3903263,
+        41.6709297
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/433170",
+            "contributors": [],
+            "created": "2025-06-10T16:09:21Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-06-10T19:05:09Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-10T16:09:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-06-10T16:09:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-10T16:09:21Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "trinius-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/35168496",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DPCKAZR8",
+                    "citationDetail": "p. 93",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Oakley, S. P. <i>The Hill-Forts of the Samnites</i>. Archaeological Monographs of the British School at Rome 10. London: The British School at Rome, 1995. http://www.worldcat.org/oclc/35168496.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Oakley 1995",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Trinius (river)",
+            "uri": "https://pleiades.stoa.org/places/432784/trinius-river"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/433170"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,36 +101,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T23:24:37Z",
+    "created": "2025-06-10T16:00:45Z",
     "creators": [
         {
             "name": "N. Purcell",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 44 F2 Civitanova",
+    "description": "Civitanova del Sannio is an Italian comune located in the present-day province of Isernia. In antiquity, Civitanova was the site of multiple fortifications connected with the Samnites.",
     "details": "<p>The Barrington Atlas Directory notes: Civitanova</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    14.404873,
-                    41.66871
+                    14.3903263,
+                    41.6709297
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18347",
+            "id": "osm-location-of-la-civita",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/432784/darmc-location-18347",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/432784/osm-location-of-la-civita",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "DARMC location 18347"
+                "snippet": "Hill",
+                "title": "OSM location of La Civita"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-06-10T19:04:53Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "edit summary; updated Connections, Names, Locations by @jbecker",
+            "modified": "2025-06-10T19:03:43Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-09T16:39:39Z",
@@ -116,109 +191,256 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [],
+            "created": "2025-06-10T16:06:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "<p>Oakley (1995) indicates that the hill known as \"La Civita\" (894 meters a.s.l.) was the site of a fortified Samnite hillfort.</p>",
+            "end": null,
+            "featureType": [
+                "hill"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
+            ],
+            "geometry": {
+                "coordinates": [
+                    14.3903263,
+                    41.6709297
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-06-10T19:04:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-10T16:08:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2025-06-10T16:08:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-06-10T16:06:41Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-10T16:06:41Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-la-civita",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
+            ],
+            "provenance": "OpenStreetMap (Node 6428893676, version 1, osm:changeset=69574859, 2019-04-25T17:33:59Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/6428893676",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 6428893676",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=6428893676",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/35168496",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DPCKAZR8",
+                    "citationDetail": "fig. 93",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Oakley, S. P. <i>The Hill-Forts of the Samnites</i>. Archaeological Monographs of the British School at Rome 10. London: The British School at Rome, 1995. http://www.worldcat.org/oclc/35168496.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Oakley 1995",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "OSM location of La Civita",
+            "uri": "https://pleiades.stoa.org/places/432784/osm-location-of-la-civita"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T23:10:11Z",
+            "attested": "Civitanova",
+            "contributors": [],
+            "created": "2025-06-10T16:05:40Z",
             "creators": [
                 {
-                    "name": "N. Purcell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18347",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    14.404873,
-                    41.66871
-                ],
-                "type": "Point"
-            },
+            "description": "",
+            "details": "",
+            "end": 1999,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:59:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T23:23:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-10T19:05:09Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T23:10:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-10T16:09:29Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-06-10T16:05:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T23:10:11Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-10T16:05:40Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18347",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 18347",
+            "id": "civitanova",
+            "language": "it",
+            "nameType": "label",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18347",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "44 F2 Civitanova",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Civitanova",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/432784/civitanova"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Civitanova del Sannio",
+            "contributors": [],
+            "created": "2025-06-10T16:06:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-06-10T19:05:09Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-10T16:09:30Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "italian name Civitanova del Sannio",
+                    "modified": "2025-06-10T16:06:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-10T16:06:22Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "civitanova-del-sannio",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q279026",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Civitanova del Sannio (Q279026)",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18347.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 18347",
-            "uri": "https://pleiades.stoa.org/places/432784/darmc-location-18347"
+            "romanized": "Civitanova del Sannio",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/432784/civitanova-del-sannio"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/hill"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "hill"
     ],
     "provenance": "Barrington Atlas: BAtlas 44 F2 Civitanova",
     "references": [
@@ -254,11 +476,44 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (Italian)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/35168496",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DPCKAZR8",
+            "citationDetail": "pp. 92-3; fig. 93, 94, 95",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Oakley, S. P. <i>The Hill-Forts of the Samnites</i>. Archaeological Monographs of the British School at Rome 10. London: The British School at Rome, 1995. http://www.worldcat.org/oclc/35168496.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Oakley 1995",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q279026",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Civitanova del Sannio (Q279026)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18347",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        14.404873,
-        41.66871
+        14.3903263,
+        41.6709297
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
