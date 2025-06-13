@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4422 alignments exist in _Pleiades_ place references as of 2025-06-11. The following list of alignments is grouped by zotkey.
+4426 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -16175,6 +16175,13 @@
  - [Cannae](https://pleiades.stoa.org/places/442523)
 
 
+## GEO ID 33008: Barduli (Barletta)
+[https://www.trismegistos.org/place/33008](https://www.trismegistos.org/place/33008)  
+
+### alignments:
+ - [Barduli](https://pleiades.stoa.org/places/442498)
+
+
 ## GEO ID 33009: Furfana (Cerignola)
 [http://www.trismegistos.org/place/33009](http://www.trismegistos.org/place/33009)  
 
@@ -20565,6 +20572,13 @@
  - [Ad Aesim](https://pleiades.stoa.org/places/412989)
 
 
+## GEO ID 40819: Ad Aesim (Scheggia)
+[https://www.trismegistos.org/place/40819](https://www.trismegistos.org/place/40819)  
+
+### alignments:
+ - [Ad Aesim](https://pleiades.stoa.org/places/412988)
+
+
 ## GEO ID 40822: Tres Tabernae
 [https://www.trismegistos.org/place/40822](https://www.trismegistos.org/place/40822)  
 
@@ -22852,6 +22866,13 @@
 
 ### alignments:
  - [In Monte Carbonario](https://pleiades.stoa.org/places/438757)
+
+
+## GEO ID 41857: Syllae
+[http://www.trismegistos.org/place/41857](http://www.trismegistos.org/place/41857)  
+
+### alignments:
+ - [Syllae](https://pleiades.stoa.org/places/438844)
 
 
 ## GEO ID 41858: Ad Silarum
@@ -29437,6 +29458,13 @@
 
 ### alignments:
  - [Petachor](https://pleiades.stoa.org/places/741559)
+
+
+## GEO ID 65503: Anourogrammon (Anuradhapura)
+[https://www.trismegistos.org/place/65503](https://www.trismegistos.org/place/65503)  
+
+### alignments:
+ - [Anurādhapura](https://pleiades.stoa.org/places/49863)
 
 
 ## GEO ID 655: Epirus

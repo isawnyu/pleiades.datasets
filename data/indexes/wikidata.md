@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8165 alignments exist in _Pleiades_ place references as of 2025-06-11. The following list of alignments is grouped by zotkey.
+8175 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -759,6 +759,13 @@
  - [Agios Nikolaos (island)](https://pleiades.stoa.org/places/63423309)
 
 
+## Agnone (Q221126)
+[https://www.wikidata.org/wiki/Q221126](https://www.wikidata.org/wiki/Q221126)  
+
+### alignments:
+ - [Agnone](https://pleiades.stoa.org/places/432656)
+
+
 ## Agogna (Q212221)
 [https://www.wikidata.org/wiki/Q212221](https://www.wikidata.org/wiki/Q212221)  
 
@@ -1387,6 +1394,13 @@
 
 ### alignments:
  - [Roman amphitheater at Al(l)ifae](https://pleiades.stoa.org/places/850009332)
+
+
+## Allumiere (Q241680)
+[https://www.wikidata.org/wiki/Q241680](https://www.wikidata.org/wiki/Q241680)  
+
+### alignments:
+ - [Allumiere](https://pleiades.stoa.org/places/413009)
 
 
 ## Almonacid de la Cuba Dam (Q127607)
@@ -2500,6 +2514,13 @@
 
 ### alignments:
  - [Antron(es)](https://pleiades.stoa.org/places/540644)
+
+
+## Anuradhapura (Q5724)
+[https://www.wikidata.org/wiki/Q5724](https://www.wikidata.org/wiki/Q5724)  
+
+### alignments:
+ - [Anurādhapura](https://pleiades.stoa.org/places/49863)
 
 
 ## Anxanum (Q3620489)
@@ -4664,6 +4685,13 @@
 
 ### alignments:
  - [Barkway](https://pleiades.stoa.org/places/875809153)
+
+
+## Barletta (Q13470)
+[https://www.wikidata.org/wiki/Q13470](https://www.wikidata.org/wiki/Q13470)  
+
+### alignments:
+ - [Barduli](https://pleiades.stoa.org/places/442498)
 
 
 ## Barnenez (Q808456)
@@ -7354,6 +7382,13 @@
 
 ### alignments:
  - [Cappuck](https://pleiades.stoa.org/places/104728999)
+
+
+## Capracotta (Q278911)
+[https://www.wikidata.org/wiki/Q278911](https://www.wikidata.org/wiki/Q278911)  
+
+### alignments:
+ - [Monte Cavallerizzo](https://pleiades.stoa.org/places/432948)
 
 
 ## Capri (Q173292)
@@ -13161,6 +13196,13 @@
 
 ### alignments:
  - [Ficana](https://pleiades.stoa.org/places/422921)
+
+
+## Ficulea (Q1634030)
+[https://www.wikidata.org/wiki/Q1634030](https://www.wikidata.org/wiki/Q1634030)  
+
+### alignments:
+ - [Ficulea](https://pleiades.stoa.org/places/422922)
 
 
 ## Fidan Burnu (Q34866590)
@@ -22356,6 +22398,13 @@
 
 ### alignments:
  - [Monte Testaccio](https://pleiades.stoa.org/places/375710890)
+
+
+## Montefalcone nel Sannio (Q277714)
+[https://www.wikidata.org/wiki/Q277714](https://www.wikidata.org/wiki/Q277714)  
+
+### alignments:
+ - [Montefalcone nel Sannio](https://pleiades.stoa.org/places/42423874)
 
 
 ## Monterano (Q3862318)
@@ -32419,13 +32468,6 @@
 
 ### alignments:
  - [Mausoleum of Lucius Aemilius Lupus](https://pleiades.stoa.org/places/250022)
-
-
-## Q1634030: Ficulea
-[https://www.wikidata.org/wiki/Q1634030](https://www.wikidata.org/wiki/Q1634030)  
-
-### alignments:
- - [Ficulea](https://pleiades.stoa.org/places/422922)
 
 
 ## Q1636337: Ponte dell'Abbadia
@@ -46494,6 +46536,13 @@
  - [Roman Military Palace](https://pleiades.stoa.org/places/888638002)
 
 
+## Roman Odeum of Taormina (Q4331373)
+[https://www.wikidata.org/wiki/Q4331373](https://www.wikidata.org/wiki/Q4331373)  
+
+### alignments:
+ - [Roman Odeum of Tauromenium](https://pleiades.stoa.org/places/83060897)
+
+
 ## Roman ruins of Casais Velhos (Q7362327)
 [https://www.wikidata.org/wiki/Q7362327](https://www.wikidata.org/wiki/Q7362327)  
 
@@ -47766,6 +47815,13 @@
 
 ### alignments:
  - [Haluntium](https://pleiades.stoa.org/places/462228)
+
+
+## San Nicola di Trullas Church (Q569160)
+[https://www.wikidata.org/wiki/Q569160](https://www.wikidata.org/wiki/Q569160)  
+
+### alignments:
+ - [San Nicola di Trullas](https://pleiades.stoa.org/places/424659855)
 
 
 ## San Nicola in Carcere (Q2145580)
@@ -50745,6 +50801,13 @@
  - [Taurianum](https://pleiades.stoa.org/places/452466)
 
 
+## Tauromenium (Q61465946)
+[https://www.wikidata.org/wiki/Q61465946](https://www.wikidata.org/wiki/Q61465946)  
+
+### alignments:
+ - [Tauromenium](https://pleiades.stoa.org/places/462506)
+
+
 ## Taurus mountains (Q172556)
 [https://www.wikidata.org/wiki/Q172556](https://www.wikidata.org/wiki/Q172556)  
 
@@ -53606,6 +53669,13 @@
 
 ### alignments:
  - [Trajan's Kiosk](https://pleiades.stoa.org/places/222740561)
+
+
+## Trani (Q13495)
+[https://www.wikidata.org/wiki/Q13495](https://www.wikidata.org/wiki/Q13495)  
+
+### alignments:
+ - [Turenum](https://pleiades.stoa.org/places/442833)
 
 
 ## Trapeza Doric temple (Q38281916)

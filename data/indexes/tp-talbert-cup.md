@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2139 alignments exist in _Pleiades_ place references as of 2025-06-11. The following list of alignments is grouped by zotkey.
+2143 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1224,6 +1224,13 @@
 
 ### alignments:
  - [Gedrosia](https://pleiades.stoa.org/places/29573)
+
+
+## 11C4 (Talbert 3283)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3283.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3283.html)  
+
+### alignments:
+ - [Sri Lanka](https://pleiades.stoa.org/places/50298)
 
 
 ## 11C4-11B5 (Talbert 3504)
@@ -8618,6 +8625,13 @@
  - [Telesia](https://pleiades.stoa.org/places/433147)
 
 
+## 5B3 (Talbert 1449)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1449.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1449.html)  
+
+### alignments:
+ - [Syllae](https://pleiades.stoa.org/places/438844)
+
+
 ## 5B3 (Talbert 1450)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1450.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1450.html)  
 
@@ -8695,11 +8709,25 @@
  - [Aufidus (river)](https://pleiades.stoa.org/places/442485)
 
 
+## 5B4 (Talbert 1281)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1281.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1281.html)  
+
+### alignments:
+ - [Barduli](https://pleiades.stoa.org/places/442498)
+
+
 ## 5B4 (Talbert 1282)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1282.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1282.html)  
 
 ### alignments:
  - [Turenum](https://pleiades.stoa.org/places/442833)
+
+
+## 5B4 (Talbert 1283)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1283.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1283.html)  
+
+### alignments:
+ - [Natiolum](https://pleiades.stoa.org/places/442686)
 
 
 ## 5B4 (Talbert 1284)
