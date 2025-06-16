@@ -79,10 +79,10 @@
             },
             "id": "osm-location-of-forum",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/62047881/osm-location-of-forum",
                 "location_precision": "precise",
-                "snippet": "Plaza, ; 30 BC - AD 300",
+                "snippet": "Forum; 30 BC - AD 300",
                 "title": "OSM location of forum"
             },
             "type": "Feature"
@@ -147,16 +147,14 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "plaza",
-                ""
+                "forum"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
             "geometry": {
                 "coordinates": [
@@ -166,6 +164,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2025-06-14T17:23:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2025-06-14T17:22:53Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2024-03-09T23:01:14Z",
@@ -204,12 +212,10 @@
             ],
             "id": "osm-location-of-forum",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/plaza",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/forum"
             ],
             "provenance": "OpenStreetMap (Node 3065837991, version 6, osm:changeset=138539870, 2023-07-15T10:52:08Z)",
             "references": [
@@ -233,10 +239,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/plaza"
+        "https://pleiades.stoa.org/vocabularies/place-types/plaza",
+        "https://pleiades.stoa.org/vocabularies/place-types/forum"
     ],
     "placeTypes": [
-        "plaza"
+        "plaza",
+        "forum"
     ],
     "provenance": "Pleiades",
     "references": [
