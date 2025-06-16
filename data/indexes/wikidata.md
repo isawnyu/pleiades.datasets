@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8175 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
+8198 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2712,6 +2712,13 @@
  - [Aqua Appia](https://pleiades.stoa.org/places/423562)
 
 
+## Aqua Crabra (Q15149975)
+[https://www.wikidata.org/wiki/Q15149975](https://www.wikidata.org/wiki/Q15149975)  
+
+### alignments:
+ - [Aqua Crabra](https://pleiades.stoa.org/places/811907996)
+
+
 ## Aquae Caeretanae (Q118898622)
 [https://www.wikidata.org/wiki/Q118898622](https://www.wikidata.org/wiki/Q118898622)  
 
@@ -3426,6 +3433,13 @@
  - [Armenion](https://pleiades.stoa.org/places/540662)
 
 
+## Arno (Q115457)
+[https://www.wikidata.org/wiki/Q115457](https://www.wikidata.org/wiki/Q115457)  
+
+### alignments:
+ - [Arnus (river)](https://pleiades.stoa.org/places/403181)
+
+
 ## Arquata del Tronto (Q56031)
 [https://www.wikidata.org/wiki/Q56031](https://www.wikidata.org/wiki/Q56031)  
 
@@ -3894,6 +3908,13 @@
 
 ### alignments:
  - [Atene](https://pleiades.stoa.org/places/579883)
+
+
+## Ateste (Q4813131)
+[https://www.wikidata.org/wiki/Q4813131](https://www.wikidata.org/wiki/Q4813131)  
+
+### alignments:
+ - [Ateste](https://pleiades.stoa.org/places/393382)
 
 
 ## Atfih (Q754592)
@@ -7349,6 +7370,13 @@
  - [Temple of Hera Lacinia](https://pleiades.stoa.org/places/452332)
 
 
+## Capo Graziano (Q46849937)
+[https://www.wikidata.org/wiki/Q46849937](https://www.wikidata.org/wiki/Q46849937)  
+
+### alignments:
+ - [Capo Graziano](https://pleiades.stoa.org/places/946423790)
+
+
 ## Capo Passero (Q1034750)
 [https://www.wikidata.org/wiki/Q1034750](https://www.wikidata.org/wiki/Q1034750)  
 
@@ -7622,6 +7650,13 @@
  - [Casa dei Crescenzi](https://pleiades.stoa.org/places/111763397)
 
 
+## Casa Del Marinaio (Q27687907)
+[https://www.wikidata.org/wiki/Q27687907](https://www.wikidata.org/wiki/Q27687907)  
+
+### alignments:
+ - [Casa del Marinaio](https://pleiades.stoa.org/places/456945392)
+
+
 ## Casa del Menandro (Q1590905)
 [https://www.wikidata.org/wiki/Q1590905](https://www.wikidata.org/wiki/Q1590905)  
 
@@ -7651,7 +7686,7 @@
 
 
 ## Casa della Regina Carolina (VIII 3.14) (Q27688124)
-[https://www.wikidata.org/wiki/Q104522265](https://www.wikidata.org/wiki/Q104522265)  
+[https://www.wikidata.org/wiki/Q27688124](https://www.wikidata.org/wiki/Q27688124)  
 
 ### alignments:
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
@@ -7669,6 +7704,13 @@
 
 ### alignments:
  - [House of Anicetus](https://pleiades.stoa.org/places/850954730)
+
+
+## Casa di Championnet I and II (Q27688032)
+[https://www.wikidata.org/wiki/Q27688032](https://www.wikidata.org/wiki/Q27688032)  
+
+### alignments:
+ - [Casa di Championnet](https://pleiades.stoa.org/places/850575919)
 
 
 ## Casa di Pane (Q27688146)
@@ -9148,6 +9190,13 @@
  - [Kerkineion](https://pleiades.stoa.org/places/540862)
 
 
+## Cerfennia (Q104876336)
+[https://www.wikidata.org/wiki/Q24052407](https://www.wikidata.org/wiki/Q24052407)  
+
+### alignments:
+ - [Cerfennia](https://pleiades.stoa.org/places/432777)
+
+
 ## Cernavodă (Q736276)
 [https://www.wikidata.org/wiki/Q736276](https://www.wikidata.org/wiki/Q736276)  
 
@@ -9447,6 +9496,13 @@
 
 ### alignments:
  - [Chiarone (river)](https://pleiades.stoa.org/places/892206337)
+
+
+## Chiascio (Q1071692)
+[https://www.wikidata.org/wiki/Q1071692](https://www.wikidata.org/wiki/Q1071692)  
+
+### alignments:
+ - [Clasius? (river)](https://pleiades.stoa.org/places/413089)
 
 
 ## Chichester (Samian Ware Discovery Site) (Q103159582)
@@ -10085,6 +10141,13 @@
 
 ### alignments:
  - [Kobandoi](https://pleiades.stoa.org/places/101205)
+
+
+## Cocullo (Q50085)
+[https://www.wikidata.org/wiki/Q50085](https://www.wikidata.org/wiki/Q50085)  
+
+### alignments:
+ - [Cocullo](https://pleiades.stoa.org/places/432791)
 
 
 ## Cocylium (Q12879221)
@@ -13233,6 +13296,13 @@
  - [Filey](https://pleiades.stoa.org/places/89185)
 
 
+## Filicudi (Q743908)
+[https://www.wikidata.org/wiki/Q743908](https://www.wikidata.org/wiki/Q743908)  
+
+### alignments:
+ - [Phoenicusa (island)](https://pleiades.stoa.org/places/462425)
+
+
 ## Filo Musiaco (Q134635882)
 [https://www.wikidata.org/wiki/Q134635882](https://www.wikidata.org/wiki/Q134635882)  
 
@@ -13252,6 +13322,13 @@
 
 ### alignments:
  - [Finca del Secretario](https://pleiades.stoa.org/places/177797261)
+
+
+## Fiora River (Q691596)
+[https://www.wikidata.org/wiki/Q691596](https://www.wikidata.org/wiki/Q691596)  
+
+### alignments:
+ - [Armenta (river)](https://pleiades.stoa.org/places/413029)
 
 
 ## First Ancient Theatre, Larissa (Q5452301)
@@ -13329,6 +13406,13 @@
 
 ### alignments:
  - [Kastell Op de Hoge Woerd](https://pleiades.stoa.org/places/99061)
+
+
+## Florentia (Q3746707)
+[https://www.wikidata.org/wiki/Q3746707](https://www.wikidata.org/wiki/Q3746707)  
+
+### alignments:
+ - [Florentia](https://pleiades.stoa.org/places/413138)
 
 
 ## Flower's Barrow (Q5462123)
@@ -13665,6 +13749,13 @@
 
 ### alignments:
  - [Frosolone](https://pleiades.stoa.org/places/432851)
+
+
+## Fucine Lake (Q914789)
+[https://www.wikidata.org/wiki/Q914789](https://www.wikidata.org/wiki/Q914789)  
+
+### alignments:
+ - [Fucinus L.](https://pleiades.stoa.org/places/432853)
 
 
 ## Fuencaliente (Q1632151)
@@ -14317,6 +14408,13 @@
 
 ### alignments:
  - [Gioia dei Marsi](https://pleiades.stoa.org/places/432865)
+
+
+## Giovenco (Q71539)
+[https://www.wikidata.org/wiki/Q71539](https://www.wikidata.org/wiki/Q71539)  
+
+### alignments:
+ - [Iuvencus (river)](https://pleiades.stoa.org/places/432888)
 
 
 ## Gird-i Rostam (Q133455889)
@@ -15565,6 +15663,13 @@
  - [Hermonthis](https://pleiades.stoa.org/places/786036)
 
 
+## Hernici (Q930242)
+[https://www.wikidata.org/wiki/Q930242](https://www.wikidata.org/wiki/Q930242)  
+
+### alignments:
+ - [Hernici](https://pleiades.stoa.org/places/422944)
+
+
 ## Herodium (Q913099)
 [https://www.wikidata.org/wiki/Q913099](https://www.wikidata.org/wiki/Q913099)  
 
@@ -15999,6 +16104,13 @@
  - [House of Obellius Firmus](https://pleiades.stoa.org/places/182931390)
 
 
+## House of Pinarius Cerialis e Cassia (III.4.B) (Q27685787)
+[https://www.wikidata.org/wiki/Q27685787](https://www.wikidata.org/wiki/Q27685787)  
+
+### alignments:
+ - [House of Iphigeneia](https://pleiades.stoa.org/places/264634401)
+
+
 ## House of Plotilla (Q27688138)
 [https://www.wikidata.org/wiki/Q27688138](https://www.wikidata.org/wiki/Q27688138)  
 
@@ -16396,6 +16508,13 @@
 
 ### alignments:
  - [Dianium/Hemeroskopeion](https://pleiades.stoa.org/places/265880)
+
+
+## I Morroni (Q68308383)
+[https://www.wikidata.org/wiki/Q68308383](https://www.wikidata.org/wiki/Q68308383)  
+
+### alignments:
+ - [I Morroni](https://pleiades.stoa.org/places/380606286)
 
 
 ## Ialysos (Q29963099)
@@ -18752,6 +18871,13 @@
  - [Pelso (lake)](https://pleiades.stoa.org/places/197430)
 
 
+## Lake Bracciano (Q896551)
+[https://www.wikidata.org/wiki/Q896551](https://www.wikidata.org/wiki/Q896551)  
+
+### alignments:
+ - [Sabatinus lacus](https://pleiades.stoa.org/places/413290)
+
+
 ## Lake Burdur (Q1010475)
 [https://www.wikidata.org/wiki/Q1010475](https://www.wikidata.org/wiki/Q1010475)  
 
@@ -18904,6 +19030,13 @@
 
 ### alignments:
  - [Miletopolitis/Apolloniatis/Artynia L.](https://pleiades.stoa.org/places/511319)
+
+
+## Lake Vadimo (Q3826072)
+[https://www.wikidata.org/wiki/Q3826072](https://www.wikidata.org/wiki/Q3826072)  
+
+### alignments:
+ - [Vadimonis (lake)](https://pleiades.stoa.org/places/413370)
 
 
 ## Lake Vistonida (Q1422238)
@@ -20635,6 +20768,13 @@
  - [Marpessos](https://pleiades.stoa.org/places/550723)
 
 
+## Marruvium (Q3626844)
+[https://www.wikidata.org/wiki/Q3626844](https://www.wikidata.org/wiki/Q3626844)  
+
+### alignments:
+ - [Marruvium](https://pleiades.stoa.org/places/432927)
+
+
 ## Martanum (Q21235205)
 [https://www.wikidata.org/wiki/Q21235205](https://www.wikidata.org/wiki/Q21235205)  
 
@@ -22160,6 +22300,13 @@
 
 ### alignments:
  - [Moenjodaro](https://pleiades.stoa.org/places/902113570)
+
+
+## Moio della Civitella (Q81055)
+[https://www.wikidata.org/wiki/Q81055](https://www.wikidata.org/wiki/Q81055)  
+
+### alignments:
+ - [Moio della Civitella](https://pleiades.stoa.org/places/442661)
 
 
 ## Moissac Abbey (Q334208)
@@ -27006,6 +27153,13 @@
  - [Stabian Gate](https://pleiades.stoa.org/places/260329425)
 
 
+## Porta Herculaneum (Q94579468)
+[https://www.wikidata.org/wiki/Q94579468](https://www.wikidata.org/wiki/Q94579468)  
+
+### alignments:
+ - [Herculaneum Gate](https://pleiades.stoa.org/places/220742115)
+
+
 ## Porta Latina (Q1720229)
 [https://www.wikidata.org/wiki/Q1720229](https://www.wikidata.org/wiki/Q1720229)  
 
@@ -28329,13 +28483,6 @@
  - [Mars, Aedes](https://pleiades.stoa.org/places/699284690)
 
 
-## Q104876336: Cerfennia
-[https://www.wikidata.org/wiki/Q24052407](https://www.wikidata.org/wiki/Q24052407)  
-
-### alignments:
- - [Cerfennia](https://pleiades.stoa.org/places/432777)
-
-
 ## Q1048892: Castellum Tingitii
 [https://www.wikidata.org/wiki/Q1048892](https://www.wikidata.org/wiki/Q1048892)  
 
@@ -29296,13 +29443,6 @@
  - [Arco dei Gavi](https://pleiades.stoa.org/places/391761931)
 
 
-## Q115457: Arno
-[https://www.wikidata.org/wiki/Q115457](https://www.wikidata.org/wiki/Q115457)  
-
-### alignments:
- - [Arnus (river)](https://pleiades.stoa.org/places/403181)
-
-
 ## Q115687000
 [https://www.wikidata.org/wiki/Q115687000](https://www.wikidata.org/wiki/Q115687000)  
 
@@ -29742,6 +29882,13 @@
 
 ### alignments:
  - [Iciniacum](https://pleiades.stoa.org/places/118758)
+
+
+## Q121837292
+[https://www.wikidata.org/wiki/Q121837292](https://www.wikidata.org/wiki/Q121837292)  
+
+### alignments:
+ - [Grotta del Tasso di Sofignano](https://pleiades.stoa.org/places/454350149)
 
 
 ## Q121842844: Shakenoak Roman Villa
@@ -31774,13 +31921,6 @@
 
 ### alignments:
  - [Itouraia](https://pleiades.stoa.org/places/678203)
-
-
-## Q15149975: Aqua Crabra
-[https://www.wikidata.org/wiki/Q15149975](https://www.wikidata.org/wiki/Q15149975)  
-
-### alignments:
- - [Aqua Crabra](https://pleiades.stoa.org/places/811907996)
 
 
 ## Q1517652: Ohalo
@@ -36051,13 +36191,6 @@
  - [Tumulus MM](https://pleiades.stoa.org/places/434885832)
 
 
-## Q25511450: Villa Regina
-[https://www.wikidata.org/wiki/Q25511450](https://www.wikidata.org/wiki/Q25511450)  
-
-### alignments:
- - [Villa Regina, Boscoreale](https://pleiades.stoa.org/places/523755190)
-
-
 ## Q2552044: Sant'Omobono Area
 [https://www.wikidata.org/wiki/Q2552044](https://www.wikidata.org/wiki/Q2552044)  
 
@@ -36420,13 +36553,6 @@
 
 ### alignments:
  - [House of Trebius Valens](https://pleiades.stoa.org/places/387880487)
-
-
-## Q27685787: House of Pinarius Cerialis e Cassia (III.4.B)
-[https://www.wikidata.org/wiki/Q27685787](https://www.wikidata.org/wiki/Q27685787)  
-
-### alignments:
- - [House of Iphigeneia](https://pleiades.stoa.org/places/264634401)
 
 
 ## Q27685985
@@ -38691,6 +38817,13 @@
  - [S. Passera](https://pleiades.stoa.org/places/423051)
 
 
+## Q3678794
+[https://www.wikidata.org/wiki/Q3678794](https://www.wikidata.org/wiki/Q3678794)  
+
+### alignments:
+ - [Grotte di Castro](https://pleiades.stoa.org/places/413158)
+
+
 ## Q3679783: Claternae
 [https://www.wikidata.org/wiki/Q3679783](https://www.wikidata.org/wiki/Q3679783)  
 
@@ -39378,13 +39511,6 @@
  - [Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 
 
-## Q3931887: region VII of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931887](https://www.wikidata.org/wiki/Q3931887)  
-
-### alignments:
- - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
-
-
 ## Q3931888: region VIII of the archaeological excavations of Pompeii
 [https://www.wikidata.org/wiki/Q3931888](https://www.wikidata.org/wiki/Q3931888)  
 
@@ -39624,13 +39750,6 @@
  - [Frontone](https://pleiades.stoa.org/places/857433537)
 
 
-## Q3983283: Temple of Venus in Pompeii
-[https://www.wikidata.org/wiki/Q3983283](https://www.wikidata.org/wiki/Q3983283)  
-
-### alignments:
- - [Temple of Venus](https://pleiades.stoa.org/places/663121962)
-
-
 ## Q3983287: Temple of Vespasian
 [https://www.wikidata.org/wiki/Q3983287](https://www.wikidata.org/wiki/Q3983287)  
 
@@ -39727,6 +39846,13 @@
 
 ### alignments:
  - [Trestina](https://pleiades.stoa.org/places/363892614)
+
+
+## Q4006602
+[https://www.wikidata.org/wiki/Q4006602](https://www.wikidata.org/wiki/Q4006602)  
+
+### alignments:
+ - [Uscosium?](https://pleiades.stoa.org/places/433177)
 
 
 ## Q4010616: Via Flavia
@@ -43343,13 +43469,6 @@
  - [Lepti Minus](https://pleiades.stoa.org/places/324767)
 
 
-## Q691596: Fiora River
-[https://www.wikidata.org/wiki/Q691596](https://www.wikidata.org/wiki/Q691596)  
-
-### alignments:
- - [Armenta (river)](https://pleiades.stoa.org/places/413029)
-
-
 ## Q692488: Via Clodia
 [https://www.wikidata.org/wiki/Q692488](https://www.wikidata.org/wiki/Q692488)  
 
@@ -44554,13 +44673,6 @@
  - [Flavionavia](https://pleiades.stoa.org/places/236464)
 
 
-## Q896551: Lake Bracciano
-[https://www.wikidata.org/wiki/Q896551](https://www.wikidata.org/wiki/Q896551)  
-
-### alignments:
- - [Sabatinus lacus](https://pleiades.stoa.org/places/413290)
-
-
 ## Q89702616: Narbonensis I
 [https://www.wikidata.org/wiki/Q89702616](https://www.wikidata.org/wiki/Q89702616)  
 
@@ -45616,6 +45728,20 @@
 
 ### alignments:
  - [Italia, Regio VI](https://pleiades.stoa.org/places/699782782)
+
+
+## region III of the archaeological excavations of Pompeii (Q3931875)
+[https://www.wikidata.org/wiki/Q3931875](https://www.wikidata.org/wiki/Q3931875)  
+
+### alignments:
+ - [Regio III, Pompeii](https://pleiades.stoa.org/places/762217869)
+
+
+## region VII of the archaeological excavations of Pompeii (Q3931887)
+[https://www.wikidata.org/wiki/Q3931887](https://www.wikidata.org/wiki/Q3931887)  
+
+### alignments:
+ - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
 
 
 ## Regolini-Galassi tomb (Q1877295)
@@ -47976,6 +48102,13 @@
 
 ### alignments:
  - [Sanctuary of Herakles Hippodetos](https://pleiades.stoa.org/places/496501628)
+
+
+## Sanctuary of Hercules at Campochiaro (Q106604622)
+[https://www.wikidata.org/wiki/Q106604622](https://www.wikidata.org/wiki/Q106604622)  
+
+### alignments:
+ - [Campochiaro](https://pleiades.stoa.org/places/432746)
 
 
 ## Sanctuary of Hercules Victor (Q3949876)
@@ -51627,6 +51760,13 @@
  - [Templum Veneris et Romae](https://pleiades.stoa.org/places/261794683)
 
 
+## Temple of Venus in Pompeii (Q3983283)
+[https://www.wikidata.org/wiki/Q3983283](https://www.wikidata.org/wiki/Q3983283)  
+
+### alignments:
+ - [Temple of Venus](https://pleiades.stoa.org/places/663121962)
+
+
 ## Temple of Vespasian and Titus (Q731284)
 [https://www.wikidata.org/wiki/Q731284](https://www.wikidata.org/wiki/Q731284)  
 
@@ -54896,6 +55036,13 @@
  - [Praetorium Agrippinae](https://pleiades.stoa.org/places/99021)
 
 
+## Valle di Amplero (Q28634797)
+[https://www.wikidata.org/wiki/Q28634797](https://www.wikidata.org/wiki/Q28634797)  
+
+### alignments:
+ - [Sito archeologico Le Tombe di Amplero](https://pleiades.stoa.org/places/537241210)
+
+
 ## Valley of the Queens (Q260386)
 [https://www.wikidata.org/wiki/Q260386](https://www.wikidata.org/wiki/Q260386)  
 
@@ -55562,6 +55709,13 @@
  - [Col. Vienna](https://pleiades.stoa.org/places/167719)
 
 
+## Vieste (Q51967)
+[https://www.wikidata.org/wiki/Q51967](https://www.wikidata.org/wiki/Q51967)  
+
+### alignments:
+ - [Vieste](https://pleiades.stoa.org/places/442853)
+
+
 ## Vigna Parrocchiale archaeological area (Q104147049)
 [https://www.wikidata.org/wiki/Q104147049](https://www.wikidata.org/wiki/Q104147049)  
 
@@ -55784,6 +55938,13 @@
 
 ### alignments:
  - [Villa di Vibio Varo](https://pleiades.stoa.org/places/423124)
+
+
+## Villa Regina (Q25511450)
+[https://www.wikidata.org/wiki/Q25511450](https://www.wikidata.org/wiki/Q25511450)  
+
+### alignments:
+ - [Villa Regina, Boscoreale](https://pleiades.stoa.org/places/523755190)
 
 
 ## Villa romana de Carranque (Q766555)

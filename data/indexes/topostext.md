@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3705 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
+3706 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3007,6 +3007,13 @@
 
 ### alignments:
  - [Arethusae Fons](https://pleiades.stoa.org/places/462101)
+
+
+## Argentomagus (Gallia) 5 Saint Marcel
+[https://topostext.org/place/466015UArg](https://topostext.org/place/466015UArg)  
+
+### alignments:
+ - [*Argentomagus](https://pleiades.stoa.org/places/138192)
 
 
 ## Argiai (Dodecanese) 1 Strongili and Airilousa - Αργείαι

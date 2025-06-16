@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4426 alignments exist in _Pleiades_ place references as of 2025-06-13. The following list of alignments is grouped by zotkey.
+4428 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3392,7 +3392,7 @@
  - [Fons Timavi](https://pleiades.stoa.org/places/187383)
 
 
-## GEO ID 12274
+## GEO ID 12274: Ateste (Este)
 [http://www.trismegistos.org/place/12274](http://www.trismegistos.org/place/12274)  
 
 ### alignments:
@@ -15902,6 +15902,13 @@
  - [Fonte Romito](https://pleiades.stoa.org/places/432838)
 
 
+## GEO ID 32751: Lavernae (Prezza)
+[http://www.trismegistos.org/place/32751](http://www.trismegistos.org/place/32751)  
+
+### alignments:
+ - [*Lavernae](https://pleiades.stoa.org/places/432899)
+
+
 ## GEO ID 32752: Raiano
 [http://www.trismegistos.org/place/32752](http://www.trismegistos.org/place/32752)  
 
@@ -22719,6 +22726,13 @@
 
 ### alignments:
  - [Castellum Amerinum](https://pleiades.stoa.org/places/416789)
+
+
+## GEO ID 41830: Ceios
+[https://www.trismegistos.org/place/41830](https://www.trismegistos.org/place/41830)  
+
+### alignments:
+ - [Ceios](https://pleiades.stoa.org/places/416790)
 
 
 ## GEO ID 41831: Frusteniae
