@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8198 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
+8216 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -738,6 +738,13 @@
  - [Koite/Akytos (island)](https://pleiades.stoa.org/places/589873)
 
 
+## Agios Athanasios site, Ithaki (Q22681567)
+[https://www.wikidata.org/wiki/Q22681567](https://www.wikidata.org/wiki/Q22681567)  
+
+### alignments:
+ - [School of Homer Ag. Athanasios excavations (Ithaca)](https://pleiades.stoa.org/places/308594948)
+
+
 ## Agios Demetrios (Q1625222)
 [https://www.wikidata.org/wiki/Q1625222](https://www.wikidata.org/wiki/Q1625222)  
 
@@ -1107,6 +1114,13 @@
 
 ### alignments:
  - [Alahan](https://pleiades.stoa.org/places/648553)
+
+
+## Alalcomenae (Ithaca) (Q1706457)
+[https://www.wikidata.org/wiki/Q1706457](https://www.wikidata.org/wiki/Q1706457)  
+
+### alignments:
+ - [Al(al)komenai](https://pleiades.stoa.org/places/530791)
 
 
 ## Alazones (Q123278836)
@@ -11095,6 +11109,13 @@
  - [Dadokome](https://pleiades.stoa.org/places/844902)
 
 
+## Daedalium (Q971140)
+[https://www.wikidata.org/wiki/Q971140](https://www.wikidata.org/wiki/Q971140)  
+
+### alignments:
+ - [D(a)edalium](https://pleiades.stoa.org/places/462184)
+
+
 ## Daedalus Reef (Q15212511)
 [https://www.wikidata.org/wiki/Q15212511](https://www.wikidata.org/wiki/Q15212511)  
 
@@ -12308,6 +12329,13 @@
  - [Echelidai](https://pleiades.stoa.org/places/585905)
 
 
+## Ecnomus (Q11917970)
+[https://www.wikidata.org/wiki/Q11917970](https://www.wikidata.org/wiki/Q11917970)  
+
+### alignments:
+ - [Eknomos?](https://pleiades.stoa.org/places/462191)
+
+
 ## Ecobrogis (Q132400022)
 [https://www.wikidata.org/wiki/Q132400022](https://www.wikidata.org/wiki/Q132400022)  
 
@@ -12755,6 +12783,13 @@
 
 ### alignments:
  - [Eordaia](https://pleiades.stoa.org/places/491591)
+
+
+## Epamanduodurum (Q131755545)
+[https://www.wikidata.org/wiki/Q131755545](https://www.wikidata.org/wiki/Q131755545)  
+
+### alignments:
+ - [Epamanduodurum](https://pleiades.stoa.org/places/177516)
 
 
 ## Ephesus (Q47611)
@@ -13693,6 +13728,13 @@
 
 ### alignments:
  - [Fleury](https://pleiades.stoa.org/places/355548322)
+
+
+## Frampton Roman villa (Q17650665)
+[https://www.wikidata.org/wiki/Q17650665](https://www.wikidata.org/wiki/Q17650665)  
+
+### alignments:
+ - [Frampton](https://pleiades.stoa.org/places/79468)
 
 
 ## Franclens (Q819337)
@@ -14646,6 +14688,13 @@
 
 ### alignments:
  - [Graia](https://pleiades.stoa.org/places/540796)
+
+
+## Grande (Q3796616)
+[https://www.wikidata.org/wiki/Q3796616](https://www.wikidata.org/wiki/Q3796616)  
+
+### alignments:
+ - [Himeras (river)](https://pleiades.stoa.org/places/462245)
 
 
 ## Gravina in Puglia (Q51829)
@@ -15999,6 +16048,13 @@
  - [House M8-A](https://pleiades.stoa.org/places/888638008)
 
 
+## House of A. Octavius Primus (Q27687937)
+[https://www.wikidata.org/wiki/Q27687937](https://www.wikidata.org/wiki/Q27687937)  
+
+### alignments:
+ - [Domus of A. Octavius Primus](https://pleiades.stoa.org/places/242335383)
+
+
 ## House of Aufidia Cornelia Valentinilla (Q96757985)
 [https://www.wikidata.org/wiki/Q96757985](https://www.wikidata.org/wiki/Q96757985)  
 
@@ -16011,6 +16067,13 @@
 
 ### alignments:
  - [House of Aulus Umbricius Scaurus](https://pleiades.stoa.org/places/404426272)
+
+
+## House of Bacchus (Q27686873)
+[https://www.wikidata.org/wiki/Q27686873](https://www.wikidata.org/wiki/Q27686873)  
+
+### alignments:
+ - [Casa di Bacco](https://pleiades.stoa.org/places/476710423)
 
 
 ## House of Bacchus and Ariadne (Q1047006)
@@ -16046,6 +16109,13 @@
 
 ### alignments:
  - [Casa della Farnesina](https://pleiades.stoa.org/places/975276181)
+
+
+## House of Faustus (Q27685908)
+[https://www.wikidata.org/wiki/Q27685908](https://www.wikidata.org/wiki/Q27685908)  
+
+### alignments:
+ - [Domus di Faustus](https://pleiades.stoa.org/places/12576385)
 
 
 ## House of Flavius Germanus (Q130629903)
@@ -16118,6 +16188,13 @@
  - [House of Plotilla](https://pleiades.stoa.org/places/583930486)
 
 
+## House of Romulus and Remus (Q27687274)
+[https://www.wikidata.org/wiki/Q27687274](https://www.wikidata.org/wiki/Q27687274)  
+
+### alignments:
+ - [House of Romulus and Remus](https://pleiades.stoa.org/places/690145557)
+
+
 ## House of Simon the cobbler (Q20379266)
 [https://www.wikidata.org/wiki/Q20379266](https://www.wikidata.org/wiki/Q20379266)  
 
@@ -16179,6 +16256,13 @@
 
 ### alignments:
  - [House of the Painters at Work](https://pleiades.stoa.org/places/746630758)
+
+
+## House of the Silver Wedding (Q5915633)
+[https://www.wikidata.org/wiki/Q5915633](https://www.wikidata.org/wiki/Q5915633)  
+
+### alignments:
+ - [House of the Silver Wedding](https://pleiades.stoa.org/places/679464306)
 
 
 ## House of the Skeleton at Cosa (Q116258914)
@@ -17091,6 +17175,13 @@
  - [Itanos](https://pleiades.stoa.org/places/589824)
 
 
+## Ithaca (Q187471)
+[https://www.wikidata.org/wiki/Q187471](https://www.wikidata.org/wiki/Q187471)  
+
+### alignments:
+ - [Ithaca (island)](https://pleiades.stoa.org/places/530906)
+
+
 ## Ithome (Thessaly) (Q12878147)
 [https://www.wikidata.org/wiki/Q12878147](https://www.wikidata.org/wiki/Q12878147)  
 
@@ -17776,6 +17867,13 @@
 
 ### alignments:
  - [Katharo](https://pleiades.stoa.org/places/589854)
+
+
+## Kato Aetos (Q110880077)
+[https://www.wikidata.org/wiki/Q110880077](https://www.wikidata.org/wiki/Q110880077)  
+
+### alignments:
+ - [Kato Aetos](https://pleiades.stoa.org/places/530934)
 
 
 ## Kavousi Vronda (Q23586062)
@@ -26180,6 +26278,13 @@
  - [Phinopolis](https://pleiades.stoa.org/places/515667)
 
 
+## Phintias (Q3745777)
+[https://www.wikidata.org/wiki/Q3745777](https://www.wikidata.org/wiki/Q3745777)  
+
+### alignments:
+ - [Phintias](https://pleiades.stoa.org/places/462424)
+
+
 ## Phlius (Q1412043)
 [https://www.wikidata.org/wiki/Q1412043](https://www.wikidata.org/wiki/Q1412043)  
 
@@ -27074,6 +27179,13 @@
 
 ### alignments:
  - [Pons Aelius](https://pleiades.stoa.org/places/334776903)
+
+
+## Ponte Scutonico (Q131690826)
+[https://www.wikidata.org/wiki/Q131690826](https://www.wikidata.org/wiki/Q131690826)  
+
+### alignments:
+ - [Ponte Scotonico](https://pleiades.stoa.org/places/214128051)
 
 
 ## Ponte Sisto (Q586329)
@@ -39385,6 +39497,13 @@
  - [Parco delle Tombe di via Latina](https://pleiades.stoa.org/places/426597)
 
 
+## Q3895470
+[https://www.wikidata.org/wiki/Q3895470](https://www.wikidata.org/wiki/Q3895470)  
+
+### alignments:
+ - [Volcei](https://pleiades.stoa.org/places/442855)
+
+
 ## Q3901057: Petriana
 [https://www.wikidata.org/wiki/Q3901057](https://www.wikidata.org/wiki/Q3901057)  
 
@@ -39495,13 +39614,6 @@
 
 ### alignments:
  - [Regio IV, Pompeii](https://pleiades.stoa.org/places/984330149)
-
-
-## Q3931882: region IX of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931882](https://www.wikidata.org/wiki/Q3931882)  
-
-### alignments:
- - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
 
 
 ## Q3931883: region I of the archaeological excavations of Pompeii
@@ -41395,6 +41507,13 @@
 
 ### alignments:
  - [Naniglio Roman Villa](https://pleiades.stoa.org/places/452388)
+
+
+## Q55678918
+[https://www.wikidata.org/wiki/Q55678918](https://www.wikidata.org/wiki/Q55678918)  
+
+### alignments:
+ - [Monte Saraceno di Ravanusa (Kakyron?)](https://pleiades.stoa.org/places/462266)
 
 
 ## Q55685668: Villa of the Volusii Saturnini
@@ -47681,7 +47800,7 @@
 [https://www.wikidata.org/wiki/Q24358](https://www.wikidata.org/wiki/Q24358)  
 
 ### alignments:
- - [Kyamosoros (river)](https://pleiades.stoa.org/places/462273)
+ - [Himeras (river)](https://pleiades.stoa.org/places/462246)
 
 
 ## Salt-en-Donzy (Q1106355)
@@ -53053,6 +53172,13 @@
 
 ### alignments:
  - [Tomb of Lucius Publicius Syneros, Aebia Fausta, Lucius Aebius Aristo and Aebia Hilara](https://pleiades.stoa.org/places/90074312)
+
+
+## Tomb of Marcus Alleius Minius (Q29887379)
+[https://www.wikidata.org/wiki/Q29887379](https://www.wikidata.org/wiki/Q29887379)  
+
+### alignments:
+ - [Tomb of Marcus Alleius Minius](https://pleiades.stoa.org/places/358482340)
 
 
 ## Tomb of Marcus Tullius (Q127510222)

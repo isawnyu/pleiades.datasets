@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3706 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
+3709 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7496,6 +7496,13 @@
  - [Ecbatana/Hagmatana/Achmeta/Epiphaneia/Ahmadan](https://pleiades.stoa.org/places/903021)
 
 
+## Eknomos? (Sicily) 5 Pizzo Caduta - Έκνομον
+[https://topostext.org/place/371139LEkn](https://topostext.org/place/371139LEkn)  
+
+### alignments:
+ - [Eknomos?](https://pleiades.stoa.org/places/462191)
+
+
 ## Elaias Limen (Preveza)
 [https://topostext.org/place/392205UEla](https://topostext.org/place/392205UEla)  
 
@@ -10151,6 +10158,13 @@
 
 ### alignments:
  - [Holmoi/Hermia?](https://pleiades.stoa.org/places/648643)
+
+
+## Homeric Ithaca? (Ithaki) 165 Stavros - Ιθάκη
+[https://topostext.org/place/383204UIth](https://topostext.org/place/383204UIth)  
+
+### alignments:
+ - [Ithaca (island)](https://pleiades.stoa.org/places/530906)
 
 
 ## Homilai (Phthiotida)
@@ -21657,6 +21671,13 @@
 
 ### alignments:
  - [Schoino(u)s](https://pleiades.stoa.org/places/570656)
+
+
+## School of Homer Ag. Athanasios exc. (Ithaca) Stavros
+[https://topostext.org/place/385206XSta](https://topostext.org/place/385206XSta)  
+
+### alignments:
+ - [School of Homer Ag. Athanasios excavations (Ithaca)](https://pleiades.stoa.org/places/308594948)
 
 
 ## Scyllaeum cape (Magna Graecia)

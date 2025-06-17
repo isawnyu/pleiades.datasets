@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-394 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
+398 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -216,6 +216,13 @@
 
 ### alignments:
  - [Polichne](https://pleiades.stoa.org/places/570625)
+
+
+## Record id 12435: ITHAQUE. - « École d'Homère » - 1998
+[https://chronique.efa.gr/?kroute=report&id=12435](https://chronique.efa.gr/?kroute=report&id=12435)  
+
+### alignments:
+ - [School of Homer Ag. Athanasios excavations (Ithaca)](https://pleiades.stoa.org/places/308594948)
 
 
 ## Report 10283: ASOPOS - 1996
@@ -1487,6 +1494,20 @@
  - [Krane](https://pleiades.stoa.org/places/530962)
 
 
+## Toponyme - 35630: Ithaki
+[https://chronique.efa.gr/?r=topo_public&id=35630](https://chronique.efa.gr/?r=topo_public&id=35630)  
+
+### alignments:
+ - [Ithaca (island)](https://pleiades.stoa.org/places/530906)
+
+
+## Toponyme - 35651: Ithaki, Vathi-Δ.Δ.Ιθάκης
+[https://chronique.efa.gr/?r=topo_public&id=35651](https://chronique.efa.gr/?r=topo_public&id=35651)  
+
+### alignments:
+ - [Ithaca (island)](https://pleiades.stoa.org/places/530906)
+
+
 ## Toponyme - 37913: Kalamata-Δ.Δ.Καλαμάτας
 [https://chronique.efa.gr/?r=topo_public&id=37913](https://chronique.efa.gr/?r=topo_public&id=37913)  
 
@@ -1802,6 +1823,13 @@
 
 ### alignments:
  - [Kleitor](https://pleiades.stoa.org/places/570359)
+
+
+## Toponyme 23914: Kato Aetos
+[https://chronique.efa.gr/?kroute=topo_public&id=23914](https://chronique.efa.gr/?kroute=topo_public&id=23914)  
+
+### alignments:
+ - [Kato Aetos](https://pleiades.stoa.org/places/530934)
 
 
 ## Toponyme 24312: Loutron

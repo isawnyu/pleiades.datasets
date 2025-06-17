@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4428 alignments exist in _Pleiades_ place references as of 2025-06-16. The following list of alignments is grouped by zotkey.
+4432 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -19998,6 +19998,13 @@
  - [Calloniana](https://pleiades.stoa.org/places/462124)
 
 
+## GEO ID 40473: Daedalium
+[http://www.trismegistos.org/place/40473](http://www.trismegistos.org/place/40473)  
+
+### alignments:
+ - [D(a)edalium](https://pleiades.stoa.org/places/462184)
+
+
 ## GEO ID 40484: Aternum (Pescara)
 [http://www.trismegistos.org/place/40484](http://www.trismegistos.org/place/40484)  
 
@@ -28431,6 +28438,13 @@
  - [Panormos](https://pleiades.stoa.org/places/580057)
 
 
+## GEO ID 60645: Alalkomenai (Palaiokastro)
+[https://www.trismegistos.org/place/60645](https://www.trismegistos.org/place/60645)  
+
+### alignments:
+ - [Al(al)komenai](https://pleiades.stoa.org/places/530791)
+
+
 ## GEO ID 60648: Panormos
 [https://www.trismegistos.org/place/60648](https://www.trismegistos.org/place/60648)  
 
@@ -28940,6 +28954,13 @@
 
 ### alignments:
  - [Auridai](https://pleiades.stoa.org/places/585892)
+
+
+## GEO ID 61068: Eknomos (Pizzo Caduta)
+[https://www.trismegistos.org/place/61068](https://www.trismegistos.org/place/61068)  
+
+### alignments:
+ - [Eknomos?](https://pleiades.stoa.org/places/462191)
 
 
 ## GEO ID 61071: Herkte
@@ -30818,6 +30839,13 @@
 
 ### alignments:
  - [Aquae Carpitanae](https://pleiades.stoa.org/places/314883)
+
+
+## Text 206804 = Oxyrh. Pap. 4.665
+[https://www.trismegistos.org/georef/206804](https://www.trismegistos.org/georef/206804)  
+
+### alignments:
+ - [Monte Saraceno di Ravanusa (Kakyron?)](https://pleiades.stoa.org/places/462266)
 
 
 ## Text 247594
