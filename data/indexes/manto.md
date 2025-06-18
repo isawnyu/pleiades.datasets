@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-655 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
+656 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -146,6 +146,13 @@
 
 ### alignments:
  - [Agora of Athens](https://pleiades.stoa.org/places/807514119)
+
+
+## 10085271: the Baliares (islands)
+[https://resource.manto.unh.edu/10085271](https://resource.manto.unh.edu/10085271)  
+
+### alignments:
+ - [Baliares/Gymnesiae Inss. (Maior et Minor)](https://pleiades.stoa.org/places/265817)
 
 
 ## 10093382: Lake Lucrinus (Campania)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8216 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
+8228 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -666,6 +666,13 @@
 
 ### alignments:
  - [Aphaka (Temple of Aphrodite Aphakitis)](https://pleiades.stoa.org/places/668195)
+
+
+## Afragola (Q71610)
+[https://www.wikidata.org/wiki/Q71610](https://www.wikidata.org/wiki/Q71610)  
+
+### alignments:
+ - [Afragola](https://pleiades.stoa.org/places/432654)
 
 
 ## Afrin River (Q387842)
@@ -9870,6 +9877,13 @@
  - [Circus of Maxentius](https://pleiades.stoa.org/places/461581649)
 
 
+## Circus of Nero (Q676074)
+[https://www.wikidata.org/wiki/Q676074](https://www.wikidata.org/wiki/Q676074)  
+
+### alignments:
+ - [Circus Gaii et Neronis](https://pleiades.stoa.org/places/395487201)
+
+
 ## Cirella (Q2118996)
 [https://www.wikidata.org/wiki/Q2118996](https://www.wikidata.org/wiki/Q2118996)  
 
@@ -10934,6 +10948,13 @@
  - [Kybelaia](https://pleiades.stoa.org/places/550673)
 
 
+## Cyclopean Isles (Q245578)
+[https://www.wikidata.org/wiki/Q245578](https://www.wikidata.org/wiki/Q245578)  
+
+### alignments:
+ - [Cyclopum Scopuli Tres](https://pleiades.stoa.org/places/462179)
+
+
 ## Cyllene (Q56650616)
 [https://www.wikidata.org/wiki/Q56650616](https://www.wikidata.org/wiki/Q56650616)  
 
@@ -11612,6 +11633,14 @@
 
 ### alignments:
  - [Castrum Divionense](https://pleiades.stoa.org/places/177489)
+
+
+## Dilmun Burial Mounds (Q5276996)
+[https://www.wikidata.org/wiki/Q5276996](https://www.wikidata.org/wiki/Q5276996)  
+
+### alignments:
+ - [A'ali Mound Cemetery](https://pleiades.stoa.org/places/574183541)
+ - [Dilmun Burial Mounds](https://pleiades.stoa.org/places/933683602)
 
 
 ## Dimini archaeological site (Q10262223)
@@ -13989,6 +14018,13 @@
  - [Gallo-Roman amphitheater at Grannum](https://pleiades.stoa.org/places/130863949)
 
 
+## Gallo-Roman Theatre of Mandeure (Q1851628)
+[https://www.wikidata.org/wiki/Q1851628](https://www.wikidata.org/wiki/Q1851628)  
+
+### alignments:
+ - [Gallo-Roman theater of Mandeure](https://pleiades.stoa.org/places/444784601)
+
+
 ## Gallo-Roman theatre of Sanxay (Q28971473)
 [https://www.wikidata.org/wiki/Q28971473](https://www.wikidata.org/wiki/Q28971473)  
 
@@ -15962,6 +15998,13 @@
 
 ### alignments:
  - [Horti Agrippinae](https://pleiades.stoa.org/places/124755045)
+
+
+## Horti Domitiae Calvillae (Q133797333)
+[https://www.wikidata.org/wiki/Q133797333](https://www.wikidata.org/wiki/Q133797333)  
+
+### alignments:
+ - [Horti Domitiae Calvillae](https://pleiades.stoa.org/places/1754698)
 
 
 ## Horti Lamiani (Q1777094)
@@ -19431,6 +19474,13 @@
  - [Le Rozier](https://pleiades.stoa.org/places/138545)
 
 
+## League of Corinth (Q332337)
+[https://www.wikidata.org/wiki/Q332337](https://www.wikidata.org/wiki/Q332337)  
+
+### alignments:
+ - [Corinthian League](https://pleiades.stoa.org/places/224168727)
+
+
 ## Leahill Turret, Hadrian's Wall (Q6509268)
 [https://www.wikidata.org/wiki/Q6509268](https://www.wikidata.org/wiki/Q6509268)  
 
@@ -21319,6 +21369,13 @@
 
 ### alignments:
  - [Menios (river)](https://pleiades.stoa.org/places/573369)
+
+
+## Menorca (Q52636)
+[https://www.wikidata.org/wiki/Q52636](https://www.wikidata.org/wiki/Q52636)  
+
+### alignments:
+ - [Minorca (island)](https://pleiades.stoa.org/places/572631626)
 
 
 ## Menosgada (Q1920699)
@@ -23373,6 +23430,13 @@
  - [Navan](https://pleiades.stoa.org/places/89250)
 
 
+## Naveta de sa Torreta de Tramuntana - es Figueralet (Q43109389)
+[https://www.wikidata.org/wiki/Q43109389](https://www.wikidata.org/wiki/Q43109389)  
+
+### alignments:
+ - [Naveta of Sa Torreta](https://pleiades.stoa.org/places/835076165)
+
+
 ## Navia (Q14526)
 [https://www.wikidata.org/wiki/Q14526](https://www.wikidata.org/wiki/Q14526)  
 
@@ -23420,6 +23484,13 @@
 
 ### alignments:
  - [Nea Moni](https://pleiades.stoa.org/places/514403427)
+
+
+## Neapolis (Q15122630)
+[https://www.wikidata.org/wiki/Q15122630](https://www.wikidata.org/wiki/Q15122630)  
+
+### alignments:
+ - [Parthenope/Neapolis](https://pleiades.stoa.org/places/433014)
 
 
 ## Neapolis (Q6984309)
@@ -23835,6 +23906,13 @@
  - [Nisaia](https://pleiades.stoa.org/places/570508)
 
 
+## Nisida (Q1192720)
+[https://www.wikidata.org/wiki/Q1192720](https://www.wikidata.org/wiki/Q1192720)  
+
+### alignments:
+ - [Nesis (island)](https://pleiades.stoa.org/places/432980)
+
+
 ## Nisiopi (Q915899)
 [https://www.wikidata.org/wiki/Q915899](https://www.wikidata.org/wiki/Q915899)  
 
@@ -23853,7 +23931,7 @@
 [https://www.wikidata.org/wiki/Q1775706](https://www.wikidata.org/wiki/Q1775706)  
 
 ### alignments:
- - [Nitriai](https://pleiades.stoa.org/places/727176)
+ - [Nitriai (settlement)](https://pleiades.stoa.org/places/727176)
 
 
 ## Nitzana (Q2909861)
@@ -25368,6 +25446,13 @@
  - [Palmyrene Gate](https://pleiades.stoa.org/places/980015057)
 
 
+## Palumbinum (Q11939937)
+[https://www.wikidata.org/wiki/Q11939937](https://www.wikidata.org/wiki/Q11939937)  
+
+### alignments:
+ - [Palumbinum](https://pleiades.stoa.org/places/438801)
+
+
 ## Pamba River (Q2641922)
 [https://www.wikidata.org/wiki/Q2641922](https://www.wikidata.org/wiki/Q2641922)  
 
@@ -26703,6 +26788,13 @@
 
 ### alignments:
  - [Montefí Talayotic settlement](https://pleiades.stoa.org/places/367256898)
+
+
+## Poblat talaiòtic de Sa Torreta (Q65209860)
+[https://www.wikidata.org/wiki/Q65209860](https://www.wikidata.org/wiki/Q65209860)  
+
+### alignments:
+ - [Sa Torreta](https://pleiades.stoa.org/places/316244304)
 
 
 ## Poemanenum (Q65043966)
@@ -29875,13 +29967,6 @@
 
 ### alignments:
  - [Ormenion/Orminion](https://pleiades.stoa.org/places/543819)
-
-
-## Q11939937: Palumbinum
-[https://www.wikidata.org/wiki/Q11939937](https://www.wikidata.org/wiki/Q11939937)  
-
-### alignments:
- - [Palumbinum](https://pleiades.stoa.org/places/438801)
 
 
 ## Q11944150: Qasr el-Sagha
@@ -39616,6 +39701,13 @@
  - [Regio IV, Pompeii](https://pleiades.stoa.org/places/984330149)
 
 
+## Q3931882: region IX of the archaeological excavations of Pompeii
+[https://www.wikidata.org/wiki/Q3931882](https://www.wikidata.org/wiki/Q3931882)  
+
+### alignments:
+ - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
+
+
 ## Q3931883: region I of the archaeological excavations of Pompeii
 [https://www.wikidata.org/wiki/Q3931883](https://www.wikidata.org/wiki/Q3931883)  
 
@@ -41121,14 +41213,6 @@
 
 ### alignments:
  - [Tureng tepe/Khosro-shad-Peroz](https://pleiades.stoa.org/places/942331)
-
-
-## Q5276996
-[https://www.wikidata.org/wiki/Q5276996](https://www.wikidata.org/wiki/Q5276996)  
-
-### alignments:
- - [A'ali Mound Cemetery](https://pleiades.stoa.org/places/574183541)
- - [Dilmun Burial Mounds](https://pleiades.stoa.org/places/933683602)
 
 
 ## Q5278331: Diniktum
@@ -43439,13 +43523,6 @@
 
 ### alignments:
  - [Orto della Regina](https://pleiades.stoa.org/places/789450243)
-
-
-## Q676074: Circus of Nero
-[https://www.wikidata.org/wiki/Q676074](https://www.wikidata.org/wiki/Q676074)  
-
-### alignments:
- - [Circus Gaii et Neronis](https://pleiades.stoa.org/places/395487201)
 
 
 ## Q677659: Maison Carrée
@@ -47402,6 +47479,13 @@
 
 ### alignments:
  - [Room W13, Military compound in the Temple of Artemis Azzanathkona](https://pleiades.stoa.org/places/977420437)
+
+
+## Room W9, Temple of Artemis Azzanathkona, Dura-Europos (Q125556895)
+[https://www.wikidata.org/wiki/Q125556895](https://www.wikidata.org/wiki/Q125556895)  
+
+### alignments:
+ - [Room W9 in the Temple of Artemis Azzanathkona](https://pleiades.stoa.org/places/204580394)
 
 
 ## Roquepertuse (Q968431)

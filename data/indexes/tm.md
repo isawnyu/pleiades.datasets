@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4432 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
+4434 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22189,6 +22189,13 @@
  - [Rustici](https://pleiades.stoa.org/places/311136)
 
 
+## GEO ID 41702: Salviana
+[https://www.trismegistos.org/place/41702](https://www.trismegistos.org/place/41702)  
+
+### alignments:
+ - [Salviana](https://pleiades.stoa.org/places/311138)
+
+
 ## GEO ID 41703: Vicus Iuliani
 [https://www.trismegistos.org/place/41703](https://www.trismegistos.org/place/41703)  
 
@@ -26396,6 +26403,13 @@
 
 ### alignments:
  - [Pomptinae Paludes](https://pleiades.stoa.org/places/433033)
+
+
+## GEO ID 45552: Ad Quartum (Quarto)
+[http://www.trismegistos.org/place/45552](http://www.trismegistos.org/place/45552)  
+
+### alignments:
+ - [Ad Quartum](https://pleiades.stoa.org/places/432633)
 
 
 ## GEO ID 45556: Corbio (Rocca Priora)

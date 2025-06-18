@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3709 alignments exist in _Pleiades_ place references as of 2025-06-17. The following list of alignments is grouped by zotkey.
+3709 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -16458,7 +16458,7 @@
 [https://topostext.org/place/309303UNit](https://topostext.org/place/309303UNit)  
 
 ### alignments:
- - [Nitriai](https://pleiades.stoa.org/places/727176)
+ - [Nitriai (settlement)](https://pleiades.stoa.org/places/727176)
 
 
 ## Noeodunum Diablintum (Gallia)
