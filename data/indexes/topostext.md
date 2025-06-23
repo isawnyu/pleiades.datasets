@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3709 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
+3710 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4604,6 +4604,13 @@
 
 ### alignments:
  - [Beirut](https://pleiades.stoa.org/places/678060)
+
+
+## Besa (Attica) 7 Synterina - Βήσα
+[https://topostext.org/place/377240DBes](https://topostext.org/place/377240DBes)  
+
+### alignments:
+ - [Besa](https://pleiades.stoa.org/places/579894)
 
 
 ## Besbikos (Propontis)

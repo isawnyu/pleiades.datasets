@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-656 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
+658 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2376,6 +2376,13 @@
  - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
+## 11310305: Monoicos Harbor (Gaul)
+[https://resource.manto.unh.edu/11310305](https://resource.manto.unh.edu/11310305)  
+
+### alignments:
+ - [Herakles Monoikos/Portus Monoeci](https://pleiades.stoa.org/places/157868)
+
+
 ## 11310357: Arbela (Assyria)
 [https://resource.manto.unh.edu/11310357](https://resource.manto.unh.edu/11310357)  
 
@@ -4244,6 +4251,13 @@
 
 ### alignments:
  - [Carthago](https://pleiades.stoa.org/places/314921)
+
+
+## 9721290: Leptis Magna (N. Africa)
+[https://resource.manto.unh.edu/9721290](https://resource.manto.unh.edu/9721290)  
+
+### alignments:
+ - [Neapolis/Lepcis Magna](https://pleiades.stoa.org/places/344448)
 
 
 ## 9721294: Pharos (Egypt)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2143 alignments exist in _Pleiades_ place references as of 2025-06-18. The following list of alignments is grouped by zotkey.
+2150 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2674,7 +2674,7 @@
 
 
 ## 1B5 (Talbert 786)
-[http://www.cambridge.org/us/talbert/talbertdatabase/prm.htmlhttp://www.cambridge.org/us/talbert/talbertdatabase/TPPlace786.html](http://www.cambridge.org/us/talbert/talbertdatabase/prm.htmlhttp://www.cambridge.org/us/talbert/talbertdatabase/TPPlace786.html)  
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace786.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace786.html)  
 
 ### alignments:
  - [Avennio](https://pleiades.stoa.org/places/148004)
@@ -7469,6 +7469,13 @@
  - [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
 
 
+## 4C4 (Talbert 140)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace140.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace140.html)  
+
+### alignments:
+ - [Bisica Lucana](https://pleiades.stoa.org/places/314908)
+
+
 ## 4C4 (Talbert 141)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace141.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace141.html)  
 
@@ -11027,6 +11034,13 @@
  - [Gaetuli](https://pleiades.stoa.org/places/344357)
 
 
+## 6C3 (Talbert 291)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace291.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace291.html)  
+
+### alignments:
+ - [Vax/Villa Repentina](https://pleiades.stoa.org/places/344531)
+
+
 ## 6C3 (Talbert 292)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace292.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace292.html)  
 
@@ -11046,6 +11060,27 @@
 
 ### alignments:
  - [Flacci Taberna](https://pleiades.stoa.org/places/349588)
+
+
+## 6C3 (Talbert 297)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace297.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace297.html)  
+
+### alignments:
+ - [Getullu](https://pleiades.stoa.org/places/344373)
+
+
+## 6C3 (Talbert 298)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace298.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace298.html)  
+
+### alignments:
+ - [Quintiliana](https://pleiades.stoa.org/places/344464)
+
+
+## 6C3 (Talbert 299)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace299.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace299.html)  
+
+### alignments:
+ - [Ad Palmam](https://pleiades.stoa.org/places/344285)
 
 
 ## 6C3 (Talbert 301)
@@ -11081,6 +11116,13 @@
 
 ### alignments:
  - [Neapolis/Lepcis Magna](https://pleiades.stoa.org/places/344448)
+
+
+## 6C4 (Talbert 303)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace303.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace303.html)  
+
+### alignments:
+ - [Sugolin](https://pleiades.stoa.org/places/344489)
 
 
 ## 6C4 (Talbert 304)
@@ -12146,6 +12188,13 @@
 
 ### alignments:
  - [Aulazon](https://pleiades.stoa.org/places/363930)
+
+
+## 7C1 (Talbert 322)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace322.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace322.html)  
+
+### alignments:
+ - [Ad Palmam](https://pleiades.stoa.org/places/363915)
 
 
 ## 7C1 (Talbert 323)
