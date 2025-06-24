@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3710 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
+3712 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8126,6 +8126,13 @@
  - [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
 
 
+## Etosi site (Attica) Etos Steko
+[https://topostext.org/place/380240FEto](https://topostext.org/place/380240FEto)  
+
+### alignments:
+ - [Etosi](https://pleiades.stoa.org/places/579929)
+
+
 ## Eua (Arkadia)
 [https://topostext.org/place/374227PEua](https://topostext.org/place/374227PEua)  
 
@@ -15245,6 +15252,13 @@
 
 ### alignments:
  - [Menouthis](https://pleiades.stoa.org/places/727162)
+
+
+## Merenda site (Attica) Merenda - Μερέντα
+[https://topostext.org/place/379240FMer](https://topostext.org/place/379240FMer)  
+
+### alignments:
+ - [Merenda](https://pleiades.stoa.org/places/580026)
 
 
 ## Meroe (Ethiopia)

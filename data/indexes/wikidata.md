@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8283 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
+8299 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -470,6 +470,13 @@
 
 ### alignments:
  - [Ad Mensulas](https://pleiades.stoa.org/places/416768)
+
+
+## Ad Pirum (Q4678175)
+[https://www.wikidata.org/wiki/Q4678175](https://www.wikidata.org/wiki/Q4678175)  
+
+### alignments:
+ - [In Alpe Iulia/Ad Pirum](https://pleiades.stoa.org/places/197317)
 
 
 ## Ad Pontem (Q345537)
@@ -2787,6 +2794,13 @@
 
 ### alignments:
  - [Aquae Granni](https://pleiades.stoa.org/places/108749)
+
+
+## Aquae Iasae (Q3510699)
+[https://www.wikidata.org/wiki/Q3510699](https://www.wikidata.org/wiki/Q3510699)  
+
+### alignments:
+ - [Aquae Iasae](https://pleiades.stoa.org/places/197127)
 
 
 ## Aquae Saravenae (Q85742537)
@@ -6158,6 +6172,13 @@
  - [Boleoi Lithoi](https://pleiades.stoa.org/places/573147)
 
 
+## Bolzano (Q6526)
+[https://www.wikidata.org/wiki/Q6526](https://www.wikidata.org/wiki/Q6526)  
+
+### alignments:
+ - [[Bauzanum]](https://pleiades.stoa.org/places/187308)
+
+
 ## Bomarzo (Q159689)
 [https://www.wikidata.org/wiki/Q159689](https://www.wikidata.org/wiki/Q159689)  
 
@@ -7734,6 +7755,13 @@
  - [Carus Vicus](https://pleiades.stoa.org/places/844886)
 
 
+## Carvalheiras Roman ruins (Q10365478)
+[https://www.wikidata.org/wiki/Q10365478](https://www.wikidata.org/wiki/Q10365478)  
+
+### alignments:
+ - [Ruínas romanas das Carvalheiras](https://pleiades.stoa.org/places/272879822)
+
+
 ## Carzield, Roman fort (Q56666836)
 [https://www.wikidata.org/wiki/Q56666836](https://www.wikidata.org/wiki/Q56666836)  
 
@@ -9071,6 +9099,13 @@
  - [Cati fons](https://pleiades.stoa.org/places/707840687)
 
 
+## Catubrini (Q108541725)
+[https://www.wikidata.org/wiki/Q108541725](https://www.wikidata.org/wiki/Q108541725)  
+
+### alignments:
+ - [Catubrini](https://pleiades.stoa.org/places/187345)
+
+
 ## Caturiges (Q859097)
 [https://www.wikidata.org/wiki/Q859097](https://www.wikidata.org/wiki/Q859097)  
 
@@ -10148,6 +10183,13 @@
 
 ### alignments:
  - [tribus Claudia](https://pleiades.stoa.org/places/310265136)
+
+
+## Claustra Alpium Iuliarum (Q1098970)
+[https://www.wikidata.org/wiki/Q1098970](https://www.wikidata.org/wiki/Q1098970)  
+
+### alignments:
+ - [Claustra Alpium Iuliarum](https://pleiades.stoa.org/places/201587)
 
 
 ## Cleandria (Q65043735)
@@ -11724,6 +11766,13 @@
 
 ### alignments:
  - [Arc de Diane](https://pleiades.stoa.org/places/127902827)
+
+
+## Diano Marina (Q268955)
+[https://www.wikidata.org/wiki/Q268955](https://www.wikidata.org/wiki/Q268955)  
+
+### alignments:
+ - [Lucus Bormani](https://pleiades.stoa.org/places/157879)
 
 
 ## Dibsi Faraj (Q5272299)
@@ -13988,6 +14037,13 @@
 
 ### alignments:
  - [Petra/Fundus Petrensis](https://pleiades.stoa.org/places/305129)
+
+
+## funeral monuments of the via Giulia Augusta (Q55686099)
+[https://www.wikidata.org/wiki/Q55686099](https://www.wikidata.org/wiki/Q55686099)  
+
+### alignments:
+ - [funeral monuments of the Via Iulia Augusta](https://pleiades.stoa.org/places/431472222)
 
 
 ## Fusaro Lake (Q764710)
@@ -26014,6 +26070,13 @@
  - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
+## Parthenon (Q10288)
+[https://www.wikidata.org/wiki/Q10288](https://www.wikidata.org/wiki/Q10288)  
+
+### alignments:
+ - [Parthenon](https://pleiades.stoa.org/places/168254096)
+
+
 ## Parthenopolis (Q60793086)
 [https://www.wikidata.org/wiki/Q60793086](https://www.wikidata.org/wiki/Q60793086)  
 
@@ -28700,13 +28763,6 @@
 
 ### alignments:
  - [Fábrica Romana de Salga](https://pleiades.stoa.org/places/53168773)
-
-
-## Q10288: Parthenon
-[https://www.wikidata.org/wiki/Q10288](https://www.wikidata.org/wiki/Q10288)  
-
-### alignments:
- - [Parthenon](https://pleiades.stoa.org/places/168254096)
 
 
 ## Q10296798
@@ -34111,13 +34167,6 @@
  - [Keras](https://pleiades.stoa.org/places/521057)
 
 
-## Q179948: Évora
-[https://www.wikidata.org/wiki/Q179948](https://www.wikidata.org/wiki/Q179948)  
-
-### alignments:
- - [Ebora](https://pleiades.stoa.org/places/256151)
-
-
 ## Q1799531: Labraunda
 [https://www.wikidata.org/wiki/Q1799531](https://www.wikidata.org/wiki/Q1799531)  
 
@@ -38546,13 +38595,6 @@
  - [Maeotis](https://pleiades.stoa.org/places/825318)
 
 
-## Q3510699: Aquae Iasae
-[https://www.wikidata.org/wiki/Q3510699](https://www.wikidata.org/wiki/Q3510699)  
-
-### alignments:
- - [Aquae Iasae](https://pleiades.stoa.org/places/197127)
-
-
 ## Q3515037: Tang-i Var Inscription
 [https://www.wikidata.org/wiki/Q3515037](https://www.wikidata.org/wiki/Q3515037)  
 
@@ -40912,13 +40954,6 @@
 
 ### alignments:
  - [Acinippo](https://pleiades.stoa.org/places/255950)
-
-
-## Q4678175
-[https://www.wikidata.org/wiki/Q4678175](https://www.wikidata.org/wiki/Q4678175)  
-
-### alignments:
- - [In Alpe Iulia/Ad Pirum](https://pleiades.stoa.org/places/197317)
 
 
 ## Q4678184: Ad Turres
@@ -43862,13 +43897,6 @@
  - [Milecastle 38 (Hotbank)](https://pleiades.stoa.org/places/967060234)
 
 
-## Q685132
-[https://www.wikidata.org/wiki/Q685132](https://www.wikidata.org/wiki/Q685132)  
-
-### alignments:
- - [Via Claudia Augusta](https://pleiades.stoa.org/places/688514720)
-
-
 ## Q686332: Sasso
 [https://www.wikidata.org/wiki/Q686332](https://www.wikidata.org/wiki/Q686332)  
 
@@ -46176,7 +46204,7 @@
 [https://www.wikidata.org/wiki/Q106618924](https://www.wikidata.org/wiki/Q106618924)  
 
 ### alignments:
- - [Capo di Sorrento](https://pleiades.stoa.org/places/432749)
+ - [Villa Maritima di Capo di Sorrento](https://pleiades.stoa.org/places/432749)
 
 
 ## Regio I Latium and Campania (Q783107)
@@ -46585,6 +46613,13 @@
  - [Verbeia (river)](https://pleiades.stoa.org/places/89310)
 
 
+## River Yeo (Q3309166)
+[https://www.wikidata.org/wiki/Q3309166](https://www.wikidata.org/wiki/Q3309166)  
+
+### alignments:
+ - [River Yeo (South Somerset)](https://pleiades.stoa.org/places/651820395)
+
+
 ## River Ystwyth (Q2121702)
 [https://www.wikidata.org/wiki/Q2121702](https://www.wikidata.org/wiki/Q2121702)  
 
@@ -46894,6 +46929,13 @@
  - [Roman arch (Medinaceli)](https://pleiades.stoa.org/places/768000924)
 
 
+## Roman Basilica of Santa Eulalia, Mérida (Q98824936)
+[https://www.wikidata.org/wiki/Q98824936](https://www.wikidata.org/wiki/Q98824936)  
+
+### alignments:
+ - [Basílica de Santa Eulalia](https://pleiades.stoa.org/places/583045156)
+
+
 ## Roman Bath House, Castleford (Q66480701)
 [https://www.wikidata.org/wiki/Q66480701](https://www.wikidata.org/wiki/Q66480701)  
 
@@ -47165,6 +47207,13 @@
 
 ### alignments:
  - [Villa Cardillio](https://pleiades.stoa.org/places/792786063)
+
+
+## Roman rural settlement at Windmill Hill Farm (Q17675536)
+[https://www.wikidata.org/wiki/Q17675536](https://www.wikidata.org/wiki/Q17675536)  
+
+### alignments:
+ - [Windmill Hill](https://pleiades.stoa.org/places/491494714)
 
 
 ## Roman settlement at Wilderspool (Q17640811)
@@ -47552,6 +47601,13 @@
  - [Minor baths of Itálica](https://pleiades.stoa.org/places/217660370)
 
 
+## Roman Thermae of Maximinus (Q7362209)
+[https://www.wikidata.org/wiki/Q7362209](https://www.wikidata.org/wiki/Q7362209)  
+
+### alignments:
+ - [Termas Romanas do Alto da Cividade](https://pleiades.stoa.org/places/500039989)
+
+
 ## Roman town Dimum (Q64630070)
 [https://www.wikidata.org/wiki/Q64630070](https://www.wikidata.org/wiki/Q64630070)  
 
@@ -47669,6 +47725,13 @@
 
 ### alignments:
  - [Sendim Roman villa](https://pleiades.stoa.org/places/330899494)
+
+
+## Roman villa of the wine press (Q134974881)
+[https://www.wikidata.org/wiki/Q134974881](https://www.wikidata.org/wiki/Q134974881)  
+
+### alignments:
+ - [Villa romana del Torchio](https://pleiades.stoa.org/places/217816181)
 
 
 ## Roman villa Otrang (Q2525555)
@@ -48980,6 +49043,13 @@
  - [Kriou Metopon Pr.](https://pleiades.stoa.org/places/226671)
 
 
+## Sasanian Empire (Q83891)
+[https://www.wikidata.org/wiki/Q83891](https://www.wikidata.org/wiki/Q83891)  
+
+### alignments:
+ - [Sasanian Empire](https://pleiades.stoa.org/places/562111623)
+
+
 ## Sasasanian mine near Tower 19 (Q117857779)
 [https://www.wikidata.org/wiki/Q117857779](https://www.wikidata.org/wiki/Q117857779)  
 
@@ -49342,6 +49412,13 @@
 
 ### alignments:
  - [Siarum](https://pleiades.stoa.org/places/256449)
+
+
+## Sebeto (Q3953836)
+[https://www.wikidata.org/wiki/Q3953836](https://www.wikidata.org/wiki/Q3953836)  
+
+### alignments:
+ - [Sebethus (river)](https://pleiades.stoa.org/places/433113)
 
 
 ## second cataract of the Nile (Q11948049)
@@ -52587,6 +52664,13 @@
  - [Teumessos](https://pleiades.stoa.org/places/541133)
 
 
+## Teurnia (Q697154)
+[https://www.wikidata.org/wiki/Q697154](https://www.wikidata.org/wiki/Q697154)  
+
+### alignments:
+ - [Teurnia](https://pleiades.stoa.org/places/187583)
+
+
 ## Teuthrania (Q11951693)
 [https://www.wikidata.org/wiki/Q11951693](https://www.wikidata.org/wiki/Q11951693)  
 
@@ -53719,6 +53803,13 @@
 
 ### alignments:
  - [Tomba delle Anatre](https://pleiades.stoa.org/places/244543115)
+
+
+## Tomb of the Five Chairs (Q3531095)
+[https://www.wikidata.org/wiki/Q3531095](https://www.wikidata.org/wiki/Q3531095)  
+
+### alignments:
+ - [Tomb of the Five Chairs, Caere](https://pleiades.stoa.org/places/424267586)
 
 
 ## Tomb of the Lollii (Q133631014)
@@ -56031,6 +56122,13 @@
  - [Via Ciminia](https://pleiades.stoa.org/places/229670928)
 
 
+## Via Claudia Augusta (Q685132)
+[https://www.wikidata.org/wiki/Q685132](https://www.wikidata.org/wiki/Q685132)  
+
+### alignments:
+ - [Via Claudia Augusta](https://pleiades.stoa.org/places/688514720)
+
+
 ## Via Collatina (Q3556490)
 [https://www.wikidata.org/wiki/Q3556490](https://www.wikidata.org/wiki/Q3556490)  
 
@@ -56282,6 +56380,13 @@
 
 ### alignments:
  - [Vieste](https://pleiades.stoa.org/places/442853)
+
+
+## Vietri sul Mare (Q81814)
+[https://www.wikidata.org/wiki/Q81814](https://www.wikidata.org/wiki/Q81814)  
+
+### alignments:
+ - [Vietri](https://pleiades.stoa.org/places/433199)
 
 
 ## Vigna Parrocchiale archaeological area (Q104147049)
@@ -57970,6 +58075,13 @@
 
 ### alignments:
  - [Stomalimne/Mastramela Stagnum](https://pleiades.stoa.org/places/148206)
+
+
+## Évora (Q179948)
+[https://www.wikidata.org/wiki/Q179948](https://www.wikidata.org/wiki/Q179948)  
+
+### alignments:
+ - [Ebora](https://pleiades.stoa.org/places/256151)
 
 
 ## Îles d'Hyères (Q292728)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4467 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
+4472 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10341,7 +10341,7 @@
  - [Adranon](https://pleiades.stoa.org/places/462074)
 
 
-## GEO ID 22269
+## GEO ID 22269: Agyrion (Agira)
 [http://www.trismegistos.org/place/22269](http://www.trismegistos.org/place/22269)  
 
 ### alignments:
@@ -11719,6 +11719,13 @@
 
 ### alignments:
  - [Conimbriga](https://pleiades.stoa.org/places/236443)
+
+
+## GEO ID 25797: Ebora (Évora)
+[http://www.trismegistos.org/place/25797](http://www.trismegistos.org/place/25797)  
+
+### alignments:
+ - [Ebora](https://pleiades.stoa.org/places/256151)
 
 
 ## GEO ID 25813: Ossonoba (Faro)
@@ -19003,6 +19010,13 @@
  - [Lamptrai Paraloi/Lamptrai Hypenerthen](https://pleiades.stoa.org/places/580009)
 
 
+## GEO ID 37772: Myrrinous (Merenda)
+[https://www.trismegistos.org/place/37772](https://www.trismegistos.org/place/37772)  
+
+### alignments:
+ - [Merenda](https://pleiades.stoa.org/places/580026)
+
+
 ## GEO ID 37778: Echelidai (Neo Faliro)
 [https://www.trismegistos.org/place/37778](https://www.trismegistos.org/place/37778)  
 
@@ -20283,6 +20297,13 @@
 
 ### alignments:
  - [Longaticum](https://pleiades.stoa.org/places/197357)
+
+
+## GEO ID 40532: Lentulis (Stari Gradac)
+[https://www.trismegistos.org/place/40532](https://www.trismegistos.org/place/40532)  
+
+### alignments:
+ - [‘Lentulis’](https://pleiades.stoa.org/places/197348)
 
 
 ## GEO ID 40543: Pizus (Dimitrievo)
@@ -23804,6 +23825,13 @@
 
 ### alignments:
  - [Creta et Cyrene (Roman province)](https://pleiades.stoa.org/places/981517)
+
+
+## GEO ID 42382: In Alpe Maritima
+[https://www.trismegistos.org/place/42382](https://www.trismegistos.org/place/42382)  
+
+### alignments:
+ - [In Alpe Maritima](https://pleiades.stoa.org/places/190126253)
 
 
 ## GEO ID 42384: Padus (Po)
@@ -28905,6 +28933,13 @@
 
 ### alignments:
  - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
+
+
+## GEO ID 60787: Etosi
+[https://www.trismegistos.org/place/60787](https://www.trismegistos.org/place/60787)  
+
+### alignments:
+ - [Etosi](https://pleiades.stoa.org/places/579929)
 
 
 ## GEO ID 60791: Phoron Limen

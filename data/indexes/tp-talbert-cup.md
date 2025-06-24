@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2150 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
+2153 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -888,6 +888,13 @@
 
 ### alignments:
  - [Gibrata/Gorbatha](https://pleiades.stoa.org/places/897771)
+
+
+## 11A1 (Talbert 2471)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2471.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2471.html)  
+
+### alignments:
+ - [Kyropolis](https://pleiades.stoa.org/places/884889)
 
 
 ## 11A1 (Talbert 3233)
@@ -3695,6 +3702,13 @@
  - [Ad Publicanos](https://pleiades.stoa.org/places/167618)
 
 
+## 2B3 (Talbert 2896)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2896.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2896.html)  
+
+### alignments:
+ - [In Alpe Maritima](https://pleiades.stoa.org/places/190126253)
+
+
 ## 2B3 (Talbert 817)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace817.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace817.html)  
 
@@ -6284,6 +6298,13 @@
 
 ### alignments:
  - [‘Piretis’](https://pleiades.stoa.org/places/197440)
+
+
+## 4A4 (Talbert 1596)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1596.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1596.html)  
+
+### alignments:
+ - [‘Lentulis’](https://pleiades.stoa.org/places/197348)
 
 
 ## 4A4 (Talbert 1607)

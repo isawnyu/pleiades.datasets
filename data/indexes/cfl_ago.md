@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-398 alignments exist in _Pleiades_ place references as of 2025-06-23. The following list of alignments is grouped by zotkey.
+399 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -62,6 +62,13 @@
 
 ### alignments:
  - [Katharo](https://pleiades.stoa.org/places/589854)
+
+
+## 2121: MERENDA - New Olympic Hippodrome - 2003
+[https://chronique.efa.gr/?kroute=report&id=2121](https://chronique.efa.gr/?kroute=report&id=2121)  
+
+### alignments:
+ - [Merenda](https://pleiades.stoa.org/places/580026)
 
 
 ## 24441: Mamousia
