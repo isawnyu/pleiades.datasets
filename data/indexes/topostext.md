@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3712 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
+3713 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5949,6 +5949,13 @@
 
 ### alignments:
  - [Cibyra](https://pleiades.stoa.org/places/638804)
+
+
+## Cilicia region (Asia Minor) 981 Mersin - Κιλικία
+[https://topostext.org/place/370340RCil](https://topostext.org/place/370340RCil)  
+
+### alignments:
+ - [Cilicia (region)](https://pleiades.stoa.org/places/658440)
 
 
 ## Cimmerian Bosphorus (Pontus)

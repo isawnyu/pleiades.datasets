@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4472 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
+4481 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1925,6 +1925,13 @@
 
 ### alignments:
  - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
+
+
+## Geo 526: Cilicia
+[https://www.trismegistos.org/place/526](https://www.trismegistos.org/place/526)  
+
+### alignments:
+ - [Cilicia (Roman province)](https://pleiades.stoa.org/places/981514)
 
 
 ## Geo 52757: Anastasia
@@ -5295,6 +5302,13 @@
 
 ### alignments:
  - [Cunetio](https://pleiades.stoa.org/places/79409)
+
+
+## GEO ID 14547: Nettleton
+[https://www.trismegistos.org/place/14547](https://www.trismegistos.org/place/14547)  
+
+### alignments:
+ - [Nettleton](https://pleiades.stoa.org/places/79609)
 
 
 ## GEO ID 14548: Portus Ardaoni (Portchester)
@@ -13563,6 +13577,13 @@
  - [Bigeste](https://pleiades.stoa.org/places/197167)
 
 
+## GEO ID 29504: Bistua Nova (Bugojno)
+[http://www.trismegistos.org/place/29504](http://www.trismegistos.org/place/29504)  
+
+### alignments:
+ - [Bistua Nova](https://pleiades.stoa.org/places/197170)
+
+
 ## GEO ID 29518: Servitium (Gradiška)
 [https://www.trismegistos.org/place/29518](https://www.trismegistos.org/place/29518)  
 
@@ -21020,6 +21041,13 @@
  - [‘Ad Ammontem’?](https://pleiades.stoa.org/places/677996)
 
 
+## GEO ID 41007: Palaibyblos
+[https://www.trismegistos.org/place/41007](https://www.trismegistos.org/place/41007)  
+
+### alignments:
+ - [Palaibyblos](https://pleiades.stoa.org/places/678322)
+
+
 ## GEO ID 41008: Abila (Khirbet el-Kafrein)
 [http://www.trismegistos.org/place/41008](http://www.trismegistos.org/place/41008)  
 
@@ -21419,6 +21447,13 @@
  - [Scyle](https://pleiades.stoa.org/places/452435)
 
 
+## GEO ID 41127: Semnum
+[https://www.trismegistos.org/place/41127](https://www.trismegistos.org/place/41127)  
+
+### alignments:
+ - [Semnum](https://pleiades.stoa.org/places/452442)
+
+
 ## GEO ID 41128: Lacenium (Capo Colonna)
 [http://www.trismegistos.org/place/41128](http://www.trismegistos.org/place/41128)  
 
@@ -21550,6 +21585,13 @@
 
 ### alignments:
  - [Drinum Fl.](https://pleiades.stoa.org/places/207099)
+
+
+## GEO ID 41315: Argentaria
+[http://www.trismegistos.org/place/41315](http://www.trismegistos.org/place/41315)  
+
+### alignments:
+ - [Argentaria](https://pleiades.stoa.org/places/211410)
 
 
 ## GEO ID 41316: Ad Fines (Laktaši)
@@ -23148,6 +23190,13 @@
  - [Pr(a)etorium Laverianum?](https://pleiades.stoa.org/places/442736)
 
 
+## GEO ID 41931: Turiostu
+[https://www.trismegistos.org/place/41931](https://www.trismegistos.org/place/41931)  
+
+### alignments:
+ - [Turiostu](https://pleiades.stoa.org/places/446300)
+
+
 ## GEO ID 41932: Sallentini
 [https://www.trismegistos.org/place/41932](https://www.trismegistos.org/place/41932)  
 
@@ -23692,6 +23741,20 @@
 
 ### alignments:
  - [Epirus Vetus](https://pleiades.stoa.org/places/991364)
+
+
+## GEO ID 42207: Philado
+[https://www.trismegistos.org/place/42207](https://www.trismegistos.org/place/42207)  
+
+### alignments:
+ - [Philado](https://pleiades.stoa.org/places/392731205)
+
+
+## GEO ID 42208: Teleda
+[https://www.trismegistos.org/place/42208](https://www.trismegistos.org/place/42208)  
+
+### alignments:
+ - [Teleda](https://pleiades.stoa.org/places/950752760)
 
 
 ## GEO ID 42209: Ugubre

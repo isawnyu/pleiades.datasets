@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8299 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
+8318 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3347,6 +3347,13 @@
 
 ### alignments:
  - [Argeathai](https://pleiades.stoa.org/places/573116)
+
+
+## Argentarium (Q65127230)
+[https://www.wikidata.org/wiki/Q65127230](https://www.wikidata.org/wiki/Q65127230)  
+
+### alignments:
+ - [Argentaria](https://pleiades.stoa.org/places/211410)
 
 
 ## Argentina (Q645291)
@@ -7475,6 +7482,13 @@
  - [Capitolium Vetus](https://pleiades.stoa.org/places/194913213)
 
 
+## Capo Colonna (Q868332)
+[https://www.wikidata.org/wiki/Q868332](https://www.wikidata.org/wiki/Q868332)  
+
+### alignments:
+ - [Lacinium (promontory)](https://pleiades.stoa.org/places/452356)
+
+
 ## Capo Colonna archaeological site (Q3621968)
 [https://www.wikidata.org/wiki/Q3621968](https://www.wikidata.org/wiki/Q3621968)  
 
@@ -8376,6 +8390,13 @@
 
 ### alignments:
  - [Gelduba](https://pleiades.stoa.org/places/109002)
+
+
+## Castra Hannibalis (Q11913217)
+[https://www.wikidata.org/wiki/Q11913217](https://www.wikidata.org/wiki/Q11913217)  
+
+### alignments:
+ - [Castra Hannibalis](https://pleiades.stoa.org/places/452293)
 
 
 ## Castra Herculis (Q515850)
@@ -9931,6 +9952,20 @@
 
 ### alignments:
  - [Kilbianoi (Ano)](https://pleiades.stoa.org/places/550640)
+
+
+## Cilicia (Q4819648)
+[https://www.wikidata.org/wiki/Q4819648](https://www.wikidata.org/wiki/Q4819648)  
+
+### alignments:
+ - [Cilicia (Roman province)](https://pleiades.stoa.org/places/981514)
+
+
+## Cilicia (Q620864)
+[https://www.wikidata.org/wiki/Q620864](https://www.wikidata.org/wiki/Q620864)  
+
+### alignments:
+ - [Cilicia (region)](https://pleiades.stoa.org/places/658440)
 
 
 ## Cilicia Campestris (Q112054998)
@@ -18347,6 +18382,13 @@
  - [Ḫafāǧa](https://pleiades.stoa.org/places/490043590)
 
 
+## Khalde (Q15236020)
+[https://www.wikidata.org/wiki/Q15236020](https://www.wikidata.org/wiki/Q15236020)  
+
+### alignments:
+ - [Heldua](https://pleiades.stoa.org/places/678177)
+
+
 ## Khanpur Cave (Q66134639)
 [https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
 
@@ -18863,6 +18905,13 @@
 
 ### alignments:
  - [Kropidai](https://pleiades.stoa.org/places/579996)
+
+
+## Kroton (Q13526919)
+[https://www.wikidata.org/wiki/Q13526919](https://www.wikidata.org/wiki/Q13526919)  
+
+### alignments:
+ - [Croto(n)](https://pleiades.stoa.org/places/452317)
 
 
 ## Ksar el Kaoua (Q20726070)
@@ -21013,6 +21062,13 @@
 
 ### alignments:
  - [‘Mamucio’](https://pleiades.stoa.org/places/79590)
+
+
+## Manavgat River (Q153675)
+[https://www.wikidata.org/wiki/Q153675](https://www.wikidata.org/wiki/Q153675)  
+
+### alignments:
+ - [Melas (river)](https://pleiades.stoa.org/places/638993)
 
 
 ## Mandubii (Q948517)
@@ -24495,6 +24551,13 @@
  - [Numituriana?/Saltus Caeliae Maximae](https://pleiades.stoa.org/places/305122)
 
 
+## Nur Mountains (Q454456)
+[https://www.wikidata.org/wiki/Q454456](https://www.wikidata.org/wiki/Q454456)  
+
+### alignments:
+ - [Amanus (mountain range)](https://pleiades.stoa.org/places/658376)
+
+
 ## Nurabad Tower (Q5950677)
 [https://www.wikidata.org/wiki/Q5950677](https://www.wikidata.org/wiki/Q5950677)  
 
@@ -26476,6 +26539,13 @@
  - [Pertosa](https://pleiades.stoa.org/places/442713)
 
 
+## Petelia (Q3900811)
+[https://www.wikidata.org/wiki/Q3900811](https://www.wikidata.org/wiki/Q3900811)  
+
+### alignments:
+ - [Petelia](https://pleiades.stoa.org/places/452403)
+
+
 ## Petra Theatre (Q55629697)
 [https://www.wikidata.org/wiki/Q55629697](https://www.wikidata.org/wiki/Q55629697)  
 
@@ -27701,6 +27771,13 @@
  - [Stabian Gate](https://pleiades.stoa.org/places/260329425)
 
 
+## Porta Eburnea (Q3908709)
+[https://www.wikidata.org/wiki/Q3908709](https://www.wikidata.org/wiki/Q3908709)  
+
+### alignments:
+ - [Porta Eburnea](https://pleiades.stoa.org/places/580698596)
+
+
 ## Porta Herculaneum (Q94579468)
 [https://www.wikidata.org/wiki/Q94579468](https://www.wikidata.org/wiki/Q94579468)  
 
@@ -27839,6 +27916,13 @@
 
 ### alignments:
  - [Porta Tiburtina](https://pleiades.stoa.org/places/393959243)
+
+
+## Porta Trasimena (Q3908853)
+[https://www.wikidata.org/wiki/Q3908853](https://www.wikidata.org/wiki/Q3908853)  
+
+### alignments:
+ - [Porta Trasimena](https://pleiades.stoa.org/places/261678107)
 
 
 ## Porta Venere (Q17651475)
@@ -47783,6 +47867,13 @@
  - [Vindocladia](https://pleiades.stoa.org/places/79740)
 
 
+## Romano-British temple, Iron Age ditches, earthwork enclosure and associated buildings 240m and 370m north of Fosse Barn (Q17663217)
+[https://www.wikidata.org/wiki/Q17663217](https://www.wikidata.org/wiki/Q17663217)  
+
+### alignments:
+ - [Nettleton](https://pleiades.stoa.org/places/79609)
+
+
 ## Romano-British villa 250m south of Park Farm (Q17674077)
 [https://www.wikidata.org/wiki/Q17674077](https://www.wikidata.org/wiki/Q17674077)  
 
@@ -48987,6 +49078,13 @@
  - [Sardoum Mare](https://pleiades.stoa.org/places/472127)
 
 
+## Sarepta (Q616837)
+[https://www.wikidata.org/wiki/Q616837](https://www.wikidata.org/wiki/Q616837)  
+
+### alignments:
+ - [Sarepta/Makra Kome](https://pleiades.stoa.org/places/678374)
+
+
 ## Sarmizegetusa amphitheatre (Q28996562)
 [https://www.wikidata.org/wiki/Q28996562](https://www.wikidata.org/wiki/Q28996562)  
 
@@ -49363,6 +49461,13 @@
 
 ### alignments:
  - [Skydra](https://pleiades.stoa.org/places/491723)
+
+
+## Scylletium (Q1084264)
+[https://www.wikidata.org/wiki/Q1084264](https://www.wikidata.org/wiki/Q1084264)  
+
+### alignments:
+ - [Scylletium/Scolacium](https://pleiades.stoa.org/places/452439)
 
 
 ## Scythian Neapolis (Q2621094)
@@ -49917,6 +50022,13 @@
 
 ### alignments:
  - [Callis](https://pleiades.stoa.org/places/373766)
+
+
+## Sidon (Q163490)
+[https://www.wikidata.org/wiki/Q163490](https://www.wikidata.org/wiki/Q163490)  
+
+### alignments:
+ - [Sidon/Col. Aurelia Pia](https://pleiades.stoa.org/places/678393)
 
 
 ## Siena (Q2751)
@@ -51108,6 +51220,13 @@
 
 ### alignments:
  - [Syangela](https://pleiades.stoa.org/places/599948)
+
+
+## Sybaris (Q220583)
+[https://www.wikidata.org/wiki/Q220583](https://www.wikidata.org/wiki/Q220583)  
+
+### alignments:
+ - [Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/452457)
 
 
 ## Sycurium (Q60790514)
@@ -53166,6 +53285,13 @@
 
 ### alignments:
  - [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+
+
+## Thurii (Q602564)
+[https://www.wikidata.org/wiki/Q602564](https://www.wikidata.org/wiki/Q602564)  
+
+### alignments:
+ - [Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/452457)
 
 
 ## Thymaitadai (Q13426469)
@@ -57816,6 +57942,13 @@
 
 ### alignments:
  - [Aegimoeroe (islands)](https://pleiades.stoa.org/places/314854)
+
+
+## Zenica (Q184046)
+[https://www.wikidata.org/wiki/Q184046](https://www.wikidata.org/wiki/Q184046)  
+
+### alignments:
+ - [Bistua Nova](https://pleiades.stoa.org/places/197170)
 
 
 ## Zephyrion (Q114843188)

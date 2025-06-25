@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-658 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
+662 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2116,6 +2116,13 @@
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
+## 11301353: the Taurus Mountains
+[https://resource.manto.unh.edu/11301353](https://resource.manto.unh.edu/11301353)  
+
+### alignments:
+ - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
+
+
 ## 11302746: the House of Cacios (Rome)
 [https://resource.manto.unh.edu/11302746](https://resource.manto.unh.edu/11302746)  
 
@@ -2352,6 +2359,13 @@
 
 ### alignments:
  - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
+
+
+## 11309864: the Tauros Mountains (Lycia)
+[https://resource.manto.unh.edu/11309864](https://resource.manto.unh.edu/11309864)  
+
+### alignments:
+ - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
 
 
 ## 11309930: Dicaiarchia (Italy)
@@ -2703,6 +2717,13 @@
 
 ### alignments:
  - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
+
+
+## 8194711: Sidon (Phoinicia)
+[https://resource.manto.unh.edu/8194711](https://resource.manto.unh.edu/8194711)  
+
+### alignments:
+ - [Sidon/Col. Aurelia Pia](https://pleiades.stoa.org/places/678393)
 
 
 ## 8194712: Cyprus (Island)
@@ -3389,7 +3410,7 @@
 [https://resource.manto.unh.edu/9055587](https://resource.manto.unh.edu/9055587)  
 
 ### alignments:
- - [Cilicia](https://pleiades.stoa.org/places/658440)
+ - [Cilicia (region)](https://pleiades.stoa.org/places/658440)
 
 
 ## 9055591: the Corycian Cave (Cilicia)
@@ -3446,6 +3467,13 @@
 
 ### alignments:
  - [Croto(n)](https://pleiades.stoa.org/places/452317)
+
+
+## 9358727: Thourion (Italy)
+[https://resource.manto.unh.edu/9358727](https://resource.manto.unh.edu/9358727)  
+
+### alignments:
+ - [Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/452457)
 
 
 ## 9358734: Andros (island)

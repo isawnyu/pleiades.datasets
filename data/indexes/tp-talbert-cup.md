@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2153 alignments exist in _Pleiades_ place references as of 2025-06-24. The following list of alignments is grouped by zotkey.
+2160 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -216,6 +216,27 @@
 
 ### alignments:
  - [Ugubre](https://pleiades.stoa.org/places/220961472)
+
+
+## 10A5 (Talbert 2469)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2469.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2469.html)  
+
+### alignments:
+ - [Teleda](https://pleiades.stoa.org/places/950752760)
+
+
+## 10A5 (Talbert 2470)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2470.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2470.html)  
+
+### alignments:
+ - [Lezela?](https://pleiades.stoa.org/places/818232440)
+
+
+## 10A5 (Talbert 2472)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2472.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2472.html)  
+
+### alignments:
+ - [Philado](https://pleiades.stoa.org/places/392731205)
 
 
 ## 10A5 (Talbert 2473)
@@ -9584,6 +9605,20 @@
  - [Singidunum](https://pleiades.stoa.org/places/207443)
 
 
+## 6A1 (Talbert 1669)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1669.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1669.html)  
+
+### alignments:
+ - [Argentaria](https://pleiades.stoa.org/places/211410)
+
+
+## 6A1 (Talbert 1692)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1692.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1692.html)  
+
+### alignments:
+ - [Bistua Nova](https://pleiades.stoa.org/places/197170)
+
+
 ## 6A1 (Talbert 1715)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1715.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1715.html)  
 
@@ -10241,6 +10276,13 @@
 
 ### alignments:
  - [Consentia](https://pleiades.stoa.org/places/452308)
+
+
+## 6B1 (Talbert 1414)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1414.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1414.html)  
+
+### alignments:
+ - [Turiostu](https://pleiades.stoa.org/places/446300)
 
 
 ## 6B1 (Talbert 1415)
@@ -14434,7 +14476,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3198.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3198.html)  
 
 ### alignments:
- - [Cilicia](https://pleiades.stoa.org/places/658440)
+ - [Cilicia (region)](https://pleiades.stoa.org/places/658440)
 
 
 ## 9B4 (Talbert 2271)
@@ -14876,6 +14918,13 @@
 
 ### alignments:
  - [Beirut](https://pleiades.stoa.org/places/678060)
+
+
+## 9C2 (Talbert 493)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace493.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace493.html)  
+
+### alignments:
+ - [Palaibyblos](https://pleiades.stoa.org/places/678322)
 
 
 ## 9C2 (Talbert 497)
