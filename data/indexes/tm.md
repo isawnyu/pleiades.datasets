@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4481 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
+4488 alignments exist in _Pleiades_ place references as of 2025-06-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4469,6 +4469,13 @@
 
 ### alignments:
  - [Cortona](https://pleiades.stoa.org/places/413106)
+
+
+## GEO ID 14361: Faesulae (Fiesole)
+[http://www.trismegistos.org/place/14361](http://www.trismegistos.org/place/14361)  
+
+### alignments:
+ - [Faesulae](https://pleiades.stoa.org/places/413124)
 
 
 ## GEO ID 14362: Horta (Orte)
@@ -9563,6 +9570,13 @@
  - [Sufasar](https://pleiades.stoa.org/places/295346)
 
 
+## GEO ID 20450: Regiae (Arbal)
+[http://www.trismegistos.org/place/20450](http://www.trismegistos.org/place/20450)  
+
+### alignments:
+ - [Regiae](https://pleiades.stoa.org/places/285509)
+
+
 ## GEO ID 20451: Portus Magnus (Bettioua)
 [http://www.trismegistos.org/place/20451](http://www.trismegistos.org/place/20451)  
 
@@ -12975,6 +12989,13 @@
  - [Shablul/Tene?](https://pleiades.stoa.org/places/795858)
 
 
+## GEO ID 28173: Quintana (Künzing)
+[https://www.trismegistos.org/place/28173](https://www.trismegistos.org/place/28173)  
+
+### alignments:
+ - [Quintana](https://pleiades.stoa.org/places/118919)
+
+
 ## GEO ID 28190: Losodica (Munningen)
 [http://www.trismegistos.org/place/28190](http://www.trismegistos.org/place/28190)  
 
@@ -15251,6 +15272,13 @@
  - [Spoletium](https://pleiades.stoa.org/places/413320)
 
 
+## GEO ID 32253: Tifernum Mataurense (Sant'Angelo in Vado)
+[http://www.trismegistos.org/place/32253](http://www.trismegistos.org/place/32253)  
+
+### alignments:
+ - [Tifernum Mataurense](https://pleiades.stoa.org/places/413338)
+
+
 ## GEO ID 32256: Tuficum (Borgo Tufico)
 [http://www.trismegistos.org/place/32256](http://www.trismegistos.org/place/32256)  
 
@@ -16096,6 +16124,13 @@
 
 ### alignments:
  - [Vicus Anninus](https://pleiades.stoa.org/places/433196)
+
+
+## GEO ID 32799: Aufengium (Fagnano Alto)
+[http://www.trismegistos.org/place/32799](http://www.trismegistos.org/place/32799)  
+
+### alignments:
+ - [*Aufenginum](https://pleiades.stoa.org/places/413042)
 
 
 ## GEO ID 327: Krokodilopolis (Medinet el-Fayum)
@@ -24233,6 +24268,13 @@
  - [Rubico (river)](https://pleiades.stoa.org/places/393484)
 
 
+## GEO ID 42457: Crustumius (Conca)
+[https://www.trismegistos.org/place/42457](https://www.trismegistos.org/place/42457)  
+
+### alignments:
+ - [Crustumius (river)](https://pleiades.stoa.org/places/413108)
+
+
 ## GEO ID 42459: Aspia
 [http://www.trismegistos.org/place/42459](http://www.trismegistos.org/place/42459)  
 
@@ -24301,6 +24343,13 @@
 
 ### alignments:
  - [Onellana](https://pleiades.stoa.org/places/945555076)
+
+
+## GEO ID 42484: Clocoris
+[https://www.trismegistos.org/place/42484](https://www.trismegistos.org/place/42484)  
+
+### alignments:
+ - [Clocoris (river)](https://pleiades.stoa.org/places/413092)
 
 
 ## GEO ID 42485: Cumara

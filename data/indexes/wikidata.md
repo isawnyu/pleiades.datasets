@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8318 alignments exist in _Pleiades_ place references as of 2025-06-25. The following list of alignments is grouped by zotkey.
+8331 alignments exist in _Pleiades_ place references as of 2025-06-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4279,6 +4279,13 @@
 
 ### alignments:
  - [Aurasius (mountain)](https://pleiades.stoa.org/places/334497)
+
+
+## Ausa River (Q2589967)
+[https://www.wikidata.org/wiki/Q2589967](https://www.wikidata.org/wiki/Q2589967)  
+
+### alignments:
+ - [Aprusa (river)](https://pleiades.stoa.org/places/393378)
 
 
 ## Ausona (Q3629906)
@@ -10598,6 +10605,13 @@
  - [Canneto sul Trigno](https://pleiades.stoa.org/places/981864003)
 
 
+## Conca (Q970873)
+[https://www.wikidata.org/wiki/Q970873](https://www.wikidata.org/wiki/Q970873)  
+
+### alignments:
+ - [Crustumius (river)](https://pleiades.stoa.org/places/413108)
+
+
 ## Concangis (Q5158253)
 [https://www.wikidata.org/wiki/Q5158253](https://www.wikidata.org/wiki/Q5158253)  
 
@@ -12064,6 +12078,13 @@
  - [House of the Surgeon (Rimini)](https://pleiades.stoa.org/places/983289921)
 
 
+## Domus del Lararium (Q72176597)
+[https://www.wikidata.org/wiki/Q72176597](https://www.wikidata.org/wiki/Q72176597)  
+
+### alignments:
+ - [Domus of the Lararium](https://pleiades.stoa.org/places/779658357)
+
+
 ## Domus della Fortuna Annonaria (Q1238778)
 [https://www.wikidata.org/wiki/Q1238778](https://www.wikidata.org/wiki/Q1238778)  
 
@@ -13227,6 +13248,13 @@
  - [Eschweiler Hof](https://pleiades.stoa.org/places/108966)
 
 
+## Esino (Q969496)
+[https://www.wikidata.org/wiki/Q969496](https://www.wikidata.org/wiki/Q969496)  
+
+### alignments:
+ - [Aesis (river)](https://pleiades.stoa.org/places/413003)
+
+
 ## Esna (Q626031)
 [https://www.wikidata.org/wiki/Q626031](https://www.wikidata.org/wiki/Q626031)  
 
@@ -13561,6 +13589,13 @@
 
 ### alignments:
  - [Fidentia](https://pleiades.stoa.org/places/383648)
+
+
+## Fiesole (Q82670)
+[https://www.wikidata.org/wiki/Q82670](https://www.wikidata.org/wiki/Q82670)  
+
+### alignments:
+ - [Faesulae](https://pleiades.stoa.org/places/413124)
 
 
 ## Figsbury Ring (Q1411951)
@@ -24061,6 +24096,13 @@
  - [Neorion](https://pleiades.stoa.org/places/523226)
 
 
+## Nepet (Q133853689)
+[https://www.wikidata.org/wiki/Q133853689](https://www.wikidata.org/wiki/Q133853689)  
+
+### alignments:
+ - [Nepet](https://pleiades.stoa.org/places/413224)
+
+
 ## Nera (Q932761)
 [https://www.wikidata.org/wiki/Q932761](https://www.wikidata.org/wiki/Q932761)  
 
@@ -26980,6 +27022,13 @@
  - [Pierrière](https://pleiades.stoa.org/places/138516)
 
 
+## Pieve di Sant'Antonino a Socana (Q3904745)
+[https://www.wikidata.org/wiki/Q3904745](https://www.wikidata.org/wiki/Q3904745)  
+
+### alignments:
+ - [Pieve Socana](https://pleiades.stoa.org/places/413254)
+
+
 ## Pigades (Q22986752)
 [https://www.wikidata.org/wiki/Q22986752](https://www.wikidata.org/wiki/Q22986752)  
 
@@ -28154,6 +28203,13 @@
 
 ### alignments:
  - [Prasia](https://pleiades.stoa.org/places/580090)
+
+
+## Prata Mucia (Q110109465)
+[https://www.wikidata.org/wiki/Q110109465](https://www.wikidata.org/wiki/Q110109465)  
+
+### alignments:
+ - [Prata Mucia](https://pleiades.stoa.org/places/360312698)
 
 
 ## Pre-mithraeum building(s) (Q124413129)
@@ -29715,13 +29771,6 @@
 
 ### alignments:
  - [Castel Malnome (Ponte Galeria)](https://pleiades.stoa.org/places/133309568)
-
-
-## Q110109465: Prata Mucia
-[https://www.wikidata.org/wiki/Q110109465](https://www.wikidata.org/wiki/Q110109465)  
-
-### alignments:
- - [Prata Mucia](https://pleiades.stoa.org/places/360312698)
 
 
 ## Q110239443: Temple of Iuno Moneta at Signia
@@ -31974,6 +32023,13 @@
  - [Gedrosia](https://pleiades.stoa.org/places/29573)
 
 
+## Q135099110
+[https://www.wikidata.org/wiki/Q135099110](https://www.wikidata.org/wiki/Q135099110)  
+
+### alignments:
+ - [*Aufenginum](https://pleiades.stoa.org/places/413042)
+
+
 ## Q13518339: Diomeia
 [https://www.wikidata.org/wiki/Q13518339](https://www.wikidata.org/wiki/Q13518339)  
 
@@ -33913,13 +33969,6 @@
 
 ### alignments:
  - [Rock Carvings in Tanum](https://pleiades.stoa.org/places/244382592)
-
-
-## Q176155: Nepi
-[https://www.wikidata.org/wiki/Q176155](https://www.wikidata.org/wiki/Q176155)  
-
-### alignments:
- - [Nepet](https://pleiades.stoa.org/places/413224)
 
 
 ## Q17621594: Arisba
@@ -39078,6 +39127,13 @@
  - [Aequum Tuticum/Equus Tuticus](https://pleiades.stoa.org/places/442452)
 
 
+## Q3608898
+[https://www.wikidata.org/wiki/Q3608898](https://www.wikidata.org/wiki/Q3608898)  
+
+### alignments:
+ - [Albula (river)](https://pleiades.stoa.org/places/413007)
+
+
 ## Q360974: Glevum
 [https://www.wikidata.org/wiki/Q360974](https://www.wikidata.org/wiki/Q360974)  
 
@@ -40492,13 +40548,6 @@
 
 ### alignments:
  - [Via Severiana](https://pleiades.stoa.org/places/835948519)
-
-
-## Q4011076: Vicarello
-[https://www.wikidata.org/wiki/Q4011076](https://www.wikidata.org/wiki/Q4011076)  
-
-### alignments:
- - [Aquae Apollinares Novae](https://pleiades.stoa.org/places/413023)
 
 
 ## Q4011241
@@ -46130,6 +46179,13 @@
  - [Raeburnfoot](https://pleiades.stoa.org/places/950298919)
 
 
+## Raetovari (Q356540)
+[https://www.wikidata.org/wiki/Q356540](https://www.wikidata.org/wiki/Q356540)  
+
+### alignments:
+ - [*Raetovarii](https://pleiades.stoa.org/places/118923)
+
+
 ## Ragogna (Q53327)
 [https://www.wikidata.org/wiki/Q53327](https://www.wikidata.org/wiki/Q53327)  
 
@@ -46268,6 +46324,13 @@
 
 ### alignments:
  - [Regia](https://pleiades.stoa.org/places/554680094)
+
+
+## Regiae (Q3423451)
+[https://www.wikidata.org/wiki/Q3423451](https://www.wikidata.org/wiki/Q3423451)  
+
+### alignments:
+ - [Regiae](https://pleiades.stoa.org/places/285509)
 
 
 ## Regillum (Q11945118)
@@ -48903,6 +48966,13 @@
  - [Sant'Andrea Catabarbara](https://pleiades.stoa.org/places/201179211)
 
 
+## Sant'Angelo in Vado (Q493800)
+[https://www.wikidata.org/wiki/Q493800](https://www.wikidata.org/wiki/Q493800)  
+
+### alignments:
+ - [Tifernum Mataurense](https://pleiades.stoa.org/places/413338)
+
+
 ## Santa Anatolia (Q2066500)
 [https://www.wikidata.org/wiki/Q2066500](https://www.wikidata.org/wiki/Q2066500)  
 
@@ -48943,6 +49013,13 @@
 
 ### alignments:
  - [Santa Maria Antiqua](https://pleiades.stoa.org/places/161909278)
+
+
+## Santa Maria del Giudice (Q54864469)
+[https://www.wikidata.org/wiki/Q54864469](https://www.wikidata.org/wiki/Q54864469)  
+
+### alignments:
+ - [S. Maria del Giudice](https://pleiades.stoa.org/places/403273)
 
 
 ## Santa Maria dell'Orto (Q1634605)
@@ -51051,6 +51128,13 @@
 
 ### alignments:
  - [Strongylo Aqueduct bridge](https://pleiades.stoa.org/places/650138313)
+
+
+## Strozzacapponi necropolis (Q3346873)
+[https://www.wikidata.org/wiki/Q3346873](https://www.wikidata.org/wiki/Q3346873)  
+
+### alignments:
+ - [Strozzacapponi necropolis](https://pleiades.stoa.org/places/337356735)
 
 
 ## Stryme (Q2357512)
@@ -56401,6 +56485,13 @@
 
 ### alignments:
  - [Vibinum/Vibarna](https://pleiades.stoa.org/places/442851)
+
+
+## Vicarello (Q4011076)
+[https://www.wikidata.org/wiki/Q4011076](https://www.wikidata.org/wiki/Q4011076)  
+
+### alignments:
+ - [Aquae Apollinares Novae](https://pleiades.stoa.org/places/413023)
 
 
 ## Viciana (Q16361381)
