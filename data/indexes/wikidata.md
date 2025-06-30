@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8331 alignments exist in _Pleiades_ place references as of 2025-06-27. The following list of alignments is grouped by zotkey.
+8341 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -498,6 +498,13 @@
 
 ### alignments:
  - [Ad Turres](https://pleiades.stoa.org/places/422818)
+
+
+## Ad Turres Albas (Q4678189)
+[https://www.wikidata.org/wiki/Q4678189](https://www.wikidata.org/wiki/Q4678189)  
+
+### alignments:
+ - [Ad Turres Albas](https://pleiades.stoa.org/places/432644)
 
 
 ## Ad Vicesimum (Q60346298)
@@ -1513,6 +1520,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Alsium (Q4735811)
+[https://www.wikidata.org/wiki/Q4735811](https://www.wikidata.org/wiki/Q4735811)  
+
+### alignments:
+ - [Alsium](https://pleiades.stoa.org/places/422831)
 
 
 ## Altar of Androgeos, son of Minos, Phaleron (Q124644553)
@@ -6858,6 +6872,7 @@
  - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
  - [Aphrodisias](https://pleiades.stoa.org/places/638753)
  - [Arzâ ](https://pleiades.stoa.org/places/309101265)
+ - [Auximum](https://pleiades.stoa.org/places/413045)
  - [Balāwāt](https://pleiades.stoa.org/places/924247288)
  - [Cabum?](https://pleiades.stoa.org/places/422857)
  - [Cannatello](https://pleiades.stoa.org/places/491524938)
@@ -9694,6 +9709,13 @@
  - [Noviomagus](https://pleiades.stoa.org/places/79622)
 
 
+## Chienti (Q647489)
+[https://www.wikidata.org/wiki/Q647489](https://www.wikidata.org/wiki/Q647489)  
+
+### alignments:
+ - [*Cluentus (river)](https://pleiades.stoa.org/places/413094)
+
+
 ## Chiesa di Santa Maria di Barbana (Q69389817)
 [https://www.wikidata.org/wiki/Q69389817](https://www.wikidata.org/wiki/Q69389817)  
 
@@ -10183,6 +10205,13 @@
 
 ### alignments:
  - [Civitanova](https://pleiades.stoa.org/places/432784)
+
+
+## Civitanova Marche (Q13146)
+[https://www.wikidata.org/wiki/Q13146](https://www.wikidata.org/wiki/Q13146)  
+
+### alignments:
+ - [Cluana](https://pleiades.stoa.org/places/413093)
 
 
 ## Civitas Camunnorum amphitheatre (Q28978018)
@@ -23074,6 +23103,13 @@
  - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
 
 
+## Monte San Vicino (Q3861976)
+[https://www.wikidata.org/wiki/Q3861976](https://www.wikidata.org/wiki/Q3861976)  
+
+### alignments:
+ - [*Cingulus (mountain)](https://pleiades.stoa.org/places/413083)
+
+
 ## Monte Sirai (Q1945932)
 [https://www.wikidata.org/wiki/Q1945932](https://www.wikidata.org/wiki/Q1945932)  
 
@@ -23443,6 +23479,13 @@
 
 ### alignments:
  - [Ticis? (river)](https://pleiades.stoa.org/places/246691)
+
+
+## Mugello (Q283034)
+[https://www.wikidata.org/wiki/Q283034](https://www.wikidata.org/wiki/Q283034)  
+
+### alignments:
+ - [Mucella](https://pleiades.stoa.org/places/413215)
 
 
 ## Muhammad Tuleib (Q14215839)
@@ -28177,6 +28220,13 @@
  - [Praetorium at Gortyna](https://pleiades.stoa.org/places/177278517)
 
 
+## Praetutii (Q2708132)
+[https://www.wikidata.org/wiki/Q2708132](https://www.wikidata.org/wiki/Q2708132)  
+
+### alignments:
+ - [Praetuttii](https://pleiades.stoa.org/places/413273)
+
+
 ## Praevalitana (Q634977)
 [https://www.wikidata.org/wiki/Q634977](https://www.wikidata.org/wiki/Q634977)  
 
@@ -28210,6 +28260,13 @@
 
 ### alignments:
  - [Prata Mucia](https://pleiades.stoa.org/places/360312698)
+
+
+## Prata Quinctia (Q127405077)
+[https://www.wikidata.org/wiki/Q127405077](https://www.wikidata.org/wiki/Q127405077)  
+
+### alignments:
+ - [Prata Quinctia](https://pleiades.stoa.org/places/503283123)
 
 
 ## Pre-mithraeum building(s) (Q124413129)
@@ -28644,6 +28701,13 @@
 
 ### alignments:
  - [Pyra](https://pleiades.stoa.org/places/541080)
+
+
+## Pyrgi (Q1724661)
+[https://www.wikidata.org/wiki/Q1724661](https://www.wikidata.org/wiki/Q1724661)  
+
+### alignments:
+ - [Pyrgi](https://pleiades.stoa.org/places/433061)
 
 
 ## Pyrogeri (Q11941706)
@@ -33759,13 +33823,6 @@
 
 ### alignments:
  - [Iabrouda](https://pleiades.stoa.org/places/678196)
-
-
-## Q1724661
-[https://www.wikidata.org/wiki/Q1724661](https://www.wikidata.org/wiki/Q1724661)  
-
-### alignments:
- - [Pyrgi](https://pleiades.stoa.org/places/433061)
 
 
 ## Q172572: Rubicon
@@ -48735,6 +48792,13 @@
  - [San Vitale](https://pleiades.stoa.org/places/535299163)
 
 
+## San Vittore del Lazio (Q117303)
+[https://www.wikidata.org/wiki/Q117303](https://www.wikidata.org/wiki/Q117303)  
+
+### alignments:
+ - [S. Vittore](https://pleiades.stoa.org/places/433100)
+
+
 ## Sanafr Island (Q2000838)
 [https://www.wikidata.org/wiki/Q2000838](https://www.wikidata.org/wiki/Q2000838)  
 
@@ -56436,6 +56500,13 @@
 
 ### alignments:
  - [Via Portuensis?](https://pleiades.stoa.org/places/303999556)
+
+
+## Via Quinctia (Q28669824)
+[https://www.wikidata.org/wiki/Q28669824](https://www.wikidata.org/wiki/Q28669824)  
+
+### alignments:
+ - [Via *Quinctia](https://pleiades.stoa.org/places/43608945)
 
 
 ## Via Sacra (Q655172)

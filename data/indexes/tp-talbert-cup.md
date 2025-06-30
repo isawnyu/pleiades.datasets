@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2160 alignments exist in _Pleiades_ place references as of 2025-06-27. The following list of alignments is grouped by zotkey.
+2163 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -909,6 +909,20 @@
 
 ### alignments:
  - [Gibrata/Gorbatha](https://pleiades.stoa.org/places/897771)
+
+
+## 10C5 (Talbert 2707)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2707.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2707.html)  
+
+### alignments:
+ - [Abara](https://pleiades.stoa.org/places/284107164)
+
+
+## 10C5 (Talbert 2708)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2708.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2708.html)  
+
+### alignments:
+ - [Currapho](https://pleiades.stoa.org/places/101900238)
 
 
 ## 11A1 (Talbert 2471)
@@ -6760,6 +6774,13 @@
 
 ### alignments:
  - [Mevania](https://pleiades.stoa.org/places/413200)
+
+
+## 4B3 (Talbert 1174)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1174.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1174.html)  
+
+### alignments:
+ - [Auximum](https://pleiades.stoa.org/places/413045)
 
 
 ## 4B3 (Talbert 1175)

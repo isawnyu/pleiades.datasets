@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4488 alignments exist in _Pleiades_ place references as of 2025-06-27. The following list of alignments is grouped by zotkey.
+4492 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15587,6 +15587,13 @@
  - [Sinues(s)a/Sinope](https://pleiades.stoa.org/places/433122)
 
 
+## GEO ID 32441: San Vittore del Lazio
+[https://www.trismegistos.org/place/32441](https://www.trismegistos.org/place/32441)  
+
+### alignments:
+ - [S. Vittore](https://pleiades.stoa.org/places/433100)
+
+
 ## GEO ID 32442
 [http://www.trismegistos.org/place/32442](http://www.trismegistos.org/place/32442)  
 
@@ -23813,6 +23820,20 @@
  - [Fines exercitus Syriaticae](https://pleiades.stoa.org/places/744920218)
 
 
+## GEO ID 42248: Abara
+[https://www.trismegistos.org/place/42248](https://www.trismegistos.org/place/42248)  
+
+### alignments:
+ - [Abara](https://pleiades.stoa.org/places/284107164)
+
+
+## GEO ID 42249: Currapho
+[https://www.trismegistos.org/place/42249](https://www.trismegistos.org/place/42249)  
+
+### alignments:
+ - [Currapho](https://pleiades.stoa.org/places/101900238)
+
+
 ## GEO ID 42258: Caspian Sea
 [https://www.trismegistos.org/place/42258](https://www.trismegistos.org/place/42258)  
 
@@ -29906,6 +29927,13 @@
 
 ### alignments:
  - [Catharrei/Cataraei](https://pleiades.stoa.org/places/932444)
+
+
+## GEO ID 65878: Prata Quintia
+[https://www.trismegistos.org/place/65878](https://www.trismegistos.org/place/65878)  
+
+### alignments:
+ - [Prata Quinctia](https://pleiades.stoa.org/places/503283123)
 
 
 ## GEO ID 658: Eresos
