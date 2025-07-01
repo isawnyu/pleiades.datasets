@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4492 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
+4496 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3439,6 +3439,13 @@
 
 ### alignments:
  - [Venice](https://pleiades.stoa.org/places/818739154)
+
+
+## GEO ID 12284: Equilium (Jesolo)
+[https://www.trismegistos.org/place/12284](https://www.trismegistos.org/place/12284)  
+
+### alignments:
+ - [[Equilum]](https://pleiades.stoa.org/places/393414)
 
 
 ## GEO ID 12287: Hostilia (Ostiglia)
@@ -14765,6 +14772,13 @@
 
 ### alignments:
  - [Forum Livii](https://pleiades.stoa.org/places/393426)
+
+
+## GEO ID 31941: Sabis (Castiglione di Cervia)
+[https://www.trismegistos.org/place/31941](https://www.trismegistos.org/place/31941)  
+
+### alignments:
+ - [Sabis](https://pleiades.stoa.org/places/393487)
 
 
 ## GEO ID 3194: Sabagura
@@ -27841,6 +27855,13 @@
  - [Dravus (river)](https://pleiades.stoa.org/places/197253)
 
 
+## GEO ID 51296: Sapis (Savio)
+[https://www.trismegistos.org/place/51296](https://www.trismegistos.org/place/51296)  
+
+### alignments:
+ - [Sapis (river)](https://pleiades.stoa.org/places/393490)
+
+
 ## GEO ID 512: Chios
 [http://www.trismegistos.org/place/512](http://www.trismegistos.org/place/512)  
 
@@ -30923,6 +30944,13 @@
 
 ### alignments:
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
+
+
+## Geo ID, 15780: Doclea (Podgorica)
+[http://www.trismegistos.org/place/15780](http://www.trismegistos.org/place/15780)  
+
+### alignments:
+ - [Doclea](https://pleiades.stoa.org/places/481808)
 
 
 ## GEO ID, 1589: Panopolis (Akhmim)

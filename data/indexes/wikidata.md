@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8341 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
+8349 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2633,6 +2633,13 @@
 
 ### alignments:
  - [Aous (river)](https://pleiades.stoa.org/places/481726)
+
+
+## Apamea Myrlea (Q617524)
+[https://www.wikidata.org/wiki/Q617524](https://www.wikidata.org/wiki/Q617524)  
+
+### alignments:
+ - [Brylleion/Myrleia/Apamea/Col. Iulia Concordia](https://pleiades.stoa.org/places/511194)
 
 
 ## Aperlae (Q618234)
@@ -10179,6 +10186,13 @@
  - [Lacippo](https://pleiades.stoa.org/places/256252)
 
 
+## Cius (Q377863)
+[https://www.wikidata.org/wiki/Q377863](https://www.wikidata.org/wiki/Q377863)  
+
+### alignments:
+ - [Prusias ad Mare/Kios](https://pleiades.stoa.org/places/511385)
+
+
 ## Cius Fortress (Q42883727)
 [https://www.wikidata.org/wiki/Q42883727](https://www.wikidata.org/wiki/Q42883727)  
 
@@ -12034,6 +12048,13 @@
 
 ### alignments:
  - [Dobunni](https://pleiades.stoa.org/places/79423)
+
+
+## Doclea (Q252273)
+[https://www.wikidata.org/wiki/Q252273](https://www.wikidata.org/wiki/Q252273)  
+
+### alignments:
+ - [Doclea](https://pleiades.stoa.org/places/481808)
 
 
 ## Documaci tumulus (Q111452486)
@@ -16548,6 +16569,13 @@
  - [House of Obellius Firmus](https://pleiades.stoa.org/places/182931390)
 
 
+## House of Paquius Proculus (Q27070424)
+[https://www.wikidata.org/wiki/Q27070424](https://www.wikidata.org/wiki/Q27070424)  
+
+### alignments:
+ - [House of Paquius Proculus](https://pleiades.stoa.org/places/979105048)
+
+
 ## House of Pinarius Cerialis e Cassia (III.4.B) (Q27685787)
 [https://www.wikidata.org/wiki/Q27685787](https://www.wikidata.org/wiki/Q27685787)  
 
@@ -16672,6 +16700,13 @@
 
 ### alignments:
  - [Domus of Titus Macer](https://pleiades.stoa.org/places/411902357)
+
+
+## House of Venus in the shell (Q27685715)
+[https://www.wikidata.org/wiki/Q27685715](https://www.wikidata.org/wiki/Q27685715)  
+
+### alignments:
+ - [House of Venus in the shell](https://pleiades.stoa.org/places/981889086)
 
 
 ## House of via Graziosa (Q3279805)
@@ -17799,6 +17834,13 @@
 
 ### alignments:
  - [Aesis](https://pleiades.stoa.org/places/413002)
+
+
+## Jesolo (Q47281)
+[https://www.wikidata.org/wiki/Q47281](https://www.wikidata.org/wiki/Q47281)  
+
+### alignments:
+ - [[Equilum]](https://pleiades.stoa.org/places/393414)
 
 
 ## Jewry Wall: remains of a Roman bath house, palaestra and Anglo-Saxon church (Q17674501)
@@ -28423,6 +28465,13 @@
  - [Lokra (river)](https://pleiades.stoa.org/places/472091)
 
 
+## Prusa (Q3228826)
+[https://www.wikidata.org/wiki/Q3228826](https://www.wikidata.org/wiki/Q3228826)  
+
+### alignments:
+ - [Prusa](https://pleiades.stoa.org/places/511384)
+
+
 ## Prut (Q182445)
 [https://www.wikidata.org/wiki/Q182445](https://www.wikidata.org/wiki/Q182445)  
 
@@ -37249,13 +37298,6 @@
 
 ### alignments:
  - [The House of the Masks ](https://pleiades.stoa.org/places/576206943)
-
-
-## Q27685715: House of Venus in the shell
-[https://www.wikidata.org/wiki/Q27685715](https://www.wikidata.org/wiki/Q27685715)  
-
-### alignments:
- - [House of Venus in the shell](https://pleiades.stoa.org/places/981889086)
 
 
 ## Q27685760: House of the garden of Hercules
@@ -47350,6 +47392,13 @@
  - [Roman forum of London](https://pleiades.stoa.org/places/605937276)
 
 
+## Roman forum of Sarsina (Q135159660)
+[https://www.wikidata.org/wiki/Q135159660](https://www.wikidata.org/wiki/Q135159660)  
+
+### alignments:
+ - [Roman forum of Sarsina](https://pleiades.stoa.org/places/791853466)
+
+
 ## Roman houses of the Caelian (Q3661653)
 [https://www.wikidata.org/wiki/Q3661653](https://www.wikidata.org/wiki/Q3661653)  
 
@@ -49350,6 +49399,13 @@
 
 ### alignments:
  - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
+## Savio (Q2249944)
+[https://www.wikidata.org/wiki/Q2249944](https://www.wikidata.org/wiki/Q2249944)  
+
+### alignments:
+ - [Sapis (river)](https://pleiades.stoa.org/places/393490)
 
 
 ## Savona (Q13320)

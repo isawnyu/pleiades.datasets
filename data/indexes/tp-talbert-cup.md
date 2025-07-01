@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2163 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
+2164 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12846,6 +12846,13 @@
 
 ### alignments:
  - [Prusias ad Mare/Kios](https://pleiades.stoa.org/places/511385)
+
+
+## 8B2 (Talbert 2201)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2201.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2201.html)  
+
+### alignments:
+ - [Brylleion/Myrleia/Apamea/Col. Iulia Concordia](https://pleiades.stoa.org/places/511194)
 
 
 ## 8B2 (Talbert 2205)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-662 alignments exist in _Pleiades_ place references as of 2025-06-30. The following list of alignments is grouped by zotkey.
+663 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2121,6 +2121,13 @@
 
 ### alignments:
  - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
+
+
+## 11301701: Cios (Propontis)
+[https://resource.manto.unh.edu/11301701](https://resource.manto.unh.edu/11301701)  
+
+### alignments:
+ - [Prusias ad Mare/Kios](https://pleiades.stoa.org/places/511385)
 
 
 ## 11302746: the House of Cacios (Rome)
