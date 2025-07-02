@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2164 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
+2164 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -5614,6 +5614,13 @@
  - [Forum Cornelii](https://pleiades.stoa.org/places/393424)
 
 
+## 3B5 (Talbert 1151)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1151.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1151.html)  
+
+### alignments:
+ - [Ad Sinnium](https://pleiades.stoa.org/places/393371)
+
+
 ## 3B5 (Talbert 1152)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1152.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1152.html)  
 
@@ -6687,13 +6694,6 @@
 
 ## 4B2 (Talbert 3364)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3364.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3364.html)  
-
-### alignments:
- - [Rubico (river)](https://pleiades.stoa.org/places/393484)
-
-
-## 4B2 (Talbert 3364)
-[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3364.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3364.html)  
 
 ### alignments:
  - [Rubico (river)](https://pleiades.stoa.org/places/393484)

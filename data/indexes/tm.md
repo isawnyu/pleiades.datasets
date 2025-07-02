@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4496 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
+4497 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22866,6 +22866,13 @@
 
 ### alignments:
  - [Ad Silarum](https://pleiades.stoa.org/places/393370)
+
+
+## GEO ID 41791: Ad Sinnium
+[https://www.trismegistos.org/place/41791](https://www.trismegistos.org/place/41791)  
+
+### alignments:
+ - [Ad Sinnium](https://pleiades.stoa.org/places/393371)
 
 
 ## GEO ID 41794: Portus Edronis

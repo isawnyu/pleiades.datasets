@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8349 alignments exist in _Pleiades_ place references as of 2025-07-01. The following list of alignments is grouped by zotkey.
+8359 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1569,6 +1569,13 @@
 
 ### alignments:
  - [Ash Altar of Zeus Lykaios](https://pleiades.stoa.org/places/535233377)
+
+
+## Altinum (Q441542)
+[https://www.wikidata.org/wiki/Q441542](https://www.wikidata.org/wiki/Q441542)  
+
+### alignments:
+ - [Altinum](https://pleiades.stoa.org/places/393374)
 
 
 ## Altlußheim (Q22876)
@@ -4216,6 +4223,13 @@
 
 ### alignments:
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
+## Augusta Taurinorum (Q11907223)
+[https://www.wikidata.org/wiki/Q11907223](https://www.wikidata.org/wiki/Q11907223)  
+
+### alignments:
+ - [Augusta Taurinorum](https://pleiades.stoa.org/places/383580)
 
 
 ## Augusta Tricastrinorum (Q133539340)
@@ -19651,6 +19665,13 @@
  - [Lamiospito Tholos Tomb, Dimini](https://pleiades.stoa.org/places/789002570)
 
 
+## Lamone (Q1801631)
+[https://www.wikidata.org/wiki/Q1801631](https://www.wikidata.org/wiki/Q1801631)  
+
+### alignments:
+ - [Anemo (river)](https://pleiades.stoa.org/places/393375)
+
+
 ## Lamos (Cilicia) (Q1609020)
 [https://www.wikidata.org/wiki/Q1609020](https://www.wikidata.org/wiki/Q1609020)  
 
@@ -21287,6 +21308,13 @@
 
 ### alignments:
  - [Elaioussa (island)](https://pleiades.stoa.org/places/550524)
+
+
+## Marecchia (Q1236208)
+[https://www.wikidata.org/wiki/Q1236208](https://www.wikidata.org/wiki/Q1236208)  
+
+### alignments:
+ - [Ariminus (river)](https://pleiades.stoa.org/places/393380)
 
 
 ## Margana (Q16185816)
@@ -41258,13 +41286,6 @@
  - [Dolciano](https://pleiades.stoa.org/places/890043101)
 
 
-## Q472813: Stura di Lanzo
-[https://www.wikidata.org/wiki/Q472813](https://www.wikidata.org/wiki/Q472813)  
-
-### alignments:
- - [Stura (river)](https://pleiades.stoa.org/places/383785)
-
-
 ## Q4736256: Castrum Altenum
 [https://www.wikidata.org/wiki/Q4736256](https://www.wikidata.org/wiki/Q4736256)  
 
@@ -51271,6 +51292,20 @@
  - [Jensberg Celtic oppidum](https://pleiades.stoa.org/places/139153222)
 
 
+## Stura di Demonte (Q1897196)
+[https://www.wikidata.org/wiki/Q1897196](https://www.wikidata.org/wiki/Q1897196)  
+
+### alignments:
+ - [Stura (river)](https://pleiades.stoa.org/places/383786)
+
+
+## Stura di Lanzo (Q472813)
+[https://www.wikidata.org/wiki/Q472813](https://www.wikidata.org/wiki/Q472813)  
+
+### alignments:
+ - [Stura (river)](https://pleiades.stoa.org/places/383785)
+
+
 ## Styberra (Q19710105)
 [https://www.wikidata.org/wiki/Q19710105](https://www.wikidata.org/wiki/Q19710105)  
 
@@ -51900,6 +51935,13 @@
 
 ### alignments:
  - [Taygetos (mountain)](https://pleiades.stoa.org/places/570706)
+
+
+## Taşköprü (Q1438450)
+[https://www.wikidata.org/wiki/Q1438450](https://www.wikidata.org/wiki/Q1438450)  
+
+### alignments:
+ - [Taşköprü](https://pleiades.stoa.org/places/650062)
 
 
 ## Tbilisi (Q994)
@@ -54282,6 +54324,20 @@
  - [Tor Boacciana](https://pleiades.stoa.org/places/823844103)
 
 
+## Torcello (Q52441)
+[https://www.wikidata.org/wiki/Q52441](https://www.wikidata.org/wiki/Q52441)  
+
+### alignments:
+ - [Torcello (island)](https://pleiades.stoa.org/places/883949385)
+
+
+## Torcello Cathedral (Q1149886)
+[https://www.wikidata.org/wiki/Q1149886](https://www.wikidata.org/wiki/Q1149886)  
+
+### alignments:
+ - [Cathedral of Santa Maria Assunta](https://pleiades.stoa.org/places/994641372)
+
+
 ## Tordino (Q672208)
 [https://www.wikidata.org/wiki/Q672208](https://www.wikidata.org/wiki/Q672208)  
 
@@ -54945,6 +55001,13 @@
 
 ### alignments:
  - [Treba](https://pleiades.stoa.org/places/433162)
+
+
+## Treviso (Q5475)
+[https://www.wikidata.org/wiki/Q5475](https://www.wikidata.org/wiki/Q5475)  
+
+### alignments:
+ - [Tarvisium](https://pleiades.stoa.org/places/393503)
 
 
 ## Triakontaschoinos (Q391260)
@@ -56219,6 +56282,13 @@
 
 ### alignments:
  - [Vindocinum](https://pleiades.stoa.org/places/138661)
+
+
+## Venetian Lagoon (Q76925)
+[https://www.wikidata.org/wiki/Q76925](https://www.wikidata.org/wiki/Q76925)  
+
+### alignments:
+ - [Venetian Lagoon](https://pleiades.stoa.org/places/480318651)
 
 
 ## Venice (Q641)
