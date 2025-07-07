@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2164 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
+2174 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1457,6 +1457,13 @@
  - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
 
 
+## 1A2 (Talbert 2846)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2846.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2846.html)  
+
+### alignments:
+ - [Venetia](https://pleiades.stoa.org/places/138643)
+
+
 ## 1A2 (Talbert 553)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace553.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace553.html)  
 
@@ -2517,6 +2524,13 @@
 
 ### alignments:
  - [Col. Baeterrae](https://pleiades.stoa.org/places/148056)
+
+
+## 1B4 (Talbert 2866)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2866.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2866.html)  
+
+### alignments:
+ - [Umbranicia](https://pleiades.stoa.org/places/631428766)
 
 
 ## 1B4 (Talbert 2868)
@@ -4521,6 +4535,20 @@
  - [Bergomum](https://pleiades.stoa.org/places/383589)
 
 
+## 3A2 (Talbert 1028)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1028.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1028.html)  
+
+### alignments:
+ - [Coveliacae?](https://pleiades.stoa.org/places/187354)
+
+
+## 3A2 (Talbert 1029)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1029.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1029.html)  
+
+### alignments:
+ - [*Parthanum/*Tartenum](https://pleiades.stoa.org/places/187505)
+
+
 ## 3A2 (Talbert 1032)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1032.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1032.html)  
 
@@ -6349,11 +6377,25 @@
  - [‘Lentulis’](https://pleiades.stoa.org/places/197348)
 
 
+## 4A4 (Talbert 1597)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1597.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1597.html)  
+
+### alignments:
+ - [‘Cardono’/Iovia](https://pleiades.stoa.org/places/197191)
+
+
 ## 4A4 (Talbert 1607)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1607.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1607.html)  
 
 ### alignments:
  - [Quadrata](https://pleiades.stoa.org/places/203150)
+
+
+## 4A4 (Talbert 1608)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1608.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1608.html)  
+
+### alignments:
+ - [Ad Fines](https://pleiades.stoa.org/places/197060)
 
 
 ## 4A4 (Talbert 1633)
@@ -7168,6 +7210,13 @@
  - [Roma](https://pleiades.stoa.org/places/423025)
 
 
+## 4B5 (Talbert 1203)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1203.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1203.html)  
+
+### alignments:
+ - [Via Tiburtina](https://pleiades.stoa.org/places/272213281)
+
+
 ## 4B5 (Talbert 1209)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1209.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1209.html)  
 
@@ -7707,6 +7756,13 @@
  - [Servitium](https://pleiades.stoa.org/places/197509)
 
 
+## 5A1 (Talbert 1661)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1661.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1661.html)  
+
+### alignments:
+ - [‘Urbate’](https://pleiades.stoa.org/places/197567)
+
+
 ## 5A1 (Talbert 1670)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1670.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1670.html)  
 
@@ -7866,6 +7922,7 @@
 
 ### alignments:
  - [Spaneta](https://pleiades.stoa.org/places/207460)
+ - [‘Ulmo’](https://pleiades.stoa.org/places/207525)
 
 
 ## 5A3 (Talbert 1664)
@@ -11462,6 +11519,13 @@
  - [Sub Radices](https://pleiades.stoa.org/places/216995)
 
 
+## 7A1 (Talbert 3057)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3057.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3057.html)  
+
+### alignments:
+ - [Venedi](https://pleiades.stoa.org/places/20635)
+
+
 ## 7A1 (Talbert 3425)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3425.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3425.html)  
 
@@ -11691,6 +11755,13 @@
 
 ### alignments:
  - [Dagae](https://pleiades.stoa.org/places/536928624)
+
+
+## 7A4 (Talbert 3090)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3090.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3090.html)  
+
+### alignments:
+ - [Venedi](https://pleiades.stoa.org/places/20635)
 
 
 ## 7A4 (Talbert 3091)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3713 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
+3716 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3526,6 +3526,13 @@
 
 ### alignments:
  - [Asklepios, T.](https://pleiades.stoa.org/places/540669)
+
+
+## Asklepios sanctuary (Piraeus) Akti Kondouriotou
+[https://topostext.org/place/380237SAsP](https://topostext.org/place/380237SAsP)  
+
+### alignments:
+ - [Asklepieion at Zea](https://pleiades.stoa.org/places/346004679)
 
 
 ## Askra (Boeotia)
@@ -11654,6 +11661,13 @@
  - [Kastro Kourounas Tower](https://pleiades.stoa.org/places/172755092)
 
 
+## Katabathmos Maior/Plynos Limen (Egypt) 22 Sollum - Κατάβαθμος μέγας
+[https://topostext.org/place/315251UKat](https://topostext.org/place/315251UKat)  
+
+### alignments:
+ - [Catabathmus Maior/Plynos Limen/Tetrapyrgia](https://pleiades.stoa.org/places/716540)
+
+
 ## Katane/Catina (Sicily)
 [https://topostext.org/place/375151PCat](https://topostext.org/place/375151PCat)  
 
@@ -12431,6 +12445,13 @@
 
 ### alignments:
  - [Korion](https://pleiades.stoa.org/places/589878)
+
+
+## Kormasa (Pisidia) 5 Çallıca? - Κύρμασα
+[https://topostext.org/place/375300UKyr](https://topostext.org/place/375300UKyr)  
+
+### alignments:
+ - [Kormasa?](https://pleiades.stoa.org/places/638936)
 
 
 ## Kornos? (Cyprus)

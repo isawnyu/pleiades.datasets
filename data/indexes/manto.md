@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-663 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
+673 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -13,6 +13,13 @@
 
 ### alignments:
  - [Helena (island)](https://pleiades.stoa.org/places/579945)
+
+
+## 10055344: Plynos (Libya)
+[https://resource.manto.unh.edu/10055344](https://resource.manto.unh.edu/10055344)  
+
+### alignments:
+ - [Catabathmus Maior/Plynos Limen/Tetrapyrgia](https://pleiades.stoa.org/places/716540)
 
 
 ## 10055351: Enna
@@ -153,6 +160,13 @@
 
 ### alignments:
  - [Baliares/Gymnesiae Inss. (Maior et Minor)](https://pleiades.stoa.org/places/265817)
+
+
+## 10093378: Baiai (Campania)
+[https://resource.manto.unh.edu/10093378](https://resource.manto.unh.edu/10093378)  
+
+### alignments:
+ - [Baiae](https://pleiades.stoa.org/places/432716)
 
 
 ## 10093382: Lake Lucrinus (Campania)
@@ -700,6 +714,13 @@
 
 ### alignments:
  - [Erechtheion](https://pleiades.stoa.org/places/750203268)
+
+
+## 10153056: Acharnai (Attica)
+[https://resource.manto.unh.edu/10153056](https://resource.manto.unh.edu/10153056)  
+
+### alignments:
+ - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
 
 
 ## 10153163: Tithorea (Phocis)
@@ -1395,6 +1416,13 @@
  - [Pityoussa/Lampsacus](https://pleiades.stoa.org/places/501570)
 
 
+## 10268846: Tipha (Boiotia)
+[https://resource.manto.unh.edu/10268846](https://resource.manto.unh.edu/10268846)  
+
+### alignments:
+ - [Siphai/Tipha](https://pleiades.stoa.org/places/541102)
+
+
 ## 10268847: River Erymanthos (Elis/Arcadia)
 [https://resource.manto.unh.edu/10268847](https://resource.manto.unh.edu/10268847)  
 
@@ -1990,6 +2018,13 @@
  - [Hymettos M.](https://pleiades.stoa.org/places/579955)
 
 
+## 11292650: Creusa (Boiotia)
+[https://resource.manto.unh.edu/11292650](https://resource.manto.unh.edu/11292650)  
+
+### alignments:
+ - [Kreusis](https://pleiades.stoa.org/places/540888)
+
+
 ## 11293043: Asteris (island)
 [https://resource.manto.unh.edu/11293043](https://resource.manto.unh.edu/11293043)  
 
@@ -2389,6 +2424,13 @@
  - [Propontis](https://pleiades.stoa.org/places/511381)
 
 
+## 11310147: Venetia (Italy)
+[https://resource.manto.unh.edu/11310147](https://resource.manto.unh.edu/11310147)  
+
+### alignments:
+ - [Venetia (region)](https://pleiades.stoa.org/places/393511)
+
+
 ## 11310149: Latium (Italy)
 [https://resource.manto.unh.edu/11310149](https://resource.manto.unh.edu/11310149)  
 
@@ -2430,6 +2472,13 @@
 
 ### alignments:
  - [Astyra](https://pleiades.stoa.org/places/501364)
+
+
+## 11311822: Piraeus (Attica)
+[https://resource.manto.unh.edu/11311822](https://resource.manto.unh.edu/11311822)  
+
+### alignments:
+ - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
 
 
 ## 11311843: the Aventine Hill (Rome)
@@ -2619,6 +2668,20 @@
 
 ### alignments:
  - [Megaris](https://pleiades.stoa.org/places/570470)
+
+
+## 8188814: Eleusis (Attica)
+[https://resource.manto.unh.edu/8188814](https://resource.manto.unh.edu/8188814)  
+
+### alignments:
+ - [Eleusis](https://pleiades.stoa.org/places/579920)
+
+
+## 8188815: Athens (Attica)
+[https://resource.manto.unh.edu/8188815](https://resource.manto.unh.edu/8188815)  
+
+### alignments:
+ - [Athenae](https://pleiades.stoa.org/places/579885)
 
 
 ## 8188816: Epidauros (Argolid)
@@ -3859,6 +3922,13 @@
 
 ### alignments:
  - [Ilissos (river)](https://pleiades.stoa.org/places/579959)
+
+
+## 9619397: Megara (Argolid)
+[https://resource.manto.unh.edu/9619397](https://resource.manto.unh.edu/9619397)  
+
+### alignments:
+ - [Megara](https://pleiades.stoa.org/places/570468)
 
 
 ## 9651936: Scolos (Boiotia)

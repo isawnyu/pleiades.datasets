@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-399 alignments exist in _Pleiades_ place references as of 2025-07-02. The following list of alignments is grouped by zotkey.
+400 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2153,6 +2153,13 @@
 
 ### alignments:
  - [City Wall (Salamis: Ampelaki Bay)](https://pleiades.stoa.org/places/988478845)
+
+
+## Toponyme 37621: Athènes, Athens-Δ.Δ. Αθηναίων, Αθήνα, Αθήναι
+[https://chronique.efa.gr/?r=topo_public&id=37621](https://chronique.efa.gr/?r=topo_public&id=37621)  
+
+### alignments:
+ - [Athenae](https://pleiades.stoa.org/places/579885)
 
 
 ## Toponyme 37712: Korinthos, Corinth
