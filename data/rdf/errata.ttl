@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/06/29 06:48:35.214912 GMT-4
+# Date: 2025/07/06 06:48:20.362429 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5121
+# Triple count: 5181
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -640,6 +640,29 @@
     rdfs:comment "The canonical non-existent place";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/404> .
 
+<https://pleiades.stoa.org/errata/416798%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Cutiliensis L.";
+    rdfs:comment "Duplicate inherited from BAtlas/BAtlDir for https://pleiades.stoa.org/places/413115";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/416798> .
+
+<https://pleiades.stoa.org/errata/416798/Cutiliensis-L> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/17244949>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T19:53:22-04:00";
+    dcterms:title "Cutiliensis L.";
+    owl:sameAs <http://pleiades.stoa.org/errata/416798/Cutiliensis-L> .
+
+<https://pleiades.stoa.org/errata/416798/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/17244949>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T19:53:22-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/416798/batlas-location> .
+
 <https://pleiades.stoa.org/errata/427224440%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erroneous Duplicate: Al-Hijr (Madâin Sâlih)";
     rdfs:comment "This place was published as an unintended duplicate of https://pleiades.stoa.org/places/814675/.";
@@ -1069,11 +1092,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1081,11 +1104,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3113,6 +3136,34 @@
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/unknown> .
 
+<https://pleiades.stoa.org/errata/416798> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 42 Cutiliensis L.",
+        "New Pauly Cutilia",
+        "Nissen II 475-76",
+        "Wikipedia (English) Lake of Cutilia";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "near Aquae Cutiliae";
+    dcterms:creator <http://viaf.org/viaf/17244949>;
+    dcterms:description "Duplicate inherited from BAtlas/BAtlDir for https://pleiades.stoa.org/places/413115";
+    dcterms:modified "2025-06-30T14:31:27-04:00";
+    dcterms:title "Withdrawn: Cutiliensis L.";
+    cito:citesAsRelated <http://www.encquran.brill.nl/entries/brill-s-new-pauly/cutilia-e309010>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://en.wikipedia.org/wiki/Lake_of_Cutilia>,
+        <https://link.gale.com/apps/doc/CXWWNE753554551/NCCO?u=new64731&sid=bookmark-NCCO&xid=fc884f52&pg=1>;
+    owl:sameAs <http://pleiades.stoa.org/errata/416798>;
+    skos:altLabel "Cutiliensis L.";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/lake>,
+        <https://pleiades.stoa.org/vocabularies/unlocated>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/Cutiliensis-L> .
+
 <https://pleiades.stoa.org/errata/427224440> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -3559,11 +3610,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -3677,10 +3728,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ],
-        <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ];
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -4598,6 +4649,16 @@
     pleiades:nameRomanized "Antitaurus M.";
     pleiades:start_date -330 .
 
+<https://pleiades.stoa.org/errata/Cutiliensis-L> a <https://pleiades.stoa.org/places/vocab#Name>;
+    owl:sameAs <http://pleiades.stoa.org/errata/Cutiliensis-L>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
+        <https://pleiades.stoa.org/vocabularies/late-antique>,
+        <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 640;
+    pleiades:nameRomanized "Cutiliensis L.";
+    pleiades:start_date -330 .
+
 <https://pleiades.stoa.org/errata/achaia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/achaia>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 3 Achaia" ];
@@ -5301,10 +5362,11 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 D4 9" ],
         [ rdfs:label "Barrington Atlas: BAtlas 25 Untikesken" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Achaia" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
         [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 16" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Pleiades" ],
@@ -5317,8 +5379,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
@@ -5328,8 +5390,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
