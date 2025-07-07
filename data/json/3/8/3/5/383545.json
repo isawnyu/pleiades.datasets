@@ -6,8 +6,68 @@
         7.4208953,
         45.0957849
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/383580",
+            "contributors": [],
+            "created": "2025-07-02T13:16:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-07-02T16:33:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-07-02T13:16:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-07-02T13:16:06Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "augusta-taurinorum",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace829.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "2B4 (Talbert 829)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Augusta Taurinorum",
+            "uri": "https://pleiades.stoa.org/places/383545/augusta-taurinorum"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/383580"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -66,41 +126,6 @@
         }
     ],
     "history": [
-        {
-            "comment": "EDH Geographic Database G022106: Fines Cotti – Avigliana (Drubiaglio, Ghetto)",
-            "modified": "2025-07-02T01:55:32Z",
-            "modifiedBy": "jbecker"
-        },
-        {
-            "comment": "update references",
-            "modified": "2025-07-02T01:45:05Z",
-            "modifiedBy": "jbecker"
-        },
-        {
-            "comment": "update references",
-            "modified": "2021-12-04T00:46:31Z",
-            "modifiedBy": "jbecker"
-        },
-        {
-            "comment": "added TM GEO ID 22449",
-            "modified": "2017-05-29T13:07:57Z",
-            "modifiedBy": "jbecker"
-        },
-        {
-            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-            "modified": "2012-10-20T19:28:27Z",
-            "modifiedBy": "sgillies"
-        },
-        {
-            "comment": "Global migration and reindexing of citations and provenance, February 2012",
-            "modified": "2012-02-15T04:32:15Z",
-            "modifiedBy": "admin"
-        },
-        {
-            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
-            "modified": "2011-01-14T19:35:36Z",
-            "modifiedBy": "sgillies"
-        },
         {
             "action": "Publish externally",
             "modified": "2010-11-15T18:28:57Z",
@@ -169,16 +194,6 @@
                 {
                     "action": "Submit for review",
                     "modified": "2017-05-29T13:10:00Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added OSM location",
-                    "modified": "2017-05-29T13:09:49Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2017-05-29T13:08:47Z",
                     "modifiedBy": "jbecker"
                 },
                 {
@@ -266,11 +281,6 @@
             "end": 640,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:32:15Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
                     "modified": "2010-11-15T18:28:57Z",
                     "modifiedBy": "thomase"
@@ -339,11 +349,6 @@
                 {
                     "action": "Submit for review",
                     "modified": "2017-05-29T13:11:10Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added name",
-                    "modified": "2017-05-29T13:10:59Z",
                     "modifiedBy": "jbecker"
                 },
                 {
@@ -462,6 +467,28 @@
             "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
             "otherIdentifier": "",
             "shortTitle": "EDH",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q135190142",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ad Fines (Q135190142)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=3283",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "3283: Finibus",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
             "type": "citesAsRelated"
         }
     ],
