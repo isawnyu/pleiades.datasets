@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4515 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
+4517 alignments exist in _Pleiades_ place references as of 2025-07-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22148,6 +22148,13 @@
  - [Thelser/Zelfir](https://pleiades.stoa.org/places/897859)
 
 
+## GEO ID 41555: Vologesias (Abu Halafiya)
+[https://www.trismegistos.org/place/41555](https://www.trismegistos.org/place/41555)  
+
+### alignments:
+ - [Vologesias?](https://pleiades.stoa.org/places/894179)
+
+
 ## GEO ID 41558: Rhagai (Rey)
 [http://www.trismegistos.org/place/41558](http://www.trismegistos.org/place/41558)  
 
@@ -24064,6 +24071,13 @@
 
 ### alignments:
  - [Creta et Cyrene (Roman province)](https://pleiades.stoa.org/places/981517)
+
+
+## GEO ID 42381: Vulpis
+[https://www.trismegistos.org/place/42381](https://www.trismegistos.org/place/42381)  
+
+### alignments:
+ - [Fluvius Vulpis](https://pleiades.stoa.org/places/543406790)
 
 
 ## GEO ID 42382: In Alpe Maritima
@@ -29713,7 +29727,7 @@
  - [Xanthos/Sirbis (river)](https://pleiades.stoa.org/places/639167)
 
 
-## GEO ID 6147
+## GEO ID 6147: Oufentina
 [https://www.trismegistos.org/place/6147](https://www.trismegistos.org/place/6147)  
 
 ### alignments:

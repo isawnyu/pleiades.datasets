@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2174 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
+2175 alignments exist in _Pleiades_ place references as of 2025-07-08. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3756,6 +3756,13 @@
 
 ### alignments:
  - [In Alpe Maritima](https://pleiades.stoa.org/places/190126253)
+
+
+## 2B3 (Talbert 3315)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3315.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3315.html)  
+
+### alignments:
+ - [Fluvius Vulpis](https://pleiades.stoa.org/places/543406790)
 
 
 ## 2B3 (Talbert 817)

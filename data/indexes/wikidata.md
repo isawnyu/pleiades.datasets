@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8427 alignments exist in _Pleiades_ place references as of 2025-07-07. The following list of alignments is grouped by zotkey.
+8431 alignments exist in _Pleiades_ place references as of 2025-07-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12310,6 +12310,13 @@
  - [Domus of Publius Confuleius Sabbio](https://pleiades.stoa.org/places/715839055)
 
 
+## Domus of the figurative emblem (Q124359392)
+[https://www.wikidata.org/wiki/Q124359392](https://www.wikidata.org/wiki/Q124359392)  
+
+### alignments:
+ - [Domus of the figurative emblem](https://pleiades.stoa.org/places/325985896)
+
+
 ## Domus of Vigna Guidi (Q112767255)
 [https://www.wikidata.org/wiki/Q112767255](https://www.wikidata.org/wiki/Q112767255)  
 
@@ -13688,6 +13695,13 @@
 
 ### alignments:
  - [Oisseau-Le-Petit](https://pleiades.stoa.org/places/69544)
+
+
+## fanum Quietis (Q135216752)
+[https://www.wikidata.org/wiki/Q135216752](https://www.wikidata.org/wiki/Q135216752)  
+
+### alignments:
+ - [fanum Quietis](https://pleiades.stoa.org/places/304914109)
 
 
 ## Fanum Voltumnae (Q1397996)
@@ -20475,6 +20489,13 @@
 
 ### alignments:
  - [Limes Transalutanus](https://pleiades.stoa.org/places/221217)
+
+
+## Limnae (Q17050733)
+[https://www.wikidata.org/wiki/Q17050733](https://www.wikidata.org/wiki/Q17050733)  
+
+### alignments:
+ - [Limnai](https://pleiades.stoa.org/places/501497)
 
 
 ## Limnaion (Q60790520)
@@ -48714,6 +48735,13 @@
 
 ### alignments:
  - [Sacellum of the Augustales](https://pleiades.stoa.org/places/32694358)
+
+
+## Sacred Way (Q3737100)
+[https://www.wikidata.org/wiki/Q3737100](https://www.wikidata.org/wiki/Q3737100)  
+
+### alignments:
+ - [Hiera Hodos](https://pleiades.stoa.org/places/522406511)
 
 
 ## Sado River (Q16669)
