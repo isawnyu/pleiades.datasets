@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8431 alignments exist in _Pleiades_ place references as of 2025-07-08. The following list of alignments is grouped by zotkey.
+8445 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -195,6 +195,13 @@
 
 ### alignments:
  - [Abthugni](https://pleiades.stoa.org/places/314843)
+
+
+## Abu Ballas (Q14201163)
+[https://www.wikidata.org/wiki/Q14201163](https://www.wikidata.org/wiki/Q14201163)  
+
+### alignments:
+ - [Abu Ballas](https://pleiades.stoa.org/places/786014015)
 
 
 ## Abu Mena (Q9278)
@@ -1592,6 +1599,13 @@
  - [Altar of the Twelve Gods](https://pleiades.stoa.org/places/676120270)
 
 
+## Altar of Zeus Agoraios (Q2891038)
+[https://www.wikidata.org/wiki/Q2891038](https://www.wikidata.org/wiki/Q2891038)  
+
+### alignments:
+ - [Altar of Zeus Agoraios](https://pleiades.stoa.org/places/415460393)
+
+
 ## Altar of Zeus Lykaios (Q124820762)
 [https://www.wikidata.org/wiki/Q124820762](https://www.wikidata.org/wiki/Q124820762)  
 
@@ -2542,6 +2556,13 @@
 
 ### alignments:
  - [Antinoeis](https://pleiades.stoa.org/places/585886)
+
+
+## Antinum (Q3618727)
+[https://www.wikidata.org/wiki/Q3618727](https://www.wikidata.org/wiki/Q3618727)  
+
+### alignments:
+ - [Antinum](https://pleiades.stoa.org/places/432679)
 
 
 ## Antiochia ad Taurum (Q303856)
@@ -4531,6 +4552,13 @@
 
 ### alignments:
  - [Bab el-Gasous](https://pleiades.stoa.org/places/937942844)
+
+
+## Babylon Fortress (Q2421968)
+[https://www.wikidata.org/wiki/Q2421968](https://www.wikidata.org/wiki/Q2421968)  
+
+### alignments:
+ - [Babylon Fortress](https://pleiades.stoa.org/places/758514868)
 
 
 ## Babylonia (Q47690)
@@ -7453,6 +7481,13 @@
 
 ### alignments:
  - [Drusiana Fossa](https://pleiades.stoa.org/places/99663)
+
+
+## Canal of the Pharaohs (Q959073)
+[https://www.wikidata.org/wiki/Q959073](https://www.wikidata.org/wiki/Q959073)  
+
+### alignments:
+ - [Nekou Diorux](https://pleiades.stoa.org/places/728577)
 
 
 ## Cancho Roano (Q2060316)
@@ -11208,6 +11243,13 @@
  - [Kromnos](https://pleiades.stoa.org/places/570388)
 
 
+## Crossroads Enclosure (Q135250323)
+[https://www.wikidata.org/wiki/Q135250323](https://www.wikidata.org/wiki/Q135250323)  
+
+### alignments:
+ - [Crossroads Enclosure](https://pleiades.stoa.org/places/251170827)
+
+
 ## Croy Hill Roman fort (Q42283084)
 [https://www.wikidata.org/wiki/Q42283084](https://www.wikidata.org/wiki/Q42283084)  
 
@@ -11752,6 +11794,13 @@
 
 ### alignments:
  - [City wall of Pompeii](https://pleiades.stoa.org/places/824486497)
+
+
+## Deir Abu Matta (Q14207544)
+[https://www.wikidata.org/wiki/Q14207544](https://www.wikidata.org/wiki/Q14207544)  
+
+### alignments:
+ - [Deir Abu Matta](https://pleiades.stoa.org/places/667956220)
 
 
 ## Deir el-Bahari (Q373909)
@@ -14257,6 +14306,13 @@
  - [Fosso del Manganello](https://pleiades.stoa.org/places/206207290)
 
 
+## Foul Bay (Q3816158)
+[https://www.wikidata.org/wiki/Q3816158](https://www.wikidata.org/wiki/Q3816158)  
+
+### alignments:
+ - [Akathartos Kolpos](https://pleiades.stoa.org/places/785968)
+
+
 ## Fount de Rome (Q3079947)
 [https://www.wikidata.org/wiki/Q3079947](https://www.wikidata.org/wiki/Q3079947)  
 
@@ -15281,6 +15337,13 @@
  - [Silvium](https://pleiades.stoa.org/places/442796)
 
 
+## Great Bitter Lake (Q526440)
+[https://www.wikidata.org/wiki/Q526440](https://www.wikidata.org/wiki/Q526440)  
+
+### alignments:
+ - [Pikrai Limnai](https://pleiades.stoa.org/places/727203)
+
+
 ## Great Chesterford (Q1020030)
 [https://www.wikidata.org/wiki/Q1020030](https://www.wikidata.org/wiki/Q1020030)  
 
@@ -15517,6 +15580,13 @@
 
 ### alignments:
  - [Guldara Stupa](https://pleiades.stoa.org/places/909832408)
+
+
+## Gulf of Aden (Q41837)
+[https://www.wikidata.org/wiki/Q41837](https://www.wikidata.org/wiki/Q41837)  
+
+### alignments:
+ - [Aualites Sinus](https://pleiades.stoa.org/places/39305)
 
 
 ## Gulf of Aqaba (Q81611)
@@ -18754,6 +18824,13 @@
  - [Heldua](https://pleiades.stoa.org/places/678177)
 
 
+## Khalij al-Masri (Q124661416)
+[https://www.wikidata.org/wiki/Q124661416](https://www.wikidata.org/wiki/Q124661416)  
+
+### alignments:
+ - [Khalij al-Masri](https://pleiades.stoa.org/places/571454571)
+
+
 ## Khanpur Cave (Q66134639)
 [https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
 
@@ -19859,6 +19936,13 @@
 
 ### alignments:
  - [Lake Stymphalia](https://pleiades.stoa.org/places/324369908)
+
+
+## Lake Timsah (Q1724581)
+[https://www.wikidata.org/wiki/Q1724581](https://www.wikidata.org/wiki/Q1724581)  
+
+### alignments:
+ - [Pikrai Limnai](https://pleiades.stoa.org/places/727204)
 
 
 ## Lake Uluabat (Q4809067)
@@ -23985,6 +24069,13 @@
  - [Musti](https://pleiades.stoa.org/places/315085)
 
 
+## Mut (Q14215956)
+[https://www.wikidata.org/wiki/Q14215956](https://www.wikidata.org/wiki/Q14215956)  
+
+### alignments:
+ - [Mut el-Kharab](https://pleiades.stoa.org/places/624813669)
+
+
 ## Mutina (Q11786862)
 [https://www.wikidata.org/wiki/Q11786862](https://www.wikidata.org/wiki/Q11786862)  
 
@@ -24795,6 +24886,13 @@
 
 ### alignments:
  - [Nuceria](https://pleiades.stoa.org/places/413227)
+
+
+## Nome 14 of Lower Egypt (Q11929802)
+[https://www.wikidata.org/wiki/Q11929802](https://www.wikidata.org/wiki/Q11929802)  
+
+### alignments:
+ - [Sethroites Nomos](https://pleiades.stoa.org/places/727230)
 
 
 ## Nonakris (Q7049180)
@@ -27119,6 +27217,13 @@
 
 ### alignments:
  - [Phakoussa](https://pleiades.stoa.org/places/727194)
+
+
+## Phagroriopolis (Q135243437)
+[https://www.wikidata.org/wiki/Q135243437](https://www.wikidata.org/wiki/Q135243437)  
+
+### alignments:
+ - [Phagroriopolis](https://pleiades.stoa.org/places/730138)
 
 
 ## Phaistos (Q249707)
@@ -32750,13 +32855,6 @@
 
 ### alignments:
  - [Saint-Michel tumulus](https://pleiades.stoa.org/places/915626351)
-
-
-## Q14207544: Deir Abu Matta
-[https://www.wikidata.org/wiki/Q14207544](https://www.wikidata.org/wiki/Q14207544)  
-
-### alignments:
- - [Deir Abu Matta](https://pleiades.stoa.org/places/667956220)
 
 
 ## Q1422542: Staigue stone fort
@@ -46636,6 +46734,13 @@
  - [Reunia](https://pleiades.stoa.org/places/187528)
 
 
+## Ras Banas (Q3419767)
+[https://www.wikidata.org/wiki/Q3419767](https://www.wikidata.org/wiki/Q3419767)  
+
+### alignments:
+ - [Lepte Akra](https://pleiades.stoa.org/places/786060)
+
+
 ## Ras el-Haddagia (Q106188949)
 [https://www.wikidata.org/wiki/Q106188949](https://www.wikidata.org/wiki/Q106188949)  
 
@@ -58056,13 +58161,6 @@
 
 ### alignments:
  - [Wadi Murabba'at](https://pleiades.stoa.org/places/852629977)
-
-
-## Wadi Tumilat (Q2538734)
-[https://www.wikidata.org/wiki/Q2538734](https://www.wikidata.org/wiki/Q2538734)  
-
-### alignments:
- - [Nekou Diorux](https://pleiades.stoa.org/places/728577)
 
 
 ## Waldgirmes Forum (Q318775)

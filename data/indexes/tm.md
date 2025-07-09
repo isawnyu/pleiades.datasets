@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4517 alignments exist in _Pleiades_ place references as of 2025-07-08. The following list of alignments is grouped by zotkey.
+4521 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2366,6 +2366,13 @@
 
 ### alignments:
  - [Kerke](https://pleiades.stoa.org/places/736935)
+
+
+## GEO ID 10571: Wadi Tumilat
+[https://www.trismegistos.org/place/10571](https://www.trismegistos.org/place/10571)  
+
+### alignments:
+ - [Wadi Tumilat](https://pleiades.stoa.org/places/985180643)
 
 
 ## GEO ID 105
@@ -6186,6 +6193,7 @@
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
  - [Paroria](https://pleiades.stoa.org/places/570562)
  - [Portus](https://pleiades.stoa.org/places/423012)
+ - [Sethroites Nomos](https://pleiades.stoa.org/places/727230)
  - [Tritium](https://pleiades.stoa.org/places/236691)
 
 
@@ -14415,6 +14423,13 @@
 
 ### alignments:
  - [Velzna/*Volsinii Veteres/Urbiventus](https://pleiades.stoa.org/places/413373)
+
+
+## GEO ID 3089: Sethroites
+[https://www.trismegistos.org/place/3089](https://www.trismegistos.org/place/3089)  
+
+### alignments:
+ - [Sethroites Nomos](https://pleiades.stoa.org/places/727230)
 
 
 ## GEO ID 3090: Mendesios
@@ -27744,6 +27759,13 @@
  - [Kodrigai](https://pleiades.stoa.org/places/658511)
 
 
+## GEO ID 5002: Bitter Lakes
+[https://www.trismegistos.org/place/5002](https://www.trismegistos.org/place/5002)  
+
+### alignments:
+ - [Pikrai Limnai](https://pleiades.stoa.org/places/727203)
+
+
 ## GEO ID 50034: Imeret (Ain Birbiyeh)
 [http://www.trismegistos.org/place/50034](http://www.trismegistos.org/place/50034)  
 
@@ -30581,6 +30603,13 @@
 
 ### alignments:
  - [Aegina (island)](https://pleiades.stoa.org/places/579844)
+
+
+## GEO ID 7802: Phagroriopolis
+[https://www.trismegistos.org/place/7802](https://www.trismegistos.org/place/7802)  
+
+### alignments:
+ - [Phagroriopolis](https://pleiades.stoa.org/places/730138)
 
 
 ## GEO ID 7810: Phalakron (Dweig)
