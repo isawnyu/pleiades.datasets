@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-400 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+401 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -538,6 +538,13 @@
 
 ### alignments:
  - [Kastro Phaneromenis/Kastro Kochylou](https://pleiades.stoa.org/places/451513645)
+
+
+## Report 9865: Sanctuary of Corinthian Apollo, Longa Pylias - 2014
+[https://chronique.efa.gr/?kroute=report&id=9865](https://chronique.efa.gr/?kroute=report&id=9865)  
+
+### alignments:
+ - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
 
 
 ## Reports 12962: STELIDA - 2019

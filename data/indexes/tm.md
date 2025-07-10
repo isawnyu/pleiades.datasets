@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4521 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+4522 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20165,6 +20165,13 @@
 
 ### alignments:
  - [Didymai? (islands)](https://pleiades.stoa.org/places/727109)
+
+
+## GEO ID 40404: Ad fluvium Lanaricum
+[http://www.trismegistos.org/place/40404](http://www.trismegistos.org/place/40404)  
+
+### alignments:
+ - [Ad Fluvium Lanaricum](https://pleiades.stoa.org/places/462070)
 
 
 ## GEO ID 40411: Budalia (Martinci?)

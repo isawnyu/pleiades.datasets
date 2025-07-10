@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8445 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+8451 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -40929,13 +40929,6 @@
  - [Temple E at Selinus](https://pleiades.stoa.org/places/502577470)
 
 
-## Q3983186: Temple F
-[https://www.wikidata.org/wiki/Q3983186](https://www.wikidata.org/wiki/Q3983186)  
-
-### alignments:
- - [Temple F at Selinus](https://pleiades.stoa.org/places/71706222)
-
-
 ## Q3983204: Temple of Fortuna Augusta
 [https://www.wikidata.org/wiki/Q3983204](https://www.wikidata.org/wiki/Q3983204)  
 
@@ -48758,6 +48751,13 @@
  - [Appiaria](https://pleiades.stoa.org/places/216707)
 
 
+## Römerbad (Q105963221)
+[https://www.wikidata.org/wiki/Q105963221](https://www.wikidata.org/wiki/Q105963221)  
+
+### alignments:
+ - [Freilichtmuseum Römerbad](https://pleiades.stoa.org/places/631226455)
+
+
 ## Römervilla von Bad Neuenahr-Ahrweiler (Q2179672)
 [https://www.wikidata.org/wiki/Q2179672](https://www.wikidata.org/wiki/Q2179672)  
 
@@ -49367,6 +49367,13 @@
  - [Sanctuary of Aphrodite Paphia](https://pleiades.stoa.org/places/828989863)
 
 
+## Sanctuary of Apollo Korythos (Q25164241)
+[https://www.wikidata.org/wiki/Q25164241](https://www.wikidata.org/wiki/Q25164241)  
+
+### alignments:
+ - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
+
+
 ## Sanctuary of Asclepius, Epidaurus (Q7698713)
 [https://www.wikidata.org/wiki/Q7698713](https://www.wikidata.org/wiki/Q7698713)  
 
@@ -49722,6 +49729,13 @@
 
 ### alignments:
  - [Cesernia](https://pleiades.stoa.org/places/452297)
+
+
+## Saraceno di Favara (Q104416667)
+[https://www.wikidata.org/wiki/Q104416667](https://www.wikidata.org/wiki/Q104416667)  
+
+### alignments:
+ - [Saraceno di Favara](https://pleiades.stoa.org/places/462484)
 
 
 ## Sarantaporo archaeological site (Q12874076)
@@ -50296,6 +50310,13 @@
 
 ### alignments:
  - [Seleucid Empire](https://pleiades.stoa.org/places/45635759)
+
+
+## Selinus (Q18286433)
+[https://www.wikidata.org/wiki/Q18286433](https://www.wikidata.org/wiki/Q18286433)  
+
+### alignments:
+ - [Selinous](https://pleiades.stoa.org/places/541094)
 
 
 ## Sellasia (Q59431661)
@@ -52720,6 +52741,20 @@
 
 ### alignments:
  - [Temple of Minerva at Theveste](https://pleiades.stoa.org/places/730497359)
+
+
+## Temple F (Q3983186)
+[https://www.wikidata.org/wiki/Q3983186](https://www.wikidata.org/wiki/Q3983186)  
+
+### alignments:
+ - [Temple F at Selinus](https://pleiades.stoa.org/places/71706222)
+
+
+## Temple G at Selinunte (Q3983187)
+[https://www.wikidata.org/wiki/Q3983187](https://www.wikidata.org/wiki/Q3983187)  
+
+### alignments:
+ - [Temple G at Selinus](https://pleiades.stoa.org/places/283133307)
 
 
 ## Temple in Block X7 (Q86664800)
@@ -58105,6 +58140,13 @@
 
 ### alignments:
  - [Vroulia](https://pleiades.stoa.org/places/590093)
+
+
+## Vulcano (Q207323)
+[https://www.wikidata.org/wiki/Q207323](https://www.wikidata.org/wiki/Q207323)  
+
+### alignments:
+ - [Hiera (Hephaistou) (island)](https://pleiades.stoa.org/places/462242)
 
 
 ## Waal (Q216171)

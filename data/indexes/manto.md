@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-674 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+675 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -707,6 +707,13 @@
 
 ### alignments:
  - [Malis](https://pleiades.stoa.org/places/540930)
+
+
+## 10152263: the Sanctuary of Apollo Corynthos near Corone (Messenia)
+[https://resource.manto.unh.edu/10152263](https://resource.manto.unh.edu/10152263)  
+
+### alignments:
+ - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
 
 
 ## 10152747: the Erechtheion (Athens)

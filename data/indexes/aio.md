@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-146 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+146 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  

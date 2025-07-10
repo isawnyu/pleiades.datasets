@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3716 alignments exist in _Pleiades_ place references as of 2025-07-09. The following list of alignments is grouped by zotkey.
+3717 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2412,6 +2412,13 @@
 
 ### alignments:
  - [Apollo Erethimios, T.](https://pleiades.stoa.org/places/589700)
+
+
+## Apollo Korythos sanct. (Messenia) 1 Ag. Andreas - Απόλλωνα Κορύθου
+[https://topostext.org/place/369219SApo](https://topostext.org/place/369219SApo)  
+
+### alignments:
+ - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
 
 
 ## Apollo Leukatas sanct. (Leukas) 36 Cape Lefkatas - Λευκάτα Απόλλωνος ιερόν
@@ -11294,7 +11301,7 @@
 [https://topostext.org/place/384221XKal](https://topostext.org/place/384221XKal)  
 
 ### alignments:
- - [Kallithea](https://pleiades.stoa.org/places/540850)
+ - [Kallithea (Phokis)](https://pleiades.stoa.org/places/540850)
 
 
 ## Kalloni excavation (Troizenia)
