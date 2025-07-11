@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8451 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
+8463 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -76,6 +76,13 @@
 
 ### alignments:
  - [A Street](https://pleiades.stoa.org/places/451190242)
+
+
+## Aaqbe (Q4661646)
+[https://www.wikidata.org/wiki/Q4661646](https://www.wikidata.org/wiki/Q4661646)  
+
+### alignments:
+ - [Aqaba](https://pleiades.stoa.org/places/678026)
 
 
 ## Aardenburg (Samian Ware Discovery Site) (Q103138125)
@@ -428,6 +435,13 @@
 
 ### alignments:
  - [Civitavecchia di Arpino](https://pleiades.stoa.org/places/245569735)
+
+
+## Acruvium (Q133504346)
+[https://www.wikidata.org/wiki/Q133504346](https://www.wikidata.org/wiki/Q133504346)  
+
+### alignments:
+ - [*Agruvium](https://pleiades.stoa.org/places/197097)
 
 
 ## Actium Monument (Q98136837)
@@ -5395,6 +5409,13 @@
  - [Boreios/Gallicus/Cantabricus Oceanus](https://pleiades.stoa.org/places/236376)
 
 
+## Bay of Kotor (Q207468)
+[https://www.wikidata.org/wiki/Q207468](https://www.wikidata.org/wiki/Q207468)  
+
+### alignments:
+ - [Rhizonicus Sinus](https://pleiades.stoa.org/places/197472)
+
+
 ## Baylham House (Samian Ware Discovery Site) (Q103146020)
 [https://www.wikidata.org/wiki/Q103146020](https://www.wikidata.org/wiki/Q103146020)  
 
@@ -6765,6 +6786,13 @@
 
 ### alignments:
  - [Budalia](https://pleiades.stoa.org/places/206995)
+
+
+## Budva (Q174237)
+[https://www.wikidata.org/wiki/Q174237](https://www.wikidata.org/wiki/Q174237)  
+
+### alignments:
+ - [Bouthoe](https://pleiades.stoa.org/places/481770)
 
 
 ## Bulls Down camp (Q17650598)
@@ -13256,6 +13284,13 @@
  - [Amisia (river)](https://pleiades.stoa.org/places/98910)
 
 
+## Enchele (Q1265876)
+[https://www.wikidata.org/wiki/Q1265876](https://www.wikidata.org/wiki/Q1265876)  
+
+### alignments:
+ - [Enchelei](https://pleiades.stoa.org/places/197260)
+
+
 ## Endeira (Q85759271)
 [https://www.wikidata.org/wiki/Q85759271](https://www.wikidata.org/wiki/Q85759271)  
 
@@ -18936,6 +18971,13 @@
  - [Kalama Kolpos](https://pleiades.stoa.org/places/59857)
 
 
+## Kiboreia (Q6404060)
+[https://www.wikidata.org/wiki/Q6404060](https://www.wikidata.org/wiki/Q6404060)  
+
+### alignments:
+ - [Kiboreia](https://pleiades.stoa.org/places/678253)
+
+
 ## Kibyra (Q1643467)
 [https://www.wikidata.org/wiki/Q1643467](https://www.wikidata.org/wiki/Q1643467)  
 
@@ -19651,6 +19693,13 @@
  - [La Villeneuve-au-Châtelot](https://pleiades.stoa.org/places/109431)
 
 
+## Labeatae (Q1268181)
+[https://www.wikidata.org/wiki/Q1268181](https://www.wikidata.org/wiki/Q1268181)  
+
+### alignments:
+ - [Labeatae](https://pleiades.stoa.org/places/481889)
+
+
 ## Labici (Q1579896)
 [https://www.wikidata.org/wiki/Q1579896](https://www.wikidata.org/wiki/Q1579896)  
 
@@ -20118,6 +20167,13 @@
 
 ### alignments:
  - [Large Temple at Sikait](https://pleiades.stoa.org/places/58370951)
+
+
+## Larisa in Syria (Q11931176)
+[https://www.wikidata.org/wiki/Q11931176](https://www.wikidata.org/wiki/Q11931176)  
+
+### alignments:
+ - [Larissa/Sizara](https://pleiades.stoa.org/places/668292)
 
 
 ## Larissa Cremaste (Q11931175)
@@ -25721,6 +25777,13 @@
  - [Olbasa/Col. Iulia Augusta](https://pleiades.stoa.org/places/639015)
 
 
+## Olcinium (Q21095202)
+[https://www.wikidata.org/wiki/Q21095202](https://www.wikidata.org/wiki/Q21095202)  
+
+### alignments:
+ - [Olcinium/Vicinium](https://pleiades.stoa.org/places/481931)
+
+
 ## Old Burrow (Q17673205)
 [https://www.wikidata.org/wiki/Q17673205](https://www.wikidata.org/wiki/Q17673205)  
 
@@ -26629,6 +26692,13 @@
 
 ### alignments:
  - [Papirion/Papiriou Castellum/Cherreos Eryma](https://pleiades.stoa.org/places/648732)
+
+
+## Papoura Hill Circular Structure (Q126594295)
+[https://www.wikidata.org/wiki/Q126594295](https://www.wikidata.org/wiki/Q126594295)  
+
+### alignments:
+ - [Papoura Hill Circular Structure](https://pleiades.stoa.org/places/872969492)
 
 
 ## Papremi (Q3894902)
@@ -38126,13 +38196,6 @@
  - [Larinum Roman amphitheater](https://pleiades.stoa.org/places/86666894)
 
 
-## Q2844410: Roman amphitheatre of Lecce
-[https://www.wikidata.org/wiki/Q2844410](https://www.wikidata.org/wiki/Q2844410)  
-
-### alignments:
- - [Roman amphitheater at Lupia(e)](https://pleiades.stoa.org/places/826967496)
-
-
 ## Q2844413: Roman amphitheatre of Leptis Magna
 [https://www.wikidata.org/wiki/Q2844413](https://www.wikidata.org/wiki/Q2844413)  
 
@@ -47540,6 +47603,13 @@
  - [Roman amphitheater at Eporedia](https://pleiades.stoa.org/places/998834783)
 
 
+## Roman amphitheatre of Lecce (Q2844410)
+[https://www.wikidata.org/wiki/Q2844410](https://www.wikidata.org/wiki/Q2844410)  
+
+### alignments:
+ - [Roman amphitheater at Lupia(e)](https://pleiades.stoa.org/places/826967496)
+
+
 ## Roman amphitheatre of Lucca (Q2844409)
 [https://www.wikidata.org/wiki/Q2844409](https://www.wikidata.org/wiki/Q2844409)  
 
@@ -48637,6 +48707,13 @@
 
 ### alignments:
  - [Royal Hypogeum at Qatna](https://pleiades.stoa.org/places/650320274)
+
+
+## Rudiae (Q3942250)
+[https://www.wikidata.org/wiki/Q3942250](https://www.wikidata.org/wiki/Q3942250)  
+
+### alignments:
+ - [Rudiae](https://pleiades.stoa.org/places/442753)
 
 
 ## Rudiae amphitheatre (Q28978040)
@@ -50451,6 +50528,13 @@
 
 ### alignments:
  - [Seregélyes](https://pleiades.stoa.org/places/197506)
+
+
+## Sergia (Q3538810)
+[https://www.wikidata.org/wiki/Q3538810](https://www.wikidata.org/wiki/Q3538810)  
+
+### alignments:
+ - [tribus Sergia](https://pleiades.stoa.org/places/300044063)
 
 
 ## Serifos (Q217214)

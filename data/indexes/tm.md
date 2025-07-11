@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4522 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
+4524 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7380,6 +7380,13 @@
  - [Vouni](https://pleiades.stoa.org/places/707642)
 
 
+## GEO ID 16578: Apheka (Afiq)
+[https://www.trismegistos.org/place/16578](https://www.trismegistos.org/place/16578)  
+
+### alignments:
+ - [Apheka](https://pleiades.stoa.org/places/678021)
+
+
 ## Geo ID 1657: Pella
 [http://www.trismegistos.org/place/1657](http://www.trismegistos.org/place/1657)  
 
@@ -13730,6 +13737,13 @@
 
 ### alignments:
  - [Rhizon/Risinium](https://pleiades.stoa.org/places/197471)
+
+
+## GEO ID 29619
+[http://www.trismegistos.org/place/29619](http://www.trismegistos.org/place/29619)  
+
+### alignments:
+ - [*Agruvium](https://pleiades.stoa.org/places/197097)
 
 
 ## GEO ID 29624: Praesidium Pompei (Rutevac)

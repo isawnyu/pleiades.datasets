@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3717 alignments exist in _Pleiades_ place references as of 2025-07-10. The following list of alignments is grouped by zotkey.
+3718 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2244,6 +2244,13 @@
 
 ### alignments:
  - [Apesas (mountain)](https://pleiades.stoa.org/places/570090)
+
+
+## Aphaca Aphrodite sanctuary (Phoenicia) 6 Afqa - Άφακα
+[https://topostext.org/place/341359SApA](https://topostext.org/place/341359SApA)  
+
+### alignments:
+ - [Aphaka (Temple of Aphrodite Aphakitis)](https://pleiades.stoa.org/places/668195)
 
 
 ## Aphaia T. (Aegina)
