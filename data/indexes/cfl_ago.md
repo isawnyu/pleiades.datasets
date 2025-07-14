@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-401 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
+402 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1689,6 +1689,13 @@
 
 ### alignments:
  - [(W)Axos](https://pleiades.stoa.org/places/590095)
+
+
+## Toponyme 16929: Delphes, Delfoi, Delfi, Delphi, Castri-Δ.Δ.Δελφών
+[https://chronique.efa.gr/?r=topo_public&id=16929](https://chronique.efa.gr/?r=topo_public&id=16929)  
+
+### alignments:
+ - [Delphi](https://pleiades.stoa.org/places/540726)
 
 
 ## Toponyme 16929: Delphes, Delfoi, Delfi, Delphi, Castri

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-675 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
+679 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Baliares/Gymnesiae Inss. (Maior et Minor)](https://pleiades.stoa.org/places/265817)
+
+
+## 10093375: Pithecoussai (island)
+[https://resource.manto.unh.edu/10093375](https://resource.manto.unh.edu/10093375)  
+
+### alignments:
+ - [Aenaria/Pithekoussai (island)](https://pleiades.stoa.org/places/432648)
 
 
 ## 10093378: Baiai (Campania)
@@ -1346,6 +1353,13 @@
  - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
+## 10267359: Cydonia (Crete)
+[https://resource.manto.unh.edu/10267359](https://resource.manto.unh.edu/10267359)  
+
+### alignments:
+ - [Kydonia](https://pleiades.stoa.org/places/589886)
+
+
 ## 10267364: Gortyna
 [https://resource.manto.unh.edu/10267364](https://resource.manto.unh.edu/10267364)  
 
@@ -1976,6 +1990,13 @@
  - [Drakanon](https://pleiades.stoa.org/places/599598)
 
 
+## 11258656: Metapontion (Italy)
+[https://resource.manto.unh.edu/11258656](https://resource.manto.unh.edu/11258656)  
+
+### alignments:
+ - [Metapontum](https://pleiades.stoa.org/places/442658)
+
+
 ## 11288769: Perraibia
 [https://resource.manto.unh.edu/11288769](https://resource.manto.unh.edu/11288769)  
 
@@ -2128,6 +2149,13 @@
 
 ### alignments:
  - [Col. Lugdunum](https://pleiades.stoa.org/places/167717)
+
+
+## 11299804: Sardis (Lydia)
+[https://resource.manto.unh.edu/11299804](https://resource.manto.unh.edu/11299804)  
+
+### alignments:
+ - [ Sardis/Hyde?](https://pleiades.stoa.org/places/550867)
 
 
 ## 11299930: Mount Rhodope (Thrace)

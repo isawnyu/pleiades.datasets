@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4524 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
+4527 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10501,6 +10501,13 @@
 
 ### alignments:
  - [Manfria](https://pleiades.stoa.org/places/462298)
+
+
+## GEO ID 22316: Mazara (Mazara del Vallo)
+[http://www.trismegistos.org/place/22316](http://www.trismegistos.org/place/22316)  
+
+### alignments:
+ - [Mazara](https://pleiades.stoa.org/places/462305)
 
 
 ## GEO ID 22319: Morgantina (Serra Orlando)
@@ -21575,6 +21582,13 @@
  - [Castrum Minervae/Athenaion/Limen Aphrodites](https://pleiades.stoa.org/places/442536)
 
 
+## GEO ID 41118: Vicus Mendicoleus (Lagonegro)
+[https://www.trismegistos.org/place/41118](https://www.trismegistos.org/place/41118)  
+
+### alignments:
+ - [‘Vico Mendicoleo’](https://pleiades.stoa.org/places/442852)
+
+
 ## GEO ID 41119: Interamnium (San Lorenzo del Vallo)
 [http://www.trismegistos.org/place/41119](http://www.trismegistos.org/place/41119)  
 
@@ -27084,6 +27098,13 @@
 
 ### alignments:
  - [Borgellusa di Avola](https://pleiades.stoa.org/places/462115)
+
+
+## GEO ID 46396: Mendolito
+[http://www.trismegistos.org/place/46396](http://www.trismegistos.org/place/46396)  
+
+### alignments:
+ - [Mendolito](https://pleiades.stoa.org/places/462313)
 
 
 ## GEO ID 46397: Monte Artesino di Nicosia

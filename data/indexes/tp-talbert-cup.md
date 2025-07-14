@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2175 alignments exist in _Pleiades_ place references as of 2025-07-11. The following list of alignments is grouped by zotkey.
+2176 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13232,6 +13232,13 @@
 
 ### alignments:
  - [Philadelpheia](https://pleiades.stoa.org/places/550822)
+
+
+## 8B4 (Talbert 2184)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2184.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2184.html)  
+
+### alignments:
+ - [ Sardis/Hyde?](https://pleiades.stoa.org/places/550867)
 
 
 ## 8B4 (Talbert 2188)
