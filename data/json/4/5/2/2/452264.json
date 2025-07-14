@@ -10,9 +10,16 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
-            "attestations": [],
-            "connectionType": "part_of_regional",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "part_of_admin",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_admin",
             "connectsTo": "https://pleiades.stoa.org/places/487529761",
             "contributors": [],
             "created": "2025-01-08T21:02:39Z",
@@ -26,7 +33,7 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 300,
             "history": [
                 {
                     "action": "Publish externally",
@@ -60,7 +67,7 @@
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "Italia, Regio III",
             "uri": "https://pleiades.stoa.org/places/452264/italia-regio-iii"
         }
@@ -396,6 +403,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=443",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "443: Arciade",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
             "type": "citesAsRelated"
         }
     ],
