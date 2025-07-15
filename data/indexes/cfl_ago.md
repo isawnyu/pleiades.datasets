@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-402 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
+403 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1471,6 +1471,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Toponyme - 14142: Sikyon (Kiato), Vassilika (usuel)-Δ.Δ.Σικυώνος (έδρα Κίατο,το)
+[https://chronique.efa.gr/?r=topo_public&id=14142](https://chronique.efa.gr/?r=topo_public&id=14142)  
+
+### alignments:
+ - [Sicyon/Demetrias](https://pleiades.stoa.org/places/570668)
 
 
 ## Toponyme - 16512: Attiki

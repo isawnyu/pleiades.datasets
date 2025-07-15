@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8486 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
+8504 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -174,6 +174,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Abodiacum (Q56277321)
+[https://www.wikidata.org/wiki/Q56277321](https://www.wikidata.org/wiki/Q56277321)  
+
+### alignments:
+ - [Abodiacum](https://pleiades.stoa.org/places/187242)
 
 
 ## Abolani (Q133464894)
@@ -2915,6 +2922,13 @@
  - [Aquae Iasae](https://pleiades.stoa.org/places/197127)
 
 
+## Aquae Neapolitanae (Q3621086)
+[https://www.wikidata.org/wiki/Q3621086](https://www.wikidata.org/wiki/Q3621086)  
+
+### alignments:
+ - [Aquae Calidae Neapolitanorum](https://pleiades.stoa.org/places/471882)
+
+
 ## Aquae Saravenae (Q85742537)
 [https://www.wikidata.org/wiki/Q85742537](https://www.wikidata.org/wiki/Q85742537)  
 
@@ -3868,6 +3882,13 @@
  - [Asilah](https://pleiades.stoa.org/places/275594)
 
 
+## Asinara (Q730500)
+[https://www.wikidata.org/wiki/Q730500](https://www.wikidata.org/wiki/Q730500)  
+
+### alignments:
+ - [Herculis (islands)](https://pleiades.stoa.org/places/471943)
+
+
 ## Asine (Messenia) (Q16488997)
 [https://www.wikidata.org/wiki/Q16488997](https://www.wikidata.org/wiki/Q16488997)  
 
@@ -4328,6 +4349,13 @@
 
 ### alignments:
  - [Noiomagos/Col. Augusta Tricastinorum](https://pleiades.stoa.org/places/167855)
+
+
+## Augusta Vindelicorum (Q765823)
+[https://www.wikidata.org/wiki/Q765823](https://www.wikidata.org/wiki/Q765823)  
+
+### alignments:
+ - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
 
 
 ## Augustamnica (Q2870967)
@@ -7427,6 +7455,13 @@
  - [Camactulici?](https://pleiades.stoa.org/places/157831)
 
 
+## Cambodunum (Q1028166)
+[https://www.wikidata.org/wiki/Q1028166](https://www.wikidata.org/wiki/Q1028166)  
+
+### alignments:
+ - [Cambodunum (Raetia)](https://pleiades.stoa.org/places/187335)
+
+
 ## Camboglanna (Q3651196)
 [https://www.wikidata.org/wiki/Q3651196](https://www.wikidata.org/wiki/Q3651196)  
 
@@ -7644,6 +7679,13 @@
  - [Sarpedon (promontory in Thrace)](https://pleiades.stoa.org/places/501602)
 
 
+## Cape Feno (Q2388186)
+[https://www.wikidata.org/wiki/Q2388186](https://www.wikidata.org/wiki/Q2388186)  
+
+### alignments:
+ - [Marianon Akron](https://pleiades.stoa.org/places/472098)
+
+
 ## Cape Kormakitis (Q959369)
 [https://www.wikidata.org/wiki/Q959369](https://www.wikidata.org/wiki/Q959369)  
 
@@ -7726,6 +7768,13 @@
 
 ### alignments:
  - [Argennon Akron](https://pleiades.stoa.org/places/462102)
+
+
+## Capo Testa (Q1034748)
+[https://www.wikidata.org/wiki/Q1034748](https://www.wikidata.org/wiki/Q1034748)  
+
+### alignments:
+ - [Capo Testa](https://pleiades.stoa.org/places/471918)
 
 
 ## Capo Vaticano (Q1034760)
@@ -8293,6 +8342,13 @@
 
 ### alignments:
  - [Castelraimondo](https://pleiades.stoa.org/places/187340)
+
+
+## Castelsardo (Q233797)
+[https://www.wikidata.org/wiki/Q233797](https://www.wikidata.org/wiki/Q233797)  
+
+### alignments:
+ - [Castelsardo](https://pleiades.stoa.org/places/471902)
 
 
 ## Castiglione della Pescaia (Q188547)
@@ -17962,6 +18018,13 @@
  - [Pakonia? (island)](https://pleiades.stoa.org/places/462407)
 
 
+## Isola Piana (Q3802841)
+[https://www.wikidata.org/wiki/Q3802841](https://www.wikidata.org/wiki/Q3802841)  
+
+### alignments:
+ - [Diabate? (island)](https://pleiades.stoa.org/places/471914)
+
+
 ## Isole Tremiti (Q51930)
 [https://www.wikidata.org/wiki/Q51930](https://www.wikidata.org/wiki/Q51930)  
 
@@ -21086,6 +21149,13 @@
  - [Lucera Castle](https://pleiades.stoa.org/places/817071134)
 
 
+## Lucrezia (Q3839011)
+[https://www.wikidata.org/wiki/Q3839011](https://www.wikidata.org/wiki/Q3839011)  
+
+### alignments:
+ - [Ad Octavum](https://pleiades.stoa.org/places/412995)
+
+
 ## Lucrinus Lacus (Q432545)
 [https://www.wikidata.org/wiki/Q432545](https://www.wikidata.org/wiki/Q432545)  
 
@@ -21427,6 +21497,13 @@
 
 ### alignments:
  - [Makyneia](https://pleiades.stoa.org/places/540927)
+
+
+## Maddalena archipelago (Q575828)
+[https://www.wikidata.org/wiki/Q575828](https://www.wikidata.org/wiki/Q575828)  
+
+### alignments:
+ - [Cuniculariae (islands)](https://pleiades.stoa.org/places/471909)
 
 
 ## Madeira Archipelago (Q3628422)
@@ -25616,6 +25693,13 @@
  - [S'Arcu 'e is Forros](https://pleiades.stoa.org/places/594406649)
 
 
+## Nure (Q1314163)
+[https://www.wikidata.org/wiki/Q1314163](https://www.wikidata.org/wiki/Q1314163)  
+
+### alignments:
+ - [Nure (river)](https://pleiades.stoa.org/places/383718)
+
+
 ## Nusco (Q55073)
 [https://www.wikidata.org/wiki/Q55073](https://www.wikidata.org/wiki/Q55073)  
 
@@ -27714,6 +27798,13 @@
 
 ### alignments:
  - [Piana del Lago Sanctuary](https://pleiades.stoa.org/places/765249114)
+
+
+## Piantarella archaeological site (Q22949633)
+[https://www.wikidata.org/wiki/Q22949633](https://www.wikidata.org/wiki/Q22949633)  
+
+### alignments:
+ - [Piantarella](https://pleiades.stoa.org/places/472113)
 
 
 ## Piatra Roșie Dacian fortress (Q719690)
@@ -37010,13 +37101,6 @@
 
 ### alignments:
  - [Gallo-Roman Sanctuary at Bû](https://pleiades.stoa.org/places/108833)
-
-
-## Q22949633
-[https://www.wikidata.org/wiki/Q22949633](https://www.wikidata.org/wiki/Q22949633)  
-
-### alignments:
- - [Piantarella](https://pleiades.stoa.org/places/472113)
 
 
 ## Q22951105
@@ -47042,6 +47126,13 @@
  - [Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 
+## Regio III Lucania et Bruttium (Q3931879)
+[https://www.wikidata.org/wiki/Q3931879](https://www.wikidata.org/wiki/Q3931879)  
+
+### alignments:
+ - [Italia, Regio III](https://pleiades.stoa.org/places/487529761)
+
+
 ## Regio IV Samnium (Q767422)
 [https://www.wikidata.org/wiki/Q767422](https://www.wikidata.org/wiki/Q767422)  
 
@@ -48842,6 +48933,13 @@
  - [Rusicade/Thapsus](https://pleiades.stoa.org/places/305137)
 
 
+## Rusubbicari Matidiae (Q117089976)
+[https://www.wikidata.org/wiki/Q117089976](https://www.wikidata.org/wiki/Q117089976)  
+
+### alignments:
+ - [Rusubbicari Matidiae](https://pleiades.stoa.org/places/295333)
+
+
 ## Rusuccuru (Q15843385)
 [https://www.wikidata.org/wiki/Q15843385](https://www.wikidata.org/wiki/Q15843385)  
 
@@ -49330,6 +49428,13 @@
 
 ### alignments:
  - [San Gimignano](https://pleiades.stoa.org/places/203215665)
+
+
+## San Giovanni (Q3947231)
+[https://www.wikidata.org/wiki/Q3947231](https://www.wikidata.org/wiki/Q3947231)  
+
+### alignments:
+ - [Ad Octavum](https://pleiades.stoa.org/places/471879)
 
 
 ## San Giovanni Battista a Sillano (Q3904602)
@@ -51755,6 +51860,13 @@
  - [Marmenia](https://pleiades.stoa.org/places/422971)
 
 
+## Stadia (Q2325984)
+[https://www.wikidata.org/wiki/Q2325984](https://www.wikidata.org/wiki/Q2325984)  
+
+### alignments:
+ - [Stadia](https://pleiades.stoa.org/places/599945)
+
+
 ## Stadium (Ephesus) (Q97341090)
 [https://www.wikidata.org/wiki/Q97341090](https://www.wikidata.org/wiki/Q97341090)  
 
@@ -51928,6 +52040,13 @@
 
 ### alignments:
  - [Strageath](https://pleiades.stoa.org/places/89293)
+
+
+## Strait of Bonifacio (Q207911)
+[https://www.wikidata.org/wiki/Q207911](https://www.wikidata.org/wiki/Q207911)  
+
+### alignments:
+ - [Gallicum/Taphros Fretum](https://pleiades.stoa.org/places/471933)
 
 
 ## Strait of Kerch (Q187890)
@@ -56430,6 +56549,13 @@
 
 ### alignments:
  - [Turris ad Algam](https://pleiades.stoa.org/places/344524)
+
+
+## Turublum Minus (Q135318785)
+[https://www.wikidata.org/wiki/Q135318785](https://www.wikidata.org/wiki/Q135318785)  
+
+### alignments:
+ - [Turublum Minus](https://pleiades.stoa.org/places/472036)
 
 
 ## Turía River (Q2460771)

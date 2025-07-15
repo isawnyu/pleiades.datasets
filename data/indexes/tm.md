@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4527 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
+4535 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9282,6 +9282,13 @@
 
 ### alignments:
  - [Lucus Augusti](https://pleiades.stoa.org/places/236525)
+
+
+## GEO ID 19899: Augusta Vindelicum (Augsburg)
+[http://www.trismegistos.org/place/19899](http://www.trismegistos.org/place/19899)  
+
+### alignments:
+ - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
 
 
 ## GEO ID 19900: Nomentum (Mentana)
@@ -20153,6 +20160,13 @@
  - [Turublum Minus](https://pleiades.stoa.org/places/472036)
 
 
+## GEO ID 40370: Elefantaria
+[http://www.trismegistos.org/place/40370](http://www.trismegistos.org/place/40370)  
+
+### alignments:
+ - [Elefantaria](https://pleiades.stoa.org/places/471916)
+
+
 ## GEO ID 40382: Luguidunec
 [https://www.trismegistos.org/place/40382](https://www.trismegistos.org/place/40382)  
 
@@ -20165,6 +20179,13 @@
 
 ### alignments:
  - [Erucium](https://pleiades.stoa.org/places/471919)
+
+
+## GEO ID 40389: Nure
+[http://www.trismegistos.org/place/40389](http://www.trismegistos.org/place/40389)  
+
+### alignments:
+ - [Nure](https://pleiades.stoa.org/places/471982)
 
 
 ## GEO ID 40395: Traiectum Siciliae
@@ -21328,6 +21349,13 @@
 
 ### alignments:
  - [Ad Rhenum](https://pleiades.stoa.org/places/187256)
+
+
+## GEO ID 41064: Urusa (Raisting)
+[https://www.trismegistos.org/place/41064](https://www.trismegistos.org/place/41064)  
+
+### alignments:
+ - [Urusa?](https://pleiades.stoa.org/places/187603)
 
 
 ## GEO ID 41070: Lapidaria (Reischen)
@@ -24165,6 +24193,13 @@
  - [Galata (island)](https://pleiades.stoa.org/places/314961)
 
 
+## GEO ID 42399: Herculis Insulae (Asinaria)
+[https://www.trismegistos.org/place/42399](https://www.trismegistos.org/place/42399)  
+
+### alignments:
+ - [Herculis (islands)](https://pleiades.stoa.org/places/471943)
+
+
 ## GEO ID 42402: Bobenia
 [https://www.trismegistos.org/place/42402](https://www.trismegistos.org/place/42402)  
 
@@ -24730,6 +24765,13 @@
 
 ### alignments:
  - [Dagae](https://pleiades.stoa.org/places/536928624)
+
+
+## GEO ID 42552: Diabetai
+[https://www.trismegistos.org/place/42552](https://www.trismegistos.org/place/42552)  
+
+### alignments:
+ - [Diabetai (islands)](https://pleiades.stoa.org/places/599591)
 
 
 ## GEO ID 42570: Baikolikon Oros
@@ -26216,6 +26258,13 @@
 
 ### alignments:
  - [Turduli](https://pleiades.stoa.org/places/256489)
+
+
+## GEO ID 43890: Viniolae
+[http://www.trismegistos.org/place/43890](http://www.trismegistos.org/place/43890)  
+
+### alignments:
+ - [Viniolae](https://pleiades.stoa.org/places/472045)
 
 
 ## GEO ID 43892: Arauraka (Kalur Kale)
@@ -28642,6 +28691,13 @@
  - [Diomeia](https://pleiades.stoa.org/places/579912)
 
 
+## GEO ID 57169: Stadia (Datça)
+[https://www.trismegistos.org/place/57169](https://www.trismegistos.org/place/57169)  
+
+### alignments:
+ - [Stadia](https://pleiades.stoa.org/places/599945)
+
+
 ## GEO ID 5718: Menneu
 [https://www.trismegistos.org/place/5718](https://www.trismegistos.org/place/5718)  
 
@@ -30559,7 +30615,7 @@
 [http://www.trismegistos.org/place/762](http://www.trismegistos.org/place/762)  
 
 ### alignments:
- - [Hellas](https://pleiades.stoa.org/places/1001896)
+ - [Hellas (Late Roman province)](https://pleiades.stoa.org/places/1001896)
 
 
 ## GEO ID 7646: Tmonpiteb

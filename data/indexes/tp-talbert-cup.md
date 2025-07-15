@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2176 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
+2179 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4409,6 +4409,13 @@
  - [Gaetulia](https://pleiades.stoa.org/places/334550)
 
 
+## 3A1 (Talbert 1000)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1000.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1000.html)  
+
+### alignments:
+ - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
+
+
 ## 3A1 (Talbert 1001)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1001.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1001.html)  
 
@@ -4528,6 +4535,13 @@
  - [Abodiacum](https://pleiades.stoa.org/places/187242)
 
 
+## 3A2 (Talbert 1007)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1007.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1007.html)  
+
+### alignments:
+ - [Urusa?](https://pleiades.stoa.org/places/187603)
+
+
 ## 3A2 (Talbert 1024)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1024.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1024.html)  
 
@@ -4554,6 +4568,13 @@
 
 ### alignments:
  - [*Parthanum/*Tartenum](https://pleiades.stoa.org/places/187505)
+
+
+## 3A2 (Talbert 1031)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1031.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1031.html)  
+
+### alignments:
+ - [Vetonina](https://pleiades.stoa.org/places/194073)
 
 
 ## 3A2 (Talbert 1032)

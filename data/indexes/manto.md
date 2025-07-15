@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-679 alignments exist in _Pleiades_ place references as of 2025-07-14. The following list of alignments is grouped by zotkey.
+680 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2808,6 +2808,13 @@
 
 ### alignments:
  - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
+
+
+## 8194532: Sicyon (Argolid)
+[https://resource.manto.unh.edu/8194532](https://resource.manto.unh.edu/8194532)  
+
+### alignments:
+ - [Sicyon/Demetrias](https://pleiades.stoa.org/places/570668)
 
 
 ## 8194546: Cythera (island)
