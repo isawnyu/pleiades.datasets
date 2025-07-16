@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8504 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
+8519 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10613,6 +10613,13 @@
  - [Fossa Cluilia](https://pleiades.stoa.org/places/666067875)
 
 
+## Clunia (Q2724682)
+[https://www.wikidata.org/wiki/Q2724682](https://www.wikidata.org/wiki/Q2724682)  
+
+### alignments:
+ - [Col. Clunia (Sulpicia)](https://pleiades.stoa.org/places/246345)
+
+
 ## Clusiolum (Q124156569)
 [https://www.wikidata.org/wiki/Q124156569](https://www.wikidata.org/wiki/Q124156569)  
 
@@ -13984,6 +13991,13 @@
  - [Leucolla](https://pleiades.stoa.org/places/638959)
 
 
+## Fidenae (Q1234405)
+[https://www.wikidata.org/wiki/Q1234405](https://www.wikidata.org/wiki/Q1234405)  
+
+### alignments:
+ - [Fidenae](https://pleiades.stoa.org/places/422923)
+
+
 ## Fidentia (Q11921969)
 [https://www.wikidata.org/wiki/Q11921969](https://www.wikidata.org/wiki/Q11921969)  
 
@@ -14936,6 +14950,13 @@
  - [Gaurion](https://pleiades.stoa.org/places/589791)
 
 
+## Gauting (Q74057)
+[https://www.wikidata.org/wiki/Q74057](https://www.wikidata.org/wiki/Q74057)  
+
+### alignments:
+ - [Bratananium](https://pleiades.stoa.org/places/118609)
+
+
 ## Gavar (Q39565)
 [https://www.wikidata.org/wiki/Q39565](https://www.wikidata.org/wiki/Q39565)  
 
@@ -15650,6 +15671,13 @@
 
 ### alignments:
  - [Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
+
+
+## Großhelfendorf (Q1549301)
+[https://www.wikidata.org/wiki/Q1549301](https://www.wikidata.org/wiki/Q1549301)  
+
+### alignments:
+ - [Isinisca](https://pleiades.stoa.org/places/187426)
 
 
 ## Großkrotzenburg (Q634120)
@@ -18158,6 +18186,13 @@
  - [Iuppiter Arborator](https://pleiades.stoa.org/places/107133089)
 
 
+## Iuvavum (Q122766460)
+[https://www.wikidata.org/wiki/Q122766460](https://www.wikidata.org/wiki/Q122766460)  
+
+### alignments:
+ - [Iuvavum](https://pleiades.stoa.org/places/187432)
+
+
 ## Ixia (Q14219404)
 [https://www.wikidata.org/wiki/Q14219404](https://www.wikidata.org/wiki/Q14219404)  
 
@@ -20463,6 +20498,13 @@
  - [Turret 51B (Lea Hill)](https://pleiades.stoa.org/places/967060214)
 
 
+## Lederata (Q3829351)
+[https://www.wikidata.org/wiki/Q3829351](https://www.wikidata.org/wiki/Q3829351)  
+
+### alignments:
+ - [Lederata](https://pleiades.stoa.org/places/207237)
+
+
 ## Ledon (Q3807754)
 [https://www.wikidata.org/wiki/Q3807754](https://www.wikidata.org/wiki/Q3807754)  
 
@@ -21182,6 +21224,13 @@
 
 ### alignments:
  - [Lucus Feroniae](https://pleiades.stoa.org/places/413184)
+
+
+## Lucus Stimulae (Q68679849)
+[https://www.wikidata.org/wiki/Q68679849](https://www.wikidata.org/wiki/Q68679849)  
+
+### alignments:
+ - [Lucus Stimulae](https://pleiades.stoa.org/places/978725164)
 
 
 ## Luentinum (Q6699587)
@@ -24783,6 +24832,13 @@
  - [Li Muri necropolis](https://pleiades.stoa.org/places/243340660)
 
 
+## Necropolis of Mesu 'e Montes (Q1664717)
+[https://www.wikidata.org/wiki/Q1664717](https://www.wikidata.org/wiki/Q1664717)  
+
+### alignments:
+ - [Necropolis of Mesu ‘e Montes](https://pleiades.stoa.org/places/307125123)
+
+
 ## Necropolis of Monte Luna (Q3874156)
 [https://www.wikidata.org/wiki/Q3874156](https://www.wikidata.org/wiki/Q3874156)  
 
@@ -24830,6 +24886,13 @@
 
 ### alignments:
  - [Potto Codinu necropolis](https://pleiades.stoa.org/places/975572958)
+
+
+## Necropolis of Su Crucifissu Mannu (Q3874164)
+[https://www.wikidata.org/wiki/Q3874164](https://www.wikidata.org/wiki/Q3874164)  
+
+### alignments:
+ - [Necropolis of Su Crucifissu Mannu](https://pleiades.stoa.org/places/307125124)
 
 
 ## Necrópolis de Los Villares (Q6039303)
@@ -25614,6 +25677,13 @@
 
 ### alignments:
  - [Villamassargia, Nuraghe di Santu Pauli](https://pleiades.stoa.org/places/729310593)
+
+
+## Nuraghe Sas Luzzanas (Q122206514)
+[https://www.wikidata.org/wiki/Q122206514](https://www.wikidata.org/wiki/Q122206514)  
+
+### alignments:
+ - [Nuraghe Sas Luzzanas](https://pleiades.stoa.org/places/307125122)
 
 
 ## nuraghe Serbissi (Q3879892)
@@ -31665,13 +31735,6 @@
  - [Copais L.](https://pleiades.stoa.org/places/540715)
 
 
-## Q1234405: Fidenae
-[https://www.wikidata.org/wiki/Q1234405](https://www.wikidata.org/wiki/Q1234405)  
-
-### alignments:
- - [Fidenae](https://pleiades.stoa.org/places/422923)
-
-
 ## Q1234446: Septizodium
 [https://www.wikidata.org/wiki/Q1234446](https://www.wikidata.org/wiki/Q1234446)  
 
@@ -32967,6 +33030,27 @@
 
 ### alignments:
  - [Red Pyramid](https://pleiades.stoa.org/places/412852520)
+
+
+## Q135350236
+[https://www.wikidata.org/wiki/Q135350236](https://www.wikidata.org/wiki/Q135350236)  
+
+### alignments:
+ - [Flacci Taberna](https://pleiades.stoa.org/places/349588)
+
+
+## Q135350255
+[https://www.wikidata.org/wiki/Q135350255](https://www.wikidata.org/wiki/Q135350255)  
+
+### alignments:
+ - [Rufini Taberna](https://pleiades.stoa.org/places/349622)
+
+
+## Q135350290
+[https://www.wikidata.org/wiki/Q135350290](https://www.wikidata.org/wiki/Q135350290)  
+
+### alignments:
+ - [Tabernae Veteres](https://pleiades.stoa.org/places/108635484)
 
 
 ## Q1353735: Eridanos
@@ -44823,13 +44907,6 @@
  - [Lepinus (mountain)](https://pleiades.stoa.org/places/422961)
 
 
-## Q68679849: Lucus Stimulae
-[https://www.wikidata.org/wiki/Q68679849](https://www.wikidata.org/wiki/Q68679849)  
-
-### alignments:
- - [Lucus Stimulae](https://pleiades.stoa.org/places/978725164)
-
-
 ## Q68680297: Casa Bellezza
 [https://www.wikidata.org/wiki/Q68680297](https://www.wikidata.org/wiki/Q68680297)  
 
@@ -50368,6 +50445,13 @@
  - [Schola Xanthi](https://pleiades.stoa.org/places/896005683)
 
 
+## Schwabmünchen (Q33482546)
+[https://www.wikidata.org/wiki/Q33482546](https://www.wikidata.org/wiki/Q33482546)  
+
+### alignments:
+ - [Rapis?](https://pleiades.stoa.org/places/118926)
+
+
 ## Schwarzenacker (Q22834)
 [https://www.wikidata.org/wiki/Q22834](https://www.wikidata.org/wiki/Q22834)  
 
@@ -51783,6 +51867,13 @@
  - [Sphinx Temple](https://pleiades.stoa.org/places/979282841)
 
 
+## Splügen Pass (Q605243)
+[https://www.wikidata.org/wiki/Q605243](https://www.wikidata.org/wiki/Q605243)  
+
+### alignments:
+ - [*Cunus Aureus](https://pleiades.stoa.org/places/187356)
+
+
 ## Square Castan (Q3494520)
 [https://www.wikidata.org/wiki/Q3494520](https://www.wikidata.org/wiki/Q3494520)  
 
@@ -52426,6 +52517,13 @@
 
 ### alignments:
  - [Tabennisis](https://pleiades.stoa.org/places/786125)
+
+
+## Taberna Frigida (Q135337931)
+[https://www.wikidata.org/wiki/Q135337931](https://www.wikidata.org/wiki/Q135337931)  
+
+### alignments:
+ - [Taberna Frigida](https://pleiades.stoa.org/places/403279)
 
 
 ## Tabernae (Q1788426)
@@ -53861,6 +53959,13 @@
 
 ### alignments:
  - [Tarmita/Termez](https://pleiades.stoa.org/places/971886)
+
+
+## Terracina (Q128226)
+[https://www.wikidata.org/wiki/Q128226](https://www.wikidata.org/wiki/Q128226)  
+
+### alignments:
+ - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
 
 
 ## Territorial Abbey of Subiaco (Q1428446)

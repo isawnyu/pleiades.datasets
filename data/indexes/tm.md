@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4535 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
+4547 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3474,6 +3474,13 @@
 
 ### alignments:
  - [Ari(o)lica](https://pleiades.stoa.org/places/383576)
+
+
+## GEO ID 12307: Sublavio (Chiusa)
+[https://www.trismegistos.org/place/12307](https://www.trismegistos.org/place/12307)  
+
+### alignments:
+ - [‘Sublavione’](https://pleiades.stoa.org/places/187561)
 
 
 ## GEO ID 12312
@@ -9235,6 +9242,13 @@
  - [Caurium](https://pleiades.stoa.org/places/256087)
 
 
+## GEO ID 19884
+[http://www.trismegistos.org/place/19884](http://www.trismegistos.org/place/19884)  
+
+### alignments:
+ - [Col. Clunia (Sulpicia)](https://pleiades.stoa.org/places/246345)
+
+
 ## GEO ID 19888: Arausio (Orange)
 [http://www.trismegistos.org/place/19888](http://www.trismegistos.org/place/19888)  
 
@@ -13018,6 +13032,13 @@
  - [*Parthanum/*Tartenum](https://pleiades.stoa.org/places/187505)
 
 
+## GEO ID 28152: Vicus Bratananium (Gauting)
+[https://www.trismegistos.org/place/28152](https://www.trismegistos.org/place/28152)  
+
+### alignments:
+ - [Bratananium](https://pleiades.stoa.org/places/118609)
+
+
 ## GEO ID 28155: Mediana (Gnotzheim)
 [https://www.trismegistos.org/place/28155](https://www.trismegistos.org/place/28155)  
 
@@ -13149,6 +13170,13 @@
 
 ### alignments:
  - [Teriolis](https://pleiades.stoa.org/places/187581)
+
+
+## GEO ID 28289: Bedaium (Seebruck)
+[https://www.trismegistos.org/place/28289](https://www.trismegistos.org/place/28289)  
+
+### alignments:
+ - [*Bedaium](https://pleiades.stoa.org/places/187309)
 
 
 ## GEO ID 2828: Kastron Mephaa (Umm el-Rasas)
@@ -15509,6 +15537,13 @@
 
 ### alignments:
  - [Inviolata](https://pleiades.stoa.org/places/422947)
+
+
+## GEO ID 3231: Iuvavum (Salzburg)
+[https://www.trismegistos.org/place/3231](https://www.trismegistos.org/place/3231)  
+
+### alignments:
+ - [Iuvavum](https://pleiades.stoa.org/places/187432)
 
 
 ## GEO ID 3232: Britannia
@@ -18192,6 +18227,13 @@
  - [Kromna](https://pleiades.stoa.org/places/844994)
 
 
+## GEO ID 35209: Isinisca (Grosshelfendorf)
+[https://www.trismegistos.org/place/35209](https://www.trismegistos.org/place/35209)  
+
+### alignments:
+ - [Isinisca](https://pleiades.stoa.org/places/187426)
+
+
 ## GEO ID 3523: Naupaktos
 [http://www.trismegistos.org/place/3523](http://www.trismegistos.org/place/3523)  
 
@@ -18246,6 +18288,13 @@
 
 ### alignments:
  - [Umm 'Anab](https://pleiades.stoa.org/places/766410)
+
+
+## GEO ID 35485: Laciacum (Mösendorf)
+[https://www.trismegistos.org/place/35485](https://www.trismegistos.org/place/35485)  
+
+### alignments:
+ - [‘Laciacis’](https://pleiades.stoa.org/places/187443)
 
 
 ## GEO ID 3550: Pyla
@@ -21358,11 +21407,46 @@
  - [Urusa?](https://pleiades.stoa.org/places/187603)
 
 
+## GEO ID 41065: Artobriga (Traunstein)
+[https://www.trismegistos.org/place/41065](https://www.trismegistos.org/place/41065)  
+
+### alignments:
+ - [Artobriga](https://pleiades.stoa.org/places/187295)
+
+
+## GEO ID 41066: Tarnantone (Neufahrn)
+[https://www.trismegistos.org/place/41066](https://www.trismegistos.org/place/41066)  
+
+### alignments:
+ - [‘Tarnantone’](https://pleiades.stoa.org/places/187567)
+
+
+## GEO ID 41068: Clunia (Altenstadt)
+[https://www.trismegistos.org/place/41068](https://www.trismegistos.org/place/41068)  
+
+### alignments:
+ - [Clunia](https://pleiades.stoa.org/places/187350)
+
+
 ## GEO ID 41070: Lapidaria (Reischen)
 [https://www.trismegistos.org/place/41070](https://www.trismegistos.org/place/41070)  
 
 ### alignments:
  - [Lapidaria?](https://pleiades.stoa.org/places/187446)
+
+
+## GEO ID 41071: Cunus Aureus (Splügen Pass)
+[https://www.trismegistos.org/place/41071](https://www.trismegistos.org/place/41071)  
+
+### alignments:
+ - [*Cunus Aureus](https://pleiades.stoa.org/places/187356)
+
+
+## GEO ID 41072: Ad Novas (Obermeitingen)
+[http://www.trismegistos.org/place/41072](http://www.trismegistos.org/place/41072)  
+
+### alignments:
+ - [Ad Novas](https://pleiades.stoa.org/places/187253)
 
 
 ## GEO ID 41073: Coveliacae (Murnau am Staffelsee)

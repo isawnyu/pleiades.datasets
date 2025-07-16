@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2179 alignments exist in _Pleiades_ place references as of 2025-07-15. The following list of alignments is grouped by zotkey.
+2189 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3408,6 +3408,13 @@
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 
+## 2A5 (Talbert 1017)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1017.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1017.html)  
+
+### alignments:
+ - [Clunia](https://pleiades.stoa.org/places/187350)
+
+
 ## 2A5 (Talbert 891)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace891.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace891.html)  
 
@@ -4437,6 +4444,20 @@
  - [Lapidaria?](https://pleiades.stoa.org/places/187446)
 
 
+## 3A1 (Talbert 1021)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1021.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1021.html)  
+
+### alignments:
+ - [*Cunus Aureus](https://pleiades.stoa.org/places/187356)
+
+
+## 3A1 (Talbert 1026)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1026.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1026.html)  
+
+### alignments:
+ - [Ad Novas](https://pleiades.stoa.org/places/187253)
+
+
 ## 3A1 (Talbert 1045)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1045.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1045.html)  
 
@@ -4668,11 +4689,39 @@
  - [Ubartum (river)](https://pleiades.stoa.org/places/387340)
 
 
+## 3A3 (Talbert 1008)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1008.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1008.html)  
+
+### alignments:
+ - [Bratananium](https://pleiades.stoa.org/places/118609)
+
+
+## 3A3 (Talbert 1009)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1009.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1009.html)  
+
+### alignments:
+ - [Isinisca](https://pleiades.stoa.org/places/187426)
+
+
 ## 3A3 (Talbert 1010)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1010.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1010.html)  
 
 ### alignments:
  - [Pons Aeni](https://pleiades.stoa.org/places/187516)
+
+
+## 3A3 (Talbert 1011)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1011.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1011.html)  
+
+### alignments:
+ - [*Bedaium](https://pleiades.stoa.org/places/187309)
+
+
+## 3A3 (Talbert 1012)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1012.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1012.html)  
+
+### alignments:
+ - [Artobriga](https://pleiades.stoa.org/places/187295)
 
 
 ## 3A3 (Talbert 1034)
@@ -4799,6 +4848,27 @@
 
 ### alignments:
  - [Clesus (river)](https://pleiades.stoa.org/places/383620)
+
+
+## 3A4 (Talbert 1013)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1013.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1013.html)  
+
+### alignments:
+ - [Iuvavum](https://pleiades.stoa.org/places/187432)
+
+
+## 3A4 (Talbert 1014)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1014.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1014.html)  
+
+### alignments:
+ - [‘Tarnantone’](https://pleiades.stoa.org/places/187567)
+
+
+## 3A4 (Talbert 1015)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1015.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1015.html)  
+
+### alignments:
+ - [‘Laciacis’](https://pleiades.stoa.org/places/187443)
 
 
 ## 3A4 (Talbert 1040)
