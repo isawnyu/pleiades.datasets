@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3719 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
+3720 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4870,6 +4870,13 @@
 
 ### alignments:
  - [Boudoron](https://pleiades.stoa.org/places/579896)
+
+
+## Boudoros R. (Euboea) 4 Voudoros - Βούδορος
+[https://topostext.org/place/388233WBou](https://topostext.org/place/388233WBou)  
+
+### alignments:
+ - [Boudoros (river)](https://pleiades.stoa.org/places/540692)
 
 
 ## Boudroe? (Crete) 1 Souda

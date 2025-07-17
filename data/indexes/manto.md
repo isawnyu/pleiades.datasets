@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-680 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
+682 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4134,6 +4134,13 @@
  - [Abydos](https://pleiades.stoa.org/places/501325)
 
 
+## 9718702: Cerinthos (Euboia)
+[https://resource.manto.unh.edu/9718702](https://resource.manto.unh.edu/9718702)  
+
+### alignments:
+ - [Kerinthos](https://pleiades.stoa.org/places/540861)
+
+
 ## 9718707: Styra (Euboia)
 [https://resource.manto.unh.edu/9718707](https://resource.manto.unh.edu/9718707)  
 
@@ -4573,6 +4580,13 @@
 
 ### alignments:
  - [Andania](https://pleiades.stoa.org/places/570079)
+
+
+## 9881790: Boudeion (unlocatable)
+[https://resource.manto.unh.edu/9881790](https://resource.manto.unh.edu/9881790)  
+
+### alignments:
+ - [Boudeion/Boudion/Boudeia/Boudia](https://pleiades.stoa.org/places/543656)
 
 
 ## 9882132: Etruria (Italy)

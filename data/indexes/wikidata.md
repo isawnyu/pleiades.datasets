@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8519 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
+8526 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5836,6 +5836,13 @@
  - [Bibroci](https://pleiades.stoa.org/places/83819)
 
 
+## Bicurgium (Q15788510)
+[https://www.wikidata.org/wiki/Q15788510](https://www.wikidata.org/wiki/Q15788510)  
+
+### alignments:
+ - [Bikourgion](https://pleiades.stoa.org/places/123075)
+
+
 ## Bidente-Ronco (Q2901729)
 [https://www.wikidata.org/wiki/Q2901729](https://www.wikidata.org/wiki/Q2901729)  
 
@@ -6506,6 +6513,13 @@
 
 ### alignments:
  - [Botzdorf Roman villa](https://pleiades.stoa.org/places/674712659)
+
+
+## Boudeion (Q60790587)
+[https://www.wikidata.org/wiki/Q60790587](https://www.wikidata.org/wiki/Q60790587)  
+
+### alignments:
+ - [Boudeion/Boudion/Boudeia/Boudia](https://pleiades.stoa.org/places/543656)
 
 
 ## Bouleuterion at Monte Iato (Q61828363)
@@ -9637,6 +9651,13 @@
 
 ### alignments:
  - [Cerfennia](https://pleiades.stoa.org/places/432777)
+
+
+## Cerinthus (Q16546046)
+[https://www.wikidata.org/wiki/Q16546046](https://www.wikidata.org/wiki/Q16546046)  
+
+### alignments:
+ - [Kerinthos](https://pleiades.stoa.org/places/540861)
 
 
 ## Cernavodă (Q736276)
@@ -13429,6 +13450,13 @@
 
 ### alignments:
  - [Anisus (river)](https://pleiades.stoa.org/places/118565)
+
+
+## Enns (Samian Ware Discovery Site) (Q103161387)
+[https://www.wikidata.org/wiki/Q103161387](https://www.wikidata.org/wiki/Q103161387)  
+
+### alignments:
+ - [Lauriacum](https://pleiades.stoa.org/places/118802)
 
 
 ## Enza (Q543567)
@@ -18050,7 +18078,7 @@
 [https://www.wikidata.org/wiki/Q3802841](https://www.wikidata.org/wiki/Q3802841)  
 
 ### alignments:
- - [Diabate? (island)](https://pleiades.stoa.org/places/471914)
+ - [Diabate (island)](https://pleiades.stoa.org/places/471914)
 
 
 ## Isole Tremiti (Q51930)
@@ -21994,6 +22022,13 @@
 
 ### alignments:
  - [Marmarica](https://pleiades.stoa.org/places/716595)
+
+
+## Maroboudon (Q11770456)
+[https://www.wikidata.org/wiki/Q11770456](https://www.wikidata.org/wiki/Q11770456)  
+
+### alignments:
+ - [Maroboudon](https://pleiades.stoa.org/places/123100)
 
 
 ## Maroneia Dionysus sanctuary (Q12878111)
@@ -50449,7 +50484,7 @@
 [https://www.wikidata.org/wiki/Q33482546](https://www.wikidata.org/wiki/Q33482546)  
 
 ### alignments:
- - [Rapis?](https://pleiades.stoa.org/places/118926)
+ - [Rapis](https://pleiades.stoa.org/places/118926)
 
 
 ## Schwarzenacker (Q22834)
@@ -54630,7 +54665,7 @@
 [https://www.wikidata.org/wiki/Q3991144](https://www.wikidata.org/wiki/Q3991144)  
 
 ### alignments:
- - [Tibula?](https://pleiades.stoa.org/places/472034)
+ - [Tibula](https://pleiades.stoa.org/places/472034)
 
 
 ## Tibur amphitheatre (Q28978094)
@@ -55884,6 +55919,13 @@
 
 ### alignments:
  - [Traron](https://pleiades.stoa.org/places/550942)
+
+
+## Traun (Q664341)
+[https://www.wikidata.org/wiki/Q664341](https://www.wikidata.org/wiki/Q664341)  
+
+### alignments:
+ - [[Druna] (river)](https://pleiades.stoa.org/places/118653)
 
 
 ## Trawscoed Fort (Q16901948)
@@ -58581,6 +58623,13 @@
 
 ### alignments:
  - [tribus Voturia](https://pleiades.stoa.org/places/966985945)
+
+
+## Voudoros Potamos (Q24882344)
+[https://www.wikidata.org/wiki/Q24882344](https://www.wikidata.org/wiki/Q24882344)  
+
+### alignments:
+ - [Boudoros (river)](https://pleiades.stoa.org/places/540692)
 
 
 ## Vouraikos (Q1871901)

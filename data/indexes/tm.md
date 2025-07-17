@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4547 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
+4549 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13106,7 +13106,7 @@
 [https://www.trismegistos.org/place/28217](https://www.trismegistos.org/place/28217)  
 
 ### alignments:
- - [Rapis?](https://pleiades.stoa.org/places/118926)
+ - [Rapis](https://pleiades.stoa.org/places/118926)
 
 
 ## GEO ID 28220: Sorviodurum (Straubing)
@@ -13247,6 +13247,13 @@
 
 ### alignments:
  - [Lavant](https://pleiades.stoa.org/places/187450)
+
+
+## GEO ID 28418
+[https://www.trismegistos.org/place/28418](https://www.trismegistos.org/place/28418)  
+
+### alignments:
+ - [Lauriacum](https://pleiades.stoa.org/places/118802)
 
 
 ## GEO ID 28432: Teurnia (Lendorf)
@@ -17658,6 +17665,13 @@
 
 ### alignments:
  - [Skotoussa](https://pleiades.stoa.org/places/491722)
+
+
+## GEO ID 34089: Kerinthos
+[http://www.trismegistos.org/place/34089](http://www.trismegistos.org/place/34089)  
+
+### alignments:
+ - [Kerinthos](https://pleiades.stoa.org/places/540861)
 
 
 ## GEO ID 34097: Styra

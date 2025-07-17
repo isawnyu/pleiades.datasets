@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-403 alignments exist in _Pleiades_ place references as of 2025-07-16. The following list of alignments is grouped by zotkey.
+404 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1492,6 +1492,13 @@
 
 ### alignments:
  - [Nopigeia](https://pleiades.stoa.org/places/589935)
+
+
+## Toponyme - 23368: Kirinthos, Skilogianni (135/1915)-Δ.Δ.Κηρίνθου, Σκυλόγιαννη, Σκυλογιαννίτικα
+[https://chronique.efa.gr/?r=topo_public&id=23368](https://chronique.efa.gr/?r=topo_public&id=23368)  
+
+### alignments:
+ - [Kerinthos](https://pleiades.stoa.org/places/540861)
 
 
 ## Toponyme - 23892: Vasiliki, Kato Vasiliki
