@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2189 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
+2190 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2370,6 +2370,13 @@
 
 ### alignments:
  - [Ad Pyrenaeum/Summus Pyrenaeus](https://pleiades.stoa.org/places/246139)
+
+
+## 1B2 (Talbert 775)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace775.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace775.html)  
+
+### alignments:
+ - [Ad Centenarium](https://pleiades.stoa.org/places/246134)
 
 
 ## 1B2-1A5 (Talbert 3298)

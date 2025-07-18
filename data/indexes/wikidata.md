@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8526 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
+8531 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17661,6 +17661,13 @@
  - [Iglesias](https://pleiades.stoa.org/places/471950)
 
 
+## Igreja de São Gião (Q2378078)
+[https://www.wikidata.org/wiki/Q2378078](https://www.wikidata.org/wiki/Q2378078)  
+
+### alignments:
+ - [Church of St. Gião](https://pleiades.stoa.org/places/416019002)
+
+
 ## Ikesankom (Q109648820)
 [https://www.wikidata.org/wiki/Q109648820](https://www.wikidata.org/wiki/Q109648820)  
 
@@ -23871,6 +23878,13 @@
 
 ### alignments:
  - [Monte Mario](https://pleiades.stoa.org/places/911517620)
+
+
+## Monte Poggiolo (Q1055253)
+[https://www.wikidata.org/wiki/Q1055253](https://www.wikidata.org/wiki/Q1055253)  
+
+### alignments:
+ - [Monte Poggiolo](https://pleiades.stoa.org/places/19936501)
 
 
 ## Monte Rovello (Q65129683)
@@ -31803,13 +31817,6 @@
 
 ### alignments:
  - [Reccopolis](https://pleiades.stoa.org/places/668575405)
-
-
-## Q123755783: Sanctuary of Sol Indiges
-[https://www.wikidata.org/wiki/Q123755783](https://www.wikidata.org/wiki/Q123755783)  
-
-### alignments:
- - [Sanctuary of Sol Indiges](https://pleiades.stoa.org/places/135828744)
 
 
 ## Q1237690: Regio VIII Aemilia
@@ -49297,6 +49304,13 @@
  - [Salamis (island)](https://pleiades.stoa.org/places/580101)
 
 
+## Saldae (Q1557873)
+[https://www.wikidata.org/wiki/Q1557873](https://www.wikidata.org/wiki/Q1557873)  
+
+### alignments:
+ - [Saldae](https://pleiades.stoa.org/places/305142)
+
+
 ## Salduba , Baetica (Q6117205)
 [https://www.wikidata.org/wiki/Q6117205](https://www.wikidata.org/wiki/Q6117205)  
 
@@ -49512,6 +49526,13 @@
 
 ### alignments:
  - [San Crisogono](https://pleiades.stoa.org/places/883684762)
+
+
+## San Cromazio archaeological area (Q135337965)
+[https://www.wikidata.org/wiki/Q135337965](https://www.wikidata.org/wiki/Q135337965)  
+
+### alignments:
+ - [San Cromazio Roman Villa](https://pleiades.stoa.org/places/472043)
 
 
 ## San Domino Island (Q1218738)
@@ -49869,6 +49890,13 @@
 
 ### alignments:
  - [Sanctuary of Poseidon at Kalaureia, Poros](https://pleiades.stoa.org/places/705163201)
+
+
+## Sanctuary of Sol Indiges (Q123755783)
+[https://www.wikidata.org/wiki/Q123755783](https://www.wikidata.org/wiki/Q123755783)  
+
+### alignments:
+ - [Sanctuary of Sol Indiges](https://pleiades.stoa.org/places/135828744)
 
 
 ## Sanctuary of the Bona Dea (Ostia) (Q133886353)
@@ -54687,6 +54715,13 @@
 
 ### alignments:
  - [Termes](https://pleiades.stoa.org/places/246688)
+
+
+## Tigisi in Mauretania (Q1442464)
+[https://www.wikidata.org/wiki/Q1442464](https://www.wikidata.org/wiki/Q1442464)  
+
+### alignments:
+ - [Tigisi](https://pleiades.stoa.org/places/295359)
 
 
 ## Tigran Honents Church (Q118957572)

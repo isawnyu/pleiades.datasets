@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-682 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
+683 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2542,6 +2542,13 @@
 
 ### alignments:
  - [Pisae](https://pleiades.stoa.org/places/403253)
+
+
+## 11313695: Ardea (Italy)
+[https://resource.manto.unh.edu/11313695](https://resource.manto.unh.edu/11313695)  
+
+### alignments:
+ - [Ardea](https://pleiades.stoa.org/places/422843)
 
 
 ## 11313723: Collatia (Italy)

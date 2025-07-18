@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4549 alignments exist in _Pleiades_ place references as of 2025-07-17. The following list of alignments is grouped by zotkey.
+4551 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7609,6 +7609,13 @@
 
 ### alignments:
  - [Zliten](https://pleiades.stoa.org/places/344573)
+
+
+## GEO ID 16976: El-Khadra
+[https://www.trismegistos.org/place/16976](https://www.trismegistos.org/place/16976)  
+
+### alignments:
+ - [Breviglieri](https://pleiades.stoa.org/places/344330)
 
 
 ## GEO ID 16988: Cidamus (Ghadames)
@@ -19955,6 +19962,13 @@
 
 ### alignments:
  - [Inuca](https://pleiades.stoa.org/places/315044)
+
+
+## GEO ID 40243: Ad Centuriones (Boulou)
+[https://www.trismegistos.org/place/40243](https://www.trismegistos.org/place/40243)  
+
+### alignments:
+ - [Ad Centenarium](https://pleiades.stoa.org/places/246134)
 
 
 ## GEO ID 40252: Ad Septimum Decimum (Vilaverd?)
