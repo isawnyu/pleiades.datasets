@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2190 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
+2192 alignments exist in _Pleiades_ place references as of 2025-07-21. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -6433,6 +6433,13 @@
  - [Brigetio](https://pleiades.stoa.org/places/197180)
 
 
+## 4A3 (Talbert 1590)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1590.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1590.html)  
+
+### alignments:
+ - [Ramista](https://pleiades.stoa.org/places/197468)
+
+
 ## 4A3 (Talbert 1591)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1591.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1591.html)  
 
@@ -11671,6 +11678,13 @@
 
 ### alignments:
  - [Trimammium](https://pleiades.stoa.org/places/217023)
+
+
+## 7A2 (Talbert 1938)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1938.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1938.html)  
+
+### alignments:
+ - [Sexaginta Prista](https://pleiades.stoa.org/places/216982)
 
 
 ## 7A2 (Talbert 1996)

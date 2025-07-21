@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4551 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
+4556 alignments exist in _Pleiades_ place references as of 2025-07-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5661,6 +5661,13 @@
  - [Stony Stratford](https://pleiades.stoa.org/places/164195342)
 
 
+## GEO ID 14755
+[http://www.trismegistos.org/place/14755](http://www.trismegistos.org/place/14755)  
+
+### alignments:
+ - [Reycross](https://pleiades.stoa.org/places/842845454)
+
+
 ## GEO ID 14756: Pontibus (Staines)
 [http://www.trismegistos.org/place/14756](http://www.trismegistos.org/place/14756)  
 
@@ -7217,6 +7224,13 @@
 
 ### alignments:
  - [Peenpibykis](https://pleiades.stoa.org/places/741551)
+
+
+## GEO ID 16442: Choma (Hacımusalar)
+[https://www.trismegistos.org/place/16442](https://www.trismegistos.org/place/16442)  
+
+### alignments:
+ - [Hacımusalar Höyük](https://pleiades.stoa.org/places/638803)
 
 
 ## GEO ID 16443: Komama (Ürkütlü)
@@ -14019,6 +14033,13 @@
  - [Ophieion](https://pleiades.stoa.org/places/789749)
 
 
+## GEO ID 29860: Sexaginta Prista (Ruse)
+[http://www.trismegistos.org/place/29860](http://www.trismegistos.org/place/29860)  
+
+### alignments:
+ - [Sexaginta Prista](https://pleiades.stoa.org/places/216982)
+
+
 ## GEO ID 29861: Trimammium (Stălpište)
 [https://www.trismegistos.org/place/29861](https://www.trismegistos.org/place/29861)  
 
@@ -14535,6 +14556,13 @@
 
 ### alignments:
  - [Leukos Pyrgos](https://pleiades.stoa.org/places/759579)
+
+
+## GEO ID 30971: Piranum (Piran)
+[https://www.trismegistos.org/place/30971](https://www.trismegistos.org/place/30971)  
+
+### alignments:
+ - [Piranum](https://pleiades.stoa.org/places/197439)
 
 
 ## GEO ID 31016
@@ -22532,6 +22560,13 @@
 
 ### alignments:
  - [Asamum](https://pleiades.stoa.org/places/197144)
+
+
+## GEO ID 41630: Ramista
+[http://www.trismegistos.org/place/41630](http://www.trismegistos.org/place/41630)  
+
+### alignments:
+ - [Ramista](https://pleiades.stoa.org/places/197468)
 
 
 ## GEO ID 41638: Venedi

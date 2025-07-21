@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3720 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
+3722 alignments exist in _Pleiades_ place references as of 2025-07-21. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20563,6 +20563,13 @@
  - [Prasia](https://pleiades.stoa.org/places/580090)
 
 
+## Prasias (Serres)
+[https://topostext.org/place/408238WPra](https://topostext.org/place/408238WPra)  
+
+### alignments:
+ - [Prasias (lake)](https://pleiades.stoa.org/places/501579)
+
+
 ## Prepesinthos (Antiparos)
 [https://topostext.org/place/370250IPre](https://topostext.org/place/370250IPre)  
 
@@ -22753,6 +22760,13 @@
 
 ### alignments:
  - [Spina](https://pleiades.stoa.org/places/393498)
+
+
+## Spiraion cape (Korinthia)
+[https://topostext.org/place/378232LSpi](https://topostext.org/place/378232LSpi)  
+
+### alignments:
+ - [Spiraion Pr.](https://pleiades.stoa.org/places/570688)
 
 
 ## Spoletium (Italy)

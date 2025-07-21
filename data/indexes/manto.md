@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-683 alignments exist in _Pleiades_ place references as of 2025-07-18. The following list of alignments is grouped by zotkey.
+686 alignments exist in _Pleiades_ place references as of 2025-07-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1311,6 +1311,13 @@
  - [Ida(ion) M.](https://pleiades.stoa.org/places/589816)
 
 
+## 10217830: the Temple of Hera at Olympia
+[https://resource.manto.unh.edu/10217830](https://resource.manto.unh.edu/10217830)  
+
+### alignments:
+ - [Temple of Hera, Olympia](https://pleiades.stoa.org/places/584889481)
+
+
 ## 10217837: Temesa (Italy)
 [https://resource.manto.unh.edu/10217837](https://resource.manto.unh.edu/10217837)  
 
@@ -1393,6 +1400,13 @@
 
 ### alignments:
  - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
+
+
+## 10267689: Scillos (Elis)
+[https://resource.manto.unh.edu/10267689](https://resource.manto.unh.edu/10267689)  
+
+### alignments:
+ - [Skillous](https://pleiades.stoa.org/places/570674)
 
 
 ## 10267703: Macedonia (N. Greece) region in Northern Greece
@@ -3509,6 +3523,13 @@
 
 ### alignments:
  - [Pieria](https://pleiades.stoa.org/places/491696)
+
+
+## 8360018: the Pelasgians
+[https://resource.manto.unh.edu/8360018](https://resource.manto.unh.edu/8360018)  
+
+### alignments:
+ - [Pelasgians](https://pleiades.stoa.org/places/915780954)
 
 
 ## 9051534: Myconos (island)
