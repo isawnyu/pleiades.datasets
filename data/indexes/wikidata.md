@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8557 alignments exist in _Pleiades_ place references as of 2025-07-21. The following list of alignments is grouped by zotkey.
+8557 alignments exist in _Pleiades_ place references as of 2025-07-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8273,6 +8273,13 @@
 
 ### alignments:
  - [Axia](https://pleiades.stoa.org/places/413048)
+
+
+## Castel Fiorentino (Q1048600)
+[https://www.wikidata.org/wiki/Q1048600](https://www.wikidata.org/wiki/Q1048600)  
+
+### alignments:
+ - [Castel Fiorentino](https://pleiades.stoa.org/places/471828779)
 
 
 ## Castel Madama (Q242114)
@@ -55717,13 +55724,6 @@
 
 ### alignments:
  - [Torrellafuda](https://pleiades.stoa.org/places/676647078)
-
-
-## Torremaggiore (Q51964)
-[https://www.wikidata.org/wiki/Q51964](https://www.wikidata.org/wiki/Q51964)  
-
-### alignments:
- - [Castel Fiorentino](https://pleiades.stoa.org/places/471828779)
 
 
 ## Torretarrancho (Q6150902)
