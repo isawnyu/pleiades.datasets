@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8557 alignments exist in _Pleiades_ place references as of 2025-07-22. The following list of alignments is grouped by zotkey.
+8560 alignments exist in _Pleiades_ place references as of 2025-07-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3256,6 +3256,13 @@
 
 ### alignments:
  - [Casalbore](https://pleiades.stoa.org/places/442531)
+
+
+## archaeological area Roman Villa di Torre (Q29905400)
+[https://www.wikidata.org/wiki/Q29905400](https://www.wikidata.org/wiki/Q29905400)  
+
+### alignments:
+ - [Roman villa of Torre di Pordenone](https://pleiades.stoa.org/places/125510816)
 
 
 ## Archaeological park of Posillipo (Q3575454)
@@ -14363,6 +14370,13 @@
  - [Eleutherai](https://pleiades.stoa.org/places/540756)
 
 
+## Fortuna Huiusce Diei, Aedes (Q104585698)
+[https://www.wikidata.org/wiki/Q104585698](https://www.wikidata.org/wiki/Q104585698)  
+
+### alignments:
+ - [Temple B](https://pleiades.stoa.org/places/635795593)
+
+
 ## Forum (Q56258478)
 [https://www.wikidata.org/wiki/Q56258478](https://www.wikidata.org/wiki/Q56258478)  
 
@@ -14816,6 +14830,13 @@
 
 ### alignments:
  - [Montbouy](https://pleiades.stoa.org/places/138468)
+
+
+## Gallo-Roman temple complex Tongeren (Q4910752)
+[https://www.wikidata.org/wiki/Q4910752](https://www.wikidata.org/wiki/Q4910752)  
+
+### alignments:
+ - [Tongeren Gallo-Roman temple complex](https://pleiades.stoa.org/places/459717793)
 
 
 ## Gallo-Roman Theatre of Alba Augusta Helviorum (Q3527839)
@@ -22893,6 +22914,13 @@
  - [Metropolis (near Priapus)](https://pleiades.stoa.org/places/440964557)
 
 
+## Meuse (Q41986)
+[https://www.wikidata.org/wiki/Q41986](https://www.wikidata.org/wiki/Q41986)  
+
+### alignments:
+ - [Mosa (river)](https://pleiades.stoa.org/places/109180)
+
+
 ## Mevania (Q17051264)
 [https://www.wikidata.org/wiki/Q17051264](https://www.wikidata.org/wiki/Q17051264)  
 
@@ -30277,13 +30305,6 @@
 
 ### alignments:
  - [Monte Tosto](https://pleiades.stoa.org/places/422977)
-
-
-## Q104585698: Fortuna Huiusce Diei, Aedes
-[https://www.wikidata.org/wiki/Q104585698](https://www.wikidata.org/wiki/Q104585698)  
-
-### alignments:
- - [Temple B](https://pleiades.stoa.org/places/635795593)
 
 
 ## Q104586001: Temple C
@@ -41757,13 +41778,6 @@
  - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
 
 
-## Q41986: Meuse
-[https://www.wikidata.org/wiki/Q41986](https://www.wikidata.org/wiki/Q41986)  
-
-### alignments:
- - [Mosa (river)](https://pleiades.stoa.org/places/109180)
-
-
 ## Q4204: Black Forest
 [https://www.wikidata.org/wiki/Q4204](https://www.wikidata.org/wiki/Q4204)  
 
@@ -50045,6 +50059,13 @@
 
 ### alignments:
  - [Sanctuary of the Public Lares ](https://pleiades.stoa.org/places/531869654)
+
+
+## Sanctuary of Vica Pota (Q132468816)
+[https://www.wikidata.org/wiki/Q132468816](https://www.wikidata.org/wiki/Q132468816)  
+
+### alignments:
+ - [Vica Pota](https://pleiades.stoa.org/places/356480693)
 
 
 ## sanctuary of Yria (Q15884671)

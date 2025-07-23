@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4556 alignments exist in _Pleiades_ place references as of 2025-07-22. The following list of alignments is grouped by zotkey.
+4557 alignments exist in _Pleiades_ place references as of 2025-07-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7875,6 +7875,13 @@
 
 ### alignments:
  - [Avitta Bibba](https://pleiades.stoa.org/places/314897)
+
+
+## GEO ID 17214
+[https://www.trismegistos.org/place/17214](https://www.trismegistos.org/place/17214)  
+
+### alignments:
+ - [Uzali Sar](https://pleiades.stoa.org/places/315250)
 
 
 ## GEO ID 17219: Zama (Jama)
@@ -21236,7 +21243,7 @@
 [http://www.trismegistos.org/place/40966](http://www.trismegistos.org/place/40966)  
 
 ### alignments:
- - [Elephantaria?](https://pleiades.stoa.org/places/314951)
+ - [Sidi-Saïd](https://pleiades.stoa.org/places/314951)
 
 
 ## GEO ID 40967: Thuraria (Jedeida)
