@@ -236,6 +236,12 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2025-02-14T03:30:55Z",
@@ -594,9 +600,23 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "second-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/second-ce"
+                }
+            ],
             "attested": "columna centenaria divorum Marci et Faustinae",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2025-02-15T15:47:38Z",
             "creators": [
                 {
@@ -608,7 +628,7 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 199,
             "history": [
                 {
                     "action": "Publish externally",
@@ -632,23 +652,97 @@
             "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "http://www.edr-edr.it/default/index.php",
+                    "accessURI": "http://www.edr-edr.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR111372",
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C5IKZ2Y3",
-                    "citationDetail": "111372",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "citationDetail": "111372 = CIL 6.1585a",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
                     "formattedCitation": "<div class=\"csl-entry\">International Association for Greek and Latin Epigraphy, and Università degli Studi di Roma La Sapienza. <i>Epigraphic Database Roma</i>. Rome: University of Rome “La Sapienza,” 1999. http://www.edr-edr.it/default/index.php.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "EDR",
-                    "type": "seeFurther"
+                    "type": "citesAsEvidence"
                 }
             ],
             "review_state": "published",
             "romanized": "columna centenaria divorum Marci et Faustinae",
-            "start": null,
+            "start": 100,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "reconstructable",
+            "uri": "https://pleiades.stoa.org/places/952198991/columna-centenaria-divorum-marci-et-faustinae"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "third-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/third-ce"
+                }
+            ],
+            "attested": "columna divi Marci",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-02-15T15:47:54Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 299,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-07-22T13:46:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-07-19T13:35:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-02-15T15:47:54Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "columna-divi-marci",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://db.edcs.eu/epigr/edcs_id.php?s_sprache=en&p_edcs_id=EDCS-18000439",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YG2BW6GH",
+                    "citationDetail": "18000439 = ILS 5920 = CIL 6.1585b",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Clauss, Manfred, Anne Kolb, Wolfgang A. Slaby, and Barbara Woitas, eds. <i>Epigraphik-Datenbank  Clauss / Slaby</i>. Eichstätt: Universität Eichstätt-Ingolstadt, n.d. http://www.manfredclauss.de/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "EDCS",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "columna divi Marci",
+            "start": 200,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/952198991/columna-centenaria-divorum-marci-et-faustinae"
+            "uri": "https://pleiades.stoa.org/places/952198991/columna-divi-marci"
         },
         {
             "@type": "Name",
