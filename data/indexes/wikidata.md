@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8560 alignments exist in _Pleiades_ place references as of 2025-07-24. The following list of alignments is grouped by zotkey.
+8568 alignments exist in _Pleiades_ place references as of 2025-07-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6403,6 +6403,13 @@
  - [Boleoi Lithoi](https://pleiades.stoa.org/places/573147)
 
 
+## Bologna (Q1891)
+[https://www.wikidata.org/wiki/Q1891](https://www.wikidata.org/wiki/Q1891)  
+
+### alignments:
+ - [Felsina/Bononia](https://pleiades.stoa.org/places/393421)
+
+
 ## Bolzano (Q6526)
 [https://www.wikidata.org/wiki/Q6526](https://www.wikidata.org/wiki/Q6526)  
 
@@ -6548,6 +6555,13 @@
 
 ### alignments:
  - [Bouleuterion at Ietas](https://pleiades.stoa.org/places/720762964)
+
+
+## Bouleuterion in Dodona (Q115768447)
+[https://www.wikidata.org/wiki/Q115768447](https://www.wikidata.org/wiki/Q115768447)  
+
+### alignments:
+ - [Bouleuterion at Dodona](https://pleiades.stoa.org/places/618644371)
 
 
 ## Boura (Q3555318)
@@ -13579,6 +13593,13 @@
  - [(Epi)Delion](https://pleiades.stoa.org/places/570230)
 
 
+## Epirote League (Q3240682)
+[https://www.wikidata.org/wiki/Q3240682](https://www.wikidata.org/wiki/Q3240682)  
+
+### alignments:
+ - [Epirote League](https://pleiades.stoa.org/places/721831063)
+
+
 ## Epirus (Q1820754)
 [https://www.wikidata.org/wiki/Q1820754](https://www.wikidata.org/wiki/Q1820754)  
 
@@ -14032,6 +14053,13 @@
 
 ### alignments:
  - [Feddersen Wierde](https://pleiades.stoa.org/places/98957)
+
+
+## Felsina (Q1054689)
+[https://www.wikidata.org/wiki/Q1054689](https://www.wikidata.org/wiki/Q1054689)  
+
+### alignments:
+ - [Felsina/Bononia](https://pleiades.stoa.org/places/393421)
 
 
 ## Fendoch Burn,Roman fort N side of (Q56666603)
@@ -19784,6 +19812,13 @@
  - [Kotais](https://pleiades.stoa.org/places/863830)
 
 
+## Kutha (Q1096108)
+[https://www.wikidata.org/wiki/Q1096108](https://www.wikidata.org/wiki/Q1096108)  
+
+### alignments:
+ - [Cutha](https://pleiades.stoa.org/places/893977)
+
+
 ## Kydantidai (Q13526297)
 [https://www.wikidata.org/wiki/Q13526297](https://www.wikidata.org/wiki/Q13526297)  
 
@@ -20987,6 +21022,13 @@
 
 ### alignments:
  - [Lindos](https://pleiades.stoa.org/places/589913)
+
+
+## Linosa (Q497321)
+[https://www.wikidata.org/wiki/Q497321](https://www.wikidata.org/wiki/Q497321)  
+
+### alignments:
+ - [Aethusa (island)](https://pleiades.stoa.org/places/772)
 
 
 ## Lio Piccolo Roman Villa (Q133836743)
@@ -25503,6 +25545,13 @@
 
 ### alignments:
  - [Norşuntepe](https://pleiades.stoa.org/places/271535243)
+
+
+## Nostra Segnora de Mesumundu (Q1189476)
+[https://www.wikidata.org/wiki/Q1189476](https://www.wikidata.org/wiki/Q1189476)  
+
+### alignments:
+ - [Nostra Segnora de Mesumundu](https://pleiades.stoa.org/places/680348962)
 
 
 ## Notre-Dame-de-Briançon (Q56299554)
@@ -32078,13 +32127,6 @@
 
 ### alignments:
  - [Dornburg](https://pleiades.stoa.org/places/801473432)
-
-
-## Q1246134: Via Flaminia minor
-[https://www.wikidata.org/wiki/Q1246134](https://www.wikidata.org/wiki/Q1246134)  
-
-### alignments:
- - [Via Flaminia militare](https://pleiades.stoa.org/places/587811162)
 
 
 ## Q1247128: Fishbourne Roman Palace
@@ -47022,6 +47064,13 @@
  - [Qasr al-Gib](https://pleiades.stoa.org/places/776178)
 
 
+## Qasr Amra (Q499517)
+[https://www.wikidata.org/wiki/Q499517](https://www.wikidata.org/wiki/Q499517)  
+
+### alignments:
+ - [Quseir Amra](https://pleiades.stoa.org/places/541446935)
+
+
 ## Qasr Baris (Q14218418)
 [https://www.wikidata.org/wiki/Q14218418](https://www.wikidata.org/wiki/Q14218418)  
 
@@ -57901,6 +57950,13 @@
 
 ### alignments:
  - [Via Egnatia](https://pleiades.stoa.org/places/196789404)
+
+
+## Via Flaminia minor (Q1246134)
+[https://www.wikidata.org/wiki/Q1246134](https://www.wikidata.org/wiki/Q1246134)  
+
+### alignments:
+ - [Via Flaminia militare](https://pleiades.stoa.org/places/587811162)
 
 
 ## Via Gemina (Q4010626)
