@@ -1,14 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        11.757764,
-        42.120528,
-        11.757764,
-        42.120528
+        11.7590683,
+        42.1237348,
+        11.7590683,
+        42.1237348
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/413282",
+            "contributors": [],
+            "created": "2025-06-27T21:28:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "ab Algis Rapinio, positio, m. p. III",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-07-26T02:15:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-06-27T21:28:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-27T21:28:32Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "rapinium",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "498.6 (page 79)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Rapinium",
+            "uri": "https://pleiades.stoa.org/places/413008/rapinium"
+        }
+    ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/413282"
+        "https://pleiades.stoa.org/places/413282",
+        "https://pleiades.stoa.org/places/413076"
     ],
     "contributors": [
         {
@@ -38,31 +104,31 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-12T15:24:45Z",
+    "created": "2025-06-27T15:24:18Z",
     "creators": [
         {
             "name": "W.V. Harris",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 42 B4 Algae",
+    "description": "An ancient place, mentioned in the maritime portion of the Antonine Itineraries as between Centum Cellae (modern Civitavecchia) and Rapinium (modern Bagni Sant'Agostino). BAtlas identifies Algae with modern Torre Valdaliga; whereas NP considers it unlocated.",
     "details": "<p>The Barrington Atlas Directory notes: Torre Valdaliga</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    11.757764,
-                    42.120528
+                    11.7590683,
+                    42.1237348
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18174",
+            "id": "osm-location-modern-torre-valdaliga",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413008/darmc-location-18174",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413008/osm-location-modern-torre-valdaliga",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "DARMC location 18174"
+                "snippet": "Unknown; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Torre Valdaliga"
             },
             "type": "Feature"
         }
@@ -88,90 +154,92 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:13:00Z",
+            "contributors": [],
+            "created": "2025-06-27T21:15:22Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18174",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    11.757764,
-                    42.120528
+                    11.7590683,
+                    42.1237348
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:09Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-07-26T02:15:25Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:13:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-27T21:24:09Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:13:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-06-27T21:15:22Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-18174",
+            "id": "osm-location-modern-torre-valdaliga",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 18174",
+            "locationTypeURI": [],
+            "provenance": "OpenStreetMap (Node 4577294213, version 1, osm:changeset=44729431, 2016-12-28T12:32:49Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/4577294213",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18174",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 4577294213",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18174.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=4577294213",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 607 see \"Algae\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 18174",
-            "uri": "https://pleiades.stoa.org/places/413008/darmc-location-18174"
+            "start": 2000,
+            "title": "OSM Location: modern Torre Valdaliga",
+            "uri": "https://pleiades.stoa.org/places/413008/osm-location-modern-torre-valdaliga"
         }
     ],
     "names": [
@@ -194,14 +262,22 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-11-12T15:24:45Z",
@@ -232,10 +308,22 @@
                 }
             ],
             "id": "algae",
-            "language": "",
+            "language": "la",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 42 B4 Algae",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "42 B4 Algae",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "romanized": "Algae",
             "start": -30,
@@ -380,11 +468,33 @@
             "otherIdentifier": "",
             "shortTitle": "BAtlDir",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "498.5-6 (page 79)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItAnt (Cuntz)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18174",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        11.757764,
-        42.120528
+        11.7590683,
+        42.1237348
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
