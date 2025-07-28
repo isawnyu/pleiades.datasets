@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-686 alignments exist in _Pleiades_ place references as of 2025-07-25. The following list of alignments is grouped by zotkey.
+690 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2123,6 +2123,13 @@
  - [Cnidus](https://pleiades.stoa.org/places/599575)
 
 
+## 11297708: Acragas (Sicily)
+[https://resource.manto.unh.edu/11297708](https://resource.manto.unh.edu/11297708)  
+
+### alignments:
+ - [Akragas/Agrigentum](https://pleiades.stoa.org/places/462086)
+
+
 ## 11297903: Bithynia (Pontos)
 [https://resource.manto.unh.edu/11297903](https://resource.manto.unh.edu/11297903)  
 
@@ -2464,6 +2471,13 @@
 
 ### alignments:
  - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
+
+
+## 11309915: Cape Scylla (Italy)
+[https://resource.manto.unh.edu/11309915](https://resource.manto.unh.edu/11309915)  
+
+### alignments:
+ - [Scylla](https://pleiades.stoa.org/places/452436)
 
 
 ## 11309930: Dicaiarchia (Italy)
@@ -3665,6 +3679,13 @@
  - [Ennea Hodoi](https://pleiades.stoa.org/places/501412)
 
 
+## 9358799: Oresteion (Arcadia)
+[https://resource.manto.unh.edu/9358799](https://resource.manto.unh.edu/9358799)  
+
+### alignments:
+ - [Oresthasion](https://pleiades.stoa.org/places/570536)
+
+
 ## 9358812: the Seirenoussai (islands)
 [https://resource.manto.unh.edu/9358812](https://resource.manto.unh.edu/9358812)  
 
@@ -4475,6 +4496,13 @@
 
 ### alignments:
  - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
+
+
+## 9746299: the Strait of Messina
+[https://resource.manto.unh.edu/9746299](https://resource.manto.unh.edu/9746299)  
+
+### alignments:
+ - [Siculum Fretum](https://pleiades.stoa.org/places/462494)
 
 
 ## 9746305: the Islands of Diomedes

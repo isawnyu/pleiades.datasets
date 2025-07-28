@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4557 alignments exist in _Pleiades_ place references as of 2025-07-25. The following list of alignments is grouped by zotkey.
+4563 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3593,6 +3593,13 @@
 
 ### alignments:
  - [Limyra](https://pleiades.stoa.org/places/638961)
+
+
+## GEO ID 12628
+[http://www.trismegistos.org/place/12628](http://www.trismegistos.org/place/12628)  
+
+### alignments:
+ - [Siculum Fretum](https://pleiades.stoa.org/places/462494)
 
 
 ## GEO ID 12640: Nea Polis (Nablus)
@@ -10489,6 +10496,13 @@
  - [Calacte](https://pleiades.stoa.org/places/462123)
 
 
+## GEO ID 22283: Calvisiana (Tenutella Rena)
+[http://www.trismegistos.org/place/22283](http://www.trismegistos.org/place/22283)  
+
+### alignments:
+ - [Calvisiana?](https://pleiades.stoa.org/places/462125)
+
+
 ## GEO ID 22289: Katane (Catania)
 [http://www.trismegistos.org/place/22289](http://www.trismegistos.org/place/22289)  
 
@@ -16706,6 +16720,13 @@
 
 ### alignments:
  - [Halicyae](https://pleiades.stoa.org/places/462227)
+
+
+## GEO ID 33126: Hybla Heraia (Ragusa Ibla)
+[http://www.trismegistos.org/place/33126](http://www.trismegistos.org/place/33126)  
+
+### alignments:
+ - [Hybla Heraia](https://pleiades.stoa.org/places/462252)
 
 
 ## GEO ID 3312: Theate Marrucinorum (Chieti)
@@ -27205,6 +27226,13 @@
  - [Fificulanus Pagus](https://pleiades.stoa.org/places/416807)
 
 
+## GEO ID 45702
+[http://www.trismegistos.org/place/45702](http://www.trismegistos.org/place/45702)  
+
+### alignments:
+ - [Cliternia](https://pleiades.stoa.org/places/413090)
+
+
 ## GEO ID 45763: Sepernates
 [http://www.trismegistos.org/place/45763](http://www.trismegistos.org/place/45763)  
 
@@ -30104,6 +30132,20 @@
 
 ### alignments:
  - [Aianteion Pr.](https://pleiades.stoa.org/places/540600)
+
+
+## GEO ID 624: Eleusis
+[https://www.trismegistos.org/place/624](https://www.trismegistos.org/place/624)  
+
+### alignments:
+ - [Eleusis](https://pleiades.stoa.org/places/741459)
+
+
+## GEO ID 625: Eleusis
+[https://www.trismegistos.org/place/625](https://www.trismegistos.org/place/625)  
+
+### alignments:
+ - [Eleusis](https://pleiades.stoa.org/places/730111)
 
 
 ## GEO ID 62605: Batulum

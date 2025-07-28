@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2193 alignments exist in _Pleiades_ place references as of 2025-07-25. The following list of alignments is grouped by zotkey.
+2195 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -11147,6 +11147,13 @@
  - [Thermae Selinuntinae/Aquae Larodes](https://pleiades.stoa.org/places/462514)
 
 
+## 6C1 (Talbert 1508)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1508.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1508.html)  
+
+### alignments:
+ - [Calvisiana?](https://pleiades.stoa.org/places/462125)
+
+
 ## 6C1 (Talbert 275)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace275.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace275.html)  
 
@@ -11215,6 +11222,13 @@
 
 ### alignments:
  - [Tipasa](https://pleiades.stoa.org/places/344519)
+
+
+## 6C1 Nibl(a)e (Talbert 1509)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1509.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1509.html)  
+
+### alignments:
+ - [Hybla Heraia](https://pleiades.stoa.org/places/462252)
 
 
 ## 6C2 (Talbert 1503)
