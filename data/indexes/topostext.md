@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3722 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
+3723 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17230,6 +17230,13 @@
 
 ### alignments:
  - [O(no)ba](https://pleiades.stoa.org/places/256340)
+
+
+## Onougnathos cape (Lakonia) 24 Ag. Maria/Elaphonisas - Ονου γνάθος
+[https://topostext.org/place/365229LOno](https://topostext.org/place/365229LOno)  
+
+### alignments:
+ - [Onougnathos (promontory)](https://pleiades.stoa.org/places/570533)
 
 
 ## Onouphis (Egypt) 4 Ezbet El-Tal - Ονουφις

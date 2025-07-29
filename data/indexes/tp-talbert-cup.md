@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2195 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
+2199 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1588,6 +1588,13 @@
 
 ### alignments:
  - [Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
+
+
+## 1A2 (Talbert 642)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace642.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace642.html)  
+
+### alignments:
+ - [‘Crouciaconnum’](https://pleiades.stoa.org/places/69495)
 
 
 ## 1A2 (Talbert 643)
@@ -3765,6 +3772,13 @@
  - [Ad Publicanos](https://pleiades.stoa.org/places/167618)
 
 
+## 2B2 (Talbert 964)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace964.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace964.html)  
+
+### alignments:
+ - [Darantasia](https://pleiades.stoa.org/places/167736)
+
+
 ## 2B3 (Talbert 2896)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2896.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2896.html)  
 
@@ -4588,7 +4602,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1028.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1028.html)  
 
 ### alignments:
- - [Coveliacae?](https://pleiades.stoa.org/places/187354)
+ - [Coveliacae](https://pleiades.stoa.org/places/187354)
 
 
 ## 3A2 (Talbert 1029)
@@ -7105,6 +7119,13 @@
  - [Surpicanum](https://pleiades.stoa.org/places/416863)
 
 
+## 4B4 (Talbert 1188)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1188.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1188.html)  
+
+### alignments:
+ - [Phalacrinae](https://pleiades.stoa.org/places/413251)
+
+
 ## 4B4 (Talbert 1189)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1189.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1189.html)  
 
@@ -8778,6 +8799,13 @@
 
 ### alignments:
  - [Teanum Sidicinum](https://pleiades.stoa.org/places/433146)
+
+
+## 5B3 (Talbert 1330)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1330.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1330.html)  
+
+### alignments:
+ - [Ad Rotas/Rotae](https://pleiades.stoa.org/places/432635)
 
 
 ## 5B3 (Talbert 1331)

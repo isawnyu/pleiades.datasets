@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4563 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
+4570 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10216,6 +10216,13 @@
  - [Tericiae](https://pleiades.stoa.org/places/148215)
 
 
+## GEO ID 21657: Darantasia (Moûtiers)
+[https://www.trismegistos.org/place/21657](https://www.trismegistos.org/place/21657)  
+
+### alignments:
+ - [Darantasia](https://pleiades.stoa.org/places/167736)
+
+
 ## GEO ID 21666: Nissan-lez-Ensérune
 [http://www.trismegistos.org/place/21666](http://www.trismegistos.org/place/21666)  
 
@@ -10489,6 +10496,13 @@
  - [Pan(h)ormus](https://pleiades.stoa.org/places/462410)
 
 
+## GEO ID 22281: Kapition (Capizzi)
+[http://www.trismegistos.org/place/22281](http://www.trismegistos.org/place/22281)  
+
+### alignments:
+ - [Capitium](https://pleiades.stoa.org/places/462130)
+
+
 ## GEO ID 22282: Kalakte (Caronia)
 [http://www.trismegistos.org/place/22282](http://www.trismegistos.org/place/22282)  
 
@@ -10613,6 +10627,13 @@
 
 ### alignments:
  - [Takyris](https://pleiades.stoa.org/places/737063)
+
+
+## GEO ID 22330
+[http://www.trismegistos.org/place/22330](http://www.trismegistos.org/place/22330)  
+
+### alignments:
+ - [Neaition/Netum](https://pleiades.stoa.org/places/462388)
 
 
 ## GEO ID 22331: Akrai (Palazzolo Acreide)
@@ -12133,6 +12154,13 @@
 
 ### alignments:
  - [Orippo](https://pleiades.stoa.org/places/256343)
+
+
+## GEO ID 26218
+[http://www.trismegistos.org/place/26218](http://www.trismegistos.org/place/26218)  
+
+### alignments:
+ - [Astigi/Col. Augusta Firma](https://pleiades.stoa.org/places/255996)
 
 
 ## GEO ID 26227: Nabrissa (Lebrija)
@@ -14831,6 +14859,13 @@
  - [Ricina](https://pleiades.stoa.org/places/383758)
 
 
+## GEO ID 31783
+[http://www.trismegistos.org/place/31783](http://www.trismegistos.org/place/31783)  
+
+### alignments:
+ - [Hasta](https://pleiades.stoa.org/places/383669)
+
+
 ## GEO ID 31829: Pedona (Borgo San Dalmazzo)
 [https://www.trismegistos.org/place/31829](https://www.trismegistos.org/place/31829)  
 
@@ -16043,6 +16078,13 @@
  - [Varia](https://pleiades.stoa.org/places/423115)
 
 
+## GEO ID 32579: Ad Rotas (Monteroduni)
+[http://www.trismegistos.org/place/32579](http://www.trismegistos.org/place/32579)  
+
+### alignments:
+ - [Ad Rotas/Rotae](https://pleiades.stoa.org/places/432635)
+
+
 ## GEO ID 3257: Aquae Granni (Aachen)
 [https://www.trismegistos.org/place/3257](https://www.trismegistos.org/place/3257)  
 
@@ -16405,6 +16447,13 @@
 
 ### alignments:
  - [Marion](https://pleiades.stoa.org/places/707574)
+
+
+## GEO ID 32908: Phalacrinae (Collicelle)
+[http://www.trismegistos.org/place/32908](http://www.trismegistos.org/place/32908)  
+
+### alignments:
+ - [Phalacrinae](https://pleiades.stoa.org/places/413251)
 
 
 ## GEO ID 32910: Interocrium (Antrodoco)
@@ -21537,7 +21586,7 @@
 [https://www.trismegistos.org/place/41073](https://www.trismegistos.org/place/41073)  
 
 ### alignments:
- - [Coveliacae?](https://pleiades.stoa.org/places/187354)
+ - [Coveliacae](https://pleiades.stoa.org/places/187354)
 
 
 ## GEO ID 41075: In Alpe Pennino (Passo del Bracco)
@@ -27226,7 +27275,7 @@
  - [Fificulanus Pagus](https://pleiades.stoa.org/places/416807)
 
 
-## GEO ID 45702
+## GEO ID 45702: Cliternia (Capradosso)
 [http://www.trismegistos.org/place/45702](http://www.trismegistos.org/place/45702)  
 
 ### alignments:

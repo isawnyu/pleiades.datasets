@@ -1,11 +1,18 @@
 # _Pleiades_ alignments with MANTO
-690 alignments exist in _Pleiades_ place references as of 2025-07-28. The following list of alignments is grouped by zotkey.
+691 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
 
 ### alignments:
  - [Asterion (river)](https://pleiades.stoa.org/places/570133)
+
+
+## 10055298: Onougnathos (Laconia)
+[https://resource.manto.unh.edu/10055298](https://resource.manto.unh.edu/10055298)  
+
+### alignments:
+ - [Onougnathos (promontory)](https://pleiades.stoa.org/places/570533)
 
 
 ## 10055308: Helene (island off Attica)
