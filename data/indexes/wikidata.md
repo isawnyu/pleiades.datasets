@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8611 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
+8618 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1009,6 +1009,13 @@
 
 ### alignments:
  - [Ain Dara temple](https://pleiades.stoa.org/places/818918654)
+
+
+## Ain Harcha Roman Temple (Q135269682)
+[https://www.wikidata.org/wiki/Q135269682](https://www.wikidata.org/wiki/Q135269682)  
+
+### alignments:
+ - [Ain Hersha](https://pleiades.stoa.org/places/678007)
 
 
 ## Ain Manawir (Q405869)
@@ -10129,6 +10136,13 @@
  - [*Cluentus (river)](https://pleiades.stoa.org/places/413094)
 
 
+## Chieri (Q9269)
+[https://www.wikidata.org/wiki/Q9269](https://www.wikidata.org/wiki/Q9269)  
+
+### alignments:
+ - [Carreum Potentia](https://pleiades.stoa.org/places/383611)
+
+
 ## Chiesa di Santa Maria di Barbana (Q69389817)
 [https://www.wikidata.org/wiki/Q69389817](https://www.wikidata.org/wiki/Q69389817)  
 
@@ -15125,6 +15139,13 @@
  - [Ganzak?/Gazaca?/Gazae?](https://pleiades.stoa.org/places/884148)
 
 
+## Gaochang (Q877381)
+[https://www.wikidata.org/wiki/Q877381](https://www.wikidata.org/wiki/Q877381)  
+
+### alignments:
+ - [Gaochang](https://pleiades.stoa.org/places/999273476)
+
+
 ## Garaguso (Q52288)
 [https://www.wikidata.org/wiki/Q52288](https://www.wikidata.org/wiki/Q52288)  
 
@@ -17043,6 +17064,13 @@
 
 ### alignments:
  - [Tarraconensis](https://pleiades.stoa.org/places/981551)
+
+
+## Hispellum (Q4895226)
+[https://www.wikidata.org/wiki/Q4895226](https://www.wikidata.org/wiki/Q4895226)  
+
+### alignments:
+ - [Hispellum](https://pleiades.stoa.org/places/413170)
 
 
 ## Hispellum amphitheatre (Q28978078)
@@ -19172,6 +19200,13 @@
 
 ### alignments:
  - [Kato Aetos](https://pleiades.stoa.org/places/530934)
+
+
+## Kaunos (Q608095)
+[https://www.wikidata.org/wiki/Q608095](https://www.wikidata.org/wiki/Q608095)  
+
+### alignments:
+ - [Caunus](https://pleiades.stoa.org/places/638796)
 
 
 ## Kavousi Vronda (Q23586062)
@@ -24095,6 +24130,13 @@
 
 ### alignments:
  - [Deir Amba Bishoi](https://pleiades.stoa.org/places/727107)
+
+
+## Monastery of Saint Simeon (Q1626365)
+[https://www.wikidata.org/wiki/Q1626365](https://www.wikidata.org/wiki/Q1626365)  
+
+### alignments:
+ - [S. Simeon (monastery)](https://pleiades.stoa.org/places/786106)
 
 
 ## Monastery of St. Elian (Q20858492)
@@ -29275,6 +29317,13 @@
 
 ### alignments:
  - [Porta Collina](https://pleiades.stoa.org/places/987367012)
+
+
+## Porta Consolare (Q135494565)
+[https://www.wikidata.org/wiki/Q135494565](https://www.wikidata.org/wiki/Q135494565)  
+
+### alignments:
+ - [Porta Consolare](https://pleiades.stoa.org/places/820236688)
 
 
 ## Porta di Stabia (Q125810167)
@@ -36470,6 +36519,13 @@
 
 ### alignments:
  - [Verulamium](https://pleiades.stoa.org/places/79739)
+
+
+## Q1986456: Sweyhat
+[https://www.wikidata.org/wiki/Q1986456](https://www.wikidata.org/wiki/Q1986456)  
+
+### alignments:
+ - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
 
 
 ## Q1987323: Nicopolis ad Istrum
@@ -44298,13 +44354,6 @@
  - [Paianion](https://pleiades.stoa.org/places/531028)
 
 
-## Q608095: Kaunos
-[https://www.wikidata.org/wiki/Q608095](https://www.wikidata.org/wiki/Q608095)  
-
-### alignments:
- - [Caunus](https://pleiades.stoa.org/places/638796)
-
-
 ## Q608198: Theatre of Epidaurus
 [https://www.wikidata.org/wiki/Q608198](https://www.wikidata.org/wiki/Q608198)  
 
@@ -48380,6 +48429,13 @@
  - [Vussem aqueduct](https://pleiades.stoa.org/places/256115041)
 
 
+## Roman aqueduct, Spello (Q135494547)
+[https://www.wikidata.org/wiki/Q135494547](https://www.wikidata.org/wiki/Q135494547)  
+
+### alignments:
+ - [Roman aqueduct, Spello](https://pleiades.stoa.org/places/156209516)
+
+
 ## Roman arch at Capera (Q43083909)
 [https://www.wikidata.org/wiki/Q43083909](https://www.wikidata.org/wiki/Q43083909)  
 
@@ -51166,6 +51222,13 @@
  - [Seleucia/Sliq Kharawta](https://pleiades.stoa.org/places/894084)
 
 
+## Seleucia Pieria (Q1605894)
+[https://www.wikidata.org/wiki/Q1605894](https://www.wikidata.org/wiki/Q1605894)  
+
+### alignments:
+ - [Hydatos Potamoi/Seleukeia Pieria](https://pleiades.stoa.org/places/658483)
+
+
 ## Seleucid Empire (Q93180)
 [https://www.wikidata.org/wiki/Q93180](https://www.wikidata.org/wiki/Q93180)  
 
@@ -52350,13 +52413,6 @@
  - [Spartarius? Campus](https://pleiades.stoa.org/places/266050)
 
 
-## Spello (Q20559)
-[https://www.wikidata.org/wiki/Q20559](https://www.wikidata.org/wiki/Q20559)  
-
-### alignments:
- - [Hispellum](https://pleiades.stoa.org/places/413170)
-
-
 ## Speos Artemidos (Q378253)
 [https://www.wikidata.org/wiki/Q378253](https://www.wikidata.org/wiki/Q378253)  
 
@@ -52915,14 +52971,6 @@
 
 ### alignments:
  - [Svileuva](https://pleiades.stoa.org/places/207476)
-
-
-## Sweyhat (Q1986456)
-[https://www.wikidata.org/wiki/Q1986456](https://www.wikidata.org/wiki/Q1986456)  
-
-### alignments:
- - [Tall Suwaiyhat](https://pleiades.stoa.org/places/215365609)
- - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
 
 
 ## Syangela (Q11950409)

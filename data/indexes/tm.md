@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4570 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
+4571 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14822,6 +14822,13 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
+
+
+## GEO ID 31742: Carreum Potentia (Chieri)
+[http://www.trismegistos.org/place/31742](http://www.trismegistos.org/place/31742)  
+
+### alignments:
+ - [Carreum Potentia](https://pleiades.stoa.org/places/383611)
 
 
 ## GEO ID 31749: Dertona (Tortona)

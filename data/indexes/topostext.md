@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3723 alignments exist in _Pleiades_ place references as of 2025-07-29. The following list of alignments is grouped by zotkey.
+3727 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5444,6 +5444,13 @@
 
 ### alignments:
  - [Carpentorate/*Forum Neronis](https://pleiades.stoa.org/places/148036)
+
+
+## Carreum Potentia (Italy) 1 Chieri
+[https://topostext.org/place/45078UCar](https://topostext.org/place/45078UCar)  
+
+### alignments:
+ - [Carreum Potentia](https://pleiades.stoa.org/places/383611)
 
 
 ## Carrhae (Syria)
@@ -21096,6 +21103,13 @@
  - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
 
 
+## Rhipaian Mountains (mythical)
+[https://topostext.org/place/520255LRhi](https://topostext.org/place/520255LRhi)  
+
+### alignments:
+ - [Rhipaei montes](https://pleiades.stoa.org/places/401802035)
+
+
 ## Rhithymna (Rethymno)
 [https://topostext.org/place/354245URhi](https://topostext.org/place/354245URhi)  
 
@@ -21610,6 +21624,13 @@
  - [ Sardis/Hyde?](https://pleiades.stoa.org/places/550867)
 
 
+## Sarepta (Phoenicia) 11 Sarafand - Σάρεπτα
+[https://topostext.org/place/335353USar](https://topostext.org/place/335353USar)  
+
+### alignments:
+ - [Sarepta/Makra Kome](https://pleiades.stoa.org/places/678374)
+
+
 ## Sarmizegetusa Ulpia Traiana (Dacia)
 [https://topostext.org/place/455228USUT](https://topostext.org/place/455228USUT)  
 
@@ -21882,6 +21903,13 @@
 
 ### alignments:
  - [Seleucia/Sliq Kharawta](https://pleiades.stoa.org/places/894084)
+
+
+## Seleukeia Pieria (Syria) 98 Cevlik - Σελεύκεια η εν Πιερίαι
+[https://topostext.org/place/361359USel](https://topostext.org/place/361359USel)  
+
+### alignments:
+ - [Hydatos Potamoi/Seleukeia Pieria](https://pleiades.stoa.org/places/658483)
 
 
 ## Selge (Pisidia)
