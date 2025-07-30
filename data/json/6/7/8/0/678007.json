@@ -19,24 +19,30 @@
         },
         {
             "homepage": null,
+            "name": "Matthias Grawehr",
+            "uri": "https://pleiades.stoa.org/author/mgrawehr",
+            "username": "mgrawehr"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
-            "name": "Matthias Grawehr",
-            "uri": "https://pleiades.stoa.org/author/mgrawehr",
-            "username": "mgrawehr"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2009-09-16T19:59:53Z",
+    "created": "2025-07-10T19:53:33Z",
     "creators": [
         {
             "name": "E.M. Meyers",
@@ -47,8 +53,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 69 C3 Ain Hersha",
-    "details": "The Barrington Atlas Directory notes: Ain Hersha, LEB",
+    "description": "Ain Hersha is the site of a Roman temple located in the environs of Mount Hermon.",
+    "details": "<p>The Barrington Atlas Directory notes: Ain Hersha, LEB</p>",
     "features": [
         {
             "geometry": {
@@ -78,10 +84,10 @@
             },
             "id": "osm-way-313847408",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Location based on OpenStreetMap. Dates after BAtlas.",
                 "link": "https://pleiades.stoa.org/places/678007/osm-way-313847408",
                 "location_precision": "precise",
-                "snippet": "Temple-2",
+                "snippet": "Temple-2; 30 BC - AD 300",
                 "title": "OSM Location: Temple of Ain Hersha"
             },
             "type": "Feature"
@@ -113,9 +119,23 @@
             "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
-            "created": "2025-07-10T18:33:08Z",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-07-10T19:56:19Z",
             "creators": [
                 {
                     "homepage": null,
@@ -124,9 +144,9 @@
                     "username": "mgrawehr"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Location based on OpenStreetMap. Dates after BAtlas.",
             "details": "",
-            "end": null,
+            "end": 300,
             "featureType": [
                 "temple-2"
             ],
@@ -194,21 +214,30 @@
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1058 see \"Ain Hersha\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
+            "start": -30,
             "title": "OSM Location: Temple of Ain Hersha",
             "uri": "https://pleiades.stoa.org/places/678007/osm-way-313847408"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/temple",
         "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
-        "temple",
         "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 69 C3 Ain Hersha",
@@ -227,12 +256,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Krencker-1938-245",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HPGZNWMX",
+            "citationDetail": "245",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Krencker 1938 245",
+            "formattedCitation": "<div class=\"csl-entry\">Krencker, Daniel, and Willy Zschietzschmann. <i>Römische Tempel in Syrien</i>. 2 vols. Denkmäler Antiker Architektur 5. Berlin, 1938.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Krencker 1938",
             "type": "seeFurther"
         },
         {
@@ -245,6 +274,28 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q135269682",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ain Harcha Roman Temple (Q135269682)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Ain_Harcha",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Ain Harcha",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
