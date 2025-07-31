@@ -1,14 +1,20 @@
 {
     "@type": "Place",
     "bbox": [
-        22.0,
-        37.0,
-        22.5,
-        37.5
+        22.258894,
+        37.277285,
+        22.258894,
+        37.277285
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/21258154"
+    ],
     "contributors": [
+        {
+            "name": "DARMC",
+            "username": null
+        },
         {
             "name": "R. Talbert",
             "username": null
@@ -32,7 +38,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-20T20:44:17Z",
+    "created": "2025-07-30T21:39:04Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -43,49 +49,64 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 C3 Athenaion (1)",
+    "description": "A fortification in Arcadia that was built and destroyed during the Hellenistic period and is mentioned in ancient sources. The site, located on a hill locally called Chemos and near the modern Greek town of Skortsinos, was used in the late medieval period for a castle.",
     "details": "<p>The Barrington Atlas Directory notes: W Belmina</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.0
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.0
-                        ]
-                    ]
+                    22.258894,
+                    37.277285
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "darmc-location-1113",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/570138/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+                "link": "https://pleiades.stoa.org/places/570138/darmc-location-1113",
+                "location_precision": "precise",
+                "snippet": "Unknown; 550 BC - AD 300",
+                "title": "DARMC location 1113"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "removed Wikipedia reference; removed Wikidata reference; added matching Wikipedia and Wikidata references; added ToposText reference; added Shipley 2000; summary",
+            "modified": "2025-07-30T22:52:41Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title; summary; place type = fort",
+            "modified": "2025-07-30T21:37:31Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-07-30T21:36:31Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "update references",
+            "modified": "2024-10-24T23:05:04Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2024-02-24T00:38:25Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modified": "2012-02-15T06:25:52Z",
+            "modifiedBy": "admin"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modified": "2011-01-14T20:22:12Z",
+            "modifiedBy": "sgillies"
+        },
         {
             "action": "Publish externally",
             "modified": "2010-09-22T18:37:36Z",
@@ -106,15 +127,15 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
+            "accuracy_value": 10000.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 },
@@ -123,25 +144,21 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "hellenistic-republican",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
                     "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2010-09-20T20:44:18Z",
+            "created": "2011-01-25T18:23:09Z",
             "creators": [
                 {
                     "name": "J. McK. Camp II",
@@ -152,9 +169,9 @@
                     "username": null
                 }
             ],
-            "description": "",
-            "details": "",
-            "end": -30,
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+            "details": "DARMC OBJECTID: 1113",
+            "end": 300,
             "featureType": [
                 "unknown"
             ],
@@ -163,61 +180,63 @@
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            22.0,
-                            37.0
-                        ],
-                        [
-                            22.5,
-                            37.0
-                        ],
-                        [
-                            22.5,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.5
-                        ],
-                        [
-                            22.0,
-                            37.0
-                        ]
-                    ]
+                    22.258894,
+                    37.277285
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modified": "2012-02-15T06:25:51Z",
+                    "modifiedBy": "admin"
+                },
+                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:37:36Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2011-01-25T19:01:36Z",
+                    "modifiedBy": "sgillies"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:18:19Z",
+                    "modified": "2011-01-25T18:23:10Z",
+                    "modifiedBy": "sgillies"
+                },
+                {
+                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+                    "modified": "2011-01-25T18:23:10Z",
                     "modifiedBy": "sgillies"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:44:18Z",
+                    "modified": "2011-01-25T18:23:09Z",
                     "modifiedBy": "sgillies"
                 }
             ],
-            "id": "batlas-location",
+            "id": "darmc-location-1113",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 C3 Athenaion",
-            "references": [],
+            "provenance": "DARMC OBJECTID: 1113",
+            "references": [
+                {
+                    "accessURI": "https://darmc.harvard.edu/",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "citationDetail": "1113",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 1113.",
+                    "otherIdentifier": " ",
+                    "shortTitle": "DARMC",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/570138/batlas-location"
+            "title": "DARMC location 1113",
+            "uri": "https://pleiades.stoa.org/places/570138/darmc-location-1113"
         }
     ],
     "names": [
@@ -272,6 +291,11 @@
             "end": -30,
             "history": [
                 {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modified": "2012-02-15T06:25:53Z",
+                    "modifiedBy": "admin"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2010-09-22T18:37:36Z",
                     "modifiedBy": "thomase"
@@ -301,10 +325,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/ruin"
     ],
     "placeTypes": [
-        "unknown"
+        "fort-2",
+        "ruin"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 C3 Athenaion",
     "references": [
@@ -331,10 +357,21 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "https://www.wikidata.org/wiki/Q60791625",
+            "accessURI": "https://en.wikipedia.org/wiki/Athenaeum_(fort)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Athenaeum (fort)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q60791626",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
-            "citationDetail": "Athenaeum (Q60791625)",
+            "citationDetail": "Athenaeum fortress (Q60791626)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
@@ -342,25 +379,36 @@
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "https://en.wikipedia.org/wiki/Athenaeum_(Arcadia)",
+            "accessURI": "https://topostext.org/place/373223FAth",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
-            "citationDetail": "Athenaeum (Arcadia)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Athenaion (Arkadia) 7 Skortsinos - Αθηναίον",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "Wikipedia (English)",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/extent-of-spartan-territory-in-the-late-classical-and-hellenistic-periods/E0E61E0482C7C1E2BA51693AA51DA2C9",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KYPEA8BY",
+            "citationDetail": "page 373",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Shipley, Graham. “The Extent of Spartan Territory in the Late Classical and Hellenistic Periods.” <i>Annual of the British School at Athens</i> 95 (November 2000): 367–90. https://doi.org/10.1017/S0068245400004731.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Shipley 2000",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        22.25,
-        37.25
+        22.258894,
+        37.277285
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Athenaion",
+    "title": "Athenaion (fortification)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/570138"
 }
