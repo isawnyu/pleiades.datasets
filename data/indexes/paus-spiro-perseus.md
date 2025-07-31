@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-502 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
+502 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1955,7 +1955,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.36.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.36.1)  
 
 ### alignments:
- - [Koryphasion Pr.](https://pleiades.stoa.org/places/570375)
+ - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
  - [Pylos](https://pleiades.stoa.org/places/570639)
 
 
@@ -3327,7 +3327,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.44.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.44.2)  
 
 ### alignments:
- - [Athenaion](https://pleiades.stoa.org/places/570137)
+ - [Athenaion (settlement)](https://pleiades.stoa.org/places/570137)
  - [Oresthasion](https://pleiades.stoa.org/places/570536)
 
 

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4571 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
+4571 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6214,6 +6214,7 @@
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
  - [Paroria](https://pleiades.stoa.org/places/570562)
  - [Portus](https://pleiades.stoa.org/places/423012)
+ - [Savo (river)](https://pleiades.stoa.org/places/433108)
  - [Sethroites Nomos](https://pleiades.stoa.org/places/727230)
  - [Tritium](https://pleiades.stoa.org/places/236691)
 

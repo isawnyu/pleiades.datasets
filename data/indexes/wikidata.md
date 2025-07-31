@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8618 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
+8634 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1373,6 +1373,13 @@
 
 ### alignments:
  - [Isurium](https://pleiades.stoa.org/places/89209)
+
+
+## Alderney (Q179313)
+[https://www.wikidata.org/wiki/Q179313](https://www.wikidata.org/wiki/Q179313)  
+
+### alignments:
+ - [Riduna (island)](https://pleiades.stoa.org/places/69557)
 
 
 ## Ale's Stones (Q686510)
@@ -4215,7 +4222,7 @@
 [https://www.wikidata.org/wiki/Q60791625](https://www.wikidata.org/wiki/Q60791625)  
 
 ### alignments:
- - [Athenaion](https://pleiades.stoa.org/places/570138)
+ - [Athenaion (settlement)](https://pleiades.stoa.org/places/570137)
 
 
 ## Athenaeum (Q755454)
@@ -4223,6 +4230,13 @@
 
 ### alignments:
  - [Athenaeum of Hadrian (Rome)](https://pleiades.stoa.org/places/914715153)
+
+
+## Athenaeum fortress (Q60791626)
+[https://www.wikidata.org/wiki/Q60791626](https://www.wikidata.org/wiki/Q60791626)  
+
+### alignments:
+ - [Athenaion (fortification)](https://pleiades.stoa.org/places/570138)
 
 
 ## Athenopolis (Q86665788)
@@ -5526,6 +5540,13 @@
 
 ### alignments:
  - [Baâlon](https://pleiades.stoa.org/places/108782)
+
+
+## Başur Höyük (Q6100419)
+[https://www.wikidata.org/wiki/Q6100419](https://www.wikidata.org/wiki/Q6100419)  
+
+### alignments:
+ - [Başur Höyük](https://pleiades.stoa.org/places/453123696)
 
 
 ## Beacon Hill Hillfort (Q812886)
@@ -7714,6 +7735,13 @@
  - [Cantiaci](https://pleiades.stoa.org/places/79374)
 
 
+## Cantiano (Q190535)
+[https://www.wikidata.org/wiki/Q190535](https://www.wikidata.org/wiki/Q190535)  
+
+### alignments:
+ - [Cantiano](https://pleiades.stoa.org/places/104638958)
+
+
 ## Canusium (Q1033927)
 [https://www.wikidata.org/wiki/Q1033927](https://www.wikidata.org/wiki/Q1033927)  
 
@@ -8239,6 +8267,13 @@
  - [Casa di Properzio](https://pleiades.stoa.org/places/902282876)
 
 
+## Casa di Trittolemo (Q27687258)
+[https://www.wikidata.org/wiki/Q27687258](https://www.wikidata.org/wiki/Q27687258)  
+
+### alignments:
+ - [Casa di Trittolemo](https://pleiades.stoa.org/places/684689044)
+
+
 ## Casa Herrera Basilica (Q64850540)
 [https://www.wikidata.org/https://www.wikidata.org/wiki/Q64850540](https://www.wikidata.org/https://www.wikidata.org/wiki/Q64850540)  
 
@@ -8580,6 +8615,13 @@
 
 ### alignments:
  - [Castle of Guimarães](https://pleiades.stoa.org/places/211761079)
+
+
+## Castle of Lagopesole (Q3662646)
+[https://www.wikidata.org/wiki/Q3662646](https://www.wikidata.org/wiki/Q3662646)  
+
+### alignments:
+ - [Castel Lagopesole](https://pleiades.stoa.org/places/727086379)
 
 
 ## Castle of Rocca Calascio (Q1166100)
@@ -8937,6 +8979,13 @@
 
 ### alignments:
  - [Randwijk](https://pleiades.stoa.org/places/99024)
+
+
+## Castra of Rödgen (Q2179598)
+[https://www.wikidata.org/wiki/Q2179598](https://www.wikidata.org/wiki/Q2179598)  
+
+### alignments:
+ - [Rödgen](https://pleiades.stoa.org/places/220408239)
 
 
 ## Castra of Slăveni (Q5050751)
@@ -14845,6 +14894,13 @@
  - [Murgaual (castle)](https://pleiades.stoa.org/places/704285537)
 
 
+## Fulginiae (Q5507862)
+[https://www.wikidata.org/wiki/Q5507862](https://www.wikidata.org/wiki/Q5507862)  
+
+### alignments:
+ - [Fulginiae](https://pleiades.stoa.org/places/413151)
+
+
 ## Funduq al ‘Allūş (Q106188495)
 [https://www.wikidata.org/wiki/Q106188495](https://www.wikidata.org/wiki/Q106188495)  
 
@@ -14871,6 +14927,13 @@
 
 ### alignments:
  - [Funtana Coberta](https://pleiades.stoa.org/places/700851260)
+
+
+## Furlo Pass (Q1093472)
+[https://www.wikidata.org/wiki/Q1093472](https://www.wikidata.org/wiki/Q1093472)  
+
+### alignments:
+ - [Intercisa/Petra Pertusa](https://pleiades.stoa.org/places/413180)
 
 
 ## Fusaro Lake (Q764710)
@@ -16835,6 +16898,13 @@
  - [Heraia](https://pleiades.stoa.org/places/570287)
 
 
+## Heraion at the Mouth of the Sele (Q3785099)
+[https://www.wikidata.org/wiki/Q3785099](https://www.wikidata.org/wiki/Q3785099)  
+
+### alignments:
+ - [Temple of Hera at Foce del Sele](https://pleiades.stoa.org/places/442610)
+
+
 ## Herakleion (Q3785102)
 [https://www.wikidata.org/wiki/Q3785102](https://www.wikidata.org/wiki/Q3785102)  
 
@@ -17043,6 +17113,13 @@
 
 ### alignments:
  - [Hirbemerdon Tepe](https://pleiades.stoa.org/places/574198885)
+
+
+## Hispalis (Q100422615)
+[https://www.wikidata.org/wiki/Q100422615](https://www.wikidata.org/wiki/Q100422615)  
+
+### alignments:
+ - [Hispalis/Col. Romula](https://pleiades.stoa.org/places/256210)
 
 
 ## Hispania Baetica (Q219415)
@@ -18305,6 +18382,13 @@
  - [Ouindogara Kolpos](https://pleiades.stoa.org/places/89268)
 
 
+## Is Pirois sacred well (Q53401080)
+[https://www.wikidata.org/wiki/Q53401080](https://www.wikidata.org/wiki/Q53401080)  
+
+### alignments:
+ - [Is Pirois](https://pleiades.stoa.org/places/411868128)
+
+
 ## Isca Dumnoniorum (Q1226112)
 [https://www.wikidata.org/wiki/Q1226112](https://www.wikidata.org/wiki/Q1226112)  
 
@@ -18884,6 +18968,13 @@
 
 ### alignments:
  - [Kainon Chorion](https://pleiades.stoa.org/places/857179)
+
+
+## Kainua (Q3316213)
+[https://www.wikidata.org/wiki/Q3316213](https://www.wikidata.org/wiki/Q3316213)  
+
+### alignments:
+ - [Kainua](https://pleiades.stoa.org/places/393448)
 
 
 ## Kaiseraugst (Q69048)
@@ -19822,7 +19913,7 @@
 [https://www.wikidata.org/wiki/Q25024356](https://www.wikidata.org/wiki/Q25024356)  
 
 ### alignments:
- - [Koryphasion Pr.](https://pleiades.stoa.org/places/570375)
+ - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
 
 
 ## Korčula (Q13288)
@@ -22311,6 +22402,13 @@
  - [Mantoche](https://pleiades.stoa.org/places/177573)
 
 
+## Mar Behnam Monastery (Q934579)
+[https://www.wikidata.org/wiki/Q934579](https://www.wikidata.org/wiki/Q934579)  
+
+### alignments:
+ - [Mar Behnam](https://pleiades.stoa.org/places/777829213)
+
+
 ## Marangone (Q734373)
 [https://www.wikidata.org/wiki/Q734373](https://www.wikidata.org/wiki/Q734373)  
 
@@ -22456,6 +22554,13 @@
 
 ### alignments:
  - [Martyrion at Aphrodisias](https://pleiades.stoa.org/places/46120818)
+
+
+## Marzabotto (Q94936)
+[https://www.wikidata.org/wiki/Q94936](https://www.wikidata.org/wiki/Q94936)  
+
+### alignments:
+ - [Kainua](https://pleiades.stoa.org/places/393448)
 
 
 ## Mashkan-shapir (Q2574582)
@@ -24081,6 +24186,13 @@
 
 ### alignments:
  - [Mola di Monte Gelato](https://pleiades.stoa.org/places/413205)
+
+
+## Mollarella (Q135511150)
+[https://www.wikidata.org/wiki/Q135511150](https://www.wikidata.org/wiki/Q135511150)  
+
+### alignments:
+ - [Mollarella](https://pleiades.stoa.org/places/462319)
 
 
 ## Mollins Roman fort (Q56668370)
@@ -25847,6 +25959,13 @@
  - [Neapolis](https://pleiades.stoa.org/places/197403)
 
 
+## Novilara (Q18498647)
+[https://www.wikidata.org/wiki/Q18498647](https://www.wikidata.org/wiki/Q18498647)  
+
+### alignments:
+ - [Novilara](https://pleiades.stoa.org/places/413226)
+
+
 ## Noviomagus Cantiacorum (Q20713640)
 [https://www.wikidata.org/wiki/Q20713640](https://www.wikidata.org/wiki/Q20713640)  
 
@@ -27322,6 +27441,13 @@
 
 ### alignments:
  - [Palumbinum](https://pleiades.stoa.org/places/438801)
+
+
+## Palus Caprae (Q7128846)
+[https://www.wikidata.org/wiki/Q7128846](https://www.wikidata.org/wiki/Q7128846)  
+
+### alignments:
+ - [Palus Caprae](https://pleiades.stoa.org/places/577728240)
 
 
 ## Pamba River (Q2641922)
@@ -36521,13 +36647,6 @@
  - [Verulamium](https://pleiades.stoa.org/places/79739)
 
 
-## Q1986456: Sweyhat
-[https://www.wikidata.org/wiki/Q1986456](https://www.wikidata.org/wiki/Q1986456)  
-
-### alignments:
- - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
-
-
 ## Q1987323: Nicopolis ad Istrum
 [https://www.wikidata.org/wiki/Q1987323](https://www.wikidata.org/wiki/Q1987323)  
 
@@ -41102,13 +41221,6 @@
  - [Leucopetra (cape)](https://pleiades.stoa.org/places/452366)
 
 
-## Q3785099: Heraion at the Mouth of the Sele
-[https://www.wikidata.org/wiki/Q3785099](https://www.wikidata.org/wiki/Q3785099)  
-
-### alignments:
- - [Temple of Hera at Foce del Sele](https://pleiades.stoa.org/places/442610)
-
-
 ## Q378556: Palagruža
 [https://www.wikidata.org/wiki/Q378556](https://www.wikidata.org/wiki/Q378556)  
 
@@ -42057,11 +42169,12 @@
  - [Temple of Hibis](https://pleiades.stoa.org/places/286718069)
 
 
-## Q4115974
+## Q4115974: Karamlesh
 [https://www.wikidata.org/wiki/Q4115974](https://www.wikidata.org/wiki/Q4115974)  
 
 ### alignments:
  - [Kar-Mullissi](https://pleiades.stoa.org/places/863362570)
+ - [Kar-Mullissu](https://pleiades.stoa.org/places/682032457)
 
 
 ## Q4120161
@@ -43302,13 +43415,6 @@
 
 ### alignments:
  - [Via Praenestina](https://pleiades.stoa.org/places/622606468)
-
-
-## Q5507862: Fulginiae
-[https://www.wikidata.org/wiki/Q5507862](https://www.wikidata.org/wiki/Q5507862)  
-
-### alignments:
- - [Fulginiae](https://pleiades.stoa.org/places/413151)
 
 
 ## Q55083628: via Appia - Grande sepolcro a cinque coni, attribuito agli Orazi e Curiazi
@@ -50816,6 +50922,13 @@
  - [Savo/Vicus Virginis?](https://pleiades.stoa.org/places/383770)
 
 
+## Savone (Q3951164)
+[https://www.wikidata.org/wiki/Q3951164](https://www.wikidata.org/wiki/Q3951164)  
+
+### alignments:
+ - [Savo (river)](https://pleiades.stoa.org/places/433108)
+
+
 ## Savuto (Q605363)
 [https://www.wikidata.org/wiki/Q605363](https://www.wikidata.org/wiki/Q605363)  
 
@@ -51529,13 +51642,6 @@
 
 ### alignments:
  - [Basilica of Septimius Severus](https://pleiades.stoa.org/places/165453294)
-
-
-## Sevilla (Samian Ware Discovery Site) (Q103195185)
-[https://www.wikidata.org/wiki/Q103195185](https://www.wikidata.org/wiki/Q103195185)  
-
-### alignments:
- - [Hispalis/Col. Romula](https://pleiades.stoa.org/places/256210)
 
 
 ## Sexaginta Prista (Q12293503)
@@ -52971,6 +53077,13 @@
 
 ### alignments:
  - [Svileuva](https://pleiades.stoa.org/places/207476)
+
+
+## Sweyhat (Q1986456)
+[https://www.wikidata.org/wiki/Q1986456](https://www.wikidata.org/wiki/Q1986456)  
+
+### alignments:
+ - [Tell es-Sweyhat](https://pleiades.stoa.org/places/668140349)
 
 
 ## Syangela (Q11950409)

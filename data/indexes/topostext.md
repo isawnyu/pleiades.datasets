@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3727 alignments exist in _Pleiades_ place references as of 2025-07-30. The following list of alignments is grouped by zotkey.
+3728 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3850,11 +3850,18 @@
  - [Athenai Diades](https://pleiades.stoa.org/places/540681)
 
 
-## Athenaion (Arkadia)
+## Athenaion (Arkadia) 7 Skortsinos - Αθηναίον
 [https://topostext.org/place/373223FAth](https://topostext.org/place/373223FAth)  
 
 ### alignments:
- - [Athenaion](https://pleiades.stoa.org/places/570137)
+ - [Athenaion (fortification)](https://pleiades.stoa.org/places/570138)
+
+
+## Athenaion hamlet (Arkadia) 2 Athinaio
+[https://topostext.org/place/374222UAth](https://topostext.org/place/374222UAth)  
+
+### alignments:
+ - [Athenaion (settlement)](https://pleiades.stoa.org/places/570137)
 
 
 ## Athenian Acropolis (Athens)
@@ -12584,7 +12591,7 @@
 [https://topostext.org/place/370217LKor](https://topostext.org/place/370217LKor)  
 
 ### alignments:
- - [Koryphasion Pr.](https://pleiades.stoa.org/places/570375)
+ - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
 
 
 ## Kos (Egypt)
