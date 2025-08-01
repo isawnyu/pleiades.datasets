@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        1.45,
-        51.0,
-        1.45,
-        51.0
+        0.9585544,
+        50.6494622,
+        2.0956393,
+        51.3803543
     ],
     "connections": [],
     "connectsWith": [],
@@ -55,18 +55,24 @@
         {
             "geometry": {
                 "coordinates": [
-                    1.45,
-                    51
+                    [
+                        0.9585544,
+                        50.6494622
+                    ],
+                    [
+                        2.0956393,
+                        51.3803543
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "geohack-location-of-the-strait-of-dover",
+            "id": "osm-location-of-strait-of-dover",
             "properties": {
-                "description": "Representative location based on GeoHack",
-                "link": "https://pleiades.stoa.org/places/79469/geohack-location-of-the-strait-of-dover",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/79469/osm-location-of-strait-of-dover",
                 "location_precision": "precise",
-                "snippet": "Water-open; AD 1700 - AD 2100",
-                "title": "GeoHack Location of the Strait of Dover"
+                "snippet": "Strait; AD 2000 - AD 2099",
+                "title": "OSM location of Strait of Dover"
             },
             "type": "Feature"
         }
@@ -117,8 +123,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
-            "accuracy_value": 2000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -126,88 +132,106 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [],
-            "created": "2018-09-28T01:24:41Z",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-07-27T02:15:18Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Gabriel Moss",
-                    "uri": "https://pleiades.stoa.org/author/gmoss",
-                    "username": "gmoss"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative location based on GeoHack",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 2100,
+            "end": 2099,
             "featureType": [
-                "water-open"
+                "strait"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+                "https://pleiades.stoa.org/vocabularies/place-types/strait"
             ],
             "geometry": {
                 "coordinates": [
-                    1.45,
-                    51
+                    [
+                        0.9585544,
+                        50.6494622
+                    ],
+                    [
+                        2.0956393,
+                        51.3803543
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2018-09-28T01:26:09Z",
-                    "modifiedBy": "gmoss"
+                    "modified": "2025-07-31T17:41:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "associated modern",
+                    "modified": "2025-07-31T17:41:50Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2018-09-28T01:26:02Z",
-                    "modifiedBy": "gmoss"
+                    "modified": "2025-07-27T21:37:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Edited",
-                    "modified": "2018-09-28T01:25:51Z",
-                    "modifiedBy": "gmoss"
+                    "comment": "add osm location",
+                    "modified": "2025-07-27T02:15:41Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Initial revision",
-                    "modified": "2018-09-28T01:24:45Z",
-                    "modifiedBy": "gmoss"
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-07-27T02:15:19Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2018-09-28T01:24:41Z",
-                    "modifiedBy": "gmoss"
+                    "modified": "2025-07-27T02:15:18Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "geohack-location-of-the-strait-of-dover",
+            "id": "osm-location-of-strait-of-dover",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+                "https://pleiades.stoa.org/vocabularies/place-types/strait"
             ],
-            "provenance": "GeoHack",
+            "provenance": "OpenStreetMap (Way 1180740208, version 37, osm:changeset=140681371, 2023-09-01T14:00:20Z)",
             "references": [
                 {
-                    "accessURI": "https://tools.wmflabs.org/geohack/geohack.php?pagename=Strait_of_Dover&params=51_00_N_1_27_E_type:waterbody_dim:300000",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1180740208",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Strait of Dover",
+                    "citationDetail": "Way 1180740208",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "",
+                    "formattedCitation": "osm:way=1180740208",
                     "otherIdentifier": "",
-                    "shortTitle": "GeoHack",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 1700,
-            "title": "GeoHack Location of the Strait of Dover",
-            "uri": "https://pleiades.stoa.org/places/79469/geohack-location-of-the-strait-of-dover"
+            "start": 2000,
+            "title": "OSM location of Strait of Dover",
+            "uri": "https://pleiades.stoa.org/places/79469/osm-location-of-strait-of-dover"
         }
     ],
     "names": [
@@ -321,89 +345,19 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "attested": "",
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2009-10-30T22:36:59Z",
-            "creators": [
-                {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 640,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:31:05Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2009-11-23T19:30:04Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2009-10-30T22:48:35Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2009-10-30T22:36:59Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "gallicum",
-            "language": "",
-            "nameType": "geographic",
-            "provenance": "Barrington Atlas: BAtlas 8 I4 Fretum Oceani/Gallicum",
-            "references": [],
-            "review_state": "published",
-            "romanized": "Gallicum",
-            "start": 300,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/79469/gallicum"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "modern",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "attested": "",
-            "contributors": [],
+            "attested": "Strait of Dover",
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-12-27T17:48:40Z",
             "creators": [
                 {
@@ -417,6 +371,11 @@
             "details": "",
             "end": 2100,
             "history": [
+                {
+                    "comment": "associated modern; attested form",
+                    "modified": "2025-07-31T17:44:01Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-09-12T14:11:08Z",
@@ -445,7 +404,7 @@
             ],
             "id": "strait-of-dover",
             "language": "en",
-            "nameType": "geographic",
+            "nameType": "associated_modern",
             "provenance": "Pleiades",
             "references": [
                 {
@@ -466,6 +425,174 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/79469/strait-of-dover"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Straits of Dover",
+            "contributors": [],
+            "created": "2025-07-31T17:44:50Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-07-31T20:45:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-07-31T17:44:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-07-31T17:44:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-07-31T17:44:50Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "straits-of-dover",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 116 see \"Fretum Oceani/Gallicum\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Straits of Dover",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/79469/straits-of-dover"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Fretum Gallicum",
+            "contributors": [
+                {
+                    "name": "R. Warner",
+                    "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2009-10-30T22:36:59Z",
+            "creators": [
+                {
+                    "name": "A.S. Esmonde Cleary",
+                    "username": null
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-07-31T17:46:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modified": "2012-02-15T08:31:05Z",
+                    "modifiedBy": "admin"
+                },
+                {
+                    "action": "Publish externally",
+                    "modified": "2009-11-23T19:30:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2009-10-30T22:48:35Z",
+                    "modifiedBy": "sgillies"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2009-10-30T22:36:59Z",
+                    "modifiedBy": "sgillies"
+                }
+            ],
+            "id": "fretum-gallicum",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Barrington Atlas: BAtlas 8 I4 Fretum Oceani/Gallicum",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 116 see \"Fretum Oceani/Gallicum\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Fretum Gallicum",
+            "start": 300,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/79469/fretum-gallicum"
         }
     ],
     "placeTypeURIs": [
@@ -535,8 +662,8 @@
         }
     ],
     "reprPoint": [
-        1.45,
-        51.0
+        1.5270968500000002,
+        51.014908250000005
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
