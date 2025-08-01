@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8634 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
+8641 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -350,6 +350,13 @@
 
 ### alignments:
  - [Achaea/Achaia (region)](https://pleiades.stoa.org/places/570028)
+
+
+## Achaean League (Q244796)
+[https://www.wikidata.org/wiki/Q244796](https://www.wikidata.org/wiki/Q244796)  
+
+### alignments:
+ - [Achaean League (Second)](https://pleiades.stoa.org/places/104777482)
 
 
 ## Achaemenid Empire (Q389688)
@@ -5696,6 +5703,13 @@
  - [Belvedere](https://pleiades.stoa.org/places/452271)
 
 
+## Belvedere Marittimo (Q53838)
+[https://www.wikidata.org/wiki/Q53838](https://www.wikidata.org/wiki/Q53838)  
+
+### alignments:
+ - [Belvedere Marittimo](https://pleiades.stoa.org/places/452272)
+
+
 ## Belvedere tomb (Q3531028)
 [https://www.wikidata.org/wiki/Q3531028](https://www.wikidata.org/wiki/Q3531028)  
 
@@ -8594,6 +8608,13 @@
 
 ### alignments:
  - [Capraria](https://pleiades.stoa.org/places/148034)
+
+
+## Castle of Chelmos (Q108885164)
+[https://www.wikidata.org/wiki/Q108885164](https://www.wikidata.org/wiki/Q108885164)  
+
+### alignments:
+ - [Chelmos Castle](https://pleiades.stoa.org/places/21258154)
 
 
 ## Castle of Dokos (Q108612431)
@@ -15602,6 +15623,13 @@
  - [Gierstädt](https://pleiades.stoa.org/places/118699)
 
 
+## Giffoni Valle Piana (Q80961)
+[https://www.wikidata.org/wiki/Q80961](https://www.wikidata.org/wiki/Q80961)  
+
+### alignments:
+ - [Giffoni Valle Piana](https://pleiades.stoa.org/places/442600)
+
+
 ## Gijón (Q12273)
 [https://www.wikidata.org/wiki/Q12273](https://www.wikidata.org/wiki/Q12273)  
 
@@ -16280,6 +16308,13 @@
 
 ### alignments:
  - [So-called Roman Gymnasium at Syracuse](https://pleiades.stoa.org/places/649857187)
+
+
+## Gymnasium of Ptolemy, Athens (Q24204093)
+[https://www.wikidata.org/wiki/Q24204093](https://www.wikidata.org/wiki/Q24204093)  
+
+### alignments:
+ - [Ptolemaion gymnasion](https://pleiades.stoa.org/places/408303888)
 
 
 ## Göbekli Tepe (Q214944)
@@ -38210,13 +38245,6 @@
  - [Māri](https://pleiades.stoa.org/places/286681704)
 
 
-## Q244796: Achaean League
-[https://www.wikidata.org/wiki/Q244796](https://www.wikidata.org/wiki/Q244796)  
-
-### alignments:
- - [Achaean League (Second)](https://pleiades.stoa.org/places/104777482)
-
-
 ## Q2453413: Passo Corese
 [https://www.wikidata.org/wiki/Q2453413](https://www.wikidata.org/wiki/Q2453413)  
 
@@ -49900,6 +49928,13 @@
  - [Salduba/Saltum](https://pleiades.stoa.org/places/256416)
 
 
+## Salerno (Q1083)
+[https://www.wikidata.org/wiki/Q1083](https://www.wikidata.org/wiki/Q1083)  
+
+### alignments:
+ - [Salernum](https://pleiades.stoa.org/places/433075)
+
+
 ## Salganeus (Q16627937)
 [https://www.wikidata.org/wiki/Q16627937](https://www.wikidata.org/wiki/Q16627937)  
 
@@ -51328,6 +51363,13 @@
  - [Segontia](https://pleiades.stoa.org/places/246639)
 
 
+## Sele (Q937958)
+[https://www.wikidata.org/wiki/Q937958](https://www.wikidata.org/wiki/Q937958)  
+
+### alignments:
+ - [Silarus (river)](https://pleiades.stoa.org/places/442795)
+
+
 ## Seleucia (Q1136681)
 [https://www.wikidata.org/wiki/Q1136681](https://www.wikidata.org/wiki/Q1136681)  
 
@@ -51887,6 +51929,13 @@
 
 ### alignments:
  - [Silingi](https://pleiades.stoa.org/places/101215)
+
+
+## Sillaro (Q1545285)
+[https://www.wikidata.org/wiki/Q1545285](https://www.wikidata.org/wiki/Q1545285)  
+
+### alignments:
+ - [Silarus (river)](https://pleiades.stoa.org/places/393495)
 
 
 ## Silva Gallinaria (Q3960587)

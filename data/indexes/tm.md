@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4571 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
+4571 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4912,7 +4912,7 @@
  - [Surrentum](https://pleiades.stoa.org/places/433139)
 
 
-## GEO ID 14450
+## GEO ID 14450: Salernum (Salerno)
 [http://www.trismegistos.org/place/14450](http://www.trismegistos.org/place/14450)  
 
 ### alignments:

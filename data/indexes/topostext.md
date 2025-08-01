@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3728 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
+3729 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9317,6 +9317,13 @@
 
 ### alignments:
  - [Gymnasium at Corinth](https://pleiades.stoa.org/places/100913712)
+
+
+## Gymnasium of Ptolemy (Athens)
+[https://topostext.org/place/380237BGyP](https://topostext.org/place/380237BGyP)  
+
+### alignments:
+ - [Ptolemaion gymnasion](https://pleiades.stoa.org/places/408303888)
 
 
 ## Gyroulas Demeter sanct. (Naxos) Sagri
@@ -22808,7 +22815,7 @@
 [https://topostext.org/place/378232LSpi](https://topostext.org/place/378232LSpi)  
 
 ### alignments:
- - [Spiraion Pr.](https://pleiades.stoa.org/places/570688)
+ - [Spiraion (promuntory)](https://pleiades.stoa.org/places/570688)
 
 
 ## Spoletium (Italy)

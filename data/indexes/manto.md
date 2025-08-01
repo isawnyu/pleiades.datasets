@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-691 alignments exist in _Pleiades_ place references as of 2025-07-31. The following list of alignments is grouped by zotkey.
+691 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2459,18 +2459,18 @@
  - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
 
 
+## 11309854: the Adriatic Sea
+[https://resource.manto.unh.edu/11309854](https://resource.manto.unh.edu/11309854)  
+
+### alignments:
+ - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
+
+
 ## 11309855: the Gulf of Poseidon (Tyrrhenian Sea)
 [https://resource.manto.unh.edu/11309855](https://resource.manto.unh.edu/11309855)  
 
 ### alignments:
  - [Paestanus Sinus](https://pleiades.stoa.org/places/442704)
-
-
-## 1130985: the Adriatic Sea
-[https://resource.manto.unh.edu/1130985](https://resource.manto.unh.edu/1130985)  
-
-### alignments:
- - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
 
 
 ## 11309864: the Tauros Mountains (Lycia)
