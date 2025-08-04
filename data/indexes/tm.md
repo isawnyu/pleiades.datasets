@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4571 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
+4573 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2179,6 +2179,13 @@
  - [Gela](https://pleiades.stoa.org/places/462214)
 
 
+## Geo 727: Gytheion
+[https://www.trismegistos.org/place/727](https://www.trismegistos.org/place/727)  
+
+### alignments:
+ - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
+
+
 ## Geo 7518: Tenedos (Bozcaada)
 [http://www.trismegistos.org/place/7518](http://www.trismegistos.org/place/7518)  
 
@@ -2690,6 +2697,13 @@
 
 ### alignments:
  - [Kourion](https://pleiades.stoa.org/places/707549)
+
+
+## GEO ID 1176
+[http://www.trismegistos.org/place/1176](http://www.trismegistos.org/place/1176)  
+
+### alignments:
+ - [Koussai/Koskam](https://pleiades.stoa.org/places/756588)
 
 
 ## GEO ID 11774: Nikaia (Iznik)
@@ -24131,6 +24145,13 @@
  - [Ad Herculem](https://pleiades.stoa.org/places/897700)
 
 
+## GEO ID 42169: Peloriarca
+[https://www.trismegistos.org/place/42169](https://www.trismegistos.org/place/42169)  
+
+### alignments:
+ - [Peloriarca/Peloriacha/Peloriarcha/Peloriaca](https://pleiades.stoa.org/places/897825)
+
+
 ## GEO ID 42172: Bisutun
 [https://www.trismegistos.org/place/42172](https://www.trismegistos.org/place/42172)  
 
@@ -26752,13 +26773,6 @@
 
 
 ## GEO ID 44787: Clivus Capitolinus
-[https://www.trismegistos.org/place/44787](https://www.trismegistos.org/place/44787)  
-
-### alignments:
- - [Clivus Capitolinus](https://pleiades.stoa.org/places/152699900)
-
-
-## GEO ID 44787
 [http://www.trismegistos.org/place/44787](http://www.trismegistos.org/place/44787)  
 
 ### alignments:

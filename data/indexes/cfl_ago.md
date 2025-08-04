@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-404 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
+406 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2169,6 +2169,13 @@
  - [Scyrus (island)](https://pleiades.stoa.org/places/541093)
 
 
+## Toponyme 37324: Kythira-Δ.Δ.Κυθήρων, Κύθηρα
+[https://chronique.efa.gr/?r=topo_public&id=37324](https://chronique.efa.gr/?r=topo_public&id=37324)  
+
+### alignments:
+ - [Cythera (island)](https://pleiades.stoa.org/places/570186)
+
+
 ## Toponyme 37407: Eleusis, Elefsis, Elefsina, Lepsina
 [https://chronique.efa.gr/?kroute=topo_public&id=37407](https://chronique.efa.gr/?kroute=topo_public&id=37407)  
 
@@ -2216,6 +2223,13 @@
 
 ### alignments:
  - [Kyparissia](https://pleiades.stoa.org/places/570397)
+
+
+## Toponyme 37999: Gythio-Δ.Δ.Γυθείου
+[https://chronique.efa.gr/?r=topo_public&id=37999](https://chronique.efa.gr/?r=topo_public&id=37999)  
+
+### alignments:
+ - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
 
 
 ## Toponyme 38005: Sparte, Sparta, Lakedaimon, Lacedaemon

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2200 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
+2201 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -664,6 +664,13 @@
 
 ### alignments:
  - [Ain Sinu/Zagurae?](https://pleiades.stoa.org/places/874306)
+
+
+## 10B5 (Talbert 2656)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2656.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2656.html)  
+
+### alignments:
+ - [Tel Afar/Ad Pontem?](https://pleiades.stoa.org/places/874720)
 
 
 ## 10B5 (Talbert 2674)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3729 alignments exist in _Pleiades_ place references as of 2025-08-01. The following list of alignments is grouped by zotkey.
+3729 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -806,7 +806,7 @@
 [https://topostext.org/place/359233IAig](https://topostext.org/place/359233IAig)  
 
 ### alignments:
- - [Aigila/Ogylos (island)](https://pleiades.stoa.org/places/560230)
+ - [Antikythera (island)](https://pleiades.stoa.org/places/560230)
 
 
 ## Aigila sanct. (Lakonia)
