@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8672 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
+8688 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1135,6 +1135,13 @@
 
 ### alignments:
  - [Ak(r)itas Pr.](https://pleiades.stoa.org/places/570057)
+
+
+## Akshak (Q593537)
+[https://www.wikidata.org/wiki/Q593537](https://www.wikidata.org/wiki/Q593537)  
+
+### alignments:
+ - [Akshak](https://pleiades.stoa.org/places/156790694)
 
 
 ## Aksu River (Q421630)
@@ -2418,6 +2425,13 @@
  - [Maniolai (islands)](https://pleiades.stoa.org/places/50118)
 
 
+## Andarig (Q9487581)
+[https://www.wikidata.org/wiki/Q9487581](https://www.wikidata.org/wiki/Q9487581)  
+
+### alignments:
+ - [Andarig](https://pleiades.stoa.org/places/49978107)
+
+
 ## Andautonia (Q12744603)
 [https://www.wikidata.org/wiki/Q12744603](https://www.wikidata.org/wiki/Q12744603)  
 
@@ -2815,6 +2829,13 @@
 
 ### alignments:
  - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
+## Apina (Q135641866)
+[https://www.wikidata.org/wiki/Q135641866](https://www.wikidata.org/wiki/Q135641866)  
+
+### alignments:
+ - [Apina](https://pleiades.stoa.org/places/446218)
 
 
 ## Apiolae (Q4779852)
@@ -3480,6 +3501,13 @@
 
 ### alignments:
  - [La Cuma, Monte Rinaldo](https://pleiades.stoa.org/places/413109)
+
+
+## Arechi Castle (Q1174435)
+[https://www.wikidata.org/wiki/Q1174435](https://www.wikidata.org/wiki/Q1174435)  
+
+### alignments:
+ - [Castello di Arechi](https://pleiades.stoa.org/places/890246901)
 
 
 ## Arelate (Q641068)
@@ -8022,6 +8050,13 @@
  - [Tamion?](https://pleiades.stoa.org/places/79706)
 
 
+## Carduchii (Q110196443)
+[https://www.wikidata.org/wiki/Q110196443](https://www.wikidata.org/wiki/Q110196443)  
+
+### alignments:
+ - [Kardouchoi](https://pleiades.stoa.org/places/874541)
+
+
 ## Careiae (Q2938135)
 [https://www.wikidata.org/wiki/Q2938135](https://www.wikidata.org/wiki/Q2938135)  
 
@@ -8797,6 +8832,13 @@
 
 ### alignments:
  - [Cedonia](https://pleiades.stoa.org/places/216758)
+
+
+## Castra Celemantia (Q1309695)
+[https://www.wikidata.org/wiki/Q1309695](https://www.wikidata.org/wiki/Q1309695)  
+
+### alignments:
+ - [Kelamantia](https://pleiades.stoa.org/places/197337)
 
 
 ## Castra Clarenna (Q1678826)
@@ -14894,6 +14936,13 @@
  - [Fratte](https://pleiades.stoa.org/places/432845)
 
 
+## Frattesina (Q3752472)
+[https://www.wikidata.org/wiki/Q3752472](https://www.wikidata.org/wiki/Q3752472)  
+
+### alignments:
+ - [Frattesina](https://pleiades.stoa.org/places/393431)
+
+
 ## Frattura (Q2799135)
 [https://www.wikidata.org/wiki/Q2799135](https://www.wikidata.org/wiki/Q2799135)  
 
@@ -16709,6 +16758,13 @@
  - [Hayling Island Iron-Age/Roman Sanctuary](https://pleiades.stoa.org/places/79504)
 
 
+## Hazar Merd Cave (Q5687554)
+[https://www.wikidata.org/wiki/Q5687554](https://www.wikidata.org/wiki/Q5687554)  
+
+### alignments:
+ - [Hazar Merd Cave](https://pleiades.stoa.org/places/349652622)
+
+
 ## Hazzi (Q383473)
 [https://www.wikidata.org/wiki/Q383473](https://www.wikidata.org/wiki/Q383473)  
 
@@ -18347,6 +18403,13 @@
  - [Pierre Ecrite](https://pleiades.stoa.org/places/157905)
 
 
+## Insubres (Q1097266)
+[https://www.wikidata.org/wiki/Q1097266](https://www.wikidata.org/wiki/Q1097266)  
+
+### alignments:
+ - [Insubres](https://pleiades.stoa.org/places/383678)
+
+
 ## Insula M1 (Ephesus) (Q104641899)
 [https://www.wikidata.org/wiki/Q104641899](https://www.wikidata.org/wiki/Q104641899)  
 
@@ -18996,6 +19059,13 @@
 
 ### alignments:
  - [K7 Barracks](https://pleiades.stoa.org/places/888638036)
+
+
+## Ka'ba-ye Zartosht (Q2363092)
+[https://www.wikidata.org/wiki/Q2363092](https://www.wikidata.org/wiki/Q2363092)  
+
+### alignments:
+ - [Ka'ba-ye Zartosht](https://pleiades.stoa.org/places/616346030)
 
 
 ## Kabul River (Q8515)
@@ -41291,13 +41361,6 @@
  - [Forum Popillii](https://pleiades.stoa.org/places/432843)
 
 
-## Q3752472: Frattesina
-[https://www.wikidata.org/wiki/Q3752472](https://www.wikidata.org/wiki/Q3752472)  
-
-### alignments:
- - [Frattesina](https://pleiades.stoa.org/places/393431)
-
-
 ## Q375685: Eshnunna
 [https://www.wikidata.org/wiki/Q375685](https://www.wikidata.org/wiki/Q375685)  
 
@@ -47624,6 +47687,13 @@
  - [Qasr Al-Kharanah](https://pleiades.stoa.org/places/318745558)
 
 
+## Qasr Shemamok (Q25404315)
+[https://www.wikidata.org/wiki/Q25404315](https://www.wikidata.org/wiki/Q25404315)  
+
+### alignments:
+ - [Qasr Shemamok](https://pleiades.stoa.org/places/349652621)
+
+
 ## Qasr Wurtij (Q104805811)
 [https://www.wikidata.org/wiki/Q104805811](https://www.wikidata.org/wiki/Q104805811)  
 
@@ -51861,6 +51931,13 @@
  - [Shahr-e Sukhteh](https://pleiades.stoa.org/places/377547413)
 
 
+## Shanidar Cave (Q909799)
+[https://www.wikidata.org/wiki/Q909799](https://www.wikidata.org/wiki/Q909799)  
+
+### alignments:
+ - [Shanidar Cave](https://pleiades.stoa.org/places/493567306)
+
+
 ## Shapur Cave (Q7489301)
 [https://www.wikidata.org/wiki/Q7489301](https://www.wikidata.org/wiki/Q7489301)  
 
@@ -53968,6 +54045,13 @@
  - [Tell el-Mazar](https://pleiades.stoa.org/places/195475336)
 
 
+## Tell es-Sawwan (Q7697547)
+[https://www.wikidata.org/wiki/Q7697547](https://www.wikidata.org/wiki/Q7697547)  
+
+### alignments:
+ - [Tell es-Sawwan](https://pleiades.stoa.org/places/876875509)
+
+
 ## Tell es-Sultan (Q2402267)
 [https://www.wikidata.org/wiki/Q2402267](https://www.wikidata.org/wiki/Q2402267)  
 
@@ -54001,6 +54085,13 @@
 
 ### alignments:
  - [Tel Kisson](https://pleiades.stoa.org/places/504745937)
+
+
+## Tell Khoshi (Q14466961)
+[https://www.wikidata.org/wiki/Q14466961](https://www.wikidata.org/wiki/Q14466961)  
+
+### alignments:
+ - [Tell Khoshi](https://pleiades.stoa.org/places/349652620)
 
 
 ## Tell Kunara (Q65151623)
@@ -54064,6 +54155,13 @@
 
 ### alignments:
  - [Tell Umm al-Aqarib](https://pleiades.stoa.org/places/533622483)
+
+
+## Tell Yelkhi (Q125447682)
+[https://www.wikidata.org/wiki/Q125447682](https://www.wikidata.org/wiki/Q125447682)  
+
+### alignments:
+ - [Tell Yelkhi](https://pleiades.stoa.org/places/509596319)
 
 
 ## Tell Zurghul (Q110853381)
@@ -60191,6 +60289,20 @@
 
 ### alignments:
  - [Athrys/Iatros/Ieterus (river)](https://pleiades.stoa.org/places/216717)
+
+
+## Yarim Tepe (Q25490472)
+[https://www.wikidata.org/wiki/Q25490472](https://www.wikidata.org/wiki/Q25490472)  
+
+### alignments:
+ - [Yarim Tepe (Iraq)](https://pleiades.stoa.org/places/509596318)
+
+
+## Yarim Tepe (Q48792290)
+[https://www.wikidata.org/wiki/Q48792290](https://www.wikidata.org/wiki/Q48792290)  
+
+### alignments:
+ - [Yarim Tepe (Iran)](https://pleiades.stoa.org/places/982994284)
 
 
 ## Yarmouk River (Q849470)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-406 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
+407 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -146,6 +146,13 @@
 
 ### alignments:
  - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
+
+
+## FRANCHTHI CAVE - 2014
+[https://chronique.efa.gr/?kroute=report&id=4879](https://chronique.efa.gr/?kroute=report&id=4879)  
+
+### alignments:
+ - [Franchthi Cave](https://pleiades.stoa.org/places/93589647)
 
 
 ## HERAKLEIA. - Asopos - 2001

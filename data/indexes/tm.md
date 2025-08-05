@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4573 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
+4579 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22367,6 +22367,13 @@
  - [Lucus Basaro](https://pleiades.stoa.org/places/874568)
 
 
+## GEO ID 41434: Sinara (Aşkale)
+[https://www.trismegistos.org/place/41434](https://www.trismegistos.org/place/41434)  
+
+### alignments:
+ - [Sinara](https://pleiades.stoa.org/places/874698)
+
+
 ## GEO ID 4143: Iamneia (Yibna)
 [http://www.trismegistos.org/geo/detail.php?tm=4143](http://www.trismegistos.org/geo/detail.php?tm=4143)  
 
@@ -22449,6 +22456,13 @@
 
 ### alignments:
  - [Ad flumen Tigrim](https://pleiades.stoa.org/places/874296)
+
+
+## GEO ID 41552: Vicat (Tell Ibra)
+[https://www.trismegistos.org/place/41552](https://www.trismegistos.org/place/41552)  
+
+### alignments:
+ - [Tell Ibra/Vicat?](https://pleiades.stoa.org/places/874746)
 
 
 ## GEO ID 41553: Arrapha (Kirkuk)
@@ -27717,6 +27731,13 @@
  - [Constantinopolis](https://pleiades.stoa.org/places/520998)
 
 
+## GEO ID 47900: Monastery of Mar Ioannes of Kamul
+[http://www.trismegistos.org/place/47900](http://www.trismegistos.org/place/47900)  
+
+### alignments:
+ - [Kamul (monastery)](https://pleiades.stoa.org/places/874536)
+
+
 ## GEO ID 47906: Pyramos (Ceyhan)
 [http://www.trismegistos.org/place/47906](http://www.trismegistos.org/place/47906)  
 
@@ -27750,6 +27771,13 @@
 
 ### alignments:
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
+
+
+## GEO ID 47927
+[http://www.trismegistos.org/place/47927](http://www.trismegistos.org/place/47927)  
+
+### alignments:
+ - [Gaugalion (mountain)](https://pleiades.stoa.org/places/874477)
 
 
 ## GEO ID 47932: Monastery of Mor Gabriel
@@ -27799,6 +27827,13 @@
 
 ### alignments:
  - [Eriza](https://pleiades.stoa.org/places/874467)
+
+
+## GEO ID 47986: Hiaspis (Yarbaşı)
+[http://www.trismegistos.org/place/47986](http://www.trismegistos.org/place/47986)  
+
+### alignments:
+ - [Hiaspis](https://pleiades.stoa.org/places/874508)
 
 
 ## GEO ID 47: Adoulis (Zeila)
@@ -28115,6 +28150,13 @@
 
 ### alignments:
  - [Jmr-t](https://pleiades.stoa.org/places/776186)
+
+
+## GEO ID 50035: Satalka (Çağlayan)
+[http://www.trismegistos.org/place/50035](http://www.trismegistos.org/place/50035)  
+
+### alignments:
+ - [Satalka/Thamanon](https://pleiades.stoa.org/places/874685)
 
 
 ## GEO ID 50048: Namnatius Portus?

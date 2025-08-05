@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2201 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
+2202 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -692,6 +692,13 @@
 
 ### alignments:
  - [Ad flumen Tigrim](https://pleiades.stoa.org/places/874296)
+
+
+## 10B5 (Talbert 2677)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2677.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2677.html)  
+
+### alignments:
+ - [Vica](https://pleiades.stoa.org/places/222907106)
 
 
 ## 10B5 (Talbert 2678)

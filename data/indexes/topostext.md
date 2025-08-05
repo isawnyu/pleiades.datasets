@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3729 alignments exist in _Pleiades_ place references as of 2025-08-04. The following list of alignments is grouped by zotkey.
+3730 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7487,6 +7487,13 @@
 
 ### alignments:
  - [(E)Idomene](https://pleiades.stoa.org/places/491586)
+
+
+## Eileithyia shrine (Paros) Kalami
+[https://topostext.org/place/371252SEil](https://topostext.org/place/371252SEil)  
+
+### alignments:
+ - [Eileithyaia, Zeus Hypatos, Aphrodite?, T.](https://pleiades.stoa.org/places/599604)
 
 
 ## Eileithyias cave (Irakleio)
