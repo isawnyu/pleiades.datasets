@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4579 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
+4580 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2669,6 +2669,13 @@
 
 ### alignments:
  - [Korakesion](https://pleiades.stoa.org/places/638933)
+
+
+## GEO ID 11621: Borsippa (Birs Nimrud)
+[http://www.trismegistos.org/place/11621](http://www.trismegistos.org/place/11621)  
+
+### alignments:
+ - [Borsippa/Burs](https://pleiades.stoa.org/places/893964)
 
 
 ## GEO ID 11624: Dalmatia

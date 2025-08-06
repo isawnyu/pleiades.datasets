@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8688 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
+8695 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6604,6 +6604,13 @@
 
 ### alignments:
  - [Rochemaure milestone](https://pleiades.stoa.org/places/500136301)
+
+
+## Borsippa (Q625134)
+[https://www.wikidata.org/wiki/Q625134](https://www.wikidata.org/wiki/Q625134)  
+
+### alignments:
+ - [Borsippa/Burs](https://pleiades.stoa.org/places/893964)
 
 
 ## Boscotrecase (Q71851)
@@ -21016,6 +21023,13 @@
  - [Larisa Kremaste/Pelasgia](https://pleiades.stoa.org/places/540904)
 
 
+## Larsa (Q244746)
+[https://www.wikidata.org/wiki/Q244746](https://www.wikidata.org/wiki/Q244746)  
+
+### alignments:
+ - [Larsa](https://pleiades.stoa.org/places/912897)
+
+
 ## Las (Q7142558)
 [https://www.wikidata.org/wiki/Q7142558](https://www.wikidata.org/wiki/Q7142558)  
 
@@ -21861,6 +21875,13 @@
 
 ### alignments:
  - [Lucera Castle](https://pleiades.stoa.org/places/817071134)
+
+
+## Lucone di Polpenazze (Q16574070)
+[https://www.wikidata.org/wiki/Q16574070](https://www.wikidata.org/wiki/Q16574070)  
+
+### alignments:
+ - [Lucone di Polpenazze](https://pleiades.stoa.org/places/51334484)
 
 
 ## Lucrezia (Q3839011)
@@ -23331,6 +23352,13 @@
 
 ### alignments:
  - [Mesopotamia (region)](https://pleiades.stoa.org/places/874602)
+
+
+## Mespila (Q11936594)
+[https://www.wikidata.org/wiki/Q11936594](https://www.wikidata.org/wiki/Q11936594)  
+
+### alignments:
+ - [Mosul/‘Mespila’?](https://pleiades.stoa.org/places/874609)
 
 
 ## Messa (Greece) (Q16606539)
@@ -25922,6 +25950,13 @@
 
 ### alignments:
  - [Nimrud](https://pleiades.stoa.org/places/894019)
+
+
+## Nineveh (Q5680)
+[https://www.wikidata.org/wiki/Q5680](https://www.wikidata.org/wiki/Q5680)  
+
+### alignments:
+ - [Nineveh/Ninos](https://pleiades.stoa.org/places/874621)
 
 
 ## Nippur (Q188395)
@@ -44033,13 +44068,6 @@
  - [Heras? (island)](https://pleiades.stoa.org/places/275639)
 
 
-## Q5680: Nineveh
-[https://www.wikidata.org/wiki/Q5680](https://www.wikidata.org/wiki/Q5680)  
-
-### alignments:
- - [Nineveh/Ninos](https://pleiades.stoa.org/places/874621)
-
-
 ## Q5684: Babylon
 [https://www.wikidata.org/wiki/Q5684](https://www.wikidata.org/wiki/Q5684)  
 
@@ -50173,6 +50201,13 @@
  - [Tricomia](https://pleiades.stoa.org/places/678436)
 
 
+## Salmydessus (Q65051022)
+[https://www.wikidata.org/wiki/Q65051022](https://www.wikidata.org/wiki/Q65051022)  
+
+### alignments:
+ - [Salmydessos (settlement)](https://pleiades.stoa.org/places/511404)
+
+
 ## Salona (Q1258998)
 [https://www.wikidata.org/wiki/Q1258998](https://www.wikidata.org/wiki/Q1258998)  
 
@@ -53947,6 +53982,13 @@
  - [Telandros](https://pleiades.stoa.org/places/639133)
 
 
+## Tell Abu Dhahir (Q135647983)
+[https://www.wikidata.org/wiki/Q135647983](https://www.wikidata.org/wiki/Q135647983)  
+
+### alignments:
+ - [Tell Abu Dhahir](https://pleiades.stoa.org/places/874722)
+
+
 ## Tell Abu en-Ni‘aj (Q130866287)
 [https://www.wikidata.org/wiki/Q130866287](https://www.wikidata.org/wiki/Q130866287)  
 
@@ -54106,6 +54148,13 @@
 
 ### alignments:
  - [Matarrah](https://pleiades.stoa.org/places/588990229)
+
+
+## Tell Qaramel (Q4178402)
+[https://www.wikidata.org/wiki/Q4178402](https://www.wikidata.org/wiki/Q4178402)  
+
+### alignments:
+ - [Tell Qaramel](https://pleiades.stoa.org/places/945731146)
 
 
 ## Tell Qarqur (Q14032965)

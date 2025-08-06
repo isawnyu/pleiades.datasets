@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3730 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
+3731 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -21523,6 +21523,13 @@
 
 ### alignments:
  - [Salmone](https://pleiades.stoa.org/places/570652)
+
+
+## Salmydessos (Thrace) 22 Kıyıköy - Σαλμυδησσός
+[https://topostext.org/place/416281USal](https://topostext.org/place/416281USal)  
+
+### alignments:
+ - [Salmydessos (settlement)](https://pleiades.stoa.org/places/511404)
 
 
 ## Salodurum/Solodurum (Helvetia)

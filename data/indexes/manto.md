@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-693 alignments exist in _Pleiades_ place references as of 2025-08-05. The following list of alignments is grouped by zotkey.
+696 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -48,6 +48,13 @@
 
 ### alignments:
  - [(H)Enna](https://pleiades.stoa.org/places/462236)
+
+
+## 10055489: the Racecourse of Achilles (Pontos)
+[https://resource.manto.unh.edu/10055489](https://resource.manto.unh.edu/10055489)  
+
+### alignments:
+ - [Achilleios Dromos](https://pleiades.stoa.org/places/226506)
 
 
 ## 10055494: Phigaleia
@@ -2228,6 +2235,13 @@
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
+## 11301261: Nineveh (Mesopotamia)
+[https://resource.manto.unh.edu/11301261](https://resource.manto.unh.edu/11301261)  
+
+### alignments:
+ - [Nineveh/Ninos](https://pleiades.stoa.org/places/874621)
+
+
 ## 11301353: the Taurus Mountains
 [https://resource.manto.unh.edu/11301353](https://resource.manto.unh.edu/11301353)  
 
@@ -3740,6 +3754,13 @@
 
 ### alignments:
  - [Aphetai?](https://pleiades.stoa.org/places/540645)
+
+
+## 9374909: Salmydessos (Thrace)
+[https://resource.manto.unh.edu/9374909](https://resource.manto.unh.edu/9374909)  
+
+### alignments:
+ - [Salmydessos (settlement)](https://pleiades.stoa.org/places/511404)
 
 
 ## 9412610
