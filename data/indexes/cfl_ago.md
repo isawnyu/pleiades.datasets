@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-407 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
+409 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1761,6 +1761,13 @@
  - [Glyfa](https://pleiades.stoa.org/places/873325866)
 
 
+## Toponyme 19389: Gremoulas
+[https://chronique.efa.gr/?kroute=homepage](https://chronique.efa.gr/?kroute=homepage)  
+
+### alignments:
+ - [Gremoulias ancient sanctuary](https://pleiades.stoa.org/places/96151228)
+
+
 ## Toponyme 19583: Gazoros, Porna
 [https://chronique.efa.gr/?kroute=topo_public&id=19583](https://chronique.efa.gr/?kroute=topo_public&id=19583)  
 
@@ -2216,6 +2223,13 @@
 
 ### alignments:
  - [Patra(e)](https://pleiades.stoa.org/places/570567)
+
+
+## Toponyme 37744: Kalavryta
+[https://chronique.efa.gr/?r=topo_public&id=37744](https://chronique.efa.gr/?r=topo_public&id=37744)  
+
+### alignments:
+ - [Kynaitha(i)](https://pleiades.stoa.org/places/570392)
 
 
 ## Toponyme 37777: Kyllini, Kyllene, Kylini

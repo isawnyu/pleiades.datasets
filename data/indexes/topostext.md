@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3731 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
+3732 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9289,6 +9289,13 @@
 
 ### alignments:
  - [Theater at the Sanctuary of Asklepios, Epidauros](https://pleiades.stoa.org/places/671846980)
+
+
+## Gremoulias temple (Achaia) Gremoulias - Γκρεμουλιάς
+[https://topostext.org/place/380222SGre](https://topostext.org/place/380222SGre)  
+
+### alignments:
+ - [Gremoulias ancient sanctuary](https://pleiades.stoa.org/places/96151228)
 
 
 ## Grumentum (Italy)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2203 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
+2205 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -258,6 +258,13 @@
 
 ### alignments:
  - [Haris](https://pleiades.stoa.org/places/876636)
+
+
+## 10B1 (Talbert 2523)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2523.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2523.html)  
+
+### alignments:
+ - [Bubalia](https://pleiades.stoa.org/places/876599)
 
 
 ## 10B1 (Talbert 2524)
@@ -11005,6 +11012,13 @@
 
 ### alignments:
  - [Gurbita](https://pleiades.stoa.org/places/491611)
+
+
+## 6B5 (Talbert 1831)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1831.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1831.html)  
+
+### alignments:
+ - [Antigoneia?](https://pleiades.stoa.org/places/491524)
 
 
 ## 6B5 (Talbert 1837)

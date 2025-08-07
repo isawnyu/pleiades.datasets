@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8695 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
+8703 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2614,6 +2614,13 @@
  - [Antikinolis](https://pleiades.stoa.org/places/844860)
 
 
+## Antigonia (Q4774767)
+[https://www.wikidata.org/wiki/Q4774767](https://www.wikidata.org/wiki/Q4774767)  
+
+### alignments:
+ - [Antigoneia?](https://pleiades.stoa.org/places/491524)
+
+
 ## Antikythera (Q213730)
 [https://www.wikidata.org/wiki/Q213730](https://www.wikidata.org/wiki/Q213730)  
 
@@ -3237,6 +3244,13 @@
  - [Arch of Septimius Severus](https://pleiades.stoa.org/places/288984567)
 
 
+## Arch of the deified Lucius Verus (Q107363552)
+[https://www.wikidata.org/wiki/Q107363552](https://www.wikidata.org/wiki/Q107363552)  
+
+### alignments:
+ - [Arcus Divi Veri](https://pleiades.stoa.org/places/165237927)
+
+
 ## Arch of the Sergii (Q952381)
 [https://www.wikidata.org/wiki/Q952381](https://www.wikidata.org/wiki/Q952381)  
 
@@ -3797,6 +3811,13 @@
  - [Arslan Kaya monument](https://pleiades.stoa.org/places/938980755)
 
 
+## Arslan Tash (Q1254502)
+[https://www.wikidata.org/wiki/Q1254502](https://www.wikidata.org/wiki/Q1254502)  
+
+### alignments:
+ - [Ballatha](https://pleiades.stoa.org/places/658399)
+
+
 ## Artaiouteichos (Q18286239)
 [https://www.wikidata.org/wiki/Q18286239](https://www.wikidata.org/wiki/Q18286239)  
 
@@ -4349,6 +4370,13 @@
 
 ### alignments:
  - [Atlit Yam](https://pleiades.stoa.org/places/97875559)
+
+
+## Atrebates (Q164811)
+[https://www.wikidata.org/wiki/Q164811](https://www.wikidata.org/wiki/Q164811)  
+
+### alignments:
+ - [Atrebates](https://pleiades.stoa.org/places/79306)
 
 
 ## Atrek River (Q283622)
@@ -11873,6 +11901,13 @@
  - [Kyllene](https://pleiades.stoa.org/places/570390)
 
 
+## Cynaetha (Q5199870)
+[https://www.wikidata.org/wiki/Q5199870](https://www.wikidata.org/wiki/Q5199870)  
+
+### alignments:
+ - [Kynaitha(i)](https://pleiades.stoa.org/places/570392)
+
+
 ## Cynuria (Q1431487)
 [https://www.wikidata.org/wiki/Q1431487](https://www.wikidata.org/wiki/Q1431487)  
 
@@ -16105,6 +16140,13 @@
 
 ### alignments:
  - [Greetwell](https://pleiades.stoa.org/places/79493)
+
+
+## Gremoulias temple (Q111086660)
+[https://www.wikidata.org/wiki/Q111086660](https://www.wikidata.org/wiki/Q111086660)  
+
+### alignments:
+ - [Gremoulias ancient sanctuary](https://pleiades.stoa.org/places/96151228)
 
 
 ## Greppe Sant'Angelo necropolis (Q128397027)
@@ -24300,6 +24342,13 @@
  - [Early Mithraeum](https://pleiades.stoa.org/places/888637998)
 
 
+## Mithraeum of Felicissimus (Q123469072)
+[https://www.wikidata.org/wiki/Q123469072](https://www.wikidata.org/wiki/Q123469072)  
+
+### alignments:
+ - [Mithraeum of Felicissimus](https://pleiades.stoa.org/places/81616357)
+
+
 ## Mithraeum of Lucretius Menander (Q112181347)
 [https://www.wikidata.org/wiki/Q112181347](https://www.wikidata.org/wiki/Q112181347)  
 
@@ -31445,13 +31494,6 @@
 
 ### alignments:
  - [Camenae, Camenarum Fons](https://pleiades.stoa.org/places/307963011)
-
-
-## Q107363552: Arch of the deified Lucius Verus
-[https://www.wikidata.org/wiki/Q107363552](https://www.wikidata.org/wiki/Q107363552)  
-
-### alignments:
- - [Arcus Divi Veri](https://pleiades.stoa.org/places/165237927)
 
 
 ## Q107364137: Area Pannaria
@@ -52169,6 +52211,13 @@
  - [Sikinos (island)](https://pleiades.stoa.org/places/590047)
 
 
+## Silchester (Samian Ware Discovery Site) (Q103195468)
+[https://www.wikidata.org/wiki/Q103195468](https://www.wikidata.org/wiki/Q103195468)  
+
+### alignments:
+ - [Calleva](https://pleiades.stoa.org/places/79368)
+
+
 ## Silchester Amphitheatre (Q24660983)
 [https://www.wikidata.org/wiki/Q24660983](https://www.wikidata.org/wiki/Q24660983)  
 
@@ -53091,6 +53140,13 @@
 
 ### alignments:
  - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
+
+
+## Stobi (Q1371168)
+[https://www.wikidata.org/wiki/Q1371168](https://www.wikidata.org/wiki/Q1371168)  
+
+### alignments:
+ - [Stobi](https://pleiades.stoa.org/places/491731)
 
 
 ## Stonea Camp (Q7619094)

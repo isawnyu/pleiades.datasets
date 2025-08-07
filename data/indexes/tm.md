@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4580 alignments exist in _Pleiades_ place references as of 2025-08-06. The following list of alignments is grouped by zotkey.
+4584 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -415,6 +415,13 @@
 
 ### alignments:
  - [Ortygia (island)](https://pleiades.stoa.org/places/462402)
+
+
+## Geo 15749: Kynaitha (Kalavrita)
+[https://www.trismegistos.org/place/15749](https://www.trismegistos.org/place/15749)  
+
+### alignments:
+ - [Kynaitha(i)](https://pleiades.stoa.org/places/570392)
 
 
 ## Geo 15751: Melos
@@ -17738,6 +17745,13 @@
  - [Mekyberna](https://pleiades.stoa.org/places/491660)
 
 
+## GEO ID 33927: Antigoneia (Negotino)
+[http://www.trismegistos.org/place/33927](http://www.trismegistos.org/place/33927)  
+
+### alignments:
+ - [Antigoneia?](https://pleiades.stoa.org/places/491524)
+
+
 ## GEO ID 33932: Parthenopolis (Parthenon)
 [https://www.trismegistos.org/place/33932](https://www.trismegistos.org/place/33932)  
 
@@ -24117,6 +24131,13 @@
  - [Resaina/Theodosiopolis](https://pleiades.stoa.org/places/874662)
 
 
+## GEO ID 42132: Bubalia
+[https://www.trismegistos.org/place/42132](https://www.trismegistos.org/place/42132)  
+
+### alignments:
+ - [Bubalia](https://pleiades.stoa.org/places/876599)
+
+
 ## GEO ID 42133: Cunissa
 [https://www.trismegistos.org/place/42133](https://www.trismegistos.org/place/42133)  
 
@@ -25914,6 +25935,13 @@
 
 ### alignments:
  - [Tagus (river)](https://pleiades.stoa.org/places/256463)
+
+
+## GEO ID 43436
+[http://www.trismegistos.org/place/43436](http://www.trismegistos.org/place/43436)  
+
+### alignments:
+ - [Splonum](https://pleiades.stoa.org/places/197525)
 
 
 ## GEO ID 43444: Thunusuda (Sidi Meskine)
