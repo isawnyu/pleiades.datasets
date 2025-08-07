@@ -91,7 +91,12 @@ def get_pd_commits(recent):
                         success = True
                         break
             elif k == "bibliography":
-                alternate_keys = ["bibliogreaphy", "bibliogography", "bibligography"]
+                alternate_keys = [
+                    "bibliogreaphy",
+                    "bibliogography",
+                    "bibligography",
+                    "bibligoraphy",
+                ]
                 for alt_k in alternate_keys:
                     try:
                         c = commits[f"updated {alt_k}"]
