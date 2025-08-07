@@ -19,15 +19,15 @@
         },
         {
             "homepage": null,
-            "name": "Johan Åhlfeldt",
-            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-            "username": "jahlfeldt"
-        },
-        {
-            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt",
+            "username": "jahlfeldt"
         },
         {
             "homepage": null,
@@ -87,7 +87,7 @@
                 "description": "Representative point location, site precision",
                 "link": "https://pleiades.stoa.org/places/197067/dare-location",
                 "location_precision": "precise",
-                "snippet": "Fort; 30 BC - AD 640",
+                "snippet": "Unknown; 30 BC - AD 640",
                 "title": "DARE Location"
             },
             "type": "Feature"
@@ -280,7 +280,20 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-10-23T17:44:50Z",
             "creators": [
                 {
@@ -293,12 +306,8 @@
             "description": "Representative point location, site precision",
             "details": "",
             "end": 640,
-            "featureType": [
-                "fort"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     18.769386,
@@ -307,6 +316,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "removed deprecated place type",
+                    "modified": "2025-08-06T22:13:18Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-10-23T17:44:51Z",
@@ -332,9 +346,7 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
-            ],
+            "locationTypeURI": [],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
                 {
@@ -446,12 +458,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 20 F3 Ad Latus",
     "references": [
