@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.4840267,
-        41.8919597,
-        12.4840267,
-        41.8919597
+        12.484054,
+        41.8915232,
+        12.4855085,
+        41.8923855
     ],
     "connections": [
         {
@@ -173,7 +173,8 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/502866838",
         "https://pleiades.stoa.org/places/337325364",
-        "https://pleiades.stoa.org/places/423025"
+        "https://pleiades.stoa.org/places/423025",
+        "https://pleiades.stoa.org/places/380281017"
     ],
     "contributors": [
         {
@@ -204,23 +205,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.4840469,
-                    41.8919183
+                    [
+                        12.4851984,
+                        41.891533
+                    ],
+                    [
+                        12.4852275,
+                        41.8915232
+                    ],
+                    [
+                        12.4855085,
+                        41.8919874
+                    ],
+                    [
+                        12.4843358,
+                        41.8923855
+                    ],
+                    [
+                        12.4843163,
+                        41.8923768
+                    ],
+                    [
+                        12.4842917,
+                        41.8923383
+                    ],
+                    [
+                        12.484264,
+                        41.8922951
+                    ],
+                    [
+                        12.484054,
+                        41.8919508
+                    ],
+                    [
+                        12.4851984,
+                        41.891533
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "basilica-julia-southwest-corner",
+            "id": "osm-location-of-basilica-iulia",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/173078007/basilica-julia-southwest-corner",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/173078007/osm-location-of-basilica-iulia",
                 "location_precision": "precise",
-                "snippet": "Basilica, ; 330 BC - AD 300",
-                "title": "Basilica Julia (southwest corner)"
+                "snippet": "Basilica; 100 BC - AD 300",
+                "title": "OSM location of Basilica Iulia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-08-09T22:09:46Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added topostext, cleaned up other related references",
             "modified": "2020-07-26T15:43:35Z",
@@ -263,15 +303,15 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "first-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/first-bce"
                 },
                 {
                     "confidence": "confident",
@@ -280,7 +320,9 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2025-08-09T22:10:33Z",
+            "creators": [
                 {
                     "homepage": null,
                     "name": "Jeffrey Becker",
@@ -288,118 +330,108 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2013-02-12T10:43:42Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Tom Elliott",
-                    "uri": "https://pleiades.stoa.org/author/thomase",
-                    "username": "thomase"
-                }
-            ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "basilica",
-                ""
+                "basilica"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/basilica",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
             "geometry": {
                 "coordinates": [
-                    12.4840469,
-                    41.8919183
+                    [
+                        12.4851984,
+                        41.891533
+                    ],
+                    [
+                        12.4852275,
+                        41.8915232
+                    ],
+                    [
+                        12.4855085,
+                        41.8919874
+                    ],
+                    [
+                        12.4843358,
+                        41.8923855
+                    ],
+                    [
+                        12.4843163,
+                        41.8923768
+                    ],
+                    [
+                        12.4842917,
+                        41.8923383
+                    ],
+                    [
+                        12.484264,
+                        41.8922951
+                    ],
+                    [
+                        12.484054,
+                        41.8919508
+                    ],
+                    [
+                        12.4851984,
+                        41.891533
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Reimported full node geometry and updated provenance",
-                    "modified": "2023-07-27T23:00:23Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2015-07-06T16:11:47Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2025-08-11T15:04:57Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2015-07-06T16:05:26Z",
+                    "modified": "2025-08-09T22:11:06Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added reference",
-                    "modified": "2015-07-06T16:05:04Z",
+                    "comment": "add osm location",
+                    "modified": "2025-08-09T22:11:01Z",
                     "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-02-12T10:45:25Z",
-                    "modifiedBy": "thomase"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2013-02-12T10:43:44Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-08-09T22:10:33Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2013-02-12T10:43:43Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-08-09T22:10:33Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "basilica-julia-southwest-corner",
+            "id": "osm-location-of-basilica-iulia",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/basilica",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/basilica"
             ],
-            "provenance": "OpenStreetMap (Node 1446703247, version 2, osm:changeset=113349564, 2021-11-03T21:02:34Z)",
+            "provenance": "OpenStreetMap (Way 131451564, version 9, osm:changeset=136024956, 2023-05-12T16:00:25Z)",
             "references": [
                 {
-                    "accessURI": "http://www.openstreetmap.org/browse/node/1446703247",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/131451564",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 1446703247",
+                    "citationDetail": "Way 131451564",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=1446703247",
-                    "otherIdentifier": " ",
+                    "formattedCitation": "osm:way=131451564",
+                    "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://en.wikipedia.org/wiki/Basilica_Julia",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
-                    "citationDetail": "Basilica Julia",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Basilica Julia.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (English)",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0054%3Aalphabetic+letter%3DB%3Aentry+group%3D2%3Aentry%3Dbasilica-iulia",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Platner and Ashby 1929 (Perseus), BASILICA IULIA",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "Basilica Julia (southwest corner)",
-            "uri": "https://pleiades.stoa.org/places/173078007/basilica-julia-southwest-corner"
+            "start": -100,
+            "title": "OSM location of Basilica Iulia",
+            "uri": "https://pleiades.stoa.org/places/173078007/osm-location-of-basilica-iulia"
         }
     ],
     "names": [],
@@ -436,12 +468,12 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0054%3Aalphabetic+letter%3DB%3Aentry+group%3D2%3Aentry%3Dbasilica-iulia",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/H6XK259J",
+            "citationDetail": "BASILICA IULIA",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Platner and Ashby 1929 (Perseus), BASILICA IULIA",
+            "formattedCitation": "<div class=\"csl-entry\">Platner, Samuel Ball, and Thomas Ashby. <i>A Topographical Dictionary of Ancient Rome</i>. London: Oxford University Press, 1929. http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.04.0054.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Platner 1929 (Perseus)",
             "type": "seeFurther"
         },
         {
@@ -450,7 +482,7 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
             "citationDetail": "6269257: Basilica Iulia",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "GeoNames",
             "type": "citesAsRelated"
@@ -476,11 +508,66 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://publications.dainst.org/journals/rm/article/view/4607",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/LFGVT5Z4",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Montali, Ivana. “I pozzetti rituali sul fronte della Basilica Iulia e la riscoperta dei cd. calicetti di Giacomo Boni.” <i>Römische Mitteilungen</i> 130 (April 15, 2025). https://doi.org/10.34780/0r5yh137.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Montali 2025",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q616271",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Basilica Julia (Q616271)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://arachne.dainst.org/entity/5745",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "citationDetail": "Basilica Iulia Forum Romanum, Rom",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: iDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Arachne",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/813279761",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JC5ACZU7",
+            "citationDetail": "I (1993), pp. 177-179, s.v. \"Basilica Iulia\" (C. F. Giuliani and P. Verduchi)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Steinby, E.M., ed. <i>Lexicon Topographicum Urbis Romae</i>. 6 vols. Rome: Quasar, 2000. http://www.worldcat.org/oclc/813279761.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "LTUR",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JMB6FZSP",
+            "citationDetail": "I, 186 f., Abb. 208-211",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Nash, Ernest, and Deutsches Archäologisches Institut. <i>Pictorial Dictionary of Ancient Rome</i>. 2 vols. London: Thames &amp; Hudson, 1968.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Nash 1968",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.4840267,
-        41.8919597
+        12.484783766221632,
+        41.89196044352877
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
