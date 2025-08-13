@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3732 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
+3739 alignments exist in _Pleiades_ place references as of 2025-08-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2188,6 +2188,13 @@
 
 ### alignments:
  - [Antron(es)](https://pleiades.stoa.org/places/540644)
+
+
+## Anxanum (Italia) 4 Lanciano
+[https://topostext.org/place/422144UAnx](https://topostext.org/place/422144UAnx)  
+
+### alignments:
+ - [Anxanum](https://pleiades.stoa.org/places/413017)
 
 
 ## Aous R. (Illyria)
@@ -5530,6 +5537,13 @@
  - [Reginum/Castra Regina](https://pleiades.stoa.org/places/118929)
 
 
+## Castra Rubra/Castra Iarba (Thrace)
+[https://topostext.org/place/419361FCRu](https://topostext.org/place/419361FCRu)  
+
+### alignments:
+ - [Castra Iarba](https://pleiades.stoa.org/places/501384)
+
+
 ## Castrimoenium (Italy) 1 Marino
 [https://topostext.org/place/418127UCas](https://topostext.org/place/418127UCas)  
 
@@ -5556,6 +5570,13 @@
 
 ### alignments:
  - [Castrum Novum](https://pleiades.stoa.org/places/432772)
+
+
+## Castrum Novum (Picenum) 9 Giulianova
+[https://topostext.org/place/427140UCNo](https://topostext.org/place/427140UCNo)  
+
+### alignments:
+ - [Castrum Novum](https://pleiades.stoa.org/places/413073)
 
 
 ## Castrum Truentinum (Italia)
@@ -6839,7 +6860,7 @@
 [https://topostext.org/place/354252IDia](https://topostext.org/place/354252IDia)  
 
 ### alignments:
- - [Dia Ins.](https://pleiades.stoa.org/places/589755)
+ - [Dia (island)](https://pleiades.stoa.org/places/589755)
 
 
 ## Diabetai (Dodecanese)
@@ -17561,6 +17582,13 @@
  - [Pactolus (river)](https://pleiades.stoa.org/places/550794)
 
 
+## Paeligni tribe (Italy) 68 L'Aquila - Παιλιγνοί
+[https://topostext.org/place/421139RPae](https://topostext.org/place/421139RPae)  
+
+### alignments:
+ - [Paeligni](https://pleiades.stoa.org/places/413240)
+
+
 ## Paestum (Italy)
 [https://topostext.org/place/404150PPos](https://topostext.org/place/404150PPos)  
 
@@ -22551,6 +22579,13 @@
  - [Sklavokampos](https://pleiades.stoa.org/places/9547770)
 
 
+## Skodra (Dalmatia) 35 Shkoder - Σκόδρα
+[https://topostext.org/place/420195USko](https://topostext.org/place/420195USko)  
+
+### alignments:
+ - [Scodra](https://pleiades.stoa.org/places/481986)
+
+
 ## Skolopoeis (Ionia)
 [https://topostext.org/place/376272USko](https://topostext.org/place/376272USko)  
 
@@ -25080,6 +25115,13 @@
  - [Trogodos (mountain)](https://pleiades.stoa.org/places/707639)
 
 
+## Trogodytike region (Red Sea) 105 Eritrea - Τρωγλοδυτική
+[https://topostext.org/place/195372RTro](https://topostext.org/place/195372RTro)  
+
+### alignments:
+ - [Trogodytice](https://pleiades.stoa.org/places/39435)
+
+
 ## Troia (Egypt)
 [https://topostext.org/place/302312UTro](https://topostext.org/place/302312UTro)  
 
@@ -25519,6 +25561,13 @@
 
 ### alignments:
  - [Velitrae](https://pleiades.stoa.org/places/423117)
+
+
+## Velousia (Euboea)
+[https://topostext.org/place/384241SVel](https://topostext.org/place/384241SVel)  
+
+### alignments:
+ - [Velousia](https://pleiades.stoa.org/places/541171)
 
 
 ## Venafrum (Italy)

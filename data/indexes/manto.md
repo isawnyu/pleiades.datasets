@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-697 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
+699 alignments exist in _Pleiades_ place references as of 2025-08-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2200,6 +2200,13 @@
  - [Hydaspes/Bidaspes (river)](https://pleiades.stoa.org/places/59837)
 
 
+## 11299763: River Arar (Gaul)
+[https://resource.manto.unh.edu/11299763](https://resource.manto.unh.edu/11299763)  
+
+### alignments:
+ - [Arar (river)](https://pleiades.stoa.org/places/167652)
+
+
 ## 11299774: Lougdounon (Gaul)
 [https://resource.manto.unh.edu/11299774](https://resource.manto.unh.edu/11299774)  
 
@@ -2352,6 +2359,13 @@
 
 ### alignments:
  - [Calpe (mountain)](https://pleiades.stoa.org/places/256045)
+
+
+## 11305181: Patavium (Italy)
+[https://resource.manto.unh.edu/11305181](https://resource.manto.unh.edu/11305181)  
+
+### alignments:
+ - [Patavium](https://pleiades.stoa.org/places/393473)
 
 
 ## 11306299: the Steps of Cacios (Rome)

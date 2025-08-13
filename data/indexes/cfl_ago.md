@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-409 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
+410 alignments exist in _Pleiades_ place references as of 2025-08-13. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -97,6 +97,13 @@
 
 ### alignments:
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
+
+
+## 3419: PALAIOKASTRI AVLONARIOU - 2001
+[https://chronique.efa.gr/?kroute=report&id=3419](https://chronique.efa.gr/?kroute=report&id=3419)  
+
+### alignments:
+ - [Apollo, T.](https://pleiades.stoa.org/places/540652)
 
 
 ## 3988: SYKEONAS - 2004

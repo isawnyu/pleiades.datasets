@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2205 alignments exist in _Pleiades_ place references as of 2025-08-07. The following list of alignments is grouped by zotkey.
+2214 alignments exist in _Pleiades_ place references as of 2025-08-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3520,6 +3520,13 @@
  - [Betuctelum? (river)](https://pleiades.stoa.org/places/383590)
 
 
+## 2B1 (Talbert 2880)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2880.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2880.html)  
+
+### alignments:
+ - [Vocontii](https://pleiades.stoa.org/places/148241)
+
+
 ## 2B1 (Talbert 787)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace787.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace787.html)  
 
@@ -5753,6 +5760,13 @@
  - [Fossis](https://pleiades.stoa.org/places/393429)
 
 
+## 3B5 (Talbert 1133)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1133.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1133.html)  
+
+### alignments:
+ - [Septem Maria (Station)](https://pleiades.stoa.org/places/393493)
+
+
 ## 3B5 (Talbert 1134)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1134.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1134.html)  
 
@@ -5760,11 +5774,25 @@
  - [(H)Atria](https://pleiades.stoa.org/places/393436)
 
 
+## 3B5 (Talbert 1134)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1134.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1134.html)  
+
+### alignments:
+ - [*Hadriani](https://pleiades.stoa.org/places/393434)
+
+
 ## 3B5 (Talbert 1135)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1135.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1135.html)  
 
 ### alignments:
  - [Corniculani](https://pleiades.stoa.org/places/393409)
+
+
+## 3B5 (Talbert 1136)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1136.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1136.html)  
+
+### alignments:
+ - [*Neronia](https://pleiades.stoa.org/places/393457)
 
 
 ## 3B5 (Talbert 1148)
@@ -5797,7 +5825,7 @@
 
 
 ## 3B5 (Talbert 1152)
-[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1152.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1152.html)  
+[]()  
 
 ### alignments:
  - [Faventia](https://pleiades.stoa.org/places/393420)
@@ -6601,6 +6629,13 @@
  - [Sacis ad Padum](https://pleiades.stoa.org/places/393488)
 
 
+## 4B1 (Talbert 1138)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1138.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1138.html)  
+
+### alignments:
+ - [Augusta](https://pleiades.stoa.org/places/393386)
+
+
 ## 4B1 (Talbert 1139)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1139.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1139.html)  
 
@@ -6886,6 +6921,13 @@
 
 ### alignments:
  - [Centum Cellae](https://pleiades.stoa.org/places/413076)
+
+
+## 4B2 (Talbert 2967)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2967.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2967.html)  
+
+### alignments:
+ - [Insula Erkronis (island)](https://pleiades.stoa.org/places/397553752)
 
 
 ## 4B2 (Talbert 3364)
@@ -7411,6 +7453,13 @@
 
 ### alignments:
  - [Castrum Truentinum](https://pleiades.stoa.org/places/413074)
+
+
+## 4B5 (Talbert 1263)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1263.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1263.html)  
+
+### alignments:
+ - [Castrum Novum](https://pleiades.stoa.org/places/413073)
 
 
 ## 4B5 (Talbert 1288)
@@ -13925,6 +13974,20 @@
 
 ### alignments:
  - [Babylon](https://pleiades.stoa.org/places/727082)
+
+
+## 8C4 (Talbert 425)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace425.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace425.html)  
+
+### alignments:
+ - [Stratonicidi](https://pleiades.stoa.org/places/479125098)
+
+
+## 8C4 (Talbert 427)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace427.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace427.html)  
+
+### alignments:
+ - [Simiati](https://pleiades.stoa.org/places/375595066)
 
 
 ## 8C4 (Talbert 429)
