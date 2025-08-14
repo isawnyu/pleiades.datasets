@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8806 alignments exist in _Pleiades_ place references as of 2025-08-13. The following list of alignments is grouped by zotkey.
+8814 alignments exist in _Pleiades_ place references as of 2025-08-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -32651,6 +32651,13 @@
  - [Trebula Balli(ni)ensium](https://pleiades.stoa.org/places/433164)
 
 
+## Q116383431
+[https://www.wikidata.org/wiki/Q116383431](https://www.wikidata.org/wiki/Q116383431)  
+
+### alignments:
+ - [Talamone](https://pleiades.stoa.org/places/413331)
+
+
 ## Q116440: Arpino
 [https://www.wikidata.org/wiki/Q116440](https://www.wikidata.org/wiki/Q116440)  
 
@@ -44284,6 +44291,13 @@
  - [Casale di Giovio](https://pleiades.stoa.org/places/770702014)
 
 
+## Q55379372
+[https://www.wikidata.org/wiki/Q55379372](https://www.wikidata.org/wiki/Q55379372)  
+
+### alignments:
+ - [Aquae Populoniae](https://pleiades.stoa.org/places/409214)
+
+
 ## Q555201: Roman Theatre at Palmyra
 [https://www.wikidata.org/wiki/Q555201](https://www.wikidata.org/wiki/Q555201)  
 
@@ -51397,6 +51411,13 @@
  - [Iustiniani Pons](https://pleiades.stoa.org/places/844957)
 
 
+## Sangro (Q71621)
+[https://www.wikidata.org/wiki/Q71621](https://www.wikidata.org/wiki/Q71621)  
+
+### alignments:
+ - [Sagrus (river)](https://pleiades.stoa.org/places/413294)
+
+
 ## Sanquhar Roman fortlet (Q132798407)
 [https://www.wikidata.org/wiki/Q132798407](https://www.wikidata.org/wiki/Q132798407)  
 
@@ -52348,6 +52369,13 @@
 ### alignments:
  - [Senones](https://pleiades.stoa.org/places/109337)
  - [Senones](https://pleiades.stoa.org/places/413311)
+
+
+## Sentinum (Q683244)
+[https://www.wikidata.org/wiki/Q683244](https://www.wikidata.org/wiki/Q683244)  
+
+### alignments:
+ - [Sentinum](https://pleiades.stoa.org/places/413312)
 
 
 ## Septimer Pass (Q667166)
@@ -53519,6 +53547,13 @@
  - [*Cunus Aureus](https://pleiades.stoa.org/places/187356)
 
 
+## Spoleto (Q20571)
+[https://www.wikidata.org/wiki/Q20571](https://www.wikidata.org/wiki/Q20571)  
+
+### alignments:
+ - [Spoletium](https://pleiades.stoa.org/places/413320)
+
+
 ## Square Castan (Q3494520)
 [https://www.wikidata.org/wiki/Q3494520](https://www.wikidata.org/wiki/Q3494520)  
 
@@ -53678,6 +53713,13 @@
 
 ### alignments:
  - [Stari Grad Plain](https://pleiades.stoa.org/places/721484283)
+
+
+## Statonia (Q3497561)
+[https://www.wikidata.org/wiki/Q3497561](https://www.wikidata.org/wiki/Q3497561)  
+
+### alignments:
+ - [Piammiano](https://pleiades.stoa.org/places/413321)
 
 
 ## Statua Valeriana (Q124092576)
@@ -54567,6 +54609,13 @@
 
 ### alignments:
  - [Tbilisi](https://pleiades.stoa.org/places/863903)
+
+
+## Teate (Q3554226)
+[https://www.wikidata.org/wiki/Q3554226](https://www.wikidata.org/wiki/Q3554226)  
+
+### alignments:
+ - [Teate](https://pleiades.stoa.org/places/413333)
 
 
 ## Tebaga Gap (Q17023325)
@@ -56655,6 +56704,13 @@
  - [Tiran Island](https://pleiades.stoa.org/places/594456491)
 
 
+## Tirino (Q541292)
+[https://www.wikidata.org/wiki/Q541292](https://www.wikidata.org/wiki/Q541292)  
+
+### alignments:
+ - [Tirinus (river)](https://pleiades.stoa.org/places/413343)
+
+
 ## Tirsos (Q109690241)
 [https://www.wikidata.org/wiki/Q109690241](https://www.wikidata.org/wiki/Q109690241)  
 
@@ -57191,7 +57247,7 @@
 [https://www.wikidata.org/wiki/Q672208](https://www.wikidata.org/wiki/Q672208)  
 
 ### alignments:
- - [Batinus? (river)](https://pleiades.stoa.org/places/413053)
+ - [Batinus (river)](https://pleiades.stoa.org/places/413053)
 
 
 ## Tormarancia (Q3993559)
