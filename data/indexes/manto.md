@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-699 alignments exist in _Pleiades_ place references as of 2025-08-14. The following list of alignments is grouped by zotkey.
+701 alignments exist in _Pleiades_ place references as of 2025-08-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -106,6 +106,13 @@
  - [Typhrestos/Tymphrestos (mountain)](https://pleiades.stoa.org/places/542836711)
 
 
+## 10057166: Mount Cercaphos (Asia Minor)
+[https://resource.manto.unh.edu/10057166](https://resource.manto.unh.edu/10057166)  
+
+### alignments:
+ - [Kerkaphos (mountain)](https://pleiades.stoa.org/places/599709)
+
+
 ## 10057190: Mallos
 [https://resource.manto.unh.edu/10057190](https://resource.manto.unh.edu/10057190)  
 
@@ -125,6 +132,13 @@
 
 ### alignments:
  - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
+
+
+## 10073062: Cromna (Argolid)
+[https://resource.manto.unh.edu/10073062](https://resource.manto.unh.edu/10073062)  
+
+### alignments:
+ - [Kromna](https://pleiades.stoa.org/places/570387)
 
 
 ## 10073065: Elaious

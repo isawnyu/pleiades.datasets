@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4599 alignments exist in _Pleiades_ place references as of 2025-08-14. The following list of alignments is grouped by zotkey.
+4601 alignments exist in _Pleiades_ place references as of 2025-08-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15575,7 +15575,7 @@
  - [Vettona](https://pleiades.stoa.org/places/413377)
 
 
-## GEO ID 32265
+## GEO ID 32265: Urvinum Mataurense (Urbino)
 [http://www.trismegistos.org/place/32265](http://www.trismegistos.org/place/32265)  
 
 ### alignments:
@@ -25377,6 +25377,13 @@
  - [Aequiculi](https://pleiades.stoa.org/places/413001)
 
 
+## GEO ID 42734: Aequi
+[http://www.trismegistos.org/place/42734](http://www.trismegistos.org/place/42734)  
+
+### alignments:
+ - [Aequi](https://pleiades.stoa.org/places/422822)
+
+
 ## GEO ID 42743: Aquae Sinuessanae (Casino di Transo)
 [https://www.trismegistos.org/place/42743](https://www.trismegistos.org/place/42743)  
 
@@ -26678,7 +26685,7 @@
 [http://www.trismegistos.org/place/43898](http://www.trismegistos.org/place/43898)  
 
 ### alignments:
- - [Atessa](https://pleiades.stoa.org/places/432707)
+ - [Atessa/Porcari Sanctuary](https://pleiades.stoa.org/places/432707)
 
 
 ## GEO ID 43899: Batia
@@ -27309,6 +27316,13 @@
 
 ### alignments:
  - [Trasumennus (Lake)](https://pleiades.stoa.org/places/413347)
+
+
+## GEO ID 45436: Acqua Acetosa
+[https://www.trismegistos.org/place/45436](https://www.trismegistos.org/place/45436)  
+
+### alignments:
+ - [Acqua Acetosa](https://pleiades.stoa.org/places/422802)
 
 
 ## GEO ID 45437: Afilae (Affile)
