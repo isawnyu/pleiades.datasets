@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        12.5,
-        41.75,
-        12.75,
-        42.0
+        12.506583,
+        41.874583,
+        12.506583,
+        41.874583
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/93042695",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:41:48Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located near; wikipedia reference",
+                    "modified": "2025-08-15T15:20:36Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:41:48Z",
@@ -46,7 +58,19 @@
             ],
             "id": "93042695",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://en.wikipedia.org/wiki/Catacomb_of_Santi_Gordiano_ed_Epimaco",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+                    "citationDetail": "Catacomb of Santi Gordiano ed Epimaco",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (English)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Latina",
@@ -80,7 +104,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T22:29:07Z",
+    "created": "2025-08-15T15:18:53Z",
     "creators": [
         {
             "name": "L. Quilici",
@@ -97,43 +121,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            12.5,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            12.5,
-                            42.0
-                        ],
-                        [
-                            12.5,
-                            41.75
-                        ]
-                    ]
+                    12.506583,
+                    41.874583
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "imagery-location-of-catacomb-of-saints-gordian-and-epimachus",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/426596/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Coordinates following GeoHack",
+                "link": "https://pleiades.stoa.org/places/426596/imagery-location-of-catacomb-of-saints-gordian-and-epimachus",
+                "location_precision": "precise",
+                "snippet": "Cemetery",
+                "title": "Imagery location of Catacomb of Saints Gordian and Epimachus"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "adjusted and added Wikipedia references",
+            "modified": "2025-08-15T15:19:54Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-08-15T15:18:53Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "wikidata Catacomb of Saints Gordian and Epimachus (Q3663163)",
+            "modified": "2025-08-15T12:13:40Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-06-19T02:23:11Z",
@@ -189,126 +208,173 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geohack-accuracy-assessment",
+            "accuracy_value": 2000.0,
+            "archaeologicalRemains": "notvisible",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-08-15T12:15:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Coordinates following GeoHack",
+            "details": "",
+            "end": null,
+            "featureType": [
+                "cemetery"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.506583,
+                    41.874583
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-08-15T15:18:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "adjusted coordinates",
+                    "modified": "2025-08-15T15:15:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-08-15T12:15:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add imagery location",
+                    "modified": "2025-08-15T12:15:34Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-08-15T12:15:32Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "imagery-location-of-catacomb-of-saints-gordian-and-epimachus",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q3663163",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Catacomb of Saints Gordian and Epimachus (Q3663163)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Imagery location of Catacomb of Saints Gordian and Epimachus",
+            "uri": "https://pleiades.stoa.org/places/426596/imagery-location-of-catacomb-of-saints-gordian-and-epimachus"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T22:29:07Z",
+            "attested": "Catacomb of Saints Gordian and Epimachus",
+            "contributors": [],
+            "created": "2025-08-15T12:12:41Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "description": "",
             "details": "",
-            "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            12.5,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            12.5,
-                            42.0
-                        ],
-                        [
-                            12.5,
-                            41.75
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
+            "end": 2099,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:58:21Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-11T05:12:23Z",
+                    "modified": "2025-08-15T15:18:47Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-10T22:38:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-15T12:12:47Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name - Catacomb of Saints Gordian and Epimachus",
+                    "modified": "2025-08-15T12:12:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-10T22:29:07Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-15T12:12:41Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "catacomb-of-saints-gordian-and-epimachus",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q3663163",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Catacomb of Saints Gordian and Epimachus (Q3663163)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 43 C2 20",
-            "references": [],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/426596/batlas-location"
+            "romanized": "Catacomb of Saints Gordian and Epimachus",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/426596/catacomb-of-saints-gordian-and-epimachus"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
     ],
@@ -344,11 +410,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
             "citationDetail": "Gordianus and Epimachus",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
             "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Gordianus and Epimachus.",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
-            "type": "seeFurther"
+            "type": "seeAlso"
         },
         {
             "accessURI": "",
@@ -360,11 +426,33 @@
             "otherIdentifier": "",
             "shortTitle": "BAtlDir",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3663163",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Catacomb of Saints Gordian and Epimachus (Q3663163)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Catacomb_of_Santi_Gordiano_ed_Epimaco",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Catacomb of Santi Gordiano ed Epimaco",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        12.625,
-        41.875
+        12.506583,
+        41.874583
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

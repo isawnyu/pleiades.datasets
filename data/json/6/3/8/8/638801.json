@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        29.0,
-        36.0,
-        29.5,
-        36.5
+        29.150057929367378,
+        36.42260401052265,
+        29.20195784238394,
+        36.42620895394556
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,17 +14,25 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2011-01-10T22:55:07Z",
+    "created": "2025-08-15T16:24:05Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -35,49 +43,64 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 65 B5 Chimaera",
-    "details": "The Barrington Atlas Directory notes: Avlan valley",
+    "description": "Strabo places the myth of the Lycian monster Chimaira in the Kragos mountains, noting a nearby chasm or ravine (φάραγξ) named after the monster that he says extends up from the shore. BAtlas 65 places the label \"Chimaera\" along the low pass between the Kragos and Antikragos, i.e., from the modern Sancaklık Koyu (where the ancient settlement of Kalabantia was located) to roughly the area of the modern village of Boğaziçi in Turkey's Seydikemer district (Muğla Province). A western neighborhood of that village, Avlan, preserves the modern name of the ravine identified in RE Kragos 1, \"Tal von Alwan\" (sic) and in BAtlDir: \"Avlan valley\".",
+    "details": "<p>The Barrington Atlas Directory notes: Avlan valley</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            29.0,
-                            36.0
-                        ],
-                        [
-                            29.5,
-                            36.0
-                        ],
-                        [
-                            29.5,
-                            36.5
-                        ],
-                        [
-                            29.0,
-                            36.5
-                        ],
-                        [
-                            29.0,
-                            36.0
-                        ]
+                        29.150057929367378,
+                        36.42597601827318
+                    ],
+                    [
+                        29.16041313105441,
+                        36.42620895394556
+                    ],
+                    [
+                        29.166116539426987,
+                        36.425913570708
+                    ],
+                    [
+                        29.173419684767754,
+                        36.425955864081814
+                    ],
+                    [
+                        29.181779454678047,
+                        36.425272700510284
+                    ],
+                    [
+                        29.189051200620696,
+                        36.42472511750912
+                    ],
+                    [
+                        29.194728235190013,
+                        36.42393760756913
+                    ],
+                    [
+                        29.20195784238394,
+                        36.42260401052265
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/638801/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Geometry extracted in QGIS from raster image of BAtlas Map 65, digitized and georegistered by the Ancient World Mapping Center in 2006.",
+                "link": "https://pleiades.stoa.org/places/638801/batlas-label-location",
+                "location_precision": "precise",
+                "snippet": "Unknown",
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; place type = valley; title; added MANTO reference; added Wikipedia reference; summary; added OSM Avlan reference; added Geonames reference; linked RE reference @thomase",
+            "modified": "2025-08-15T21:33:16Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:26:01Z",
@@ -108,129 +131,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2011-01-10T22:55:09Z",
+            "attestations": [],
+            "contributors": [],
+            "created": "2025-08-15T17:21:07Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "S. Mitchell",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Geometry extracted in QGIS from raster image of BAtlas Map 65, digitized and georegistered by the Ancient World Mapping Center in 2006.",
             "details": "",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "end": null,
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            29.0,
-                            36.0
-                        ],
-                        [
-                            29.5,
-                            36.0
-                        ],
-                        [
-                            29.5,
-                            36.5
-                        ],
-                        [
-                            29.0,
-                            36.5
-                        ],
-                        [
-                            29.0,
-                            36.0
-                        ]
+                        29.150057929367378,
+                        36.42597601827318
+                    ],
+                    [
+                        29.16041313105441,
+                        36.42620895394556
+                    ],
+                    [
+                        29.166116539426987,
+                        36.425913570708
+                    ],
+                    [
+                        29.173419684767754,
+                        36.425955864081814
+                    ],
+                    [
+                        29.181779454678047,
+                        36.425272700510284
+                    ],
+                    [
+                        29.189051200620696,
+                        36.42472511750912
+                    ],
+                    [
+                        29.194728235190013,
+                        36.42393760756913
+                    ],
+                    [
+                        29.20195784238394,
+                        36.42260401052265
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:26:01Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-10T23:28:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-15T21:33:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-10T23:20:53Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-15T17:21:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-08-15T17:21:11Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-10T22:55:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-15T17:21:07Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "65 B5 Chimaera",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 65 B5 Chimaera",
-            "references": [],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/638801/batlas-location"
+            "start": null,
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/638801/batlas-label-location"
         }
     ],
     "names": [
@@ -242,30 +245,14 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "attested": "",
+            "attested": "Chimaera",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -273,9 +260,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2011-01-10T22:55:08Z",
+            "created": "2025-08-15T17:21:53Z",
             "creators": [
                 {
                     "name": "C. Foss",
@@ -288,8 +281,13 @@
             ],
             "description": "",
             "details": "",
-            "end": 300,
+            "end": 1999,
             "history": [
+                {
+                    "comment": "batlas label; reference; 20th century @thomase",
+                    "modified": "2025-08-15T21:33:56Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:26:01Z",
@@ -312,23 +310,251 @@
                 }
             ],
             "id": "chimaera",
-            "language": "",
-            "nameType": "geographic",
+            "language": "en",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 65 B5 Chimaera",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "65 B5 Chimaera",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "romanized": "Chimaera",
-            "start": -550,
+            "start": 1900,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/638801/chimaera"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Avlan valley",
+            "contributors": [],
+            "created": "2025-08-15T17:32:02Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-08-15T21:34:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-08-15T17:32:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-08-15T17:32:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-08-15T17:32:02Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "avlan-valley",
+            "language": "en",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 998 see \"Chimaera\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Avlan valley",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/638801/avlan-valley"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Χίμαιρα φάραγξ",
+            "contributors": [],
+            "created": "2025-08-15T17:34:15Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-08-15T21:34:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-08-15T17:34:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-08-15T17:34:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-08-15T17:34:15Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "chimaira-pharanx",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.3.5",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "14.3.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Chimaira pharanx",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/638801/chimaira-pharanx"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Tal von Alwan",
+            "contributors": [],
+            "created": "2025-08-15T17:39:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-08-15T21:34:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-08-15T17:39:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-08-15T17:39:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-08-15T17:39:13Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "tal-von-alwan",
+            "language": "de",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://elexikon.ch/RE/XI,2_1569.png",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Kragos 1 (W. Ruge)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Tal von Alwan, Alwan",
+            "start": 1900,
+            "transcriptionAccuracy": "inaccurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/638801/tal-von-alwan"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/valley"
     ],
     "placeTypes": [
-        "unknown"
+        "valley"
     ],
     "provenance": "Barrington Atlas: BAtlas 65 B5 Chimaera",
     "references": [
@@ -344,25 +570,69 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Chimaira_2",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Chimaira-2",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Chimaira 2",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Chimaira 2",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/11311160",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "11311160: the Chasm of Chimaira (Lycia)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Chimera_(mythology)",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Chimera (mythology)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeAlso"
+        },
+        {
+            "accessURI": "https://www.openstreetmap.org/node/4883747251",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+            "citationDetail": "Node: Avlan (4883747251)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "OSM",
+            "type": "seeAlso"
+        },
+        {
+            "accessURI": "https://www.geonames.org/322898/avlan.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "322898: Avlan",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "GeoNames",
+            "type": "seeAlso"
         }
     ],
     "reprPoint": [
-        29.25,
-        36.25
+        29.176078338285603,
+        36.42524557560191
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Chimaera",
+    "title": "Chimaira",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/638801"
 }

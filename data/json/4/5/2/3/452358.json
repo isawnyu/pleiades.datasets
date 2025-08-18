@@ -73,6 +73,7 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/1356",
         "https://pleiades.stoa.org/places/452261",
+        "https://pleiades.stoa.org/places/452489",
         "https://pleiades.stoa.org/places/452359"
     ],
     "contributors": [
@@ -99,7 +100,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-10-04T18:04:45Z",
+    "created": "2025-08-15T21:34:43Z",
     "creators": [
         {
             "name": "I.E.M. Edlund Berry",
@@ -110,7 +111,7 @@
             "username": null
         }
     ],
-    "description": "Lametikos Kolpos (sometimes also referred to as Vibonensis Sinus) is the modern-day Gulf of Saint Euphemia (Italian: Golfo di Santa Eufemia or Golfo di Sant'Eufemia) and is part of the Tyrrhenian Sea. It is located on the west coast of Calabria.",
+    "description": "The name \"Lametikos Kolpos\" is given by Aristotle in a passage of the Politics to the body of water into which the river Lametus (modern Amato in Calabria, Italy) flows, i.e., the modern-day Gulf of Saint Euphemia (Italian: Golfo di Santa Eufemia or Golfo di Sant'Eufemia). Other ancient sources provide several other names for the same modern gulf, but BAtlas treated this one as separate, placing the label for \"Lametikos Kolpos\" in the north in the immediate vicinity of the river mouth and the other primary label (Vibonensis Sinus) more centrally in the southern half.",
     "details": "<p>The Barrington Atlas Directory notes: Gulf of S. Eufemia</p>",
     "features": [
         {
@@ -133,6 +134,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary; removed out-of-date Smith reference; removed Cicero reference; place type = bay; updated Artistotle reference @thomase",
+            "modified": "2025-08-16T00:45:52Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "added link to RE reference",
+            "modified": "2025-08-15T21:34:27Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-01-08T17:22:50Z",
@@ -291,15 +302,24 @@
             "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                }
+            ],
+            "attested": "Λαμητικὸς κόλπος",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -307,9 +327,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-10-04T18:04:45Z",
+            "created": "2025-08-15T22:24:54Z",
             "creators": [
                 {
                     "name": "I.E.M. Edlund Berry",
@@ -322,8 +348,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": -30,
             "history": [
+                {
+                    "comment": "Greek; attested form; Aristotle reference; classical and hellenistic periods; Edited @thomase",
+                    "modified": "2025-08-16T00:54:52Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:14:29Z",
@@ -346,13 +377,25 @@
                 }
             ],
             "id": "lametikos-kolpos",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 46 D4 Lametikos Kolpos",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:7.1329b",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZI5UWWXC",
+                    "citationDetail": "7.1329b",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Aristotle. <i>Politica</i>. Edited by William David Ross. Oxford Classical Texts. Oxonii: E. Typographeo Clarendoniano, 1921. http://data.perseus.org/texts/urn:cts:greekLit:tlg0086.tlg035.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Aristot. Pol. (Ross; Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Lametikos Kolpos",
-            "start": null,
+            "start": -550,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/452358/lametikos-kolpos"
@@ -505,306 +548,15 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/452358/gulf-of-saint-euphemia"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "attested": "Terinaeus sinus",
-            "contributors": [],
-            "created": "2025-01-08T17:11:32Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2025-01-08T21:23:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2025-01-08T17:11:39Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "add Latin name, add Pliny NH ref.",
-                    "modified": "2025-01-08T17:11:34Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2025-01-08T17:11:32Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "terinaeus-sinus",
-            "language": "la",
-            "nameType": "geographic",
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://latin.packhum.org/loc/978/1/248/565-574",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
-                    "citationDetail": "3.95.10",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
-                    "type": "citesAsEvidence"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "Terinaeus sinus",
-            "start": -30,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/452358/terinaeus-sinus"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "attested": "Ἱππωνιάτης κόλπος",
-            "contributors": [],
-            "created": "2025-01-08T17:12:28Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2025-01-08T21:23:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2025-01-08T17:19:01Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "add Strabo reference to Greek name, set time period = R",
-                    "modified": "2025-01-08T17:18:55Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "Greek name",
-                    "modified": "2025-01-08T17:12:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2025-01-08T17:12:28Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "hipponiates-kolpos",
-            "language": "grc",
-            "nameType": "geographic",
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:6.1.4",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
-                    "citationDetail": "6.1.4",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Str. (Meineke: Perseus)",
-                    "type": "citesAsEvidence"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "Hipponiates kolpos",
-            "start": -30,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/452358/hipponiates-kolpos"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                }
-            ],
-            "attested": "sinus Vibonensis",
-            "contributors": [],
-            "created": "2025-01-08T17:13:57Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 300,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2025-01-08T21:23:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2025-01-08T17:20:30Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "add Latin name, add Pliny NH ref.",
-                    "modified": "2025-01-08T17:13:59Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2025-01-08T17:13:57Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "sinus-vibonensis",
-            "language": "la",
-            "nameType": "geographic",
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "https://latin.packhum.org/loc/978/1/241/646-662",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
-                    "citationDetail": "3.72.4",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
-                    "type": "citesAsEvidence"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "sinus Vibonensis",
-            "start": -30,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/452358/sinus-vibonensis"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                }
-            ],
-            "attested": "Τεριναῖος κόλπος",
-            "contributors": [],
-            "created": "2025-01-08T17:16:33Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": -330,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2025-01-08T21:23:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2025-01-08T17:16:40Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "add Greek name, Thuc. ref.",
-                    "modified": "2025-01-08T17:16:34Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2025-01-08T17:16:33Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "terinaios-kolpos",
-            "language": "grc",
-            "nameType": "geographic",
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1:6.104",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
-                    "citationDetail": "6.104.2",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
-                    "otherIdentifier": "",
-                    "shortTitle": "Thuc. Hist. (Jones; Perseus)",
-                    "type": "citesAsEvidence"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "Terinaios kolpos",
-            "start": -550,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/452358/terinaios-kolpos"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/water-open"
+        "https://pleiades.stoa.org/vocabularies/place-types/water-open",
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "water-open"
+        "water-open",
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 46 D4 Lametikos Kolpos",
     "references": [
@@ -820,10 +572,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/XII,1_545.png",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Lametus",
+            "citationDetail": "Lametus (H. Philipp)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
@@ -840,28 +592,6 @@
             "otherIdentifier": "",
             "shortTitle": "BTCGI",
             "type": "seeFurther"
-        },
-        {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:id=hipponiates-sinus-geo",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
-            "citationDetail": "HIPPONIÁTES SINUS",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
-            "otherIdentifier": " ",
-            "shortTitle": "Smith 1854 (Perseus)",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "https://latin.packhum.org/loc/474/57/435/313-323",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Cic. Epistulae ad Atticum 16.6.1.4",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "citesAsEvidence"
         },
         {
             "accessURI": "https://it.wikipedia.org/wiki/Golfo_di_Sant'Eufemia",
@@ -886,15 +616,15 @@
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg035.perseus-eng1:7.1329b",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg035.perseus-grc1:7.1329b",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Aristot. Pol. 7.1329b",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZI5UWWXC",
+            "citationDetail": "7.1329b",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Aristotle. <i>Politica</i>. Edited by William David Ross. Oxford Classical Texts. Oxonii: E. Typographeo Clarendoniano, 1921. http://data.perseus.org/texts/urn:cts:greekLit:tlg0086.tlg035.perseus-grc1.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Aristot. Pol. (Ross; Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
