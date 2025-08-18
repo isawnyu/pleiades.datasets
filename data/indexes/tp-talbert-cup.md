@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2214 alignments exist in _Pleiades_ place references as of 2025-08-15. The following list of alignments is grouped by zotkey.
+2217 alignments exist in _Pleiades_ place references as of 2025-08-18. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1828,6 +1828,13 @@
  - [Harenatium](https://pleiades.stoa.org/places/98976)
 
 
+## 1A4 (Talbert 570)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace570.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace570.html)  
+
+### alignments:
+ - [Burginatium](https://pleiades.stoa.org/places/108837)
+
+
 ## 1A4 (Talbert 576)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace576.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace576.html)  
 
@@ -1980,6 +1987,13 @@
 
 ### alignments:
  - [Nitiobroges/Nitiobriges](https://pleiades.stoa.org/places/138487)
+
+
+## 1A5 (Talbert 571)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace571.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace571.html)  
+
+### alignments:
+ - [Col. Ulpia Traiana/Tricensimae](https://pleiades.stoa.org/places/108896)
 
 
 ## 1A5 (Talbert 572)
@@ -14247,6 +14261,13 @@
 
 ### alignments:
  - [Zephyrion](https://pleiades.stoa.org/places/857383)
+
+
+## 9A4 (Talbert 2243)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2243.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2243.html)  
+
+### alignments:
+ - [Sauronisena/Saurania?](https://pleiades.stoa.org/places/857307)
 
 
 ## 9A4 (Talbert 2401)

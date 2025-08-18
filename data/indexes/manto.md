@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-701 alignments exist in _Pleiades_ place references as of 2025-08-15. The following list of alignments is grouped by zotkey.
+705 alignments exist in _Pleiades_ place references as of 2025-08-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -146,6 +146,13 @@
 
 ### alignments:
  - [Elaious](https://pleiades.stoa.org/places/501411)
+
+
+## 10073075: Mount Cragos (Lycia)
+[https://resource.manto.unh.edu/10073075](https://resource.manto.unh.edu/10073075)  
+
+### alignments:
+ - [Kragos (mountain)](https://pleiades.stoa.org/places/638942)
 
 
 ## 10082237: Dyme
@@ -2130,6 +2137,13 @@
  - [Triphylia](https://pleiades.stoa.org/places/570754)
 
 
+## 11293793: the Rock of Sarpedon (Thrace)
+[https://resource.manto.unh.edu/11293793](https://resource.manto.unh.edu/11293793)  
+
+### alignments:
+ - [Sarpedon (promontory in Thrace)](https://pleiades.stoa.org/places/501602)
+
+
 ## 11294410: Bembina
 [https://resource.manto.unh.edu/11294410](https://resource.manto.unh.edu/11294410)  
 
@@ -2247,6 +2261,13 @@
 
 ### alignments:
  - [Babylon](https://pleiades.stoa.org/places/893951)
+
+
+## 11300224: River Araxes (Armenia)
+[https://resource.manto.unh.edu/11300224](https://resource.manto.unh.edu/11300224)  
+
+### alignments:
+ - [Araxes (river)](https://pleiades.stoa.org/places/884118)
 
 
 ## 11300730: Troy (Egypt)
@@ -2605,6 +2626,13 @@
 
 ### alignments:
  - [Troikon Oros](https://pleiades.stoa.org/places/737096)
+
+
+## 11311160: the Chasm of Chimaira (Lycia)
+[https://resource.manto.unh.edu/11311160](https://resource.manto.unh.edu/11311160)  
+
+### alignments:
+ - [Chimaira](https://pleiades.stoa.org/places/638801)
 
 
 ## 11311527: Astyra (Troad)

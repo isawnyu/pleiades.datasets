@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4601 alignments exist in _Pleiades_ place references as of 2025-08-15. The following list of alignments is grouped by zotkey.
+4612 alignments exist in _Pleiades_ place references as of 2025-08-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9341,6 +9341,13 @@
  - [Col. Arausio](https://pleiades.stoa.org/places/148054)
 
 
+## GEO ID 19890
+[http://www.trismegistos.org/place/19890](http://www.trismegistos.org/place/19890)  
+
+### alignments:
+ - [Col. Ulpia Traiana/Tricensimae](https://pleiades.stoa.org/places/108896)
+
+
 ## GEO ID 19892: Celeia (Celje)
 [http://www.trismegistos.org/place/19892](http://www.trismegistos.org/place/19892)  
 
@@ -11219,6 +11226,13 @@
  - [Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
 
+## GEO ID 23724
+[http://www.trismegistos.org/place/23724](http://www.trismegistos.org/place/23724)  
+
+### alignments:
+ - [Noviomagus Lexoviorum](https://pleiades.stoa.org/places/69540)
+
+
 ## GEO ID 23734: Noviodunum Diablintum (Jublains)
 [https://www.trismegistos.org/place/23734](https://www.trismegistos.org/place/23734)  
 
@@ -11630,6 +11644,13 @@
 
 ### alignments:
  - [Tolbiacum](https://pleiades.stoa.org/places/109382)
+
+
+## GEO ID 24596
+[http://www.trismegistos.org/place/24596](http://www.trismegistos.org/place/24596)  
+
+### alignments:
+ - [Burginatium](https://pleiades.stoa.org/places/108837)
 
 
 ## GEO ID 24622: Novaesium (Neuss)
@@ -15266,6 +15287,13 @@
  - [Vignanello](https://pleiades.stoa.org/places/413383)
 
 
+## GEO ID 32056: Soracte (Monte Soratte)
+[https://www.trismegistos.org/place/32056](https://www.trismegistos.org/place/32056)  
+
+### alignments:
+ - [Soracte (mountain)](https://pleiades.stoa.org/places/413317)
+
+
 ## GEO ID 32058
 [http://www.trismegistos.org/place/32058](http://www.trismegistos.org/place/32058)  
 
@@ -18340,6 +18368,13 @@
  - [Ashqelon/Ascalon](https://pleiades.stoa.org/places/687839)
 
 
+## GEO ID 34986: Kindsbach
+[https://www.trismegistos.org/place/34986](https://www.trismegistos.org/place/34986)  
+
+### alignments:
+ - [Kindsbach](https://pleiades.stoa.org/places/109082)
+
+
 ## GEO ID 34: Abydos
 [http://www.trismegistos.org/place/34](http://www.trismegistos.org/place/34)  
 
@@ -18380,6 +18415,13 @@
 
 ### alignments:
  - [Rhenus (river)](https://pleiades.stoa.org/places/109277)
+
+
+## GEO ID 35095: Saalburg
+[https://www.trismegistos.org/place/35095](https://www.trismegistos.org/place/35095)  
+
+### alignments:
+ - [Saalburg](https://pleiades.stoa.org/places/109297)
 
 
 ## GEO ID 35102: Vicus Bibiensium (Sandweier)
@@ -19726,6 +19768,13 @@
  - [Phasis/Rheon (river)](https://pleiades.stoa.org/places/863867)
 
 
+## GEO ID 38198: Pityous (Pitsunda)
+[https://www.trismegistos.org/place/38198](https://www.trismegistos.org/place/38198)  
+
+### alignments:
+ - [Pityous](https://pleiades.stoa.org/places/857283)
+
+
 ## GEO ID 38201: Vani
 [https://www.trismegistos.org/place/38201](https://www.trismegistos.org/place/38201)  
 
@@ -20685,6 +20734,13 @@
 
 ### alignments:
  - [Marcellianum](https://pleiades.stoa.org/places/442645)
+
+
+## GEO ID 40503: Sentianum
+[https://www.trismegistos.org/place/40503](https://www.trismegistos.org/place/40503)  
+
+### alignments:
+ - [Sentianum](https://pleiades.stoa.org/places/438830)
 
 
 ## GEO ID 40504: Beleianum
@@ -22337,6 +22393,13 @@
 
 ### alignments:
  - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
+
+
+## GEO ID 41390: Sauronisena (Gölköy)
+[https://www.trismegistos.org/place/41390](https://www.trismegistos.org/place/41390)  
+
+### alignments:
+ - [Sauronisena/Saurania?](https://pleiades.stoa.org/places/857307)
 
 
 ## GEO ID 41393: Palalce (Baraklı)
@@ -26323,6 +26386,13 @@
  - [Vaticanus Mons](https://pleiades.stoa.org/places/463398874)
 
 
+## GEO ID 43696: Sentii
+[https://www.trismegistos.org/place/43696](https://www.trismegistos.org/place/43696)  
+
+### alignments:
+ - [Sentii](https://pleiades.stoa.org/places/157926)
+
+
 ## GEO ID 43701: Macellum Liviae
 [http://www.trismegistos.org/place/43701](http://www.trismegistos.org/place/43701)  
 
@@ -27701,6 +27771,13 @@
 
 ### alignments:
  - [Ossaia](https://pleiades.stoa.org/places/413236)
+
+
+## GEO ID 47144: Sentiacum (Sinzig)
+[http://www.trismegistos.org/place/47144](http://www.trismegistos.org/place/47144)  
+
+### alignments:
+ - [[Sentiacum]?](https://pleiades.stoa.org/places/109338)
 
 
 ## GEO ID 47348: Leonessa
