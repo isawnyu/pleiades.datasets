@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8884 alignments exist in _Pleiades_ place references as of 2025-08-18. The following list of alignments is grouped by zotkey.
+8885 alignments exist in _Pleiades_ place references as of 2025-08-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -50947,7 +50947,7 @@
 [https://www.wikidata.org/wiki/Q542329](https://www.wikidata.org/wiki/Q542329)  
 
 ### alignments:
- - [Saalburg](https://pleiades.stoa.org/places/109297)
+ - [Saalburg Roman Fort](https://pleiades.stoa.org/places/109297)
 
 
 ## Saar (Q153972)
@@ -53335,7 +53335,7 @@
 [https://www.wikidata.org/wiki/Q103195523](https://www.wikidata.org/wiki/Q103195523)  
 
 ### alignments:
- - [[Sentiacum]?](https://pleiades.stoa.org/places/109338)
+ - [Sinzig](https://pleiades.stoa.org/places/109338)
 
 
 ## Siphae (Q3561270)
@@ -61535,6 +61535,13 @@
 
 ### alignments:
  - [Wilderness Plantation Roman fortlet](https://pleiades.stoa.org/places/126777409)
+
+
+## Wilson's Arch (Q8022908)
+[https://www.wikidata.org/wiki/Q8022908](https://www.wikidata.org/wiki/Q8022908)  
+
+### alignments:
+ - [Wilson's Arch](https://pleiades.stoa.org/places/62813056)
 
 
 ## Wincobank (Q8023890)

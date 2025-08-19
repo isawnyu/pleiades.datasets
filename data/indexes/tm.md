@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4612 alignments exist in _Pleiades_ place references as of 2025-08-18. The following list of alignments is grouped by zotkey.
+4612 alignments exist in _Pleiades_ place references as of 2025-08-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -18421,7 +18421,7 @@
 [https://www.trismegistos.org/place/35095](https://www.trismegistos.org/place/35095)  
 
 ### alignments:
- - [Saalburg](https://pleiades.stoa.org/places/109297)
+ - [Saalburg Roman Fort](https://pleiades.stoa.org/places/109297)
 
 
 ## GEO ID 35102: Vicus Bibiensium (Sandweier)
@@ -27777,7 +27777,7 @@
 [http://www.trismegistos.org/place/47144](http://www.trismegistos.org/place/47144)  
 
 ### alignments:
- - [[Sentiacum]?](https://pleiades.stoa.org/places/109338)
+ - [Sinzig](https://pleiades.stoa.org/places/109338)
 
 
 ## GEO ID 47348: Leonessa
