@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8885 alignments exist in _Pleiades_ place references as of 2025-08-19. The following list of alignments is grouped by zotkey.
+8886 alignments exist in _Pleiades_ place references as of 2025-08-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -53056,6 +53056,13 @@
 
 ### alignments:
  - [Shortugai](https://pleiades.stoa.org/places/717754049)
+
+
+## Shrine of Aphrodite at Golgoi in Cyprus (Q134040033)
+[https://www.wikidata.org/wiki/Q134040033](https://www.wikidata.org/wiki/Q134040033)  
+
+### alignments:
+ - [Aphrodite Golgia](https://pleiades.stoa.org/places/707470)
 
 
 ## Shrine of Sabazius (V,XII,3) (Q135678823)

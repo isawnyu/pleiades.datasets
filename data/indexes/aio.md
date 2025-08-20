@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-146 alignments exist in _Pleiades_ place references as of 2025-08-19. The following list of alignments is grouped by zotkey.
+147 alignments exist in _Pleiades_ place references as of 2025-08-20. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -735,6 +735,13 @@
 
 ### alignments:
  - [Amphiareion](https://pleiades.stoa.org/places/540628)
+
+
+## Original location: Asklepieion at Eleusis
+[https://www.atticinscriptions.com/browse/byoriginallocation/asklepieion-at-eleusis/](https://www.atticinscriptions.com/browse/byoriginallocation/asklepieion-at-eleusis/)  
+
+### alignments:
+ - [Asklepieion at Eleusis](https://pleiades.stoa.org/places/91539310)
 
 
 ## Original Location: Asklepieion
