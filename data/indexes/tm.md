@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4612 alignments exist in _Pleiades_ place references as of 2025-08-20. The following list of alignments is grouped by zotkey.
+4615 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2387,6 +2387,13 @@
 
 ### alignments:
  - [Wadi Tumilat](https://pleiades.stoa.org/places/985180643)
+
+
+## GEO ID 1057: Kerkeosiris
+[http://www.trismegistos.org/place/1057](http://www.trismegistos.org/place/1057)  
+
+### alignments:
+ - [Kerkeosiris](https://pleiades.stoa.org/places/736936)
 
 
 ## GEO ID 105
@@ -29175,6 +29182,13 @@
  - [Kolonos](https://pleiades.stoa.org/places/579985)
 
 
+## GEO ID 565: Dionysias (Qasr Qarun)
+[http://www.trismegistos.org/place/565](http://www.trismegistos.org/place/565)  
+
+### alignments:
+ - [Dionysias](https://pleiades.stoa.org/places/736904)
+
+
 ## GEO ID 5685: Melanogaitouloi
 [https://www.trismegistos.org/place/5685](https://www.trismegistos.org/place/5685)  
 
@@ -29258,6 +29272,13 @@
 
 ### alignments:
  - [Diospolis Mikra](https://pleiades.stoa.org/places/756566)
+
+
+## GEO ID 57840: Ourania
+[https://www.trismegistos.org/place/57840](https://www.trismegistos.org/place/57840)  
+
+### alignments:
+ - [Ourania](https://pleiades.stoa.org/places/707594)
 
 
 ## GEO ID 5817: Mouchinaxap
@@ -31544,7 +31565,7 @@
  - [Aulai?](https://pleiades.stoa.org/places/648578)
 
 
-## GEO ID 885
+## GEO ID 885: Ibion Eikosipentarouron
 [http://www.trismegistos.org/place/885](http://www.trismegistos.org/place/885)  
 
 ### alignments:

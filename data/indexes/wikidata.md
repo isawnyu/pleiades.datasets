@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8886 alignments exist in _Pleiades_ place references as of 2025-08-20. The following list of alignments is grouped by zotkey.
+8908 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1240,6 +1240,13 @@
 
 ### alignments:
  - [Madrasa Gumushtakin](https://pleiades.stoa.org/places/969543392)
+
+
+## Al-Ruwayha (Q98936787)
+[https://www.wikidata.org/wiki/Q98936787](https://www.wikidata.org/wiki/Q98936787)  
+
+### alignments:
+ - [er-Ruweihi](https://pleiades.stoa.org/places/697746)
 
 
 ## Al-Sinnabra (Q4703258)
@@ -3846,6 +3853,13 @@
  - [Arnus (river)](https://pleiades.stoa.org/places/403181)
 
 
+## Arnon (Q697112)
+[https://www.wikidata.org/wiki/Q697112](https://www.wikidata.org/wiki/Q697112)  
+
+### alignments:
+ - [Arnon (river)](https://pleiades.stoa.org/places/697634)
+
+
 ## Aromata (Q85743078)
 [https://www.wikidata.org/wiki/Q85743078](https://www.wikidata.org/wiki/Q85743078)  
 
@@ -3900,6 +3914,13 @@
 
 ### alignments:
  - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
+
+
+## Arsinoe (Q3561051)
+[https://www.wikidata.org/wiki/Q3561051](https://www.wikidata.org/wiki/Q3561051)  
+
+### alignments:
+ - [Arsinoe?](https://pleiades.stoa.org/places/707484)
 
 
 ## Arsinoe (Q427902)
@@ -5792,6 +5813,13 @@
 
 ### alignments:
  - [Baâlon](https://pleiades.stoa.org/places/108782)
+
+
+## Başkale (Q812759)
+[https://www.wikidata.org/wiki/Q812759](https://www.wikidata.org/wiki/Q812759)  
+
+### alignments:
+ - [Başkale](https://pleiades.stoa.org/places/705365883)
 
 
 ## Başur Höyük (Q6100419)
@@ -17312,6 +17340,13 @@
  - [Hatra](https://pleiades.stoa.org/places/894004)
 
 
+## Hawara (Q26237)
+[https://www.wikidata.org/wiki/Q26237](https://www.wikidata.org/wiki/Q26237)  
+
+### alignments:
+ - [Haueris](https://pleiades.stoa.org/places/736918)
+
+
 ## Hayling Island (Samian Ware Discovery Site) (Q103163441)
 [https://www.wikidata.org/wiki/Q103163441](https://www.wikidata.org/wiki/Q103163441)  
 
@@ -19636,6 +19671,13 @@
  - [Gordioukome/Iuliopolis](https://pleiades.stoa.org/places/844935)
 
 
+## Jurf ed-Darawish (Q33765958)
+[https://www.wikidata.org/wiki/Q33765958](https://www.wikidata.org/wiki/Q33765958)  
+
+### alignments:
+ - [Jurf ed-Darawish](https://pleiades.stoa.org/places/697675)
+
+
 ## Justiniana Prima (Q164205)
 [https://www.wikidata.org/wiki/Q164205](https://www.wikidata.org/wiki/Q164205)  
 
@@ -20218,6 +20260,13 @@
  - [Cercina (island)](https://pleiades.stoa.org/places/324690)
 
 
+## Kerkeosiris (Q26156285)
+[https://www.wikidata.org/wiki/Q26156285](https://www.wikidata.org/wiki/Q26156285)  
+
+### alignments:
+ - [Kerkeosiris](https://pleiades.stoa.org/places/736936)
+
+
 ## Kerlescan alignments (Q1739261)
 [https://www.wikidata.org/wiki/Q1739261](https://www.wikidata.org/wiki/Q1739261)  
 
@@ -20349,6 +20398,13 @@
 
 ### alignments:
  - [‘Praesidio’](https://pleiades.stoa.org/places/746796)
+
+
+## Khirbet el-Qirana (Q106463830)
+[https://www.wikidata.org/wiki/Q106463830](https://www.wikidata.org/wiki/Q106463830)  
+
+### alignments:
+ - [Khirbet el-Qirana](https://pleiades.stoa.org/places/746764)
 
 
 ## Khirbet et-Tannur (Q48792829)
@@ -28235,6 +28291,13 @@
  - [tribus Oufentina](https://pleiades.stoa.org/places/702604147)
 
 
+## Ourania (Q56402265)
+[https://www.wikidata.org/wiki/Q56402265](https://www.wikidata.org/wiki/Q56402265)  
+
+### alignments:
+ - [Ourania](https://pleiades.stoa.org/places/707594)
+
+
 ## Outwards, Roman fortlet (Q56664636)
 [https://www.wikidata.org/wiki/Q56664636](https://www.wikidata.org/wiki/Q56664636)  
 
@@ -28576,6 +28639,20 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## Panagia tis Angeloktistis (Q24914520)
+[https://www.wikidata.org/wiki/Q24914520](https://www.wikidata.org/wiki/Q24914520)  
+
+### alignments:
+ - [Panagia Angeloktistos](https://pleiades.stoa.org/places/707599)
+
+
+## Panagia tis Kyras (Q15124178)
+[https://www.wikidata.org/wiki/Q15124178](https://www.wikidata.org/wiki/Q15124178)  
+
+### alignments:
+ - [Panagia tis Kyras](https://pleiades.stoa.org/places/707601)
 
 
 ## Panathenaic Stadium (Q208811)
@@ -29010,6 +29087,13 @@
 
 ### alignments:
  - [Monument of Eumenes II/Agrippa](https://pleiades.stoa.org/places/573299846)
+
+
+## Pedieos (Q905376)
+[https://www.wikidata.org/wiki/Q905376](https://www.wikidata.org/wiki/Q905376)  
+
+### alignments:
+ - [Pediaios (river)](https://pleiades.stoa.org/places/707605)
 
 
 ## Peel Gap Tower (Q131707818)
@@ -48548,6 +48632,13 @@
  - [Subututtu](https://pleiades.stoa.org/places/344488)
 
 
+## Qasr al Hallabat (Q3695599)
+[https://www.wikidata.org/wiki/Q3695599](https://www.wikidata.org/wiki/Q3695599)  
+
+### alignments:
+ - [Qasr el-Hallabat](https://pleiades.stoa.org/places/697737)
+
+
 ## Qasr al-Gibb (Q14218433)
 [https://www.wikidata.org/wiki/Q14218433](https://www.wikidata.org/wiki/Q14218433)  
 
@@ -48576,6 +48667,13 @@
  - [Castra Praetorii Mobeni](https://pleiades.stoa.org/places/697647)
 
 
+## Qasr el-Al (Q105703693)
+[https://www.wikidata.org/wiki/Q105703693](https://www.wikidata.org/wiki/Q105703693)  
+
+### alignments:
+ - [Qasr el-'Al](https://pleiades.stoa.org/places/697734)
+
+
 ## Qasr el-Baramuni (Q14218427)
 [https://www.wikidata.org/wiki/Q14218427](https://www.wikidata.org/wiki/Q14218427)  
 
@@ -48583,11 +48681,25 @@
  - [[*Parammon]?](https://pleiades.stoa.org/places/776213)
 
 
+## Qasr eth-Thuraiya (Q98911398)
+[https://www.wikidata.org/wiki/Q98911398](https://www.wikidata.org/wiki/Q98911398)  
+
+### alignments:
+ - [Qasr eth-Thuraiya](https://pleiades.stoa.org/places/697738)
+
+
 ## Qasr Kharana (Q537641)
 [https://www.wikidata.org/wiki/Q537641](https://www.wikidata.org/wiki/Q537641)  
 
 ### alignments:
  - [Qasr Al-Kharanah](https://pleiades.stoa.org/places/318745558)
+
+
+## Qasr Qarun (Q11944146)
+[https://www.wikidata.org/wiki/Q11944146](https://www.wikidata.org/wiki/Q11944146)  
+
+### alignments:
+ - [Dionysias](https://pleiades.stoa.org/places/736904)
 
 
 ## Qasr Shemamok (Q25404315)
@@ -48777,6 +48889,13 @@
 
 ### alignments:
  - [Reunia](https://pleiades.stoa.org/places/187528)
+
+
+## Rantidi (Q22985795)
+[https://www.wikidata.org/wiki/Q22985795](https://www.wikidata.org/wiki/Q22985795)  
+
+### alignments:
+ - [Rantidi](https://pleiades.stoa.org/places/707615)
 
 
 ## Ras Banas (Q3419767)
@@ -49858,6 +49977,13 @@
  - [Lake Farm Roman fort](https://pleiades.stoa.org/places/600065939)
 
 
+## Roman castra of Dajaniya (Q100273568)
+[https://www.wikidata.org/wiki/Q100273568](https://www.wikidata.org/wiki/Q100273568)  
+
+### alignments:
+ - [Da'janiya](https://pleiades.stoa.org/places/697651)
+
+
 ## Roman countermine near Tower 19 (Q117857781)
 [https://www.wikidata.org/wiki/Q117857781](https://www.wikidata.org/wiki/Q117857781)  
 
@@ -50787,6 +50913,13 @@
 
 ### alignments:
  - [Ruinas de Tróia](https://pleiades.stoa.org/places/340085638)
+
+
+## Rujm al-Faridiyya (Q105948289)
+[https://www.wikidata.org/wiki/Q105948289](https://www.wikidata.org/wiki/Q105948289)  
+
+### alignments:
+ - [Rujm el-Farideyyeh](https://pleiades.stoa.org/places/697745)
 
 
 ## Rur (Q152331)
@@ -57440,6 +57573,13 @@
  - [Tomb of P. Mancius Diogenes](https://pleiades.stoa.org/places/315324212)
 
 
+## Tomb of Pansa (Q127079860)
+[https://www.wikidata.org/wiki/Q127079860](https://www.wikidata.org/wiki/Q127079860)  
+
+### alignments:
+ - [Sepulcrum Pansae](https://pleiades.stoa.org/places/700767827)
+
+
 ## Tomb of Publius Vibius Marianus (Q65044108)
 [https://www.wikidata.org/wiki/Q65044108](https://www.wikidata.org/wiki/Q65044108)  
 
@@ -58341,6 +58481,13 @@
 
 ### alignments:
  - [Tres Tabernae](https://pleiades.stoa.org/places/109389)
+
+
+## Treta (Q12885460)
+[https://www.wikidata.org/wiki/Q12885460](https://www.wikidata.org/wiki/Q12885460)  
+
+### alignments:
+ - [Tretous? Pr.](https://pleiades.stoa.org/places/707637)
 
 
 ## Tretos pass (Q123503112)
@@ -59272,6 +59419,13 @@
 
 ### alignments:
  - [Umm el-Qa'ab](https://pleiades.stoa.org/places/438681814)
+
+
+## Umm Ubtulah (Q98804527)
+[https://www.wikidata.org/wiki/Q98804527](https://www.wikidata.org/wiki/Q98804527)  
+
+### alignments:
+ - [Umm Ubtulah](https://pleiades.stoa.org/places/697759)
 
 
 ## Umma (Q740952)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3740 alignments exist in _Pleiades_ place references as of 2025-08-20. The following list of alignments is grouped by zotkey.
+3741 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -13177,10 +13177,11 @@
  - [Labraunda](https://pleiades.stoa.org/places/599745)
 
 
-## Labyrinthos T. (Egypt)
+## Labyrinthos temple (Egypt) 34 Hawara - Λαβύρινθος
 [https://topostext.org/place/293309SLab](https://topostext.org/place/293309SLab)  
 
 ### alignments:
+ - [Haueris](https://pleiades.stoa.org/places/736918)
  - [Labyrinthos](https://pleiades.stoa.org/places/736952)
 
 
@@ -17895,6 +17896,13 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## Panagia tis Kyras EC church (Cyprus) NE Livadia - Παναγία
+[https://topostext.org/place/354340EPan](https://topostext.org/place/354340EPan)  
+
+### alignments:
+ - [Panagia tis Kyras](https://pleiades.stoa.org/places/707601)
 
 
 ## Panakton (Attica)
