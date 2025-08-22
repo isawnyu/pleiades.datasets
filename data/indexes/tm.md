@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4615 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
+4616 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -804,13 +804,6 @@
 
 ### alignments:
  - [Thermon](https://pleiades.stoa.org/places/541139)
-
-
-## Geo 2729 Ain Labakha
-[https://www.trismegistos.org/place/2729](https://www.trismegistos.org/place/2729)  
-
-### alignments:
- - [Ain Labakha](https://pleiades.stoa.org/places/776147)
 
 
 ## Geo 2745: Oropos (Skala)
@@ -12722,6 +12715,13 @@
 
 ### alignments:
  - [Abu Sha'ar](https://pleiades.stoa.org/places/766332)
+
+
+## Geo ID 2729: Ain Labakha
+[https://www.trismegistos.org/place/2729](https://www.trismegistos.org/place/2729)  
+
+### alignments:
+ - [Ain Labakha](https://pleiades.stoa.org/places/776147)
 
 
 ## Geo ID 2733: Trimithis (Amheida)
@@ -29734,6 +29734,13 @@
 
 ### alignments:
  - [Oion Kerameikon](https://pleiades.stoa.org/places/585936)
+
+
+## GEO ID 60706: Kedoi (Kara)
+[https://www.trismegistos.org/place/60706](https://www.trismegistos.org/place/60706)  
+
+### alignments:
+ - [Kedoi?](https://pleiades.stoa.org/places/579969)
 
 
 ## GEO ID 60712: Otryne

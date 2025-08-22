@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-147 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
+147 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -41,6 +41,7 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+ - [Kedoi?](https://pleiades.stoa.org/places/579969)
  - [Sanctuary of Bendis](https://pleiades.stoa.org/places/278568881)
 
 

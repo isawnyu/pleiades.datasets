@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8908 alignments exist in _Pleiades_ place references as of 2025-08-21. The following list of alignments is grouped by zotkey.
+8917 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2236,6 +2236,13 @@
  - [Anavyssos](https://pleiades.stoa.org/places/194496209)
 
 
+## Ancalites (Q2308972)
+[https://www.wikidata.org/wiki/Q2308972](https://www.wikidata.org/wiki/Q2308972)  
+
+### alignments:
+ - [Ancalites](https://pleiades.stoa.org/places/83811)
+
+
 ## Ancaster Roman town (Q4752535)
 [https://www.wikidata.org/wiki/Q4752535](https://www.wikidata.org/wiki/Q4752535)  
 
@@ -2969,6 +2976,13 @@
 
 ### alignments:
  - [Apollonis](https://pleiades.stoa.org/places/550444)
+
+
+## Apollonos Hydreium (Q4780413)
+[https://www.wikidata.org/wiki/Q4780413](https://www.wikidata.org/wiki/Q4780413)  
+
+### alignments:
+ - [Apollonos](https://pleiades.stoa.org/places/785976)
 
 
 ## Appian Way (Q189417)
@@ -4902,6 +4916,13 @@
 
 ### alignments:
  - [Bab el-Gasous](https://pleiades.stoa.org/places/937942844)
+
+
+## Baba Burnu (Q34802231)
+[https://www.wikidata.org/wiki/Q34802231](https://www.wikidata.org/wiki/Q34802231)  
+
+### alignments:
+ - [Acherousias Pr.](https://pleiades.stoa.org/places/844849)
 
 
 ## Babylon Fortress (Q2421968)
@@ -11965,6 +11986,13 @@
  - [Costești-Blidaru](https://pleiades.stoa.org/places/876112477)
 
 
+## Cothon of Carthage (Q132156407)
+[https://www.wikidata.org/wiki/Q132156407](https://www.wikidata.org/wiki/Q132156407)  
+
+### alignments:
+ - [Carthage military harbor](https://pleiades.stoa.org/places/836358555)
+
+
 ## Cotini (Q430457)
 [https://www.wikidata.org/wiki/Q430457](https://www.wikidata.org/wiki/Q430457)  
 
@@ -12019,6 +12047,13 @@
 
 ### alignments:
  - [Kremaste](https://pleiades.stoa.org/places/501481)
+
+
+## Crenides (Q60793257)
+[https://www.wikidata.org/wiki/Q60793257](https://www.wikidata.org/wiki/Q60793257)  
+
+### alignments:
+ - [Krenides](https://pleiades.stoa.org/places/844992)
 
 
 ## Creta et Cyrenaica (Q692775)
@@ -12306,6 +12341,13 @@
 
 ### alignments:
  - [Kynaitha(i)](https://pleiades.stoa.org/places/570392)
+
+
+## Cynosarges (Q940907)
+[https://www.wikidata.org/wiki/Q940907](https://www.wikidata.org/wiki/Q940907)  
+
+### alignments:
+ - [Kynosarges](https://pleiades.stoa.org/places/158698879)
 
 
 ## Cynuria (Q1431487)
@@ -20181,6 +20223,13 @@
 
 ### alignments:
  - [Kadasa](https://pleiades.stoa.org/places/678215)
+
+
+## Kedoi (Q13416288)
+[https://www.wikidata.org/wiki/Q13416288](https://www.wikidata.org/wiki/Q13416288)  
+
+### alignments:
+ - [Kedoi?](https://pleiades.stoa.org/places/579969)
 
 
 ## Kef Castle (Q15823298)
@@ -28326,6 +28375,13 @@
  - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
 
 
+## Oxinas (Q65046326)
+[https://www.wikidata.org/wiki/Q65046326](https://www.wikidata.org/wiki/Q65046326)  
+
+### alignments:
+ - [Oxinas](https://pleiades.stoa.org/places/845030)
+
+
 ## Oxton Roman fortlet (Q132830217)
 [https://www.wikidata.org/wiki/Q132830217](https://www.wikidata.org/wiki/Q132830217)  
 
@@ -34760,13 +34816,6 @@
 
 ### alignments:
  - [Abu Simbel](https://pleiades.stoa.org/places/721417202)
-
-
-## Q13416288: Kedoi
-[https://www.wikidata.org/wiki/Q13416288](https://www.wikidata.org/wiki/Q13416288)  
-
-### alignments:
- - [Kedoi?](https://pleiades.stoa.org/places/579969)
 
 
 ## Q13422968: Semachidai
@@ -48681,6 +48730,13 @@
  - [[*Parammon]?](https://pleiades.stoa.org/places/776213)
 
 
+## Qasr el-Labakha (Q14218435)
+[https://www.wikidata.org/wiki/Q14218435](https://www.wikidata.org/wiki/Q14218435)  
+
+### alignments:
+ - [Ain Labakha](https://pleiades.stoa.org/places/776147)
+
+
 ## Qasr eth-Thuraiya (Q98911398)
 [https://www.wikidata.org/wiki/Q98911398](https://www.wikidata.org/wiki/Q98911398)  
 
@@ -51886,6 +51942,13 @@
 
 ### alignments:
  - [Hyria (Naxos)](https://pleiades.stoa.org/places/599661)
+
+
+## Sandaraca (Q65046787)
+[https://www.wikidata.org/wiki/Q65046787](https://www.wikidata.org/wiki/Q65046787)  
+
+### alignments:
+ - [Sandarake](https://pleiades.stoa.org/places/845055)
 
 
 ## Sandık Dağı (Q31507675)
