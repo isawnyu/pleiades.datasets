@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        35.797052,
-        30.581741,
-        35.797052,
-        30.581741
+        35.7611161,
+        30.5520452,
+        35.7624474,
+        30.5533711
     ],
     "connections": [],
     "connectsWith": [],
@@ -44,28 +44,51 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 71 B4 Da'janiya",
-    "details": "The Barrington Atlas Directory notes: Da'janiya",
+    "details": "<p>The Barrington Atlas Directory notes: Da'janiya</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    35.797052,
-                    30.581741
+                    [
+                        35.7617668,
+                        30.5533711
+                    ],
+                    [
+                        35.7611161,
+                        30.5527338
+                    ],
+                    [
+                        35.7617285,
+                        30.5520452
+                    ],
+                    [
+                        35.7624474,
+                        30.5526971
+                    ],
+                    [
+                        35.7617668,
+                        30.5533711
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-19103",
+            "id": "osm-location-of-castra-dajaniya",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/697651/darmc-location-19103",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/697651/osm-location-of-castra-dajaniya",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 19103"
+                "snippet": "Fort-2; AD 300 - AD 640",
+                "title": "OSM location of Castra Dajaniya"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-08-21T12:41:16Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-08-21T00:17:10Z",
@@ -111,8 +134,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-b",
-            "accuracy_value": 100.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -124,87 +147,102 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:32:58Z",
+            "contributors": [],
+            "created": "2025-08-21T00:17:51Z",
             "creators": [
                 {
-                    "name": "S.T. Parker",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 19103",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": 640,
             "featureType": [
-                "unknown"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
-                    35.797052,
-                    30.581741
+                    [
+                        35.7617668,
+                        30.5533711
+                    ],
+                    [
+                        35.7611161,
+                        30.5527338
+                    ],
+                    [
+                        35.7617285,
+                        30.5520452
+                    ],
+                    [
+                        35.7624474,
+                        30.5526971
+                    ],
+                    [
+                        35.7617668,
+                        30.5533711
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T08:00:19Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:13:05Z",
+                    "modified": "2025-08-21T12:40:51Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:32:59Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-21T00:18:31Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:32:59Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add osm location",
+                    "modified": "2025-08-21T00:18:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-08-21T00:17:53Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:32:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-21T00:17:51Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-19103",
+            "id": "osm-location-of-castra-dajaniya",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "DARMC OBJECTID: 19103",
+            "provenance": "OpenStreetMap (Way 1103130037, version 2, osm:changeset=131615746, 2023-01-23T16:45:37Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1103130037",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "19103",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1103130037",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 19103.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=1103130037",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": 300,
-            "title": "DARMC location 19103",
-            "uri": "https://pleiades.stoa.org/places/697651/darmc-location-19103"
+            "title": "OSM location of Castra Dajaniya",
+            "uri": "https://pleiades.stoa.org/places/697651/osm-location-of-castra-dajaniya"
         }
     ],
     "names": [],
@@ -259,11 +297,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "19103",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        35.797052,
-        30.581741
+        35.761773136120155,
+        30.552709510257625
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
