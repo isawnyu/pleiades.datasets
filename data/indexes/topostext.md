@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3741 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
+3745 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1963,6 +1963,13 @@
 
 ### alignments:
  - [Anio (river)](https://pleiades.stoa.org/places/422834)
+
+
+## Ankon (Pontus) 3
+[https://topostext.org/place/413366HAnk](https://topostext.org/place/413366HAnk)  
+
+### alignments:
+ - [Ankon](https://pleiades.stoa.org/places/857029)
 
 
 ## Anopolis (Chania)
@@ -5872,6 +5879,13 @@
 
 ### alignments:
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
+
+
+## Charmylos heroon (Kos) Pili
+[https://topostext.org/place/368272GCha](https://topostext.org/place/368272GCha)  
+
+### alignments:
+ - [Grave of Charmylos](https://pleiades.stoa.org/places/490062280)
 
 
 ## Charybdis (Sicily)
@@ -12999,6 +13013,13 @@
 
 ### alignments:
  - [Kynaitha(i)](https://pleiades.stoa.org/places/570392)
+
+
+## Kynopolis (Egypt) 1 Abu Sir Bana - Κυνών πόλις
+[https://topostext.org/place/308312UKyn](https://topostext.org/place/308312UKyn)  
+
+### alignments:
+ - [Kynopolis](https://pleiades.stoa.org/places/727144)
 
 
 ## Kynopolis/Sko/Euergetis (Egypt)
@@ -22971,6 +22992,7 @@
 [https://topostext.org/place/372220LSte](https://topostext.org/place/372220LSte)  
 
 ### alignments:
+ - [Stenykleros (settlement)](https://pleiades.stoa.org/places/79543002)
  - [Stenykleros](https://pleiades.stoa.org/places/570690)
 
 
@@ -24840,6 +24862,13 @@
 
 ### alignments:
  - [Toryne?](https://pleiades.stoa.org/places/531127)
+
+
+## Toumba Apsalou (Pella)
+[https://topostext.org/place/409220XAps](https://topostext.org/place/409220XAps)  
+
+### alignments:
+ - [Toumba Apsalou (Pella)](https://pleiades.stoa.org/places/781836776)
 
 
 ## Touphion (Egypt)

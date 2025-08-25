@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-705 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
+713 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -197,6 +197,13 @@
  - [Argos Hippium/Arpi/Argyripa](https://pleiades.stoa.org/places/442476)
 
 
+## 10082267: Daunia (Italy)
+[https://resource.manto.unh.edu/1008226](https://resource.manto.unh.edu/1008226)  
+
+### alignments:
+ - [Daunii](https://pleiades.stoa.org/places/442564)
+
+
 ## 10082559: Achaia (region in the northern Peloponnese)
 [https://resource.manto.unh.edu/10082559](https://resource.manto.unh.edu/10082559)  
 
@@ -216,6 +223,20 @@
 
 ### alignments:
  - [Baliares/Gymnesiae Inss. (Maior et Minor)](https://pleiades.stoa.org/places/265817)
+
+
+## 10085292: Syrtis Maior (N. Africa)
+[https://resource.manto.unh.edu/10085292](https://resource.manto.unh.edu/10085292)  
+
+### alignments:
+ - [Syrtis Maior](https://pleiades.stoa.org/places/344491)
+
+
+## 10093321: Phaleron (Attica)
+[https://resource.manto.unh.edu/10093321](https://resource.manto.unh.edu/10093321)  
+
+### alignments:
+ - [Phaleron](https://pleiades.stoa.org/places/580072)
 
 
 ## 10093375: Pithecoussai (island)
@@ -239,6 +260,20 @@
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
 
 
+## 10093418: Chelone (Asia Minor)
+[https://resource.manto.unh.edu/10093418](https://resource.manto.unh.edu/10093418)  
+
+### alignments:
+ - [Chelone Pr.](https://pleiades.stoa.org/places/599570)
+
+
+## 10108677: the Cerameicos (Athens)
+[https://resource.manto.unh.edu/10108677](https://resource.manto.unh.edu/10108677)  
+
+### alignments:
+ - [Kerameikos](https://pleiades.stoa.org/places/97294452)
+
+
 ## 10113505: Abia
 [https://resource.manto.unh.edu/10113505](https://resource.manto.unh.edu/10113505)  
 
@@ -260,11 +295,25 @@
  - [Lykaion (mountain)](https://pleiades.stoa.org/places/570441)
 
 
+## 10113615: Tricca (Messenia)
+[https://resource.manto.unh.edu/10113615](https://resource.manto.unh.edu/10113615)  
+
+### alignments:
+ - [Trikka](https://pleiades.stoa.org/places/573568)
+
+
 ## 10113656: Thouria (Messenia)
 [https://resource.manto.unh.edu/10113656](https://resource.manto.unh.edu/10113656)  
 
 ### alignments:
  - [Thouria](https://pleiades.stoa.org/places/570733)
+
+
+## 10113657: Stenycleros (Messenia)
+[https://resource.manto.unh.edu/10113657](https://resource.manto.unh.edu/10113657)  
+
+### alignments:
+ - [Stenykleros (settlement)](https://pleiades.stoa.org/places/79543002)
 
 
 ## 10113663: Mount Eua (Messenia)
@@ -3210,6 +3259,13 @@
  - [Ainis](https://pleiades.stoa.org/places/540611)
 
 
+## 8228902: Tricca (Thessaly)
+[https://resource.manto.unh.edu/8228902](https://resource.manto.unh.edu/8228902)  
+
+### alignments:
+ - [Trikka](https://pleiades.stoa.org/places/541163)
+
+
 ## 8228905: Ormenion (Thessaly)
 [https://resource.manto.unh.edu/8228905](https://resource.manto.unh.edu/8228905)  
 
@@ -3543,7 +3599,7 @@
 [https://resource.manto.unh.edu/8254022](https://resource.manto.unh.edu/8254022)  
 
 ### alignments:
- - [Colchis/Lazike](https://pleiades.stoa.org/places/863770)
+ - [Colchis/Lazike (region)](https://pleiades.stoa.org/places/863770)
 
 
 ## 8254025: Tegea (Arcadia)
@@ -4680,7 +4736,7 @@
  - [Akidas/Iardanos (river)](https://pleiades.stoa.org/places/573064)
 
 
-## 9821356: Mount Heniochi (Pontos)
+## 9821356: Heniochia (Pontos)
 [https://resource.manto.unh.edu/9821356](https://resource.manto.unh.edu/9821356)  
 
 ### alignments:

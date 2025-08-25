@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4616 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
+4622 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -635,6 +635,13 @@
 
 ### alignments:
  - [Timici](https://pleiades.stoa.org/places/295362)
+
+
+## Geo 20700: Ambarri
+[https://www.trismegistos.org/place/20700](https://www.trismegistos.org/place/20700)  
+
+### alignments:
+ - [Ambarri](https://pleiades.stoa.org/places/167642)
 
 
 ## Geo 2075: Salamis
@@ -10082,6 +10089,13 @@
 
 ### alignments:
  - [Carpentorate/*Forum Neronis](https://pleiades.stoa.org/places/148036)
+
+
+## GEO ID 2104: Sebennytos (Samanud)
+[http://www.trismegistos.org/place/2104](http://www.trismegistos.org/place/2104)  
+
+### alignments:
+ - [Sebennytos](https://pleiades.stoa.org/places/727227)
 
 
 ## GEO ID 2105: Setis (Sehel Island)
@@ -22381,6 +22395,13 @@
  - [Iustiniani Pons](https://pleiades.stoa.org/places/844957)
 
 
+## GEO ID 41374: Cromen (Çatalkaya)
+[http://www.trismegistos.org/place/41374](http://www.trismegistos.org/place/41374)  
+
+### alignments:
+ - [Cromen](https://pleiades.stoa.org/places/857096)
+
+
 ## GEO ID 4137: Eboda
 [http://www.trismegistos.org/place/4137](http://www.trismegistos.org/place/4137)  
 
@@ -24194,6 +24215,13 @@
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
 
 
+## GEO ID 42083: Ankon
+[https://www.trismegistos.org/place/42083](https://www.trismegistos.org/place/42083)  
+
+### alignments:
+ - [Ankon](https://pleiades.stoa.org/places/857029)
+
+
 ## GEO ID 42088: Bathys Limen
 [https://www.trismegistos.org/place/42088](https://www.trismegistos.org/place/42088)  
 
@@ -24255,6 +24283,13 @@
 
 ### alignments:
  - [Darucinte/Tareina?/Horonon?](https://pleiades.stoa.org/places/874448)
+
+
+## GEO ID 42122: Media Atropatene
+[https://www.trismegistos.org/place/42122](https://www.trismegistos.org/place/42122)  
+
+### alignments:
+ - [Media Atropatene](https://pleiades.stoa.org/places/874597)
 
 
 ## GEO ID 42124: Resaina (Ras al-Ain)
@@ -27997,7 +28032,7 @@
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
 
 
-## GEO ID 47927
+## GEO ID 47927: Tur Abdin
 [http://www.trismegistos.org/place/47927](http://www.trismegistos.org/place/47927)  
 
 ### alignments:
@@ -28942,6 +28977,13 @@
 
 ### alignments:
  - [Ballanstra](https://pleiades.stoa.org/places/206955)
+
+
+## GEO ID 5392: Kynopolis
+[http://www.trismegistos.org/place/5392](http://www.trismegistos.org/place/5392)  
+
+### alignments:
+ - [Kynopolis](https://pleiades.stoa.org/places/727144)
 
 
 ## GEO ID 5400: Quirina

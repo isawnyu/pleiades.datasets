@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2217 alignments exist in _Pleiades_ place references as of 2025-08-22. The following list of alignments is grouped by zotkey.
+2219 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -958,6 +958,13 @@
 
 ### alignments:
  - [Sacae](https://pleiades.stoa.org/places/60021)
+
+
+## 11A2 (Talbert 3249)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3249.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3249.html)  
+
+### alignments:
+ - [Media Atropatene](https://pleiades.stoa.org/places/874597)
 
 
 ## 11A3 (Talbert 3259)
@@ -14142,6 +14149,13 @@
 
 ### alignments:
  - [Pontus](https://pleiades.stoa.org/places/857287)
+
+
+## 9A2 (Talbert 2237)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2237.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2237.html)  
+
+### alignments:
+ - [Ankon](https://pleiades.stoa.org/places/857029)
 
 
 ## 9A2 (Talbert 2254)
