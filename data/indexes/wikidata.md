@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8944 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+8946 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2492,7 +2492,14 @@
 [https://www.wikidata.org/wiki/Q107585355](https://www.wikidata.org/wiki/Q107585355)  
 
 ### alignments:
- - [Ancyra](https://pleiades.stoa.org/places/619103)
+ - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
+
+
+## Ancyra (Q557644)
+[https://www.wikidata.org/wiki/Q557644](https://www.wikidata.org/wiki/Q557644)  
+
+### alignments:
+ - [Ancyra (Phrygia)](https://pleiades.stoa.org/places/609305)
 
 
 ## Andaman Islands (Q186233)
@@ -51193,6 +51200,13 @@
 
 ### alignments:
  - [*Calanta](https://pleiades.stoa.org/places/256042)
+
+
+## Ruínas romanas do Cerro da Vila (Q2526003)
+[https://www.wikidata.org/wiki/Q2526003](https://www.wikidata.org/wiki/Q2526003)  
+
+### alignments:
+ - [Cerro da Vila](https://pleiades.stoa.org/places/256092)
 
 
 ## Ryahovo (Q2020745)

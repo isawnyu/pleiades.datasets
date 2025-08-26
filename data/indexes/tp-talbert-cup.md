@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2219 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+2219 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13448,7 +13448,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2139.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2139.html)  
 
 ### alignments:
- - [Ancyra](https://pleiades.stoa.org/places/619103)
+ - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
 
 
 ## 8B4 (Talbert 2157)

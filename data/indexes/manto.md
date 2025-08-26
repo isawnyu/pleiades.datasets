@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-713 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+714 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -335,6 +335,13 @@
 
 ### alignments:
  - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## 10126072: Ancyra (Phrygia)
+[https://resource.manto.unh.edu/10126072](https://resource.manto.unh.edu/10126072)  
+
+### alignments:
+ - [Ancyra (Phrygia)](https://pleiades.stoa.org/places/609305)
 
 
 ## 10126110: Pallantion

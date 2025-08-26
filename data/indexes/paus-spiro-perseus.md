@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-502 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+503 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -448,6 +448,13 @@
 
 ### alignments:
  - [Onchestos](https://pleiades.stoa.org/places/540984)
+
+
+## 1.4.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.4.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.4.5)  
+
+### alignments:
+ - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
 
 
 ## 1.40-43
@@ -1783,7 +1790,6 @@
 ### alignments:
  - [Arene/Arena](https://pleiades.stoa.org/places/573114)
  - [Stenykleros (settlement)](https://pleiades.stoa.org/places/79543002)
- - [Stenykleros](https://pleiades.stoa.org/places/570690)
 
 
 ## 4.30.1
@@ -1811,7 +1817,6 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.1)  
 
 ### alignments:
- - [Ancyra](https://pleiades.stoa.org/places/619103)
  - [Aphrodisias](https://pleiades.stoa.org/places/638753)
  - [Argolis](https://pleiades.stoa.org/places/570104)
  - [Cave of Anigrid Nymphs](https://pleiades.stoa.org/places/581386416)

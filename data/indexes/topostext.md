@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3745 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+3745 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1853,11 +1853,11 @@
  - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
-## Ancyra (Phrygia)
+## Ancyra (Galatia) 99 Ankara - Άγκυρα
 [https://topostext.org/place/392289UAnk](https://topostext.org/place/392289UAnk)  
 
 ### alignments:
- - [Ancyra](https://pleiades.stoa.org/places/619103)
+ - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
 
 
 ## Andania (Messenia)
@@ -22992,8 +22992,8 @@
 [https://topostext.org/place/372220LSte](https://topostext.org/place/372220LSte)  
 
 ### alignments:
+ - [Stenykleros (plain)](https://pleiades.stoa.org/places/570690)
  - [Stenykleros (settlement)](https://pleiades.stoa.org/places/79543002)
- - [Stenykleros](https://pleiades.stoa.org/places/570690)
 
 
 ## Stephon (Boeotia)

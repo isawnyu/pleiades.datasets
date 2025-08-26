@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4622 alignments exist in _Pleiades_ place references as of 2025-08-25. The following list of alignments is grouped by zotkey.
+4623 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1238,6 +1238,13 @@
 
 ### alignments:
  - [Phellos](https://pleiades.stoa.org/places/639052)
+
+
+## Geo 34533: Ankyra Sidera (Boğaz Köy)
+[https://www.trismegistos.org/place/34533](https://www.trismegistos.org/place/34533)  
+
+### alignments:
+ - [Ancyra (Phrygia)](https://pleiades.stoa.org/places/609305)
 
 
 ## Geo 345: Asine (Koroni)
@@ -30377,7 +30384,7 @@
 [https://www.trismegistos.org/place/61309](https://www.trismegistos.org/place/61309)  
 
 ### alignments:
- - [Stenykleros](https://pleiades.stoa.org/places/570690)
+ - [Stenykleros (plain)](https://pleiades.stoa.org/places/570690)
 
 
 ## GEO ID 61399: Zagora
@@ -31415,7 +31422,7 @@
 [https://www.trismegistos.org/place/8290](https://www.trismegistos.org/place/8290)  
 
 ### alignments:
- - [Ancyra](https://pleiades.stoa.org/places/619103)
+ - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
 
 
 ## GEO ID 829: Heroopolis
