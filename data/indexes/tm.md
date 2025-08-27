@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4623 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
+4627 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22402,6 +22402,13 @@
  - [Iustiniani Pons](https://pleiades.stoa.org/places/844957)
 
 
+## GEO ID 41373: Virasia (Doğantepe)
+[http://www.trismegistos.org/place/41373](http://www.trismegistos.org/place/41373)  
+
+### alignments:
+ - [Virasia](https://pleiades.stoa.org/places/857370)
+
+
 ## GEO ID 41374: Cromen (Çatalkaya)
 [http://www.trismegistos.org/place/41374](http://www.trismegistos.org/place/41374)  
 
@@ -22505,6 +22512,13 @@
 
 ### alignments:
  - [Ophis](https://pleiades.stoa.org/places/857257)
+
+
+## GEO ID 41417: Kissa (Hopa)
+[https://www.trismegistos.org/place/41417](https://www.trismegistos.org/place/41417)  
+
+### alignments:
+ - [Kissa](https://pleiades.stoa.org/places/857188)
 
 
 ## GEO ID 41419: Gizenenica (Hortokop)
@@ -24227,6 +24241,13 @@
 
 ### alignments:
  - [Ankon](https://pleiades.stoa.org/places/857029)
+
+
+## GEO ID 42085: Archabis
+[https://www.trismegistos.org/place/42085](https://www.trismegistos.org/place/42085)  
+
+### alignments:
+ - [Archabis Pr.](https://pleiades.stoa.org/places/857040)
 
 
 ## GEO ID 42088: Bathys Limen
@@ -29278,6 +29299,13 @@
 
 ### alignments:
  - [Menneu](https://pleiades.stoa.org/places/759586)
+
+
+## GEO ID 57231: Keissia (Kolu Kisa)
+[https://www.trismegistos.org/place/57231](https://www.trismegistos.org/place/57231)  
+
+### alignments:
+ - [*Keissia](https://pleiades.stoa.org/places/619184)
 
 
 ## GEO ID 57248: Klaneos (Turgut)

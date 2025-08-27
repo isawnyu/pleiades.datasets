@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3745 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
+3745 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  

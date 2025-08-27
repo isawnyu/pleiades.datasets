@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8946 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
+8973 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -118,6 +118,13 @@
 
 ### alignments:
  - [Abariltur](https://pleiades.stoa.org/places/252927)
+
+
+## Abarna (Q4663519)
+[https://www.wikidata.org/wiki/Q4663519](https://www.wikidata.org/wiki/Q4663519)  
+
+### alignments:
+ - [Abarne](https://pleiades.stoa.org/places/874292)
 
 
 ## Abarnis (Q65073170)
@@ -8604,6 +8611,13 @@
  - [Carus Vicus](https://pleiades.stoa.org/places/844886)
 
 
+## Carussa (Q20667612)
+[https://www.wikidata.org/wiki/Q20667612](https://www.wikidata.org/wiki/Q20667612)  
+
+### alignments:
+ - [Karousa/Polichnion](https://pleiades.stoa.org/places/857181)
+
+
 ## Carvalheiras Roman ruins (Q10365478)
 [https://www.wikidata.org/wiki/Q10365478](https://www.wikidata.org/wiki/Q10365478)  
 
@@ -10396,6 +10410,13 @@
  - [Pyramos (river)](https://pleiades.stoa.org/places/658576)
 
 
+## Chadisia (Q65048810)
+[https://www.wikidata.org/wiki/Q65048810](https://www.wikidata.org/wiki/Q65048810)  
+
+### alignments:
+ - [Chadisia](https://pleiades.stoa.org/places/857079)
+
+
 ## Chafarinas Islands (Q130574)
 [https://www.wikidata.org/wiki/Q130574](https://www.wikidata.org/wiki/Q130574)  
 
@@ -11025,6 +11046,13 @@
 
 ### alignments:
  - [Cimbri](https://pleiades.stoa.org/places/101183)
+
+
+## Cimiata (Q85752462)
+[https://www.wikidata.org/wiki/Q85752462](https://www.wikidata.org/wiki/Q85752462)  
+
+### alignments:
+ - [Kimiata](https://pleiades.stoa.org/places/844982)
 
 
 ## Cimini Hills (Q783445)
@@ -11664,6 +11692,13 @@
  - [Column of Marcus Aurelius](https://pleiades.stoa.org/places/952198991)
 
 
+## Colussa (Q65089660)
+[https://www.wikidata.org/wiki/Q65089660](https://www.wikidata.org/wiki/Q65089660)  
+
+### alignments:
+ - [Koloussa](https://pleiades.stoa.org/places/844989)
+
+
 ## Colwyn fort (Q133503997)
 [https://www.wikidata.org/wiki/Q133503997](https://www.wikidata.org/wiki/Q133503997)  
 
@@ -11776,6 +11811,13 @@
  - [Confluentes](https://pleiades.stoa.org/places/108903)
 
 
+## Conopium (Q133489907)
+[https://www.wikidata.org/wiki/Q133489907](https://www.wikidata.org/wiki/Q133489907)  
+
+### alignments:
+ - [Konopeion Limne?](https://pleiades.stoa.org/places/857195)
+
+
 ## Consabura (Q133310656)
 [https://www.wikidata.org/wiki/Q133310656](https://www.wikidata.org/wiki/Q133310656)  
 
@@ -11851,6 +11893,13 @@
 
 ### alignments:
  - [Babylon](https://pleiades.stoa.org/places/727082)
+
+
+## Coralla (Q65048867)
+[https://www.wikidata.org/wiki/Q65048867](https://www.wikidata.org/wiki/Q65048867)  
+
+### alignments:
+ - [Koralla](https://pleiades.stoa.org/places/857196)
 
 
 ## Corbeil (Q680575)
@@ -14370,6 +14419,13 @@
  - [*Endeira](https://pleiades.stoa.org/places/844916)
 
 
+## Eneti (Q3725317)
+[https://www.wikidata.org/wiki/Q3725317](https://www.wikidata.org/wiki/Q3725317)  
+
+### alignments:
+ - [Enete](https://pleiades.stoa.org/places/847875)
+
+
 ## English Channel (Q34640)
 [https://www.wikidata.org/wiki/Q34640](https://www.wikidata.org/wiki/Q34640)  
 
@@ -14629,6 +14685,13 @@
  - [Erythrai](https://pleiades.stoa.org/places/550535)
 
 
+## Erzurum (Q122803)
+[https://www.wikidata.org/wiki/Q122803](https://www.wikidata.org/wiki/Q122803)  
+
+### alignments:
+ - [Erzurum](https://pleiades.stoa.org/places/874373)
+
+
 ## Eschweilerhof (Samian Ware Discovery Site) (Q103161557)
 [https://www.wikidata.org/wiki/Q103161557](https://www.wikidata.org/wiki/Q103161557)  
 
@@ -14760,6 +14823,13 @@
 
 ### alignments:
  - [Euryteiai](https://pleiades.stoa.org/places/573225)
+
+
+## Eusene (Q65047461)
+[https://www.wikidata.org/wiki/Q65047461](https://www.wikidata.org/wiki/Q65047461)  
+
+### alignments:
+ - [Eusene](https://pleiades.stoa.org/places/857124)
 
 
 ## Eva (Cynuria) (Q16565203)
@@ -16596,6 +16666,13 @@
 
 ### alignments:
  - [Gothiscandza](https://pleiades.stoa.org/places/20473)
+
+
+## Gozalena (Q85764214)
+[https://www.wikidata.org/wiki/Q85764214](https://www.wikidata.org/wiki/Q85764214)  
+
+### alignments:
+ - [Gozalena](https://pleiades.stoa.org/places/857140)
 
 
 ## Grabbist Hill (Q5590582)
@@ -19776,6 +19853,13 @@
  - [[Equilum]](https://pleiades.stoa.org/places/393414)
 
 
+## Jever (Q31084)
+[https://www.wikidata.org/wiki/Q31084](https://www.wikidata.org/wiki/Q31084)  
+
+### alignments:
+ - [Jever](https://pleiades.stoa.org/places/98989)
+
+
 ## Jewry Wall: remains of a Roman bath house, palaestra and Anglo-Saxon church (Q17674501)
 [https://www.wikidata.org/wiki/Q17674501](https://www.wikidata.org/wiki/Q17674501)  
 
@@ -19879,6 +19963,13 @@
 
 ### alignments:
  - [Ka'ba-ye Zartosht](https://pleiades.stoa.org/places/616346030)
+
+
+## Kabaköy (Q6089728)
+[https://www.wikidata.org/wiki/Q6089728](https://www.wikidata.org/wiki/Q6089728)  
+
+### alignments:
+ - [Kabaköy](https://pleiades.stoa.org/places/857175)
 
 
 ## Kabul River (Q8515)
@@ -20393,6 +20484,13 @@
  - [Kalīshīn](https://pleiades.stoa.org/places/129260382)
 
 
+## Kelesa (Q65046703)
+[https://www.wikidata.org/wiki/Q65046703](https://www.wikidata.org/wiki/Q65046703)  
+
+### alignments:
+ - [*Kelesa](https://pleiades.stoa.org/places/844978)
+
+
 ## Kelkit River (Q3045328)
 [https://www.wikidata.org/wiki/Q3045328](https://www.wikidata.org/wiki/Q3045328)  
 
@@ -20461,6 +20559,13 @@
 
 ### alignments:
  - [Kerlescan alignments](https://pleiades.stoa.org/places/320384863)
+
+
+## Keskese (Q4251169)
+[https://www.wikidata.org/wiki/Q4251169](https://www.wikidata.org/wiki/Q4251169)  
+
+### alignments:
+ - [Keskese](https://pleiades.stoa.org/places/862402774)
 
 
 ## Kestel (Q33268537)
@@ -20645,6 +20750,13 @@
  - [Kikynna?](https://pleiades.stoa.org/places/579979)
 
 
+## Kimista (Q85774419)
+[https://www.wikidata.org/wiki/Q85774419](https://www.wikidata.org/wiki/Q85774419)  
+
+### alignments:
+ - [*Kimista](https://pleiades.stoa.org/places/844983)
+
+
 ## Kimolos (Q919194)
 [https://www.wikidata.org/wiki/Q919194](https://www.wikidata.org/wiki/Q919194)  
 
@@ -20741,6 +20853,13 @@
 
 ### alignments:
  - [Kisamos](https://pleiades.stoa.org/places/589870)
+
+
+## Kissa (Q65049086)
+[https://www.wikidata.org/wiki/Q65049086](https://www.wikidata.org/wiki/Q65049086)  
+
+### alignments:
+ - [Kissa](https://pleiades.stoa.org/places/857188)
 
 
 ## Kisurra (Q910253)
@@ -20874,6 +20993,13 @@
 
 ### alignments:
  - [Kolona](https://pleiades.stoa.org/places/122622385)
+
+
+## Kom El-Dikka (Q12236559)
+[https://www.wikidata.org/wiki/Q12236559](https://www.wikidata.org/wiki/Q12236559)  
+
+### alignments:
+ - [Kom el-Dikka](https://pleiades.stoa.org/places/845040004)
 
 
 ## Kom Firin (Q48813242)
@@ -22417,6 +22543,13 @@
  - [Lilaia](https://pleiades.stoa.org/places/540915)
 
 
+## Lillium (Q65089817)
+[https://www.wikidata.org/wiki/Q65089817](https://www.wikidata.org/wiki/Q65089817)  
+
+### alignments:
+ - [Lilaios](https://pleiades.stoa.org/places/845005)
+
+
 ## Limes Dacicus (Q14752597)
 [https://www.wikidata.org/wiki/Q14752597](https://www.wikidata.org/wiki/Q14752597)  
 
@@ -22716,6 +22849,13 @@
 
 ### alignments:
  - [Longula](https://pleiades.stoa.org/places/438775)
+
+
+## Loretum (Q135957720)
+[https://www.wikidata.org/wiki/Q135957720](https://www.wikidata.org/wiki/Q135957720)  
+
+### alignments:
+ - [Loretum](https://pleiades.stoa.org/places/761350994)
 
 
 ## Lorium (Q1444690)
@@ -23451,6 +23591,13 @@
 
 ### alignments:
  - [Mallos/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648702)
+
+
+## Malus (Q85783512)
+[https://www.wikidata.org/wiki/Q85783512](https://www.wikidata.org/wiki/Q85783512)  
+
+### alignments:
+ - [Malos](https://pleiades.stoa.org/places/845009)
 
 
 ## Malus (Q85783517)
@@ -25335,6 +25482,13 @@
 
 ### alignments:
  - [Mutyce](https://pleiades.stoa.org/places/462378)
+
+
+## Modra (Q65051004)
+[https://www.wikidata.org/wiki/Q65051004](https://www.wikidata.org/wiki/Q65051004)  
+
+### alignments:
+ - [Modra](https://pleiades.stoa.org/places/845022)
 
 
 ## Moesia Inferior (Q1227719)
@@ -29227,6 +29381,13 @@
 
 ### alignments:
  - [Patara (Cappadocia)](https://pleiades.stoa.org/places/857264)
+
+
+## Patraeus (Q11940493)
+[https://www.wikidata.org/wiki/Q11940493](https://www.wikidata.org/wiki/Q11940493)  
+
+### alignments:
+ - [Patrasys](https://pleiades.stoa.org/places/854723)
 
 
 ## Patroklos, Attica (Q1145107)
@@ -51951,6 +52112,13 @@
  - [Sanctuary of Apollo on Delos](https://pleiades.stoa.org/places/599506)
 
 
+## Sanctuary of Demeter at Lepreon (Q134039986)
+[https://www.wikidata.org/wiki/Q134039986](https://www.wikidata.org/wiki/Q134039986)  
+
+### alignments:
+ - [Temple of Demeter](https://pleiades.stoa.org/places/87367171)
+
+
 ## Sanctuary of Fortuna Primigenia (Q3949669)
 [https://www.wikidata.org/wiki/Q3949669](https://www.wikidata.org/wiki/Q3949669)  
 
@@ -54633,6 +54801,13 @@
  - [Strategeion](https://pleiades.stoa.org/places/888638009)
 
 
+## Stratoclia (Q134349945)
+[https://www.wikidata.org/wiki/Q134349945](https://www.wikidata.org/wiki/Q134349945)  
+
+### alignments:
+ - [Stratoclia](https://pleiades.stoa.org/places/857735)
+
+
 ## Stratos (Q25408797)
 [https://www.wikidata.org/wiki/Q25408797](https://www.wikidata.org/wiki/Q25408797)  
 
@@ -54869,6 +55044,13 @@
 
 ### alignments:
  - [Sykyrion](https://pleiades.stoa.org/places/541118)
+
+
+## Syderos (Q85804582)
+[https://www.wikidata.org/wiki/Q85804582](https://www.wikidata.org/wiki/Q85804582)  
+
+### alignments:
+ - [Syderos](https://pleiades.stoa.org/places/857339)
 
 
 ## Syia (Q2373876)
@@ -62326,6 +62508,13 @@
 
 ### alignments:
  - [Zephyrion Pr.](https://pleiades.stoa.org/places/707644)
+
+
+## Zephyrium (Q65044309)
+[https://www.wikidata.org/wiki/Q65044309](https://www.wikidata.org/wiki/Q65044309)  
+
+### alignments:
+ - [Zephyrion](https://pleiades.stoa.org/places/845098)
 
 
 ## Zephyrium (Q65044321)

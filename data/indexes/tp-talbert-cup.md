@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2219 alignments exist in _Pleiades_ place references as of 2025-08-26. The following list of alignments is grouped by zotkey.
+2222 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13423,6 +13423,13 @@
  - [Galatia](https://pleiades.stoa.org/places/619161)
 
 
+## 8B4 (Talbert 2121)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2121.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2121.html)  
+
+### alignments:
+ - [Virasia](https://pleiades.stoa.org/places/857370)
+
+
 ## 8B4 (Talbert 2136)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2136.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2136.html)  
 
@@ -14296,6 +14303,20 @@
 
 ### alignments:
  - [Archabis (river)](https://pleiades.stoa.org/places/857039)
+
+
+## 9A4 (Talbert 2402)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2402.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2402.html)  
+
+### alignments:
+ - [Archabis Pr.](https://pleiades.stoa.org/places/857040)
+
+
+## 9A4 (Talbert 2403)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2403.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2403.html)  
+
+### alignments:
+ - [Kissa](https://pleiades.stoa.org/places/857188)
 
 
 ## 9A4 (Talbert 2411)
