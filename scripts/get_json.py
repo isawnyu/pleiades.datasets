@@ -14,6 +14,7 @@ import logging
 from os import makedirs
 from os.path import abspath, dirname, getmtime, join, realpath
 import requests
+from time import sleep
 
 DEFAULT_LOG_LEVEL = logging.WARNING
 OPTIONAL_ARGUMENTS = [
@@ -109,6 +110,7 @@ def main(**kwargs):
                     print(f"> read {size} MB of ?")
                     f.write(chunk)
         print(f"downloaded {size} MB to {path}")
+        sleep(0.1)  # be nice to the server
     else:
         print("already have today's version of {}".format(path))
     with gzip.open(path, "rb") as f:
