@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-714 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
+716 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -358,11 +358,25 @@
  - [Neda (river)](https://pleiades.stoa.org/places/570502)
 
 
+## 10126128: Mount Agdistis (Asia Minor)
+[https://resource.manto.unh.edu/10126128](https://resource.manto.unh.edu/10126128)  
+
+### alignments:
+ - [Dindymon/Agdistis/Agdus (mountain)](https://pleiades.stoa.org/places/609360)
+
+
 ## 10126142: River Balyra (Messenia)
 [https://resource.manto.unh.edu/10126142](https://resource.manto.unh.edu/10126142)  
 
 ### alignments:
  - [Balyra (river)](https://pleiades.stoa.org/places/570146)
+
+
+## 10126156: Odrysai (Thrace)
+[https://resource.manto.unh.edu/10126156](https://resource.manto.unh.edu/10126156)  
+
+### alignments:
+ - [Odrysae](https://pleiades.stoa.org/places/216906)
 
 
 ## 10126185: Acacesion (Arcadia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8973 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
+8978 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9878,6 +9878,13 @@
  - [Ovidiu](https://pleiades.stoa.org/places/216913)
 
 
+## Castrum Perticae (Q114222079)
+[https://www.wikidata.org/wiki/Q114222079](https://www.wikidata.org/wiki/Q114222079)  
+
+### alignments:
+ - [Castrum Perticae](https://pleiades.stoa.org/places/303722074)
+
+
 ## Castrum Pons Aluti (Q7227964)
 [https://www.wikidata.org/wiki/Q7227964](https://www.wikidata.org/wiki/Q7227964)  
 
@@ -11396,6 +11403,13 @@
 
 ### alignments:
  - [Clivus Salutis](https://pleiades.stoa.org/places/21938933)
+
+
+## Cloaca Maxima (Q746102)
+[https://www.wikidata.org/wiki/Q746102](https://www.wikidata.org/wiki/Q746102)  
+
+### alignments:
+ - [Cloaca Maxima](https://pleiades.stoa.org/places/867802692)
 
 
 ## Cloghanmore Tomb (Q1102172)
@@ -26058,6 +26072,13 @@
  - [Moulouya (river)](https://pleiades.stoa.org/places/285491)
 
 
+## Mount Agdistis (Q6919277)
+[https://www.wikidata.org/wiki/Q6919277](https://www.wikidata.org/wiki/Q6919277)  
+
+### alignments:
+ - [Dindymon/Agdistis/Agdus (mountain)](https://pleiades.stoa.org/places/609360)
+
+
 ## Mount Ainos (Q1343616)
 [https://www.wikidata.org/wiki/Q1343616](https://www.wikidata.org/wiki/Q1343616)  
 
@@ -28016,6 +28037,13 @@
 
 ### alignments:
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
+
+
+## Odryses (Q2987531)
+[https://www.wikidata.org/wiki/Q2987531](https://www.wikidata.org/wiki/Q2987531)  
+
+### alignments:
+ - [Odrysae](https://pleiades.stoa.org/places/216906)
 
 
 ## Oechalia (Q60790410)
@@ -52495,6 +52523,13 @@
 
 ### alignments:
  - [Saraceno di Favara](https://pleiades.stoa.org/places/462484)
+
+
+## Sarakinos Cave (Q38280127)
+[https://www.wikidata.org/wiki/Q38280127](https://www.wikidata.org/wiki/Q38280127)  
+
+### alignments:
+ - [Sarakenos Cave](https://pleiades.stoa.org/places/267762471)
 
 
 ## Sarantaporo archaeological site (Q12874076)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4627 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
+4629 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2037,6 +2037,13 @@
 
 ### alignments:
  - [Koukos](https://pleiades.stoa.org/places/501479)
+
+
+## Geo 58879: Odrysai
+[https://www.trismegistos.org/place/58879](https://www.trismegistos.org/place/58879)  
+
+### alignments:
+ - [Odrysae](https://pleiades.stoa.org/places/216906)
 
 
 ## Geo 58911: Elaious
@@ -17708,6 +17715,13 @@
 
 ### alignments:
  - [Abonouteichos/Ionopolis](https://pleiades.stoa.org/places/844847)
+
+
+## GEO ID 33628: Euchaita (Beyözü)
+[https://www.trismegistos.org/place/33628](https://www.trismegistos.org/place/33628)  
+
+### alignments:
+ - [Euchaita](https://pleiades.stoa.org/places/857120)
 
 
 ## GEO ID 33632: Phazimon

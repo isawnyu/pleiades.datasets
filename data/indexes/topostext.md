@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3745 alignments exist in _Pleiades_ place references as of 2025-08-27. The following list of alignments is grouped by zotkey.
+3749 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6105,6 +6105,13 @@
  - [Fons Clitumni](https://pleiades.stoa.org/places/413140)
 
 
+## Cloaca Maxima (Rome) 4 Roma
+[https://topostext.org/place/419125BClM](https://topostext.org/place/419125BClM)  
+
+### alignments:
+ - [Cloaca Maxima](https://pleiades.stoa.org/places/867802692)
+
+
 ## Clusium (Etruria)
 [https://topostext.org/place/430119UClu](https://topostext.org/place/430119UClu)  
 
@@ -8243,6 +8250,13 @@
 
 ### alignments:
  - [Euboia?](https://pleiades.stoa.org/places/462203)
+
+
+## Euchaita/Avkat (Pontus) 1 Beyozu
+[https://topostext.org/place/406353UEuc](https://topostext.org/place/406353UEuc)  
+
+### alignments:
+ - [Euchaita](https://pleiades.stoa.org/places/857120)
 
 
 ## Eudemia (Sporades)
@@ -16931,6 +16945,13 @@
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
 
 
+## Odrysians tribe (Evros) 86 Thrace - Οδρύσαι
+[https://topostext.org/place/417265ROdr](https://topostext.org/place/417265ROdr)  
+
+### alignments:
+ - [Odrysae](https://pleiades.stoa.org/places/216906)
+
+
 ## Oe (Attica)
 [https://topostext.org/place/381236DOex](https://topostext.org/place/381236DOex)  
 
@@ -21707,6 +21728,13 @@
 
 ### alignments:
  - [Sanisera](https://pleiades.stoa.org/places/266026)
+
+
+## Sarakinos cave (Boeotia) Akraifnio - Σπήλαιο Σαρακηνού
+[https://topostext.org/place/384232XSar](https://topostext.org/place/384232XSar)  
+
+### alignments:
+ - [Sarakenos Cave](https://pleiades.stoa.org/places/267762471)
 
 
 ## Sardinia (Italy)
