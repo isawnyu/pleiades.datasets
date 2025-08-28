@@ -1,13 +1,78 @@
 {
     "@type": "Place",
     "bbox": [
-        30.71494,
-        39.198474,
-        30.71494,
-        39.198474
+        30.710028,
+        39.197616,
+        30.710028,
+        39.197616
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "at",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectsTo": "https://pleiades.stoa.org/places/609570",
+            "contributors": [],
+            "created": "2025-08-27T18:54:31Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-08-28T01:21:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-08-27T19:18:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-08-27T18:54:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-08-27T18:54:31Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "yazilikaya-eskisehir",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.jaha.org.ro/index.php/JAHA/article/view/1275",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IMT9DYSA",
+                    "citationDetail": "pages 60-61",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Polat, Yusuf. “Traces of Ritual: An Analysis of the Rock-Cut Sanctuary at Eski̇şehi̇r Yazilikaya/Midas Fortress.” <i>JOURNAL OF ANCIENT HISTORY AND ARCHAEOLOGY</i> 12, no. 2 (August 6, 2025). https://doi.org/10.14795/jaha.12.2.2025.1275.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Polat 2025",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Yazılıkaya (Eskişehir)",
+            "uri": "https://pleiades.stoa.org/places/609290/yazilikaya-eskisehir"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/609570"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,36 +101,46 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:41:17Z",
+    "created": "2025-08-27T18:08:09Z",
     "creators": [
         {
             "name": "T. Drew Bear",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 62 E3 Agdistis, T.",
-    "details": "The Barrington Atlas Directory notes: at Yazılıkaya",
+    "description": "A plateau around a monumental Phrygian rock‐cut altar at the extensive fortified settlement and sanctuary complex of Yazılıkaya in Turkey. Associated with Agdistis in the 20th century because of Roman epigraphic finds there, more recent excavations have demonstrated that the sanctuary was in use from the 8th–7th century BCE to the Roman Period (1st-2nd century CE). Continuity of ritual practice in front of the rock-cut altar is demonstrated by rock-cut bows, a ritual preparation area with hearths, a rock-cut statue identifiable as the goddess Matar, and the Roman-era votive inscriptions.",
+    "details": "<p>The Barrington Atlas Directory notes: at Yazılıkaya</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    30.71494,
-                    39.198474
+                    30.710028,
+                    39.197616
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-15845",
+            "id": "imagery-location-2024-excavated-area",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/609290/darmc-location-15845",
+                "description": "Excavated area from 2024 season identified in Google Earth with reference to Polat 2025 Figure 10, page 68. Dates after Polat 2025.",
+                "link": "https://pleiades.stoa.org/places/609290/imagery-location-2024-excavated-area",
                 "location_precision": "precise",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "DARMC location 15845"
+                "snippet": "Archaeological-site; 800 BC - AD 300",
+                "title": "Imagery Location: 2024 excavated area"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "darmc 15845 =related",
+            "modified": "2025-08-28T01:22:11Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references; summary after Polat 2025; added Polat 2025; added connection to Yazılıkaya; Edited @thomase",
+            "modified": "2025-08-28T01:20:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2016-09-09T01:56:00Z",
@@ -111,12 +186,42 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "eighth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/eighth-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "seventh-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/seventh-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "sixth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/sixth-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fifth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fifth-bce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "fourth-bce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/fourth-bce"
+                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -130,87 +235,79 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T22:44:46Z",
+            "contributors": [],
+            "created": "2025-08-27T19:01:37Z",
             "creators": [
                 {
-                    "name": "T. Drew Bear",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 15845",
+            "description": "Excavated area from 2024 season identified in Google Earth with reference to Polat 2025 Figure 10, page 68. Dates after Polat 2025.",
+            "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    30.71494,
-                    39.198474
+                    30.710028,
+                    39.197616
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:09:45Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:10:54Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-08-28T01:21:01Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T22:44:47Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-27T19:18:33Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T22:44:47Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2025-08-27T19:01:38Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T22:44:46Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-08-27T19:01:37Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-15845",
+            "id": "imagery-location-2024-excavated-area",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "DARMC OBJECTID: 15845",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.jaha.org.ro/index.php/JAHA/article/view/1275",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "15845",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 15845.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IMT9DYSA",
+                    "citationDetail": "page 68 Figure 10: 2024 general view of the excavation area",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Polat, Yusuf. “Traces of Ritual: An Analysis of the Rock-Cut Sanctuary at Eski̇şehi̇r Yazilikaya/Midas Fortress.” <i>JOURNAL OF ANCIENT HISTORY AND ARCHAEOLOGY</i> 12, no. 2 (August 6, 2025). https://doi.org/10.14795/jaha.12.2.2025.1275.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Polat 2025",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": -330,
-            "title": "DARMC location 15845",
-            "uri": "https://pleiades.stoa.org/places/609290/darmc-location-15845"
+            "start": -800,
+            "title": "Imagery Location: 2024 excavated area",
+            "uri": "https://pleiades.stoa.org/places/609290/imagery-location-2024-excavated-area"
         }
     ],
     "names": [
@@ -222,24 +319,14 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "attested": "",
+            "attested": "Agdistis, T.",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -247,9 +334,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-15T09:41:17Z",
+            "created": "2025-08-27T19:18:47Z",
             "creators": [
                 {
                     "name": "T. Drew Bear",
@@ -258,8 +351,18 @@
             ],
             "description": "",
             "details": "",
-            "end": 300,
+            "end": 1999,
             "history": [
+                {
+                    "comment": "BAtlas label and reference @thomase",
+                    "modified": "2025-08-28T01:21:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-08-27T19:18:46Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T07:09:46Z",
@@ -282,23 +385,37 @@
                 }
             ],
             "id": "Agdistis-T",
-            "language": "",
-            "nameType": "geographic",
+            "language": "en",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 62 E3 Agdistis, T.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "62 E3",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Agdistis, T.",
-            "start": -330,
+            "romanized": "Agdistis T.",
+            "start": 1900,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/609290/Agdistis-T"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "temple-2"
+        "sanctuary",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 62 E3 Agdistis, T.",
     "references": [
@@ -316,18 +433,40 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Haspels-1971-154-55",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/T7G7XBXJ",
+            "citationDetail": "154-55",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Haspels, C. H. Emilie. <i>The Highlands of Phrygia: Sites and Monuments</i>. 2 vols. Princeton, NJ: Princeton University Press, 1971.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Haspels 1971",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.jaha.org.ro/index.php/JAHA/article/view/1275",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IMT9DYSA",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Haspels 1971 154-55",
+            "formattedCitation": "<div class=\"csl-entry\">Polat, Yusuf. “Traces of Ritual: An Analysis of the Rock-Cut Sanctuary at Eski̇şehi̇r Yazilikaya/Midas Fortress.” <i>JOURNAL OF ANCIENT HISTORY AND ARCHAEOLOGY</i> 12, no. 2 (August 6, 2025). https://doi.org/10.14795/jaha.12.2.2025.1275.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Polat 2025",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "15845",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        30.71494,
-        39.198474
+        30.710028,
+        39.197616
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -336,7 +475,7 @@
         "dare:major=0",
         "dare:feature=temple"
     ],
-    "title": "Agdistis, T.",
+    "title": "Agdistis Sanctuary (Yazılıkaya)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/609290"
 }
