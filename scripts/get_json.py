@@ -110,7 +110,7 @@ def main(**kwargs):
                     print(f"> read {size} MB of ?")
                     f.write(chunk)
         print(f"downloaded {size} MB to {path}")
-        sleep(0.1)  # be nice to the server
+        sleep(0.3)  # be nice to the server
     else:
         print("already have today's version of {}".format(path))
     with gzip.open(path, "rb") as f:
