@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-716 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
+719 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2242,6 +2242,13 @@
  - [Leuka (mountain)](https://pleiades.stoa.org/places/589907)
 
 
+## 11296719: Perge (Asia Minor)
+[https://resource.manto.unh.edu/11296719](https://resource.manto.unh.edu/11296719)  
+
+### alignments:
+ - [Perge](https://pleiades.stoa.org/places/639048)
+
+
 ## 11296826: Mount Pindos (Thessaly)
 [https://resource.manto.unh.edu/11296826](https://resource.manto.unh.edu/11296826)  
 
@@ -2254,6 +2261,13 @@
 
 ### alignments:
  - [Cnidus](https://pleiades.stoa.org/places/599575)
+
+
+## 11297298: Bryseai (Laconia)
+[https://resource.manto.unh.edu/11297298](https://resource.manto.unh.edu/11297298)  
+
+### alignments:
+ - [Bryseai](https://pleiades.stoa.org/places/573155)
 
 
 ## 11297708: Acragas (Sicily)
@@ -4734,6 +4748,13 @@
 
 ### alignments:
  - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
+
+
+## 9747908: Aspendos (Pamphylia)
+[https://resource.manto.unh.edu/9747908](https://resource.manto.unh.edu/9747908)  
+
+### alignments:
+ - [Aspendos/Primoupolis](https://pleiades.stoa.org/places/638776)
 
 
 ## 9747910: River Satnioeis (Troad)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2222 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
+2223 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -14695,6 +14695,13 @@
 
 ### alignments:
  - [Antiochia/Col. Caesarea](https://pleiades.stoa.org/places/609307)
+
+
+## 9B2 (Talbert 2357)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2357.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2357.html)  
+
+### alignments:
+ - [Perge](https://pleiades.stoa.org/places/639048)
 
 
 ## 9B2 (Talbert 2358)

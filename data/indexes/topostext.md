@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3749 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
+3750 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5675,6 +5675,13 @@
 
 ### alignments:
  - [Caurium](https://pleiades.stoa.org/places/256087)
+
+
+## Cave of the Lakes (Achaia)
+[https://topostext.org/place/380211CKas](https://topostext.org/place/380211CKas)  
+
+### alignments:
+ - [Cave of the Lakes](https://pleiades.stoa.org/places/83772052)
 
 
 ## Caves of Apollo, Pan, Zeus (Athens Acropolis)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8978 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
+8992 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1086,6 +1086,13 @@
 
 ### alignments:
  - [Manawir el-Biyut](https://pleiades.stoa.org/places/776196)
+
+
+## Ain Mustafa Kashef (Q14223971)
+[https://www.wikidata.org/wiki/Q14223971](https://www.wikidata.org/wiki/Q14223971)  
+
+### alignments:
+ - [Deir Mustafa Kashef](https://pleiades.stoa.org/places/776168)
 
 
 ## Ain Shams el-Din (Q14299836)
@@ -2957,6 +2964,13 @@
  - [Aphytis](https://pleiades.stoa.org/places/491525)
 
 
+## Apidima Cave (Q15067212)
+[https://www.wikidata.org/wiki/Q15067212](https://www.wikidata.org/wiki/Q15067212)  
+
+### alignments:
+ - [Apidima Cave](https://pleiades.stoa.org/places/792912222)
+
+
 ## Apina (Q135641866)
 [https://www.wikidata.org/wiki/Q135641866](https://www.wikidata.org/wiki/Q135641866)  
 
@@ -4230,6 +4244,13 @@
 
 ### alignments:
  - [Aspaneus](https://pleiades.stoa.org/places/550460)
+
+
+## Aspendos (Q633757)
+[https://www.wikidata.org/wiki/Q633757](https://www.wikidata.org/wiki/Q633757)  
+
+### alignments:
+ - [Aspendos/Primoupolis](https://pleiades.stoa.org/places/638776)
 
 
 ## Aspenzinsos (Q85743373)
@@ -7320,6 +7341,13 @@
  - [Bryn Celli Ddu](https://pleiades.stoa.org/places/735015378)
 
 
+## Bryseai (Q16538992)
+[https://www.wikidata.org/wiki/Q16538992](https://www.wikidata.org/wiki/Q16538992)  
+
+### alignments:
+ - [Bryseai](https://pleiades.stoa.org/places/573155)
+
+
 ## Brú na Bóinne (Q339489)
 [https://www.wikidata.org/wiki/Q339489](https://www.wikidata.org/wiki/Q339489)  
 
@@ -7615,6 +7643,7 @@
  - [Auximum](https://pleiades.stoa.org/places/413045)
  - [Cannatello](https://pleiades.stoa.org/places/491524938)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
+ - [Euchaita](https://pleiades.stoa.org/places/857120)
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
  - [Girmua](https://pleiades.stoa.org/places/248782116)
  - [Granicus (river)](https://pleiades.stoa.org/places/511260)
@@ -10158,11 +10187,25 @@
  - [Cave of Apollo](https://pleiades.stoa.org/places/870756929)
 
 
+## Cave of the Apocalypse (Q1978886)
+[https://www.wikidata.org/wiki/Q1978886](https://www.wikidata.org/wiki/Q1978886)  
+
+### alignments:
+ - [Cave of the Apocalypse](https://pleiades.stoa.org/places/648999241)
+
+
 ## Cave of the Fates (Q55174210)
 [https://www.wikidata.org/wiki/Q55174210](https://www.wikidata.org/wiki/Q55174210)  
 
 ### alignments:
  - [Antro delle Sorti](https://pleiades.stoa.org/places/69910488)
+
+
+## Cave of the Lakes (Q16328676)
+[https://www.wikidata.org/wiki/Q16328676](https://www.wikidata.org/wiki/Q16328676)  
+
+### alignments:
+ - [Cave of the Lakes](https://pleiades.stoa.org/places/83772052)
 
 
 ## Cave of Zas on Naxos (Q26987393)
@@ -12334,6 +12377,13 @@
 
 ### alignments:
  - [Cucullae](https://pleiades.stoa.org/places/187355)
+
+
+## Cueva Dones (Q108066496)
+[https://www.wikidata.org/wiki/Q108066496](https://www.wikidata.org/wiki/Q108066496)  
+
+### alignments:
+ - [Cova de les Dones](https://pleiades.stoa.org/places/652043992)
 
 
 ## Cularo (Q3007086)
@@ -16181,6 +16231,13 @@
 
 ### alignments:
  - [Gazoros](https://pleiades.stoa.org/places/501423)
+
+
+## Gebel el-Teir, el-Kharga (Q14299657)
+[https://www.wikidata.org/wiki/Q14299657](https://www.wikidata.org/wiki/Q14299657)  
+
+### alignments:
+ - [Gebel Teir](https://pleiades.stoa.org/places/776176)
 
 
 ## Gediz River (Q1351474)
@@ -20510,6 +20567,13 @@
 
 ### alignments:
  - [Lykos (river)](https://pleiades.stoa.org/places/857217)
+
+
+## Kellis (Q3814386)
+[https://www.wikidata.org/wiki/Q3814386](https://www.wikidata.org/wiki/Q3814386)  
+
+### alignments:
+ - [Kellis](https://pleiades.stoa.org/places/776189)
 
 
 ## Kelsborrow Castle (Q6386457)
@@ -29689,6 +29753,13 @@
 
 ### alignments:
  - [Heras? (island)](https://pleiades.stoa.org/places/275640)
+
+
+## Perge (Q719815)
+[https://www.wikidata.org/wiki/Q719815](https://www.wikidata.org/wiki/Q719815)  
+
+### alignments:
+ - [Perge](https://pleiades.stoa.org/places/639048)
 
 
 ## Perminounda (Q65122846)
@@ -47260,13 +47331,6 @@
  - [Pelargikon wall](https://pleiades.stoa.org/places/992770796)
 
 
-## Q719815
-[https://www.wikidata.org/wiki/Q719815](https://www.wikidata.org/wiki/Q719815)  
-
-### alignments:
- - [Perge](https://pleiades.stoa.org/places/639048)
-
-
 ## Q7199033
 [https://www.wikidata.org/Q7199033](https://www.wikidata.org/Q7199033)  
 
@@ -49059,6 +49123,20 @@
  - [Ain Labakha](https://pleiades.stoa.org/places/776147)
 
 
+## Qasr el-Nasima (Q14218438)
+[https://www.wikidata.org/wiki/Q14218438](https://www.wikidata.org/wiki/Q14218438)  
+
+### alignments:
+ - [Qasr Nessima](https://pleiades.stoa.org/places/776220)
+
+
+## Qasr el-Zayyan (Q14218440)
+[https://www.wikidata.org/wiki/Q14218440](https://www.wikidata.org/wiki/Q14218440)  
+
+### alignments:
+ - [Tchonemyris](https://pleiades.stoa.org/places/776228)
+
+
 ## Qasr eth-Thuraiya (Q98911398)
 [https://www.wikidata.org/wiki/Q98911398](https://www.wikidata.org/wiki/Q98911398)  
 
@@ -50745,6 +50823,13 @@
 
 ### alignments:
  - [Theater of Aphrodisias](https://pleiades.stoa.org/places/792804149)
+
+
+## Roman Theatre of Aspendos (Q16697381)
+[https://www.wikidata.org/wiki/Q16697381](https://www.wikidata.org/wiki/Q16697381)  
+
+### alignments:
+ - [Roman theater of Aspendos](https://pleiades.stoa.org/places/439693240)
 
 
 ## Roman Theatre of Augusta Raurica (Q3527590)
@@ -53798,6 +53883,13 @@
 
 ### alignments:
  - [Silarus (river)](https://pleiades.stoa.org/places/393495)
+
+
+## Sillyon (Q647896)
+[https://www.wikidata.org/wiki/Q647896](https://www.wikidata.org/wiki/Q647896)  
+
+### alignments:
+ - [Sillyon](https://pleiades.stoa.org/places/639109)
 
 
 ## Silva Gallinaria (Q3960587)
@@ -57697,6 +57789,13 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## Tipasa (Q3529269)
+[https://www.wikidata.org/wiki/Q3529269](https://www.wikidata.org/wiki/Q3529269)  
+
+### alignments:
+ - [Tipasa](https://pleiades.stoa.org/places/295363)
 
 
 ## Tiran Island (Q598889)

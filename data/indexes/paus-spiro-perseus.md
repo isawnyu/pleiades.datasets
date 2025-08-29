@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-503 alignments exist in _Pleiades_ place references as of 2025-08-28. The following list of alignments is grouped by zotkey.
+504 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1357,6 +1357,13 @@
 
 ### alignments:
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
+
+
+## 3.1.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.1.2)  
+
+### alignments:
+ - [Taygetos (mountain)](https://pleiades.stoa.org/places/570706)
 
 
 ## 3.10.6
