@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2223 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+2225 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -15208,6 +15208,13 @@
  - [Scythopolis/Nysa](https://pleiades.stoa.org/places/678378)
 
 
+## 9C1 (Talbert 463)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace463.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace463.html)  
+
+### alignments:
+ - [Dor(a)](https://pleiades.stoa.org/places/678121)
+
+
 ## 9C1 (Talbert 464)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace464.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace464.html)  
 
@@ -15437,6 +15444,13 @@
 
 ### alignments:
  - [Orthosia](https://pleiades.stoa.org/places/668325)
+
+
+## 9C3 (Talbert 501)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace501.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace501.html)  
+
+### alignments:
+ - [Antarados/Constantia](https://pleiades.stoa.org/places/668190)
 
 
 ## 9C3 (Talbert 502)

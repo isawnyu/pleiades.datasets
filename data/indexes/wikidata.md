@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-8992 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+9016 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1060,6 +1060,13 @@
  - [Aigyptiake](https://pleiades.stoa.org/places/1001137)
 
 
+## Ain Amur (Q14223961)
+[https://www.wikidata.org/wiki/Q14223961](https://www.wikidata.org/wiki/Q14223961)  
+
+### alignments:
+ - [Ain Amour](https://pleiades.stoa.org/places/776143)
+
+
 ## Ain Birbiya (Q14223965)
 [https://www.wikidata.org/wiki/Q14223965](https://www.wikidata.org/wiki/Q14223965)  
 
@@ -1555,6 +1562,13 @@
 
 ### alignments:
  - [Alhambra](https://pleiades.stoa.org/places/720436836)
+
+
+## Alicante (Samian Ware Discovery Site) (Q103140012)
+[https://www.wikidata.org/wiki/Q103140012](https://www.wikidata.org/wiki/Q103140012)  
+
+### alignments:
+ - [Lucentum](https://pleiades.stoa.org/places/265954)
 
 
 ## Aliphera (Q38281053)
@@ -2348,6 +2362,13 @@
  - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
 
 
+## Ancient Jerash (Q56072866)
+[https://www.wikidata.org/wiki/Q56072866](https://www.wikidata.org/wiki/Q56072866)  
+
+### alignments:
+ - [Gerasa/Antiochia ad Chrysorhoam](https://pleiades.stoa.org/places/678158)
+
+
 ## Ancient Maroneia (Q12874068)
 [https://www.wikidata.org/wiki/Q12874068](https://www.wikidata.org/wiki/Q12874068)  
 
@@ -3046,6 +3067,13 @@
 
 ### alignments:
  - [Appiaria (Titular See)](https://pleiades.stoa.org/places/890261934)
+
+
+## Appolena (Q85742505)
+[https://www.wikidata.org/wiki/Q85742505](https://www.wikidata.org/wiki/Q85742505)  
+
+### alignments:
+ - [*Appolena](https://pleiades.stoa.org/places/609315)
 
 
 ## Apsidal Portico (Q3909056)
@@ -4223,6 +4251,13 @@
 
 ### alignments:
  - [Asklepieion of Pheneos](https://pleiades.stoa.org/places/627870063)
+
+
+## Aslantaş-Yılantaş (Q118900377)
+[https://www.wikidata.org/wiki/Q118900377](https://www.wikidata.org/wiki/Q118900377)  
+
+### alignments:
+ - [Arslan Taş](https://pleiades.stoa.org/places/609324)
 
 
 ## Asolo (Q29371)
@@ -6233,6 +6268,13 @@
 
 ### alignments:
  - [Beth Aramaye](https://pleiades.stoa.org/places/893958)
+
+
+## Beudos (Q85746800)
+[https://www.wikidata.org/wiki/Q85746800](https://www.wikidata.org/wiki/Q85746800)  
+
+### alignments:
+ - [Beudos (Palaion)](https://pleiades.stoa.org/places/609342)
 
 
 ## Beycesultan (Q4081181)
@@ -8311,6 +8353,13 @@
  - [Capestrano](https://pleiades.stoa.org/places/413063)
 
 
+## Caphyae (Q2365548)
+[https://www.wikidata.org/wiki/Q2365548](https://www.wikidata.org/wiki/Q2365548)  
+
+### alignments:
+ - [Kaphyai](https://pleiades.stoa.org/places/570329)
+
+
 ## Capitolium of Terracina (Q30524229)
 [https://www.wikidata.org/wiki/Q30524229](https://www.wikidata.org/wiki/Q30524229)  
 
@@ -8652,6 +8701,13 @@
 
 ### alignments:
  - [Ruínas romanas das Carvalheiras](https://pleiades.stoa.org/places/272879822)
+
+
+## Caryae (Arcadia) (Q12878817)
+[https://www.wikidata.org/wiki/Q12878817](https://www.wikidata.org/wiki/Q12878817)  
+
+### alignments:
+ - [Karyai](https://pleiades.stoa.org/places/573275)
 
 
 ## Carzield, Roman fort (Q56666836)
@@ -9219,6 +9275,13 @@
 
 ### alignments:
  - [Ad Iuvense?](https://pleiades.stoa.org/places/118541)
+
+
+## Castra Aelia (Q2878537)
+[https://www.wikidata.org/wiki/Q2878537](https://www.wikidata.org/wiki/Q2878537)  
+
+### alignments:
+ - [Castra Aelia](https://pleiades.stoa.org/places/246313)
 
 
 ## Castra Albana (Q3663109)
@@ -13424,6 +13487,13 @@
  - [Dodona (Thessaly)](https://pleiades.stoa.org/places/543686)
 
 
+## Dokimeion (Q15806224)
+[https://www.wikidata.org/wiki/Q15806224](https://www.wikidata.org/wiki/Q15806224)  
+
+### alignments:
+ - [Dokimeion](https://pleiades.stoa.org/places/609366)
+
+
 ## Dokki Gel (Q16964645)
 [https://www.wikidata.org/wiki/Q16964645](https://www.wikidata.org/wiki/Q16964645)  
 
@@ -13584,6 +13654,13 @@
 
 ### alignments:
  - [Donon](https://pleiades.stoa.org/places/822279250)
+
+
+## Dora (Q1243563)
+[https://www.wikidata.org/wiki/Q1243563](https://www.wikidata.org/wiki/Q1243563)  
+
+### alignments:
+ - [Dor(a)](https://pleiades.stoa.org/places/678121)
 
 
 ## Dorchester on Thames (Q1243780)
@@ -14264,6 +14341,13 @@
 
 ### alignments:
  - [Rhaithou](https://pleiades.stoa.org/places/746806)
+
+
+## Elaea (Q5353066)
+[https://www.wikidata.org/wiki/Q5353066](https://www.wikidata.org/wiki/Q5353066)  
+
+### alignments:
+ - [Elaia?](https://pleiades.stoa.org/places/678129)
 
 
 ## Elaea (Q65045324)
@@ -16437,6 +16521,13 @@
  - [Sarabos (river)](https://pleiades.stoa.org/places/60035)
 
 
+## Ghar el-Melh (Q2618068)
+[https://www.wikidata.org/wiki/Q2618068](https://www.wikidata.org/wiki/Q2618068)  
+
+### alignments:
+ - [Rusucmona?/Castra Delia](https://pleiades.stoa.org/places/315132)
+
+
 ## Gheriat el-Garbia (Q2120559)
 [https://www.wikidata.org/wiki/Q2120559](https://www.wikidata.org/wiki/Q2120559)  
 
@@ -18153,6 +18244,13 @@
  - [Hippo Regius](https://pleiades.stoa.org/places/305090)
 
 
+## Hippodrome in Gerasa (Q70772359)
+[https://www.wikidata.org/wiki/Q70772359](https://www.wikidata.org/wiki/Q70772359)  
+
+### alignments:
+ - [Jerash Hippodrome](https://pleiades.stoa.org/places/312305084)
+
+
 ## Hippodrome of Constantinople (Q387548)
 [https://www.wikidata.org/wiki/Q387548](https://www.wikidata.org/wiki/Q387548)  
 
@@ -19777,6 +19875,13 @@
  - [J4 Barracks](https://pleiades.stoa.org/places/888638033)
 
 
+## Jabal Says archaeological site (Q21595920)
+[https://www.wikidata.org/wiki/Q21595920](https://www.wikidata.org/wiki/Q21595920)  
+
+### alignments:
+ - [Jebel Seis](https://pleiades.stoa.org/places/678211)
+
+
 ## Jableh (Q175923)
 [https://www.wikidata.org/wiki/Q175923](https://www.wikidata.org/wiki/Q175923)  
 
@@ -19894,6 +19999,13 @@
 
 ### alignments:
  - [Ǧidda](https://pleiades.stoa.org/places/97875560)
+
+
+## Jenin (Q374748)
+[https://www.wikidata.org/wiki/Q374748](https://www.wikidata.org/wiki/Q374748)  
+
+### alignments:
+ - [Ginai(a)/Gema](https://pleiades.stoa.org/places/678163)
 
 
 ## Jerablus Tahtani (Q85771094)
@@ -23312,6 +23424,13 @@
 
 ### alignments:
  - [Lyne](https://pleiades.stoa.org/places/309791778)
+
+
+## Lynkestis (Q1247667)
+[https://www.wikidata.org/wiki/Q1247667](https://www.wikidata.org/wiki/Q1247667)  
+
+### alignments:
+ - [Lynkos](https://pleiades.stoa.org/places/481903)
 
 
 ## Lyrkeion (Q12880344)
@@ -28768,6 +28887,13 @@
  - [Ovidis (river)](https://pleiades.stoa.org/places/148150)
 
 
+## Oval Forum (Q105665786)
+[https://www.wikidata.org/wiki/Q105665786](https://www.wikidata.org/wiki/Q105665786)  
+
+### alignments:
+ - [Oval Forum (Jerash)](https://pleiades.stoa.org/places/491624945)
+
+
 ## Ovilava (Q134386057)
 [https://www.wikidata.org/wiki/Q134386057](https://www.wikidata.org/wiki/Q134386057)  
 
@@ -28906,6 +29032,13 @@
 
 ### alignments:
  - [Palace of Ardashir](https://pleiades.stoa.org/places/453674631)
+
+
+## Palaeobeudus (Q111503898)
+[https://www.wikidata.org/wiki/Q111503898](https://www.wikidata.org/wiki/Q111503898)  
+
+### alignments:
+ - [Beudos (Palaion)](https://pleiades.stoa.org/places/609342)
 
 
 ## Palaepharsalus (Q60790102)
@@ -51865,7 +51998,7 @@
 [https://www.wikidata.org/wiki/Q3470903](https://www.wikidata.org/wiki/Q3470903)  
 
 ### alignments:
- - [Lavinius? (river)](https://pleiades.stoa.org/places/393444)
+ - [Labinios (river)](https://pleiades.stoa.org/places/393444)
 
 
 ## Samos (Q13580795)
@@ -54487,6 +54620,13 @@
  - [Hypanis/Southern Bug (river)](https://pleiades.stoa.org/places/226630)
 
 
+## Southern Theatre of Jerash (Q56117303)
+[https://www.wikidata.org/wiki/Q56117303](https://www.wikidata.org/wiki/Q56117303)  
+
+### alignments:
+ - [South Theater (Jerash)](https://pleiades.stoa.org/places/276676983)
+
+
 ## Southwest Bath (Q25166607)
 [https://www.wikidata.org/wiki/Q25166607](https://www.wikidata.org/wiki/Q25166607)  
 
@@ -55206,6 +55346,13 @@
 
 ### alignments:
  - [Synagogue phase 2](https://pleiades.stoa.org/places/769637723)
+
+
+## Synnada (Q616079)
+[https://www.wikidata.org/wiki/Q616079](https://www.wikidata.org/wiki/Q616079)  
+
+### alignments:
+ - [Synnada](https://pleiades.stoa.org/places/609538)
 
 
 ## Syr Dar (Q483159)
@@ -56179,6 +56326,13 @@
 
 ### alignments:
  - [Temple of Apollo Zoster](https://pleiades.stoa.org/places/579875)
+
+
+## Temple of Artemis (Q2527347)
+[https://www.wikidata.org/wiki/Q2527347](https://www.wikidata.org/wiki/Q2527347)  
+
+### alignments:
+ - [Temple of Artemis, Jerash](https://pleiades.stoa.org/places/491624944)
 
 
 ## Temple of Artemis Agrotera (Q20084335)
@@ -57789,6 +57943,13 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## Tinto (Q17744)
+[https://www.wikidata.org/wiki/Q17744](https://www.wikidata.org/wiki/Q17744)  
+
+### alignments:
+ - [Iberos/Luxia (river)](https://pleiades.stoa.org/places/256218)
 
 
 ## Tipasa (Q3529269)
@@ -62502,6 +62663,13 @@
 
 ### alignments:
  - [Yoncalı](https://pleiades.stoa.org/places/708232007)
+
+
+## Yverdon-les-Bains (Q63946)
+[https://www.wikidata.org/wiki/Q63946](https://www.wikidata.org/wiki/Q63946)  
+
+### alignments:
+ - [Eburodunum](https://pleiades.stoa.org/places/177514)
 
 
 ## Zabala (Q1074177)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-719 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+720 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1218,6 +1218,13 @@
 
 ### alignments:
  - [Alea](https://pleiades.stoa.org/places/570062)
+
+
+## 10214249: Caphyai (Arcadia)
+[https://resource.manto.unh.edu/10214249](https://resource.manto.unh.edu/10214249)  
+
+### alignments:
+ - [Kaphyai](https://pleiades.stoa.org/places/570329)
 
 
 ## 10214285: Psophis (Zacynthos)

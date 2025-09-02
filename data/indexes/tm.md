@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4629 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+4635 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7043,6 +7043,13 @@
 
 ### alignments:
  - [Colossae](https://pleiades.stoa.org/places/638811)
+
+
+## GEO ID 16150: Dokimeion (İscehisar)
+[https://www.trismegistos.org/place/16150](https://www.trismegistos.org/place/16150)  
+
+### alignments:
+ - [Dokimeion](https://pleiades.stoa.org/places/609366)
 
 
 ## GEO ID 16152: Priapos (Karabiğa)
@@ -17794,6 +17801,13 @@
  - [Col. Tarraco](https://pleiades.stoa.org/places/246349)
 
 
+## GEO ID 33751: Lyncestis
+[https://www.trismegistos.org/place/33751](https://www.trismegistos.org/place/33751)  
+
+### alignments:
+ - [Lynkos](https://pleiades.stoa.org/places/481903)
+
+
 ## GEO ID 3375: Skiathis (Wadi el-Natrun)
 [http://www.trismegistos.org/place/3375](http://www.trismegistos.org/place/3375)  
 
@@ -28333,6 +28347,13 @@
  - [Dur-Sharrukin](https://pleiades.stoa.org/places/874458)
 
 
+## GEO ID 4889: Ain Amur
+[https://www.trismegistos.org/place/4889](https://www.trismegistos.org/place/4889)  
+
+### alignments:
+ - [Ain Amour](https://pleiades.stoa.org/places/776143)
+
+
 ## GEO ID 4908: Askut
 [https://www.trismegistos.org/place/4908](https://www.trismegistos.org/place/4908)  
 
@@ -29456,6 +29477,13 @@
  - [Mersin-Yumuktepe](https://pleiades.stoa.org/places/648555)
 
 
+## GEO ID 587: Dora (Tantura)
+[https://www.trismegistos.org/place/587](https://www.trismegistos.org/place/587)  
+
+### alignments:
+ - [Dor(a)](https://pleiades.stoa.org/places/678121)
+
+
 ## GEO ID 58814: Belikiom
 [https://www.trismegistos.org/place/58814](https://www.trismegistos.org/place/58814)  
 
@@ -29881,6 +29909,13 @@
 
 ### alignments:
  - [Teleidai](https://pleiades.stoa.org/places/541129)
+
+
+## GEO ID 60729: Karyai
+[https://www.trismegistos.org/place/60729](https://www.trismegistos.org/place/60729)  
+
+### alignments:
+ - [Karyai](https://pleiades.stoa.org/places/573275)
 
 
 ## GEO ID 60735: Kephisos (Sarandaporos)
@@ -31570,6 +31605,13 @@
 
 ### alignments:
  - [Anemurium](https://pleiades.stoa.org/places/648557)
+
+
+## GEO ID 8538: Antarados (Tartous)
+[http://www.trismegistos.org/place/8538](http://www.trismegistos.org/place/8538)  
+
+### alignments:
+ - [Antarados/Constantia](https://pleiades.stoa.org/places/668190)
 
 
 ## GEO ID 853: Hierosolyma (Jerusalem)

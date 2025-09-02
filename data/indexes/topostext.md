@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3750 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+3753 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5535,6 +5535,13 @@
 
 ### alignments:
  - [Castalian spring](https://pleiades.stoa.org/places/203037083)
+
+
+## Castra Cornelia (Libya) 6 Kelaat El Andaluus
+[https://topostext.org/place/371101UCCo](https://topostext.org/place/371101UCCo)  
+
+### alignments:
+ - [Castra Corneli(ana)?](https://pleiades.stoa.org/places/314923)
 
 
 ## Castra Regina/Reginum
@@ -11647,6 +11654,13 @@
  - [Karthaia](https://pleiades.stoa.org/places/570333)
 
 
+## Karyai (Arkadia) 3 Mati?
+[https://topostext.org/place/378223UKar](https://topostext.org/place/378223UKar)  
+
+### alignments:
+ - [Karyai](https://pleiades.stoa.org/places/573275)
+
+
 ## Karyanda (Caria)
 [https://topostext.org/place/371274PKar](https://topostext.org/place/371274PKar)  
 
@@ -14510,6 +14524,13 @@
 
 ### alignments:
  - [Lyktos](https://pleiades.stoa.org/places/589918)
+
+
+## Lynkos region (Macedonia) 63 upper Crna valley - Λύγκος
+[https://topostext.org/place/410214RLyn](https://topostext.org/place/410214RLyn)  
+
+### alignments:
+ - [Lynkos](https://pleiades.stoa.org/places/481903)
 
 
 ## Lyrbe/Seleukeia (Pamphylia)

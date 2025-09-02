@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-504 alignments exist in _Pleiades_ place references as of 2025-08-29. The following list of alignments is grouped by zotkey.
+506 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2708,6 +2708,13 @@
  - [Anchisia (mountain)](https://pleiades.stoa.org/places/570078)
 
 
+## 8.13.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.13.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.13.6)  
+
+### alignments:
+ - [Karyai](https://pleiades.stoa.org/places/573275)
+
+
 ## 8.14.1
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.14.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.14.1)  
 
@@ -2797,6 +2804,13 @@
 
 ### alignments:
  - [Stymphalos](https://pleiades.stoa.org/places/570696)
+
+
+## 8.23.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.23.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.23.2)  
+
+### alignments:
+ - [Kaphyai](https://pleiades.stoa.org/places/570329)
 
 
 ## 8.23.4
