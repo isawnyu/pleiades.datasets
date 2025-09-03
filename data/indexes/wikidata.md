@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9016 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
+9027 alignments exist in _Pleiades_ place references as of 2025-09-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5219,6 +5219,13 @@
  - [Baliares/Gymnesiae Inss. (Maior et Minor)](https://pleiades.stoa.org/places/265817)
 
 
+## Balearic Sea (Q200712)
+[https://www.wikidata.org/wiki/Q200712](https://www.wikidata.org/wiki/Q200712)  
+
+### alignments:
+ - [Baliaricum Mare](https://pleiades.stoa.org/places/265818)
+
+
 ## Balgatia (Q85745034)
 [https://www.wikidata.org/wiki/Q85745034](https://www.wikidata.org/wiki/Q85745034)  
 
@@ -7721,6 +7728,13 @@
 
 ### alignments:
  - [Nerion/Artabrum/Celticum/Magnum (promuntory)](https://pleiades.stoa.org/places/236567)
+
+
+## Cabrera (Q52650)
+[https://www.wikidata.org/wiki/Q52650](https://www.wikidata.org/wiki/Q52650)  
+
+### alignments:
+ - [Capraria (island)](https://pleiades.stoa.org/places/265840)
 
 
 ## Cabu Abbas (Q1024978)
@@ -18349,6 +18363,13 @@
  - [Macedonia (Archaic and Classical kingdom)](https://pleiades.stoa.org/places/668537581)
 
 
+## Hither Province (Pylos) (Q136085381)
+[https://www.wikidata.org/wiki/Q136085381](https://www.wikidata.org/wiki/Q136085381)  
+
+### alignments:
+ - [Hither Province (Pylos)](https://pleiades.stoa.org/places/226979725)
+
+
 ## Hiulca Palus (Q114298625)
 [https://www.wikidata.org/wiki/Q114298625](https://www.wikidata.org/wiki/Q114298625)  
 
@@ -19840,6 +19861,13 @@
  - [Iuvavum](https://pleiades.stoa.org/places/187432)
 
 
+## Ivrea (Q9409)
+[https://www.wikidata.org/wiki/Q9409](https://www.wikidata.org/wiki/Q9409)  
+
+### alignments:
+ - [Eporedia](https://pleiades.stoa.org/places/383642)
+
+
 ## Ixia (Q14219404)
 [https://www.wikidata.org/wiki/Q14219404](https://www.wikidata.org/wiki/Q14219404)  
 
@@ -20504,6 +20532,13 @@
 
 ### alignments:
  - [Neckarburken](https://pleiades.stoa.org/places/118862)
+
+
+## Kastelli Hill (Q6374801)
+[https://www.wikidata.org/wiki/Q6374801](https://www.wikidata.org/wiki/Q6374801)  
+
+### alignments:
+ - [Kastellion](https://pleiades.stoa.org/places/553704982)
 
 
 ## Kastelorizo (Q212096)
@@ -23496,6 +23531,13 @@
  - [Macedonia (Roman province)](https://pleiades.stoa.org/places/981531)
 
 
+## Macellum (Q129917962)
+[https://www.wikidata.org/wiki/Q129917962](https://www.wikidata.org/wiki/Q129917962)  
+
+### alignments:
+ - [Macellum (Jerash)](https://pleiades.stoa.org/places/491624943)
+
+
 ## Macellum in Sagalassos (Q129917971)
 [https://www.wikidata.org/wiki/Q129917971](https://www.wikidata.org/wiki/Q129917971)  
 
@@ -25541,6 +25583,13 @@
  - [Mines at Serabit el-Khadim](https://pleiades.stoa.org/places/746811)
 
 
+## Mingardo (Q1500079)
+[https://www.wikidata.org/wiki/Q1500079](https://www.wikidata.org/wiki/Q1500079)  
+
+### alignments:
+ - [Melpes (river)](https://pleiades.stoa.org/places/452377)
+
+
 ## Minho River (Q14554)
 [https://www.wikidata.org/wiki/Q14554](https://www.wikidata.org/wiki/Q14554)  
 
@@ -27527,6 +27576,13 @@
 
 ### alignments:
  - [Northern Postern Gate](https://pleiades.stoa.org/places/451190409)
+
+
+## Northern Theatre of Jerash (Q56117315)
+[https://www.wikidata.org/wiki/Q56117315](https://www.wikidata.org/wiki/Q56117315)  
+
+### alignments:
+ - [North Theater (Jerash)](https://pleiades.stoa.org/places/804496327)
 
 
 ## Northwich (Samian Ware Discovery Site) (Q103187561)
@@ -30607,6 +30663,13 @@
 
 ### alignments:
  - [Pitinum Mergens](https://pleiades.stoa.org/places/413261)
+
+
+## Pitiusic Islands (Q1128605)
+[https://www.wikidata.org/wiki/Q1128605](https://www.wikidata.org/wiki/Q1128605)  
+
+### alignments:
+ - [Pityussae (islands)](https://pleiades.stoa.org/places/266001)
 
 
 ## Pitulum (Q126555184)
@@ -36799,13 +36862,6 @@
 
 ### alignments:
  - [Aiginion](https://pleiades.stoa.org/places/530787)
-
-
-## Q16331965: Sanctuary of Demeter Malophoros
-[https://www.wikidata.org/wiki/Q16331965](https://www.wikidata.org/wiki/Q16331965)  
-
-### alignments:
- - [Temple of Demeter at the Sanctuary of Demeter Malophoros, Selinus](https://pleiades.stoa.org/places/502577471)
 
 
 ## Q1633319
@@ -43721,13 +43777,6 @@
 
 ### alignments:
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
-
-
-## Q3983222: Temple of Artemis at Sardis
-[https://www.wikidata.org/wiki/Q3983222](https://www.wikidata.org/wiki/Q3983222)  
-
-### alignments:
- - [Temple of Artemis at Sardis](https://pleiades.stoa.org/places/66376536)
 
 
 ## Q3983249: Tempio di Flora
@@ -52365,6 +52414,13 @@
  - [Temple of Demeter](https://pleiades.stoa.org/places/87367171)
 
 
+## Sanctuary of Demeter Malophoros (Q16331965)
+[https://www.wikidata.org/wiki/Q16331965](https://www.wikidata.org/wiki/Q16331965)  
+
+### alignments:
+ - [Temple of Demeter at the Sanctuary of Demeter Malophoros, Selinus](https://pleiades.stoa.org/places/502577471)
+
+
 ## Sanctuary of Fortuna Primigenia (Q3949669)
 [https://www.wikidata.org/wiki/Q3949669](https://www.wikidata.org/wiki/Q3949669)  
 
@@ -53385,6 +53441,13 @@
 
 ### alignments:
  - [Setis (island)](https://pleiades.stoa.org/places/786107)
+
+
+## Seine (Q1471)
+[https://www.wikidata.org/wiki/Q1471](https://www.wikidata.org/wiki/Q1471)  
+
+### alignments:
+ - [Sequana (river)](https://pleiades.stoa.org/places/109341)
 
 
 ## Sekotias Lakas (Q109793548)
@@ -56340,6 +56403,13 @@
 
 ### alignments:
  - [Temple of Artemis Agrotera](https://pleiades.stoa.org/places/277534797)
+
+
+## Temple of Artemis at Sardis (Q3983222)
+[https://www.wikidata.org/wiki/Q3983222](https://www.wikidata.org/wiki/Q3983222)  
+
+### alignments:
+ - [Temple of Artemis at Sardis](https://pleiades.stoa.org/places/66376536)
 
 
 ## Temple of Artemis Azzanathkona (Q84737320)
@@ -62845,6 +62915,13 @@
 
 ### alignments:
  - [Zeus Hypatos, T.](https://pleiades.stoa.org/places/541179)
+
+
+## Zeus Temple - Gerasa (Q82074340)
+[https://www.wikidata.org/wiki/Q82074340](https://www.wikidata.org/wiki/Q82074340)  
+
+### alignments:
+ - [Temple of Zeus Olympius (Jerash)](https://pleiades.stoa.org/places/276676984)
 
 
 ## Zeytin Adası (Q34788761)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4635 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
+4636 alignments exist in _Pleiades_ place references as of 2025-09-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -30357,6 +30357,13 @@
 
 ### alignments:
  - [Encheleioi](https://pleiades.stoa.org/places/481829)
+
+
+## GEO ID 61138: Pityoussai
+[https://www.trismegistos.org/place/61138](https://www.trismegistos.org/place/61138)  
+
+### alignments:
+ - [Pityussae (islands)](https://pleiades.stoa.org/places/266001)
 
 
 ## GEO ID 61148: Castulonensis Saltus (Cerro de la Parrilla)

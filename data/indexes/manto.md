@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-720 alignments exist in _Pleiades_ place references as of 2025-09-02. The following list of alignments is grouped by zotkey.
+721 alignments exist in _Pleiades_ place references as of 2025-09-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2093,6 +2093,13 @@
 
 ### alignments:
  - [Ledon](https://pleiades.stoa.org/places/540908)
+
+
+## 11010553: Pityoussai Islands
+[https://resource.manto.unh.edu/11010553](https://resource.manto.unh.edu/11010553)  
+
+### alignments:
+ - [Pityussae (islands)](https://pleiades.stoa.org/places/266001)
 
 
 ## 11015142: Alexandria (Egypt)
