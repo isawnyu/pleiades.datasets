@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9027 alignments exist in _Pleiades_ place references as of 2025-09-03. The following list of alignments is grouped by zotkey.
+9036 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -392,6 +392,13 @@
 
 ### alignments:
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
+
+
+## Acharnes ancient theater (Q56397323)
+[https://www.wikidata.org/wiki/Q56397323](https://www.wikidata.org/wiki/Q56397323)  
+
+### alignments:
+ - [Acharnes ancient theater](https://pleiades.stoa.org/places/735036201)
 
 
 ## Achelous River (Q203923)
@@ -869,6 +876,13 @@
 
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+
+
+## Agia Aikaterini square excavations (Q108422126)
+[https://www.wikidata.org/wiki/Q108422126](https://www.wikidata.org/wiki/Q108422126)  
+
+### alignments:
+ - [Agia Aikaterini square excavations](https://pleiades.stoa.org/places/975915186)
 
 
 ## Agia Dynamis (Q38284225)
@@ -4636,6 +4650,13 @@
 
 ### alignments:
  - [Atlit Yam](https://pleiades.stoa.org/places/97875559)
+
+
+## Atlıhisar (Q4817024)
+[https://www.wikidata.org/wiki/Q4817024](https://www.wikidata.org/wiki/Q4817024)  
+
+### alignments:
+ - [Atlıhisar](https://pleiades.stoa.org/places/609326)
 
 
 ## Atrebates (Q164811)
@@ -14980,6 +15001,13 @@
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
 
 
+## Eurymedon Bridge (Q846250)
+[https://www.wikidata.org/wiki/Q846250](https://www.wikidata.org/wiki/Q846250)  
+
+### alignments:
+ - [Bridge at Aspendos](https://pleiades.stoa.org/places/640251)
+
+
 ## Euryteiae (Q60791430)
 [https://www.wikidata.org/wiki/Q60791430](https://www.wikidata.org/wiki/Q60791430)  
 
@@ -20867,7 +20895,7 @@
 [https://www.wikidata.org/wiki/Q913355](https://www.wikidata.org/wiki/Q913355)  
 
 ### alignments:
- - [Arakia? (island)](https://pleiades.stoa.org/places/912810)
+ - [Arakia (island)](https://pleiades.stoa.org/places/912810)
 
 
 ## Kharga Oasis (Q428570)
@@ -21625,6 +21653,13 @@
 ### alignments:
  - [Kythnos (island)](https://pleiades.stoa.org/places/570403)
  - [Kythnos](https://pleiades.stoa.org/places/570402)
+
+
+## Köprüçay River (Q385473)
+[https://www.wikidata.org/wiki/Q385473](https://www.wikidata.org/wiki/Q385473)  
+
+### alignments:
+ - [Eurymedon (river)](https://pleiades.stoa.org/places/638836)
 
 
 ## Küllüoba Höyüğü (Q6101388)
@@ -52267,6 +52302,13 @@
  - [Pieve di San Pietro ad Mensulas](https://pleiades.stoa.org/places/41658845)
 
 
+## San Pietro in Vincoli (Q542070)
+[https://www.wikidata.org/wiki/Q542070](https://www.wikidata.org/wiki/Q542070)  
+
+### alignments:
+ - [San Pietro in Vincoli](https://pleiades.stoa.org/places/114728017)
+
+
 ## San Pietro Infine (Q58864)
 [https://www.wikidata.org/wiki/Q58864](https://www.wikidata.org/wiki/Q58864)  
 
@@ -58463,6 +58505,13 @@
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
 
 
+## Tomb of the Silen (Q3531033)
+[https://www.wikidata.org/wiki/Q3531033](https://www.wikidata.org/wiki/Q3531033)  
+
+### alignments:
+ - [Tomba del Sileno](https://pleiades.stoa.org/places/104349764)
+
+
 ## Tomb of the sons of Sextus Pompeius Justus (Q97623608)
 [https://www.wikidata.org/wiki/Q97623608](https://www.wikidata.org/wiki/Q97623608)  
 
@@ -59063,6 +59112,13 @@
 
 ### alignments:
  - [Trapezus](https://pleiades.stoa.org/places/857359)
+
+
+## Trabzon Castle (Q6011652)
+[https://www.wikidata.org/wiki/Q6011652](https://www.wikidata.org/wiki/Q6011652)  
+
+### alignments:
+ - [Walls of Trabzon](https://pleiades.stoa.org/places/182609762)
 
 
 ## Trachis (Q16642266)
@@ -61227,6 +61283,13 @@
 
 ### alignments:
  - [Vicus Sobrius](https://pleiades.stoa.org/places/440482653)
+
+
+## Vicus Sulpicius (Q135953334)
+[https://www.wikidata.org/wiki/Q135953334](https://www.wikidata.org/wiki/Q135953334)  
+
+### alignments:
+ - [Vicus Sulpicius](https://pleiades.stoa.org/places/555938861)
 
 
 ## Vicus Tuscus (Q1229845)
