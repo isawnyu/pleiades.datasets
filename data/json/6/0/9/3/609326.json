@@ -10,11 +10,11 @@
     "connectsWith": [],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,6 +22,18 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2009-10-15T09:41:57Z",
@@ -54,6 +66,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references, add dare, wikidata",
+            "modified": "2025-09-03T13:05:19Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-23T17:29:32Z",
@@ -198,10 +215,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 62 E5 Atlıhisar",
     "references": [
@@ -219,13 +238,35 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIB-Phrygien-195",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KSC4MTPR",
+            "citationDetail": "195",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIB Phrygien 195",
+            "formattedCitation": "<div class=\"csl-entry\">Belke, Klaus, and Robert Mersich. <i>Phrygien und Pisidien</i>. Tabula Imperii Byzantini 7. Wien: R. Habelt, 1990.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIB 7: Phrygien",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://imperium.ahlfeldt.se/places/30846.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "30846",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q4817024",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Atlıhisar (Q4817024)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
@@ -236,8 +277,8 @@
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Atlıhisar",
     "type": "FeatureCollection",
