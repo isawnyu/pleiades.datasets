@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3753 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
+3754 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1507,7 +1507,7 @@
 [https://topostext.org/place/426124UAme](https://topostext.org/place/426124UAme)  
 
 ### alignments:
- - [Ameria](https://pleiades.stoa.org/places/413012)
+ - [Ameria (Umbria)](https://pleiades.stoa.org/places/413012)
 
 
 ## Amestratus (Sicily)
@@ -23071,6 +23071,13 @@
 
 ### alignments:
  - [Stoa of Attalos](https://pleiades.stoa.org/places/759679649)
+
+
+## Stoa of Zeus Eleutherios (Athens Agora)
+[https://topostext.org/place/380237BSZe](https://topostext.org/place/380237BSZe)  
+
+### alignments:
+ - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)
 
 
 ## Stoa Poikile (Athens)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-721 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
+722 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -377,6 +377,13 @@
 
 ### alignments:
  - [Odrysae](https://pleiades.stoa.org/places/216906)
+
+
+## 10126160: Thocnia (Arcadia)
+[https://resource.manto.unh.edu/10126160](https://resource.manto.unh.edu/10126160)  
+
+### alignments:
+ - [Thoknia](https://pleiades.stoa.org/places/570730)
 
 
 ## 10126185: Acacesion (Arcadia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2225 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
+2226 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -6885,7 +6885,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1218.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1218.html)  
 
 ### alignments:
- - [Ameria](https://pleiades.stoa.org/places/413012)
+ - [Ameria (Umbria)](https://pleiades.stoa.org/places/413012)
 
 
 ## 4B2 (Talbert 1219)
@@ -12434,6 +12434,13 @@
 
 ### alignments:
  - [Tonzos (river)](https://pleiades.stoa.org/places/501644)
+
+
+## 7B4-7B5 ASTICVS (mountain, no. 77)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3111.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3111.html)  
+
+### alignments:
+ - [Asticus (mountain)](https://pleiades.stoa.org/places/511171)
 
 
 ## 7B5 (Talbert 1974)

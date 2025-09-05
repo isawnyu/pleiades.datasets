@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9036 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
+9036 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1967,7 +1967,7 @@
 [https://www.wikidata.org/wiki/Q6238](https://www.wikidata.org/wiki/Q6238)  
 
 ### alignments:
- - [Ameria](https://pleiades.stoa.org/places/413012)
+ - [Ameria (Umbria)](https://pleiades.stoa.org/places/413012)
 
 
 ## Amendolara (Q53828)

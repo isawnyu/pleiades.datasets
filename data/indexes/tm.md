@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4636 alignments exist in _Pleiades_ place references as of 2025-09-04. The following list of alignments is grouped by zotkey.
+4638 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2920,7 +2920,7 @@
 [http://www.trismegistos.org/place/11849](http://www.trismegistos.org/place/11849)  
 
 ### alignments:
- - [Ameria](https://pleiades.stoa.org/places/413012)
+ - [Ameria (Umbria)](https://pleiades.stoa.org/places/413012)
 
 
 ## GEO ID 11850: Blera
@@ -19495,6 +19495,13 @@
  - [Ikarion](https://pleiades.stoa.org/places/579958)
 
 
+## GEO ID 37760: Kikynna (Chalidou)
+[https://www.trismegistos.org/place/37760](https://www.trismegistos.org/place/37760)  
+
+### alignments:
+ - [Kikynna?](https://pleiades.stoa.org/places/579979)
+
+
 ## GEO ID 37761: Koroneia
 [https://www.trismegistos.org/place/37761](https://www.trismegistos.org/place/37761)  
 
@@ -29811,6 +29818,13 @@
 
 ### alignments:
  - [Anakaia?](https://pleiades.stoa.org/places/579864)
+
+
+## GEO ID 60689: Thria
+[https://www.trismegistos.org/place/60689](https://www.trismegistos.org/place/60689)  
+
+### alignments:
+ - [Thria](https://pleiades.stoa.org/places/580120)
 
 
 ## GEO ID 60690: Eupyridai
