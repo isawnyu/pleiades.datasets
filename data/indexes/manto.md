@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-722 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+726 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -420,6 +420,20 @@
 
 ### alignments:
  - [Dasea(i)](https://pleiades.stoa.org/places/570188)
+
+
+## 10126385: River Electra (Messenia)
+[https://resource.manto.unh.edu/10126385](https://resource.manto.unh.edu/10126385)  
+
+### alignments:
+ - [Elektra (river of Messenia)](https://pleiades.stoa.org/places/570215)
+
+
+## 10126387: River Coios (Messenia)
+[https://resource.manto.unh.edu/10126387](https://resource.manto.unh.edu/10126387)  
+
+### alignments:
+ - [Koios (river)](https://pleiades.stoa.org/places/570365)
 
 
 ## 10126442: River Eurotas (Laconia)
@@ -2943,6 +2957,13 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 8188812: Corinth (Argolid)
+[https://resource.manto.unh.edu/8188812](https://resource.manto.unh.edu/8188812)  
+
+### alignments:
+ - [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
+
+
 ## 8188813: the Megarid
 [https://resource.manto.unh.edu/8188813](https://resource.manto.unh.edu/8188813)  
 
@@ -4643,6 +4664,13 @@
 
 ### alignments:
  - [Orthe/Phalanna](https://pleiades.stoa.org/places/540992)
+
+
+## 9720476: Oloosson (Thessaly)
+[https://resource.manto.unh.edu/9720476](https://resource.manto.unh.edu/9720476)  
+
+### alignments:
+ - [Olooson](https://pleiades.stoa.org/places/540981)
 
 
 ## 9720481: Aithicia (Thessaly)

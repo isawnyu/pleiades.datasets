@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4638 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+4640 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1784,6 +1784,13 @@
 
 ### alignments:
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
+
+
+## Geo 42527: Pamisos
+[https://www.trismegistos.org/place/42527](https://www.trismegistos.org/place/42527)  
+
+### alignments:
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## Geo 42544: Hypanis (Bug)
@@ -25300,6 +25307,13 @@
  - [Diabetai (islands)](https://pleiades.stoa.org/places/599591)
 
 
+## GEO ID 42563: Asticus
+[https://www.trismegistos.org/place/42563](https://www.trismegistos.org/place/42563)  
+
+### alignments:
+ - [Asticus (mountain)](https://pleiades.stoa.org/places/511171)
+
+
 ## GEO ID 42570: Baikolikon Oros
 [https://www.trismegistos.org/place/42570](https://www.trismegistos.org/place/42570)  
 
@@ -29943,7 +29957,7 @@
 [https://www.trismegistos.org/place/60741](https://www.trismegistos.org/place/60741)  
 
 ### alignments:
- - [Oinoe](https://pleiades.stoa.org/places/580040)
+ - [Oinoe (Attica)](https://pleiades.stoa.org/places/580040)
 
 
 ## GEO ID 60744: Trikrana (Trikeri)

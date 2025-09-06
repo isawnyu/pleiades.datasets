@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3754 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+3756 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7720,6 +7720,13 @@
  - [Elektra (river)](https://pleiades.stoa.org/places/589771)
 
 
+## Elektra river (Messenia) 2 Mavrozoumena
+[https://topostext.org/place/373219WEle](https://topostext.org/place/373219WEle)  
+
+### alignments:
+ - [Elektra (river of Messenia)](https://pleiades.stoa.org/places/570215)
+
+
 ## Eleonas metro exc. (Attica) Athens
 [https://topostext.org/place/380237XEle](https://topostext.org/place/380237XEle)  
 
@@ -12363,6 +12370,13 @@
  - [Koinyra](https://pleiades.stoa.org/places/501473)
 
 
+## Koios R. (Messenia) 1 Malthis
+[https://topostext.org/place/373218WKoi](https://topostext.org/place/373218WKoi)  
+
+### alignments:
+ - [Koios (river)](https://pleiades.stoa.org/places/570365)
+
+
 ## Kokkinos fort (Lemnos) Kotsinos
 [https://topostext.org/place/399253FKok](https://topostext.org/place/399253FKok)  
 
@@ -14772,13 +14786,6 @@
  - [Malea](https://pleiades.stoa.org/places/550713)
 
 
-## Maleme tholos (Crete) Maleme
-[https://topostext.org/place/354247XMal](https://topostext.org/place/354247XMal)  
-
-### alignments:
- - [Maleme tholos tomb](https://pleiades.stoa.org/places/934557837)
-
-
 ## Malene (Aiolis)
 [https://topostext.org/place/392268UMal](https://topostext.org/place/392268UMal)  
 
@@ -17082,7 +17089,7 @@
 [https://topostext.org/place/382234DOin](https://topostext.org/place/382234DOin)  
 
 ### alignments:
- - [Oinoe](https://pleiades.stoa.org/places/580040)
+ - [Oinoe (Attica)](https://pleiades.stoa.org/places/580040)
 
 
 ## Oinoe (Marathon)
@@ -17938,6 +17945,13 @@
 
 ### alignments:
  - [Pambotadai](https://pleiades.stoa.org/places/585940)
+
+
+## Pamisos R. (Messenia) 20 Pamisos - Παμισός
+[https://topostext.org/place/373218WPam](https://topostext.org/place/373218WPam)  
+
+### alignments:
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## Pamphylia region (Asia Minor) 272 Antalya - Παμφυλία

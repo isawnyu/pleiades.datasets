@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-506 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+506 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1889,6 +1889,8 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.33.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.33.6)  
 
 ### alignments:
+ - [Elektra (river of Messenia)](https://pleiades.stoa.org/places/570215)
+ - [Koios (river)](https://pleiades.stoa.org/places/570365)
  - [Polichne](https://pleiades.stoa.org/places/570625)
 
 
@@ -1931,7 +1933,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.34.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.34.1)  
 
 ### alignments:
- - [Pamisos (river)](https://pleiades.stoa.org/places/570551)
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## 4.34.4
@@ -1947,7 +1949,7 @@
 
 ### alignments:
  - [Messenia](https://pleiades.stoa.org/places/570480)
- - [Pamisos (river)](https://pleiades.stoa.org/places/570551)
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## 4.34.7

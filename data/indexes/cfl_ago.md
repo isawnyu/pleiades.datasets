@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-412 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+415 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1592,6 +1592,20 @@
  - [Gourimadi Prehistoric Settlement](https://pleiades.stoa.org/places/941807582)
 
 
+## Toponyme 10554: Oinoi, Mazi-Κ.Δ.Οινόης
+[https://chronique.efa.gr/?r=topo_public&id=10554](https://chronique.efa.gr/?r=topo_public&id=10554)  
+
+### alignments:
+ - [Oinoe (Attica)](https://pleiades.stoa.org/places/580040)
+
+
+## Toponyme 10555: Polyrrinia, Epano Palaiokastron-Δ.Δ.Πολυρρηνίας
+[https://chronique.efa.gr/?r=topo_public&id=10555](https://chronique.efa.gr/?r=topo_public&id=10555)  
+
+### alignments:
+ - [Polyrrenia](https://pleiades.stoa.org/places/590003)
+
+
 ## Toponyme 10826: Parthenion
 [https://chronique.efa.gr/?kroute=topo_public&id=10826](https://chronique.efa.gr/?kroute=topo_public&id=10826)  
 
@@ -2518,6 +2532,13 @@
 
 ### alignments:
  - [Aigosthena](https://pleiades.stoa.org/places/570051)
+
+
+## Toponyme 44: Valyra, Tzeferemini-Δ.Δ.Βαλύρας
+[https://chronique.efa.gr/?r=topo_public&id=44](https://chronique.efa.gr/?r=topo_public&id=44)  
+
+### alignments:
+ - [Balyra (river)](https://pleiades.stoa.org/places/570146)
 
 
 ## Toponyme 4552: Aktion, Accium, Actium

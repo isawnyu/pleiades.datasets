@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9036 alignments exist in _Pleiades_ place references as of 2025-09-05. The following list of alignments is grouped by zotkey.
+9040 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -19935,7 +19935,7 @@
 [https://www.wikidata.org/wiki/Q21595920](https://www.wikidata.org/wiki/Q21595920)  
 
 ### alignments:
- - [Jebel Seis](https://pleiades.stoa.org/places/678211)
+ - [Usays](https://pleiades.stoa.org/places/678211)
 
 
 ## Jableh (Q175923)
@@ -22495,6 +22495,13 @@
  - [Turret 51B (Lea Hill)](https://pleiades.stoa.org/places/967060214)
 
 
+## Lebedus (Q302905)
+[https://www.wikidata.org/wiki/Q302905](https://www.wikidata.org/wiki/Q302905)  
+
+### alignments:
+ - [Lebedos/Ptolemais](https://pleiades.stoa.org/places/599754)
+
+
 ## Lederata (Q3829351)
 [https://www.wikidata.org/wiki/Q3829351](https://www.wikidata.org/wiki/Q3829351)  
 
@@ -23836,7 +23843,7 @@
 [https://www.wikidata.org/wiki/Q38280062](https://www.wikidata.org/wiki/Q38280062)  
 
 ### alignments:
- - [Maleme tholos tomb](https://pleiades.stoa.org/places/934557837)
+ - [Maleme](https://pleiades.stoa.org/places/865194824)
 
 
 ## Malis (Q11934734)
@@ -28376,6 +28383,13 @@
  - [Oiatai](https://pleiades.stoa.org/places/573397)
 
 
+## Oinoe (Q17524320)
+[https://www.wikidata.org/wiki/Q17524320](https://www.wikidata.org/wiki/Q17524320)  
+
+### alignments:
+ - [Oinoe (Attica)](https://pleiades.stoa.org/places/580040)
+
+
 ## Oion Kerameikon (Q13464934)
 [https://www.wikidata.org/wiki/Q13464934](https://www.wikidata.org/wiki/Q13464934)  
 
@@ -28500,6 +28514,13 @@
 
 ### alignments:
  - [Olmones](https://pleiades.stoa.org/places/540980)
+
+
+## Olooson (Q16613530)
+[https://www.wikidata.org/wiki/Q16613530](https://www.wikidata.org/wiki/Q16613530)  
+
+### alignments:
+ - [Olooson](https://pleiades.stoa.org/places/540981)
 
 
 ## Olophyxus (Q17623889)
@@ -29305,6 +29326,13 @@
 
 ### alignments:
  - [Pambotadai](https://pleiades.stoa.org/places/585940)
+
+
+## Pamisos (Q3100663)
+[https://www.wikidata.org/wiki/Q3100663](https://www.wikidata.org/wiki/Q3100663)  
+
+### alignments:
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## Pamphylia (Q585250)
@@ -37502,13 +37530,6 @@
  - [Santa Prisca](https://pleiades.stoa.org/places/45016678)
 
 
-## Q17524320: Oinoe
-[https://www.wikidata.org/wiki/Q17524320](https://www.wikidata.org/wiki/Q17524320)  
-
-### alignments:
- - [Oinoe](https://pleiades.stoa.org/places/580040)
-
-
 ## Q1752701: Aetokremnos
 [https://www.wikidata.org/wiki/Q1752701](https://www.wikidata.org/wiki/Q1752701)  
 
@@ -43322,13 +43343,6 @@
 
 ### alignments:
  - [Thermai](https://pleiades.stoa.org/places/599977)
-
-
-## Q38283545: Roman Odeion at Corinth
-[https://www.wikidata.org/wiki/Q38283545](https://www.wikidata.org/wiki/Q38283545)  
-
-### alignments:
- - [Roman Odeion at Corinth](https://pleiades.stoa.org/places/45246736)
 
 
 ## Q383259: Amenhotep, son of Hapu
@@ -50790,6 +50804,13 @@
  - [Roman Military Palace](https://pleiades.stoa.org/places/888638002)
 
 
+## Roman Odeion at Corinth (Q38283545)
+[https://www.wikidata.org/wiki/Q38283545](https://www.wikidata.org/wiki/Q38283545)  
+
+### alignments:
+ - [Roman Odeion at Corinth](https://pleiades.stoa.org/places/45246736)
+
+
 ## Roman Odeum of Taormina (Q4331373)
 [https://www.wikidata.org/wiki/Q4331373](https://www.wikidata.org/wiki/Q4331373)  
 
@@ -57628,6 +57649,13 @@
 
 ### alignments:
  - [Cataracta Tertia](https://pleiades.stoa.org/places/805602)
+
+
+## Thocnia (Q60790111)
+[https://www.wikidata.org/wiki/Q60790111](https://www.wikidata.org/wiki/Q60790111)  
+
+### alignments:
+ - [Thoknia](https://pleiades.stoa.org/places/570730)
 
 
 ## Tholos of Athens (Q9087412)
