@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/589748",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:40:21Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2025-09-05T23:22:08Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:40:21Z",
@@ -58,11 +70,13 @@
     ],
     "contributors": [
         {
-            "name": "DARMC",
-            "username": null
+            "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
         },
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
@@ -70,6 +84,10 @@
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
         },
         {
             "homepage": null,
@@ -90,7 +108,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2024-02-06T23:49:07Z",
+    "created": "2025-09-05T23:24:34Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -474,6 +492,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "added CFL/AGO reference provided by cbouras; removed out-of-date Smith reference; added Nomisma reference provided by Nomisma @thomase",
+            "modified": "2025-09-06T01:23:49Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-09-05T23:24:33Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "DARMC 14358",
             "modified": "2024-02-07T01:30:55Z",
@@ -1257,17 +1285,6 @@
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DP%3Aentry+group%3D14%3Aentry%3Dpolyrrhenia-geo",
-            "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Smith 1854 (Perseus), POLYRRHÉNIA",
-            "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeFurther"
-        },
-        {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Plb.%204.53&lang=original",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QPGBM7G4",
@@ -1331,6 +1348,28 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?r=topo_public&id=10555",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme 10555: Polyrrinia, Epano Palaiokastron-Δ.Δ.Πολυρρηνίας",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://nomisma.org/id/polyrhenium",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "citationDetail": "Polyrhenium",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "nomisma.org",
             "type": "citesAsRelated"
         }
     ],
