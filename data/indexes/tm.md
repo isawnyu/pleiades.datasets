@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4640 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
+4644 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -867,6 +867,13 @@
 
 ### alignments:
  - [Epidaurum](https://pleiades.stoa.org/places/197263)
+
+
+## Geo 29378: Ausancalio (Gospić)
+[https://www.trismegistos.org/place/29378](https://www.trismegistos.org/place/29378)  
+
+### alignments:
+ - [*Ausancalio](https://pleiades.stoa.org/places/197150)
 
 
 ## Geo 29885: Gazoros (Hagios Athanasios)
@@ -11772,6 +11779,13 @@
  - [Beda](https://pleiades.stoa.org/places/108798)
 
 
+## GEO ID 24866: Castellum (Cassel)
+[https://www.trismegistos.org/place/24866](https://www.trismegistos.org/place/24866)  
+
+### alignments:
+ - [Castellum Menapiorum](https://pleiades.stoa.org/places/108865)
+
+
 ## GEO ID 24881: Verodunum (Verdun)
 [http://www.trismegistos.org/place/24881](http://www.trismegistos.org/place/24881)  
 
@@ -20140,6 +20154,13 @@
  - [Bousiritikos? (river)](https://pleiades.stoa.org/places/727092)
 
 
+## GEO ID 3881
+[https://www.trismegistos.org/place/3881](https://www.trismegistos.org/place/3881)  
+
+### alignments:
+ - [Boutike limne](https://pleiades.stoa.org/places/730098)
+
+
 ## GEO ID 3883: Boutikos Potamos
 [http://www.trismegistos.org/place/3883](http://www.trismegistos.org/place/3883)  
 
@@ -26119,6 +26140,13 @@
  - [Martialis Pagus](https://pleiades.stoa.org/places/438783)
 
 
+## GEO ID 43352
+[https://www.trismegistos.org/place/43352](https://www.trismegistos.org/place/43352)  
+
+### alignments:
+ - [Pagus *Fortunensis](https://pleiades.stoa.org/places/383732)
+
+
 ## GEO ID 43354: Vicus Sebuinus
 [https://www.trismegistos.org/place/43354](https://www.trismegistos.org/place/43354)  
 
@@ -28032,7 +28060,7 @@
  - [Matiane/*Kapauta Limne](https://pleiades.stoa.org/places/874593)
 
 
-## GEO ID 47893
+## GEO ID 47893: Thospitis Limne (Lake Van)
 [http://www.trismegistos.org/place/47893](http://www.trismegistos.org/place/47893)  
 
 ### alignments:

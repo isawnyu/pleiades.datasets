@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3756 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
+3757 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5535,6 +5535,13 @@
 
 ### alignments:
  - [Castalian spring](https://pleiades.stoa.org/places/203037083)
+
+
+## Castellum Menapiorum (Gallia)
+[https://topostext.org/place/508025UCas](https://topostext.org/place/508025UCas)  
+
+### alignments:
+ - [Castellum Menapiorum](https://pleiades.stoa.org/places/108865)
 
 
 ## Castra Cornelia (Libya) 6 Kelaat El Andaluus

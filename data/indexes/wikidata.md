@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9040 alignments exist in _Pleiades_ place references as of 2025-09-06. The following list of alignments is grouped by zotkey.
+9058 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2614,6 +2614,13 @@
  - [Anemurium](https://pleiades.stoa.org/places/648557)
 
 
+## Anesiates (Q136147240)
+[https://www.wikidata.org/wiki/Q136147240](https://www.wikidata.org/wiki/Q136147240)  
+
+### alignments:
+ - [Anesiates](https://pleiades.stoa.org/places/383571)
+
+
 ## Anfiteatro y necrópolis romana (Q97645802)
 [https://www.wikidata.org/wiki/Q97645802](https://www.wikidata.org/wiki/Q97645802)  
 
@@ -3746,6 +3753,13 @@
 
 ### alignments:
  - [Lykos (river)](https://pleiades.stoa.org/places/462290)
+
+
+## Areni-1 cave complex (Q1007510)
+[https://www.wikidata.org/wiki/Q1007510](https://www.wikidata.org/wiki/Q1007510)  
+
+### alignments:
+ - [Areni](https://pleiades.stoa.org/places/300354627)
 
 
 ## Areopagus (Q202487)
@@ -6905,6 +6919,13 @@
 
 ### alignments:
  - [Boclair](https://pleiades.stoa.org/places/940475798)
+
+
+## Boebeis Lake (Q60790256)
+[https://www.wikidata.org/wiki/Q60790256](https://www.wikidata.org/wiki/Q60790256)  
+
+### alignments:
+ - [Boibe (lake)](https://pleiades.stoa.org/places/540690)
 
 
 ## Boiai (Q11909406)
@@ -13696,6 +13717,13 @@
 
 ### alignments:
  - [Dor(a)](https://pleiades.stoa.org/places/678121)
+
+
+## Dora Riparia (Q670414)
+[https://www.wikidata.org/wiki/Q670414](https://www.wikidata.org/wiki/Q670414)  
+
+### alignments:
+ - [Duria (river)](https://pleiades.stoa.org/places/383636)
 
 
 ## Dorchester on Thames (Q1243780)
@@ -22047,6 +22075,13 @@
  - [Verbanus (lake)](https://pleiades.stoa.org/places/383814)
 
 
+## Lake Manzala (Q635419)
+[https://www.wikidata.org/wiki/Q635419](https://www.wikidata.org/wiki/Q635419)  
+
+### alignments:
+ - [Tanitike Limne](https://pleiades.stoa.org/places/727238)
+
+
 ## Lake Marmara (Q601695)
 [https://www.wikidata.org/wiki/Q601695](https://www.wikidata.org/wiki/Q601695)  
 
@@ -22124,6 +22159,13 @@
  - [Boane/Sunonensis (lake)](https://pleiades.stoa.org/places/511191)
 
 
+## Lake Sevan (Q181932)
+[https://www.wikidata.org/wiki/Q181932](https://www.wikidata.org/wiki/Q181932)  
+
+### alignments:
+ - [Lychnitis Limne](https://pleiades.stoa.org/places/863837)
+
+
 ## Lake Skadar (Q203811)
 [https://www.wikidata.org/wiki/Q203811](https://www.wikidata.org/wiki/Q203811)  
 
@@ -22159,6 +22201,13 @@
  - [Vadimonis (lake)](https://pleiades.stoa.org/places/413370)
 
 
+## Lake Van (Q126307)
+[https://www.wikidata.org/wiki/Q126307](https://www.wikidata.org/wiki/Q126307)  
+
+### alignments:
+ - [Thospitis Limne](https://pleiades.stoa.org/places/874772)
+
+
 ## Lake Vistonida (Q1422238)
 [https://www.wikidata.org/wiki/Q1422238](https://www.wikidata.org/wiki/Q1422238)  
 
@@ -22185,6 +22234,13 @@
 
 ### alignments:
  - [Silumnus (island)](https://pleiades.stoa.org/places/79685)
+
+
+## Lambro (Q283969)
+[https://www.wikidata.org/wiki/Q283969](https://www.wikidata.org/wiki/Q283969)  
+
+### alignments:
+ - [Lambrus (river)](https://pleiades.stoa.org/places/383686)
 
 
 ## Lamia (Q192980)
@@ -22815,6 +22871,13 @@
 
 ### alignments:
  - [Lilaios](https://pleiades.stoa.org/places/845005)
+
+
+## Limenia (Q56402258)
+[https://www.wikidata.org/wiki/Q56402258](https://www.wikidata.org/wiki/Q56402258)  
+
+### alignments:
+ - [Limenia?](https://pleiades.stoa.org/places/707563)
 
 
 ## Limes Dacicus (Q14752597)
@@ -24635,6 +24698,13 @@
 
 ### alignments:
  - [Meluhha](https://pleiades.stoa.org/places/99829822)
+
+
+## Menapii (Q659921)
+[https://www.wikidata.org/wiki/Q659921](https://www.wikidata.org/wiki/Q659921)  
+
+### alignments:
+ - [Menapii](https://pleiades.stoa.org/places/109156)
 
 
 ## Mende (Q3305786)
@@ -28313,6 +28383,13 @@
  - [Odeon of Philippopolis](https://pleiades.stoa.org/places/229782807)
 
 
+## Oder (Q552)
+[https://www.wikidata.org/wiki/Q552](https://www.wikidata.org/wiki/Q552)  
+
+### alignments:
+ - [Ouiadoua (river)](https://pleiades.stoa.org/places/20570)
+
+
 ## Odigitria tholos cemetery (Q16957058)
 [https://www.wikidata.org/wiki/Q16957058](https://www.wikidata.org/wiki/Q16957058)  
 
@@ -28780,6 +28857,13 @@
 
 ### alignments:
  - [Orcia (river)](https://pleiades.stoa.org/places/166434539)
+
+
+## Orco (Q1248309)
+[https://www.wikidata.org/wiki/Q1248309](https://www.wikidata.org/wiki/Q1248309)  
+
+### alignments:
+ - [Orgus (river)](https://pleiades.stoa.org/places/383723)
 
 
 ## Ordovices (Q768052)
@@ -51343,6 +51427,13 @@
  - [Villa romana di via Carciano](https://pleiades.stoa.org/places/714351467)
 
 
+## Roman villa N of Whitestaunton (Q17641854)
+[https://www.wikidata.org/wiki/Q17641854](https://www.wikidata.org/wiki/Q17641854)  
+
+### alignments:
+ - [White Staunton](https://pleiades.stoa.org/places/79756)
+
+
 ## Roman villa north of Yewden Lodge (Q17660804)
 [https://www.wikidata.org/wiki/Q17660804](https://www.wikidata.org/wiki/Q17660804)  
 
@@ -53373,6 +53464,13 @@
  - [Scylletium/Scolacium](https://pleiades.stoa.org/places/452439)
 
 
+## Scythia (Q845909)
+[https://www.wikidata.org/wiki/Q845909](https://www.wikidata.org/wiki/Q845909)  
+
+### alignments:
+ - [Scythia](https://pleiades.stoa.org/places/1273)
+
+
 ## Scythian Neapolis (Q2621094)
 [https://www.wikidata.org/wiki/Q2621094](https://www.wikidata.org/wiki/Q2621094)  
 
@@ -53441,6 +53539,13 @@
 
 ### alignments:
  - [Sebethus (river)](https://pleiades.stoa.org/places/433113)
+
+
+## Secchia (Q1888616)
+[https://www.wikidata.org/wiki/Q1888616](https://www.wikidata.org/wiki/Q1888616)  
+
+### alignments:
+ - [Gabellus/*Secia (river)](https://pleiades.stoa.org/places/383661)
 
 
 ## second cataract of the Nile (Q11948049)
@@ -57315,6 +57420,20 @@
  - [Teutones?](https://pleiades.stoa.org/places/99044)
 
 
+## Thaenae (Q3519416)
+[https://www.wikidata.org/wiki/Q3519416](https://www.wikidata.org/wiki/Q3519416)  
+
+### alignments:
+ - [Thaenae](https://pleiades.stoa.org/places/324825)
+
+
+## Thaenae amphitheatre (Q29002318)
+[https://www.wikidata.org/wiki/Q29002318](https://www.wikidata.org/wiki/Q29002318)  
+
+### alignments:
+ - [Roman amphitheater of Thyna](https://pleiades.stoa.org/places/584887994)
+
+
 ## Thalamae (Q16643340)
 [https://www.wikidata.org/wiki/Q16643340](https://www.wikidata.org/wiki/Q16643340)  
 
@@ -57908,6 +58027,13 @@
 
 ### alignments:
  - [Ticinum](https://pleiades.stoa.org/places/383798)
+
+
+## Tidone (Q3528193)
+[https://www.wikidata.org/wiki/Q3528193](https://www.wikidata.org/wiki/Q3528193)  
+
+### alignments:
+ - [Tidone (river)](https://pleiades.stoa.org/places/383800)
 
 
 ## Tiermes (Q2429023)
