@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/08/31 06:48:19.181769 GMT-4
+# Date: 2025/09/07 06:48:22.832278 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5179
+# Triple count: 5237
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -368,6 +368,33 @@
     dcterms:modified "2012-02-14T17:07:53-04:00";
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/1001942/batlas-location> .
+
+<https://pleiades.stoa.org/errata/1136%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn duplicate: Moesia Superior";
+    rdfs:comment "Duplicate for \"Moesia Superior (province)\" https://pleiades.stoa.org/places/981536";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/1136> .
+
+<https://pleiades.stoa.org/errata/1136/batlas-location> dcterms:contributor <http://viaf.org/viaf/51858528>,
+        <http://viaf.org/viaf/59162760>,
+        <http://viaf.org/viaf/65713033>,
+        <https://pleiades.stoa.org/author/lund-brian-z>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T17:14:57-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/1136/batlas-location> .
+
+<https://pleiades.stoa.org/errata/1136/moesia-superior> dcterms:contributor <http://viaf.org/viaf/51858528>,
+        <http://viaf.org/viaf/59162760>,
+        <http://viaf.org/viaf/65713033>,
+        <https://pleiades.stoa.org/author/lund-brian-z>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T17:14:57-04:00";
+    dcterms:title "Moesia Superior";
+    owl:sameAs <http://pleiades.stoa.org/errata/1136/moesia-superior> .
 
 <https://pleiades.stoa.org/errata/143028854%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Doublet: Oppidum Bochoritanum";
@@ -1091,11 +1118,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1103,11 +1130,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2345,6 +2372,10 @@
     dcterms:title "Mesopotamia";
     owl:sameAs <http://pleiades.stoa.org/errata/991405/mesopotamia> .
 
+<http://atlantides.org/capgrids/1%23H2-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[25.0, 40.0], [25.0, 45.0], [20.0, 45.0], [20.0, 40.0], [25.0, 40.0]]]}";
+    osgeo:asWKT "POLYGON ((25.0000000000000000 40.0000000000000000, 25.0000000000000000 45.0000000000000000, 20.0000000000000000 45.0000000000000000, 20.0000000000000000 40.0000000000000000, 25.0000000000000000 40.0000000000000000))" .
+
 <http://atlantides.org/capgrids/10%23A5-extent> a <http://data.ordnancesurvey.co.uk/ontology/geometry/AbstractGeometry>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[5.0, 51.0], [5.0, 52.0], [4.0, 52.0], [4.0, 51.0], [5.0, 51.0]]]}";
     osgeo:asWKT "POLYGON ((5.0000000000000000 51.0000000000000000, 5.0000000000000000 52.0000000000000000, 4.0000000000000000 52.0000000000000000, 4.0000000000000000 51.0000000000000000, 5.0000000000000000 51.0000000000000000))" .
@@ -2739,6 +2770,31 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/province>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/arabia> .
+
+<https://pleiades.stoa.org/errata/1136> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    osspatial:within <http://atlantides.org/capgrids/1%23H2>;
+    dcterms:bibliographicCitation "BAtlas 1 H2 Moesia Superior",
+        "New Pauly Moesi, Moesia see \"B. The Roman Occupation\" (J. Burian, F. Schönand A.-M. Wittke)";
+    dcterms:contributor <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "YUG";
+    dcterms:creator <http://viaf.org/viaf/51858528>,
+        <http://viaf.org/viaf/59162760>,
+        <http://viaf.org/viaf/65713033>,
+        <https://pleiades.stoa.org/author/lund-brian-z>;
+    dcterms:description "Duplicate for \"Moesia Superior (province)\" https://pleiades.stoa.org/places/981536";
+    dcterms:modified "2025-09-05T20:23:03-04:00";
+    dcterms:title "Withdrawn duplicate: Moesia Superior";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://doi.org/10.1163/1574-9347_bnp_e808240>;
+    owl:sameAs <http://pleiades.stoa.org/errata/1136>;
+    skos:altLabel "Moesia Superior";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/province-2>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/moesia-superior> .
 
 <https://pleiades.stoa.org/errata/143028854> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -3608,11 +3664,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -3726,10 +3782,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ];
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ],
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -4966,11 +5022,6 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ];
     pleiades:nameRomanized "Moesia Inferior" .
 
-<https://pleiades.stoa.org/errata/moesia-superior> a <https://pleiades.stoa.org/places/vocab#Name>;
-    owl:sameAs <http://pleiades.stoa.org/errata/moesia-superior>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ];
-    pleiades:nameRomanized "Moesia Superior" .
-
 <https://pleiades.stoa.org/errata/name.2015-03-27.0392344078> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Tac. Ger. (Furneaux and Anderson: PHI) 2.3.5";
     cito:citesAsEvidence <http://latin.packhum.org/loc/1351/2/1/751-761>;
@@ -5152,6 +5203,8 @@
     pleiades:nameRomanized "Untikesken";
     pleiades:start_date -330 .
 
+<http://atlantides.org/capgrids/1%23H2> osgeo:extent <http://atlantides.org/capgrids/1%23H2-extent> .
+
 <http://atlantides.org/capgrids/10%23A5> osgeo:extent <http://atlantides.org/capgrids/10%23A5-extent> .
 
 <http://atlantides.org/capgrids/100%23L4> osgeo:extent <http://atlantides.org/capgrids/100%23L4-extent> .
@@ -5248,8 +5301,8 @@
 
 <https://pleiades.stoa.org/errata/isauria> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/isauria>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ];
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ];
     pleiades:nameRomanized "Isauria" .
 
 <https://pleiades.stoa.org/errata/mesopotamia> a <https://pleiades.stoa.org/places/vocab#Name>;
@@ -5257,6 +5310,12 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ];
     pleiades:nameRomanized "Mesopotamia" .
+
+<https://pleiades.stoa.org/errata/moesia-superior> a <https://pleiades.stoa.org/places/vocab#Name>;
+    owl:sameAs <http://pleiades.stoa.org/errata/moesia-superior>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ];
+    pleiades:nameRomanized "Moesia Superior" .
 
 <https://pleiades.stoa.org/errata/osm-location-of-roman-amphitheater> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "",
@@ -5328,7 +5387,8 @@
         -30 .
 
 <https://pleiades.stoa.org/errata/batlas-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/100%23L4>,
+    osspatial:partiallyOverlaps <http://atlantides.org/capgrids/1%23H2>,
+        <http://atlantides.org/capgrids/100%23L4>,
         <http://atlantides.org/capgrids/101%23E4>,
         <http://atlantides.org/capgrids/101%23F3>,
         <http://atlantides.org/capgrids/101%23J2>,
@@ -5376,8 +5436,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
@@ -5387,8 +5447,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
@@ -5401,6 +5461,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ];
