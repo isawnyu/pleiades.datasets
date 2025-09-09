@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4644 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
+4646 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1618,6 +1618,13 @@
  - [Abia](https://pleiades.stoa.org/places/570027)
 
 
+## Geo 38105: Korone
+[https://www.trismegistos.org/place/38105](https://www.trismegistos.org/place/38105)  
+
+### alignments:
+ - [Korone](https://pleiades.stoa.org/places/570371)
+
+
 ## Geo 38116: Abai
 [https://www.trismegistos.org/place/38116](https://www.trismegistos.org/place/38116)  
 
@@ -2093,6 +2100,13 @@
 
 ### alignments:
  - [Kephalos Island Settlement](https://pleiades.stoa.org/places/533032)
+
+
+## Geo 60701: Pentele (Mendeli)
+[https://www.trismegistos.org/place/60701](https://www.trismegistos.org/place/60701)  
+
+### alignments:
+ - [Pentele](https://pleiades.stoa.org/places/580064)
 
 
 ## Geo 60724: Parthenion (Partheni)

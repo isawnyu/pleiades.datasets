@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9058 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
+9070 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5177,6 +5177,13 @@
  - [Bagdata](https://pleiades.stoa.org/places/893952)
 
 
+## Bahiret el Bibane (Q800241)
+[https://www.wikidata.org/wiki/Q800241](https://www.wikidata.org/wiki/Q800241)  
+
+### alignments:
+ - [Zouchis](https://pleiades.stoa.org/places/344576)
+
+
 ## Bahr Yussef (Q803626)
 [https://www.wikidata.org/wiki/Q803626](https://www.wikidata.org/wiki/Q803626)  
 
@@ -9039,6 +9046,13 @@
  - [Castell Henllys](https://pleiades.stoa.org/places/773739434)
 
 
+## Castelliere di Monte Orve (Q136163948)
+[https://www.wikidata.org/wiki/Q136163948](https://www.wikidata.org/wiki/Q136163948)  
+
+### alignments:
+ - [Castelliere di Monte Orve](https://pleiades.stoa.org/places/505616398)
+
+
 ## Castellina del Marangone (Q104551269)
 [https://www.wikidata.org/wiki/Q104551269](https://www.wikidata.org/wiki/Q104551269)  
 
@@ -12167,6 +12181,13 @@
 
 ### alignments:
  - [Cornus](https://pleiades.stoa.org/places/471907)
+
+
+## Corone (Q59314203)
+[https://www.wikidata.org/wiki/Q59314203](https://www.wikidata.org/wiki/Q59314203)  
+
+### alignments:
+ - [Korone](https://pleiades.stoa.org/places/570371)
 
 
 ## Corsica and Sardinia (Q281345)
@@ -21858,6 +21879,13 @@
  - [Lacetani](https://pleiades.stoa.org/places/246458)
 
 
+## Lacobriga (Q5668237)
+[https://www.wikidata.org/wiki/Q5668237](https://www.wikidata.org/wiki/Q5668237)  
+
+### alignments:
+ - [Lacobriga](https://pleiades.stoa.org/places/236501)
+
+
 ## Laconian Gulf (Q589877)
 [https://www.wikidata.org/wiki/Q589877](https://www.wikidata.org/wiki/Q589877)  
 
@@ -21942,6 +21970,13 @@
  - [*Summus (lake)](https://pleiades.stoa.org/places/187562)
 
 
+## Lago di Piediluco (Q3215512)
+[https://www.wikidata.org/wiki/Q3215512](https://www.wikidata.org/wiki/Q3215512)  
+
+### alignments:
+ - [Velini L.](https://pleiades.stoa.org/places/413371)
+
+
 ## Lago di Toblino (Q781019)
 [https://www.wikidata.org/wiki/Q781019](https://www.wikidata.org/wiki/Q781019)  
 
@@ -22005,11 +22040,25 @@
  - [Ascanius (lake)](https://pleiades.stoa.org/places/638774)
 
 
+## Lake Cerknica (Q205836)
+[https://www.wikidata.org/wiki/Q205836](https://www.wikidata.org/wiki/Q205836)  
+
+### alignments:
+ - [Lougeon Helos](https://pleiades.stoa.org/places/197359)
+
+
 ## Lake Chiusi (Q655536)
 [https://www.wikidata.org/wiki/Q655536](https://www.wikidata.org/wiki/Q655536)  
 
 ### alignments:
  - [Clusinus (lake)](https://pleiades.stoa.org/places/413095)
+
+
+## Lake Como (Q15523)
+[https://www.wikidata.org/wiki/Q15523](https://www.wikidata.org/wiki/Q15523)  
+
+### alignments:
+ - [Larius/Comacinus L.](https://pleiades.stoa.org/places/383689)
 
 
 ## Lake Constance (Q4127)
@@ -22068,6 +22117,13 @@
  - [Kerkinitis L.](https://pleiades.stoa.org/places/491635)
 
 
+## Lake Lesina (Q1129358)
+[https://www.wikidata.org/wiki/Q1129358](https://www.wikidata.org/wiki/Q1129358)  
+
+### alignments:
+ - [Pantanus (lake)](https://pleiades.stoa.org/places/442710)
+
+
 ## Lake Maggiore (Q14379)
 [https://www.wikidata.org/wiki/Q14379](https://www.wikidata.org/wiki/Q14379)  
 
@@ -22108,6 +22164,13 @@
 
 ### alignments:
  - [Lago di Monterosi](https://pleiades.stoa.org/places/702892066)
+
+
+## Lake Naftia (Q3825734)
+[https://www.wikidata.org/wiki/Q3825734](https://www.wikidata.org/wiki/Q3825734)  
+
+### alignments:
+ - [Palikoi/Palicorum Stagna](https://pleiades.stoa.org/places/462408)
 
 
 ## Lake Nemi (Q648679)
@@ -22752,6 +22815,13 @@
 
 ### alignments:
  - [Leuna](https://pleiades.stoa.org/places/118804)
+
+
+## Leusaba (Q56393816)
+[https://www.wikidata.org/wiki/Q56393816](https://www.wikidata.org/wiki/Q56393816)  
+
+### alignments:
+ - [Leusaba](https://pleiades.stoa.org/places/197350)
 
 
 ## Levant (Q81483)
@@ -29328,6 +29398,13 @@
  - [Praeneste](https://pleiades.stoa.org/places/423013)
 
 
+## Palike (Q3891772)
+[https://www.wikidata.org/wiki/Q3891772](https://www.wikidata.org/wiki/Q3891772)  
+
+### alignments:
+ - [Palike](https://pleiades.stoa.org/places/465970)
+
+
 ## Palk Bay (Q27441240)
 [https://www.wikidata.org/wiki/Q27441240](https://www.wikidata.org/wiki/Q27441240)  
 
@@ -30033,6 +30110,13 @@
 
 ### alignments:
  - [Pennymuir](https://pleiades.stoa.org/places/260256453)
+
+
+## Pentele (Q17584235)
+[https://www.wikidata.org/wiki/Q17584235](https://www.wikidata.org/wiki/Q17584235)  
+
+### alignments:
+ - [Pentele](https://pleiades.stoa.org/places/580064)
 
 
 ## Pentephyle (Q65046428)

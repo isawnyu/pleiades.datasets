@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-415 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
+417 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -538,6 +538,13 @@
 
 ### alignments:
  - [Pistyros](https://pleiades.stoa.org/places/501569)
+
+
+## Report 6983: Ekali Cave - 2012
+[https://chronique.efa.gr/?r=report&id=6983](https://chronique.efa.gr/?r=report&id=6983)  
+
+### alignments:
+ - [Ekali Cave](https://pleiades.stoa.org/places/599760363)
 
 
 ## Report 8604: KIRRHA - 2019
@@ -2897,6 +2904,13 @@
 
 ### alignments:
  - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## Toponyme 9236: Petalidi-Δ.Δ.Πεταλιδίου
+[https://chronique.efa.gr/?r=topo_public&id=9236](https://chronique.efa.gr/?r=topo_public&id=9236)  
+
+### alignments:
+ - [Korone](https://pleiades.stoa.org/places/570371)
 
 
 ## Toponyme 9586: Philippi, Krenides, Crenides

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-726 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
+727 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -434,6 +434,13 @@
 
 ### alignments:
  - [Koios (river)](https://pleiades.stoa.org/places/570365)
+
+
+## 10126440: Corone (Messenia)
+[https://resource.manto.unh.edu/10126440](https://resource.manto.unh.edu/10126440)  
+
+### alignments:
+ - [Korone](https://pleiades.stoa.org/places/570371)
 
 
 ## 10126442: River Eurotas (Laconia)

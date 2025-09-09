@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2227 alignments exist in _Pleiades_ place references as of 2025-09-08. The following list of alignments is grouped by zotkey.
+2228 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12371,6 +12371,13 @@
 
 ### alignments:
  - [Krenides/Philippi/Col. Augusta Iulia Philippensis](https://pleiades.stoa.org/places/501482)
+
+
+## 7B3 Topiro (TPPlace 2044)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2044.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2044.html)  
+
+### alignments:
+ - [Topeiros](https://pleiades.stoa.org/places/501645)
 
 
 ## 7B4 (Talbert 2008)
