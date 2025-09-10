@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4646 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
+4648 alignments exist in _Pleiades_ place references as of 2025-09-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -457,6 +457,13 @@
 
 ### alignments:
  - [Pamphylia (region)](https://pleiades.stoa.org/places/639034)
+
+
+## Geo 15793: Topeiros (Paradeisos)
+[https://chronique.efa.gr/?r=topo_public&id=11253](https://chronique.efa.gr/?r=topo_public&id=11253)  
+
+### alignments:
+ - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
 
 
 ## Geo 15798: Kerkyra
@@ -3979,6 +3986,13 @@
 
 ### alignments:
  - [Bremetennacum Veteranorum](https://pleiades.stoa.org/places/79352)
+
+
+## GEO ID 13675: Cordonovi
+[https://www.trismegistos.org/place/13675](https://www.trismegistos.org/place/13675)  
+
+### alignments:
+ - [Cordonovi](https://pleiades.stoa.org/places/83828)
 
 
 ## GEO ID 13677: Massicus Mons (Monte Massico)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9070 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
+9073 alignments exist in _Pleiades_ place references as of 2025-09-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12111,6 +12111,13 @@
 
 ### alignments:
  - [Corbio](https://pleiades.stoa.org/places/252193)
+
+
+## Cordonovi (Q136198651)
+[https://www.wikidata.org/wiki/Q136198651](https://www.wikidata.org/wiki/Q136198651)  
+
+### alignments:
+ - [Cordonovi](https://pleiades.stoa.org/places/83828)
 
 
 ## Corduene (Q29237)
@@ -58848,6 +58855,13 @@
  - [Atuatuca](https://pleiades.stoa.org/places/108765)
 
 
+## Topeiros (Q12885568)
+[https://www.wikidata.org/wiki/Q12885568](https://www.wikidata.org/wiki/Q12885568)  
+
+### alignments:
+ - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
+
+
 ## Tophet of Carthage (Q3108571)
 [https://www.wikidata.org/wiki/Q3108571](https://www.wikidata.org/wiki/Q3108571)  
 
@@ -63111,6 +63125,13 @@
 
 ### alignments:
  - [Zama Minor](https://pleiades.stoa.org/places/985266459)
+
+
+## Zamantı River (Q2560421)
+[https://www.wikidata.org/wiki/Q2560421](https://www.wikidata.org/wiki/Q2560421)  
+
+### alignments:
+ - [Karmalas? (river)](https://pleiades.stoa.org/places/658503)
 
 
 ## Zannone (Q146988)

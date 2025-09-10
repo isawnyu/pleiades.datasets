@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-417 alignments exist in _Pleiades_ place references as of 2025-09-09. The following list of alignments is grouped by zotkey.
+418 alignments exist in _Pleiades_ place references as of 2025-09-10. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1625,6 +1625,13 @@
 
 ### alignments:
  - [Anopolis](https://pleiades.stoa.org/places/589694)
+
+
+## Toponyme 11253: Paradisos-Δ.Δ.Παραδείσου
+[https://chronique.efa.gr/?r=topo_public&id=11253](https://chronique.efa.gr/?r=topo_public&id=11253)  
+
+### alignments:
+ - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
 
 
 ## Toponyme 11347: Pellana, Geortsianika Kalyvia
