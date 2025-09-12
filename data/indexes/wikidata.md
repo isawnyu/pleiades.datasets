@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9073 alignments exist in _Pleiades_ place references as of 2025-09-11. The following list of alignments is grouped by zotkey.
+9078 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -308,6 +308,13 @@
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
  - [Akakesion](https://pleiades.stoa.org/places/573061)
+
+
+## Acalissus (Q415525)
+[https://www.wikidata.org/wiki/Q415525](https://www.wikidata.org/wiki/Q415525)  
+
+### alignments:
+ - [Akalissos](https://pleiades.stoa.org/places/638736)
 
 
 ## Acamantis (Q2822481)
@@ -764,6 +771,13 @@
 
 ### alignments:
  - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
+
+
+## Aeolis (Q255325)
+[https://www.wikidata.org/wiki/Q255325](https://www.wikidata.org/wiki/Q255325)  
+
+### alignments:
+ - [Aeolis](https://pleiades.stoa.org/places/550406)
 
 
 ## Aequi (Q381053)
@@ -4342,6 +4356,13 @@
 
 ### alignments:
  - [Aspledon/Eudeielos](https://pleiades.stoa.org/places/540673)
+
+
+## Aspona (Q35713287)
+[https://www.wikidata.org/wiki/Q35713287](https://www.wikidata.org/wiki/Q35713287)  
+
+### alignments:
+ - [Aspona](https://pleiades.stoa.org/places/619118)
 
 
 ## Aspronisi (Q738068)
@@ -30182,6 +30203,13 @@
  - [Heras? (island)](https://pleiades.stoa.org/places/275640)
 
 
+## Pergamon (Q18986)
+[https://www.wikidata.org/wiki/Q18986](https://www.wikidata.org/wiki/Q18986)  
+
+### alignments:
+ - [Pergamum](https://pleiades.stoa.org/places/550812)
+
+
 ## Perge (Q719815)
 [https://www.wikidata.org/wiki/Q719815](https://www.wikidata.org/wiki/Q719815)  
 
@@ -38445,13 +38473,6 @@
 
 ### alignments:
  - [Pont du Gard](https://pleiades.stoa.org/places/149496)
-
-
-## Q18986: Pergamon
-[https://www.wikidata.org/wiki/Q18986](https://www.wikidata.org/wiki/Q18986)  
-
-### alignments:
- - [Pergamum](https://pleiades.stoa.org/places/550812)
 
 
 ## Q189901: Argos
@@ -57000,6 +57021,13 @@
  - [Greek Temple at Taras](https://pleiades.stoa.org/places/5043153)
 
 
+## Temple of Ptah (Q763599)
+[https://www.wikidata.org/wiki/Q763599](https://www.wikidata.org/wiki/Q763599)  
+
+### alignments:
+ - [Temple of Ptah (Karnak)](https://pleiades.stoa.org/places/264556019)
+
+
 ## Temple of Quirinus (Q3983278)
 [https://www.wikidata.org/wiki/Q3983278](https://www.wikidata.org/wiki/Q3983278)  
 
@@ -59826,6 +59854,13 @@
 
 ### alignments:
  - [Troia](https://pleiades.stoa.org/places/727252)
+
+
+## Trusty's Hill (Q26822233)
+[https://www.wikidata.org/wiki/Q26822233](https://www.wikidata.org/wiki/Q26822233)  
+
+### alignments:
+ - [Trusty's Hill (fort)](https://pleiades.stoa.org/places/761236158)
 
 
 ## Trysa (Q6014404)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-727 alignments exist in _Pleiades_ place references as of 2025-09-11. The following list of alignments is grouped by zotkey.
+728 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -476,6 +476,13 @@
 
 ### alignments:
  - [Patra(e)](https://pleiades.stoa.org/places/570567)
+
+
+## 10127971: Aiolis (Asia Minor)
+[https://resource.manto.unh.edu/10127971](https://resource.manto.unh.edu/10127971)  
+
+### alignments:
+ - [Aeolis](https://pleiades.stoa.org/places/550406)
 
 
 ## 10127983: Cynouria (Arcadia)

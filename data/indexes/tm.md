@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4648 alignments exist in _Pleiades_ place references as of 2025-09-11. The following list of alignments is grouped by zotkey.
+4650 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1247,6 +1247,13 @@
  - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
 
 
+## Geo 34340: Akalissos (Asar Deresi)
+[https://www.trismegistos.org/place/34340](https://www.trismegistos.org/place/34340)  
+
+### alignments:
+ - [Akalissos](https://pleiades.stoa.org/places/638736)
+
+
 ## Geo 34389: Phellos (Çukurbağ)
 [https://www.trismegistos.org/place/34389](https://www.trismegistos.org/place/34389)  
 
@@ -2261,6 +2268,13 @@
 
 ### alignments:
  - [Hermonthis](https://pleiades.stoa.org/places/786036)
+
+
+## Geo 82: Aeolis
+[https://www.trismegistos.org/place/82](https://www.trismegistos.org/place/82)  
+
+### alignments:
+ - [Aeolis](https://pleiades.stoa.org/places/550406)
 
 
 ## Geo 8338: Edessa

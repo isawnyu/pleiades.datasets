@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3757 alignments exist in _Pleiades_ place references as of 2025-09-11. The following list of alignments is grouped by zotkey.
+3759 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -921,6 +921,13 @@
  - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
 
 
+## Aiolis region (Asia Minor) 293 N of Izmir - Αιολίς
+[https://topostext.org/place/390271RAio](https://topostext.org/place/390271RAio)  
+
+### alignments:
+ - [Aeolis](https://pleiades.stoa.org/places/550406)
+
+
 ## Aipora/Ebora (Iberia)
 [https://topostext.org/place/368000UAip](https://topostext.org/place/368000UAip)  
 
@@ -990,6 +997,13 @@
 ### alignments:
  - [Akakesion](https://pleiades.stoa.org/places/573060)
  - [Akakesion](https://pleiades.stoa.org/places/573061)
+
+
+## Akalissos (Lycia) 5 Karacaoren
+[https://topostext.org/place/365302UAka](https://topostext.org/place/365302UAka)  
+
+### alignments:
+ - [Akalissos](https://pleiades.stoa.org/places/638736)
 
 
 ## Akampsis river (Pontus)
