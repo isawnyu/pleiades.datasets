@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/09/07 06:48:22.832278 GMT-4
+# Date: 2025/09/14 06:48:23.412914 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5237
+# Triple count: 5290
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -893,6 +893,29 @@
     rdfs:label "Withdrawn: Forum";
     rdfs:comment "This place resource is a duplicate for http://pleiades.stoa.org/places/188321148/ and was erroneously created and published. It has been withdrawn and moved to errata.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/621752770> .
+
+<https://pleiades.stoa.org/errata/631215%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn (duplicate) Karmalas";
+    rdfs:comment "Duplicate of https://pleiades.stoa.org/places/658503";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/631215> .
+
+<https://pleiades.stoa.org/errata/631215/karmalas> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/mitford-t-b>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T22:24:23-04:00";
+    dcterms:title "Karmalas";
+    owl:sameAs <http://pleiades.stoa.org/errata/631215/karmalas> .
+
+<https://pleiades.stoa.org/errata/631215/undetermined> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/mitford-t-b>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T22:24:23-04:00";
+    dcterms:title "Undetermined location";
+    owl:sameAs <http://pleiades.stoa.org/errata/631215/undetermined> .
 
 <https://pleiades.stoa.org/errata/6521693551211800%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Unnamed Place";
@@ -3451,6 +3474,28 @@
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/plaza> .
 
+<https://pleiades.stoa.org/errata/631215> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 64 Karmalas fl.",
+        "RE Karmalas";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "river";
+    dcterms:creator <https://pleiades.stoa.org/author/mitford-t-b>;
+    dcterms:description "Duplicate of https://pleiades.stoa.org/places/658503";
+    dcterms:modified "2025-09-09T12:26:56-04:00";
+    dcterms:title "Withdrawn (duplicate) Karmalas";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://elexikon.ch/RE/X,2_1957.png>;
+    owl:sameAs <http://pleiades.stoa.org/errata/631215>;
+    skos:altLabel "Karmalas";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 64 Karmalas fl." ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/unlocated>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/undetermined>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/karmalas> .
+
 <https://pleiades.stoa.org/errata/6521693551211800> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:contributor <http://viaf.org/viaf/59162760>,
@@ -4941,6 +4986,14 @@
     pleiades:end_date 640;
     pleiades:start_date -1000 .
 
+<https://pleiades.stoa.org/errata/karmalas> a <https://pleiades.stoa.org/places/vocab#Name>;
+    owl:sameAs <http://pleiades.stoa.org/errata/karmalas>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 64 Karmalas fl." ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/hellenistic-republican>;
+    pleiades:end_date -30;
+    pleiades:nameRomanized "Karmalas";
+    pleiades:start_date -330 .
+
 <https://pleiades.stoa.org/errata/ladon> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/ladon>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ];
@@ -5373,6 +5426,7 @@
         <http://atlantides.org/capgrids/56%23E2>;
     owl:sameAs <http://pleiades.stoa.org/errata/undetermined>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 56 E2 Aisepos fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 64 Karmalas fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 69  H., see Horvat" ],
         [ rdfs:label "Barrington Atlas: BAtlas 69  Kh., see Khirbet" ],
         [ rdfs:label "Barrington Atlas: BAtlas 70  H., see Horvat" ],
@@ -5382,7 +5436,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 10 A5 Helinium" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
         <https://pleiades.stoa.org/vocabularies/roman>;
-    pleiades:end_date 300;
+    pleiades:end_date -30,
+        300;
     pleiades:start_date -330,
         -30 .
 
@@ -5430,13 +5485,13 @@
         [ rdfs:label "Pleiades" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 A4 Skylax fl." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 24" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
@@ -5446,8 +5501,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
@@ -5457,8 +5512,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
         [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ],
