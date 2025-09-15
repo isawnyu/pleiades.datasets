@@ -1,8 +1,18 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        21.8627659,
+        37.5275104,
+        22.313916,
+        37.629132
+    ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/570721",
+        "https://pleiades.stoa.org/places/570442",
+        "https://pleiades.stoa.org/places/570267",
+        "https://pleiades.stoa.org/places/570065"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -39,7 +49,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-09-20T20:35:58Z",
+    "created": "2025-09-13T22:02:23Z",
     "creators": [
         {
             "name": "G. Reger",
@@ -50,23 +60,25 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 58 unlocated Kynouria",
+    "description": "An ancient region of western Arcadia. BAtlas declined to place it on the map, but New Pauly has it straddle the Alpheios river and include the cities of Gortys, Thisoa, Lycaea (Lykoa), and Alipheira (see also RE). ",
     "details": "<p>The Barrington Atlas Directory notes: Arcadia: district?</p>",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/573322/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "features": [],
     "history": [
+        {
+            "comment": "Edited",
+            "modified": "2025-09-15T10:17:12Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "removed MANTO reference; added RE reference",
+            "modified": "2025-09-13T22:17:47Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references; title; region; - unlocated; added New Pauly reference",
+            "modified": "2025-09-13T21:52:05Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add manto, add wikidata",
             "modified": "2024-04-15T16:36:07Z",
@@ -114,89 +126,7 @@
         }
     ],
     "id": "573322",
-    "locations": [
-        {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-20T20:35:58Z",
-            "creators": [
-                {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:37:05Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2010-09-22T18:36:35Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2010-09-20T22:17:01Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2010-09-20T20:35:58Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 58 Kynouria",
-            "references": [],
-            "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/573322/batlas-location"
-        }
-    ],
+    "locations": [],
     "names": [
         {
             "@type": "Name",
@@ -270,10 +200,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/region"
     ],
     "placeTypes": [
-        "unlocated"
+        "region"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 Kynouria",
     "references": [
@@ -293,11 +223,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
             "citationDetail": "8.6.7",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877.</div>",
             "otherIdentifier": "",
             "shortTitle": "Str. (Meineke: Perseus)",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "https://en.wikipedia.org/wiki/Cynuria_(Arcadia)",
@@ -315,22 +245,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GTGBFEI9",
             "citationDetail": "8.27.4",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Pausanias. <i>Pausaniae Graeciae descriptio</i>. Edited by Friedrich Spiro. 3 vols. Bibliotheca Teubneriana. Lipsiae: Teubner, 1903. http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1.</div>",
             "otherIdentifier": "",
             "shortTitle": "Paus. (Spiro: Perseus)",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": " https://resource.manto.unh.edu/10127983",
-            "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
-            "citationDetail": "10127983: Cynouria (Arcadia)",
-            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
-            "otherIdentifier": "",
-            "shortTitle": "MANTO",
-            "type": "citesAsRelated"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q60791645",
@@ -342,13 +261,38 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e626270",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "citationDetail": "Cynuria [2] Landscape in western Arcadia (Y. Lafond)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brill.com/display/db/npoe.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "New Pauly",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://elexikon.ch/RE/XII,1_45",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Kynuria 2 (E. Pieske)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        22.0771892233972,
+        37.55639521082814
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Kynouria",
+    "title": "Kynouria (Arcadia)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/573322"
 }
