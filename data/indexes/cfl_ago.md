@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-418 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+421 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1634,6 +1634,13 @@
  - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
 
 
+## Toponyme 11311: Paralion Astrous Astros-Δ.Δ.Παραλίου Άστρους
+[https://chronique.efa.gr/?r=topo_public&id=11311](https://chronique.efa.gr/?r=topo_public&id=11311)  
+
+### alignments:
+ - [Astron](https://pleiades.stoa.org/places/570134)
+
+
 ## Toponyme 11347: Pellana, Geortsianika Kalyvia
 [https://chronique.efa.gr/?kroute=topo_public&id=11347](https://chronique.efa.gr/?kroute=topo_public&id=11347)  
 
@@ -2576,6 +2583,13 @@
  - [Tegea](https://pleiades.stoa.org/places/570707)
 
 
+## Toponyme 4906: Ancient Olynthos-Αρχαία Όλυνθος
+[https://chronique.efa.gr/?r=topo_public&id=4906](https://chronique.efa.gr/?r=topo_public&id=4906)  
+
+### alignments:
+ - [Olynthos](https://pleiades.stoa.org/places/491678)
+
+
 ## Toponyme 52426: Kythnos, Vryokastro, Kythnos antique, Ancient Kythnos
 [https://chronique.efa.gr/?kroute=topo_public&id=52426](https://chronique.efa.gr/?kroute=topo_public&id=52426)  
 
@@ -2602,6 +2616,13 @@
 
 ### alignments:
  - [Minoa (promontory)](https://pleiades.stoa.org/places/570487)
+
+
+## Toponyme 5967: Nea Olynthos
+[https://chronique.efa.gr/?r=topo_public&id=5967](https://chronique.efa.gr/?r=topo_public&id=5967)  
+
+### alignments:
+ - [Olynthos](https://pleiades.stoa.org/places/491678)
 
 
 ## Toponyme 60517: Paphos (fr), Pafos, Néa Páfos, Nea Paphos, Baf (tur)

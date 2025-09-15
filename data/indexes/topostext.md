@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3759 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+3759 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -13134,13 +13134,6 @@
  - [Kynosoura](https://pleiades.stoa.org/places/580001)
 
 
-## Kynouria region (Arkadia)
-[https://topostext.org/place/374227RKyn](https://topostext.org/place/374227RKyn)  
-
-### alignments:
- - [Kynouria](https://pleiades.stoa.org/places/570395)
-
-
 ## Kypaira (Phthiotis) 4 Palaia Yannitsou - Κύπαιρα
 [https://topostext.org/place/390221PKyp](https://topostext.org/place/390221PKyp)  
 
@@ -23049,6 +23042,13 @@
 
 ### alignments:
  - [Stadium of Delphi](https://pleiades.stoa.org/places/333036426)
+
+
+## Stadium of Domitian (Rome)
+[https://topostext.org/place/419125BStD](https://topostext.org/place/419125BStD)  
+
+### alignments:
+ - [Stadium Domitiani](https://pleiades.stoa.org/places/92342486)
 
 
 ## Stadium of Nemea (Korinthia)

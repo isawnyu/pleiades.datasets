@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-728 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+728 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -485,13 +485,6 @@
  - [Aeolis](https://pleiades.stoa.org/places/550406)
 
 
-## 10127983: Cynouria (Arcadia)
-[https://resource.manto.unh.edu/10127983](https://resource.manto.unh.edu/10127983)  
-
-### alignments:
- - [Kynouria](https://pleiades.stoa.org/places/573322)
-
-
 ## 10136970: Hypsous
 [https://resource.manto.unh.edu/10136970](https://resource.manto.unh.edu/10136970)  
 
@@ -525,6 +518,13 @@
 
 ### alignments:
  - [Thyraion](https://pleiades.stoa.org/places/570735)
+
+
+## 10137141: Thyrea (Argolid)
+[https://resource.manto.unh.edu/10137141](https://resource.manto.unh.edu/10137141)  
+
+### alignments:
+ - [Thyrea(tis)](https://pleiades.stoa.org/places/570736)
 
 
 ## 10137144: Haimoniai (Arcadia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9078 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+9106 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -76,6 +76,13 @@
 
 ### alignments:
  - [A Street](https://pleiades.stoa.org/places/451190242)
+
+
+## A Tepe Tumulus (Q64705220)
+[https://www.wikidata.org/wiki/Q64705220](https://www.wikidata.org/wiki/Q64705220)  
+
+### alignments:
+ - [Tumulus Tepe A, Pergamon](https://pleiades.stoa.org/places/625581619)
 
 
 ## Aaqbe (Q4661646)
@@ -239,6 +246,13 @@
  - [Abu Ballas](https://pleiades.stoa.org/places/786014015)
 
 
+## Abu Dhabi (Q1519)
+[https://www.wikidata.org/wiki/Q1519](https://www.wikidata.org/wiki/Q1519)  
+
+### alignments:
+ - [Abū Ẓabī](https://pleiades.stoa.org/places/641191180)
+
+
 ## Abu Mena (Q9278)
 [https://www.wikidata.org/wiki/Q9278](https://www.wikidata.org/wiki/Q9278)  
 
@@ -336,6 +350,13 @@
 
 ### alignments:
  - [Lago dell’Accesa (archaeological site)](https://pleiades.stoa.org/places/403230)
+
+
+## Acci (Q339005)
+[https://www.wikidata.org/wiki/Q339005](https://www.wikidata.org/wiki/Q339005)  
+
+### alignments:
+ - [Acci/Col. Iulia Gemella](https://pleiades.stoa.org/places/265765)
 
 
 ## Accienses (Q134776703)
@@ -4456,6 +4477,13 @@
  - [Astigi/Col. Augusta Firma](https://pleiades.stoa.org/places/255996)
 
 
+## Astron (Q111377653)
+[https://www.wikidata.org/wiki/Q111377653](https://www.wikidata.org/wiki/Q111377653)  
+
+### alignments:
+ - [Astron](https://pleiades.stoa.org/places/570134)
+
+
 ## Asturias (Q3934)
 [https://www.wikidata.org/wiki/Q3934](https://www.wikidata.org/wiki/Q3934)  
 
@@ -5462,6 +5490,13 @@
 
 ### alignments:
  - [Bardili Turduli](https://pleiades.stoa.org/places/260506)
+
+
+## Barikot Ghundai (Q100371614)
+[https://www.wikidata.org/wiki/Q100371614](https://www.wikidata.org/wiki/Q100371614)  
+
+### alignments:
+ - [Bazira](https://pleiades.stoa.org/places/59740)
 
 
 ## Barkway (Q785229)
@@ -7271,6 +7306,13 @@
  - [Brandon Camp](https://pleiades.stoa.org/places/134603097)
 
 
+## Brangues (Q1002989)
+[https://www.wikidata.org/wiki/Q1002989](https://www.wikidata.org/wiki/Q1002989)  
+
+### alignments:
+ - [Brangues](https://pleiades.stoa.org/places/167688)
+
+
 ## Bratton Castle (Q4958135)
 [https://www.wikidata.org/wiki/Q4958135](https://www.wikidata.org/wiki/Q4958135)  
 
@@ -7762,6 +7804,7 @@
  - [Auximum](https://pleiades.stoa.org/places/413045)
  - [Cannatello](https://pleiades.stoa.org/places/491524938)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
+ - [Eduranna](https://pleiades.stoa.org/places/175425813)
  - [Euchaita](https://pleiades.stoa.org/places/857120)
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
  - [Girmua](https://pleiades.stoa.org/places/248782116)
@@ -12691,14 +12734,14 @@
 [https://www.wikidata.org/wiki/Q1431487](https://www.wikidata.org/wiki/Q1431487)  
 
 ### alignments:
- - [Kynouria](https://pleiades.stoa.org/places/570395)
+ - [Kynouria (Eastern Peloponnese)](https://pleiades.stoa.org/places/570395)
 
 
 ## Cynuria (Q60791645)
 [https://www.wikidata.org/wiki/Q60791645](https://www.wikidata.org/wiki/Q60791645)  
 
 ### alignments:
- - [Kynouria](https://pleiades.stoa.org/places/573322)
+ - [Kynouria (Arcadia)](https://pleiades.stoa.org/places/573322)
 
 
 ## Cypaera (Q16549022)
@@ -12923,6 +12966,13 @@
 
 ### alignments:
  - [Dalmatia (region)](https://pleiades.stoa.org/places/197240)
+
+
+## Dalverzin Tepe (Q1100519)
+[https://www.wikidata.org/wiki/Q1100519](https://www.wikidata.org/wiki/Q1100519)  
+
+### alignments:
+ - [Dal'verzin tepe](https://pleiades.stoa.org/places/971739)
 
 
 ## Damascus (Q3766)
@@ -16030,6 +16080,13 @@
  - [Fórnea Roman villa](https://pleiades.stoa.org/places/363525448)
 
 
+## Gabali (Q1007141)
+[https://www.wikidata.org/wiki/Q1007141](https://www.wikidata.org/wiki/Q1007141)  
+
+### alignments:
+ - [Gabali](https://pleiades.stoa.org/places/167776)
+
+
 ## Gabbanat el-Bagawat (Q12244492)
 [https://www.wikidata.org/wiki/Q12244492](https://www.wikidata.org/wiki/Q12244492)  
 
@@ -18629,6 +18686,13 @@
  - [House VIII.2.13](https://pleiades.stoa.org/places/546141835)
 
 
+## House A VII 4 (Q136259419)
+[https://www.wikidata.org/wiki/Q136259419](https://www.wikidata.org/wiki/Q136259419)  
+
+### alignments:
+ - [House A VII 4](https://pleiades.stoa.org/places/554875758)
+
+
 ## House D1 (Q121301945)
 [https://www.wikidata.org/wiki/Q121301945](https://www.wikidata.org/wiki/Q121301945)  
 
@@ -18774,6 +18838,13 @@
 
 ### alignments:
  - [House of M. Spurius Saturninus and D. Volcius Modestus](https://pleiades.stoa.org/places/854777997)
+
+
+## House of Many Colors (Q136259379)
+[https://www.wikidata.org/wiki/Q136259379](https://www.wikidata.org/wiki/Q136259379)  
+
+### alignments:
+ - [House of Many Colors](https://pleiades.stoa.org/places/170572803)
 
 
 ## House of Minucius (Q27070487)
@@ -18942,6 +19013,13 @@
 
 ### alignments:
  - [Unnamed domus in Via Graziosa](https://pleiades.stoa.org/places/405322395)
+
+
+## House of Zoilos (Q136289855)
+[https://www.wikidata.org/wiki/Q136289855](https://www.wikidata.org/wiki/Q136289855)  
+
+### alignments:
+ - [House of Zoilos](https://pleiades.stoa.org/places/613004963)
 
 
 ## House X7-A (Q122158571)
@@ -19397,6 +19475,13 @@
 
 ### alignments:
  - [Complutum](https://pleiades.stoa.org/places/246352)
+
+
+## Ikili Tumuli (Q64705217)
+[https://www.wikidata.org/wiki/Q64705217](https://www.wikidata.org/wiki/Q64705217)  
+
+### alignments:
+ - [İkiz Tepe Tümülüsü](https://pleiades.stoa.org/places/814953386)
 
 
 ## Iklaina (Q2918696)
@@ -20468,6 +20553,13 @@
 
 ### alignments:
  - [Kammanu/Meliddu (kingdom)](https://pleiades.stoa.org/places/319432673)
+
+
+## Kampyrtep (Q2398757)
+[https://www.wikidata.org/wiki/Q2398757](https://www.wikidata.org/wiki/Q2398757)  
+
+### alignments:
+ - [Kampir-Tepe](https://pleiades.stoa.org/places/809369795)
 
 
 ## Kandanos (Q547776)
@@ -24035,6 +24127,13 @@
  - [Mallos/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648702)
 
 
+## Maltepe Tumulus (Q64705221)
+[https://www.wikidata.org/wiki/Q64705221](https://www.wikidata.org/wiki/Q64705221)  
+
+### alignments:
+ - [Maltepe (Pergamon)](https://pleiades.stoa.org/places/998696201)
+
+
 ## Malus (Q85783512)
 [https://www.wikidata.org/wiki/Q85783512](https://www.wikidata.org/wiki/Q85783512)  
 
@@ -24229,6 +24328,13 @@
 
 ### alignments:
  - [Mariandynoi](https://pleiades.stoa.org/places/845013)
+
+
+## Marina, Egypt (Q778942)
+[https://www.wikidata.org/wiki/Q778942](https://www.wikidata.org/wiki/Q778942)  
+
+### alignments:
+ - [Antiphrai/Leukaspis](https://pleiades.stoa.org/places/716524)
 
 
 ## Maritsa (Q204347)
@@ -28222,6 +28328,13 @@
  - [Nuraghe Su Casteddu](https://pleiades.stoa.org/places/852463484)
 
 
+## Nuraghe Su Figu (Q122358220)
+[https://www.wikidata.org/wiki/Q122358220](https://www.wikidata.org/wiki/Q122358220)  
+
+### alignments:
+ - [Nuraghe su Figu](https://pleiades.stoa.org/places/764913387)
+
+
 ## Nuraghe Su Valsu (Q122198734)
 [https://www.wikidata.org/wiki/Q122198734](https://www.wikidata.org/wiki/Q122198734)  
 
@@ -28719,6 +28832,13 @@
  - [Olynthos](https://pleiades.stoa.org/places/491678)
 
 
+## Olynthus, House A 11 (Q136259736)
+[https://www.wikidata.org/wiki/Q136259736](https://www.wikidata.org/wiki/Q136259736)  
+
+### alignments:
+ - [Olynthus, House A 11](https://pleiades.stoa.org/places/764913388)
+
+
 ## Oléron Island (Q292568)
 [https://www.wikidata.org/wiki/Q292568](https://www.wikidata.org/wiki/Q292568)  
 
@@ -29046,6 +29166,13 @@
 
 ### alignments:
  - [Ortona](https://pleiades.stoa.org/places/413234)
+
+
+## Osca (Q100707898)
+[https://www.wikidata.org/wiki/Q100707898](https://www.wikidata.org/wiki/Q100707898)  
+
+### alignments:
+ - [Osca/Urbs Victrix](https://pleiades.stoa.org/places/246539)
 
 
 ## Oskumken (Q108844054)
@@ -29718,6 +29845,13 @@
 
 ### alignments:
  - [Pareitakene](https://pleiades.stoa.org/places/971840)
+
+
+## Paralio Astros Castle (Q15762538)
+[https://www.wikidata.org/wiki/Q15762538](https://www.wikidata.org/wiki/Q15762538)  
+
+### alignments:
+ - [Castle of Paralio Astros](https://pleiades.stoa.org/places/772945364)
 
 
 ## Parapotamos (Q784681)
@@ -32007,6 +32141,13 @@
 
 ### alignments:
  - [Potentia](https://pleiades.stoa.org/places/442735)
+
+
+## Potidaea (Q999468)
+[https://www.wikidata.org/wiki/Q999468](https://www.wikidata.org/wiki/Q999468)  
+
+### alignments:
+ - [Poteidaia/Kassandreia](https://pleiades.stoa.org/places/491701)
 
 
 ## Poundbury Hill (Q7235658)
@@ -42994,13 +43135,6 @@
  - [Il Barco](https://pleiades.stoa.org/places/422850)
 
 
-## Q3634988
-[https://www.wikidata.org/wiki/Q3634988](https://www.wikidata.org/wiki/Q3634988)  
-
-### alignments:
- - [Bazira](https://pleiades.stoa.org/places/59740)
-
-
 ## Q3640384: Birtha
 [https://www.wikidata.org/wiki/Q3640384](https://www.wikidata.org/wiki/Q3640384)  
 
@@ -52666,6 +52800,13 @@
  - [Sanctuary of Athena at Kardamyle](https://pleiades.stoa.org/places/83493702)
 
 
+## Sanctuary of Cybele, Pergamon (Q64705203)
+[https://www.wikidata.org/wiki/Q64705203](https://www.wikidata.org/wiki/Q64705203)  
+
+### alignments:
+ - [Kybele Sanctuary at Kapikaya](https://pleiades.stoa.org/places/235505945)
+
+
 ## Sanctuary of Delian Apollo (Q106802906)
 [https://www.wikidata.org/wiki/Q106802906](https://www.wikidata.org/wiki/Q106802906)  
 
@@ -54361,6 +54502,13 @@
  - [Silarus (river)](https://pleiades.stoa.org/places/393495)
 
 
+## Sillian Roman milestone (Q37954469)
+[https://www.wikidata.org/wiki/Q37954469](https://www.wikidata.org/wiki/Q37954469)  
+
+### alignments:
+ - [Sillian milestone](https://pleiades.stoa.org/places/167811471)
+
+
 ## Sillyon (Q647896)
 [https://www.wikidata.org/wiki/Q647896](https://www.wikidata.org/wiki/Q647896)  
 
@@ -55192,6 +55340,13 @@
 
 ### alignments:
  - [Stadium of Antoninus Pius (Puteoli)](https://pleiades.stoa.org/places/468479783)
+
+
+## Stadium of Domitian (Q963671)
+[https://www.wikidata.org/wiki/Q963671](https://www.wikidata.org/wiki/Q963671)  
+
+### alignments:
+ - [Stadium Domitiani](https://pleiades.stoa.org/places/92342486)
 
 
 ## Stadium of Nemea (Q27779883)
@@ -56160,6 +56315,13 @@
  - [Tavoliere delle Puglie](https://pleiades.stoa.org/places/92542458)
 
 
+## Tavsan Tepe Tumulus (Q64705218)
+[https://www.wikidata.org/wiki/Q64705218](https://www.wikidata.org/wiki/Q64705218)  
+
+### alignments:
+ - [Tavşan Tepe Tümülüsü](https://pleiades.stoa.org/places/194611949)
+
+
 ## Taygetus (Q515809)
 [https://www.wikidata.org/wiki/Q515809](https://www.wikidata.org/wiki/Q515809)  
 
@@ -56361,6 +56523,13 @@
 
 ### alignments:
  - [Tell el-'Oueili](https://pleiades.stoa.org/places/636257512)
+
+
+## Tell el-Far'ah (Q86755613)
+[https://www.wikidata.org/wiki/Q86755613](https://www.wikidata.org/wiki/Q86755613)  
+
+### alignments:
+ - [Tell El-Farah (South)](https://pleiades.stoa.org/places/774119658)
 
 
 ## Tell el-Mazar (Q112164453)
@@ -57273,6 +57442,20 @@
  - [Tepe Ahingaran](https://pleiades.stoa.org/places/971887)
 
 
+## Tepe Garan (Q136256384)
+[https://www.wikidata.org/wiki/Q136256384](https://www.wikidata.org/wiki/Q136256384)  
+
+### alignments:
+ - [Tapah Gārān](https://pleiades.stoa.org/places/39082013)
+
+
+## Tepe Musiyan (Q136259353)
+[https://www.wikidata.org/wiki/Q136259353](https://www.wikidata.org/wiki/Q136259353)  
+
+### alignments:
+ - [Tapah Mūsiyān](https://pleiades.stoa.org/places/300386562)
+
+
 ## Teppe Hasanlu (Q250844)
 [https://www.wikidata.org/wiki/Q250844](https://www.wikidata.org/wiki/Q250844)  
 
@@ -57767,6 +57950,7 @@
 [https://www.wikidata.org/wiki/Q16327480](https://www.wikidata.org/wiki/Q16327480)  
 
 ### alignments:
+ - [Th(e)isoa](https://pleiades.stoa.org/places/570721)
  - [Theisoa](https://pleiades.stoa.org/places/570720)
 
 
@@ -61831,6 +62015,13 @@
  - [Villa of Furius Octavianus](https://pleiades.stoa.org/places/786809029)
 
 
+## Villa of Good Fortune (Q125754547)
+[https://www.wikidata.org/wiki/Q125754547](https://www.wikidata.org/wiki/Q125754547)  
+
+### alignments:
+ - [Villa of Good Fortune](https://pleiades.stoa.org/places/37482810)
+
+
 ## Villa of L. Crassius Tertius (Q55588235)
 [https://www.wikidata.org/wiki/Q55588235](https://www.wikidata.org/wiki/Q55588235)  
 
@@ -63076,6 +63267,13 @@
 
 ### alignments:
  - [Yiftahel](https://pleiades.stoa.org/places/880264862)
+
+
+## Yigma Tepe Tumulus (Q64705216)
+[https://www.wikidata.org/wiki/Q64705216](https://www.wikidata.org/wiki/Q64705216)  
+
+### alignments:
+ - [Yığma Tepe Tumulus](https://pleiades.stoa.org/places/198601655)
 
 
 ## Yoncalı inscription (Q2600647)

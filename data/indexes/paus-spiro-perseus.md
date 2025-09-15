@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-506 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+506 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2979,7 +2979,7 @@
  - [Belmina](https://pleiades.stoa.org/places/570151)
  - [Gortys](https://pleiades.stoa.org/places/570267)
  - [Kalliai/Kallia](https://pleiades.stoa.org/places/573270)
- - [Kynouria](https://pleiades.stoa.org/places/573322)
+ - [Kynouria (Arcadia)](https://pleiades.stoa.org/places/573322)
  - [Lykaia](https://pleiades.stoa.org/places/573347)
  - [Lykosoura](https://pleiades.stoa.org/places/570444)
  - [Makareia](https://pleiades.stoa.org/places/570452)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4650 alignments exist in _Pleiades_ place references as of 2025-09-12. The following list of alignments is grouped by zotkey.
+4652 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -811,6 +811,13 @@
 
 ### alignments:
  - [Ad Sorores](https://pleiades.stoa.org/places/255958)
+
+
+## Geo 26586: Acci (Guadix)
+[https://www.trismegistos.org/place/26586](https://www.trismegistos.org/place/26586)  
+
+### alignments:
+ - [Acci/Col. Iulia Gemella](https://pleiades.stoa.org/places/265765)
 
 
 ## Geo 2728: Therma
@@ -6328,6 +6335,7 @@
  - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
  - [Argithea](https://pleiades.stoa.org/places/540658)
+ - [Astron](https://pleiades.stoa.org/places/570134)
  - [Blanda](https://pleiades.stoa.org/places/452274)
  - [Caput Bubali](https://pleiades.stoa.org/places/207009)
  - [Curiga](https://pleiades.stoa.org/places/256147)
@@ -24654,6 +24662,13 @@
 
 ### alignments:
  - [Aquae Albulae](https://pleiades.stoa.org/places/422840)
+
+
+## GEO ID 42303: Antiocheia Tharmata
+[https://www.trismegistos.org/place/42303](https://www.trismegistos.org/place/42303)  
+
+### alignments:
+ - [Antiochia Tharmata/Arma](https://pleiades.stoa.org/places/60420)
 
 
 ## GEO ID 42339: Mosa (Meuse)
