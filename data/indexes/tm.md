@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4652 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
+4654 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -951,6 +951,14 @@
 
 ### alignments:
  - [Liguria (region)](https://pleiades.stoa.org/places/383698)
+
+
+## Geo 33221: Kynouria
+[https://www.trismegistos.org/place/33221](https://www.trismegistos.org/place/33221)  
+
+### alignments:
+ - [Kynoura](https://pleiades.stoa.org/places/573321)
+ - [Kynouria (Eastern Peloponnese)](https://pleiades.stoa.org/places/570395)
 
 
 ## Geo 33226: Karpathos
@@ -2240,6 +2248,13 @@
 
 ### alignments:
  - [Eretria](https://pleiades.stoa.org/places/579925)
+
+
+## Geo 66174
+[https://www.trismegistos.org/place/66174](https://www.trismegistos.org/place/66174)  
+
+### alignments:
+ - [Kynouria (Arcadia)](https://pleiades.stoa.org/places/573322)
 
 
 ## Geo 702: Gela

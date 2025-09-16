@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-728 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
+730 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -483,6 +483,13 @@
 
 ### alignments:
  - [Aeolis](https://pleiades.stoa.org/places/550406)
+
+
+## 10127983: Cynouria (E. Peloponnese)
+[https://resource.manto.unh.edu/10127983](https://resource.manto.unh.edu/10127983)  
+
+### alignments:
+ - [Kynouria (Eastern Peloponnese)](https://pleiades.stoa.org/places/570395)
 
 
 ## 10136970: Hypsous
@@ -2275,6 +2282,13 @@
 
 ### alignments:
  - [Telmessos](https://pleiades.stoa.org/places/639137)
+
+
+## 11295134: Ceos (island)
+[https://resource.manto.unh.edu/11295134](https://resource.manto.unh.edu/11295134)  
+
+### alignments:
+ - [Keos (island)](https://pleiades.stoa.org/places/570348)
 
 
 ## 11295783: Syracuse (Sicily)

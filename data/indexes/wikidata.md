@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9106 alignments exist in _Pleiades_ place references as of 2025-09-15. The following list of alignments is grouped by zotkey.
+9108 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -20857,6 +20857,13 @@
  - [Kazeka](https://pleiades.stoa.org/places/854694)
 
 
+## Kea (Q214109)
+[https://www.wikidata.org/wiki/Q214109](https://www.wikidata.org/wiki/Q214109)  
+
+### alignments:
+ - [Keos (island)](https://pleiades.stoa.org/places/570348)
+
+
 ## Kecharis Monastery (Q533496)
 [https://www.wikidata.org/wiki/Q533496](https://www.wikidata.org/wiki/Q533496)  
 
@@ -30342,6 +30349,13 @@
 
 ### alignments:
  - [Pergamum](https://pleiades.stoa.org/places/550812)
+
+
+## Pergamon gymnasium (Q105232481)
+[https://www.wikidata.org/wiki/Q105232481](https://www.wikidata.org/wiki/Q105232481)  
+
+### alignments:
+ - [Pergamon gymnasium](https://pleiades.stoa.org/places/565845192)
 
 
 ## Perge (Q719815)
