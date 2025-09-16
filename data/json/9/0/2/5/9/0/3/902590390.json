@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        33.775391802191734,
-        16.238160611658866,
-        33.775391802191734,
-        16.238160611658866
+        33.75,
+        16.25,
+        33.75,
+        16.25
     ],
     "connections": [],
     "connectsWith": [],
@@ -31,18 +31,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    33.775391802191734,
-                    16.238160611658866
+                    33.75,
+                    16.25
                 ],
                 "type": "Point"
             },
-            "id": "imagery-location-of-shaqadud-cave",
+            "id": "mindat-location-of-shaqadud-cave",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/902590390/imagery-location-of-shaqadud-cave",
+                "link": "https://pleiades.stoa.org/places/902590390/mindat-location-of-shaqadud-cave",
                 "location_precision": "precise",
                 "snippet": "Cave",
-                "title": "Imagery location of Shaqadud Cave"
+                "title": "Mindat.org location of Shaqadud Cave"
             },
             "type": "Feature"
         }
@@ -83,13 +83,20 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-500m-horizontal-accuracy",
+            "accuracy_value": 500.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2023-01-04T17:30:04Z",
             "creators": [
                 {
@@ -110,12 +117,17 @@
             ],
             "geometry": {
                 "coordinates": [
-                    33.775391802191734,
-                    16.238160611658866
+                    33.75,
+                    16.25
                 ],
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "reimported coordinates and added appropriate PAA",
+                    "modified": "2025-09-16T01:48:26Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2025-08-29T12:13:30Z",
@@ -137,7 +149,7 @@
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "imagery-location-of-shaqadud-cave",
+            "id": "mindat-location-of-shaqadud-cave",
             "locationType": [
                 "representative"
             ],
@@ -160,8 +172,8 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "Imagery location of Shaqadud Cave",
-            "uri": "https://pleiades.stoa.org/places/902590390/imagery-location-of-shaqadud-cave"
+            "title": "Mindat.org location of Shaqadud Cave",
+            "uri": "https://pleiades.stoa.org/places/902590390/mindat-location-of-shaqadud-cave"
         }
     ],
     "names": [
@@ -323,8 +335,8 @@
         }
     ],
     "reprPoint": [
-        33.775391802191734,
-        16.238160611658866
+        33.75,
+        16.25
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
