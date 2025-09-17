@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-506 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
+506 alignments exist in _Pleiades_ place references as of 2025-09-17. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3373,6 +3373,7 @@
 
 ### alignments:
  - [Kresion (mountain)](https://pleiades.stoa.org/places/573308)
+ - [Manthouria](https://pleiades.stoa.org/places/570458)
 
 
 ## 8.45.1

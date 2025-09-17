@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9108 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
+9117 alignments exist in _Pleiades_ place references as of 2025-09-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1578,6 +1578,13 @@
  - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
 
 
+## Alexandria Prophthasia (Q10401099)
+[https://www.wikidata.org/wiki/Q10401099](https://www.wikidata.org/wiki/Q10401099)  
+
+### alignments:
+ - [Phra(da)/Prophthasia/Frakh-kar-Peroz](https://pleiades.stoa.org/places/29718)
+
+
 ## Alexandria Troas (Q1393407)
 [https://www.wikidata.org/wiki/Q1393407](https://www.wikidata.org/wiki/Q1393407)  
 
@@ -2824,6 +2831,20 @@
  - [Antikythera shipwreck](https://pleiades.stoa.org/places/333218450)
 
 
+## Antimachia (Q61995831)
+[https://www.wikidata.org/wiki/Q61995831](https://www.wikidata.org/wiki/Q61995831)  
+
+### alignments:
+ - [Antimachia](https://pleiades.stoa.org/places/599495)
+
+
+## Antimachia Castle (Q12180784)
+[https://www.wikidata.org/wiki/Q12180784](https://www.wikidata.org/wiki/Q12180784)  
+
+### alignments:
+ - [Castle of Antimachia](https://pleiades.stoa.org/places/376830532)
+
+
 ## Antinoeion (Q102234817)
 [https://www.wikidata.org/wiki/Q102234817](https://www.wikidata.org/wiki/Q102234817)  
 
@@ -2976,6 +2997,13 @@
 
 ### alignments:
  - [Aous (river)](https://pleiades.stoa.org/places/481726)
+
+
+## Apadana of Persepolis (Q5961812)
+[https://www.wikidata.org/wiki/Q5961812](https://www.wikidata.org/wiki/Q5961812)  
+
+### alignments:
+ - [Apadana Palace](https://pleiades.stoa.org/places/774842748)
 
 
 ## Apamea Myrlea (Q617524)
@@ -16704,6 +16732,13 @@
  - [Rusucmona?/Castra Delia](https://pleiades.stoa.org/places/315132)
 
 
+## Ghasre Abu-Nasr (Q4121803)
+[https://www.wikidata.org/wiki/Q4121803](https://www.wikidata.org/wiki/Q4121803)  
+
+### alignments:
+ - [Qasr-i Abu Nasr/Seraz/Tirazzish?/Shiraz(zish)?](https://pleiades.stoa.org/places/922706)
+
+
 ## Gheriat el-Garbia (Q2120559)
 [https://www.wikidata.org/wiki/Q2120559](https://www.wikidata.org/wiki/Q2120559)  
 
@@ -18005,6 +18040,13 @@
 
 ### alignments:
  - [Hekale?](https://pleiades.stoa.org/places/579944)
+
+
+## Hekatompedon (Q5701277)
+[https://www.wikidata.org/wiki/Q5701277](https://www.wikidata.org/wiki/Q5701277)  
+
+### alignments:
+ - [Hekatompedon](https://pleiades.stoa.org/places/481859)
 
 
 ## Heledus (Q21138318)
@@ -26793,6 +26835,13 @@
 
 ### alignments:
  - [Ain Tauleib](https://pleiades.stoa.org/places/776151)
+
+
+## Muharraq Island (Q1344111)
+[https://www.wikidata.org/wiki/Q1344111](https://www.wikidata.org/wiki/Q1344111)  
+
+### alignments:
+ - [Arados/Tylos Minor?/Athrotradus? (island)](https://pleiades.stoa.org/places/932432)
 
 
 ## Multangular Tower And Wall Attached To South East (Q17530586)
@@ -57190,6 +57239,13 @@
  - [Temple of Liber Pater at Sabratha](https://pleiades.stoa.org/places/854121351)
 
 
+## Temple of Monthu (Q3517593)
+[https://www.wikidata.org/wiki/Q3517593](https://www.wikidata.org/wiki/Q3517593)  
+
+### alignments:
+ - [Temple of Montu](https://pleiades.stoa.org/places/907829423)
+
+
 ## Temple of Montu in Tod (Q1720771)
 [https://www.wikidata.org/wiki/Q1720771](https://www.wikidata.org/wiki/Q1720771)  
 
@@ -60556,6 +60612,13 @@
 
 ### alignments:
  - [Tuvixeddu Punic necropolis](https://pleiades.stoa.org/places/89759493)
+
+
+## Tuwaiq (Q3071063)
+[https://www.wikidata.org/wiki/Q3071063](https://www.wikidata.org/wiki/Q3071063)  
+
+### alignments:
+ - [Maritha (mountain)](https://pleiades.stoa.org/places/39381)
 
 
 ## Tušnica (Q1285052)

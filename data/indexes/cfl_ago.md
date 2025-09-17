@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-421 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
+435 alignments exist in _Pleiades_ place references as of 2025-09-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -139,6 +139,13 @@
 
 ### alignments:
  - [Aigai](https://pleiades.stoa.org/places/570040)
+
+
+## ANDROS. - Chora - 2001
+[https://chronique.efa.gr/?r=report&id=11381](https://chronique.efa.gr/?r=report&id=11381)  
+
+### alignments:
+ - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
 
 
 ## Archontiko/Giannitson
@@ -1536,6 +1543,13 @@
  - [(Hypo)Chalkis](https://pleiades.stoa.org/places/540829)
 
 
+## Toponyme - 2910: Amorgos, Kastron, Kastro, Chora-Δ.Δ. Αμοργού, Χώρα Αμοργού, Κάστρο
+[https://chronique.efa.gr/?r=topo_public&id=2910](https://chronique.efa.gr/?r=topo_public&id=2910)  
+
+### alignments:
+ - [Chora of Amorgos (settlement)](https://pleiades.stoa.org/places/535407625)
+
+
 ## Toponyme - 31666: Nea Kerasous
 [https://chronique.efa.gr/?kroute=topo_public&id=31666](https://chronique.efa.gr/?kroute=topo_public&id=31666)  
 
@@ -1548,6 +1562,13 @@
 
 ### alignments:
  - [Krane](https://pleiades.stoa.org/places/530962)
+
+
+## Toponyme - 3559: Amphiklia, Dadion-Δ.Δ. Αμφικλείας
+[https://chronique.efa.gr/?r=topo_public&id=3559](https://chronique.efa.gr/?r=topo_public&id=3559)  
+
+### alignments:
+ - [Amphikleia](https://pleiades.stoa.org/places/540629)
 
 
 ## Toponyme - 35630: Ithaki
@@ -1564,6 +1585,20 @@
  - [Ithaca (island)](https://pleiades.stoa.org/places/530906)
 
 
+## Toponyme - 36658: Agrinio-Δ.Δ. Αγρινίου
+[https://chronique.efa.gr/?r=topo_public&id=36658](https://chronique.efa.gr/?r=topo_public&id=36658)  
+
+### alignments:
+ - [Agrinion](https://pleiades.stoa.org/places/540599)
+
+
+## Toponyme - 36776: Amfissa-Δ.Δ.Αμφίσσης
+[https://chronique.efa.gr/?r=topo_public&id=36776](https://chronique.efa.gr/?r=topo_public&id=36776)  
+
+### alignments:
+ - [Amphissa](https://pleiades.stoa.org/places/540630)
+
+
 ## Toponyme - 37913: Kalamata-Δ.Δ.Καλαμάτας
 [https://chronique.efa.gr/?r=topo_public&id=37913](https://chronique.efa.gr/?r=topo_public&id=37913)  
 
@@ -1578,11 +1613,53 @@
  - [Kisamos](https://pleiades.stoa.org/places/589870)
 
 
+## Toponyme - 38918: Antimacheia, Andemaki-Δ.Δ.Αντιμαχείας
+[https://chronique.efa.gr/?r=topo_public&id=38918](https://chronique.efa.gr/?r=topo_public&id=38918)  
+
+### alignments:
+ - [Antimachia](https://pleiades.stoa.org/places/599495)
+
+
 ## Toponyme - 39354: Rhodes
 [https://chronique.efa.gr/?r=topo_public&id=39354](https://chronique.efa.gr/?r=topo_public&id=39354)  
 
 ### alignments:
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## Toponyme - 41265: Andros, Kastron-Δ.Δ. Άνδρου
+[https://chronique.efa.gr/?r=topo_public&id=41265](https://chronique.efa.gr/?r=topo_public&id=41265)  
+
+### alignments:
+ - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
+
+
+## Toponyme - 4350: Aiani, Kalliani-Αιανή
+[https://chronique.efa.gr/?r=topo_public&id=4350](https://chronique.efa.gr/?r=topo_public&id=4350)  
+
+### alignments:
+ - [Aiane](https://pleiades.stoa.org/places/491511)
+
+
+## Toponyme - 4353: Aidipsos-Αιδιψός
+[https://chronique.efa.gr/?r=topo_public&id=4353](https://chronique.efa.gr/?r=topo_public&id=4353)  
+
+### alignments:
+ - [Aidepsos (spa)](https://pleiades.stoa.org/places/540602)
+
+
+## Toponyme - 4436: Acharnes, Acharnae, Menidi-Δ.Δ.Αχαρνών
+[https://chronique.efa.gr/?r=topo_public&id=4436](https://chronique.efa.gr/?r=topo_public&id=4436)  
+
+### alignments:
+ - [Acharnai (S)](https://pleiades.stoa.org/places/579843)
+
+
+## Toponyme - 4615: Archaia Korinthos, Palaia-Δ.Δ.Αρχαίας Κορίνθου
+[https://chronique.efa.gr/?r=topo_public&id=4615](https://chronique.efa.gr/?r=topo_public&id=4615)  
+
+### alignments:
+ - [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
 
 
 ## Toponyme - 70018: Argilos, ville antique, ancient city
@@ -1860,6 +1937,13 @@
  - [Orchomenos (Arcadia)](https://pleiades.stoa.org/places/570535)
 
 
+## Toponyme 21316: Kalandra-Δ.Δ.Καλάνδρας
+[https://chronique.efa.gr/?r=topo_public&id=21316](https://chronique.efa.gr/?r=topo_public&id=21316)  
+
+### alignments:
+ - [Mende](https://pleiades.stoa.org/places/501515)
+
+
 ## Toponyme 21413: Stemnitsa, Ypsous
 [https://chronique.efa.gr/?kroute=topo_public&id=21413](https://chronique.efa.gr/?kroute=topo_public&id=21413)  
 
@@ -2042,13 +2126,6 @@
  - [Dion](https://pleiades.stoa.org/places/491572)
 
 
-## Toponyme 2910: Amorgos, Kastron, Kastro, Chora
-[https://chronique.efa.gr/?kroute=topo_public&id=2910](https://chronique.efa.gr/?kroute=topo_public&id=2910)  
-
-### alignments:
- - [Amorgos (settlement)](https://pleiades.stoa.org/places/535407625)
-
-
 ## Toponyme 29113: Katerini, Katerina, Aikaterini
 [https://chronique.efa.gr/?kroute=topo_public&id=29113](https://chronique.efa.gr/?kroute=topo_public&id=29113)  
 
@@ -2148,6 +2225,13 @@
  - [Aulon/Alonion](https://pleiades.stoa.org/places/589721)
 
 
+## Toponyme 34995: Kassiopi-Δ.Δ.Κασσιόπης
+[https://chronique.efa.gr/?r=topo_public&id=34995](https://chronique.efa.gr/?r=topo_public&id=34995)  
+
+### alignments:
+ - [Kassiope](https://pleiades.stoa.org/places/530920)
+
+
 ## Toponyme 35854: Sami, Samos, Aigialos
 [https://chronique.efa.gr/?kroute=topo_public&id=35854](https://chronique.efa.gr/?kroute=topo_public&id=35854)  
 
@@ -2160,6 +2244,13 @@
 
 ### alignments:
  - [Lamia](https://pleiades.stoa.org/places/540902)
+
+
+## Toponyme 3605: Asopos, Kondevianika-Δ.Δ.Ασωπού
+[https://chronique.efa.gr/?r=topo_public&id=3605](https://chronique.efa.gr/?r=topo_public&id=3605)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
 ## Toponyme 36839: Prodromos, Elikon (Chostia)
@@ -2560,6 +2651,13 @@
 
 ### alignments:
  - [Balyra (river)](https://pleiades.stoa.org/places/570146)
+
+
+## Toponyme 4526: Archaia Olympia-Δ.Δ.Αρχαίας Ολυμπίας
+[https://chronique.efa.gr/?r=topo_public&id=4526](https://chronique.efa.gr/?r=topo_public&id=4526)  
+
+### alignments:
+ - [Olympia](https://pleiades.stoa.org/places/570531)
 
 
 ## Toponyme 4552: Aktion, Accium, Actium

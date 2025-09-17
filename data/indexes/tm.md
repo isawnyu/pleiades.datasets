@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4654 alignments exist in _Pleiades_ place references as of 2025-09-16. The following list of alignments is grouped by zotkey.
+4655 alignments exist in _Pleiades_ place references as of 2025-09-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2678,7 +2678,7 @@
  - [Cataracta Secunda](https://pleiades.stoa.org/places/795794)
 
 
-## GEO ID 11246
+## GEO ID 11246: Smyrnophoros Chora
 [www.trismegistos.org/place/11246](www.trismegistos.org/place/11246)  
 
 ### alignments:
@@ -6348,6 +6348,7 @@
 ### alignments:
  - [Achelous (river)](https://pleiades.stoa.org/places/530768)
  - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
+ - [Antimachia](https://pleiades.stoa.org/places/599495)
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
  - [Argithea](https://pleiades.stoa.org/places/540658)
  - [Astron](https://pleiades.stoa.org/places/570134)
@@ -24537,6 +24538,13 @@
 
 ### alignments:
  - [Jebel Khayabir/Alexandria?/Antiochia?/Spasinou Charax?/Karkh Maisan?/[Astarabad Ardashir]?](https://pleiades.stoa.org/places/912872)
+
+
+## GEO ID 42180: Poryospana
+[https://www.trismegistos.org/place/42180](https://www.trismegistos.org/place/42180)  
+
+### alignments:
+ - [Poryospana/Portospana/Portippa](https://pleiades.stoa.org/places/930237)
 
 
 ## GEO ID 42181: Catippa (Gorgan)
