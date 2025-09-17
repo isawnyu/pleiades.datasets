@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        20.0,
-        50.0,
-        25.0
+        45.789741609935334,
+        20.49021154047575,
+        46.44766590720834,
+        21.378490704105424
     ],
     "connections": [],
     "connectsWith": [],
@@ -40,48 +40,57 @@
         }
     ],
     "description": "The Tuwayq escarpment.",
-    "details": "The Barrington Atlas Directory notes: Tuwayq escarpment SAU",
+    "details": "<p>The Barrington Atlas Directory notes: Tuwayq escarpment SAU</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            20.0
+                            45.789741609935334,
+                            20.49021154047575
                         ],
                         [
-                            50.0,
-                            20.0
+                            45.918268901580376,
+                            20.687937793053194
                         ],
                         [
-                            50.0,
-                            25.0
+                            46.0682788816526,
+                            20.88819235363303
                         ],
                         [
-                            45.0,
-                            25.0
+                            46.20558620398045,
+                            21.07460675603529
                         ],
                         [
-                            45.0,
-                            20.0
+                            46.32641157645149,
+                            21.242725062499016
+                        ],
+                        [
+                            46.44766590720834,
+                            21.378490704105424
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39381/batlas-location",
-                "location_precision": "rough",
+                "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/39381/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2025-09-17T00:13:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:27Z",
@@ -127,9 +136,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -140,100 +149,108 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:05:40Z",
+            "contributors": [],
+            "created": "2025-09-16T19:16:58Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            20.0
+                            45.789741609935334,
+                            20.49021154047575
                         ],
                         [
-                            50.0,
-                            20.0
+                            45.918268901580376,
+                            20.687937793053194
                         ],
                         [
-                            50.0,
-                            25.0
+                            46.0682788816526,
+                            20.88819235363303
                         ],
                         [
-                            45.0,
-                            25.0
+                            46.20558620398045,
+                            21.07460675603529
                         ],
                         [
-                            45.0,
-                            20.0
+                            46.32641157645149,
+                            21.242725062499016
+                        ],
+                        [
+                            46.44766590720834,
+                            21.378490704105424
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:40:41Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:45Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-09-17T00:11:08Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-16T19:17:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-16T19:16:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:05:40Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-16T19:16:58Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C1 Maritha Mons",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 47 see \"Maritha M.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C1 Maritha M.",
-            "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39381/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39381/batlas-label-location"
         }
     ],
     "names": [
@@ -349,12 +366,12 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Suppl.-11-Uranios",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Suppl. 11 Uranios, cols. 1287",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Suppl. 11 Uranios, cols. 1287",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -367,11 +384,22 @@
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3071063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Tuwaiq (Q3071063)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        47.5,
-        22.5
+        46.10944425579193,
+        20.94139530986622
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,9 +1,9 @@
 {
     "@type": "Place",
     "bbox": [
-        21.36667,
-        38.63333,
-        21.386897,
+        21.3739396,
+        38.6483235,
+        21.3739396,
         38.6483235
     ],
     "connections": [
@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "part_of_regional",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_regional",
             "connectsTo": "https://pleiades.stoa.org/places/540591",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:43:18Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "connection type = part of (regional)",
+                    "modified": "2025-09-16T10:45:01Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:43:18Z",
@@ -129,6 +141,12 @@
     "contributors": [
         {
             "homepage": null,
+            "name": "Catherine Bouras",
+            "uri": "https://pleiades.stoa.org/author/cbouras",
+            "username": "cbouras"
+        },
+        {
+            "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
             "username": "bkiesling"
@@ -170,7 +188,7 @@
             "username": "rmhorne"
         }
     ],
-    "created": "2018-06-08T10:11:25Z",
+    "created": "2025-09-16T10:32:05Z",
     "creators": [
         {
             "name": "J. Fossey",
@@ -187,59 +205,33 @@
         {
             "geometry": {
                 "coordinates": [
-                    21.36667,
-                    38.63333
-                ],
-                "type": "Point"
-            },
-            "id": "megali-khora",
-            "properties": {
-                "description": "Location of Megáli Khóra, after Geonames.",
-                "link": "https://pleiades.stoa.org/places/540599/megali-khora",
-                "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "Megáli Khóra"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.386897,
-                    38.638511
-                ],
-                "type": "Point"
-            },
-            "id": "darmc-location-11216",
-            "properties": {
-                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/540599/darmc-location-11216",
-                "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "DARMC location 11216"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     21.3739396,
                     38.6483235
                 ],
                 "type": "Point"
             },
-            "id": "39c3b53b33bb3b7-3a73c13b1",
+            "id": "osm-location-megali-chora",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/540599/39c3b53b33bb3b7-3a73c13b1",
+                "link": "https://pleiades.stoa.org/places/540599/osm-location-megali-chora",
                 "location_precision": "precise",
-                "snippet": "Settlement, ; AD 1700 - AD 2100",
-                "title": "Μεγάλη Χώρα"
+                "snippet": "Settlement-modern; AD 1700 - AD 2100",
+                "title": "OSM Location: Μεγάλη Χώρα"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-09-16T10:44:31Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added CFL/AGO by @cbouras",
+            "modified": "2025-09-16T10:39:48Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "TM GEO ID 61229: Agrinion",
             "modified": "2024-11-11T02:35:56Z",
@@ -315,9 +307,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
-            "accuracy_value": 30.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -326,230 +318,22 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "modern",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "contributors": [],
-            "created": "2013-04-22T19:11:19Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Ryan Horne",
-                    "uri": "https://pleiades.stoa.org/author/rmhorne",
-                    "username": "rmhorne"
-                }
-            ],
-            "description": "Location of Megáli Khóra, after Geonames.",
-            "details": "",
-            "end": 2100,
-            "featureType": [
-                "settlement",
-                ""
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "geometry": {
-                "coordinates": [
-                    21.36667,
-                    38.63333
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2013-04-26T13:31:49Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "comment": "Edited",
-                    "modified": "2013-04-26T13:28:19Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2013-04-22T19:11:40Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "comment": "Initial revision",
-                    "modified": "2013-04-22T19:11:24Z",
-                    "modifiedBy": "rmhorne"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2013-04-22T19:11:21Z",
-                    "modifiedBy": "rmhorne"
-                }
-            ],
-            "id": "megali-khora",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
-            ],
-            "provenance": "GeoNames.org 257434: Megáli Khóra",
-            "references": [
-                {
-                    "accessURI": "http://www.geonames.org/257434/megali-khora.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "GeoNames.org 257434: Megáli Khóra",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "",
-                    "alternateURI": "",
-                    "bibliographicURI": "http://www.worldcat.org/oclc/56438422",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Hansen, M. H., Nielsen, T. H., Københavns universitet., & Danmarks Grundforskningsfond. (2004) sv. Agrinion",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "seeFurther"
-                }
-            ],
-            "review_state": "published",
-            "start": 1700,
-            "title": "Megáli Khóra",
-            "uri": "https://pleiades.stoa.org/places/540599/megali-khora"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T20:38:23Z",
-            "creators": [
-                {
-                    "name": "J. Fossey",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 },
                 {
-                    "name": "J. Morin",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 11216",
-            "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    21.386897,
-                    38.638511
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:03:28Z",
-                    "modifiedBy": "admin"
-                },
-                {
-                    "action": "Publish externally",
-                    "modified": "2011-03-10T05:04:16Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2011-03-09T20:38:25Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T20:38:24Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2011-03-09T20:38:23Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "darmc-location-11216",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "DARMC OBJECTID: 11216",
-            "references": [
-                {
-                    "accessURI": "https://darmc.harvard.edu/",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "11216",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 11216.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
-                    "type": "citesAsDataSource"
-                }
-            ],
-            "review_state": "published",
-            "start": -550,
-            "title": "DARMC location 11216",
-            "uri": "https://pleiades.stoa.org/places/540599/darmc-location-11216"
-        },
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "contributors": [],
             "created": "2013-04-22T19:13:33Z",
             "creators": [
                 {
@@ -563,12 +347,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "settlement",
-                ""
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -578,6 +360,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2025-09-16T10:43:38Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2024-04-26T14:59:09Z",
@@ -614,13 +401,12 @@
                     "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "39c3b53b33bb3b7-3a73c13b1",
+            "id": "osm-location-megali-chora",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "OpenStreetMap (Node 286653976, version 10, osm:changeset=141005095, 2023-09-08T22:47:35Z)",
             "references": [
@@ -649,8 +435,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Μεγάλη Χώρα",
-            "uri": "https://pleiades.stoa.org/places/540599/39c3b53b33bb3b7-3a73c13b1"
+            "title": "OSM Location: Μεγάλη Χώρα",
+            "uri": "https://pleiades.stoa.org/places/540599/osm-location-megali-chora"
         }
     ],
     "names": [
@@ -749,10 +535,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 55 A3 Agrinion",
     "references": [
@@ -854,11 +642,33 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://chronique.efa.gr/?r=topo_public&id=36658",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9KVQ7A64",
+            "citationDetail": "Toponyme - 36658: Agrinio-Δ.Δ. Αγρινίου",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/?kroute=homepage.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "11216",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        21.375835533333333,
-        38.64005483333333
+        21.3739396,
+        38.6483235
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

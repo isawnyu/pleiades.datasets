@@ -72,7 +72,7 @@
             "username": "ekansa"
         }
     ],
-    "created": "2010-09-22T21:56:24Z",
+    "created": "2025-09-16T11:06:23Z",
     "creators": [
         {
             "name": "M. Roaf",
@@ -145,13 +145,28 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/29718/osm-location-of-farah-bala-hisar",
                 "location_precision": "precise",
-                "snippet": "Fort, ; 540 BC - 100 BC",
+                "snippet": "Fort-2; 540 BC - 100 BC",
                 "title": "OSM location of Farah Bala Hisar"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "itmiller 795",
+            "modified": "2025-09-16T18:50:57Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "KU TP, wikidata - added",
+            "modified": "2025-09-16T18:50:24Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2025-09-16T11:12:27Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "delete blank ref.",
             "modified": "2023-04-04T22:37:03Z",
@@ -239,7 +254,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -256,7 +271,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-central-asia"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2023-04-04T19:13:39Z",
             "creators": [
                 {
@@ -267,15 +289,13 @@
                 }
             ],
             "description": "Location based on OpenStreetMap",
-            "details": "\r\n<p class=\"style23\">A fortified enclosure of mud-brick with the remains of a castle dating from the Timurid (15th-17th c.) period on the site of earlier&nbsp;Achaemenid (6th-4th centuries BC) and&nbsp;Hellenistic (3rd-1st centuries BC) remains.</p>\r\n",
+            "details": "<p class=\"style23\">A fortified enclosure of mud-brick with the remains of a castle dating from the Timurid (15th-17th c.) period on the site of earlier Achaemenid (6th-4th centuries BC) and Hellenistic (3rd-1st centuries BC) remains.</p>",
             "end": -100,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -336,6 +356,11 @@
             },
             "history": [
                 {
+                    "comment": "replaced deprecated feature type and set = fort; archaeological remains = substantive",
+                    "modified": "2025-09-16T11:14:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2023-04-04T22:36:23Z",
                     "modifiedBy": "jbecker"
@@ -381,8 +406,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "provenance": "OpenStreetMap (Way 248364684, version 5, osm:changeset=126260404, 2022-09-16T11:34:38Z)",
             "references": [
@@ -908,6 +932,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-09-16T18:48:41Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:02:50Z",
@@ -1684,25 +1713,130 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/29718/prophthasia-1"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Propasta",
+            "contributors": [
+                {
+                    "name": "Brian Z. Lund",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "name": "M. Joann McDaniel",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "name": "Mary E. Downs",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2025-09-16T18:48:41Z",
+            "creators": [
+                {
+                    "name": "M. Roaf",
+                    "username": null
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-16T19:07:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-16T18:49:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Latin, TP name, TP reference",
+                    "modified": "2025-09-16T18:49:08Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-16T18:48:41Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "copy_of_propasta",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Barrington Atlas: BAtlas 3 H3 Phra(da)/Prophthasia/Frakh-kar-Peroz",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2739.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "11B3 (Talbert 2739)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Propasta",
+            "start": 300,
+            "transcriptionAccuracy": "inaccurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/29718/copy_of_propasta"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "fort"
+        "fort-2",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 3 H3 Phra(da)/Prophthasia/Frakh-kar-Peroz",
     "references": [
         {
             "accessURI": "https://en.wikipedia.org/wiki/Farah,_Afghanistan",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Farah, Afghanistan",
             "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Farah, Afghanistan.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeAlso"
@@ -1754,19 +1888,19 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Farah_Citadel",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Farah Citadel",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Farah Citadel.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/XX,1_737.png",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Phrada",
+            "citationDetail": "Phrada (J. Schmidt)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": " ",
@@ -1774,10 +1908,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://elexikon.ch/RE/XXIII,1_817.png",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Prophthasia 2",
+            "citationDetail": "Prophthasia 2 (H. Treidler)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": " ",
@@ -1796,10 +1930,10 @@
             "type": "citesAsRelated"
         },
         {
-            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/prophthasia-e1010640?s.num=0&s.q=Prophthasia",
+            "accessURI": "https://doi.org/10.1163/1574-9347_bnp_e1010640",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
-            "citationDetail": "Prophthasia",
+            "citationDetail": "Prophthasia (E. Olshausen and B. Brentjes)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. https://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
             "otherIdentifier": "",
@@ -1849,6 +1983,39 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1881",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "1881: Propasta",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q10401099",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Alexandria Prophthasia (Q10401099)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "795",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
