@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        10.0,
-        50.0,
-        15.0
+        45.99006869948178,
+        13.631301916359533,
+        47.14431561108195,
+        13.854694858091545
     ],
     "connections": [],
     "connectsWith": [],
@@ -47,36 +47,56 @@
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            10.0
+                            45.99006869948178,
+                            13.631301916359533
                         ],
                         [
-                            50.0,
-                            10.0
+                            46.16933409623451,
+                            13.684724337551788
                         ],
                         [
-                            50.0,
-                            15.0
+                            46.25574773276109,
+                            13.707902330480712
                         ],
                         [
-                            45.0,
-                            15.0
+                            46.37047248444583,
+                            13.733395302411756
                         ],
                         [
-                            45.0,
-                            10.0
+                            46.492734777395825,
+                            13.758527554624806
+                        ],
+                        [
+                            46.59684406270647,
+                            13.780074049479968
+                        ],
+                        [
+                            46.70757015911173,
+                            13.798720185180638
+                        ],
+                        [
+                            46.84861872270497,
+                            13.823448171494094
+                        ],
+                        [
+                            46.99216539295938,
+                            13.838621576943932
+                        ],
+                        [
+                            47.14431561108195,
+                            13.854694858091545
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39384/batlas-location",
-                "location_precision": "rough",
+                "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/39384/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
@@ -127,8 +147,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -140,100 +160,124 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:05:44Z",
+            "contributors": [],
+            "created": "2025-09-17T18:19:19Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            10.0
+                            45.99006869948178,
+                            13.631301916359533
                         ],
                         [
-                            50.0,
-                            10.0
+                            46.16933409623451,
+                            13.684724337551788
                         ],
                         [
-                            50.0,
-                            15.0
+                            46.25574773276109,
+                            13.707902330480712
                         ],
                         [
-                            45.0,
-                            15.0
+                            46.37047248444583,
+                            13.733395302411756
                         ],
                         [
-                            45.0,
-                            10.0
+                            46.492734777395825,
+                            13.758527554624806
+                        ],
+                        [
+                            46.59684406270647,
+                            13.780074049479968
+                        ],
+                        [
+                            46.70757015911173,
+                            13.798720185180638
+                        ],
+                        [
+                            46.84861872270497,
+                            13.823448171494094
+                        ],
+                        [
+                            46.99216539295938,
+                            13.838621576943932
+                        ],
+                        [
+                            47.14431561108195,
+                            13.854694858091545
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:40:44Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:46Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-09-18T01:53:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:38Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T18:19:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T18:19:20Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:05:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T18:19:19Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C3 Melan Mons",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 43 see \"Melan M.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C3 Melan M.",
-            "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39384/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39384/batlas-label-location"
         }
     ],
     "names": [
@@ -314,6 +358,78 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/39384/Melan-M"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Melan Mons",
+            "contributors": [],
+            "created": "2025-09-17T18:17:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-18T01:54:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-17T18:17:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T18:17:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-17T18:17:44Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "melan-mons",
+            "language": "la",
+            "nameType": "label",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C3 Melan Mons",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Melan Mons",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39384/melan-mons"
         }
     ],
     "placeTypeURIs": [
@@ -348,8 +464,8 @@
         }
     ],
     "reprPoint": [
-        47.5,
-        12.5
+        46.56320631754457,
+        13.763365704904263
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,13 +1,15 @@
 {
     "@type": "Place",
     "bbox": [
-        50.0,
-        15.0,
-        55.0,
-        20.0
+        52.169077621391374,
+        16.53835720585681,
+        54.42253263065249,
+        17.230197631904797
     ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/39370"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -32,14 +34,14 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:06:32Z",
+    "created": "2025-09-17T19:24:11Z",
     "creators": [
         {
             "name": "D.T. Potts",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 4 D2 Sachalitis",
+    "description": "An area on the southern coast of the Arabian peninsula mentioned in Roman sources. It probably lay between modern Ras Fartak in Yemen and Ras Mirbat in Oman.",
     "details": "<p>The Barrington Atlas Directory notes: region between Ras Fartak and Ras Mirbat OMN</p>",
     "features": [
         {
@@ -47,41 +49,71 @@
                 "coordinates": [
                     [
                         [
-                            50.0,
-                            15.0
+                            52.169077621391374,
+                            16.53835720585681
                         ],
                         [
-                            55.0,
-                            15.0
+                            52.41389808456987,
+                            16.678481147065206
                         ],
                         [
-                            55.0,
-                            20.0
+                            52.66168343958387,
+                            16.828124631720453
                         ],
                         [
-                            50.0,
-                            20.0
+                            52.90640671672754,
+                            16.94161643589444
                         ],
                         [
-                            50.0,
-                            15.0
+                            53.18118407115074,
+                            17.02157547890785
+                        ],
+                        [
+                            53.42960571031634,
+                            17.09899235311994
+                        ],
+                        [
+                            53.680132100957,
+                            17.153561720802205
+                        ],
+                        [
+                            53.912110999760785,
+                            17.190207051702746
+                        ],
+                        [
+                            54.15831500151728,
+                            17.217836601229656
+                        ],
+                        [
+                            54.42253263065249,
+                            17.230197631904797
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39420/batlas-location",
-                "location_precision": "rough",
+                "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/39420/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary after BAtlas and BAtlDir; added Google Books link to Schnetz reference; Edited @thomase",
+            "modified": "2025-09-18T01:11:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-09-17T19:24:10Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-16T04:08:06Z",
@@ -122,8 +154,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -141,100 +173,124 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:06:32Z",
+            "contributors": [],
+            "created": "2025-09-17T17:58:32Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
             "details": "",
             "end": 640,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            50.0,
-                            15.0
+                            52.169077621391374,
+                            16.53835720585681
                         ],
                         [
-                            55.0,
-                            15.0
+                            52.41389808456987,
+                            16.678481147065206
                         ],
                         [
-                            55.0,
-                            20.0
+                            52.66168343958387,
+                            16.828124631720453
                         ],
                         [
-                            50.0,
-                            20.0
+                            52.90640671672754,
+                            16.94161643589444
                         ],
                         [
-                            50.0,
-                            15.0
+                            53.18118407115074,
+                            17.02157547890785
+                        ],
+                        [
+                            53.42960571031634,
+                            17.09899235311994
+                        ],
+                        [
+                            53.680132100957,
+                            17.153561720802205
+                        ],
+                        [
+                            53.912110999760785,
+                            17.190207051702746
+                        ],
+                        [
+                            54.15831500151728,
+                            17.217836601229656
+                        ],
+                        [
+                            54.42253263065249,
+                            17.230197631904797
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:41:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:53Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-09-18T01:11:14Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:47Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T17:58:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T17:58:35Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:06:33Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T17:58:32Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 D2 Sachalitis",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 48 see \"Sachalitis\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 D2 Sachalitis",
-            "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39420/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39420/batlas-label-location"
         }
     ],
     "names": [
@@ -400,6 +456,184 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/39420/sacamum"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "رأس فرتك",
+            "contributors": [],
+            "created": "2025-09-17T19:31:43Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-18T01:12:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-17T19:35:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T19:31:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-17T19:31:43Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ras-fartak",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 48 see \"Sachalitis\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/1222517479",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Node: Ra's Fartak (1222517479)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ras Fartak, Ra's Fartak, Ras Furtak, ras faratik",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39420/ras-fartak"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "رأس مرباط",
+            "contributors": [],
+            "created": "2025-09-17T19:35:25Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-18T01:12:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-17T19:35:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T19:35:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-17T19:35:25Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "ras-mirbat",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 48 see \"Sachalitis\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.geonames.org/287217/ra-s-mirbat.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "287217: Ra’s Mirbāţ",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ras Mirbat, Ras Murbat, Ras Merbat, Ras Marbāt, Ra’s Mirbāţ",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39420/ras-mirbat"
         }
     ],
     "placeTypeURIs": [
@@ -422,7 +656,7 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.google.com/books/edition/_/E2w9AQAAMAAJ?hl=en&gbpv=1&bsq=398",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WMUMI5TG",
             "citationDetail": "398",
@@ -434,8 +668,8 @@
         }
     ],
     "reprPoint": [
-        52.5,
-        17.5
+        53.26226540803683,
+        16.991652128460405
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        15.0,
-        50.0,
-        20.0
+        49.490041757615174,
+        15.644866077609432,
+        51.60914355074785,
+        16.947704573369816
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,14 +32,14 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:02:56Z",
+    "created": "2025-09-17T19:36:45Z",
     "creators": [
         {
             "name": "D.T. Potts",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 4 C2 Adramiton Chora",
+    "description": "Mentioned by Roman writers, a region of the southern Arabian peninsula roughly in the area of the modern Hadramaut governorate of Yemen.",
     "details": "<p>The Barrington Atlas Directory notes: Hadramaut YEM</p>",
     "features": [
         {
@@ -47,41 +47,91 @@
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            15.0
+                            49.490041757615174,
+                            15.644866077609432
                         ],
                         [
-                            50.0,
-                            15.0
+                            49.64794447223412,
+                            15.800166218773137
                         ],
                         [
-                            50.0,
-                            20.0
+                            49.76717307362864,
+                            15.911323942419253
                         ],
                         [
-                            45.0,
-                            20.0
+                            49.90687529194946,
+                            16.01504257213627
                         ],
                         [
-                            45.0,
-                            15.0
+                            50.049358734047324,
+                            16.140115795304375
+                        ],
+                        [
+                            50.173841825849664,
+                            16.230283978507142
+                        ],
+                        [
+                            50.28956270857337,
+                            16.31241712703234
+                        ],
+                        [
+                            50.42934391561733,
+                            16.399164361075513
+                        ],
+                        [
+                            50.58115034447045,
+                            16.48929558490806
+                        ],
+                        [
+                            50.749618672122935,
+                            16.585571386164155
+                        ],
+                        [
+                            50.922159397297186,
+                            16.667893297321136
+                        ],
+                        [
+                            51.07402226548646,
+                            16.73866121237053
+                        ],
+                        [
+                            51.23597172260989,
+                            16.807839864496334
+                        ],
+                        [
+                            51.383978818300974,
+                            16.87085813130125
+                        ],
+                        [
+                            51.60914355074785,
+                            16.947704573369816
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39273/batlas-location",
-                "location_precision": "rough",
+                "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/39273/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up and linked Ptolemy reference; summary @thomase",
+            "modified": "2025-09-18T01:12:48Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-09-17T19:36:42Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "removed out-of-date Smith reference",
             "modified": "2025-05-07T18:01:07Z",
@@ -132,8 +182,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -157,100 +207,144 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:02:57Z",
+            "contributors": [],
+            "created": "2025-09-17T18:01:27Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
                         [
-                            45.0,
-                            15.0
+                            49.490041757615174,
+                            15.644866077609432
                         ],
                         [
-                            50.0,
-                            15.0
+                            49.64794447223412,
+                            15.800166218773137
                         ],
                         [
-                            50.0,
-                            20.0
+                            49.76717307362864,
+                            15.911323942419253
                         ],
                         [
-                            45.0,
-                            20.0
+                            49.90687529194946,
+                            16.01504257213627
                         ],
                         [
-                            45.0,
-                            15.0
+                            50.049358734047324,
+                            16.140115795304375
+                        ],
+                        [
+                            50.173841825849664,
+                            16.230283978507142
+                        ],
+                        [
+                            50.28956270857337,
+                            16.31241712703234
+                        ],
+                        [
+                            50.42934391561733,
+                            16.399164361075513
+                        ],
+                        [
+                            50.58115034447045,
+                            16.48929558490806
+                        ],
+                        [
+                            50.749618672122935,
+                            16.585571386164155
+                        ],
+                        [
+                            50.922159397297186,
+                            16.667893297321136
+                        ],
+                        [
+                            51.07402226548646,
+                            16.73866121237053
+                        ],
+                        [
+                            51.23597172260989,
+                            16.807839864496334
+                        ],
+                        [
+                            51.383978818300974,
+                            16.87085813130125
+                        ],
+                        [
+                            51.60914355074785,
+                            16.947704573369816
                         ]
                     ]
                 ],
-                "type": "Polygon"
+                "type": "MultiLineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:37:47Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:18Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-09-18T01:12:35Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T18:01:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T18:01:30Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:02:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-17T18:01:27Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C2 Adramiton Chora",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 44 see \"Adramiton Chora\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C2 Adramiton Chora",
-            "references": [],
             "review_state": "published",
             "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39273/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39273/batlas-label-location"
         }
     ],
     "names": [
@@ -608,6 +702,95 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/39273/astramitis"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "حضرموت",
+            "contributors": [],
+            "created": "2025-09-17T19:44:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-18T01:13:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-17T19:44:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-17T19:44:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-17T19:44:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "hadramaut",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 44 see \"Adramiton Chora\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://www.openstreetmap.org/relation/383897",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Relation: Hadramaut Governorate (383897)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Hadramaut, Hadhramaut, hadramawt",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39273/hadramaut"
         }
     ],
     "placeTypeURIs": [
@@ -630,15 +813,15 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015022717584&seq=141&q1=%CE%91%CE%B4%CF%81%CE%B1%CE%BC%CE%B9%CF%84%CF%89%CE%BD",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-6.7.10",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ptol. 6.7.10",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+            "citationDetail": "6.7.10 (volume 2 page 99)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Ptol. (Nobbe: Hathi)",
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "",
@@ -664,8 +847,8 @@
         }
     ],
     "reprPoint": [
-        47.5,
-        17.5
+        50.497159120545334,
+        16.38080125196526
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
