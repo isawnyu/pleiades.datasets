@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9117 alignments exist in _Pleiades_ place references as of 2025-09-17. The following list of alignments is grouped by zotkey.
+9125 alignments exist in _Pleiades_ place references as of 2025-09-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6515,6 +6515,13 @@
  - [Bidis?](https://pleiades.stoa.org/places/462113)
 
 
+## Biesenbrow (Q858117)
+[https://www.wikidata.org/wiki/Q858117](https://www.wikidata.org/wiki/Q858117)  
+
+### alignments:
+ - [Biesenbrow](https://pleiades.stoa.org/places/20408)
+
+
 ## Biesheim (Samian Ware Discovery Site) (Q103148104)
 [https://www.wikidata.org/wiki/Q103148104](https://www.wikidata.org/wiki/Q103148104)  
 
@@ -8772,6 +8779,13 @@
 
 ### alignments:
  - [Carnuntum](https://pleiades.stoa.org/places/128376)
+
+
+## Carpathians (Q1288)
+[https://www.wikidata.org/wiki/Q1288](https://www.wikidata.org/wiki/Q1288)  
+
+### alignments:
+ - [Karpates Oros](https://pleiades.stoa.org/places/1063)
 
 
 ## Carpentras (Q202560)
@@ -13923,6 +13937,13 @@
  - [Dowth](https://pleiades.stoa.org/places/148277400)
 
 
+## Dra Abu el-Naga South (Q124830813)
+[https://www.wikidata.org/wiki/Q124830813](https://www.wikidata.org/wiki/Q124830813)  
+
+### alignments:
+ - [Dra' Abu el-Naga'](https://pleiades.stoa.org/places/318069073)
+
+
 ## Dracanum (Q17629502)
 [https://www.wikidata.org/wiki/Q17629502](https://www.wikidata.org/wiki/Q17629502)  
 
@@ -15063,6 +15084,13 @@
 
 ### alignments:
  - [Eteonos/Skaphaliai](https://pleiades.stoa.org/places/543704)
+
+
+## Ethiopian Highlands (Q319288)
+[https://www.wikidata.org/wiki/Q319288](https://www.wikidata.org/wiki/Q319288)  
+
+### alignments:
+ - [Aithiopika (mountain)](https://pleiades.stoa.org/places/39278)
 
 
 ## Etruscan Arch (Q1892295)
@@ -23049,6 +23077,13 @@
  - [Library of Pergamum](https://pleiades.stoa.org/places/117689032)
 
 
+## Libyco-Punic Mausoleum of Dougga (Q1146714)
+[https://www.wikidata.org/wiki/Q1146714](https://www.wikidata.org/wiki/Q1146714)  
+
+### alignments:
+ - [Libyco-Punic Mausoleum of Dougga](https://pleiades.stoa.org/places/887623806)
+
+
 ## Licates (Q1824839)
 [https://www.wikidata.org/wiki/Q1824839](https://www.wikidata.org/wiki/Q1824839)  
 
@@ -28599,6 +28634,13 @@
 
 ### alignments:
  - [Odeon at Aphrodisias](https://pleiades.stoa.org/places/463141627)
+
+
+## Odeon hill and park of the Roman villas of Carthage (Q2983443)
+[https://www.wikidata.org/wiki/Q2983443](https://www.wikidata.org/wiki/Q2983443)  
+
+### alignments:
+ - [Park of the Roman Villas at Carthage](https://pleiades.stoa.org/places/719445553)
 
 
 ## Odeon in Ptolemais (Q70772393)
@@ -60698,6 +60740,13 @@
  - [Tulul al-Baqarat](https://pleiades.stoa.org/places/698215287)
 
 
+## Uaithni (Q3547599)
+[https://www.wikidata.org/wiki/Q3547599](https://www.wikidata.org/wiki/Q3547599)  
+
+### alignments:
+ - [Auteinoi](https://pleiades.stoa.org/places/20401)
+
+
 ## Uarakos (Q6155157)
 [https://www.wikidata.org/wiki/Q6155157](https://www.wikidata.org/wiki/Q6155157)  
 
@@ -63722,6 +63771,13 @@
 
 ### alignments:
  - [Ägelmoos](https://pleiades.stoa.org/places/80236838)
+
+
+## Åby (Q270811)
+[https://www.wikidata.org/wiki/Q270811](https://www.wikidata.org/wiki/Q270811)  
+
+### alignments:
+ - [Åby](https://pleiades.stoa.org/places/20387)
 
 
 ## Çankırı (Q209925)
