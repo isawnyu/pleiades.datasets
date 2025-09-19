@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2229 alignments exist in _Pleiades_ place references as of 2025-09-18. The following list of alignments is grouped by zotkey.
+2231 alignments exist in _Pleiades_ place references as of 2025-09-19. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13199,6 +13199,13 @@
  - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
 
 
+## 8B2 (Talbert 2131)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2131.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2131.html)  
+
+### alignments:
+ - [Tattaios](https://pleiades.stoa.org/places/511431)
+
+
 ## 8B2 (Talbert 2192)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2192.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2192.html)  
 
@@ -13295,6 +13302,13 @@
 
 ### alignments:
  - [Prusias ad Hypium/Kieros](https://pleiades.stoa.org/places/845049)
+
+
+## 8B3 (Talbert 2132)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2132.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2132.html)  
+
+### alignments:
+ - [Dableis](https://pleiades.stoa.org/places/844900)
 
 
 ## 8B3 (Talbert 2133)

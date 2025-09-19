@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4655 alignments exist in _Pleiades_ place references as of 2025-09-18. The following list of alignments is grouped by zotkey.
+4656 alignments exist in _Pleiades_ place references as of 2025-09-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -21003,6 +21003,13 @@
 
 ### alignments:
  - [Caenophrurium](https://pleiades.stoa.org/places/511199)
+
+
+## GEO ID 40556: Tattaios (Arıcaklar)
+[https://www.trismegistos.org/place/40556](https://www.trismegistos.org/place/40556)  
+
+### alignments:
+ - [Tattaios](https://pleiades.stoa.org/places/511431)
 
 
 ## GEO ID 40559: Dadastana (Karahisar)

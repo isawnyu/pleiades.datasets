@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9125 alignments exist in _Pleiades_ place references as of 2025-09-18. The following list of alignments is grouped by zotkey.
+9140 alignments exist in _Pleiades_ place references as of 2025-09-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -570,6 +570,13 @@
  - [Catacombe Ad Decimum](https://pleiades.stoa.org/places/484666730)
 
 
+## Ad Ficum (Q104904298)
+[https://www.wikidata.org/wiki/Q104904298](https://www.wikidata.org/wiki/Q104904298)  
+
+### alignments:
+ - [Ad Ficum](https://pleiades.stoa.org/places/363914)
+
+
 ## Ad Fines (Q135190142)
 [https://www.wikidata.org/wiki/Q135190142](https://www.wikidata.org/wiki/Q135190142)  
 
@@ -596,6 +603,13 @@
 
 ### alignments:
  - [Ad Mensulas](https://pleiades.stoa.org/places/416768)
+
+
+## Ad Palmam (Q105407372)
+[https://www.wikidata.org/wiki/Q105407372](https://www.wikidata.org/wiki/Q105407372)  
+
+### alignments:
+ - [Ad Palmam](https://pleiades.stoa.org/places/344285)
 
 
 ## Ad Pirum (Q4678175)
@@ -3797,6 +3811,13 @@
  - [La Cuma, Monte Rinaldo](https://pleiades.stoa.org/places/413109)
 
 
+## Area X, Sidi Khrebish (Q104904106)
+[https://www.wikidata.org/wiki/Q104904106](https://www.wikidata.org/wiki/Q104904106)  
+
+### alignments:
+ - [So-called Area X in Berenike](https://pleiades.stoa.org/places/304296863)
+
+
 ## Arechi Castle (Q1174435)
 [https://www.wikidata.org/wiki/Q1174435](https://www.wikidata.org/wiki/Q1174435)  
 
@@ -4974,6 +4995,13 @@
  - [Autessiodurum](https://pleiades.stoa.org/places/138206)
 
 
+## Avaldsnes (Q790084)
+[https://www.wikidata.org/wiki/Q790084](https://www.wikidata.org/wiki/Q790084)  
+
+### alignments:
+ - [Avaldsnes](https://pleiades.stoa.org/places/20403)
+
+
 ## Avallon (Q207572)
 [https://www.wikidata.org/wiki/Q207572](https://www.wikidata.org/wiki/Q207572)  
 
@@ -5364,6 +5392,13 @@
 
 ### alignments:
  - [Bactrus?/Zariaspis? (river)](https://pleiades.stoa.org/places/59726)
+
+
+## Balline (Q21556435)
+[https://www.wikidata.org/wiki/Q21556435](https://www.wikidata.org/wiki/Q21556435)  
+
+### alignments:
+ - [Balline](https://pleiades.stoa.org/places/20406)
 
 
 ## Balmuildy Roman fort (Q48799919)
@@ -6324,6 +6359,13 @@
 
 ### alignments:
  - [Berenice/Berenike](https://pleiades.stoa.org/places/785986)
+
+
+## Berenice, Cyrenica (Q41876951)
+[https://www.wikidata.org/wiki/Q41876951](https://www.wikidata.org/wiki/Q41876951)  
+
+### alignments:
+ - [Berenice](https://pleiades.stoa.org/places/373757)
 
 
 ## Berenike (Q4891275)
@@ -13066,6 +13108,13 @@
  - [Danebury Hill Fort](https://pleiades.stoa.org/places/834603595)
 
 
+## Danes (Q877429)
+[https://www.wikidata.org/wiki/Q877429](https://www.wikidata.org/wiki/Q877429)  
+
+### alignments:
+ - [Dani](https://pleiades.stoa.org/places/20444)
+
+
 ## Dangstetten (Q2179590)
 [https://www.wikidata.org/wiki/Q2179590](https://www.wikidata.org/wiki/Q2179590)  
 
@@ -13727,6 +13776,13 @@
  - [Doliche](https://pleiades.stoa.org/places/491576)
 
 
+## Dolmen of the Four Maols (Q1235890)
+[https://www.wikidata.org/wiki/Q1235890](https://www.wikidata.org/wiki/Q1235890)  
+
+### alignments:
+ - [Dolmen of the four Maols](https://pleiades.stoa.org/places/474257195)
+
+
 ## Dolno Linevo (Q2457406)
 [https://www.wikidata.org/wiki/Q2457406](https://www.wikidata.org/wiki/Q2457406)  
 
@@ -14271,6 +14327,13 @@
 
 ### alignments:
  - [East Building](https://pleiades.stoa.org/places/337294882)
+
+
+## Eastern Galindians (Q17276517)
+[https://www.wikidata.org/wiki/Q17276517](https://www.wikidata.org/wiki/Q17276517)  
+
+### alignments:
+ - [Galindai](https://pleiades.stoa.org/places/20464)
 
 
 ## Ebingen (Q320960)
@@ -14951,6 +15014,13 @@
 
 ### alignments:
  - [Erchie](https://pleiades.stoa.org/places/442577)
+
+
+## Erdini (Q5385293)
+[https://www.wikidata.org/wiki/Q5385293](https://www.wikidata.org/wiki/Q5385293)  
+
+### alignments:
+ - [Erdinoi](https://pleiades.stoa.org/places/20456)
 
 
 ## Erebuni Fortress (Q733610)
@@ -16358,6 +16428,7 @@
 
 ### alignments:
  - [Gangani](https://pleiades.stoa.org/places/358920710)
+ - [Ganganoi](https://pleiades.stoa.org/places/20466)
 
 
 ## Ganges (Q5089)
@@ -17963,6 +18034,13 @@
 
 ### alignments:
  - [Hatra](https://pleiades.stoa.org/places/894004)
+
+
+## Havor (Q18290526)
+[https://www.wikidata.org/wiki/Q18290526](https://www.wikidata.org/wiki/Q18290526)  
+
+### alignments:
+ - [Havor](https://pleiades.stoa.org/places/20482)
 
 
 ## Hawara (Q26237)
@@ -19596,6 +19674,13 @@
  - [Ilkley (Verbeia?)](https://pleiades.stoa.org/places/89205)
 
 
+## Illerup Ådal (Q392467)
+[https://www.wikidata.org/wiki/Q392467](https://www.wikidata.org/wiki/Q392467)  
+
+### alignments:
+ - [Illerup Ådal](https://pleiades.stoa.org/places/20492)
+
+
 ## Illyricum (Q753824)
 [https://www.wikidata.org/wiki/Q753824](https://www.wikidata.org/wiki/Q753824)  
 
@@ -20121,6 +20206,13 @@
  - [Iuvavum](https://pleiades.stoa.org/places/187432)
 
 
+## Iverni (Q2274934)
+[https://www.wikidata.org/wiki/Q2274934](https://www.wikidata.org/wiki/Q2274934)  
+
+### alignments:
+ - [Iouernoi](https://pleiades.stoa.org/places/20494)
+
+
 ## Ivrea (Q9409)
 [https://www.wikidata.org/wiki/Q9409](https://www.wikidata.org/wiki/Q9409)  
 
@@ -20413,6 +20505,13 @@
 
 ### alignments:
  - [Iustiniana Prima](https://pleiades.stoa.org/places/207193)
+
+
+## Jutes (Q154845)
+[https://www.wikidata.org/wiki/Q154845](https://www.wikidata.org/wiki/Q154845)  
+
+### alignments:
+ - [[Iutae]](https://pleiades.stoa.org/places/20497)
 
 
 ## K5 Barracks (Q122158554)
@@ -56376,6 +56475,13 @@
 
 ### alignments:
  - [Tatev](https://pleiades.stoa.org/places/874798111)
+
+
+## Tattaios (Q85805280)
+[https://www.wikidata.org/wiki/Q85805280](https://www.wikidata.org/wiki/Q85805280)  
+
+### alignments:
+ - [Tattaios](https://pleiades.stoa.org/places/511431)
 
 
 ## Taurasia (Q11950970)
