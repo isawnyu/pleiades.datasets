@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9140 alignments exist in _Pleiades_ place references as of 2025-09-19. The following list of alignments is grouped by zotkey.
+9152 alignments exist in _Pleiades_ place references as of 2025-09-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -230,6 +230,13 @@
 
 ### alignments:
  - [Adonis (river)](https://pleiades.stoa.org/places/668180)
+
+
+## Abric Pizarro (Q130085649)
+[https://www.wikidata.org/wiki/Q130085649](https://www.wikidata.org/wiki/Q130085649)  
+
+### alignments:
+ - [Abric Pizarro](https://pleiades.stoa.org/places/451216167)
 
 
 ## Abthugni (Q334495)
@@ -5191,6 +5198,13 @@
  - [Meduacus Minor (river)](https://pleiades.stoa.org/places/393452)
 
 
+## Bactra (Q133883628)
+[https://www.wikidata.org/wiki/Q133883628](https://www.wikidata.org/wiki/Q133883628)  
+
+### alignments:
+ - [Bactra/Zariaspa](https://pleiades.stoa.org/places/961886)
+
+
 ## Bactria (Q132646)
 [https://www.wikidata.org/wiki/Q132646](https://www.wikidata.org/wiki/Q132646)  
 
@@ -5380,11 +5394,18 @@
  - [Balgatia](https://pleiades.stoa.org/places/844873)
 
 
-## Balkh (Q182159)
-[https://www.wikidata.org/wiki/Q182159](https://www.wikidata.org/wiki/Q182159)  
+## Balineum Ampelidis et Dianes (Q107380010)
+[https://www.wikidata.org/wiki/Q107380010](https://www.wikidata.org/wiki/Q107380010)  
 
 ### alignments:
- - [Bactra/Zariaspa](https://pleiades.stoa.org/places/961886)
+ - [Balineum Ampelidis et Dianes](https://pleiades.stoa.org/places/455817201)
+
+
+## balineum Bolani (Q136339844)
+[https://www.wikidata.org/wiki/Q136339844](https://www.wikidata.org/wiki/Q136339844)  
+
+### alignments:
+ - [balineum Bolani](https://pleiades.stoa.org/places/684387488)
 
 
 ## Balkh River (Q2881031)
@@ -7087,6 +7108,13 @@
 
 ### alignments:
  - [Bokerley Dyke](https://pleiades.stoa.org/places/409109463)
+
+
+## Bolae (Q3641694)
+[https://www.wikidata.org/wiki/Q3641694](https://www.wikidata.org/wiki/Q3641694)  
+
+### alignments:
+ - [Bolani](https://pleiades.stoa.org/places/438696)
 
 
 ## Bolaman Çayı (Q19275597)
@@ -19814,6 +19842,13 @@
  - [Insubres](https://pleiades.stoa.org/places/383678)
 
 
+## insula Bolani (Q135253651)
+[https://www.wikidata.org/wiki/Q135253651](https://www.wikidata.org/wiki/Q135253651)  
+
+### alignments:
+ - [Insula Bolani](https://pleiades.stoa.org/places/380560976)
+
+
 ## Insula M1 (Ephesus) (Q104641899)
 [https://www.wikidata.org/wiki/Q104641899](https://www.wikidata.org/wiki/Q104641899)  
 
@@ -20540,6 +20575,13 @@
 
 ### alignments:
  - [Kabaköy](https://pleiades.stoa.org/places/857175)
+
+
+## Kablow (Q1720833)
+[https://www.wikidata.org/wiki/Q1720833](https://www.wikidata.org/wiki/Q1720833)  
+
+### alignments:
+ - [Kablow](https://pleiades.stoa.org/places/20501)
 
 
 ## Kabul River (Q8515)
@@ -21803,6 +21845,13 @@
  - [Croto(n)](https://pleiades.stoa.org/places/452317)
 
 
+## Krusza Zamkowa (Q6439455)
+[https://www.wikidata.org/wiki/Q6439455](https://www.wikidata.org/wiki/Q6439455)  
+
+### alignments:
+ - [Krusza Zamkowa](https://pleiades.stoa.org/places/20515)
+
+
 ## Ksar el Kaoua (Q20726070)
 [https://www.wikidata.org/wiki/Q20726070](https://www.wikidata.org/wiki/Q20726070)  
 
@@ -21843,6 +21892,13 @@
 
 ### alignments:
  - [Dargoidos? (river)](https://pleiades.stoa.org/places/59789)
+
+
+## Kungsgården (Q2264258)
+[https://www.wikidata.org/wiki/Q2264258](https://www.wikidata.org/wiki/Q2264258)  
+
+### alignments:
+ - [Kungsgården](https://pleiades.stoa.org/places/20516)
 
 
 ## Kuntillet Ajrud (Q1399030)
@@ -22173,6 +22229,13 @@
 
 ### alignments:
  - [Lacetani](https://pleiades.stoa.org/places/246458)
+
+
+## Lachmirowice (Q11752547)
+[https://www.wikidata.org/wiki/Q11752547](https://www.wikidata.org/wiki/Q11752547)  
+
+### alignments:
+ - [Lachmirowice](https://pleiades.stoa.org/places/20519)
 
 
 ## Lacobriga (Q5668237)
@@ -22985,6 +23048,13 @@
 
 ### alignments:
  - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
+
+
+## Lemovii (Q256886)
+[https://www.wikidata.org/wiki/Q256886](https://www.wikidata.org/wiki/Q256886)  
+
+### alignments:
+ - [Lemovii?](https://pleiades.stoa.org/places/20523)
 
 
 ## Lentienses (Q602906)
@@ -27263,6 +27333,13 @@
 
 ### alignments:
  - [Nagara/Dionysopolis](https://pleiades.stoa.org/places/59942)
+
+
+## Nagnatae (Q3822987)
+[https://www.wikidata.org/wiki/Q3822987](https://www.wikidata.org/wiki/Q3822987)  
+
+### alignments:
+ - [‘Magnatai’](https://pleiades.stoa.org/places/20539)
 
 
 ## Nahal Oren (Q4025912)
@@ -33761,13 +33838,6 @@
  - [City Wall of Dura-Europos](https://pleiades.stoa.org/places/15685985)
 
 
-## Q107380010: Balineum Ampelidis
-[https://www.wikidata.org/wiki/Q107380010](https://www.wikidata.org/wiki/Q107380010)  
-
-### alignments:
- - [Balineum Ampelidis et Dianes](https://pleiades.stoa.org/places/455817201)
-
-
 ## Q107859345: Caput Africae
 [https://www.wikidata.org/wiki/Q107859345](https://www.wikidata.org/wiki/Q107859345)  
 
@@ -35224,6 +35294,13 @@
 
 ### alignments:
  - [Argolis](https://pleiades.stoa.org/places/570104)
+
+
+## Q12661837
+[https://www.wikidata.org/wiki/Q12661837](https://www.wikidata.org/wiki/Q12661837)  
+
+### alignments:
+ - [Kurmaičiai](https://pleiades.stoa.org/places/20517)
 
 
 ## Q1266234: Basilica Ulpia
@@ -64003,6 +64080,13 @@
 
 ### alignments:
  - [Ishān Dulaiyhim](https://pleiades.stoa.org/places/531025067)
+
+
+## Łęg Piekarski (Q8081300)
+[https://www.wikidata.org/wiki/Q8081300](https://www.wikidata.org/wiki/Q8081300)  
+
+### alignments:
+ - [Łęg Piekarski](https://pleiades.stoa.org/places/20521)
 
 
 ## Šitbořice (Q391753)

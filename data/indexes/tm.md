@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4656 alignments exist in _Pleiades_ place references as of 2025-09-19. The following list of alignments is grouped by zotkey.
+4657 alignments exist in _Pleiades_ place references as of 2025-09-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22998,6 +22998,13 @@
 
 ### alignments:
  - [Ramista](https://pleiades.stoa.org/places/197468)
+
+
+## GEO ID 41636: Lugii
+[https://www.trismegistos.org/place/41636](https://www.trismegistos.org/place/41636)  
+
+### alignments:
+ - [Lugii](https://pleiades.stoa.org/places/20533)
 
 
 ## GEO ID 41638: Venedi
