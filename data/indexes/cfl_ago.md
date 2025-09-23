@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-435 alignments exist in _Pleiades_ place references as of 2025-09-22. The following list of alignments is grouped by zotkey.
+436 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2237,6 +2237,13 @@
 
 ### alignments:
  - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
+
+
+## Toponyme 35994: Zakynthos, Zante-
+[https://chronique.efa.gr/?r=topo_public&id=35994](https://chronique.efa.gr/?r=topo_public&id=35994)  
+
+### alignments:
+ - [Zacynthus (island)](https://pleiades.stoa.org/places/531155)
 
 
 ## Toponyme 36010: Lamia

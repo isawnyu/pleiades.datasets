@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9152 alignments exist in _Pleiades_ place references as of 2025-09-22. The following list of alignments is grouped by zotkey.
+9158 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -371,6 +371,13 @@
 
 ### alignments:
  - [Accienses](https://pleiades.stoa.org/places/438658)
+
+
+## Accilaeum (Q111285560)
+[https://www.wikidata.org/wiki/Q111285560](https://www.wikidata.org/wiki/Q111285560)  
+
+### alignments:
+ - [Akkilaion](https://pleiades.stoa.org/places/614583)
 
 
 ## Accua (Q56279701)
@@ -4363,6 +4370,13 @@
 
 ### alignments:
  - [Asine](https://pleiades.stoa.org/places/570126)
+
+
+## Asklepieion of Messene (Q107162500)
+[https://www.wikidata.org/wiki/Q107162500](https://www.wikidata.org/wiki/Q107162500)  
+
+### alignments:
+ - [Asklepieion of Messene](https://pleiades.stoa.org/places/52154983)
 
 
 ## Asklepieion of Pheneos (Q111381592)
@@ -27748,6 +27762,13 @@
  - [Kanope (island)](https://pleiades.stoa.org/places/727136)
 
 
+## Neman (Q5622)
+[https://www.wikidata.org/wiki/Q5622](https://www.wikidata.org/wiki/Q5622)  
+
+### alignments:
+ - [Roudon (river)](https://pleiades.stoa.org/places/20586)
+
+
 ## Nemrik 9 (Q13708140)
 [https://www.wikidata.org/wiki/Q13708140](https://www.wikidata.org/wiki/Q13708140)  
 
@@ -31367,6 +31388,13 @@
  - [Pityous](https://pleiades.stoa.org/places/857283)
 
 
+## Piła (Q556200)
+[https://www.wikidata.org/wiki/Q556200](https://www.wikidata.org/wiki/Q556200)  
+
+### alignments:
+ - [Piła](https://pleiades.stoa.org/places/20576)
+
+
 ## Plane Island (Q2742738)
 [https://www.wikidata.org/wiki/Q2742738](https://www.wikidata.org/wiki/Q2742738)  
 
@@ -33773,13 +33801,6 @@
 
 ### alignments:
  - [Via Claudia Valeria](https://pleiades.stoa.org/places/552440217)
-
-
-## Q107162500: Asklepieion of Messene
-[https://www.wikidata.org/wiki/Q107162500](https://www.wikidata.org/wiki/Q107162500)  
-
-### alignments:
- - [Asklepieion of Messene](https://pleiades.stoa.org/places/52154983)
 
 
 ## Q107219221: Mithräum Riegel
@@ -50756,6 +50777,13 @@
  - [Sabrina (river)](https://pleiades.stoa.org/places/79666)
 
 
+## River Shannon (Q192820)
+[https://www.wikidata.org/wiki/Q192820](https://www.wikidata.org/wiki/Q192820)  
+
+### alignments:
+ - [Senos (river)](https://pleiades.stoa.org/places/20600)
+
+
 ## River Taff (Q19700)
 [https://www.wikidata.org/wiki/Q19700](https://www.wikidata.org/wiki/Q19700)  
 
@@ -58136,6 +58164,13 @@
  - [Roman theater (Haidra)](https://pleiades.stoa.org/places/24892247)
 
 
+## Theatre of Bulla Regia (Q42755003)
+[https://www.wikidata.org/wiki/Q42755003](https://www.wikidata.org/wiki/Q42755003)  
+
+### alignments:
+ - [Theater at Bulla Regia](https://pleiades.stoa.org/places/379945241)
+
+
 ## Theatre of Chemtou (Q42754548)
 [https://www.wikidata.org/wiki/Q42754548](https://www.wikidata.org/wiki/Q42754548)  
 
@@ -63919,6 +63954,13 @@
 
 ### alignments:
  - [Zygouries (Corinthia)](https://pleiades.stoa.org/places/757208100)
+
+
+## Zygris (Q134427999)
+[https://www.wikidata.org/wiki/Q134427999](https://www.wikidata.org/wiki/Q134427999)  
+
+### alignments:
+ - [Zygris (Marsa Baqqush)](https://pleiades.stoa.org/places/716656)
 
 
 ## Zúglio (Samian Ware Discovery Site) (Q103200459)

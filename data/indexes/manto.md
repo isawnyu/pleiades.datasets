@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-731 alignments exist in _Pleiades_ place references as of 2025-09-22. The following list of alignments is grouped by zotkey.
+732 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3957,6 +3957,13 @@
 
 ### alignments:
  - [Sirenes/Seirenoussai (islands)](https://pleiades.stoa.org/places/433124)
+
+
+## 9364186: Zacynthos (island)
+[https://resource.manto.unh.edu/9364186](https://resource.manto.unh.edu/9364186)  
+
+### alignments:
+ - [Zacynthus (island)](https://pleiades.stoa.org/places/531155)
 
 
 ## 9367780: River Enipeus (Elis)
