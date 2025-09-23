@@ -135,6 +135,8 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/315066",
         "https://pleiades.stoa.org/places/314899",
+        "https://pleiades.stoa.org/places/379945241",
+        "https://pleiades.stoa.org/places/974544554",
         "https://pleiades.stoa.org/places/55568842"
     ],
     "contributors": [
@@ -191,24 +193,6 @@
     "description": "A center for Numidian royalty, Bulla Regia first became an oppidum liberum in the reign of Augustus and then a colony under Hadrian. The site, which boasts significant archaeological remains, lies in modern Tunisia, about 5km north of the modern city of Jendouba. The site was reportedly known in the 19th century as Hammam-Darradji. Today, a small modern settlement named Aïn Babouch abuts the site (not to be confused with Babouch, which lies further north along the border with Algeria).",
     "details": "<p>The Barrington Atlas Directory notes: Hammam-Darradji</p>",
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    8.754111,
-                    36.560043
-                ],
-                "type": "Point"
-            },
-            "id": "dare-location",
-            "properties": {
-                "description": "Representative point location, site precision",
-                "link": "https://pleiades.stoa.org/places/314912/dare-location",
-                "location_precision": "precise",
-                "snippet": "Settlement; 330 BC - AD 640",
-                "title": "DARE Location"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
@@ -554,6 +538,11 @@
     ],
     "history": [
         {
+            "comment": "add nomisma, add EDH Geographic Database G000670: Bulla Regia – Hammam Darradji",
+            "modified": "2025-09-22T21:29:21Z",
+            "modifiedBy": "jbecker"
+        },
+        {
             "comment": "create DARMC citation to preserve cross-project linkage after retracting DARMC location",
             "modified": "2023-05-05T21:33:11Z",
             "modifiedBy": "thomase"
@@ -661,107 +650,6 @@
     ],
     "id": "314912",
     "locations": [
-        {
-            "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
-                }
-            ],
-            "contributors": [],
-            "created": "2012-10-20T20:03:34Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
-                }
-            ],
-            "description": "Representative point location, site precision",
-            "details": "",
-            "end": 640,
-            "featureType": [
-                "settlement"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "geometry": {
-                "coordinates": [
-                    8.754111,
-                    36.560043
-                ],
-                "type": "Point"
-            },
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2012-10-20T20:03:36Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2012-10-20T20:03:36Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T20:03:36Z",
-                    "modifiedBy": "sgillies"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2012-10-20T20:03:35Z",
-                    "modifiedBy": "sgillies"
-                }
-            ],
-            "id": "dare-location",
-            "locationType": [
-                "representative"
-            ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
-            ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
-            "references": [
-                {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
-                }
-            ],
-            "review_state": "published",
-            "start": -330,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/314912/dare-location"
-        },
         {
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
@@ -1277,7 +1165,14 @@
                 }
             ],
             "attested": "",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2021-12-15T12:10:57Z",
             "creators": [
                 {
@@ -1291,6 +1186,11 @@
             "details": "",
             "end": 1899,
             "history": [
+                {
+                    "comment": "update RE Bulla 1 (Hermann Dessau)",
+                    "modified": "2025-09-22T21:30:15Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2021-12-16T00:42:21Z",
@@ -1326,7 +1226,7 @@
                     "accessURI": "https://de.wikisource.org/wiki/RE:Bulla_1",
                     "alternateURI": "",
                     "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-                    "citationDetail": "Bulla 1",
+                    "citationDetail": "Bulla 1 (Hermann Dessau)",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
                     "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
                     "otherIdentifier": "",
@@ -1505,11 +1405,33 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://nomisma.org/id/bulla_regia",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "citationDetail": "Bulla Regia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "nomisma.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://edh.ub.uni-heidelberg.de/edh/geographie/G000670",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PY3AZV8F",
+            "citationDetail": "Geographic Database G000670: Bulla Regia – Hammam Darradji",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDH",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        8.754327777203402,
-        36.55941984457576
+        8.754544554406804,
+        36.55879668915152
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
