@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3759 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
+3762 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3485,6 +3485,13 @@
  - [Asea](https://pleiades.stoa.org/places/570122)
 
 
+## Asea Vigla temple (Arkadia) 1 Evandro
+[https://topostext.org/place/374223SZeu](https://topostext.org/place/374223SZeu)  
+
+### alignments:
+ - [Asea Vigla](https://pleiades.stoa.org/places/673950517)
+
+
 ## Ashqelon (Israel)
 [https://topostext.org/place/317345UAsh](https://topostext.org/place/317345UAsh)  
 
@@ -4855,6 +4862,13 @@
 
 ### alignments:
  - [Borbetomagus](https://pleiades.stoa.org/places/108820)
+
+
+## Boreion mountain (Arkadia) 1 Kravari/Voreion
+[https://topostext.org/place/374223LBor](https://topostext.org/place/374223LBor)  
+
+### alignments:
+ - [Boreion (mountain)](https://pleiades.stoa.org/places/570158)
 
 
 ## Bormiskos (Thessaloniki)
@@ -10177,6 +10191,13 @@
 
 ### alignments:
  - [Hexapyla](https://pleiades.stoa.org/places/462241)
+
+
+## Hibernia/Ierne (Europe) 41 Ireland - Ιβερνία
+[https://topostext.org/place/533-75RHib](https://topostext.org/place/533-75RHib)  
+
+### alignments:
+ - [Hibernia](https://pleiades.stoa.org/places/20487)
 
 
 ## Hiera (Italy)

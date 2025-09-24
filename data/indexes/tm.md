@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4657 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
+4667 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -148,6 +148,13 @@
 
 ### alignments:
  - [Auara](https://pleiades.stoa.org/places/746716)
+
+
+## Geo 11138: Zygritai
+[https://www.trismegistos.org/place/11138](https://www.trismegistos.org/place/11138)  
+
+### alignments:
+ - [Zygritai](https://pleiades.stoa.org/places/716658)
 
 
 ## Geo 1122: Knosos
@@ -9001,6 +9008,41 @@
  - [Psenyris](https://pleiades.stoa.org/places/737023)
 
 
+## GEO ID 19588: Regia
+[https://www.trismegistos.org/place/19588](https://www.trismegistos.org/place/19588)  
+
+### alignments:
+ - [Regia](https://pleiades.stoa.org/places/21920)
+
+
+## GEO ID 19589: Raiba
+[https://www.trismegistos.org/place/19589](https://www.trismegistos.org/place/19589)  
+
+### alignments:
+ - [Raiba](https://pleiades.stoa.org/places/21918)
+
+
+## GEO ID 19590: Laberos
+[https://www.trismegistos.org/place/19590](https://www.trismegistos.org/place/19590)  
+
+### alignments:
+ - [Laberos](https://pleiades.stoa.org/places/83854)
+
+
+## GEO ID 19591: Makolikon
+[https://www.trismegistos.org/place/19591](https://www.trismegistos.org/place/19591)  
+
+### alignments:
+ - [Makolikon](https://pleiades.stoa.org/places/21910)
+
+
+## GEO ID 19595: Ebudae (Inner Hebrides)
+[https://www.trismegistos.org/place/19595](https://www.trismegistos.org/place/19595)  
+
+### alignments:
+ - [(H)Ebudes (islands)](https://pleiades.stoa.org/places/89198)
+
+
 ## GEO ID 19600: Epidion (Kintyre)
 [https://www.trismegistos.org/place/19600](https://www.trismegistos.org/place/19600)  
 
@@ -9426,6 +9468,13 @@
 
 ### alignments:
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
+## GEO ID 19866: Frisii
+[https://www.trismegistos.org/place/19866](https://www.trismegistos.org/place/19866)  
+
+### alignments:
+ - [Frisii](https://pleiades.stoa.org/places/98962)
 
 
 ## GEO ID 19875: Caurium (Coria)
@@ -11710,6 +11759,13 @@
 
 ### alignments:
  - [Toou](https://pleiades.stoa.org/places/741640)
+
+
+## GEO ID 24520: Flevum (Velsen)
+[https://www.trismegistos.org/place/24520](https://www.trismegistos.org/place/24520)  
+
+### alignments:
+ - [Velsen](https://pleiades.stoa.org/places/99058)
 
 
 ## GEO ID 24537: Matilo (Leiden)
@@ -21327,6 +21383,13 @@
  - [Salioclita?](https://pleiades.stoa.org/places/109318)
 
 
+## GEO ID 40787: Teudurum (Tüddern)
+[https://www.trismegistos.org/place/40787](https://www.trismegistos.org/place/40787)  
+
+### alignments:
+ - [Teudurum?](https://pleiades.stoa.org/places/109373)
+
+
 ## GEO ID 40789: Condate (Montereau-Fault-Yonne)
 [https://www.trismegistos.org/place/40789](https://www.trismegistos.org/place/40789)  
 
@@ -30899,6 +30962,13 @@
 
 ### alignments:
  - [Comani](https://pleiades.stoa.org/places/151768)
+
+
+## GEO ID 63715: Memini
+[https://www.trismegistos.org/place/63715](https://www.trismegistos.org/place/63715)  
+
+### alignments:
+ - [Memini](https://pleiades.stoa.org/places/148132)
 
 
 ## GEO ID 63766: Ameriola

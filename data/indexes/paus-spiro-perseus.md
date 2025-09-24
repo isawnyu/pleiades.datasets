@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-506 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
+507 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3359,6 +3359,13 @@
 ### alignments:
  - [Athenaion (settlement)](https://pleiades.stoa.org/places/570137)
  - [Oresthasion](https://pleiades.stoa.org/places/570536)
+
+
+## 8.44.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.44.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.44.4)  
+
+### alignments:
+ - [Boreion (mountain)](https://pleiades.stoa.org/places/570158)
 
 
 ## 8.44.5

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-732 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
+734 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4764,6 +4764,13 @@
  - [Pharos](https://pleiades.stoa.org/places/727197)
 
 
+## 9721296: Canopos (Egypt)
+[https://resource.manto.unh.edu/9721296](https://resource.manto.unh.edu/9721296)  
+
+### alignments:
+ - [Canopus](https://pleiades.stoa.org/places/727097)
+
+
 ## 9721323: Naples (Italy)
 [https://resource.manto.unh.edu/9721323](https://resource.manto.unh.edu/9721323)  
 
@@ -4944,6 +4951,13 @@
 
 ### alignments:
  - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
+
+
+## 9882550: Cyllene (Elis)
+[https://resource.manto.unh.edu/9882550](https://resource.manto.unh.edu/9882550)  
+
+### alignments:
+ - [Kyllene](https://pleiades.stoa.org/places/570390)
 
 
 ## 9904053: Scandeia (Cythera)

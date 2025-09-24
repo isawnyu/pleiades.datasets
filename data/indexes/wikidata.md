@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9158 alignments exist in _Pleiades_ place references as of 2025-09-23. The following list of alignments is grouped by zotkey.
+9178 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -195,6 +195,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Abobrica (Q5655549)
+[https://www.wikidata.org/wiki/Q5655549](https://www.wikidata.org/wiki/Q5655549)  
+
+### alignments:
+ - [Avobriga/Abobrica](https://pleiades.stoa.org/places/260499)
 
 
 ## Abodiacum (Q56277321)
@@ -4295,6 +4302,13 @@
  - [Asea](https://pleiades.stoa.org/places/570122)
 
 
+## Asea Vigla temple (Q111082717)
+[https://www.wikidata.org/wiki/Q111082717](https://www.wikidata.org/wiki/Q111082717)  
+
+### alignments:
+ - [Asea Vigla](https://pleiades.stoa.org/places/673950517)
+
+
 ## Ashdod (Q171639)
 [https://www.wikidata.org/wiki/Q171639](https://www.wikidata.org/wiki/Q171639)  
 
@@ -7236,6 +7250,13 @@
  - [Bordighera](https://pleiades.stoa.org/places/157823)
 
 
+## Boreion Pr. (Q30302678)
+[https://www.wikidata.org/wiki/Q30302678](https://www.wikidata.org/wiki/Q30302678)  
+
+### alignments:
+ - [Boreion Pr.](https://pleiades.stoa.org/places/49925)
+
+
 ## Borgo San Dalmazzo (Q18372)
 [https://www.wikidata.org/wiki/Q18372](https://www.wikidata.org/wiki/Q18372)  
 
@@ -8464,6 +8485,13 @@
 
 ### alignments:
  - [Canonium](https://pleiades.stoa.org/places/79373)
+
+
+## Canopus (Q1145180)
+[https://www.wikidata.org/wiki/Q1145180](https://www.wikidata.org/wiki/Q1145180)  
+
+### alignments:
+ - [Canopus](https://pleiades.stoa.org/places/727097)
 
 
 ## Canopus of the Villa Adriana at Tivoli (Q100718316)
@@ -10123,6 +10151,13 @@
 
 ### alignments:
  - [Aquae Mattiacorum](https://pleiades.stoa.org/places/108750)
+
+
+## Castrum Asciburgium (Q723019)
+[https://www.wikidata.org/wiki/Q723019](https://www.wikidata.org/wiki/Q723019)  
+
+### alignments:
+ - [Asciburgium](https://pleiades.stoa.org/places/108761)
 
 
 ## Castrum Boiodurum (Q2739859)
@@ -16143,6 +16178,13 @@
  - [Friniates](https://pleiades.stoa.org/places/403210)
 
 
+## Frisians (Q106416)
+[https://www.wikidata.org/wiki/Q106416](https://www.wikidata.org/wiki/Q106416)  
+
+### alignments:
+ - [Frisii](https://pleiades.stoa.org/places/98962)
+
+
 ## Frisiavones (Q2570658)
 [https://www.wikidata.org/wiki/Q2570658](https://www.wikidata.org/wiki/Q2570658)  
 
@@ -19842,6 +19884,13 @@
  - [Aenus (river)](https://pleiades.stoa.org/places/118547)
 
 
+## Inner Hebrides (Q81052)
+[https://www.wikidata.org/wiki/Q81052](https://www.wikidata.org/wiki/Q81052)  
+
+### alignments:
+ - [(H)Ebudes (islands)](https://pleiades.stoa.org/places/89198)
+
+
 ## Inscription de la Pierre Écrite (Q3151503)
 [https://www.wikidata.org/wiki/Q3151503](https://www.wikidata.org/wiki/Q3151503)  
 
@@ -20935,6 +20984,13 @@
  - [Kassala](https://pleiades.stoa.org/places/344411)
 
 
+## Kassiopi Fortress (1241003393)
+[https://www.wikidata.org/wiki/Q15297479](https://www.wikidata.org/wiki/Q15297479)  
+
+### alignments:
+ - [Kassiopi Castle](https://pleiades.stoa.org/places/749300429)
+
+
 ## Kasta tomb (Q18010006)
 [https://www.wikidata.org/wiki/Q18010006](https://www.wikidata.org/wiki/Q18010006)  
 
@@ -21822,6 +21878,13 @@
 
 ### alignments:
  - [Krathis (river)](https://pleiades.stoa.org/places/570381)
+
+
+## Kravari (Q112301773)
+[https://www.wikidata.org/wiki/Q112301773](https://www.wikidata.org/wiki/Q112301773)  
+
+### alignments:
+ - [Boreion (mountain)](https://pleiades.stoa.org/places/570158)
 
 
 ## Krioa (Q13422958)
@@ -22994,6 +23057,13 @@
  - [Lebedos/Ptolemais](https://pleiades.stoa.org/places/599754)
 
 
+## Leben (Q11931287)
+[https://www.wikidata.org/wiki/Q11931287](https://www.wikidata.org/wiki/Q11931287)  
+
+### alignments:
+ - [Leben](https://pleiades.stoa.org/places/589901)
+
+
 ## Lederata (Q3829351)
 [https://www.wikidata.org/wiki/Q3829351](https://www.wikidata.org/wiki/Q3829351)  
 
@@ -23120,6 +23190,13 @@
  - [Leros (island)](https://pleiades.stoa.org/places/599764)
 
 
+## Les Cluses (Q730422)
+[https://www.wikidata.org/wiki/Q730422](https://www.wikidata.org/wiki/Q730422)  
+
+### alignments:
+ - [L’Ecluse](https://pleiades.stoa.org/places/246375)
+
+
 ## Lescar (Q324551)
 [https://www.wikidata.org/wiki/Q324551](https://www.wikidata.org/wiki/Q324551)  
 
@@ -23237,6 +23314,13 @@
 
 ### alignments:
  - [Legio VII Gemina](https://pleiades.stoa.org/places/236512)
+
+
+## Li Schiavoni (Q108866979)
+[https://www.wikidata.org/wiki/Q108866979](https://www.wikidata.org/wiki/Q108866979)  
+
+### alignments:
+ - [Li Schiavoni (Nardò, Lecce)](https://pleiades.stoa.org/places/839402399)
 
 
 ## Libiopolis (Q65048881)
@@ -25169,6 +25253,13 @@
 
 ### alignments:
  - [Meluhha](https://pleiades.stoa.org/places/99829822)
+
+
+## Meminii (Q16664043)
+[https://www.wikidata.org/wiki/Q16664043](https://www.wikidata.org/wiki/Q16664043)  
+
+### alignments:
+ - [Memini](https://pleiades.stoa.org/places/148132)
 
 
 ## Menapii (Q659921)
@@ -27347,6 +27438,13 @@
 
 ### alignments:
  - [Nagara/Dionysopolis](https://pleiades.stoa.org/places/59942)
+
+
+## Nagnata (Q17011895)
+[https://www.wikidata.org/wiki/Q17011895](https://www.wikidata.org/wiki/Q17011895)  
+
+### alignments:
+ - [Magnata](https://pleiades.stoa.org/places/21909)
 
 
 ## Nagnatae (Q3822987)
@@ -34399,13 +34497,6 @@
  - [Tillya tepe](https://pleiades.stoa.org/places/961969)
 
 
-## Q1145180: Canopus
-[https://www.wikidata.org/wiki/Q1145180](https://www.wikidata.org/wiki/Q1145180)  
-
-### alignments:
- - [Canopus](https://pleiades.stoa.org/places/727097)
-
-
 ## Q1145802: Great Altar of Hercules
 [https://www.wikidata.org/wiki/Q1145802](https://www.wikidata.org/wiki/Q1145802)  
 
@@ -34719,13 +34810,6 @@
 
 ### alignments:
  - [Ithoria](https://pleiades.stoa.org/places/530907)
-
-
-## Q11931287: Leben
-[https://www.wikidata.org/wiki/Q11931287](https://www.wikidata.org/wiki/Q11931287)  
-
-### alignments:
- - [Leben](https://pleiades.stoa.org/places/589901)
 
 
 ## Q11931852: Libicii
@@ -48243,13 +48327,6 @@
  - [Nola](https://pleiades.stoa.org/places/432981)
 
 
-## Q723019: Castrum Asciburgium
-[https://www.wikidata.org/wiki/Q723019](https://www.wikidata.org/wiki/Q723019)  
-
-### alignments:
- - [Asciburgium](https://pleiades.stoa.org/places/108761)
-
-
 ## Q72425: Pozzuoli
 [https://www.wikidata.org/wiki/Q72425](https://www.wikidata.org/wiki/Q72425)  
 
@@ -50208,6 +50285,13 @@
 
 ### alignments:
  - [Reunia](https://pleiades.stoa.org/places/187528)
+
+
+## Raiba (Q21556414)
+[https://www.wikidata.org/wiki/Q21556414](https://www.wikidata.org/wiki/Q21556414)  
+
+### alignments:
+ - [Raiba](https://pleiades.stoa.org/places/21918)
 
 
 ## Rantidi (Q22985795)
@@ -57730,6 +57814,13 @@
  - [Tendeba](https://pleiades.stoa.org/places/599962)
 
 
+## Tenedos (Q65041740)
+[https://www.wikidata.org/wiki/Q65041740](https://www.wikidata.org/wiki/Q65041740)  
+
+### alignments:
+ - [Tenedos](https://pleiades.stoa.org/places/639138)
+
+
 ## Teneric plain (Q106880398)
 [https://www.wikidata.org/wiki/Q106880398](https://www.wikidata.org/wiki/Q106880398)  
 
@@ -61336,6 +61427,13 @@
  - [Valley of the Queens](https://pleiades.stoa.org/places/373939545)
 
 
+## Vallhagar (Q2509385)
+[https://www.wikidata.org/wiki/Q2509385](https://www.wikidata.org/wiki/Q2509385)  
+
+### alignments:
+ - [Vallhagar](https://pleiades.stoa.org/places/20633)
+
+
 ## Valvata (Q19851167)
 [https://www.wikidata.org/wiki/Q19851167](https://www.wikidata.org/wiki/Q19851167)  
 
@@ -62133,6 +62231,13 @@
 
 ### alignments:
  - [Tholey-Vareswald](https://pleiades.stoa.org/places/109377)
+
+
+## Vidivarii (Q1683065)
+[https://www.wikidata.org/wiki/Q1683065](https://www.wikidata.org/wiki/Q1683065)  
+
+### alignments:
+ - [Vidivarii](https://pleiades.stoa.org/places/20636)
 
 
 ## Vido (Q68605)
@@ -62955,6 +63060,13 @@
  - [Kerynitis (river)](https://pleiades.stoa.org/places/570355)
 
 
+## Vrangstrup Parish (Q2079922)
+[https://www.wikidata.org/wiki/Q2079922](https://www.wikidata.org/wiki/Q2079922)  
+
+### alignments:
+ - [Vrangstrup](https://pleiades.stoa.org/places/20641)
+
+
 ## Vrokastro (Q15715778)
 [https://www.wikidata.org/wiki/Q15715778](https://www.wikidata.org/wiki/Q15715778)  
 
@@ -63417,6 +63529,13 @@
  - [Wiston fort](https://pleiades.stoa.org/places/1754699)
 
 
+## Witaszkowo (Q8027814)
+[https://www.wikidata.org/wiki/Q8027814](https://www.wikidata.org/wiki/Q8027814)  
+
+### alignments:
+ - [Witaszkowo](https://pleiades.stoa.org/places/20647)
+
+
 ## Woden Law (Q31105689)
 [https://www.wikidata.org/wiki/Q31105689](https://www.wikidata.org/wiki/Q31105689)  
 
@@ -63464,6 +63583,20 @@
 
 ### alignments:
  - [Worlebury Camp](https://pleiades.stoa.org/places/893850615)
+
+
+## Wyszembork (Q8040618)
+[https://www.wikidata.org/wiki/Q8040618](https://www.wikidata.org/wiki/Q8040618)  
+
+### alignments:
+ - [Wyszembork](https://pleiades.stoa.org/places/20648)
+
+
+## Węsiory (Q506845)
+[https://www.wikidata.org/wiki/Q506845](https://www.wikidata.org/wiki/Q506845)  
+
+### alignments:
+ - [Węsiory](https://pleiades.stoa.org/places/20643)
 
 
 ## X Maritime theatre at the Villa Adriana (Q100767646)
@@ -63835,6 +63968,13 @@
 
 ### alignments:
  - [Karysis? (island)](https://pleiades.stoa.org/places/638903)
+
+
+## Zgliczyn-Pobodzy (Q8070019)
+[https://www.wikidata.org/wiki/Q8070019](https://www.wikidata.org/wiki/Q8070019)  
+
+### alignments:
+ - [Zgliczyn-Pobodzy](https://pleiades.stoa.org/places/20650)
 
 
 ## Ziggurat at Nippur (Q124356253)
