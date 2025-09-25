@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        45.0,
-        10.0,
-        50.0,
-        15.0
+        48.23595376156997,
+        13.992228265045917,
+        48.23595376156997,
+        13.992228265045917
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T22:04:59Z",
+    "created": "2025-09-24T22:05:07Z",
     "creators": [
         {
             "name": "D.T. Potts",
@@ -40,48 +40,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 4 C3 Kane",
-    "details": "The Barrington Atlas Directory notes: Bir 'Ali YEM",
+    "details": "<p>The Barrington Atlas Directory notes: Bir 'Ali YEM</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            10.0
-                        ],
-                        [
-                            50.0,
-                            10.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            10.0
-                        ]
-                    ]
+                    48.23595376156997,
+                    13.992228265045917
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39355/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Point digitized using QGIS from a raster image of BAtlas 4 that was georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/39355/batlas-point-location",
+                "location_precision": "precise",
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type = settlement; added WHG reference @thomase",
+            "modified": "2025-09-24T23:33:35Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-09-24T22:05:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update",
             "modified": "2021-11-29T00:47:23Z",
@@ -117,8 +107,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -130,100 +120,90 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T22:04:59Z",
+            "contributors": [],
+            "created": "2025-09-24T22:04:45Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Point digitized using QGIS from a raster image of BAtlas 4 that was georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            45.0,
-                            10.0
-                        ],
-                        [
-                            50.0,
-                            10.0
-                        ],
-                        [
-                            50.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            10.0
-                        ]
-                    ]
+                    48.23595376156997,
+                    13.992228265045917
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:40:20Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:39Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-09-24T23:33:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-24T22:04:54Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-24T22:04:46Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:05:00Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-09-24T22:04:45Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 C3 Kane",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 C3 Kane",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 47 see \"Kane\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39355/batlas-location"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/39355/batlas-point-location"
         }
     ],
     "names": [
@@ -299,13 +279,85 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/39355/kane"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-09-24T22:24:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-09-24T23:34:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-09-24T22:24:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-09-24T22:24:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-09-24T22:24:20Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "bir-ali",
+            "language": "ar",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 47 see \"Kane\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Bir 'Ali",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/39355/bir-ali"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 4 C3 Kane",
     "references": [
@@ -330,11 +382,22 @@
             "otherIdentifier": "",
             "shortTitle": "al-Sheiba 1987",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://whgazetteer.org/places/7131825/detail",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RHX229R6",
+            "citationDetail": "7131825: Cana",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Mostern, Ruth, Alexandra Straub, Stephen Gadd, Karl Grossner, and David Ruvolo, eds. <i>World Historical Gazetteer: Linking Knowledge about the Past via Place</i>. Pittsburgh, PA: The World History Center at University of Pittsburgh, 2017. http://whgazetteer.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "WHG",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        47.5,
-        12.5
+        48.23595376156997,
+        13.992228265045917
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
