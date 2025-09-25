@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9178 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
+9187 alignments exist in _Pleiades_ place references as of 2025-09-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6620,6 +6620,13 @@
  - [Argentovaria?](https://pleiades.stoa.org/places/108755)
 
 
+## Biferno (Q727618)
+[https://www.wikidata.org/wiki/Q727618](https://www.wikidata.org/wiki/Q727618)  
+
+### alignments:
+ - [Tifernus (river)](https://pleiades.stoa.org/places/433154)
+
+
 ## Bigerra (Q5728473)
 [https://www.wikidata.org/wiki/Q5728473](https://www.wikidata.org/wiki/Q5728473)  
 
@@ -7579,6 +7586,13 @@
  - [Brigstock](https://pleiades.stoa.org/places/79356)
 
 
+## Brislington villa (Q15133915)
+[https://www.wikidata.org/wiki/Q15133915](https://www.wikidata.org/wiki/Q15133915)  
+
+### alignments:
+ - [Brislington Roman villa](https://pleiades.stoa.org/places/761753444)
+
+
 ## Britain (Q23666)
 [https://www.wikidata.org/wiki/Q23666](https://www.wikidata.org/wiki/Q23666)  
 
@@ -8303,6 +8317,13 @@
 
 ### alignments:
  - [Kales](https://pleiades.stoa.org/places/844961)
+
+
+## Caletra (Q20107754)
+[https://www.wikidata.org/wiki/Q20107754](https://www.wikidata.org/wiki/Q20107754)  
+
+### alignments:
+ - [Caletranus Ager](https://pleiades.stoa.org/places/413059)
 
 
 ## Calleva Atrebatum (Q1027253)
@@ -15142,6 +15163,13 @@
  - [Erineos](https://pleiades.stoa.org/places/540769)
 
 
+## Erite (Q136325464)
+[https://www.wikidata.org/wiki/Q136325464](https://www.wikidata.org/wiki/Q136325464)  
+
+### alignments:
+ - [Erite/Ereta](https://pleiades.stoa.org/places/216806)
+
+
 ## Ermin Street (Q3056737)
 [https://www.wikidata.org/wiki/Q3056737](https://www.wikidata.org/wiki/Q3056737)  
 
@@ -17614,6 +17642,13 @@
 
 ### alignments:
  - [Barygazon Kolpos](https://pleiades.stoa.org/places/59738)
+
+
+## Gulf of Kutch (Q844917)
+[https://www.wikidata.org/wiki/Q844917](https://www.wikidata.org/wiki/Q844917)  
+
+### alignments:
+ - [Barakes Kolpos](https://pleiades.stoa.org/places/59733)
 
 
 ## Gulf of Mannar (Q622811)
@@ -20113,6 +20148,13 @@
 
 ### alignments:
  - [*Manavia (island)](https://pleiades.stoa.org/places/89242)
+
+
+## Isle of Mull (Q111444)
+[https://www.wikidata.org/wiki/Q111444](https://www.wikidata.org/wiki/Q111444)  
+
+### alignments:
+ - [Malaios (island)](https://pleiades.stoa.org/places/89240)
 
 
 ## Isle of Noirmoutier (Q292346)
@@ -24800,6 +24842,13 @@
  - [Mashkan-Shapir](https://pleiades.stoa.org/places/715980704)
 
 
+## Masirah Island (Q1793853)
+[https://www.wikidata.org/wiki/Q1793853](https://www.wikidata.org/wiki/Q1793853)  
+
+### alignments:
+ - [Sarapi(a)s (island)](https://pleiades.stoa.org/places/29743)
+
+
 ## Maskare (Q2719664)
 [https://www.wikidata.org/wiki/Q2719664](https://www.wikidata.org/wiki/Q2719664)  
 
@@ -26269,6 +26318,13 @@
 
 ### alignments:
  - [Minius (river)](https://pleiades.stoa.org/places/236544)
+
+
+## Minnagara (Q1937313)
+[https://www.wikidata.org/wiki/Q1937313](https://www.wikidata.org/wiki/Q1937313)  
+
+### alignments:
+ - [Minnagara?/Akota](https://pleiades.stoa.org/places/59933)
 
 
 ## Minoa (Q38281285)
@@ -29440,6 +29496,13 @@
 
 ### alignments:
  - [Col. Arausio](https://pleiades.stoa.org/places/148054)
+
+
+## Oratino (Q277839)
+[https://www.wikidata.org/wiki/Q277839](https://www.wikidata.org/wiki/Q277839)  
+
+### alignments:
+ - [Oratino](https://pleiades.stoa.org/places/432994)
 
 
 ## Orbetello (Q214849)

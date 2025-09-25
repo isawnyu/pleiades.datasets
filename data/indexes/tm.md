@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4667 alignments exist in _Pleiades_ place references as of 2025-09-24. The following list of alignments is grouped by zotkey.
+4669 alignments exist in _Pleiades_ place references as of 2025-09-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8971,6 +8971,13 @@
 
 ### alignments:
  - [Robogdioi](https://pleiades.stoa.org/places/89280)
+
+
+## GEO ID 19555: Raouios
+[https://www.trismegistos.org/place/19555](https://www.trismegistos.org/place/19555)  
+
+### alignments:
+ - [Raouios (river)](https://pleiades.stoa.org/places/21919)
 
 
 ## GEO ID 19557: Libnios
@@ -22543,6 +22550,13 @@
 
 ### alignments:
  - [Ad Stoma](https://pleiades.stoa.org/places/226508)
+
+
+## GEO ID 41353: Erite (Dolni Bliznyak)
+[https://www.trismegistos.org/place/41353](https://www.trismegistos.org/place/41353)  
+
+### alignments:
+ - [Erite/Ereta](https://pleiades.stoa.org/places/216806)
 
 
 ## GEO ID 41354: Scylla (Podima)
