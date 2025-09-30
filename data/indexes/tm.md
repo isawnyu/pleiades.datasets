@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4669 alignments exist in _Pleiades_ place references as of 2025-09-25. The following list of alignments is grouped by zotkey.
+4683 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2522,6 +2522,13 @@
 
 ### alignments:
  - [Varkana/Hyrcania/Gurgan](https://pleiades.stoa.org/places/942333)
+
+
+## GEO ID 10715: Ekbatana (Hamadan)
+[https://www.trismegistos.org/place/10715](https://www.trismegistos.org/place/10715)  
+
+### alignments:
+ - [Ecbatana/Hagmatana/Achmeta/Epiphaneia/Ahmadan](https://pleiades.stoa.org/places/903021)
 
 
 ## GEO ID 1073: Kerkethoeris (Kom el-Khamsin)
@@ -5934,6 +5941,13 @@
 
 ### alignments:
  - [Anderidos](https://pleiades.stoa.org/places/79293)
+
+
+## GEO ID 1485: Odessos (Varna)
+[https://www.trismegistos.org/place/1485](https://www.trismegistos.org/place/1485)  
+
+### alignments:
+ - [Odessus](https://pleiades.stoa.org/places/216904)
 
 
 ## GEO ID 14861: Voreda (Penrith)
@@ -17069,6 +17083,13 @@
  - [Teate](https://pleiades.stoa.org/places/413333)
 
 
+## GEO ID 33130: Inessa (Paternò)
+[http://www.trismegistos.org/place/33130](http://www.trismegistos.org/place/33130)  
+
+### alignments:
+ - [Inessa/Aitna](https://pleiades.stoa.org/places/465922)
+
+
 ## GEO ID 33131: Nissa (Caltanissetta)
 [https://www.trismegistos.org/place/33131](https://www.trismegistos.org/place/33131)  
 
@@ -22790,6 +22811,20 @@
  - [Catispi/Hatsiun](https://pleiades.stoa.org/places/874415)
 
 
+## GEO ID 41448: Chauon (Khoy)
+[https://www.trismegistos.org/place/41448](https://www.trismegistos.org/place/41448)  
+
+### alignments:
+ - [Chauon/Kaputa/Gobdi](https://pleiades.stoa.org/places/874420)
+
+
+## GEO ID 41449: Nicea Nialia (Sanandaj)
+[https://www.trismegistos.org/place/41449](https://www.trismegistos.org/place/41449)  
+
+### alignments:
+ - [Nicea Nialia/Barsa](https://pleiades.stoa.org/places/884897)
+
+
 ## GEO ID 414: Beni Hasan
 [https://www.trismegistos.org/place/414](https://www.trismegistos.org/place/414)  
 
@@ -24561,6 +24596,13 @@
  - [Cunissa](https://pleiades.stoa.org/places/876609)
 
 
+## GEO ID 42134: Philadelpheia
+[https://www.trismegistos.org/place/42134](https://www.trismegistos.org/place/42134)  
+
+### alignments:
+ - [Filadelfia](https://pleiades.stoa.org/places/876629)
+
+
 ## GEO ID 42135: Fons Scabore
 [https://www.trismegistos.org/place/42135](https://www.trismegistos.org/place/42135)  
 
@@ -24580,6 +24622,48 @@
 
 ### alignments:
  - [Sorvae/Zourzoua](https://pleiades.stoa.org/places/876706)
+
+
+## GEO ID 42150: Trispeda (Ormi)
+[https://www.trismegistos.org/place/42150](https://www.trismegistos.org/place/42150)  
+
+### alignments:
+ - [Trispeda](https://pleiades.stoa.org/places/876730)
+
+
+## GEO ID 42152: Ad Tomenta
+[https://www.trismegistos.org/place/42152](https://www.trismegistos.org/place/42152)  
+
+### alignments:
+ - [Ad Tomenta](https://pleiades.stoa.org/places/884862)
+
+
+## GEO ID 42153: Arabum
+[https://www.trismegistos.org/place/42153](https://www.trismegistos.org/place/42153)  
+
+### alignments:
+ - [Arabum](https://pleiades.stoa.org/places/884866)
+
+
+## GEO ID 42155: Eneca
+[https://www.trismegistos.org/place/42155](https://www.trismegistos.org/place/42155)  
+
+### alignments:
+ - [Eneca](https://pleiades.stoa.org/places/884878)
+
+
+## GEO ID 42156: Naucanio
+[https://www.trismegistos.org/place/42156](https://www.trismegistos.org/place/42156)  
+
+### alignments:
+ - [Naucanio](https://pleiades.stoa.org/places/884896)
+
+
+## GEO ID 42157: Paresaca
+[https://www.trismegistos.org/place/42157](https://www.trismegistos.org/place/42157)  
+
+### alignments:
+ - [Paresaca](https://pleiades.stoa.org/places/884906)
 
 
 ## GEO ID 42158: Rhasum
@@ -27438,6 +27522,13 @@
 
 ### alignments:
  - [Pons Cestius](https://pleiades.stoa.org/places/211668069)
+
+
+## GEO ID 44981: Sacrana
+[http://www.trismegistos.org/place/44981](http://www.trismegistos.org/place/44981)  
+
+### alignments:
+ - [Sacrana](https://pleiades.stoa.org/places/260629)
 
 
 ## GEO ID 44986: Sinduni
@@ -30920,6 +31011,13 @@
 
 ### alignments:
  - [Labeatae](https://pleiades.stoa.org/places/481889)
+
+
+## GEO ID 63096: Alexandria Eschate (Khojend)
+[https://www.trismegistos.org/place/63096](https://www.trismegistos.org/place/63096)  
+
+### alignments:
+ - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
 
 
 ## GEO ID 63120: Sikelikon Pelagos

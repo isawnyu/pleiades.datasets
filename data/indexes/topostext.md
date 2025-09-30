@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3762 alignments exist in _Pleiades_ place references as of 2025-09-25. The following list of alignments is grouped by zotkey.
+3763 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10895,6 +10895,13 @@
 
 ### alignments:
  - [Inatos](https://pleiades.stoa.org/places/589819)
+
+
+## Incoronata site (Magna Graecia)
+[https://topostext.org/place/404167XInc](https://topostext.org/place/404167XInc)  
+
+### alignments:
+ - [Incoronata](https://pleiades.stoa.org/places/442620)
 
 
 ## Indus river (India)

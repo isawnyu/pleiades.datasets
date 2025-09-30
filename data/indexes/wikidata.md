@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9187 alignments exist in _Pleiades_ place references as of 2025-09-25. The following list of alignments is grouped by zotkey.
+9207 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -864,6 +864,13 @@
  - [Aethiopia](https://pleiades.stoa.org/places/39274)
 
 
+## Aetna (Q2292319)
+[https://www.wikidata.org/wiki/Q2292319](https://www.wikidata.org/wiki/Q2292319)  
+
+### alignments:
+ - [Inessa/Aitna](https://pleiades.stoa.org/places/465922)
+
+
 ## Aetolian League (Q245273)
 [https://www.wikidata.org/wiki/Q245273](https://www.wikidata.org/wiki/Q245273)  
 
@@ -1611,6 +1618,13 @@
 
 ### alignments:
  - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
+
+
+## Alexandria near Issus (Q12873376)
+[https://www.wikidata.org/wiki/Q12873376](https://www.wikidata.org/wiki/Q12873376)  
+
+### alignments:
+ - [Alexandria ad Issum](https://pleiades.stoa.org/places/658371)
 
 
 ## Alexandria Prophthasia (Q10401099)
@@ -3979,6 +3993,13 @@
  - [Ar(e)ia](https://pleiades.stoa.org/places/961881)
 
 
+## Ariana (Q3296890)
+[https://www.wikidata.org/wiki/Q3296890](https://www.wikidata.org/wiki/Q3296890)  
+
+### alignments:
+ - [Ariana/Arioi](https://pleiades.stoa.org/places/60431)
+
+
 ## Arikamedu (Q2861278)
 [https://www.wikidata.org/wiki/Q2861278](https://www.wikidata.org/wiki/Q2861278)  
 
@@ -6191,6 +6212,13 @@
 
 ### alignments:
  - [Bearsden](https://pleiades.stoa.org/places/89114)
+
+
+## Beas River (Q319590)
+[https://www.wikidata.org/wiki/Q319590](https://www.wikidata.org/wiki/Q319590)  
+
+### alignments:
+ - [Vipās/Hyp(h)asis/Bibasis/Hypanis (river)](https://pleiades.stoa.org/places/59839)
 
 
 ## Beaucaire (Q211647)
@@ -14841,6 +14869,13 @@
  - [*Elantia (river)](https://pleiades.stoa.org/places/118664)
 
 
+## Elymais (Q1275158)
+[https://www.wikidata.org/wiki/Q1275158](https://www.wikidata.org/wiki/Q1275158)  
+
+### alignments:
+ - [Elymais/Susiana](https://pleiades.stoa.org/places/912843)
+
+
 ## Elyros (Q3561249)
 [https://www.wikidata.org/wiki/Q3561249](https://www.wikidata.org/wiki/Q3561249)  
 
@@ -16199,6 +16234,13 @@
  - [Frattura Vecchia](https://pleiades.stoa.org/places/854820311)
 
 
+## Fresilia (Q136375868)
+[https://www.wikidata.org/wiki/Q136375868](https://www.wikidata.org/wiki/Q136375868)  
+
+### alignments:
+ - [Fresilia](https://pleiades.stoa.org/places/438744)
+
+
 ## Friniates (Q5504610)
 [https://www.wikidata.org/wiki/Q5504610](https://www.wikidata.org/wiki/Q5504610)  
 
@@ -17502,6 +17544,13 @@
 
 ### alignments:
  - [Grotte di Catullo](https://pleiades.stoa.org/places/870993210)
+
+
+## Group of round barrows on Oakley Down (Q17650587)
+[https://www.wikidata.org/wiki/Q17650587](https://www.wikidata.org/wiki/Q17650587)  
+
+### alignments:
+ - [Oakley Down](https://pleiades.stoa.org/places/251814620)
 
 
 ## Großhelfendorf (Q1549301)
@@ -19870,6 +19919,13 @@
  - [Incastro River](https://pleiades.stoa.org/places/143028853)
 
 
+## Incoronata (Q56304157)
+[https://www.wikidata.org/wiki/Q56304157](https://www.wikidata.org/wiki/Q56304157)  
+
+### alignments:
+ - [Incoronata](https://pleiades.stoa.org/places/442620)
+
+
 ## India (Q17055962)
 [https://www.wikidata.org/wiki/Q17055962](https://www.wikidata.org/wiki/Q17055962)  
 
@@ -20211,6 +20267,13 @@
 
 ### alignments:
  - [Diomedeae Islands](https://pleiades.stoa.org/places/442567)
+
+
+## Issedones (Q1079061)
+[https://www.wikidata.org/wiki/Q1079061](https://www.wikidata.org/wiki/Q1079061)  
+
+### alignments:
+ - [Issedones](https://pleiades.stoa.org/places/59853)
 
 
 ## Issus (Q1360503)
@@ -20631,6 +20694,13 @@
 
 ### alignments:
  - [Gordioukome/Iuliopolis](https://pleiades.stoa.org/places/844935)
+
+
+## Jumeirah Archaeological Site (Q16892960)
+[https://www.wikidata.org/wiki/Q16892960](https://www.wikidata.org/wiki/Q16892960)  
+
+### alignments:
+ - [Jumeirah](https://pleiades.stoa.org/places/29617)
 
 
 ## Jurf ed-Darawish (Q33765958)
@@ -21430,6 +21500,13 @@
 
 ### alignments:
  - [Khirbet ez-Zona](https://pleiades.stoa.org/places/697688)
+
+
+## Khirbat Faynan (Q28408071)
+[https://www.wikidata.org/wiki/Q28408071](https://www.wikidata.org/wiki/Q28408071)  
+
+### alignments:
+ - [Phaino](https://pleiades.stoa.org/places/697726)
 
 
 ## Khirbat Shema (Q47466672)
@@ -25696,6 +25773,13 @@
  - [Minio (river)](https://pleiades.stoa.org/places/413202)
 
 
+## Mihintale (Q1478212)
+[https://www.wikidata.org/wiki/Q1478212](https://www.wikidata.org/wiki/Q1478212)  
+
+### alignments:
+ - [Mihintale](https://pleiades.stoa.org/places/50132)
+
+
 ## Milatos (Q17325188)
 [https://www.wikidata.org/wiki/Q17325188](https://www.wikidata.org/wiki/Q17325188)  
 
@@ -28525,6 +28609,20 @@
  - [Nuraghe Appiu](https://pleiades.stoa.org/places/685296232)
 
 
+## nuraghe Armungia (Q25383632)
+[https://www.wikidata.org/wiki/Q25383632](https://www.wikidata.org/wiki/Q25383632)  
+
+### alignments:
+ - [Nuraghe Armungia](https://pleiades.stoa.org/places/26249986)
+
+
+## Nuraghe Bardalazzu (Q114942965)
+[https://www.wikidata.org/wiki/Q114942965](https://www.wikidata.org/wiki/Q114942965)  
+
+### alignments:
+ - [Nuraghe Bardalazzu](https://pleiades.stoa.org/places/797020275)
+
+
 ## Nuraghe Cobulas (Q122325403)
 [https://www.wikidata.org/wiki/Q122325403](https://www.wikidata.org/wiki/Q122325403)  
 
@@ -28676,7 +28774,7 @@
 [https://www.wikidata.org/wiki/Q16583237](https://www.wikidata.org/wiki/Q16583237)  
 
 ### alignments:
- - [Nuraghe Rumanedda](https://pleiades.stoa.org/places/372350839)
+ - [Nuraghe Rumanedda](https://pleiades.stoa.org/places/847158760)
 
 
 ## Nuraghe S'Ortali 'e su Monti (Q16583240)
@@ -28789,6 +28887,13 @@
 
 ### alignments:
  - [Nuraghe Succoronis](https://pleiades.stoa.org/places/799685245)
+
+
+## Nuraghe Tanca Manna (Q2005277)
+[https://www.wikidata.org/wiki/Q2005277](https://www.wikidata.org/wiki/Q2005277)  
+
+### alignments:
+ - [Nuraghe di Tanca Manna](https://pleiades.stoa.org/places/226222203)
 
 
 ## Nuraghe Toscono (Q52151253)
@@ -29048,6 +29153,13 @@
 
 ### alignments:
  - [Ouiadoua (river)](https://pleiades.stoa.org/places/20570)
+
+
+## Odessos (Q11796095)
+[https://www.wikidata.org/wiki/Q11796095](https://www.wikidata.org/wiki/Q11796095)  
+
+### alignments:
+ - [Odessus](https://pleiades.stoa.org/places/216904)
 
 
 ## Odigitria tholos cemetery (Q16957058)
@@ -41133,13 +41245,6 @@
  - [Dur-Sharrukin](https://pleiades.stoa.org/places/874458)
 
 
-## Q25383632
-[https://www.wikidata.org/wiki/Q25383632](https://www.wikidata.org/wiki/Q25383632)  
-
-### alignments:
- - [Nuraghe Armungia](https://pleiades.stoa.org/places/26249986)
-
-
 ## Q25384040
 [https://www.wikidata.org/wiki/Q25384040](https://www.wikidata.org/wiki/Q25384040)  
 
@@ -45272,13 +45377,6 @@
 
 ### alignments:
  - [Uscana](https://pleiades.stoa.org/places/482028)
-
-
-## Q463459: Samnium
-[https://www.wikidata.org/wiki/Q463459](https://www.wikidata.org/wiki/Q463459)  
-
-### alignments:
- - [Samnium (region)](https://pleiades.stoa.org/places/433078)
 
 
 ## Q464266: Dura-Europos
@@ -50119,6 +50217,13 @@
  - [[*Parammon]?](https://pleiades.stoa.org/places/776213)
 
 
+## Qasr el-Ghueita (Q14218430)
+[https://www.wikidata.org/wiki/Q14218430](https://www.wikidata.org/wiki/Q14218430)  
+
+### alignments:
+ - [[Per-ousekh]](https://pleiades.stoa.org/places/776215)
+
+
 ## Qasr el-Labakha (Q14218435)
 [https://www.wikidata.org/wiki/Q14218435](https://www.wikidata.org/wiki/Q14218435)  
 
@@ -50229,6 +50334,13 @@
 
 ### alignments:
  - [Gasr Suwayrah](https://pleiades.stoa.org/places/373812)
+
+
+## Qaşr at Turāb (Q104734052)
+[https://www.wikidata.org/wiki/Q104734052](https://www.wikidata.org/wiki/Q104734052)  
+
+### alignments:
+ - [Arae Philaenorum](https://pleiades.stoa.org/places/363924)
 
 
 ## Qaşr Madīnat Bū Hindī (Q104886723)
@@ -50782,6 +50894,13 @@
 
 ### alignments:
  - [Phasis (river)](https://pleiades.stoa.org/places/857276)
+
+
+## Riphean Mountains (Q2065984)
+[https://www.wikidata.org/wiki/Q2065984](https://www.wikidata.org/wiki/Q2065984)  
+
+### alignments:
+ - [Rhipaei montes](https://pleiades.stoa.org/places/401802035)
 
 
 ## Riserva del Bagno necropolis (Q130380477)
@@ -52890,6 +53009,13 @@
 
 ### alignments:
  - [Samnites](https://pleiades.stoa.org/places/442765)
+
+
+## Samnium (Q463459)
+[https://www.wikidata.org/wiki/Q463459](https://www.wikidata.org/wiki/Q463459)  
+
+### alignments:
+ - [Samnium (region)](https://pleiades.stoa.org/places/433078)
 
 
 ## Samoggia (Q3470903)
@@ -56104,6 +56230,13 @@
 
 ### alignments:
  - [Su Nuraxi di Barumini](https://pleiades.stoa.org/places/948291971)
+
+
+## Su Romanzesu (Q959458)
+[https://www.wikidata.org/wiki/Q959458](https://www.wikidata.org/wiki/Q959458)  
+
+### alignments:
+ - [Bitti, Complesso di Romanzesu](https://pleiades.stoa.org/places/494216807)
 
 
 ## Suburana (Q20108949)
@@ -61698,6 +61831,13 @@
 
 ### alignments:
  - [Velsen](https://pleiades.stoa.org/places/99058)
+
+
+## Venafrum (Q833021)
+[https://www.wikidata.org/wiki/Q833021](https://www.wikidata.org/wiki/Q833021)  
+
+### alignments:
+ - [Venafrum](https://pleiades.stoa.org/places/433185)
 
 
 ## Vendôme (Q214575)
