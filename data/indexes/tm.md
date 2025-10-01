@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4683 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
+4684 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2227,13 +2227,6 @@
 
 ### alignments:
  - [Pityoussa/Petrossa? (island)](https://pleiades.stoa.org/places/648739)
-
-
-## Geo 619 Oasis Magna (El-Kharga)
-[https://www.trismegistos.org/place/619](https://www.trismegistos.org/place/619)  
-
-### alignments:
- - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
 
 
 ## Geo 62623: Teumessos (Mesovouni)
@@ -24260,6 +24253,13 @@
  - [Boukephala](https://pleiades.stoa.org/places/59750)
 
 
+## GEO ID 41990: Arae Alexandri
+[https://www.trismegistos.org/place/41990](https://www.trismegistos.org/place/41990)  
+
+### alignments:
+ - [Ara Alexandri](https://pleiades.stoa.org/places/60421)
+
+
 ## GEO ID 41994: Ad Vicum
 [https://www.trismegistos.org/place/41994](https://www.trismegistos.org/place/41994)  
 
@@ -30892,6 +30892,13 @@
 
 ### alignments:
  - [Pakerke](https://pleiades.stoa.org/places/741543)
+
+
+## Geo ID 619: Oasis Magna (El-Kharga)
+[https://www.trismegistos.org/place/619](https://www.trismegistos.org/place/619)  
+
+### alignments:
+ - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
 
 
 ## GEO ID 6217: Palatina

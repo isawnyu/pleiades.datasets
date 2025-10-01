@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9207 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
+9211 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2213,6 +2213,13 @@
 
 ### alignments:
  - [Roman amphitheater at Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/52124866)
+
+
+## Amphitheatre of Oudna (Q13429354)
+[https://www.wikidata.org/wiki/Q13429354](https://www.wikidata.org/wiki/Q13429354)  
+
+### alignments:
+ - [Roman amphitheater at Uthina](https://pleiades.stoa.org/places/823168612)
 
 
 ## Amphitheatre of Padua (Q21040915)
@@ -10909,6 +10916,13 @@
  - [Chaldaea](https://pleiades.stoa.org/places/915843)
 
 
+## Chalkidian League (Q2042616)
+[https://www.wikidata.org/wiki/Q2042616](https://www.wikidata.org/wiki/Q2042616)  
+
+### alignments:
+ - [Chalcidean League](https://pleiades.stoa.org/places/585841736)
+
+
 ## Chalkotheke (Q668598)
 [https://www.wikidata.org/wiki/Q668598](https://www.wikidata.org/wiki/Q668598)  
 
@@ -12315,6 +12329,13 @@
 
 ### alignments:
  - [Contra Aginnum](https://pleiades.stoa.org/places/108905)
+
+
+## conventus Astigitanus (Q136039463)
+[https://www.wikidata.org/wiki/Q136039463](https://www.wikidata.org/wiki/Q136039463)  
+
+### alignments:
+ - [conventus Astigitanus](https://pleiades.stoa.org/places/703480104)
 
 
 ## Conventus Bracarensis (Q5166344)
@@ -28623,6 +28644,13 @@
  - [Nuraghe Bardalazzu](https://pleiades.stoa.org/places/797020275)
 
 
+## Nuraghe Chentu Istradas (Q122358639)
+[https://www.wikidata.org/wiki/Q122358639](https://www.wikidata.org/wiki/Q122358639)  
+
+### alignments:
+ - [Nuraghe Chentu Istradas](https://pleiades.stoa.org/places/837378916)
+
+
 ## Nuraghe Cobulas (Q122325403)
 [https://www.wikidata.org/wiki/Q122325403](https://www.wikidata.org/wiki/Q122325403)  
 
@@ -33271,6 +33299,13 @@
  - [Pyramid of Userkaf](https://pleiades.stoa.org/places/393558281)
 
 
+## Pyramidal mausoleum of Maktar (Q42756821)
+[https://www.wikidata.org/wiki/Q42756821](https://www.wikidata.org/wiki/Q42756821)  
+
+### alignments:
+ - [Pyramidal mausoleum of Maktar](https://pleiades.stoa.org/places/364883647)
+
+
 ## Pyramids of Queens (Q23977431)
 [https://www.wikidata.org/wiki/Q23977431](https://www.wikidata.org/wiki/Q23977431)  
 
@@ -36471,13 +36506,6 @@
 
 ### alignments:
  - [Tarsus/Antiochia ad Cydnum](https://pleiades.stoa.org/places/648789)
-
-
-## Q13429354: Amphitheatre of Oudna
-[https://www.wikidata.org/wiki/Q13429354](https://www.wikidata.org/wiki/Q13429354)  
-
-### alignments:
- - [Roman amphitheater at Uthina](https://pleiades.stoa.org/places/823168612)
 
 
 ## Q13433: Avellino

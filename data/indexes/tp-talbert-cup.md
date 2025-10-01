@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2232 alignments exist in _Pleiades_ place references as of 2025-09-30. The following list of alignments is grouped by zotkey.
+2234 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -965,6 +965,13 @@
 
 ### alignments:
  - [Media Atropatene](https://pleiades.stoa.org/places/874597)
+
+
+## 11A3 (Talbert 2802)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2802.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2802.html)  
+
+### alignments:
+ - [Ara Alexandri](https://pleiades.stoa.org/places/60421)
 
 
 ## 11A3 (Talbert 3259)
@@ -2257,7 +2264,6 @@
  - [Bovillae](https://pleiades.stoa.org/places/422852)
  - [Gerunda](https://pleiades.stoa.org/places/246406)
  - [Larissa](https://pleiades.stoa.org/places/631221)
- - [Uthina](https://pleiades.stoa.org/places/315247)
 
 
 ## 1B1-1B2 (Talbert 2847)
@@ -7908,6 +7914,13 @@
 
 ### alignments:
  - [Onellana](https://pleiades.stoa.org/places/945555076)
+
+
+## 4C5 (Talbert 143)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace143.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace143.html)  
+
+### alignments:
+ - [Uthina](https://pleiades.stoa.org/places/315247)
 
 
 ## 4C5 (Talbert 145)
