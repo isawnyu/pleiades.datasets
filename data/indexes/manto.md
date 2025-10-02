@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-734 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
+735 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2457,6 +2457,13 @@
 
 ### alignments:
  - [Atrium Caci](https://pleiades.stoa.org/places/35711529)
+
+
+## 11302796: River Tiber (Italy)
+[https://resource.manto.unh.edu/11302796](https://resource.manto.unh.edu/11302796)  
+
+### alignments:
+ - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
 
 
 ## 11302797: Poseidonia (Italy)

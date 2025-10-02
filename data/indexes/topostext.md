@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3763 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
+3766 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7787,6 +7787,13 @@
 
 ### alignments:
  - [Demeter Sanctuary (Eleusis)](https://pleiades.stoa.org/places/579910)
+
+
+## Eleusinion (Athens) 20 Athens
+[https://topostext.org/place/380237SEle](https://topostext.org/place/380237SEle)  
+
+### alignments:
+ - [City Eleusinion at Athens](https://pleiades.stoa.org/places/650003009)
 
 
 ## Eleusis (Attica)
@@ -20520,6 +20527,13 @@
  - [Porta Asinaria](https://pleiades.stoa.org/places/958548506)
 
 
+## Porta Aurelia (Rome)
+[https://topostext.org/place/419125FPAu](https://topostext.org/place/419125FPAu)  
+
+### alignments:
+ - [Porta Aurelia](https://pleiades.stoa.org/places/732617291)
+
+
 ## Porta Capena (Rome)
 [https://topostext.org/place/419125FPCp](https://topostext.org/place/419125FPCp)  
 
@@ -25106,6 +25120,13 @@
 
 ### alignments:
  - [Trebula Balli(ni)ensium](https://pleiades.stoa.org/places/433164)
+
+
+## Trebula Mutuesca (Italy)
+[https://topostext.org/place/422129UTre](https://topostext.org/place/422129UTre)  
+
+### alignments:
+ - [Trebula Mutuesca](https://pleiades.stoa.org/places/413350)
 
 
 ## Treis Ammoudies sanct. (Kea)

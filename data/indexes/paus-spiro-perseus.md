@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-507 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
+508 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -47,6 +47,13 @@
 
 ### alignments:
  - [Kestrine/Kammania](https://pleiades.stoa.org/places/530942)
+
+
+## 1.14.3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.14.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.14.3)  
+
+### alignments:
+ - [City Eleusinion at Athens](https://pleiades.stoa.org/places/650003009)
 
 
 ## 1.17.2

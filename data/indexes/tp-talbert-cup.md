@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2234 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
+2235 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -9806,6 +9806,13 @@
 
 ### alignments:
  - [Acherusia Palus](https://pleiades.stoa.org/places/432622)
+
+
+## 5C3-5B5 (Talbert 3393)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3393.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3393.html)  
+
+### alignments:
+ - [Volturnus (river)](https://pleiades.stoa.org/places/433211)
 
 
 ## 5C4 (Talbert 227)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9211 alignments exist in _Pleiades_ place references as of 2025-10-01. The following list of alignments is grouped by zotkey.
+9217 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5392,6 +5392,13 @@
 
 ### alignments:
  - [Baisweil](https://pleiades.stoa.org/places/187305)
+
+
+## Bakcheion (Q136416727)
+[https://www.wikidata.org/wiki/Q136416727](https://www.wikidata.org/wiki/Q136416727)  
+
+### alignments:
+ - [Bakcheion](https://pleiades.stoa.org/places/576630079)
 
 
 ## Bakchias (Q804269)
@@ -12135,6 +12142,13 @@
  - [Largo Preneste](https://pleiades.stoa.org/places/422957)
 
 
+## Columbarium of Pomponius Hylas (Q2984560)
+[https://www.wikidata.org/wiki/Q2984560](https://www.wikidata.org/wiki/Q2984560)  
+
+### alignments:
+ - [Columbarium of Pomponius Hylas](https://pleiades.stoa.org/places/390937014)
+
+
 ## Columbarium of Tiberius Claudius Vitalis (Q111508999)
 [https://www.wikidata.org/wiki/Q111508999](https://www.wikidata.org/wiki/Q111508999)  
 
@@ -14846,6 +14860,20 @@
 
 ### alignments:
  - [Elephas herbarius](https://pleiades.stoa.org/places/563278254)
+
+
+## Eleusinion (Q1349784)
+[https://www.wikidata.org/wiki/Q1349784](https://www.wikidata.org/wiki/Q1349784)  
+
+### alignments:
+ - [City Eleusinion at Athens](https://pleiades.stoa.org/places/650003009)
+
+
+## Eleusinion (Q94299853)
+[https://www.wikidata.org/wiki/Q94299853](https://www.wikidata.org/wiki/Q94299853)  
+
+### alignments:
+ - [Demeter Sanctuary (Eleusis)](https://pleiades.stoa.org/places/579910)
 
 
 ## Eleusis (Q11918833)
@@ -22670,6 +22698,13 @@
 
 ### alignments:
  - [Benacus (lake)](https://pleiades.stoa.org/places/383587)
+
+
+## Lake Ichkeul (Q45894)
+[https://www.wikidata.org/wiki/Q45894](https://www.wikidata.org/wiki/Q45894)  
+
+### alignments:
+ - [Sisara Limne](https://pleiades.stoa.org/places/315175)
 
 
 ## Lake Ismarida (Q12878198)
@@ -31724,6 +31759,13 @@
  - [Halykos (river)](https://pleiades.stoa.org/places/462229)
 
 
+## Platonic Academy (Q193093)
+[https://www.wikidata.org/wiki/Q193093](https://www.wikidata.org/wiki/Q193093)  
+
+### alignments:
+ - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
 ## Pleuron (Q1317636)
 [https://www.wikidata.org/wiki/Q1317636](https://www.wikidata.org/wiki/Q1317636)  
 
@@ -32499,6 +32541,20 @@
 
 ### alignments:
  - [Porta Nomentana](https://pleiades.stoa.org/places/187832462)
+
+
+## Porta Portese (Q2266816)
+[https://www.wikidata.org/wiki/Q2266816](https://www.wikidata.org/wiki/Q2266816)  
+
+### alignments:
+ - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
+
+
+## Porta Portuensis (Q1141434)
+[https://www.wikidata.org/wiki/Q1141434](https://www.wikidata.org/wiki/Q1141434)  
+
+### alignments:
+ - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
 
 
 ## Porta Principalis Dextra, Tulln (Q37890669)
@@ -34691,13 +34747,6 @@
 
 ### alignments:
  - [Horti Liciniani](https://pleiades.stoa.org/places/646461227)
-
-
-## Q1141434: Porta Portuensis
-[https://www.wikidata.org/wiki/Q1141434](https://www.wikidata.org/wiki/Q1141434)  
-
-### alignments:
- - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
 
 
 ## Q1144126: Tillya Tepe
@@ -39332,13 +39381,6 @@
  - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
 
 
-## Q193093
-[https://www.wikidata.org/wiki/Q193093](https://www.wikidata.org/wiki/Q193093)  
-
-### alignments:
- - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
-
-
 ## Q19324511: Macellum Magnum
 [https://www.wikidata.org/wiki/Q19324511](https://www.wikidata.org/wiki/Q19324511)  
 
@@ -40654,13 +40696,6 @@
 
 ### alignments:
  - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
-
-
-## Q2266816: Porta Portese
-[https://www.wikidata.org/wiki/Q2266816](https://www.wikidata.org/wiki/Q2266816)  
-
-### alignments:
- - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
 
 
 ## Q22690
@@ -42497,13 +42532,6 @@
 
 ### alignments:
  - [Molino San Vincenzo](https://pleiades.stoa.org/places/516051730)
-
-
-## Q2984560: Columbarium of Pomponius Hylas
-[https://www.wikidata.org/wiki/Q2984560](https://www.wikidata.org/wiki/Q2984560)  
-
-### alignments:
- - [Columbarium of Pomponius Hylas](https://pleiades.stoa.org/places/390937014)
 
 
 ## Q29886472: Necropolis of Porta Nola
@@ -51905,6 +51933,13 @@
  - [Roman theater at Pelusium](https://pleiades.stoa.org/places/854756317)
 
 
+## Roman Theater at Utica (Q136416263)
+[https://www.wikidata.org/wiki/Q136416263](https://www.wikidata.org/wiki/Q136416263)  
+
+### alignments:
+ - [Roman theater at Utica](https://pleiades.stoa.org/places/907258690)
+
+
 ## Roman theater of Atri (Q118311061)
 [https://www.wikidata.org/wiki/Q118311061](https://www.wikidata.org/wiki/Q118311061)  
 
@@ -53001,7 +53036,7 @@
 [https://www.wikidata.org/wiki/Q208267](https://www.wikidata.org/wiki/Q208267)  
 
 ### alignments:
- - [Sabis? (river)](https://pleiades.stoa.org/places/109299)
+ - [Sabis (river)](https://pleiades.stoa.org/places/109299)
 
 
 ## Same (Q7409183)
@@ -61516,6 +61551,13 @@
 
 ### alignments:
  - [Uthina](https://pleiades.stoa.org/places/315247)
+
+
+## Utica (Q166523)
+[https://www.wikidata.org/wiki/Q166523](https://www.wikidata.org/wiki/Q166523)  
+
+### alignments:
+ - [Utica](https://pleiades.stoa.org/places/315248)
 
 
 ## Utsurgae (Q65051973)
