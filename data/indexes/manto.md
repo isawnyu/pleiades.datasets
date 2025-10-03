@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-735 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
+736 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1932,6 +1932,13 @@
 
 ### alignments:
  - [Aigai](https://pleiades.stoa.org/places/570040)
+
+
+## 10274679: Acraiphion (Boiotia)
+[https://resource.manto.unh.edu/10274679](https://resource.manto.unh.edu/10274679)  
+
+### alignments:
+ - [Akraiphiai](https://pleiades.stoa.org/places/540617)
 
 
 ## 10274682: River Crathis (Achaia/Arcadia)

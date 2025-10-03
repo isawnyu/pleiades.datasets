@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2235 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
+2236 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1161,6 +1161,13 @@
 
 ### alignments:
  - [Hindu Kush (mountains)](https://pleiades.stoa.org/places/59983)
+
+
+## 11B4-11B5 (Talbert 2803)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2803.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2803.html)  
+
+### alignments:
+ - [Hic Alexander Responsum accepit usque quo Alexander](https://pleiades.stoa.org/places/302268005)
 
 
 ## 11B5 (Talbert 2744)

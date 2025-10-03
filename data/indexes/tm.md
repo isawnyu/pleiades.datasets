@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4684 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
+4688 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -909,6 +909,13 @@
 
 ### alignments:
  - [Sindos](https://pleiades.stoa.org/places/491717)
+
+
+## Geo 29933: Abrittus (Razgrad)
+[https://www.trismegistos.org/place/29933](https://www.trismegistos.org/place/29933)  
+
+### alignments:
+ - [Abrittus](https://pleiades.stoa.org/places/216688)
 
 
 ## Geo 30329: Aigai (Vergina)
@@ -1989,6 +1996,13 @@
 
 ### alignments:
  - [Tanis](https://pleiades.stoa.org/places/737069)
+
+
+## Geo 50051: Abrettene
+[https://www.trismegistos.org/place/50051](https://www.trismegistos.org/place/50051)  
+
+### alignments:
+ - [Abrettene](https://pleiades.stoa.org/places/609289)
 
 
 ## Geo 5256: Larisa (Limantepe)
@@ -30654,6 +30668,20 @@
 
 ### alignments:
  - [Verrugo](https://pleiades.stoa.org/places/438872)
+
+
+## GEO ID 61103: Bola
+[https://www.trismegistos.org/place/61103](https://www.trismegistos.org/place/61103)  
+
+### alignments:
+ - [Bolani](https://pleiades.stoa.org/places/438696)
+
+
+## GEO ID 61104: Algidus (Colle della Mola)
+[https://www.trismegistos.org/place/61104](https://www.trismegistos.org/place/61104)  
+
+### alignments:
+ - [Algidus](https://pleiades.stoa.org/places/422829)
 
 
 ## GEO ID 61115: Panormos (Porto Palermo)

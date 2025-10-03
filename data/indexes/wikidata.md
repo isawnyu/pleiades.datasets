@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9217 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
+9231 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -118,6 +118,13 @@
 
 ### alignments:
  - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
+
+
+## Abantes (Q305516)
+[https://www.wikidata.org/wiki/Q305516](https://www.wikidata.org/wiki/Q305516)  
+
+### alignments:
+ - [Abantes](https://pleiades.stoa.org/places/540583)
 
 
 ## Abariltur (Q11903682)
@@ -239,11 +246,25 @@
  - [Adonis (river)](https://pleiades.stoa.org/places/668180)
 
 
+## Abrettene (Q2821893)
+[https://www.wikidata.org/wiki/Q2821893](https://www.wikidata.org/wiki/Q2821893)  
+
+### alignments:
+ - [Abrettene](https://pleiades.stoa.org/places/609289)
+
+
 ## Abric Pizarro (Q130085649)
 [https://www.wikidata.org/wiki/Q130085649](https://www.wikidata.org/wiki/Q130085649)  
 
 ### alignments:
  - [Abric Pizarro](https://pleiades.stoa.org/places/451216167)
+
+
+## Abritus (Q331488)
+[https://www.wikidata.org/wiki/Q331488](https://www.wikidata.org/wiki/Q331488)  
+
+### alignments:
+ - [Abrittus](https://pleiades.stoa.org/places/216688)
 
 
 ## Abthugni (Q334495)
@@ -577,6 +598,13 @@
  - [Acumincum](https://pleiades.stoa.org/places/206874)
 
 
+## ad Bivium (Q136419004)
+[https://www.wikidata.org/wiki/Q136419004](https://www.wikidata.org/wiki/Q136419004)  
+
+### alignments:
+ - [Ad Bivium](https://pleiades.stoa.org/places/422805)
+
+
 ## Ad Capita Bubula (Q124851444)
 [https://www.wikidata.org/wiki/Q124851444](https://www.wikidata.org/wiki/Q124851444)  
 
@@ -631,6 +659,13 @@
 
 ### alignments:
  - [Ad Palmam](https://pleiades.stoa.org/places/344285)
+
+
+## ad Pictas (Q136420246)
+[https://www.wikidata.org/wiki/Q136420246](https://www.wikidata.org/wiki/Q136420246)  
+
+### alignments:
+ - [Ad Pictas](https://pleiades.stoa.org/places/422813)
 
 
 ## Ad Pirum (Q4678175)
@@ -3538,6 +3573,13 @@
  - [Arch of Galerius](https://pleiades.stoa.org/places/361097849)
 
 
+## Arch of Gallienus (Q3108617)
+[https://www.wikidata.org/wiki/Q3108617](https://www.wikidata.org/wiki/Q3108617)  
+
+### alignments:
+ - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
+
+
 ## Arch of Malborghetto (Q3621780)
 [https://www.wikidata.org/wiki/Q3621780](https://www.wikidata.org/wiki/Q3621780)  
 
@@ -5413,6 +5455,13 @@
 
 ### alignments:
  - [Bakr Āwā](https://pleiades.stoa.org/places/48906852)
+
+
+## Balares (Q2408002)
+[https://www.wikidata.org/wiki/Q2408002](https://www.wikidata.org/wiki/Q2408002)  
+
+### alignments:
+ - [Balari](https://pleiades.stoa.org/places/471889)
 
 
 ## Balasagan (Q3633213)
@@ -8382,6 +8431,13 @@
  - [Kalliaros](https://pleiades.stoa.org/places/540847)
 
 
+## Callifae (Q136428405)
+[https://www.wikidata.org/wiki/Q136428405](https://www.wikidata.org/wiki/Q136428405)  
+
+### alignments:
+ - [Callifae?](https://pleiades.stoa.org/places/432737)
+
+
 ## Callow Hill Roman villa (Q17662632)
 [https://www.wikidata.org/wiki/Q17662632](https://www.wikidata.org/wiki/Q17662632)  
 
@@ -8788,6 +8844,13 @@
  - [Monte Cavallerizzo](https://pleiades.stoa.org/places/432948)
 
 
+## Capraia (Q3593349)
+[https://www.wikidata.org/wiki/Q3593349](https://www.wikidata.org/wiki/Q3593349)  
+
+### alignments:
+ - [Caprasia (island)](https://pleiades.stoa.org/places/403193)
+
+
 ## Capri (Q173292)
 [https://www.wikidata.org/wiki/Q173292](https://www.wikidata.org/wiki/Q173292)  
 
@@ -9180,6 +9243,13 @@
  - [Casal Rotondo](https://pleiades.stoa.org/places/422869)
 
 
+## Casale di Gregna (Q136419062)
+[https://www.wikidata.org/wiki/Q136419062](https://www.wikidata.org/wiki/Q136419062)  
+
+### alignments:
+ - [Casale di Gregna](https://pleiades.stoa.org/places/422871)
+
+
 ## casale fortificato di Balsignano (Q55685678)
 [https://www.wikidata.org/wiki/Q55685678](https://www.wikidata.org/wiki/Q55685678)  
 
@@ -9346,6 +9416,13 @@
 
 ### alignments:
  - [Castellina Marittima](https://pleiades.stoa.org/places/403194)
+
+
+## Castello d'Evoli (Q111369997)
+[https://www.wikidata.org/wiki/Q111369997](https://www.wikidata.org/wiki/Q111369997)  
+
+### alignments:
+ - [Castello D'Evoli](https://pleiades.stoa.org/places/799567350)
 
 
 ## Castello di Monte Sant'Angelo (Q3662725)
@@ -10181,6 +10258,13 @@
  - [Castromaior](https://pleiades.stoa.org/places/641265240)
 
 
+## Castropignano (Q277456)
+[https://www.wikidata.org/wiki/Q277456](https://www.wikidata.org/wiki/Q277456)  
+
+### alignments:
+ - [Castropignano](https://pleiades.stoa.org/places/432771)
+
+
 ## Castrum Altinum (Q1735330)
 [https://www.wikidata.org/wiki/Q1735330](https://www.wikidata.org/wiki/Q1735330)  
 
@@ -10522,6 +10606,13 @@
 
 ### alignments:
  - [S. Alessandro](https://pleiades.stoa.org/places/423036)
+
+
+## Catacombs of Sant'Ilario (Q104907509)
+[https://www.wikidata.org/wiki/Q104907509](https://www.wikidata.org/wiki/Q104907509)  
+
+### alignments:
+ - [Sant'Ilario](https://pleiades.stoa.org/places/584272774)
 
 
 ## Catacombs of Villa Torlonia (Q3663216)
@@ -17097,6 +17188,13 @@
  - [Giffoni Valle Piana](https://pleiades.stoa.org/places/442600)
 
 
+## Giglio (Q13409862)
+[https://www.wikidata.org/wiki/Q13409862](https://www.wikidata.org/wiki/Q13409862)  
+
+### alignments:
+ - [Igilium (island)](https://pleiades.stoa.org/places/403221)
+
+
 ## Gijón (Q12273)
 [https://www.wikidata.org/wiki/Q12273](https://www.wikidata.org/wiki/Q12273)  
 
@@ -19868,6 +19966,13 @@
 
 ### alignments:
  - [Ilgynly-Depe](https://pleiades.stoa.org/places/374540942)
+
+
+## Ilienses (Q636131)
+[https://www.wikidata.org/wiki/Q636131](https://www.wikidata.org/wiki/Q636131)  
+
+### alignments:
+ - [Ilienses](https://pleiades.stoa.org/places/471951)
 
 
 ## Ilisos (Q1658567)
@@ -25113,6 +25218,13 @@
 
 ### alignments:
  - [Mauretania Tingitana (Roman province)](https://pleiades.stoa.org/places/981533)
+
+
+## Mausoleo di Gallieno (Q48809427)
+[https://www.wikidata.org/wiki/Q48809427](https://www.wikidata.org/wiki/Q48809427)  
+
+### alignments:
+ - [Mausoleum of Gallienus](https://pleiades.stoa.org/places/587082458)
 
 
 ## Mausoleum of Centcelles (Q1053521)
@@ -33901,13 +34013,6 @@
  - [Castellum Tingitanum](https://pleiades.stoa.org/places/295245)
 
 
-## Q104907509: Catacombs of Sant'Ilario
-[https://www.wikidata.org/wiki/Q104907509](https://www.wikidata.org/wiki/Q104907509)  
-
-### alignments:
- - [Sant'Ilario](https://pleiades.stoa.org/places/584272774)
-
-
 ## Q105217577: Roman villa of Cortijo Robledo
 [https://www.wikidata.org/wiki/Q105217577](https://www.wikidata.org/wiki/Q105217577)  
 
@@ -40200,6 +40305,13 @@
  - [Sacred well of Predio Canopoli](https://pleiades.stoa.org/places/165291492)
 
 
+## Q21088738
+[https://www.wikidata.org/wiki/Q21088738](https://www.wikidata.org/wiki/Q21088738)  
+
+### alignments:
+ - [Ferentinum](https://pleiades.stoa.org/places/432830)
+
+
 ## Q210957: Antonine Wall
 [https://www.wikidata.org/wiki/Q210957](https://www.wikidata.org/wiki/Q210957)  
 
@@ -42730,13 +42842,6 @@
  - [Umm el-Jimal](https://pleiades.stoa.org/places/678439)
 
 
-## Q3108617: Arch of Gallienus
-[https://www.wikidata.org/wiki/Q3108617](https://www.wikidata.org/wiki/Q3108617)  
-
-### alignments:
- - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
-
-
 ## Q3110479: Gonfienti
 [https://www.wikidata.org/wiki/Q3110479](https://www.wikidata.org/wiki/Q3110479)  
 
@@ -43519,13 +43624,6 @@
 
 ### alignments:
  - [Madonna del Parto](https://pleiades.stoa.org/places/111489261)
-
-
-## Q3593349: Capraia
-[https://www.wikidata.org/wiki/Q3593349](https://www.wikidata.org/wiki/Q3593349)  
-
-### alignments:
- - [Caprasia (island)](https://pleiades.stoa.org/places/403193)
 
 
 ## Q359627: Haliartos
@@ -45714,13 +45812,6 @@
 
 ### alignments:
  - [Subinates](https://pleiades.stoa.org/places/383787)
-
-
-## Q48809427: Mausoleo di Gallieno
-[https://www.wikidata.org/wiki/Q48809427](https://www.wikidata.org/wiki/Q48809427)  
-
-### alignments:
- - [Mausoleum of Gallienus](https://pleiades.stoa.org/places/587082458)
 
 
 ## Q4891677: Berginium
@@ -48815,13 +48906,6 @@
 
 ### alignments:
  - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
-
-
-## Q763100: Via Labicana
-[https://www.wikidata.org/wiki/Q763100](https://www.wikidata.org/wiki/Q763100)  
-
-### alignments:
- - [Via Labicana](https://pleiades.stoa.org/places/74935822)
 
 
 ## Q763167: Qanawat
@@ -56351,6 +56435,13 @@
  - [Sulayman Mountain](https://pleiades.stoa.org/places/167102197)
 
 
+## Sulci (Q1782566)
+[https://www.wikidata.org/wiki/Q1782566](https://www.wikidata.org/wiki/Q1782566)  
+
+### alignments:
+ - [Sulci(s)](https://pleiades.stoa.org/places/472024)
+
+
 ## Sulloniacis (Q7636455)
 [https://www.wikidata.org/wiki/Q7636455](https://www.wikidata.org/wiki/Q7636455)  
 
@@ -62265,6 +62356,13 @@
 
 ### alignments:
  - [Via Julia Augusta](https://pleiades.stoa.org/places/507729266)
+
+
+## Via Labicana (Q763100)
+[https://www.wikidata.org/wiki/Q763100](https://www.wikidata.org/wiki/Q763100)  
+
+### alignments:
+ - [Via Labicana](https://pleiades.stoa.org/places/74935822)
 
 
 ## Via Lata (Q3066709)

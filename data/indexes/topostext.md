@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3766 alignments exist in _Pleiades_ place references as of 2025-10-02. The following list of alignments is grouped by zotkey.
+3770 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -122,6 +122,13 @@
  - [Abakainon](https://pleiades.stoa.org/places/462062)
 
 
+## Abantes tribe (Euboea) 38 Euboia - Αβαντίς
+[https://topostext.org/place/388238RAba](https://topostext.org/place/388238RAba)  
+
+### alignments:
+ - [Abantes](https://pleiades.stoa.org/places/540583)
+
+
 ## Abarnis (Mysia)
 [https://topostext.org/place/404267UAba](https://topostext.org/place/404267UAba)  
 
@@ -211,6 +218,13 @@
 
 ### alignments:
  - [Ingena/Abrincas](https://pleiades.stoa.org/places/69518)
+
+
+## Abritus (Thrace) 3 Razgrad
+[https://topostext.org/place/435266UAbr](https://topostext.org/place/435266UAbr)  
+
+### alignments:
+ - [Abrittus](https://pleiades.stoa.org/places/216688)
 
 
 ## Abrotonon/Sabratha (Libya)
@@ -5436,6 +5450,13 @@
 
 ### alignments:
  - [Cappadocia (region)](https://pleiades.stoa.org/places/628949)
+
+
+## Caprae Palus, She-Goat Marsh (Roma)
+[https://topostext.org/place/419125BCap](https://topostext.org/place/419125BCap)  
+
+### alignments:
+ - [Palus Caprae](https://pleiades.stoa.org/places/577728240)
 
 
 ## Capraria/Aigyllon island (Italia)
@@ -25863,6 +25884,13 @@
 
 ### alignments:
  - [Vatl/Vetulonia](https://pleiades.stoa.org/places/403291)
+
+
+## Via Labicana (Roma)
+[https://topostext.org/place/418127BVLa](https://topostext.org/place/418127BVLa)  
+
+### alignments:
+ - [Via Labicana](https://pleiades.stoa.org/places/74935822)
 
 
 ## Via Valeria (Latium)
