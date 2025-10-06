@@ -1,13 +1,78 @@
 {
     "@type": "Place",
     "bbox": [
-        81.794841,
-        7.317621,
-        81.794841,
-        7.317621
+        81.8169319,
+        7.4263926,
+        81.8169319,
+        7.4263926
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/50298",
+            "contributors": [],
+            "created": "2025-10-04T13:36:58Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T14:12:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T13:37:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-10-04T13:37:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T13:36:58Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "sri-lanka",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "5 inset Pandirippu",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Sri Lanka",
+            "uri": "https://pleiades.stoa.org/places/50203/sri-lanka"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/50298"
+    ],
     "contributors": [
         {
             "name": "DARMC",
@@ -36,36 +101,56 @@
             "username": "jbecker"
         }
     ],
-    "created": "2025-09-28T09:09:30Z",
+    "created": "2025-10-04T10:10:27Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 5 inset Pandirippu",
+    "description": "A settlement in eastern Sri Lanka that was reported in the early 20th century to have been the findspot of one, and maybe a few more, Roman bronze coins of the fourth century. Walburg suspects that this reported provenance may be incorrect.",
     "details": "<p>BAtlas included Pandirippu, marking it as \"a modern settlement associated with an exceptional cultural feature beyond the area of Greek and Roman settlement.\"</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    81.794841,
-                    7.317621
+                    81.8169319,
+                    7.4263926
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-24116",
+            "id": "osm-location-modern-pandiruppu",
             "properties": {
-                "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-                "link": "https://pleiades.stoa.org/places/50203/darmc-location-24116",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/50203/osm-location-modern-pandiruppu",
                 "location_precision": "precise",
-                "snippet": "Unknown; AD 300 - AD 640",
-                "title": "DARMC location 24116"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Pandiruppu"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "DARMC location 24116 = related",
+            "modified": "2025-10-04T13:35:50Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; Walburg 2023; Edited @thomase",
+            "modified": "2025-10-04T13:34:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary, place type += findspot; Edited @thomase",
+            "modified": "2025-10-03T13:03:47Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-03T10:33:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "details @thomase",
             "modified": "2025-09-28T14:51:28Z",
@@ -126,8 +211,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -135,91 +220,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-08-02T20:37:01Z",
+            "contributors": [],
+            "created": "2025-10-04T10:18:11Z",
             "creators": [
                 {
-                    "name": "M.U. Erdosy",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-            "details": "DARMC OBJECTID: 24116",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    81.794841,
-                    7.317621
+                    81.8169319,
+                    7.4263926
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:46:30Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-08-02T21:57:41Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-04T13:34:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-08-02T20:37:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-04T10:18:59Z",
+                    "modifiedBy": "thomase"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-08-02T20:37:02Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T10:18:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-10-04T10:18:11Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-08-02T20:37:01Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-04T10:18:11Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "darmc-location-24116",
+            "id": "osm-location-modern-pandiruppu",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 24116",
+            "provenance": "OpenStreetMap (Node 3331332246, version 4, osm:changeset=140899001, 2023-09-06T14:56:04Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3331332246",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "24116",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3331332246",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24116.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=3331332246",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARMC location 24116",
-            "uri": "https://pleiades.stoa.org/places/50203/darmc-location-24116"
+            "start": 2000,
+            "title": "OSM Location: modern Pandiruppu",
+            "uri": "https://pleiades.stoa.org/places/50203/osm-location-modern-pandiruppu"
         }
     ],
     "names": [
@@ -294,13 +376,99 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/50203/pandirippu"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Pandiruppu",
+            "contributors": [],
+            "created": "2025-10-04T10:16:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T13:36:02Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T10:28:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-04T10:27:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-04T10:26:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T10:16:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T10:16:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "pandiruppu",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://doi.org/10.34780/46zc-69fz",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IC4UD2LV",
+                    "citationDetail": "pages 208 and 402",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Walburg, Reinhold. <i>Coins and Tokens from Ancient Ceylon: Being a Critical Survey of the Coins and Coin like Objects Unearthed on the Island Based on a Thoroughly Annotated Catalogue of Finds, and Supplemented by an Analytical Part Dealing with the Island’s Ancient Economy and Its Trade with the Western World</i>. Forschungen Zur Archaologie AuBereuropaischer Kulturen 5. Deutsches Archäologisches Institut, 2023. https://doi.org/10.34780/46ZC-69FZ;%20Ancient%20Ruhuna:%20Sri%20Lankan%20-%20German%20Archaeological%20Project%20in%20the%20Southern.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Walburg 2023",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Pandiruppu",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/50203/pandiruppu"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "findspot",
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 inset Pandirippu",
     "references": [
@@ -325,11 +493,33 @@
             "otherIdentifier": "",
             "shortTitle": "Wheeler 1951",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://doi.org/10.34780/46zc-69fz",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IC4UD2LV",
+            "citationDetail": "numbers 207 and 208 (page 111) and pages 210-211",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Walburg, Reinhold. <i>Coins and Tokens from Ancient Ceylon: Being a Critical Survey of the Coins and Coin like Objects Unearthed on the Island Based on a Thoroughly Annotated Catalogue of Finds, and Supplemented by an Analytical Part Dealing with the Island’s Ancient Economy and Its Trade with the Western World</i>. Forschungen Zur Archaologie AuBereuropaischer Kulturen 5. Deutsches Archäologisches Institut, 2023. https://doi.org/10.34780/46ZC-69FZ;%20Ancient%20Ruhuna:%20Sri%20Lankan%20-%20German%20Archaeological%20Project%20in%20the%20Southern.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Walburg 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "24116",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        81.794841,
-        7.317621
+        81.8169319,
+        7.4263926
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
@@ -338,7 +528,7 @@
         "dare:ancient=0",
         "dare:feature=settlement"
     ],
-    "title": "Pandirippu",
+    "title": "Pandiruppu",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/50203"
 }

@@ -1,20 +1,85 @@
 {
     "@type": "Place",
     "bbox": [
+        80.51667,
+        6.01667,
         80.61271,
-        6.023303,
-        80.61271,
-        6.023303
+        6.03333
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/50298",
+            "contributors": [],
+            "created": "2025-10-04T13:57:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T14:08:26Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T13:57:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-10-04T13:57:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T13:57:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "sri-lanka",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "5 inset Kitalagama",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Sri Lanka",
+            "uri": "https://pleiades.stoa.org/places/50058/sri-lanka"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/50298"
+    ],
     "contributors": [
         {
-            "name": "R. Talbert",
+            "name": "DARMC",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "R. Talbert",
             "username": null
         },
         {
@@ -22,17 +87,29 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-23T00:59:16Z",
+    "created": "2025-10-04T14:01:57Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 5 inset Kitalagama",
-    "details": "The Barrington Atlas Directory notes: Kitalagama, SRI",
+    "description": "Kitalagama is recorded as the early 20th century findspot of two separately reported hoards (or parts thereof) of Roman bronze coins. The identifiable coins date from the Constantinian and Theodosian dynasties. Walburg reports that neither find is sufficiently well-documented to determine which of two modern towns is meant: Kitalagama West or Kitalagama East.",
+    "details": "<p>The Barrington Atlas Directory notes: Kitalagama, SRI</p>",
     "features": [
         {
             "geometry": {
@@ -44,16 +121,72 @@
             },
             "id": "darmc-location-23195",
             "properties": {
-                "description": "5M scale point location",
+                "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/50058/darmc-location-23195",
                 "location_precision": "precise",
                 "snippet": "Unknown; AD 300 - AD 640",
                 "title": "DARMC location 23195"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.51667,
+                    6.03333
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-modern-kitalagama-west",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-west",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "Geonames location: modern Kitalagama West"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.55,
+                    6.01667
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-modern-kitalagama-east",
+            "properties": {
+                "description": "",
+                "link": "https://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-east",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "Geonames location: modern Kitalagama East"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added CHRE references for both hoards",
+            "modified": "2025-10-04T14:04:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-04T14:01:56Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary; place type = settlement-modern and findspot; added Walburg 2023; update references @thomase",
+            "modified": "2025-10-04T13:56:00Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-04T08:56:57Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T22:27:16Z",
@@ -120,7 +253,7 @@
                     "username": null
                 }
             ],
-            "description": "5M scale point location",
+            "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 23195",
             "end": 640,
             "featureType": [
@@ -188,14 +321,416 @@
             "start": 300,
             "title": "DARMC location 23195",
             "uri": "https://pleiades.stoa.org/places/50058/darmc-location-23195"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-10-04T09:48:11Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    80.51667,
+                    6.03333
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T13:58:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T09:54:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-04T09:51:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T09:48:15Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T09:48:11Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-modern-kitalagama-west",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/1240009/kitalagama-west.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "1240009: Kitalagama West",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "Geonames location: modern Kitalagama West",
+            "uri": "https://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-west"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-10-04T09:50:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    80.55,
+                    6.01667
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T13:58:17Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T09:54:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T09:50:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T09:50:20Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "geonames-location-modern-kitalagama-east",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/1240010/kitalagama-east.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "1240010: Kitalagama East",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "Geonames location: modern Kitalagama East",
+            "uri": "https://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-east"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Kitalagama",
+            "contributors": [],
+            "created": "2025-10-04T13:56:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T14:08:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T13:57:01Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-10-04T13:56:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T13:56:48Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "kitalagama",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "5 inset Kitalagama",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kitalagama",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/50058/kitalagama"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "කිටලාගම",
+            "contributors": [],
+            "created": "2025-10-04T14:05:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T14:36:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T14:05:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T14:05:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T14:05:37Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kitalagama-1",
+            "language": "si",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18481",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+                    "citationDetail": "18481: Kitalagama 1935",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "CHRE",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kitalagama, Kiṭalāgama",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/50058/kitalagama-1"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "கிடலாகம்",
+            "contributors": [],
+            "created": "2025-10-04T14:06:56Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-04T14:36:27Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-04T14:07:04Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-04T14:06:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-04T14:06:56Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kitalakam",
+            "language": "ta",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18481",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+                    "citationDetail": "18481: Kitalagama 1935",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "CHRE",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kiṭalākam, Kitalakam, Kitalagam",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/50058/kitalakam"
+        }
+    ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/findspot",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "findspot",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 inset Kitalagama",
     "references": [
@@ -213,25 +748,58 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/w.html#Wheeler-1951",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/AAT5G2YQ",
+            "citationDetail": "381",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wheeler 1951, 381",
+            "formattedCitation": "<div class=\"csl-entry\">Wheeler, R.E.M. “Roman Contact with India, Pakistan and Afghanistan.” In <i>Aspects of Archaeology in Britain and beyond: Essays Presented to O.G.S. Crawford</i>, 345–81. London, 1951.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wheeler 1951",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://doi.org/10.34780/46zc-69fz",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IC4UD2LV",
+            "citationDetail": "numbers 155 and 156 (page 170)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Walburg, Reinhold. <i>Coins and Tokens from Ancient Ceylon: Being a Critical Survey of the Coins and Coin like Objects Unearthed on the Island Based on a Thoroughly Annotated Catalogue of Finds, and Supplemented by an Analytical Part Dealing with the Island’s Ancient Economy and Its Trade with the Western World</i>. Forschungen Zur Archaologie AuBereuropaischer Kulturen 5. Deutsches Archäologisches Institut, 2023. https://doi.org/10.34780/46ZC-69FZ;%20Ancient%20Ruhuna:%20Sri%20Lankan%20-%20German%20Archaeological%20Project%20in%20the%20Southern.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Walburg 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18478",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+            "citationDetail": "18478: Kitalagama 1924",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CHRE",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18481",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+            "citationDetail": "18481: Kitalagama 1935",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CHRE",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        80.61271,
-        6.023303
+        80.55979333333335,
+        6.024434333333335
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
-        "dare:feature=settlement",
-        "dare:ancient=0"
+        "dare:ancient=0",
+        "dare:feature=settlement"
     ],
     "title": "Kitalagama",
     "type": "FeatureCollection",
