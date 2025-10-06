@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-736 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
+738 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3264,6 +3264,20 @@
 
 ### alignments:
  - [Euboea (island)](https://pleiades.stoa.org/places/540775)
+
+
+## 8195613: Thrace (N. Greece)
+[https://resource.manto.unh.edu/8195613](https://resource.manto.unh.edu/8195613)  
+
+### alignments:
+ - [Thracia](https://pleiades.stoa.org/places/501638)
+
+
+## 8195615: Thrace (Pontic)
+[https://resource.manto.unh.edu/8195615](https://resource.manto.unh.edu/8195615)  
+
+### alignments:
+ - [Thrake](https://pleiades.stoa.org/places/1001889)
 
 
 ## 8195619: Paionia

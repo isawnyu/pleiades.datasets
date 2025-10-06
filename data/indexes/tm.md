@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4688 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
+4696 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7003,7 +7003,7 @@
 [http://www.trismegistos.org/place/15906](http://www.trismegistos.org/place/15906)  
 
 ### alignments:
- - [Kabyle/Diospolis](https://pleiades.stoa.org/places/216859)
+ - [Kabyle](https://pleiades.stoa.org/places/216859)
 
 
 ## GEO ID 15910: Astibos (Štip)
@@ -10556,6 +10556,13 @@
  - [Ad Turrem](https://pleiades.stoa.org/places/157799)
 
 
+## GEO ID 2201: Stratonikeia (Eskihissar)
+[http://www.trismegistos.org/place/2201](http://www.trismegistos.org/place/2201)  
+
+### alignments:
+ - [Stratonikeia](https://pleiades.stoa.org/places/599947)
+
+
 ## GEO ID 22055
 [https://www.trismegistos.org/place/22055](https://www.trismegistos.org/place/22055)  
 
@@ -10617,6 +10624,13 @@
 
 ### alignments:
  - [Bitia](https://pleiades.stoa.org/places/471894)
+
+
+## GEO ID 22118: Neapolis (Santa Maria de Nabui)
+[https://www.trismegistos.org/place/22118](https://www.trismegistos.org/place/22118)  
+
+### alignments:
+ - [Neapolis (Sardinia)](https://pleiades.stoa.org/places/471977)
 
 
 ## GEO ID 2211: Syria
@@ -11598,6 +11612,13 @@
 
 ### alignments:
  - [Condate Redonum](https://pleiades.stoa.org/places/69491)
+
+
+## GEO ID 2414: Thracia
+[https://www.trismegistos.org/place/2414](https://www.trismegistos.org/place/2414)  
+
+### alignments:
+ - [Thracia](https://pleiades.stoa.org/places/501638)
 
 
 ## GEO ID 24175: Lunna (Saint-Georges-de-Reneins)
@@ -12809,6 +12830,13 @@
 
 ### alignments:
  - [Elche de la Sierra](https://pleiades.stoa.org/places/265890)
+
+
+## GEO ID 27067: Ilunum (Hellín)
+[http://www.trismegistos.org/place/27067](http://www.trismegistos.org/place/27067)  
+
+### alignments:
+ - [Ilounon?](https://pleiades.stoa.org/places/265928)
 
 
 ## GEO ID 27069: Libisosa Forum Augustum (Lezuza)
@@ -14336,6 +14364,20 @@
 
 ### alignments:
  - [Marcianopolis](https://pleiades.stoa.org/places/216878)
+
+
+## GEO ID 29831: Durostorum (Silistra)
+[https://www.trismegistos.org/place/29831](https://www.trismegistos.org/place/29831)  
+
+### alignments:
+ - [Durostorum](https://pleiades.stoa.org/places/216800)
+
+
+## GEO ID 29838: Palmatae (Tervel)
+[https://www.trismegistos.org/place/29838](https://www.trismegistos.org/place/29838)  
+
+### alignments:
+ - [Palmatis](https://pleiades.stoa.org/places/216916)
 
 
 ## GEO ID 29839: Oescus (Gigen)
@@ -18978,6 +19020,13 @@
 
 ### alignments:
  - [Tenos (island)](https://pleiades.stoa.org/places/590074)
+
+
+## GEO ID 36401: Zaldapa (Abrit)
+[https://www.trismegistos.org/place/36401](https://www.trismegistos.org/place/36401)  
+
+### alignments:
+ - [Zaldapa](https://pleiades.stoa.org/places/222244)
 
 
 ## GEO ID 3640: Taucheira (Tokra)
@@ -24881,6 +24930,13 @@
 
 ### alignments:
  - [Antiochia Tharmata/Arma](https://pleiades.stoa.org/places/60420)
+
+
+## GEO ID 42326: Taprobane (Sri Lanka)
+[http://www.trismegistos.org/place/42326](http://www.trismegistos.org/place/42326)  
+
+### alignments:
+ - [Sri Lanka](https://pleiades.stoa.org/places/50298)
 
 
 ## GEO ID 42339: Mosa (Meuse)

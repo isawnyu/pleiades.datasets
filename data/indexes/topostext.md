@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3770 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
+3776 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6433,6 +6433,13 @@
  - [Corniculum](https://pleiades.stoa.org/places/422910)
 
 
+## Cornus (Sardinia) 4 Santa Caterina di Pittinuri - Κόρνος
+[https://topostext.org/place/401085UCor](https://topostext.org/place/401085UCor)  
+
+### alignments:
+ - [Cornus](https://pleiades.stoa.org/places/471907)
+
+
 ## Coronea (Boeotia)
 [https://topostext.org/place/384230PKor](https://topostext.org/place/384230PKor)  
 
@@ -7499,6 +7506,13 @@
 
 ### alignments:
  - [Duroliponte](https://pleiades.stoa.org/places/79436)
+
+
+## Durostorum (Moesia) 5 Silistra - Δουρόστορον
+[https://topostext.org/place/441273UDur](https://topostext.org/place/441273UDur)  
+
+### alignments:
+ - [Durostorum](https://pleiades.stoa.org/places/216800)
 
 
 ## Durovernum (Britannia)
@@ -11321,7 +11335,7 @@
 [https://topostext.org/place/425265PKab](https://topostext.org/place/425265PKab)  
 
 ### alignments:
- - [Kabyle/Diospolis](https://pleiades.stoa.org/places/216859)
+ - [Kabyle](https://pleiades.stoa.org/places/216859)
 
 
 ## Kadiston Mt. (Crete) 5 Kadiston - Κάδιστον
@@ -16436,7 +16450,7 @@
 [https://topostext.org/place/397086UNea](https://topostext.org/place/397086UNea)  
 
 ### alignments:
- - [Neapolis](https://pleiades.stoa.org/places/471977)
+ - [Neapolis (Sardinia)](https://pleiades.stoa.org/places/471977)
 
 
 ## Neapolis (Tunis)
@@ -17691,7 +17705,7 @@
 [https://topostext.org/place/349249IOxe](https://topostext.org/place/349249IOxe)  
 
 ### alignments:
- - [Oxeia Ins.](https://pleiades.stoa.org/places/589964)
+ - [Oxeia (island)](https://pleiades.stoa.org/places/589964)
 
 
 ## Oxeiai (Achaia)
@@ -20231,6 +20245,13 @@
 
 ### alignments:
  - [Plotheia](https://pleiades.stoa.org/places/580082)
+
+
+## Plotinoupolis (Evros) 22 Didymoteikho - Πλωτινούπολις
+[https://topostext.org/place/414265UPlo](https://topostext.org/place/414265UPlo)  
+
+### alignments:
+ - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
 
 
 ## Pnigeus (Egypt)
@@ -23625,6 +23646,13 @@
  - [Taphos (island)](https://pleiades.stoa.org/places/531114)
 
 
+## Taprobane island (Asia) 48 Sri Lanka - Ταπροβάνη
+[https://topostext.org/place/073805ITap](https://topostext.org/place/073805ITap)  
+
+### alignments:
+ - [Sri Lanka](https://pleiades.stoa.org/places/50298)
+
+
 ## Taras (Italy)
 [https://topostext.org/place/405172PTar](https://topostext.org/place/405172PTar)  
 
@@ -24569,6 +24597,13 @@
 
 ### alignments:
  - [Thourion](https://pleiades.stoa.org/places/487031708)
+
+
+## Thrace region (Evros) 1818 Thraki - Θραίκη
+[https://topostext.org/place/410265RThr](https://topostext.org/place/410265RThr)  
+
+### alignments:
+ - [Thracia](https://pleiades.stoa.org/places/501638)
 
 
 ## Thria (Attica)
@@ -25884,6 +25919,13 @@
 
 ### alignments:
  - [Vatl/Vetulonia](https://pleiades.stoa.org/places/403291)
+
+
+## Via Appia (Latium)
+[https://topostext.org/place/417131BVAp](https://topostext.org/place/417131BVAp)  
+
+### alignments:
+ - [Via Appia](https://pleiades.stoa.org/places/356966898)
 
 
 ## Via Labicana (Roma)

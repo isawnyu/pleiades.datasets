@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-436 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
+437 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2061,6 +2061,13 @@
 
 ### alignments:
  - [Genesion/Apobathmoi](https://pleiades.stoa.org/places/570257)
+
+
+## Toponyme 26450: Didymoteicho, Dimotika-Δ.Δ.Διδυμοτείχου
+[https://chronique.efa.gr/?r=topo_public&id=26450](https://chronique.efa.gr/?r=topo_public&id=26450)  
+
+### alignments:
+ - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
 
 
 ## Toponyme 27581: Edessa, Vodena

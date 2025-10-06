@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2236 alignments exist in _Pleiades_ place references as of 2025-10-03. The following list of alignments is grouped by zotkey.
+2239 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4427,6 +4427,13 @@
 
 ### alignments:
  - [Sardinia (island)](https://pleiades.stoa.org/places/472014)
+
+
+## 2C5 (Talbert 2917)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2917.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2917.html)  
+
+### alignments:
+ - [Neapolis (Sardinia)](https://pleiades.stoa.org/places/471977)
 
 
 ## 2C5 (Talbert 2918)
@@ -11882,6 +11889,13 @@
  - [Sexaginta Prista](https://pleiades.stoa.org/places/216982)
 
 
+## 7A2 (Talbert 1944)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1944.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1944.html)  
+
+### alignments:
+ - [Durostorum](https://pleiades.stoa.org/places/216800)
+
+
 ## 7A2 (Talbert 1996)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1996.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1996.html)  
 
@@ -11957,6 +11971,13 @@
 
 ### alignments:
  - [Erite/Ereta](https://pleiades.stoa.org/places/216806)
+
+
+## 7A3 (Talbert 1987)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1987.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1987.html)  
+
+### alignments:
+ - [Palmatis](https://pleiades.stoa.org/places/216916)
 
 
 ## 7A3 (Talbert 1988)
@@ -12348,7 +12369,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2007.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2007.html)  
 
 ### alignments:
- - [Kabyle/Diospolis](https://pleiades.stoa.org/places/216859)
+ - [Kabyle](https://pleiades.stoa.org/places/216859)
 
 
 ## 7B3 (Talbert 2012)
