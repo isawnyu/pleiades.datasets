@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2025/09/28 06:47:36.817229 GMT-4
+# Date: 2025/10/05 06:47:35.334471 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1092
+# Triple count: 1098
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -105,6 +105,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "bath, spa"@en;
     skos:scopeNote "Bath complexes as commonly found in Greek and Roman cities."@en .
+
+<https://pleiades.stoa.org/vocabularies/battlefield> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/battlefield>,
+        <https://vocab.getty.edu/aat/300000835>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "battlefield"@en;
+    skos:scopeNote "A battlefield as defined by the Getty Art and Architecture Thesaurus: Locations where a hostile meetings of opposing military forces in the course of a war have taken place."@en .
 
 <https://pleiades.stoa.org/vocabularies/bay> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/bay>;
