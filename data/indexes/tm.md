@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4696 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
+4697 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4239,6 +4239,13 @@
 
 ### alignments:
  - [Mytilene](https://pleiades.stoa.org/places/550763)
+
+
+## GEO ID 14130: Toletum (Toledo)
+[http://www.trismegistos.org/place/14130](http://www.trismegistos.org/place/14130)  
+
+### alignments:
+ - [Toletum](https://pleiades.stoa.org/places/266066)
 
 
 ## GEO ID 14134: Saguntum (Sagunto)
@@ -12335,7 +12342,7 @@
  - [Ucubi/Col. Claritas Iulia](https://pleiades.stoa.org/places/266081)
 
 
-## GEO ID 26037
+## GEO ID 26037: Iliturgicola (Fuente Tójar)
 [http://www.trismegistos.org/place/26037](http://www.trismegistos.org/place/26037)  
 
 ### alignments:
@@ -12836,7 +12843,7 @@
 [http://www.trismegistos.org/place/27067](http://www.trismegistos.org/place/27067)  
 
 ### alignments:
- - [Ilounon?](https://pleiades.stoa.org/places/265928)
+ - [Tolmo de Minateda](https://pleiades.stoa.org/places/265928)
 
 
 ## GEO ID 27069: Libisosa Forum Augustum (Lezuza)

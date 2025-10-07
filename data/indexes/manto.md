@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-738 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
+739 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4412,6 +4412,13 @@
 
 ### alignments:
  - [Panopeos/Phanotis](https://pleiades.stoa.org/places/541008)
+
+
+## 9688204: Anemoreia (Phocis)
+[https://resource.manto.unh.edu/9688204](https://resource.manto.unh.edu/9688204)  
+
+### alignments:
+ - [Anemoreia/Anemoleia](https://pleiades.stoa.org/places/543626)
 
 
 ## 9688209: River Cephisos (Phocis/Boiotia)

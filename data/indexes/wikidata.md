@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9265 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
+9272 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2747,6 +2747,13 @@
  - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
 
 
+## Anemoreia (Q12873694)
+[https://www.wikidata.org/wiki/Q12873694](https://www.wikidata.org/wiki/Q12873694)  
+
+### alignments:
+ - [Anemoreia/Anemoleia](https://pleiades.stoa.org/places/543626)
+
+
 ## Anemurium (Q529237)
 [https://www.wikidata.org/wiki/Q529237](https://www.wikidata.org/wiki/Q529237)  
 
@@ -2766,6 +2773,13 @@
 
 ### alignments:
  - [Roman amphitheater at Carmo](https://pleiades.stoa.org/places/347507191)
+
+
+## Angeia (Q16530426)
+[https://www.wikidata.org/wiki/Q16530426](https://www.wikidata.org/wiki/Q16530426)  
+
+### alignments:
+ - [Angeia](https://pleiades.stoa.org/places/540636)
 
 
 ## Angitola (Q769543)
@@ -5203,6 +5217,13 @@
 
 ### alignments:
  - [Aelana/Aila](https://pleiades.stoa.org/places/746700)
+
+
+## Ayn al-Zara (Q11910919)
+[https://www.wikidata.org/wiki/Q11910919](https://www.wikidata.org/wiki/Q11910919)  
+
+### alignments:
+ - [Kalliroe](https://pleiades.stoa.org/places/697677)
 
 
 ## Ayn Ghazal (Q423625)
@@ -29464,6 +29485,13 @@
  - [Odeon at Catania](https://pleiades.stoa.org/places/674092819)
 
 
+## Odeon of Domitian (Q2291009)
+[https://www.wikidata.org/wiki/Q2291009](https://www.wikidata.org/wiki/Q2291009)  
+
+### alignments:
+ - [Odeon of Domitian](https://pleiades.stoa.org/places/219858507)
+
+
 ## odeon of Lyon (Q3175)
 [https://www.wikidata.org/wiki/Q3175](https://www.wikidata.org/wiki/Q3175)  
 
@@ -32073,6 +32101,13 @@
 
 ### alignments:
  - [Plinth in D Street Outside The Temple of Artemis Azzanthkona](https://pleiades.stoa.org/places/888638048)
+
+
+## Plotinopolis (Q11942094)
+[https://www.wikidata.org/wiki/Q11942094](https://www.wikidata.org/wiki/Q11942094)  
+
+### alignments:
+ - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
 
 
 ## Plovdiv Roman theatre (Q1363208)
@@ -49830,7 +49865,7 @@
 [https://www.wikidata.org/wiki/Q9088095](https://www.wikidata.org/wiki/Q9088095)  
 
 ### alignments:
- - [Ilounon?](https://pleiades.stoa.org/places/265928)
+ - [Tolmo de Minateda](https://pleiades.stoa.org/places/265928)
 
 
 ## Q9093954: Villa romana de Almenara
@@ -55225,6 +55260,13 @@
  - [Aphrodite Golgia](https://pleiades.stoa.org/places/707470)
 
 
+## Shrine of Mutunus Tutunus (Q132457514)
+[https://www.wikidata.org/wiki/Q132457514](https://www.wikidata.org/wiki/Q132457514)  
+
+### alignments:
+ - [Shrine of Mutunus Tutunus](https://pleiades.stoa.org/places/27863485)
+
+
 ## Shrine of Sabazius (V,XII,3) (Q135678823)
 [https://www.wikidata.org/wiki/Q135678823](https://www.wikidata.org/wiki/Q135678823)  
 
@@ -59592,6 +59634,13 @@
 
 ### alignments:
  - [Tol-e Sangi (Fars)](https://pleiades.stoa.org/places/571478280)
+
+
+## Toledo (Q5836)
+[https://www.wikidata.org/wiki/Q5836](https://www.wikidata.org/wiki/Q5836)  
+
+### alignments:
+ - [Toletum](https://pleiades.stoa.org/places/266066)
 
 
 ## Tolfa (Q243488)

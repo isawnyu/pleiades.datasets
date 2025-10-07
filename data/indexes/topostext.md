@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3776 alignments exist in _Pleiades_ place references as of 2025-10-06. The following list of alignments is grouped by zotkey.
+3779 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1944,6 +1944,13 @@
  - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
 
 
+## Anemoreia (Boeotia) 10 Arachova - Αιολίδαι
+[https://topostext.org/place/385228PAne](https://topostext.org/place/385228PAne)  
+
+### alignments:
+ - [Anemoreia/Anemoleia](https://pleiades.stoa.org/places/543626)
+
+
 ## Anemosa (Arkadia)
 [https://topostext.org/place/376222UAne](https://topostext.org/place/376222UAne)  
 
@@ -1963,6 +1970,13 @@
 
 ### alignments:
  - [Anemurium](https://pleiades.stoa.org/places/648557)
+
+
+## Angeia (Dolopia) 1 Loutropigi (Smokovo) - Άγγειαι
+[https://topostext.org/place/391221PAng](https://topostext.org/place/391221PAng)  
+
+### alignments:
+ - [Angeia](https://pleiades.stoa.org/places/540636)
 
 
 ## Angele (Attica)
@@ -17054,6 +17068,13 @@
 
 ### alignments:
  - [Odessus](https://pleiades.stoa.org/places/216904)
+
+
+## Odeum of Domitian (Rome)
+[https://topostext.org/place/419125BOdD](https://topostext.org/place/419125BOdD)  
+
+### alignments:
+ - [Odeon of Domitian](https://pleiades.stoa.org/places/219858507)
 
 
 ## Odigitria tholos (Crete) Odigitria
