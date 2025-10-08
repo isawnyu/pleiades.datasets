@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9272 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
+9277 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -890,6 +890,13 @@
 
 ### alignments:
  - [Unnamed Bridge near Memnonis Vicus](https://pleiades.stoa.org/places/512650)
+
+
+## Aesti (Q256937)
+[https://www.wikidata.org/wiki/Q256937](https://www.wikidata.org/wiki/Q256937)  
+
+### alignments:
+ - [Aestii](https://pleiades.stoa.org/places/20389)
 
 
 ## Aethiopia (Q410453)
@@ -17322,6 +17329,13 @@
  - [Genusia](https://pleiades.stoa.org/places/442598)
 
 
+## Gintota (Q96379496)
+[https://www.wikidata.org/wiki/Q96379496](https://www.wikidata.org/wiki/Q96379496)  
+
+### alignments:
+ - [Gintota](https://pleiades.stoa.org/places/49988)
+
+
 ## Gioia dei Marsi (Q50096)
 [https://www.wikidata.org/wiki/Q50096](https://www.wikidata.org/wiki/Q50096)  
 
@@ -18980,6 +18994,13 @@
 
 ### alignments:
  - [Hieron Oros](https://pleiades.stoa.org/places/857162)
+
+
+## Hikkaduwa (Q1618065)
+[https://www.wikidata.org/wiki/Q1618065](https://www.wikidata.org/wiki/Q1618065)  
+
+### alignments:
+ - [Hikkaduwa](https://pleiades.stoa.org/places/49998)
 
 
 ## Hilakku (Q4822699)
@@ -21180,6 +21201,13 @@
  - [Sanctuary of Kalliste](https://pleiades.stoa.org/places/249767014)
 
 
+## Kalmunai (Q1101382)
+[https://www.wikidata.org/wiki/Q1101382](https://www.wikidata.org/wiki/Q1101382)  
+
+### alignments:
+ - [Kalmunai](https://pleiades.stoa.org/places/50027)
+
+
 ## Kalos Limen (Q4210299)
 [https://www.wikidata.org/wiki/Q4210299](https://www.wikidata.org/wiki/Q4210299)  
 
@@ -21192,6 +21220,13 @@
 
 ### alignments:
  - [Kaloukones?](https://pleiades.stoa.org/places/98993)
+
+
+## Kalpitiya (Q14220105)
+[https://www.wikidata.org/wiki/Q14220105](https://www.wikidata.org/wiki/Q14220105)  
+
+### alignments:
+ - [Kalpitiya](https://pleiades.stoa.org/places/50028)
 
 
 ## Kals am Großglockner (Q697575)
@@ -49091,13 +49126,6 @@
  - [Delphi](https://pleiades.stoa.org/places/540726)
 
 
-## Q756816: Via Aurelia
-[https://www.wikidata.org/wiki/Q756816](https://www.wikidata.org/wiki/Q756816)  
-
-### alignments:
- - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
-
-
 ## Q763167: Qanawat
 [https://www.wikidata.org/wiki/Q763167](https://www.wikidata.org/wiki/Q763167)  
 
@@ -62518,6 +62546,13 @@
 
 ### alignments:
  - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
+
+
+## Via Aurelia (Q756816)
+[https://www.wikidata.org/wiki/Q756816](https://www.wikidata.org/wiki/Q756816)  
+
+### alignments:
+ - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
 
 
 ## Via Bisignano Sepulchre (Q56256399)

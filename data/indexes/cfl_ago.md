@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-437 alignments exist in _Pleiades_ place references as of 2025-10-07. The following list of alignments is grouped by zotkey.
+438 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2363,6 +2363,13 @@
 
 ### alignments:
  - [Athenae](https://pleiades.stoa.org/places/579885)
+
+
+## Toponyme 37687: Nauplie, Nafplio-Δ.Δ.Ναυπλιέων
+[https://chronique.efa.gr/?r=topo_public&id=37687](https://chronique.efa.gr/?r=topo_public&id=37687)  
+
+### alignments:
+ - [Nauplia](https://pleiades.stoa.org/places/570501)
 
 
 ## Toponyme 37712: Korinthos, Corinth
