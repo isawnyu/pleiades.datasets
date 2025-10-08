@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        80.414911,
+        80.4106096,
         8.313895,
         80.414911,
-        8.313895
+        8.334985
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/50298",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:54:11Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype = located on; BAtlas reference",
+                    "modified": "2025-10-07T11:02:19Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:54:11Z",
@@ -46,16 +58,29 @@
             ],
             "id": "50298",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "http://atlantides.org/bibliography/b.html#batlas-5-inset",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "",
+                    "otherIdentifier": "",
+                    "shortTitle": "batlas 5 inset",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Taprobane/Palaisimoundou/Salike (island)",
+            "title": "Sri Lanka",
             "uri": "https://pleiades.stoa.org/places/49863/50298"
         }
     ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/50298",
-        "https://pleiades.stoa.org/places/224541893"
+        "https://pleiades.stoa.org/places/224541893",
+        "https://pleiades.stoa.org/places/746407955"
     ],
     "contributors": [
         {
@@ -91,14 +116,14 @@
             "username": "thomase"
         }
     ],
-    "created": "2024-09-20T19:16:08Z",
+    "created": "2025-10-07T11:29:35Z",
     "creators": [
         {
             "name": "M.U. Erdosy",
             "username": null
         }
     ],
-    "description": "The ancient capital of Sri Lanka from the fourth century BCE to the 11th century CE. It was recorded under the name Anourogrammon by Ptolemy, who notes its primary political status (Basileion). It has sometimes been argued that a \"Palaesimundum\" mentioned by Pliny in retelling the story of a Sri Lankan embassy to the emperor Claudius is also to be identified with Anourogrammon.",
+    "description": "The ancient capital of Sri Lanka from the fourth century BCE to the 11th century CE. It was recorded under the name Anourogrammon by Ptolemy, who notes its primary political status (Basileion). It has sometimes been argued that a \"Palaesimundum\" mentioned by Pliny in retelling the story of a Sri Lankan embassy to the emperor Claudius is also to be identified with Anourogrammon. A large number of numismatic finds from many periods have been reported in the vicinity.",
     "details": "<p>The Barrington Atlas Directory notes: Anurādhapura SRI</p>",
     "features": [
         {
@@ -118,9 +143,37 @@
                 "title": "DARMC location 29968"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.4106096,
+                    8.334985
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-modern-anuradhapura",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/49863/osm-location-modern-anuradhapura",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Anuradhapura"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; added Walburg 2023; added CHRE references for 2 coin hoards; added link to IA copy of Berthelot 1930 @thomase",
+            "modified": "2025-10-07T14:40:36Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-07T11:29:34Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-06-13T02:04:12Z",
@@ -280,6 +333,100 @@
             "start": -30,
             "title": "DARMC location 29968",
             "uri": "https://pleiades.stoa.org/places/49863/darmc-location-29968"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-10-07T11:26:13Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    80.4106096,
+                    8.334985
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-08T01:49:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-07T11:27:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-07T11:26:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-10-07T11:26:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-07T11:26:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-anuradhapura",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 566574942, version 21, osm:changeset=162424411, 2025-02-12T10:48:41Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/566574942",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 566574942",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=566574942",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Anuradhapura",
+            "uri": "https://pleiades.stoa.org/places/49863/osm-location-modern-anuradhapura"
         }
     ],
     "names": [
@@ -295,14 +442,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "᾽Ανουρόγραμμον Βασίλεον",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -310,9 +453,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-23T00:54:13Z",
+            "created": "2025-10-07T11:03:07Z",
             "creators": [
                 {
                     "name": "M.U. Erdosy",
@@ -323,6 +472,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "Greek, attested, reference @thomase",
+                    "modified": "2025-10-08T01:50:11Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-10-07T11:03:06Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T05:38:04Z",
@@ -345,12 +504,24 @@
                 }
             ],
             "id": "anourogrammon",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 5 inset Anourogrammon/Palaesimundum?",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://catalog.hathitrust.org/Record/002504277",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/56UMLU8H",
+                    "citationDetail": "7.4.10 (page 175)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Claudii Ptolemaei geographia</i>. Edited by Karl Friedrich August Nobbe. 3 in 2 vols. Lipsiae: Sumptibus et typis Caroli Tauchnitii, 1843. https://catalog.hathitrust.org/Record/002504277.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol. (Nobbe: Hathi)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Anourogrammon",
+            "romanized": "Anourogrammon Basileion",
             "start": -30,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -368,7 +539,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Palaesimundum",
             "contributors": [
                 {
                     "name": "R. Talbert",
@@ -393,7 +564,7 @@
                     "username": "jbecker"
                 }
             ],
-            "created": "2010-09-23T00:54:14Z",
+            "created": "2025-10-07T11:07:11Z",
             "creators": [
                 {
                     "name": "M.U. Erdosy",
@@ -404,6 +575,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "cleaned up Pliny reference and added attested form @thomase",
+                    "modified": "2025-10-07T14:40:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-10-07T11:07:11Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "added reference",
                     "modified": "2015-07-18T17:49:51Z",
@@ -441,14 +622,14 @@
             "provenance": "Barrington Atlas: BAtlas 5 inset Anourogrammon/Palaesimundum?",
             "references": [
                 {
-                    "accessURI": "http://latin.packhum.org/loc/978/1/405/113-121@1#409",
+                    "accessURI": "https://latin.packhum.org/loc/978/1/409/804-815,985-996@1#409",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "6.85.7",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "Plin. HN (Mayhoff: PHI) 6.85.7",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
                     "otherIdentifier": " ",
-                    "shortTitle": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
                     "type": "citesAsEvidence"
                 }
             ],
@@ -499,6 +680,11 @@
             "end": 2099,
             "history": [
                 {
+                    "comment": "geographic",
+                    "modified": "2025-10-07T11:20:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2024-09-22T13:44:23Z",
                     "modifiedBy": "thomase"
@@ -536,7 +722,7 @@
             ],
             "id": "anuradhapura",
             "language": "en",
-            "nameType": "associated_modern",
+            "nameType": "geographic",
             "provenance": "Pleiades",
             "references": [
                 {
@@ -560,10 +746,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 5 inset Anourogrammon/Palaesimundum?",
     "references": [
@@ -601,7 +789,7 @@
             "type": "citesAsEvidence"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://archive.org/details/dli.pahar.2436/page/363/mode/2up",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/UM33XPEX",
             "citationDetail": "363",
@@ -654,11 +842,44 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IC4UD2LV",
+            "citationDetail": "pages 117-127",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "",
+            "otherIdentifier": "",
+            "shortTitle": "Walburg 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18425",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+            "citationDetail": "18425: ANURADHAPURA - BUDDHIST RAILING",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CHRE",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://chre.ashmus.ox.ac.uk/hoard/18444",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FRBNA4WC",
+            "citationDetail": "18444: ANURADHAPURA - THUPARAMA",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Chris Howgego, and Andrew Wilson, eds. <i>Coin Hoards of the Roman Empire</i>. Oxford: University of Oxford, 2018. https://chre.ashmus.ox.ac.uk/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "CHRE",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        80.414911,
-        8.313895
+        80.4127603,
+        8.32444
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
