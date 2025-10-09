@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9277 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
+9285 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -195,6 +195,13 @@
 
 ### alignments:
  - [Abella](https://pleiades.stoa.org/places/432617)
+
+
+## Abhayavapi (Q4667359)
+[https://www.wikidata.org/wiki/Q4667359](https://www.wikidata.org/wiki/Q4667359)  
+
+### alignments:
+ - [Basawakkulama Tank](https://pleiades.stoa.org/places/746407955)
 
 
 ## Abia (Messenia) (Q5860118)
@@ -743,6 +750,13 @@
 
 ### alignments:
  - [Adoreus (mountain)](https://pleiades.stoa.org/places/614577)
+
+
+## Adramyttion (Q3605584)
+[https://www.wikidata.org/wiki/Q3605584](https://www.wikidata.org/wiki/Q3605584)  
+
+### alignments:
+ - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
 ## Adriatic Veneti (Q220379)
@@ -1408,6 +1422,13 @@
 
 ### alignments:
  - [Sennabris/Ginnabris](https://pleiades.stoa.org/places/678386)
+
+
+## al-Ukhdud (Q2829197)
+[https://www.wikidata.org/wiki/Q2829197](https://www.wikidata.org/wiki/Q2829197)  
+
+### alignments:
+ - [Anagrana/Negram](https://pleiades.stoa.org/places/39286)
 
 
 ## Al-Ula (Q27242)
@@ -4946,6 +4967,13 @@
  - [Attaleia](https://pleiades.stoa.org/places/550472)
 
 
+## Attea (Q65072140)
+[https://www.wikidata.org/wiki/Q65072140](https://www.wikidata.org/wiki/Q65072140)  
+
+### alignments:
+ - [Attea?](https://pleiades.stoa.org/places/550473)
+
+
 ## Attica (Q122443)
 [https://www.wikidata.org/wiki/Q122443](https://www.wikidata.org/wiki/Q122443)  
 
@@ -8422,6 +8450,13 @@
 
 ### alignments:
  - [Caiatia](https://pleiades.stoa.org/places/432733)
+
+
+## Caicus (Q1737602)
+[https://www.wikidata.org/wiki/Q1737602](https://www.wikidata.org/wiki/Q1737602)  
+
+### alignments:
+ - [Caicus (river)](https://pleiades.stoa.org/places/550491)
 
 
 ## Caietae Portus (Q5017525)
@@ -17853,6 +17888,13 @@
 
 ### alignments:
  - [Grutenhäuschen](https://pleiades.stoa.org/places/176458610)
+
+
+## Gryneion (Q969347)
+[https://www.wikidata.org/wiki/Q969347](https://www.wikidata.org/wiki/Q969347)  
+
+### alignments:
+ - [Gryneion](https://pleiades.stoa.org/places/550555)
 
 
 ## Guadalete (Q17812)
@@ -27824,6 +27866,13 @@
 
 ### alignments:
  - [Myriand(r)os](https://pleiades.stoa.org/places/658541)
+
+
+## Myrina (Q609532)
+[https://www.wikidata.org/wiki/Q609532](https://www.wikidata.org/wiki/Q609532)  
+
+### alignments:
+ - [Myrina/Sebastopolis](https://pleiades.stoa.org/places/550756)
 
 
 ## Myrkinos (Q6948303)
@@ -41979,13 +42028,6 @@
 
 ### alignments:
  - [Tall Dāmiyā](https://pleiades.stoa.org/places/198812461)
-
-
-## Q27174
-[https://www.wikidata.org/wiki/Q27174](https://www.wikidata.org/wiki/Q27174)  
-
-### alignments:
- - [Anagrana/Negram](https://pleiades.stoa.org/places/39286)
 
 
 ## Q271925: Sozopol
@@ -58473,6 +58515,13 @@
  - [Teos](https://pleiades.stoa.org/places/550913)
 
 
+## Teos Theater (Q135581839)
+[https://www.wikidata.org/wiki/Q135581839](https://www.wikidata.org/wiki/Q135581839)  
+
+### alignments:
+ - [Ancient Theater of Teos](https://pleiades.stoa.org/places/269407479)
+
+
 ## Tepe Ahingaran (Q108311122)
 [https://www.wikidata.org/wiki/Q108311122](https://www.wikidata.org/wiki/Q108311122)  
 
@@ -64998,5 +65047,12 @@
 
 ### alignments:
  - [Ṣuwwānet eth-Thanīya ](https://pleiades.stoa.org/places/596637094)
+
+
+## ‘Adan aş Şughrá (Q31284941)
+[https://www.wikidata.org/wiki/Q31284941](https://www.wikidata.org/wiki/Q31284941)  
+
+### alignments:
+ - [Ammoniou (promontory)](https://pleiades.stoa.org/places/39284)
 
 

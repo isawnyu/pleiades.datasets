@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3779 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
+3783 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -449,6 +449,13 @@
 
 ### alignments:
  - [Adouli](https://pleiades.stoa.org/places/39271)
+
+
+## Adramyttium (Aiolis) 70 Edremit - Αδραμύτειον
+[https://topostext.org/place/395269Uadr](https://topostext.org/place/395269Uadr)  
+
+### alignments:
+ - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
 ## Adranon (Sicily)
@@ -7740,6 +7747,13 @@
  - [Elaioussa/Sebaste](https://pleiades.stoa.org/places/648628)
 
 
+## Elaitic Gulf (Aiolis) 7 Çandarlı Körfezi - Ελαϊτών κόλπος
+[https://topostext.org/place/389269WEla](https://topostext.org/place/389269WEla)  
+
+### alignments:
+ - [Elaitikos Sinus](https://pleiades.stoa.org/places/550525)
+
+
 ## Elaos (Aitolia)
 [https://topostext.org/place/385213UEla](https://topostext.org/place/385213UEla)  
 
@@ -11380,6 +11394,13 @@
  - [Kaiadas Spelaion](https://pleiades.stoa.org/places/570321)
 
 
+## Kaikos R. (Aiolis) 81 Bakir cay - Κάϊκος
+[https://topostext.org/place/389270WKai](https://topostext.org/place/389270WKai)  
+
+### alignments:
+ - [Caicus (river)](https://pleiades.stoa.org/places/550491)
+
+
 ## Kaine/Maximianopolis (Egypt)
 [https://topostext.org/place/261327UKai](https://topostext.org/place/261327UKai)  
 
@@ -12794,6 +12815,13 @@
 
 ### alignments:
  - [Korykos](https://pleiades.stoa.org/places/638939)
+
+
+## Koryphas (Aiolis) 3 Keremköy - Κορυφάς
+[https://topostext.org/place/394268UKor](https://topostext.org/place/394268UKor)  
+
+### alignments:
+ - [Koryphas](https://pleiades.stoa.org/places/550667)
 
 
 ## Koryphasion cape (Messenia)

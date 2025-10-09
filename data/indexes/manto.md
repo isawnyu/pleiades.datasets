@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-739 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
+743 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2438,6 +2438,13 @@
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
+## 11300920: Myrine (Mysia)
+[https://resource.manto.unh.edu/11300920](https://resource.manto.unh.edu/11300920)  
+
+### alignments:
+ - [Myrina/Sebastopolis](https://pleiades.stoa.org/places/550756)
+
+
 ## 11301261: Nineveh (Mesopotamia)
 [https://resource.manto.unh.edu/11301261](https://resource.manto.unh.edu/11301261)  
 
@@ -2562,6 +2569,13 @@
 
 ### alignments:
  - [Patavium](https://pleiades.stoa.org/places/393473)
+
+
+## 11305252: the Harbor of the Achaians (W. Troad)
+[https://resource.manto.unh.edu/11305252](https://resource.manto.unh.edu/11305252)  
+
+### alignments:
+ - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
 ## 11306299: the Steps of Cacios (Rome)
@@ -3207,6 +3221,13 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## 8195143: Adramytion (Ionia)
+[https://resource.manto.unh.edu/8195143](https://resource.manto.unh.edu/8195143)  
+
+### alignments:
+ - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
 ## 8195155: Lyrnessos (Troad)
@@ -4958,6 +4979,13 @@
 
 ### alignments:
  - [Heptaporos (river)](https://pleiades.stoa.org/places/897021085)
+
+
+## 9878416: River Caicos (Lydia)
+[https://resource.manto.unh.edu/9878416](https://resource.manto.unh.edu/9878416)  
+
+### alignments:
+ - [Caicus (river)](https://pleiades.stoa.org/places/550491)
 
 
 ## 9880011: Mount Othrys (Thessaly)

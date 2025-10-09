@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4697 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
+4702 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1996,6 +1996,13 @@
 
 ### alignments:
  - [Tanis](https://pleiades.stoa.org/places/737069)
+
+
+## Geo 48: Adramyttion (Ören)
+[https://www.trismegistos.org/place/48](https://www.trismegistos.org/place/48)  
+
+### alignments:
+ - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
 ## Geo 50051: Abrettene
@@ -24288,11 +24295,25 @@
  - [‘Ad Statuas’](https://pleiades.stoa.org/places/511137)
 
 
+## GEO ID 41970: Attea
+[https://www.trismegistos.org/place/41970](https://www.trismegistos.org/place/41970)  
+
+### alignments:
+ - [Attea?](https://pleiades.stoa.org/places/550473)
+
+
 ## GEO ID 41972: Herakleia (Ayvalık)
 [https://www.trismegistos.org/place/41972](https://www.trismegistos.org/place/41972)  
 
 ### alignments:
  - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
+## GEO ID 41973: Koryphas
+[https://www.trismegistos.org/place/41973](https://www.trismegistos.org/place/41973)  
+
+### alignments:
+ - [Koryphas](https://pleiades.stoa.org/places/550667)
 
 
 ## GEO ID 41974: Corinthiacus Sinus
@@ -30563,6 +30584,20 @@
 
 ### alignments:
  - [Hybanda (island)](https://pleiades.stoa.org/places/599650)
+
+
+## GEO ID 60955: Elaiton Kolpos (Çandarlı Körfezi)
+[https://www.trismegistos.org/place/60955](https://www.trismegistos.org/place/60955)  
+
+### alignments:
+ - [Elaitikos Sinus](https://pleiades.stoa.org/places/550525)
+
+
+## GEO ID 60956: Achaion Limen (Haci Ahmet Ağa)
+[https://www.trismegistos.org/place/60956](https://www.trismegistos.org/place/60956)  
+
+### alignments:
+ - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
 ## GEO ID 60957: Arginoussai (Kalem Adasi)

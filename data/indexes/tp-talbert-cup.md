@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2239 alignments exist in _Pleiades_ place references as of 2025-10-08. The following list of alignments is grouped by zotkey.
+2242 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13506,6 +13506,13 @@
  - [Adramyttium](https://pleiades.stoa.org/places/550403)
 
 
+## 8B3 (Talbert 2218)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2218.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2218.html)  
+
+### alignments:
+ - [Koryphas](https://pleiades.stoa.org/places/550667)
+
+
 ## 8B3 (Talbert 2219)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2219.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2219.html)  
 
@@ -13644,6 +13651,20 @@
 
 ### alignments:
  - [Elaea](https://pleiades.stoa.org/places/550523)
+
+
+## 8B4 (Talbert 2220)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2220.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2220.html)  
+
+### alignments:
+ - [Attea?](https://pleiades.stoa.org/places/550473)
+
+
+## 8B4 (Talbert 2221)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2221.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2221.html)  
+
+### alignments:
+ - [Myrina/Sebastopolis](https://pleiades.stoa.org/places/550756)
 
 
 ## 8B4 (Talbert 2222)
