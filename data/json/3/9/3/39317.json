@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        40.0,
-        15.0,
-        45.0,
-        20.0
+        43.3645900079052,
+        15.986675152927015,
+        43.71514442404287,
+        16.846264740318
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,6 +18,10 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "Ancient World Mapping Center (AWMC)",
+            "username": null
         },
         {
             "homepage": null,
@@ -40,37 +44,43 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            40.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            15.0
-                        ]
+                        43.3645900079052,
+                        16.846264740318
+                    ],
+                    [
+                        43.47278671986724,
+                        16.678847419641027
+                    ],
+                    [
+                        43.54606172641474,
+                        16.553853440593475
+                    ],
+                    [
+                        43.5988479604771,
+                        16.439479651895216
+                    ],
+                    [
+                        43.641809421321966,
+                        16.312427684556912
+                    ],
+                    [
+                        43.68715062810357,
+                        16.1541511146764
+                    ],
+                    [
+                        43.71514442404287,
+                        15.986675152927015
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39317/batlas-location",
-                "location_precision": "rough",
+                "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+                "link": "https://pleiades.stoa.org/places/39317/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
@@ -111,9 +121,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -126,98 +136,118 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "Ancient World Mapping Center (AWMC)",
                     "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2010-09-22T22:04:03Z",
+            "created": "2025-10-08T14:43:39Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            40.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            15.0
-                        ]
+                        43.3645900079052,
+                        16.846264740318
+                    ],
+                    [
+                        43.47278671986724,
+                        16.678847419641027
+                    ],
+                    [
+                        43.54606172641474,
+                        16.553853440593475
+                    ],
+                    [
+                        43.5988479604771,
+                        16.439479651895216
+                    ],
+                    [
+                        43.641809421321966,
+                        16.312427684556912
+                    ],
+                    [
+                        43.68715062810357,
+                        16.1541511146764
+                    ],
+                    [
+                        43.71514442404287,
+                        15.986675152927015
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:38:15Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-10-08T14:55:28Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:28Z",
+                    "comment": "Edited",
+                    "modified": "2025-10-08T14:54:13Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T14:44:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-08T14:43:40Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:04:03Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T14:43:39Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 B2 Calingi",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 45 see \"Calingi\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 B2 Calingi",
-            "references": [],
             "review_state": "published",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39317/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39317/batlas-label-location"
         }
     ],
     "names": [
@@ -405,8 +435,8 @@
         }
     ],
     "reprPoint": [
-        42.5,
-        17.5
+        43.57633266492425,
+        16.431060098990848
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

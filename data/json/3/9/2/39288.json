@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        40.0,
-        15.0,
-        45.0,
-        20.0
+        41.681162788993795,
+        18.39701679665733,
+        42.45734154713169,
+        18.725217444202116
     ],
     "connections": [],
     "connectsWith": [],
@@ -18,6 +18,10 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "Ancient World Mapping Center (AWMC)",
+            "username": null
         },
         {
             "homepage": null,
@@ -46,42 +50,53 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            40.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            15.0
-                        ]
+                        41.681162788993795,
+                        18.39701679665733
+                    ],
+                    [
+                        41.853309587767725,
+                        18.451301967573894
+                    ],
+                    [
+                        41.95678196105839,
+                        18.490260975726127
+                    ],
+                    [
+                        42.06149207952488,
+                        18.529331138147704
+                    ],
+                    [
+                        42.17395815942508,
+                        18.572958994711506
+                    ],
+                    [
+                        42.3101649459028,
+                        18.648913303520285
+                    ],
+                    [
+                        42.45734154713169,
+                        18.725217444202116
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/39288/batlas-location",
-                "location_precision": "rough",
+                "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+                "link": "https://pleiades.stoa.org/places/39288/batlas-label-location",
+                "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "title": "BAtlas Label Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update RE Apitami (David Heinrich von Müller)",
+            "modified": "2025-10-08T17:06:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-21T19:57:40Z",
@@ -127,9 +142,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-5-million-scale",
+            "accuracy_value": 9310.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -148,98 +163,113 @@
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "Ancient World Mapping Center (AWMC)",
                     "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2010-09-22T22:03:23Z",
+            "created": "2025-10-08T15:01:12Z",
             "creators": [
                 {
-                    "name": "D.T. Potts",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            40.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            15.0
-                        ],
-                        [
-                            45.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            20.0
-                        ],
-                        [
-                            40.0,
-                            15.0
-                        ]
+                        41.681162788993795,
+                        18.39701679665733
+                    ],
+                    [
+                        41.853309587767725,
+                        18.451301967573894
+                    ],
+                    [
+                        41.95678196105839,
+                        18.490260975726127
+                    ],
+                    [
+                        42.06149207952488,
+                        18.529331138147704
+                    ],
+                    [
+                        42.17395815942508,
+                        18.572958994711506
+                    ],
+                    [
+                        42.3101649459028,
+                        18.648913303520285
+                    ],
+                    [
+                        42.45734154713169,
+                        18.725217444202116
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:37:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-23T16:33:22Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-10-08T17:05:10Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T23:35:16Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T15:01:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Supersedes currently published BAtlas gridsquare location.",
+                    "modified": "2025-10-08T15:01:12Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T22:03:23Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T15:01:12Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "batlas-label-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "4 B2 Apitami",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 45 see \"Apitami\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 4 B2 Apitami",
-            "references": [],
             "review_state": "published",
             "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/39288/batlas-location"
+            "title": "BAtlas Label Location",
+            "uri": "https://pleiades.stoa.org/places/39288/batlas-label-location"
         }
     ],
     "names": [
@@ -261,14 +291,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Apitami",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -276,9 +302,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-09-22T22:03:23Z",
+            "created": "2025-10-08T17:06:33Z",
             "creators": [
                 {
                     "name": "D.T. Potts",
@@ -289,6 +327,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "Latin name attested, Pliny the E reference by @jbecker",
+                    "modified": "2025-10-08T18:39:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-10-08T17:06:33Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "programmatically changed nameType from geographic to ethnic: site-wide cleanup of peoples/tribes imported from the Barrington Atlas",
                     "modified": "2021-02-25T22:57:50Z",
@@ -316,10 +364,22 @@
                 }
             ],
             "id": "apitami",
-            "language": "",
+            "language": "la",
             "nameType": "ethnic",
             "provenance": "Barrington Atlas: BAtlas 4 B2 Apitami",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://latin.packhum.org/loc/978/1/0#421",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+                    "citationDetail": "6.150.10",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Plin., NH (Mayhoff: PHI)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Apitami",
             "start": -330,
@@ -373,7 +433,7 @@
             "accessURI": "https://de.wikisource.org/wiki/RE:Apitami",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Apitami",
+            "citationDetail": "Apitami (David Heinrich von Müller)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
@@ -382,8 +442,8 @@
         }
     ],
     "reprPoint": [
-        42.5,
-        17.5
+        42.07581524179905,
+        18.54573769561091
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
