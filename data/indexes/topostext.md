@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3783 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
+3787 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7417,6 +7417,13 @@
  - [Drepanon (promontory)](https://pleiades.stoa.org/places/570203)
 
 
+## Drepanon? (Cyprus) 2 Ag. Georgios Pegeias - Δρέπανον
+[https://topostext.org/place/349323UDre](https://topostext.org/place/349323UDre)  
+
+### alignments:
+ - [Drepanon?](https://pleiades.stoa.org/places/707504)
+
+
 ## Drepanum (Sicily)
 [https://topostext.org/place/380125UDre](https://topostext.org/place/380125UDre)  
 
@@ -7710,6 +7717,13 @@
 
 ### alignments:
  - [Eknomos?](https://pleiades.stoa.org/places/462191)
+
+
+## Elaea (Aiolis) 75 Zeytindağ - Ελαία
+[https://topostext.org/place/389271UEla](https://topostext.org/place/389271UEla)  
+
+### alignments:
+ - [Elaea](https://pleiades.stoa.org/places/550523)
 
 
 ## Elaias Limen (Preveza)
@@ -11945,6 +11959,13 @@
 
 ### alignments:
  - [Kataphydion](https://pleiades.stoa.org/places/599699)
+
+
+## Katarrhaktes R. (Crete) Anapodaris
+[https://topostext.org/place/353253WKat](https://topostext.org/place/353253WKat)  
+
+### alignments:
+ - [Katarraktes? (river)](https://pleiades.stoa.org/places/589853)
 
 
 ## Katerini Macedonian tombs (Pieria) Katerini
@@ -20820,6 +20841,13 @@
 
 ### alignments:
  - [Potentia](https://pleiades.stoa.org/places/442735)
+
+
+## Pothereus ? R. (Crete) 1 upper Platyperama/Giophyros
+[https://topostext.org/place/353253WPot](https://topostext.org/place/353253WPot)  
+
+### alignments:
+ - [Pothereus? (river)](https://pleiades.stoa.org/places/590009)
 
 
 ## Potidaion (Karpathos)

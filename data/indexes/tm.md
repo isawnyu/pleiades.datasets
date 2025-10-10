@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4702 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
+4704 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -31027,6 +31027,13 @@
  - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
 
 
+## GEO ID 620: Elaia (Kazıkbağları)
+[https://www.trismegistos.org/place/620](https://www.trismegistos.org/place/620)  
+
+### alignments:
+ - [Elaea](https://pleiades.stoa.org/places/550523)
+
+
 ## GEO ID 6217: Palatina
 [http://www.trismegistos.org/place/6217](http://www.trismegistos.org/place/6217)  
 
@@ -31172,6 +31179,13 @@
 
 ### alignments:
  - [Scantia Silva](https://pleiades.stoa.org/places/438828)
+
+
+## Geo ID 63224: Fescennium (Narce)
+[https://www.trismegistos.org/place/63224](https://www.trismegistos.org/place/63224)  
+
+### alignments:
+ - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## GEO ID 6322: Parthia

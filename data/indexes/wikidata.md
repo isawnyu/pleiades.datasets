@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9285 alignments exist in _Pleiades_ place references as of 2025-10-09. The following list of alignments is grouped by zotkey.
+9287 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -15038,6 +15038,13 @@
  - [Elaia](https://pleiades.stoa.org/places/511247)
 
 
+## Elaea (Q779669)
+[https://www.wikidata.org/wiki/Q779669](https://www.wikidata.org/wiki/Q779669)  
+
+### alignments:
+ - [Elaea](https://pleiades.stoa.org/places/550523)
+
+
 ## Elaeus (Bithynia) (Q59653671)
 [https://www.wikidata.org/wiki/Q59653671](https://www.wikidata.org/wiki/Q59653671)  
 
@@ -15946,6 +15953,13 @@
 
 ### alignments:
  - [Fern Pass](https://pleiades.stoa.org/places/191776)
+
+
+## Fescennia (Q2314058)
+[https://www.wikidata.org/wiki/Q2314058](https://www.wikidata.org/wiki/Q2314058)  
+
+### alignments:
+ - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## Festoi (Q127312344)
@@ -27896,6 +27910,13 @@
  - [Myrmekion](https://pleiades.stoa.org/places/854710)
 
 
+## Myrrhinoutta (Q13526326)
+[https://www.wikidata.org/wiki/Q13526326](https://www.wikidata.org/wiki/Q13526326)  
+
+### alignments:
+ - [Myrrinoutta](https://pleiades.stoa.org/places/580031)
+
+
 ## Myrsineae (Q65040325)
 [https://www.wikidata.org/wiki/Q65040325](https://www.wikidata.org/wiki/Q65040325)  
 
@@ -28055,6 +28076,13 @@
 
 ### alignments:
  - [Naqa](https://pleiades.stoa.org/places/805635)
+
+
+## Narce (Q3336046)
+[https://www.wikidata.org/wiki/Q3336046](https://www.wikidata.org/wiki/Q3336046)  
+
+### alignments:
+ - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## Narnia (Q105392316)
@@ -37083,13 +37111,6 @@
  - [Ikarion](https://pleiades.stoa.org/places/579958)
 
 
-## Q13526326: Myrrhinoutta
-[https://www.wikidata.org/wiki/Q13526326](https://www.wikidata.org/wiki/Q13526326)  
-
-### alignments:
- - [Myrrinoutta](https://pleiades.stoa.org/places/580031)
-
-
 ## Q135274810
 [https://www.wikidata.org/wiki/Q135274810](https://www.wikidata.org/wiki/Q135274810)  
 
@@ -41257,13 +41278,6 @@
 
 ### alignments:
  - [Menelaion](https://pleiades.stoa.org/places/570477)
-
-
-## Q2314058: Fescennia
-[https://www.wikidata.org/wiki/Q2314058](https://www.wikidata.org/wiki/Q2314058)  
-
-### alignments:
- - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## Q2319979: Portonaccio
