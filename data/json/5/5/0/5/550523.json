@@ -10,6 +10,73 @@
         {
             "@type": "Connection",
             "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "port_of",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/port_of",
+            "connectsTo": "https://pleiades.stoa.org/places/507447",
+            "contributors": [],
+            "created": "2025-10-09T02:49:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-09T12:41:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Strabo",
+                    "modified": "2025-10-09T03:09:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-09T03:09:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2025-10-09T02:49:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-09T02:49:44Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "pergamon",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:13.3.5",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+                    "citationDetail": "13.3.5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Str. (Meineke: Perseus)",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Pergamon",
+            "uri": "https://pleiades.stoa.org/places/550523/pergamon"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -90,9 +157,40 @@
         }
     ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/507447",
         "https://pleiades.stoa.org/places/177302800"
     ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies",
+            "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Rosemary Selth",
+            "uri": "https://pleiades.stoa.org/author/rselth",
+            "username": "rselth"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
         {
             "name": "DARMC",
             "username": null
@@ -103,24 +201,18 @@
         },
         {
             "homepage": null,
-            "name": "Sean Gillies",
-            "uri": "https://pleiades.stoa.org/author/sgillies",
-            "username": "sgillies"
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
         }
     ],
-    "created": "2009-10-15T08:30:00Z",
+    "created": "2025-10-09T02:39:35Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -135,7 +227,7 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 56 E4 Elaea",
+    "description": "Elaea was an ancient place in Aeolis. Strabo mentions its status as a port of Pergamon.",
     "details": "<p>The Barrington Atlas Directory notes: Kazıkbağları</p>",
     "features": [
         {
@@ -148,7 +240,7 @@
             },
             "id": "darmc-location-12314",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/550523/darmc-location-12314",
                 "location_precision": "precise",
                 "snippet": "Unknown; 750 BC - AD 640",
@@ -158,6 +250,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update PECS, wikipedia, add RE Elaia 1 (Ludwig Bürchner), add ItMiller 700; add manto 10149401: Elaia (Lydia), nomisma, topostext, wikidata @ghawes @rssmith @bkiesling @rselth, KE, tm geo id, Hansen 2004, KU TP; summary; updated Connections, Names; Edited",
+            "modified": "2025-10-09T12:41:23Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "updates",
             "modified": "2021-05-17T17:15:50Z",
@@ -281,7 +378,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 12314",
             "end": 640,
             "featureType": [
@@ -352,6 +449,78 @@
         }
     ],
     "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Ela",
+            "contributors": [],
+            "created": "2025-10-09T02:42:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-09T12:41:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-09T02:42:54Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "TP name TP reference",
+                    "modified": "2025-10-09T02:42:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-09T02:42:48Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "ela",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2217.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "8B4 (Talbert 2217)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ela",
+            "start": 300,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/550523/ela"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -478,14 +647,14 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://de.wikisource.org/wiki/RE:Elaia_1",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Elaea-1",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Elaia 1 (Ludwig Bürchner)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Elaea 1",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "RE",
             "type": "seeFurther"
         },
         {
@@ -502,10 +671,10 @@
         {
             "accessURI": "https://en.wikipedia.org/wiki/Elaea_(Aeolis)",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Elaea (Aeolis)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Elaea (Aeolis).",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
@@ -513,13 +682,134 @@
         {
             "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DE%3Aentry+group%3D1%3Aentry%3Delaia",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "citationDetail": "ELAIA (Kazikbağlari) Turkey",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "PECS (Perseus), ELAIA (Kazikbağlari) Turkey",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "PECS (Perseus)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "700",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10149401",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10149401: Elaia (Lydia)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://nomisma.org/id/elaea",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/N5BAUNTN",
+            "citationDetail": "Elaea",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Meadows, Andrew, Sebastian Heath, and Ethan Gruber. <i>Nomisma.Org</i>. New York: American Numismatic Society, 2010. http://nomisma.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "nomisma.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/389271UEla",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Elaea (Aiolis) 75 Zeytindağ - Ελαία",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q779669",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Elaea (Q779669)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://kulturenvanteri.com/yer/elaia/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Y4452C6M",
+            "citationDetail": "Elaia",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Caner Cangül, and A. Erdem Şentürk, eds. <i>Kültür Envanteri</i>, n.d. https://kulturenvanteri.com/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Kültür Envanteri",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://imperium.ahlfeldt.se/places/21544.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "21544: Elaia/Elaea",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/620",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 620: Elaia (Kazıkbağları)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/252695579",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WBM4X5NH",
+            "citationDetail": "807",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Hansen, Mogens Herman, and Thomas Heine Nielsen. <i>An Inventory of Archaic and Classical Poleis</i>. Oxford: Oxford University Press, 2004. http://www.worldcat.org/oclc/252695579.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Hansen 2004",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:13.3.5",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEVTVBA7",
+            "citationDetail": "13.3.5",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Strabo. <i>Strabonis Geographica: recognovit Augustus Meineke.</i> Edited by August Meineke. 3 in 2 vols. Lipsiae, 1877. http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Str. (Meineke: Perseus)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1324",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "1324: Ela",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [

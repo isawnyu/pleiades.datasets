@@ -1,8 +1,8 @@
 {
     "@type": "Place",
     "bbox": [
-        12.4217,
-        42.2988,
+        12.40917,
+        42.295226,
         12.4217,
         42.2988
     ],
@@ -344,6 +344,24 @@
                 "title": "CIGS location of Falerii"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.40917,
+                    42.295226
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-civita-castellana",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413126/osm-location-of-civita-castellana",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Civita Castellana"
+            },
+            "type": "Feature"
         }
     ],
     "history": [
@@ -579,6 +597,100 @@
             "start": null,
             "title": "CIGS location of Falerii",
             "uri": "https://pleiades.stoa.org/places/413126/cigs-location-of-falerii"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-10-09T16:31:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    12.40917,
+                    42.295226
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-09T17:08:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-09T16:31:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location for Civita Castellana",
+                    "modified": "2025-10-09T16:31:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-10-09T16:31:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-09T16:31:18Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "osm-location-of-civita-castellana",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 72964340, version 8, osm:changeset=143555035, 2023-11-03T02:23:33Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/72964340",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 72964340",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=72964340",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM location of Civita Castellana",
+            "uri": "https://pleiades.stoa.org/places/413126/osm-location-of-civita-castellana"
         }
     ],
     "names": [
@@ -850,10 +962,12 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern",
         "https://pleiades.stoa.org/vocabularies/place-types/findspot"
     ],
     "placeTypes": [
         "settlement",
+        "settlement-modern",
         "findspot"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 C4 Falerii Veteres",
@@ -1102,8 +1216,8 @@
         }
     ],
     "reprPoint": [
-        12.4217,
-        42.2988
+        12.415434999999999,
+        42.297013
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
