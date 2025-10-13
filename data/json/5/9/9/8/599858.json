@@ -1,20 +1,81 @@
 {
     "@type": "Place",
     "bbox": [
-        26.0,
-        37.5,
-        26.5,
-        38.0
+        26.48034551321707,
+        37.58039900426593,
+        26.48034551321707,
+        37.58039900426593
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
+            "connectsTo": "https://pleiades.stoa.org/places/599726",
+            "contributors": [],
+            "created": "2025-10-12T11:37:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-12T14:21:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-12T11:37:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-12T11:37:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-12T11:37:14Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "korsiai-islands",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 C2 PANORMOS",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Korsiai (islands)",
+            "uri": "https://pleiades.stoa.org/places/599858/korsiai-islands"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/599726"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -22,9 +83,25 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "Ancient World Mapping Center (AWMC)",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:09:48Z",
+    "created": "2025-10-12T11:37:34Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -35,49 +112,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 C2 Panormos",
-    "details": "The Barrington Atlas Directory notes: Korsiai Inss. GRE",
+    "description": "A sheltered bay and anchorage at the modern settlement of Fourni (possibly the ancient settlement of Korsiai) on the island of Fourni in the Korsiai archipelago.",
+    "details": "<p>The Barrington Atlas Directory notes: Korsiai Inss. GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            37.5
-                        ]
-                    ]
+                    26.48034551321707,
+                    37.58039900426593
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599858/undetermined",
-                "location_precision": "rough",
+                "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+                "link": "https://pleiades.stoa.org/places/599858/batlas-point-location",
+                "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "Undetermined location"
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "place type = bay; summary; cleaned up references @thomase",
+            "modified": "2025-10-12T14:20:52Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-12T11:37:34Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:02:32Z",
@@ -108,110 +175,84 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "Ancient World Mapping Center (AWMC)",
                     "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2009-10-15T09:09:49Z",
+            "created": "2025-10-12T10:21:49Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
             "details": "",
             "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
+            "featureType": [],
+            "featureTypeURI": [],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            26.0,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            37.5
-                        ],
-                        [
-                            26.5,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            38.0
-                        ],
-                        [
-                            26.0,
-                            37.5
-                        ]
-                    ]
+                    26.48034551321707,
+                    37.58039900426593
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-15T18:03:00Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-10-12T14:21:34Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:18:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-12T10:22:01Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "supersedes currently published BAtlas gridsquare location",
+                    "modified": "2025-10-12T10:21:52Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:09:49Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-12T10:21:49Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "undetermined",
+            "id": "batlas-point-location",
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 C2 PANORMOS",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 C2 Panormos",
-            "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599858/undetermined"
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/599858/batlas-point-location"
         }
     ],
     "names": [
@@ -287,10 +328,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature"
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "labeled feature"
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 C2 Panormos",
     "references": [
@@ -308,23 +349,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Haussoullier-1902-141",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NW95VC95",
+            "citationDetail": "141",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Haussoullier 1902 141",
+            "formattedCitation": "<div class=\"csl-entry\">Haussoullier, B. “Les Îles Milésiennes. Léros-Lepsia-Patmos-Les Korsiai.” <i>Revue de Philologie, de Littérature et d’histoire Anciennes</i> 26 (1902): 125–43.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Haussoullier 1902",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        26.25,
-        37.75
+        26.48034551321707,
+        37.58039900426593
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Panormos",
+    "title": "Panormos (Korsiai islands)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/599858"
 }

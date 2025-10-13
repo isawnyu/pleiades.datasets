@@ -1,25 +1,109 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        26.8806796,
+        36.9252016,
+        27.0563173,
+        37.0801296
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599684",
+            "contributors": [],
+            "created": "2025-10-11T12:00:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-11T14:21:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-11T12:00:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-11T12:00:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-11T12:00:06Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kalymna-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 951 see \"Panormos\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Kalymna (island)",
+            "uri": "https://pleiades.stoa.org/places/606349/kalymna-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/599684"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:02:05Z",
+    "created": "2025-10-11T11:56:55Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -30,8 +114,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 unlocated Panormos",
-    "details": "The Barrington Atlas Directory notes: on Kalymna",
+    "description": "An ancient place, probably a harbor, located on the island of Kalymna. Its precise modern location has not been determined.",
+    "details": "<p>The Barrington Atlas Directory notes: on Kalymna</p>",
     "features": [
         {
             "geometry": null,
@@ -47,6 +131,26 @@
         }
     ],
     "history": [
+        {
+            "comment": "add StadMM (Müller: Hathi)",
+            "modified": "2025-10-11T14:24:43Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add topostext @bkiesling, wikidata",
+            "modified": "2025-10-11T14:23:23Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; place type += harbor; title; removed pro forma BAtlas reference for unlocated and added BAtlDir reference; updated Connections @thomase",
+            "modified": "2025-10-11T14:21:43Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-11T11:56:54Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T19:46:30Z",
@@ -273,41 +377,79 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/harbor"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "harbor"
     ],
     "provenance": "Barrington Atlas: BAtlas 61  Panormos",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "61 Panormos",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 951 see \"Panormos\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/k.html#Koukoule-1982-53-56",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/52FJ3NRE",
+            "citationDetail": "53-56",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Koukoule 1982 53-56",
+            "formattedCitation": "<div class=\"csl-entry\">Koukoule, GN. <i>‛Η Κάλυμνα Τῆς Ἱστορίας· ‛Ελληνιστικοὶ-Ῥωμαικοὶ Χρόνοι</i>. 2 ed. Athens, 1982.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Koukoule 1982",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q12195954",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Panormos (Q12195954)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/368268HPan",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Panormos (Kalymnos) 2 Vathys? - Πάνορμος",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015014558442&view=1up&seq=593&q1=Stadiasmus",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z9YR8YMC",
+            "citationDetail": "285, 287",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Müller, Karl, ed. “Stadiasmus Maris Magni.” In <i>Geographi graeci minores</i>, 1:427–514. Parisiis: A. Firmin Didot, 1855. https://babel.hathitrust.org/cgi/pt?id=mdp.39015014558442&amp;view=1up&amp;seq=593&amp;q1=Stadiasmus.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "StadMM (Müller: Hathi)",
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        26.965412547102126,
+        36.99563657206373
+    ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Panormos",
+    "title": "Panormos (Kalymna)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/606349"
 }

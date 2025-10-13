@@ -1,25 +1,109 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        27.166,
+        35.799,
+        27.166,
+        35.799
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/589841",
+            "contributors": [],
+            "created": "2025-10-11T00:05:41Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-11T10:58:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-11T00:05:50Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-10-11T00:05:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-11T00:05:41Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "karpathos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q12874764",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Brycus (Q12874764)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Karpathos (island)",
+            "uri": "https://pleiades.stoa.org/places/589739/karpathos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/589841"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:18:30Z",
+    "created": "2025-10-10T21:13:27Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -31,22 +115,43 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 60 E4 Brykous",
-    "details": "The Barrington Atlas Directory notes: on Karpathos",
+    "details": "<p>The Barrington Atlas Directory notes: on Karpathos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    27.166,
+                    35.799
+                ],
+                "type": "Point"
+            },
+            "id": "topostext-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589739/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/589739/topostext-location",
+                "location_precision": "precise",
+                "snippet": "Archaeological-site; 750 BC - AD 300",
+                "title": "ToposText location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata Brycus (Q12874764) and topostext",
+            "modified": "2025-10-11T00:04:57Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2025-10-10T21:14:13Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-10T21:13:27Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:47:46Z",
@@ -77,9 +182,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -108,78 +213,101 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2025-10-10T21:12:53Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Brady Kiesling",
+                    "uri": "https://pleiades.stoa.org/author/bkiesling",
+                    "username": "bkiesling"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T19:18:30Z",
-            "creators": [
-                {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
+            "description": "Dates after BAtlDir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    27.166,
+                    35.799
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:46Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-10-11T00:03:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-09-22T20:03:50Z",
+                    "comment": "Edited",
+                    "modified": "2025-10-10T21:20:01Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:05Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-10T21:13:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-10T21:12:58Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:18:30Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-10T21:12:53Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "topostext-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 E4 Brykous",
-            "references": [],
+            "provenance": "ToposText",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/358272PBry",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Brykous (Karpathos) 3 Ag. Marina - Βρυκο͂ς",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 922 see \"Brykous\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589739/batlas-location"
+            "title": "ToposText location",
+            "uri": "https://pleiades.stoa.org/places/589739/topostext-location"
         }
     ],
     "names": [
@@ -280,10 +408,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/polis",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "unknown"
+        "polis",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 E4 Brykous",
     "references": [
@@ -299,18 +429,43 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.jstor.org/stable/30104503",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/h.html#Hope-Simpson-1962",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/R5RQ7PUW",
+            "citationDetail": "161-62",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Hope Simpson 1962, 161-62",
+            "formattedCitation": "<div class=\"csl-entry\">Simpson, R. Hope, and J.F. Lazenby. “Notes from the Dodecanese.” <i>The Annual of the British School at Athens</i> 57 (1962): 154–75. https://www.jstor.org/stable/30104503.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Hope Simpson 1962",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/358272PBry",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Brykous (Karpathos) 3 Ag. Marina - Βρυκο͂ς",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q12874764",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Brycus (Q12874764)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        27.166,
+        35.799
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],

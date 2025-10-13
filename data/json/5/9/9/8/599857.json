@@ -1,20 +1,81 @@
 {
     "@type": "Place",
     "bbox": [
-        25.5,
-        36.5,
-        26.0,
-        37.0
+        25.53627089914367,
+        36.958433301583064,
+        25.53627089914367,
+        36.958433301583064
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599822",
+            "contributors": [],
+            "created": "2025-10-12T14:18:38Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-13T09:56:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-12T14:18:48Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn reference",
+                    "modified": "2025-10-12T14:18:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-12T14:18:38Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "naxos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 945 see \"B4 Panormos\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Naxos (island)",
+            "uri": "https://pleiades.stoa.org/places/599857/naxos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/599822"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -22,9 +83,25 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "name": "Ancient World Mapping Center (AWMC)",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2009-10-15T09:09:47Z",
+    "created": "2025-10-12T12:20:09Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -35,49 +112,39 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 61 B4 Panormos",
-    "details": "The Barrington Atlas Directory notes: Kalantou, Naxos GRE",
+    "description": "A small, sheltered bay on the southeast coast of the Aegean island of Naxos. The modern village of Panermos Naxou (referenced in RE as cited by BAtlDir) is situated at the head of the bay.",
+    "details": "<p>BAtlDir offers \"Kalantou, Naxos\" as the modern/name location gloss for this feature; Kalantos is another coastal village of Naxos, lying about 6km west of Panermos Naxou at the head of a different, sheltered bay. The feature labeled in BAtlas 61 B4 is clearly the eastern bay at modern Panermos village.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            25.5,
-                            36.5
-                        ],
-                        [
-                            26.0,
-                            36.5
-                        ],
-                        [
-                            26.0,
-                            37.0
-                        ],
-                        [
-                            25.5,
-                            37.0
-                        ],
-                        [
-                            25.5,
-                            36.5
-                        ]
-                    ]
+                    25.53627089914367,
+                    36.958433301583064
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "batlas-point-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599857/undetermined",
-                "location_precision": "rough",
+                "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+                "link": "https://pleiades.stoa.org/places/599857/batlas-point-location",
+                "location_precision": "precise",
                 "snippet": "Unknown",
-                "title": "Undetermined location"
+                "title": "BAtlas Point Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up and linked RE reference; title; summary; place type = bay; added BAtlDir reference; details; added associated modern names @thomase",
+            "modified": "2025-10-12T14:17:41Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-10-12T12:20:06Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:02:32Z",
@@ -108,113 +175,231 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/awmc-batlas-data-1-500-000-scale",
+            "accuracy_value": 930.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [
                 {
-                    "name": "R. Talbert",
+                    "name": "Ancient World Mapping Center (AWMC)",
                     "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
                 }
             ],
-            "created": "2009-10-15T09:09:48Z",
+            "created": "2025-10-12T10:24:12Z",
             "creators": [
                 {
-                    "name": "C. Foss",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+            "details": "",
+            "end": null,
+            "featureType": [],
+            "featureTypeURI": [],
+            "geometry": {
+                "coordinates": [
+                    25.53627089914367,
+                    36.958433301583064
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-12T14:17:52Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "name": "G. Reger",
-                    "username": null
+                    "action": "Submit for review",
+                    "modified": "2025-10-12T10:24:19Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "supersedes currently published BAtlas gridsquare location",
+                    "modified": "2025-10-12T10:24:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-12T10:24:12Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "batlas-point-location",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 B4 PANORMOS",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "BAtlas Point Location",
+            "uri": "https://pleiades.stoa.org/places/599857/batlas-point-location"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Πάνερμος Νάξου",
+            "contributors": [],
+            "created": "2025-10-12T12:41:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            25.5,
-                            36.5
-                        ],
-                        [
-                            26.0,
-                            36.5
-                        ],
-                        [
-                            26.0,
-                            37.0
-                        ],
-                        [
-                            25.5,
-                            37.0
-                        ],
-                        [
-                            25.5,
-                            36.5
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
+            "end": 2099,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T07:02:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2009-10-15T18:03:00Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-10-12T14:19:21Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:18:31Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-12T12:58:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-12T12:41:22Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:09:48Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-12T12:41:22Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "undetermined",
-            "locationType": [
-                "representative"
+            "id": "panermos-naxou",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CE%BD%CE%B5%CF%81%CE%BC%CE%BF%CF%82_%CE%9D%CE%AC%CE%BE%CE%BF%CF%85",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BUR4V79V",
+                    "citationDetail": "Πάνερμος Νάξου",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά</i>. Wikimedia Foundation, 2001. https://el.wikipedia.org.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 61 B4 Panormos",
-            "references": [],
             "review_state": "published",
-            "start": null,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599857/undetermined"
-        }
-    ],
-    "names": [
+            "romanized": "Panermos Naxou",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/599857/panermos-naxou"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "",
+            "contributors": [],
+            "created": "2025-10-12T12:42:22Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-12T14:19:10Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-12T12:58:59Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-12T12:42:22Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-12T12:42:22Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "kalantou",
+            "language": "el",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 945 see \"B4 Panormos\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Kalantou",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/599857/kalantou"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -287,10 +472,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/labeled feature"
+        "https://pleiades.stoa.org/vocabularies/place-types/bay"
     ],
     "placeTypes": [
-        "labeled feature"
+        "bay"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 B4 Panormos",
     "references": [
@@ -306,25 +491,36 @@
             "type": "seeFurther"
         },
         {
+            "accessURI": "https://elexikon.ch/RE/XVI,2_2081.png",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Naxos 2082",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
+        },
+        {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Naxos-2082",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 945 see \"B4 Panormos\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Naxos 2082",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        25.75,
-        36.75
+        25.53627089914367,
+        36.958433301583064
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Panormos",
+    "title": "Panormos (Naxos)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/599857"
 }
