@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4704 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
+4710 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1225,6 +1225,13 @@
 
 ### alignments:
  - [Lefkandi](https://pleiades.stoa.org/places/540909)
+
+
+## Geo 34105: Korassia (Phournoi)
+[https://www.trismegistos.org/place/34105](https://www.trismegistos.org/place/34105)  
+
+### alignments:
+ - [Korsiai (islands)](https://pleiades.stoa.org/places/599726)
 
 
 ## Geo 34111: Hephaisteia (Kastro Bouni)
@@ -2696,7 +2703,7 @@
 [http://www.trismegistos.org/place/1121](http://www.trismegistos.org/place/1121)  
 
 ### alignments:
- - [Cnidus](https://pleiades.stoa.org/places/599575)
+ - [Cnidus (Tekir)](https://pleiades.stoa.org/places/599575)
 
 
 ## GEO ID 11232: Katarraktes Megas
@@ -15017,6 +15024,13 @@
  - [Ad Silanos](https://pleiades.stoa.org/places/187258)
 
 
+## GEO ID 31373: Pagus Arusnatium
+[http://www.trismegistos.org/place/31373](http://www.trismegistos.org/place/31373)  
+
+### alignments:
+ - [Pagus Arusnatium](https://pleiades.stoa.org/places/383730)
+
+
 ## GEO ID 31380: Fossis (Chioggia)
 [https://www.trismegistos.org/place/31380](https://www.trismegistos.org/place/31380)  
 
@@ -15036,6 +15050,13 @@
 
 ### alignments:
  - [Harran/Carrhae](https://pleiades.stoa.org/places/658427)
+
+
+## GEO ID 31423: Vennum (Volargne)
+[https://www.trismegistos.org/place/31423](https://www.trismegistos.org/place/31423)  
+
+### alignments:
+ - [Vennum](https://pleiades.stoa.org/places/383813)
 
 
 ## GEO ID 3145: Meinarti
@@ -18285,6 +18306,13 @@
 
 ### alignments:
  - [Pidasa](https://pleiades.stoa.org/places/599890)
+
+
+## GEO ID 34224: Pladasa (Çandüşüren)
+[https://www.trismegistos.org/place/34224](https://www.trismegistos.org/place/34224)  
+
+### alignments:
+ - [*Pladasa](https://pleiades.stoa.org/places/599893)
 
 
 ## GEO ID 34232: Themisonion
@@ -22046,6 +22074,13 @@
 
 ### alignments:
  - [Coveliacae](https://pleiades.stoa.org/places/187354)
+
+
+## GEO ID 41074: Sarnis (Serravalle)
+[https://www.trismegistos.org/place/41074](https://www.trismegistos.org/place/41074)  
+
+### alignments:
+ - [Sarnis](https://pleiades.stoa.org/places/393491)
 
 
 ## GEO ID 41075: In Alpe Pennino (Passo del Bracco)
@@ -29736,6 +29771,13 @@
 
 ### alignments:
  - [Stadia](https://pleiades.stoa.org/places/599945)
+
+
+## GEO ID 57181: Kallipolis (Duran Çiftlik)
+[https://www.trismegistos.org/place/57181](https://www.trismegistos.org/place/57181)  
+
+### alignments:
+ - [Kallipolis](https://pleiades.stoa.org/places/599682)
 
 
 ## GEO ID 5718: Menneu

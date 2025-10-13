@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2242 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
+2244 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4840,6 +4840,20 @@
 
 ### alignments:
  - [Trident(i)um](https://pleiades.stoa.org/places/383804)
+
+
+## 3A3 (Talbert 1037)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1037.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1037.html)  
+
+### alignments:
+ - [Sarnis](https://pleiades.stoa.org/places/393491)
+
+
+## 3A3 (Talbert 1038)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1038.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1038.html)  
+
+### alignments:
+ - [Vennum](https://pleiades.stoa.org/places/383813)
 
 
 ## 3A3 (Talbert 1039)
@@ -14644,7 +14658,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2386.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2386.html)  
 
 ### alignments:
- - [Cnidus](https://pleiades.stoa.org/places/599575)
+ - [Cnidus (Tekir)](https://pleiades.stoa.org/places/599575)
 
 
 ## 9B1 (Talbert 2387)

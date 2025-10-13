@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3787 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
+3800 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1746,6 +1746,13 @@
 
 ### alignments:
  - [Amykos](https://pleiades.stoa.org/places/520957)
+
+
+## Amynanda (Caria) 2 Alakilise
+[https://topostext.org/place/370276UAmy](https://topostext.org/place/370276UAmy)  
+
+### alignments:
+ - [Amynanda](https://pleiades.stoa.org/places/599488)
 
 
 ## Amyneion shrine
@@ -5144,6 +5151,13 @@
  - [Bruttii](https://pleiades.stoa.org/places/452275)
 
 
+## Brykous (Karpathos) 3 Ag. Marina - Βρυκο͂ς
+[https://topostext.org/place/358272PBry](https://topostext.org/place/358272PBry)  
+
+### alignments:
+ - [Brykous](https://pleiades.stoa.org/places/589739)
+
+
 ## Brylleion/Myrleia/Apameia (Mysia)
 [https://topostext.org/place/404289PBry](https://topostext.org/place/404289PBry)  
 
@@ -6081,6 +6095,13 @@
 
 ### alignments:
  - [Chrysea (island)](https://pleiades.stoa.org/places/589746)
+
+
+## Chryse? (Aiolis) 8 Akcay? - Χρυσή
+[https://topostext.org/place/396269UChr](https://topostext.org/place/396269UChr)  
+
+### alignments:
+ - [Chryse (Aeolis)](https://pleiades.stoa.org/places/550501)
 
 
 ## Chrysopolis (Bithynia)
@@ -7421,7 +7442,7 @@
 [https://topostext.org/place/349323UDre](https://topostext.org/place/349323UDre)  
 
 ### alignments:
- - [Drepanon?](https://pleiades.stoa.org/places/707504)
+ - [Agios Georgios Pegeia](https://pleiades.stoa.org/places/707504)
 
 
 ## Drepanum (Sicily)
@@ -10481,6 +10502,13 @@
  - [Orraon/Horreum](https://pleiades.stoa.org/places/531025)
 
 
+## Hostilia (Sallentinum)
+[https://topostext.org/place/451111UHos](https://topostext.org/place/451111UHos)  
+
+### alignments:
+ - [Hostilia](https://pleiades.stoa.org/places/393438)
+
+
 ## House of Augustus (Rome)
 [https://topostext.org/place/419125BDAg](https://topostext.org/place/419125BDAg)  
 
@@ -10537,6 +10565,13 @@
 
 ### alignments:
  - [*Hydai/*Kydai](https://pleiades.stoa.org/places/599651)
+
+
+## Hydas (Caria) 1 Selimiye
+[https://topostext.org/place/367281UHyd](https://topostext.org/place/367281UHyd)  
+
+### alignments:
+ - [Hydas](https://pleiades.stoa.org/places/599652)
 
 
 ## Hydata Hypsitana (Sardinia)
@@ -11532,6 +11567,13 @@
 
 ### alignments:
  - [Kallidromon](https://pleiades.stoa.org/places/540848)
+
+
+## Kallipolis (Caria) 3 Göcek - Καλλίπολις
+[https://topostext.org/place/370283UKal](https://topostext.org/place/370283UKal)  
+
+### alignments:
+ - [Kallipolis](https://pleiades.stoa.org/places/599682)
 
 
 ## Kallipolis (Magna Graecia)
@@ -13152,6 +13194,13 @@
 
 ### alignments:
  - [Ktimene](https://pleiades.stoa.org/places/540894)
+
+
+## Kyaneai-Symplegades (Pontus) 71 Rumelifeneri - Κυάνεαι
+[https://topostext.org/place/412291IKya](https://topostext.org/place/412291IKya)  
+
+### alignments:
+ - [Kyaneai (islands)](https://pleiades.stoa.org/places/521064)
 
 
 ## Kydantidai (Attica)
@@ -18282,6 +18331,13 @@
  - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
+## Panormos (Kalymnos) 2 Vathys? - Πάνορμος
+[https://topostext.org/place/368268HPan](https://topostext.org/place/368268HPan)  
+
+### alignments:
+ - [Panormos (Kalymna)](https://pleiades.stoa.org/places/606349)
+
+
 ## Panormos (Megarid)
 [https://topostext.org/place/381232HPan](https://topostext.org/place/381232HPan)  
 
@@ -20197,6 +20253,13 @@
  - [Placentia](https://pleiades.stoa.org/places/383741)
 
 
+## Pladasa (Caria)
+[https://topostext.org/place/371281UPla](https://topostext.org/place/371281UPla)  
+
+### alignments:
+ - [*Pladasa](https://pleiades.stoa.org/places/599893)
+
+
 ## Plakia (Mysia)
 [https://topostext.org/place/404283UPla](https://topostext.org/place/404283UPla)  
 
@@ -20841,6 +20904,13 @@
 
 ### alignments:
  - [Potentia](https://pleiades.stoa.org/places/442735)
+
+
+## Pothaia (Kalymnos) Pothia
+[https://topostext.org/place/369270UPot](https://topostext.org/place/369270UPot)  
+
+### alignments:
+ - [Pothaia](https://pleiades.stoa.org/places/599903)
 
 
 ## Pothereus ? R. (Crete) 1 upper Platyperama/Giophyros
@@ -21993,6 +22063,13 @@
 
 ### alignments:
  - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
+
+
+## Saros (Karpathos) 2 Saria - Σάριοι
+[https://topostext.org/place/359272PSar](https://topostext.org/place/359272PSar)  
+
+### alignments:
+ - [Saros](https://pleiades.stoa.org/places/590039)
 
 
 ## Sarpedonion promontory (Cilicia)
@@ -23555,6 +23632,13 @@
  - [Sykeon Roman bath (Thessaly)](https://pleiades.stoa.org/places/731893156)
 
 
+## Sykia site (Kalymnos) Sykia - Συκιά
+[https://topostext.org/place/370269XSyk](https://topostext.org/place/370269XSyk)  
+
+### alignments:
+ - [Sykia](https://pleiades.stoa.org/places/599949)
+
+
 ## Sykyrion (Thessaly)
 [https://topostext.org/place/397228USyk](https://topostext.org/place/397228USyk)  
 
@@ -24366,6 +24450,13 @@
 
 ### alignments:
  - [Diospolis Magna/Thebai](https://pleiades.stoa.org/places/786017)
+
+
+## Theganoussa (Messenia) 6 Venetiko - Θηγανούσσά
+[https://topostext.org/place/367219IThe](https://topostext.org/place/367219IThe)  
+
+### alignments:
+ - [Theganoussa (island)](https://pleiades.stoa.org/places/570718)
 
 
 ## Theisoa (Arkadia) 5 Thisoa - Θεισόα

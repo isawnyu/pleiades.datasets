@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-744 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
+745 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2337,7 +2337,7 @@
 [https://resource.manto.unh.edu/11296918](https://resource.manto.unh.edu/11296918)  
 
 ### alignments:
- - [Cnidus](https://pleiades.stoa.org/places/599575)
+ - [Cnidus (Tekir)](https://pleiades.stoa.org/places/599575)
 
 
 ## 11297298: Bryseai (Laconia)
@@ -2737,6 +2737,13 @@
 
 ### alignments:
  - [Paestanus Sinus](https://pleiades.stoa.org/places/442704)
+
+
+## 11309857: the Cyaneai (islands)
+[https://resource.manto.unh.edu/11309857](https://resource.manto.unh.edu/11309857)  
+
+### alignments:
+ - [Kyaneai (islands)](https://pleiades.stoa.org/places/521064)
 
 
 ## 11309864: the Tauros Mountains (Lycia)

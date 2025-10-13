@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9287 alignments exist in _Pleiades_ place references as of 2025-10-10. The following list of alignments is grouped by zotkey.
+9311 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1058,6 +1058,13 @@
 
 ### alignments:
  - [Zervokhori](https://pleiades.stoa.org/places/531157)
+
+
+## Agios Georgios Pegeia Archaeological Site (Q18638917)
+[https://www.wikidata.org/wiki/Q18638917](https://www.wikidata.org/wiki/Q18638917)  
+
+### alignments:
+ - [Agios Georgios Pegeia](https://pleiades.stoa.org/places/707504)
 
 
 ## Agios Nikolaos islet (Q25106026)
@@ -2332,6 +2339,13 @@
 
 ### alignments:
  - [Amymone](https://pleiades.stoa.org/places/573086)
+
+
+## Amynanda (Q56401673)
+[https://www.wikidata.org/wiki/Q56401673](https://www.wikidata.org/wiki/Q56401673)  
+
+### alignments:
+ - [Amynanda](https://pleiades.stoa.org/places/599488)
 
 
 ## Amyneion (Q65229287)
@@ -7740,6 +7754,20 @@
  - [Meduacus Maior (river)](https://pleiades.stoa.org/places/393450)
 
 
+## Brentonico (Q246705)
+[https://www.wikidata.org/wiki/Q246705](https://www.wikidata.org/wiki/Q246705)  
+
+### alignments:
+ - [[Bremtonicum]](https://pleiades.stoa.org/places/383600)
+
+
+## Brescia (Samian Ware Discovery Site) (Q103154673)
+[https://www.wikidata.org/wiki/Q103154673](https://www.wikidata.org/wiki/Q103154673)  
+
+### alignments:
+ - [Brixia](https://pleiades.stoa.org/places/383603)
+
+
 ## Bridge at Oinoanda (Q996029)
 [https://www.wikidata.org/wiki/Q996029](https://www.wikidata.org/wiki/Q996029)  
 
@@ -7843,6 +7871,13 @@
 
 ### alignments:
  - [Prile (river)](https://pleiades.stoa.org/places/403263)
+
+
+## Brycus (Q12874764)
+[https://www.wikidata.org/wiki/Q12874764](https://www.wikidata.org/wiki/Q12874764)  
+
+### alignments:
+ - [Brykous](https://pleiades.stoa.org/places/589739)
 
 
 ## Bryn Celli Ddu (Q2519821)
@@ -7962,6 +7997,13 @@
 
 ### alignments:
  - [Zullestein](https://pleiades.stoa.org/places/109473)
+
+
+## Burgaz Adası (Q1014806)
+[https://www.wikidata.org/wiki/Q1014806](https://www.wikidata.org/wiki/Q1014806)  
+
+### alignments:
+ - [[Antigoneia] (island)](https://pleiades.stoa.org/places/520960)
 
 
 ## Burgh by Sands Roman fort, Beaumont camp, Burgh Castle and Hadrian's Wall from boundary west of churchyard, Beaumont to Burgh Head in wall miles 70 and 71 (Q17675704)
@@ -8557,6 +8599,13 @@
  - [Callifae?](https://pleiades.stoa.org/places/432737)
 
 
+## Callimache (Q65064172)
+[https://www.wikidata.org/wiki/Q65064172](https://www.wikidata.org/wiki/Q65064172)  
+
+### alignments:
+ - [Kallimache](https://pleiades.stoa.org/places/638890)
+
+
 ## Callow Hill Roman villa (Q17662632)
 [https://www.wikidata.org/wiki/Q17662632](https://www.wikidata.org/wiki/Q17662632)  
 
@@ -8870,6 +8919,13 @@
 
 ### alignments:
  - [Kaphyai](https://pleiades.stoa.org/places/570329)
+
+
+## Capitolium (Verona) (Q30888026)
+[https://www.wikidata.org/wiki/Q30888026](https://www.wikidata.org/wiki/Q30888026)  
+
+### alignments:
+ - [Capitolium of Verona](https://pleiades.stoa.org/places/917294321)
 
 
 ## Capitolium of Terracina (Q30524229)
@@ -11448,6 +11504,13 @@
  - [Roman theater at Teate](https://pleiades.stoa.org/places/865509854)
 
 
+## Chigi tumulus, Monte Aguzzo (Q136483599)
+[https://www.wikidata.org/wiki/Q136483599](https://www.wikidata.org/wiki/Q136483599)  
+
+### alignments:
+ - [Monte Aguzzo tumulus](https://pleiades.stoa.org/places/112932917)
+
+
 ## Chignall St James (Q588190)
 [https://www.wikidata.org/wiki/Q588190](https://www.wikidata.org/wiki/Q588190)  
 
@@ -11537,6 +11600,13 @@
 
 ### alignments:
  - [Christian Basilica, Ostia](https://pleiades.stoa.org/places/732059512)
+
+
+## Chryse (Q65121329)
+[https://www.wikidata.org/wiki/Q65121329](https://www.wikidata.org/wiki/Q65121329)  
+
+### alignments:
+ - [Chryse (Aeolis)](https://pleiades.stoa.org/places/550501)
 
 
 ## Chryse (Troad) (Q1088486)
@@ -14421,6 +14491,13 @@
  - [Gramrianae](https://pleiades.stoa.org/places/207156)
 
 
+## Drepano (Q22988411)
+[https://www.wikidata.org/wiki/Q22988411](https://www.wikidata.org/wiki/Q22988411)  
+
+### alignments:
+ - [Drepanon (promontory)](https://pleiades.stoa.org/places/707503)
+
+
 ## Dreros (Q5306985)
 [https://www.wikidata.org/wiki/Q5306985](https://www.wikidata.org/wiki/Q5306985)  
 
@@ -16492,6 +16569,13 @@
 
 ### alignments:
  - [Fleury](https://pleiades.stoa.org/places/355548322)
+
+
+## Fournoi islands (Q608379)
+[https://www.wikidata.org/wiki/Q608379](https://www.wikidata.org/wiki/Q608379)  
+
+### alignments:
+ - [Korsiai (islands)](https://pleiades.stoa.org/places/599726)
 
 
 ## Frampton Roman villa (Q17650665)
@@ -19332,6 +19416,13 @@
  - [Hospitium (I.1.3) ](https://pleiades.stoa.org/places/865766495)
 
 
+## Hostilia (Q133878961)
+[https://www.wikidata.org/wiki/Q133878961](https://www.wikidata.org/wiki/Q133878961)  
+
+### alignments:
+ - [Hostilia](https://pleiades.stoa.org/places/393438)
+
+
 ## Houat (Q13837005)
 [https://www.wikidata.org/wiki/Q13837005](https://www.wikidata.org/wiki/Q13837005)  
 
@@ -19799,6 +19890,13 @@
 
 ### alignments:
  - [*Hydai/*Kydai](https://pleiades.stoa.org/places/599651)
+
+
+## Hydas (Q6015943)
+[https://www.wikidata.org/wiki/Q6015943](https://www.wikidata.org/wiki/Q6015943)  
+
+### alignments:
+ - [Hydas](https://pleiades.stoa.org/places/599652)
 
 
 ## Hydramia (Q65075205)
@@ -21290,6 +21388,13 @@
 
 ### alignments:
  - [Kals](https://pleiades.stoa.org/places/187434)
+
+
+## Kalymnos (Q527809)
+[https://www.wikidata.org/wiki/Q527809](https://www.wikidata.org/wiki/Q527809)  
+
+### alignments:
+ - [Kalymna (island)](https://pleiades.stoa.org/places/599684)
 
 
 ## Kamaran (Q1320260)
@@ -27287,6 +27392,13 @@
  - [Soracte (mountain)](https://pleiades.stoa.org/places/413317)
 
 
+## Monte Stallone catacomb (Q136483668)
+[https://www.wikidata.org/wiki/Q136483668](https://www.wikidata.org/wiki/Q136483668)  
+
+### alignments:
+ - [Monte Stallone catacomb (Formello)](https://pleiades.stoa.org/places/973267320)
+
+
 ## Monte Testaccio (Q781595)
 [https://www.wikidata.org/wiki/Q781595](https://www.wikidata.org/wiki/Q781595)  
 
@@ -28279,6 +28391,13 @@
 
 ### alignments:
  - [Banditaccia necropolis, Caere](https://pleiades.stoa.org/places/717880824)
+
+
+## Necropolis della Casetta (Q91840774)
+[https://www.wikidata.org/wiki/Q91840774](https://www.wikidata.org/wiki/Q91840774)  
+
+### alignments:
+ - [Casetta Etruscan necropolis](https://pleiades.stoa.org/places/465281214)
 
 
 ## Necropolis of Anghelu Ruju (Q539095)
@@ -30801,6 +30920,13 @@
  - [Panopeos/Phanotis](https://pleiades.stoa.org/places/541008)
 
 
+## Panormos (Q12195954)
+[https://www.wikidata.org/wiki/Q12195954](https://www.wikidata.org/wiki/Q12195954)  
+
+### alignments:
+ - [Panormos (Kalymna)](https://pleiades.stoa.org/places/606349)
+
+
 ## Panormos (Q60181639)
 [https://www.wikidata.org/wiki/Q60181639](https://www.wikidata.org/wiki/Q60181639)  
 
@@ -32164,6 +32290,13 @@
 
 ### alignments:
  - [Piła](https://pleiades.stoa.org/places/20576)
+
+
+## Pladasa (Q17625219)
+[https://www.wikidata.org/wiki/Q17625219](https://www.wikidata.org/wiki/Q17625219)  
+
+### alignments:
+ - [*Pladasa](https://pleiades.stoa.org/places/599893)
 
 
 ## Plane Island (Q2742738)
@@ -43123,13 +43256,6 @@
  - [Alignements du Manio](https://pleiades.stoa.org/places/316390354)
 
 
-## Q30888026: Capitolium (Verona)
-[https://www.wikidata.org/wiki/Q30888026](https://www.wikidata.org/wiki/Q30888026)  
-
-### alignments:
- - [Capitolium of Verona](https://pleiades.stoa.org/places/917294321)
-
-
 ## Q30888253
 [https://www.wikidata.org/wiki/Q30888253](https://www.wikidata.org/wiki/Q30888253)  
 
@@ -46786,13 +46912,6 @@
 
 ### alignments:
  - [Volusii](https://pleiades.stoa.org/places/413391)
-
-
-## Q55685742: santuario di Demetra a Macchia delle Valli
-[https://www.wikidata.org/wiki/Q55685742](https://www.wikidata.org/wiki/Q55685742)  
-
-### alignments:
- - [Macchia delle Valli, Vetralla](https://pleiades.stoa.org/places/251060662)
 
 
 ## Q55685813
@@ -54125,6 +54244,13 @@
  - [S. Maria di Galeria](https://pleiades.stoa.org/places/423049)
 
 
+## Santa Maria di Valverde sanctuary (Q3950103)
+[https://www.wikidata.org/wiki/Q3950103](https://www.wikidata.org/wiki/Q3950103)  
+
+### alignments:
+ - [S. Maria di Minerbe](https://pleiades.stoa.org/places/383782)
+
+
 ## Santa Maria in Domnica (Q2060055)
 [https://www.wikidata.org/wiki/Q2060055](https://www.wikidata.org/wiki/Q2060055)  
 
@@ -54200,6 +54326,13 @@
 
 ### alignments:
  - [Nuraghe Santu Antine](https://pleiades.stoa.org/places/422755499)
+
+
+## santuario di Demetra a Macchia delle Valli (Q55685742)
+[https://www.wikidata.org/wiki/Q55685742](https://www.wikidata.org/wiki/Q55685742)  
+
+### alignments:
+ - [Macchia delle Valli, Vetralla](https://pleiades.stoa.org/places/251060662)
 
 
 ## Santuario italico di Schiavi d'Abruzzo (Q3950119)
@@ -54305,6 +54438,13 @@
 
 ### alignments:
  - [Sarno Baths](https://pleiades.stoa.org/places/957926371)
+
+
+## Saros (Q65082186)
+[https://www.wikidata.org/wiki/Q65082186](https://www.wikidata.org/wiki/Q65082186)  
+
+### alignments:
+ - [Saros](https://pleiades.stoa.org/places/590039)
 
 
 ## Sarpedon (Q11947780)
@@ -59930,6 +60070,13 @@
  - [Tomb of Marcus Tullius](https://pleiades.stoa.org/places/71552717)
 
 
+## Tomb of Marcus Venerius Secundio (Q133798256)
+[https://www.wikidata.org/wiki/Q133798256](https://www.wikidata.org/wiki/Q133798256)  
+
+### alignments:
+ - [Tomb of Marcus Venerius Secundio at the Porta Sarno (Pompeii)](https://pleiades.stoa.org/places/449444418)
+
+
 ## Tomb of Medusa (Q127686972)
 [https://www.wikidata.org/wiki/Q127686972](https://www.wikidata.org/wiki/Q127686972)  
 
@@ -60082,6 +60229,13 @@
 
 ### alignments:
  - [Sep. Scipionum](https://pleiades.stoa.org/places/999196280)
+
+
+## Tomb of the Sempronii (Q3955644)
+[https://www.wikidata.org/wiki/Q3955644](https://www.wikidata.org/wiki/Q3955644)  
+
+### alignments:
+ - [Tomb of the Sempronii (Palazzo San Felice, Rome)](https://pleiades.stoa.org/places/323719627)
 
 
 ## Tomb of the Silen (Q3531033)
@@ -62380,6 +62534,13 @@
  - [Veneticae (islands)](https://pleiades.stoa.org/places/138644)
 
 
+## Venetiko (Q2512852)
+[https://www.wikidata.org/wiki/Q2512852](https://www.wikidata.org/wiki/Q2512852)  
+
+### alignments:
+ - [Theganoussa (island)](https://pleiades.stoa.org/places/570718)
+
+
 ## Venice (Q641)
 [https://www.wikidata.org/wiki/Q641](https://www.wikidata.org/wiki/Q641)  
 
@@ -63107,6 +63268,13 @@
 
 ### alignments:
  - [Marina di S. Nicola](https://pleiades.stoa.org/places/422970)
+
+
+## Villa di Sant'Imbenia (Q37283295)
+[https://www.wikidata.org/wiki/Q37283295](https://www.wikidata.org/wiki/Q37283295)  
+
+### alignments:
+ - [Sant'Imbenia Roman Villa](https://pleiades.stoa.org/places/472011)
 
 
 ## Villa Dionysos (Knossos) (Q55005631)
