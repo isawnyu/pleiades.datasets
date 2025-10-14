@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        24.63675,
+        37.04055,
+        24.63675,
+        37.04055
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -9,17 +14,25 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:25:57Z",
+    "created": "2025-10-13T19:36:44Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -30,23 +43,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 C4 Sounion? Pr.",
-    "details": "The Barrington Atlas Directory notes: Akra Philippos",
+    "description": "An ancient cape of the island of Siphnos, mentioned by Stephanus. It is possibly to be identified with the extreme northwest tip of the island, known today as Cape Philippos.",
+    "details": "<p>The Barrington Atlas Directory notes: Akra Philippos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    24.63675,
+                    37.04055
+                ],
+                "type": "Point"
+            },
+            "id": "geonames-location-modern-akra-philippos",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/590057/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/590057/geonames-location-modern-akra-philippos",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "Geonames location: modern Akra Philippos"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "summary; title; added modern name and location, which supersedes currently published BAtlas gridsquare location @thomase",
+            "modified": "2025-10-14T00:58:29Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:51:11Z",
@@ -82,100 +106,205 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-geonames-accuracy-assessment",
+            "accuracy_value": 30.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-22T19:25:57Z",
+            "contributors": [],
+            "created": "2025-10-13T19:53:55Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    24.63675,
+                    37.04055
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:51:11Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:04:44Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-10-14T00:58:40Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:58:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-13T19:57:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-13T19:53:55Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:25:57Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-13T19:53:55Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "geonames-location-modern-akra-philippos",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C4 Sounion? Pr.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/262408/akra-filippos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "262408: Ákra Fílippos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/590057/batlas-location"
+            "start": 2000,
+            "title": "Geonames location: modern Akra Philippos",
+            "uri": "https://pleiades.stoa.org/places/590057/geonames-location-modern-akra-philippos"
         }
     ],
     "names": [
         {
             "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Άκρα Φίλιππος",
+            "contributors": [],
+            "created": "2025-10-13T19:56:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T00:59:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-13T19:57:34Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-13T19:57:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-13T19:56:32Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-13T19:56:30Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "akra-filippos",
+            "language": "el",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.geonames.org/262408/akra-filippos.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+                    "citationDetail": "262408: Ákra Fílippos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeoNames",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 928 see \"Sounion? Pr.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ákra Fílippos, Akra Philippos, Philippos (akra), Filippos (akra)",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/590057/akra-filippos"
+        },
+        {
+            "@type": "Name",
             "associationCertainty": "less-certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
-            "attestations": [],
-            "attested": "",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Sounion Pr.",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -183,9 +312,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T19:25:57Z",
+            "created": "2025-10-13T19:57:48Z",
             "creators": [
                 {
                     "name": "J. Bennet",
@@ -198,8 +333,13 @@
             ],
             "description": "",
             "details": "",
-            "end": null,
+            "end": 1999,
             "history": [
+                {
+                    "comment": "-> map label in BAtlas (20th century); Edited @thomase",
+                    "modified": "2025-10-14T00:59:10Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:51:11Z",
@@ -222,16 +362,98 @@
                 }
             ],
             "id": "Sounion-Pr",
-            "language": "",
-            "nameType": "geographic",
+            "language": "en",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 60 C4 Sounion? Pr.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 C4 Sounion? Pr.",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "romanized": "Sounion Pr.",
-            "start": null,
+            "start": 1900,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/590057/Sounion-Pr"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [],
+            "attested": "Σούνιον",
+            "contributors": [],
+            "created": "2025-10-13T20:00:55Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T00:59:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-13T20:01:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-13T20:01:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-13T20:00:56Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-13T20:00:55Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "sounion",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://archive.org/details/bub_gb_sZs-AAAAcAAJ/page/573/mode/2up",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/25I8PUYK",
+                    "citationDetail": "Σίφνος (page 573)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Stephanos Byzantinioi. <i>Ethnikōn: a geographical lexicon on ancient cities, peoples, tribes and toponyms (Stephani Byzantinii Ethnicorum quae supersunt ex recensione Augusti Meinekii)</i>. Edited by August Meineke. Chicago, Ill.: Ares Publishers, 1992. https://archive.org/details/bub_gb_sZs-AAAAcAAJ.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "StByz (Meineke; archive.org)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Sounion",
+            "start": null,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/590057/sounion"
         }
     ],
     "placeTypeURIs": [
@@ -254,22 +476,36 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://archive.org/details/Cycladum/page/n33/mode/2up",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#IG-XII-5",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/XSM4FMWU",
+            "citationDetail": "page xxvii, sub \"VI. Siphnos\" at Test. 1452",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "IG XII 5, test. 1452",
+            "formattedCitation": "<div class=\"csl-entry\">Friedrich Hiller von Gaertringen. <i>Inscriptiones Cycladum</i>. Inscriptiones Graecae, XII 5. Berolini: Reimer, 1903. http://archive.org/details/Cycladum.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "IG XII 5",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://archive.org/details/bub_gb_sZs-AAAAcAAJ",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/25I8PUYK",
+            "citationDetail": "Σίφνος (page 573)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Stephanos Byzantinioi. <i>Ethnikōn: a geographical lexicon on ancient cities, peoples, tribes and toponyms (Stephani Byzantinii Ethnicorum quae supersunt ex recensione Augusti Meinekii)</i>. Edited by August Meineke. Chicago, Ill.: Ares Publishers, 1992. https://archive.org/details/bub_gb_sZs-AAAAcAAJ.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "StByz (Meineke; archive.org)",
+            "type": "citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.63675,
+        37.04055
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Sounion? Pr.",
+    "title": "Sounion? (Siphnos)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/590057"
 }

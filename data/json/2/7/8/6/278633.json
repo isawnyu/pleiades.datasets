@@ -1,8 +1,87 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
+    "bbox": [
+        -5.998299,
+        34.686239,
+        -5.998299,
+        34.686239
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "less-certain",
+            "attestations": [],
+            "connectionType": "same_as",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/same_as",
+            "connectsTo": "https://pleiades.stoa.org/places/275725",
+            "contributors": [],
+            "created": "2025-10-08T20:55:03Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T01:09:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-08T21:05:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-08T21:02:39Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-08T20:55:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-08T20:55:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-08T20:55:03Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "sidi-larbi-boujema",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JL342RRF",
+                    "citationDetail": "passim",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Rebuffat, René. “Histoire de l’identification Des Sites Urbains Antiques Du Maroc.” In <i>L’Africa Romana: Atti Del XIII Convegno Di Studio, Djerba, 10-13 Dicembre 1998</i>, edited by M Khanoussi, Paola Ruggeri, and Cinzia Vismara, 865–914. Collana Del Dipartimento Di Storia Dell’Università Degli Studi Di Sassari. Roma: Carocci, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Rebuffat 2000",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Souk el Arba",
+            "uri": "https://pleiades.stoa.org/places/278633/sidi-larbi-boujema"
+        }
+    ],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/275725",
         "https://pleiades.stoa.org/places/275717"
     ],
     "contributors": [
@@ -33,30 +112,27 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-24T20:01:18Z",
+    "created": "2025-10-08T20:14:48Z",
     "creators": [
         {
             "name": "M. Euzennat",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 28 unlocated Pisciana",
-    "details": "The Barrington Atlas Directory notes: Sidi Larbi Boujema?",
-    "features": [
-        {
-            "geometry": null,
-            "id": "batlas-location",
-            "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/278633/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
-            },
-            "type": "Feature"
-        }
-    ],
+    "description": "The Antonine Itinerary attests to a station \"Vopiscianis\" (GeogRav \"Bobiscianis\") on the route from Tocolosida (modern Bled Takourart in Morocco) to Tingi (modern Tangier). Ptolemy's \"Piskiana\" would seem to reference the same feature or a nearby settlement associated with the road station. Various suggestions have been made by modern scholars for its identification with a suitable archaeological site or ruin in the area; the current communis opinio holds for Souq el Arbaâ du Gharb (see Souk el Arba).",
+    "details": "",
+    "features": [],
     "history": [
+        {
+            "comment": "fixed broken Pleiades cross reference",
+            "modified": "2025-10-14T09:45:46Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "title; place type = station and settlement; summary; added page link for Ptol reference; adjusted and added BAtlDir references; removed pro forma BAtlas reference; added Rebuffat 2000; added Akerraz 2023; cross-reference to Pleiades Sidi Larbi Boujema to replace connection suggested by @jbecker; removed BAtlDir modern equivalent assertion from details, since it is now widely deprecated; added connection to Souk el Arba; added ancient names @thomase",
+            "modified": "2025-10-14T01:08:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2025-10-08T20:14:43Z",
@@ -99,12 +175,10 @@
         }
     ],
     "id": "278633",
-    "locations": [
+    "locations": [],
+    "names": [
         {
-            "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "@type": "Name",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -115,81 +189,226 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T20:01:18Z",
+            "attested": "Vopiscianis",
+            "contributors": [],
+            "created": "2025-10-08T20:57:33Z",
             "creators": [
                 {
-                    "name": "M. Euzennat",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
             "end": 300,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:58:55Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-24T20:35:22Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-10-14T01:09:20Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T20:05:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T21:05:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-08T20:57:35Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:01:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-08T20:57:33Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "vopiscianis",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/936644063",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "23.5 (page 3)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "citesAsEvidence"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 28 Pisciana",
-            "references": [],
             "review_state": "published",
+            "romanized": "Vopiscianis",
             "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/278633/batlas-location"
-        }
-    ],
-    "names": [
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/278633/vopiscianis"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "less-confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "attested": "Bopiscianis",
+            "contributors": [],
+            "created": "2025-10-08T20:59:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T01:09:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-08T21:05:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-08T20:59:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-08T20:59:47Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "bopiscianis",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/567823037",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KKKXAPNB",
+                    "citationDetail": "11 (page 42 line 53)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Schnetz, Joseph. “Ravennatis Anonymi Cosmographia et Guidonis Geographica.” In <i>Itineraria Romana</i>, Vol. 2. Lipsiae: in aedibus B. G. Teubneri, 1940. http://www.worldcat.org/oclc/567823037.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "GeogRav (Schnetz)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Bopiscianis",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/278633/bopiscianis"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "attested": "Πισκιάνα",
+            "contributors": [],
+            "created": "2025-10-08T21:01:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T01:09:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-08T21:05:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-08T21:02:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-10-08T21:01:44Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-08T21:01:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-08T21:01:30Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "piskiana",
+            "language": "grc",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://catalog.hathitrust.org/Record/003477580",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2AUSPQIZ",
+                    "citationDetail": "4.1.7 (page 589)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Klaudiou Ptolemaiou Geographike hyphegesis = Claudii Ptolemæi Geographia</i>. Edited by Karl Müller. 2 vols. Parisiis: Alfredo Firmin Didot, 1883. https://catalog.hathitrust.org/Record/003477580.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol (Müller: Hathi Trust)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Piskiana",
+            "start": -30,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/278633/piskiana"
+        },
         {
             "@type": "Name",
             "associationCertainty": "certain",
@@ -291,55 +510,190 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/278633/pisciana"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Pisciana",
+            "contributors": [
+                {
+                    "name": "R. Warner",
+                    "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "created": "2025-10-08T21:06:33Z",
+            "creators": [
+                {
+                    "name": "M. Euzennat",
+                    "username": null
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-14T01:09:21Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-08T21:08:23Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "changed BAtlas reference to BAtlDir reference; changed time period to 20th century; changed name time to label; this is a Latinization not directly attested in ancient sources, derived from Ptolemy",
+                    "modified": "2025-10-08T21:08:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-08T21:06:33Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "copy_of_pisciana",
+            "language": "la",
+            "nameType": "label",
+            "provenance": "Barrington Atlas: BAtlas 28 Pisciana",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 464 see \"Pisciana\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Pisciana",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/278633/copy_of_pisciana"
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/station"
     ],
     "placeTypes": [
-        "unlocated"
+        "settlement",
+        "station"
     ],
     "provenance": "Barrington Atlas: BAtlas 28 Pisciana",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112023831271&seq=609&q1=%CE%A0%CE%B9%CF%83%CE%BA%CE%B9%CE%B1%CE%BD%CE%B1",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "28 Pisciana",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
-            "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
-            "type": "seeFurther"
-        },
-        {
-            "accessURI": "",
-            "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-4.1.7",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2AUSPQIZ",
+            "citationDetail": "4.1.7 (page 589)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "Ptol. 4.1.7",
+            "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Klaudiou Ptolemaiou Geographike hyphegesis = Claudii Ptolemæi Geographia</i>. Edited by Karl Müller. 2 vols. Parisiis: Alfredo Firmin Didot, 1883. https://catalog.hathitrust.org/Record/003477580.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Ptol (Müller: Hathi Trust)",
             "type": "citesAsEvidence"
         },
         {
             "accessURI": "",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
-            "citationDetail": "p. 464 s.v. \"Unlocated Toponyms\"",
+            "citationDetail": "p. 464 see \"Pisciana\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
             "otherIdentifier": "",
             "shortTitle": "BAtlDir",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 461 see \"Sidi Larbi Boujema\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlDir",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JL342RRF",
+            "citationDetail": "passim",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Rebuffat, René. “Histoire de l’identification Des Sites Urbains Antiques Du Maroc.” In <i>L’Africa Romana: Atti Del XIII Convegno Di Studio, Djerba, 10-13 Dicembre 1998</i>, edited by M Khanoussi, Paola Ruggeri, and Cinzia Vismara, 865–914. Collana Del Dipartimento Di Storia Dell’Università Degli Studi Di Sassari. Roma: Carocci, 2000.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Rebuffat 2000",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.hesperis-tamuda.com/fascicule/2023002/articles",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/I4KHTV9H",
+            "citationDetail": "page 29",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Akerraz, Aomar. “Itinéraires et Voies Antiques Au Maroc: Tracés et Réalités Matérielles.” <i>Hespéris-Tamuda</i> 58, no. 2 (2023): 27–41. https://www.hesperis-tamuda.com/fascicule/2023002/articles.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Akerraz 2023",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://pleiades.stoa.org/places/275717",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DMZ3G3BJ",
+            "citationDetail": "275717:  Sidi Larbi Boujema",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\">Bagnall, Roger, Richard J. A. Talbert, Tom Elliott, Lindsay Holman, Jeffrey Becker, Sarah Bond, Sean Gillies, et al., eds. <i>Pleiades: A Community-Built Gazetteer and Graph of Ancient Places</i>. Chapel Hill; New York: Ancient World Mapping Center ; Institute for the Study of the Ancient World., 2006. https://pleiades.stoa.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Pleiades",
+            "type": "seeAlso"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        -5.998299,
+        34.686239
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Pisciana",
+    "title": "(Vo)pisciana",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/278633"
 }
