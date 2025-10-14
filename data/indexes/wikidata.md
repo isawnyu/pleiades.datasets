@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9311 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
+9320 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -28099,6 +28099,13 @@
  - [Nabalia (river)](https://pleiades.stoa.org/places/114787)
 
 
+## Nachchaduwa wewa (Q25105468)
+[https://www.wikidata.org/wiki/Q25105468](https://www.wikidata.org/wiki/Q25105468)  
+
+### alignments:
+ - [Nachchaduwa Tank](https://pleiades.stoa.org/places/371645386)
+
+
 ## Nacolea (Q111503839)
 [https://www.wikidata.org/wiki/Q111503839](https://www.wikidata.org/wiki/Q111503839)  
 
@@ -30927,6 +30934,13 @@
  - [Panormos (Kalymna)](https://pleiades.stoa.org/places/606349)
 
 
+## Panormos (Q25006238)
+[https://www.wikidata.org/wiki/Q25006238](https://www.wikidata.org/wiki/Q25006238)  
+
+### alignments:
+ - [Panormos (Mykonos)](https://pleiades.stoa.org/places/599856)
+
+
 ## Panormos (Q60181639)
 [https://www.wikidata.org/wiki/Q60181639](https://www.wikidata.org/wiki/Q60181639)  
 
@@ -31233,6 +31247,13 @@
 
 ### alignments:
  - [Patara (Cappadocia)](https://pleiades.stoa.org/places/857264)
+
+
+## Patmos (Q123786395)
+[https://www.wikidata.org/wiki/Q123786395](https://www.wikidata.org/wiki/Q123786395)  
+
+### alignments:
+ - [Patmos](https://pleiades.stoa.org/places/599871)
 
 
 ## Patraeus (Q11940493)
@@ -33447,6 +33468,13 @@
  - [Praevalitana](https://pleiades.stoa.org/places/991363)
 
 
+## Prague (Q1085)
+[https://www.wikidata.org/wiki/Q1085](https://www.wikidata.org/wiki/Q1085)  
+
+### alignments:
+ - [Praha](https://pleiades.stoa.org/places/118913)
+
+
 ## Praibalis (Q21556453)
 [https://www.wikidata.org/wiki/Q21556453](https://www.wikidata.org/wiki/Q21556453)  
 
@@ -33473,6 +33501,13 @@
 
 ### alignments:
  - [Prasias (lake)](https://pleiades.stoa.org/places/501579)
+
+
+## Prassilus (Q18286328)
+[https://www.wikidata.org/wiki/Q18286328](https://www.wikidata.org/wiki/Q18286328)  
+
+### alignments:
+ - [Prasstilos/Prassilos/Praxilos](https://pleiades.stoa.org/places/494614)
 
 
 ## Prata Mucia (Q110109465)
@@ -56254,6 +56289,20 @@
  - [Soulia](https://pleiades.stoa.org/places/590056)
 
 
+## Sounion (Q1136637)
+[https://www.wikidata.org/wiki/Q1136637](https://www.wikidata.org/wiki/Q1136637)  
+
+### alignments:
+ - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
+
+
+## Sounion (Q13465029)
+[https://www.wikidata.org/wiki/Q13465029](https://www.wikidata.org/wiki/Q13465029)  
+
+### alignments:
+ - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
+
+
 ## South Necropolis (Pergamon) (Q131934430)
 [https://www.wikidata.org/wiki/Q131934430](https://www.wikidata.org/wiki/Q131934430)  
 
@@ -62667,11 +62716,25 @@
  - [Fossae Papirianae](https://pleiades.stoa.org/places/403208)
 
 
+## Vertamocorii (Q4010273)
+[https://www.wikidata.org/wiki/Q4010273](https://www.wikidata.org/wiki/Q4010273)  
+
+### alignments:
+ - [Vertamocorii](https://pleiades.stoa.org/places/167965)
+
+
 ## Verterae (Q20706598)
 [https://www.wikidata.org/wiki/Q20706598](https://www.wikidata.org/wiki/Q20706598)  
 
 ### alignments:
  - [Verteris](https://pleiades.stoa.org/places/89312)
+
+
+## Vertillum (Q7922962)
+[https://www.wikidata.org/wiki/Q7922962](https://www.wikidata.org/wiki/Q7922962)  
+
+### alignments:
+ - [*Vertillum?](https://pleiades.stoa.org/places/177656)
 
 
 ## Verturiones (Q11954396)

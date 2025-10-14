@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-147 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
+147 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -33,7 +33,7 @@
 [https://www.atticinscriptions.com/browse/byfindspot/sounion/](https://www.atticinscriptions.com/browse/byfindspot/sounion/)  
 
 ### alignments:
- - [Sounion](https://pleiades.stoa.org/places/580107)
+ - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
 
 
 ## Findspot: Acharnai
@@ -980,7 +980,7 @@
 [https://www.atticinscriptions.com/browse/byoriginallocation/sounion/](https://www.atticinscriptions.com/browse/byoriginallocation/sounion/)  
 
 ### alignments:
- - [Sounion](https://pleiades.stoa.org/places/580107)
+ - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
 
 
 ## Original Location: Stoa of Zeus

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3800 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
+3802 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -18349,7 +18349,7 @@
 [https://topostext.org/place/373253HPan](https://topostext.org/place/373253HPan)  
 
 ### alignments:
- - [Panormos](https://pleiades.stoa.org/places/599856)
+ - [Panormos (Mykonos)](https://pleiades.stoa.org/places/599856)
 
 
 ## Panormos (Skopelos)
@@ -23124,6 +23124,20 @@
 
 ### alignments:
  - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/579884)
+
+
+## Sounion cape (Attica) 89 Sounio - Σούνιον
+[https://topostext.org/place/376240LSou](https://topostext.org/place/376240LSou)  
+
+### alignments:
+ - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
+
+
+## Sounion deme (Attica) 11 Kato Posidonia - Σούνιον
+[https://topostext.org/place/377240DSou](https://topostext.org/place/377240DSou)  
+
+### alignments:
+ - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
 
 
 ## Sounion Poseidon T. (Attica)

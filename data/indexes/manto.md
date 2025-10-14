@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-745 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
+746 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4013,6 +4013,13 @@
 
 ### alignments:
  - [Oresthasion](https://pleiades.stoa.org/places/570536)
+
+
+## 9358801: Cape Sounion (Attica)
+[https://resource.manto.unh.edu/9358801](https://resource.manto.unh.edu/9358801)  
+
+### alignments:
+ - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
 
 
 ## 9358812: the Seirenoussai (islands)

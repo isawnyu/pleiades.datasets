@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4710 alignments exist in _Pleiades_ place references as of 2025-10-13. The following list of alignments is grouped by zotkey.
+4712 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1568,6 +1568,13 @@
 
 ### alignments:
  - [Salamis (island)](https://pleiades.stoa.org/places/580101)
+
+
+## Geo 37804: Sounion
+[https://www.trismegistos.org/place/37804](https://www.trismegistos.org/place/37804)  
+
+### alignments:
+ - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
 
 
 ## Geo 37810: Thorikos
@@ -28285,6 +28292,13 @@
 
 ### alignments:
  - [Aquae Aptuccensium](https://pleiades.stoa.org/places/314882)
+
+
+## GEO ID 46886: Praha
+[https://www.trismegistos.org/place/46886](https://www.trismegistos.org/place/46886)  
+
+### alignments:
+ - [Praha](https://pleiades.stoa.org/places/118913)
 
 
 ## GEO ID 4690: Kabalsi (Abu Ghusun)
