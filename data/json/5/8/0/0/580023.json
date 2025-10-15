@@ -19,21 +19,27 @@
         },
         {
             "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
-        {
-            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-11-10T21:34:03Z",
@@ -81,13 +87,18 @@
                 "description": "Representative location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/580023/osm-location-of-mazi-tower",
                 "location_precision": "precise",
-                "snippet": "Fort; 550 BC - 330 BC",
+                "snippet": "Tower-defensive; 550 BC - 330 BC",
                 "title": "OSM location of Mazi Tower"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add Knodell 2016, wikidata, topostext @bkiesling",
+            "modified": "2025-10-15T01:50:55Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added DARMC reference to maintain linkage after retracting inaccurate location",
             "modified": "2020-01-31T11:24:31Z",
@@ -170,10 +181,10 @@
             "details": "",
             "end": -330,
             "featureType": [
-                "fort"
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
@@ -206,6 +217,16 @@
             },
             "history": [
                 {
+                    "comment": "feature type",
+                    "modified": "2025-10-15T01:51:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-10-15T01:42:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2020-01-31T11:23:42Z",
                     "modifiedBy": "thomase"
@@ -236,9 +257,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "OpenStreetMap (Way 446786516, version 1, osm:changeset=42770354, 2016-10-10T07:41:41Z)",
+            "provenance": "OpenStreetMap (Way 446786516, version 2, osm:changeset=134303272, 2023-03-30T12:41:30Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/browse/way/446786516",
@@ -258,12 +279,85 @@
             "uri": "https://pleiades.stoa.org/places/580023/osm-location-of-mazi-tower"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Mazi",
+            "contributors": [],
+            "created": "2025-10-15T01:48:37Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-15T08:18:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-15T01:48:43Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-10-15T01:48:39Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-15T01:48:37Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "mazi",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "59 A2 Mazi",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Mazi",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/580023/mazi"
+        }
+    ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
     ],
     "placeTypes": [
-        "fort"
+        "tower-defensive"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 A2 Mazi",
     "references": [
@@ -295,7 +389,7 @@
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IXG86LY5",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Fachard, Sylvian, Alex R. Knodell, and Eleni Banou. “THE 2014 MAZI ARCHAEOLOGICAL PROJECT (ATTICA).” <i>Antike Kunst</i> 58 (2015): 178–86. https://www.jstor.org/stable/26663622.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Fachard, Sylvian, Alex R. Knodell, and Eleni Banou. “The 2014 Mazi Archaeological Project (Attica).” <i>Antike Kunst</i> 58 (2015): 178–86. https://www.jstor.org/stable/26663622.</div>",
             "otherIdentifier": "",
             "shortTitle": "Fachard 2015",
             "type": "seeFurther"
@@ -310,6 +404,39 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.jstor.org/stable/26663644",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C6LYNMV2",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Knodell, Alex R., Sylvian Fachard, and Kalliopi Papangeli. “The 2015 Mazi Archaeological Project: Regional Survey in Northwest Attica (Greece).” <i>Antike Kunst</i> 59 (2016): 132–52. https://www.jstor.org/stable/26663644.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Knodell 2016",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q56397350",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Tower of Oinoe (Q56397350)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/382234FOin",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Oinoe or Mazi tower (Attica)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
