@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4712 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
+4713 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29603,6 +29603,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## GEO ID 54411: Krommyon (Hagioi Theodoroi)
+[https://www.trismegistos.org/place/54411](https://www.trismegistos.org/place/54411)  
+
+### alignments:
+ - [Krommyon](https://pleiades.stoa.org/places/570386)
 
 
 ## GEO ID 54417: Psamathous

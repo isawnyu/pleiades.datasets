@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-746 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
+748 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -979,7 +979,7 @@
 [https://resource.manto.unh.edu/10158827](https://resource.manto.unh.edu/10158827)  
 
 ### alignments:
- - [Aroanios (river)](https://pleiades.stoa.org/places/570114)
+ - [Aroanios (Arcadia: river above Kleitor)](https://pleiades.stoa.org/places/570114)
 
 
 ## 10158849: Mount Tithion (Argolid;  near Epidauros)
@@ -3025,6 +3025,20 @@
 
 ### alignments:
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
+
+
+## 8188810: Crommyon (Argolid)
+[https://resource.manto.unh.edu/8188810](https://resource.manto.unh.edu/8188810)  
+
+### alignments:
+ - [Krommyon](https://pleiades.stoa.org/places/570386)
+
+
+## 8188811: the Rocks of Sceiron (Megarid)
+[https://resource.manto.unh.edu/8188811](https://resource.manto.unh.edu/8188811)  
+
+### alignments:
+ - [Skeironiakai Petrai](https://pleiades.stoa.org/places/573517)
 
 
 ## 8188812: Corinth (Argolid)

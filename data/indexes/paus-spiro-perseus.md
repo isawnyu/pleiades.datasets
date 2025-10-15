@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-509 alignments exist in _Pleiades_ place references as of 2025-10-14. The following list of alignments is grouped by zotkey.
+508 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1164,6 +1164,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.34.8)  
 
 ### alignments:
+ - [Boukephala? Pr.](https://pleiades.stoa.org/places/570160)
  - [Halioussa](https://pleiades.stoa.org/places/573242)
  - [Kolyergia (promuntory)](https://pleiades.stoa.org/places/570369)
 
@@ -2738,13 +2739,6 @@
  - [Pheneos](https://pleiades.stoa.org/places/570595)
 
 
-## 8.14.3
-[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.14.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:8.14.3)  
-
-### alignments:
- - [Aroanios (river)](https://pleiades.stoa.org/places/570114)
-
-
 ## 8.15.6
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.15.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.15.6)  
 
@@ -2808,10 +2802,11 @@
  - [Lykouria?](https://pleiades.stoa.org/places/570445)
 
 
-## 8.21.1
+## 8.21.1-2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.21.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.21.1)  
 
 ### alignments:
+ - [Aroanios (Arcadia: river above Kleitor)](https://pleiades.stoa.org/places/570114)
  - [Kleitor (river)](https://pleiades.stoa.org/places/570360)
 
 
@@ -2858,10 +2853,11 @@
  - [Arcadia](https://pleiades.stoa.org/places/570102)
 
 
-## 8.24.3-5
+## 8.24.3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.3)  
 
 ### alignments:
+ - [Aroanios (Arcadia: river above Psophis)](https://pleiades.stoa.org/places/570113)
  - [Erymanthos (river)](https://pleiades.stoa.org/places/570237)
 
 
