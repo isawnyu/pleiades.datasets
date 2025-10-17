@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-438 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
+439 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1850,6 +1850,13 @@
 
 ### alignments:
  - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
+## toponyme 17227: Fyli, Chasia-Δ.Δ.Φυλής
+[https://chronique.efa.gr/?r=topo_public&id=17227](https://chronique.efa.gr/?r=topo_public&id=17227)  
+
+### alignments:
+ - [Phyle](https://pleiades.stoa.org/places/580079)
 
 
 ## Toponyme 18165: Elatia, Drachmani

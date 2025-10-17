@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4713 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
+4714 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -30913,6 +30913,13 @@
 
 ### alignments:
  - [Bembina](https://pleiades.stoa.org/places/573141)
+
+
+## GEO ID 61201: Agrai
+[https://www.trismegistos.org/place/61201](https://www.trismegistos.org/place/61201)  
+
+### alignments:
+ - [Agrai](https://pleiades.stoa.org/places/579846)
 
 
 ## GEO ID 61205: Aperopia (Dokos)

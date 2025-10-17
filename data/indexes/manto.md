@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-748 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
+750 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -870,6 +870,13 @@
  - [Nisaia](https://pleiades.stoa.org/places/570508)
 
 
+## 10151548: Agrai (Attica)
+[https://resource.manto.unh.edu/10151548](https://resource.manto.unh.edu/10151548)  
+
+### alignments:
+ - [Agrai](https://pleiades.stoa.org/places/579846)
+
+
 ## 10151549: the Theater of Dionysos (Athens)
 [https://resource.manto.unh.edu/10151549](https://resource.manto.unh.edu/10151549)  
 
@@ -1190,6 +1197,13 @@
 
 ### alignments:
  - [Kryptos Limen](https://pleiades.stoa.org/places/579997)
+
+
+## 10192064: the Sacred Grove near Mount Potinos (Argolid)
+[https://resource.manto.unh.edu/10192064](https://resource.manto.unh.edu/10192064)  
+
+### alignments:
+ - [Sacred Grove near Mount Pontinos](https://pleiades.stoa.org/places/69536363)
 
 
 ## 10193061: the Saronic Gulf

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9419 alignments exist in _Pleiades_ place references as of 2025-10-15. The following list of alignments is grouped by zotkey.
+9448 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -209,6 +209,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Abiward (Q2821653)
+[https://www.wikidata.org/wiki/Q2821653](https://www.wikidata.org/wiki/Q2821653)  
+
+### alignments:
+ - [[(A)Bivard]/Apauarktike](https://pleiades.stoa.org/places/952058)
 
 
 ## Abobrica (Q5655549)
@@ -1149,6 +1156,13 @@
 
 ### alignments:
  - [Agora of the Competaliasts or Hermaists](https://pleiades.stoa.org/places/411301348)
+
+
+## Agrae (Q116311975)
+[https://www.wikidata.org/wiki/Q116311975](https://www.wikidata.org/wiki/Q116311975)  
+
+### alignments:
+ - [Agrai](https://pleiades.stoa.org/places/579846)
 
 
 ## Agria Gramvousa (Q396561)
@@ -2822,6 +2836,13 @@
 
 ### alignments:
  - [Andizetes](https://pleiades.stoa.org/places/197116)
+
+
+## Andkhoy (Q1054127)
+[https://www.wikidata.org/wiki/Q1054127](https://www.wikidata.org/wiki/Q1054127)  
+
+### alignments:
+ - [Andkhui](https://pleiades.stoa.org/places/961876)
 
 
 ## Andros (polis) (Q62944263)
@@ -5625,6 +5646,13 @@
  - [Bakr Āwā](https://pleiades.stoa.org/places/48906852)
 
 
+## Baku (Q9248)
+[https://www.wikidata.org/wiki/Q9248](https://www.wikidata.org/wiki/Q9248)  
+
+### alignments:
+ - [Baku](https://pleiades.stoa.org/places/46154574)
+
+
 ## Balares (Q2408002)
 [https://www.wikidata.org/wiki/Q2408002](https://www.wikidata.org/wiki/Q2408002)  
 
@@ -6106,6 +6134,13 @@
 
 ### alignments:
  - [Basiluzzo](https://pleiades.stoa.org/places/548145747)
+
+
+## Basra (Q48195)
+[https://www.wikidata.org/wiki/Q48195](https://www.wikidata.org/wiki/Q48195)  
+
+### alignments:
+ - [[Basra]](https://pleiades.stoa.org/places/912821)
 
 
 ## Bassae (Q464923)
@@ -8039,6 +8074,13 @@
 
 ### alignments:
  - [Bouthoe](https://pleiades.stoa.org/places/481770)
+
+
+## Bukhara (Q5764)
+[https://www.wikidata.org/wiki/Q5764](https://www.wikidata.org/wiki/Q5764)  
+
+### alignments:
+ - [Bukhara](https://pleiades.stoa.org/places/762205391)
 
 
 ## Bulls Down camp (Q17650598)
@@ -13704,6 +13746,13 @@
  - [Iasonius (mountain)](https://pleiades.stoa.org/places/903045)
 
 
+## Damghan (Q720053)
+[https://www.wikidata.org/wiki/Q720053](https://www.wikidata.org/wiki/Q720053)  
+
+### alignments:
+ - [[Damghan]/[(Medinat) Qumis]](https://pleiades.stoa.org/places/942260)
+
+
 ## Damietta (Q189383)
 [https://www.wikidata.org/wiki/Q189383](https://www.wikidata.org/wiki/Q189383)  
 
@@ -13997,6 +14046,13 @@
 
 ### alignments:
  - [Derbe/Claudioderbe](https://pleiades.stoa.org/places/648620)
+
+
+## Derbent (Q131416)
+[https://www.wikidata.org/wiki/Q131416](https://www.wikidata.org/wiki/Q131416)  
+
+### alignments:
+ - [Tzon/Tzur](https://pleiades.stoa.org/places/863911)
 
 
 ## Dere Street (Q933249)
@@ -21523,6 +21579,13 @@
  - [Kablow](https://pleiades.stoa.org/places/20501)
 
 
+## Kabul (Q5838)
+[https://www.wikidata.org/wiki/Q5838](https://www.wikidata.org/wiki/Q5838)  
+
+### alignments:
+ - [Kabul](https://pleiades.stoa.org/places/59885)
+
+
 ## Kabul River (Q8515)
 [https://www.wikidata.org/wiki/Q8515](https://www.wikidata.org/wiki/Q8515)  
 
@@ -21738,6 +21801,13 @@
 
 ### alignments:
  - [Kampir-Tepe](https://pleiades.stoa.org/places/809369795)
+
+
+## Kandahar (Q45604)
+[https://www.wikidata.org/wiki/Q45604](https://www.wikidata.org/wiki/Q45604)  
+
+### alignments:
+ - [Alexandria/Alexandropolis/Cufis](https://pleiades.stoa.org/places/59669)
 
 
 ## Kandanos (Q547776)
@@ -22182,6 +22252,13 @@
  - [Kerlescan alignments](https://pleiades.stoa.org/places/320384863)
 
 
+## Kerman (Q171714)
+[https://www.wikidata.org/wiki/Q171714](https://www.wikidata.org/wiki/Q171714)  
+
+### alignments:
+ - [Veh Ardashir/[Bardasir]/[Govasir]](https://pleiades.stoa.org/places/29802)
+
+
 ## Keskese (Q4251169)
 [https://www.wikidata.org/wiki/Q4251169](https://www.wikidata.org/wiki/Q4251169)  
 
@@ -22222,6 +22299,13 @@
 
 ### alignments:
  - [Ḫafāǧa](https://pleiades.stoa.org/places/490043590)
+
+
+## Khalchayan (Q1060260)
+[https://www.wikidata.org/wiki/Q1060260](https://www.wikidata.org/wiki/Q1060260)  
+
+### alignments:
+ - [Khalchayan](https://pleiades.stoa.org/places/971791)
 
 
 ## Khalde (Q15236020)
@@ -22350,6 +22434,13 @@
  - [‘Arios’/Charieis (river)](https://pleiades.stoa.org/places/857045)
 
 
+## Kholm (Q1014375)
+[https://www.wikidata.org/wiki/Q1014375](https://www.wikidata.org/wiki/Q1014375)  
+
+### alignments:
+ - [Kuhna Khulm](https://pleiades.stoa.org/places/971811)
+
+
 ## Khor Kalmat (Q6402306)
 [https://www.wikidata.org/wiki/Q6402306](https://www.wikidata.org/wiki/Q6402306)  
 
@@ -22418,6 +22509,13 @@
 
 ### alignments:
  - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
+
+
+## Kingdom of Mapungubwe (Q98085401)
+[https://www.wikidata.org/wiki/Q98085401](https://www.wikidata.org/wiki/Q98085401)  
+
+### alignments:
+ - [Kingdom of Mapungubwe](https://pleiades.stoa.org/places/568111824)
 
 
 ## Kinnaird Head (Q31312419)
@@ -24689,6 +24787,13 @@
  - [Longula](https://pleiades.stoa.org/places/438775)
 
 
+## Lorestan Province (Q1131727)
+[https://www.wikidata.org/wiki/Q1131727](https://www.wikidata.org/wiki/Q1131727)  
+
+### alignments:
+ - [Luristan](https://pleiades.stoa.org/places/191400484)
+
+
 ## Loretum (Q135957720)
 [https://www.wikidata.org/wiki/Q135957720](https://www.wikidata.org/wiki/Q135957720)  
 
@@ -25786,6 +25891,13 @@
 
 ### alignments:
  - [Kainua](https://pleiades.stoa.org/places/393448)
+
+
+## Mashhad (Q121157)
+[https://www.wikidata.org/wiki/Q121157](https://www.wikidata.org/wiki/Q121157)  
+
+### alignments:
+ - [Mašhad](https://pleiades.stoa.org/places/641191184)
 
 
 ## Mashkan-shapir (Q2574582)
@@ -29171,6 +29283,13 @@
  - [Nicea Nialia/Barsa](https://pleiades.stoa.org/places/884897)
 
 
+## Nicobar Islands (Q157286)
+[https://www.wikidata.org/wiki/Q157286](https://www.wikidata.org/wiki/Q157286)  
+
+### alignments:
+ - [Barous(s)ai? (islands)](https://pleiades.stoa.org/places/49903)
+
+
 ## Nicopolis (Q619704)
 [https://www.wikidata.org/wiki/Q619704](https://www.wikidata.org/wiki/Q619704)  
 
@@ -29281,6 +29400,13 @@
 
 ### alignments:
  - [Nisaia](https://pleiades.stoa.org/places/570508)
+
+
+## Nishapur (Q131350)
+[https://www.wikidata.org/wiki/Q131350](https://www.wikidata.org/wiki/Q131350)  
+
+### alignments:
+ - [Nev-Shapur](https://pleiades.stoa.org/places/952092)
 
 
 ## Nisida (Q1192720)
@@ -32557,6 +32683,13 @@
 
 ### alignments:
  - [Phylakopi](https://pleiades.stoa.org/places/280341406)
+
+
+## Phyle (Q2089186)
+[https://www.wikidata.org/wiki/Q2089186](https://www.wikidata.org/wiki/Q2089186)  
+
+### alignments:
+ - [Phyle](https://pleiades.stoa.org/places/580079)
 
 
 ## Phyllus (Q16567947)
@@ -39306,13 +39439,6 @@
  - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
 
 
-## Q1670679: Stoa Basileios
-[https://www.wikidata.org/wiki/Q1670679](https://www.wikidata.org/wiki/Q1670679)  
-
-### alignments:
- - [Royal Stoa](https://pleiades.stoa.org/places/192761443)
-
-
 ## Q1671590: Ostia Antica, Regio III
 [https://www.wikidata.org/wiki/Q1671590](https://www.wikidata.org/wiki/Q1671590)  
 
@@ -41286,13 +41412,6 @@
 
 ### alignments:
  - [Achaea Phthiotis](https://pleiades.stoa.org/places/540585)
-
-
-## Q2089186: Phyle
-[https://www.wikidata.org/wiki/Q2089186](https://www.wikidata.org/wiki/Q2089186)  
-
-### alignments:
- - [Phyle](https://pleiades.stoa.org/places/580079)
 
 
 ## Q20986991: Xyniae
@@ -51298,6 +51417,13 @@
  - [Qalat al-Bahrain](https://pleiades.stoa.org/places/932478)
 
 
+## Qarshi (Q644008)
+[https://www.wikidata.org/wiki/Q644008](https://www.wikidata.org/wiki/Q644008)  
+
+### alignments:
+ - [Xenippa](https://pleiades.stoa.org/places/60105)
+
+
 ## Qaryat al-Faw (Q2829327)
 [https://www.wikidata.org/wiki/Q2829327](https://www.wikidata.org/wiki/Q2829327)  
 
@@ -51431,6 +51557,13 @@
  - [Qatna](https://pleiades.stoa.org/places/412342122)
 
 
+## Qazvin (Q181578)
+[https://www.wikidata.org/wiki/Q181578](https://www.wikidata.org/wiki/Q181578)  
+
+### alignments:
+ - [Shad Shapur](https://pleiades.stoa.org/places/884204)
+
+
 ## Qaş al ‘Abd (Q105988491)
 [https://www.wikidata.org/wiki/Q105988491](https://www.wikidata.org/wiki/Q105988491)  
 
@@ -51520,6 +51653,13 @@
 
 ### alignments:
  - [Qohaito](https://pleiades.stoa.org/places/698596572)
+
+
+## Qom (Q170573)
+[https://www.wikidata.org/wiki/Q170573](https://www.wikidata.org/wiki/Q170573)  
+
+### alignments:
+ - [Goyman/Kumandan/Eran-vinard-Kavad](https://pleiades.stoa.org/places/903036)
 
 
 ## Quadi (Q308885)
@@ -53882,6 +54022,13 @@
  - [Sabini](https://pleiades.stoa.org/places/413291)
 
 
+## Sabzevar (Q765553)
+[https://www.wikidata.org/wiki/Q765553](https://www.wikidata.org/wiki/Q765553)  
+
+### alignments:
+ - [Sabzevār](https://pleiades.stoa.org/places/300354630)
+
+
 ## Sacco (Q547937)
 [https://www.wikidata.org/wiki/Q547937](https://www.wikidata.org/wiki/Q547937)  
 
@@ -54965,6 +55112,13 @@
 
 ### alignments:
  - [Saraceno di Favara](https://pleiades.stoa.org/places/462484)
+
+
+## Sarahs (Q2588491)
+[https://www.wikidata.org/wiki/Q2588491](https://www.wikidata.org/wiki/Q2588491)  
+
+### alignments:
+ - [Serakhs](https://pleiades.stoa.org/places/961963)
 
 
 ## Sarakinos Cave (Q38280127)
@@ -57299,6 +57453,13 @@
  - [Stoa at Brauron](https://pleiades.stoa.org/places/840019989)
 
 
+## Stoa Basileios (Q1670679)
+[https://www.wikidata.org/wiki/Q1670679](https://www.wikidata.org/wiki/Q1670679)  
+
+### alignments:
+ - [Royal Stoa](https://pleiades.stoa.org/places/192761443)
+
+
 ## Stoa of Attalos (Q1263335)
 [https://www.wikidata.org/wiki/Q1263335](https://www.wikidata.org/wiki/Q1263335)  
 
@@ -57852,6 +58013,13 @@
  - [Tabo](https://pleiades.stoa.org/places/985706528)
 
 
+## Tabriz (Q80053)
+[https://www.wikidata.org/wiki/Q80053](https://www.wikidata.org/wiki/Q80053)  
+
+### alignments:
+ - [Tabrīz](https://pleiades.stoa.org/places/430344981)
+
+
 ## Tabuda (Q98749704)
 [https://www.wikidata.org/wiki/Q98749704](https://www.wikidata.org/wiki/Q98749704)  
 
@@ -58279,6 +58447,13 @@
  - [Tegianum](https://pleiades.stoa.org/places/442816)
 
 
+## Tehran (Q3616)
+[https://www.wikidata.org/wiki/Q3616](https://www.wikidata.org/wiki/Q3616)  
+
+### alignments:
+ - [Tehrān](https://pleiades.stoa.org/places/419508714)
+
+
 ## Teichiussa (Q65068781)
 [https://www.wikidata.org/wiki/Q65068781](https://www.wikidata.org/wiki/Q65068781)  
 
@@ -58690,6 +58865,13 @@
 
 ### alignments:
  - [Temple of Aphlad](https://pleiades.stoa.org/places/888638015)
+
+
+## Temple of Aphrodite Urania (Q2118071)
+[https://www.wikidata.org/wiki/Q2118071](https://www.wikidata.org/wiki/Q2118071)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Ourania](https://pleiades.stoa.org/places/435244729)
 
 
 ## Temple of Apollo (Corinth)
@@ -62508,6 +62690,13 @@
  - [Turia (river)](https://pleiades.stoa.org/places/266076)
 
 
+## Tus (Q681427)
+[https://www.wikidata.org/wiki/Q681427](https://www.wikidata.org/wiki/Q681427)  
+
+### alignments:
+ - [Tusa/Sousia](https://pleiades.stoa.org/places/952108)
+
+
 ## Tuscia et Umbria (Q60836975)
 [https://www.wikidata.org/wiki/Q60836975](https://www.wikidata.org/wiki/Q60836975)  
 
@@ -62695,6 +62884,13 @@
 
 ### alignments:
  - [Uitgeest](https://pleiades.stoa.org/places/99049)
+
+
+## Ujjain (Q200119)
+[https://www.wikidata.org/wiki/Q200119](https://www.wikidata.org/wiki/Q200119)  
+
+### alignments:
+ - [Ozene](https://pleiades.stoa.org/places/59972)
 
 
 ## Ulhas River (Q53233)
@@ -65364,6 +65560,13 @@
 
 ### alignments:
  - [Iamneia](https://pleiades.stoa.org/places/687925)
+
+
+## Yazd (Q182394)
+[https://www.wikidata.org/wiki/Q182394](https://www.wikidata.org/wiki/Q182394)  
+
+### alignments:
+ - [Yazd](https://pleiades.stoa.org/places/29811)
 
 
 ## Ydrousa (Q25069916)
