@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/10/12 06:48:22.135723 GMT-4
+# Date: 2025/10/19 06:48:20.669200 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5290
+# Triple count: 5340
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -611,6 +611,31 @@
     dcterms:title "Untikesken";
     owl:sameAs <http://pleiades.stoa.org/errata/252998/untikesken> .
 
+<https://pleiades.stoa.org/errata/285459%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn (invalid): Kh., see Kherba";
+    rdfs:comment "An invalid place resource inadvertently created from a cross-reference during import of data from the Barrington Atlas Directory. The old place resource has been replaced by a query for \"Kherba\" in titles.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/285459> .
+
+<https://pleiades.stoa.org/errata/285459/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>,
+        <https://pleiades.stoa.org/author/warner-r>;
+    dcterms:creator <http://viaf.org/viaf/12323175>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T18:59:30-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/285459/batlas-location> .
+
+<https://pleiades.stoa.org/errata/285459/kh-see-kherba> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>,
+        <https://pleiades.stoa.org/author/warner-r>;
+    dcterms:creator <http://viaf.org/viaf/12323175>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T18:59:30-04:00";
+    dcterms:title "Kh., see Kherba";
+    owl:sameAs <http://pleiades.stoa.org/errata/285459/kh-see-kherba> .
+
 <https://pleiades.stoa.org/errata/294765235%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Arc de Berà";
     rdfs:comment "This place resource is a duplicate for http://pleiades.stoa.org/places/246238 and was erroneously created and published. It has been withdrawn and moved to errata.";
@@ -1141,11 +1166,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1153,11 +1178,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3144,6 +3169,26 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/untikesken> .
 
+<https://pleiades.stoa.org/errata/285459> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 29 Kh., see Kherba";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>,
+        <https://pleiades.stoa.org/author/warner-r>;
+    dcterms:creator <http://viaf.org/viaf/12323175>;
+    dcterms:description "An invalid place resource inadvertently created from a cross-reference during import of data from the Barrington Atlas Directory. The old place resource has been replaced by a query for \"Kherba\" in titles.";
+    dcterms:modified "2025-10-15T08:55:24-04:00";
+    dcterms:title "Withdrawn (invalid): Kh., see Kherba";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>;
+    owl:sameAs <http://pleiades.stoa.org/errata/285459>;
+    skos:altLabel "Kh., see Kherba";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 29 Kh., see Kherba" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/unknown>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/kh-see-kherba> .
+
 <https://pleiades.stoa.org/errata/294765235> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -3709,11 +3754,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -3827,10 +3872,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ];
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ],
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -4994,6 +5039,12 @@
     pleiades:nameRomanized "Karmalas";
     pleiades:start_date -330 .
 
+<https://pleiades.stoa.org/errata/kh-see-kherba> a <https://pleiades.stoa.org/places/vocab#Name>;
+    owl:sameAs <http://pleiades.stoa.org/errata/kh-see-kherba>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 29 Kh., see Kherba" ];
+    pleiades:nameRomanized "Kh.",
+        "see Kherba" .
+
 <https://pleiades.stoa.org/errata/ladon> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/ladon>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ];
@@ -5474,6 +5525,7 @@
     owl:sameAs <http://pleiades.stoa.org/errata/batlas-location>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 D4 9" ],
         [ rdfs:label "Barrington Atlas: BAtlas 25 Untikesken" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 29 Kh., see Kherba" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Achaia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
         [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
@@ -5489,8 +5541,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
@@ -5500,8 +5552,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
@@ -5511,8 +5563,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
