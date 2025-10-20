@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9448 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
+9457 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2542,6 +2542,13 @@
 
 ### alignments:
  - [Abdera](https://pleiades.stoa.org/places/501323)
+
+
+## Ancient Agora of Athens (Q395367)
+[https://www.wikidata.org/wiki/Q395367](https://www.wikidata.org/wiki/Q395367)  
+
+### alignments:
+ - [Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 
 ## Ancient Corsica (Q1784775)
@@ -5357,6 +5364,13 @@
 
 ### alignments:
  - [A(u)xoume](https://pleiades.stoa.org/places/39303)
+
+
+## Ayas (Q404231)
+[https://www.wikidata.org/wiki/Q404231](https://www.wikidata.org/wiki/Q404231)  
+
+### alignments:
+ - [Aigai(ai)/Aegeae](https://pleiades.stoa.org/places/658368)
 
 
 ## Ayasuluk Citadel (Q206257)
@@ -14336,6 +14350,13 @@
  - [Diogeneion](https://pleiades.stoa.org/places/736170760)
 
 
+## Diomeia (Q13518339)
+[https://www.wikidata.org/wiki/Q13518339](https://www.wikidata.org/wiki/Q13518339)  
+
+### alignments:
+ - [Diomeia](https://pleiades.stoa.org/places/579912)
+
+
 ## Dionysades (Q915908)
 [https://www.wikidata.org/wiki/Q915908](https://www.wikidata.org/wiki/Q915908)  
 
@@ -22203,6 +22224,13 @@
  - [Cainnas (river)](https://pleiades.stoa.org/places/59757)
 
 
+## Kenan Höyüğü (Q6098540)
+[https://www.wikidata.org/wiki/Q6098540](https://www.wikidata.org/wiki/Q6098540)  
+
+### alignments:
+ - [Kenan Tepe](https://pleiades.stoa.org/places/381896576)
+
+
 ## Kephale (Q13445967)
 [https://www.wikidata.org/wiki/Q13445967](https://www.wikidata.org/wiki/Q13445967)  
 
@@ -23975,6 +24003,13 @@
  - [Late Mithraeum](https://pleiades.stoa.org/places/888638000)
 
 
+## Late Roman Round Building (Q136535139)
+[https://www.wikidata.org/wiki/Q136535139](https://www.wikidata.org/wiki/Q136535139)  
+
+### alignments:
+ - [Late Roman Round Building](https://pleiades.stoa.org/places/675812634)
+
+
 ## Lateran Obelisk (Q645181)
 [https://www.wikidata.org/wiki/Q645181](https://www.wikidata.org/wiki/Q645181)  
 
@@ -24176,6 +24211,13 @@
 
 ### alignments:
  - [Leimon](https://pleiades.stoa.org/places/599758)
+
+
+## Leipsidrion (Q17584316)
+[https://www.wikidata.org/wiki/Q17584316](https://www.wikidata.org/wiki/Q17584316)  
+
+### alignments:
+ - [Leipsydrion](https://pleiades.stoa.org/places/580011)
 
 
 ## Lemnos (Q192483)
@@ -24498,6 +24540,13 @@
 
 ### alignments:
  - [Limnai](https://pleiades.stoa.org/places/501497)
+
+
+## Limnae (Q48781604)
+[https://www.wikidata.org/wiki/Q48781604](https://www.wikidata.org/wiki/Q48781604)  
+
+### alignments:
+ - [Limnai](https://pleiades.stoa.org/places/570435)
 
 
 ## Limnaion (Q60790520)
@@ -26473,6 +26522,13 @@
 
 ### alignments:
  - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
+
+
+## Mersin (Q134291)
+[https://www.wikidata.org/wiki/Q134291](https://www.wikidata.org/wiki/Q134291)  
+
+### alignments:
+ - [Zephyrion/Hadrianopolis](https://pleiades.stoa.org/places/648810)
 
 
 ## Mert River (Q6077754)
@@ -37960,13 +38016,6 @@
  - [*Aufenginum](https://pleiades.stoa.org/places/413042)
 
 
-## Q13518339: Diomeia
-[https://www.wikidata.org/wiki/Q13518339](https://www.wikidata.org/wiki/Q13518339)  
-
-### alignments:
- - [Diomeia](https://pleiades.stoa.org/places/579912)
-
-
 ## Q13526102: Araphen
 [https://www.wikidata.org/wiki/Q13526102](https://www.wikidata.org/wiki/Q13526102)  
 
@@ -45924,13 +45973,6 @@
 
 ### alignments:
  - [Scornavacche](https://pleiades.stoa.org/places/462486)
-
-
-## Q395367: Ancient Agora of Athens
-[https://www.wikidata.org/wiki/Q395367](https://www.wikidata.org/wiki/Q395367)  
-
-### alignments:
- - [Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 
 ## Q3955654: Tomb of Priscilla
@@ -56914,6 +56956,13 @@
  - [Solforata](https://pleiades.stoa.org/places/423075)
 
 
+## Soli (Q656954)
+[https://www.wikidata.org/wiki/Q656954](https://www.wikidata.org/wiki/Q656954)  
+
+### alignments:
+ - [Soloi/Pompeiopolis](https://pleiades.stoa.org/places/648781)
+
+
 ## Solia (Q6131553)
 [https://www.wikidata.org/wiki/Q6131553](https://www.wikidata.org/wiki/Q6131553)  
 
@@ -57075,11 +57124,25 @@
  - [South Stoa I](https://pleiades.stoa.org/places/730466010)
 
 
+## South Stoa II (Q17630697)
+[https://www.wikidata.org/wiki/Q17630697](https://www.wikidata.org/wiki/Q17630697)  
+
+### alignments:
+ - [South Stoa II](https://pleiades.stoa.org/places/792574637)
+
+
 ## South-Western Baths at Herculaneum (Q133190089)
 [https://www.wikidata.org/wiki/Q133190089](https://www.wikidata.org/wiki/Q133190089)  
 
 ### alignments:
  - [South-Western Baths](https://pleiades.stoa.org/places/582358863)
+
+
+## Southeast stoa (Q24204675)
+[https://www.wikidata.org/wiki/Q24204675](https://www.wikidata.org/wiki/Q24204675)  
+
+### alignments:
+ - [Southeast Stoa](https://pleiades.stoa.org/places/885470680)
 
 
 ## Southeast Temple (Q24204674)

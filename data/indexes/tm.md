@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4714 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
+4716 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29619,6 +29619,13 @@
  - [(Ps)Amathous](https://pleiades.stoa.org/places/570635)
 
 
+## GEO ID 54420: Limnai (Volimnos)
+[https://www.trismegistos.org/place/54420](https://www.trismegistos.org/place/54420)  
+
+### alignments:
+ - [Limnai](https://pleiades.stoa.org/places/570435)
+
+
 ## GEO ID 54478: Timna
 [https://www.trismegistos.org/place/54478](https://www.trismegistos.org/place/54478)  
 
@@ -30486,6 +30493,13 @@
 
 ### alignments:
  - [Etosi](https://pleiades.stoa.org/places/579929)
+
+
+## GEO ID 60789: Loimiko
+[https://www.trismegistos.org/place/60789](https://www.trismegistos.org/place/60789)  
+
+### alignments:
+ - [Limiko (Attica)](https://pleiades.stoa.org/places/580014)
 
 
 ## GEO ID 60791: Phoron Limen

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-750 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
+752 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2284,6 +2284,13 @@
  - [Asteria (island)](https://pleiades.stoa.org/places/530816)
 
 
+## 11293434: Soloi (Cilicia)
+[https://resource.manto.unh.edu/11293434](https://resource.manto.unh.edu/11293434)  
+
+### alignments:
+ - [Soloi/Pompeiopolis](https://pleiades.stoa.org/places/648781)
+
+
 ## 11293708: Triphylia
 [https://resource.manto.unh.edu/11293708](https://resource.manto.unh.edu/11293708)  
 
@@ -2387,6 +2394,13 @@
 
 ### alignments:
  - [Camarina](https://pleiades.stoa.org/places/462126)
+
+
+## 11298646: the Sanctuary of Artemis Limnatis (Messenia/Laconia)
+[https://resource.manto.unh.edu/11298646](https://resource.manto.unh.edu/11298646)  
+
+### alignments:
+ - [Limnai](https://pleiades.stoa.org/places/570435)
 
 
 ## 11298669: the Sanctuary of Dictynna (Crete)

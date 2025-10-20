@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3976 alignments exist in _Pleiades_ place references as of 2025-10-17. The following list of alignments is grouped by zotkey.
+3978 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4162,6 +4162,13 @@
 
 ### alignments:
  - [Attea](https://pleiades.stoa.org/places/550474)
+
+
+## Attica region (Hellas) 1518 Attiki - Αττική
+[https://topostext.org/place/379239RAtt](https://topostext.org/place/379239RAtt)  
+
+### alignments:
+ - [Attica](https://pleiades.stoa.org/places/579888)
 
 
 ## Atuatuci (Belgiae) 37 Tongeren
@@ -14992,6 +14999,13 @@
 
 ### alignments:
  - [Limiko Kapsalon dragon house](https://pleiades.stoa.org/places/766613993)
+
+
+## Limiko tower (Attica)
+[https://topostext.org/place/382237FLim](https://topostext.org/place/382237FLim)  
+
+### alignments:
+ - [Limiko (Attica)](https://pleiades.stoa.org/places/580014)
 
 
 ## Limnai (Messenia)
