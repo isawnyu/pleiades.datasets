@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4716 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
+4720 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29752,6 +29752,13 @@
  - [Alopeke](https://pleiades.stoa.org/places/579858)
 
 
+## GEO ID 56496: Koile
+[https://www.trismegistos.org/place/56496](https://www.trismegistos.org/place/56496)  
+
+### alignments:
+ - [Koile](https://pleiades.stoa.org/places/579980)
+
+
 ## GEO ID 56498: Kolonos
 [https://www.trismegistos.org/place/56498](https://www.trismegistos.org/place/56498)  
 
@@ -30271,6 +30278,20 @@
  - [Eiresidai](https://pleiades.stoa.org/places/579915)
 
 
+## GEO ID 60669: Keiriadai
+[https://www.trismegistos.org/place/60669](https://www.trismegistos.org/place/60669)  
+
+### alignments:
+ - [Keiriadai](https://pleiades.stoa.org/places/579970)
+
+
+## GEO ID 60673: Hestiaia (Tsako)
+[https://www.trismegistos.org/place/60673](https://www.trismegistos.org/place/60673)  
+
+### alignments:
+ - [Hestiaia?](https://pleiades.stoa.org/places/579950)
+
+
 ## GEO ID 60676: Paiania Hypenerthen
 [https://www.trismegistos.org/place/60676](https://www.trismegistos.org/place/60676)  
 
@@ -30304,6 +30325,13 @@
 
 ### alignments:
  - [Eupyridai](https://pleiades.stoa.org/places/579933)
+
+
+## GEO ID 60691: Kropeia
+[https://www.trismegistos.org/place/60691](https://www.trismegistos.org/place/60691)  
+
+### alignments:
+ - [Kropidai](https://pleiades.stoa.org/places/579996)
 
 
 ## GEO ID 60699: Probalinthos

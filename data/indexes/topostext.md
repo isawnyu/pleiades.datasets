@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3978 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
+3981 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9646,6 +9646,13 @@
  - [Geronthrai](https://pleiades.stoa.org/places/570263)
 
 
+## Gerovouno site (Attica) Gerovouno - Γεροβούνο
+[https://topostext.org/place/381237FGer](https://topostext.org/place/381237FGer)  
+
+### alignments:
+ - [Geravouno](https://pleiades.stoa.org/places/579936)
+
+
 ## Gerra (Egypt)
 [https://topostext.org/place/310326UGer](https://topostext.org/place/310326UGer)  
 
@@ -10702,6 +10709,13 @@
 
 ### alignments:
  - [Heroonpolis](https://pleiades.stoa.org/places/727124)
+
+
+## Hestiaia (Attica) 3 Tsako - Εστίαια
+[https://topostext.org/place/380238DHes](https://topostext.org/place/380238DHes)  
+
+### alignments:
+ - [Hestiaia?](https://pleiades.stoa.org/places/579950)
 
 
 ## Hestiaiotis region (Trikala)
@@ -13789,6 +13803,13 @@
 
 ### alignments:
  - [Kronios/Kronion](https://pleiades.stoa.org/places/573311)
+
+
+## Kropidai (Attica) 2 W Ano Liosia - Κρωπιά
+[https://topostext.org/place/381237DKro](https://topostext.org/place/381237DKro)  
+
+### alignments:
+ - [Kropidai](https://pleiades.stoa.org/places/579996)
 
 
 ## Krounoi (Aitolia)

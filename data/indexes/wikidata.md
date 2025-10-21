@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9457 alignments exist in _Pleiades_ place references as of 2025-10-20. The following list of alignments is grouped by zotkey.
+9461 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6038,6 +6038,13 @@
  - ["The Great Basilica" at Butrint ](https://pleiades.stoa.org/places/73856966)
 
 
+## Basilica of Campanopetra (Q123249426)
+[https://www.wikidata.org/wiki/Q123249426](https://www.wikidata.org/wiki/Q123249426)  
+
+### alignments:
+ - [Basilica of Campanopetra](https://pleiades.stoa.org/places/354671742)
+
+
 ## Basilica of Constantine (Ostia) (Q56293166)
 [https://www.wikidata.org/wiki/Q56293166](https://www.wikidata.org/wiki/Q56293166)  
 
@@ -11747,6 +11754,13 @@
 
 ### alignments:
  - [Chogha Bonut](https://pleiades.stoa.org/places/863747026)
+
+
+## Chogha Mish (Q5103844)
+[https://www.wikidata.org/wiki/Q5103844](https://www.wikidata.org/wiki/Q5103844)  
+
+### alignments:
+ - [Chogha Mish](https://pleiades.stoa.org/places/912829)
 
 
 ## Cholargos (Q13436199)
@@ -19444,6 +19458,13 @@
  - [Esbous](https://pleiades.stoa.org/places/697662)
 
 
+## Hestiaia (Q13518344)
+[https://www.wikidata.org/wiki/Q13518344](https://www.wikidata.org/wiki/Q13518344)  
+
+### alignments:
+ - [Hestiaia?](https://pleiades.stoa.org/places/579950)
+
+
 ## Hexamilion wall (Q305428)
 [https://www.wikidata.org/wiki/Q305428](https://www.wikidata.org/wiki/Q305428)  
 
@@ -22182,6 +22203,13 @@
  - [Cephallania (island)](https://pleiades.stoa.org/places/530826)
 
 
+## Keiriadai (Q13426463)
+[https://www.wikidata.org/wiki/Q13426463](https://www.wikidata.org/wiki/Q13426463)  
+
+### alignments:
+ - [Keiriadai](https://pleiades.stoa.org/places/579970)
+
+
 ## Kelashin Stele (Q3849877)
 [https://www.wikidata.org/wiki/Q3849877](https://www.wikidata.org/wiki/Q3849877)  
 
@@ -22726,6 +22754,13 @@
 
 ### alignments:
  - [Kodrana](https://pleiades.stoa.org/places/60546)
+
+
+## Koile (Q13426464)
+[https://www.wikidata.org/wiki/Q13426464](https://www.wikidata.org/wiki/Q13426464)  
+
+### alignments:
+ - [Koile](https://pleiades.stoa.org/places/579980)
 
 
 ## Koiliaris (Q3198324)
@@ -47166,13 +47201,6 @@
 
 ### alignments:
  - [Andriake](https://pleiades.stoa.org/places/638745)
-
-
-## Q5103844: Chogha Mish
-[https://www.wikidata.org/wiki/Q5103844](https://www.wikidata.org/wiki/Q5103844)  
-
-### alignments:
- - [Chogha Mish](https://pleiades.stoa.org/places/912829)
 
 
 ## Q51507: Racecourse of Achilles
