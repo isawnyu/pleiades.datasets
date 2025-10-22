@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.69338,
-        38.199727,
-        23.69338,
-        38.199727
+        23.6925492,
+        38.2018009,
+        23.6926512,
+        38.2018911
     ],
     "connections": [
         {
@@ -141,23 +141,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.69338,
-                    38.199727
+                    [
+                        23.6925492,
+                        38.2018815
+                    ],
+                    [
+                        23.6925636,
+                        38.2018009
+                    ],
+                    [
+                        23.6926512,
+                        38.2018106
+                    ],
+                    [
+                        23.6926369,
+                        38.2018911
+                    ],
+                    [
+                        23.6925492,
+                        38.2018815
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "darmc-location-21584",
+            "id": "osm-location-of-limiko-tower",
             "properties": {
-                "description": "Point location",
-                "link": "https://pleiades.stoa.org/places/580014/darmc-location-21584",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580014/osm-location-of-limiko-tower",
                 "location_precision": "precise",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "DARMC location 21584"
+                "snippet": "Tower-defensive; 550 BC - 330 BC",
+                "title": "OSM location of Limiko Tower"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-10-21T16:08:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "add TM GEO ID 60789: Loimiko",
             "modified": "2025-10-19T23:57:58Z",
@@ -213,103 +236,202 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-c",
-            "accuracy_value": 10000.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "classical",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:43:19Z",
+            "contributors": [],
+            "created": "2025-10-19T23:56:04Z",
             "creators": [
                 {
-                    "name": "J.S. Traill",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Point location",
-            "details": "DARMC OBJECTID: 21584",
+            "description": "Representative location based on OpenStreetMap",
+            "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "tower-defensive"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
             "geometry": {
                 "coordinates": [
-                    23.69338,
-                    38.199727
+                    [
+                        23.6925492,
+                        38.2018815
+                    ],
+                    [
+                        23.6925636,
+                        38.2018009
+                    ],
+                    [
+                        23.6926512,
+                        38.2018106
+                    ],
+                    [
+                        23.6926369,
+                        38.2018911
+                    ],
+                    [
+                        23.6925492,
+                        38.2018815
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:42:33Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:16:02Z",
+                    "modified": "2025-10-21T16:08:05Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T00:43:21Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-20T00:01:57Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:43:21Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Edited",
+                    "modified": "2025-10-20T00:01:51Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2025-10-19T23:56:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-10-19T23:56:04Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:43:20Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-19T23:56:04Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-21584",
+            "id": "osm-location-of-limiko-tower",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
             ],
-            "provenance": "DARMC OBJECTID: 21584",
+            "provenance": "OpenStreetMap (Way 341986500, version 7, osm:changeset=115293981, 2021-12-23T11:26:30Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/341986500",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "21584",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 341986500",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 21584.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:way=341986500",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
             "start": -550,
-            "title": "DARMC location 21584",
-            "uri": "https://pleiades.stoa.org/places/580014/darmc-location-21584"
+            "title": "OSM location of Limiko Tower",
+            "uri": "https://pleiades.stoa.org/places/580014/osm-location-of-limiko-tower"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Limiko",
+            "contributors": [],
+            "created": "2025-10-19T23:58:51Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-21T16:07:53Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-19T23:59:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-10-19T23:58:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-19T23:58:51Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "limiko",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "59 B2 Limiko",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Limiko",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/580014/limiko"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/tower-defensive"
@@ -363,11 +485,22 @@
             "otherIdentifier": "",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "21584",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.69338,
-        38.199727
+        23.692600208182498,
+        38.201846033832204
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
