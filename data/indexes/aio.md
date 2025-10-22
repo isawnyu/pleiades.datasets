@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-147 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
+149 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -465,6 +465,13 @@
  - [Hymettos M.](https://pleiades.stoa.org/places/579955)
 
 
+## Findspot: Mygdaleza
+[https://www.atticinscriptions.com/browse/byfindspot/mygdaleza/](https://www.atticinscriptions.com/browse/byfindspot/mygdaleza/)  
+
+### alignments:
+ - [Mygdaleza basilica](https://pleiades.stoa.org/places/291344339)
+
+
 ## Findspot: Myrrhinous
 [https://www.atticinscriptions.com/browse/byfindspot/myrrhinous/](https://www.atticinscriptions.com/browse/byfindspot/myrrhinous/)  
 
@@ -701,6 +708,13 @@
 
 ### alignments:
  - [Library of Pantainos](https://pleiades.stoa.org/places/582559069)
+
+
+## On the boundaries of the sacred tract (352/1 BC)
+[https://www.atticinscriptions.com/inscription/IGII31/292](https://www.atticinscriptions.com/inscription/IGII31/292)  
+
+### alignments:
+ - [Hiera Orgas](https://pleiades.stoa.org/places/66782793)
 
 
 ## Original Location: Acharnai

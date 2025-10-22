@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4720 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
+4723 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -30432,6 +30432,13 @@
  - [Karyai](https://pleiades.stoa.org/places/573275)
 
 
+## GEO ID 60733: Erasinos
+[https://www.trismegistos.org/place/60733](https://www.trismegistos.org/place/60733)  
+
+### alignments:
+ - [Erasinos (river)](https://pleiades.stoa.org/places/579923)
+
+
 ## GEO ID 60735: Kephisos (Sarandaporos)
 [https://www.trismegistos.org/place/60735](https://www.trismegistos.org/place/60735)  
 
@@ -30514,6 +30521,20 @@
 
 ### alignments:
  - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
+
+
+## GEO ID 60781: Gerabouno
+[https://www.trismegistos.org/place/60781](https://www.trismegistos.org/place/60781)  
+
+### alignments:
+ - [Geravouno](https://pleiades.stoa.org/places/579936)
+
+
+## GEO ID 60785: Beletsi
+[https://www.trismegistos.org/place/60785](https://www.trismegistos.org/place/60785)  
+
+### alignments:
+ - [Beletsi](https://pleiades.stoa.org/places/579893)
 
 
 ## GEO ID 60787: Etosi

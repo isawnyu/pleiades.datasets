@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3981 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
+3993 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -603,6 +603,13 @@
 
 ### alignments:
  - [Ag. Pandeleimona](https://pleiades.stoa.org/places/530780)
+
+
+## Ag. Paraskevi site (Euboea)
+[https://topostext.org/place/384238FAPa](https://topostext.org/place/384238FAPa)  
+
+### alignments:
+ - [Ag. Paraskevi](https://pleiades.stoa.org/places/540595)
 
 
 ## Ag. Sophia tower (Lemnos)
@@ -3554,6 +3561,13 @@
  - [Temple of Artemis Orthosia](https://pleiades.stoa.org/places/845103545)
 
 
+## Artemis Tauropolos temple (Attica) 3 Artemida/Loutsa - Αρτέμιδος Ταυροπόλου ιερόν
+[https://topostext.org/place/380240STau](https://topostext.org/place/380240STau)  
+
+### alignments:
+ - [Artemis, T.](https://pleiades.stoa.org/places/579878)
+
+
 ## Artemis Tauropolos temple (Ikaria)
 [https://topostext.org/place/376261STau](https://topostext.org/place/376261STau)  
 
@@ -4750,6 +4764,13 @@
 
 ### alignments:
  - [Belbina (island)](https://pleiades.stoa.org/places/570150)
+
+
+## Beletsi site (Attica)
+[https://topostext.org/place/382238FBel](https://topostext.org/place/382238FBel)  
+
+### alignments:
+ - [Beletsi](https://pleiades.stoa.org/places/579893)
 
 
 ## Belmina (Lakonia)
@@ -7907,6 +7928,13 @@
  - [Eburodunum](https://pleiades.stoa.org/places/167750)
 
 
+## EC building (Athens) Falirou St., Koukaki
+[https://topostext.org/place/380237BECB](https://topostext.org/place/380237BECB)  
+
+### alignments:
+ - [EC building (Athens)](https://pleiades.stoa.org/places/336531570)
+
+
 ## Echelidai (Attica)
 [https://topostext.org/place/379237UEch](https://topostext.org/place/379237UEch)  
 
@@ -8578,6 +8606,13 @@
 
 ### alignments:
  - [Erasinos (river)](https://pleiades.stoa.org/places/570233)
+
+
+## Erasinos river (Attica) Vravrona
+[https://topostext.org/place/379240WEra](https://topostext.org/place/379240WEra)  
+
+### alignments:
+ - [Erasinos (river)](https://pleiades.stoa.org/places/579923)
 
 
 ## Ercavica (Iberia)
@@ -11441,6 +11476,13 @@
 
 ### alignments:
  - [Ilipa Magna](https://pleiades.stoa.org/places/256222)
+
+
+## Ilissos EC basilica (Athens)
+[https://topostext.org/place/380237EIli](https://topostext.org/place/380237EIli)  
+
+### alignments:
+ - [Ilissos Basilica](https://pleiades.stoa.org/places/190624512)
 
 
 ## Ilissos R. (Athens)
@@ -15674,6 +15716,13 @@
  - [Makra Kome](https://pleiades.stoa.org/places/540926)
 
 
+## Makri St. peristyle (Athens) Makrygiannis
+[https://topostext.org/place/380237BMRP](https://topostext.org/place/380237BMRP)  
+
+### alignments:
+ - [Makri St. peristyle](https://pleiades.stoa.org/places/342066276)
+
+
 ## Makyneia (Aitolia)
 [https://topostext.org/place/384217UMak](https://topostext.org/place/384217UMak)  
 
@@ -16982,6 +17031,13 @@
 
 ### alignments:
  - [Mykonos (settlement)](https://pleiades.stoa.org/places/599807)
+
+
+## Mygdaleza EC church (Attica)
+[https://topostext.org/place/381239EMyg](https://topostext.org/place/381239EMyg)  
+
+### alignments:
+ - [Mygdaleza basilica](https://pleiades.stoa.org/places/291344339)
 
 
 ## Mygdonia region (Mesopotamia)
@@ -19127,6 +19183,13 @@
 
 ### alignments:
  - [Panathenaic Stadium](https://pleiades.stoa.org/places/433457819)
+
+
+## Panathenaic Way (Athens Agora)
+[https://topostext.org/place/380237LPaW](https://topostext.org/place/380237LPaW)  
+
+### alignments:
+ - [Panathenaic Way](https://pleiades.stoa.org/places/639740331)
 
 
 ## Panda (Lydia)
@@ -22841,6 +22904,13 @@
  - [Sacred Gate/Hiera Pyle](https://pleiades.stoa.org/places/717754998)
 
 
+## Sacred Orgas region (Attica)
+[https://topostext.org/place/381234RSOr](https://topostext.org/place/381234RSOr)  
+
+### alignments:
+ - [Hiera Orgas](https://pleiades.stoa.org/places/66782793)
+
+
 ## Saena (Tuscany)
 [https://topostext.org/place/433113USae](https://topostext.org/place/433113USae)  
 
@@ -22896,6 +22966,13 @@
 ### alignments:
  - [Salamis (island)](https://pleiades.stoa.org/places/580101)
  - [Salamis (settlement)](https://pleiades.stoa.org/places/580100)
+
+
+## Salamis sea-fight tumulus (Salamis)
+[https://topostext.org/place/379236GSal](https://topostext.org/place/379236GSal)  
+
+### alignments:
+ - [Salamis sea-fight tumulus (Salamis) ](https://pleiades.stoa.org/places/629239338)
 
 
 ## Salamis/Konstantia (Cyprus)
@@ -26399,6 +26476,7 @@
  - [Isthmia](https://pleiades.stoa.org/places/570316)
  - [Kamilari](https://pleiades.stoa.org/places/589835)
  - [Limiko blockhouse (Argolid)](https://pleiades.stoa.org/places/500721867)
+ - [Makrygiannis domus](https://pleiades.stoa.org/places/496995888)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
  - [Vroulia](https://pleiades.stoa.org/places/590093)
@@ -27586,6 +27664,13 @@
 
 ### alignments:
  - [Vryokastro](https://pleiades.stoa.org/places/247348184)
+
+
+## Windmill Hill sanctuary (Athens)
+[https://topostext.org/place/380237SWin](https://topostext.org/place/380237SWin)  
+
+### alignments:
+ - [Windmill Hill (Athens)](https://pleiades.stoa.org/places/837997920)
 
 
 ## Xantheia (Rodopi)

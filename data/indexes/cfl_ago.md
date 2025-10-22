@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-439 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
+440 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2033,6 +2033,13 @@
 
 ### alignments:
  - [Marathon](https://pleiades.stoa.org/places/580021)
+
+
+## Toponyme 2470: ATHENS, Makriyanni - 2012
+[https://chronique.efa.gr/?kroute=report&id=2470](https://chronique.efa.gr/?kroute=report&id=2470)  
+
+### alignments:
+ - [Makri St. peristyle](https://pleiades.stoa.org/places/342066276)
 
 
 ## Toponyme 24744: Megalopolis

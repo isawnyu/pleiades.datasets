@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9461 alignments exist in _Pleiades_ place references as of 2025-10-21. The following list of alignments is grouped by zotkey.
+9473 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -15801,6 +15801,13 @@
  - [Erana](https://pleiades.stoa.org/places/662159)
 
 
+## Erasinos (Q12877266)
+[https://www.wikidata.org/wiki/Q12877266](https://www.wikidata.org/wiki/Q12877266)  
+
+### alignments:
+ - [Erasinos (river)](https://pleiades.stoa.org/places/579923)
+
+
 ## Erasinos (Q12877267)
 [https://www.wikidata.org/wiki/Q12877267](https://www.wikidata.org/wiki/Q12877267)  
 
@@ -19486,6 +19493,13 @@
  - [Hibernia](https://pleiades.stoa.org/places/20487)
 
 
+## Hiera Orgas (Q20639198)
+[https://www.wikidata.org/wiki/Q20639198](https://www.wikidata.org/wiki/Q20639198)  
+
+### alignments:
+ - [Hiera Orgas](https://pleiades.stoa.org/places/66782793)
+
+
 ## Hieraconpolis (Q124359761)
 [https://www.wikidata.org/wiki/Q124359761](https://www.wikidata.org/wiki/Q124359761)  
 
@@ -20688,6 +20702,13 @@
 
 ### alignments:
  - [Ilissos (river)](https://pleiades.stoa.org/places/579959)
+
+
+## Ilissos Basilica (Q57016121)
+[https://www.wikidata.org/wiki/Q57016121](https://www.wikidata.org/wiki/Q57016121)  
+
+### alignments:
+ - [Ilissos Basilica](https://pleiades.stoa.org/places/190624512)
 
 
 ## Iliturgicola (Q125763307)
@@ -22833,6 +22854,13 @@
  - [Kopros](https://pleiades.stoa.org/places/579989)
 
 
+## Kor River (Q5769021)
+[https://www.wikidata.org/wiki/Q5769021](https://www.wikidata.org/wiki/Q5769021)  
+
+### alignments:
+ - [Kur/Araxes? (river)](https://pleiades.stoa.org/places/922672)
+
+
 ## Korama (Q78339684)
 [https://www.wikidata.org/wiki/Q78339684](https://www.wikidata.org/wiki/Q78339684)  
 
@@ -24598,6 +24626,13 @@
  - [Lamos (river)](https://pleiades.stoa.org/places/648692)
 
 
+## Limpopo River (Q173017)
+[https://www.wikidata.org/wiki/Q173017](https://www.wikidata.org/wiki/Q173017)  
+
+### alignments:
+ - [Limpopo River](https://pleiades.stoa.org/places/568111826)
+
+
 ## Lindinis (Q820110)
 [https://www.wikidata.org/wiki/Q820110](https://www.wikidata.org/wiki/Q820110)  
 
@@ -25578,6 +25613,13 @@
  - [Mainalion (mountain)](https://pleiades.stoa.org/places/570449)
 
 
+## Makri 8 (Q110808213)
+[https://www.wikidata.org/wiki/Q110808213](https://www.wikidata.org/wiki/Q110808213)  
+
+### alignments:
+ - [Makri St. peristyle](https://pleiades.stoa.org/places/342066276)
+
+
 ## Maktar amphitheatre (Q29002317)
 [https://www.wikidata.org/wiki/Q29002317](https://www.wikidata.org/wiki/Q29002317)  
 
@@ -25786,6 +25828,13 @@
 
 ### alignments:
  - [Mantoche](https://pleiades.stoa.org/places/177573)
+
+
+## Mapungubwe National Park (Q1892156)
+[https://www.wikidata.org/wiki/Q1892156](https://www.wikidata.org/wiki/Q1892156)  
+
+### alignments:
+ - [Mapungubwe National Park](https://pleiades.stoa.org/places/568111825)
 
 
 ## Mar Behnam Monastery (Q934579)
@@ -28574,6 +28623,13 @@
 
 ### alignments:
  - [Voudeni Cemetery](https://pleiades.stoa.org/places/914286390)
+
+
+## Mygdaleza basilica (Q104382497)
+[https://www.wikidata.org/wiki/Q104382497](https://www.wikidata.org/wiki/Q104382497)  
+
+### alignments:
+ - [Mygdaleza basilica](https://pleiades.stoa.org/places/291344339)
 
 
 ## Mygdum (Q112960651)
@@ -31584,6 +31640,13 @@
 
 ### alignments:
  - [Panathenaic Stadium](https://pleiades.stoa.org/places/433457819)
+
+
+## Panathenaic way (Q2086801)
+[https://www.wikidata.org/wiki/Q2086801](https://www.wikidata.org/wiki/Q2086801)  
+
+### alignments:
+ - [Panathenaic Way](https://pleiades.stoa.org/places/639740331)
 
 
 ## Pancrazi tomb (Via Latina) (Q123986360)
@@ -54211,6 +54274,13 @@
  - [Salamis (island)](https://pleiades.stoa.org/places/580101)
 
 
+## Salamis sea-battle tumulus (Q111709040)
+[https://www.wikidata.org/wiki/Q111709040](https://www.wikidata.org/wiki/Q111709040)  
+
+### alignments:
+ - [Salamis sea-fight tumulus (Salamis) ](https://pleiades.stoa.org/places/629239338)
+
+
 ## Saldae (Q1557873)
 [https://www.wikidata.org/wiki/Q1557873](https://www.wikidata.org/wiki/Q1557873)  
 
@@ -58293,6 +58363,13 @@
  - [Tannetum](https://pleiades.stoa.org/places/383791)
 
 
+## Tangeh Bolaghi (Q7682852)
+[https://www.wikidata.org/wiki/Q7682852](https://www.wikidata.org/wiki/Q7682852)  
+
+### alignments:
+ - [Tang-e Bolaghi](https://pleiades.stoa.org/places/303419362)
+
+
 ## Tap o' Noth (Q1690932)
 [https://www.wikidata.org/wiki/Q1690932](https://www.wikidata.org/wiki/Q1690932)  
 
@@ -59061,6 +59138,13 @@
 
 ### alignments:
  - [Temple of Artemis Nanaia](https://pleiades.stoa.org/places/888638010)
+
+
+## Temple of Artemis Tauropolos (Q14906057)
+[https://www.wikidata.org/wiki/Q14906057](https://www.wikidata.org/wiki/Q14906057)  
+
+### alignments:
+ - [Artemis, T.](https://pleiades.stoa.org/places/579878)
 
 
 ## Temple of Atargatis (Q109375494)
