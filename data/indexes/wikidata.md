@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9473 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
+9476 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -20949,6 +20949,13 @@
  - [Ionium Mare](https://pleiades.stoa.org/places/1046)
 
 
+## Ionidai (Q13526214)
+[https://www.wikidata.org/wiki/Q13526214](https://www.wikidata.org/wiki/Q13526214)  
+
+### alignments:
+ - [Ionidai?](https://pleiades.stoa.org/places/579960)
+
+
 ## Iori River (Q163384)
 [https://www.wikidata.org/wiki/Q163384](https://www.wikidata.org/wiki/Q163384)  
 
@@ -34454,6 +34461,13 @@
 
 ### alignments:
  - [Priniatikos Pyrgos](https://pleiades.stoa.org/places/55660936)
+
+
+## Prison of Socrates (Q47524277)
+[https://www.wikidata.org/wiki/Q47524277](https://www.wikidata.org/wiki/Q47524277)  
+
+### alignments:
+ - [Prison of Sokrates](https://pleiades.stoa.org/places/525587318)
 
 
 ## Prisovo (Q1077254)
@@ -57591,6 +57605,13 @@
 
 ### alignments:
  - [Steinerner Steg - Ponte Romano](https://pleiades.stoa.org/places/524074853)
+
+
+## Steiria (Q2341881)
+[https://www.wikidata.org/wiki/Q2341881](https://www.wikidata.org/wiki/Q2341881)  
+
+### alignments:
+ - [Steiria](https://pleiades.stoa.org/places/580110)
 
 
 ## Stelida (Q121435478)

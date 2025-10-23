@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-753 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
+754 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2170,6 +2170,13 @@
 
 ### alignments:
  - [Ledon](https://pleiades.stoa.org/places/540908)
+
+
+## 11003410: Steiria (Attica)
+[https://resource.manto.unh.edu/11003410](https://resource.manto.unh.edu/11003410)  
+
+### alignments:
+ - [Steiria](https://pleiades.stoa.org/places/580110)
 
 
 ## 11010553: Pityoussai Islands

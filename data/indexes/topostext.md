@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3993 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
+3994 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -22136,6 +22136,13 @@
 
 ### alignments:
  - [Priounos](https://pleiades.stoa.org/places/541071)
+
+
+## Prison of Sokrates, so called (Athens) Philopappous Hill
+[https://topostext.org/place/380237BPrS](https://topostext.org/place/380237BPrS)  
+
+### alignments:
+ - [Prison of Sokrates](https://pleiades.stoa.org/places/525587318)
 
 
 ## Privernum (Italy)

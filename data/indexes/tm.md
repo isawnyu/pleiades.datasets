@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4723 alignments exist in _Pleiades_ place references as of 2025-10-22. The following list of alignments is grouped by zotkey.
+4725 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29766,6 +29766,13 @@
  - [Kolonos](https://pleiades.stoa.org/places/579985)
 
 
+## GEO ID 56503: Steiria
+[https://www.trismegistos.org/place/56503](https://www.trismegistos.org/place/56503)  
+
+### alignments:
+ - [Steiria](https://pleiades.stoa.org/places/580110)
+
+
 ## GEO ID 565: Dionysias (Qasr Qarun)
 [http://www.trismegistos.org/place/565](http://www.trismegistos.org/place/565)  
 
@@ -29884,6 +29891,13 @@
 
 ### alignments:
  - [Mouchinaxap](https://pleiades.stoa.org/places/741524)
+
+
+## GEO ID 58195: Ionidai (Draphi)
+[https://www.trismegistos.org/place/58195](https://www.trismegistos.org/place/58195)  
+
+### alignments:
+ - [Ionidai?](https://pleiades.stoa.org/places/579960)
 
 
 ## GEO ID 58198: Eitea (Grammatiko)
