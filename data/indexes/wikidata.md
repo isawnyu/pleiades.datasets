@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9476 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+9487 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2892,6 +2892,13 @@
 
 ### alignments:
  - [Angeia](https://pleiades.stoa.org/places/540636)
+
+
+## Angele (Q533665)
+[https://www.wikidata.org/wiki/Q533665](https://www.wikidata.org/wiki/Q533665)  
+
+### alignments:
+ - [Angele](https://pleiades.stoa.org/places/579867)
 
 
 ## Angitola (Q769543)
@@ -8963,6 +8970,13 @@
  - [Kanovium/Conovium](https://pleiades.stoa.org/places/79542)
 
 
+## Cantharus (Q29626000)
+[https://www.wikidata.org/wiki/Q29626000](https://www.wikidata.org/wiki/Q29626000)  
+
+### alignments:
+ - [Kantharos Limen](https://pleiades.stoa.org/places/579966)
+
+
 ## Cantiaci (Q858058)
 [https://www.wikidata.org/wiki/Q858058](https://www.wikidata.org/wiki/Q858058)  
 
@@ -11068,6 +11082,13 @@
 
 ### alignments:
  - [Cave of Apollo](https://pleiades.stoa.org/places/870756929)
+
+
+## Cave of Euripides (Q5054950)
+[https://www.wikidata.org/wiki/Q5054950](https://www.wikidata.org/wiki/Q5054950)  
+
+### alignments:
+ - [Euripides cave](https://pleiades.stoa.org/places/879722223)
 
 
 ## Cave of the Apocalypse (Q1978886)
@@ -16389,6 +16410,13 @@
  - [Festoi](https://pleiades.stoa.org/places/444395424)
 
 
+## Fibreno (Q613818)
+[https://www.wikidata.org/wiki/Q613818](https://www.wikidata.org/wiki/Q613818)  
+
+### alignments:
+ - [Fibrenus (river)](https://pleiades.stoa.org/places/432833)
+
+
 ## Ficana (Q3744504)
 [https://www.wikidata.org/wiki/Q3744504](https://www.wikidata.org/wiki/Q3744504)  
 
@@ -16562,6 +16590,13 @@
 
 ### alignments:
  - [Kastell Op de Hoge Woerd](https://pleiades.stoa.org/places/99061)
+
+
+## Fleves (Q1428233)
+[https://www.wikidata.org/wiki/Q1428233](https://www.wikidata.org/wiki/Q1428233)  
+
+### alignments:
+ - [Phabra (island)](https://pleiades.stoa.org/places/580069)
 
 
 ## Flini (Q25118263)
@@ -18455,6 +18490,13 @@
 
 ### alignments:
  - [Aelaniticus Sinus](https://pleiades.stoa.org/places/746701)
+
+
+## Gulf of Euboea (Q1536322)
+[https://www.wikidata.org/wiki/Q1536322](https://www.wikidata.org/wiki/Q1536322)  
+
+### alignments:
+ - [Euboicus Sinus](https://pleiades.stoa.org/places/579931)
 
 
 ## Gulf of Fethiye (Q1536321)
@@ -24318,6 +24360,13 @@
  - [Leonforte](https://pleiades.stoa.org/places/764317939)
 
 
+## Leontis (Q13415450)
+[https://www.wikidata.org/wiki/Q13415450](https://www.wikidata.org/wiki/Q13415450)  
+
+### alignments:
+ - [Leontis](https://pleiades.stoa.org/places/482653002)
+
+
 ## Leontopolis (Q2372919)
 [https://www.wikidata.org/wiki/Q2372919](https://www.wikidata.org/wiki/Q2372919)  
 
@@ -25009,6 +25058,13 @@
 
 ### alignments:
  - [Pannonia Inferior (province)](https://pleiades.stoa.org/places/981540)
+
+
+## Lower Pergase (Q13416291)
+[https://www.wikidata.org/wiki/Q13416291](https://www.wikidata.org/wiki/Q13416291)  
+
+### alignments:
+ - [Pergase Kathyperthen](https://pleiades.stoa.org/places/580067)
 
 
 ## Lozzo di Cadore (Q39780)
@@ -28625,6 +28681,13 @@
  - [Mykenai](https://pleiades.stoa.org/places/589941)
 
 
+## Mycenaean acropolis of Kanakia (Q113003793)
+[https://www.wikidata.org/wiki/Q113003793](https://www.wikidata.org/wiki/Q113003793)  
+
+### alignments:
+ - [Kanakia](https://pleiades.stoa.org/places/746471074)
+
+
 ## Mycenaean cemetery of Voudeni (Q38280738)
 [https://www.wikidata.org/wiki/Q38280738](https://www.wikidata.org/wiki/Q38280738)  
 
@@ -31661,6 +31724,13 @@
 
 ### alignments:
  - [Sepolcro dei Pancrazi](https://pleiades.stoa.org/places/377181897)
+
+
+## Pandionis (Q13415463)
+[https://www.wikidata.org/wiki/Q13415463](https://www.wikidata.org/wiki/Q13415463)  
+
+### alignments:
+ - [Pandionis](https://pleiades.stoa.org/places/391233695)
 
 
 ## Pandosia (Q3180048)
@@ -41720,13 +41790,6 @@
 
 ### alignments:
  - [Qal’eh-i Imam](https://pleiades.stoa.org/places/858969850)
-
-
-## Q211779: Saronic Gulf
-[https://www.wikidata.org/wiki/Q211779](https://www.wikidata.org/wiki/Q211779)  
-
-### alignments:
- - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
 
 
 ## Q2119728: Pyramid of Naqada
@@ -53959,6 +54022,13 @@
  - [Rudston](https://pleiades.stoa.org/places/89283)
 
 
+## Ruins of Gedi (Q502518)
+[https://www.wikidata.org/wiki/Q502518](https://www.wikidata.org/wiki/Q502518)  
+
+### alignments:
+ - [Ruins of Gedi](https://pleiades.stoa.org/places/897829063)
+
+
 ## Ruins of Tróia (Q10365480)
 [https://www.wikidata.org/wiki/Q10365480](https://www.wikidata.org/wiki/Q10365480)  
 
@@ -55350,6 +55420,13 @@
 
 ### alignments:
  - [Sarno Baths](https://pleiades.stoa.org/places/957926371)
+
+
+## Saronic Gulf (Q211779)
+[https://www.wikidata.org/wiki/Q211779](https://www.wikidata.org/wiki/Q211779)  
+
+### alignments:
+ - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
 
 
 ## Saros (Q65082186)
@@ -59165,7 +59242,7 @@
 [https://www.wikidata.org/wiki/Q14906057](https://www.wikidata.org/wiki/Q14906057)  
 
 ### alignments:
- - [Artemis, T.](https://pleiades.stoa.org/places/579878)
+ - [Artemis Tauropolos temple](https://pleiades.stoa.org/places/579878)
 
 
 ## Temple of Atargatis (Q109375494)

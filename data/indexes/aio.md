@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-149 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+149 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -710,10 +710,11 @@
  - [Library of Pantainos](https://pleiades.stoa.org/places/582559069)
 
 
-## On the boundaries of the sacred tract (352/1 BC)
+## On the boundaries of the sacred tract (352/1 BC) = IG II^3 1 292
 [https://www.atticinscriptions.com/inscription/IGII31/292](https://www.atticinscriptions.com/inscription/IGII31/292)  
 
 ### alignments:
+ - [Hekale?](https://pleiades.stoa.org/places/579944)
  - [Hiera Orgas](https://pleiades.stoa.org/places/66782793)
 
 

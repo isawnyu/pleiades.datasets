@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4725 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+4730 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4288,6 +4288,13 @@
 
 ### alignments:
  - [Nabla](https://pleiades.stoa.org/places/741527)
+
+
+## GEO ID 14167: Saronikos Pontos
+[https://www.trismegistos.org/place/14167](https://www.trismegistos.org/place/14167)  
+
+### alignments:
+ - [Saronicus Sinus](https://pleiades.stoa.org/places/570654)
 
 
 ## GEO ID 14178: Arae Flaviae (Rottweil)
@@ -18987,6 +18994,13 @@
  - [Poonamounis](https://pleiades.stoa.org/places/789773)
 
 
+## GEO ID 3591: Kydathenaion
+[https://www.trismegistos.org/place/3591](https://www.trismegistos.org/place/3591)  
+
+### alignments:
+ - [Kydathenaion](https://pleiades.stoa.org/places/582862)
+
+
 ## GEO ID 3603: Apollonia (Pojani)
 [http://www.trismegistos.org/place/3603](http://www.trismegistos.org/place/3603)  
 
@@ -30327,6 +30341,13 @@
  - [Anakaia?](https://pleiades.stoa.org/places/579864)
 
 
+## GEO ID 60687: Azenia
+[https://www.trismegistos.org/place/60687](https://www.trismegistos.org/place/60687)  
+
+### alignments:
+ - [Azenia?](https://pleiades.stoa.org/places/579890)
+
+
 ## GEO ID 60689: Thria
 [https://www.trismegistos.org/place/60689](https://www.trismegistos.org/place/60689)  
 
@@ -30346,6 +30367,13 @@
 
 ### alignments:
  - [Kropidai](https://pleiades.stoa.org/places/579996)
+
+
+## GEO ID 60696: Pergase Kathyperthen
+[https://www.trismegistos.org/place/60696](https://www.trismegistos.org/place/60696)  
+
+### alignments:
+ - [Pergase Kathyperthen](https://pleiades.stoa.org/places/580067)
 
 
 ## GEO ID 60699: Probalinthos
@@ -30472,6 +30500,13 @@
 
 ### alignments:
  - [Trikrana (island)](https://pleiades.stoa.org/places/570752)
+
+
+## GEO ID 60745: Belbina (Hagios Georgios)
+[https://www.trismegistos.org/place/60745](https://www.trismegistos.org/place/60745)  
+
+### alignments:
+ - [Belbina (island)](https://pleiades.stoa.org/places/570150)
 
 
 ## GEO ID 60751: Hydroussa (Prasonisi)

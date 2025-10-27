@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-440 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+440 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -48,6 +48,7 @@
 
 ### alignments:
  - [Chrysea (island)](https://pleiades.stoa.org/places/589746)
+ - [Chryssi-Gaidouronisi](https://pleiades.stoa.org/places/482621854)
 
 
 ## 18568: NEA PAPHOS - 2022

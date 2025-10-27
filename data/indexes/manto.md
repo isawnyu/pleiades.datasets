@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-754 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+755 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1057,6 +1057,13 @@
 
 ### alignments:
  - [Oropos](https://pleiades.stoa.org/places/580044)
+
+
+## 10159724: the Sanctuary of Amphiaraos near Oropos (Boiotia)
+[https://resource.manto.unh.edu/10159724](https://resource.manto.unh.edu/10159724)  
+
+### alignments:
+ - [Amphiareion](https://pleiades.stoa.org/places/540628)
 
 
 ## 10159947: Lebadeia

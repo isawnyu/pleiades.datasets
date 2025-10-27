@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3994 alignments exist in _Pleiades_ place references as of 2025-10-23. The following list of alignments is grouped by zotkey.
+3998 alignments exist in _Pleiades_ place references as of 2025-10-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3565,7 +3565,7 @@
 [https://topostext.org/place/380240STau](https://topostext.org/place/380240STau)  
 
 ### alignments:
- - [Artemis, T.](https://pleiades.stoa.org/places/579878)
+ - [Artemis Tauropolos temple](https://pleiades.stoa.org/places/579878)
 
 
 ## Artemis Tauropolos temple (Ikaria)
@@ -7486,6 +7486,13 @@
  - [Dionysopolis/Krounoi](https://pleiades.stoa.org/places/216793)
 
 
+## Dionysos ? Shrine (Salamis) Peristeria
+[https://topostext.org/place/379235SDio](https://topostext.org/place/379235SDio)  
+
+### alignments:
+ - [Shrine of Dionysos](https://pleiades.stoa.org/places/546484819)
+
+
 ## Dionysos Bresagenes sanct. (Lesbos)
 [https://topostext.org/place/390262SDio](https://topostext.org/place/390262SDio)  
 
@@ -8936,6 +8943,13 @@
 
 ### alignments:
  - [Eupyridai](https://pleiades.stoa.org/places/579933)
+
+
+## Euripides cave (Salamis) 2 Peristeria
+[https://topostext.org/place/379235CEur](https://topostext.org/place/379235CEur)  
+
+### alignments:
+ - [Euripides cave](https://pleiades.stoa.org/places/879722223)
 
 
 ## Euripos (Euboea)
@@ -12239,6 +12253,13 @@
 
 ### alignments:
  - [Kan(n)a](https://pleiades.stoa.org/places/648662)
+
+
+## Kanakia Myc. Palace exc. (Salamis)
+[https://topostext.org/place/379234XKyc](https://topostext.org/place/379234XKyc)  
+
+### alignments:
+ - [Kanakia](https://pleiades.stoa.org/places/746471074)
 
 
 ## Kanastraion cape (Chalkidike) 22 Cape Kanastrio - Κάναστρον
@@ -19900,6 +19921,13 @@
 
 ### alignments:
  - [Pergamos?](https://pleiades.stoa.org/places/589984)
+
+
+## Pergase Kathyperthen (Attica) Adames? - Περγασή
+[https://topostext.org/place/381238DPrk](https://topostext.org/place/381238DPrk)  
+
+### alignments:
+ - [Pergase Kathyperthen](https://pleiades.stoa.org/places/580067)
 
 
 ## Perge (Pamphylia)
