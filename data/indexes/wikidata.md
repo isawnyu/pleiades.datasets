@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9487 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+9494 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3111,11 +3111,25 @@
  - [Antinum](https://pleiades.stoa.org/places/432679)
 
 
+## Antioch (Q200441)
+[https://www.wikidata.org/wiki/Q200441](https://www.wikidata.org/wiki/Q200441)  
+
+### alignments:
+ - [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+
+
 ## Antiochia ad Taurum (Q303856)
 [https://www.wikidata.org/wiki/Q303856](https://www.wikidata.org/wiki/Q303856)  
 
 ### alignments:
  - [Antiocheia pros Tauro](https://pleiades.stoa.org/places/662139)
+
+
+## Antiochia Castellum (Q131323847)
+[https://www.wikidata.org/wiki/Q131323847](https://www.wikidata.org/wiki/Q131323847)  
+
+### alignments:
+ - [Antiochia Castellum](https://pleiades.stoa.org/places/648559)
 
 
 ## Antiparos (Q216985)
@@ -3228,6 +3242,13 @@
 
 ### alignments:
  - [*Anzoulada](https://pleiades.stoa.org/places/619108)
+
+
+## Aornos (Q938635)
+[https://www.wikidata.org/wiki/Q938635](https://www.wikidata.org/wiki/Q938635)  
+
+### alignments:
+ - [Aornos](https://pleiades.stoa.org/places/59687)
 
 
 ## Aouste-sur-Sye (Q863614)
@@ -5105,6 +5126,13 @@
 
 ### alignments:
  - [Attea?](https://pleiades.stoa.org/places/550473)
+
+
+## Attic Tetrapolis (Q1681440)
+[https://www.wikidata.org/wiki/Q1681440](https://www.wikidata.org/wiki/Q1681440)  
+
+### alignments:
+ - [Tetrapolis](https://pleiades.stoa.org/places/580117)
 
 
 ## Attica (Q122443)
@@ -7964,6 +7992,13 @@
  - [Brigstock](https://pleiades.stoa.org/places/79356)
 
 
+## Brionne (Samian Ware Discovery Site) (Q103155126)
+[https://www.wikidata.org/wiki/Q103155126](https://www.wikidata.org/wiki/Q103155126)  
+
+### alignments:
+ - [Breviodurum](https://pleiades.stoa.org/places/114771)
+
+
 ## Brislington villa (Q15133915)
 [https://www.wikidata.org/wiki/Q15133915](https://www.wikidata.org/wiki/Q15133915)  
 
@@ -8996,6 +9031,13 @@
 
 ### alignments:
  - [Canusium](https://pleiades.stoa.org/places/442525)
+
+
+## Cany-Barville (Q633541)
+[https://www.wikidata.org/wiki/Q633541](https://www.wikidata.org/wiki/Q633541)  
+
+### alignments:
+ - [Cany-Barville](https://pleiades.stoa.org/places/108855)
 
 
 ## Cap Bougaroun (Q2937007)
@@ -14995,6 +15037,13 @@
  - [Durobrivae (Water Newton)](https://pleiades.stoa.org/places/79432)
 
 
+## Durocasses (Q3041594)
+[https://www.wikidata.org/wiki/Q3041594](https://www.wikidata.org/wiki/Q3041594)  
+
+### alignments:
+ - [Durocasses](https://pleiades.stoa.org/places/108943)
+
+
 ## Durocobrivis (Q16550901)
 [https://www.wikidata.org/wiki/Q16550901](https://www.wikidata.org/wiki/Q16550901)  
 
@@ -19421,6 +19470,13 @@
 
 ### alignments:
  - [Horrea Caelia](https://pleiades.stoa.org/places/315041)
+
+
+## Hermes (Q941423)
+[https://www.wikidata.org/wiki/Q941423](https://www.wikidata.org/wiki/Q941423)  
+
+### alignments:
+ - [Ratumagus Silvanectum?](https://pleiades.stoa.org/places/109271)
 
 
 ## Hermeskeil Roman Camp (Q1243560)
@@ -34988,6 +35044,13 @@
  - [Périgueux Roman amphitheater](https://pleiades.stoa.org/places/318023996)
 
 
+## Pîtres (Q1072945)
+[https://www.wikidata.org/wiki/Q1072945](https://www.wikidata.org/wiki/Q1072945)  
+
+### alignments:
+ - [Pîtres](https://pleiades.stoa.org/places/109249)
+
+
 ## Pāmban Island (Q2048616)
 [https://www.wikidata.org/wiki/Q2048616](https://www.wikidata.org/wiki/Q2048616)  
 
@@ -37663,13 +37726,6 @@
 
 ### alignments:
  - [Memaceni](https://pleiades.stoa.org/places/60576)
-
-
-## Q131323847
-[https://www.wikidata.org/wiki/Q131323847](https://www.wikidata.org/wiki/Q131323847)  
-
-### alignments:
- - [Antiochia Castellum](https://pleiades.stoa.org/places/648559)
 
 
 ## Q131339871
@@ -51184,13 +51240,6 @@
 
 ### alignments:
  - [Taq-i Bustan](https://pleiades.stoa.org/places/903126)
-
-
-## Q941423
-[https://www.wikidata.org/wiki/Q941423](https://www.wikidata.org/wiki/Q941423)  
-
-### alignments:
- - [Ratumagus Silvanectum?](https://pleiades.stoa.org/places/109271)
 
 
 ## Q94273600: Acropolis of Cumae

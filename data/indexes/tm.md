@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4730 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+4737 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20907,6 +20907,13 @@
  - [Axuenna?](https://pleiades.stoa.org/places/108780)
 
 
+## GEO ID 40421: Petromantalium (Saint-Clair-sur-Epte)
+[https://www.trismegistos.org/place/40421](https://www.trismegistos.org/place/40421)  
+
+### alignments:
+ - [Petromantulum?/Petromantalum?/Petrum Viaco](https://pleiades.stoa.org/places/114789)
+
+
 ## GEO ID 40423: Ad Mures (Acs-Bumbumkút)
 [https://www.trismegistos.org/place/40423](https://www.trismegistos.org/place/40423)  
 
@@ -21537,6 +21544,13 @@
  - [Teudurum?](https://pleiades.stoa.org/places/109373)
 
 
+## GEO ID 40788: Ritumagus (Radepont)
+[https://www.trismegistos.org/place/40788](https://www.trismegistos.org/place/40788)  
+
+### alignments:
+ - [Ritumagus](https://pleiades.stoa.org/places/114796)
+
+
 ## GEO ID 40789: Condate (Montereau-Fault-Yonne)
 [https://www.trismegistos.org/place/40789](https://www.trismegistos.org/place/40789)  
 
@@ -21962,6 +21976,13 @@
 
 ### alignments:
  - [Noviomagus](https://pleiades.stoa.org/places/109219)
+
+
+## GEO ID 41031: Noiodounon (Sées)
+[http://www.trismegistos.org/place/41031](http://www.trismegistos.org/place/41031)  
+
+### alignments:
+ - [Noiodounon/Nu Dionnum](https://pleiades.stoa.org/places/69538)
 
 
 ## GEO ID 41032: Fines (Château-du-Loir)
@@ -26304,6 +26325,13 @@
  - [Montunates](https://pleiades.stoa.org/places/383714)
 
 
+## GEO ID 42949: Sequana (Seine)
+[https://www.trismegistos.org/place/42949](https://www.trismegistos.org/place/42949)  
+
+### alignments:
+ - [Sequana (river)](https://pleiades.stoa.org/places/109341)
+
+
 ## GEO ID 429: Berenikis Aigialou
 [http://www.trismegistos.org/place/429](http://www.trismegistos.org/place/429)  
 
@@ -29521,6 +29549,13 @@
  - [Kynopolis](https://pleiades.stoa.org/places/727144)
 
 
+## GEO ID 53978: Aornos (Ranigarh)
+[https://www.trismegistos.org/place/53978](https://www.trismegistos.org/place/53978)  
+
+### alignments:
+ - [Aornos](https://pleiades.stoa.org/places/59687)
+
+
 ## GEO ID 5400: Quirina
 [https://www.trismegistos.org/place/5400](https://www.trismegistos.org/place/5400)  
 
@@ -30369,6 +30404,13 @@
  - [Kropidai](https://pleiades.stoa.org/places/579996)
 
 
+## GEO ID 60694: Aithalidai
+[https://www.trismegistos.org/place/60694](https://www.trismegistos.org/place/60694)  
+
+### alignments:
+ - [Aithalidai/Hybadai?](https://pleiades.stoa.org/places/579854)
+
+
 ## GEO ID 60696: Pergase Kathyperthen
 [https://www.trismegistos.org/place/60696](https://www.trismegistos.org/place/60696)  
 
@@ -31032,6 +31074,13 @@
 
 ### alignments:
  - [Agrai](https://pleiades.stoa.org/places/579846)
+
+
+## GEO ID 61203: Tetrapolis
+[https://www.trismegistos.org/place/61203](https://www.trismegistos.org/place/61203)  
+
+### alignments:
+ - [Tetrapolis](https://pleiades.stoa.org/places/580117)
 
 
 ## GEO ID 61205: Aperopia (Dokos)

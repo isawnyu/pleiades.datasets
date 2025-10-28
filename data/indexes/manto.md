@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-755 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+758 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1267,6 +1267,13 @@
 
 ### alignments:
  - [Orontes (river)](https://pleiades.stoa.org/places/658560)
+
+
+## 10210691: Antioch on Orontes (Assyria)
+[https://resource.manto.unh.edu/10210691](https://resource.manto.unh.edu/10210691)  
+
+### alignments:
+ - [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
 
 
 ## 10210702: Aigosthena
@@ -2711,6 +2718,13 @@
  - [Nessonis L.](https://pleiades.stoa.org/places/543806)
 
 
+## 11308182: Tetrapolis (Attica)
+[https://resource.manto.unh.edu/11308182](https://resource.manto.unh.edu/11308182)  
+
+### alignments:
+ - [Tetrapolis](https://pleiades.stoa.org/places/580117)
+
+
 ## 11308533: Rhypes (Achaia)
 [https://resource.manto.unh.edu/11308533](https://resource.manto.unh.edu/11308533)  
 
@@ -2843,6 +2857,13 @@
 
 ### alignments:
  - [Herakles Monoikos/Portus Monoeci](https://pleiades.stoa.org/places/157868)
+
+
+## 11310325: Aornos (India)
+[https://resource.manto.unh.edu/11310325](https://resource.manto.unh.edu/11310325)  
+
+### alignments:
+ - [Aornos](https://pleiades.stoa.org/places/59687)
 
 
 ## 11310357: Arbela (Assyria)

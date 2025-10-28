@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-3998 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+3999 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -23640,6 +23640,13 @@
 
 ### alignments:
  - [Septempeda](https://pleiades.stoa.org/places/413314)
+
+
+## Sequana (Gallia) 37 Seine
+[https://topostext.org/place/494005WSeq](https://topostext.org/place/494005WSeq)  
+
+### alignments:
+ - [Sequana (river)](https://pleiades.stoa.org/places/109341)
 
 
 ## Serapis sanct. (Phthiotis)

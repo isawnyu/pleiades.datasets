@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2244 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+2246 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1478,6 +1478,13 @@
  - [Chamavi](https://pleiades.stoa.org/places/98935)
 
 
+## 1A1-1A4 (Talbert 3297)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3297.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3297.html)  
+
+### alignments:
+ - [Sequana (river)](https://pleiades.stoa.org/places/109341)
+
+
 ## 1A1-1B5 (Talbert 2848)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2848.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2848.html)  
 
@@ -1651,6 +1658,13 @@
 
 ### alignments:
  - [Aregenoua](https://pleiades.stoa.org/places/69468)
+
+
+## 1A2 (Talbert 646)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace646.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace646.html)  
+
+### alignments:
+ - [Noiodounon/Nu Dionnum](https://pleiades.stoa.org/places/69538)
 
 
 ## 1A2 (Talbert 666)
