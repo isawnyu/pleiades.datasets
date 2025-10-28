@@ -55,7 +55,7 @@ def get_pd_commits(recent):
             }
         else:
             logger.error(
-                f"commit collision ({c['sha']} and {commits[c['commit']['message']]['sha']}); using the latter"
+                f"commit collision ({c['sha']} and {commits[msg]}); using the latter"
             )
     components = {
         # "csv": "legacy csv",
