@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.5,
-        39.0,
-        21.0,
-        39.5
+        20.8621352,
+        39.0852981,
+        20.8621352,
+        39.0852981
     ],
     "connections": [],
     "connectsWith": [],
@@ -32,7 +32,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-06-24T13:50:44Z",
+    "created": "2025-10-28T20:34:36Z",
     "creators": [
         {
             "name": "W.M. Murray",
@@ -40,48 +40,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 54 C3 Vigla",
-    "details": "The Barrington Atlas Directory notes: Vigla, near Strongyli",
+    "details": "<p>The Barrington Atlas Directory notes: Vigla, near Strongyli</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            21.0,
-                            39.0
-                        ],
-                        [
-                            21.0,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ]
-                    ]
+                    20.8621352,
+                    39.0852981
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-modern-vigla",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/531142/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/531142/osm-location-modern-vigla",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Vigla"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "settlement symbol used on BAtlas",
+            "modified": "2025-10-28T20:35:26Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2020-02-01T16:56:32Z",
@@ -117,121 +102,180 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:50:44Z",
+            "contributors": [],
+            "created": "2025-10-28T21:13:57Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "settlement-modern"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "geometry": {
+                "coordinates": [
+                    20.8621352,
+                    39.0852981
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-10-28T21:34:22Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-10-28T21:14:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-10-28T21:14:12Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-10-28T21:13:57Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-10-28T21:13:57Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-modern-vigla",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
+            ],
+            "provenance": "OpenStreetMap (Node 356441058, version 8, osm:changeset=143307882, 2023-10-29T11:32:41Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/356441058",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 356441058",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=356441058",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: modern Vigla",
+            "uri": "https://pleiades.stoa.org/places/531142/osm-location-modern-vigla"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Vigla",
+            "contributors": [],
+            "created": "2025-10-28T21:35:12Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "description": "",
             "details": "",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            20.5,
-                            39.0
-                        ],
-                        [
-                            21.0,
-                            39.0
-                        ],
-                        [
-                            21.0,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.5
-                        ],
-                        [
-                            20.5,
-                            39.0
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            },
+            "end": 1999,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:02:13Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-06-24T14:09:07Z",
+                    "modified": "2025-10-29T00:39:09Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-06-24T13:54:37Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-28T21:35:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-10-28T21:35:13Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-06-24T13:50:44Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-10-28T21:35:12Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "vigla",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "54 C3 Vigla",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 54 C3 Vigla",
-            "references": [],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/531142/batlas-location"
+            "romanized": "Vigla",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/531142/vigla"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 54 C3 Vigla",
     "references": [
@@ -259,8 +303,8 @@
         }
     ],
     "reprPoint": [
-        20.75,
-        39.25
+        20.8621352,
+        39.0852981
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
