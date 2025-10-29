@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-511 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+512 alignments exist in _Pleiades_ place references as of 2025-10-29. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2564,6 +2564,13 @@
 
 
 ## 7.24.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:7.24.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:7.24.5)  
+
+### alignments:
+ - [Selinous (river)](https://pleiades.stoa.org/places/570661)
+
+
+## 7.24.5
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.24.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.24.5)  
 
 ### alignments:
@@ -3007,7 +3014,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.27.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.27.4)  
 
 ### alignments:
- - [Akontion](https://pleiades.stoa.org/places/573066)
+ - [Akontion (Arcadian settlement)](https://pleiades.stoa.org/places/573066)
  - [Belmina](https://pleiades.stoa.org/places/570151)
  - [Gortys](https://pleiades.stoa.org/places/570267)
  - [Kalliai/Kallia](https://pleiades.stoa.org/places/573270)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4737 alignments exist in _Pleiades_ place references as of 2025-10-28. The following list of alignments is grouped by zotkey.
+4742 alignments exist in _Pleiades_ place references as of 2025-10-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1472,6 +1472,13 @@
  - [Palairos](https://pleiades.stoa.org/places/531034)
 
 
+## Geo 37645: Sollion (Pogonia)
+[https://www.trismegistos.org/place/37645](https://www.trismegistos.org/place/37645)  
+
+### alignments:
+ - [Sollion](https://pleiades.stoa.org/places/536133)
+
+
 ## Geo 37649: Stratos (Sourovigli)
 [https://www.trismegistos.org/place/37649](https://www.trismegistos.org/place/37649)  
 
@@ -2089,6 +2096,13 @@
  - [Al-Sabaa wa Arbain](https://pleiades.stoa.org/places/528477900)
 
 
+## Geo 55339: Lysimacheia (Kakkavaria)
+[https://www.trismegistos.org/place/55339](https://www.trismegistos.org/place/55339)  
+
+### alignments:
+ - [Lysimacheia](https://pleiades.stoa.org/places/540921)
+
+
 ## Geo 55354: Hypnia
 [https://www.trismegistos.org/place/55354](https://www.trismegistos.org/place/55354)  
 
@@ -2199,6 +2213,13 @@
 
 ### alignments:
  - [Helena (island)](https://pleiades.stoa.org/places/579945)
+
+
+## Geo 60776: Psaphis (Revithia)
+[https://www.trismegistos.org/place/60776](https://www.trismegistos.org/place/60776)  
+
+### alignments:
+ - [Psaphis](https://pleiades.stoa.org/places/580093)
 
 
 ## Geo 60875: Antikragos (Buba Dağ)
@@ -21334,6 +21355,13 @@
  - [Asiana/Osiena](https://pleiades.stoa.org/places/619117)
 
 
+## GEO ID 40681: Analiba (Hasanova?)
+[https://www.trismegistos.org/place/40681](https://www.trismegistos.org/place/40681)  
+
+### alignments:
+ - [Analib(l)a](https://pleiades.stoa.org/places/628922)
+
+
 ## GEO ID 40684: Kiakis
 [http://www.trismegistos.org/place/40684](http://www.trismegistos.org/place/40684)  
 
@@ -30787,6 +30815,13 @@
 
 ### alignments:
  - [Hypokremnos](https://pleiades.stoa.org/places/550586)
+
+
+## GEO ID 60938: Melaina (Karaburun)
+[https://www.trismegistos.org/place/60938](https://www.trismegistos.org/place/60938)  
+
+### alignments:
+ - [Melaina Pr.](https://pleiades.stoa.org/places/550726)
 
 
 ## GEO ID 60941: Melia (Guzelcamli)
