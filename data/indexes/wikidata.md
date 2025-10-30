@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9576 alignments exist in _Pleiades_ place references as of 2025-10-29. The following list of alignments is grouped by zotkey.
+9582 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1408,6 +1408,13 @@
 
 ### alignments:
  - [Akamas (promontory)](https://pleiades.stoa.org/places/707455)
+
+
+## Akdamar Island (Q32083)
+[https://www.wikidata.org/wiki/Q32083](https://www.wikidata.org/wiki/Q32083)  
+
+### alignments:
+ - [Akdamar Island](https://pleiades.stoa.org/places/359852689)
 
 
 ## Akontio (Q12873267)
@@ -8440,6 +8447,13 @@
  - [Byzantine Bath](https://pleiades.stoa.org/places/193679552)
 
 
+## Byzantium (Q23725)
+[https://www.wikidata.org/wiki/Q23725](https://www.wikidata.org/wiki/Q23725)  
+
+### alignments:
+ - [Byzantium](https://pleiades.stoa.org/places/520985)
+
+
 ## Bzyb River (Q1972264)
 [https://www.wikidata.org/wiki/Q1972264](https://www.wikidata.org/wiki/Q1972264)  
 
@@ -11740,6 +11754,13 @@
 
 ### alignments:
  - [Roman amphitheater at Iol Caesarea](https://pleiades.stoa.org/places/471134383)
+
+
+## Cherronesos (Q17627935)
+[https://www.wikidata.org/wiki/Q17627935](https://www.wikidata.org/wiki/Q17627935)  
+
+### alignments:
+ - [Chersonesos](https://pleiades.stoa.org/places/599571)
 
 
 ## Cherré (Q3485389)
@@ -25095,6 +25116,13 @@
  - [Oppidovetere](https://pleiades.stoa.org/places/442700)
 
 
+## Lipara (Q58878895)
+[https://www.wikidata.org/wiki/Q58878895](https://www.wikidata.org/wiki/Q58878895)  
+
+### alignments:
+ - [Lipara (settlement)](https://pleiades.stoa.org/places/462283)
+
+
 ## Lippe (Q153945)
 [https://www.wikidata.org/wiki/Q153945](https://www.wikidata.org/wiki/Q153945)  
 
@@ -25282,6 +25310,13 @@
 
 ### alignments:
  - [Makra Teiche](https://pleiades.stoa.org/places/585128)
+
+
+## Longane (Q29788240)
+[https://www.wikidata.org/wiki/Q29788240](https://www.wikidata.org/wiki/Q29788240)  
+
+### alignments:
+ - [Longane](https://pleiades.stoa.org/places/462287)
 
 
 ## Longola (Q48606691)
@@ -40503,6 +40538,13 @@
  - [Col. Baeterrae](https://pleiades.stoa.org/places/148056)
 
 
+## Q1746897: Castra of Werthausen
+[https://www.wikidata.org/wiki/Q1746897](https://www.wikidata.org/wiki/Q1746897)  
+
+### alignments:
+ - [Werthausen](https://pleiades.stoa.org/places/269031532)
+
+
 ## Q17478712: Melainai
 [https://www.wikidata.org/wiki/Q17478712](https://www.wikidata.org/wiki/Q17478712)  
 
@@ -42897,13 +42939,6 @@
 
 ### alignments:
  - [Roman villa at Maasbracht](https://pleiades.stoa.org/places/24536767)
-
-
-## Q23725: Byzantium
-[https://www.wikidata.org/wiki/Q23725](https://www.wikidata.org/wiki/Q23725)  
-
-### alignments:
- - [Byzantium](https://pleiades.stoa.org/places/520985)
 
 
 ## Q2373696: Twee Tommen
@@ -54400,6 +54435,13 @@
  - [Wanborough](https://pleiades.stoa.org/places/79746)
 
 
+## Rometta (Q139826)
+[https://www.wikidata.org/wiki/Q139826](https://www.wikidata.org/wiki/Q139826)  
+
+### alignments:
+ - [Rometta](https://pleiades.stoa.org/places/462471)
+
+
 ## Room W13, Temple of Artemis Azzanathkona, Dura-Europos (Q118390423)
 [https://www.wikidata.org/wiki/Q118390423](https://www.wikidata.org/wiki/Q118390423)  
 
@@ -65482,7 +65524,7 @@
 [https://www.wikidata.org/wiki/Q104817310](https://www.wikidata.org/wiki/Q104817310)  
 
 ### alignments:
- - [Zliten](https://pleiades.stoa.org/places/344573)
+ - [Dar Buk-Ammarah](https://pleiades.stoa.org/places/344573)
 
 
 ## Villalfonsina (Q51314)

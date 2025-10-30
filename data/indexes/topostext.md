@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4110 alignments exist in _Pleiades_ place references as of 2025-10-29. The following list of alignments is grouped by zotkey.
+4114 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6403,6 +6403,13 @@
 
 ### alignments:
  - [Chenoboskion](https://pleiades.stoa.org/places/756545)
+
+
+## Cheronnesos (Caria) 22 Datca peninsula - Χερρόνησος
+[https://topostext.org/place/368281LChe](https://topostext.org/place/368281LChe)  
+
+### alignments:
+ - [Chersonesos](https://pleiades.stoa.org/places/599571)
 
 
 ## Chersonesos (Crete)
@@ -12892,6 +12899,13 @@
  - [Kastri 1](https://pleiades.stoa.org/places/589851)
 
 
+## Kastri site (Crete) Kastri, Keratokampos - Καστρί
+[https://topostext.org/place/350254XKas](https://topostext.org/place/350254XKas)  
+
+### alignments:
+ - [Kastri](https://pleiades.stoa.org/places/589850)
+
+
 ## Kastriotissa site (Aitolia)
 [https://topostext.org/place/391211XKas](https://topostext.org/place/391211XKas)  
 
@@ -14182,6 +14196,13 @@
 
 ### alignments:
  - [Krithote](https://pleiades.stoa.org/places/501485)
+
+
+## Krithote cape (Akarnania) 3 Akra Tourkovigla - Κριθώτη
+[https://topostext.org/place/388213LKri](https://topostext.org/place/388213LKri)  
+
+### alignments:
+ - [Krithote Pr.](https://pleiades.stoa.org/places/530966)
 
 
 ## Krokeai (Lakonia)
@@ -15673,6 +15694,13 @@
 
 ### alignments:
  - [Londobris (island)](https://pleiades.stoa.org/places/256272)
+
+
+## Longane? (Sicily) 2 Milici - Μύλαι
+[https://topostext.org/place/381152ULon](https://topostext.org/place/381152ULon)  
+
+### alignments:
+ - [Longane](https://pleiades.stoa.org/places/462287)
 
 
 ## Lopadousa (Sicily)

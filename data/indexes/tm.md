@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4742 alignments exist in _Pleiades_ place references as of 2025-10-29. The following list of alignments is grouped by zotkey.
+4744 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7871,7 +7871,7 @@
 [https://www.trismegistos.org/place/16969](https://www.trismegistos.org/place/16969)  
 
 ### alignments:
- - [Zliten](https://pleiades.stoa.org/places/344573)
+ - [Dar Buk-Ammarah](https://pleiades.stoa.org/places/344573)
 
 
 ## GEO ID 16976: El-Khadra
@@ -12368,6 +12368,13 @@
 
 ### alignments:
  - [Castra Vinaria/Binaria/Castra Gemella](https://pleiades.stoa.org/places/260529)
+
+
+## GEO ID 26022: Igabrum (Cabra)
+[http://www.trismegistos.org/place/26022](http://www.trismegistos.org/place/26022)  
+
+### alignments:
+ - [Igabrum/Egabrum](https://pleiades.stoa.org/places/265919)
 
 
 ## GEO ID 26024: Ipolcobulcula (Carcabuey)
@@ -17564,6 +17571,13 @@
 
 ### alignments:
  - [Kamilari](https://pleiades.stoa.org/places/589835)
+
+
+## GEO ID 33318: Chondros Biannou
+[https://www.trismegistos.org/place/33318](https://www.trismegistos.org/place/33318)  
+
+### alignments:
+ - [Kastri](https://pleiades.stoa.org/places/589850)
 
 
 ## GEO ID 33323: Hagia Triada
@@ -26696,7 +26710,7 @@
  - [Tagus (river)](https://pleiades.stoa.org/places/256463)
 
 
-## GEO ID 43436
+## GEO ID 43436: Splonum
 [http://www.trismegistos.org/place/43436](http://www.trismegistos.org/place/43436)  
 
 ### alignments:
