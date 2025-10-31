@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-759 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
+761 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2291,6 +2291,13 @@
  - [Pagasai](https://pleiades.stoa.org/places/540998)
 
 
+## 11291564: River Apidanos (N. Greece)
+[https://resource.manto.unh.edu/11291564](https://resource.manto.unh.edu/11291564)  
+
+### alignments:
+ - [Apidanos (river)](https://pleiades.stoa.org/places/540647)
+
+
 ## 11292595: Mount Hymettos (Attica)
 [https://resource.manto.unh.edu/11292595](https://resource.manto.unh.edu/11292595)  
 
@@ -2569,6 +2576,13 @@
 
 ### alignments:
  - [Kytinion](https://pleiades.stoa.org/places/540899)
+
+
+## 11303652: Aretias (Pontos)
+[https://resource.manto.unh.edu/11303652](https://resource.manto.unh.edu/11303652)  
+
+### alignments:
+ - [Aretias/Areonesos (islands)](https://pleiades.stoa.org/places/857042)
 
 
 ## 11304203: the Heraian Mountains (Sicily)

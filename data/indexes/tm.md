@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4744 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
+4750 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -19519,6 +19519,13 @@
  - [Balanea/Leukas](https://pleiades.stoa.org/places/668206)
 
 
+## GEO ID 37520
+[http://www.trismegistos.org/place/37520](http://www.trismegistos.org/place/37520)  
+
+### alignments:
+ - [Ciliza/Urmagiganti](https://pleiades.stoa.org/places/658442)
+
+
 ## GEO ID 37558: Poseideion
 [https://www.trismegistos.org/place/37558](https://www.trismegistos.org/place/37558)  
 
@@ -21327,6 +21334,20 @@
  - [Caperturi/Capertur](https://pleiades.stoa.org/places/662149)
 
 
+## GEO ID 40639: Minnica
+[https://www.trismegistos.org/place/40639](https://www.trismegistos.org/place/40639)  
+
+### alignments:
+ - [Minnica](https://pleiades.stoa.org/places/658536)
+
+
+## GEO ID 40643: Chaonia
+[https://www.trismegistos.org/place/40643](https://www.trismegistos.org/place/40643)  
+
+### alignments:
+ - [Chaonia/Channunia](https://pleiades.stoa.org/places/658433)
+
+
 ## GEO ID 40645: Thelseai
 [https://www.trismegistos.org/place/40645](https://www.trismegistos.org/place/40645)  
 
@@ -21381,6 +21402,13 @@
 
 ### alignments:
  - [Kiakis](https://pleiades.stoa.org/places/629008)
+
+
+## GEO ID 40687: Perre (Pirun)
+[https://www.trismegistos.org/place/40687](https://www.trismegistos.org/place/40687)  
+
+### alignments:
+ - [Perre](https://pleiades.stoa.org/places/658568)
 
 
 ## GEO ID 40701: Ad Vicensimum
@@ -23019,6 +23047,13 @@
 
 ### alignments:
  - [Beni Hasan](https://pleiades.stoa.org/places/112509596)
+
+
+## GEO ID 41527: Regia
+[http://www.trismegistos.org/place/41527](http://www.trismegistos.org/place/41527)  
+
+### alignments:
+ - [Regia](https://pleiades.stoa.org/places/658581)
 
 
 ## GEO ID 41530: Tigranokerta (Arzan)
@@ -28733,6 +28768,13 @@
 
 ### alignments:
  - [Mar Melki](https://pleiades.stoa.org/places/874582)
+
+
+## GEO ID 48089: Rhabaine (Raban)
+[http://www.trismegistos.org/place/48089](http://www.trismegistos.org/place/48089)  
+
+### alignments:
+ - [Rhabaine](https://pleiades.stoa.org/places/658582)
 
 
 ## GEO ID 4808: Katarraktes Mikros

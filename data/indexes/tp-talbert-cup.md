@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2247 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
+2251 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -323,6 +323,13 @@
  - [Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/658446)
 
 
+## 10B1 (Talbert 2571)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2571.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2571.html)  
+
+### alignments:
+ - [Chaonia/Channunia](https://pleiades.stoa.org/places/658433)
+
+
 ## 10B1 (Talbert 2572)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2572.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2572.html)  
 
@@ -412,6 +419,20 @@
 
 ### alignments:
  - [Metita](https://pleiades.stoa.org/places/874603)
+
+
+## 10B2 (Talbert 2563)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2563.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2563.html)  
+
+### alignments:
+ - [Perre](https://pleiades.stoa.org/places/658568)
+
+
+## 10B2 (Talbert 2573)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2573.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2573.html)  
+
+### alignments:
+ - [Aquae (...)](https://pleiades.stoa.org/places/658386)
 
 
 ## 10B3 (Talbert 2554)
@@ -797,6 +818,13 @@
 
 ### alignments:
  - [Hierapolis/Bambyke](https://pleiades.stoa.org/places/658480)
+
+
+## 10C1 (Talbert 2577)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2577.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2577.html)  
+
+### alignments:
+ - [Regia](https://pleiades.stoa.org/places/658581)
 
 
 ## 10C1 (Talbert 2589)

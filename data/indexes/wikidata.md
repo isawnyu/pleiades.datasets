@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9582 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
+9588 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9292,6 +9292,13 @@
  - [Temple of Hera Lacinia](https://pleiades.stoa.org/places/452332)
 
 
+## Capo Falcone (Q3657120)
+[https://www.wikidata.org/wiki/Q3657120](https://www.wikidata.org/wiki/Q3657120)  
+
+### alignments:
+ - [Gorditanum Pr.](https://pleiades.stoa.org/places/471936)
+
+
 ## Capo Graziano (Q46849937)
 [https://www.wikidata.org/wiki/Q46849937](https://www.wikidata.org/wiki/Q46849937)  
 
@@ -13753,6 +13760,13 @@
  - [Kyrros](https://pleiades.stoa.org/places/491647)
 
 
+## Cyrrhus (Q536924)
+[https://www.wikidata.org/wiki/Q536924](https://www.wikidata.org/wiki/Q536924)  
+
+### alignments:
+ - [Cyrrus/Hagioupolis](https://pleiades.stoa.org/places/658446)
+
+
 ## Cyrtones (Q13580763)
 [https://www.wikidata.org/wiki/Q13580763](https://www.wikidata.org/wiki/Q13580763)  
 
@@ -15268,6 +15282,13 @@
  - [Katarraktes (river)](https://pleiades.stoa.org/places/638906)
 
 
+## Dülük (Q1271696)
+[https://www.wikidata.org/wiki/Q1271696](https://www.wikidata.org/wiki/Q1271696)  
+
+### alignments:
+ - [Doliche](https://pleiades.stoa.org/places/658455)
+
+
 ## Dębczyno (Q1272587)
 [https://www.wikidata.org/wiki/Q1272587](https://www.wikidata.org/wiki/Q1272587)  
 
@@ -16095,6 +16116,13 @@
  - [Erebuni](https://pleiades.stoa.org/places/863785)
 
 
+## Erechtheis (Q13415445)
+[https://www.wikidata.org/wiki/Q13415445](https://www.wikidata.org/wiki/Q13415445)  
+
+### alignments:
+ - [Erechtheis](https://pleiades.stoa.org/places/844310646)
+
+
 ## Eretria (Q42114739)
 [https://www.wikidata.org/wiki/Q42114739](https://www.wikidata.org/wiki/Q42114739)  
 
@@ -16445,6 +16473,13 @@
  - [Falerii Novi amphitheater](https://pleiades.stoa.org/places/827074678)
 
 
+## Falerio Picenus (Q21235393)
+[https://www.wikidata.org/wiki/Q21235393](https://www.wikidata.org/wiki/Q21235393)  
+
+### alignments:
+ - [Falerio](https://pleiades.stoa.org/places/413127)
+
+
 ## Falerna (Q3538792)
 [https://www.wikidata.org/wiki/Q3538792](https://www.wikidata.org/wiki/Q3538792)  
 
@@ -16555,6 +16590,13 @@
 
 ### alignments:
  - [Faroe Islands](https://pleiades.stoa.org/places/136699833)
+
+
+## Farsaliotis (Q25081680)
+[https://www.wikidata.org/wiki/Q25081680](https://www.wikidata.org/wiki/Q25081680)  
+
+### alignments:
+ - [Apidanos (river)](https://pleiades.stoa.org/places/540647)
 
 
 ## Faventia (Q48808799)
@@ -22901,6 +22943,13 @@
 
 ### alignments:
  - [Kikynna?](https://pleiades.stoa.org/places/579979)
+
+
+## Kilis (Q206881)
+[https://www.wikidata.org/wiki/Q206881](https://www.wikidata.org/wiki/Q206881)  
+
+### alignments:
+ - [Ciliza/Urmagiganti](https://pleiades.stoa.org/places/658442)
 
 
 ## Kimista (Q85774419)
@@ -37770,13 +37819,6 @@
  - [Esterzili](https://pleiades.stoa.org/places/739961553)
 
 
-## Q1271696: Dülük
-[https://www.wikidata.org/wiki/Q1271696](https://www.wikidata.org/wiki/Q1271696)  
-
-### alignments:
- - [Doliche](https://pleiades.stoa.org/places/658455)
-
-
 ## Q12723648
 [https://www.wikidata.org/wiki/Q12723648](https://www.wikidata.org/wiki/Q12723648)  
 
@@ -42359,13 +42401,6 @@
  - [Kysis](https://pleiades.stoa.org/places/776191)
 
 
-## Q21235393: Falerio Picenus
-[https://www.wikidata.org/wiki/Q21235393](https://www.wikidata.org/wiki/Q21235393)  
-
-### alignments:
- - [Falerio](https://pleiades.stoa.org/places/413127)
-
-
 ## Q21294341: Porticus Divorum
 [https://www.wikidata.org/wiki/Q21294341](https://www.wikidata.org/wiki/Q21294341)  
 
@@ -46421,13 +46456,6 @@
 
 ### alignments:
  - [Palazzo a Mare](https://pleiades.stoa.org/places/433006)
-
-
-## Q389131: St. John's Island, Egypt
-[https://www.wikidata.org/wiki/Q389131](https://www.wikidata.org/wiki/Q389131)  
-
-### alignments:
- - [Topazios (island)](https://pleiades.stoa.org/places/789002572)
 
 
 ## Q3891745: Samnite Palaestra
@@ -58126,6 +58154,13 @@
  - [Saint Hripsime Church](https://pleiades.stoa.org/places/889074702)
 
 
+## St. John's Island, Egypt (Q389131)
+[https://www.wikidata.org/wiki/Q389131](https://www.wikidata.org/wiki/Q389131)  
+
+### alignments:
+ - [Topazios (island)](https://pleiades.stoa.org/places/789002572)
+
+
 ## St. Peter's Basilica (Q12512)
 [https://www.wikidata.org/wiki/Q12512](https://www.wikidata.org/wiki/Q12512)  
 
@@ -64019,6 +64054,13 @@
 
 ### alignments:
  - [‘Utsurgae’](https://pleiades.stoa.org/places/511459)
+
+
+## Uxama Argaela (Q6158255)
+[https://www.wikidata.org/wiki/Q6158255](https://www.wikidata.org/wiki/Q6158255)  
+
+### alignments:
+ - [Uxama (Argaela)](https://pleiades.stoa.org/places/246721)
 
 
 ## Uxellodunum (Q1290232)

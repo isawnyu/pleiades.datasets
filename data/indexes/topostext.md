@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4114 alignments exist in _Pleiades_ place references as of 2025-10-30. The following list of alignments is grouped by zotkey.
+4119 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -344,6 +344,13 @@
 
 ### alignments:
  - [Acheron (river)](https://pleiades.stoa.org/places/530769)
+
+
+## Acherusia (Preveza) 34 Kastri dry lake - Αχερουσία λίμνη
+[https://topostext.org/place/393208WAch](https://topostext.org/place/393208WAch)  
+
+### alignments:
+ - [Acherusia (lake)](https://pleiades.stoa.org/places/530770)
 
 
 ## Achilleion (Troad)
@@ -2614,6 +2621,13 @@
 
 ### alignments:
  - [Aphytis](https://pleiades.stoa.org/places/491525)
+
+
+## Apidanos R. (Thessaly) 42 Pharsalitis - Απιδανός
+[https://topostext.org/place/393223WApi](https://topostext.org/place/393223WApi)  
+
+### alignments:
+ - [Apidanos (river)](https://pleiades.stoa.org/places/540647)
 
 
 ## Apis (Egypt)
@@ -8019,6 +8033,13 @@
  - [Dryopes](https://pleiades.stoa.org/places/540744)
 
 
+## Dryopis region (Arta) 19 region of Ambracia - Δρυοπίς
+[https://topostext.org/place/392210RDry](https://topostext.org/place/392210RDry)  
+
+### alignments:
+ - [Dryopis](https://pleiades.stoa.org/places/530849)
+
+
 ## Drys (Evros)
 [https://topostext.org/place/409257PDry](https://topostext.org/place/409257PDry)  
 
@@ -11146,6 +11167,13 @@
  - [Hieron (Chalkedonion)/Zeus Ourios, T.](https://pleiades.stoa.org/places/521035)
 
 
+## Hieron Oros Mt. (Arta) 4 Valaora
+[https://topostext.org/place/393213LHie](https://topostext.org/place/393213LHie)  
+
+### alignments:
+ - [Hieron Oros/Crania M.](https://pleiades.stoa.org/places/530891)
+
+
 ## Himera (Sicily)
 [https://topostext.org/place/380138PHim](https://topostext.org/place/380138PHim)  
 
@@ -12449,6 +12477,13 @@
 
 ### alignments:
  - [Kalindoia](https://pleiades.stoa.org/places/491627)
+
+
+## Kallas R. (Euboea) 1 Xerias - Κάλλας
+[https://topostext.org/place/388233WKal](https://topostext.org/place/388233WKal)  
+
+### alignments:
+ - [Kallas (river)](https://pleiades.stoa.org/places/540846)
 
 
 ## Kallatis (Romania)
