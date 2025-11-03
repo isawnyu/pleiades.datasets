@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4750 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
+4756 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8523,6 +8523,13 @@
 
 ### alignments:
  - [Turratenses](https://pleiades.stoa.org/places/324837)
+
+
+## GEO ID 17830: Mutia (Henchir Furna)
+[https://www.trismegistos.org/place/17830](https://www.trismegistos.org/place/17830)  
+
+### alignments:
+ - [Mutia?](https://pleiades.stoa.org/places/324788)
 
 
 ## GEO ID 1783: Phleious
@@ -19526,6 +19533,13 @@
  - [Ciliza/Urmagiganti](https://pleiades.stoa.org/places/658442)
 
 
+## GEO ID 37530: Dar Qita
+[http://www.trismegistos.org/place/37530](http://www.trismegistos.org/place/37530)  
+
+### alignments:
+ - [Darqita](https://pleiades.stoa.org/places/658452)
+
+
 ## GEO ID 37558: Poseideion
 [https://www.trismegistos.org/place/37558](https://www.trismegistos.org/place/37558)  
 
@@ -23049,6 +23063,20 @@
  - [Beni Hasan](https://pleiades.stoa.org/places/112509596)
 
 
+## GEO ID 41522: Pordonnium (Adıyaman)
+[http://www.trismegistos.org/place/41522](http://www.trismegistos.org/place/41522)  
+
+### alignments:
+ - [Pordonnium](https://pleiades.stoa.org/places/658574)
+
+
+## GEO ID 41524: Heracome (Kızılkaya)
+[https://www.trismegistos.org/place/41524](https://www.trismegistos.org/place/41524)  
+
+### alignments:
+ - [‘Heracome’](https://pleiades.stoa.org/places/658479)
+
+
 ## GEO ID 41527: Regia
 [http://www.trismegistos.org/place/41527](http://www.trismegistos.org/place/41527)  
 
@@ -25049,6 +25077,13 @@
 
 ### alignments:
  - [Ugubre](https://pleiades.stoa.org/places/220961472)
+
+
+## GEO ID 42210: Caleorsissa
+[https://www.trismegistos.org/place/42210](https://www.trismegistos.org/place/42210)  
+
+### alignments:
+ - [Caleorsissa](https://pleiades.stoa.org/places/557533541)
 
 
 ## GEO ID 42230
@@ -29189,6 +29224,13 @@
 
 ### alignments:
  - [Ager Gallicus](https://pleiades.stoa.org/places/393373)
+
+
+## GEO ID 50427: Via Sublacensis
+[https://www.trismegistos.org/place/50427](https://www.trismegistos.org/place/50427)  
+
+### alignments:
+ - [Via Sublacensis](https://pleiades.stoa.org/places/188535571)
 
 
 ## GEO ID 5062: Smaragdos (Gebel Zabara)

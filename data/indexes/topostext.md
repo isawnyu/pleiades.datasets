@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4119 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
+4239 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -288,6 +288,13 @@
 
 ### alignments:
  - [Acerrae](https://pleiades.stoa.org/places/383542)
+
+
+## Achaea Phthiotis region (Phthiotis) 199 Phthiotida - Φθιώτας Αχαιούς
+[https://topostext.org/place/393223RPht](https://topostext.org/place/393223RPht)  
+
+### alignments:
+ - [Achaea Phthiotis](https://pleiades.stoa.org/places/540585)
 
 
 ## Achaea region (Achaia) 1717 Achaia - Αχαΐα
@@ -773,6 +780,13 @@
  - [Aiane](https://pleiades.stoa.org/places/491511)
 
 
+## Aianteion cape (Magnesia) 2 Trikeri - Αιάντειον
+[https://topostext.org/place/393233LAia](https://topostext.org/place/393233LAia)  
+
+### alignments:
+ - [Aianteion Pr.](https://pleiades.stoa.org/places/540600)
+
+
 ## Aidepsos (Euboea)
 [https://topostext.org/place/389230PAid](https://topostext.org/place/389230PAid)  
 
@@ -933,6 +947,13 @@
 
 ### alignments:
  - [Aigition](https://pleiades.stoa.org/places/540608)
+
+
+## Aigospotamos (Thrace) 50 Sutluce - Αιγός ποταμοί
+[https://topostext.org/place/403266UAig](https://topostext.org/place/403266UAig)  
+
+### alignments:
+ - [Aigospotamos](https://pleiades.stoa.org/places/501336)
 
 
 ## Aigosthena (Attica)
@@ -1125,6 +1146,13 @@
  - [Akanthos](https://pleiades.stoa.org/places/501339)
 
 
+## Akarnania region (Akarnania) 435 Akarnania - Ακαρνανία
+[https://topostext.org/place/388210RAka](https://topostext.org/place/388210RAka)  
+
+### alignments:
+ - [Acarnania](https://pleiades.stoa.org/places/530767)
+
+
 ## Ake/Ptolemais (Israel)
 [https://topostext.org/place/329351UPto](https://topostext.org/place/329351UPto)  
 
@@ -1186,6 +1214,13 @@
 
 ### alignments:
  - [Akraiphiai](https://pleiades.stoa.org/places/540617)
+
+
+## Akrathos cape (Chalkidike) 2 Cape Akrathos
+[https://topostext.org/place/401244LAkr](https://topostext.org/place/401244LAkr)  
+
+### alignments:
+ - [Akrathos Pr.](https://pleiades.stoa.org/places/501342)
 
 
 ## Akriai (Lakonia)
@@ -1517,11 +1552,25 @@
  - [Almopia](https://pleiades.stoa.org/places/491518)
 
 
+## Alope (East Lokris) 28 Ag. Aikaterini - Αλόπη
+[https://topostext.org/place/388229PAlo](https://topostext.org/place/388229PAlo)  
+
+### alignments:
+ - [Alope](https://pleiades.stoa.org/places/540621)
+
+
 ## Alopeke (Athens)
 [https://topostext.org/place/380237DAlo](https://topostext.org/place/380237DAlo)  
 
 ### alignments:
  - [Alopeke](https://pleiades.stoa.org/places/579858)
+
+
+## Alopekonnesos (Propontis) 28 Buyuk Kemikli Burnu - Αλωπεκόννησος
+[https://topostext.org/place/403262IAlo](https://topostext.org/place/403262IAlo)  
+
+### alignments:
+ - [Alopeconnesus (island)](https://pleiades.stoa.org/places/507364)
 
 
 ## Aloros (Emathia)
@@ -1648,6 +1697,13 @@
 
 ### alignments:
  - [Ambracius Sinus](https://pleiades.stoa.org/places/530795)
+
+
+## Ambracus (Arta) 92 Phidokastro - Άμβρακος
+[https://topostext.org/place/390209UAmb](https://topostext.org/place/390209UAmb)  
+
+### alignments:
+ - [Ambracus](https://pleiades.stoa.org/places/530796)
 
 
 ## Ambrossos (Boeotia)
@@ -1998,6 +2054,13 @@
 
 ### alignments:
  - [Anastasis](https://pleiades.stoa.org/places/540633)
+
+
+## Anauros R. (Magnesia) 14  - Άναυρος
+[https://topostext.org/place/393228WAna](https://topostext.org/place/393228WAna)  
+
+### alignments:
+ - [Anauros (river)](https://pleiades.stoa.org/places/540634)
 
 
 ## Anazarbos (Cilicia)
@@ -2509,6 +2572,13 @@
 
 ### alignments:
  - [Temple of Aphaia on Aegina](https://pleiades.stoa.org/places/579872)
+
+
+## Aphas R. (Arta) 2 Louros - Άφας
+[https://topostext.org/place/393208WAph](https://topostext.org/place/393208WAph)  
+
+### alignments:
+ - [Aphas (river)](https://pleiades.stoa.org/places/530804)
 
 
 ## Aphetai (Magnesia)
@@ -3344,6 +3414,13 @@
  - [Arginous(s)ai Inss.](https://pleiades.stoa.org/places/550449)
 
 
+## Argissa or Argura (Thessaly) 9 Terpsithea - Άργισσα
+[https://topostext.org/place/397224UArg](https://topostext.org/place/397224UArg)  
+
+### alignments:
+ - [Argoura](https://pleiades.stoa.org/places/540659)
+
+
 ## Argithea (Thessaly) 12 Hellenika/Knisovo - Αργιθέα
 [https://topostext.org/place/393215PArg](https://topostext.org/place/393215PArg)  
 
@@ -3828,6 +3905,13 @@
  - [Asisium](https://pleiades.stoa.org/places/413037)
 
 
+## Asklepieion (Aiolis) 10 Bergama - Ασκληπίειον
+[https://topostext.org/place/391272SAsk](https://topostext.org/place/391272SAsk)  
+
+### alignments:
+ - [Asklepieion](https://pleiades.stoa.org/places/550459)
+
+
 ## Asklepieion (Athens)
 [https://topostext.org/place/380237SAsk](https://topostext.org/place/380237SAsk)  
 
@@ -4108,6 +4192,13 @@
  - [Astyr(i)a?](https://pleiades.stoa.org/places/550468)
 
 
+## Atalante island (Phthiotis) 19 Talandonisi - Αταλάντη
+[https://topostext.org/place/388233IAta](https://topostext.org/place/388233IAta)  
+
+### alignments:
+ - [Atalante (island)](https://pleiades.stoa.org/places/540675)
+
+
 ## Atarneus (Aiolis)
 [https://topostext.org/place/391269PAta](https://topostext.org/place/391269PAta)  
 
@@ -4143,6 +4234,13 @@
  - [Aternum](https://pleiades.stoa.org/places/413039)
 
 
+## Athamania region (Trikala) 108  - Αθαμανία
+[https://topostext.org/place/396212RAth](https://topostext.org/place/396212RAth)  
+
+### alignments:
+ - [Athamania](https://pleiades.stoa.org/places/540676)
+
+
 ## Athena Alea (Arkadia) 11 Alea - Αθηνά Αλέα
 [https://topostext.org/place/375224SAth](https://topostext.org/place/375224SAth)  
 
@@ -4162,6 +4260,13 @@
 
 ### alignments:
  - [Athena Itonia?, T.](https://pleiades.stoa.org/places/540678)
+
+
+## Athena Itonia sanct. (Thessaly) 12 Philia Karditsis - Ιτωνία η Αθηνά
+[https://topostext.org/place/393221SAth](https://topostext.org/place/393221SAth)  
+
+### alignments:
+ - [Sanctuary of Athena Itonia](https://pleiades.stoa.org/places/540677)
 
 
 ## Athena Kranaia sanct. (Phthiotis)
@@ -4703,6 +4808,13 @@
  - [Balboura](https://pleiades.stoa.org/places/638789)
 
 
+## Balla (Pieria) 5 Lofos?? - Βάλλα
+[https://topostext.org/place/402224UBal](https://topostext.org/place/402224UBal)  
+
+### alignments:
+ - [Balla](https://pleiades.stoa.org/places/494544)
+
+
 ## Balsa (Lusitania)
 [https://topostext.org/place/371000UBa3](https://topostext.org/place/371000UBa3)  
 
@@ -5172,6 +5284,13 @@
  - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
+## Boibe (Magnesia) 51 Boivi - Βοιβή
+[https://topostext.org/place/395228WBoi](https://topostext.org/place/395228WBoi)  
+
+### alignments:
+ - [Boibe (lake)](https://pleiades.stoa.org/places/540690)
+
+
 ## Boibe (Thessaly)
 [https://topostext.org/place/396227UBoi](https://topostext.org/place/396227UBoi)  
 
@@ -5289,6 +5408,13 @@
 
 ### alignments:
  - [Boubon](https://pleiades.stoa.org/places/638792)
+
+
+## Bouchetion (Thesprotia) 6 Nea Kerasountos/Kastro ton Rogon - Βουχέτιον
+[https://topostext.org/place/392208PBou](https://topostext.org/place/392208PBou)  
+
+### alignments:
+ - [Rogous](https://pleiades.stoa.org/places/530822)
 
 
 ## Boudoron (Attica)
@@ -5478,6 +5604,13 @@
 
 ### alignments:
  - [Brioula](https://pleiades.stoa.org/places/638793)
+
+
+## Brisa cape (Lesbos) 1 Kabos Bourkos/Ag. Phokas - Βρίσα
+[https://topostext.org/place/393263LBri](https://topostext.org/place/393263LBri)  
+
+### alignments:
+ - [Brisa Pr.](https://pleiades.stoa.org/places/550489)
 
 
 ## Britannia (Atlantic)
@@ -6230,6 +6363,13 @@
  - [Chaeronea](https://pleiades.stoa.org/places/540701)
 
 
+## Chalaion/Pereia? (Phthiotis) 3 Petroto - Χάλαιον
+[https://topostext.org/place/392224PCha](https://topostext.org/place/392224PCha)  
+
+### alignments:
+ - [Chalai(on)](https://pleiades.stoa.org/places/540702)
+
+
 ## Chalastra (Thessaloniki)
 [https://topostext.org/place/407228PCha](https://topostext.org/place/407228PCha)  
 
@@ -6312,6 +6452,13 @@
 
 ### alignments:
  - [Chaon (mountain)](https://pleiades.stoa.org/places/570171)
+
+
+## Chaonia region (Epiros) 102 Southern Albania - Χαονία
+[https://topostext.org/place/403197RCha](https://topostext.org/place/403197RCha)  
+
+### alignments:
+ - [Chaonia](https://pleiades.stoa.org/places/481787)
 
 
 ## Charadra (Phokis)
@@ -6412,6 +6559,13 @@
  - [Chelonatas Pr.](https://pleiades.stoa.org/places/570174)
 
 
+## Chenai? (Phthiotis) 12 unlocated - Χήν
+[https://topostext.org/place/388222UChe](https://topostext.org/place/388222UChe)  
+
+### alignments:
+ - [Chenai/Chen](https://pleiades.stoa.org/places/543669)
+
+
 ## Chenoboskion (Egypt) 5 Kasr el-Saijad - Χηνοβόσκιον
 [https://topostext.org/place/260323UChe](https://topostext.org/place/260323UChe)  
 
@@ -6452,6 +6606,13 @@
 
 ### alignments:
  - [Chesios (river)](https://pleiades.stoa.org/places/599572)
+
+
+## Chimaira (Epiros) 4 Himarë - Χίμαιρα
+[https://topostext.org/place/401197UChi](https://topostext.org/place/401197UChi)  
+
+### alignments:
+ - [Chimaira](https://pleiades.stoa.org/places/481789)
 
 
 ## Chios (Chios)
@@ -7238,6 +7399,13 @@
  - [Dasea(i)](https://pleiades.stoa.org/places/570188)
 
 
+## Daskyleion (Mysia) 17 Ergili - Δασκύλειον
+[https://topostext.org/place/401281PDas](https://topostext.org/place/401281PDas)  
+
+### alignments:
+ - [Daskyleion](https://pleiades.stoa.org/places/511225)
+
+
 ## Dataleis (Crete) Afrati: Prophitis Ilias
 [https://topostext.org/place/351253UDat](https://topostext.org/place/351253UDat)  
 
@@ -7394,6 +7562,13 @@
  - [Demetrias (Magnesian)](https://pleiades.stoa.org/places/540730)
 
 
+## Demetrion (Phthiotis) 6 Kantiraga - Δημήτριον
+[https://topostext.org/place/391228UDem](https://topostext.org/place/391228UDem)  
+
+### alignments:
+ - [Demetrion?](https://pleiades.stoa.org/places/540731)
+
+
 ## Demetrion (Samothraki)
 [https://topostext.org/place/405255UDem](https://topostext.org/place/405255UDem)  
 
@@ -7427,6 +7602,13 @@
 
 ### alignments:
  - [Deris](https://pleiades.stoa.org/places/501397)
+
+
+## Derris cape (Chalkidike) 11 Cape Ambelos - Δέρρις
+[https://topostext.org/place/399239LDer](https://topostext.org/place/399239LDer)  
+
+### alignments:
+ - [Derris Pr.](https://pleiades.stoa.org/places/501398)
 
 
 ## Dertona (Liguria)
@@ -7668,6 +7850,13 @@
  - [Dion](https://pleiades.stoa.org/places/491572)
 
 
+## Dion site (Euboea) 11 Likhas - Διώνη
+[https://topostext.org/place/388229PDio](https://topostext.org/place/388229PDio)  
+
+### alignments:
+ - [Dion?](https://pleiades.stoa.org/places/540734)
+
+
 ## Dionysiades islands (Crete)
 [https://topostext.org/place/353263IDio](https://topostext.org/place/353263IDio)  
 
@@ -7828,6 +8017,13 @@
 
 ### alignments:
  - [Dolia Roman Villa](https://pleiades.stoa.org/places/898047097)
+
+
+## Doliane (Thesprotia) 10 Doliani - Φανότη
+[https://topostext.org/place/396204XDol](https://topostext.org/place/396204XDol)  
+
+### alignments:
+ - [Doliane](https://pleiades.stoa.org/places/530844)
 
 
 ## Dolicha (Kefallenia) 71 unknown - Δουλίχιον
@@ -8124,6 +8320,13 @@
  - [Dyme](https://pleiades.stoa.org/places/570205)
 
 
+## Dyras R. (Phthiotis) 10 Gorgopotamos - Δύρας
+[https://topostext.org/place/388223WDyr](https://topostext.org/place/388223WDyr)  
+
+### alignments:
+ - [Dyras (river)](https://pleiades.stoa.org/places/540745)
+
+
 ## Dystos (Euboea)
 [https://topostext.org/place/384241PDys](https://topostext.org/place/384241PDys)  
 
@@ -8298,6 +8501,13 @@
 
 ### alignments:
  - [Eitea (Antiochis)](https://pleiades.stoa.org/places/579916)
+
+
+## Ekarra (Phthiotis) 2 Ekarra
+[https://topostext.org/place/391222UEka](https://topostext.org/place/391222UEka)  
+
+### alignments:
+ - [*Ekarra](https://pleiades.stoa.org/places/540752)
 
 
 ## Ekatontapyliani EC basilica (Paros)
@@ -8552,6 +8762,13 @@
  - [Elimeia](https://pleiades.stoa.org/places/491587)
 
 
+## Elimia (Kozani) 4 Drepano - Ελιμία
+[https://topostext.org/place/403219UEli](https://topostext.org/place/403219UEli)  
+
+### alignments:
+ - [Elimia](https://pleiades.stoa.org/places/491588)
+
+
 ## Elis (Eleia)
 [https://topostext.org/place/378214PEli](https://topostext.org/place/378214PEli)  
 
@@ -8606,6 +8823,13 @@
 
 ### alignments:
  - [Elymia](https://pleiades.stoa.org/places/570223)
+
+
+## Elymnion (Euboea) 4 Limni - Ελύμνιον
+[https://topostext.org/place/388233UEly](https://topostext.org/place/388233UEly)  
+
+### alignments:
+ - [Elymnion?](https://pleiades.stoa.org/places/540761)
 
 
 ## Elyros (Chania)
@@ -8865,6 +9089,13 @@
 
 ### alignments:
  - [Erasinos (river)](https://pleiades.stoa.org/places/579923)
+
+
+## Eratyra (Kozani) 1 Eratyra - Εράτυρα
+[https://topostext.org/place/403215UEra](https://topostext.org/place/403215UEra)  
+
+### alignments:
+ - [Eratyra](https://pleiades.stoa.org/places/481833)
 
 
 ## Ercavica (Iberia)
@@ -9279,6 +9510,13 @@
 
 ### alignments:
  - [Eurysakeion](https://pleiades.stoa.org/places/79269910)
+
+
+## Eurytania region (Evrytania) 13 Evrytania - Ευρυτάνες
+[https://topostext.org/place/393213REur](https://topostext.org/place/393213REur)  
+
+### alignments:
+ - [Eurytania](https://pleiades.stoa.org/places/540785)
 
 
 ## Eutaia (Arkadia)
@@ -9997,6 +10235,13 @@
  - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
 
 
+## Gigonis cape (Chalkidike) 1 Cape Gigonis - Γίγωνος
+[https://topostext.org/place/403233LGig](https://topostext.org/place/403233LGig)  
+
+### alignments:
+ - [Gigonis Pr.](https://pleiades.stoa.org/places/491601)
+
+
 ## Gigonos (Halkidiki)
 [https://topostext.org/place/403230PGig](https://topostext.org/place/403230PGig)  
 
@@ -10044,6 +10289,13 @@
 
 ### alignments:
  - [Glanum](https://pleiades.stoa.org/places/148093)
+
+
+## Glaphyrai (Magnesia) 6 Glaphyra/Kapourna - Γλαφύραι
+[https://topostext.org/place/395229UGla](https://topostext.org/place/395229UGla)  
+
+### alignments:
+ - [Glaphyrai](https://pleiades.stoa.org/places/540790)
 
 
 ## Glauke (Ionia)
@@ -10291,6 +10543,13 @@
  - [Gyroulas](https://pleiades.stoa.org/places/599631)
 
 
+## Gyrtone (Thessaly) 59 Vriotopos - Γυρτώνη
+[https://topostext.org/place/398226UGyr](https://topostext.org/place/398226UGyr)  
+
+### alignments:
+ - [Gyrton(e)](https://pleiades.stoa.org/places/540798)
+
+
 ## Gytheion (Lakonia)
 [https://topostext.org/place/368226PGyt](https://topostext.org/place/368226PGyt)  
 
@@ -10303,6 +10562,13 @@
 
 ### alignments:
  - [Villa Hadriani](https://pleiades.stoa.org/places/423127)
+
+
+## Hadrianoi (Troad) 5 Orhaneli - Αδριανοί
+[https://topostext.org/place/399290UHad](https://topostext.org/place/399290UHad)  
+
+### alignments:
+ - [Hadrianoi](https://pleiades.stoa.org/places/609396)
 
 
 ## Hadrianopolis (Drama)
@@ -10408,6 +10674,13 @@
 
 ### alignments:
  - [Halex? (river)](https://pleiades.stoa.org/places/452331)
+
+
+## Haliakmon R. (Emathia) 54 Haliakmon - Αλιάκμων
+[https://topostext.org/place/403218WHal](https://topostext.org/place/403218WHal)  
+
+### alignments:
+ - [Haliakmon (river)](https://pleiades.stoa.org/places/491614)
 
 
 ## Haliartos (Boeotia)
@@ -10543,6 +10816,13 @@
  - [Harma](https://pleiades.stoa.org/places/540805)
 
 
+## Harpagion (Mysia) 7 Bozlar? - Αρπάγια
+[https://topostext.org/place/403274UHar](https://topostext.org/place/403274UHar)  
+
+### alignments:
+ - [Harpagion](https://pleiades.stoa.org/places/511264)
+
+
 ## Harpasa (Caria)
 [https://topostext.org/place/378284UHar](https://topostext.org/place/378284UHar)  
 
@@ -10606,6 +10886,13 @@
  - [Hekatompedon](https://pleiades.stoa.org/places/481859)
 
 
+## Hekatonnesoi (Aiolis) 5 Maden adasi? - Εκατόννησοι
+[https://topostext.org/place/394267IHek](https://topostext.org/place/394267IHek)  
+
+### alignments:
+ - [Hekatonnesoi (islands)](https://pleiades.stoa.org/places/550567)
+
+
 ## Helena (Islands)
 [https://topostext.org/place/377241IHel](https://topostext.org/place/377241IHel)  
 
@@ -10639,6 +10926,13 @@
 
 ### alignments:
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
+
+
+## Helikranon (Ioannina) 4 Chrysorachi - Ελίκρανον
+[https://topostext.org/place/398206UHel](https://topostext.org/place/398206UHel)  
+
+### alignments:
+ - [Helikranon?](https://pleiades.stoa.org/places/530887)
 
 
 ## Heliopolis (Egypt)
@@ -10856,6 +11150,13 @@
 
 ### alignments:
  - [Herakleia/Elateia?](https://pleiades.stoa.org/places/550571)
+
+
+## Herakleia? (Arta) 1 Kambi - Ηράκλεια
+[https://topostext.org/place/392209PHer](https://topostext.org/place/392209PHer)  
+
+### alignments:
+ - [Herakleia?](https://pleiades.stoa.org/places/530889)
 
 
 ## Herakleion (Egypt)
@@ -11638,6 +11939,13 @@
  - [Iapis (river)](https://pleiades.stoa.org/places/579957)
 
 
+## Iapygia region (Italy) 105 Matera - Ιαπυγία
+[https://topostext.org/place/400182RIap](https://topostext.org/place/400182RIap)  
+
+### alignments:
+ - [Iapyges](https://pleiades.stoa.org/places/442618)
+
+
 ## Iasos (Caria)
 [https://topostext.org/place/373276UIas](https://topostext.org/place/373276UIas)  
 
@@ -11713,6 +12021,13 @@
 
 ### alignments:
  - [Idebessos](https://pleiades.stoa.org/places/638865)
+
+
+## Idomene Maior (Aitolia) 4 Palaiokoula - Ειδομενή
+[https://topostext.org/place/390211FIdo](https://topostext.org/place/390211FIdo)  
+
+### alignments:
+ - [Idomene Maior](https://pleiades.stoa.org/places/530895)
 
 
 ## Idumaea (Palestine)
@@ -12094,6 +12409,13 @@
  - [Torreparedones](https://pleiades.stoa.org/places/265938)
 
 
+## Iresiai? (Magnesia) 5 unlocated - Ειρεσίαι
+[https://topostext.org/place/390220UIre](https://topostext.org/place/390220UIre)  
+
+### alignments:
+ - [Iresiae](https://pleiades.stoa.org/places/543735)
+
+
 ## Iria Flavia (Iberia)
 [https://topostext.org/place/427000UIri](https://topostext.org/place/427000UIri)  
 
@@ -12143,6 +12465,13 @@
  - [Issa (island)](https://pleiades.stoa.org/places/197329)
 
 
+## Issa/Xirokastrini (Lesbos) 11 Xirokastrini - Ίσσα
+[https://topostext.org/place/392261UIss](https://topostext.org/place/392261UIss)  
+
+### alignments:
+ - [Xirokastrini](https://pleiades.stoa.org/places/550599)
+
+
 ## Issos (Asia Minor)
 [https://topostext.org/place/368362UIss](https://topostext.org/place/368362UIss)  
 
@@ -12155,6 +12484,13 @@
 
 ### alignments:
  - [Isthmos](https://pleiades.stoa.org/places/570317)
+
+
+## Istone? Mt. (Kerkyra) 4 Pantokrator (N Kerkyra) - Ιστώνη
+[https://topostext.org/place/398198LIst](https://topostext.org/place/398198LIst)  
+
+### alignments:
+ - [Istone (mountain)](https://pleiades.stoa.org/places/530903)
 
 
 ## Istria (Romania)
@@ -12549,6 +12885,13 @@
  - [Kallithea (Phokis)](https://pleiades.stoa.org/places/540850)
 
 
+## Kallithera (Thessaly) 3 Kallithero - Καλλιθήρα
+[https://topostext.org/place/393220UKal](https://topostext.org/place/393220UKal)  
+
+### alignments:
+ - [Kallithera](https://pleiades.stoa.org/places/540851)
+
+
 ## Kalloni excavation (Troizenia)
 [https://topostext.org/place/375233XKal](https://topostext.org/place/375233XKal)  
 
@@ -12631,6 +12974,13 @@
 
 ### alignments:
  - [Kanastraion Pr.](https://pleiades.stoa.org/places/501453)
+
+
+## Kane Mt. (Aiolis) 9 Kara Dağ - Κανή
+[https://topostext.org/place/390269LKan](https://topostext.org/place/390269LKan)  
+
+### alignments:
+ - [Kane (mountain)](https://pleiades.stoa.org/places/550616)
 
 
 ## Kantanos (Chania)
@@ -12857,6 +13207,13 @@
  - [Kassope](https://pleiades.stoa.org/places/530922)
 
 
+## Kassopia region (Preveza) 11  - Κασσωπία
+[https://topostext.org/place/393208UKas](https://topostext.org/place/393208UKas)  
+
+### alignments:
+ - [Kassopia](https://pleiades.stoa.org/places/530923)
+
+
 ## Kasta tomb (Amphipolis)
 [https://topostext.org/place/408239GAmp](https://topostext.org/place/408239GAmp)  
 
@@ -12946,6 +13303,13 @@
 
 ### alignments:
  - [Kastriotissa](https://pleiades.stoa.org/places/530929)
+
+
+## Kastritsa/Eurymenai or Tekmon? (Ioannina) 8 Kastritsa - Ευρυμέναι
+[https://topostext.org/place/396209PEur](https://topostext.org/place/396209PEur)  
+
+### alignments:
+ - [Eurymenai?](https://pleiades.stoa.org/places/530875)
 
 
 ## Kastro (Antikythera)
@@ -13130,6 +13494,13 @@
  - [Kelossa (mountain)](https://pleiades.stoa.org/places/570345)
 
 
+## Kenaion (Euboea) 35 Ag. Konstantinos - Κέναιον
+[https://topostext.org/place/388229SKen](https://topostext.org/place/388229SKen)  
+
+### alignments:
+ - [Kenaion](https://pleiades.stoa.org/places/540858)
+
+
 ## Kenchreai (Argolid)
 [https://topostext.org/place/378229UKen](https://topostext.org/place/378229UKen)  
 
@@ -13247,6 +13618,13 @@
 
 ### alignments:
  - [Kerata (mountain)](https://pleiades.stoa.org/places/579977)
+
+
+## Keraunian Mt. (Epiros) 91 Karaburun peninsula - Ακροκεραύνια
+[https://topostext.org/place/404194LKer](https://topostext.org/place/404194LKer)  
+
+### alignments:
+ - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
 
 
 ## Keria (Koufonisia)
@@ -13368,6 +13746,13 @@
 
 ### alignments:
  - [Kildara](https://pleiades.stoa.org/places/599714)
+
+
+## Killa (Aiolis) 16 Akcay? - Κίλλα
+[https://topostext.org/place/397269UKil](https://topostext.org/place/397269UKil)  
+
+### alignments:
+ - [Killa](https://pleiades.stoa.org/places/554254)
 
 
 ## Killaion Mt. (Lesbos)
@@ -13574,6 +13959,13 @@
  - [Knemis](https://pleiades.stoa.org/places/540870)
 
 
+## Knemis Mt. (Phthiotis) 28 Xerovouni - Κνημίς
+[https://topostext.org/place/388228LKne](https://topostext.org/place/388228LKne)  
+
+### alignments:
+ - [Knemis (mountain)](https://pleiades.stoa.org/places/540871)
+
+
 ## Knossos (Irakleio)
 [https://topostext.org/place/353252PKno](https://topostext.org/place/353252PKno)  
 
@@ -13735,6 +14127,13 @@
  - [Comama/Col. Iulia Augusta Prima Fida](https://pleiades.stoa.org/places/638812)
 
 
+## Komaros Limen (Preveza) 11 Mitikas? - Κόμαρος
+[https://topostext.org/place/390207HKom](https://topostext.org/place/390207HKom)  
+
+### alignments:
+ - [Komaros Limen](https://pleiades.stoa.org/places/306176341)
+
+
 ## Komiaki tholos (Naxos) Koronida - Κωμιακή
 [https://topostext.org/place/371255GKom](https://topostext.org/place/371255GKom)  
 
@@ -13754,6 +14153,13 @@
 
 ### alignments:
  - [Kondaia](https://pleiades.stoa.org/places/540875)
+
+
+## Kondylos (Thessaly) 4 Zesti Vrysi - Κόνδυλος
+[https://topostext.org/place/399225UKon](https://topostext.org/place/399225UKon)  
+
+### alignments:
+ - [Kondylos](https://pleiades.stoa.org/places/540876)
 
 
 ## Konope (Aitolia)
@@ -13784,11 +14190,12 @@
  - [Kopai](https://pleiades.stoa.org/places/540878)
 
 
-## Kophos (Chalkidike)
+## Kophos (Chalkidike) 4 Kouphos - Κωφός λιμήν
 [https://topostext.org/place/400238UKop](https://topostext.org/place/400238UKop)  
 
 ### alignments:
  - [Kophos Limen (Chalkidike)](https://pleiades.stoa.org/places/507418)
+ - [Kophos](https://pleiades.stoa.org/places/501476)
 
 
 ## Kophos Limen (Piraeus)
@@ -14163,6 +14570,13 @@
  - [Krenai?](https://pleiades.stoa.org/places/530965)
 
 
+## Kresion (Skyros) 11 Kalamitsa - Κρήσιον
+[https://topostext.org/place/388246UKre](https://topostext.org/place/388246UKre)  
+
+### alignments:
+ - [Kresion](https://pleiades.stoa.org/places/540887)
+
+
 ## Kressa (Thrace)
 [https://topostext.org/place/404266UKre](https://topostext.org/place/404266UKre)  
 
@@ -14317,6 +14731,13 @@
  - [Krounoi](https://pleiades.stoa.org/places/540893)
 
 
+## Krousis region (Chalkidike) 8 W Khalkidiki - Κρουσίς
+[https://topostext.org/place/403231RKro](https://topostext.org/place/403231RKro)  
+
+### alignments:
+ - [Krousis](https://pleiades.stoa.org/places/491645)
+
+
 ## Krya (Caria) 7 Taşyaka
 [https://topostext.org/place/367289UKry](https://topostext.org/place/367289UKry)  
 
@@ -14350,6 +14771,13 @@
 
 ### alignments:
  - [Kyaneai (islands)](https://pleiades.stoa.org/places/521064)
+
+
+## Kyathos R. (Aitolia) 7 Dimikos (Neskhio) - Κύαθος
+[https://topostext.org/place/388213WKya](https://topostext.org/place/388213WKya)  
+
+### alignments:
+ - [Kyathos? (river)](https://pleiades.stoa.org/places/530968)
 
 
 ## Kybelaia (Ionia) 2 Badembükü? - Κυβέλεια
@@ -14469,6 +14897,13 @@
 
 ### alignments:
  - [Kynosoura](https://pleiades.stoa.org/places/580001)
+
+
+## Kynossema cape (Thrace) 17 Kilitbahir - Κυνόσσημα
+[https://topostext.org/place/401264LKyn](https://topostext.org/place/401264LKyn)  
+
+### alignments:
+ - [Kynossema (promontory)](https://pleiades.stoa.org/places/501487)
 
 
 ## Kynouria region (Arkadia)
@@ -14627,11 +15062,12 @@
  - [Labyrinthos](https://pleiades.stoa.org/places/736952)
 
 
-## Lacinium (Magna Graecia)
+## Lacinium (Magna Graecia) 55 Capo Colonna - Λακίνιον
 [https://topostext.org/place/390172SLac](https://topostext.org/place/390172SLac)  
 
 ### alignments:
  - [Lacinium (promontory)](https://pleiades.stoa.org/places/452356)
+ - [Temple of Hera Lacinia](https://pleiades.stoa.org/places/452332)
 
 
 ## Lacippo/Lacipo (Iberia)
@@ -15401,6 +15837,13 @@
  - [Leuke Ins./Achilleos Nesos](https://pleiades.stoa.org/places/226677)
 
 
+## Leukimma cape (Kerkyra) 8 Akra Lefkimis - Λευκίμμη
+[https://topostext.org/place/395201LLeu](https://topostext.org/place/395201LLeu)  
+
+### alignments:
+ - [Leukimma Pr.](https://pleiades.stoa.org/places/530977)
+
+
 ## Leukolla? (Cyprus)
 [https://topostext.org/place/351340ULeu](https://topostext.org/place/351340ULeu)  
 
@@ -16053,6 +16496,13 @@
  - [Choragic Monument of Lysicrates](https://pleiades.stoa.org/places/813654446)
 
 
+## Lysimachea (Aiolis) 1 Hatıplar - Λυσιμάχεια
+[https://topostext.org/place/390268ULys](https://topostext.org/place/390268ULys)  
+
+### alignments:
+ - [Lysimachea?](https://pleiades.stoa.org/places/550704)
+
+
 ## Lysimacheia (Aitolia) 7 Lysimacheia - Λυσιμάχεια
 [https://topostext.org/place/385213ULys](https://topostext.org/place/385213ULys)  
 
@@ -16149,6 +16599,13 @@
 
 ### alignments:
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
+
+
+## Magnesia region (Magnesia) 235 Magnesia - Μαγνησία
+[https://topostext.org/place/397227RMag](https://topostext.org/place/397227RMag)  
+
+### alignments:
+ - [Magnesia (region)](https://pleiades.stoa.org/places/540923)
 
 
 ## Maiandria (Illyria)
@@ -16290,6 +16747,20 @@
 
 ### alignments:
  - [Malene](https://pleiades.stoa.org/places/550714)
+
+
+## Malia cape (Lesbos) 6 Agrelias - Μάλια
+[https://topostext.org/place/393268LMal](https://topostext.org/place/393268LMal)  
+
+### alignments:
+ - [Malia (promontory)](https://pleiades.stoa.org/places/550715)
+
+
+## Maliac Gulf (Phthiotis) 74 Maliac gulf - Μηλιακός κόλπος
+[https://topostext.org/place/389226WMal](https://topostext.org/place/389226WMal)  
+
+### alignments:
+ - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
 
 
 ## Malla (Lasithi)
@@ -16558,6 +17029,13 @@
  - [Mastaura](https://pleiades.stoa.org/places/599790)
 
 
+## Mastousia cape (Thrace) 12 Seddulbahir - Μαστουσία
+[https://topostext.org/place/401262LMas](https://topostext.org/place/401262LMas)  
+
+### alignments:
+ - [Mast(o)usia Pr.](https://pleiades.stoa.org/places/501509)
+
+
 ## Matala (Crete) 6 Matala - Μάταλα
 [https://topostext.org/place/350248UMat](https://topostext.org/place/350248UMat)  
 
@@ -16789,6 +17267,13 @@
  - [Melabron?](https://pleiades.stoa.org/places/707579)
 
 
+## Melaina (Chios) 1 Melanios - Μελαίνα
+[https://topostext.org/place/388258LMel](https://topostext.org/place/388258LMel)  
+
+### alignments:
+ - [Melaina Pr.](https://pleiades.stoa.org/places/550727)
+
+
 ## Melaina (Ionia) 1 Mt. Mimas - Μελαίνα
 [https://topostext.org/place/387264LMel](https://topostext.org/place/387264LMel)  
 
@@ -16850,6 +17335,13 @@
 
 ### alignments:
  - [Melie/Karion](https://pleiades.stoa.org/places/599795)
+
+
+## Meliboia (Thessaly) 42 Agiokambos - Μελίβοια
+[https://topostext.org/place/397228UMel](https://topostext.org/place/397228UMel)  
+
+### alignments:
+ - [Meliboia](https://pleiades.stoa.org/places/543783)
 
 
 ## Melita (Malta)
@@ -17081,6 +17573,13 @@
 
 ### alignments:
  - [Meta Sudans](https://pleiades.stoa.org/places/419380619)
+
+
+## Metaon? (Lesbos) 1 Evangelistria - Μέταον
+[https://topostext.org/place/390265UMet](https://topostext.org/place/390265UMet)  
+
+### alignments:
+ - [Metaon?](https://pleiades.stoa.org/places/550735)
 
 
 ## Metapa (Aitolia)
@@ -17411,6 +17910,13 @@
 
 ### alignments:
  - [Iustinianoupolis/Mokissos](https://pleiades.stoa.org/places/619174)
+
+
+## Molossia region (Thesprotia) 144  - Μολοσσία
+[https://topostext.org/place/398206RMol](https://topostext.org/place/398206RMol)  
+
+### alignments:
+ - [Molossis](https://pleiades.stoa.org/places/531003)
 
 
 ## Molykreion? (Aitolia)
@@ -17798,6 +18304,13 @@
  - [Myrtos (island)](https://pleiades.stoa.org/places/570496)
 
 
+## Myrtountion (Akarnania) 8 Limni Voulkaria - Μυρτούντιον
+[https://topostext.org/place/388208WMyr](https://topostext.org/place/388208WMyr)  
+
+### alignments:
+ - [Myrtountion (lake)](https://pleiades.stoa.org/places/531007)
+
+
 ## Mysia (Argolid)
 [https://topostext.org/place/377227UMys](https://topostext.org/place/377227UMys)  
 
@@ -17859,6 +18372,13 @@
 
 ### alignments:
  - [Napata](https://pleiades.stoa.org/places/805634)
+
+
+## Nape? (Lesbos) 9 Klopedi - Νάπη
+[https://topostext.org/place/393263UNap](https://topostext.org/place/393263UNap)  
+
+### alignments:
+ - [Nape?](https://pleiades.stoa.org/places/550769)
 
 
 ## Narbo (Gaul)
@@ -18549,6 +19069,13 @@
  - [Nymphaeum](https://pleiades.stoa.org/places/481928)
 
 
+## Nymphaion cape (Chalkidike) 3 Cape Nymphaion - Νυμφαίον
+[https://topostext.org/place/401243LNym](https://topostext.org/place/401243LNym)  
+
+### alignments:
+ - [Nymphaion Pr.](https://pleiades.stoa.org/places/501530)
+
+
 ## Nymphaion harbor (Sardinia)
 [https://topostext.org/place/406082HNym](https://topostext.org/place/406082HNym)  
 
@@ -18948,6 +19475,13 @@
  - [Olenos](https://pleiades.stoa.org/places/570528)
 
 
+## Olenos (Aitolia) 10 Ag. Symeon - Ώλενος
+[https://topostext.org/place/388213UOle](https://topostext.org/place/388213UOle)  
+
+### alignments:
+ - [Olenon](https://pleiades.stoa.org/places/543815)
+
+
 ## Oleros (Lasithi)
 [https://topostext.org/place/351257UOle](https://topostext.org/place/351257UOle)  
 
@@ -19017,6 +19551,13 @@
 
 ### alignments:
  - [Olous](https://pleiades.stoa.org/places/589959)
+
+
+## Olpai (Akarnania) 25 Agrilovouni - Ολπαι
+[https://topostext.org/place/389211UOlp](https://topostext.org/place/389211UOlp)  
+
+### alignments:
+ - [Olpai](https://pleiades.stoa.org/places/531017)
 
 
 ## Olygyrtos Mt. (Korinthia)
@@ -19117,6 +19658,13 @@
  - [O(no)ba](https://pleiades.stoa.org/places/256340)
 
 
+## Onochonos R. (Thessaly) 5  - Ονόχωνος
+[https://topostext.org/place/393218WOno](https://topostext.org/place/393218WOno)  
+
+### alignments:
+ - [Onochonos (river)](https://pleiades.stoa.org/places/540985)
+
+
 ## Onougnathos cape (Lakonia) 24 Ag. Maria/Elaphonisas - Ονου γνάθος
 [https://topostext.org/place/365229LOno](https://topostext.org/place/365229LOno)  
 
@@ -19199,6 +19747,13 @@
 
 ### alignments:
  - [Ordymnos (mountain)](https://pleiades.stoa.org/places/550788)
+
+
+## Oreos (Euboea) 91 Orei - Ωρεός
+[https://topostext.org/place/389231UOre](https://topostext.org/place/389231UOre)  
+
+### alignments:
+ - [Oreos](https://pleiades.stoa.org/places/540988)
 
 
 ## Oresthasion (Arkadia)
@@ -19355,6 +19910,13 @@
  - [Ostrakine](https://pleiades.stoa.org/places/687993)
 
 
+## Othrys Mt. (Phthiotis) 74 Othrys - Όθρυς
+[https://topostext.org/place/390227LOth](https://topostext.org/place/390227LOth)  
+
+### alignments:
+ - [Othrys (mountain)](https://pleiades.stoa.org/places/540994)
+
+
 ## Ouasada (Lykaonia)
 [https://topostext.org/place/375319UVas](https://topostext.org/place/375319UVas)  
 
@@ -19395,6 +19957,13 @@
 
 ### alignments:
  - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
+
+
+## Oxyneia? (Thessaly) 4 Xirokambos - Οξύνεια
+[https://topostext.org/place/399228POxy](https://topostext.org/place/399228POxy)  
+
+### alignments:
+ - [Oxyneia](https://pleiades.stoa.org/places/543821)
 
 
 ## Oxyrhynchus (Egypt)
@@ -19619,6 +20188,13 @@
 
 ### alignments:
  - [Palairos](https://pleiades.stoa.org/places/531034)
+
+
+## Palaiskepsis (Troad) 11 Tongurlu - Παλαίσκηψις
+[https://topostext.org/place/398268UPal](https://topostext.org/place/398268UPal)  
+
+### alignments:
+ - [Palaiskepsis?](https://pleiades.stoa.org/places/550800)
 
 
 ## Palamari exc. (Skyros)
@@ -20077,6 +20653,13 @@
  - [Parapotamos](https://pleiades.stoa.org/places/531045)
 
 
+## Paravaia region (Ioannina) 13  - Παραυαία
+[https://topostext.org/place/400209RPar](https://topostext.org/place/400209RPar)  
+
+### alignments:
+ - [Parauaea](https://pleiades.stoa.org/places/481945)
+
+
 ## Pargasa/Bargasa (Caria)
 [https://topostext.org/place/370278UPar](https://topostext.org/place/370278UPar)  
 
@@ -20117,6 +20700,13 @@
 
 ### alignments:
  - [Parnon (mountain)](https://pleiades.stoa.org/places/570561)
+
+
+## Paroraia region (Ioannina) 3 flanks of Mt. Peristeri - Παρωραίοί
+[https://topostext.org/place/397211RPar](https://topostext.org/place/397211RPar)  
+
+### alignments:
+ - [Paroraia](https://pleiades.stoa.org/places/531046)
 
 
 ## Paroria (Arkadia) 12 Palaiomoiri? - Παρώρεια
@@ -20499,6 +21089,20 @@
  - [Peneios (river)](https://pleiades.stoa.org/places/570579)
 
 
+## Peneios R. (Thessaly) 185 Peneios - Πηνειός
+[https://topostext.org/place/399227WPen](https://topostext.org/place/399227WPen)  
+
+### alignments:
+ - [Peneios (river)](https://pleiades.stoa.org/places/541022)
+
+
+## Penkalas R. (Phrygia) 2
+[https://topostext.org/place/392296WPen](https://topostext.org/place/392296WPen)  
+
+### alignments:
+ - [Penkalas (river)](https://pleiades.stoa.org/places/609496)
+
+
 ## Pennana (Thessaloniki)
 [https://topostext.org/place/407237UPen](https://topostext.org/place/407237UPen)  
 
@@ -20560,6 +21164,13 @@
 
 ### alignments:
  - [Pereia](https://pleiades.stoa.org/places/541025)
+
+
+## Pergamon (Aiolis) 286 Bergama - Πέργαμον
+[https://topostext.org/place/391272PPer](https://topostext.org/place/391272PPer)  
+
+### alignments:
+ - [Pergamum](https://pleiades.stoa.org/places/550812)
 
 
 ## Pergamos (Chania)
@@ -20793,6 +21404,13 @@
  - [Phalasarna](https://pleiades.stoa.org/places/589989)
 
 
+## Phalassia? cape (Euboea) 1 Vasilina - Φαλασσία
+[https://topostext.org/place/388228LPha](https://topostext.org/place/388228LPha)  
+
+### alignments:
+ - [Phalassia (promontory)](https://pleiades.stoa.org/places/541035)
+
+
 ## Phaleron (Attica)
 [https://topostext.org/place/379237DPha](https://topostext.org/place/379237DPha)  
 
@@ -20805,6 +21423,13 @@
 
 ### alignments:
  - [Phaleron cemetery (Attica)](https://pleiades.stoa.org/places/992770797)
+
+
+## Phaloreia? (Thessaly) 19 Merarchi - Φαλώρη
+[https://topostext.org/place/398215UPha](https://topostext.org/place/398215UPha)  
+
+### alignments:
+ - [Phaloreia?](https://pleiades.stoa.org/places/541038)
 
 
 ## Phanagoreia (Pontus)
@@ -21316,6 +21941,7 @@
 
 ### alignments:
  - [Phrygia](https://pleiades.stoa.org/places/511362)
+ - [Phrygia](https://pleiades.stoa.org/places/609502)
 
 
 ## Phrygios R. (Lydia) 4  - Φρύγιος
@@ -21374,6 +22000,13 @@
  - [Phytaion](https://pleiades.stoa.org/places/541059)
 
 
+## Pialeia? (Thessaly) 1 Pialeia - Πιάλεια
+[https://topostext.org/place/396216UPia](https://topostext.org/place/396216UPia)  
+
+### alignments:
+ - [Pialeia](https://pleiades.stoa.org/places/541060)
+
+
 ## Piazza Armerina villa mosaics (Sicily) Casale - Πιάτσα Αρμερίνα
 [https://topostext.org/place/374143BPAr](https://topostext.org/place/374143BPAr)  
 
@@ -21393,6 +22026,13 @@
 
 ### alignments:
  - [Pidasa](https://pleiades.stoa.org/places/599890)
+
+
+## Pieria region (Pieria) 172 Pieria - Πιερία
+[https://topostext.org/place/402225RPie](https://topostext.org/place/402225RPie)  
+
+### alignments:
+ - [Pieria](https://pleiades.stoa.org/places/491696)
 
 
 ## Pillars of Hercules (Atlantic)
@@ -21421,6 +22061,20 @@
 
 ### alignments:
  - [Pinara](https://pleiades.stoa.org/places/639058)
+
+
+## Pincio Obelisk (Rome) Roma
+[https://topostext.org/place/419125AOAn](https://topostext.org/place/419125AOAn)  
+
+### alignments:
+ - [Pincian obelisk](https://pleiades.stoa.org/places/255653344)
+
+
+## Pindus Mt. (Ioannina) 67 Pindos - Πίνδος
+[https://topostext.org/place/400208LPin](https://topostext.org/place/400208LPin)  
+
+### alignments:
+ - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
 
 
 ## Pinna (Italy)
@@ -21519,6 +22173,13 @@
 
 ### alignments:
  - [Pithekoussai (settlement)](https://pleiades.stoa.org/places/433026)
+
+
+## Pityaia (Lydia) 4 Süleymanlı - Πιτυαία
+[https://topostext.org/place/390278UPit](https://topostext.org/place/390278UPit)  
+
+### alignments:
+ - [*Pityaia](https://pleiades.stoa.org/places/550834)
 
 
 ## Pityonesos (Attica)
@@ -22623,6 +23284,13 @@
  - [Posideion](https://pleiades.stoa.org/places/668340)
 
 
+## Poseidion cape (Epiros) 1 Ksamil - Ποσείδιον
+[https://topostext.org/place/397200LPos](https://topostext.org/place/397200LPos)  
+
+### alignments:
+ - [Poseidion (promontory)](https://pleiades.stoa.org/places/531070)
+
+
 ## Poseidion site (Euboea)
 [https://topostext.org/place/390234UPos](https://topostext.org/place/390234UPos)  
 
@@ -22754,6 +23422,13 @@
 
 ### alignments:
  - [Praisos](https://pleiades.stoa.org/places/590011)
+
+
+## Praktios? R. (Mysia) 9  - Πράκτιος
+[https://topostext.org/place/403266WPra](https://topostext.org/place/403266WPra)  
+
+### alignments:
+ - [Praktios (river)](https://pleiades.stoa.org/places/501577)
 
 
 ## Pras (Aitolia)
@@ -22904,6 +23579,13 @@
  - [Propylaea at Athens](https://pleiades.stoa.org/places/648120846)
 
 
+## Proschion? (Aitolia) 13 unlocated - Πρόσχιον
+[https://topostext.org/place/388213PPro](https://topostext.org/place/388213PPro)  
+
+### alignments:
+ - [Proschion](https://pleiades.stoa.org/places/543853)
+
+
 ## Prospalta (Attica)
 [https://topostext.org/place/378239DPro](https://topostext.org/place/378239DPro)  
 
@@ -23042,6 +23724,13 @@
 
 ### alignments:
  - [Pteleon](https://pleiades.stoa.org/places/541077)
+
+
+## Pteleon Mt. (Preveza) 1 Zalongo - Πτελεών
+[https://topostext.org/place/393208LPte](https://topostext.org/place/393208LPte)  
+
+### alignments:
+ - [Pteleon (mountain)](https://pleiades.stoa.org/places/531077)
 
 
 ## Ptolemais (Libya)
@@ -23184,6 +23873,13 @@
  - [Pyrra](https://pleiades.stoa.org/places/550851)
 
 
+## Pyrraios Gulf (Lesbos) 7 Kallonis gulf - Πυρραίος εύριπος
+[https://topostext.org/place/393263WPyr](https://topostext.org/place/393263WPyr)  
+
+### alignments:
+ - [Pyrraios Sinus](https://pleiades.stoa.org/places/550853)
+
+
 ## Pyrrichos (Lakonia) 9 Pyrrichos - Πύρριχος
 [https://topostext.org/place/367224UPyr](https://topostext.org/place/367224UPyr)  
 
@@ -23252,6 +23948,13 @@
 
 ### alignments:
  - [*Ratiatum](https://pleiades.stoa.org/places/138533)
+
+
+## Raveni (Thesprotia)  Raveni - Ραβενή
+[https://topostext.org/place/397205UPha](https://topostext.org/place/397205UPha)  
+
+### alignments:
+ - [Phanota?](https://pleiades.stoa.org/places/531056)
 
 
 ## Ravenna (Italy)
@@ -23422,6 +24125,13 @@
 
 ### alignments:
  - [Rhodia(polis)](https://pleiades.stoa.org/places/639078)
+
+
+## Rhodountia (Phthiotis) 10 PaliaDrakospilia - Ροδουντία
+[https://topostext.org/place/388225FRho](https://topostext.org/place/388225FRho)  
+
+### alignments:
+ - [Rhodountia](https://pleiades.stoa.org/places/541086)
 
 
 ## Rhodussae (Propontis)
@@ -23907,6 +24617,13 @@
 
 ### alignments:
  - [Sanisera](https://pleiades.stoa.org/places/266026)
+
+
+## Saos Mt. (Samothrace) 5 Mt. Phengari - Σάος
+[https://topostext.org/place/403258LSao](https://topostext.org/place/403258LSao)  
+
+### alignments:
+ - [Saos (mountain)](https://pleiades.stoa.org/places/501600)
 
 
 ## Sarakinos cave (Boeotia) Akraifnio - Σπήλαιο Σαρακηνού
@@ -24815,6 +25532,13 @@
  - [Scamander (river)](https://pleiades.stoa.org/places/550871)
 
 
+## Skamandreia (Troad) 1 Adatepe - Σκαμανδρία
+[https://topostext.org/place/398264USka](https://topostext.org/place/398264USka)  
+
+### alignments:
+ - [Skamandreia](https://pleiades.stoa.org/places/550888)
+
+
 ## Skambonidai (Athens)
 [https://topostext.org/place/380237DSka](https://topostext.org/place/380237DSka)  
 
@@ -25145,6 +25869,13 @@
  - [Southwest Temple in the Agora of Athens](https://pleiades.stoa.org/places/162463494)
 
 
+## Spalauthra (Magnesia) 5 Khortos - Σπαλέθρη
+[https://topostext.org/place/392232USpa](https://topostext.org/place/392232USpa)  
+
+### alignments:
+ - [Spalauthra](https://pleiades.stoa.org/places/541110)
+
+
 ## Spaniakos site (Crete)
 [https://topostext.org/place/353237XSpa](https://topostext.org/place/353237XSpa)  
 
@@ -25178,6 +25909,13 @@
 
 ### alignments:
  - [Spercheiai](https://pleiades.stoa.org/places/541111)
+
+
+## Spercheios R. (Phthiotis) 109 Sperkheios - Σπερχειός
+[https://topostext.org/place/389225WSpe](https://topostext.org/place/389225WSpe)  
+
+### alignments:
+ - [Spercheios](https://pleiades.stoa.org/places/541112)
 
 
 ## Sphairia? (Poros)
@@ -25721,6 +26459,13 @@
  - [Syrtis Maior](https://pleiades.stoa.org/places/344491)
 
 
+## Sys river (Pieria) 1 Ziliana - Σύς
+[https://topostext.org/place/403228WSys](https://topostext.org/place/403228WSys)  
+
+### alignments:
+ - [Sys (river)](https://pleiades.stoa.org/places/491735)
+
+
 ## Sythas R. (Korinthia)
 [https://topostext.org/place/383228WSyt](https://topostext.org/place/383228WSyt)  
 
@@ -26015,6 +26760,13 @@
  - [Teichion?](https://pleiades.stoa.org/places/541127)
 
 
+## Teichious (Phthiotis) 14  - Τειχιούς
+[https://topostext.org/place/388225UTei](https://topostext.org/place/388225UTei)  
+
+### alignments:
+ - [Teichious](https://pleiades.stoa.org/places/541128)
+
+
 ## Teichioussa (Caria)
 [https://topostext.org/place/374275UTei](https://topostext.org/place/374275UTei)  
 
@@ -26069,6 +26821,13 @@
 
 ### alignments:
  - [Telesia](https://pleiades.stoa.org/places/433147)
+
+
+## Telethrion Mt. (Euboea) 9 Telethrio - Τελέθριον
+[https://topostext.org/place/389232LTel](https://topostext.org/place/389232LTel)  
+
+### alignments:
+ - [Telethrion (mountain)](https://pleiades.stoa.org/places/541130)
 
 
 ## Tellaro villa (Sicily)
@@ -26632,6 +27391,13 @@
  - [Thera](https://pleiades.stoa.org/places/599971)
 
 
+## Therambos (Chalkidike) 7 Paliouri - Θεράμβως
+[https://topostext.org/place/398238PThe](https://topostext.org/place/398238PThe)  
+
+### alignments:
+ - [Th(e)rambos](https://pleiades.stoa.org/places/501637)
+
+
 ## Therapne (Lakonia)
 [https://topostext.org/place/371225UThe](https://topostext.org/place/371225UThe)  
 
@@ -26644,6 +27410,13 @@
 
 ### alignments:
  - [Therasia?](https://pleiades.stoa.org/places/599975)
+
+
+## Therma (Lesbos)  Thermi - Θερμά
+[https://topostext.org/place/392265UThe](https://topostext.org/place/392265UThe)  
+
+### alignments:
+ - [Therma?](https://pleiades.stoa.org/places/550922)
 
 
 ## Therma/Asklepieis (Ikaria)
@@ -26723,11 +27496,25 @@
  - [Thespian Polyandrion (Boeotia)](https://pleiades.stoa.org/places/35638987)
 
 
+## Thesprotia region (Thesprotia) 125 Thesprotia - Θεσπρωτία
+[https://topostext.org/place/394204RThp](https://topostext.org/place/394204RThp)  
+
+### alignments:
+ - [Thesprotia](https://pleiades.stoa.org/places/531117)
+
+
 ## Thessalonica (Thessaloniki)
 [https://topostext.org/place/406229PThs](https://topostext.org/place/406229PThs)  
 
 ### alignments:
  - [Thessalonica](https://pleiades.stoa.org/places/491741)
+
+
+## Thessaly region (Hellas) 1628 Thessalia - Θεσσαλία
+[https://topostext.org/place/394223RThs](https://topostext.org/place/394223RThs)  
+
+### alignments:
+ - [Thessalia](https://pleiades.stoa.org/places/1332)
 
 
 ## Thesteia (Aitolia) 9 Ano Vlochos - Θεστιείς
@@ -26947,11 +27734,25 @@
  - [Thyamia](https://pleiades.stoa.org/places/573560)
 
 
+## Thyamis cape (Thesprotia) 3 Kalama - Θύαμις
+[https://topostext.org/place/398203LThy](https://topostext.org/place/398203LThy)  
+
+### alignments:
+ - [Thyamis Pr.](https://pleiades.stoa.org/places/531120)
+
+
 ## Thyamis R. (Thesprotia)
 [https://topostext.org/place/398203WThy](https://topostext.org/place/398203WThy)  
 
 ### alignments:
  - [Thyamis (river)](https://pleiades.stoa.org/places/531121)
+
+
+## Thyamon Mt. (Aitolia) 3 Petala
+[https://topostext.org/place/393213LThy](https://topostext.org/place/393213LThy)  
+
+### alignments:
+ - [Thyamon (mountain)](https://pleiades.stoa.org/places/531122)
 
 
 ## Thyateira (Lydia)
@@ -27178,6 +27979,13 @@
  - [Titanos (mountain)](https://pleiades.stoa.org/places/541150)
 
 
+## Titaresios R. (Thessaly) 38 Titarisios potamos - Τιταρήσιος
+[https://topostext.org/place/398223WTit](https://topostext.org/place/398223WTit)  
+
+### alignments:
+ - [Titaresios (river)](https://pleiades.stoa.org/places/541151)
+
+
 ## Titarion Mt. (Thessaly)
 [https://topostext.org/place/402221LTit](https://topostext.org/place/402221LTit)  
 
@@ -27239,6 +28047,13 @@
 
 ### alignments:
  - [Tolosa](https://pleiades.stoa.org/places/246694)
+
+
+## Tomaros Mt. (Ioannina) 16 Olytsika - Τόμαρος
+[https://topostext.org/place/395208LTom](https://topostext.org/place/395208LTom)  
+
+### alignments:
+ - [T(o)maros (mountain)](https://pleiades.stoa.org/places/531124)
 
 
 ## Tomb of Caecilia Metella (Rome)
@@ -27563,6 +28378,13 @@
  - [Trichonion](https://pleiades.stoa.org/places/541161)
 
 
+## Trichonis (Aitolia) 4 Trichonida - Τριχωνίς λίμνη
+[https://topostext.org/place/388218WTri](https://topostext.org/place/388218WTri)  
+
+### alignments:
+ - [Trichonis L.](https://pleiades.stoa.org/places/541162)
+
+
 ## Tridentum (Alps)
 [https://topostext.org/place/461111UTri](https://topostext.org/place/461111UTri)  
 
@@ -27666,6 +28488,13 @@
 
 ### alignments:
  - [Tripolis](https://pleiades.stoa.org/places/668394)
+
+
+## Tripolis Larisaia (Thessaly) 3 Platykampos? - Τρίπολις
+[https://topostext.org/place/396226UTri](https://topostext.org/place/396226UTri)  
+
+### alignments:
+ - [Tripolis Larisaia](https://pleiades.stoa.org/places/541165)
 
 
 ## Tritaia (Achaia)
@@ -27890,6 +28719,13 @@
 
 ### alignments:
  - [Tymnos](https://pleiades.stoa.org/places/599994)
+
+
+## Tymphaia region (Grevena) 45  - Τυμφαία
+[https://topostext.org/place/400212RTym](https://topostext.org/place/400212RTym)  
+
+### alignments:
+ - [(S)Tymphaia](https://pleiades.stoa.org/places/541116)
 
 
 ## Tyndaris (Sicily)
@@ -28590,6 +29426,13 @@
 
 ### alignments:
  - [Xyniai](https://pleiades.stoa.org/places/541174)
+
+
+## Xynias (Phthiotis) 4 Xynias - Ξυνιάς
+[https://topostext.org/place/393223WXyn](https://topostext.org/place/393223WXyn)  
+
+### alignments:
+ - [Xynias L.](https://pleiades.stoa.org/places/541175)
 
 
 ## Xypete (Attica)

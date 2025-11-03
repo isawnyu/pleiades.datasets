@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2251 alignments exist in _Pleiades_ place references as of 2025-10-31. The following list of alignments is grouped by zotkey.
+2254 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -288,6 +288,13 @@
  - [Vereuso?](https://pleiades.stoa.org/places/629102)
 
 
+## 10B1 (Talbert 2543)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2543.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2543.html)  
+
+### alignments:
+ - [Caleorsissa](https://pleiades.stoa.org/places/557533541)
+
+
 ## 10B1 (Talbert 2544)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2544.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2544.html)  
 
@@ -426,6 +433,13 @@
 
 ### alignments:
  - [Perre](https://pleiades.stoa.org/places/658568)
+
+
+## 10B2 (Talbert 2566)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2566.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2566.html)  
+
+### alignments:
+ - [‘Heracome’](https://pleiades.stoa.org/places/658479)
 
 
 ## 10B2 (Talbert 2573)
@@ -7620,6 +7634,13 @@
 
 ### alignments:
  - [Siguese](https://pleiades.stoa.org/places/315171)
+
+
+## 4C1 (Talbert 183)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace183.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace183.html)  
+
+### alignments:
+ - [Mutia?](https://pleiades.stoa.org/places/324788)
 
 
 ## 4C1 (Talbert 184)
