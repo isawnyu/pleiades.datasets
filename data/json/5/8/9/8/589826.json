@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/589748",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:40:08Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2025-11-01T10:15:36Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:40:08Z",
@@ -49,7 +61,7 @@
             "references": [],
             "review_state": "published",
             "start": null,
-            "title": "Creta Ins.",
+            "title": "Creta (island)",
             "uri": "https://pleiades.stoa.org/places/589826/589748"
         }
     ],
@@ -92,7 +104,7 @@
         }
     ],
     "description": "Mt. Gioukhtas.",
-    "details": "The Barrington Atlas Directory notes: Mt. Gioukhtas",
+    "details": "<p>The Barrington Atlas Directory notes: Mt. Gioukhtas</p>",
     "features": [
         {
             "geometry": {
@@ -102,18 +114,28 @@
                 ],
                 "type": "Point"
             },
-            "id": "3933b93bf3c73c43b13c2",
+            "id": "osm-location-giouchtas",
             "properties": {
                 "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/589826/3933b93bf3c73c43b13c2",
+                "link": "https://pleiades.stoa.org/places/589826/osm-location-giouchtas",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "Γιούχτας"
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM Location: Γιούχτας"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2025-11-01T10:20:38Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2025-11-01T10:17:07Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:25Z",
@@ -166,7 +188,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -177,7 +199,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2013-05-02T19:28:40Z",
             "creators": [
                 {
@@ -191,12 +220,10 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
@@ -206,6 +233,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2025-11-01T10:15:03Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-07-26T23:39:24Z",
@@ -232,13 +264,12 @@
                     "modifiedBy": "rmhorne"
                 }
             ],
-            "id": "3933b93bf3c73c43b13c2",
+            "id": "osm-location-giouchtas",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "provenance": "OpenStreetMap (Node 972510027, version 2, osm:changeset=7042897, 2011-01-21T18:08:57Z)",
             "references": [
@@ -256,8 +287,8 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "Γιούχτας",
-            "uri": "https://pleiades.stoa.org/places/589826/3933b93bf3c73c43b13c2"
+            "title": "OSM Location: Γιούχτας",
+            "uri": "https://pleiades.stoa.org/places/589826/osm-location-giouchtas"
         }
     ],
     "names": [
@@ -366,24 +397,24 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#IC-I",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ICLWJL8Z",
+            "citationDetail": "I, 46",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "IC I, 46",
+            "formattedCitation": "<div class=\"csl-entry\">Guarducci, Margherita, ed. <i>Inscriptiones Creticae</i>. 4 vols. Rome: Libreria della Stato, 1935.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "IC",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.geonames.org/251311/yiouktas.html",
+            "accessURI": "https://www.geonames.org/251311/yiouktas.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
-            "formattedCitation": "geonames: 251311",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "citationDetail": "251311: Yioúktas",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. <i>GeoNames</i>, 2005. https://www.geonames.org/.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
-            "type": "seeAlso"
+            "shortTitle": "GeoNames",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
