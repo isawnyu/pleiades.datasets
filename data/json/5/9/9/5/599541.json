@@ -1,17 +1,88 @@
 {
     "@type": "Place",
     "bbox": [
-        25.0,
-        36.0,
-        25.5,
-        36.5
+        25.418,
+        36.432,
+        25.418,
+        36.432
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/599973",
+            "contributors": [],
+            "created": "2025-11-03T15:38:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-11-04T09:26:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-11-03T15:39:03Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2025-11-03T15:38:58Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-11-03T15:38:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "thera-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 A5 Athena, Zeus?, T.",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Thera (island)",
+            "uri": "https://pleiades.stoa.org/places/599541/thera-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/599973"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
@@ -44,48 +115,43 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 61 A5 Athena, Zeus?, T.",
-    "details": "The Barrington Atlas Directory notes: on Thera GRE",
+    "details": "<p>The Barrington Atlas Directory notes: on Thera GRE</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            25.0,
-                            36.0
-                        ],
-                        [
-                            25.5,
-                            36.0
-                        ],
-                        [
-                            25.5,
-                            36.5
-                        ],
-                        [
-                            25.0,
-                            36.5
-                        ],
-                        [
-                            25.0,
-                            36.0
-                        ]
-                    ]
+                    25.418,
+                    36.432
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "undetermined",
+            "id": "topostext-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/599541/undetermined",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - AD 300",
-                "title": "Undetermined location"
+                "description": "Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/599541/topostext-location",
+                "location_precision": "precise",
+                "snippet": "Temple-2; 550 BC - AD 300",
+                "title": "ToposText Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add iDAI.gazetteer 2362525: Athena/Zeus Tempel",
+            "modified": "2025-11-03T15:40:12Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "add topostext @bkiesling",
+            "modified": "2025-11-03T15:36:33Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "cleaned up references",
+            "modified": "2025-11-03T11:27:50Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Initial revision",
             "modified": "2016-08-01T00:30:02Z",
@@ -126,8 +192,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -151,104 +217,100 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2025-11-03T11:30:17Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Brady Kiesling",
+                    "uri": "https://pleiades.stoa.org/author/bkiesling",
+                    "username": "bkiesling"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2009-10-15T09:04:12Z",
-            "creators": [
-                {
-                    "name": "C. Foss",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
+            "description": "Dates after BAtlDir.",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "temple-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            25.0,
-                            36.0
-                        ],
-                        [
-                            25.5,
-                            36.0
-                        ],
-                        [
-                            25.5,
-                            36.5
-                        ],
-                        [
-                            25.0,
-                            36.5
-                        ],
-                        [
-                            25.0,
-                            36.0
-                        ]
-                    ]
+                    25.418,
+                    36.432
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:56:58Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2025-11-03T15:36:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2009-10-15T18:04:15Z",
+                    "comment": "Edited",
+                    "modified": "2025-11-03T13:02:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-11-03T11:33:27Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2025-11-03T11:32:24Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2009-10-15T09:19:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-03T11:31:03Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location provided by @bkiesilng via ToposText",
+                    "modified": "2025-11-03T11:30:22Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2009-10-15T09:04:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-03T11:30:17Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "undetermined",
+            "id": "topostext-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
             ],
-            "provenance": "Barrington Atlas: BAtlas 61 A5 Athena, Zeus?, T.",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/363253SAth",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Thera Athena, Zeus sanct. (Cyclades) Merovigli - Αθήνη",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -550,
-            "title": "Undetermined location",
-            "uri": "https://pleiades.stoa.org/places/599541/undetermined"
+            "title": "ToposText Location",
+            "uri": "https://pleiades.stoa.org/places/599541/topostext-location"
         }
     ],
     "names": [
@@ -276,14 +338,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Athena, Zeus?, T.",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -291,9 +349,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2009-10-15T09:04:12Z",
+            "created": "2025-11-03T15:37:32Z",
             "creators": [
                 {
                     "name": "C. Foss",
@@ -308,6 +378,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "change type to map/atlas, add batlas reference, add English name by @jbecker",
+                    "modified": "2025-11-04T09:26:13Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2025-11-03T15:37:31Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:56:58Z",
@@ -330,10 +410,22 @@
                 }
             ],
             "id": "Athena-Zeus-T",
-            "language": "",
-            "nameType": "geographic",
+            "language": "en",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 61 A5 Athena, Zeus?, T.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 A5 Athena, Zeus?, T.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "romanized": "Athena, Zeus, T.",
             "start": -550,
@@ -343,10 +435,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
+        "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
-        "sanctuary"
+        "sanctuary",
+        "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 A5 Athena, Zeus?, T.",
     "references": [
@@ -364,18 +458,40 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/s.html#Sperling-1973-35-37",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/85JXXBB6",
+            "citationDetail": "35-37",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Sperling 1973 35-37",
+            "formattedCitation": "<div class=\"csl-entry\">Sperling, J. W. <i>Thera and Therasia</i>. 1 vols. Archaies Hellenikes Poleis 22. Athens, Greece: Athens Technological Organization, Athens Center of Ekistics, 1973.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Sperling 1973",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/363253SAth",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Thera Athena, Zeus sanct. (Cyclades) Merovigli - Αθήνη",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2362525",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2362525: Athena/Zeus Tempel",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>iDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.25,
-        36.25
+        25.418,
+        36.432
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
