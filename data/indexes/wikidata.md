@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9672 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+9685 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1207,6 +1207,13 @@
  - [Agrai](https://pleiades.stoa.org/places/579846)
 
 
+## Agramunt (Q1778278)
+[https://www.wikidata.org/wiki/Q1778278](https://www.wikidata.org/wiki/Q1778278)  
+
+### alignments:
+ - [Agramont](https://pleiades.stoa.org/places/606953230)
+
+
 ## Agria Gramvousa (Q396561)
 [https://www.wikidata.org/wiki/Q396561](https://www.wikidata.org/wiki/Q396561)  
 
@@ -2003,6 +2010,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## Alta Semita (Q2198565)
+[https://www.wikidata.org/wiki/Q2198565](https://www.wikidata.org/wiki/Q2198565)  
+
+### alignments:
+ - [Alta Semita](https://pleiades.stoa.org/places/208084576)
 
 
 ## Altar of Androgeos, son of Minos, Phaleron (Q124644553)
@@ -11707,6 +11721,13 @@
  - [Chalai(on)](https://pleiades.stoa.org/places/540702)
 
 
+## Chalandriani (Q12886007)
+[https://www.wikidata.org/wiki/Q12886007](https://www.wikidata.org/wiki/Q12886007)  
+
+### alignments:
+ - [Chalandriani](https://pleiades.stoa.org/places/30347988)
+
+
 ## Chalastra (Q56399808)
 [https://www.wikidata.org/wiki/Q56399808](https://www.wikidata.org/wiki/Q56399808)  
 
@@ -14355,6 +14376,20 @@
  - [Decennovium](https://pleiades.stoa.org/places/432812)
 
 
+## Deer Cave (Q3777018)
+[https://www.wikidata.org/wiki/Q3777018](https://www.wikidata.org/wiki/Q3777018)  
+
+### alignments:
+ - [Grotta dei Cervi](https://pleiades.stoa.org/places/463248057)
+
+
+## Deer Stone Monuments, the Heart of Bronze Age Culture (Q66133349)
+[https://www.wikidata.org/wiki/Q66133349](https://www.wikidata.org/wiki/Q66133349)  
+
+### alignments:
+ - [Deer Stone Monuments and Related Bronze Age Sites](https://pleiades.stoa.org/places/900824967)
+
+
 ## Defensive walls (Q125810729)
 [https://www.wikidata.org/wiki/Q125810729](https://www.wikidata.org/wiki/Q125810729)  
 
@@ -14845,6 +14880,13 @@
 
 ### alignments:
  - [Dion?](https://pleiades.stoa.org/places/540734)
+
+
+## Divín (Q3496942)
+[https://www.wikidata.org/wiki/Q3496942](https://www.wikidata.org/wiki/Q3496942)  
+
+### alignments:
+ - [Divin Castle](https://pleiades.stoa.org/places/520440461)
 
 
 ## Diyala River (Q304413)
@@ -17719,6 +17761,13 @@
  - [Galava](https://pleiades.stoa.org/places/89191)
 
 
+## Galessus (Q65040333)
+[https://www.wikidata.org/wiki/Q65040333](https://www.wikidata.org/wiki/Q65040333)  
+
+### alignments:
+ - [Galessos](https://pleiades.stoa.org/places/589790)
+
+
 ## Galite Islands (Q513565)
 [https://www.wikidata.org/wiki/Q513565](https://www.wikidata.org/wiki/Q513565)  
 
@@ -17893,6 +17942,13 @@
 
 ### alignments:
  - [Ganglegg](https://pleiades.stoa.org/places/653538433)
+
+
+## Gangra (Q1493527)
+[https://www.wikidata.org/wiki/Q1493527](https://www.wikidata.org/wiki/Q1493527)  
+
+### alignments:
+ - [Gangra](https://pleiades.stoa.org/places/844926)
 
 
 ## Gannat (Q272347)
@@ -18258,6 +18314,13 @@
 ### alignments:
  - [Germania Superior](https://pleiades.stoa.org/places/1000)
  - [Germania Superior](https://pleiades.stoa.org/places/981525)
+
+
+## Germanicopolis (Q111526891)
+[https://www.wikidata.org/wiki/Q111526891](https://www.wikidata.org/wiki/Q111526891)  
+
+### alignments:
+ - [Germanicopolis/Clibanus?](https://pleiades.stoa.org/places/648635)
 
 
 ## Geronio (Q3761234)
@@ -23463,6 +23526,13 @@
  - [Kleitor](https://pleiades.stoa.org/places/570359)
 
 
+## Kleitor River (Q26985005)
+[https://www.wikidata.org/wiki/Q26985005](https://www.wikidata.org/wiki/Q26985005)  
+
+### alignments:
+ - [Kleitor (river)](https://pleiades.stoa.org/places/570360)
+
+
 ## Klima (Q21693329)
 [https://www.wikidata.org/wiki/Q21693329](https://www.wikidata.org/wiki/Q21693329)  
 
@@ -23776,6 +23846,13 @@
 
 ### alignments:
  - [Boreion (mountain)](https://pleiades.stoa.org/places/570158)
+
+
+## Krestena (Q13407147)
+[https://www.wikidata.org/wiki/Q13407147](https://www.wikidata.org/wiki/Q13407147)  
+
+### alignments:
+ - [Selino(u)s (settlement)](https://pleiades.stoa.org/places/570658)
 
 
 ## Krioa (Q13422958)
@@ -30396,6 +30473,13 @@
  - [New Bouleuterion](https://pleiades.stoa.org/places/502723225)
 
 
+## New Weir Roman site (Q17641797)
+[http://www.wikidata.org/entity/Q17641797](http://www.wikidata.org/entity/Q17641797)  
+
+### alignments:
+ - [New Weir](https://pleiades.stoa.org/places/79610)
+
+
 ## Newgrange (Q339503)
 [https://www.wikidata.org/wiki/Q339503](https://www.wikidata.org/wiki/Q339503)  
 
@@ -32837,6 +32921,13 @@
 
 ### alignments:
  - [Paos](https://pleiades.stoa.org/places/570558)
+
+
+## Paphlagonia (Q622032)
+[https://www.wikidata.org/wiki/Q622032](https://www.wikidata.org/wiki/Q622032)  
+
+### alignments:
+ - [Paphlagonia (region)](https://pleiades.stoa.org/places/845034)
 
 
 ## Paphos Archaeological Park (Q12065255)
@@ -36277,6 +36368,13 @@
  - [Frielas](https://pleiades.stoa.org/places/360881592)
 
 
+## Q102762
+[https://www.wikidata.org/wiki/Q102762](https://www.wikidata.org/wiki/Q102762)  
+
+### alignments:
+ - [Azov](https://pleiades.stoa.org/places/707913355)
+
+
 ## Q1027637: Gorsium/Herculia
 [https://www.wikidata.org/wiki/Q1027637](https://www.wikidata.org/wiki/Q1027637)  
 
@@ -37797,13 +37895,6 @@
  - [Teatro Romano de Regina](https://pleiades.stoa.org/places/760907719)
 
 
-## Q11955395: Ximene
-[https://www.wikidata.org/wiki/Q11955395](https://www.wikidata.org/wiki/Q11955395)  
-
-### alignments:
- - [Ximene?](https://pleiades.stoa.org/places/845091)
-
-
 ## Q1195993
 [https://www.wikidata.org/wiki/Q1195993](https://www.wikidata.org/wiki/Q1195993)  
 
@@ -38497,13 +38588,6 @@
 
 ### alignments:
  - [Tithronion](https://pleiades.stoa.org/places/541153)
-
-
-## Q12886007: Chalandriani
-[https://www.wikidata.org/wiki/Q12886007](https://www.wikidata.org/wiki/Q12886007)  
-
-### alignments:
- - [Chalandriani](https://pleiades.stoa.org/places/30347988)
 
 
 ## Q128884: Cilician Gates
@@ -43117,13 +43201,6 @@
  - [Anazarbos/Caesarea/Ioustin(ian)oupolis](https://pleiades.stoa.org/places/658378)
 
 
-## Q2198565: Alta Semita
-[https://www.wikidata.org/wiki/Q2198565](https://www.wikidata.org/wiki/Q2198565)  
-
-### alignments:
- - [Alta Semita](https://pleiades.stoa.org/places/208084576)
-
-
 ## Q2199749: Traiectum
 [https://www.wikidata.org/wiki/Q2199749](https://www.wikidata.org/wiki/Q2199749)  
 
@@ -46591,13 +46668,6 @@
  - [Grotta Romanelli](https://pleiades.stoa.org/places/529148884)
 
 
-## Q3777018: Deer Cave
-[https://www.wikidata.org/wiki/Q3777018](https://www.wikidata.org/wiki/Q3777018)  
-
-### alignments:
- - [Grotta dei Cervi](https://pleiades.stoa.org/places/463248057)
-
-
 ## Q3777043: Grotta dell’Uzzo
 [https://www.wikidata.org/wiki/Q3777043](https://www.wikidata.org/wiki/Q3777043)  
 
@@ -49407,13 +49477,6 @@
 
 ### alignments:
  - [Lepreon](https://pleiades.stoa.org/places/570423)
-
-
-## Q586468: Temple of Jupiter Optimus Maximus
-[https://www.wikidata.org/wiki/Q586468](https://www.wikidata.org/wiki/Q586468)  
-
-### alignments:
- - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
 
 
 ## Q5873143: Gabrantovices
@@ -52475,13 +52538,6 @@
  - [Cozzo Presepe](https://pleiades.stoa.org/places/442557)
 
 
-## Q979091: Qinnasrin
-[https://www.wikidata.org/wiki/Q979091](https://www.wikidata.org/wiki/Q979091)  
-
-### alignments:
- - [Chalcis ad Belum](https://pleiades.stoa.org/places/668226)
-
-
 ## Q980425: Suasa amphitheatre
 [https://www.wikidata.org/wiki/Q980425](https://www.wikidata.org/wiki/Q980425)  
 
@@ -52851,6 +52907,13 @@
 
 ### alignments:
  - [Qila' el-Dabba](https://pleiades.stoa.org/places/301492848)
+
+
+## Qinnasrin (Q979091)
+[https://www.wikidata.org/wiki/Q979091](https://www.wikidata.org/wiki/Q979091)  
+
+### alignments:
+ - [Chalcis ad Belum](https://pleiades.stoa.org/places/668226)
 
 
 ## Qohaito (Q4236500)
@@ -57138,6 +57201,13 @@
  - [Selinous (river)](https://pleiades.stoa.org/places/570661)
 
 
+## Selinus (Q11948129)
+[https://www.wikidata.org/wiki/Q11948129](https://www.wikidata.org/wiki/Q11948129)  
+
+### alignments:
+ - [Selino(u)s (river near Krestena)](https://pleiades.stoa.org/places/570659)
+
+
 ## Selinus (Q1424724)
 [https://www.wikidata.org/wiki/Q1424724](https://www.wikidata.org/wiki/Q1424724)  
 
@@ -60673,6 +60743,13 @@
 
 ### alignments:
  - [Temple of Jupiter](https://pleiades.stoa.org/places/367026512)
+
+
+## Temple of Jupiter Optimus Maximus (Q586468)
+[https://www.wikidata.org/wiki/Q586468](https://www.wikidata.org/wiki/Q586468)  
+
+### alignments:
+ - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
 
 
 ## Temple of Jupiter, Bidonì (Q123906344)
@@ -64631,6 +64708,13 @@
  - [‘Utsurgae’](https://pleiades.stoa.org/places/511459)
 
 
+## Uushigiin Ovor (Q136659732)
+[https://www.wikidata.org/wiki/Q136659732](https://www.wikidata.org/wiki/Q136659732)  
+
+### alignments:
+ - [Uushigiin Uver](https://pleiades.stoa.org/places/900824968)
+
+
 ## Uxama Argaela (Q6158255)
 [https://www.wikidata.org/wiki/Q6158255](https://www.wikidata.org/wiki/Q6158255)  
 
@@ -67046,6 +67130,13 @@
 
 ### alignments:
  - [Karnion (river)](https://pleiades.stoa.org/places/570332)
+
+
+## Ximene (Q11955395)
+[https://www.wikidata.org/wiki/Q11955395](https://www.wikidata.org/wiki/Q11955395)  
+
+### alignments:
+ - [Ximene?](https://pleiades.stoa.org/places/845091)
 
 
 ## Xois (Q1068140)

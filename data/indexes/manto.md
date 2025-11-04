@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-761 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+762 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2737,6 +2737,13 @@
 
 ### alignments:
  - [Tetrapolis](https://pleiades.stoa.org/places/580117)
+
+
+## 11308325: Syros (island)
+[https://resource.manto.unh.edu/11308325](https://resource.manto.unh.edu/11308325)  
+
+### alignments:
+ - [Syros (island)](https://pleiades.stoa.org/places/590067)
 
 
 ## 11308533: Rhypes (Achaia)

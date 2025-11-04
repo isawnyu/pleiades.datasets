@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2254 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+2255 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -15275,6 +15275,13 @@
 
 ### alignments:
  - [Gindaros](https://pleiades.stoa.org/places/658475)
+
+
+## 9B5 (Talbert 2379)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2379.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2379.html)  
+
+### alignments:
+ - [Chalcis ad Belum](https://pleiades.stoa.org/places/668226)
 
 
 ## 9C1 (Talbert 3184)

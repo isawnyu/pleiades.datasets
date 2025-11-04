@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4239 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+4248 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6426,6 +6426,13 @@
  - [Chalkis](https://pleiades.stoa.org/places/530827)
 
 
+## Chalkis ad Belum (Syria) 30 Al-Hadher - Χαλκίς
+[https://topostext.org/place/360370UCha](https://topostext.org/place/360370UCha)  
+
+### alignments:
+ - [Chalcis ad Belum](https://pleiades.stoa.org/places/668226)
+
+
 ## Chalkis under Libanus (Syria)
 [https://topostext.org/place/340362UChL](https://topostext.org/place/340362UChL)  
 
@@ -6557,6 +6564,13 @@
 
 ### alignments:
  - [Chelonatas Pr.](https://pleiades.stoa.org/places/570174)
+
+
+## Chemmis (Egypt) 16 Akhmim? - Χέμμις
+[https://topostext.org/place/312307UChe](https://topostext.org/place/312307UChe)  
+
+### alignments:
+ - [Chemmis](https://pleiades.stoa.org/places/727099)
 
 
 ## Chenai? (Phthiotis) 12 unlocated - Χήν
@@ -9888,6 +9902,13 @@
 
 ### alignments:
  - [Galepsos (Thrace)](https://pleiades.stoa.org/places/501421)
+
+
+## Galessos (Syros) Galissas - Γαλήσσιος
+[https://topostext.org/place/374249UGal](https://topostext.org/place/374249UGal)  
+
+### alignments:
+ - [Galessos](https://pleiades.stoa.org/places/589790)
 
 
 ## Galilaea (Palestine)
@@ -13263,6 +13284,13 @@
  - [Kastrelli](https://pleiades.stoa.org/places/550626)
 
 
+## Kastri exc. (Syros) NE of Chalandriani - Καστρί
+[https://topostext.org/place/375249UKas](https://topostext.org/place/375249UKas)  
+
+### alignments:
+ - [Kastri (Syros)](https://pleiades.stoa.org/places/30347987)
+
+
 ## Kastri fort (Akarnania) Xylokastro 1 - Καστρί
 [https://topostext.org/place/388209FXyl](https://topostext.org/place/388209FXyl)  
 
@@ -13901,6 +13929,13 @@
 
 ### alignments:
  - [Kleitor](https://pleiades.stoa.org/places/570359)
+
+
+## Kleitor R. (Achaia) 3 Mostitsaiiko - Κλείτωρ
+[https://topostext.org/place/378223WKle](https://topostext.org/place/378223WKle)  
+
+### alignments:
+ - [Kleitor (river)](https://pleiades.stoa.org/places/570360)
 
 
 ## Kleonai (Halkidiki)
@@ -20610,6 +20645,13 @@
  - [Paos](https://pleiades.stoa.org/places/570558)
 
 
+## Paphlagonia region (Pontus) 293 Kocaeli/Sakarya - Παφλαγονία
+[https://topostext.org/place/410300RPap](https://topostext.org/place/410300RPap)  
+
+### alignments:
+ - [Paphlagonia (region)](https://pleiades.stoa.org/places/845034)
+
+
 ## Paphos (Cyprus)
 [https://topostext.org/place/348324PPap](https://topostext.org/place/348324PPap)  
 
@@ -24981,7 +25023,7 @@
 [https://topostext.org/place/376216USel](https://topostext.org/place/376216USel)  
 
 ### alignments:
- - [Selino(u)s](https://pleiades.stoa.org/places/570658)
+ - [Selino(u)s (settlement)](https://pleiades.stoa.org/places/570658)
 
 
 ## Selinous (Lakonia)
@@ -25003,6 +25045,13 @@
 
 ### alignments:
  - [Selinous (river)](https://pleiades.stoa.org/places/570661)
+
+
+## Selinous river (Eleia) 5 Selinountas - Σελινούς
+[https://topostext.org/place/376216WSel](https://topostext.org/place/376216WSel)  
+
+### alignments:
+ - [Selino(u)s (river near Krestena)](https://pleiades.stoa.org/places/570659)
 
 
 ## Selinus (Sicily)
@@ -26928,6 +26977,13 @@
  - [Temple of Hadrian](https://pleiades.stoa.org/places/666765291)
 
 
+## Temple of Jupiter Capitolinus (Rome) 29 Roma
+[https://topostext.org/place/419125SJCa](https://topostext.org/place/419125SJCa)  
+
+### alignments:
+ - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
+
+
 ## Temple of Kronos and Rhea (Athens) 1 Olympieion Athens
 [https://topostext.org/place/380237SKrR](https://topostext.org/place/380237SKrR)  
 
@@ -27375,6 +27431,13 @@
 
 ### alignments:
  - [Thera](https://pleiades.stoa.org/places/599972)
+
+
+## Thera Athena, Zeus sanct. (Cyclades) Merovigli - Αθήνη
+[https://topostext.org/place/363253SAth](https://topostext.org/place/363253SAth)  
+
+### alignments:
+ - [Athena, Zeus?, T.](https://pleiades.stoa.org/places/599541)
 
 
 ## Thera island (Cyclades) 4 Santorini - Θήρα

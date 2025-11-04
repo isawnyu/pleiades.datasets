@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-440 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+442 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -133,6 +133,13 @@
 
 ### alignments:
  - [Hypsele](https://pleiades.stoa.org/places/589811)
+
+
+## 841: CHALANDRIANI Kastri - 2008
+[https://chronique.efa.gr/?kroute=report&id=841](https://chronique.efa.gr/?kroute=report&id=841)  
+
+### alignments:
+ - [Kastri (Syros)](https://pleiades.stoa.org/places/30347987)
 
 
 ## AIGES - 2000
@@ -1134,7 +1141,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=37819](https://chronique.efa.gr/?kroute=topo_public&id=37819)  
 
 ### alignments:
- - [Selino(u)s](https://pleiades.stoa.org/places/570658)
+ - [Selino(u)s (settlement)](https://pleiades.stoa.org/places/570658)
 
 
 ## Toponym 37936: Pylos, Navarino, Neon Kastrov
@@ -2413,6 +2420,13 @@
 
 ### alignments:
  - [Kyllene](https://pleiades.stoa.org/places/570390)
+
+
+## Toponyme 37819: Krestena, Selinous-Δ.Δ.Κρεστένων
+[https://chronique.efa.gr/?r=topo_public&id=37819](https://chronique.efa.gr/?r=topo_public&id=37819)  
+
+### alignments:
+ - [Selino(u)s (river near Krestena)](https://pleiades.stoa.org/places/570659)
 
 
 ## Toponyme 37955: Kyparissia

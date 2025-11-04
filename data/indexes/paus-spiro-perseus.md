@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-512 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+514 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2224,6 +2224,14 @@
  - [Anigros/Minyeios (river)](https://pleiades.stoa.org/places/573093)
 
 
+## 5.6.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:5.6.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:5.6.6)  
+
+### alignments:
+ - [Selino(u)s (river near Krestena)](https://pleiades.stoa.org/places/570659)
+ - [Skillous](https://pleiades.stoa.org/places/570674)
+
+
 ## 5.7.1
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:5.7.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:5.7.1)  
 
@@ -3212,6 +3220,13 @@
  - [Methydrion](https://pleiades.stoa.org/places/570484)
  - [Phalanthon M.](https://pleiades.stoa.org/places/570588)
  - [Phalanthos](https://pleiades.stoa.org/places/573443)
+
+
+## 8.36.1-2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.36.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.36.1)  
+
+### alignments:
+ - [Maloitas (river)](https://pleiades.stoa.org/places/570457)
 
 
 ## 8.36.10

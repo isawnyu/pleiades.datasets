@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4756 alignments exist in _Pleiades_ place references as of 2025-11-03. The following list of alignments is grouped by zotkey.
+4762 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -436,13 +436,6 @@
 
 ### alignments:
  - [Melos (island)](https://pleiades.stoa.org/places/570475)
-
-
-## Geo 15760: Syros
-[https://www.trismegistos.org/place/15760](https://www.trismegistos.org/place/15760)  
-
-### alignments:
- - [Syros (island)](https://pleiades.stoa.org/places/590067)
 
 
 ## Geo 15775: Akraiphiai (Akraiphnio)
@@ -2774,6 +2767,13 @@
 
 ### alignments:
  - [Patmos (island)](https://pleiades.stoa.org/places/599872)
+
+
+## GEO ID 11323
+[http://www.trismegistos.org/place/11323](http://www.trismegistos.org/place/11323)  
+
+### alignments:
+ - [Chalcis ad Belum](https://pleiades.stoa.org/places/668226)
 
 
 ## GEO ID 11329: Noricum
@@ -6943,6 +6943,13 @@
  - [Pharsalus](https://pleiades.stoa.org/places/541042)
 
 
+## GEO ID 15760: Syros
+[https://www.trismegistos.org/place/15760](https://www.trismegistos.org/place/15760)  
+
+### alignments:
+ - [Syros (island)](https://pleiades.stoa.org/places/590067)
+
+
 ## GEO ID 15770: Thugga (Dougga)
 [http://www.trismegistos.org/place/15770](http://www.trismegistos.org/place/15770)  
 
@@ -7095,6 +7102,13 @@
 
 ### alignments:
  - [Tzouroulon/Silta?](https://pleiades.stoa.org/places/511456)
+
+
+## GEO ID 1599
+[http://www.trismegistos.org/place/1599](http://www.trismegistos.org/place/1599)  
+
+### alignments:
+ - [Paphlagonia (region)](https://pleiades.stoa.org/places/845034)
 
 
 ## GEO ID 1600: Paphos
@@ -29324,6 +29338,13 @@
  - [Shalfak](https://pleiades.stoa.org/places/665675512)
 
 
+## GEO ID 5113: Psenhyris (Shanhur)
+[https://www.trismegistos.org/place/5113](https://www.trismegistos.org/place/5113)  
+
+### alignments:
+ - [Shanhur](https://pleiades.stoa.org/places/786109)
+
+
 ## GEO ID 51250: Dravus (Drava)
 [https://www.trismegistos.org/place/51250](https://www.trismegistos.org/place/51250)  
 
@@ -29596,6 +29617,13 @@
 
 ### alignments:
  - [Kolchonouphites](https://pleiades.stoa.org/places/730119)
+
+
+## GEO ID 53013: Shait
+[https://www.trismegistos.org/place/53013](https://www.trismegistos.org/place/53013)  
+
+### alignments:
+ - [Shay'iet](https://pleiades.stoa.org/places/786110)
 
 
 ## GEO ID 5306: Kompasi (Daghbag)
@@ -32303,6 +32331,13 @@
  - [Herakleopolis Mikra/Sethroe](https://pleiades.stoa.org/places/727121)
 
 
+## GEO ID 8019: Chemmis
+[http://www.trismegistos.org/place/8019](http://www.trismegistos.org/place/8019)  
+
+### alignments:
+ - [Chemmis](https://pleiades.stoa.org/places/727099)
+
+
 ## GEO ID 801: Herakleopolis (Ihnasya el-Medina)
 [http://www.trismegistos.org/place/801](http://www.trismegistos.org/place/801)  
 
@@ -32784,6 +32819,13 @@
 
 ### alignments:
  - [Panopolis/Schmin](https://pleiades.stoa.org/places/756613)
+
+
+## GEO ID, 16318
+[http://www.trismegistos.org/place/16318](http://www.trismegistos.org/place/16318)  
+
+### alignments:
+ - [Germanicopolis/Clibanus?](https://pleiades.stoa.org/places/648635)
 
 
 ## Geo ID, 16454: Komana (Şar)
