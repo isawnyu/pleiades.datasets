@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-762 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
+762 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -650,7 +650,7 @@
 [https://resource.manto.unh.edu/10146606](https://resource.manto.unh.edu/10146606)  
 
 ### alignments:
- - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Kleitor (settlement)](https://pleiades.stoa.org/places/570359)
 
 
 ## 10146615: Alesiai

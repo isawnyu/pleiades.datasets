@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4762 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
+4765 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6443,7 +6443,7 @@
  - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
  - [Iotape](https://pleiades.stoa.org/places/648650)
  - [Ischalis?](https://pleiades.stoa.org/places/79534)
- - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Kleitor (settlement)](https://pleiades.stoa.org/places/570359)
  - [Numidia (Roman province)](https://pleiades.stoa.org/places/981539)
  - [Ouenikones](https://pleiades.stoa.org/places/89266)
  - [Paroria](https://pleiades.stoa.org/places/570562)
@@ -8873,6 +8873,13 @@
 
 ### alignments:
  - [*Uzelis](https://pleiades.stoa.org/places/305178)
+
+
+## GEO ID 188: Antaiopolis (Qaw el-Kebir)
+[http://www.trismegistos.org/place/188](http://www.trismegistos.org/place/188)  
+
+### alignments:
+ - [Antaiopolis/Tkoou](https://pleiades.stoa.org/places/756515)
 
 
 ## GEO ID 18947: Mastar (Ibn Ziad)
@@ -14637,6 +14644,13 @@
 
 ### alignments:
  - [Blandiana](https://pleiades.stoa.org/places/206970)
+
+
+## GEO ID 3011: Psonis (Bassuna)
+[http://www.trismegistos.org/place/3011](http://www.trismegistos.org/place/3011)  
+
+### alignments:
+ - [Psonis](https://pleiades.stoa.org/places/756631)
 
 
 ## GEO ID 30145: Napoca (Cluj-Napoca)
@@ -32756,6 +32770,13 @@
 
 ### alignments:
  - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
+
+
+## Geo ID, 12096
+[http://www.trismegistos.org/place/12096](http://www.trismegistos.org/place/12096)  
+
+### alignments:
+ - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## GEO ID, 12153: Herakleia Lynkestis (Bitola)

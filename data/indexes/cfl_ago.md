@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-442 alignments exist in _Pleiades_ place references as of 2025-11-04. The following list of alignments is grouped by zotkey.
+442 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2019,7 +2019,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=23835](https://chronique.efa.gr/?kroute=topo_public&id=23835)  
 
 ### alignments:
- - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Kleitor (settlement)](https://pleiades.stoa.org/places/570359)
 
 
 ## Toponyme 23914: Kato Aetos
@@ -2068,7 +2068,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=25903](https://chronique.efa.gr/?kroute=topo_public&id=25903)  
 
 ### alignments:
- - [Kleitor](https://pleiades.stoa.org/places/570359)
+ - [Kleitor (settlement)](https://pleiades.stoa.org/places/570359)
 
 
 ## Toponyme 25925: Kastro Phaneromenis, Kastro Kochylou
