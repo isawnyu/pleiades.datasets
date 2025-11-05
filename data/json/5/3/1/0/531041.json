@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        20.5,
-        38.0,
-        21.0,
-        38.5
+        20.5752362,
+        38.4609277,
+        20.5752362,
+        38.4609277
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,17 +14,31 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-06-24T13:48:54Z",
+    "created": "2025-11-04T13:29:40Z",
     "creators": [
         {
             "name": "W.M. Murray",
@@ -32,48 +46,43 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 54 C5 Panormos",
-    "details": "The Barrington Atlas Directory notes: Hormos Phiskardo",
+    "details": "<p>The Barrington Atlas Directory notes: Hormos Phiskardo</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            20.5,
-                            38.5
-                        ],
-                        [
-                            20.5,
-                            38.0
-                        ]
-                    ]
+                    20.5752362,
+                    38.4609277
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-modern-fiskardo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/531041/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/531041/osm-location-modern-fiskardo",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location: modern Fiskardo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "add wikidata, topostext @bkiesling",
+            "modified": "2025-11-04T16:14:58Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "place type = settlement per BAtlas symbol; cleaned up references; removed invalid/erroneous RE reference inherited from BAtlDir; title @thomase",
+            "modified": "2025-11-04T16:13:30Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-11-04T13:29:40Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:01:15Z",
@@ -104,119 +113,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-06-24T13:48:55Z",
+            "contributors": [],
+            "created": "2025-11-04T13:28:47Z",
             "creators": [
                 {
-                    "name": "W.M. Murray",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            20.5,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.0
-                        ],
-                        [
-                            21.0,
-                            38.5
-                        ],
-                        [
-                            20.5,
-                            38.5
-                        ],
-                        [
-                            20.5,
-                            38.0
-                        ]
-                    ]
+                    20.5752362,
+                    38.4609277
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:01:15Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-06-24T14:08:50Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-11-04T16:13:45Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-06-24T13:54:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-04T13:29:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-11-04T13:29:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-11-04T13:28:48Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-06-24T13:48:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-04T13:28:47Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-modern-fiskardo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 54 C5 Panormos",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1587388041, version 12, osm:changeset=153689386, 2024-07-08T07:18:17Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1587388041",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1587388041",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1587388041",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/531041/batlas-location"
+            "start": 2000,
+            "title": "OSM Location: modern Fiskardo",
+            "uri": "https://pleiades.stoa.org/places/531041/osm-location-modern-fiskardo"
         }
     ],
     "names": [
@@ -301,10 +288,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "unknown"
+        "settlement",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 54 C5 Panormos",
     "references": [
@@ -320,36 +309,47 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://curiosity.lib.harvard.edu/expeditions-and-discoveries/catalog/38-990022154890203941",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Partsch-1890",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/J72JXXXS",
+            "citationDetail": "64",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Partsch 1890, 64",
+            "formattedCitation": "<div class=\"csl-entry\">Partsch, Josef Franz Maria. <i>Kephallenia Und Ithaka: Eine Geographische Monographie</i>. Ergänzungsheft ... Zu Petermanns Geographischen Mitteilungen 98. Gotha: J. Perthes, 1890. https://curiosity.lib.harvard.edu/expeditions-and-discoveries/catalog/38-990022154890203941.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Partsch 1890",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q60791435",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#RE-Korkyra",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "RE Korkyra, cols. 206",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Panormus (Q60791435)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/383208HPan",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Panormos (Kefallenia) 2 Ormos Fiskardo - Πάνορμος",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        20.75,
-        38.25
+        20.5752362,
+        38.4609277
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Panormos",
+    "title": "Panormos (Cephallania)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/531041"
 }
