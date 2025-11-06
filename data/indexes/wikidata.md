@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9804 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
+9813 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6295,6 +6295,13 @@
 
 ### alignments:
  - [Bazira](https://pleiades.stoa.org/places/59740)
+
+
+## Baris (Q65122572)
+[https://www.wikidata.org/wiki/Q65122572](https://www.wikidata.org/wiki/Q65122572)  
+
+### alignments:
+ - [Baris](https://pleiades.stoa.org/places/638790)
 
 
 ## Barkway (Q785229)
@@ -14215,6 +14222,13 @@
  - [Cyprus (island)](https://pleiades.stoa.org/places/707498)
 
 
+## Cypsela (Q6452298)
+[https://www.wikidata.org/wiki/Q6452298](https://www.wikidata.org/wiki/Q6452298)  
+
+### alignments:
+ - [Kypsela](https://pleiades.stoa.org/places/501489)
+
+
 ## Cyrene (Q44112)
 [https://www.wikidata.org/wiki/Q44112](https://www.wikidata.org/wiki/Q44112)  
 
@@ -17283,6 +17297,13 @@
 
 ### alignments:
  - [Theodosia](https://pleiades.stoa.org/places/854743)
+
+
+## Feres Q943354
+[]()  
+
+### alignments:
+ - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
 
 
 ## Fern Pass (Q667984)
@@ -31185,6 +31206,13 @@
 
 ### alignments:
  - [Nessana](https://pleiades.stoa.org/places/687988)
+
+
+## Niš Fortress (Q1907852)
+[https://www.wikidata.org/wiki/Q1907852](https://www.wikidata.org/wiki/Q1907852)  
+
+### alignments:
+ - [Niš Fortress](https://pleiades.stoa.org/places/865385553)
 
 
 ## Nocera Umbra (Q20491)
@@ -58196,6 +58224,13 @@
  - [Sexaginta Prista](https://pleiades.stoa.org/places/216982)
 
 
+## Seydişehir (Q532164)
+[https://www.wikidata.org/wiki/Q532164](https://www.wikidata.org/wiki/Q532164)  
+
+### alignments:
+ - [Seydişehir](https://pleiades.stoa.org/places/117729018)
+
+
 ## Seyhan River (Q910975)
 [https://www.wikidata.org/wiki/Q910975](https://www.wikidata.org/wiki/Q910975)  
 
@@ -62333,6 +62368,13 @@
 
 ### alignments:
  - [Thenford](https://pleiades.stoa.org/places/79711)
+
+
+## Theotokos Kosmosoteira (Q96962495)
+[https://www.wikidata.org/wiki/Q96962495](https://www.wikidata.org/wiki/Q96962495)  
+
+### alignments:
+ - [Theotokos Kosmosoteira](https://pleiades.stoa.org/places/195824088)
 
 
 ## Therambos (Q54865144)
@@ -67776,6 +67818,13 @@
  - [Wharram-le-Street](https://pleiades.stoa.org/places/89322)
 
 
+## Whatley Combe Roman villa (Q17642108)
+[http://www.wikidata.org/entity/Q17642108](http://www.wikidata.org/entity/Q17642108)  
+
+### alignments:
+ - [Whatley Combe Roman villa](https://pleiades.stoa.org/places/805330167)
+
+
 ## Wheathampstead earthwork incorporating Devils Dyke and the Slad (Q17645330)
 [https://www.wikidata.org/wiki/Q17645330](https://www.wikidata.org/wiki/Q17645330)  
 
@@ -67928,6 +67977,20 @@
 
 ### alignments:
  - [X7 Barracks](https://pleiades.stoa.org/places/888638027)
+
+
+## Xantheia (Q134348601)
+[https://www.wikidata.org/wiki/Q134348601](https://www.wikidata.org/wiki/Q134348601)  
+
+### alignments:
+ - [Xantheia](https://pleiades.stoa.org/places/501661)
+
+
+## Xanthi (Q210296)
+[https://www.wikidata.org/wiki/Q210296](https://www.wikidata.org/wiki/Q210296)  
+
+### alignments:
+ - [Xantheia/Xanthi](https://pleiades.stoa.org/places/630785464)
 
 
 ## Xatis Scythae (Q135197258)

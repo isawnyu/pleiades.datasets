@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4765 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
+4766 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1729,6 +1729,13 @@
 
 ### alignments:
  - [Ariaratheia](https://pleiades.stoa.org/places/628934)
+
+
+## Geo 40847: Kypsela (İpsala?)
+[https://www.trismegistos.org/place/40847](https://www.trismegistos.org/place/40847)  
+
+### alignments:
+ - [Kypsela](https://pleiades.stoa.org/places/501489)
 
 
 ## Geo 40909: Timalinum

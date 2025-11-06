@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-442 alignments exist in _Pleiades_ place references as of 2025-11-05. The following list of alignments is grouped by zotkey.
+445 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -310,6 +310,13 @@
  - [Arainon](https://pleiades.stoa.org/places/570099)
 
 
+## Report 14462: PHÈRES. – Monastère de la Vierge Kosmosôteira - 1990
+[https://chronique.efa.gr/?r=report&id=14462](https://chronique.efa.gr/?r=report&id=14462)  
+
+### alignments:
+ - [Theotokos Kosmosoteira](https://pleiades.stoa.org/places/195824088)
+
+
 ## Report 14756: NAXOS. - Apollonas - 1988
 [https://chronique.efa.gr/?r=report&id=14756](https://chronique.efa.gr/?r=report&id=14756)  
 
@@ -350,6 +357,13 @@
 
 ### alignments:
  - [Pteleon](https://pleiades.stoa.org/places/541077)
+
+
+## Report 17466: PHÈRES. – Monastère de la Vierge Kosmosoteira - 1989
+[https://chronique.efa.gr/?r=report&id=17466](https://chronique.efa.gr/?r=report&id=17466)  
+
+### alignments:
+ - [Theotokos Kosmosoteira](https://pleiades.stoa.org/places/195824088)
 
 
 ## Report 18172: Antikythera - 2022
@@ -2090,6 +2104,13 @@
 
 ### alignments:
  - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
+
+
+## Toponyme 26455: Feres, Pherrai-Δ.Δ.Φερών
+[https://chronique.efa.gr/?r=topo_public&id=26455](https://chronique.efa.gr/?r=topo_public&id=26455)  
+
+### alignments:
+ - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
 
 
 ## Toponyme 27581: Edessa, Vodena
