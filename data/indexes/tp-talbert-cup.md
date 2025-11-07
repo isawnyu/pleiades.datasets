@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2256 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
+2257 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -11389,6 +11389,13 @@
 
 ### alignments:
  - [Thermaicus Sinus](https://pleiades.stoa.org/places/491739)
+
+
+## 6B5-7B1 (Talbert 3061)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3061.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3061.html)  
+
+### alignments:
+ - [Lacedaemon/Laconia](https://pleiades.stoa.org/places/570406)
 
 
 ## 6C1 (Talbert 1491)

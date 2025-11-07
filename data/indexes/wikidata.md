@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9813 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
+9819 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -18708,6 +18708,13 @@
  - [Geronteon (mountain)](https://pleiades.stoa.org/places/570262)
 
 
+## Geronthrae (Q15890352)
+[https://www.wikidata.org/wiki/Q15890352](https://www.wikidata.org/wiki/Q15890352)  
+
+### alignments:
+ - [Geronthrai](https://pleiades.stoa.org/places/570263)
+
+
 ## Gesher (Q4221865)
 [https://www.wikidata.org/wiki/Q4221865](https://www.wikidata.org/wiki/Q4221865)  
 
@@ -18951,6 +18958,13 @@
 
 ### alignments:
  - [Glyfa](https://pleiades.stoa.org/places/873325866)
+
+
+## Glyppia (Q48781593)
+[https://www.wikidata.org/wiki/Q48781593](https://www.wikidata.org/wiki/Q48781593)  
+
+### alignments:
+ - [Glyppia](https://pleiades.stoa.org/places/570265)
 
 
 ## Gnatia (Q732732)
@@ -24345,6 +24359,13 @@
  - [Krobyzoi](https://pleiades.stoa.org/places/216865)
 
 
+## Kroceae (Q48781592)
+[https://www.wikidata.org/wiki/Q48781592](https://www.wikidata.org/wiki/Q48781592)  
+
+### alignments:
+ - [Krokeai](https://pleiades.stoa.org/places/570385)
+
+
 ## Krommyon (Q1789784)
 [https://www.wikidata.org/wiki/Q1789784](https://www.wikidata.org/wiki/Q1789784)  
 
@@ -27403,6 +27424,13 @@
 
 ### alignments:
  - [Antiphrai/Leukaspis](https://pleiades.stoa.org/places/716524)
+
+
+## Marios (Laconia) (Q48781575)
+[https://www.wikidata.org/wiki/Q48781575](https://www.wikidata.org/wiki/Q48781575)  
+
+### alignments:
+ - [Marios](https://pleiades.stoa.org/places/570461)
 
 
 ## Maritsa (Q204347)
@@ -34573,6 +34601,13 @@
 
 ### alignments:
  - [Phoinix?](https://pleiades.stoa.org/places/589994)
+
+
+## Phoibaion (Q124615381)
+[https://www.wikidata.org/wiki/Q124615381](https://www.wikidata.org/wiki/Q124615381)  
+
+### alignments:
+ - [Phoibaion](https://pleiades.stoa.org/places/573452)
 
 
 ## Pholoe (Q2354090)
@@ -48884,13 +48919,6 @@
  - [[Dur-Katlimmu]/Magdalu](https://pleiades.stoa.org/places/893991)
 
 
-## Q48781592: Kroceae
-[https://www.wikidata.org/wiki/Q48781592](https://www.wikidata.org/wiki/Q48781592)  
-
-### alignments:
- - [Krokeai](https://pleiades.stoa.org/places/570385)
-
-
 ## Q48807618: Subinates
 [https://www.wikidata.org/wiki/Q48807618](https://www.wikidata.org/wiki/Q48807618)  
 
@@ -62124,6 +62152,13 @@
  - [Thalamai](https://pleiades.stoa.org/places/570715)
 
 
+## Thalamae (Q60744976)
+[https://www.wikidata.org/wiki/Q60744976](https://www.wikidata.org/wiki/Q60744976)  
+
+### alignments:
+ - [Thalamai](https://pleiades.stoa.org/places/573550)
+
+
 ## Thasos (Q204096)
 [https://www.wikidata.org/wiki/Q204096](https://www.wikidata.org/wiki/Q204096)  
 
@@ -68278,6 +68313,13 @@
 
 ### alignments:
  - [Zarai](https://pleiades.stoa.org/places/334669)
+
+
+## Zarax (Q11955563)
+[https://www.wikidata.org/wiki/Q11955563](https://www.wikidata.org/wiki/Q11955563)  
+
+### alignments:
+ - [Zarax](https://pleiades.stoa.org/places/570761)
 
 
 ## Zarqa River (Q798460)

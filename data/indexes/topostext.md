@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4700 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
+4704 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3160,6 +3160,13 @@
 
 ### alignments:
  - [Apollo Mageirios, T.](https://pleiades.stoa.org/places/707477)
+
+
+## Apollo Maleatas sanct. (Arkadia) Prophitis Ilias, Kosmas - Απόλλων Μαλεάτας
+[https://topostext.org/place/371227SApo](https://topostext.org/place/371227SApo)  
+
+### alignments:
+ - [Apollo Maleatas, T.](https://pleiades.stoa.org/places/570097)
 
 
 ## Apollo Melanthios sanct. (Cyprus)
@@ -23680,6 +23687,13 @@
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
 
 
+## Persian Gulf 94 Persian/Arabian Gulf
+[https://topostext.org/place/285500WPeG](https://topostext.org/place/285500WPeG)  
+
+### alignments:
+ - [Persicus Sinus/Erythr(ae)um Mare](https://pleiades.stoa.org/places/29713)
+
+
 ## Perusia (Italy)
 [https://topostext.org/place/431124UPer](https://topostext.org/place/431124UPer)  
 
@@ -24287,6 +24301,13 @@
 
 ### alignments:
  - [Phoenice (region)](https://pleiades.stoa.org/places/678334)
+
+
+## Phoibaion (Sparta) 4 Sparta - Φοιβαίον
+[https://topostext.org/place/371224SPho](https://topostext.org/place/371224SPho)  
+
+### alignments:
+ - [Phoibaion](https://pleiades.stoa.org/places/573452)
 
 
 ## Phoinike (Illyria)
@@ -30093,6 +30114,13 @@
 
 ### alignments:
  - [Teuthrone](https://pleiades.stoa.org/places/570714)
+
+
+## Thalamai (Elis) 3 Ileia
+[https://topostext.org/place/379214UTha](https://topostext.org/place/379214UTha)  
+
+### alignments:
+ - [Thalamai](https://pleiades.stoa.org/places/573550)
 
 
 ## Thalamai (Messenia)

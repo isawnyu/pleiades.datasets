@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-762 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
+765 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -646,6 +646,13 @@
  - [Messeis](https://pleiades.stoa.org/places/573374)
 
 
+## 10146600: Phoibaion (Laconia)
+[https://resource.manto.unh.edu/10146600](https://resource.manto.unh.edu/10146600)  
+
+### alignments:
+ - [Phoibaion](https://pleiades.stoa.org/places/573452)
+
+
 ## 10146606: Cleitor (Arcadia)
 [https://resource.manto.unh.edu/10146606](https://resource.manto.unh.edu/10146606)  
 
@@ -1106,6 +1113,13 @@
 
 ### alignments:
  - [Rheitoi (river)](https://pleiades.stoa.org/places/580098)
+
+
+## 10185062: Zarax (Laconia)
+[https://resource.manto.unh.edu/10185062](https://resource.manto.unh.edu/10185062)  
+
+### alignments:
+ - [Zarax](https://pleiades.stoa.org/places/570761)
 
 
 ## 10185076: The Rharion Plain (Eleusis)
@@ -2268,6 +2282,13 @@
 
 ### alignments:
  - [Magnesia ad Sipylum](https://pleiades.stoa.org/places/550706)
+
+
+## 11288841: Geronthrai (Laconia)
+[https://resource.manto.unh.edu/11288841](https://resource.manto.unh.edu/11288841)  
+
+### alignments:
+ - [Geronthrai](https://pleiades.stoa.org/places/570263)
 
 
 ## 11289316: Myndos (Caria)

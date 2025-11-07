@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-514 alignments exist in _Pleiades_ place references as of 2025-11-06. The following list of alignments is grouped by zotkey.
+516 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1596,10 +1596,18 @@
  - [Trinasos](https://pleiades.stoa.org/places/570753)
 
 
+## 3.22.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:3.22.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:3.22.6)  
+
+### alignments:
+ - [Geronthrai](https://pleiades.stoa.org/places/570263)
+
+
 ## 3.22.8
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.22.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.22.8)  
 
 ### alignments:
+ - [Glyppia](https://pleiades.stoa.org/places/570265)
  - [Marios](https://pleiades.stoa.org/places/570461)
 
 
@@ -1653,6 +1661,13 @@
 
 ### alignments:
  - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
+## 3.24.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:3.24.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:3.24.1)  
+
+### alignments:
+ - [Zarax](https://pleiades.stoa.org/places/570761)
 
 
 ## 3.24.2
