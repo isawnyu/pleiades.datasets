@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2257 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+2259 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -5449,6 +5449,13 @@
 
 ### alignments:
  - [Laus Pompeia](https://pleiades.stoa.org/places/383691)
+
+
+## 3B2 (Talbert 1050)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1050.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1050.html)  
+
+### alignments:
+ - [Acerrae](https://pleiades.stoa.org/places/383542)
 
 
 ## 3B2 (Talbert 1051)
@@ -15688,6 +15695,13 @@
 
 ### alignments:
  - [Eleutheros (river)](https://pleiades.stoa.org/places/668241)
+
+
+## 9C3 (Talbert 520)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace520.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace520.html)  
+
+### alignments:
+ - [Deleda](https://pleiades.stoa.org/places/668237)
 
 
 ## 9C3 (Talbert 521)

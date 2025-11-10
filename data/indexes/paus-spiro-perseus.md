@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-516 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+517 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1401,6 +1401,13 @@
 
 ### alignments:
  - [Heraclea Minoa](https://pleiades.stoa.org/places/462237)
+
+
+## 3.16.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.16.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.16.7)  
+
+### alignments:
+ - [Sanctuary of Artemis Anaiitis in Lydia](https://pleiades.stoa.org/places/550456)
 
 
 ## 3.17.1

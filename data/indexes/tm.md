@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4766 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+4773 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15052,7 +15052,7 @@
  - [Piranum](https://pleiades.stoa.org/places/197439)
 
 
-## GEO ID 31016
+## GEO ID 31016: Luna (Luni)
 [http://www.trismegistos.org/place/31016](http://www.trismegistos.org/place/31016)  
 
 ### alignments:
@@ -15162,6 +15162,13 @@
 
 ### alignments:
  - [Batnae/Markopolis](https://pleiades.stoa.org/places/658405)
+
+
+## GEO ID 31483: Acerrae (Pizzighettone)
+[https://www.trismegistos.org/place/31483](https://www.trismegistos.org/place/31483)  
+
+### alignments:
+ - [Acerrae](https://pleiades.stoa.org/places/383542)
 
 
 ## GEO ID 31487: Industria (Monteu da Po)
@@ -19435,6 +19442,13 @@
  - [Alexandria/Alexandropolis/Cufis](https://pleiades.stoa.org/places/59669)
 
 
+## GEO ID 37203: Achna
+[https://www.trismegistos.org/place/37203](https://www.trismegistos.org/place/37203)  
+
+### alignments:
+ - [Achna](https://pleiades.stoa.org/places/707486)
+
+
 ## GEO ID 3722: Tanamey
 [https://www.trismegistos.org/place/3722](https://www.trismegistos.org/place/3722)  
 
@@ -21810,6 +21824,13 @@
  - [Cellae](https://pleiades.stoa.org/places/481783)
 
 
+## GEO ID 40828: Apollonia
+[https://www.trismegistos.org/place/40828](https://www.trismegistos.org/place/40828)  
+
+### alignments:
+ - [Apollonia](https://pleiades.stoa.org/places/501355)
+
+
 ## GEO ID 40829: Mellissurgin
 [https://www.trismegistos.org/place/40829](https://www.trismegistos.org/place/40829)  
 
@@ -22067,6 +22088,13 @@
 
 ### alignments:
  - [Abila Dekapoleos/Seleukeia](https://pleiades.stoa.org/places/677992)
+
+
+## GEO ID 41012: Deleda (Hassia)
+[http://www.trismegistos.org/place/41012](http://www.trismegistos.org/place/41012)  
+
+### alignments:
+ - [Deleda](https://pleiades.stoa.org/places/668237)
 
 
 ## GEO ID 41016: Nazala (Al-Qaryatayn)
@@ -25121,6 +25149,13 @@
  - [Caleorsissa](https://pleiades.stoa.org/places/557533541)
 
 
+## GEO ID 42227: Araxes (Aras)
+[https://www.trismegistos.org/place/42227](https://www.trismegistos.org/place/42227)  
+
+### alignments:
+ - [Araxes (river)](https://pleiades.stoa.org/places/884118)
+
+
 ## GEO ID 42230
 [http://www.trismegistos.org/place/42230](http://www.trismegistos.org/place/42230)  
 
@@ -27342,6 +27377,13 @@
  - [Pagus Trisipensis?](https://pleiades.stoa.org/places/315110)
 
 
+## GEO ID 43840: Pagus Luras
+[https://www.trismegistos.org/place/43840](https://www.trismegistos.org/place/43840)  
+
+### alignments:
+ - [Pagus Luras](https://pleiades.stoa.org/places/383733)
+
+
 ## GEO ID 43841: Pagus Ambitrebius
 [http://www.trismegistos.org/place/43841](http://www.trismegistos.org/place/43841)  
 
@@ -28621,6 +28663,13 @@
 
 ### alignments:
  - [Balad/Shahrabadh](https://pleiades.stoa.org/places/874379)
+
+
+## GEO ID 47869: Birtha (Birecik)
+[http://www.trismegistos.org/place/47869](http://www.trismegistos.org/place/47869)  
+
+### alignments:
+ - [Birtha](https://pleiades.stoa.org/places/658412)
 
 
 ## GEO ID 47870: Circesium (Buseira)

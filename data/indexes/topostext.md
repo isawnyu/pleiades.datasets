@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4704 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+4711 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -386,6 +386,13 @@
 
 ### alignments:
  - [Achilleios Limen](https://pleiades.stoa.org/places/570031)
+
+
+## Achna Artemis sanct. (Cyprus) Akhna
+[https://topostext.org/place/351338SArt](https://topostext.org/place/351338SArt)  
+
+### alignments:
+ - [Achna](https://pleiades.stoa.org/places/707486)
 
 
 ## Acholla (Libya)
@@ -3659,6 +3666,13 @@
  - [Araxa](https://pleiades.stoa.org/places/638760)
 
 
+## Araxes R (Armenia) 93 Arax - Αράξης
+[https://topostext.org/place/391454WAra](https://topostext.org/place/391454WAra)  
+
+### alignments:
+ - [Araxes (river)](https://pleiades.stoa.org/places/884118)
+
+
 ## Araxos cape (Achaia)
 [https://topostext.org/place/382214LAra](https://topostext.org/place/382214LAra)  
 
@@ -4133,6 +4147,13 @@
 
 ### alignments:
  - [Arsinoe?/Ammochostos?](https://pleiades.stoa.org/places/707485)
+
+
+## Arsinoites nomos (Egypt)
+[https://topostext.org/place/293307RArs](https://topostext.org/place/293307RArs)  
+
+### alignments:
+ - [Arsinoites/Krokodeilopolites Nomos](https://pleiades.stoa.org/places/736893)
 
 
 ## Artake (Mysia)
@@ -9588,6 +9609,13 @@
  - [Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/687854)
 
 
+## Eleutheros river (Syria) 12 Nahr al-Kabir
+[https://topostext.org/place/346360WEle](https://topostext.org/place/346360WEle)  
+
+### alignments:
+ - [Eleutheros (river)](https://pleiades.stoa.org/places/668241)
+
+
 ## Elimberrum Augusta Auscorum (Gallia)
 [https://topostext.org/place/436006UAuc](https://topostext.org/place/436006UAuc)  
 
@@ -13529,6 +13557,13 @@
  - [Iotape](https://pleiades.stoa.org/places/648650)
 
 
+## Iouktas/Iytos Mt. sanctuary (Crete) Gioukhtas - Γιούχτας
+[https://topostext.org/place/352251LIyt](https://topostext.org/place/352251LIyt)  
+
+### alignments:
+ - [Iytos (mountain)](https://pleiades.stoa.org/places/589826)
+
+
 ## Ioulis (Kea)
 [https://topostext.org/place/376243PIou](https://topostext.org/place/376243PIou)  
 
@@ -17022,6 +17057,13 @@
 
 ### alignments:
  - [Lanuvium](https://pleiades.stoa.org/places/422956)
+
+
+## Laodicea ad Libanum/Kadesh (Syria) 5 Tell Nebi Mend
+[https://topostext.org/place/346365ULaL](https://topostext.org/place/346365ULaL)  
+
+### alignments:
+ - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
 
 
 ## Laodikea (Phrygia) 92 Denizli - Λαοδίκεια
@@ -27888,6 +27930,13 @@
 
 ### alignments:
  - [Serdica](https://pleiades.stoa.org/places/207439)
+
+
+## Sergius and Bacchus church
+[https://topostext.org/place/410290ESeB](https://topostext.org/place/410290ESeB)  
+
+### alignments:
+ - [Little Hagia Sophia](https://pleiades.stoa.org/places/756784437)
 
 
 ## Seria (Iberia)

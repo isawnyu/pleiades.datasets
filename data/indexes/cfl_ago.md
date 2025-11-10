@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-445 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+447 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1994,6 +1994,13 @@
  - [Kapros (island)](https://pleiades.stoa.org/places/501456)
 
 
+## Toponyme 22478: Koropi-Δ. Δ. Κρωπίας, Κορωπί
+[https://chronique.efa.gr/?r=topo_public&id=22478](https://chronique.efa.gr/?r=topo_public&id=22478)  
+
+### alignments:
+ - [Sphettos](https://pleiades.stoa.org/places/580109)
+
+
 ## Toponyme 22646: Koumanis
 [https://chronique.efa.gr/?kroute=topo_public&id=22646](https://chronique.efa.gr/?kroute=topo_public&id=22646)  
 
@@ -2076,6 +2083,13 @@
 
 ### alignments:
  - [Megalopolis Lignite Mines](https://pleiades.stoa.org/places/538278634)
+
+
+## Toponyme 25903: Kleitor-Δ.Δ.Κλείτορος
+[https://chronique.efa.gr/?r=topo_public&id=25903](https://chronique.efa.gr/?r=topo_public&id=25903)  
+
+### alignments:
+ - [Kleitor (river)](https://pleiades.stoa.org/places/570360)
 
 
 ## Toponyme 25903: Kleitor

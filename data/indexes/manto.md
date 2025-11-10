@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-765 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+769 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -828,6 +828,13 @@
  - [Laodicea](https://pleiades.stoa.org/places/668290)
 
 
+## 10150364: the Sanctuary of Artemis Anaiitis in Lydia
+[https://resource.manto.unh.edu/10150364](https://resource.manto.unh.edu/10150364)  
+
+### alignments:
+ - [Sanctuary of Artemis Anaiitis in Lydia](https://pleiades.stoa.org/places/550456)
+
+
 ## 10150527: Cichyros
 [https://resource.manto.unh.edu/10150527](https://resource.manto.unh.edu/10150527)  
 
@@ -1253,6 +1260,13 @@
 
 ### alignments:
  - [Anaphlystos](https://pleiades.stoa.org/places/579866)
+
+
+## 10194972: Sphettos (Attica)
+[https://resource.manto.unh.edu/10194972](https://resource.manto.unh.edu/10194972)  
+
+### alignments:
+ - [Sphettos](https://pleiades.stoa.org/places/580109)
 
 
 ## 10210633: Lousoi
@@ -2648,6 +2662,13 @@
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
 
 
+## 11304732: Mount Orbelos (Thrace)
+[https://resource.manto.unh.edu/11304732](https://resource.manto.unh.edu/11304732)  
+
+### alignments:
+ - [Orbelos (mountain)](https://pleiades.stoa.org/places/501539)
+
+
 ## 11304845: the Promontory of Sarpedon (Cilicia)
 [https://resource.manto.unh.edu/11304845](https://resource.manto.unh.edu/11304845)  
 
@@ -3873,6 +3894,13 @@
 
 ### alignments:
  - [Strymon (river)](https://pleiades.stoa.org/places/501629)
+
+
+## 8254011: River Echedoros (Thrace)
+[https://resource.manto.unh.edu/8254011](https://resource.manto.unh.edu/8254011)  
+
+### alignments:
+ - [Echeidoros (river)](https://pleiades.stoa.org/places/491584)
 
 
 ## 8254019: Lydia (Asia Minor)

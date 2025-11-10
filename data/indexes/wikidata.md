@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9819 alignments exist in _Pleiades_ place references as of 2025-11-07. The following list of alignments is grouped by zotkey.
+9831 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -448,6 +448,13 @@
 
 ### alignments:
  - [Acerrae](https://pleiades.stoa.org/places/432621)
+
+
+## Acerrae (Q630709)
+[https://www.wikidata.org/wiki/Q630709](https://www.wikidata.org/wiki/Q630709)  
+
+### alignments:
+ - [Acerrae](https://pleiades.stoa.org/places/383542)
 
 
 ## Acerrae Vatriae (Q4673211)
@@ -3613,6 +3620,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/491526)
+
+
+## Apollonia (Q4780382)
+[https://www.wikidata.org/wiki/Q4780382](https://www.wikidata.org/wiki/Q4780382)  
+
+### alignments:
+ - [Apollonia](https://pleiades.stoa.org/places/501355)
 
 
 ## Apollonia (Q4780392)
@@ -7213,6 +7227,13 @@
 
 ### alignments:
  - [Beth Aramaye](https://pleiades.stoa.org/places/893958)
+
+
+## Betriacum (Q16532302)
+[https://www.wikidata.org/wiki/Q16532302](https://www.wikidata.org/wiki/Q16532302)  
+
+### alignments:
+ - [Bedriacum](https://pleiades.stoa.org/places/383584)
 
 
 ## Beudos (Q85746800)
@@ -18048,6 +18069,13 @@
  - [Intercisa/Petra Pertusa](https://pleiades.stoa.org/places/413180)
 
 
+## Furqlus (Q5509707)
+[https://www.wikidata.org/wiki/Q5509707](https://www.wikidata.org/wiki/Q5509707)  
+
+### alignments:
+ - [Betproclis](https://pleiades.stoa.org/places/668212)
+
+
 ## Fusaro Lake (Q764710)
 [https://www.wikidata.org/wiki/Q764710](https://www.wikidata.org/wiki/Q764710)  
 
@@ -19799,6 +19827,13 @@
 
 ### alignments:
  - [Hagia Sophia, Thessaloniki](https://pleiades.stoa.org/places/332324146)
+
+
+## Hagia Sophia, Iznik (Q4430013)
+[https://www.wikidata.org/wiki/Q4430013](https://www.wikidata.org/wiki/Q4430013)  
+
+### alignments:
+ - [Hagia Sophia, Iznik](https://pleiades.stoa.org/places/756784438)
 
 
 ## Hagnous (Q13446016)
@@ -22867,6 +22902,13 @@
  - [Kophen/Koa (river)](https://pleiades.stoa.org/places/59886)
 
 
+## Kadesh (Q690035)
+[https://www.wikidata.org/wiki/Q690035](https://www.wikidata.org/wiki/Q690035)  
+
+### alignments:
+ - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
+
+
 ## Kadisha Valley (Q29384)
 [https://www.wikidata.org/wiki/Q29384](https://www.wikidata.org/wiki/Q29384)  
 
@@ -25389,6 +25431,13 @@
  - [Lanuvium](https://pleiades.stoa.org/places/422956)
 
 
+## Laodicea ad Libanum (Q1137988)
+[https://www.wikidata.org/wiki/Q1137988](https://www.wikidata.org/wiki/Q1137988)  
+
+### alignments:
+ - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
+
+
 ## Lapathus (Q1329990)
 [https://www.wikidata.org/wiki/Q1329990](https://www.wikidata.org/wiki/Q1329990)  
 
@@ -26187,6 +26236,13 @@
  - [Zaba? (island)](https://pleiades.stoa.org/places/50338)
 
 
+## Little Hagia Sophia Q1144576
+[https://www.wikidata.org/wiki/Q1144576](https://www.wikidata.org/wiki/Q1144576)  
+
+### alignments:
+ - [Little Hagia Sophia](https://pleiades.stoa.org/places/756784437)
+
+
 ## Little Palace at Knossos (Q112199925)
 [https://www.wikidata.org/wiki/Q112199925](https://www.wikidata.org/wiki/Q112199925)  
 
@@ -26262,6 +26318,13 @@
 
 ### alignments:
  - [Lydda/Diospolis/Georgioupolis](https://pleiades.stoa.org/places/687953)
+
+
+## Lodi Vecchio (Q42296)
+[https://www.wikidata.org/wiki/Q42296](https://www.wikidata.org/wiki/Q42296)  
+
+### alignments:
+ - [Laus Pompeia](https://pleiades.stoa.org/places/383691)
 
 
 ## Logatec (Q2752423)
@@ -29913,6 +29976,13 @@
  - [Mount Fumaiolo](https://pleiades.stoa.org/places/307322303)
 
 
+## Mount Juktas (Q3321879)
+[https://www.wikidata.org/wiki/Q3321879](https://www.wikidata.org/wiki/Q3321879)  
+
+### alignments:
+ - [Iytos (mountain)](https://pleiades.stoa.org/places/589826)
+
+
 ## Mount Kyllini (Q1232572)
 [https://www.wikidata.org/wiki/Q1232572](https://www.wikidata.org/wiki/Q1232572)  
 
@@ -30464,6 +30534,13 @@
 
 ### alignments:
  - [Nava? (river)](https://pleiades.stoa.org/places/109191)
+
+
+## Nahr al-Kabir al-Janoubi (Q2553222)
+[https://www.wikidata.org/wiki/Q2553222](https://www.wikidata.org/wiki/Q2553222)  
+
+### alignments:
+ - [Eleutheros (river)](https://pleiades.stoa.org/places/668241)
 
 
 ## Nalanda Mahavihara (Q216243)
@@ -38140,13 +38217,6 @@
  - [Basilica of Santa Maria in Trastevere](https://pleiades.stoa.org/places/463398873)
 
 
-## Q1137988: Laodicea ad Libanum
-[https://www.wikidata.org/wiki/Q1137988](https://www.wikidata.org/wiki/Q1137988)  
-
-### alignments:
- - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
-
-
 ## Q1139578: Cremera
 [https://www.wikidata.org/wiki/Q1139578](https://www.wikidata.org/wiki/Q1139578)  
 
@@ -43688,13 +43758,6 @@
 
 ### alignments:
  - [Guzana (Tell Halaf)](https://pleiades.stoa.org/places/874739)
-
-
-## Q2144316
-[https://www.wikidata.org/wiki/Q2144316](https://www.wikidata.org/wiki/Q2144316)  
-
-### alignments:
- - [Roman amphitheater at Luna](https://pleiades.stoa.org/places/708445364)
 
 
 ## Q21480116: Poblat Ibèric del Turó de Castellruf
@@ -49430,13 +49493,6 @@
  - [Korinion/Cironium](https://pleiades.stoa.org/places/79549)
 
 
-## Q550466: sanctuary of Artemis Orthia
-[https://www.wikidata.org/wiki/Q550466](https://www.wikidata.org/wiki/Q550466)  
-
-### alignments:
- - [Temple of Artemis Orthia](https://pleiades.stoa.org/places/139216315)
-
-
 ## Q550578: Via Praenestina
 [https://www.wikidata.org/wiki/Q550578](https://www.wikidata.org/wiki/Q550578)  
 
@@ -51509,13 +51565,6 @@
  - [Temple of Sardus Pater](https://pleiades.stoa.org/places/472015)
 
 
-## Q690035: Kadesh
-[https://www.wikidata.org/wiki/Q690035](https://www.wikidata.org/wiki/Q690035)  
-
-### alignments:
- - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
-
-
 ## Q6907282: Mooghaun
 [https://www.wikidata.org/wiki/Q6907282](https://www.wikidata.org/wiki/Q6907282)  
 
@@ -52144,13 +52193,6 @@
 
 ### alignments:
  - [Tyritake](https://pleiades.stoa.org/places/854745)
-
-
-## Q786254: Via Postumia
-[https://www.wikidata.org/wiki/Q786254](https://www.wikidata.org/wiki/Q786254)  
-
-### alignments:
- - [Via Postumia](https://pleiades.stoa.org/places/788760849)
 
 
 ## Q786942: Azania
@@ -54618,6 +54660,13 @@
  - [Roman amphitheater at Luca](https://pleiades.stoa.org/places/463189757)
 
 
+## Roman Amphitheatre of Luna (Q2144316)
+[https://www.wikidata.org/wiki/Q2144316](https://www.wikidata.org/wiki/Q2144316)  
+
+### alignments:
+ - [Roman amphitheater at Luna](https://pleiades.stoa.org/places/708445364)
+
+
 ## Roman amphitheatre of Martigny (Q2844412)
 [https://www.wikidata.org/wiki/Q2844412](https://www.wikidata.org/wiki/Q2844412)  
 
@@ -56683,6 +56732,13 @@
  - [Sanctuary 18/19](https://pleiades.stoa.org/places/888638049)
 
 
+## Sanctuary of Anaiitis in Lydia, with xoanon of Artemis (Q124616459)
+[https://www.wikidata.org/wiki/Q124616459](https://www.wikidata.org/wiki/Q124616459)  
+
+### alignments:
+ - [Sanctuary of Artemis Anaiitis in Lydia](https://pleiades.stoa.org/places/550456)
+
+
 ## Sanctuary of Aphrodite (Q53556453)
 [https://www.wikidata.org/wiki/Q53556453](https://www.wikidata.org/wiki/Q53556453)  
 
@@ -56695,6 +56751,13 @@
 
 ### alignments:
  - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
+
+
+## sanctuary of Artemis Orthia (Q550466)
+[https://www.wikidata.org/wiki/Q550466](https://www.wikidata.org/wiki/Q550466)  
+
+### alignments:
+ - [Temple of Artemis Orthia](https://pleiades.stoa.org/places/139216315)
 
 
 ## Sanctuary of Asclepius, Epidaurus (Q7698713)
@@ -58376,6 +58439,13 @@
 
 ### alignments:
  - [Shrine of Sabazius](https://pleiades.stoa.org/places/233060587)
+
+
+## Shumen (Q181830)
+[https://www.wikidata.org/wiki/Q181830](https://www.wikidata.org/wiki/Q181830)  
+
+### alignments:
+ - [Shoumen](https://pleiades.stoa.org/places/216983)
 
 
 ## Shuqba cave (Q7505195)
@@ -60918,6 +60988,13 @@
 
 ### alignments:
  - [Arzâ ](https://pleiades.stoa.org/places/309101265)
+
+
+## Tell Kazel (Q3398568)
+[https://www.wikidata.org/wiki/Q3398568](https://www.wikidata.org/wiki/Q3398568)  
+
+### alignments:
+ - [Simyra?](https://pleiades.stoa.org/places/668372)
 
 
 ## Tell Keisan (Q55634890)
@@ -66380,6 +66457,13 @@
 
 ### alignments:
  - [Via Portuensis?](https://pleiades.stoa.org/places/303999556)
+
+
+## Via Postumia (Q786254)
+[https://www.wikidata.org/wiki/Q786254](https://www.wikidata.org/wiki/Q786254)  
+
+### alignments:
+ - [Via Postumia](https://pleiades.stoa.org/places/788760849)
 
 
 ## Via Quinctia (Q28669824)
