@@ -1,15 +1,16 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        24.712,
+        37.012,
+        24.712,
+        37.012
+    ],
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/590049"
+    ],
     "contributors": [
-        {
-            "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
-        },
         {
             "homepage": null,
             "name": "Sean Gillies",
@@ -25,6 +26,12 @@
         {
             "name": "R. Talbert",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2025-11-04T20:05:05Z",
@@ -42,14 +49,20 @@
     "details": "The Barrington Atlas Directory notes: Ag. Sostes, on Siphnos",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    24.712,
+                    37.012
+                ],
+                "type": "Point"
+            },
+            "id": "topostext-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589671/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - 550 BC",
-                "title": "Barrington Atlas location"
+                "description": "Dates after BAtlDir.",
+                "link": "https://pleiades.stoa.org/places/589671/topostext-location",
+                "location_precision": "precise",
+                "snippet": "Mine-2; 750 BC - 550 BC",
+                "title": "ToposText Location"
             },
             "type": "Feature"
         }
@@ -95,8 +108,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -108,78 +121,96 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2025-11-04T17:46:25Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Brady Kiesling",
+                    "uri": "https://pleiades.stoa.org/author/bkiesling",
+                    "username": "bkiesling"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-22T19:17:02Z",
-            "creators": [
-                {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
-                }
-            ],
-            "description": "",
+            "description": "Dates after BAtlDir.",
             "details": "",
             "end": -550,
             "featureType": [
-                "unknown"
+                "mine-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    24.712,
+                    37.012
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:06Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:05:08Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-11-08T14:24:56Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:59:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-04T17:46:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location provided by @bkiesilng via ToposText",
+                    "modified": "2025-11-04T17:46:25Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:17:02Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-04T17:46:25Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "topostext-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/mine-2"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C4 Ag. Sostes",
-            "references": [],
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/370247QAso",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Ag. Sostes (Siphnos) Ag. Sostis",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 920 see \"Ag. Sostes\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
             "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589671/batlas-location"
+            "title": "ToposText Location",
+            "uri": "https://pleiades.stoa.org/places/589671/topostext-location"
         }
     ],
     "names": [],
@@ -225,7 +256,10 @@
             "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.712,
+        37.012
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
