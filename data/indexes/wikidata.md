@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9831 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
+9832 alignments exist in _Pleiades_ place references as of 2025-11-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -18130,6 +18130,13 @@
 
 ### alignments:
  - [Gadara/Pompeia](https://pleiades.stoa.org/places/678142)
+
+
+## Gadeira (Q5890310)
+[https://www.wikidata.org/wiki/Q5890310](https://www.wikidata.org/wiki/Q5890310)  
+
+### alignments:
+ - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
 
 
 ## Gadilon (Q65047431)

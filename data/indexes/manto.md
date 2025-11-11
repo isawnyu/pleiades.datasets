@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-769 alignments exist in _Pleiades_ place references as of 2025-11-10. The following list of alignments is grouped by zotkey.
+770 alignments exist in _Pleiades_ place references as of 2025-11-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3852,6 +3852,13 @@
 
 ### alignments:
  - [Torone](https://pleiades.stoa.org/places/501646)
+
+
+## 8254000: Gadeira (Iberia)
+[https://resource.manto.unh.edu/8254000](https://resource.manto.unh.edu/8254000)  
+
+### alignments:
+ - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
 
 
 ## 8254001: Tartessos (Spain)
