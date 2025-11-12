@@ -1,22 +1,100 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        24.738,
+        36.9326,
+        24.738,
+        36.9326
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/590049",
+            "contributors": [],
+            "created": "2025-11-11T21:17:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-11-12T02:07:14Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-11-11T21:17:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-11-11T21:17:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-11-11T21:17:47Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "siphnos-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 C5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Siphnos (island)",
+            "uri": "https://pleiades.stoa.org/places/589714/siphnos-island"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/590049"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-22T19:17:57Z",
@@ -31,22 +109,38 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 60 C5 Aspros Pyrgos",
-    "details": "The Barrington Atlas Directory notes: Aspros Pyrgos, on Siphnos",
+    "details": "<p>The Barrington Atlas Directory notes: Aspros Pyrgos, on Siphnos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    24.738,
+                    36.9326
+                ],
+                "type": "Point"
+            },
+            "id": "topostext-location",
             "properties": {
                 "description": "",
-                "link": "https://pleiades.stoa.org/places/589714/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 750 BC - 330 BC",
-                "title": "Barrington Atlas location"
+                "link": "https://pleiades.stoa.org/places/589714/topostext-location",
+                "location_precision": "precise",
+                "snippet": "Tower-single, Cistern; 550 BC - 330 BC",
+                "title": "ToposText Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added ToposText and iDAI.gazetteer references provided by @bkiesling",
+            "modified": "2025-11-11T21:19:21Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Initial revision",
+            "modified": "2025-11-11T21:16:57Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T06:47:32Z",
@@ -77,18 +171,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/topostext-high-confidence",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
                 {
                     "confidence": "less-confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
@@ -96,86 +184,98 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
                 }
             ],
-            "contributors": [
+            "contributors": [],
+            "created": "2025-11-11T21:15:58Z",
+            "creators": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
+                    "homepage": null,
+                    "name": "Brady Kiesling",
+                    "uri": "https://pleiades.stoa.org/author/bkiesling",
+                    "username": "bkiesling"
                 },
                 {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:17:58Z",
-            "creators": [
-                {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
             "details": "",
             "end": -330,
             "featureType": [
-                "unknown"
+                "tower-single",
+                "cistern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single",
+                "https://pleiades.stoa.org/vocabularies/place-types/cistern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    24.738,
+                    36.9326
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:32Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:03:47Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2025-11-12T01:58:43Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:57:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-11T21:16:17Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "added location provided by @bkiesilng via ToposText; supersedes currently published BAtlas placeholder location, which should be not only withdrawn but deleted",
+                    "modified": "2025-11-11T21:16:01Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:17:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-11T21:15:58Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "topostext-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/tower-single",
+                "https://pleiades.stoa.org/vocabularies/place-types/cistern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 60 C5 Aspros Pyrgos",
-            "references": [],
+            "provenance": "ToposText",
+            "references": [
+                {
+                    "accessURI": "https://topostext.org/place/369247FAPy",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+                    "citationDetail": "Aspros Pyrgos (Siphnos) Platys Gialos",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ToposText",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -750,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589714/batlas-location"
+            "start": -550,
+            "title": "ToposText Location",
+            "uri": "https://pleiades.stoa.org/places/589714/topostext-location"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+        "https://pleiades.stoa.org/vocabularies/place-types/tower-single",
+        "https://pleiades.stoa.org/vocabularies/place-types/cistern"
     ],
     "placeTypes": [
-        "unknown"
+        "tower-single",
+        "cistern"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C5 Aspros Pyrgos",
     "references": [
@@ -191,18 +291,43 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/30682523",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#Ashton-1991",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q6UQKCKN",
+            "citationDetail": "132-34",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ashton 1991, 132-34",
+            "formattedCitation": "<div class=\"csl-entry\">Ashton, N. G, and E. Th Pantazoglou. <i>Siphnos Ancient Towers B.C. = Σιφνος: Αρχαιοι Πυργοι π.Χ.</i> Athens: Eptalofos Abee, 1991. http://www.worldcat.org/oclc/30682523.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Ashton 1991",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2361463",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2361463: Aspros Pyrgos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>iDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://topostext.org/place/369247FAPy",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Aspros Pyrgos (Siphnos) Platys Gialos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        24.738,
+        36.9326
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
