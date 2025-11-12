@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4711 alignments exist in _Pleiades_ place references as of 2025-11-11. The following list of alignments is grouped by zotkey.
+4716 alignments exist in _Pleiades_ place references as of 2025-11-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -638,6 +638,13 @@
 
 ### alignments:
  - [Ag. Georgios](https://pleiades.stoa.org/places/550408)
+
+
+## Ag. Georgios tower (Siphnos) Ag. Georgios - Άγιος Γεωργιος
+[https://topostext.org/place/370246FAGe](https://topostext.org/place/370246FAGe)  
+
+### alignments:
+ - [Ag. Georgios](https://pleiades.stoa.org/places/589663)
 
 
 ## Ag. Ioannis Khalara (Kea)  Ag. Ioannis Khalara
@@ -4547,6 +4554,13 @@
 
 ### alignments:
  - [Asprogia](https://pleiades.stoa.org/places/707487)
+
+
+## Aspros Pyrgos (Siphnos) Platys Gialos
+[https://topostext.org/place/369247FAPy](https://topostext.org/place/369247FAPy)  
+
+### alignments:
+ - [Aspros Pyrgos](https://pleiades.stoa.org/places/589714)
 
 
 ## Assera (Halkidiki)
@@ -14243,6 +14257,13 @@
  - [Kamiros](https://pleiades.stoa.org/places/589836)
 
 
+## Kampanario tower (Siphnos) Artemonas
+[https://topostext.org/place/370247FKam](https://topostext.org/place/370247FKam)  
+
+### alignments:
+ - [Kampanario](https://pleiades.stoa.org/places/589837)
+
+
 ## Kampos Krousos site (Lesbos)
 [https://topostext.org/place/391260FKam](https://topostext.org/place/391260FKam)  
 
@@ -18680,6 +18701,13 @@
 
 ### alignments:
  - [Makra Kome](https://pleiades.stoa.org/places/540926)
+
+
+## Makri Louri (Kaminaros) tower (Siphnos) - Μακρύ Λουρί ή Καμίναρος
+[https://topostext.org/place/370247FT80](https://topostext.org/place/370247FT80)  
+
+### alignments:
+ - [Makri Louri](https://pleiades.stoa.org/places/820778148)
 
 
 ## Makri St. peristyle (Athens) Makrygiannis
@@ -26224,6 +26252,13 @@
 
 ### alignments:
  - [Prophitis Ilias](https://pleiades.stoa.org/places/590015)
+
+
+## Prophitis Ilias tower (Siphnos) Troulaki - Προφήτης Ηλίας
+[https://topostext.org/place/370247FPIl](https://topostext.org/place/370247FPIl)  
+
+### alignments:
+ - [Prophetes Elias Troullakiou](https://pleiades.stoa.org/places/590014)
 
 
 ## Propontis (Turkey)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4773 alignments exist in _Pleiades_ place references as of 2025-11-11. The following list of alignments is grouped by zotkey.
+4774 alignments exist in _Pleiades_ place references as of 2025-11-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -671,13 +671,6 @@
 
 ### alignments:
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
-
-
-## Geo 2143: Siphnos
-[https://www.trismegistos.org/place/2143](https://www.trismegistos.org/place/2143)  
-
-### alignments:
- - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
 
 
 ## Geo 21511: Suindunum (Le Mans)
@@ -10491,6 +10484,13 @@
 
 ### alignments:
  - [Siphnos (island)](https://pleiades.stoa.org/places/590049)
+
+
+## GEO ID 2143: Siphnos
+[https://www.trismegistos.org/place/2143](https://www.trismegistos.org/place/2143)  
+
+### alignments:
+ - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
 
 
 ## GEO ID 21442: Mons Seleucus (La Bâtie-Montsaléon)
@@ -25147,6 +25147,13 @@
 
 ### alignments:
  - [Caleorsissa](https://pleiades.stoa.org/places/557533541)
+
+
+## GEO ID 42211: Incomacenis
+[https://www.trismegistos.org/place/42211](https://www.trismegistos.org/place/42211)  
+
+### alignments:
+ - [Incomacenis](https://pleiades.stoa.org/places/674573403)
 
 
 ## GEO ID 42227: Araxes (Aras)

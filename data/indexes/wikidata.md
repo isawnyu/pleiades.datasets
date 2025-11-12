@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9832 alignments exist in _Pleiades_ place references as of 2025-11-11. The following list of alignments is grouped by zotkey.
+9838 alignments exist in _Pleiades_ place references as of 2025-11-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -14846,6 +14846,13 @@
  - [Tentyra](https://pleiades.stoa.org/places/786127)
 
 
+## Denizli (Q170967)
+[https://www.wikidata.org/wiki/Q170967](https://www.wikidata.org/wiki/Q170967)  
+
+### alignments:
+ - [Denizli](https://pleiades.stoa.org/places/755967974)
+
+
 ## Derbe (Q20717624)
 [https://www.wikidata.org/wiki/Q20717624](https://www.wikidata.org/wiki/Q20717624)  
 
@@ -15061,6 +15068,13 @@
 
 ### alignments:
  - [Aigaion Antron](https://pleiades.stoa.org/places/589675)
+
+
+## Diktynaion (Q22681271)
+[https://www.wikidata.org/wiki/Q22681271](https://www.wikidata.org/wiki/Q22681271)  
+
+### alignments:
+ - [Diktynnaion](https://pleiades.stoa.org/places/589760)
 
 
 ## Dilmun Burial Mounds (Q5276996)
@@ -23105,6 +23119,13 @@
  - [Camarum (island)](https://pleiades.stoa.org/places/39318)
 
 
+## Kamares, Crete (Q943675)
+[https://www.wikidata.org/wiki/Q943675](https://www.wikidata.org/wiki/Q943675)  
+
+### alignments:
+ - [Kamares](https://pleiades.stoa.org/places/187018676)
+
+
 ## Kaminahu (Q129332)
 [https://www.wikidata.org/wiki/Q129332](https://www.wikidata.org/wiki/Q129332)  
 
@@ -29199,6 +29220,13 @@
  - [Minnagara?/Akota](https://pleiades.stoa.org/places/59933)
 
 
+## Minoa (Paros) (Q62935040)
+[https://www.wikidata.org/wiki/Q62935040](https://www.wikidata.org/wiki/Q62935040)  
+
+### alignments:
+ - [ Minoia/ Minoa/Minoida](https://pleiades.stoa.org/places/606336)
+
+
 ## Minoa (Q38281285)
 [https://www.wikidata.org/wiki/Q38281285](https://www.wikidata.org/wiki/Q38281285)  
 
@@ -32053,6 +32081,13 @@
 
 ### alignments:
  - [Oakwood Roman fort](https://pleiades.stoa.org/places/910468314)
+
+
+## Oaxos (Q2008641)
+[https://www.wikidata.org/wiki/Q2008641](https://www.wikidata.org/wiki/Q2008641)  
+
+### alignments:
+ - [(W)Axos](https://pleiades.stoa.org/places/590095)
 
 
 ## Obelisk of Theodosius (Q763854)
@@ -36569,6 +36604,13 @@
 
 ### alignments:
  - [Psaphis](https://pleiades.stoa.org/places/580093)
+
+
+## Pseira (Q473606)
+[https://www.wikidata.org/wiki/Q473606](https://www.wikidata.org/wiki/Q473606)  
+
+### alignments:
+ - [Pseira (island)](https://pleiades.stoa.org/places/573222970)
 
 
 ## Pserimos (Q644254)
@@ -46407,6 +46449,7 @@
 
 ### alignments:
  - [Palaikastro, Crete](https://pleiades.stoa.org/places/213924739)
+ - [Roussolakkos](https://pleiades.stoa.org/places/258569489)
 
 
 ## Q34589: Euphrates
@@ -52986,13 +53029,6 @@
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
 
 
-## Q943675: Kamares, Crete
-[https://www.wikidata.org/wiki/Q943675](https://www.wikidata.org/wiki/Q943675)  
-
-### alignments:
- - [Kamares](https://pleiades.stoa.org/places/187018676)
-
-
 ## Q944515: Alba Fucens
 [https://www.wikidata.org/wiki/Q944515](https://www.wikidata.org/wiki/Q944515)  
 
@@ -55617,6 +55653,13 @@
 
 ### alignments:
  - [Desenzano](https://pleiades.stoa.org/places/383634)
+
+
+## Roman villa of Keynsham (Q15126688)
+[https://www.wikidata.org/wiki/Q15126688](https://www.wikidata.org/wiki/Q15126688)  
+
+### alignments:
+ - [Durley Hill](https://pleiades.stoa.org/places/847419768)
 
 
 ## Roman villa of Ossaia (Q115813258)
