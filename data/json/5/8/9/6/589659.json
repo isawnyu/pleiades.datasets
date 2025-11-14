@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        24.6348242,
-        36.9011463,
-        24.7651168,
-        37.0416501
+        24.721853,
+        36.9542076,
+        24.721853,
+        36.9542076
     ],
     "connections": [
         {
@@ -152,9 +152,15 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-09-22T19:16:47Z",
+    "created": "2025-11-04T17:48:38Z",
     "creators": [
         {
             "name": "J. Bennet",
@@ -165,23 +171,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 60 C5 Ag. Andreas",
-    "details": "The Barrington Atlas Directory notes: Ag. Andreas, on Siphnos",
+    "description": "A Classical-Hellenistic period settlement on/around the site of an earlier Mycenaean citadel on the island of Siphnos, now partially occupied by the church of Agios Andreas.",
+    "details": "<p>The Barrington Atlas Directory notes: Ag. Andreas, on Siphnos</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    24.721853,
+                    36.9542076
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-agios-andra-c-as",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/589659/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 550 BC - 30 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/589659/osm-location-agios-andra-c-as",
+                "location_precision": "precise",
+                "snippet": "Church-2; AD 2000 - AD 2099",
+                "title": "OSM Location: Agios Andréas"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "cleaned up references; summary; place type = settlement (per BAtlas symbol); Edited @thomase",
+            "modified": "2025-11-12T15:18:45Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2025-11-04T17:48:37Z",
@@ -217,106 +234,181 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "contributors": [],
+            "created": "2025-11-04T17:55:35Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
+            "featureType": [
+                "church-2"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "geometry": {
+                "coordinates": [
+                    24.721853,
+                    36.9542076
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-11-12T15:19:10Z",
+                    "modifiedBy": "jbecker"
                 },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-11-04T17:56:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-11-04T17:55:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-11-04T17:55:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-11-04T17:55:35Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "osm-location-agios-andra-c-as",
+            "locationType": [
+                "associated_modern"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/church-2"
+            ],
+            "provenance": "OpenStreetMap (Node 2917980474, version 7, osm:changeset=150156552, 2024-04-18T06:01:05Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2917980474",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2917980474",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2917980474",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": 2000,
+            "title": "OSM Location: Agios Andréas",
+            "uri": "https://pleiades.stoa.org/places/589659/osm-location-agios-andra-c-as"
+        }
+    ],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-22T19:16:47Z",
+            "attested": "Ag. Andreas",
+            "contributors": [],
+            "created": "2025-11-12T02:13:41Z",
             "creators": [
                 {
-                    "name": "J. Bennet",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "description": "",
             "details": "",
-            "end": -30,
-            "featureType": [
-                "unknown"
-            ],
-            "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "geometry": null,
+            "end": 1999,
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:47:01Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T20:05:04Z",
+                    "modified": "2025-11-12T15:13:09Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-22T19:59:22Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-12T02:13:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-11-12T02:13:42Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-22T19:16:47Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-12T02:13:41Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
-            "locationType": [
-                "representative"
+            "id": "ag-andreas",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "60 C5 Ag. Andreas",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
             ],
-            "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
-            ],
-            "provenance": "Barrington Atlas: BAtlas 60 C5 Ag. Andreas",
-            "references": [],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/589659/batlas-location"
+            "romanized": "Ag. Andreas",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589659/ag-andreas"
         }
     ],
-    "names": [],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/church-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/acropolis"
     ],
     "placeTypes": [
         "church-2",
+        "settlement",
         "acropolis"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 C5 Ag. Andreas",
@@ -335,23 +427,23 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Matthäus-1985",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9775ZUXJ",
+            "citationDetail": "34-37",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Matthäus 1985, 34-37",
+            "formattedCitation": "<div class=\"csl-entry\">Matthäus, H. “Sifnos im Altertum.” In <i>Silber, Blei und Gold auf Sifnos: prähistorische und antike Metallproduktion</i>, edited by G.A. Wagner and G. Weisgerber, 17–58. Der Anschnitt, Zeitschrift für Kunst und Kultur im Bergbou, Beiheft 3. Bochum: Vereinigung der Freunde von Kunst und Kultur im Bergbau, 1985.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Matthäus 1985",
             "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        24.71015177386895,
-        36.96393414830271
+        24.721853,
+        36.9542076
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Ag. Andreas",
+    "title": "Ag. Andreas (Siphnos)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/589659"
 }
