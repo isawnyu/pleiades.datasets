@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4716 alignments exist in _Pleiades_ place references as of 2025-11-12. The following list of alignments is grouped by zotkey.
+4720 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -388,6 +388,13 @@
  - [Achilleios Limen](https://pleiades.stoa.org/places/570031)
 
 
+## Achladia Minoan villa (Crete) Riza - Αχλαδιά
+[https://topostext.org/place/352261XRiz](https://topostext.org/place/352261XRiz)  
+
+### alignments:
+ - [Achladia](https://pleiades.stoa.org/places/598926917)
+
+
 ## Achna Artemis sanct. (Cyprus) Akhna
 [https://topostext.org/place/351338SArt](https://topostext.org/place/351338SArt)  
 
@@ -596,6 +603,13 @@
 
 ### alignments:
  - [Aetokremnos](https://pleiades.stoa.org/places/751079112)
+
+
+## Ag. Andreas exc. (Siphnos) Ag. Andreas
+[https://topostext.org/place/370247XAan](https://topostext.org/place/370247XAan)  
+
+### alignments:
+ - [Agios Andreas (Siphnos)](https://pleiades.stoa.org/places/492082396)
 
 
 ## Ag. Athanasios site (Drama)  Ag. Athanasios - Άγιος Αθανάσιος
@@ -4960,6 +4974,13 @@
 
 ### alignments:
  - [Aufidena](https://pleiades.stoa.org/places/432709)
+
+
+## Aufidus river () 27 Ofanto
+[https://topostext.org/place/412160WAuf](https://topostext.org/place/412160WAuf)  
+
+### alignments:
+ - [Aufidus (river)](https://pleiades.stoa.org/places/442485)
 
 
 ## Augusta (Gallia)
@@ -10882,6 +10903,13 @@
 
 ### alignments:
  - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
+
+
+## Galatas palace (Crete) Galatas
+[https://topostext.org/place/352252XGal](https://topostext.org/place/352252XGal)  
+
+### alignments:
+ - [Galatas](https://pleiades.stoa.org/places/586984740)
 
 
 ## Galatia (Anatolia)

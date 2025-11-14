@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4774 alignments exist in _Pleiades_ place references as of 2025-11-12. The following list of alignments is grouped by zotkey.
+4775 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -18292,6 +18292,13 @@
 
 ### alignments:
  - [Kerinthos](https://pleiades.stoa.org/places/540861)
+
+
+## GEO ID 34093: Manika
+[https://www.trismegistos.org/place/34093](https://www.trismegistos.org/place/34093)  
+
+### alignments:
+ - [Manika](https://pleiades.stoa.org/places/540932)
 
 
 ## GEO ID 34097: Styra
