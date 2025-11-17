@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9853 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
+9880 alignments exist in _Pleiades_ place references as of 2025-11-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3552,6 +3552,13 @@
  - [Brylleion/Myrleia/Apamea/Col. Iulia Concordia](https://pleiades.stoa.org/places/511194)
 
 
+## Apamestini (Q136786730)
+[https://www.wikidata.org/wiki/Q136786730](https://www.wikidata.org/wiki/Q136786730)  
+
+### alignments:
+ - [Apamestini](https://pleiades.stoa.org/places/446216)
+
+
 ## Aperi (Q618227)
 [https://www.wikidata.org/wiki/Q618227](https://www.wikidata.org/wiki/Q618227)  
 
@@ -3725,6 +3732,13 @@
 
 ### alignments:
  - [Apsoda](https://pleiades.stoa.org/places/844863)
+
+
+## Apta Julia (Q2859055)
+[https://www.wikidata.org/wiki/Q2859055](https://www.wikidata.org/wiki/Q2859055)  
+
+### alignments:
+ - [Apta Iulia](https://pleiades.stoa.org/places/147993)
 
 
 ## Apuani (Q622306)
@@ -5849,6 +5863,13 @@
  - [Azenia?](https://pleiades.stoa.org/places/579890)
 
 
+## Azetium (Q48800950)
+[https://www.wikidata.org/wiki/Q48800950](https://www.wikidata.org/wiki/Q48800950)  
+
+### alignments:
+ - [*Azetium](https://pleiades.stoa.org/places/442491)
+
+
 ## Azorus (Q11853744)
 [https://www.wikidata.org/wiki/Q11853744](https://www.wikidata.org/wiki/Q11853744)  
 
@@ -6337,6 +6358,13 @@
 
 ### alignments:
  - [Bardili Turduli](https://pleiades.stoa.org/places/260506)
+
+
+## Bari (Q3519)
+[https://www.wikidata.org/wiki/Q3519](https://www.wikidata.org/wiki/Q3519)  
+
+### alignments:
+ - [Barium](https://pleiades.stoa.org/places/442500)
 
 
 ## Barikot Ghundai (Q100371614)
@@ -6942,6 +6970,13 @@
  - [Beacon Hill Hillfort](https://pleiades.stoa.org/places/245109546)
 
 
+## Beadlam Roman villa (Q4876064)
+[https://www.wikidata.org/wiki/Q4876064](https://www.wikidata.org/wiki/Q4876064)  
+
+### alignments:
+ - [Beadlam](https://pleiades.stoa.org/places/89113)
+
+
 ## Bearsden Roman Bath House (Q56665516)
 [https://www.wikidata.org/wiki/Q56665516](https://www.wikidata.org/wiki/Q56665516)  
 
@@ -7528,6 +7563,13 @@
 
 ### alignments:
  - [Bithynion/Claudiopolis/Hadriana](https://pleiades.stoa.org/places/844879)
+
+
+## Bitonto (Q19278)
+[https://www.wikidata.org/wiki/Q19278](https://www.wikidata.org/wiki/Q19278)  
+
+### alignments:
+ - [Butuntum](https://pleiades.stoa.org/places/442511)
 
 
 ## Bizerte (Q189546)
@@ -8263,13 +8305,6 @@
 
 ### alignments:
  - [Callaeci Bracari](https://pleiades.stoa.org/places/236398)
-
-
-## Brading Roman Villa (Q17671924)
-[https://www.wikidata.org/wiki/Q17671924](https://www.wikidata.org/wiki/Q17671924)  
-
-### alignments:
- - [Brading](https://pleiades.stoa.org/places/79343)
 
 
 ## Bragilos (Q55197494)
@@ -12183,6 +12218,13 @@
  - [Cheddar Gorge](https://pleiades.stoa.org/places/535275913)
 
 
+## Chedworth Roman Villa (Q5089233)
+[https://www.wikidata.org/wiki/Q5089233](https://www.wikidata.org/wiki/Q5089233)  
+
+### alignments:
+ - [Chedworth](https://pleiades.stoa.org/places/79383)
+
+
 ## Cheimerion (Q5089691)
 [https://www.wikidata.org/wiki/Q5089691](https://www.wikidata.org/wiki/Q5089691)  
 
@@ -12461,6 +12503,13 @@
 
 ### alignments:
  - [Chorazin](https://pleiades.stoa.org/places/678091)
+
+
+## Chorges (Q322959)
+[https://www.wikidata.org/wiki/Q322959](https://www.wikidata.org/wiki/Q322959)  
+
+### alignments:
+ - [Caturigomagus](https://pleiades.stoa.org/places/167701)
 
 
 ## Chott el Djerid (Q849143)
@@ -15112,6 +15161,13 @@
  - [Castrum Divionense](https://pleiades.stoa.org/places/177489)
 
 
+## Dikili Tash (Q3027911)
+[https://www.wikidata.org/wiki/Q3027911](https://www.wikidata.org/wiki/Q3027911)  
+
+### alignments:
+ - [Dikili Tash](https://pleiades.stoa.org/places/997707343)
+
+
 ## Dikteon Andron (Q1643807)
 [https://www.wikidata.org/wiki/Q1643807](https://www.wikidata.org/wiki/Q1643807)  
 
@@ -15225,6 +15281,13 @@
  - [Diogeneion](https://pleiades.stoa.org/places/736170760)
 
 
+## Diomedis campi (Q136788288)
+[https://www.wikidata.org/wiki/Q136788288](https://www.wikidata.org/wiki/Q136788288)  
+
+### alignments:
+ - [Diomedis Campi](https://pleiades.stoa.org/places/442568)
+
+
 ## Diomeia (Q13518339)
 [https://www.wikidata.org/wiki/Q13518339](https://www.wikidata.org/wiki/Q13518339)  
 
@@ -15251,6 +15314,13 @@
 
 ### alignments:
  - [Dirphys (mountain)](https://pleiades.stoa.org/places/540736)
+
+
+## Diria (Q133279606)
+[https://www.wikidata.org/wiki/Q133279606](https://www.wikidata.org/wiki/Q133279606)  
+
+### alignments:
+ - [Diria?](https://pleiades.stoa.org/places/442566)
 
 
 ## Dirillo (Q1119765)
@@ -16050,6 +16120,13 @@
 
 ### alignments:
  - [Ecbatana/Hagmatana/Achmeta/Epiphaneia/Ahmadan](https://pleiades.stoa.org/places/903021)
+
+
+## Eccles Roman Villa (Q65118227)
+[https://www.wikidata.org/wiki/Q65118227](https://www.wikidata.org/wiki/Q65118227)  
+
+### alignments:
+ - [Eccles](https://pleiades.stoa.org/places/79448)
 
 
 ## Ecetra (Q9250147)
@@ -17376,6 +17453,13 @@
  - [Saos (mountain)](https://pleiades.stoa.org/places/501600)
 
 
+## Fenny Stratford (Samian Ware Discovery Site) (Q103161885)
+[https://www.wikidata.org/wiki/Q103161885](https://www.wikidata.org/wiki/Q103161885)  
+
+### alignments:
+ - [Magiovinium](https://pleiades.stoa.org/places/79586)
+
+
 ## Feodosiia (Q158491)
 [https://www.wikidata.org/wiki/Q158491](https://www.wikidata.org/wiki/Q158491)  
 
@@ -17920,6 +18004,13 @@
 
 ### alignments:
  - [Forum Subertanum](https://pleiades.stoa.org/places/628738529)
+
+
+## Forum Vibi (Q135792977)
+[https://www.wikidata.org/wiki/Q135792977](https://www.wikidata.org/wiki/Q135792977)  
+
+### alignments:
+ - [Forum Vibii](https://pleiades.stoa.org/places/383657)
 
 
 ## Fossa Philistina (Q3745380)
@@ -19507,6 +19598,13 @@
  - [Grosskrotzenburg](https://pleiades.stoa.org/places/118710)
 
 
+## Grumum (Q130734320)
+[https://www.wikidata.org/wiki/Q130734320](https://www.wikidata.org/wiki/Q130734320)  
+
+### alignments:
+ - [*Grumum](https://pleiades.stoa.org/places/442604)
+
+
 ## Grutenhäuschen Igel (Roman tomb) (Q1551130)
 [https://www.wikidata.org/wiki/Q1551130](https://www.wikidata.org/wiki/Q1551130)  
 
@@ -20788,6 +20886,13 @@
  - [Hieron Oros](https://pleiades.stoa.org/places/857162)
 
 
+## High Wycombe Roman Villa (Q130369823)
+[https://www.wikidata.org/wiki/Q130369823](https://www.wikidata.org/wiki/Q130369823)  
+
+### alignments:
+ - [High Wycombe](https://pleiades.stoa.org/places/79514)
+
+
 ## Hikkaduwa (Q1618065)
 [https://www.wikidata.org/wiki/Q1618065](https://www.wikidata.org/wiki/Q1618065)  
 
@@ -21507,6 +21612,13 @@
 
 ### alignments:
  - [Diospolis Mikra](https://pleiades.stoa.org/places/756566)
+
+
+## Hucclecote Roman villa (Q15133923)
+[https://www.wikidata.org/wiki/Q15133923](https://www.wikidata.org/wiki/Q15133923)  
+
+### alignments:
+ - [Hucclecote](https://pleiades.stoa.org/places/79520)
 
 
 ## Humayma Fortress (Q71551729)
@@ -23524,6 +23636,13 @@
 
 ### alignments:
  - [Kato Aetos](https://pleiades.stoa.org/places/530934)
+
+
+## Kaukanai (Q130714943)
+[https://www.wikidata.org/wiki/Q130714943](https://www.wikidata.org/wiki/Q130714943)  
+
+### alignments:
+ - [Kaukana](https://pleiades.stoa.org/places/465930)
 
 
 ## Kaunos (Q608095)
@@ -26502,6 +26621,13 @@
  - [Longane](https://pleiades.stoa.org/places/462287)
 
 
+## Longaricum (Q3836648)
+[https://www.wikidata.org/wiki/Q3836648](https://www.wikidata.org/wiki/Q3836648)  
+
+### alignments:
+ - [Longaricum](https://pleiades.stoa.org/places/462289)
+
+
 ## Longola (Q48606691)
 [https://www.wikidata.org/wiki/Q48606691](https://www.wikidata.org/wiki/Q48606691)  
 
@@ -28440,6 +28566,13 @@
 
 ### alignments:
  - [City wall of Ugento - Mura Messapiche](https://pleiades.stoa.org/places/416547489)
+
+
+## Messapii (Q737684)
+[https://www.wikidata.org/wiki/Q737684](https://www.wikidata.org/wiki/Q737684)  
+
+### alignments:
+ - [Messapii](https://pleiades.stoa.org/places/442657)
 
 
 ## Messenian Gulf (Q1474634)
@@ -31178,6 +31311,13 @@
 
 ### alignments:
  - [Nar (river)](https://pleiades.stoa.org/places/413220)
+
+
+## Neretum (Q11938603)
+[https://www.wikidata.org/wiki/Q11938603](https://www.wikidata.org/wiki/Q11938603)  
+
+### alignments:
+ - [Neretum](https://pleiades.stoa.org/places/442688)
 
 
 ## Neretva (Q190777)
@@ -35491,6 +35631,13 @@
 
 ### alignments:
  - [Polimartium](https://pleiades.stoa.org/places/413268)
+
+
+## Polizzi Generosa (Q502657)
+[https://www.wikidata.org/wiki/Q502657](https://www.wikidata.org/wiki/Q502657)  
+
+### alignments:
+ - [Polizzi Generosa](https://pleiades.stoa.org/places/462455)
 
 
 ## Pollentia amphitheatre (Q28978057)
@@ -40222,13 +40369,6 @@
  - [Villa of the Papyri](https://pleiades.stoa.org/places/442522220)
 
 
-## Q1347915: Villa rustica of Folkestone
-[https://www.wikidata.org/wiki/Q1347915](https://www.wikidata.org/wiki/Q1347915)  
-
-### alignments:
- - [Folkestone](https://pleiades.stoa.org/places/79467)
-
-
 ## Q1348342
 [https://www.wikidata.org/wiki/Q1348342](https://www.wikidata.org/wiki/Q1348342)  
 
@@ -42233,13 +42373,6 @@
  - [Wimblington](https://pleiades.stoa.org/places/974097777)
 
 
-## Q17641589: Rudston Roman villa
-[https://www.wikidata.org/wiki/Q17641589](https://www.wikidata.org/wiki/Q17641589)  
-
-### alignments:
- - [Rudston Roman Villa](https://pleiades.stoa.org/places/920394485734333)
-
-
 ## Q17641746: Two Roman camps N of Water Eaton
 [https://www.wikidata.org/wiki/Q17641746](https://www.wikidata.org/wiki/Q17641746)  
 
@@ -42273,13 +42406,6 @@
 
 ### alignments:
  - [Lickfold](https://pleiades.stoa.org/places/33764426)
-
-
-## Q17645388
-[https://www.wikidata.org/wiki/Q17645388](https://www.wikidata.org/wiki/Q17645388)  
-
-### alignments:
- - [Hucclecote](https://pleiades.stoa.org/places/79520)
 
 
 ## Q17647604
@@ -45575,13 +45701,6 @@
  - [Anthedon](https://pleiades.stoa.org/places/540639)
 
 
-## Q2859055: Apta Julia
-[https://www.wikidata.org/wiki/Q2859055](https://www.wikidata.org/wiki/Q2859055)  
-
-### alignments:
- - [Apta Iulia](https://pleiades.stoa.org/places/147993)
-
-
 ## Q2859240: Aqueduc romain de Briord
 [https://www.wikidata.org/wiki/Q2859240](https://www.wikidata.org/wiki/Q2859240)  
 
@@ -46484,13 +46603,6 @@
 
 ### alignments:
  - [Politorium](https://pleiades.stoa.org/places/438811)
-
-
-## Q3397582: Roman Bridge of Lurs
-[https://www.wikidata.org/wiki/Q3397582](https://www.wikidata.org/wiki/Q3397582)  
-
-### alignments:
- - [Lurs Roman Bridge](https://pleiades.stoa.org/places/159308)
 
 
 ## Q3398722: Porta all'Arco
@@ -49263,13 +49375,6 @@
  - [Locmariaquer megaliths](https://pleiades.stoa.org/places/729404980)
 
 
-## Q5089233
-[https://www.wikidata.org/wiki/Q5089233](https://www.wikidata.org/wiki/Q5089233)  
-
-### alignments:
- - [Chedworth](https://pleiades.stoa.org/places/79383)
-
-
 ## Q510000: Andriaca
 [https://www.wikidata.org/wiki/Q510000](https://www.wikidata.org/wiki/Q510000)  
 
@@ -49779,13 +49884,6 @@
 
 ### alignments:
  - [Via Celle necropolis](https://pleiades.stoa.org/places/282928579)
-
-
-## Q55739617: The Sassi and the Park of the Rupestrian Churches of Matera
-[https://www.wikidata.org/wiki/Q55739617](https://www.wikidata.org/wiki/Q55739617)  
-
-### alignments:
- - [The Sassi and the Park of the Rupestrian Churches of Matera](https://pleiades.stoa.org/places/678263113)
 
 
 ## Q558861: Alacahöyük
@@ -54941,6 +55039,13 @@
  - [Roman bridge of Lugo](https://pleiades.stoa.org/places/259024851)
 
 
+## Roman Bridge of Lurs (Q3397582)
+[https://www.wikidata.org/wiki/Q3397582](https://www.wikidata.org/wiki/Q3397582)  
+
+### alignments:
+ - [Lurs Roman Bridge](https://pleiades.stoa.org/places/159308)
+
+
 ## Roman bridge of Salamanca (Q6091642)
 [https://www.wikidata.org/wiki/Q6091642](https://www.wikidata.org/wiki/Q6091642)  
 
@@ -55767,6 +55872,13 @@
  - [Acton Scott](https://pleiades.stoa.org/places/79282)
 
 
+## Roman villa, Larderia (Q113250246)
+[https://www.wikidata.org/wiki/Q113250246](https://www.wikidata.org/wiki/Q113250246)  
+
+### alignments:
+ - [Larderia](https://pleiades.stoa.org/places/452363)
+
+
 ## Roman villa, via Michelangelo Tilli (Q130629418)
 [https://www.wikidata.org/wiki/Q130629418](https://www.wikidata.org/wiki/Q130629418)  
 
@@ -55954,6 +56066,13 @@
 
 ### alignments:
  - [Rudston](https://pleiades.stoa.org/places/89283)
+
+
+## Rudston Roman villa (Q15133974)
+[https://www.wikidata.org/wiki/Q15133974](https://www.wikidata.org/wiki/Q15133974)  
+
+### alignments:
+ - [Rudston Roman Villa](https://pleiades.stoa.org/places/920394485734333)
 
 
 ## Ruins of Gedi (Q502518)
@@ -59969,6 +60088,13 @@
  - [Siculum Fretum](https://pleiades.stoa.org/places/462494)
 
 
+## Strapellini (Q136786195)
+[https://www.wikidata.org/wiki/Q136786195](https://www.wikidata.org/wiki/Q136786195)  
+
+### alignments:
+ - [Strapellini](https://pleiades.stoa.org/places/446294)
+
+
 ## Strata Diocletiana (Q2422562)
 [https://www.wikidata.org/wiki/Q2422562](https://www.wikidata.org/wiki/Q2422562)  
 
@@ -60107,6 +60233,13 @@
 
 ### alignments:
  - [Sub Romula](https://pleiades.stoa.org/places/442804)
+
+
+## Subarnarekha River (Q3822918)
+[https://www.wikidata.org/wiki/Q3822918](https://www.wikidata.org/wiki/Q3822918)  
+
+### alignments:
+ - [Adamas? (river)](https://pleiades.stoa.org/places/59655)
 
 
 ## Suburana (Q20108949)
@@ -60604,6 +60737,13 @@
 
 ### alignments:
  - [Tanagra](https://pleiades.stoa.org/places/580114)
+
+
+## Tanagro (Q929686)
+[https://www.wikidata.org/wiki/Q929686](https://www.wikidata.org/wiki/Q929686)  
+
+### alignments:
+ - [Tanager (river)](https://pleiades.stoa.org/places/442809)
 
 
 ## Tanais (Q1153416)
@@ -62433,6 +62573,13 @@
  - [Roman Baths of Como](https://pleiades.stoa.org/places/582358499)
 
 
+## The Sassi and the Park of the Rupestrian Churches of Matera (Q55739617)
+[https://www.wikidata.org/wiki/Q55739617](https://www.wikidata.org/wiki/Q55739617)  
+
+### alignments:
+ - [The Sassi and the Park of the Rupestrian Churches of Matera](https://pleiades.stoa.org/places/678263113)
+
+
 ## The Seven Halls (Q3678238)
 [https://www.wikidata.org/wiki/Q3678238](https://www.wikidata.org/wiki/Q3678238)  
 
@@ -63188,6 +63335,13 @@
 
 ### alignments:
  - [Timolaion](https://pleiades.stoa.org/places/845082)
+
+
+## Timpone del Ponto (Q124380521)
+[https://www.wikidata.org/wiki/Q124380521](https://www.wikidata.org/wiki/Q124380521)  
+
+### alignments:
+ - [Timpone del Ponto](https://pleiades.stoa.org/places/452478)
 
 
 ## Timpone della Motta (Q1816439)
@@ -64800,6 +64954,13 @@
  - [Triumphal Arch of Orange](https://pleiades.stoa.org/places/413823808)
 
 
+## Trivicum (Q28223641)
+[https://www.wikidata.org/wiki/Q28223641](https://www.wikidata.org/wiki/Q28223641)  
+
+### alignments:
+ - [Trivici Villa?](https://pleiades.stoa.org/places/442832)
+
+
 ## Trocmi (Q2395658)
 [https://www.wikidata.org/wiki/Q2395658](https://www.wikidata.org/wiki/Q2395658)  
 
@@ -65603,6 +65764,13 @@
 
 ### alignments:
  - [Ulpia Traiana Sarmizegetusa](https://pleiades.stoa.org/places/207527)
+
+
+## Ulurtini (Q136786728)
+[https://www.wikidata.org/wiki/Q136786728](https://www.wikidata.org/wiki/Q136786728)  
+
+### alignments:
+ - [Ulurtini](https://pleiades.stoa.org/places/446302)
 
 
 ## Umayyad Mosque (Q183562)
@@ -66915,6 +67083,13 @@
  - [Villa Arcinelli](https://pleiades.stoa.org/places/431699812)
 
 
+## Villa Armira (Ivaylovgrad) (Q1892609)
+[https://www.wikidata.org/wiki/Q1892609](https://www.wikidata.org/wiki/Q1892609)  
+
+### alignments:
+ - [Armira](https://pleiades.stoa.org/places/501360)
+
+
 ## Villa de Manguarra y San José (Q97633765)
 [https://www.wikidata.org/wiki/Q97633765](https://www.wikidata.org/wiki/Q97633765)  
 
@@ -67319,6 +67494,20 @@
 
 ### alignments:
  - [Römische Villa](https://pleiades.stoa.org/places/179179194)
+
+
+## Villa rustica of Brading (Q1411412)
+[https://www.wikidata.org/wiki/Q1411412](https://www.wikidata.org/wiki/Q1411412)  
+
+### alignments:
+ - [Brading](https://pleiades.stoa.org/places/79343)
+
+
+## Villa rustica of Folkestone (Q1347915)
+[https://www.wikidata.org/wiki/Q1347915](https://www.wikidata.org/wiki/Q1347915)  
+
+### alignments:
+ - [Folkestone](https://pleiades.stoa.org/places/79467)
 
 
 ## Villa rustica of Sparsholt (Q7573804)

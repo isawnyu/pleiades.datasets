@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4775 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
+4779 alignments exist in _Pleiades_ place references as of 2025-11-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6328,6 +6328,13 @@
  - [Ewell](https://pleiades.stoa.org/places/79455)
 
 
+## GEO ID 15228
+[http://www.trismegistos.org/place/15228](http://www.trismegistos.org/place/15228)  
+
+### alignments:
+ - [Eccles](https://pleiades.stoa.org/places/79448)
+
+
 ## Geo ID 15235: Ad Pontem (East Stoke)
 [https://www.trismegistos.org/place/15235](https://www.trismegistos.org/place/15235)  
 
@@ -6424,6 +6431,13 @@
 
 ### alignments:
  - [Caesaromagus](https://pleiades.stoa.org/places/79364)
+
+
+## GEO ID 15328
+[http://www.trismegistos.org/place/15328](http://www.trismegistos.org/place/15328)  
+
+### alignments:
+ - [Chedworth](https://pleiades.stoa.org/places/79383)
 
 
 ## GEO ID 15329
@@ -17384,6 +17398,13 @@
  - [Venta](https://pleiades.stoa.org/places/79734)
 
 
+## GEO ID 33188: Catuiacia (Céreste)
+[http://www.trismegistos.org/place/33188](http://www.trismegistos.org/place/33188)  
+
+### alignments:
+ - [Catuiacia](https://pleiades.stoa.org/places/148041)
+
+
 ## GEO ID 33193: Druantium (Montgenèvre)
 [http://www.trismegistos.org/place/33193](http://www.trismegistos.org/place/33193)  
 
@@ -20981,6 +21002,13 @@
 
 ### alignments:
  - [Didymai? (islands)](https://pleiades.stoa.org/places/727109)
+
+
+## GEO ID 40402: Allava
+[http://www.trismegistos.org/place/40402](http://www.trismegistos.org/place/40402)  
+
+### alignments:
+ - [Allava](https://pleiades.stoa.org/places/462091)
 
 
 ## GEO ID 40404: Ad fluvium Lanaricum

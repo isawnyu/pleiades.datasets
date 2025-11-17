@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2260 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
+2265 alignments exist in _Pleiades_ place references as of 2025-11-17. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3659,6 +3659,20 @@
  - [Ad Fines](https://pleiades.stoa.org/places/147983)
 
 
+## 2B1 (Talbert 795)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace795.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace795.html)  
+
+### alignments:
+ - [Apta Iulia](https://pleiades.stoa.org/places/147993)
+
+
+## 2B1 (Talbert 797)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace797.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace797.html)  
+
+### alignments:
+ - [Alaunium](https://pleiades.stoa.org/places/157800)
+
+
 ## 2B1 (Talbert 798)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace798.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace798.html)  
 
@@ -3783,6 +3797,13 @@
 
 ### alignments:
  - [Mantala](https://pleiades.stoa.org/places/167822)
+
+
+## 2B1 Catviacia (Talbert 796)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace796.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace796.html)  
+
+### alignments:
+ - [Catuiacia](https://pleiades.stoa.org/places/148041)
 
 
 ## 2B2 (Talbert 2884)
@@ -9416,6 +9437,13 @@
  - [Diria?](https://pleiades.stoa.org/places/442566)
 
 
+## 5B5 (Talbert 1287)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1287.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1287.html)  
+
+### alignments:
+ - [Egnatia/Gnathia](https://pleiades.stoa.org/places/442573)
+
+
 ## 5B5 (Talbert 1345)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1345.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1345.html)  
 
@@ -9582,6 +9610,13 @@
 
 ### alignments:
  - [Forum Popili](https://pleiades.stoa.org/places/442586)
+
+
+## 5B5 (Talbert 1374)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1374.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1374.html)  
+
+### alignments:
+ - [Ad Speluncas](https://pleiades.stoa.org/places/442447)
 
 
 ## 5B5 (Talbert 1393)

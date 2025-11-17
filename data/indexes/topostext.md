@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4720 alignments exist in _Pleiades_ place references as of 2025-11-14. The following list of alignments is grouped by zotkey.
+4729 alignments exist in _Pleiades_ place references as of 2025-11-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -1592,6 +1592,13 @@
 
 ### alignments:
  - [Alauna](https://pleiades.stoa.org/places/79288)
+
+
+## Alaunium (Alps) 4 Notre-Dame des Anges
+[https://topostext.org/place/439059UAla](https://topostext.org/place/439059UAla)  
+
+### alignments:
+ - [Alaunium](https://pleiades.stoa.org/places/157800)
 
 
 ## Alba Fucens (Italy)
@@ -6376,6 +6383,13 @@
  - [Burdigala](https://pleiades.stoa.org/places/138248)
 
 
+## Butuntum (Apulia) 5 Bitonto
+[https://topostext.org/place/410167UBut](https://topostext.org/place/410167UBut)  
+
+### alignments:
+ - [Butuntum](https://pleiades.stoa.org/places/442511)
+
+
 ## Byblos (Lebanon)
 [https://topostext.org/place/341356PByb](https://topostext.org/place/341356PByb)  
 
@@ -6962,6 +6976,27 @@
 
 ### alignments:
  - [Cataractonium](https://pleiades.stoa.org/places/89143)
+
+
+## Catuiacia (Narbonensis) 3 Céreste
+[https://topostext.org/place/439056UCat](https://topostext.org/place/439056UCat)  
+
+### alignments:
+ - [Catuiacia](https://pleiades.stoa.org/places/148041)
+
+
+## Caturigomagus (Alps) 5 Chorges
+[https://topostext.org/place/445063UCat](https://topostext.org/place/445063UCat)  
+
+### alignments:
+ - [Caturigomagus](https://pleiades.stoa.org/places/167701)
+
+
+## Caucana (Sicily) 4 Punta Secca
+[https://topostext.org/place/368145UCau](https://topostext.org/place/368145UCau)  
+
+### alignments:
+ - [Kaukana](https://pleiades.stoa.org/places/465930)
 
 
 ## Caucasus Mt. (Pontus)
@@ -8540,6 +8575,13 @@
 
 ### alignments:
  - [Dikaiarcheia/Puteoli](https://pleiades.stoa.org/places/432815)
+
+
+## Dikili Tas exc. (Kavala) Krenides - Ντικιλί Τας
+[https://topostext.org/place/410243XDik](https://topostext.org/place/410243XDik)  
+
+### alignments:
+ - [Dikili Tash](https://pleiades.stoa.org/places/997707343)
 
 
 ## Dikte Mt. (Crete)
@@ -29835,6 +29877,13 @@
  - [Tegea](https://pleiades.stoa.org/places/570707)
 
 
+## Teggiano (Lucania) Teggiano
+[https://topostext.org/place/403155XTEG](https://topostext.org/place/403155XTEG)  
+
+### alignments:
+ - [Tegianum](https://pleiades.stoa.org/places/442816)
+
+
 ## Tegyra (Boeotia) 25 Pyrgos - Τέγυρα
 [https://topostext.org/place/385231UTeg](https://topostext.org/place/385231UTeg)  
 
@@ -31073,6 +31122,13 @@
 
 ### alignments:
  - [Tilphosaion?](https://pleiades.stoa.org/places/541148)
+
+
+## Timpone del Ponto (Lucania) Timpone del Ponto
+[https://topostext.org/place/401164XTDB](https://topostext.org/place/401164XTDB)  
+
+### alignments:
+ - [Timpone del Ponto](https://pleiades.stoa.org/places/452478)
 
 
 ## Tinde (Halkidiki)
@@ -32473,6 +32529,13 @@
 
 ### alignments:
  - [Viglafia tower](https://pleiades.stoa.org/places/430736171)
+
+
+## Villa Armira (Thrace) Ivaylovgrad
+[https://topostext.org/place/415261BArm](https://topostext.org/place/415261BArm)  
+
+### alignments:
+ - [Armira](https://pleiades.stoa.org/places/501360)
 
 
 ## Villa of Maxentius (Rome)
