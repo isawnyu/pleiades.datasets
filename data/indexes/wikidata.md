@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9880 alignments exist in _Pleiades_ place references as of 2025-11-17. The following list of alignments is grouped by zotkey.
+9881 alignments exist in _Pleiades_ place references as of 2025-11-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -68265,6 +68265,13 @@
 
 ### alignments:
  - [Adisathron (mountain)](https://pleiades.stoa.org/places/49838)
+
+
+## Western Xia Imperial Tombs (Q1069411)
+[https://www.wikidata.org/wiki/Q1069411](https://www.wikidata.org/wiki/Q1069411)  
+
+### alignments:
+ - [Xixia Imperial Tombs](https://pleiades.stoa.org/places/915149950)
 
 
 ## Westerwood Roman fort (Q81417278)
