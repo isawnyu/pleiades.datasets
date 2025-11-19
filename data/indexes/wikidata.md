@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9881 alignments exist in _Pleiades_ place references as of 2025-11-18. The following list of alignments is grouped by zotkey.
+9885 alignments exist in _Pleiades_ place references as of 2025-11-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4904,6 +4904,13 @@
  - [Arènes de Lutèce](https://pleiades.stoa.org/places/955500071)
 
 
+## Arḑ al Madanīyah (Q104818604)
+[https://www.wikidata.org/wiki/Q104818604](https://www.wikidata.org/wiki/Q104818604)  
+
+### alignments:
+ - [Charax/(I)Scina](https://pleiades.stoa.org/places/363951)
+
+
 ## Asampatae (Q21556404)
 [https://www.wikidata.org/wiki/Q21556404](https://www.wikidata.org/wiki/Q21556404)  
 
@@ -8573,6 +8580,13 @@
  - [Prile (river)](https://pleiades.stoa.org/places/403263)
 
 
+## Brusselstown Ring (Q994370)
+[https://www.wikidata.org/wiki/Q994370](https://www.wikidata.org/wiki/Q994370)  
+
+### alignments:
+ - [Brusselstown Ring](https://pleiades.stoa.org/places/464027192)
+
+
 ## Bryanium (Q60793114)
 [https://www.wikidata.org/wiki/Q60793114](https://www.wikidata.org/wiki/Q60793114)  
 
@@ -11831,6 +11845,13 @@
 
 ### alignments:
  - [Caelia](https://pleiades.stoa.org/places/442515)
+
+
+## Celone (Q3664304)
+[https://www.wikidata.org/wiki/Q3664304](https://www.wikidata.org/wiki/Q3664304)  
+
+### alignments:
+ - [Aquilo (river)](https://pleiades.stoa.org/places/442470)
 
 
 ## Celtic circular wall of Otzenhausen (Q1412838)
@@ -21255,6 +21276,13 @@
 
 ### alignments:
  - [House K5-A](https://pleiades.stoa.org/places/888638025)
+
+
+## House L7-A (Q121302003)
+[https://www.wikidata.org/wiki/Q121302003](https://www.wikidata.org/wiki/Q121302003)  
+
+### alignments:
+ - [House L7-A](https://pleiades.stoa.org/places/451518249)
 
 
 ## House L7-H (Q115327578)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4729 alignments exist in _Pleiades_ place references as of 2025-11-18. The following list of alignments is grouped by zotkey.
+4730 alignments exist in _Pleiades_ place references as of 2025-11-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7649,6 +7649,13 @@
 
 ### alignments:
  - [Collatia](https://pleiades.stoa.org/places/422898)
+
+
+## Colle Dei Greci (Lucania) Colle Dei Greci
+[https://topostext.org/place/400160XCOL](https://topostext.org/place/400160XCOL)  
+
+### alignments:
+ - [Colle dei Greci](https://pleiades.stoa.org/places/452307)
 
 
 ## Collippo (Lusitania)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4779 alignments exist in _Pleiades_ place references as of 2025-11-18. The following list of alignments is grouped by zotkey.
+4782 alignments exist in _Pleiades_ place references as of 2025-11-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20885,6 +20885,13 @@
  - [Sugolin](https://pleiades.stoa.org/places/344489)
 
 
+## GEO ID 40340: Iscina
+[https://www.trismegistos.org/place/40340](https://www.trismegistos.org/place/40340)  
+
+### alignments:
+ - [Charax/(I)Scina](https://pleiades.stoa.org/places/363951)
+
+
 ## GEO ID 40342: Aubereo (Sidi Beheri)
 [https://www.trismegistos.org/place/40342](https://www.trismegistos.org/place/40342)  
 
@@ -21304,6 +21311,13 @@
 
 ### alignments:
  - [Turres Iulianae](https://pleiades.stoa.org/places/442835)
+
+
+## GEO ID 40521: Ad Speluncas (Mezzaluna)
+[https://www.trismegistos.org/place/40521](https://www.trismegistos.org/place/40521)  
+
+### alignments:
+ - [Ad Speluncas](https://pleiades.stoa.org/places/442447)
 
 
 ## GEO ID 40522: Sub Romula (Bisaccia)
@@ -22088,6 +22102,13 @@
 
 ### alignments:
  - [Ad Ficum](https://pleiades.stoa.org/places/363914)
+
+
+## GEO ID 40991: Ad Speluncas
+[https://www.trismegistos.org/place/40991](https://www.trismegistos.org/place/40991)  
+
+### alignments:
+ - [Ad Speluncas](https://pleiades.stoa.org/places/363917)
 
 
 ## GEO ID 40993: Zacazama (Ras Ben Gauuad)
