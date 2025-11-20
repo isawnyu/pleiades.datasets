@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9885 alignments exist in _Pleiades_ place references as of 2025-11-19. The following list of alignments is grouped by zotkey.
+9886 alignments exist in _Pleiades_ place references as of 2025-11-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3109,6 +3109,13 @@
 
 ### alignments:
  - [Andkhui](https://pleiades.stoa.org/places/961876)
+
+
+## Andria (Q13486)
+[https://www.wikidata.org/wiki/Q13486](https://www.wikidata.org/wiki/Q13486)  
+
+### alignments:
+ - [‘Rudas’/‘Budas’](https://pleiades.stoa.org/places/442752)
 
 
 ## Andros (polis) (Q62944263)
@@ -28659,6 +28666,13 @@
  - [Metaurum](https://pleiades.stoa.org/places/452379)
 
 
+## Metchley Fort (Q6823362)
+[https://www.wikidata.org/wiki/Q6823362](https://www.wikidata.org/wiki/Q6823362)  
+
+### alignments:
+ - [Metchley Fort](https://pleiades.stoa.org/places/973041326)
+
+
 ## Meteora (Q3125051)
 [https://www.wikidata.org/wiki/Q3125051](https://www.wikidata.org/wiki/Q3125051)  
 
@@ -51746,13 +51760,6 @@
 
 ### alignments:
  - [Temple of Mars Ultor](https://pleiades.stoa.org/places/823121346)
-
-
-## Q6823362: Metchley Fort
-[https://www.wikidata.org/wiki/Q6823362](https://www.wikidata.org/wiki/Q6823362)  
-
-### alignments:
- - [Metchley Fort](https://pleiades.stoa.org/places/973041326)
 
 
 ## Q6851167: Milecastle 30
