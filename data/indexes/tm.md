@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4782 alignments exist in _Pleiades_ place references as of 2025-11-20. The following list of alignments is grouped by zotkey.
+4786 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3846,6 +3846,13 @@
 
 ### alignments:
  - [Chersonesos](https://pleiades.stoa.org/places/226564)
+
+
+## GEO ID 12808: Trapezous (Trabzon)
+[https://www.trismegistos.org/place/12808](https://www.trismegistos.org/place/12808)  
+
+### alignments:
+ - [Trapezus](https://pleiades.stoa.org/places/857359)
 
 
 ## GEO ID 1280: Machor
@@ -21824,6 +21831,13 @@
  - [Corneli](https://pleiades.stoa.org/places/442555)
 
 
+## GEO ID 40814: Respa
+[https://www.trismegistos.org/place/40814](https://www.trismegistos.org/place/40814)  
+
+### alignments:
+ - [Respa](https://pleiades.stoa.org/places/442743)
+
+
 ## GEO ID 40817: Ad Pirum
 [https://www.trismegistos.org/place/40817](https://www.trismegistos.org/place/40817)  
 
@@ -24881,6 +24895,13 @@
 
 ### alignments:
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
+
+
+## GEO ID 42079: Mandris
+[http://www.trismegistos.org/place/42079](http://www.trismegistos.org/place/42079)  
+
+### alignments:
+ - [‘Mandris’](https://pleiades.stoa.org/places/845010)
 
 
 ## GEO ID 42083: Ankon
@@ -31396,6 +31417,13 @@
 
 ### alignments:
  - [Eteonos/Skaphaliai](https://pleiades.stoa.org/places/543704)
+
+
+## GEO ID 61221: Palaikastro
+[https://www.trismegistos.org/place/61221](https://www.trismegistos.org/place/61221)  
+
+### alignments:
+ - [Palaikastro](https://pleiades.stoa.org/places/580049)
 
 
 ## GEO ID 61224: Pylos (Armatova)

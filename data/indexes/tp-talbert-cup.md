@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2265 alignments exist in _Pleiades_ place references as of 2025-11-20. The following list of alignments is grouped by zotkey.
+2266 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13210,6 +13210,13 @@
 
 ### alignments:
  - [Bithynion/Claudiopolis/Hadriana](https://pleiades.stoa.org/places/844879)
+
+
+## 8A3 (Talbert 2114)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2114.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2114.html)  
+
+### alignments:
+ - [‘Mandris’](https://pleiades.stoa.org/places/845010)
 
 
 ## 8A3 (Talbert 3126)

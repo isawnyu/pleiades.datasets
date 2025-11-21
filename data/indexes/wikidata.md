@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9886 alignments exist in _Pleiades_ place references as of 2025-11-20. The following list of alignments is grouped by zotkey.
+9891 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4916,6 +4916,13 @@
 
 ### alignments:
  - [Charax/(I)Scina](https://pleiades.stoa.org/places/363951)
+
+
+## As Subayţāt (Q106018390)
+[https://www.wikidata.org/wiki/Q106018390](https://www.wikidata.org/wiki/Q106018390)  
+
+### alignments:
+ - [es-Spetaf](https://pleiades.stoa.org/places/354151)
 
 
 ## Asampatae (Q21556404)
@@ -24387,6 +24394,13 @@
  - [Kodrana](https://pleiades.stoa.org/places/60546)
 
 
+## Koi Krylgan Kala (Q2121746)
+[https://www.wikidata.org/wiki/Q2121746](https://www.wikidata.org/wiki/Q2121746)  
+
+### alignments:
+ - [Koi Krylgan Kala](https://pleiades.stoa.org/places/189758765)
+
+
 ## Koila of Euboea (Q16330522)
 [https://www.wikidata.org/wiki/Q16330522](https://www.wikidata.org/wiki/Q16330522)  
 
@@ -29724,6 +29738,13 @@
  - [Mola di Monte Gelato](https://pleiades.stoa.org/places/413205)
 
 
+## Molfetta (Q19300)
+[https://www.wikidata.org/wiki/Q19300](https://www.wikidata.org/wiki/Q19300)  
+
+### alignments:
+ - [Respa](https://pleiades.stoa.org/places/442743)
+
+
 ## Mollarella (Q135511150)
 [https://www.wikidata.org/wiki/Q135511150](https://www.wikidata.org/wiki/Q135511150)  
 
@@ -31101,6 +31122,14 @@
 
 ### alignments:
  - [Poggino necropolis](https://pleiades.stoa.org/places/584868520)
+
+
+## Necropoli delle Pianacce (Q3346891)
+[https://www.wikidata.org/wiki/Q3346891](https://www.wikidata.org/wiki/Q3346891)  
+
+### alignments:
+ - [Etruscan necropolis of Pianacce](https://pleiades.stoa.org/places/289697636)
+ - [Necropoli delle Pianacce](https://pleiades.stoa.org/places/125758078)
 
 
 ## Necropoli di Peschiera (Q91088310)
@@ -46591,13 +46620,6 @@
  - [Monte Abatone necropolis, Caere](https://pleiades.stoa.org/places/955903121)
 
 
-## Q3346891: Necropoli delle Pianacce
-[https://www.wikidata.org/wiki/Q3346891](https://www.wikidata.org/wiki/Q3346891)  
-
-### alignments:
- - [Etruscan necropolis of Pianacce](https://pleiades.stoa.org/places/289697636)
-
-
 ## Q3346892: Necropoli Etrusca del Crocifisso del Tufo
 [https://www.wikidata.org/wiki/Q3346892](https://www.wikidata.org/wiki/Q3346892)  
 
@@ -56628,6 +56650,13 @@
  - [Samnaga/Samnagenses](https://pleiades.stoa.org/places/151783)
 
 
+## Samnite fortification at Mandra Castellone (Q124219473)
+[https://www.wikidata.org/wiki/Q124219473](https://www.wikidata.org/wiki/Q124219473)  
+
+### alignments:
+ - [Mandra Castellone](https://pleiades.stoa.org/places/572637979)
+
+
 ## Samnite Sanctuary at Pietrabbondante (Q21552374)
 [https://www.wikidata.org/wiki/Q21552374](https://www.wikidata.org/wiki/Q21552374)  
 
@@ -64056,6 +64085,13 @@
 
 ### alignments:
  - [Tophet de Salammbô](https://pleiades.stoa.org/places/908696791)
+
+
+## Toprak-kala (Q2443559)
+[https://www.wikidata.org/wiki/Q2443559](https://www.wikidata.org/wiki/Q2443559)  
+
+### alignments:
+ - [Toprak Kala](https://pleiades.stoa.org/places/591310837)
 
 
 ## Toprakkale (Q108118147)
