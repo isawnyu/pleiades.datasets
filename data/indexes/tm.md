@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4786 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
+4787 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25392,6 +25392,13 @@
 
 ### alignments:
  - [Vosegus (mountain)](https://pleiades.stoa.org/places/109443)
+
+
+## GEO ID 42366: Clesus
+[https://www.trismegistos.org/place/42366](https://www.trismegistos.org/place/42366)  
+
+### alignments:
+ - [Clesus (river)](https://pleiades.stoa.org/places/383620)
 
 
 ## GEO ID 42374: Creta et Cyrenae

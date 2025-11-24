@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9891 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
+9911 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3013,6 +3013,13 @@
  - [Roman theater of Fourvière](https://pleiades.stoa.org/places/931407499)
 
 
+## Ancient theatre of Milos (Q38184737)
+[https://www.wikidata.org/wiki/Q38184737](https://www.wikidata.org/wiki/Q38184737)  
+
+### alignments:
+ - [Theater of Melos](https://pleiades.stoa.org/places/528335956)
+
+
 ## Ancient theatre of Philippi (Q27864544)
 [https://www.wikidata.org/wiki/Q27864544](https://www.wikidata.org/wiki/Q27864544)  
 
@@ -4000,6 +4007,13 @@
  - [Arbor Low stone circle](https://pleiades.stoa.org/places/549355650)
 
 
+## Arc de Berà (Q631051)
+[https://www.wikidata.org/wiki/Q631051](https://www.wikidata.org/wiki/Q631051)  
+
+### alignments:
+ - [Berà](https://pleiades.stoa.org/places/246238)
+
+
 ## Arcadia (Q12898802)
 [https://www.wikidata.org/wiki/Q12898802](https://www.wikidata.org/wiki/Q12898802)  
 
@@ -4166,6 +4180,13 @@
 
 ### alignments:
  - [Arch of Trajan at Canosa](https://pleiades.stoa.org/places/829122898)
+
+
+## archaeological area of Carife (Q28670860)
+[https://www.wikidata.org/wiki/Q28670860](https://www.wikidata.org/wiki/Q28670860)  
+
+### alignments:
+ - [Archaeological area of Carife](https://pleiades.stoa.org/places/654341269)
 
 
 ## Archaeological area of Macchia Grande (Q130380959)
@@ -4411,6 +4432,13 @@
 
 ### alignments:
  - [La Cuma, Monte Rinaldo](https://pleiades.stoa.org/places/413109)
+
+
+## Area Pannaria (Q107364137)
+[https://www.wikidata.org/wiki/Q107364137](https://www.wikidata.org/wiki/Q107364137)  
+
+### alignments:
+ - [area pannaria](https://pleiades.stoa.org/places/851128106)
 
 
 ## Area X, Sidi Khrebish (Q104904106)
@@ -5574,6 +5602,13 @@
 
 ### alignments:
  - [Auchendavy](https://pleiades.stoa.org/places/89105)
+
+
+## Auditorium site (Q58840794)
+[https://www.wikidata.org/wiki/Q58840794](https://www.wikidata.org/wiki/Q58840794)  
+
+### alignments:
+ - [The "Auditorium site" at the Auditorium Parco della Musica (Rome)](https://pleiades.stoa.org/places/721060792)
 
 
 ## Augst amphitheatre (Q29001161)
@@ -8286,6 +8321,13 @@
  - [Bourg-St-Pierre](https://pleiades.stoa.org/places/167684)
 
 
+## Bourton Bridge Roman settlement (Q17677589)
+[http://www.wikidata.org/entity/Q17677589](http://www.wikidata.org/entity/Q17677589)  
+
+### alignments:
+ - [Bourton-on-the-Water](https://pleiades.stoa.org/places/79339)
+
+
 ## Bovianum (Q11909916)
 [https://www.wikidata.org/wiki/Q11909916](https://www.wikidata.org/wiki/Q11909916)  
 
@@ -9796,6 +9838,13 @@
  - [Gorditanum Pr.](https://pleiades.stoa.org/places/471936)
 
 
+## Capo Figari (Q3657128)
+[https://www.wikidata.org/wiki/Q3657128](https://www.wikidata.org/wiki/Q3657128)  
+
+### alignments:
+ - [Kolymbarion Akron](https://pleiades.stoa.org/places/471959)
+
+
 ## Capo Graziano (Q46849937)
 [https://www.wikidata.org/wiki/Q46849937](https://www.wikidata.org/wiki/Q46849937)  
 
@@ -10473,6 +10522,13 @@
 
 ### alignments:
  - [Torre Scribla](https://pleiades.stoa.org/places/402874211)
+
+
+## Castello Normanno-Svevo (Q3662343)
+[https://www.wikidata.org/wiki/Q3662343](https://www.wikidata.org/wiki/Q3662343)  
+
+### alignments:
+ - [Castello normanno-svevo (Sannicandro di Bari)](https://pleiades.stoa.org/places/648493563)
 
 
 ## Castello Savelli Torlonia (Q3662367)
@@ -17838,6 +17894,13 @@
  - [Roman Forum at Syracuse](https://pleiades.stoa.org/places/649857186)
 
 
+## Fort de Brescou (Q1438844)
+[https://www.wikidata.org/wiki/Q1438844](https://www.wikidata.org/wiki/Q1438844)  
+
+### alignments:
+ - [Blasco (island)](https://pleiades.stoa.org/places/148020)
+
+
 ## Fort of Kalyva (Q38282089)
 [https://www.wikidata.org/wiki/Q38282089](https://www.wikidata.org/wiki/Q38282089)  
 
@@ -19827,6 +19890,13 @@
 
 ### alignments:
  - [Paestanus Sinus](https://pleiades.stoa.org/places/442704)
+
+
+## Gulf of Saros (Q2474092)
+[https://www.wikidata.org/wiki/Q2474092](https://www.wikidata.org/wiki/Q2474092)  
+
+### alignments:
+ - [Melas Kolpos](https://pleiades.stoa.org/places/501513)
 
 
 ## Gulf of Sidra (Q187274)
@@ -22480,6 +22550,13 @@
 
 ### alignments:
  - [Herminones](https://pleiades.stoa.org/places/101199)
+
+
+## Iron Age and Romano British settlement remains and associated features, 1km south east of Leaze Farm: (Q17662584)
+[http://www.wikidata.org/entity/Q17662584](http://www.wikidata.org/entity/Q17662584)  
+
+### alignments:
+ - [Leaze Farm](https://pleiades.stoa.org/places/686442690)
 
 
 ## Iron Gate (Q3399252)
@@ -25956,6 +26033,13 @@
  - [Leben](https://pleiades.stoa.org/places/589901)
 
 
+## Lechlade Roman villa (Q136841694)
+[http://www.wikidata.org/entity/Q136841694](http://www.wikidata.org/entity/Q136841694)  
+
+### alignments:
+ - [Lechlade Roman villa](https://pleiades.stoa.org/places/957554023)
+
+
 ## Lederata (Q3829351)
 [https://www.wikidata.org/wiki/Q3829351](https://www.wikidata.org/wiki/Q3829351)  
 
@@ -28131,6 +28215,13 @@
 
 ### alignments:
  - [Mausoleum of Quintus Lollius Urbicus](https://pleiades.stoa.org/places/308043)
+
+
+## Mausoleum of the First Qin Emperor (Q910180)
+[https://www.wikidata.org/wiki/Q910180](https://www.wikidata.org/wiki/Q910180)  
+
+### alignments:
+ - [Mausoleum of the First Qin Emperor](https://pleiades.stoa.org/places/117715281)
 
 
 ## Mausoleum of Theodoric (Q289427)
@@ -30564,6 +30655,13 @@
  - [ Murder Loch](https://pleiades.stoa.org/places/465554585)
 
 
+## Murgia Timone (Q136788507)
+[https://www.wikidata.org/wiki/Q136788507](https://www.wikidata.org/wiki/Q136788507)  
+
+### alignments:
+ - [Murgia Timone](https://pleiades.stoa.org/places/17452629)
+
+
 ## Mursella (Q21556432)
 [https://www.wikidata.org/wiki/Q21556432](https://www.wikidata.org/wiki/Q21556432)  
 
@@ -31129,7 +31227,6 @@
 
 ### alignments:
  - [Etruscan necropolis of Pianacce](https://pleiades.stoa.org/places/289697636)
- - [Necropoli delle Pianacce](https://pleiades.stoa.org/places/125758078)
 
 
 ## Necropoli di Peschiera (Q91088310)
@@ -33146,6 +33243,13 @@
 
 ### alignments:
  - [Ordovices](https://pleiades.stoa.org/places/79630)
+
+
+## Ordu-Baliq (Q2475401)
+[https://www.wikidata.org/wiki/Q2475401](https://www.wikidata.org/wiki/Q2475401)  
+
+### alignments:
+ - [Ordu-Baliq](https://pleiades.stoa.org/places/509176198)
 
 
 ## Oresthasium (Q7101662)
@@ -35620,6 +35724,13 @@
  - [Sa Torreta](https://pleiades.stoa.org/places/316244304)
 
 
+## Podere Cosciano (Q136908562)
+[https://www.wikidata.org/wiki/Q136908562](https://www.wikidata.org/wiki/Q136908562)  
+
+### alignments:
+ - [Podere Cosciano](https://pleiades.stoa.org/places/879707568)
+
+
 ## Poemanenum (Q65043966)
 [https://www.wikidata.org/wiki/Q65043966](https://www.wikidata.org/wiki/Q65043966)  
 
@@ -38082,13 +38193,6 @@
 
 ### alignments:
  - [Camenae, Camenarum Fons](https://pleiades.stoa.org/places/307963011)
-
-
-## Q107364137: Area Pannaria
-[https://www.wikidata.org/wiki/Q107364137](https://www.wikidata.org/wiki/Q107364137)  
-
-### alignments:
- - [area pannaria](https://pleiades.stoa.org/places/851128106)
 
 
 ## Q107370651: City wall of Dura-Europos, Dura-Europos
@@ -49348,13 +49452,6 @@
  - [Prasiai](https://pleiades.stoa.org/places/570629)
 
 
-## Q496002
-[https://www.wikidata.org/wiki/Q496002](https://www.wikidata.org/wiki/Q496002)  
-
-### alignments:
- - [Uronarti](https://pleiades.stoa.org/places/228359733)
-
-
 ## Q49646170
 [https://www.wikidata.org/wiki/Q49646170](https://www.wikidata.org/wiki/Q49646170)  
 
@@ -50503,13 +50600,6 @@
  - [Berretta del Prete](https://pleiades.stoa.org/places/119213387)
 
 
-## Q58840794: Auditorium site
-[https://www.wikidata.org/wiki/Q58840794](https://www.wikidata.org/wiki/Q58840794)  
-
-### alignments:
- - [The "Auditorium site" at the Auditorium Parco della Musica (Rome)](https://pleiades.stoa.org/places/721060792)
-
-
 ## Q58898
 [https://www.wikidata.org/wiki/Q58898](https://www.wikidata.org/wiki/Q58898)  
 
@@ -51187,13 +51277,6 @@
 
 ### alignments:
  - [Kerameikos](https://pleiades.stoa.org/places/97294452)
-
-
-## Q631051: Arc de Berà
-[https://www.wikidata.org/wiki/Q631051](https://www.wikidata.org/wiki/Q631051)  
-
-### alignments:
- - [Berà](https://pleiades.stoa.org/places/246238)
 
 
 ## Q631734: Aqua Augusta
@@ -53982,6 +54065,13 @@
  - [Rantidi](https://pleiades.stoa.org/places/707615)
 
 
+## Rapsley Roman Villa (Q124369960)
+[http://www.wikidata.org/entity/Q124369960](http://www.wikidata.org/entity/Q124369960)  
+
+### alignments:
+ - [Ewhurst](https://pleiades.stoa.org/places/79456)
+
+
 ## Ras Banas (Q3419767)
 [https://www.wikidata.org/wiki/Q3419767](https://www.wikidata.org/wiki/Q3419767)  
 
@@ -55787,6 +55877,13 @@
 
 ### alignments:
  - [Langton](https://pleiades.stoa.org/places/89223)
+
+
+## Roman villa 600yds (550m) NE of Great Lemhill Farm (Q17640837)
+[http://www.wikidata.org/entity/Q17640837](http://www.wikidata.org/entity/Q17640837)  
+
+### alignments:
+ - [Great Lemhill Farm Roman villa](https://pleiades.stoa.org/places/62842860)
 
 
 ## Roman villa adjoining Watery Lane (Q17648401)
@@ -57621,6 +57718,13 @@
 
 ### alignments:
  - [Sarte](https://pleiades.stoa.org/places/501603)
+
+
+## Sarteano (Samian Ware Discovery Site) (Q103194280)
+[https://www.wikidata.org/wiki/Q103194280](https://www.wikidata.org/wiki/Q103194280)  
+
+### alignments:
+ - [Sarteano](https://pleiades.stoa.org/places/413307)
 
 
 ## Sarych (Q2492899)
@@ -59550,6 +59654,13 @@
  - [Sora](https://pleiades.stoa.org/places/433126)
 
 
+## Sorgenti della Nova (Q106611058)
+[https://www.wikidata.org/wiki/Q106611058](https://www.wikidata.org/wiki/Q106611058)  
+
+### alignments:
+ - [Sorgenti della Nova](https://pleiades.stoa.org/places/87797229)
+
+
 ## Sorgue (Q688959)
 [https://www.wikidata.org/wiki/Q688959](https://www.wikidata.org/wiki/Q688959)  
 
@@ -59793,6 +59904,13 @@
 
 ### alignments:
  - [Spina](https://pleiades.stoa.org/places/393498)
+
+
+## Split (Q1663)
+[https://www.wikidata.org/wiki/Q1663](https://www.wikidata.org/wiki/Q1663)  
+
+### alignments:
+ - [Spalatum](https://pleiades.stoa.org/places/197524)
 
 
 ## Splügen Pass (Q605243)
@@ -61179,6 +61297,13 @@
 
 ### alignments:
  - [Tellegate](https://pleiades.stoa.org/places/383796)
+
+
+## Tell Abraq (Q3517362)
+[https://www.wikidata.org/wiki/Q3517362](https://www.wikidata.org/wiki/Q3517362)  
+
+### alignments:
+ - [Tell Abraq](https://pleiades.stoa.org/places/932482)
 
 
 ## Tell Abu Dhahir (Q135647983)
@@ -65970,6 +66095,13 @@
  - [El Chuche (settlement)](https://pleiades.stoa.org/places/266085)
 
 
+## Uronarti (Q496002)
+[https://www.wikidata.org/wiki/Q496002](https://www.wikidata.org/wiki/Q496002)  
+
+### alignments:
+ - [Uronarti](https://pleiades.stoa.org/places/228359733)
+
+
 ## Urso (Q3552479)
 [https://www.wikidata.org/wiki/Q3552479](https://www.wikidata.org/wiki/Q3552479)  
 
@@ -68490,6 +68622,13 @@
 
 ### alignments:
  - [Worlebury Camp](https://pleiades.stoa.org/places/893850615)
+
+
+## Wortley Roman Villa (Q131912678)
+[http://www.wikidata.org/entity/Q131912678](http://www.wikidata.org/entity/Q131912678)  
+
+### alignments:
+ - [Wortley Roman villa](https://pleiades.stoa.org/places/590342556)
 
 
 ## Wyszembork (Q8040618)

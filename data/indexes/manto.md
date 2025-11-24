@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-770 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
+771 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2891,6 +2891,13 @@
 
 ### alignments:
  - [Dikaiarcheia/Puteoli](https://pleiades.stoa.org/places/432815)
+
+
+## 11310051: Spring Gargaphie (Boiotia)
+[https://resource.manto.unh.edu/11310051](https://resource.manto.unh.edu/11310051)  
+
+### alignments:
+ - [Gargaphia](https://pleiades.stoa.org/places/543709)
 
 
 ## 11310130: the Propontis

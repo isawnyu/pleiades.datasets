@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2266 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
+2268 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2337,7 +2337,6 @@
 
 ### alignments:
  - [Ad Novas](https://pleiades.stoa.org/places/393364)
- - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
  - [Bovillae](https://pleiades.stoa.org/places/422852)
  - [Gerunda](https://pleiades.stoa.org/places/246406)
  - [Larissa](https://pleiades.stoa.org/places/631221)
@@ -3559,6 +3558,13 @@
 
 ### alignments:
  - [Clunia](https://pleiades.stoa.org/places/187350)
+
+
+## 2A5 (Talbert 2908)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2908.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2908.html)  
+
+### alignments:
+ - [Clesus (river)](https://pleiades.stoa.org/places/383620)
 
 
 ## 2A5 (Talbert 891)
@@ -11536,6 +11542,13 @@
 
 ### alignments:
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
+
+
+## 6C1 (Talbert 3015)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3015.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3015.html)  
+
+### alignments:
+ - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
 
 
 ## 6C1 (Talbert 3016)

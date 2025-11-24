@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4730 alignments exist in _Pleiades_ place references as of 2025-11-21. The following list of alignments is grouped by zotkey.
+4732 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -547,6 +547,13 @@
 
 ### alignments:
  - [Aigai(ai)/Aegeae](https://pleiades.stoa.org/places/658368)
+
+
+## Aegean Sea (Hellas) 235 Aegean - Αιγαίον πέλαγος
+[https://topostext.org/place/381253WAeg](https://topostext.org/place/381253WAeg)  
+
+### alignments:
+ - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
 
 
 ## Aeminium (Lusitania)
@@ -30415,6 +30422,13 @@
 
 ### alignments:
  - [Theatrum Marcelli](https://pleiades.stoa.org/places/300583267)
+
+
+## Theatre of Melos (Melos) 1 Trypiti
+[https://topostext.org/place/367244BMel](https://topostext.org/place/367244BMel)  
+
+### alignments:
+ - [Theater of Melos](https://pleiades.stoa.org/places/528335956)
 
 
 ## Theatre of Pompey (Rome)
