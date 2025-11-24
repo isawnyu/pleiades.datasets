@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9911 alignments exist in _Pleiades_ place references as of 2025-11-23. The following list of alignments is grouped by zotkey.
+9912 alignments exist in _Pleiades_ place references as of 2025-11-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9131,6 +9131,13 @@
  - [Cadmea](https://pleiades.stoa.org/places/239936126)
 
 
+## Cadmus (Q5016553)
+[https://www.wikidata.org/wiki/Q5016553](https://www.wikidata.org/wiki/Q5016553)  
+
+### alignments:
+ - [Kadmos (river)](https://pleiades.stoa.org/places/638883)
+
+
 ## Cae Gaer Roman fort (Q133757978)
 [https://www.wikidata.org/wiki/Q133757978](https://www.wikidata.org/wiki/Q133757978)  
 
@@ -14208,6 +14215,13 @@
  - [Krya](https://pleiades.stoa.org/places/638947)
 
 
+## Crypta Balbi (Q3005742)
+[https://www.wikidata.org/wiki/Q3005742](https://www.wikidata.org/wiki/Q3005742)  
+
+### alignments:
+ - [Crypta Balbi](https://pleiades.stoa.org/places/756231346)
+
+
 ## cryptoporticus of Alife (Q56258399)
 [https://www.wikidata.org/wiki/Q56258399](https://www.wikidata.org/wiki/Q56258399)  
 
@@ -18221,6 +18235,13 @@
 
 ### alignments:
  - [Frattura Vecchia](https://pleiades.stoa.org/places/854820311)
+
+
+## Fregenae (Q1918325)
+[https://www.wikidata.org/wiki/Q1918325](https://www.wikidata.org/wiki/Q1918325)  
+
+### alignments:
+ - [Fregenae](https://pleiades.stoa.org/places/422930)
 
 
 ## Fresilia (Q136375868)
@@ -43193,13 +43214,6 @@
  - [Meher Kapısı](https://pleiades.stoa.org/places/878177649)
 
 
-## Q1918325: Fregenae
-[https://www.wikidata.org/wiki/Q1918325](https://www.wikidata.org/wiki/Q1918325)  
-
-### alignments:
- - [Fregenae](https://pleiades.stoa.org/places/422930)
-
-
 ## Q192119: Sisak
 [https://www.wikidata.org/wiki/Q192119](https://www.wikidata.org/wiki/Q192119)  
 
@@ -46344,13 +46358,6 @@
 
 ### alignments:
  - [Fundi](https://pleiades.stoa.org/places/432855)
-
-
-## Q3005742: Crypta Balbi
-[https://www.wikidata.org/wiki/Q3005742](https://www.wikidata.org/wiki/Q3005742)  
-
-### alignments:
- - [Crypta Balbi](https://pleiades.stoa.org/places/756231346)
 
 
 ## Q3015870: Daphne
