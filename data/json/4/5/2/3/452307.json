@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        16.01085,
-        40.090868,
-        16.01085,
-        40.090868
+        16.0477364,
+        40.086637,
+        16.0477364,
+        40.086637
     ],
     "connections": [],
     "connectsWith": [],
@@ -54,28 +54,33 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 46 D1 Colle dei Greci",
-    "details": "The Barrington Atlas Directory notes: Colle dei Greci",
+    "details": "<p>The Barrington Atlas Directory notes: Colle dei Greci</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    16.01085,
-                    40.090868
+                    16.0477364,
+                    40.086637
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-18356",
+            "id": "osm-location-of-colle-dei-greci",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/452307/darmc-location-18356",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/452307/osm-location-of-colle-dei-greci",
                 "location_precision": "precise",
-                "snippet": "Unknown; 750 BC - 30 BC",
-                "title": "DARMC location 18356"
+                "snippet": "Hill; AD 2000 - AD 2099",
+                "title": "OSM location of Colle dei Greci"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-11-21T18:15:03Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2025-11-19T03:44:19Z",
@@ -121,8 +126,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -130,110 +135,164 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "archaic",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-09T23:17:07Z",
+            "contributors": [],
+            "created": "2025-11-19T03:46:27Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 18356",
-            "end": -30,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "hill"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
             "geometry": {
                 "coordinates": [
-                    16.01085,
-                    40.090868
+                    16.0477364,
+                    40.086637
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:13:54Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:12:20Z",
+                    "modified": "2025-11-21T18:14:22Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-09T23:17:09Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-19T03:46:50Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-09T23:17:09Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add osm location",
+                    "modified": "2025-11-19T03:46:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-11-19T03:46:27Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-09T23:17:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-19T03:46:27Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-18356",
+            "id": "osm-location-of-colle-dei-greci",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
-            "provenance": "DARMC OBJECTID: 18356",
+            "provenance": "OpenStreetMap (Node 8287192102, version 1, osm:changeset=96860061, 2021-01-03T18:47:00Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/8287192102",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "18356",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 8287192102",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 18356.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=8287192102",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -750,
-            "title": "DARMC location 18356",
-            "uri": "https://pleiades.stoa.org/places/452307/darmc-location-18356"
+            "start": 2000,
+            "title": "OSM location of Colle dei Greci",
+            "uri": "https://pleiades.stoa.org/places/452307/osm-location-of-colle-dei-greci"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Colle dei Greci",
+            "contributors": [],
+            "created": "2025-11-19T03:45:18Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-11-21T18:15:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-11-19T03:45:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add batlas name",
+                    "modified": "2025-11-19T03:45:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-11-19T03:45:18Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "colle-dei-greci",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "46 D1 Colle dei Greci",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Colle dei Greci",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/452307/colle-dei-greci"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
         "https://pleiades.stoa.org/vocabularies/place-types/hill"
@@ -276,11 +335,22 @@
             "otherIdentifier": "",
             "shortTitle": "ToposText",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "18356",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        16.01085,
-        40.090868
+        16.0477364,
+        40.086637
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
