@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.7370897,
-        42.7334005,
-        12.7370897,
-        42.7334005
+        12.7370895,
+        42.7334089,
+        12.7370895,
+        42.7334089
     ],
     "connections": [
         {
@@ -56,8 +56,15 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/413320"
     ],
-    "contributors": [],
-    "created": "2018-05-09T23:49:25Z",
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        }
+    ],
+    "created": "2025-11-24T00:22:18Z",
     "creators": [
         {
             "homepage": null,
@@ -82,13 +89,23 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/900336440/osm-location-of-roman-arch",
                 "location_precision": "precise",
-                "snippet": "Arch, ; 30 BC - AD 300",
+                "snippet": "Arch; 30 BC - AD 300",
                 "title": "OSM location of Roman arch"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added epigraphic evidence",
+            "modified": "2025-11-24T00:25:45Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2025-11-24T00:22:17Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata",
             "modified": "2021-02-10T14:03:12Z",
@@ -142,7 +159,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2015-08-17T03:11:29Z",
             "creators": [
                 {
@@ -156,12 +180,10 @@
             "details": "<p>A Roman honorific arch dating ca. 23 BC.</p>",
             "end": 300,
             "featureType": [
-                "arch",
-                ""
+                "arch"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "geometry": {
                 "coordinates": [
@@ -171,6 +193,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2025-11-24T00:54:57Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "removed redundant references",
+                    "modified": "2025-11-24T00:22:07Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Reimported full node geometry and updated provenance",
                     "modified": "2024-06-15T14:20:24Z",
@@ -209,12 +241,10 @@
             ],
             "id": "osm-location-of-roman-arch",
             "locationType": [
-                "representative",
-                ""
+                "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/arch",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/arch"
             ],
             "provenance": "OpenStreetMap (Node 3700505422, version 5, osm:changeset=51915421, 2017-09-10T17:58:25Z)",
             "references": [
@@ -228,39 +258,6 @@
                     "otherIdentifier": " ",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
-                },
-                {
-                    "accessURI": "https://it.wikipedia.org/wiki/Arco_di_Druso_e_Germanico",
-                    "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/UMFZH98D",
-                    "citationDetail": "Arco di Druso e Germanico",
-                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-                    "formattedCitation": "Wikipedia: L’enciclopedia libera e collaborativa (2001-), Arco di Druso e Germanico.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "Wikipedia (Italian)",
-                    "type": "seeFurther"
-                },
-                {
-                    "accessURI": "http://www.geonames.org/10400263/arco-di-druso-e-germanico.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
-                    "formattedCitation": "GeoNames 10400263",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "citesAsRelated"
-                },
-                {
-                    "accessURI": "http://db.edcs.eu/epigr/epi_einzel.php?s_sprache=it&p_belegstelle=CIL+11%2C+04776&r_sortierung=Belegstelle",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "CIL 11, 04776 = CIL 11, 04777",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "citesAsEvidence"
                 }
             ],
             "review_state": "published",
@@ -372,11 +369,22 @@
             "otherIdentifier": "",
             "shortTitle": "Wikidata",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://db.edcs.eu/epigr/edcs_id.php?s_sprache=en&p_edcs_id=EDCS-22900736",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/YG2BW6GH",
+            "citationDetail": "22900736 = EDR 164484 = CIL 2.4776 and 4777",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Clauss, Manfred, Anne Kolb, Wolfgang A. Slaby, and Barbara Woitas, eds. <i>Epigraphik-Datenbank  Clauss / Slaby</i>. Eichstätt: Universität Eichstätt-Ingolstadt, n.d. http://www.manfredclauss.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDCS",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        12.7370897,
-        42.7334005
+        12.7370895,
+        42.7334089
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
