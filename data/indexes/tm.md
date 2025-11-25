@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4787 alignments exist in _Pleiades_ place references as of 2025-11-24. The following list of alignments is grouped by zotkey.
+4790 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8056,6 +8056,13 @@
  - [*Matar](https://pleiades.stoa.org/places/315071)
 
 
+## GEO ID 17141: Naro (Hammam Lif)
+[https://www.trismegistos.org/place/17141](https://www.trismegistos.org/place/17141)  
+
+### alignments:
+ - [*Naro/Aquae Persianae](https://pleiades.stoa.org/places/315092)
+
+
 ## GEO ID 17143: Furnos Maius (Ain Fourna)
 [http://www.trismegistos.org/place/17143](http://www.trismegistos.org/place/17143)  
 
@@ -10869,6 +10876,20 @@
 
 ### alignments:
  - [Pan(h)ormus](https://pleiades.stoa.org/places/462410)
+
+
+## GEO ID 22277
+[http://www.trismegistos.org/place/22277](http://www.trismegistos.org/place/22277)  
+
+### alignments:
+ - [Segesta/Egesta](https://pleiades.stoa.org/places/462487)
+
+
+## GEO ID 22278: Emporion Segestanon (Castellammare)
+[https://www.trismegistos.org/place/22278](https://www.trismegistos.org/place/22278)  
+
+### alignments:
+ - [Emporion Segestanon](https://pleiades.stoa.org/places/462194)
 
 
 ## GEO ID 22281: Kapition (Capizzi)

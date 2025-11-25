@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9912 alignments exist in _Pleiades_ place references as of 2025-11-24. The following list of alignments is grouped by zotkey.
+9915 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9369,6 +9369,13 @@
  - [Kalamai](https://pleiades.stoa.org/places/570323)
 
 
+## Calatubo Castle (Q3662520)
+[https://www.wikidata.org/wiki/Q3662520](https://www.wikidata.org/wiki/Q3662520)  
+
+### alignments:
+ - [Castello di Calatubo](https://pleiades.stoa.org/places/462141)
+
+
 ## Calavon (Q1136988)
 [https://www.wikidata.org/wiki/Q1136988](https://www.wikidata.org/wiki/Q1136988)  
 
@@ -10487,6 +10494,13 @@
 
 ### alignments:
  - [Castell Henllys](https://pleiades.stoa.org/places/773739434)
+
+
+## Castellammare del Golfo (Q481642)
+[https://www.wikidata.org/wiki/Q481642](https://www.wikidata.org/wiki/Q481642)  
+
+### alignments:
+ - [Emporion Segestanon](https://pleiades.stoa.org/places/462194)
 
 
 ## Castelliere di Monte Orve (Q136163948)
@@ -58285,6 +58299,13 @@
 
 ### alignments:
  - [Segelocum](https://pleiades.stoa.org/places/79677)
+
+
+## Segesta (Q692847)
+[https://www.wikidata.org/wiki/Q692847](https://www.wikidata.org/wiki/Q692847)  
+
+### alignments:
+ - [Segesta/Egesta](https://pleiades.stoa.org/places/462487)
 
 
 ## Segre (Q23145)

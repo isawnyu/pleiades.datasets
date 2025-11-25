@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2268 alignments exist in _Pleiades_ place references as of 2025-11-24. The following list of alignments is grouped by zotkey.
+2269 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -10022,6 +10022,13 @@
 
 ### alignments:
  - [Minerva temple at Punta della Campanella](https://pleiades.stoa.org/places/432937)
+
+
+## 5C5 (Talbert 1489)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1489.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1489.html)  
+
+### alignments:
+ - [Segesta/Egesta](https://pleiades.stoa.org/places/462487)
 
 
 ## 5C5 (Talbert 228)
