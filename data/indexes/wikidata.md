@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9915 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
+9918 alignments exist in _Pleiades_ place references as of 2025-11-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2892,6 +2892,13 @@
 
 ### alignments:
  - [Methone (Pieria)](https://pleiades.stoa.org/places/491663)
+
+
+## Ancient Naupactus (Q56398924)
+[https://www.wikidata.org/wiki/Q56398924](https://www.wikidata.org/wiki/Q56398924)  
+
+### alignments:
+ - [Naupactus](https://pleiades.stoa.org/places/540960)
 
 
 ## Ancient Ostra (Q533922)
@@ -6967,6 +6974,13 @@
 
 ### alignments:
  - [Bagacum](https://pleiades.stoa.org/places/108788)
+
+
+## Bax Farm Roman villa (Q136995636)
+[http://www.wikidata.org/entity/Q136995636](http://www.wikidata.org/entity/Q136995636)  
+
+### alignments:
+ - [Bax Farm, Teynham](https://pleiades.stoa.org/places/61092263)
 
 
 ## Bay of Biscay (Q41573)
@@ -23068,6 +23082,13 @@
 
 ### alignments:
  - [Jazirat Say](https://pleiades.stoa.org/places/565495644)
+
+
+## Jaén (Q15681)
+[https://www.wikidata.org/wiki/Q15681](https://www.wikidata.org/wiki/Q15681)  
+
+### alignments:
+ - [Jaén](https://pleiades.stoa.org/places/302942693)
 
 
 ## Jebel Shams (Q1261915)

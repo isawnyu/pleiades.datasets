@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4790 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
+4791 alignments exist in _Pleiades_ place references as of 2025-11-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1883,6 +1883,13 @@
 
 ### alignments:
  - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
+
+
+## Geo 42665: Dioecesis Britanniae
+[http://www.trismegistos.org/place/42665](http://www.trismegistos.org/place/42665)  
+
+### alignments:
+ - [Britanniae](https://pleiades.stoa.org/places/992071)
 
 
 ## Geo 42695: Alpes Graiae et Poeninae

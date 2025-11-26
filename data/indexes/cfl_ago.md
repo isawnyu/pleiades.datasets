@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-447 alignments exist in _Pleiades_ place references as of 2025-11-25. The following list of alignments is grouped by zotkey.
+448 alignments exist in _Pleiades_ place references as of 2025-11-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2322,6 +2322,13 @@
 
 ### alignments:
  - [Asopos](https://pleiades.stoa.org/places/570129)
+
+
+## toponyme 36409: Nafpaktos-Δ.Δ.Ναυπάκτου
+[https://chronique.efa.gr/?r=topo_public&id=36409](https://chronique.efa.gr/?r=topo_public&id=36409)  
+
+### alignments:
+ - [Naupactus](https://pleiades.stoa.org/places/540960)
 
 
 ## Toponyme 36839: Prodromos, Elikon (Chostia)
