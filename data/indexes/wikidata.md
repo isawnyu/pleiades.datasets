@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9918 alignments exist in _Pleiades_ place references as of 2025-11-26. The following list of alignments is grouped by zotkey.
+9918 alignments exist in _Pleiades_ place references as of 2025-11-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
