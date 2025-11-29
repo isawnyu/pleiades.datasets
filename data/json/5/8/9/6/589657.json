@@ -188,10 +188,10 @@
             },
             "id": "osm-location-of-minoan-palace",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/589657/osm-location-of-minoan-palace",
                 "location_precision": "precise",
-                "snippet": "Architecturalcomplex, ; 2000 BC - 1000 BC",
+                "snippet": "Architecturalcomplex, Palace-complex; 2000 BC - 1000 BC",
                 "title": "OSM location of Minoan palace"
             },
             "type": "Feature"
@@ -293,16 +293,16 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": -1000,
             "featureType": [
                 "architecturalcomplex",
-                ""
+                "palace-complex"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/palace-complex"
             ],
             "geometry": {
                 "coordinates": [
@@ -363,6 +363,11 @@
             },
             "history": [
                 {
+                    "comment": "Edited",
+                    "modified": "2025-11-27T14:36:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2023-04-11T00:39:12Z",
                     "modifiedBy": "thomase"
@@ -399,7 +404,7 @@
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/palace-complex"
             ],
             "provenance": "OpenStreetMap (Way 100428119, version 5, osm:changeset=35143187, 2015-11-07T06:35:22Z)",
             "references": [
@@ -498,15 +503,94 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/589657/acharna"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Arkhanes",
+            "contributors": [],
+            "created": "2025-11-12T15:14:14Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-11-29T00:03:21Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-11-27T14:36:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2025-11-27T14:36:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add name - Arkhanes",
+                    "modified": "2025-11-12T15:14:15Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-11-12T15:14:14Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "arkhanes",
+            "language": "en",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 920 see \"Acharna\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Arkhanes",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/589657/arkhanes"
         }
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex"
+        "https://pleiades.stoa.org/vocabularies/place-types/architecturalcomplex",
+        "https://pleiades.stoa.org/vocabularies/place-types/palace-complex"
     ],
     "placeTypes": [
         "settlement",
-        "architecturalcomplex"
+        "architecturalcomplex",
+        "palace-complex"
     ],
     "provenance": "Barrington Atlas: BAtlas 60 D2 Acharna",
     "references": [
