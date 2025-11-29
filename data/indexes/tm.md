@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4791 alignments exist in _Pleiades_ place references as of 2025-11-27. The following list of alignments is grouped by zotkey.
+4792 alignments exist in _Pleiades_ place references as of 2025-11-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -26897,6 +26897,13 @@
 
 ### alignments:
  - [Sorrina](https://pleiades.stoa.org/places/413319)
+
+
+## GEO ID 43372: Arae Augusti
+[http://www.trismegistos.org/place/43372](http://www.trismegistos.org/place/43372)  
+
+### alignments:
+ - [Arae Augusti/Arae Sestianae](https://pleiades.stoa.org/places/240864)
 
 
 ## GEO ID 43373: Babba

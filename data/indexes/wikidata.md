@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9918 alignments exist in _Pleiades_ place references as of 2025-11-27. The following list of alignments is grouped by zotkey.
+9926 alignments exist in _Pleiades_ place references as of 2025-11-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3949,6 +3949,13 @@
 
 ### alignments:
  - [Aradarum/Hardea/Ardea](https://pleiades.stoa.org/places/30207)
+
+
+## Arae Sestianae (Q133571052)
+[https://www.wikidata.org/wiki/Q133571052](https://www.wikidata.org/wiki/Q133571052)  
+
+### alignments:
+ - [Arae Augusti/Arae Sestianae](https://pleiades.stoa.org/places/240864)
 
 
 ## Araethyrea (Argolis) (Q16488711)
@@ -9908,6 +9915,13 @@
  - [Tauri(a)num/‘Vaticanum’ Pr.](https://pleiades.stoa.org/places/452467)
 
 
+## Capori (Q5036095)
+[https://www.wikidata.org/wiki/Q5036095](https://www.wikidata.org/wiki/Q5036095)  
+
+### alignments:
+ - [Copori](https://pleiades.stoa.org/places/236444)
+
+
 ## Cappadocia (Q217265)
 [https://www.wikidata.org/wiki/Q217265](https://www.wikidata.org/wiki/Q217265)  
 
@@ -11973,6 +11987,13 @@
  - [Ouergionios Okeanos](https://pleiades.stoa.org/places/79632)
 
 
+## Celtici Praestamarici (Q5058568)
+[https://www.wikidata.org/wiki/Q5058568](https://www.wikidata.org/wiki/Q5058568)  
+
+### alignments:
+ - [Praestamarci](https://pleiades.stoa.org/places/236618)
+
+
 ## Cencelle (Q3664371)
 [https://www.wikidata.org/wiki/Q3664371](https://www.wikidata.org/wiki/Q3664371)  
 
@@ -12763,6 +12784,13 @@
 
 ### alignments:
  - [Santalla de Bóveda](https://pleiades.stoa.org/places/743134062)
+
+
+## Church of the Saviour (Q1728464)
+[https://www.wikidata.org/wiki/Q1728464](https://www.wikidata.org/wiki/Q1728464)  
+
+### alignments:
+ - [Church of the Saviour, Thessaloniki](https://pleiades.stoa.org/places/628342669)
 
 
 ## Church, Al-Asaba'a (Q104812819)
@@ -35479,6 +35507,13 @@
  - [Pinara](https://pleiades.stoa.org/places/639058)
 
 
+## Pincian Hill (Q550215)
+[https://www.wikidata.org/wiki/Q550215](https://www.wikidata.org/wiki/Q550215)  
+
+### alignments:
+ - [Pincian Hill](https://pleiades.stoa.org/places/88092816)
+
+
 ## Pincian obelisk (Q3348567)
 [https://www.wikidata.org/wiki/Q3348567](https://www.wikidata.org/wiki/Q3348567)  
 
@@ -50215,6 +50250,13 @@
  - [Roman villa at Híjar en Las Gabias](https://pleiades.stoa.org/places/167120129)
 
 
+## Q5637094
+[https://www.wikidata.org/wiki/Q5637094](https://www.wikidata.org/wiki/Q5637094)  
+
+### alignments:
+ - [Menariae (islands)](https://pleiades.stoa.org/places/270348)
+
+
 ## Q56397994: Plasi (Marathon)
 [https://www.wikidata.org/wiki/Q56397994](https://www.wikidata.org/wiki/Q56397994)  
 
@@ -63652,6 +63694,13 @@
  - [Tipasa](https://pleiades.stoa.org/places/295363)
 
 
+## Tiquadra (Q11951934)
+[https://www.wikidata.org/wiki/Q11951934](https://www.wikidata.org/wiki/Q11951934)  
+
+### alignments:
+ - [Tiquadra](https://pleiades.stoa.org/places/341084810)
+
+
 ## Tiran Island (Q598889)
 [https://www.wikidata.org/wiki/Q598889](https://www.wikidata.org/wiki/Q598889)  
 
@@ -68776,6 +68825,13 @@
 
 ### alignments:
  - [Athrys/Iatros/Ieterus (river)](https://pleiades.stoa.org/places/216717)
+
+
+## Yaoshan (Q66051672)
+[https://www.wikidata.org/wiki/Q66051672](https://www.wikidata.org/wiki/Q66051672)  
+
+### alignments:
+ - [Yaoshan Site](https://pleiades.stoa.org/places/915149951)
 
 
 ## Yarim Tepe (Q25490472)
