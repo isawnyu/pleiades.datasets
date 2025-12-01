@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2025/11/23 06:48:24.389630 US/Eastern
+# Date: 2025/11/30 06:48:29.215022 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5652
+# Triple count: 5696
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -395,6 +395,18 @@
     dcterms:modified "2012-02-14T16:14:57-05:00";
     dcterms:title "Moesia Superior";
     owl:sameAs <http://pleiades.stoa.org/errata/1136/moesia-superior> .
+
+<https://pleiades.stoa.org/errata/125758078%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Necropoli delle Pianacce";
+    spatial:C <https://pleiades.stoa.org/places/413307%23this>;
+    rdfs:comment "duplicate of https://pleiades.stoa.org/places/289697636";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/125758078> .
+
+<https://pleiades.stoa.org/errata/125758078/osm-location-of-necropoli-delle-pianacce> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap.";
+    dcterms:modified "2025-11-23T19:48:35-05:00";
+    dcterms:title "OSM location of Necropoli delle Pianacce";
+    owl:sameAs <http://pleiades.stoa.org/errata/125758078/osm-location-of-necropoli-delle-pianacce> .
 
 <https://pleiades.stoa.org/errata/143028854%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Doublet: Oppidum Bochoritanum";
@@ -2947,6 +2959,28 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/moesia-superior> .
 
+<https://pleiades.stoa.org/errata/125758078> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Minetti 2005 ",
+        "Minetti 2010 ",
+        "Minetti 2012 ",
+        "Wikipedia (Italian) Necropoli delle Pianacce";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "duplicate of https://pleiades.stoa.org/places/289697636";
+    dcterms:modified "2025-11-23T19:48:35-05:00";
+    dcterms:title "Withdrawn: Necropoli delle Pianacce";
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Necropoli_delle_Pianacce>,
+        <https://www.zotero.org/groups/pleiades/items/4TI7UN8Z>,
+        <https://www.zotero.org/groups/pleiades/items/9ZPQNQUM>,
+        <https://www.zotero.org/groups/pleiades/items/RYMBFIXZ>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/413307>;
+    owl:sameAs <http://pleiades.stoa.org/errata/125758078>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-necropoli-delle-pianacce> .
+
 <https://pleiades.stoa.org/errata/143028854> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "",
@@ -5483,6 +5517,18 @@
     pleiades:during <https://pleiades.stoa.org/vocabularies/2nd-millenium-bce>;
     pleiades:end_date -1000;
     pleiades:start_date -2000 .
+
+<https://pleiades.stoa.org/errata/osm-location-of-necropoli-delle-pianacce> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 767312997",
+        "Wikipedia (Italian) Necropoli delle Pianacce";
+    cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/767312997>;
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Necropoli_delle_Pianacce>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-necropoli-delle-pianacce>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 767312997, version 9, osm:changeset=138539870, 2023-07-15T10:52:08Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
+        <https://pleiades.stoa.org/vocabularies/classical>;
+    pleiades:end_date -330;
+    pleiades:start_date -750 .
 
 <https://pleiades.stoa.org/errata/osm-location-of-peiros> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[21.5686806, 38.143976], [21.5736668, 38.1507531], [21.573781, 38.1512751], [21.5701171, 38.1502982], [21.5692052, 38.1499902], [21.5691016, 38.1498715], [21.5690641, 38.1496479], [21.5686806, 38.143976]]]}";
