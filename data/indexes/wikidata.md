@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9926 alignments exist in _Pleiades_ place references as of 2025-11-30. The following list of alignments is grouped by zotkey.
+9929 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5280,6 +5280,13 @@
 
 ### alignments:
  - [Astigi/Col. Augusta Firma](https://pleiades.stoa.org/places/255996)
+
+
+## Astola Island (Q4283228)
+[https://www.wikidata.org/wiki/Q4283228](https://www.wikidata.org/wiki/Q4283228)  
+
+### alignments:
+ - [Asthala/Solis?/Karmina? (island)](https://pleiades.stoa.org/places/59718)
 
 
 ## Astron (Q111377653)
@@ -12160,6 +12167,13 @@
 
 ### alignments:
  - [Ceuclum](https://pleiades.stoa.org/places/108875)
+
+
+## Ceuta (Q5823)
+[https://www.wikidata.org/wiki/Q5823](https://www.wikidata.org/wiki/Q5823)  
+
+### alignments:
+ - [Septem](https://pleiades.stoa.org/places/275703)
 
 
 ## Ceyhan River (Q1057961)
@@ -23119,6 +23133,13 @@
  - [Jaén](https://pleiades.stoa.org/places/302942693)
 
 
+## Jebel Moussa (Q1026739)
+[https://www.wikidata.org/wiki/Q1026739](https://www.wikidata.org/wiki/Q1026739)  
+
+### alignments:
+ - [Septem Fratres Montes](https://pleiades.stoa.org/places/275704)
+
+
 ## Jebel Shams (Q1261915)
 [https://www.wikidata.org/wiki/Q1261915](https://www.wikidata.org/wiki/Q1261915)  
 
@@ -24021,6 +24042,13 @@
 
 ### alignments:
  - [Kepoi](https://pleiades.stoa.org/places/854695)
+
+
+## Kerameikos (Q630974)
+[https://www.wikidata.org/wiki/Q630974](https://www.wikidata.org/wiki/Q630974)  
+
+### alignments:
+ - [Kerameikos](https://pleiades.stoa.org/places/97294452)
 
 
 ## Kerameis (Q13445947)
@@ -32790,6 +32818,13 @@
  - [Odrysae](https://pleiades.stoa.org/places/216906)
 
 
+## Oea (Q1994812)
+[https://www.wikidata.org/wiki/Q1994812](https://www.wikidata.org/wiki/Q1994812)  
+
+### alignments:
+ - [Oea](https://pleiades.stoa.org/places/344456)
+
+
 ## Oechalia (Q60790408)
 [https://www.wikidata.org/wiki/Q60790408](https://www.wikidata.org/wiki/Q60790408)  
 
@@ -35477,6 +35512,13 @@
 
 ### alignments:
  - [Pigades](https://pleiades.stoa.org/places/540510822)
+
+
+## Pillars of Hercules (Q152854)
+[https://www.wikidata.org/wiki/Q152854](https://www.wikidata.org/wiki/Q152854)  
+
+### alignments:
+ - [Columnae Herculis](https://pleiades.stoa.org/places/275614)
 
 
 ## Pillitokome (Q85793333)
@@ -41321,13 +41363,6 @@
  - [San Lázaro Aqueduct](https://pleiades.stoa.org/places/256709)
 
 
-## Q152854: Pillars of Hercules
-[https://www.wikidata.org/wiki/Q152854](https://www.wikidata.org/wiki/Q152854)  
-
-### alignments:
- - [Columnae Herculis](https://pleiades.stoa.org/places/275614)
-
-
 ## Q15313595: Musarna
 [https://www.wikidata.org/wiki/Q15313595](https://www.wikidata.org/wiki/Q15313595)  
 
@@ -43604,13 +43639,6 @@
 
 ### alignments:
  - [Temple of Bacchus](https://pleiades.stoa.org/places/524305133)
-
-
-## Q1994812: Oea
-[https://www.wikidata.org/wiki/Q1994812](https://www.wikidata.org/wiki/Q1994812)  
-
-### alignments:
- - [Oea](https://pleiades.stoa.org/places/344456)
 
 
 ## Q1995379
@@ -47402,13 +47430,6 @@
 
 ### alignments:
  - [Col. Glevum](https://pleiades.stoa.org/places/79394)
-
-
-## Q36124: Strait of Gibraltar
-[https://www.wikidata.org/wiki/Q36124](https://www.wikidata.org/wiki/Q36124)  
-
-### alignments:
- - [Herakleios Porthmos/Gaditanum Fretum](https://pleiades.stoa.org/places/256198)
 
 
 ## Q3612535: Alli
@@ -51354,13 +51375,6 @@
 
 ### alignments:
  - [Asklepieion](https://pleiades.stoa.org/places/550459)
-
-
-## Q630974: Kerameikos
-[https://www.wikidata.org/wiki/Q630974](https://www.wikidata.org/wiki/Q630974)  
-
-### alignments:
- - [Kerameikos](https://pleiades.stoa.org/places/97294452)
 
 
 ## Q631734: Aqua Augusta
@@ -60345,6 +60359,13 @@
 
 ### alignments:
  - [Fretum Oceani/Gallicum](https://pleiades.stoa.org/places/79469)
+
+
+## Strait of Gibraltar (Q36124)
+[https://www.wikidata.org/wiki/Q36124](https://www.wikidata.org/wiki/Q36124)  
+
+### alignments:
+ - [Herakleios Porthmos/Gaditanum Fretum](https://pleiades.stoa.org/places/256198)
 
 
 ## Strait of Kerch (Q187890)
