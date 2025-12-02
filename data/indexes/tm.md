@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4792 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
+4796 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1680,13 +1680,6 @@
 
 ### alignments:
  - [Abai](https://pleiades.stoa.org/places/540582)
-
-
-## Geo 38118: Antikyra
-[https://www.trismegistos.org/place/38118](https://www.trismegistos.org/place/38118)  
-
-### alignments:
- - [Antikyra](https://pleiades.stoa.org/places/540642)
 
 
 ## Geo 38136: Titane
@@ -18112,6 +18105,13 @@
  - [Apollonis](https://pleiades.stoa.org/places/550444)
 
 
+## GEO ID 33601: Attaleia (Selçikli)
+[https://www.trismegistos.org/place/33601](https://www.trismegistos.org/place/33601)  
+
+### alignments:
+ - [Attaleia](https://pleiades.stoa.org/places/550472)
+
+
 ## GEO ID 33612: Kilbianoi
 [http://www.trismegistos.org/place/33612](http://www.trismegistos.org/place/33612)  
 
@@ -20198,6 +20198,20 @@
  - [Pherai](https://pleiades.stoa.org/places/570596)
 
 
+## GEO ID 38118: Antikyra
+[https://www.trismegistos.org/place/38118](https://www.trismegistos.org/place/38118)  
+
+### alignments:
+ - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
+## GEO ID 38119: Daulis
+[https://www.trismegistos.org/place/38119](https://www.trismegistos.org/place/38119)  
+
+### alignments:
+ - [Daulis](https://pleiades.stoa.org/places/540723)
+
+
 ## GEO ID 38120: Drymaia
 [https://www.trismegistos.org/place/38120](https://www.trismegistos.org/place/38120)  
 
@@ -20217,6 +20231,13 @@
 
 ### alignments:
  - [Hyampolis](https://pleiades.stoa.org/places/540820)
+
+
+## GEO ID 38126: Krisa (Chrisso)
+[https://www.trismegistos.org/place/38126](https://www.trismegistos.org/place/38126)  
+
+### alignments:
+ - [Krisa](https://pleiades.stoa.org/places/540889)
 
 
 ## GEO ID 38127: Medeon
@@ -30376,6 +30397,13 @@
  - [Mersin-Yumuktepe](https://pleiades.stoa.org/places/648555)
 
 
+## GEO ID 58797: Antipatreia
+[https://www.trismegistos.org/place/58797](https://www.trismegistos.org/place/58797)  
+
+### alignments:
+ - [Antipatreia](https://pleiades.stoa.org/places/481724)
+
+
 ## GEO ID 587: Dora (Tantura)
 [https://www.trismegistos.org/place/587](https://www.trismegistos.org/place/587)  
 
@@ -31671,6 +31699,13 @@
  - [Parthenias (river)](https://pleiades.stoa.org/places/570565)
 
 
+## GEO ID 62401: Anthedon (Hagios Petros)
+[https://www.trismegistos.org/place/62401](https://www.trismegistos.org/place/62401)  
+
+### alignments:
+ - [Anthedos](https://pleiades.stoa.org/places/573097)
+
+
 ## GEO ID 62450: Aspledon (Avrokastro)
 [https://www.trismegistos.org/place/62450](https://www.trismegistos.org/place/62450)  
 
@@ -32924,13 +32959,6 @@
 
 ### alignments:
  - [Gallia](https://pleiades.stoa.org/places/993)
-
-
-## Geo ID Antipatreia
-[https://www.trismegistos.org/place/58797](https://www.trismegistos.org/place/58797)  
-
-### alignments:
- - [Antipatreia](https://pleiades.stoa.org/places/481724)
 
 
 ## GEO ID, 11275: Edessa (Şanlıurfa)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-771 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
+772 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4622,6 +4622,13 @@
 
 ### alignments:
  - [Eryth(r)inoi](https://pleiades.stoa.org/places/844918)
+
+
+## 9688201: Crisa (Phocis)
+[https://resource.manto.unh.edu/9688201](https://resource.manto.unh.edu/9688201)  
+
+### alignments:
+ - [Krisa](https://pleiades.stoa.org/places/540889)
 
 
 ## 9688203: Panopeus (Phocis)

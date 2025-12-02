@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9929 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
+9940 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3307,6 +3307,13 @@
  - [Antemnae](https://pleiades.stoa.org/places/422836)
 
 
+## Antequera (Q572041)
+[https://www.wikidata.org/wiki/Q572041](https://www.wikidata.org/wiki/Q572041)  
+
+### alignments:
+ - [Anticaria](https://pleiades.stoa.org/places/265799)
+
+
 ## Anthana (Q60791451)
 [https://www.wikidata.org/wiki/Q60791451](https://www.wikidata.org/wiki/Q60791451)  
 
@@ -3328,6 +3335,13 @@
  - [Anthemous](https://pleiades.stoa.org/places/491521)
 
 
+## Anthée (Samian Ware Discovery Site) (Q103141827)
+[https://www.wikidata.org/wiki/Q103141827](https://www.wikidata.org/wiki/Q103141827)  
+
+### alignments:
+ - [Anthée](https://pleiades.stoa.org/places/108745)
+
+
 ## Anti-Taurus Mountains (Q1090601)
 [https://www.wikidata.org/wiki/Q1090601](https://www.wikidata.org/wiki/Q1090601)  
 
@@ -3342,11 +3356,25 @@
  - [Antikinolis](https://pleiades.stoa.org/places/844860)
 
 
+## Anticyra (Q4774674)
+[https://www.wikidata.org/wiki/Q4774674](https://www.wikidata.org/wiki/Q4774674)  
+
+### alignments:
+ - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
 ## Antigonia (Q4774767)
 [https://www.wikidata.org/wiki/Q4774767](https://www.wikidata.org/wiki/Q4774767)  
 
 ### alignments:
  - [Antigoneia?](https://pleiades.stoa.org/places/491524)
+
+
+## Antigonia (Q959799)
+[https://www.wikidata.org/wiki/Q959799](https://www.wikidata.org/wiki/Q959799)  
+
+### alignments:
+ - [Antigoneia](https://pleiades.stoa.org/places/481722)
 
 
 ## Antikythera (Q213730)
@@ -3403,6 +3431,20 @@
 
 ### alignments:
  - [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+
+
+## Antioch of Pisidia (Q579468)
+[https://www.wikidata.org/wiki/Q579468](https://www.wikidata.org/wiki/Q579468)  
+
+### alignments:
+ - [Antiochia/Col. Caesarea](https://pleiades.stoa.org/places/609307)
+
+
+## Antiochia ad Cragum (Q579389)
+[https://www.wikidata.org/wiki/Q579389](https://www.wikidata.org/wiki/Q579389)  
+
+### alignments:
+ - [Antiochia ad Cragum](https://pleiades.stoa.org/places/648560)
 
 
 ## Antiochia ad Taurum (Q303856)
@@ -5583,6 +5625,13 @@
  - [Media Atropatene](https://pleiades.stoa.org/places/874597)
 
 
+## Attaleia (Q105703706)
+[https://www.wikidata.org/wiki/Q105703706](https://www.wikidata.org/wiki/Q105703706)  
+
+### alignments:
+ - [Attalea](https://pleiades.stoa.org/places/638778)
+
+
 ## Attaleia (Q132444488)
 [https://www.wikidata.org/wiki/Q132444488](https://www.wikidata.org/wiki/Q132444488)  
 
@@ -5693,6 +5742,13 @@
 
 ### alignments:
  - [Augoustamnike I](https://pleiades.stoa.org/places/1001944)
+
+
+## Augusteum, Antioch in Pisidia (Q137183449)
+[https://www.wikidata.org/wiki/Q137183449](https://www.wikidata.org/wiki/Q137183449)  
+
+### alignments:
+ - [Augusteum, Antioch in Pisidia](https://pleiades.stoa.org/places/588333103)
 
 
 ## Augusteum, so-called Basilica (Q17622405)
@@ -12295,6 +12351,13 @@
  - [Charax](https://pleiades.stoa.org/places/226562)
 
 
+## Charax (Q5073952)
+[https://www.wikidata.org/wiki/Q5073952](https://www.wikidata.org/wiki/Q5073952)  
+
+### alignments:
+ - [Charax](https://pleiades.stoa.org/places/511205)
+
+
 ## Charente (Q123362)
 [https://www.wikidata.org/wiki/Q123362](https://www.wikidata.org/wiki/Q123362)  
 
@@ -14934,6 +14997,13 @@
 
 ### alignments:
  - [Dataleis?](https://pleiades.stoa.org/places/589752)
+
+
+## Daulis (Q1172948)
+[https://www.wikidata.org/wiki/Q1172948](https://www.wikidata.org/wiki/Q1172948)  
+
+### alignments:
+ - [Daulis](https://pleiades.stoa.org/places/540723)
 
 
 ## Dea Augusta Vocontiorum (Q86724954)
@@ -19941,6 +20011,13 @@
  - [Bubasius Sinus](https://pleiades.stoa.org/places/599561)
 
 
+## Gulf of Itea (Q25052999)
+[https://www.wikidata.org/wiki/Q25052999](https://www.wikidata.org/wiki/Q25052999)  
+
+### alignments:
+ - [Crisaeus Sinus](https://pleiades.stoa.org/places/540718)
+
+
 ## Gulf of Khambhat (Q654010)
 [https://www.wikidata.org/wiki/Q654010](https://www.wikidata.org/wiki/Q654010)  
 
@@ -22342,6 +22419,13 @@
  - [Ilissos Basilica](https://pleiades.stoa.org/places/190624512)
 
 
+## Ilistra (Q85768994)
+[https://www.wikidata.org/wiki/Q85768994](https://www.wikidata.org/wiki/Q85768994)  
+
+### alignments:
+ - [Ilistra](https://pleiades.stoa.org/places/648648)
+
+
 ## Iliturgicola (Q125763307)
 [https://www.wikidata.org/wiki/Q125763307](https://www.wikidata.org/wiki/Q125763307)  
 
@@ -23607,6 +23691,13 @@
 
 ### alignments:
  - [Kerkaphos (mountain)](https://pleiades.stoa.org/places/599709)
+
+
+## Karadağ Mountain (Q733877)
+[https://www.wikidata.org/wiki/Q733877](https://www.wikidata.org/wiki/Q733877)  
+
+### alignments:
+ - [Boratinon (mountain)](https://pleiades.stoa.org/places/648588)
 
 
 ## Karaftu (Q3699231)
@@ -49353,13 +49444,6 @@
  - [Aqua Iulia](https://pleiades.stoa.org/places/423564)
 
 
-## Q4774674: Anticyra
-[https://www.wikidata.org/wiki/Q4774674](https://www.wikidata.org/wiki/Q4774674)  
-
-### alignments:
- - [Antikyra](https://pleiades.stoa.org/places/540642)
-
-
 ## Q4775050: Antiochia in Mesopotamia
 [https://www.wikidata.org/wiki/Q4775050](https://www.wikidata.org/wiki/Q4775050)  
 
@@ -50444,13 +50528,6 @@
 
 ### alignments:
  - [Roman bath at Alange](https://pleiades.stoa.org/places/386745968)
-
-
-## Q572041: Antequera
-[https://www.wikidata.org/wiki/Q572041](https://www.wikidata.org/wiki/Q572041)  
-
-### alignments:
- - [Anticaria](https://pleiades.stoa.org/places/265799)
 
 
 ## Q572191: Volturno
@@ -53643,13 +53720,6 @@
 
 ### alignments:
  - [Necròpolis fenicia de Jardin](https://pleiades.stoa.org/places/331947243)
-
-
-## Q97632805: Termas romanas de Santa María la Mayor
-[https://www.wikidata.org/wiki/Q97632805](https://www.wikidata.org/wiki/Q97632805)  
-
-### alignments:
- - [Termas romanas de Santa María](https://pleiades.stoa.org/places/168208659)
 
 
 ## Q97633534: Villa romana de El Faro
@@ -62606,6 +62676,13 @@
 
 ### alignments:
  - [Termas romanas de las Bóvedas](https://pleiades.stoa.org/places/168208661)
+
+
+## Termas romanas de Santa María la Mayor (Q97632805)
+[https://www.wikidata.org/wiki/Q97632805](https://www.wikidata.org/wiki/Q97632805)  
+
+### alignments:
+ - [Termas romanas de Santa María](https://pleiades.stoa.org/places/168208659)
 
 
 ## Termas romanas de Torreblanca del Sol (Q9086161)

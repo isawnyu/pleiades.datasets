@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-448 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
+449 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2343,6 +2343,13 @@
 
 ### alignments:
  - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
+
+
+## Toponyme 36984: Davlia-Δ.Δ.Δαυλείας
+[https://chronique.efa.gr/?r=topo_public&id=36984](https://chronique.efa.gr/?r=topo_public&id=36984)  
+
+### alignments:
+ - [Daulis](https://pleiades.stoa.org/places/540723)
 
 
 ## Toponyme 36993: Distomo

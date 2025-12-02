@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4732 alignments exist in _Pleiades_ place references as of 2025-12-01. The following list of alignments is grouped by zotkey.
+4734 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4948,6 +4948,13 @@
  - [Atrax](https://pleiades.stoa.org/places/540682)
 
 
+## Attaleia (Lydia) 2 near Selçikli
+[https://topostext.org/place/391279UAtt](https://topostext.org/place/391279UAtt)  
+
+### alignments:
+ - [Attaleia](https://pleiades.stoa.org/places/550472)
+
+
 ## Attaleia (Pisidia)
 [https://topostext.org/place/369307PAtt](https://topostext.org/place/369307PAtt)  
 
@@ -7278,6 +7285,13 @@
 
 ### alignments:
  - [Charakoma](https://pleiades.stoa.org/places/491562)
+
+
+## Charax (Bithynia) 1 Hereke
+[https://topostext.org/place/408296UCha](https://topostext.org/place/408296UCha)  
+
+### alignments:
+ - [Charax](https://pleiades.stoa.org/places/511205)
 
 
 ## Charax (Persia)
