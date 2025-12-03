@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9940 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
+9944 alignments exist in _Pleiades_ place references as of 2025-12-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -15723,6 +15723,13 @@
  - [Dolno Linevo](https://pleiades.stoa.org/places/207085)
 
 
+## Domeros (Q60793084)
+[https://www.wikidata.org/wiki/Q60793084](https://www.wikidata.org/wiki/Q60793084)  
+
+### alignments:
+ - [Domeros](https://pleiades.stoa.org/places/501401)
+
+
 ## Domus and Mitreo delle Pareti Dipinte (Q124218142)
 [https://www.wikidata.org/wiki/Q124218142](https://www.wikidata.org/wiki/Q124218142)  
 
@@ -27804,6 +27811,13 @@
  - [Maleme](https://pleiades.stoa.org/places/865194824)
 
 
+## Malian Antikyra (Q16483484)
+[https://www.wikidata.org/wiki/Q16483484](https://www.wikidata.org/wiki/Q16483484)  
+
+### alignments:
+ - [Antikyra?](https://pleiades.stoa.org/places/540641)
+
+
 ## Malian Gulf (Q549658)
 [https://www.wikidata.org/wiki/Q549658](https://www.wikidata.org/wiki/Q549658)  
 
@@ -32916,6 +32930,13 @@
  - [Oea](https://pleiades.stoa.org/places/344456)
 
 
+## Oeantheia (Q5850148)
+[https://www.wikidata.org/wiki/Q5850148](https://www.wikidata.org/wiki/Q5850148)  
+
+### alignments:
+ - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
+
+
 ## Oechalia (Q60790408)
 [https://www.wikidata.org/wiki/Q60790408](https://www.wikidata.org/wiki/Q60790408)  
 
@@ -33572,6 +33593,13 @@
 
 ### alignments:
  - [Oskumken](https://pleiades.stoa.org/places/252975)
+
+
+## Osor (Q1082831)
+[https://www.wikidata.org/wiki/Q1082831](https://www.wikidata.org/wiki/Q1082831)  
+
+### alignments:
+ - [Apsarus](https://pleiades.stoa.org/places/197122)
 
 
 ## Ospitaletto (Q105416)
@@ -50719,13 +50747,6 @@
  - [Mnajdra Megalithic Temple (Malta)](https://pleiades.stoa.org/places/406293647)
 
 
-## Q5850148: Oeantheia
-[https://www.wikidata.org/wiki/Q5850148](https://www.wikidata.org/wiki/Q5850148)  
-
-### alignments:
- - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
-
-
 ## Q5850800
 [https://www.wikidata.org/wiki/Q5850800](https://www.wikidata.org/wiki/Q5850800)  
 
@@ -58607,6 +58628,13 @@
 
 ### alignments:
  - [Sely(m)bria/Eudoxiopolis](https://pleiades.stoa.org/places/511414)
+
+
+## Seman (Q81632)
+[https://www.wikidata.org/wiki/Q81632](https://www.wikidata.org/wiki/Q81632)  
+
+### alignments:
+ - [(H)Apsos (river)](https://pleiades.stoa.org/places/481857)
 
 
 ## Semien Mountains (Q1982017)

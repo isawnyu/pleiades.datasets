@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-772 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
+774 alignments exist in _Pleiades_ place references as of 2025-12-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2018,6 +2018,13 @@
  - [Abai](https://pleiades.stoa.org/places/540582)
 
 
+## 10274737: Oiantheia (Ozolian Locris)
+[https://resource.manto.unh.edu/10274737](https://resource.manto.unh.edu/10274737)  
+
+### alignments:
+ - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
+
+
 ## 10276475: Patara (Lycia)
 [https://resource.manto.unh.edu/10276475](https://resource.manto.unh.edu/10276475)  
 
@@ -2744,6 +2751,13 @@
 
 ### alignments:
  - [Halos](https://pleiades.stoa.org/places/540804)
+
+
+## 11307395: Anticyra (Thessaly)
+[https://resource.manto.unh.edu/11307395](https://resource.manto.unh.edu/11307395)  
+
+### alignments:
+ - [Antikyra?](https://pleiades.stoa.org/places/540641)
 
 
 ## 11307417: Chaonia (Epeiros)

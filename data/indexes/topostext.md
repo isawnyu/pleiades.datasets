@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4734 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
+4736 alignments exist in _Pleiades_ place references as of 2025-12-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -176,6 +176,13 @@
 
 ### alignments:
  - [Abila Dekapoleos/Seleukeia](https://pleiades.stoa.org/places/677992)
+
+
+## Abobrica (Iberia)
+[https://topostext.org/place/413-86UAbo](https://topostext.org/place/413-86UAbo)  
+
+### alignments:
+ - [Avobriga/Abobrica](https://pleiades.stoa.org/places/260499)
 
 
 ## Abolla (Sicily)
@@ -32508,6 +32515,13 @@
 
 ### alignments:
  - [Via Appia](https://pleiades.stoa.org/places/356966898)
+
+
+## Via Egnatia (Macedonia)
+[https://topostext.org/place/409238BVEg](https://topostext.org/place/409238BVEg)  
+
+### alignments:
+ - [Via Egnatia](https://pleiades.stoa.org/places/196789404)
 
 
 ## Via Labicana (Roma)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4796 alignments exist in _Pleiades_ place references as of 2025-12-02. The following list of alignments is grouped by zotkey.
+4799 alignments exist in _Pleiades_ place references as of 2025-12-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1996,6 +1996,13 @@
 
 ### alignments:
  - [Monastery of Saint Simeon Stylites](https://pleiades.stoa.org/places/658606)
+
+
+## Geo 48252: Mihraqan Qadaq
+[http://www.trismegistos.org/place/48252](http://www.trismegistos.org/place/48252)  
+
+### alignments:
+ - [Mihragan Kadag (region)](https://pleiades.stoa.org/places/903083)
 
 
 ## Geo 482: Cappadocia
@@ -24617,6 +24624,13 @@
  - [‘Anausaro’](https://pleiades.stoa.org/places/481719)
 
 
+## GEO ID 41941: Candabia
+[https://www.trismegistos.org/place/41941](https://www.trismegistos.org/place/41941)  
+
+### alignments:
+ - [Candabia](https://pleiades.stoa.org/places/481780)
+
+
 ## GEO ID 41942: Creveni
 [https://www.trismegistos.org/place/41942](https://www.trismegistos.org/place/41942)  
 
@@ -27212,6 +27226,13 @@
 
 ### alignments:
  - [Quintianum](https://pleiades.stoa.org/places/413278)
+
+
+## GEO ID 43615: Antikyra
+[http://www.trismegistos.org/place/43615](http://www.trismegistos.org/place/43615)  
+
+### alignments:
+ - [Antikyra?](https://pleiades.stoa.org/places/540641)
 
 
 ## GEO ID 43623: Lucus Aquilonensis (San Vito)
