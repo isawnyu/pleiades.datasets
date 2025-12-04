@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9944 alignments exist in _Pleiades_ place references as of 2025-12-03. The following list of alignments is grouped by zotkey.
+9945 alignments exist in _Pleiades_ place references as of 2025-12-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -53652,13 +53652,6 @@
  - [Lugio/Florentia](https://pleiades.stoa.org/places/197360)
 
 
-## Q96605492: Villa of the Shepherd
-[https://www.wikidata.org/wiki/Q96605492](https://www.wikidata.org/wiki/Q96605492)  
-
-### alignments:
- - [Villa del Pastore](https://pleiades.stoa.org/places/772313148)
-
-
 ## Q96671821: Apollo Tegyraios (sanctuary)
 [https://www.wikidata.org/wiki/Q96671821](https://www.wikidata.org/wiki/Q96671821)  
 
@@ -60212,6 +60205,13 @@
 
 ### alignments:
  - [Marmenia](https://pleiades.stoa.org/places/422971)
+
+
+## Stabiae (Q547910)
+[https://www.wikidata.org/wiki/Q547910](https://www.wikidata.org/wiki/Q547910)  
+
+### alignments:
+ - [Stabiae](https://pleiades.stoa.org/places/433128)
 
 
 ## Stadia (Q2325984)
@@ -67760,6 +67760,13 @@
 
 ### alignments:
  - [Sette Bassi](https://pleiades.stoa.org/places/423069)
+
+
+## Villa of the Shepherd (Q96605492)
+[https://www.wikidata.org/wiki/Q96605492](https://www.wikidata.org/wiki/Q96605492)  
+
+### alignments:
+ - [Villa del Pastore](https://pleiades.stoa.org/places/772313148)
 
 
 ## Villa of Torre de Palma (Q25431528)
