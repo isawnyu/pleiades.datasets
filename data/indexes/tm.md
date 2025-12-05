@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4799 alignments exist in _Pleiades_ place references as of 2025-12-04. The following list of alignments is grouped by zotkey.
+4800 alignments exist in _Pleiades_ place references as of 2025-12-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2746,6 +2746,13 @@
 
 ### alignments:
  - [Smyrnophoros Chora](https://pleiades.stoa.org/places/39427)
+
+
+## GEO ID 11259: Menouthias
+[https://www.trismegistos.org/place/11259](https://www.trismegistos.org/place/11259)  
+
+### alignments:
+ - [Menouthias](https://pleiades.stoa.org/places/40222)
 
 
 ## GEO ID 11286: Birtha (Takrit)

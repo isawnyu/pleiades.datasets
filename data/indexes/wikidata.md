@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9945 alignments exist in _Pleiades_ place references as of 2025-12-04. The following list of alignments is grouped by zotkey.
+9949 alignments exist in _Pleiades_ place references as of 2025-12-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -167,6 +167,13 @@
 
 ### alignments:
  - [Abbazia di Sant'Antimo](https://pleiades.stoa.org/places/166434540)
+
+
+## Abbir Cella (Q105123905)
+[https://www.wikidata.org/wiki/Q105123905](https://www.wikidata.org/wiki/Q105123905)  
+
+### alignments:
+ - [Abbir Cella(e)](https://pleiades.stoa.org/places/314840)
 
 
 ## Abbotsbury Castle (Q3662453)
@@ -15575,6 +15582,13 @@
  - [Achates (river)](https://pleiades.stoa.org/places/462065)
 
 
+## Dissei (Q29409602)
+[https://www.wikidata.org/wiki/Q29409602](https://www.wikidata.org/wiki/Q29409602)  
+
+### alignments:
+ - [Oreine (island)](https://pleiades.stoa.org/places/39404)
+
+
 ## Ditchend Roman villa (Q121865308)
 [https://www.wikidata.org/wiki/Q121865308](https://www.wikidata.org/wiki/Q121865308)  
 
@@ -24213,7 +24227,7 @@
 
 
 ## Keston Roman villa (Q15133926)
-[https://www.wikidata.org/wiki/Q15133926](https://www.wikidata.org/wiki/Q15133926)  
+[http://www.wikidata.org/entity/Q15133926](http://www.wikidata.org/entity/Q15133926)  
 
 ### alignments:
  - [Keston](https://pleiades.stoa.org/places/79544)
@@ -28811,6 +28825,13 @@
 
 ### alignments:
  - [Menosgada](https://pleiades.stoa.org/places/123101)
+
+
+## Menouthias (Q16938623)
+[https://www.wikidata.org/wiki/Q16938623](https://www.wikidata.org/wiki/Q16938623)  
+
+### alignments:
+ - [Menouthias](https://pleiades.stoa.org/places/40222)
 
 
 ## Merano (Q131605)
@@ -66163,6 +66184,13 @@
 
 ### alignments:
  - [Goaris (river)](https://pleiades.stoa.org/places/49989)
+
+
+## Ulissipira amphitheatre (Q29002323)
+[https://www.wikidata.org/wiki/Q29002323](https://www.wikidata.org/wiki/Q29002323)  
+
+### alignments:
+ - [Uluzibbira Roman amphitheater](https://pleiades.stoa.org/places/475432743)
 
 
 ## Ulla (Q14548)
