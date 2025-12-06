@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4736 alignments exist in _Pleiades_ place references as of 2025-12-05. The following list of alignments is grouped by zotkey.
+4738 alignments exist in _Pleiades_ place references as of 2025-12-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5163,6 +5163,13 @@
 
 ### alignments:
  - [*Aurinia/Saturnia](https://pleiades.stoa.org/places/413044)
+
+
+## Automala (Libya) 7 Bu Sceefa
+[https://topostext.org/place/303191UAut](https://topostext.org/place/303191UAut)  
+
+### alignments:
+ - [Automalax](https://pleiades.stoa.org/places/363932)
 
 
 ## Autricum/Carnotum (Gallia)
@@ -31808,6 +31815,13 @@
 
 ### alignments:
  - [Tritium](https://pleiades.stoa.org/places/236691)
+
+
+## Tritonis lake (Libya) 49 unknown - Τριτωνίς
+[https://topostext.org/place/000000WTri](https://topostext.org/place/000000WTri)  
+
+### alignments:
+ - [Tritonis? L.](https://pleiades.stoa.org/places/364025)
 
 
 ## Troad region (Asia Minor)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4800 alignments exist in _Pleiades_ place references as of 2025-12-05. The following list of alignments is grouped by zotkey.
+4803 alignments exist in _Pleiades_ place references as of 2025-12-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8028,6 +8028,13 @@
  - [Ureu](https://pleiades.stoa.org/places/315246)
 
 
+## GEO ID 17097: Speculum (Chebika)
+[https://www.trismegistos.org/place/17097](https://www.trismegistos.org/place/17097)  
+
+### alignments:
+ - [Ad Speculum?](https://pleiades.stoa.org/places/334478)
+
+
 ## GEO ID 17119: Uzalis (El-Alia)
 [http://www.trismegistos.org/place/17119](http://www.trismegistos.org/place/17119)  
 
@@ -8362,6 +8369,13 @@
 
 ### alignments:
  - [Pupput](https://pleiades.stoa.org/places/315121)
+
+
+## GEO ID 17407: Thiges (Henchir Ragoubet)
+[http://www.trismegistos.org/place/17407](http://www.trismegistos.org/place/17407)  
+
+### alignments:
+ - [*Thiges/Castellum Thigensium](https://pleiades.stoa.org/places/324832)
 
 
 ## GEO ID 17414: Tunes (Tunis)
@@ -26127,6 +26141,13 @@
 
 ### alignments:
  - [Tritonis? Palus](https://pleiades.stoa.org/places/373906)
+
+
+## GEO ID 42576: Tritonis Lacus (Mugtaa el-Chebrit)
+[https://www.trismegistos.org/place/42576](https://www.trismegistos.org/place/42576)  
+
+### alignments:
+ - [Tritonis? L.](https://pleiades.stoa.org/places/364025)
 
 
 ## GEO ID 42591: Sangarios (Sakarya)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9949 alignments exist in _Pleiades_ place references as of 2025-12-05. The following list of alignments is grouped by zotkey.
+9953 alignments exist in _Pleiades_ place references as of 2025-12-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1114,6 +1114,13 @@
 
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+
+
+## Aggersel (Q393185)
+[https://www.wikidata.org/wiki/Q393185](https://www.wikidata.org/wiki/Q393185)  
+
+### alignments:
+ - [Aggersel?](https://pleiades.stoa.org/places/314858)
 
 
 ## Agia Aikaterini square excavations (Q108422126)
@@ -9096,6 +9103,13 @@
 
 ### alignments:
  - [Bīt-Purutaš (kingdom)](https://pleiades.stoa.org/places/407444302)
+
+
+## Bū Shu‘ayfah (Q106129256)
+[https://www.wikidata.org/wiki/Q106129256](https://www.wikidata.org/wiki/Q106129256)  
+
+### alignments:
+ - [Automalax](https://pleiades.stoa.org/places/363932)
 
 
 ## Cabeirion of Thebes (Q15206356)
@@ -20590,6 +20604,13 @@
 
 ### alignments:
  - [Haselburg](https://pleiades.stoa.org/places/346876399)
+
+
+## Hassocks (Q1869251)
+[https://www.wikidata.org/wiki/Q1869251](https://www.wikidata.org/wiki/Q1869251)  
+
+### alignments:
+ - [Hassocks](https://pleiades.stoa.org/places/44671977)
 
 
 ## Hassuna (Q2733421)
@@ -40969,6 +40990,13 @@
 
 ### alignments:
  - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
+
+
+## Q137219299
+[https://www.wikidata.org/wiki/Q137219299](https://www.wikidata.org/wiki/Q137219299)  
+
+### alignments:
+ - [Alonianum](https://pleiades.stoa.org/places/552843025)
 
 
 ## Q1375099: Euromos
