@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4738 alignments exist in _Pleiades_ place references as of 2025-12-06. The following list of alignments is grouped by zotkey.
+4739 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -32228,6 +32228,13 @@
 
 ### alignments:
  - [Uxama (Argaela)](https://pleiades.stoa.org/places/246721)
+
+
+## Uxentum (Sallentinum)
+[https://topostext.org/place/399182UUxe](https://topostext.org/place/399182UUxe)  
+
+### alignments:
+ - [Uzentum/Ouxenton](https://pleiades.stoa.org/places/442841)
 
 
 ## Vadinon lake (Latium)

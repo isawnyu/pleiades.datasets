@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9953 alignments exist in _Pleiades_ place references as of 2025-12-06. The following list of alignments is grouped by zotkey.
+9954 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -30506,6 +30506,13 @@
 
 ### alignments:
  - [Morikambe *Eischusis](https://pleiades.stoa.org/places/89245)
+
+
+## Morginnum (Q137258930)
+[https://www.wikidata.org/wiki/Q137258930](https://www.wikidata.org/wiki/Q137258930)  
+
+### alignments:
+ - [Morginnum](https://pleiades.stoa.org/places/167845)
 
 
 ## Moridunum (Q3399949)
