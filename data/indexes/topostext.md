@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4739 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
+4742 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10987,6 +10987,13 @@
 
 ### alignments:
  - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
+
+
+## Gadilon (Pontus)
+[https://topostext.org/place/416359UGad](https://topostext.org/place/416359UGad)  
+
+### alignments:
+ - [Gadilon/Helega?](https://pleiades.stoa.org/places/857128)
 
 
 ## Galatas palace (Crete) Galatas
@@ -22165,6 +22172,13 @@
  - [Orestis](https://pleiades.stoa.org/places/481938)
 
 
+## Orgame/Argamum (Pontus)
+[https://topostext.org/place/448289UOrg](https://topostext.org/place/448289UOrg)  
+
+### alignments:
+ - [Argamum](https://pleiades.stoa.org/places/216710)
+
+
 ## Orikon (Illyria)
 [https://topostext.org/place/403195UOri](https://topostext.org/place/403195UOri)  
 
@@ -32915,6 +32929,13 @@
 
 ### alignments:
  - [Zagora](https://pleiades.stoa.org/places/590097)
+
+
+## Zagorus (Paphlagonia)
+[https://topostext.org/place/417354UZag](https://topostext.org/place/417354UZag)  
+
+### alignments:
+ - [Zagora](https://pleiades.stoa.org/places/857379)
 
 
 ## Zakros palace (Lasithi)

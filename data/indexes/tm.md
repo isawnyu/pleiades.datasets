@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4803 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
+4809 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20359,6 +20359,13 @@
  - [Byblos](https://pleiades.stoa.org/places/668216)
 
 
+## GEO ID 38213: Argamum (Sarichioi)
+[https://www.trismegistos.org/place/38213](https://www.trismegistos.org/place/38213)  
+
+### alignments:
+ - [Argamum](https://pleiades.stoa.org/places/216710)
+
+
 ## GEO ID 38222: Naulochos (Obzor)
 [https://www.trismegistos.org/place/38222](https://www.trismegistos.org/place/38222)  
 
@@ -23098,6 +23105,20 @@
  - [Eboda](https://pleiades.stoa.org/places/687887)
 
 
+## GEO ID 41384: Garzoubanthon (Kurzuvet)
+[https://www.trismegistos.org/place/41384](https://www.trismegistos.org/place/41384)  
+
+### alignments:
+ - [Garzoubanthon/Orgibate](https://pleiades.stoa.org/places/857132)
+
+
+## GEO ID 41385: Zagora (Çayağzı)
+[https://www.trismegistos.org/place/41385](https://www.trismegistos.org/place/41385)  
+
+### alignments:
+ - [Zagora](https://pleiades.stoa.org/places/857379)
+
+
 ## GEO ID 41386: Gadilon (Bafra)
 [https://www.trismegistos.org/place/41386](https://www.trismegistos.org/place/41386)  
 
@@ -23830,7 +23851,7 @@
 [https://www.trismegistos.org/place/41708](https://www.trismegistos.org/place/41708)  
 
 ### alignments:
- - [Aggersel?](https://pleiades.stoa.org/places/314858)
+ - [Sidi-Abd-er-Rahmane-el-Garci](https://pleiades.stoa.org/places/314858)
 
 
 ## GEO ID 41710: Armasela (Bou Heurtma)
@@ -24979,6 +25000,13 @@
 
 ### alignments:
  - [Karambis (Pontus)](https://pleiades.stoa.org/places/844970)
+
+
+## GEO ID 42077: Kyptasia
+[https://www.trismegistos.org/place/42077](https://www.trismegistos.org/place/42077)  
+
+### alignments:
+ - [Kyptasia](https://pleiades.stoa.org/places/844996)
 
 
 ## GEO ID 42079: Mandris
@@ -32012,6 +32040,20 @@
 
 ### alignments:
  - [Kalydnioi (islands)](https://pleiades.stoa.org/places/599683)
+
+
+## GEO ID 65088: Actalenses
+[https://www.trismegistos.org/place/65088](https://www.trismegistos.org/place/65088)  
+
+### alignments:
+ - [Attalenses](https://pleiades.stoa.org/places/202086159)
+
+
+## GEO ID 65095: Oeandenses
+[https://www.trismegistos.org/place/65095](https://www.trismegistos.org/place/65095)  
+
+### alignments:
+ - [Oeandenses](https://pleiades.stoa.org/places/234157967)
 
 
 ## GEO ID 650: Epidauros

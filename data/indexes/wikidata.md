@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9954 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
+9961 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1120,7 +1120,7 @@
 [https://www.wikidata.org/wiki/Q393185](https://www.wikidata.org/wiki/Q393185)  
 
 ### alignments:
- - [Aggersel?](https://pleiades.stoa.org/places/314858)
+ - [Sidi-Abd-er-Rahmane-el-Garci](https://pleiades.stoa.org/places/314858)
 
 
 ## Agia Aikaterini square excavations (Q108422126)
@@ -2451,6 +2451,13 @@
 
 ### alignments:
  - [Bīt-Ammān (kingdom)](https://pleiades.stoa.org/places/246986521)
+
+
+## amnis Petronia (Q2080694)
+[https://www.wikidata.org/wiki/Q2080694](https://www.wikidata.org/wiki/Q2080694)  
+
+### alignments:
+ - [amnis Petronia](https://pleiades.stoa.org/places/606953231)
 
 
 ## Amnisos (Q473766)
@@ -9136,7 +9143,6 @@
  - [Macael](https://pleiades.stoa.org/places/265957)
  - [Magnum (promontory)](https://pleiades.stoa.org/places/256282)
  - [Marad](https://pleiades.stoa.org/places/912901)
- - [Mount Judi](https://pleiades.stoa.org/places/471828778)
  - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
  - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
  - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
@@ -11523,6 +11529,13 @@
 
 ### alignments:
  - [Aquae Mattiacorum](https://pleiades.stoa.org/places/108750)
+
+
+## Castrum Argamum (Q2860898)
+[https://www.wikidata.org/wiki/Q2860898](https://www.wikidata.org/wiki/Q2860898)  
+
+### alignments:
+ - [Argamum](https://pleiades.stoa.org/places/216710)
 
 
 ## Castrum Asciburgium (Q723019)
@@ -26971,6 +26984,13 @@
  - [London Mithraeum](https://pleiades.stoa.org/places/17649950)
 
 
+## London Roman basilica (Q132251397)
+[https://www.wikidata.org/wiki/Q132251397](https://www.wikidata.org/wiki/Q132251397)  
+
+### alignments:
+ - [London Roman basilica](https://pleiades.stoa.org/places/947808462)
+
+
 ## London Wall (Q60308)
 [https://www.wikidata.org/wiki/Q60308](https://www.wikidata.org/wiki/Q60308)  
 
@@ -39022,6 +39042,13 @@
  - [Horti Liciniani](https://pleiades.stoa.org/places/646461227)
 
 
+## Q1143135
+[https://www.wikidata.org/wiki/Q1143135](https://www.wikidata.org/wiki/Q1143135)  
+
+### alignments:
+ - [Mount Judi](https://pleiades.stoa.org/places/471828778)
+
+
 ## Q1144126: Tillya Tepe
 [https://www.wikidata.org/wiki/Q1144126](https://www.wikidata.org/wiki/Q1144126)  
 
@@ -40450,13 +40477,6 @@
 
 ### alignments:
  - [Ponte Romano di Parco dei Medici](https://pleiades.stoa.org/places/922890940)
-
-
-## Q131914553
-[https://www.wikidata.org/wiki/Q131914553](https://www.wikidata.org/wiki/Q131914553)  
-
-### alignments:
- - [Torcularium villa](https://pleiades.stoa.org/places/100196697)
 
 
 ## Q131929912
@@ -60606,6 +60626,13 @@
  - [Strozzacapponi necropolis](https://pleiades.stoa.org/places/337356735)
 
 
+## Strutt's Park Roman fort (Q1241270)
+[https://www.wikidata.org/wiki/Q1241270](https://www.wikidata.org/wiki/Q1241270)  
+
+### alignments:
+ - [Strutt's Park Roman fort](https://pleiades.stoa.org/places/827577267)
+
+
 ## Stryme (Q2357512)
 [https://www.wikidata.org/wiki/Q2357512](https://www.wikidata.org/wiki/Q2357512)  
 
@@ -64065,6 +64092,13 @@
  - [Tomb of Aulus Hirtius](https://pleiades.stoa.org/places/635776701)
 
 
+## Tomb of Aulus Umbricius Scaurus (Q126684845)
+[https://www.wikidata.org/wiki/Q126684845](https://www.wikidata.org/wiki/Q126684845)  
+
+### alignments:
+ - [Tomb of Aulus Umbricius Scaurus](https://pleiades.stoa.org/places/972528602)
+
+
 ## Tomb of C. Maenius Bassus (Q100605522)
 [https://www.wikidata.org/wiki/Q100605522](https://www.wikidata.org/wiki/Q100605522)  
 
@@ -64525,6 +64559,13 @@
 
 ### alignments:
  - [Cathedral of Santa Maria Assunta](https://pleiades.stoa.org/places/994641372)
+
+
+## Torcularium Roman villa (Q131914553)
+[https://www.wikidata.org/wiki/Q131914553](https://www.wikidata.org/wiki/Q131914553)  
+
+### alignments:
+ - [Torcularium villa](https://pleiades.stoa.org/places/100196697)
 
 
 ## Tordino (Q672208)
@@ -67410,6 +67451,13 @@
 
 ### alignments:
  - [Vicus Bublarius](https://pleiades.stoa.org/places/792170100)
+
+
+## Vicus Columnae Ligneae (Q127380461)
+[https://www.wikidata.org/wiki/Q127380461](https://www.wikidata.org/wiki/Q127380461)  
+
+### alignments:
+ - [Vicus Columnae Ligneae](https://pleiades.stoa.org/places/12920679)
 
 
 ## Vicus Curiarum (Q127382401)

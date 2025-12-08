@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2270 alignments exist in _Pleiades_ place references as of 2025-12-07. The following list of alignments is grouped by zotkey.
+2270 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -9713,7 +9713,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace147.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace147.html)  
 
 ### alignments:
- - [Aggersel?](https://pleiades.stoa.org/places/314858)
+ - [Sidi-Abd-er-Rahmane-el-Garci](https://pleiades.stoa.org/places/314858)
 
 
 ## 5C1 (Talbert 195)
