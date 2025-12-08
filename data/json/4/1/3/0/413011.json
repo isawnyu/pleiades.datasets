@@ -1,12 +1,80 @@
 {
     "@type": "Place",
     "bbox": [
-        12.295407,
-        42.587968,
-        12.295407,
-        42.587968
+        12.2611577,
+        42.590112,
+        12.2611577,
+        42.590112
     ],
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/423080",
+            "contributors": [],
+            "created": "2025-06-13T16:47:47Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2025-12-07T17:10:00Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2025-12-07T15:22:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Tomei 1983",
+                    "modified": "2025-12-07T15:22:32Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn",
+                    "modified": "2025-06-13T16:47:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-06-13T16:47:47Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "tiberis-river",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/868273297",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ACFBPCCM",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Tomei, M.A. “Alviano scalo. Sigillata italica.” In <i>Ville e insediamenti rustici di età romana in Umbria</i>, edited by Dorica Manconi, 201–55. Perugia: Editrice Umbra Cooperativa, 1983. http://www.worldcat.org/oclc/868273297.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Tomei 1983",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Tiberis (river)",
+            "uri": "https://pleiades.stoa.org/places/413011/tiberis-river"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/423080"
     ],
@@ -51,23 +119,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.295407,
-                    42.587968
+                    12.2611577,
+                    42.590112
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20762",
+            "id": "osm-location-of-alviano-scalo",
             "properties": {
-                "description": "500K scale point location",
-                "link": "https://pleiades.stoa.org/places/413011/darmc-location-20762",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/413011/osm-location-of-alviano-scalo",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 20762"
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM location of Alviano Scalo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2025-12-07T17:09:44Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "summary, references",
             "modified": "2025-06-13T16:46:17Z",
@@ -128,8 +201,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -137,97 +210,88 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-03-10T00:19:12Z",
+            "contributors": [],
+            "created": "2025-12-07T15:16:36Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "500K scale point location",
-            "details": "DARMC OBJECTID: 20762",
-            "end": 640,
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
-                    12.295407,
-                    42.587968
+                    12.2611577,
+                    42.590112
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:46:47Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-03-10T05:15:04Z",
+                    "modified": "2025-12-07T17:09:11Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-03-10T00:19:13Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-12-07T15:17:30Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-03-10T00:19:13Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "more accurate assoc. mod. loc. for Alviano Scalo than pointed derived from DARMC which points to Alviano and not Alviano Scalo.",
+                    "modified": "2025-12-07T15:17:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-12-07T15:16:38Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-03-10T00:19:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-12-07T15:16:36Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "darmc-location-20762",
+            "id": "osm-location-of-alviano-scalo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "DARMC OBJECTID: 20762",
+            "provenance": "OpenStreetMap (Node 650719460, version 6, osm:changeset=156092370, 2024-09-02T10:57:44Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/650719460",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20762",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 650719460",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20762.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=650719460",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": -30,
-            "title": "DARMC location 20762",
-            "uri": "https://pleiades.stoa.org/places/413011/darmc-location-20762"
+            "start": 2000,
+            "title": "OSM location of Alviano Scalo",
+            "uri": "https://pleiades.stoa.org/places/413011/osm-location-of-alviano-scalo"
         }
     ],
     "names": [
@@ -305,10 +369,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "villa"
+        "villa",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 42 C3 Alviano Scalo",
     "references": [
@@ -355,11 +421,22 @@
             "otherIdentifier": "",
             "shortTitle": "van Oyen 2015",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20762",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        12.295407,
-        42.587968
+        12.2611577,
+        42.590112
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
