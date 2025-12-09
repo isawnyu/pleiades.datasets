@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-774 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
+775 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2983,6 +2983,13 @@
 
 ### alignments:
  - [Astyra](https://pleiades.stoa.org/places/501364)
+
+
+## 11311698: Alba Longa (Italy)
+[https://resource.manto.unh.edu/11311698](https://resource.manto.unh.edu/11311698)  
+
+### alignments:
+ - [Alba Longa](https://pleiades.stoa.org/places/422824)
 
 
 ## 11311822: Piraeus (Attica)

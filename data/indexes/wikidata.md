@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9961 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
+9963 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1704,6 +1704,13 @@
  - [Alazones](https://pleiades.stoa.org/places/226513)
 
 
+## Alba (Q18341)
+[https://www.wikidata.org/wiki/Q18341](https://www.wikidata.org/wiki/Q18341)  
+
+### alignments:
+ - [Alba Pompeia](https://pleiades.stoa.org/places/383564)
+
+
 ## Alba Docilia (Q3607827)
 [https://www.wikidata.org/wiki/Q3607827](https://www.wikidata.org/wiki/Q3607827)  
 
@@ -1730,6 +1737,13 @@
 
 ### alignments:
  - [Alba Fucens Aqueduct](https://pleiades.stoa.org/places/102438478)
+
+
+## Alba Longa (Q335070)
+[https://www.wikidata.org/wiki/Q335070](https://www.wikidata.org/wiki/Q335070)  
+
+### alignments:
+ - [Alba Longa](https://pleiades.stoa.org/places/422824)
 
 
 ## Albaniana (Q2663417)
@@ -15333,6 +15347,13 @@
 
 ### alignments:
  - [Devín](https://pleiades.stoa.org/places/128391)
+
+
+## Dexcivates (Q3025591)
+[https://www.wikidata.org/wiki/Q3025591](https://www.wikidata.org/wiki/Q3025591)  
+
+### alignments:
+ - [Dexivates](https://pleiades.stoa.org/places/148067)
 
 
 ## Dez River (Q1207296)
@@ -46681,13 +46702,6 @@
  - [Thracian Tomb of Kazanlak](https://pleiades.stoa.org/places/405244946)
 
 
-## Q3025591: Dexcivates
-[https://www.wikidata.org/wiki/Q3025591](https://www.wikidata.org/wiki/Q3025591)  
-
-### alignments:
- - [Dexivates](https://pleiades.stoa.org/places/148067)
-
-
 ## Q30260923: Santa Filitica Roman villa and ancient settlement
 [https://www.wikidata.org/wiki/Q30260923](https://www.wikidata.org/wiki/Q30260923)  
 
@@ -47029,13 +47043,6 @@
 
 ### alignments:
  - [Crocifisso del Tufo necropolis](https://pleiades.stoa.org/places/195410768)
-
-
-## Q335070: Alba Longa
-[https://www.wikidata.org/wiki/Q335070](https://www.wikidata.org/wiki/Q335070)  
-
-### alignments:
- - [Alba Longa](https://pleiades.stoa.org/places/422824)
 
 
 ## Q3357543
@@ -63824,6 +63831,13 @@
 
 ### alignments:
  - [Timolaion](https://pleiades.stoa.org/places/845082)
+
+
+## Timonitis (Q20108986)
+[https://www.wikidata.org/wiki/Q20108986](https://www.wikidata.org/wiki/Q20108986)  
+
+### alignments:
+ - [Timonitis](https://pleiades.stoa.org/places/845083)
 
 
 ## Timpone del Ponto (Q124380521)

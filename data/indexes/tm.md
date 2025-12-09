@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4809 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
+4810 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15316,6 +15316,13 @@
 
 ### alignments:
  - [Clastidium](https://pleiades.stoa.org/places/383618)
+
+
+## GEO ID 31665: Alba Pompeia (Alba)
+[https://www.trismegistos.org/place/31665](https://www.trismegistos.org/place/31665)  
+
+### alignments:
+ - [Alba Pompeia](https://pleiades.stoa.org/places/383564)
 
 
 ## GEO ID 31677: Crixia (Piana Crixia)

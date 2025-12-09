@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4742 alignments exist in _Pleiades_ place references as of 2025-12-08. The following list of alignments is grouped by zotkey.
+4744 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -22207,6 +22207,13 @@
  - [Orneai](https://pleiades.stoa.org/places/570537)
 
 
+## Oroatis River (Media) 13 Zoreh
+[https://topostext.org/place/303498WOro](https://topostext.org/place/303498WOro)  
+
+### alignments:
+ - [Zoreh/Or(o)atis? (river)](https://pleiades.stoa.org/places/912992)
+
+
 ## Orobiai (Euboea)
 [https://topostext.org/place/388232POro](https://topostext.org/place/388232POro)  
 
@@ -31185,6 +31192,13 @@
 
 ### alignments:
  - [Tilphosaion?](https://pleiades.stoa.org/places/541148)
+
+
+## Timonitis (Paphlagonia)
+[https://topostext.org/place/410321RTim](https://topostext.org/place/410321RTim)  
+
+### alignments:
+ - [Timonitis](https://pleiades.stoa.org/places/845083)
 
 
 ## Timpone del Ponto (Lucania) Timpone del Ponto
