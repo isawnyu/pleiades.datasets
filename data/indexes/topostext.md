@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4744 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
+4746 alignments exist in _Pleiades_ place references as of 2025-12-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -27173,6 +27173,13 @@
  - [Temple of Roma and Augustus (Athens)](https://pleiades.stoa.org/places/226121402)
 
 
+## Rosolodiacus (Galatia)
+[https://topostext.org/place/396329URos](https://topostext.org/place/396329URos)  
+
+### alignments:
+ - [Orsologiakos/Rosolodiacus](https://pleiades.stoa.org/places/619228)
+
+
 ## Rotomagus (Gallia)
 [https://topostext.org/place/494011URot](https://topostext.org/place/494011URot)  
 
@@ -32578,6 +32585,13 @@
 
 ### alignments:
  - [Via Labicana](https://pleiades.stoa.org/places/74935822)
+
+
+## Via Sacra (Rome)
+[https://topostext.org/place/419125LVsa](https://topostext.org/place/419125LVsa)  
+
+### alignments:
+ - [Sacra Via](https://pleiades.stoa.org/places/434423626)
 
 
 ## Via Valeria (Latium)

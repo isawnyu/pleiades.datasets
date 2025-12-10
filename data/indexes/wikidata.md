@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9963 alignments exist in _Pleiades_ place references as of 2025-12-09. The following list of alignments is grouped by zotkey.
+9966 alignments exist in _Pleiades_ place references as of 2025-12-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6708,6 +6708,13 @@
 
 ### alignments:
  - [Basilica of Iunius Bassus](https://pleiades.stoa.org/places/691942929)
+
+
+## Basilica of Maxentius (Q371921)
+[https://www.wikidata.org/wiki/Q371921](https://www.wikidata.org/wiki/Q371921)  
+
+### alignments:
+ - [Basilica Constantini](https://pleiades.stoa.org/places/678676209)
 
 
 ## Basilica of Pompeii (Q3635629)
@@ -21478,6 +21485,13 @@
 
 ### alignments:
  - [Horrea Piperataria](https://pleiades.stoa.org/places/525081443)
+
+
+## Horrea Vespasiani (Q137299238)
+[https://www.wikidata.org/wiki/Q137299238](https://www.wikidata.org/wiki/Q137299238)  
+
+### alignments:
+ - [Horrea Vespasiani](https://pleiades.stoa.org/places/845751045)
 
 
 ## Horreum Margi (Q11926060)
@@ -41271,13 +41285,6 @@
  - [Santa Sofia](https://pleiades.stoa.org/places/59677979)
 
 
-## Q1456939: Temple of Peace
-[https://www.wikidata.org/wiki/Q1456939](https://www.wikidata.org/wiki/Q1456939)  
-
-### alignments:
- - [Templum Pacis](https://pleiades.stoa.org/places/152567558)
-
-
 ## Q1457477: Megara Hyblaea
 [https://www.wikidata.org/wiki/Q1457477](https://www.wikidata.org/wiki/Q1457477)  
 
@@ -48010,13 +48017,6 @@
 
 ### alignments:
  - [Eumachia Building](https://pleiades.stoa.org/places/300044064)
-
-
-## Q371921: Basilica of Maxentius
-[https://www.wikidata.org/wiki/Q371921](https://www.wikidata.org/wiki/Q371921)  
-
-### alignments:
- - [Basilica Constantini](https://pleiades.stoa.org/places/678676209)
 
 
 ## Q37200: Great Pyramid of Giza
@@ -56396,6 +56396,13 @@
  - [Roquepertuse](https://pleiades.stoa.org/places/148174)
 
 
+## Rosolodiacus (Q133576324)
+[https://www.wikidata.org/wiki/Q133576324](https://www.wikidata.org/wiki/Q133576324)  
+
+### alignments:
+ - [Orsologiakos/Rosolodiacus](https://pleiades.stoa.org/places/619228)
+
+
 ## Rotomagus (Q3442995)
 [https://www.wikidata.org/wiki/Q3442995](https://www.wikidata.org/wiki/Q3442995)  
 
@@ -58557,6 +58564,13 @@
 
 ### alignments:
  - [Sicoris (river)](https://pleiades.stoa.org/places/246654)
+
+
+## Segóbriga amphitheatre (Q8199538)
+[https://www.wikidata.org/wiki/Q8199538](https://www.wikidata.org/wiki/Q8199538)  
+
+### alignments:
+ - [Roman amphitheater at Segobriga](https://pleiades.stoa.org/places/969838059)
 
 
 ## Seha River Land (Q752265)
@@ -62416,6 +62430,13 @@
 
 ### alignments:
  - [Temple of Montu (El-Tod)](https://pleiades.stoa.org/places/542461377)
+
+
+## Temple of Peace (Q1456939)
+[https://www.wikidata.org/wiki/Q1456939](https://www.wikidata.org/wiki/Q1456939)  
+
+### alignments:
+ - [Templum Pacis](https://pleiades.stoa.org/places/152567558)
 
 
 ## Temple of Poseidon (Q476876)
