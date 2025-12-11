@@ -6,23 +6,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462492",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:46:19Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "located on",
+                    "modified": "2025-12-10T20:24:34Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:46:19Z",
@@ -49,7 +61,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/462492"
+        "https://pleiades.stoa.org/places/462492",
+        "https://pleiades.stoa.org/places/462459"
     ],
     "contributors": [
         {
@@ -105,6 +118,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2025-12-10T20:06:22Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "wikidata Q130714943",
             "modified": "2025-11-16T01:07:06Z",
@@ -348,89 +366,15 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/465930/kaukana"
-        },
-        {
-            "@type": "Name",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "modern",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern"
-                }
-            ],
-            "attested": "Parco archeologico di Kaukana ",
-            "contributors": [],
-            "created": "2016-07-01T14:02:42Z",
-            "creators": [
-                {
-                    "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
-                }
-            ],
-            "description": "",
-            "details": "",
-            "end": 2100,
-            "history": [
-                {
-                    "action": "Publish externally",
-                    "modified": "2020-12-17T18:30:51Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2016-07-01T14:02:57Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "comment": "added name",
-                    "modified": "2016-07-01T14:02:44Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
-                    "action": "Create",
-                    "modified": "2016-07-01T14:02:42Z",
-                    "modifiedBy": "jbecker"
-                }
-            ],
-            "id": "parco-archeologico-di-kaukana",
-            "language": "it",
-            "nameType": "geographic",
-            "provenance": "Pleiades",
-            "references": [
-                {
-                    "accessURI": "http://www.geonames.org/10344705/parco-archeologico-di-kaukana.html",
-                    "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-                    "formattedCitation": "GeoNames 10344705",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "citesAsEvidence"
-                }
-            ],
-            "review_state": "published",
-            "romanized": "Parco archeologico di Kaukana",
-            "start": 1700,
-            "transcriptionAccuracy": "accurate",
-            "transcriptionCompleteness": "complete",
-            "uri": "https://pleiades.stoa.org/places/465930/parco-archeologico-di-kaukana"
         }
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
         "unlocated",
-        "settlement",
-        "archaeological-site"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 Kaukana",
     "references": [
