@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4746 alignments exist in _Pleiades_ place references as of 2025-12-10. The following list of alignments is grouped by zotkey.
+4747 alignments exist in _Pleiades_ place references as of 2025-12-11. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3776,6 +3776,13 @@
 
 ### alignments:
  - [Arcus Argentariorum](https://pleiades.stoa.org/places/335461216)
+
+
+## Arch of Titus (Rome)
+[https://topostext.org/place/419125FATi](https://topostext.org/place/419125FATi)  
+
+### alignments:
+ - [Arch of Titus](https://pleiades.stoa.org/places/236855821)
 
 
 ## Archilocheion sanct. (Paros) Treis Ekklesies

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9966 alignments exist in _Pleiades_ place references as of 2025-12-10. The following list of alignments is grouped by zotkey.
+9969 alignments exist in _Pleiades_ place references as of 2025-12-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3846,6 +3846,13 @@
  - [Apuani](https://pleiades.stoa.org/places/403177)
 
 
+## Aqaba Church (Q2845916)
+[https://www.wikidata.org/wiki/Q2845916](https://www.wikidata.org/wiki/Q2845916)  
+
+### alignments:
+ - [Aqaba Church](https://pleiades.stoa.org/places/897105326)
+
+
 ## Aqua Alexandrina (Q622909)
 [https://www.wikidata.org/wiki/Q622909](https://www.wikidata.org/wiki/Q622909)  
 
@@ -4243,6 +4250,13 @@
 
 ### alignments:
  - [Arcus Tiberii](https://pleiades.stoa.org/places/307446389)
+
+
+## Arch of Titus (Q723887)
+[https://www.wikidata.org/wiki/Q723887](https://www.wikidata.org/wiki/Q723887)  
+
+### alignments:
+ - [Arch of Titus](https://pleiades.stoa.org/places/236855821)
 
 
 ## Arch of Trajan (Q1509102)
@@ -18311,6 +18325,13 @@
 
 ### alignments:
  - [Forum of Pompeii](https://pleiades.stoa.org/places/188321148)
+
+
+## Forum of Theodosius (Q1247291)
+[https://www.wikidata.org/wiki/Q1247291](https://www.wikidata.org/wiki/Q1247291)  
+
+### alignments:
+ - [Forum of Theodosius](https://pleiades.stoa.org/places/448320942)
 
 
 ## Forum Sempronii archaeological site (Q11922647)
@@ -50382,13 +50403,6 @@
  - [Centuripae](https://pleiades.stoa.org/places/462153)
 
 
-## Q56244081: Thirteen Altars at Lavinium, Italy
-[https://www.wikidata.org/wiki/Q56244081](https://www.wikidata.org/wiki/Q56244081)  
-
-### alignments:
- - [Tredici Altari](https://pleiades.stoa.org/places/423104)
-
-
 ## Q56256261: Mausoleum of Menenius Agrippa
 [https://www.wikidata.org/wiki/Q56256261](https://www.wikidata.org/wiki/Q56256261)  
 
@@ -63439,6 +63453,13 @@
 
 ### alignments:
  - [Cataracta Tertia](https://pleiades.stoa.org/places/805602)
+
+
+## Thirteen Altars at Lavinium, Italy (Q56244081)
+[https://www.wikidata.org/wiki/Q56244081](https://www.wikidata.org/wiki/Q56244081)  
+
+### alignments:
+ - [Tredici Altari](https://pleiades.stoa.org/places/423104)
 
 
 ## Thocnia (Q60790111)
