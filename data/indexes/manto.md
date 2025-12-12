@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-775 alignments exist in _Pleiades_ place references as of 2025-12-11. The following list of alignments is grouped by zotkey.
+776 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4377,6 +4377,13 @@
 
 ### alignments:
  - [Sanctuary of Poseidon (Onchestos)](https://pleiades.stoa.org/places/162490152)
+
+
+## 9611993: the Black Sea
+[https://resource.manto.unh.edu/9611993](https://resource.manto.unh.edu/9611993)  
+
+### alignments:
+ - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
 
 
 ## 9611994: River Acheloos (Aitolia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9969 alignments exist in _Pleiades_ place references as of 2025-12-11. The following list of alignments is grouped by zotkey.
+9973 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7789,6 +7789,13 @@
  - [Black Ball Camp](https://pleiades.stoa.org/places/721382239)
 
 
+## Black Sea (Q166)
+[https://www.wikidata.org/wiki/Q166](https://www.wikidata.org/wiki/Q166)  
+
+### alignments:
+ - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
+
+
 ## Blackwardine Roman settlement (Q17642022)
 [https://www.wikidata.org/wiki/Q17642022](https://www.wikidata.org/wiki/Q17642022)  
 
@@ -14557,6 +14564,13 @@
  - [Kybelaia](https://pleiades.stoa.org/places/550673)
 
 
+## Cybistra (Q65088824)
+[https://www.wikidata.org/wiki/Q65088824](https://www.wikidata.org/wiki/Q65088824)  
+
+### alignments:
+ - [Cybistra](https://pleiades.stoa.org/places/648614)
+
+
 ## Cyclopean Isles (Q245578)
 [https://www.wikidata.org/wiki/Q245578](https://www.wikidata.org/wiki/Q245578)  
 
@@ -16506,6 +16520,13 @@
  - [Ecobrogis/Eccobriga](https://pleiades.stoa.org/places/619153)
 
 
+## Edessa (Q38281331)
+[https://www.wikidata.org/wiki/Q38281331](https://www.wikidata.org/wiki/Q38281331)  
+
+### alignments:
+ - [Edessa (Macedonia)](https://pleiades.stoa.org/places/491585)
+
+
 ## Edin's Hall Broch (Q1284794)
 [https://www.wikidata.org/wiki/Q1284794](https://www.wikidata.org/wiki/Q1284794)  
 
@@ -17233,6 +17254,13 @@
 
 ### alignments:
  - [Erechtheis](https://pleiades.stoa.org/places/844310646)
+
+
+## Eremia Geton (Q137360928)
+[https://www.wikidata.org/wiki/Q137360928](https://www.wikidata.org/wiki/Q137360928)  
+
+### alignments:
+ - [Eremia Geton](https://pleiades.stoa.org/places/226595)
 
 
 ## Eretria (Q42114739)
@@ -20099,6 +20127,13 @@
 
 ### alignments:
  - [Syrtis Minor](https://pleiades.stoa.org/places/344492)
+
+
+## Gulf of Gemlik (Q1936352)
+[https://www.wikidata.org/wiki/Q1936352](https://www.wikidata.org/wiki/Q1936352)  
+
+### alignments:
+ - [Kianos Sinus](https://pleiades.stoa.org/places/511289)
 
 
 ## Gulf of Hisarönü (Q49172049)
@@ -24064,13 +24099,6 @@
  - [Kato Aetos](https://pleiades.stoa.org/places/530934)
 
 
-## Kaukanai (Q130714943)
-[https://www.wikidata.org/wiki/Q130714943](https://www.wikidata.org/wiki/Q130714943)  
-
-### alignments:
- - [Kaukana](https://pleiades.stoa.org/places/465930)
-
-
 ## Kaunos (Q608095)
 [https://www.wikidata.org/wiki/Q608095](https://www.wikidata.org/wiki/Q608095)  
 
@@ -27885,6 +27913,13 @@
 
 ### alignments:
  - [Roman amphitheater at Mactaris](https://pleiades.stoa.org/places/939662554)
+
+
+## Malaca (Q5990417)
+[https://www.wikidata.org/wiki/Q5990417](https://www.wikidata.org/wiki/Q5990417)  
+
+### alignments:
+ - [Malaca](https://pleiades.stoa.org/places/265963)
 
 
 ## Maladers (Q64972)
@@ -42384,13 +42419,6 @@
 
 ### alignments:
  - [Cicynethus (island)](https://pleiades.stoa.org/places/540713)
-
-
-## Q166: Black Sea
-[https://www.wikidata.org/wiki/Q166](https://www.wikidata.org/wiki/Q166)  
-
-### alignments:
- - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
 
 
 ## Q1671590: Ostia Antica, Regio III

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4747 alignments exist in _Pleiades_ place references as of 2025-12-11. The following list of alignments is grouped by zotkey.
+4748 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7031,7 +7031,7 @@
 [https://topostext.org/place/368145UCau](https://topostext.org/place/368145UCau)  
 
 ### alignments:
- - [Kaukana](https://pleiades.stoa.org/places/465930)
+ - [Punta Secca](https://pleiades.stoa.org/places/462459)
 
 
 ## Caucasus Mt. (Pontus)
@@ -16731,6 +16731,13 @@
 
 ### alignments:
  - [Kybelaia](https://pleiades.stoa.org/places/550673)
+
+
+## Kybistra (Syria)
+[https://topostext.org/place/377342UKyb](https://topostext.org/place/377342UKyb)  
+
+### alignments:
+ - [Cybistra](https://pleiades.stoa.org/places/648614)
 
 
 ## Kydantidai (Attica)
