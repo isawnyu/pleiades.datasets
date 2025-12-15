@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4748 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+4751 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -2306,6 +2306,13 @@
 
 ### alignments:
  - [Amyzon/*Mydon](https://pleiades.stoa.org/places/599489)
+
+
+## Anabura (Pisidia)
+[https://topostext.org/place/380313UAna](https://topostext.org/place/380313UAna)  
+
+### alignments:
+ - [Anaboura](https://pleiades.stoa.org/places/638742)
 
 
 ## Anagnia (Italy)
@@ -15048,6 +15055,13 @@
  - [Kedreai](https://pleiades.stoa.org/places/599702)
 
 
+## Kefala exc. (Kea) Kefala
+[https://topostext.org/place/377243XKef](https://topostext.org/place/377243XKef)  
+
+### alignments:
+ - [Kephala](https://pleiades.stoa.org/places/395751423)
+
+
 ## Keiriadai (Attica)
 [https://topostext.org/place/380237DKei](https://topostext.org/place/380237DKei)  
 
@@ -22541,6 +22555,13 @@
 
 ### alignments:
  - [Paktye](https://pleiades.stoa.org/places/501546)
+
+
+## Palaeobeudus (Phrygia)
+[https://topostext.org/place/385306UPal](https://topostext.org/place/385306UPal)  
+
+### alignments:
+ - [Beudos (Palaion)](https://pleiades.stoa.org/places/609342)
 
 
 ## Palaestina (Syria)

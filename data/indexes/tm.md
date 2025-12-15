@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4810 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+4815 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7158,6 +7158,13 @@
 
 ### alignments:
  - [Priansos](https://pleiades.stoa.org/places/590013)
+
+
+## GEO ID 16076: Arkades (Ini)
+[https://www.trismegistos.org/place/16076](https://www.trismegistos.org/place/16076)  
+
+### alignments:
+ - [Arkades](https://pleiades.stoa.org/places/589710)
 
 
 ## GEO ID 16079: Phoinix (Loutro)
@@ -18791,6 +18798,13 @@
  - [*Thiounta](https://pleiades.stoa.org/places/609556)
 
 
+## GEO ID 34672: Anaboura (Enevre)
+[https://www.trismegistos.org/place/34672](https://www.trismegistos.org/place/34672)  
+
+### alignments:
+ - [Anaboura](https://pleiades.stoa.org/places/638742)
+
+
 ## GEO ID 3468: Soleb
 [http://www.trismegistos.org/place/3468](http://www.trismegistos.org/place/3468)  
 
@@ -21565,6 +21579,13 @@
  - [Thelseai](https://pleiades.stoa.org/places/678427)
 
 
+## GEO ID 40649: Occaraba (Uqayribat)
+[https://www.trismegistos.org/place/40649](https://www.trismegistos.org/place/40649)  
+
+### alignments:
+ - [Occaraba](https://pleiades.stoa.org/places/668322)
+
+
 ## GEO ID 40650: Libo (Laboue)
 [https://www.trismegistos.org/place/40650](https://www.trismegistos.org/place/40650)  
 
@@ -23243,6 +23264,13 @@
 
 ### alignments:
  - [‘Frigdarium’](https://pleiades.stoa.org/places/857126)
+
+
+## GEO ID 41426: Theleda (Tell Ade)
+[https://www.trismegistos.org/place/41426](https://www.trismegistos.org/place/41426)  
+
+### alignments:
+ - [Theleda](https://pleiades.stoa.org/places/668387)
 
 
 ## GEO ID 41433: Lucus Basaro (Tercan)
@@ -24965,6 +24993,13 @@
 
 ### alignments:
  - [Bachaias](https://pleiades.stoa.org/places/674223)
+
+
+## GEO ID 42052: Centum Putea
+[https://www.trismegistos.org/place/42052](https://www.trismegistos.org/place/42052)  
+
+### alignments:
+ - [Centum Putea](https://pleiades.stoa.org/places/674229)
 
 
 ## GEO ID 42054: Adamana

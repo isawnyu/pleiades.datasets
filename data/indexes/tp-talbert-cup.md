@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2270 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+2280 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13372,6 +13372,27 @@
  - [Sestos](https://pleiades.stoa.org/places/501609)
 
 
+## 8B1 (Talbert 2070)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2070.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2070.html)  
+
+### alignments:
+ - [Gortyn(a)](https://pleiades.stoa.org/places/589796)
+
+
+## 8B1 (Talbert 2072)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2072.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2072.html)  
+
+### alignments:
+ - [Chersonasos](https://pleiades.stoa.org/places/589744)
+
+
+## 8B1 (Talbert 2073)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2073.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2073.html)  
+
+### alignments:
+ - [Lyktos](https://pleiades.stoa.org/places/589918)
+
+
 ## 8B1 (Talbert 2081)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2081.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2081.html)  
 
@@ -13743,6 +13764,13 @@
  - [Ancyra (Galatia)](https://pleiades.stoa.org/places/619103)
 
 
+## 8B4 (Talbert 2156)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2156.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2156.html)  
+
+### alignments:
+ - [Abrostola](https://pleiades.stoa.org/places/614576)
+
+
 ## 8B4 (Talbert 2157)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2157.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2157.html)  
 
@@ -13981,6 +14009,13 @@
  - [Leben](https://pleiades.stoa.org/places/589901)
 
 
+## 8C1 (Talbert 2074)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2074.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2074.html)  
+
+### alignments:
+ - [Arkades](https://pleiades.stoa.org/places/589710)
+
+
 ## 8C1 (Talbert 2077)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2077.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2077.html)  
 
@@ -14056,6 +14091,20 @@
 
 ### alignments:
  - [Nilus (river)](https://pleiades.stoa.org/places/727172)
+
+
+## 8C2 (Talbert 2075)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2075.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2075.html)  
+
+### alignments:
+ - [Biannos](https://pleiades.stoa.org/places/589730)
+
+
+## 8C2 (Talbert 2076)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2076.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2076.html)  
+
+### alignments:
+ - [Hierapytna](https://pleiades.stoa.org/places/589807)
 
 
 ## 8C2 (Talbert 361)
@@ -15841,6 +15890,27 @@
 
 ### alignments:
  - [Iammura](https://pleiades.stoa.org/places/668269)
+
+
+## 9C5 (Talbert 2441)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2441.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2441.html)  
+
+### alignments:
+ - [Theleda](https://pleiades.stoa.org/places/668387)
+
+
+## 9C5 (Talbert 2442)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2442.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2442.html)  
+
+### alignments:
+ - [Occaraba](https://pleiades.stoa.org/places/668322)
+
+
+## 9C5 (Talbert 2443)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2443.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2443.html)  
+
+### alignments:
+ - [Centum Putea](https://pleiades.stoa.org/places/674229)
 
 
 ## 9C5 (Talbert 510)

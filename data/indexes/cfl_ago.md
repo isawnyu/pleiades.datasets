@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-449 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+450 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2560,6 +2560,13 @@
 
 ### alignments:
  - [Phaistos](https://pleiades.stoa.org/places/589987)
+
+
+## Toponyme 38345: Ierapetra, Hierapetra, Kasteli-Δ.Δ.Ιεραπέτρας
+[https://chronique.efa.gr/?r=topo_public&id=38345](https://chronique.efa.gr/?r=topo_public&id=38345)  
+
+### alignments:
+ - [Hierapytna](https://pleiades.stoa.org/places/589807)
 
 
 ## Toponyme 38601: Kos island-Κως, νήσος

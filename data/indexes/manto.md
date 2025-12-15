@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-776 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+777 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2842,6 +2842,13 @@
 
 ### alignments:
  - [Thermon](https://pleiades.stoa.org/places/541139)
+
+
+## 11309644: Hierapytna (Crete)
+[https://resource.manto.unh.edu/11309644](https://resource.manto.unh.edu/11309644)  
+
+### alignments:
+ - [Hierapytna](https://pleiades.stoa.org/places/589807)
 
 
 ## 11309768: the Apennine Mountains

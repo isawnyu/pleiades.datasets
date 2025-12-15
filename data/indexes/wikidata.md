@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9973 alignments exist in _Pleiades_ place references as of 2025-12-12. The following list of alignments is grouped by zotkey.
+9979 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2502,6 +2502,13 @@
  - [Amnya](https://pleiades.stoa.org/places/505085395)
 
 
+## Amorium (Q174270)
+[https://www.wikidata.org/wiki/Q174270](https://www.wikidata.org/wiki/Q174270)  
+
+### alignments:
+ - [Amorion](https://pleiades.stoa.org/places/609302)
+
+
 ## Ampass Early Christian Church (Q130468735)
 [https://www.wikidata.org/wiki/Q130468735](https://www.wikidata.org/wiki/Q130468735)  
 
@@ -4754,6 +4761,13 @@
 
 ### alignments:
  - [House of Aristides](https://pleiades.stoa.org/places/834833177)
+
+
+## Arkades (Q20013164)
+[https://www.wikidata.org/wiki/Q20013164](https://www.wikidata.org/wiki/Q20013164)  
+
+### alignments:
+ - [Arkades](https://pleiades.stoa.org/places/589710)
 
 
 ## Arkaim (Q672602)
@@ -19243,6 +19257,7 @@
 
 ### alignments:
  - [(Col. Iulia Aug. Felix) Germa](https://pleiades.stoa.org/places/609351)
+ - [Germia/Myriangeloi](https://pleiades.stoa.org/places/609388)
 
 
 ## Germa (Q65043934)
@@ -19660,6 +19675,13 @@
  - [Gorszewice](https://pleiades.stoa.org/places/20471)
 
 
+## Gortyn (Q1136193)
+[https://www.wikidata.org/wiki/Q1136193](https://www.wikidata.org/wiki/Q1136193)  
+
+### alignments:
+ - [Gortyn(a)](https://pleiades.stoa.org/places/589796)
+
+
 ## Gortys (Arcadia) (Q1538431)
 [https://www.wikidata.org/wiki/Q1538431](https://www.wikidata.org/wiki/Q1538431)  
 
@@ -19672,6 +19694,13 @@
 
 ### alignments:
  - [Gothiscandza](https://pleiades.stoa.org/places/20473)
+
+
+## Gournia (Q1540236)
+[https://www.wikidata.org/wiki/Q1540236](https://www.wikidata.org/wiki/Q1540236)  
+
+### alignments:
+ - [Gournia](https://pleiades.stoa.org/places/771100776)
 
 
 ## Gozalena (Q85764214)
@@ -21289,6 +21318,13 @@
 
 ### alignments:
  - [Hierapolis/Bambyke](https://pleiades.stoa.org/places/658480)
+
+
+## Hierapytna (Q17322269)
+[https://www.wikidata.org/wiki/Q17322269](https://www.wikidata.org/wiki/Q17322269)  
+
+### alignments:
+ - [Hierapytna](https://pleiades.stoa.org/places/589807)
 
 
 ## Hieron Oros (Q65048882)
@@ -25953,6 +25989,13 @@
 
 ### alignments:
  - [Pikrai Limnai](https://pleiades.stoa.org/places/727204)
+
+
+## Lake Tuz (Q211823)
+[https://www.wikidata.org/wiki/Q211823](https://www.wikidata.org/wiki/Q211823)  
+
+### alignments:
+ - [Tatta L.](https://pleiades.stoa.org/places/619268)
 
 
 ## Lake Uluabat (Q4809067)
@@ -35225,6 +35268,13 @@
  - [Pescia](https://pleiades.stoa.org/places/403251)
 
 
+## Pessinus (Q728353)
+[https://www.wikidata.org/wiki/Q728353](https://www.wikidata.org/wiki/Q728353)  
+
+### alignments:
+ - [Pessinous/Iustinianoupolis](https://pleiades.stoa.org/places/609500)
+
+
 ## Petalioi (Q585922)
 [https://www.wikidata.org/wiki/Q585922](https://www.wikidata.org/wiki/Q585922)  
 
@@ -39105,13 +39155,6 @@
  - [Thyateira](https://pleiades.stoa.org/places/550924)
 
 
-## Q1136193: Gortyn
-[https://www.wikidata.org/wiki/Q1136193](https://www.wikidata.org/wiki/Q1136193)  
-
-### alignments:
- - [Gortyn(a)](https://pleiades.stoa.org/places/589796)
-
-
 ## Q1137391: Santa Maria in Trastevere
 [https://www.wikidata.org/wiki/Q1137391](https://www.wikidata.org/wiki/Q1137391)  
 
@@ -41691,13 +41734,6 @@
  - [Untitled](https://pleiades.stoa.org/places/109479)
 
 
-## Q1540236: Gournia
-[https://www.wikidata.org/wiki/Q1540236](https://www.wikidata.org/wiki/Q1540236)  
-
-### alignments:
- - [Gournia](https://pleiades.stoa.org/places/771100776)
-
-
 ## Q1540920: Tomb of Caecilia Metella
 [https://www.wikidata.org/wiki/Q1540920](https://www.wikidata.org/wiki/Q1540920)  
 
@@ -43184,13 +43220,6 @@
  - [Labraunda](https://pleiades.stoa.org/places/599745)
 
 
-## Q179999: Tarquinia
-[https://www.wikidata.org/wiki/Q179999](https://www.wikidata.org/wiki/Q179999)  
-
-### alignments:
- - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
-
-
 ## Q18008299: Theatre of Carthage
 [https://www.wikidata.org/wiki/Q18008299](https://www.wikidata.org/wiki/Q18008299)  
 
@@ -44660,13 +44689,6 @@
 
 ### alignments:
  - [Porticus margaritaria](https://pleiades.stoa.org/places/571005604)
-
-
-## Q21580466: Tarquinia
-[https://www.wikidata.org/wiki/Q21580466](https://www.wikidata.org/wiki/Q21580466)  
-
-### alignments:
- - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
 
 
 ## Q215897: Castel del Monte
@@ -54673,6 +54695,13 @@
  - [Rhandeia](https://pleiades.stoa.org/places/876687)
 
 
+## Rhaucus (Q17628214)
+[https://www.wikidata.org/wiki/Q17628214](https://www.wikidata.org/wiki/Q17628214)  
+
+### alignments:
+ - [Rhaukos](https://pleiades.stoa.org/places/590026)
+
+
 ## Rhebas (Q65040484)
 [https://www.wikidata.org/wiki/Q65040484](https://www.wikidata.org/wiki/Q65040484)  
 
@@ -61394,6 +61423,20 @@
 
 ### alignments:
  - [Tarpeian Rock](https://pleiades.stoa.org/places/928849659)
+
+
+## Tarquinia (Q179999)
+[https://www.wikidata.org/wiki/Q179999](https://www.wikidata.org/wiki/Q179999)  
+
+### alignments:
+ - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
+
+
+## Tarquinia (Q21580466)
+[https://www.wikidata.org/wiki/Q21580466](https://www.wikidata.org/wiki/Q21580466)  
+
+### alignments:
+ - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
 
 
 ## Tarr Steps (Q17663291)
