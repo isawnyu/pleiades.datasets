@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9979 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
+9981 alignments exist in _Pleiades_ place references as of 2025-12-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -21215,6 +21215,13 @@
  - [Hermonthis](https://pleiades.stoa.org/places/786036)
 
 
+## Hermopolis (Q732908)
+[https://www.wikidata.org/wiki/Q732908](https://www.wikidata.org/wiki/Q732908)  
+
+### alignments:
+ - [Hermopolis Magna/Schmun](https://pleiades.stoa.org/places/756574)
+
+
 ## Hermos (Q13436271)
 [https://www.wikidata.org/wiki/Q13436271](https://www.wikidata.org/wiki/Q13436271)  
 
@@ -28679,6 +28686,13 @@
  - [Maximianon](https://pleiades.stoa.org/places/786064)
 
 
+## Maximianopolis (Q1136877)
+[https://www.wikidata.org/wiki/Q1136877](https://www.wikidata.org/wiki/Q1136877)  
+
+### alignments:
+ - [Legio/Caporcotani/Maximianopolis](https://pleiades.stoa.org/places/678266)
+
+
 ## Mazaro (Q3849227)
 [https://www.wikidata.org/wiki/Q3849227](https://www.wikidata.org/wiki/Q3849227)  
 
@@ -30821,6 +30835,13 @@
 
 ### alignments:
  - [Mount Caburn hill fort](https://pleiades.stoa.org/places/187989738)
+
+
+## Mount Carmel (Q185318)
+[https://www.wikidata.org/wiki/Q185318](https://www.wikidata.org/wiki/Q185318)  
+
+### alignments:
+ - [Carmel (mountain)](https://pleiades.stoa.org/places/678084)
 
 
 ## Mount Chortiatis (Q1076591)
@@ -52523,13 +52544,6 @@
 
 ### alignments:
  - [Korax (mountain)](https://pleiades.stoa.org/places/540880)
-
-
-## Q732908: Hermopolis
-[https://www.wikidata.org/wiki/Q732908](https://www.wikidata.org/wiki/Q732908)  
-
-### alignments:
- - [Hermopolis Magna/Schmun](https://pleiades.stoa.org/places/756574)
 
 
 ## Q733798: Iulia Valentia Banasa

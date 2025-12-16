@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4815 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
+4816 alignments exist in _Pleiades_ place references as of 2025-12-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -19636,6 +19636,13 @@
 
 ### alignments:
  - [Gadara](https://pleiades.stoa.org/places/697665)
+
+
+## GEO ID 3738: Baithsan (Beisan)
+[https://www.trismegistos.org/place/3738](https://www.trismegistos.org/place/3738)  
+
+### alignments:
+ - [Scythopolis/Nysa](https://pleiades.stoa.org/places/678378)
 
 
 ## GEO ID 37392: Herodeion (El-Fureidis)

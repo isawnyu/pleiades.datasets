@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4751 alignments exist in _Pleiades_ place references as of 2025-12-15. The following list of alignments is grouped by zotkey.
+4752 alignments exist in _Pleiades_ place references as of 2025-12-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -20375,6 +20375,13 @@
 
 ### alignments:
  - [Mounichia Limen](https://pleiades.stoa.org/places/580029)
+
+
+## Mount Carmel (Phoenicia) 18 Carmel
+[https://topostext.org/place/327350LKar](https://topostext.org/place/327350LKar)  
+
+### alignments:
+ - [Carmel (mountain)](https://pleiades.stoa.org/places/678084)
 
 
 ## Mouri exc. (Crete)  Kato Metokhi
