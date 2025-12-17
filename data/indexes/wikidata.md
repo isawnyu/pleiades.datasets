@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9981 alignments exist in _Pleiades_ place references as of 2025-12-16. The following list of alignments is grouped by zotkey.
+9982 alignments exist in _Pleiades_ place references as of 2025-12-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6337,6 +6337,13 @@
 
 ### alignments:
  - [Balāwāt](https://pleiades.stoa.org/places/924247288)
+
+
+## Balbura (Q804692)
+[https://www.wikidata.org/wiki/Q804692](https://www.wikidata.org/wiki/Q804692)  
+
+### alignments:
+ - [Balboura](https://pleiades.stoa.org/places/638789)
 
 
 ## Baldock (Q17663370)
@@ -22823,6 +22830,13 @@
 
 ### alignments:
  - [Inverquharity](https://pleiades.stoa.org/places/25339216)
+
+
+## Iolcos (Q662613)
+[https://www.wikidata.org/wiki/Q662613](https://www.wikidata.org/wiki/Q662613)  
+
+### alignments:
+ - [Iolkos](https://pleiades.stoa.org/places/540837)
 
 
 ## Iomnium (Q113827285)
@@ -52096,13 +52110,6 @@
 
 ### alignments:
  - [Saar Site](https://pleiades.stoa.org/places/56036938)
-
-
-## Q662613: Iolcos
-[https://www.wikidata.org/wiki/Q662613](https://www.wikidata.org/wiki/Q662613)  
-
-### alignments:
- - [Iolkos](https://pleiades.stoa.org/places/540837)
 
 
 ## Q66336728: Antiochia ad Sarum
