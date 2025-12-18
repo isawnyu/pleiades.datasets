@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4816 alignments exist in _Pleiades_ place references as of 2025-12-17. The following list of alignments is grouped by zotkey.
+4816 alignments exist in _Pleiades_ place references as of 2025-12-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2297,13 +2297,6 @@
 
 ### alignments:
  - [Hypanis/Kuban (river)](https://pleiades.stoa.org/places/825273)
-
-
-## Geo 659: Eretria
-[http://www.trismegistos.org/place/659](http://www.trismegistos.org/place/659)  
-
-### alignments:
- - [Eretria](https://pleiades.stoa.org/places/579925)
 
 
 ## Geo 66174
@@ -32173,6 +32166,13 @@
 
 ### alignments:
  - [Tabernae Veteres](https://pleiades.stoa.org/places/108635484)
+
+
+## Geo ID 659: Eretria
+[http://www.trismegistos.org/place/659](http://www.trismegistos.org/place/659)  
+
+### alignments:
+ - [Eretria](https://pleiades.stoa.org/places/579925)
 
 
 ## GEO ID 672: Euboea

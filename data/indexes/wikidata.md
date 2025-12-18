@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9982 alignments exist in _Pleiades_ place references as of 2025-12-17. The following list of alignments is grouped by zotkey.
+9984 alignments exist in _Pleiades_ place references as of 2025-12-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6414,6 +6414,13 @@
 
 ### alignments:
  - [Balmuildy Roman Fort](https://pleiades.stoa.org/places/89108)
+
+
+## balneum Abascanti (Q136339992)
+[https://www.wikidata.org/wiki/Q136339992](https://www.wikidata.org/wiki/Q136339992)  
+
+### alignments:
+ - [balneum Abascantis et Mamertini](https://pleiades.stoa.org/places/738321274)
 
 
 ## Balsa (Q2881532)
@@ -17282,6 +17289,13 @@
 
 ### alignments:
  - [Eremia Geton](https://pleiades.stoa.org/places/226595)
+
+
+## Eretria (Q16562724)
+[https://www.wikidata.org/wiki/Q16562724](https://www.wikidata.org/wiki/Q16562724)  
+
+### alignments:
+ - [Eretria](https://pleiades.stoa.org/places/579925)
 
 
 ## Eretria (Q42114739)
