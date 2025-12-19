@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4752 alignments exist in _Pleiades_ place references as of 2025-12-18. The following list of alignments is grouped by zotkey.
+4754 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7966,6 +7966,13 @@
  - [Cosa](https://pleiades.stoa.org/places/413107)
 
 
+## Cotini
+[https://topostext.org/people/23057](https://topostext.org/people/23057)  
+
+### alignments:
+ - [Cotini](https://pleiades.stoa.org/places/128386)
+
+
 ## Cotinussa Isl. (Iberia)
 [https://topostext.org/place/365000ICot](https://topostext.org/place/365000ICot)  
 
@@ -10819,6 +10826,13 @@
 
 ### alignments:
  - [Domus Flavia](https://pleiades.stoa.org/places/564783056)
+
+
+## Flaviobriga/Portus Amanus (Gallaecia)
+[https://topostext.org/place/434-32UFla](https://topostext.org/place/434-32UFla)  
+
+### alignments:
+ - [Flaviobriga](https://pleiades.stoa.org/places/246394)
 
 
 ## Flavionavia (Iberia)

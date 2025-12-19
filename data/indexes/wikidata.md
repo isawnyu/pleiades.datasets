@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9984 alignments exist in _Pleiades_ place references as of 2025-12-18. The following list of alignments is grouped by zotkey.
+9986 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -16626,6 +16626,13 @@
  - [*Igaeditania?](https://pleiades.stoa.org/places/256220)
 
 
+## Egovarres (Q5475909)
+[https://www.wikidata.org/wiki/Q5475909](https://www.wikidata.org/wiki/Q5475909)  
+
+### alignments:
+ - [Egivarri Namarini](https://pleiades.stoa.org/places/236457)
+
+
 ## Eightercua (Q1644306)
 [https://www.wikidata.org/wiki/Q1644306](https://www.wikidata.org/wiki/Q1644306)  
 
@@ -29035,6 +29042,13 @@
 
 ### alignments:
  - [Minorca (island)](https://pleiades.stoa.org/places/572631626)
+
+
+## Menosca (Q16518349)
+[https://www.wikidata.org/wiki/Q16518349](https://www.wikidata.org/wiki/Q16518349)  
+
+### alignments:
+ - [Menosca](https://pleiades.stoa.org/places/252216)
 
 
 ## Menosgada (Q1920699)
@@ -52245,13 +52259,6 @@
  - [Cyme](https://pleiades.stoa.org/places/550506)
 
 
-## Q679665: Temple of Mars Ultor
-[https://www.wikidata.org/wiki/Q679665](https://www.wikidata.org/wiki/Q679665)  
-
-### alignments:
- - [Temple of Mars Ultor](https://pleiades.stoa.org/places/823121346)
-
-
 ## Q6851167: Milecastle 30
 [https://www.wikidata.org/wiki/Q6851167](https://www.wikidata.org/wiki/Q6851167)  
 
@@ -62536,6 +62543,13 @@
 
 ### alignments:
  - [Temple of Liber Pater at Sabratha](https://pleiades.stoa.org/places/854121351)
+
+
+## Temple of Mars Ultor (Q679665)
+[https://www.wikidata.org/wiki/Q679665](https://www.wikidata.org/wiki/Q679665)  
+
+### alignments:
+ - [Temple of Mars Ultor](https://pleiades.stoa.org/places/823121346)
 
 
 ## Temple of Monthu (Q3517593)
