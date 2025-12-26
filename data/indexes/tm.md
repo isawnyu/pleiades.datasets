@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4820 alignments exist in _Pleiades_ place references as of 2025-12-25. The following list of alignments is grouped by zotkey.
+4820 alignments exist in _Pleiades_ place references as of 2025-12-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
