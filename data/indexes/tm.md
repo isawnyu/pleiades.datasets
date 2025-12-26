@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4816 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
+4820 alignments exist in _Pleiades_ place references as of 2025-12-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1975,6 +1975,13 @@
 
 ### alignments:
  - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
+
+
+## Geo 47913: Shushtar
+[http://www.trismegistos.org/place/47913](http://www.trismegistos.org/place/47913)  
+
+### alignments:
+ - [Sostrate/Shushtar](https://pleiades.stoa.org/places/912941)
 
 
 ## Geo 47984: Arsamosata (Haraba)
@@ -9995,6 +10002,13 @@
  - [Horrea](https://pleiades.stoa.org/places/305092)
 
 
+## GEO ID 20418: Albulae (Ain Temouchent)
+[https://www.trismegistos.org/place/20418](https://www.trismegistos.org/place/20418)  
+
+### alignments:
+ - [Albulae/Praesidium Sufative](https://pleiades.stoa.org/places/285412)
+
+
 ## GEO ID 20420: Thamallula (Ain Toumella)
 [http://www.trismegistos.org/place/20420](http://www.trismegistos.org/place/20420)  
 
@@ -12417,6 +12431,13 @@
 
 ### alignments:
  - [Iulia Traducta/Iulia Ioza/Tingentera](https://pleiades.stoa.org/places/256235)
+
+
+## GEO ID 25983: Caelia (Arcos de la Frontera)
+[https://www.trismegistos.org/place/25983](https://www.trismegistos.org/place/25983)  
+
+### alignments:
+ - [Turirecina/Regina](https://pleiades.stoa.org/places/256492)
 
 
 ## GEO ID 25992: Hasta Regia (Mesas de Asta)
@@ -25448,6 +25469,7 @@
 
 ### alignments:
  - [Aquae Albulae](https://pleiades.stoa.org/places/422840)
+ - [Aquae Albulae](https://pleiades.stoa.org/places/422841)
 
 
 ## GEO ID 42303: Antiocheia Tharmata
@@ -26547,6 +26569,13 @@
 
 ### alignments:
  - [Ferentinum Novum](https://pleiades.stoa.org/places/438735)
+
+
+## GEO ID 42791: Ferentinum
+[https://www.trismegistos.org/place/42791](https://www.trismegistos.org/place/42791)  
+
+### alignments:
+ - [Ferentinum](https://pleiades.stoa.org/places/438734)
 
 
 ## GEO ID 42792: Taricheai (Mejdel)
@@ -28515,7 +28544,7 @@
 [https://www.trismegistos.org/place/45556](https://www.trismegistos.org/place/45556)  
 
 ### alignments:
- - [Corbio](https://pleiades.stoa.org/places/438722)
+ - [Corbio (Latium)](https://pleiades.stoa.org/places/438722)
 
 
 ## GEO ID 45561: Turnacum (Ternay)

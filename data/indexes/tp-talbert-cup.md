@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2280 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
+2280 alignments exist in _Pleiades_ place references as of 2025-12-25. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -7654,6 +7654,7 @@
 
 ### alignments:
  - [Aquae Albulae](https://pleiades.stoa.org/places/422840)
+ - [Aquae Albulae](https://pleiades.stoa.org/places/422841)
 
 
 ## 4B5 (Talbert 1428)

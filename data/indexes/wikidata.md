@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-9986 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
+10003 alignments exist in _Pleiades_ place references as of 2025-12-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -202,6 +202,20 @@
 
 ### alignments:
  - [Abella](https://pleiades.stoa.org/places/432617)
+
+
+## Abellinum (Q318664)
+[https://www.wikidata.org/wiki/Q318664](https://www.wikidata.org/wiki/Q318664)  
+
+### alignments:
+ - [Abellinum](https://pleiades.stoa.org/places/432618)
+
+
+## Abellinum amphitheatre (Q28977993)
+[https://www.wikidata.org/wiki/Q28977993](https://www.wikidata.org/wiki/Q28977993)  
+
+### alignments:
+ - [Abellinum](https://pleiades.stoa.org/places/432618)
 
 
 ## Abhayavapi (Q4667359)
@@ -1781,6 +1795,13 @@
  - [Albuccione](https://pleiades.stoa.org/places/422827)
 
 
+## Albulae (Q2831972)
+[https://www.wikidata.org/wiki/Q2831972](https://www.wikidata.org/wiki/Q2831972)  
+
+### alignments:
+ - [Albulae/Praesidium Sufative](https://pleiades.stoa.org/places/285412)
+
+
 ## Albulae Aquae (Q4712753)
 [https://www.wikidata.org/wiki/Q4712753](https://www.wikidata.org/wiki/Q4712753)  
 
@@ -2836,6 +2857,13 @@
 
 ### alignments:
  - [Capua](https://pleiades.stoa.org/places/432754)
+
+
+## Ancient City of Ma’rib (Q119041557)
+[https://www.wikidata.org/wiki/Q119041557](https://www.wikidata.org/wiki/Q119041557)  
+
+### alignments:
+ - [Mari(a)ba](https://pleiades.stoa.org/places/39379)
 
 
 ## Ancient Corsica (Q1784775)
@@ -3986,6 +4014,13 @@
  - [er-Rugheba](https://pleiades.stoa.org/places/354144)
 
 
+## Ara della Regina (Q2859314)
+[https://www.wikidata.org/wiki/Q2859314](https://www.wikidata.org/wiki/Q2859314)  
+
+### alignments:
+ - [Ara della Regina](https://pleiades.stoa.org/places/43496934)
+
+
 ## Ara Pacis (Q623612)
 [https://www.wikidata.org/wiki/Q623612](https://www.wikidata.org/wiki/Q623612)  
 
@@ -4210,6 +4245,13 @@
  - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
 
 
+## Arch of Janus (Q580555)
+[https://www.wikidata.org/wiki/Q580555](https://www.wikidata.org/wiki/Q580555)  
+
+### alignments:
+ - [Ianus Quadrifons](https://pleiades.stoa.org/places/367835399)
+
+
 ## Arch of Malborghetto (Q3621780)
 [https://www.wikidata.org/wiki/Q3621780](https://www.wikidata.org/wiki/Q3621780)  
 
@@ -4229,6 +4271,13 @@
 
 ### alignments:
  - [Arch of Marcus Antonius](https://pleiades.stoa.org/places/815189530)
+
+
+## Arch of Palmyra (Q21077991)
+[https://www.wikidata.org/wiki/Q21077991](https://www.wikidata.org/wiki/Q21077991)  
+
+### alignments:
+ - [Monumental Arch of Palmyra](https://pleiades.stoa.org/places/628331928)
 
 
 ## Arch of Septimius Severus (Q2091585)
@@ -4460,6 +4509,13 @@
 
 ### alignments:
  - [Arco Felice Vecchio](https://pleiades.stoa.org/places/466414611)
+
+
+## Arcos de la Frontera (Q637863)
+[https://www.wikidata.org/wiki/Q637863](https://www.wikidata.org/wiki/Q637863)  
+
+### alignments:
+ - [Arcos de la Frontera](https://pleiades.stoa.org/places/255981)
 
 
 ## Arcy-sur-Cure (Q633111)
@@ -5961,6 +6017,13 @@
  - [Roman amphitheater at Abella](https://pleiades.stoa.org/places/395695982)
 
 
+## Avellino (Q13433)
+[https://www.wikidata.org/wiki/Q13433](https://www.wikidata.org/wiki/Q13433)  
+
+### alignments:
+ - [Abellinum](https://pleiades.stoa.org/places/432618)
+
+
 ## Avenches amphitheatre (Q2844395)
 [https://www.wikidata.org/wiki/Q2844395](https://www.wikidata.org/wiki/Q2844395)  
 
@@ -7011,6 +7074,13 @@
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
 
 
+## Baths of Diocletian (Q21234252)
+[https://www.wikidata.org/wiki/Q21234252](https://www.wikidata.org/wiki/Q21234252)  
+
+### alignments:
+ - [Baths of Diocletian (Palmyra)](https://pleiades.stoa.org/places/802044826)
+
+
 ## Baths of Diocletian (Q836108)
 [https://www.wikidata.org/wiki/Q836108](https://www.wikidata.org/wiki/Q836108)  
 
@@ -7521,6 +7591,13 @@
 
 ### alignments:
  - [Beth Aramaye](https://pleiades.stoa.org/places/893958)
+
+
+## Bethlehem (Q5776)
+[https://www.wikidata.org/wiki/Q5776](https://www.wikidata.org/wiki/Q5776)  
+
+### alignments:
+ - [Bethlehem](https://pleiades.stoa.org/places/687856)
 
 
 ## Betriacum (Q16532302)
@@ -9459,6 +9536,13 @@
  - [Caesareum of Alexandria](https://pleiades.stoa.org/places/464391493)
 
 
+## Caesareum of Palmyra (Q82074229)
+[https://www.wikidata.org/wiki/Q82074229](https://www.wikidata.org/wiki/Q82074229)  
+
+### alignments:
+ - [Caesareum of Palmyra](https://pleiades.stoa.org/places/867812306)
+
+
 ## Caesarodunum (Q2932881)
 [https://www.wikidata.org/wiki/Q2932881](https://www.wikidata.org/wiki/Q2932881)  
 
@@ -10556,6 +10640,13 @@
 
 ### alignments:
  - [Cereatae Marianae](https://pleiades.stoa.org/places/432776)
+
+
+## Casas de Reina (Q1157670)
+[https://www.wikidata.org/wiki/Q1157670](https://www.wikidata.org/wiki/Q1157670)  
+
+### alignments:
+ - [Regina](https://pleiades.stoa.org/places/256397)
 
 
 ## Caselette Roman villa (Q125163027)
@@ -12967,6 +13058,13 @@
  - [Santalla de Bóveda](https://pleiades.stoa.org/places/743134062)
 
 
+## Church of the Nativity (Q194504)
+[https://www.wikidata.org/wiki/Q194504](https://www.wikidata.org/wiki/Q194504)  
+
+### alignments:
+ - [Church of the Nativity](https://pleiades.stoa.org/places/211190325)
+
+
 ## Church of the Saviour (Q1728464)
 [https://www.wikidata.org/wiki/Q1728464](https://www.wikidata.org/wiki/Q1728464)  
 
@@ -14028,7 +14126,7 @@
 [https://www.wikidata.org/wiki/Q1131991](https://www.wikidata.org/wiki/Q1131991)  
 
 ### alignments:
- - [Corbio](https://pleiades.stoa.org/places/438722)
+ - [Corbio (Latium)](https://pleiades.stoa.org/places/438722)
 
 
 ## Corbio (Q134822855)
@@ -17872,6 +17970,13 @@
  - [Theodosia](https://pleiades.stoa.org/places/854743)
 
 
+## Ferentinum (Q21088738)
+[https://www.wikidata.org/wiki/Q21088738](https://www.wikidata.org/wiki/Q21088738)  
+
+### alignments:
+ - [Ferentinum](https://pleiades.stoa.org/places/432830)
+
+
 ## Feres Q943354
 []()  
 
@@ -19822,6 +19927,13 @@
  - [Great Chesterford](https://pleiades.stoa.org/places/79488)
 
 
+## Great Colonnade at Palmyra (Q5598980)
+[https://www.wikidata.org/wiki/Q5598980](https://www.wikidata.org/wiki/Q5598980)  
+
+### alignments:
+ - [Great Colonnade at Palmyra](https://pleiades.stoa.org/places/867812308)
+
+
 ## Great Orme (Q3395318)
 [https://www.wikidata.org/wiki/Q3395318](https://www.wikidata.org/wiki/Q3395318)  
 
@@ -21458,6 +21570,13 @@
 
 ### alignments:
  - [Hirbemerdon Tepe](https://pleiades.stoa.org/places/574198885)
+
+
+## Hirpini (Q1036791)
+[https://www.wikidata.org/wiki/Q1036791](https://www.wikidata.org/wiki/Q1036791)  
+
+### alignments:
+ - [Hirpini](https://pleiades.stoa.org/places/442614)
 
 
 ## Hispalis (Q100422615)
@@ -28546,6 +28665,13 @@
  - [Matera](https://pleiades.stoa.org/places/442650)
 
 
+## Maternum (Q137569587)
+[https://www.wikidata.org/wiki/Q137569587](https://www.wikidata.org/wiki/Q137569587)  
+
+### alignments:
+ - [Maternum](https://pleiades.stoa.org/places/413195)
+
+
 ## Matese lake (Q1166662)
 [https://www.wikidata.org/wiki/Q1166662](https://www.wikidata.org/wiki/Q1166662)  
 
@@ -30389,6 +30515,13 @@
  - [Monastery of Simeon Stylites the Younger](https://pleiades.stoa.org/places/49430117)
 
 
+## Mondello (Q1082173)
+[https://www.wikidata.org/wiki/Q1082173](https://www.wikidata.org/wiki/Q1082173)  
+
+### alignments:
+ - [Grotta Regina](https://pleiades.stoa.org/places/462223)
+
+
 ## Moneglia (Q267005)
 [https://www.wikidata.org/wiki/Q267005](https://www.wikidata.org/wiki/Q267005)  
 
@@ -30625,6 +30758,13 @@
 
 ### alignments:
  - [Mons Faliscorum](https://pleiades.stoa.org/places/587180153)
+
+
+## Montella (Q55061)
+[https://www.wikidata.org/wiki/Q55061](https://www.wikidata.org/wiki/Q55061)  
+
+### alignments:
+ - [Montella](https://pleiades.stoa.org/places/442669)
 
 
 ## Monterano (Q3862318)
@@ -33273,6 +33413,13 @@
  - [Ollius (river)](https://pleiades.stoa.org/places/383721)
 
 
+## Oiasso (Q653443)
+[https://www.wikidata.org/wiki/Q653443](https://www.wikidata.org/wiki/Q653443)  
+
+### alignments:
+ - [Oiasso](https://pleiades.stoa.org/places/246526)
+
+
 ## Oiatai (Q60791902)
 [https://www.wikidata.org/wiki/Q60791902](https://www.wikidata.org/wiki/Q60791902)  
 
@@ -33705,6 +33852,13 @@
 
 ### alignments:
  - [Orbetello](https://pleiades.stoa.org/places/403248)
+
+
+## Orbitanium (Q137572596)
+[https://www.wikidata.org/wiki/Q137572596](https://www.wikidata.org/wiki/Q137572596)  
+
+### alignments:
+ - [Orbitanium](https://pleiades.stoa.org/places/438798)
 
 
 ## Orchomenos (Q543895)
@@ -36025,6 +36179,13 @@
  - [Pisae](https://pleiades.stoa.org/places/403253)
 
 
+## Pisandes (Q137572763)
+[https://www.wikidata.org/wiki/Q137572763](https://www.wikidata.org/wiki/Q137572763)  
+
+### alignments:
+ - [Pisandes](https://pleiades.stoa.org/places/446281)
+
+
 ## Piscina Torta (Ostia, Rome) (Q134737027)
 [https://www.wikidata.org/wiki/Q134737027](https://www.wikidata.org/wiki/Q134737027)  
 
@@ -36443,6 +36604,13 @@
 
 ### alignments:
  - [Pons Cestius](https://pleiades.stoa.org/places/211668069)
+
+
+## Pons Fabricius (Q944688)
+[https://www.wikidata.org/wiki/Q944688](https://www.wikidata.org/wiki/Q944688)  
+
+### alignments:
+ - [Pons Fabricius](https://pleiades.stoa.org/places/68481414)
 
 
 ## Pons Neronianus (Q1902995)
@@ -38305,13 +38473,6 @@
 
 ### alignments:
  - [S. Miguel de Odrinhas](https://pleiades.stoa.org/places/256430)
-
-
-## Q1036791: Hirpini
-[https://www.wikidata.org/wiki/Q1036791](https://www.wikidata.org/wiki/Q1036791)  
-
-### alignments:
- - [Hirpini](https://pleiades.stoa.org/places/442614)
 
 
 ## Q10378966: Delphi Theater
@@ -40990,13 +41151,6 @@
 
 ### alignments:
  - [Tarsus/Antiochia ad Cydnum](https://pleiades.stoa.org/places/648789)
-
-
-## Q13433: Avellino
-[https://www.wikidata.org/wiki/Q13433](https://www.wikidata.org/wiki/Q13433)  
-
-### alignments:
- - [Abellinum](https://pleiades.stoa.org/places/432618)
 
 
 ## Q13436232: Eiresidai
@@ -44068,13 +44222,6 @@
  - [Regio VI (Alta Semita)](https://pleiades.stoa.org/places/75632296)
 
 
-## Q20008731: Regio XI Circus Maximus
-[https://www.wikidata.org/wiki/Q20008731](https://www.wikidata.org/wiki/Q20008731)  
-
-### alignments:
- - [Regio XI (Circus Maximus)](https://pleiades.stoa.org/places/418516191)
-
-
 ## Q20008732: Regio XII Piscina Publica
 [https://www.wikidata.org/wiki/Q20008732](https://www.wikidata.org/wiki/Q20008732)  
 
@@ -44528,13 +44675,6 @@
 
 ### alignments:
  - [Sacred well of Predio Canopoli](https://pleiades.stoa.org/places/165291492)
-
-
-## Q21088738
-[https://www.wikidata.org/wiki/Q21088738](https://www.wikidata.org/wiki/Q21088738)  
-
-### alignments:
- - [Ferentinum](https://pleiades.stoa.org/places/432830)
 
 
 ## Q210957: Antonine Wall
@@ -46352,13 +46492,6 @@
  - [Briord Roman aqueduct](https://pleiades.stoa.org/places/14985147)
 
 
-## Q2859314: Ara della Regina
-[https://www.wikidata.org/wiki/Q2859314](https://www.wikidata.org/wiki/Q2859314)  
-
-### alignments:
- - [Ara della Regina](https://pleiades.stoa.org/places/43496934)
-
-
 ## Q2859847: Arcus Novus
 [https://www.wikidata.org/wiki/Q2859847](https://www.wikidata.org/wiki/Q2859847)  
 
@@ -46490,13 +46623,6 @@
 
 ### alignments:
  - [Roman amphitheater at Album Ingaunum/Albingaunum](https://pleiades.stoa.org/places/331262016)
-
-
-## Q28977993: Abellinum amphitheatre
-[https://www.wikidata.org/wiki/Q28977993](https://www.wikidata.org/wiki/Q28977993)  
-
-### alignments:
- - [Abellinum](https://pleiades.stoa.org/places/432618)
 
 
 ## Q28978009: Amphitheatre of Paestum
@@ -47009,13 +47135,6 @@
 
 ### alignments:
  - [*Alcmona (river)](https://pleiades.stoa.org/places/118554)
-
-
-## Q318664: Abellinum
-[https://www.wikidata.org/wiki/Q318664](https://www.wikidata.org/wiki/Q318664)  
-
-### alignments:
- - [Abellinum](https://pleiades.stoa.org/places/432618)
 
 
 ## Q319242: Caesarea Maritima
@@ -48903,13 +49022,6 @@
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
 
 
-## Q3983249: Tempio di Flora
-[https://www.wikidata.org/wiki/Q3983249](https://www.wikidata.org/wiki/Q3983249)  
-
-### alignments:
- - [Cerreto Sannita](https://pleiades.stoa.org/places/706151554)
-
-
 ## Q3983252: Temple of Jupiter Anxur
 [https://www.wikidata.org/wiki/Q3983252](https://www.wikidata.org/wiki/Q3983252)  
 
@@ -49000,13 +49112,6 @@
 
 ### alignments:
  - [Tomb of Seuthes III](https://pleiades.stoa.org/places/585148249)
-
-
-## Q3995144: Torre Caetani (Rome)
-[https://www.wikidata.org/wiki/Q3995144](https://www.wikidata.org/wiki/Q3995144)  
-
-### alignments:
- - [Torre Caetani](https://pleiades.stoa.org/places/422724245)
 
 
 ## Q3996922: Touxion
@@ -50859,13 +50964,6 @@
  - [Temple of Hercules Victor](https://pleiades.stoa.org/places/825969667)
 
 
-## Q5776: Bethlehem
-[https://www.wikidata.org/wiki/Q5776](https://www.wikidata.org/wiki/Q5776)  
-
-### alignments:
- - [Bethlehem](https://pleiades.stoa.org/places/687856)
-
-
 ## Q57833802
 [https://www.wikidata.org/wiki/Q57833802](https://www.wikidata.org/wiki/Q57833802)  
 
@@ -50906,13 +51004,6 @@
 
 ### alignments:
  - [Thiar](https://pleiades.stoa.org/places/266063)
-
-
-## Q580555: Arch of Janus
-[https://www.wikidata.org/wiki/Q580555](https://www.wikidata.org/wiki/Q580555)  
-
-### alignments:
- - [Ianus Quadrifons](https://pleiades.stoa.org/places/367835399)
 
 
 ## Q58137395: Housesteads Mithraeum
@@ -53708,13 +53799,6 @@
  - [Alba Fucens](https://pleiades.stoa.org/places/413005)
 
 
-## Q944688: Pons Fabricius
-[https://www.wikidata.org/wiki/Q944688](https://www.wikidata.org/wiki/Q944688)  
-
-### alignments:
- - [Pons Fabricius](https://pleiades.stoa.org/places/68481414)
-
-
 ## Q94522462: Apollo Ptoios
 [https://www.wikidata.org/wiki/Q94522462](https://www.wikidata.org/wiki/Q94522462)  
 
@@ -54651,6 +54735,13 @@
 
 ### alignments:
  - [Regio VII (Via Lata)](https://pleiades.stoa.org/places/596666070)
+
+
+## Regio XI Circus Maximus (Q20008731)
+[https://www.wikidata.org/wiki/Q20008731](https://www.wikidata.org/wiki/Q20008731)  
+
+### alignments:
+ - [Regio XI (Circus Maximus)](https://pleiades.stoa.org/places/418516191)
 
 
 ## region III of the archaeological excavations of Pompeii (Q3931875)
@@ -56486,6 +56577,13 @@
 
 ### alignments:
  - [Rometta](https://pleiades.stoa.org/places/462471)
+
+
+## Romulea (Q15141536)
+[https://www.wikidata.org/wiki/Q15141536](https://www.wikidata.org/wiki/Q15141536)  
+
+### alignments:
+ - [Romulea](https://pleiades.stoa.org/places/438820)
 
 
 ## Room W13, Temple of Artemis Azzanathkona, Dura-Europos (Q118390423)
@@ -60305,6 +60403,13 @@
  - [Sphinx Temple](https://pleiades.stoa.org/places/979282841)
 
 
+## Sphoungaras (Q1564586)
+[https://www.wikidata.org/wiki/Q1564586](https://www.wikidata.org/wiki/Q1564586)  
+
+### alignments:
+ - [Sphoungaras](https://pleiades.stoa.org/places/355218709)
+
+
 ## Spina (Q2065939)
 [https://www.wikidata.org/wiki/Q2065939](https://www.wikidata.org/wiki/Q2065939)  
 
@@ -62417,6 +62522,13 @@
 
 ### alignments:
  - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
+
+
+## Temple of Flora (Q3983249)
+[https://www.wikidata.org/wiki/Q3983249](https://www.wikidata.org/wiki/Q3983249)  
+
+### alignments:
+ - [Cerreto Sannita](https://pleiades.stoa.org/places/706151554)
 
 
 ## Temple of Flora in Rome (Q3983248)
@@ -64777,6 +64889,13 @@
 
 ### alignments:
  - [Torres de Auençala](https://pleiades.stoa.org/places/38259712)
+
+
+## Torre Caetani (Rome) (Q3995144)
+[https://www.wikidata.org/wiki/Q3995144](https://www.wikidata.org/wiki/Q3995144)  
+
+### alignments:
+ - [Torre Caetani](https://pleiades.stoa.org/places/422724245)
 
 
 ## Torre Chiaruccia (Q3995160)

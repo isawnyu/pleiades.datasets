@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4754 alignments exist in _Pleiades_ place references as of 2025-12-19. The following list of alignments is grouped by zotkey.
+4760 alignments exist in _Pleiades_ place references as of 2025-12-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -6845,6 +6845,13 @@
  - [Carthago](https://pleiades.stoa.org/places/314921)
 
 
+## Carventum (Latium)
+[https://topostext.org/place/417128UCar](https://topostext.org/place/417128UCar)  
+
+### alignments:
+ - [Carventum](https://pleiades.stoa.org/places/438707)
+
+
 ## Carystos (Euboea)
 [https://topostext.org/place/380244PKar](https://topostext.org/place/380244PKar)  
 
@@ -7851,7 +7858,7 @@
 [https://topostext.org/place/418128UCor](https://topostext.org/place/418128UCor)  
 
 ### alignments:
- - [Corbio](https://pleiades.stoa.org/places/438722)
+ - [Corbio (Latium)](https://pleiades.stoa.org/places/438722)
 
 
 ## Corcyra (Ionian Islands)
@@ -19137,6 +19144,13 @@
  - [Mariana](https://pleiades.stoa.org/places/265965)
 
 
+## Mariba or Mariaba (Arabia)
+[https://topostext.org/place/154453UMar](https://topostext.org/place/154453UMar)  
+
+### alignments:
+ - [Mari(a)ba](https://pleiades.stoa.org/places/39379)
+
+
 ## Maries (Thasos)  Maries - Μαριαί
 [https://topostext.org/place/407246QMar](https://topostext.org/place/407246QMar)  
 
@@ -21686,6 +21700,13 @@
 
 ### alignments:
  - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
+
+
+## Oiasso (Iberia)
+[https://topostext.org/place/433-18UOia](https://topostext.org/place/433-18UOia)  
+
+### alignments:
+ - [Oiasso](https://pleiades.stoa.org/places/246526)
 
 
 ## Oichalia (Euboea)
@@ -27229,6 +27250,13 @@
  - [Temple of Roma and Augustus (Athens)](https://pleiades.stoa.org/places/226121402)
 
 
+## Romulea (Italia)
+[https://topostext.org/place/413148URom](https://topostext.org/place/413148URom)  
+
+### alignments:
+ - [Romulea](https://pleiades.stoa.org/places/438820)
+
+
 ## Rosolodiacus (Galatia)
 [https://topostext.org/place/396329URos](https://topostext.org/place/396329URos)  
 
@@ -27810,6 +27838,13 @@
 
 ### alignments:
  - [Muro Tenente (Scamnum?)](https://pleiades.stoa.org/places/442790)
+
+
+## Scaptia? (Latium)
+[https://topostext.org/place/418132USca](https://topostext.org/place/418132USca)  
+
+### alignments:
+ - [Scaptia](https://pleiades.stoa.org/places/438829)
 
 
 ## Scarbantia (Noricum)
@@ -32109,6 +32144,13 @@
 
 ### alignments:
  - [Tunes](https://pleiades.stoa.org/places/315233)
+
+
+## Turirecina/Regina (Iberia)
+[https://topostext.org/place/367000UTur](https://topostext.org/place/367000UTur)  
+
+### alignments:
+ - [Turirecina/Regina](https://pleiades.stoa.org/places/256492)
 
 
 ## Turnacum (Gallia)
