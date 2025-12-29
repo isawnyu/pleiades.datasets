@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         12.7646939,
-        41.4075808,
-        12.7650916,
+        41.4076117,
+        12.7650836,
         41.4080217
     ],
     "connections": [
@@ -11,8 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "at",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/at",
+            "connectionType": "succeeds",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/succeeds",
             "connectsTo": "https://pleiades.stoa.org/places/432703",
             "contributors": [],
             "created": "2019-03-10T05:42:38Z",
@@ -28,6 +28,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "Initial revision",
+                    "modified": "2025-12-26T15:13:23Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2019-03-10T05:42:38Z",
@@ -77,6 +82,22 @@
                         41.4080217
                     ],
                     [
+                        12.7647486,
+                        41.4080042
+                    ],
+                    [
+                        12.7647396,
+                        41.4079747
+                    ],
+                    [
+                        12.7647215,
+                        41.4079159
+                    ],
+                    [
+                        12.764705,
+                        41.4078621
+                    ],
+                    [
                         12.7646939,
                         41.4078259
                     ],
@@ -85,24 +106,36 @@
                         41.4078188
                     ],
                     [
-                        12.7647091,
-                        41.4077294
+                        12.7647131,
+                        41.4077641
                     ],
                     [
-                        12.7648102,
-                        41.4077136
+                        12.7648162,
+                        41.407743
                     ],
                     [
                         12.7647942,
-                        41.4076247
+                        41.4076586
                     ],
                     [
-                        12.7650001,
-                        41.4075808
+                        12.7650122,
+                        41.4076117
                     ],
                     [
-                        12.7650916,
-                        41.4079604
+                        12.7650617,
+                        41.4077917
+                    ],
+                    [
+                        12.7650247,
+                        41.4077982
+                    ],
+                    [
+                        12.7650492,
+                        41.4078903
+                    ],
+                    [
+                        12.7650836,
+                        41.4079581
                     ],
                     [
                         12.7650782,
@@ -124,7 +157,7 @@
                 "description": "A Medieval coastal fort of the Frangipani.. Location based on OpenStreetMap.",
                 "link": "https://pleiades.stoa.org/places/648012834/osm-location-of-torre-astura",
                 "location_precision": "precise",
-                "snippet": "Fort, ; AD 640 - AD 1453",
+                "snippet": "Fort-2; AD 640 - AD 1453",
                 "title": "OSM location of Torre Astura"
             },
             "type": "Feature"
@@ -193,18 +226,32 @@
             "details": "",
             "end": 1453,
             "featureType": [
-                "fort",
-                ""
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
                     [
                         12.764754,
                         41.4080217
+                    ],
+                    [
+                        12.7647486,
+                        41.4080042
+                    ],
+                    [
+                        12.7647396,
+                        41.4079747
+                    ],
+                    [
+                        12.7647215,
+                        41.4079159
+                    ],
+                    [
+                        12.764705,
+                        41.4078621
                     ],
                     [
                         12.7646939,
@@ -215,24 +262,36 @@
                         41.4078188
                     ],
                     [
-                        12.7647091,
-                        41.4077294
+                        12.7647131,
+                        41.4077641
                     ],
                     [
-                        12.7648102,
-                        41.4077136
+                        12.7648162,
+                        41.407743
                     ],
                     [
                         12.7647942,
-                        41.4076247
+                        41.4076586
                     ],
                     [
-                        12.7650001,
-                        41.4075808
+                        12.7650122,
+                        41.4076117
                     ],
                     [
-                        12.7650916,
-                        41.4079604
+                        12.7650617,
+                        41.4077917
+                    ],
+                    [
+                        12.7650247,
+                        41.4077982
+                    ],
+                    [
+                        12.7650492,
+                        41.4078903
+                    ],
+                    [
+                        12.7650836,
+                        41.4079581
                     ],
                     [
                         12.7650782,
@@ -250,6 +309,16 @@
                 "type": "LineString"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2025-12-26T15:12:37Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2025-12-26T15:12:24Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Reimported full way geometry and updated provenance",
                     "modified": "2023-06-17T14:13:55Z",
@@ -291,10 +360,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "OpenStreetMap (Way 54894273, version 10, osm:changeset=134455723, 2023-04-03T13:38:51Z)",
+            "provenance": "OpenStreetMap (Way 54894273, version 11, osm:changeset=139337378, 2023-08-02T09:30:52Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/way/54894273",
@@ -316,12 +384,10 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
-        "https://pleiades.stoa.org/vocabularies/place-types/fort"
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
     ],
     "placeTypes": [
-        "fort-2",
-        "fort"
+        "fort-2"
     ],
     "provenance": "Pleiades",
     "references": [
@@ -360,8 +426,8 @@
         }
     ],
     "reprPoint": [
-        12.764888267400353,
-        41.40781145898684
+        12.764893101452616,
+        41.4078246174541
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
