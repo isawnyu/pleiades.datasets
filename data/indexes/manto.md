@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-778 alignments exist in _Pleiades_ place references as of 2025-12-26. The following list of alignments is grouped by zotkey.
+782 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2704,6 +2704,13 @@
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
+## 11306085: Aidepsos (Euboia)
+[https://resource.manto.unh.edu/11306085](https://resource.manto.unh.edu/11306085)  
+
+### alignments:
+ - [Aidepsos? (polis)](https://pleiades.stoa.org/places/540601)
+
+
 ## 11306299: the Steps of Cacios (Rome)
 [https://resource.manto.unh.edu/11306299](https://resource.manto.unh.edu/11306299)  
 
@@ -4323,6 +4330,13 @@
  - [Aegina (island)](https://pleiades.stoa.org/places/579844)
 
 
+## 9587624: the Sanctuary of Hera Acraia near Corinth (Argolid)
+[https://resource.manto.unh.edu/9587624](https://resource.manto.unh.edu/9587624)  
+
+### alignments:
+ - [Heraion](https://pleiades.stoa.org/places/570288)
+
+
 ## 9587657: Media (region)
 [https://resource.manto.unh.edu/9587657](https://resource.manto.unh.edu/9587657)  
 
@@ -4769,6 +4783,13 @@
 
 ### alignments:
  - [Kerinthos](https://pleiades.stoa.org/places/540861)
+
+
+## 9718704: Carystos (Euboia)
+[https://resource.manto.unh.edu/9718704](https://resource.manto.unh.edu/9718704)  
+
+### alignments:
+ - [Karystos](https://pleiades.stoa.org/places/570336)
 
 
 ## 9718707: Styra (Euboia)
@@ -5280,6 +5301,13 @@
 
 ### alignments:
  - [Imbros (island)](https://pleiades.stoa.org/places/501439)
+
+
+## 9906413: Oichalia (Euboia)
+[https://resource.manto.unh.edu/9906413](https://resource.manto.unh.edu/9906413)  
+
+### alignments:
+ - [Oichalia?](https://pleiades.stoa.org/places/540971)
 
 
 ## 9909052: Emathia (region in northern Greece)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4760 alignments exist in _Pleiades_ place references as of 2025-12-26. The following list of alignments is grouped by zotkey.
+4770 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -785,6 +785,13 @@
 
 ### alignments:
  - [Ag. Pavlos](https://pleiades.stoa.org/places/589668)
+
+
+## Ag. Pneuma site (Serres)
+[https://topostext.org/place/411237FAPn](https://topostext.org/place/411237FAPn)  
+
+### alignments:
+ - [Ag. Pneuma](https://pleiades.stoa.org/places/501330)
 
 
 ## Ag. Sophia tower (Lemnos)
@@ -7665,6 +7672,13 @@
  - [Clusium](https://pleiades.stoa.org/places/413096)
 
 
+## Cluturnum (Samnium) 2
+[https://topostext.org/place/415144UClu](https://topostext.org/place/415144UClu)  
+
+### alignments:
+ - [Cluturnum](https://pleiades.stoa.org/places/432789)
+
+
 ## Cluviae (Italy)
 [https://topostext.org/place/421143UClu](https://topostext.org/place/421143UClu)  
 
@@ -8195,6 +8209,13 @@
 
 ### alignments:
  - [Daphni Monastery](https://pleiades.stoa.org/places/606653928)
+
+
+## Daphnoudi site (Serres)
+[https://topostext.org/place/411237XDap](https://topostext.org/place/411237XDap)  
+
+### alignments:
+ - [Daphnoudion](https://pleiades.stoa.org/places/501392)
 
 
 ## Daphnous (Phthiotis) 17 Ag. Konstantinos - Δαφνούς
@@ -10728,6 +10749,13 @@
 
 ### alignments:
  - [Falerii Veteres](https://pleiades.stoa.org/places/413126)
+
+
+## Falisci/Ager Faliscus (Italy)
+[https://topostext.org/place/423123RFal](https://topostext.org/place/423123RFal)  
+
+### alignments:
+ - [Ager Faliscus (region)](https://pleiades.stoa.org/places/532728731)
 
 
 ## Fanum Fortunae (Italy)
@@ -14143,6 +14171,13 @@
 
 ### alignments:
  - [Monte Saraceno di Ravanusa (Kakyron?)](https://pleiades.stoa.org/places/462266)
+
+
+## Kalabantia (Lycia) 4 Sancakli Liman
+[https://topostext.org/place/364291UKal](https://topostext.org/place/364291UKal)  
+
+### alignments:
+ - [Kalaba(n)tia](https://pleiades.stoa.org/places/638888)
 
 
 ## Kalamai (Messenia)
@@ -18394,6 +18429,13 @@
  - [Luceria/Noukeria (Apoulon)](https://pleiades.stoa.org/places/442640)
 
 
+## Lucrine Lake (Campania)
+[https://topostext.org/place/408141WLuc](https://topostext.org/place/408141WLuc)  
+
+### alignments:
+ - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
+
+
 ## Lucurgentum (Iberia) 1 Morón de la Frontera
 [https://topostext.org/place/371000ULuc](https://topostext.org/place/371000ULuc)  
 
@@ -20312,6 +20354,13 @@
 
 ### alignments:
  - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
+
+
+## Monte Saraceno di Cercemaggiore (Samnium)
+[https://topostext.org/place/414147UMSar](https://topostext.org/place/414147UMSar)  
+
+### alignments:
+ - [Monte Saraceno di Cercemaggiore](https://pleiades.stoa.org/places/432963)
 
 
 ## Montetosto tumulus (Etruria) 1 Cerveteri
@@ -23839,6 +23888,13 @@
 
 ### alignments:
  - [Heraion](https://pleiades.stoa.org/places/570288)
+
+
+## Peraea (Palestine) (Palestine)
+[https://topostext.org/place/318358RPer](https://topostext.org/place/318358RPer)  
+
+### alignments:
+ - [Peraea](https://pleiades.stoa.org/places/697724)
 
 
 ## Peraithea (Arkadia)
@@ -29252,6 +29308,13 @@
  - [*Stalai?](https://pleiades.stoa.org/places/590059)
 
 
+## Statonia (Italy)
+[https://topostext.org/place/424120USta](https://topostext.org/place/424120USta)  
+
+### alignments:
+ - [Piammiano](https://pleiades.stoa.org/places/413321)
+
+
 ## statue of Athena Hygieia (Athens Acropolis) 2 Acropolis of Athens
 [https://topostext.org/place/380237SAHy](https://topostext.org/place/380237SAHy)  
 
@@ -32697,6 +32760,13 @@
 
 ### alignments:
  - [Via Valeria](https://pleiades.stoa.org/places/770901484)
+
+
+## Via Vitularia (Latium) 1 near Arpinum
+[https://topostext.org/place/416136BVVi](https://topostext.org/place/416136BVVi)  
+
+### alignments:
+ - [Via Vitularia](https://pleiades.stoa.org/places/438880)
 
 
 ## Vicetia (Italy)

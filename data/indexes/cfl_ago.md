@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-450 alignments exist in _Pleiades_ place references as of 2025-12-26. The following list of alignments is grouped by zotkey.
+453 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -93,6 +93,13 @@
  - [Thyrreion](https://pleiades.stoa.org/places/531123)
 
 
+## 2956: AGHIO PNEUMA - 2008
+[https://chronique.efa.gr/?kroute=report&id=2956](https://chronique.efa.gr/?kroute=report&id=2956)  
+
+### alignments:
+ - [Ag. Pneuma](https://pleiades.stoa.org/places/501330)
+
+
 ## 31712: Nikopolis
 [https://chronique.efa.gr/?r=topo_public&id=31712](https://chronique.efa.gr/?r=topo_public&id=31712)  
 
@@ -114,11 +121,25 @@
  - [Sykeon Roman bath (Thessaly)](https://pleiades.stoa.org/places/731893156)
 
 
+## 413: AGHIOS CHRISTOFOROS SERRON - GAZOROS - 2004
+[https://chronique.efa.gr/?kroute=report&id=413](https://chronique.efa.gr/?kroute=report&id=413)  
+
+### alignments:
+ - [Ag. Khristophoros](https://pleiades.stoa.org/places/501329)
+
+
 ## 5460: LÉBADÉE - 2006
 [https://chronique.efa.gr/?kroute=report&id=5460](https://chronique.efa.gr/?kroute=report&id=5460)  
 
 ### alignments:
  - [Fifth century baths at Lebadeia](https://pleiades.stoa.org/places/690059595)
+
+
+## 5647: DAPHNOUDI - 2007
+[https://chronique.efa.gr/?kroute=report&id=5647](https://chronique.efa.gr/?kroute=report&id=5647)  
+
+### alignments:
+ - [Daphnoudion](https://pleiades.stoa.org/places/501392)
 
 
 ## 5714: PETRA. - Kastro Adrianou - 2008

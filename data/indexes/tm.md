@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4820 alignments exist in _Pleiades_ place references as of 2025-12-26. The following list of alignments is grouped by zotkey.
+4827 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7151,6 +7151,13 @@
 
 ### alignments:
  - [(Nea) Paphos](https://pleiades.stoa.org/places/707586)
+
+
+## GEO ID 16041: Oreine
+[https://www.trismegistos.org/place/16041](https://www.trismegistos.org/place/16041)  
+
+### alignments:
+ - [Oreini](https://pleiades.stoa.org/places/501540)
 
 
 ## GEO ID 16073: Priansos (Kastellos)
@@ -14632,6 +14639,13 @@
  - [Bostra/Col. Nova Traiana Alexandriana](https://pleiades.stoa.org/places/678073)
 
 
+## GEO ID 29880: Daphnoudion
+[https://www.trismegistos.org/place/29880](https://www.trismegistos.org/place/29880)  
+
+### alignments:
+ - [Daphnoudion](https://pleiades.stoa.org/places/501392)
+
+
 ## GEO ID 2988: Ostia
 [http://www.trismegistos.org/place/2988](http://www.trismegistos.org/place/2988)  
 
@@ -16782,6 +16796,13 @@
  - [Tolentinum](https://pleiades.stoa.org/places/413344)
 
 
+## GEO ID 32693: Trea (Treia)
+[http://www.trismegistos.org/place/32693](http://www.trismegistos.org/place/32693)  
+
+### alignments:
+ - [Trea](https://pleiades.stoa.org/places/413348)
+
+
 ## GEO ID 3270: Andematunum (Langres)
 [https://www.trismegistos.org/place/3270](https://www.trismegistos.org/place/3270)  
 
@@ -18175,6 +18196,13 @@
  - [Kilbianoi (Ano)](https://pleiades.stoa.org/places/550640)
 
 
+## GEO ID 33622: Gryneion (Termaşalık Burnu)
+[https://www.trismegistos.org/place/33622](https://www.trismegistos.org/place/33622)  
+
+### alignments:
+ - [Gryneion](https://pleiades.stoa.org/places/550555)
+
+
 ## GEO ID 33623: Pitane (Çandarlı)
 [https://www.trismegistos.org/place/33623](https://www.trismegistos.org/place/33623)  
 
@@ -18236,6 +18264,13 @@
 
 ### alignments:
  - [Herculaneum](https://pleiades.stoa.org/places/432873)
+
+
+## GEO ID 33683: Mikro Souli
+[https://www.trismegistos.org/place/33683](https://www.trismegistos.org/place/33683)  
+
+### alignments:
+ - [Mikro Souli](https://pleiades.stoa.org/places/501519)
 
 
 ## GEO ID 33684: Myrkinos
@@ -24547,6 +24582,13 @@
  - [‘Herculis Rani’?](https://pleiades.stoa.org/places/432875)
 
 
+## GEO ID 41842: Melpis
+[https://www.trismegistos.org/place/41842](https://www.trismegistos.org/place/41842)  
+
+### alignments:
+ - [Melpis (river)](https://pleiades.stoa.org/places/432935)
+
+
 ## GEO ID 41843: Nuceriola
 [https://www.trismegistos.org/place/41843](https://www.trismegistos.org/place/41843)  
 
@@ -30276,6 +30318,13 @@
 
 ### alignments:
  - [Makaria (island)](https://pleiades.stoa.org/places/40203)
+
+
+## GEO ID 55890: Kalabatia
+[https://www.trismegistos.org/place/55890](https://www.trismegistos.org/place/55890)  
+
+### alignments:
+ - [Kalaba(n)tia](https://pleiades.stoa.org/places/638888)
 
 
 ## GEO ID 55892: Letoon
