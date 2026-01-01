@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4770 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
+4772 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -17530,6 +17530,13 @@
  - [Latomi](https://pleiades.stoa.org/places/550690)
 
 
+## Latopolis (Egypt) 7 Esna/Isna - Λητούς
+[https://topostext.org/place/252325ULat](https://topostext.org/place/252325ULat)  
+
+### alignments:
+ - [Latopolis](https://pleiades.stoa.org/places/786059)
+
+
 ## Laumellum (Italia)
 [https://topostext.org/place/451088ULau](https://topostext.org/place/451088ULau)  
 
@@ -21567,6 +21574,13 @@
 
 ### alignments:
  - [Oai](https://pleiades.stoa.org/places/580037)
+
+
+## Oasis Magna/Thebaidos (Egypt) 15 Barrington Atlas grid 79 B2 - Οασις μεγάλη
+[https://topostext.org/place/255307UOas](https://topostext.org/place/255307UOas)  
+
+### alignments:
+ - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
 
 
 ## Oasitai (Egypt)

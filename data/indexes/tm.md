@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4827 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
+4831 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14114,6 +14114,13 @@
  - [Ulcisia Castra/Castra Constantia](https://pleiades.stoa.org/places/197564)
 
 
+## GEO ID 2923: Thynis
+[http://www.trismegistos.org/place/2923](http://www.trismegistos.org/place/2923)  
+
+### alignments:
+ - [Thynis/Thone](https://pleiades.stoa.org/places/756662)
+
+
 ## GEO ID 29253: Lugio (Dunaszekcső)
 [https://www.trismegistos.org/place/29253](https://www.trismegistos.org/place/29253)  
 
@@ -21733,6 +21740,13 @@
  - [Castra Iarba](https://pleiades.stoa.org/places/501384)
 
 
+## GEO ID 40738: Ad Cerasias
+[https://www.trismegistos.org/place/40738](https://www.trismegistos.org/place/40738)  
+
+### alignments:
+ - [Ad Cerasias](https://pleiades.stoa.org/places/393360)
+
+
 ## GEO ID 40740: Anneianum
 [http://www.trismegistos.org/place/40740](http://www.trismegistos.org/place/40740)  
 
@@ -28708,6 +28722,13 @@
  - [Boubastou Diorux/ Boubastou](https://pleiades.stoa.org/places/741444)
 
 
+## GEO ID 46119: Portus Liquentiae
+[http://www.trismegistos.org/place/46119](http://www.trismegistos.org/place/46119)  
+
+### alignments:
+ - [Portus Liquentiae](https://pleiades.stoa.org/places/393477)
+
+
 ## GEO ID 46233: Monselice
 [https://www.trismegistos.org/place/46233](https://www.trismegistos.org/place/46233)  
 
@@ -30003,6 +30024,13 @@
 
 ### alignments:
  - [Fatira el-Beida el-Qibli](https://pleiades.stoa.org/places/766362)
+
+
+## GEO ID 52954: Abu Gariya
+[https://www.trismegistos.org/place/52954](https://www.trismegistos.org/place/52954)  
+
+### alignments:
+ - [Abu Gariya](https://pleiades.stoa.org/places/766329)
 
 
 ## GEO ID 52960: Semna [South]
@@ -31840,10 +31868,11 @@
  - [Pakerke](https://pleiades.stoa.org/places/741543)
 
 
-## Geo ID 619: Oasis Magna (El-Kharga)
+## GEO ID 619: Oasis Magna (El-Kharga)
 [https://www.trismegistos.org/place/619](https://www.trismegistos.org/place/619)  
 
 ### alignments:
+ - [Exotero (Oasis)](https://pleiades.stoa.org/places/776173)
  - [Oasis Magna/Thebaidos](https://pleiades.stoa.org/places/776210)
 
 

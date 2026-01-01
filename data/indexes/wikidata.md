@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10031 alignments exist in _Pleiades_ place references as of 2025-12-29. The following list of alignments is grouped by zotkey.
+10039 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -780,11 +780,25 @@
  - [Ad Quintanas](https://pleiades.stoa.org/places/422814)
 
 
+## Ad Sponsas (Q137648377)
+[https://www.wikidata.org/wiki/Q137648377](https://www.wikidata.org/wiki/Q137648377)  
+
+### alignments:
+ - [Ad Sponsas](https://pleiades.stoa.org/places/422816)
+
+
 ## Ad Stoma (castra) (Q15178106)
 [https://www.wikidata.org/wiki/Q15178106](https://www.wikidata.org/wiki/Q15178106)  
 
 ### alignments:
  - [Ad Stoma](https://pleiades.stoa.org/places/226508)
+
+
+## Ad Teglanum (Q137648134)
+[https://www.wikidata.org/wiki/Q137648134](https://www.wikidata.org/wiki/Q137648134)  
+
+### alignments:
+ - [Ad Teglanum](https://pleiades.stoa.org/places/432641)
 
 
 ## Ad Turres (Q2823855)
@@ -1457,6 +1471,7 @@
 
 ### alignments:
  - [(P)Mounesis](https://pleiades.stoa.org/places/776216)
+ - [Shams el-Din](https://pleiades.stoa.org/places/894410373)
 
 
 ## Ain Sinu (Q123909252)
@@ -14171,6 +14186,13 @@
  - [Corbio](https://pleiades.stoa.org/places/252193)
 
 
+## Corcolle (Q17628202)
+[https://www.wikidata.org/wiki/Q17628202](https://www.wikidata.org/wiki/Q17628202)  
+
+### alignments:
+ - [Pedum?](https://pleiades.stoa.org/places/422997)
+
+
 ## Cordonovi (Q136198651)
 [https://www.wikidata.org/wiki/Q136198651](https://www.wikidata.org/wiki/Q136198651)  
 
@@ -26220,6 +26242,13 @@
 
 ### alignments:
  - [Pikrai Limnai](https://pleiades.stoa.org/places/727204)
+
+
+## Lake Tritonis (Q158958)
+[https://www.wikidata.org/wiki/Q158958](https://www.wikidata.org/wiki/Q158958)  
+
+### alignments:
+ - [Tritonis? L.](https://pleiades.stoa.org/places/364025)
 
 
 ## Lake Tuz (Q211823)
@@ -43752,6 +43781,13 @@
  - [Osteria dell’Osa](https://pleiades.stoa.org/places/422994)
 
 
+## Q18502908
+[https://www.wikidata.org/wiki/Q18502908](https://www.wikidata.org/wiki/Q18502908)  
+
+### alignments:
+ - [Portus Liquentiae](https://pleiades.stoa.org/places/393477)
+
+
 ## Q185103
 [https://www.wikidata.org/wiki/Q185103](https://www.wikidata.org/wiki/Q185103)  
 
@@ -57174,6 +57210,13 @@
  - [Saint-Saphorin](https://pleiades.stoa.org/places/634295459)
 
 
+## Sais (Q381038)
+[https://www.wikidata.org/wiki/Q381038](https://www.wikidata.org/wiki/Q381038)  
+
+### alignments:
+ - [Sais](https://pleiades.stoa.org/places/727217)
+
+
 ## Sakarya River (Q217466)
 [https://www.wikidata.org/wiki/Q217466](https://www.wikidata.org/wiki/Q217466)  
 
@@ -57676,6 +57719,13 @@
 
 ### alignments:
  - [S. Sebastianus](https://pleiades.stoa.org/places/423056)
+
+
+## San Stino di Livenza (Q47215)
+[https://www.wikidata.org/wiki/Q47215](https://www.wikidata.org/wiki/Q47215)  
+
+### alignments:
+ - [Ad Sanos](https://pleiades.stoa.org/places/393369)
 
 
 ## San Teodoro (Q926539)
@@ -67045,6 +67095,13 @@
 
 ### alignments:
  - [Val d'Orcia](https://pleiades.stoa.org/places/643235008)
+
+
+## Valdobbiadene (Q47428)
+[https://www.wikidata.org/wiki/Q47428](https://www.wikidata.org/wiki/Q47428)  
+
+### alignments:
+ - [*Duplavilis](https://pleiades.stoa.org/places/393412)
 
 
 ## Vale of Tempe (Q258540)
