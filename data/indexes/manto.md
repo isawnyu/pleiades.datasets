@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-782 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+784 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3973,6 +3973,13 @@
  - [Colchis/Lazike (region)](https://pleiades.stoa.org/places/863770)
 
 
+## 8254024: Gerenia (Messenia)
+[https://resource.manto.unh.edu/8254024](https://resource.manto.unh.edu/8254024)  
+
+### alignments:
+ - [Geren(i)a](https://pleiades.stoa.org/places/570261)
+
+
 ## 8254025: Tegea (Arcadia)
 [https://resource.manto.unh.edu/8254025](https://resource.manto.unh.edu/8254025)  
 
@@ -4839,6 +4846,13 @@
 
 ### alignments:
  - [La(s)](https://pleiades.stoa.org/places/570417)
+
+
+## 9718763: Oitylos (Laconia)
+[https://www.manto-myth.org/manto](https://www.manto-myth.org/manto)  
+
+### alignments:
+ - [Oitylos](https://pleiades.stoa.org/places/570527)
 
 
 ## 9719368: Cyparisseis (Messenia)

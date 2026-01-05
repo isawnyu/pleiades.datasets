@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2280 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+2282 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13814,6 +13814,13 @@
  - [Conium/Conni/Demetrioupolis/Konna/Kone](https://pleiades.stoa.org/places/614635)
 
 
+## 8B4 (Talbert 2174)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2174.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2174.html)  
+
+### alignments:
+ - [Eukarpia](https://pleiades.stoa.org/places/609378)
+
+
 ## 8B4 (Talbert 2179)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2179.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2179.html)  
 
@@ -13924,6 +13931,13 @@
 
 ### alignments:
  - [Euphorbium](https://pleiades.stoa.org/places/614656)
+
+
+## 8B5 (Talbert 2175)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2175.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2175.html)  
+
+### alignments:
+ - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
 
 
 ## 8B5 (Talbert 2182)

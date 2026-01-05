@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4772 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+4774 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4428,6 +4428,13 @@
 
 ### alignments:
  - [Asine](https://pleiades.stoa.org/places/570124)
+
+
+## Asine (Lakonia) 2 Skoutari?
+[https://topostext.org/place/367225UAsi](https://topostext.org/place/367225UAsi)  
+
+### alignments:
+ - [Asine](https://pleiades.stoa.org/places/570126)
 
 
 ## Asine? (Messenia)
@@ -9396,6 +9403,13 @@
 
 ### alignments:
  - [Echelidai](https://pleiades.stoa.org/places/585905)
+
+
+## Echetla (Sicily) 6 Occhiola?
+[https://topostext.org/place/372146UEch](https://topostext.org/place/372146UEch)  
+
+### alignments:
+ - [Echetla](https://pleiades.stoa.org/places/465884)
 
 
 ## Echinades (Kefallenia) 83 Echinades - Εχίναι

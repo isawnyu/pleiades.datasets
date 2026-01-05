@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-518 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+519 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1527,6 +1527,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.20.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.20.7)  
 
 ### alignments:
+ - [Harpleia](https://pleiades.stoa.org/places/573244)
  - [Lapithaion](https://pleiades.stoa.org/places/570413)
 
 
@@ -1689,6 +1690,13 @@
 
 ### alignments:
  - [Kyphanta](https://pleiades.stoa.org/places/570398)
+
+
+## 3.25.10
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.25.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.25.10)  
+
+### alignments:
+ - [Oitylos](https://pleiades.stoa.org/places/570527)
 
 
 ## 3.25.4
@@ -3817,6 +3825,7 @@
  - [Antikyra](https://pleiades.stoa.org/places/540642)
  - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
  - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
+ - [Geren(i)a](https://pleiades.stoa.org/places/570261)
  - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4831 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+4837 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7277,6 +7277,13 @@
 
 ### alignments:
  - [Dokimeion](https://pleiades.stoa.org/places/609366)
+
+
+## GEO ID 16151: Eumeneia (Işıklı)
+[https://www.trismegistos.org/place/16151](https://www.trismegistos.org/place/16151)  
+
+### alignments:
+ - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
 
 
 ## GEO ID 16152: Priapos (Karabiğa)
@@ -18476,6 +18483,13 @@
  - [Karyanda](https://pleiades.stoa.org/places/599693)
 
 
+## GEO ID 34100: Zarex (Zarka)
+[https://www.trismegistos.org/place/34100](https://www.trismegistos.org/place/34100)  
+
+### alignments:
+ - [Zarex/Zaret(h)ra](https://pleiades.stoa.org/places/541177)
+
+
 ## GEO ID 34117: Pyrra
 [http://www.trismegistos.org/place/34117](http://www.trismegistos.org/place/34117)  
 
@@ -23196,11 +23210,25 @@
  - [Cromen](https://pleiades.stoa.org/places/857096)
 
 
+## GEO ID 41378: Konion
+[https://www.trismegistos.org/place/41378](https://www.trismegistos.org/place/41378)  
+
+### alignments:
+ - [Conium/Conni/Demetrioupolis/Konna/Kone](https://pleiades.stoa.org/places/614635)
+
+
 ## GEO ID 4137: Eboda
 [http://www.trismegistos.org/place/4137](http://www.trismegistos.org/place/4137)  
 
 ### alignments:
  - [Eboda](https://pleiades.stoa.org/places/687887)
+
+
+## GEO ID 41380: Eukarpia (Emirhisar)
+[http://www.trismegistos.org/place/41380](http://www.trismegistos.org/place/41380)  
+
+### alignments:
+ - [Eukarpia](https://pleiades.stoa.org/places/609378)
 
 
 ## GEO ID 41384: Garzoubanthon (Kurzuvet)
@@ -29563,6 +29591,13 @@
  - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
 
 
+## GEO ID 50106: Oitylos
+[http://www.trismegistos.org/place/50106](http://www.trismegistos.org/place/50106)  
+
+### alignments:
+ - [Oitylos](https://pleiades.stoa.org/places/570527)
+
+
 ## GEO ID 50135: Ramnes
 [http://www.trismegistos.org/place/50135](http://www.trismegistos.org/place/50135)  
 
@@ -29849,6 +29884,13 @@
 
 ### alignments:
  - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
+
+
+## GEO ID 51896: Zarax (Ierakas)
+[https://www.trismegistos.org/place/51896](https://www.trismegistos.org/place/51896)  
+
+### alignments:
+ - [Zarax](https://pleiades.stoa.org/places/570761)
 
 
 ## GEO ID 51901: Sidicini

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10039 alignments exist in _Pleiades_ place references as of 2026-01-01. The following list of alignments is grouped by zotkey.
+10050 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -408,6 +408,13 @@
  - [Acamantis](https://pleiades.stoa.org/places/745058964)
 
 
+## Acanthus (Q181109)
+[https://www.wikidata.org/wiki/Q181109](https://www.wikidata.org/wiki/Q181109)  
+
+### alignments:
+ - [Akanthos](https://pleiades.stoa.org/places/501339)
+
+
 ## Acarnania (Q416070)
 [https://www.wikidata.org/wiki/Q416070](https://www.wikidata.org/wiki/Q416070)  
 
@@ -778,6 +785,13 @@
 
 ### alignments:
  - [Ad Quintanas](https://pleiades.stoa.org/places/422814)
+
+
+## Ad Speculum (Q137665927)
+[https://www.wikidata.org/wiki/Q137665927](https://www.wikidata.org/wiki/Q137665927)  
+
+### alignments:
+ - [Ad Speculum?](https://pleiades.stoa.org/places/334478)
 
 
 ## Ad Sponsas (Q137648377)
@@ -2970,6 +2984,13 @@
 
 ### alignments:
  - [Gerasa/Antiochia ad Chrysorhoam](https://pleiades.stoa.org/places/678158)
+
+
+## Ancient Lappa (Q1805795)
+[https://www.wikidata.org/wiki/Q1805795](https://www.wikidata.org/wiki/Q1805795)  
+
+### alignments:
+ - [Lappa](https://pleiades.stoa.org/places/589894)
 
 
 ## Ancient Magnesia (Q60790367)
@@ -9915,6 +9936,13 @@
  - [Cancho Roano](https://pleiades.stoa.org/places/767047425)
 
 
+## Candabia (Q137668490)
+[https://www.wikidata.org/wiki/Q137668490](https://www.wikidata.org/wiki/Q137668490)  
+
+### alignments:
+ - [Candabia](https://pleiades.stoa.org/places/481780)
+
+
 ## Cangas de Onís Roman Bridge (Q9064489)
 [https://www.wikidata.org/wiki/Q9064489](https://www.wikidata.org/wiki/Q9064489)  
 
@@ -16689,6 +16717,13 @@
  - [Echelidai](https://pleiades.stoa.org/places/585905)
 
 
+## Echetla (Q4895437)
+[https://www.wikidata.org/wiki/Q4895437](https://www.wikidata.org/wiki/Q4895437)  
+
+### alignments:
+ - [Echetla](https://pleiades.stoa.org/places/465884)
+
+
 ## Echinades (Q767387)
 [https://www.wikidata.org/wiki/Q767387](https://www.wikidata.org/wiki/Q767387)  
 
@@ -17628,6 +17663,13 @@
  - [Arco Etrusco](https://pleiades.stoa.org/places/923690483)
 
 
+## Eua (Q5405223)
+[https://www.wikidata.org/wiki/Q5405223](https://www.wikidata.org/wiki/Q5405223)  
+
+### alignments:
+ - [Eua?](https://pleiades.stoa.org/places/570241)
+
+
 ## Euhydrium (Q48781687)
 [https://www.wikidata.org/wiki/Q48781687](https://www.wikidata.org/wiki/Q48781687)  
 
@@ -17640,6 +17682,13 @@
 
 ### alignments:
  - [Ducanaris? (river)](https://pleiades.stoa.org/places/236453)
+
+
+## Eumeneia (Q25711472)
+[https://www.wikidata.org/wiki/Q25711472](https://www.wikidata.org/wiki/Q25711472)  
+
+### alignments:
+ - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
 
 
 ## Eunostidae (Q19932039)
@@ -17752,13 +17801,6 @@
 
 ### alignments:
  - [Eutresia?](https://pleiades.stoa.org/places/570250)
-
-
-## Eva (Cynuria) (Q16565203)
-[https://www.wikidata.org/wiki/Q16565203](https://www.wikidata.org/wiki/Q16565203)  
-
-### alignments:
- - [Eua?](https://pleiades.stoa.org/places/570241)
 
 
 ## Evinos (Q522489)
@@ -19442,6 +19484,13 @@
  - [Krateia/Flaviopolis/*Agrippeia?](https://pleiades.stoa.org/places/844991)
 
 
+## Gereneia (Q5550565)
+[https://www.wikidata.org/wiki/Q5550565](https://www.wikidata.org/wiki/Q5550565)  
+
+### alignments:
+ - [Geren(i)a](https://pleiades.stoa.org/places/570261)
+
+
 ## Gergis (Q17155131)
 [https://www.wikidata.org/wiki/Q17155131](https://www.wikidata.org/wiki/Q17155131)  
 
@@ -20920,6 +20969,13 @@
 
 ### alignments:
  - [Harpinates](https://pleiades.stoa.org/places/573243)
+
+
+## Harpleia (Q60792060)
+[https://www.wikidata.org/wiki/Q60792060](https://www.wikidata.org/wiki/Q60792060)  
+
+### alignments:
+ - [Harpleia](https://pleiades.stoa.org/places/573244)
 
 
 ## Hartland Point (Q907467)
@@ -25450,6 +25506,13 @@
 
 ### alignments:
  - [Hypanis/Kuban (river)](https://pleiades.stoa.org/places/825273)
+
+
+## Kufi River (Q21526465)
+[https://www.wikidata.org/wiki/Q21526465](https://www.wikidata.org/wiki/Q21526465)  
+
+### alignments:
+ - [Klydros (river)](https://pleiades.stoa.org/places/609437)
 
 
 ## Kunar River (Q8519)
@@ -33526,6 +33589,13 @@
  - [Oisyme](https://pleiades.stoa.org/places/501533)
 
 
+## Oetylus (Q11921115)
+[https://www.wikidata.org/wiki/Q11921115](https://www.wikidata.org/wiki/Q11921115)  
+
+### alignments:
+ - [Oitylos](https://pleiades.stoa.org/places/570527)
+
+
 ## Oeum (Q12882098)
 [https://www.wikidata.org/wiki/Q12882098](https://www.wikidata.org/wiki/Q12882098)  
 
@@ -35227,8 +35297,8 @@
  - [Pauli Stincus](https://pleiades.stoa.org/places/708211558)
 
 
-## Pavlopetri (Q64368385)
-[https://www.wikidata.org/wiki/Q64368385](https://www.wikidata.org/wiki/Q64368385)  
+## Pavlopetri (Q966038)
+[https://www.wikidata.org/wiki/Q966038](https://www.wikidata.org/wiki/Q966038)  
 
 ### alignments:
  - [Pavlopetri](https://pleiades.stoa.org/places/270123726)
@@ -42800,13 +42870,6 @@
  - [Tellena](https://pleiades.stoa.org/places/438850)
 
 
-## Q16612742: Roman temple of  Villa San Silvestro
-[https://www.wikidata.org/wiki/Q16612742](https://www.wikidata.org/wiki/Q16612742)  
-
-### alignments:
- - [Villa S. Silvestro](https://pleiades.stoa.org/places/413384)
-
-
 ## Q16613514: Olizon
 [https://www.wikidata.org/wiki/Q16613514](https://www.wikidata.org/wiki/Q16613514)  
 
@@ -43674,13 +43737,6 @@
 
 ### alignments:
  - [Hattusa](https://pleiades.stoa.org/places/283602441)
-
-
-## Q181109: Acanthus
-[https://www.wikidata.org/wiki/Q181109](https://www.wikidata.org/wiki/Q181109)  
-
-### alignments:
- - [Akanthos](https://pleiades.stoa.org/places/501339)
 
 
 ## Q18202665: Polizzello archaeological site
@@ -56139,6 +56195,13 @@
  - [Roman temple of Vic](https://pleiades.stoa.org/places/383321670)
 
 
+## Roman temple of Villa San Silvestro (Q16612742)
+[https://www.wikidata.org/wiki/Q16612742](https://www.wikidata.org/wiki/Q16612742)  
+
+### alignments:
+ - [Villa S. Silvestro](https://pleiades.stoa.org/places/413384)
+
+
 ## Roman Temple of Évora (Q737441)
 [https://www.wikidata.org/wiki/Q737441](https://www.wikidata.org/wiki/Q737441)  
 
@@ -65599,6 +65662,13 @@
  - [Tragilos](https://pleiades.stoa.org/places/501648)
 
 
+## Tragium (Q16642052)
+[https://www.wikidata.org/wiki/Q16642052](https://www.wikidata.org/wiki/Q16642052)  
+
+### alignments:
+ - [Tragion](https://pleiades.stoa.org/places/573565)
+
+
 ## Tragourion (Q20527315)
 [https://www.wikidata.org/wiki/Q20527315](https://www.wikidata.org/wiki/Q20527315)  
 
@@ -65905,6 +65975,13 @@
 
 ### alignments:
  - [Trimontium](https://pleiades.stoa.org/places/89304)
+
+
+## Trinasus (Q60792067)
+[https://www.wikidata.org/wiki/Q60792067](https://www.wikidata.org/wiki/Q60792067)  
+
+### alignments:
+ - [Trinasos](https://pleiades.stoa.org/places/570753)
 
 
 ## Trinemeia (Q13424346)
