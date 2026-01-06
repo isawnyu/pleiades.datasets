@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10050 alignments exist in _Pleiades_ place references as of 2026-01-05. The following list of alignments is grouped by zotkey.
+10054 alignments exist in _Pleiades_ place references as of 2026-01-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -33946,6 +33946,13 @@
  - [Oppido Lucano](https://pleiades.stoa.org/places/442699)
 
 
+## oppidum Baclanaza (Q137705011)
+[https://www.wikidata.org/wiki/Q137705011](https://www.wikidata.org/wiki/Q137705011)  
+
+### alignments:
+ - [Baclanaza](https://pleiades.stoa.org/places/814662)
+
+
 ## Oppidum d'Altimurium (Q3354357)
 [https://www.wikidata.org/wiki/Q3354357](https://www.wikidata.org/wiki/Q3354357)  
 
@@ -38698,6 +38705,13 @@
 
 ### alignments:
  - [Verulamium](https://pleiades.stoa.org/places/79739)
+
+
+## Q103228
+[https://www.wikidata.org/wiki/Q103228](https://www.wikidata.org/wiki/Q103228)  
+
+### alignments:
+ - [Belora](https://pleiades.stoa.org/places/403187)
 
 
 ## Q103305: Volterra
@@ -67041,6 +67055,13 @@
  - [Usel(l)is](https://pleiades.stoa.org/places/472038)
 
 
+## Ushant (Q16685979)
+[https://www.wikidata.org/wiki/Q16685979](https://www.wikidata.org/wiki/Q16685979)  
+
+### alignments:
+ - [Uxantis (island)](https://pleiades.stoa.org/places/69579)
+
+
 ## Uso River (Q3552694)
 [https://www.wikidata.org/wiki/Q3552694](https://www.wikidata.org/wiki/Q3552694)  
 
@@ -70331,6 +70352,13 @@
 
 ### alignments:
  - [Ebora](https://pleiades.stoa.org/places/256151)
+
+
+## île de Sein (Q228472)
+[https://www.wikidata.org/wiki/Q228472](https://www.wikidata.org/wiki/Q228472)  
+
+### alignments:
+ - [Sena (island)](https://pleiades.stoa.org/places/69569)
 
 
 ## Îles d'Hyères (Q292728)
