@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4837 alignments exist in _Pleiades_ place references as of 2026-01-06. The following list of alignments is grouped by zotkey.
+4839 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14352,6 +14352,13 @@
  - [Diluntum](https://pleiades.stoa.org/places/197247)
 
 
+## GEO ID 29556: Delminium (Tomislavgrad)
+[http://www.trismegistos.org/place/29556](http://www.trismegistos.org/place/29556)  
+
+### alignments:
+ - [Delminium](https://pleiades.stoa.org/places/197244)
+
+
 ## GEO ID 29566: Ad Matricem (Otinovci)
 [https://www.trismegistos.org/place/29566](https://www.trismegistos.org/place/29566)  
 
@@ -14714,6 +14721,13 @@
 
 ### alignments:
  - [Tentyrites Nomos](https://pleiades.stoa.org/places/756656)
+
+
+## GEO ID 2998: Diospolites
+[https://www.trismegistos.org/place/2998](https://www.trismegistos.org/place/2998)  
+
+### alignments:
+ - [Diospolites Nomos](https://pleiades.stoa.org/places/756565)
 
 
 ## GEO ID 2999: Thinites

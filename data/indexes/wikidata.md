@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10054 alignments exist in _Pleiades_ place references as of 2026-01-06. The following list of alignments is grouped by zotkey.
+10057 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8518,11 +8518,25 @@
  - [Pedo(na)](https://pleiades.stoa.org/places/383740)
 
 
+## Borkovany (Q586089)
+[https://www.wikidata.org/wiki/Q586089](https://www.wikidata.org/wiki/Q586089)  
+
+### alignments:
+ - [Borkovany](https://pleiades.stoa.org/places/128366)
+
+
 ## Borkum (Q17075271)
 [https://www.wikidata.org/wiki/Q17075271](https://www.wikidata.org/wiki/Q17075271)  
 
 ### alignments:
  - [Burcana (island)](https://pleiades.stoa.org/places/98930)
+
+
+## Bormio (Q40516)
+[https://www.wikidata.org/wiki/Q40516](https://www.wikidata.org/wiki/Q40516)  
+
+### alignments:
+ - [Aquae Bormiae](https://pleiades.stoa.org/places/187289)
 
 
 ## Borne milliaire de Solaize (Q2911170)
@@ -15417,6 +15431,13 @@
 
 ### alignments:
  - [Rusuccuru](https://pleiades.stoa.org/places/295334)
+
+
+## Delminium (Q1255537)
+[https://www.wikidata.org/wiki/Q1255537](https://www.wikidata.org/wiki/Q1255537)  
+
+### alignments:
+ - [Delminium](https://pleiades.stoa.org/places/197244)
 
 
 ## Delos (Q173148)
@@ -43690,6 +43711,13 @@
  - [Labraunda](https://pleiades.stoa.org/places/599745)
 
 
+## Q1800273
+[https://www.wikidata.org/wiki/Q1800273](https://www.wikidata.org/wiki/Q1800273)  
+
+### alignments:
+ - [Borský Peter](https://pleiades.stoa.org/places/128367)
+
+
 ## Q18008299: Theatre of Carthage
 [https://www.wikidata.org/wiki/Q18008299](https://www.wikidata.org/wiki/Q18008299)  
 
@@ -49477,13 +49505,6 @@
 
 ### alignments:
  - [Mycenaean cemetery at Aidonia](https://pleiades.stoa.org/places/720628459)
-
-
-## Q40516: Bormio
-[https://www.wikidata.org/wiki/Q40516](https://www.wikidata.org/wiki/Q40516)  
-
-### alignments:
- - [Aquae Bormiae](https://pleiades.stoa.org/places/187289)
 
 
 ## Q4115642: Temple of Hibis

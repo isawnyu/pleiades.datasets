@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4774 alignments exist in _Pleiades_ place references as of 2026-01-06. The following list of alignments is grouped by zotkey.
+4775 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8384,6 +8384,13 @@
 
 ### alignments:
  - [Delion](https://pleiades.stoa.org/places/540725)
+
+
+## Delminium, Dalmion (Dalmatia)
+[https://topostext.org/place/436173UDel](https://topostext.org/place/436173UDel)  
+
+### alignments:
+ - [Delminium](https://pleiades.stoa.org/places/197244)
 
 
 ## Delos (Cyclades) 392 Dilos - Δήλος
