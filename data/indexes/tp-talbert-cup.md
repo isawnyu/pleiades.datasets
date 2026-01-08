@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2282 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+2284 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2713,6 +2713,13 @@
  - [Aquae Bormonis?](https://pleiades.stoa.org/places/177443)
 
 
+## 1B4 (Talbert 679)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace679.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace679.html)  
+
+### alignments:
+ - [Alisincum/Aquae Nisincii](https://pleiades.stoa.org/places/181202)
+
+
 ## 1B4 (Talbert 682)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace682.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace682.html)  
 
@@ -2816,6 +2823,13 @@
 
 ### alignments:
  - [Augustodunum](https://pleiades.stoa.org/places/177460)
+
+
+## 1B5 (Talbert 680)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace680.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace680.html)  
+
+### alignments:
+ - [Boxum](https://pleiades.stoa.org/places/181205)
 
 
 ## 1B5 (Talbert 681)

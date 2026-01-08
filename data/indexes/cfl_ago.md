@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-453 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+457 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -212,6 +212,13 @@
  - [Aphidna](https://pleiades.stoa.org/places/579873)
 
 
+## Kardamyli-Δ.Δ.Καρδαμύλης
+[https://chronique.efa.gr/?r=topo_public&id=23279](https://chronique.efa.gr/?r=topo_public&id=23279)  
+
+### alignments:
+ - [Kardamyle (Messenia)](https://pleiades.stoa.org/places/570330)
+
+
 ## Kastelli Hill - Chania - 2022
 [https://chronique.efa.gr/?kroute=report&id=18542](https://chronique.efa.gr/?kroute=report&id=18542)  
 
@@ -224,6 +231,13 @@
 
 ### alignments:
  - [Kisamos](https://pleiades.stoa.org/places/589870)
+
+
+## Kastellorizon-
+[https://chronique.efa.gr/?r=topo_public&id=39688](https://chronique.efa.gr/?r=topo_public&id=39688)  
+
+### alignments:
+ - [Megiste (island)](https://pleiades.stoa.org/places/638989)
 
 
 ## KASTRO KALLITHÉAS - 2013
@@ -247,6 +261,13 @@
  - [Apollo, T.](https://pleiades.stoa.org/places/707481)
 
 
+## Larissa, Larisa-Δ.Δ.Λαρίσης
+[https://chronique.efa.gr/?r=topo_public&id=32839](https://chronique.efa.gr/?r=topo_public&id=32839)  
+
+### alignments:
+ - [Larissa](https://pleiades.stoa.org/places/540905)
+
+
 ## LEONTIO - Plakomenos - 2003
 [https://chronique.efa.gr/?kroute=report&id=3796](https://chronique.efa.gr/?kroute=report&id=3796)  
 
@@ -259,6 +280,13 @@
 
 ### alignments:
  - [Megali Magoula](https://pleiades.stoa.org/places/775133290)
+
+
+## Megisti, Kastellorizon, Castelrosso-Δ.Δ.Μεγίστης
+[https://chronique.efa.gr/?r=topo_public&id=8571](https://chronique.efa.gr/?r=topo_public&id=8571)  
+
+### alignments:
+ - [Megiste (island)](https://pleiades.stoa.org/places/638989)
 
 
 ## NEMEA - 2014

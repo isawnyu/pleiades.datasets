@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-784 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+785 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4818,6 +4818,13 @@
 
 ### alignments:
  - [Araithyrea/Phliasion](https://pleiades.stoa.org/places/573109)
+
+
+## 9718745: Aigion (Achaia)
+[https://resource.manto.unh.edu/9718745](https://resource.manto.unh.edu/9718745)  
+
+### alignments:
+ - [Aigion](https://pleiades.stoa.org/places/570049)
 
 
 ## 9718749: Helice (Achaia)

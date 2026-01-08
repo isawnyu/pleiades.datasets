@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4839 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+4848 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -113,6 +113,13 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
+
+
+## Augusta Traiana (Q11909204)
+[http://www.trismegistos.org/wiki/Q11909204](http://www.trismegistos.org/wiki/Q11909204)  
+
+### alignments:
+ - [Beroe/Augusta Traiana](https://pleiades.stoa.org/places/216731)
 
 
 ## Blestium: 18988
@@ -1956,6 +1963,20 @@
  - [Sarnus (river)](https://pleiades.stoa.org/places/433102)
 
 
+## Geo 47858: Beth Lapat
+[http://www.trismegistos.org/place/47858](http://www.trismegistos.org/place/47858)  
+
+### alignments:
+ - [[Jundishapur]/Veh-Andiyok-Shapur/Beth Lapat/Bendosaboron](https://pleiades.stoa.org/places/912873)
+
+
+## Geo 47882: Hormizd Ardashir (Suq al-Ahwaz)
+[http://www.trismegistos.org/place/47882](http://www.trismegistos.org/place/47882)  
+
+### alignments:
+ - [Hurmizd Ardashir/[Suq al-Ahwaz]](https://pleiades.stoa.org/places/912865)
+
+
 ## Geo 47885: Orontes
 [https://www.trismegistos.org/place/47885](https://www.trismegistos.org/place/47885)  
 
@@ -1975,6 +1996,13 @@
 
 ### alignments:
  - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
+
+
+## Geo 47912: Ram Hormizd
+[http://www.trismegistos.org/place/47912](http://www.trismegistos.org/place/47912)  
+
+### alignments:
+ - [Ram Hurmizd](https://pleiades.stoa.org/places/912926)
 
 
 ## Geo 47913: Shushtar
@@ -11586,11 +11614,25 @@
  - [Themistou Meris](https://pleiades.stoa.org/places/737082)
 
 
+## GEO ID 23670: Deccidae (Decize)
+[https://www.trismegistos.org/place/23670](https://www.trismegistos.org/place/23670)  
+
+### alignments:
+ - [Decetia](https://pleiades.stoa.org/places/138326)
+
+
 ## GEO ID 23675: Matisco (Mâcon)
 [https://www.trismegistos.org/place/23675](https://www.trismegistos.org/place/23675)  
 
 ### alignments:
  - [Matisco](https://pleiades.stoa.org/places/177577)
+
+
+## GEO ID 23689: Alisincum (Saint-Honoré-les-Bains)
+[https://www.trismegistos.org/place/23689](https://www.trismegistos.org/place/23689)  
+
+### alignments:
+ - [Alisincum/Aquae Nisincii](https://pleiades.stoa.org/places/181202)
 
 
 ## GEO ID 23695: Tinurtium (Tournus)
@@ -11633,6 +11675,13 @@
 
 ### alignments:
  - [Noiodounon Diablintum](https://pleiades.stoa.org/places/69539)
+
+
+## GEO ID 23744: Aquae Bormonae (Bourbon-Lancy)
+[https://www.trismegistos.org/place/23744](https://www.trismegistos.org/place/23744)  
+
+### alignments:
+ - [Aquae Bormonis?](https://pleiades.stoa.org/places/177443)
 
 
 ## GEO ID 23756: Brevodorum (Brionne)
@@ -18515,7 +18564,7 @@
 [https://www.trismegistos.org/place/34119](https://www.trismegistos.org/place/34119)  
 
 ### alignments:
- - [Megiste](https://pleiades.stoa.org/places/638988)
+ - [Megiste (settlement)](https://pleiades.stoa.org/places/638988)
 
 
 ## GEO ID 34122: Prepesinthos
@@ -22188,6 +22237,13 @@
  - [Tell Fidain/Appadana?/Neapolis?](https://pleiades.stoa.org/places/894133)
 
 
+## GEO ID 40922: Burbida
+[http://www.trismegistos.org/place/40922](http://www.trismegistos.org/place/40922)  
+
+### alignments:
+ - [Burbida/Bonisana](https://pleiades.stoa.org/places/236388)
+
+
 ## GEO ID 40928: Ad Rubras
 [http://www.trismegistos.org/place/40928](http://www.trismegistos.org/place/40928)  
 
@@ -23628,6 +23684,13 @@
 
 ### alignments:
  - [Noviomagus](https://pleiades.stoa.org/places/109220)
+
+
+## GEO ID 41586: Boxum
+[https://www.trismegistos.org/place/41586](https://www.trismegistos.org/place/41586)  
+
+### alignments:
+ - [Boxum](https://pleiades.stoa.org/places/181205)
 
 
 ## GEO ID 41587: Olcinium (Ulcinj)

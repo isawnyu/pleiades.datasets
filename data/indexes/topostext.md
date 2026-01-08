@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4775 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+4776 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8335,6 +8335,13 @@
 
 ### alignments:
  - [Decastadium?](https://pleiades.stoa.org/places/452320)
+
+
+## Decetia (Gallia) 3 Decize
+[https://topostext.org/place/468035UDec](https://topostext.org/place/468035UDec)  
+
+### alignments:
+ - [Decetia](https://pleiades.stoa.org/places/138326)
 
 
 ## Dedan (Arabia) al Ula
@@ -19575,7 +19582,7 @@
 [https://topostext.org/place/361296UMeg](https://topostext.org/place/361296UMeg)  
 
 ### alignments:
- - [Megiste](https://pleiades.stoa.org/places/638988)
+ - [Megiste (settlement)](https://pleiades.stoa.org/places/638988)
 
 
 ## Meiganitas R. (Achaia) 1 Gaidaropnichtes - Μειγανίτας

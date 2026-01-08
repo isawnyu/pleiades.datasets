@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10057 alignments exist in _Pleiades_ place references as of 2026-01-07. The following list of alignments is grouped by zotkey.
+10070 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5955,6 +5955,13 @@
  - [Augustobriga](https://pleiades.stoa.org/places/256001)
 
 
+## Augustodunum (Q2871714)
+[https://www.wikidata.org/wiki/Q2871714](https://www.wikidata.org/wiki/Q2871714)  
+
+### alignments:
+ - [Augustodunum](https://pleiades.stoa.org/places/177460)
+
+
 ## Augustodurum (Q4055492)
 [https://www.wikidata.org/wiki/Q4055492](https://www.wikidata.org/wiki/Q4055492)  
 
@@ -8490,6 +8497,20 @@
  - [Boothby Roman fort](https://pleiades.stoa.org/places/24547396)
 
 
+## Bora (Q109918550)
+[https://www.wikidata.org/wiki/Q109918550](https://www.wikidata.org/wiki/Q109918550)  
+
+### alignments:
+ - [Bora](https://pleiades.stoa.org/places/265829)
+
+
+## Boradion (Q65046279)
+[https://www.wikidata.org/wiki/Q65046279](https://www.wikidata.org/wiki/Q65046279)  
+
+### alignments:
+ - [Boradion](https://pleiades.stoa.org/places/520976)
+
+
 ## Borbetomagus (Q893354)
 [https://www.wikidata.org/wiki/Q893354](https://www.wikidata.org/wiki/Q893354)  
 
@@ -8518,6 +8539,13 @@
  - [Pedo(na)](https://pleiades.stoa.org/places/383740)
 
 
+## Borissos (Q85748310)
+[https://www.wikidata.org/wiki/Q85748310](https://www.wikidata.org/wiki/Q85748310)  
+
+### alignments:
+ - [Borissos](https://pleiades.stoa.org/places/619127)
+
+
 ## Borkovany (Q586089)
 [https://www.wikidata.org/wiki/Q586089](https://www.wikidata.org/wiki/Q586089)  
 
@@ -8530,6 +8558,13 @@
 
 ### alignments:
  - [Burcana (island)](https://pleiades.stoa.org/places/98930)
+
+
+## Bormanum (Q107143737)
+[https://www.wikidata.org/wiki/Q107143737](https://www.wikidata.org/wiki/Q107143737)  
+
+### alignments:
+ - [Bormanon](https://pleiades.stoa.org/places/203110)
 
 
 ## Bormio (Q40516)
@@ -8670,6 +8705,13 @@
 
 ### alignments:
  - [Bovillae](https://pleiades.stoa.org/places/422852)
+
+
+## Boxum (Q21556428)
+[https://www.wikidata.org/wiki/Q21556428](https://www.wikidata.org/wiki/Q21556428)  
+
+### alignments:
+ - [Boxum](https://pleiades.stoa.org/places/181205)
 
 
 ## Bozdağ (Q31529408)
@@ -9118,6 +9160,13 @@
 
 ### alignments:
  - [Buprasion](https://pleiades.stoa.org/places/573157)
+
+
+## Burajka (Q6743770)
+[https://www.wikidata.org/wiki/Q6743770](https://www.wikidata.org/wiki/Q6743770)  
+
+### alignments:
+ - [Borechath Sabaon](https://pleiades.stoa.org/places/678069)
 
 
 ## Burano (Q52439)
@@ -15333,6 +15382,13 @@
 
 ### alignments:
  - [Decennovium](https://pleiades.stoa.org/places/432812)
+
+
+## Decetia (Q132527666)
+[https://www.wikidata.org/wiki/Q132527666](https://www.wikidata.org/wiki/Q132527666)  
+
+### alignments:
+ - [Decetia](https://pleiades.stoa.org/places/138326)
 
 
 ## Deer Cave (Q3777018)
@@ -33757,6 +33813,13 @@
  - [Voreda](https://pleiades.stoa.org/places/89318)
 
 
+## Old Sana'a (Q12220316)
+[https://www.wikidata.org/wiki/Q12220316](https://www.wikidata.org/wiki/Q12220316)  
+
+### alignments:
+ - [Ṣanʿāʾ](https://pleiades.stoa.org/places/104811110)
+
+
 ## Old Winchester Hill (Q7085420)
 [https://www.wikidata.org/wiki/Q7085420](https://www.wikidata.org/wiki/Q7085420)  
 
@@ -34601,7 +34664,7 @@
 [https://www.wikidata.org/wiki/Q38281486](https://www.wikidata.org/wiki/Q38281486)  
 
 ### alignments:
- - [Megiste](https://pleiades.stoa.org/places/638988)
+ - [Megiste (settlement)](https://pleiades.stoa.org/places/638988)
 
 
 ## Palaiomanina citadel (Q113749734)
@@ -54871,6 +54934,13 @@
  - [Arsia (river)](https://pleiades.stoa.org/places/197142)
 
 
+## Ra’s Tāwīnis (Q27492582)
+[https://www.wikidata.org/wiki/Q27492582](https://www.wikidata.org/wiki/Q27492582)  
+
+### alignments:
+ - [Boreion (promontory)](https://pleiades.stoa.org/places/373760)
+
+
 ## Reciu (Q846243)
 [https://www.wikidata.org/wiki/Q846243](https://www.wikidata.org/wiki/Q846243)  
 
@@ -57350,6 +57420,13 @@
  - [Salamis sea-fight tumulus (Salamis) ](https://pleiades.stoa.org/places/629239338)
 
 
+## Salat Höyüğü (Q6101059)
+[https://www.wikidata.org/wiki/Q6101059](https://www.wikidata.org/wiki/Q6101059)  
+
+### alignments:
+ - [Salat Tepe](https://pleiades.stoa.org/places/899723866)
+
+
 ## Saldae (Q1557873)
 [https://www.wikidata.org/wiki/Q1557873](https://www.wikidata.org/wiki/Q1557873)  
 
@@ -59014,6 +59091,13 @@
 
 ### alignments:
  - [Gabellus/*Secia (river)](https://pleiades.stoa.org/places/383661)
+
+
+## Second Ancient Theatre (Q38282686)
+[https://www.wikidata.org/wiki/Q38282686](https://www.wikidata.org/wiki/Q38282686)  
+
+### alignments:
+ - [Second ancient theater, Larisa](https://pleiades.stoa.org/places/542465599)
 
 
 ## second cataract of the Nile (Q11948049)
@@ -67634,6 +67718,13 @@
 
 ### alignments:
  - [Verlucio](https://pleiades.stoa.org/places/79736)
+
+
+## Vermio Mountains (Q3392962)
+[https://www.wikidata.org/wiki/Q3392962](https://www.wikidata.org/wiki/Q3392962)  
+
+### alignments:
+ - [Bora/Bermion M.](https://pleiades.stoa.org/places/491551)
 
 
 ## Vernemetum (Q54555359)
