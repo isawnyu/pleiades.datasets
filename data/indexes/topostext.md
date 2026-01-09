@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4776 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
+4778 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -561,6 +561,13 @@
 
 ### alignments:
  - [Aegaeum Mare](https://pleiades.stoa.org/places/560221)
+
+
+## Aegialus (Paphlagonia) 15 Karaağaç Limanı
+[https://topostext.org/place/419330UAeg](https://topostext.org/place/419330UAeg)  
+
+### alignments:
+ - [Aigialos](https://pleiades.stoa.org/places/844852)
 
 
 ## Aeminium (Lusitania)
@@ -19205,6 +19212,13 @@
 
 ### alignments:
  - [Maleme](https://pleiades.stoa.org/places/865194824)
+
+
+## Margus (Pannonia) 4 Morava
+[https://topostext.org/place/447210WGre](https://topostext.org/place/447210WGre)  
+
+### alignments:
+ - [Margus (river)](https://pleiades.stoa.org/places/207268)
 
 
 ## Mariana (Corsica)

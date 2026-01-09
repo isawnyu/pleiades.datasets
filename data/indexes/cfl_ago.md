@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-457 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
+458 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3199,6 +3199,13 @@
 
 ### alignments:
  - [Krenides/Philippi/Col. Augusta Iulia Philippensis](https://pleiades.stoa.org/places/501482)
+
+
+## Veroia, Verria-Δ.Δ. Βέροιας
+[https://chronique.efa.gr/?r=topo_public&id=28414](https://chronique.efa.gr/?r=topo_public&id=28414)  
+
+### alignments:
+ - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## VOULIAGMENI - ASTERAS - 2008

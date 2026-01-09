@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4848 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
+4851 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -113,13 +113,6 @@
 
 ### alignments:
  - [Pakerkeesis](https://pleiades.stoa.org/places/789753)
-
-
-## Augusta Traiana (Q11909204)
-[http://www.trismegistos.org/wiki/Q11909204](http://www.trismegistos.org/wiki/Q11909204)  
-
-### alignments:
- - [Beroe/Augusta Traiana](https://pleiades.stoa.org/places/216731)
 
 
 ## Blestium: 18988
@@ -1963,11 +1956,25 @@
  - [Sarnus (river)](https://pleiades.stoa.org/places/433102)
 
 
+## Geo 47857: Beth Huzaye
+[http://www.trismegistos.org/place/47857](http://www.trismegistos.org/place/47857)  
+
+### alignments:
+ - [Bet Huzai](https://pleiades.stoa.org/places/912823)
+
+
 ## Geo 47858: Beth Lapat
 [http://www.trismegistos.org/place/47858](http://www.trismegistos.org/place/47858)  
 
 ### alignments:
  - [[Jundishapur]/Veh-Andiyok-Shapur/Beth Lapat/Bendosaboron](https://pleiades.stoa.org/places/912873)
+
+
+## Geo 47865: Basra
+[http://www.trismegistos.org/place/47865](http://www.trismegistos.org/place/47865)  
+
+### alignments:
+ - [[Basra]](https://pleiades.stoa.org/places/912821)
 
 
 ## Geo 47882: Hormizd Ardashir (Suq al-Ahwaz)
@@ -2010,6 +2017,13 @@
 
 ### alignments:
  - [Sostrate/Shushtar](https://pleiades.stoa.org/places/912941)
+
+
+## Geo 47926: Hirta
+[http://www.trismegistos.org/place/47926](http://www.trismegistos.org/place/47926)  
+
+### alignments:
+ - [[(al-)Hir(t)a]/Ertha?](https://pleiades.stoa.org/places/912800)
 
 
 ## Geo 47984: Arsamosata (Haraba)
@@ -2325,6 +2339,13 @@
 
 ### alignments:
  - [Teumessos](https://pleiades.stoa.org/places/541133)
+
+
+## Geo 635: Elam
+[http://www.trismegistos.org/place/635](http://www.trismegistos.org/place/635)  
+
+### alignments:
+ - [Elam](https://pleiades.stoa.org/places/912842)
 
 
 ## Geo 64437: Hypanis (Kuban)
@@ -3412,6 +3433,13 @@
 
 ### alignments:
  - [Cyzicus](https://pleiades.stoa.org/places/511218)
+
+
+## Geo ID 12096: Beroia
+[http://www.trismegistos.org/place/12096](http://www.trismegistos.org/place/12096)  
+
+### alignments:
+ - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## GEO ID 12097: Potidaia (Kassandra)
@@ -33353,13 +33381,6 @@
 
 ### alignments:
  - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
-
-
-## Geo ID, 12096
-[http://www.trismegistos.org/place/12096](http://www.trismegistos.org/place/12096)  
-
-### alignments:
- - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## GEO ID, 12153: Herakleia Lynkestis (Bitola)

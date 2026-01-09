@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-785 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
+787 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2557,6 +2557,13 @@
  - [Myrina/Sebastopolis](https://pleiades.stoa.org/places/550756)
 
 
+## 11300931: Mytilene (Lesbos)
+[https://resource.manto.unh.edu/11300931](https://resource.manto.unh.edu/11300931)  
+
+### alignments:
+ - [Mytilene](https://pleiades.stoa.org/places/550763)
+
+
 ## 11301261: Nineveh (Mesopotamia)
 [https://resource.manto.unh.edu/11301261](https://resource.manto.unh.edu/11301261)  
 
@@ -3936,6 +3943,13 @@
 
 ### alignments:
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
+
+
+## 8254008: the Hellespont
+[https://resource.manto.unh.edu/8254008](https://resource.manto.unh.edu/8254008)  
+
+### alignments:
+ - [Hellespont (strait)](https://pleiades.stoa.org/places/501434)
 
 
 ## 8254009: River Strymon (Thrace)

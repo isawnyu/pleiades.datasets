@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10070 alignments exist in _Pleiades_ place references as of 2026-01-08. The following list of alignments is grouped by zotkey.
+10075 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3434,6 +3434,13 @@
  - [Anticaria](https://pleiades.stoa.org/places/265799)
 
 
+## Antequera Dolmens Site (Q97633694)
+[https://www.wikidata.org/wiki/Q97633694](https://www.wikidata.org/wiki/Q97633694)  
+
+### alignments:
+ - [Dólmenes de Antequera](https://pleiades.stoa.org/places/983306644)
+
+
 ## Anthana (Q60791451)
 [https://www.wikidata.org/wiki/Q60791451](https://www.wikidata.org/wiki/Q60791451)  
 
@@ -5906,6 +5913,13 @@
  - [Augusta Taurinorum](https://pleiades.stoa.org/places/383580)
 
 
+## Augusta Traiana (Q11909204)
+[https://www.wikidata.org/wiki/Q11909204](https://www.wikidata.org/wiki/Q11909204)  
+
+### alignments:
+ - [Beroe/Augusta Traiana](https://pleiades.stoa.org/places/216731)
+
+
 ## Augusta Tricastrinorum (Q133539340)
 [https://www.wikidata.org/wiki/Q133539340](https://www.wikidata.org/wiki/Q133539340)  
 
@@ -7620,6 +7634,13 @@
 
 ### alignments:
  - [Bergion](https://pleiades.stoa.org/places/123074)
+
+
+## Berroea (Q15712213)
+[https://www.wikidata.org/wiki/Q15712213](https://www.wikidata.org/wiki/Q15712213)  
+
+### alignments:
+ - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## Bertha (Q4895462)
@@ -13528,6 +13549,13 @@
  - [Lacippo](https://pleiades.stoa.org/places/256252)
 
 
+## Ciudad romana de Singilia Barba (Q6129295)
+[https://www.wikidata.org/wiki/Q6129295](https://www.wikidata.org/wiki/Q6129295)  
+
+### alignments:
+ - [Singili(a) Barba](https://pleiades.stoa.org/places/256453)
+
+
 ## Cius (Q377863)
 [https://www.wikidata.org/wiki/Q377863](https://www.wikidata.org/wiki/Q377863)  
 
@@ -14577,6 +14605,13 @@
 
 ### alignments:
  - [Kreusis](https://pleiades.stoa.org/places/540888)
+
+
+## Crimean Peninsula (Q7835)
+[https://www.wikidata.org/wiki/Q7835](https://www.wikidata.org/wiki/Q7835)  
+
+### alignments:
+ - [Taurike Chersonesos](https://pleiades.stoa.org/places/226778)
 
 
 ## Crinivolum (Q124156614)
@@ -20129,6 +20164,13 @@
 
 ### alignments:
  - [Great Colonnade at Palmyra](https://pleiades.stoa.org/places/867812308)
+
+
+## Great Morava (Q211328)
+[https://www.wikidata.org/wiki/Q211328](https://www.wikidata.org/wiki/Q211328)  
+
+### alignments:
+ - [Margus (river)](https://pleiades.stoa.org/places/207268)
 
 
 ## Great Orme (Q3395318)
@@ -45063,13 +45105,6 @@
  - [Temple of Nabu at Palmyra](https://pleiades.stoa.org/places/267069707)
 
 
-## Q211328: Great Morava
-[https://www.wikidata.org/wiki/Q211328](https://www.wikidata.org/wiki/Q211328)  
-
-### alignments:
- - [Margus (river)](https://pleiades.stoa.org/places/207268)
-
-
 ## Q21143291: Marivan Castle
 [https://www.wikidata.org/wiki/Q21143291](https://www.wikidata.org/wiki/Q21143291)  
 
@@ -51840,13 +51875,6 @@
  - [Anubieion at Saqqarah](https://pleiades.stoa.org/places/892575223)
 
 
-## Q6129295: Ciudad romana de Singilia Barba
-[https://www.wikidata.org/wiki/Q6129295](https://www.wikidata.org/wiki/Q6129295)  
-
-### alignments:
- - [Singili(a) Barba](https://pleiades.stoa.org/places/256453)
-
-
 ## Q6141053: Temple of Trajan at Italica
 [https://www.wikidata.org/wiki/Q6141053](https://www.wikidata.org/wiki/Q6141053)  
 
@@ -53287,13 +53315,6 @@
 
 ### alignments:
  - [Temple of Athena (Miletus)](https://pleiades.stoa.org/places/185031048)
-
-
-## Q7835: Crimean Peninsula
-[https://www.wikidata.org/wiki/Q7835](https://www.wikidata.org/wiki/Q7835)  
-
-### alignments:
- - [Taurike Chersonesos](https://pleiades.stoa.org/places/226778)
 
 
 ## Q7856267: Turris Mamilia
@@ -60416,6 +60437,13 @@
 
 ### alignments:
  - [Onochonos (river)](https://pleiades.stoa.org/places/540985)
+
+
+## Sofia (Q472)
+[https://www.wikidata.org/wiki/Q472](https://www.wikidata.org/wiki/Q472)  
+
+### alignments:
+ - [Serdica](https://pleiades.stoa.org/places/207439)
 
 
 ## Solarium Augusti (Q1233638)
@@ -67711,6 +67739,13 @@
 
 ### alignments:
  - [Villa del Vergigno, Montelupo Fiorentino](https://pleiades.stoa.org/places/584868518)
+
+
+## Veria (Q201722)
+[https://www.wikidata.org/wiki/Q201722](https://www.wikidata.org/wiki/Q201722)  
+
+### alignments:
+ - [Ber(r)oia](https://pleiades.stoa.org/places/491546)
 
 
 ## Verlucio (Q19740299)
