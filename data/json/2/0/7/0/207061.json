@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/226577",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:59:19Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "reference",
+                    "modified": "2026-01-10T15:56:34Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:59:19Z",
@@ -46,10 +58,22 @@
             ],
             "id": "226577",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://de.wikisource.org/wiki/RE:Cusum",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+                    "citationDetail": "Cusum (Carl Patsch)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894. https://de.wikisource.org/wiki/Paulys_Realencyclop%C3%A4die_der_classischen_Altertumswissenschaft.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "RE",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
-            "title": "Danuvius/Istros/Hister fl.",
+            "title": "Danuvius/Istros/Hister (river)",
             "uri": "https://pleiades.stoa.org/places/207061/226577"
         }
     ],
@@ -97,8 +121,8 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 21 B4 Cusum",
-    "details": "The Barrington Atlas Directory notes: Petrovaradin YUG",
+    "description": "A station located along the course of the Danube River in Lower Pannonia between Acumincum (Stari Slankamen) and Malata-Bononia.",
+    "details": "<p>The Barrington Atlas Directory notes: Petrovaradin YUG</p>",
     "features": [
         {
             "geometry": {
@@ -138,6 +162,26 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary",
+            "modified": "2026-01-10T15:55:54Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update Place type to remove deprecated BAtlas legacy type - retain 'fort', add 'station' based on RE entry.",
+            "modified": "2026-01-10T15:54:27Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "RE Cusum (Carl Patsch)",
+            "modified": "2026-01-10T15:53:26Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2026-01-10T15:51:10Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added connection",
             "modified": "2013-07-04T17:25:59Z",
@@ -482,9 +526,13 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
+        "station",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 21 B4 Cusum",
@@ -503,24 +551,101 @@
         {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Aquincum-51",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U8NJVRER",
+            "citationDetail": "51",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Aquincum 51",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Aquincum - Sarmizegetusa - Sirmium</i>. Tabula Imperii Romani L34. Budapest, Hungary: Cartographia Budapest; Magyar Tudományos Akadémia: Archaeologiai Bizottság, 1968.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Aquincum",
             "type": "seeFurther"
         },
         {
             "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1642.html",
             "alternateURI": "",
-            "bibliographicURI": "",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "5A3 (Talbert 1642)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
-            "formattedCitation": "TP 5A3 (Talbert 1642)",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "",
+            "shortTitle": "TP (Talbert: CUP)",
             "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "242,3 Cusi",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItAnt (Cuntz)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "435",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q19429",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Petrovaradin (Q19429)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://edh.ub.uni-heidelberg.de/edh/geographie/G027902",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PY3AZV8F",
+            "citationDetail": "Geographic Database G027902: Cusum – Novi Sad (Novi Hop, Kirche der Fratres Minores, sekundär verwendet)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Alföldy, Géza, and Christian Witschel, eds. <i>Epigraphic Database Heidelberg</i>. Heidelberg: Heidelberg Academy of Sciences and Humanities, 1997. http://edh-www.adw.uni-heidelberg.de/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "EDH",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=702",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "702: Cusum",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online. Accessed June 4, 2025. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/29292",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 29292: Cusum (Petrovaradin)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://de.wikisource.org/wiki/RE:Cusum",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Cusum (Carl Patsch)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894. https://de.wikisource.org/wiki/Paulys_Realencyclop%C3%A4die_der_classischen_Altertumswissenschaft.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
