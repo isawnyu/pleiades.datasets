@@ -65,7 +65,9 @@ git push origin main
         set -x
         $VIRTUAL_ENV/bin/python $PD_HOME/scripts/update_gis.py
         git add data/gis
+        set +e
         git commit -m 'updated gis package'
+        set -e
         git push origin main
         rm $HOME/scratch/pleiades_gis_data.zip
         zip $HOME/scratch/pleiades_gis_data.zip ./data/gis/*.csv ./data/gis/README.md ./data/gis/index.html
