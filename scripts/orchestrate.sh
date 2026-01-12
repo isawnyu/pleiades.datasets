@@ -2,12 +2,15 @@
 #
 # orchestrate.sh
 # manage the entire daily pleiades.datasets generation routine, including error handling
-set -x
-set -e 
-set -o pipefail
-set -u
+
+# set/unset shell attributes
+set -x # Print a trace of simple commands
+set -e # Exit immediately if a pipeline returns a non-zero status
+set -o pipefail # The return value of a pipeline is the value of the last (rightmost) command to exit with a non-zero status, or zero if all commands in the pipeline exit successfully
 
 # download and archive exports
+
+
 # check integrity of downloaded json (prerequisite for following steps)
 
 # FORK 1 STARTS HERE
