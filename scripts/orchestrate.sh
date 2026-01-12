@@ -35,6 +35,28 @@ printf "\n\nChecking integrity of downloaded data (have there been retractions?)
 set -x
 $VIRTUAL_ENV/bin/python $PD_HOME/scripts/check_integrity.py
 
+# commit updated json to git and pushing to github
+set +x
+printf "\n\nAdding and committing new/changed JSON to git\n=====================================================\n"
+set -x
+git add data/json
+set +e
+git commit -m 'updated json'
+set -e
+git push origin main
+
+# download and archive rdf/ttl
+set +x
+printf "\n\nDownloading RDF/TTL and commiting to git and pushing to github\n=====================================================\n"
+set -x
+bash ./scripts/get_ttl.sh
+git add data/rdf
+set +e
+git commit -m 'updated rdf/ttl'
+set -e
+git push origin main
+
+
 # FORK 1 STARTS HERE
     # BRANCH 1.A 
         # generate and archive GIS package
