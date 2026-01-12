@@ -47,7 +47,7 @@ git push origin main
 
 # download and archive rdf/ttl
 set +x
-printf "\n\nDownloading RDF/TTL and commiting to git and pushing to github\n=====================================================\n"
+printf "\n\nDownloading RDF/TTL and committing to git and pushing to github\n=====================================================\n"
 set -x
 bash ./scripts/get_ttl.sh
 git add data/rdf
@@ -60,6 +60,18 @@ git push origin main
 # FORK 1 STARTS HERE
     # BRANCH 1.A 
         # generate and archive GIS package
+        set +x
+        printf "\n\Generating GIS package, committing to git, pushing to github, and syncing a zipped copy to the Pleiades server\n=====================================================\n"
+        set -x
+        $VIRTUAL_ENV/bin/python $PD_HOME/scripts/update_gis.py
+        git add data/gis
+        git commit -m 'updated gis package'
+        git push origin main
+        rm $HOME/scratch/pleiades_gis_data.zip
+        zip $HOME/scratch/pleiades_gis_data.zip ./data/gis/*.csv ./data/gis/README.md ./data/gis/index.html
+        rsync --rsync-path="sudo rsync" --compress --progress --update --times --perms --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=rw,Fo=r --owner --group --chown=www-data:plone_group --partial-dir=.rsync_partial $HOME/scratch/pleiades_gis_data.zip isaw1:/var/www/atlantides.org/downloads/pleiades/gis/
+        rsync --rsync-path="sudo rsync" --compress --progress --update --times --perms --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=rw,Fo=r --owner --group --chown=www-data:plone_group --partial-dir=.rsync_partial $PD_HOME/data/gis/index.html isaw1:/var/www/atlantides.org/downloads/pleiades/gis/
+        
     # BRANCH 1.B
         # update datasetter pleiades json (alternate local disk representation for some scripts that follow)
     # BRANCH 1.C
