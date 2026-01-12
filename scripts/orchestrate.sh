@@ -71,9 +71,19 @@ git push origin main
         zip $HOME/scratch/pleiades_gis_data.zip ./data/gis/*.csv ./data/gis/README.md ./data/gis/index.html
         rsync --rsync-path="sudo rsync" --compress --progress --update --times --perms --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=rw,Fo=r --owner --group --chown=www-data:plone_group --partial-dir=.rsync_partial $HOME/scratch/pleiades_gis_data.zip isaw1:/var/www/atlantides.org/downloads/pleiades/gis/
         rsync --rsync-path="sudo rsync" --compress --progress --update --times --perms --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=rw,Fo=r --owner --group --chown=www-data:plone_group --partial-dir=.rsync_partial $PD_HOME/data/gis/index.html isaw1:/var/www/atlantides.org/downloads/pleiades/gis/
-        
+
     # BRANCH 1.B
         # update datasetter pleiades json (alternate local disk representation for some scripts that follow)
+        set +x
+        printf "\n\Updating the datasetter pleiades JSON\n=====================================================\n"
+        set -x
+        cd ../../D/datasetter
+        set +x
+        echo "PD_HOME: $PD_HOME"
+        echo "VIRTUAL_ENV: $VIRTUAL_ENV"
+        set -x
+
+
     # BRANCH 1.C
         # fetch latest Wikidata dump
     # BRANCH 1.D
