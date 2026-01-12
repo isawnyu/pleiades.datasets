@@ -18,6 +18,7 @@ echo "PD_HOME: $PD_HOME"
 echo "VIRTUAL_ENV: $VIRTUAL_ENV"
 
 # ensure clean and up-to-date git working copy
+printf "\n\nEnsuring git working copy is up-to-date and does not have unsaved changes\n=====================================================\n"
 set -x
 git checkout main
 git pull origin main
