@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4778 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
+4787 alignments exist in _Pleiades_ place references as of 2026-01-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -458,6 +458,13 @@
  - [Actium Victory Monument](https://pleiades.stoa.org/places/495850428)
 
 
+## Acumincum (Pannonia) 5 Stari Slankamen - Ακούμινκον
+[https://topostext.org/place/451202UAcu](https://topostext.org/place/451202UAcu)  
+
+### alignments:
+ - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
 ## Ad Ansam (Britannia)
 [https://topostext.org/place/520010UAdA](https://topostext.org/place/520010UAdA)  
 
@@ -575,6 +582,13 @@
 
 ### alignments:
  - [Aeminium](https://pleiades.stoa.org/places/236321)
+
+
+## Aenona (Dalmatia)
+[https://topostext.org/place/442152UAen](https://topostext.org/place/442152UAen)  
+
+### alignments:
+ - [Aenona](https://pleiades.stoa.org/places/197094)
 
 
 ## Aequi (Italia)
@@ -1746,6 +1760,13 @@
 
 ### alignments:
  - [Alexandria ad Issum](https://pleiades.stoa.org/places/658371)
+
+
+## Alexandria Prophthasia (Bactria)
+[https://topostext.org/place/316618UAle](https://topostext.org/place/316618UAle)  
+
+### alignments:
+ - [Phra(da)/Prophthasia/Frakh-kar-Peroz](https://pleiades.stoa.org/places/29718)
 
 
 ## Alexandria Troas (Troad)
@@ -6530,6 +6551,13 @@
  - [Caenina](https://pleiades.stoa.org/places/438703)
 
 
+## Caesar Augusta (Iberia)
+[https://topostext.org/place/416000UCAu](https://topostext.org/place/416000UCAu)  
+
+### alignments:
+ - [Col. Caesaraugusta](https://pleiades.stoa.org/places/246344)
+
+
 ## Caesarea (Israel)
 [https://topostext.org/place/325349UCae](https://topostext.org/place/325349UCae)  
 
@@ -9076,6 +9104,13 @@
  - [Doriskos](https://pleiades.stoa.org/places/501402)
 
 
+## Dorylaion (Phrygia)
+[https://topostext.org/place/398305UDor](https://topostext.org/place/398305UDor)  
+
+### alignments:
+ - [Dorylaion](https://pleiades.stoa.org/places/609367)
+
+
 ## Dostoneoi (Paionia)  Dunje - Δοστινίκα
 [https://topostext.org/place/413217UDos](https://topostext.org/place/413217UDos)  
 
@@ -9144,6 +9179,13 @@
 
 ### alignments:
  - [Tomb of Themistocles](https://pleiades.stoa.org/places/598581244)
+
+
+## Draus, Drava river (Pannonia)
+[https://topostext.org/place/463157WDra](https://topostext.org/place/463157WDra)  
+
+### alignments:
+ - [Dravus (river)](https://pleiades.stoa.org/places/197253)
 
 
 ## Drekanon promontory cape (Kos) 3 Chones
@@ -9237,6 +9279,13 @@
  - [Drymos (Attica)](https://pleiades.stoa.org/places/585903)
 
 
+## Drymousa (Asia Minor)
+[https://topostext.org/place/385267IDry](https://topostext.org/place/385267IDry)  
+
+### alignments:
+ - [Drymousa (island)](https://pleiades.stoa.org/places/550521)
+
+
 ## Dryopes tribe (Euboea)
 [https://topostext.org/place/383243RDry](https://topostext.org/place/383243RDry)  
 
@@ -9284,6 +9333,13 @@
 
 ### alignments:
  - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
+
+
+## Durius river (Lusitania)
+[https://topostext.org/place/411-86WDur](https://topostext.org/place/411-86WDur)  
+
+### alignments:
+ - [Durius (river)](https://pleiades.stoa.org/places/236455)
 
 
 ## Durnovaria/Durotriges (Britannia)
@@ -13372,6 +13428,13 @@
 
 ### alignments:
  - [*Iaza](https://pleiades.stoa.org/places/609412)
+
+
+## Iber River (Iberia)
+[https://topostext.org/place/407006WEbr](https://topostext.org/place/407006WEbr)  
+
+### alignments:
+ - [(H)Iberus (river)](https://pleiades.stoa.org/places/246418)
 
 
 ## Iberia/Hispania (Iberia)

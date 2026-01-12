@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2284 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
+2287 alignments exist in _Pleiades_ place references as of 2026-01-12. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2515,6 +2515,13 @@
 
 ### alignments:
  - [Liger (river)](https://pleiades.stoa.org/places/138420)
+
+
+## 1B3 (Talbert 2860)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2860.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2860.html)  
+
+### alignments:
+ - [Gallia](https://pleiades.stoa.org/places/993)
 
 
 ## 1B3 (Talbert 649)
@@ -8299,6 +8306,20 @@
 
 ### alignments:
  - [Dalmatia (region)](https://pleiades.stoa.org/places/197240)
+
+
+## 5A3 (Talbert 1641)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1641.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1641.html)  
+
+### alignments:
+ - [Malata](https://pleiades.stoa.org/places/207261)
+
+
+## 5A3 (Talbert 1642)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1642.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1642.html)  
+
+### alignments:
+ - [Cusum](https://pleiades.stoa.org/places/207061)
 
 
 ## 5A3 (Talbert 1643)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10075 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
+10088 alignments exist in _Pleiades_ place references as of 2026-01-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1004,6 +1004,13 @@
  - [Aineia](https://pleiades.stoa.org/places/491513)
 
 
+## Aenona (Q65157805)
+[https://www.wikidata.org/wiki/Q65157805](https://www.wikidata.org/wiki/Q65157805)  
+
+### alignments:
+ - [Aenona](https://pleiades.stoa.org/places/197094)
+
+
 ## Aeolian Islands (Q179883)
 [https://www.wikidata.org/wiki/Q179883](https://www.wikidata.org/wiki/Q179883)  
 
@@ -1661,6 +1668,13 @@
 
 ### alignments:
  - [Asabon (mountain)](https://pleiades.stoa.org/places/932433)
+
+
+## Al-Hirah (Q310799)
+[https://www.wikidata.org/wiki/Q310799](https://www.wikidata.org/wiki/Q310799)  
+
+### alignments:
+ - [[(al-)Hir(t)a]/Ertha?](https://pleiades.stoa.org/places/912800)
 
 
 ## al-Karmil (Q4702667)
@@ -9670,6 +9684,13 @@
  - [Caesar's Camp, Bracknell Forest](https://pleiades.stoa.org/places/211426527)
 
 
+## Caesaraugusta (Q2932882)
+[https://www.wikidata.org/wiki/Q2932882](https://www.wikidata.org/wiki/Q2932882)  
+
+### alignments:
+ - [Col. Caesaraugusta](https://pleiades.stoa.org/places/246344)
+
+
 ## Caesareum at Cyrene (Q82073818)
 [https://www.wikidata.org/wiki/Q82073818](https://www.wikidata.org/wiki/Q82073818)  
 
@@ -14312,6 +14333,13 @@
  - [Pedum?](https://pleiades.stoa.org/places/422997)
 
 
+## Cordillera Penibética (Q2504871)
+[https://www.wikidata.org/wiki/Q2504871](https://www.wikidata.org/wiki/Q2504871)  
+
+### alignments:
+ - [Orospeda (mountain)](https://pleiades.stoa.org/places/265992)
+
+
 ## Cordonovi (Q136198651)
 [https://www.wikidata.org/wiki/Q136198651](https://www.wikidata.org/wiki/Q136198651)  
 
@@ -15342,6 +15370,13 @@
  - [Dareioukome](https://pleiades.stoa.org/places/550511)
 
 
+## Darenth Roman villa (Q119781925)
+[http://www.wikidata.org/entity/Q119781925](http://www.wikidata.org/entity/Q119781925)  
+
+### alignments:
+ - [Darenth](https://pleiades.stoa.org/places/79413)
+
+
 ## Darsah (Q942422)
 [https://www.wikidata.org/wiki/Q942422](https://www.wikidata.org/wiki/Q942422)  
 
@@ -16311,6 +16346,13 @@
  - [Doris](https://pleiades.stoa.org/places/540740)
 
 
+## Doriskos (Q1169725)
+[https://www.wikidata.org/wiki/Q1169725](https://www.wikidata.org/wiki/Q1169725)  
+
+### alignments:
+ - [Doriskos](https://pleiades.stoa.org/places/501402)
+
+
 ## Dothan (Q2916407)
 [https://www.wikidata.org/wiki/Q2916407](https://www.wikidata.org/wiki/Q2916407)  
 
@@ -16337,6 +16379,13 @@
 
 ### alignments:
  - [Doune](https://pleiades.stoa.org/places/745417441)
+
+
+## Douro (Q14299)
+[https://www.wikidata.org/wiki/Q14299](https://www.wikidata.org/wiki/Q14299)  
+
+### alignments:
+ - [Durius (river)](https://pleiades.stoa.org/places/236455)
 
 
 ## Dover Castle (Q950970)
@@ -16381,6 +16430,13 @@
  - [Drakanon](https://pleiades.stoa.org/places/599598)
 
 
+## Drangiana Satrapy (Q1074810)
+[https://www.wikidata.org/wiki/Q1074810](https://www.wikidata.org/wiki/Q1074810)  
+
+### alignments:
+ - [Drangiane/Zarangiane (region)](https://pleiades.stoa.org/places/29547)
+
+
 ## Drapanokefala (Q25081507)
 [https://www.wikidata.org/wiki/Q25081507](https://www.wikidata.org/wiki/Q25081507)  
 
@@ -16421,6 +16477,13 @@
 
 ### alignments:
  - [Grimde](https://pleiades.stoa.org/places/968039984)
+
+
+## Drina (Q186901)
+[https://www.wikidata.org/wiki/Q186901](https://www.wikidata.org/wiki/Q186901)  
+
+### alignments:
+ - [Dreinos (river)](https://pleiades.stoa.org/places/207097)
 
 
 ## Drnovo (Samian Ware Discovery Site) (Q103160858)
@@ -16696,6 +16759,13 @@
  - [Dushanbe](https://pleiades.stoa.org/places/971748)
 
 
+## Dyme (Q1231662)
+[https://www.wikidata.org/wiki/Q1231662](https://www.wikidata.org/wiki/Q1231662)  
+
+### alignments:
+ - [Dyme](https://pleiades.stoa.org/places/570205)
+
+
 ## Dysoron (Q19779804)
 [https://www.wikidata.org/wiki/Q19779804](https://www.wikidata.org/wiki/Q19779804)  
 
@@ -16778,6 +16848,13 @@
 
 ### alignments:
  - [Eburacum](https://pleiades.stoa.org/places/89175)
+
+
+## Ebro (Q10965)
+[https://www.wikidata.org/wiki/Q10965](https://www.wikidata.org/wiki/Q10965)  
+
+### alignments:
+ - [(H)Iberus (river)](https://pleiades.stoa.org/places/246418)
 
 
 ## Eburovices (Q959306)
@@ -20808,6 +20885,13 @@
 
 ### alignments:
  - [Hadrumetum/Iustinianopolis](https://pleiades.stoa.org/places/324716)
+
+
+## Haemoniae (Q39081796)
+[https://www.wikidata.org/wiki/Q39081796](https://www.wikidata.org/wiki/Q39081796)  
+
+### alignments:
+ - [(H)Aimoniai](https://pleiades.stoa.org/places/570271)
 
 
 ## Haemus Mons (Q4897067)
@@ -35885,6 +35969,13 @@
  - [Petronell](https://pleiades.stoa.org/places/128488)
 
 
+## Petrovaradin (Q19429)
+[https://www.wikidata.org/wiki/Q19429](https://www.wikidata.org/wiki/Q19429)  
+
+### alignments:
+ - [Cusum](https://pleiades.stoa.org/places/207061)
+
+
 ## Petrozetoi (Q65046416)
 [https://www.wikidata.org/wiki/Q65046416](https://www.wikidata.org/wiki/Q65046416)  
 
@@ -40401,13 +40492,6 @@
 
 ### alignments:
  - [Suana](https://pleiades.stoa.org/places/413323)
-
-
-## Q1231662: Dyme
-[https://www.wikidata.org/wiki/Q1231662](https://www.wikidata.org/wiki/Q1231662)  
-
-### alignments:
- - [Dyme](https://pleiades.stoa.org/places/570205)
 
 
 ## Q1232467: Lacus Curtius
@@ -57460,6 +57544,13 @@
 
 ### alignments:
  - [Salduba/Saltum](https://pleiades.stoa.org/places/256416)
+
+
+## Salduie (Q3469665)
+[https://www.wikidata.org/wiki/Q3469665](https://www.wikidata.org/wiki/Q3469665)  
+
+### alignments:
+ - [Salduie/‘Salduba’](https://pleiades.stoa.org/places/246607)
 
 
 ## Salerno (Q1083)

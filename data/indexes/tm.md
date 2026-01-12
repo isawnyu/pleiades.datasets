@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4851 alignments exist in _Pleiades_ place references as of 2026-01-09. The following list of alignments is grouped by zotkey.
+4859 alignments exist in _Pleiades_ place references as of 2026-01-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -50,6 +50,13 @@
 
 ### alignments:
  - [Side](https://pleiades.stoa.org/places/639105)
+
+
+## 24534
+[http://www.trismegistos.org/geo/24534](http://www.trismegistos.org/geo/24534)  
+
+### alignments:
+ - [Carvium](https://pleiades.stoa.org/places/98932)
 
 
 ## 247674 = CIL I(2).2.4= CIL I(2) 2, 4 3339 (1986)
@@ -860,13 +867,6 @@
 
 ### alignments:
  - [Plinthine](https://pleiades.stoa.org/places/727205)
-
-
-## Geo 286: Arcadia
-[https://www.trismegistos.org/place/286](https://www.trismegistos.org/place/286)  
-
-### alignments:
- - [Arcadia](https://pleiades.stoa.org/places/570102)
 
 
 ## Geo 29349: Epidaurum (Cavtat)
@@ -2017,13 +2017,6 @@
 
 ### alignments:
  - [Sostrate/Shushtar](https://pleiades.stoa.org/places/912941)
-
-
-## Geo 47926: Hirta
-[http://www.trismegistos.org/place/47926](http://www.trismegistos.org/place/47926)  
-
-### alignments:
- - [[(al-)Hir(t)a]/Ertha?](https://pleiades.stoa.org/places/912800)
 
 
 ## Geo 47984: Arsamosata (Haraba)
@@ -14009,6 +14002,13 @@
  - [Ophis?](https://pleiades.stoa.org/places/736981)
 
 
+## GEO ID 286: Arcadia
+[https://www.trismegistos.org/place/286](https://www.trismegistos.org/place/286)  
+
+### alignments:
+ - [Arcadia](https://pleiades.stoa.org/places/570102)
+
+
 ## GEO ID 2871: Paneuei
 [http://www.trismegistos.org/place/2871](http://www.trismegistos.org/place/2871)  
 
@@ -14226,11 +14226,25 @@
  - [Alta Ripa](https://pleiades.stoa.org/places/197109)
 
 
+## GEO ID 29279: Bononia (Banoštor)
+[https://www.trismegistos.org/place/29279](https://www.trismegistos.org/place/29279)  
+
+### alignments:
+ - [Malata](https://pleiades.stoa.org/places/207261)
+
+
 ## GEO ID 29281: Acumincum (Stari Slankamen)
 [https://www.trismegistos.org/place/29281](https://www.trismegistos.org/place/29281)  
 
 ### alignments:
  - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
+## GEO ID 29292: Cusum (Petrovaradin)
+[https://www.trismegistos.org/place/29292](https://www.trismegistos.org/place/29292)  
+
+### alignments:
+ - [Cusum](https://pleiades.stoa.org/places/207061)
 
 
 ## GEO ID 29294: Singidunum (Beograd)
@@ -18399,6 +18413,13 @@
  - [Bylazora](https://pleiades.stoa.org/places/491557)
 
 
+## GEO ID 3370: Caesaraugusta (Zaragoza)
+[https://www.trismegistos.org/place/3370](https://www.trismegistos.org/place/3370)  
+
+### alignments:
+ - [Col. Caesaraugusta](https://pleiades.stoa.org/places/246344)
+
+
 ## GEO ID 3371: Tarraco (Tarragona)
 [http://www.trismegistos.org/place/3371](http://www.trismegistos.org/place/3371)  
 
@@ -20939,6 +20960,13 @@
 
 ### alignments:
  - [Graias Gonu](https://pleiades.stoa.org/places/716568)
+
+
+## GEO ID 4008
+[http://www.trismegistos.org/place/4008](http://www.trismegistos.org/place/4008)  
+
+### alignments:
+ - [Dumana](https://pleiades.stoa.org/places/805607)
 
 
 ## GEO ID 40224: Tuniza (La Calle)
@@ -26935,6 +26963,13 @@
  - [Forum Holitorium](https://pleiades.stoa.org/places/72845305)
 
 
+## GEO ID 42935: Hiberus (Ebro)
+[https://www.trismegistos.org/place/42935](https://www.trismegistos.org/place/42935)  
+
+### alignments:
+ - [(H)Iberus (river)](https://pleiades.stoa.org/places/246418)
+
+
 ## GEO ID 42937: Ortopla (Stinica)
 [http://www.trismegistos.org/place/42937](http://www.trismegistos.org/place/42937)  
 
@@ -29275,6 +29310,13 @@
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
 
 
+## Geo ID 47926: Hirta
+[http://www.trismegistos.org/place/47926](http://www.trismegistos.org/place/47926)  
+
+### alignments:
+ - [[(al-)Hir(t)a]/Ertha?](https://pleiades.stoa.org/places/912800)
+
+
 ## GEO ID 47927: Tur Abdin
 [http://www.trismegistos.org/place/47927](http://www.trismegistos.org/place/47927)  
 
@@ -29813,6 +29855,13 @@
 
 ### alignments:
  - [Via Sublacensis](https://pleiades.stoa.org/places/188535571)
+
+
+## GEO ID 50482: Durius (Douro)
+[https://www.trismegistos.org/place/50482](https://www.trismegistos.org/place/50482)  
+
+### alignments:
+ - [Durius (river)](https://pleiades.stoa.org/places/236455)
 
 
 ## GEO ID 5062: Smaragdos (Gebel Zabara)
@@ -33348,11 +33397,18 @@
  - [Alabanthis](https://pleiades.stoa.org/places/741415)
 
 
-## GEO ID 993
+## GEO ID 993: Gallia
 [https://www.trismegistos.org/place/693](https://www.trismegistos.org/place/693)  
 
 ### alignments:
  - [Gallia](https://pleiades.stoa.org/places/993)
+
+
+## GEO ID Darenth: 15274
+[www.trismegistos.org/place/15274](www.trismegistos.org/place/15274)  
+
+### alignments:
+ - [Darenth](https://pleiades.stoa.org/places/79413)
 
 
 ## GEO ID, 11275: Edessa (Şanlıurfa)
