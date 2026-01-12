@@ -77,13 +77,9 @@ git push origin main
     # BRANCH 1.B
         # update datasetter pleiades json (alternate local disk representation for some scripts that follow)
         set +x
-        printf "\n\Updating the datasetter pleiades JSON\n=====================================================\n"
+        printf "\nUpdating the datasetter pleiades JSON\n=====================================================\n"
         set -x
-        cd ../../D/datasetter
-        set +x
-        echo "PD_HOME: $PD_HOME"
-        echo "VIRTUAL_ENV: $VIRTUAL_ENV"
-        set -x
+        bash -c "locus datasetter; env"
 
 
     # BRANCH 1.C
