@@ -161,8 +161,12 @@ def main(**kwargs):
 
 
 if __name__ == "__main__":
-    main(
-        **configure_commandline(
-            OPTIONAL_ARGUMENTS, POSITIONAL_ARGUMENTS, DEFAULT_LOG_LEVEL
+    try:
+        main(
+            **configure_commandline(
+                OPTIONAL_ARGUMENTS, POSITIONAL_ARGUMENTS, DEFAULT_LOG_LEVEL
+            )
         )
-    )
+    except Exception as err:
+        logger.fatal(err)
+        exit(1)
