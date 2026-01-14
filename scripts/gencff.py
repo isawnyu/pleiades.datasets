@@ -11,7 +11,7 @@ import yaml
 
 logger = logging.getLogger(__name__)
 rx_insert_field = re.compile(r"#insert-(?P<fieldname>[a-z\-]+)#")
-INPUT_CFF_FODDER = "cff-fodder.yaml"
+INPUT_CFF_FODDER = "cff/cff-fodder.yaml"
 OUTPUT_CFF_FILE = "CITATION.cff"
 
 DEFAULT_LOG_LEVEL = logging.WARNING
