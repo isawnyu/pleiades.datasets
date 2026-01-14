@@ -21,6 +21,7 @@ setuptools.setup(
     install_requires=[
         "airtight",
         "beautifulsoup4",
+        "cffconvert",
         "encoded_csv",
         "haversine",
         "lxml",
