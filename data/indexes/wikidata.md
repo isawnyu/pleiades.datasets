@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10088 alignments exist in _Pleiades_ place references as of 2026-01-13. The following list of alignments is grouped by zotkey.
+10110 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -427,6 +427,13 @@
 
 ### alignments:
  - [Acarnanian League](https://pleiades.stoa.org/places/231467659)
+
+
+## Acascomarci (Q137667832)
+[https://www.wikidata.org/wiki/Q137667832](https://www.wikidata.org/wiki/Q137667832)  
+
+### alignments:
+ - [Acascomarci](https://pleiades.stoa.org/places/847832411)
 
 
 ## Accesa Lake Archaeological Park (Q3895459)
@@ -2697,6 +2704,13 @@
 
 ### alignments:
  - [Roman amphitheater at Patavium](https://pleiades.stoa.org/places/237512727)
+
+
+## Amphitheatre of Serdica (Q980970)
+[https://www.wikidata.org/wiki/Q980970](https://www.wikidata.org/wiki/Q980970)  
+
+### alignments:
+ - [Roman Amphitheater of Serdica](https://pleiades.stoa.org/places/867812307)
 
 
 ## Amphitheatre of Thuburbo Majus (Q29002309)
@@ -6585,6 +6599,13 @@
  - [balneum Abascantis et Mamertini](https://pleiades.stoa.org/places/738321274)
 
 
+## Balneum Caesaris (Q135252528)
+[https://www.wikidata.org/wiki/Q135252528](https://www.wikidata.org/wiki/Q135252528)  
+
+### alignments:
+ - [balneum Caesaris](https://pleiades.stoa.org/places/623982917)
+
+
 ## Balsa (Q2881532)
 [https://www.wikidata.org/wiki/Q2881532](https://www.wikidata.org/wiki/Q2881532)  
 
@@ -6835,6 +6856,13 @@
 
 ### alignments:
  - [Casuentus (river)](https://pleiades.stoa.org/places/442537)
+
+
+## Basilica Argentaria (Q1980093)
+[https://www.wikidata.org/wiki/Q1980093](https://www.wikidata.org/wiki/Q1980093)  
+
+### alignments:
+ - [Basilica Argentaria](https://pleiades.stoa.org/places/397225738)
 
 
 ## Basilica di Sant'Anastasia al Palatino (Q1229125)
@@ -12694,6 +12722,13 @@
  - [Chanctonbury Ring](https://pleiades.stoa.org/places/997496371)
 
 
+## Chani Kokkonas (Q64438329)
+[https://www.wikidata.org/wiki/Q64438329](https://www.wikidata.org/wiki/Q64438329)  
+
+### alignments:
+ - [Chani Kokkonas](https://pleiades.stoa.org/places/113317585)
+
+
 ## Chaonia (Q1435268)
 [https://www.wikidata.org/wiki/Q1435268](https://www.wikidata.org/wiki/Q1435268)  
 
@@ -13605,6 +13640,13 @@
  - [Civic forum of Praeneste](https://pleiades.stoa.org/places/678434580)
 
 
+## Cividate Camuno (Q104017)
+[https://www.wikidata.org/wiki/Q104017](https://www.wikidata.org/wiki/Q104017)  
+
+### alignments:
+ - [*Civitas Camunnorum](https://pleiades.stoa.org/places/383617)
+
+
 ## Civil Basilica at Aphrodisias in Caria (Q135409837)
 [https://www.wikidata.org/wiki/Q135409837](https://www.wikidata.org/wiki/Q135409837)  
 
@@ -13771,6 +13813,13 @@
 
 ### alignments:
  - [Cloghanmore](https://pleiades.stoa.org/places/930092846)
+
+
+## Clostra Romana (Q137593252)
+[https://www.wikidata.org/wiki/Q137593252](https://www.wikidata.org/wiki/Q137593252)  
+
+### alignments:
+ - [Clostra (Romana)](https://pleiades.stoa.org/places/432788)
 
 
 ## Clovelly Dykes (Q5135846)
@@ -18545,6 +18594,13 @@
  - [Fundi](https://pleiades.stoa.org/places/432855)
 
 
+## Fonias Tower (Q38283601)
+[https://www.wikidata.org/wiki/Q38283601](https://www.wikidata.org/wiki/Q38283601)  
+
+### alignments:
+ - [Fonias Tower](https://pleiades.stoa.org/places/113317586)
+
+
 ## Fonissa (Q5465042)
 [https://www.wikidata.org/wiki/Q5465042](https://www.wikidata.org/wiki/Q5465042)  
 
@@ -22455,6 +22511,13 @@
  - [House of the masks, Hadrumetum](https://pleiades.stoa.org/places/83003523)
 
 
+## House of the Nilotic threshold (Q135220229)
+[https://www.wikidata.org/wiki/Q135220229](https://www.wikidata.org/wiki/Q135220229)  
+
+### alignments:
+ - [Domus della Soglia nilotica](https://pleiades.stoa.org/places/156492455)
+
+
 ## House of the Painters at work (Q27688616)
 [https://www.wikidata.org/wiki/Q27688616](https://www.wikidata.org/wiki/Q27688616)  
 
@@ -24596,6 +24659,13 @@
 
 ### alignments:
  - [Kastro Kourounas Tower](https://pleiades.stoa.org/places/172755092)
+
+
+## Kastro tis Orias (Q17518662)
+[https://www.wikidata.org/wiki/Q17518662](https://www.wikidata.org/wiki/Q17518662)  
+
+### alignments:
+ - [Castle of Oria](https://pleiades.stoa.org/places/769421955)
 
 
 ## Katakekaumene (Q28135909)
@@ -28307,6 +28377,13 @@
 
 ### alignments:
  - [Maecium](https://pleiades.stoa.org/places/330747938)
+
+
+## Maen Llia (Q1749088)
+[https://www.wikidata.org/wiki/Q1749088](https://www.wikidata.org/wiki/Q1749088)  
+
+### alignments:
+ - [Maen Llia](https://pleiades.stoa.org/places/923661241)
 
 
 ## Maenalus (Q11936450)
@@ -41854,6 +41931,13 @@
  - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
 
 
+## Q137557050
+[https://www.wikidata.org/wiki/Q137557050](https://www.wikidata.org/wiki/Q137557050)  
+
+### alignments:
+ - [Ponte Taulella](https://pleiades.stoa.org/places/467960423)
+
+
 ## Q1385554: Plestia
 [https://www.wikidata.org/wiki/Q1385554](https://www.wikidata.org/wiki/Q1385554)  
 
@@ -51077,6 +51161,13 @@
  - [Roman Theater at Sepphoris](https://pleiades.stoa.org/places/277370050)
 
 
+## Q56258310
+[https://www.wikidata.org/wiki/Q56258310](https://www.wikidata.org/wiki/Q56258310)  
+
+### alignments:
+ - [Poggio Murella](https://pleiades.stoa.org/places/497311598)
+
+
 ## Q56258482: Forre di Corchiano
 [https://www.wikidata.org/wiki/Q56258482](https://www.wikidata.org/wiki/Q56258482)  
 
@@ -59493,6 +59584,13 @@
  - [Sentinum](https://pleiades.stoa.org/places/413312)
 
 
+## Sepolcreto Ostiense (Q134731300)
+[https://www.wikidata.org/wiki/Q134731300](https://www.wikidata.org/wiki/Q134731300)  
+
+### alignments:
+ - [Sepolcreto Ostiense](https://pleiades.stoa.org/places/507301472)
+
+
 ## Septimer Pass (Q667166)
 [https://www.wikidata.org/wiki/Q667166](https://www.wikidata.org/wiki/Q667166)  
 
@@ -59792,6 +59890,13 @@
 
 ### alignments:
  - [Archous (river)](https://pleiades.stoa.org/places/912811)
+
+
+## Shepherds' Field Chapel (Q24039683)
+[https://www.wikidata.org/wiki/Q24039683](https://www.wikidata.org/wiki/Q24039683)  
+
+### alignments:
+ - [Shepherds' Field](https://pleiades.stoa.org/places/212723842)
 
 
 ## Shepton Mallet (Q17662771)
@@ -60256,6 +60361,13 @@
  - [Sirpium?](https://pleiades.stoa.org/places/433125)
 
 
+## Sirra (Q4405937)
+[https://www.wikidata.org/wiki/Q4405937](https://www.wikidata.org/wiki/Q4405937)  
+
+### alignments:
+ - [Sirra](https://pleiades.stoa.org/places/501616)
+
+
 ## Sirsukh (Q938289)
 [https://www.wikidata.org/wiki/Q938289](https://www.wikidata.org/wiki/Q938289)  
 
@@ -60591,6 +60703,13 @@
 
 ### alignments:
  - [Provadii͡a-Solnit͡sata](https://pleiades.stoa.org/places/802858342)
+
+
+## Solomon's Pools (Q2916617)
+[https://www.wikidata.org/wiki/Q2916617](https://www.wikidata.org/wiki/Q2916617)  
+
+### alignments:
+ - [Solomon's Pools](https://pleiades.stoa.org/places/212723843)
 
 
 ## Solonion (Q21556425)
@@ -61242,6 +61361,13 @@
 
 ### alignments:
  - [Stonesfield](https://pleiades.stoa.org/places/79697)
+
+
+## Stoni (Q3973837)
+[https://www.wikidata.org/wiki/Q3973837](https://www.wikidata.org/wiki/Q3973837)  
+
+### alignments:
+ - [Stoeni?](https://pleiades.stoa.org/places/383784)
 
 
 ## Stouronisi (Q12884929)
@@ -63232,6 +63358,13 @@
  - [Temple of Roma and Augustus (Athens)](https://pleiades.stoa.org/places/226121402)
 
 
+## Temple of Romulus (Q338397)
+[https://www.wikidata.org/wiki/Q338397](https://www.wikidata.org/wiki/Q338397)  
+
+### alignments:
+ - [Temple of Romulus (Rome)](https://pleiades.stoa.org/places/766385425)
+
+
 ## Temple of Salus (Q3983215)
 [https://www.wikidata.org/wiki/Q3983215](https://www.wikidata.org/wiki/Q3983215)  
 
@@ -65032,6 +65165,13 @@
  - [Tomb of Marcus Alleius Minius](https://pleiades.stoa.org/places/358482340)
 
 
+## Tomb of Marcus Antonius Antius Lupus (Q134337782)
+[https://www.wikidata.org/wiki/Q134337782](https://www.wikidata.org/wiki/Q134337782)  
+
+### alignments:
+ - [Tomb of Marcus Antonius Antius Lupus](https://pleiades.stoa.org/places/142726478)
+
+
 ## Tomb of Marcus Tullius (Q127510222)
 [https://www.wikidata.org/wiki/Q127510222](https://www.wikidata.org/wiki/Q127510222)  
 
@@ -65086,6 +65226,13 @@
 
 ### alignments:
  - [Sepulcrum Pansae](https://pleiades.stoa.org/places/700767827)
+
+
+## Tomb of Petosiris at Tuna el-Gebel (Q71990944)
+[https://www.wikidata.org/wiki/Q71990944](https://www.wikidata.org/wiki/Q71990944)  
+
+### alignments:
+ - [Tomb of Petosiris at Tuna el-Gebel](https://pleiades.stoa.org/places/254173129)
 
 
 ## Tomb of Publius Vibius Marianus (Q65044108)
@@ -66388,6 +66535,13 @@
 
 ### alignments:
  - [Troia](https://pleiades.stoa.org/places/727252)
+
+
+## Trumpilini (Q3539728)
+[https://www.wikidata.org/wiki/Q3539728](https://www.wikidata.org/wiki/Q3539728)  
+
+### alignments:
+ - [Trump(i)lini](https://pleiades.stoa.org/places/383805)
 
 
 ## Trusty's Hill (Q26822233)

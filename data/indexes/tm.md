@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4859 alignments exist in _Pleiades_ place references as of 2026-01-13. The following list of alignments is grouped by zotkey.
+4860 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3440,6 +3440,13 @@
 
 ### alignments:
  - [Poteidaia/Kassandreia](https://pleiades.stoa.org/places/491701)
+
+
+## GEO ID 12107: Sirra (Serres)
+[https://www.trismegistos.org/place/12107](https://www.trismegistos.org/place/12107)  
+
+### alignments:
+ - [Sirra](https://pleiades.stoa.org/places/501616)
 
 
 ## GEO ID 12110: Hypata

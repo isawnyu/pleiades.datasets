@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-458 alignments exist in _Pleiades_ place references as of 2026-01-13. The following list of alignments is grouped by zotkey.
+460 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -658,6 +658,13 @@
 
 ### alignments:
  - [Stelida](https://pleiades.stoa.org/places/507121565)
+
+
+## Serrès, Serrai-Δ.Δ. Σερρών, Σέρρες, Σέρραι
+[https://chronique.efa.gr/?r=topo_public&id=44457](https://chronique.efa.gr/?r=topo_public&id=44457)  
+
+### alignments:
+ - [Sirra](https://pleiades.stoa.org/places/501616)
 
 
 ## SKANDIRA (Halonisos) - 2009
@@ -3135,6 +3142,13 @@
 
 ### alignments:
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
+
+
+## Toponyme 70083: Chani tis Kokkonas-Χάνι της Κοκκόνας
+[https://chronique.efa.gr/?r=topo_public&id=70083](https://chronique.efa.gr/?r=topo_public&id=70083)  
+
+### alignments:
+ - [Chani Kokkonas](https://pleiades.stoa.org/places/113317585)
 
 
 ## Toponyme 7255: Pyrrichos, Kavalon

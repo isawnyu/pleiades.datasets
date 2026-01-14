@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4787 alignments exist in _Pleiades_ place references as of 2026-01-13. The following list of alignments is grouped by zotkey.
+4791 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -260,6 +260,13 @@
 
 ### alignments:
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
+## Acascomarci
+[https://topostext.org/people/21329](https://topostext.org/people/21329)  
+
+### alignments:
+ - [Acascomarci](https://pleiades.stoa.org/places/847832411)
 
 
 ## Accis/Col. Iulia Gemella (Iberia)
@@ -5403,6 +5410,13 @@
  - [Babylon](https://pleiades.stoa.org/places/893951)
 
 
+## Bactra (Bactria)
+[https://topostext.org/place/368669UBac](https://topostext.org/place/368669UBac)  
+
+### alignments:
+ - [Bactra/Zariaspa](https://pleiades.stoa.org/places/961886)
+
+
 ## Baecula (Iberia)
 [https://topostext.org/place/381-38Bae](https://topostext.org/place/381-38Bae)  
 
@@ -5548,6 +5562,13 @@
 
 ### alignments:
  - [Basilica Aemilia](https://pleiades.stoa.org/places/417632343)
+
+
+## Basilica Argentaria (Rome)
+[https://topostext.org/place/419125BBAr](https://topostext.org/place/419125BBAr)  
+
+### alignments:
+ - [Basilica Argentaria](https://pleiades.stoa.org/places/397225738)
 
 
 ## Basilica Julia (Rome)
@@ -30435,6 +30456,13 @@
 
 ### alignments:
  - [Temple of Portunus](https://pleiades.stoa.org/places/494660670)
+
+
+## Temple of Romulus (Rome)
+[https://topostext.org/place/419125SRom](https://topostext.org/place/419125SRom)  
+
+### alignments:
+ - [Temple of Romulus (Rome)](https://pleiades.stoa.org/places/766385425)
 
 
 ## Temple of Venus and Roma (Rome)
