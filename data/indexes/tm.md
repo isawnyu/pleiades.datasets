@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4860 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
+4861 alignments exist in _Pleiades_ place references as of 2026-01-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25063,6 +25063,13 @@
 
 ### alignments:
  - [Aludda](https://pleiades.stoa.org/places/614593)
+
+
+## GEO ID 41996: Euphorbium
+[https://www.trismegistos.org/place/41996](https://www.trismegistos.org/place/41996)  
+
+### alignments:
+ - [Euphorbium](https://pleiades.stoa.org/places/614656)
 
 
 ## GEO ID 41997: Trikomia [3]

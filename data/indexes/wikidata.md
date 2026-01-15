@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10110 alignments exist in _Pleiades_ place references as of 2026-01-14. The following list of alignments is grouped by zotkey.
+10113 alignments exist in _Pleiades_ place references as of 2026-01-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17908,6 +17908,13 @@
  - [Eua?](https://pleiades.stoa.org/places/570241)
 
 
+## Eucarpia (Q20717572)
+[https://www.wikidata.org/wiki/Q20717572](https://www.wikidata.org/wiki/Q20717572)  
+
+### alignments:
+ - [Eukarpia](https://pleiades.stoa.org/places/609378)
+
+
 ## Euhydrium (Q48781687)
 [https://www.wikidata.org/wiki/Q48781687](https://www.wikidata.org/wiki/Q48781687)  
 
@@ -17948,6 +17955,13 @@
 
 ### alignments:
  - [Euonymos Theater](https://pleiades.stoa.org/places/597458137)
+
+
+## Euphorbium (Q132717738)
+[https://www.wikidata.org/wiki/Q132717738](https://www.wikidata.org/wiki/Q132717738)  
+
+### alignments:
+ - [Euphorbium](https://pleiades.stoa.org/places/614656)
 
 
 ## Euphrasian Basilica (Q645105)
@@ -21291,6 +21305,13 @@
 
 ### alignments:
  - [Havor](https://pleiades.stoa.org/places/20482)
+
+
+## Havran Cayi (Q61076417)
+[https://www.wikidata.org/wiki/Q61076417](https://www.wikidata.org/wiki/Q61076417)  
+
+### alignments:
+ - [Euenos (river)](https://pleiades.stoa.org/places/550537)
 
 
 ## Hawara (Q26237)
