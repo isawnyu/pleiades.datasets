@@ -3,11 +3,13 @@ Summarize recent commits
 """
 
 from airtight.cli import configure_commandline
+import json
 import logging
 import os
 from pathlib import Path
-from pprint import pprint
+from pprint import pprint, pformat
 import re
+from slugify import slugify
 import yaml
 
 logger = logging.getLogger(__name__)
@@ -16,6 +18,7 @@ rx_append_to_list_field = re.compile(r"#append-(?P<fieldname>[a-z\-]+)#")
 INPUT_CFF_FODDER = "cff/cff-fodder.yaml"
 OUTPUT_CFF_FILE = "CITATION.cff"
 PLEIADES_JSON_DIR = Path(__file__).parent.parent / "data" / "json"
+DATASETTER_DIR = Path(__file__).parent.parent.parent.parent / "D" / "datasetter"
 
 DEFAULT_LOG_LEVEL = logging.WARNING
 OPTIONAL_ARGUMENTS = [
@@ -56,14 +59,107 @@ OPTIONAL_ARGUMENTS = [
         "path to directory with Pleiades JSON files",
         False,
     ],
+    [
+        "-d",
+        "--datasetterdir",
+        str(DATASETTER_DIR),
+        "path to directory with Datasetter files",
+        False,
+    ],
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
 ]
 
 
-def contributors2cff(pjson_path: Path) -> list:
-    return ["foo", "bar", "baz"]  # placeholder implementation
+def contributors2cff(pjson_path: Path, username_subs: dict) -> dict:
+    people = dict()
+    score = dict()
+    for dirpath, dirnames, filenames in os.walk(pjson_path):
+        for filename in filenames:
+            if filename.endswith(".json"):
+                filepath = Path(dirpath) / filename
+                with open(filepath, "r", encoding="utf-8") as infile:
+                    data = json.load(infile)
+                    locations = data.get("locations", [])
+                    pnames = data.get("names", [])
+                    connections = data.get("connections", [])
+                    authors = []
+                    for ck in ["creators", "contributors"]:
+                        authors.extend(data.get(ck, []))
+                        for loc in locations:
+                            authors.extend(loc.get(ck, []))
+                        for pname in pnames:
+                            authors.extend(pname.get(ck, []))
+                        for conn in connections:
+                            authors.extend(conn.get(ck, []))
+                    for author in authors:
+                        name = author.get("name", "").strip()
+                        if name == "":
+                            if author.get("username", "") == "admin":
+                                continue
+                        if not name:
+                            raise ValueError(
+                                f"Person in file {filepath} has no name: {pprint(authors, indent=2)}"
+                            )
+                        if name == "T. Elliott":
+                            username = "thomase"
+                            name = "Tom Elliott"
+                        elif name == "R. Talbert":
+                            username = "rtalbert"
+                            name = "Richard J.A. Talbert"
+                        else:
+                            username = author.get("username", "")
+                            if not username:
+                                username = slugify(name, separator="")
+                            username = username.strip().lower()
+                            try:
+                                sub = username_subs[username]
+                            except KeyError:
+                                pass
+                            else:
+                                username = sub
+                        if username == "jr":
+                            continue
+                        if username == "darmcrtalberttelliottsgillies":
+                            these_authors = [
+                                (
+                                    "darmc",
+                                    "Digital Atlas of Roman and Medieval Civilizations",
+                                ),
+                                ("rtalbert", "Richard J.A. Talbert"),
+                                ("thomase", "Tom Elliott"),
+                                ("sgillies", "Sean Gillies"),
+                            ]
+                        elif username == "rtalberttelliottsgillies":
+                            these_authors = [
+                                ("rtalbert", "Richard J.A. Talbert"),
+                                ("thomase", "Tom Elliott"),
+                                ("sgillies", "Sean Gillies"),
+                            ]
+                        elif username == "lquiliciandsquilicigigli":
+                            these_authors = [
+                                ("lquilici", "Lorenzo Quilici"),
+                                ("squilicigigli", "Stefania Quilici Gigli"),
+                            ]
+                        else:
+                            these_authors = [(username, name)]
+                        for u, n in these_authors:
+                            try:
+                                people[u]
+                            except KeyError:
+                                people[u] = {"name": n}
+                                score[u] = 1
+                            else:
+                                score[u] += 1
+    logger.debug(f"People collected: {pformat(people, indent=2)}")
+    logger.debug(f"Scores collected: {pformat(score, indent=2)}")
+    exit()
+    sorted_keys = sorted(
+        [k for k in people.keys()], key=lambda x: score[x], reverse=True
+    )
+    cff_contributors = {"name": people[k] for k in sorted_keys}
+    return cff_contributors
 
 
 def get_replacement_for_field(fieldname, pjson_path: Path) -> str:
@@ -77,7 +173,7 @@ def get_replacement_for_field(fieldname, pjson_path: Path) -> str:
 
 
 def process_cff_field(
-    key: str, value: str | list | dict, pjson_path: Path
+    key: str, value: str | list | dict, pjson_path: Path, username_subs: dict
 ) -> str | list | dict:
 
     if isinstance(value, str):
@@ -96,19 +192,20 @@ def process_cff_field(
                 m = rx_append_to_list_field.match(item)
                 if m:
                     if m.group("fieldname") == "contributors":
-                        newitems = contributors2cff(pjson_path)
-                        newlist.extend(newitems)
+                        newitems = contributors2cff(pjson_path, username_subs)
+                        for newitem in newitems.items():
+                            newlist.append(newitem)
                     else:
                         raise NotImplementedError(
                             f"No append defined for field '{m.group('fieldname')}'"
                         )
                     continue
-            newlist.append(process_cff_field(key, item, pjson_path))
+            newlist.append(process_cff_field(key, item, pjson_path, username_subs))
         value = newlist
     elif isinstance(value, dict):
         newdict = {}
         for k, v in value.items():
-            newdict[k] = process_cff_field(k, v, pjson_path)
+            newdict[k] = process_cff_field(k, v, pjson_path, username_subs)
         value = newdict
     else:
         raise NotImplementedError(f"Cannot process field {key} of type {type(value)}")
@@ -119,12 +216,17 @@ def main(**kwargs):
     inpath = Path(kwargs["inputcfffodder"]).expanduser()
     outpath = Path(kwargs["outputcfffile"]).expanduser()
     pjson_path = Path(kwargs["pleiadesjsondir"]).expanduser()
+    datasetter_path = Path(kwargs["datasetterdir"]).expanduser()
+    username_sub_path = datasetter_path / "data" / "cache" / "who_sub.json"
+    with open(username_sub_path, "r", encoding="utf-8") as infile:
+        username_subs = json.load(infile)
+    del infile
     with open(inpath, "r", encoding="utf-8") as infile:
         cff_fodder = yaml.load(infile, Loader=yaml.FullLoader)
     del infile
     cff = dict()
     for k, v in cff_fodder.items():
-        cff[k] = process_cff_field(k, v, pjson_path)
+        cff[k] = process_cff_field(k, v, pjson_path, username_subs)
     with open(outpath, "w", encoding="utf-8") as outfile:
         yaml.dump(cff, outfile, sort_keys=False)
     del outfile
