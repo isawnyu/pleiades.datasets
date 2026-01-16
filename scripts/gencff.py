@@ -72,7 +72,7 @@ POSITIONAL_ARGUMENTS = [
 ]
 
 
-def contributors2cff(pjson_path: Path, username_subs: dict) -> dict:
+def contributors2cff(pjson_path: Path, username_subs: dict) -> list:
     people = dict()
     score = dict()
     for dirpath, dirnames, filenames in os.walk(pjson_path):
@@ -142,6 +142,8 @@ def contributors2cff(pjson_path: Path, username_subs: dict) -> dict:
                                 ("lquilici", "Lorenzo Quilici"),
                                 ("squilicigigli", "Stefania Quilici Gigli"),
                             ]
+                        elif username == "richardtalbert":
+                            these_authors = [("rtalbert", "Richard J.A. Talbert")]
                         else:
                             these_authors = [(username, name)]
                         for u, n in these_authors:
@@ -154,11 +156,12 @@ def contributors2cff(pjson_path: Path, username_subs: dict) -> dict:
                                 score[u] += 1
     logger.debug(f"People collected: {pformat(people, indent=2)}")
     logger.debug(f"Scores collected: {pformat(score, indent=2)}")
-    exit()
     sorted_keys = sorted(
         [k for k in people.keys()], key=lambda x: score[x], reverse=True
     )
-    cff_contributors = {"name": people[k] for k in sorted_keys}
+    logger.debug(f"Sorted keys: {pformat(sorted_keys, indent=2)}")
+    cff_contributors = [people[k] for k in sorted_keys]
+    logger.debug(f"CFF contributors: {pformat(cff_contributors, indent=2)}")
     return cff_contributors
 
 
@@ -185,20 +188,22 @@ def process_cff_field(
                 f"Found insert field for key {key}: {value}. Replaced with {new_val}"
             )
     elif isinstance(value, list):
-        newlist = []
         n = len(value)
+        newlist = []
         for i, item in enumerate(value):
             if i == n - 1 and isinstance(item, str):
                 m = rx_append_to_list_field.match(item)
                 if m:
+                    prior_items = value[: n - 2]
                     if m.group("fieldname") == "contributors":
-                        newitems = contributors2cff(pjson_path, username_subs)
-                        for newitem in newitems.items():
-                            newlist.append(newitem)
+                        additional_items = contributors2cff(pjson_path, username_subs)
                     else:
                         raise NotImplementedError(
                             f"No append defined for field '{m.group('fieldname')}'"
                         )
+                    newlist.extend(
+                        [item for item in additional_items if item not in prior_items]
+                    )
                     continue
             newlist.append(process_cff_field(key, item, pjson_path, username_subs))
         value = newlist
