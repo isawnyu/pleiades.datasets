@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4791 alignments exist in _Pleiades_ place references as of 2026-01-15. The following list of alignments is grouped by zotkey.
+4794 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10631,6 +10631,13 @@
  - [Eukarpia](https://pleiades.stoa.org/places/609378)
 
 
+## Eulaeus river (Persia)
+[https://topostext.org/place/331474WEul](https://topostext.org/place/331474WEul)  
+
+### alignments:
+ - [Karkheh/Eulaeus?/Ula(ya)? (river)](https://pleiades.stoa.org/places/912877)
+
+
 ## Eumeneia (Phrygia)
 [https://topostext.org/place/383298UEum](https://topostext.org/place/383298UEum)  
 
@@ -10737,10 +10744,11 @@
  - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
 
 
-## Europos (Kilkis) 13 Europos - Ευρωπός
+## Europos (Kilkis) 11 Europos - Ευρωπός
 [https://topostext.org/place/409226PEur](https://topostext.org/place/409226PEur)  
 
 ### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491594)
  - [Europos](https://pleiades.stoa.org/places/491595)
 
 
@@ -15487,6 +15495,13 @@
 
 ### alignments:
  - [Kerkinitis L.](https://pleiades.stoa.org/places/491635)
+
+
+## Kerkinitis/Eupatoria (Crimea) 12 Yevpatoriya
+[https://topostext.org/place/452334UKer](https://topostext.org/place/452334UKer)  
+
+### alignments:
+ - [Kerkinitis?](https://pleiades.stoa.org/places/226658)
 
 
 ## Keryneia (Achaia) 14 Mamousia - Κερύνεια
@@ -25879,6 +25894,13 @@
 
 ### alignments:
  - [Pnyx fountain](https://pleiades.stoa.org/places/136008628)
+
+
+## Podalia (Lycia) 8 Küçüksöğle
+[https://topostext.org/place/367300UPod](https://topostext.org/place/367300UPod)  
+
+### alignments:
+ - [Podalia](https://pleiades.stoa.org/places/639065)
 
 
 ## Podokhori site (Kavala)  Podokhori - Ποδοχώρι

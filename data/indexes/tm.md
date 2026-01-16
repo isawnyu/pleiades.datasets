@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4861 alignments exist in _Pleiades_ place references as of 2026-01-15. The following list of alignments is grouped by zotkey.
+4862 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -373,13 +373,6 @@
 
 ### alignments:
  - [Ialysos](https://pleiades.stoa.org/places/589815)
-
-
-## Geo 13603: Etruria
-[https://www.trismegistos.org/place/13603](https://www.trismegistos.org/place/13603)  
-
-### alignments:
- - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
 
 
 ## Geo 1405: Myrina
@@ -4112,6 +4105,13 @@
 
 ### alignments:
  - [Dierna](https://pleiades.stoa.org/places/207078)
+
+
+## GEO ID 13603: Etruria
+[https://www.trismegistos.org/place/13603](https://www.trismegistos.org/place/13603)  
+
+### alignments:
+ - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
 
 
 ## GEO ID 13620: Umbria
@@ -32420,6 +32420,13 @@
 
 ### alignments:
  - [Epidauros](https://pleiades.stoa.org/places/570228)
+
+
+## GEO ID 65148: Eupatoria (Karasamson)
+[https://www.trismegistos.org/place/65148](https://www.trismegistos.org/place/65148)  
+
+### alignments:
+ - [Eupatoria](https://pleiades.stoa.org/places/857121)
 
 
 ## GEO ID 65156: Lykastos

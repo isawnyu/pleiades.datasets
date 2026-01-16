@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10113 alignments exist in _Pleiades_ place references as of 2026-01-15. The following list of alignments is grouped by zotkey.
+10119 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7690,6 +7690,13 @@
 
 ### alignments:
  - [Bertha](https://pleiades.stoa.org/places/89116)
+
+
+## Berthouville (Q472019)
+[https://www.wikidata.org/wiki/Q472019](https://www.wikidata.org/wiki/Q472019)  
+
+### alignments:
+ - [Sanctuary of Mercury Canetonnessis](https://pleiades.stoa.org/places/108852)
 
 
 ## Besa (Q13422929)
@@ -17894,6 +17901,13 @@
  - [Etis](https://pleiades.stoa.org/places/573215)
 
 
+## Etruria (Q206730)
+[https://www.wikidata.org/wiki/Q206730](https://www.wikidata.org/wiki/Q206730)  
+
+### alignments:
+ - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
+
+
 ## Etruscan Arch (Q1892295)
 [https://www.wikidata.org/wiki/Q1892295](https://www.wikidata.org/wiki/Q1892295)  
 
@@ -17913,6 +17927,13 @@
 
 ### alignments:
  - [Eukarpia](https://pleiades.stoa.org/places/609378)
+
+
+## Euhippe (Q85759769)
+[https://www.wikidata.org/wiki/Q85759769](https://www.wikidata.org/wiki/Q85759769)  
+
+### alignments:
+ - [Euhippe](https://pleiades.stoa.org/places/599614)
 
 
 ## Euhydrium (Q48781687)
@@ -17957,6 +17978,20 @@
  - [Euonymos Theater](https://pleiades.stoa.org/places/597458137)
 
 
+## Eupalium (Q60790821)
+[https://www.wikidata.org/wiki/Q60790821](https://www.wikidata.org/wiki/Q60790821)  
+
+### alignments:
+ - [Eupalion](https://pleiades.stoa.org/places/540782)
+
+
+## Eupatoria (Q3734556)
+[https://www.wikidata.org/wiki/Q3734556](https://www.wikidata.org/wiki/Q3734556)  
+
+### alignments:
+ - [Eupatoria/Magnopolis](https://pleiades.stoa.org/places/857122)
+
+
 ## Euphorbium (Q132717738)
 [https://www.wikidata.org/wiki/Q132717738](https://www.wikidata.org/wiki/Q132717738)  
 
@@ -17976,6 +18011,13 @@
 
 ### alignments:
  - [Euphratesia](https://pleiades.stoa.org/places/1001934)
+
+
+## Euphrates (Q34589)
+[https://www.wikidata.org/wiki/Q34589](https://www.wikidata.org/wiki/Q34589)  
+
+### alignments:
+ - [Euphrates (river)](https://pleiades.stoa.org/places/912849)
 
 
 ## Eupyridai (Q12877385)
@@ -18003,6 +18045,7 @@
 [https://www.wikidata.org/wiki/Q16659185](https://www.wikidata.org/wiki/Q16659185)  
 
 ### alignments:
+ - [Europos](https://pleiades.stoa.org/places/491594)
  - [Europos](https://pleiades.stoa.org/places/491595)
 
 
@@ -32287,6 +32330,13 @@
  - [Nea Moni](https://pleiades.stoa.org/places/514403427)
 
 
+## Nea Pleuron (Q20108669)
+[https://www.wikidata.org/wiki/Q20108669](https://www.wikidata.org/wiki/Q20108669)  
+
+### alignments:
+ - [Nea Pleuron](https://pleiades.stoa.org/places/540961)
+
+
 ## Neapolis (Q1137496)
 [https://www.wikidata.org/wiki/Q1137496](https://www.wikidata.org/wiki/Q1137496)  
 
@@ -36976,6 +37026,13 @@
 
 ### alignments:
  - [Sa Torreta](https://pleiades.stoa.org/places/316244304)
+
+
+## Podalaea (Q1116048)
+[https://www.wikidata.org/wiki/Q1116048](https://www.wikidata.org/wiki/Q1116048)  
+
+### alignments:
+ - [Podalia](https://pleiades.stoa.org/places/639065)
 
 
 ## Podere Cosciano (Q136908562)
@@ -45063,13 +45120,6 @@
  - [Sugambri](https://pleiades.stoa.org/places/109357)
 
 
-## Q206730: Etruria
-[https://www.wikidata.org/wiki/Q206730](https://www.wikidata.org/wiki/Q206730)  
-
-### alignments:
- - [Etruria/Tuscia (region)](https://pleiades.stoa.org/places/413122)
-
-
 ## Q2071319
 [https://www.wikidata.org/wiki/Q2071319](https://www.wikidata.org/wiki/Q2071319)  
 
@@ -47937,13 +47987,6 @@
  - [Roussolakkos](https://pleiades.stoa.org/places/258569489)
 
 
-## Q34589: Euphrates
-[https://www.wikidata.org/wiki/Q34589](https://www.wikidata.org/wiki/Q34589)  
-
-### alignments:
- - [Euphrates (river)](https://pleiades.stoa.org/places/912849)
-
-
 ## Q34615: Adria
 [https://www.wikidata.org/wiki/Q34615](https://www.wikidata.org/wiki/Q34615)  
 
@@ -48845,13 +48888,6 @@
 
 ### alignments:
  - [Eremo di San Michele Arcangelo](https://pleiades.stoa.org/places/664572981)
-
-
-## Q3734556: Eupatoria
-[https://www.wikidata.org/wiki/Q3734556](https://www.wikidata.org/wiki/Q3734556)  
-
-### alignments:
- - [Eupatoria/Magnopolis](https://pleiades.stoa.org/places/857122)
 
 
 ## Q374149: Via Flaminia
@@ -70212,6 +70248,13 @@
 
 ### alignments:
  - [Yesemek](https://pleiades.stoa.org/places/129809446)
+
+
+## Yevpatoriia (Q33345)
+[https://www.wikidata.org/wiki/Q33345](https://www.wikidata.org/wiki/Q33345)  
+
+### alignments:
+ - [Kerkinitis?](https://pleiades.stoa.org/places/226658)
 
 
 ## Yeşilova Mound (Q8053378)
