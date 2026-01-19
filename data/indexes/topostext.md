@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4794 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
+4797 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10871,6 +10871,13 @@
  - [Falerii Veteres](https://pleiades.stoa.org/places/413126)
 
 
+## Falernus Ager (Campania)
+[https://topostext.org/place/411140RFal](https://topostext.org/place/411140RFal)  
+
+### alignments:
+ - [Falernus Ager](https://pleiades.stoa.org/places/432828)
+
+
 ## Falisci/Ager Faliscus (Italy)
 [https://topostext.org/place/423123RFal](https://topostext.org/place/423123RFal)  
 
@@ -15862,6 +15869,13 @@
 
 ### alignments:
  - [Kleides (islands)](https://pleiades.stoa.org/places/707536)
+
+
+## Kleidi Roman bridge (Emathia)
+[https://topostext.org/place/406226BKle](https://topostext.org/place/406226BKle)  
+
+### alignments:
+ - [Kleidi Roman bridge (Emathia)](https://pleiades.stoa.org/places/492262)
 
 
 ## Kleisoura fort (Ioannina)  Kouklesi - Κλεισούρα
@@ -28042,6 +28056,13 @@
 
 ### alignments:
  - [Sauria?](https://pleiades.stoa.org/places/531094)
+
+
+## Savo (Italia) 2 Savone
+[https://topostext.org/place/412140WSav](https://topostext.org/place/412140WSav)  
+
+### alignments:
+ - [Savo (river)](https://pleiades.stoa.org/places/433108)
 
 
 ## Scalabis (Lusitania)

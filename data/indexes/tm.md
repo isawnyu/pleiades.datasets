@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4862 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
+4867 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6521,7 +6521,6 @@
 [http://www.trismegistos.org/](http://www.trismegistos.org/)  
 
 ### alignments:
- - [Achelous (river)](https://pleiades.stoa.org/places/530768)
  - [Alexandria/Antiochia/Merv](https://pleiades.stoa.org/places/961873)
  - [Antimachia](https://pleiades.stoa.org/places/599495)
  - [Aproi/Col. Claudia Aprensis/Nova Theodosiopolis](https://pleiades.stoa.org/places/511153)
@@ -12370,6 +12369,13 @@
  - [Saletio](https://pleiades.stoa.org/places/109317)
 
 
+## GEO ID 25435: Tilena (Til-Châtel)
+[https://www.trismegistos.org/place/25435](https://www.trismegistos.org/place/25435)  
+
+### alignments:
+ - [Filena/Tilena](https://pleiades.stoa.org/places/181210)
+
+
 ## GEO ID 25439: Vertillum (Vertault)
 [http://www.trismegistos.org/place/25439](http://www.trismegistos.org/place/25439)  
 
@@ -15596,6 +15602,13 @@
 
 ### alignments:
  - [Vada Sabatia](https://pleiades.stoa.org/places/383808)
+
+
+## GEO ID 31864: Savo (Savona)
+[https://www.trismegistos.org/place/31864](https://www.trismegistos.org/place/31864)  
+
+### alignments:
+ - [Savo/Vicus Virginis?](https://pleiades.stoa.org/places/383770)
 
 
 ## GEO ID 3187: Tibur (Tivoli)
@@ -22235,6 +22248,13 @@
 
 ### alignments:
  - [Ad Acroceraunia](https://pleiades.stoa.org/places/481694)
+
+
+## GEO ID 40839: Acheloios
+[https://www.trismegistos.org/place/40839](https://www.trismegistos.org/place/40839)  
+
+### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/530768)
 
 
 ## GEO ID 40844: Stabulum Diomedis
@@ -32534,6 +32554,13 @@
  - [tribus Pollia](https://pleiades.stoa.org/places/484501230)
 
 
+## GEO ID 682: Euromos (Ayaklı)
+[http://www.trismegistos.org/place/682](http://www.trismegistos.org/place/682)  
+
+### alignments:
+ - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
+
+
 ## GEO ID 6830: Pompeiopolis (Taşköprü)
 [http://www.trismegistos.org/place/6830](http://www.trismegistos.org/place/6830)  
 
@@ -32834,6 +32861,13 @@
 
 ### alignments:
  - [Tel Shiqmona](https://pleiades.stoa.org/places/678404)
+
+
+## GEO ID 732
+[http://www.trismegistos.org/place/732](http://www.trismegistos.org/place/732)  
+
+### alignments:
+ - [Halicarnassus/Halikarnassos](https://pleiades.stoa.org/places/599636)
 
 
 ## GEO ID 747: Haueris (Hawara)

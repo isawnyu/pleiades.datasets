@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2287 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
+2290 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2225,6 +2225,13 @@
 
 ### alignments:
  - [Segobodium?](https://pleiades.stoa.org/places/177631)
+
+
+## 1A5 (Talbert 925)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace925.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace925.html)  
+
+### alignments:
+ - [Filena/Tilena](https://pleiades.stoa.org/places/181210)
 
 
 ## 1B1 (Talbert 670)
@@ -11270,6 +11277,20 @@
 
 ### alignments:
  - [Dioryktos?](https://pleiades.stoa.org/places/530842)
+
+
+## 6B4 (Talbert 1876)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1876.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1876.html)  
+
+### alignments:
+ - [Alyz(e)ia](https://pleiades.stoa.org/places/530793)
+
+
+## 6B4 (Talbert 1877)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1877.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1877.html)  
+
+### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/530768)
 
 
 ## 6B4 (Talbert 1878)

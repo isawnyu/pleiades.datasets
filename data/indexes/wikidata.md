@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10119 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
+10130 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3245,6 +3245,13 @@
  - [Andelos](https://pleiades.stoa.org/places/246163)
 
 
+## Andematunnum (Q131754903)
+[https://www.wikidata.org/wiki/Q131754903](https://www.wikidata.org/wiki/Q131754903)  
+
+### alignments:
+ - [Andematunnum](https://pleiades.stoa.org/places/177441)
+
+
 ## Anderitum (Q2846093)
 [https://www.wikidata.org/wiki/Q2846093](https://www.wikidata.org/wiki/Q2846093)  
 
@@ -4083,6 +4090,13 @@
 
 ### alignments:
  - [Aquileia](https://pleiades.stoa.org/places/187290)
+
+
+## Aquinum (Samian Ware Discovery Site) (Q103142157)
+[https://www.wikidata.org/wiki/Q103142157](https://www.wikidata.org/wiki/Q103142157)  
+
+### alignments:
+ - [Aquinum](https://pleiades.stoa.org/places/432695)
 
 
 ## Aquis Querquennis (Q3394481)
@@ -6170,6 +6184,13 @@
 
 ### alignments:
  - [Avennio](https://pleiades.stoa.org/places/148004)
+
+
+## Avola (Q489929)
+[https://www.wikidata.org/wiki/Q489929](https://www.wikidata.org/wiki/Q489929)  
+
+### alignments:
+ - [Abolla](https://pleiades.stoa.org/places/462063)
 
 
 ## Axum (Q5832)
@@ -18034,6 +18055,13 @@
  - [Euripos?](https://pleiades.stoa.org/places/530873)
 
 
+## Euromos (Q1375099)
+[https://www.wikidata.org/wiki/Q1375099](https://www.wikidata.org/wiki/Q1375099)  
+
+### alignments:
+ - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
+
+
 ## Europa (Q5412023)
 [https://www.wikidata.org/wiki/Q5412023](https://www.wikidata.org/wiki/Q5412023)  
 
@@ -18063,6 +18091,13 @@
  - [Bridge at Aspendos](https://pleiades.stoa.org/places/640251)
 
 
+## Eurymenae (Q5414041)
+[https://www.wikidata.org/wiki/Q5414041](https://www.wikidata.org/wiki/Q5414041)  
+
+### alignments:
+ - [Eurymenai](https://pleiades.stoa.org/places/540784)
+
+
 ## Eurymenai (Q5414038)
 [https://www.wikidata.org/wiki/Q5414038](https://www.wikidata.org/wiki/Q5414038)  
 
@@ -18089,6 +18124,13 @@
 
 ### alignments:
  - [Eusene](https://pleiades.stoa.org/places/857124)
+
+
+## Euthenae (Q65066102)
+[https://www.wikidata.org/wiki/Q65066102](https://www.wikidata.org/wiki/Q65066102)  
+
+### alignments:
+ - [Euthenai](https://pleiades.stoa.org/places/599617)
 
 
 ## Eutresia (Q61465857)
@@ -18131,6 +18173,13 @@
 
 ### alignments:
  - [Fag el-Gamous Cemetery](https://pleiades.stoa.org/places/913253768)
+
+
+## Fagifulae (Q3738339)
+[https://www.wikidata.org/wiki/Q3738339](https://www.wikidata.org/wiki/Q3738339)  
+
+### alignments:
+ - [Fagifulae](https://pleiades.stoa.org/places/432827)
 
 
 ## Fagutal (Q48746647)
@@ -24872,6 +24921,13 @@
  - [Cephallania (island)](https://pleiades.stoa.org/places/530826)
 
 
+## Kefken Island (Q6047559)
+[https://www.wikidata.org/wiki/Q6047559](https://www.wikidata.org/wiki/Q6047559)  
+
+### alignments:
+ - [Thynias/Apollonia/Daphnousia (island)](https://pleiades.stoa.org/places/511446)
+
+
 ## Keiriadai (Q13426463)
 [https://www.wikidata.org/wiki/Q13426463](https://www.wikidata.org/wiki/Q13426463)  
 
@@ -25381,6 +25437,13 @@
 
 ### alignments:
  - [Klazomenai (earlier)](https://pleiades.stoa.org/places/550650)
+
+
+## Kleidi Roman Bridge (Q55355756)
+[https://www.wikidata.org/wiki/Q55355756](https://www.wikidata.org/wiki/Q55355756)  
+
+### alignments:
+ - [Kleidi Roman bridge (Emathia)](https://pleiades.stoa.org/places/492262)
 
 
 ## Kleinkastell Höflein (Q1746877)
@@ -32834,6 +32897,13 @@
  - [Batavodurum/(Ulpia) Noviomagus](https://pleiades.stoa.org/places/98921)
 
 
+## Nijon (Q669933)
+[https://www.wikidata.org/wiki/Q669933](https://www.wikidata.org/wiki/Q669933)  
+
+### alignments:
+ - [Noviomagus](https://pleiades.stoa.org/places/109220)
+
+
 ## Nike of Callimachus (Q1365951)
 [https://www.wikidata.org/wiki/Q1365951](https://www.wikidata.org/wiki/Q1365951)  
 
@@ -36087,6 +36157,13 @@
 
 ### alignments:
  - [Pessinous/Iustinianoupolis](https://pleiades.stoa.org/places/609500)
+
+
+## Pession (Q21556444)
+[https://www.wikidata.org/wiki/Q21556444](https://www.wikidata.org/wiki/Q21556444)  
+
+### alignments:
+ - [Pession](https://pleiades.stoa.org/places/211448)
 
 
 ## Petalioi (Q585922)
@@ -42000,13 +42077,6 @@
 
 ### alignments:
  - [Alonianum](https://pleiades.stoa.org/places/552843025)
-
-
-## Q1375099: Euromos
-[https://www.wikidata.org/wiki/Q1375099](https://www.wikidata.org/wiki/Q1375099)  
-
-### alignments:
- - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
 
 
 ## Q137557050
@@ -50868,13 +50938,6 @@
  - [Mausoleum of the Atilii at Sádaba](https://pleiades.stoa.org/places/246598)
 
 
-## Q5414041: Eurymenae
-[https://www.wikidata.org/wiki/Q5414041](https://www.wikidata.org/wiki/Q5414041)  
-
-### alignments:
- - [Eurymenai](https://pleiades.stoa.org/places/540784)
-
-
 ## Q542854: Gordium
 [https://www.wikidata.org/wiki/Q542854](https://www.wikidata.org/wiki/Q542854)  
 
@@ -58954,6 +59017,13 @@
  - [Savo (river)](https://pleiades.stoa.org/places/433108)
 
 
+## Savonnières-en-Perthois (Q1159365)
+[https://www.wikidata.org/wiki/Q1159365](https://www.wikidata.org/wiki/Q1159365)  
+
+### alignments:
+ - [Savonnières-en-Perthois](https://pleiades.stoa.org/places/109327)
+
+
 ## Savuto (Q605363)
 [https://www.wikidata.org/wiki/Q605363](https://www.wikidata.org/wiki/Q605363)  
 
@@ -66067,6 +66137,13 @@
 
 ### alignments:
  - [Torre de San Josep](https://pleiades.stoa.org/places/823633465)
+
+
+## Tozeur (Q504661)
+[https://www.wikidata.org/wiki/Q504661](https://www.wikidata.org/wiki/Q504661)  
+
+### alignments:
+ - [Thusuros](https://pleiades.stoa.org/places/334643)
 
 
 ## Trabzon (Q45301)

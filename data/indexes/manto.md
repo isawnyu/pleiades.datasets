@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-787 alignments exist in _Pleiades_ place references as of 2026-01-16. The following list of alignments is grouped by zotkey.
+788 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2793,6 +2793,13 @@
 
 ### alignments:
  - [Argos Orestikon](https://pleiades.stoa.org/places/481739)
+
+
+## 11307721: Erymnai (Thessaly)
+[https://resource.manto.unh.edu/11307721](https://resource.manto.unh.edu/11307721)  
+
+### alignments:
+ - [Eurymenai](https://pleiades.stoa.org/places/540784)
 
 
 ## 11307761: Lake Nessonis (Thessaly)
