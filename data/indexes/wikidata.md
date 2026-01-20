@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10130 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
+10135 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5521,6 +5521,13 @@
  - [Astakos](https://pleiades.stoa.org/places/511169)
 
 
+## Astakida (Q5428659)
+[https://www.wikidata.org/wiki/Q5428659](https://www.wikidata.org/wiki/Q5428659)  
+
+### alignments:
+ - [Caminia (island)](https://pleiades.stoa.org/places/560331)
+
+
 ## Astapa (Q11907034)
 [https://www.wikidata.org/wiki/Q11907034](https://www.wikidata.org/wiki/Q11907034)  
 
@@ -9992,6 +9999,13 @@
  - [*Camboglanna](https://pleiades.stoa.org/places/89133)
 
 
+## Cambolectres (Q2827380)
+[https://www.wikidata.org/wiki/Q2827380](https://www.wikidata.org/wiki/Q2827380)  
+
+### alignments:
+ - [Cambolectri](https://pleiades.stoa.org/places/246282)
+
+
 ## Camelon (Samian Ware Discovery Site) (Q103158546)
 [https://www.wikidata.org/wiki/Q103158546](https://www.wikidata.org/wiki/Q103158546)  
 
@@ -10001,6 +10015,13 @@
 
 ## Camerino (Q73489)
 [https://www.wikidata.org/wiki/Q73489](https://www.wikidata.org/wiki/Q73489)  
+
+### alignments:
+ - [Camerinum](https://pleiades.stoa.org/places/413060)
+
+
+## Camerinum (Q136340006)
+[https://www.wikidata.org/wiki/Q136340006](https://www.wikidata.org/wiki/Q136340006)  
 
 ### alignments:
  - [Camerinum](https://pleiades.stoa.org/places/413060)
@@ -21154,6 +21175,13 @@
  - [Haliakmon (river)](https://pleiades.stoa.org/places/491614)
 
 
+## Halicarnassus (Q5843680)
+[https://www.wikidata.org/wiki/Q5843680](https://www.wikidata.org/wiki/Q5843680)  
+
+### alignments:
+ - [Halicarnassus/Halikarnassos](https://pleiades.stoa.org/places/599636)
+
+
 ## Halimous (Q13464895)
 [https://www.wikidata.org/wiki/Q13464895](https://www.wikidata.org/wiki/Q13464895)  
 
@@ -22055,6 +22083,13 @@
 
 ### alignments:
  - [Hippola](https://pleiades.stoa.org/places/570294)
+
+
+## Hippos (Q1620075)
+[https://www.wikidata.org/wiki/Q1620075](https://www.wikidata.org/wiki/Q1620075)  
+
+### alignments:
+ - [Hippos](https://pleiades.stoa.org/places/678185)
 
 
 ## Hippotae (Q5898366)
@@ -24491,6 +24526,13 @@
 
 ### alignments:
  - [Kamares](https://pleiades.stoa.org/places/187018676)
+
+
+## Kameiros (Q1231539)
+[https://www.wikidata.org/wiki/Q1231539](https://www.wikidata.org/wiki/Q1231539)  
+
+### alignments:
+ - [Kamiros](https://pleiades.stoa.org/places/589836)
 
 
 ## Kaminahu (Q129332)
@@ -50943,13 +50985,6 @@
 
 ### alignments:
  - [Gordion/Vindia?](https://pleiades.stoa.org/places/609393)
-
-
-## Q5428659
-[https://www.wikidata.org/wiki/Q5428659](https://www.wikidata.org/wiki/Q5428659)  
-
-### alignments:
- - [Caminia (island)](https://pleiades.stoa.org/places/560331)
 
 
 ## Q5431856: Falerii Veteres

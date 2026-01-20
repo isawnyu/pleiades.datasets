@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4797 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
+4799 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5436,6 +5436,13 @@
 
 ### alignments:
  - [Baesippo](https://pleiades.stoa.org/places/256007)
+
+
+## Baetica region (Hispania)
+[https://topostext.org/place/372-56RBae](https://topostext.org/place/372-56RBae)  
+
+### alignments:
+ - [Baetica](https://pleiades.stoa.org/places/862)
 
 
 ## Baetis river (Iberia)
@@ -28857,6 +28864,13 @@
 
 ### alignments:
  - [Sirra](https://pleiades.stoa.org/places/501616)
+
+
+## Sisauranon (Mesopotamia)
+[https://topostext.org/place/371416FSis](https://topostext.org/place/371416FSis)  
+
+### alignments:
+ - [Sarbane/Sisara](https://pleiades.stoa.org/places/874680)
 
 
 ## Sistrouni site (Thesprotia)  Sistrouni - Σιστρούνι

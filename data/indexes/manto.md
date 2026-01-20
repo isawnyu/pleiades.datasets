@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-788 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
+790 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2310,6 +2310,13 @@
 
 ### alignments:
  - [Geronthrai](https://pleiades.stoa.org/places/570263)
+
+
+## 11289315: Halicarnassos (Caria)
+[https://resource.manto.unh.edu/11289315](https://resource.manto.unh.edu/11289315)  
+
+### alignments:
+ - [Halicarnassus/Halikarnassos](https://pleiades.stoa.org/places/599636)
 
 
 ## 11289316: Myndos (Caria)
@@ -4958,6 +4965,13 @@
 
 ### alignments:
  - [Ialysos](https://pleiades.stoa.org/places/589815)
+
+
+## 9719449: Cameiros (Rhodes)
+[https://resource.manto.unh.edu/9719449](https://resource.manto.unh.edu/9719449)  
+
+### alignments:
+ - [Kamiros](https://pleiades.stoa.org/places/589836)
 
 
 ## 9719452: River Selleis (Peloponnese)

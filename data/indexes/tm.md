@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4867 alignments exist in _Pleiades_ place references as of 2026-01-19. The following list of alignments is grouped by zotkey.
+4867 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -32863,7 +32863,7 @@
  - [Tel Shiqmona](https://pleiades.stoa.org/places/678404)
 
 
-## GEO ID 732
+## GEO ID 732: Halikarnassos (Bodrum)
 [http://www.trismegistos.org/place/732](http://www.trismegistos.org/place/732)  
 
 ### alignments:
