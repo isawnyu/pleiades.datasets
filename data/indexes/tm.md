@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4867 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
+4868 alignments exist in _Pleiades_ place references as of 2026-01-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1687,6 +1687,13 @@
 
 ### alignments:
  - [Bethar](https://pleiades.stoa.org/places/687851)
+
+
+## Geo 38502: Suebi
+[https://www.trismegistos.org/place/38502](https://www.trismegistos.org/place/38502)  
+
+### alignments:
+ - [Suebi](https://pleiades.stoa.org/places/99040)
 
 
 ## Geo 38: Achaia
@@ -22523,6 +22530,13 @@
  - [Nazala](https://pleiades.stoa.org/places/668315)
 
 
+## GEO ID 41017: Flenio (Vlaardingen)
+[https://www.trismegistos.org/place/41017](https://www.trismegistos.org/place/41017)  
+
+### alignments:
+ - [Flenium](https://pleiades.stoa.org/places/668593351)
+
+
 ## GEO ID 41018: Tablis (Oud-Alblas)
 [http://www.trismegistos.org/place/41018](http://www.trismegistos.org/place/41018)  
 
@@ -33737,13 +33751,6 @@
 
 ### alignments:
  - [Metaurus (river)](https://pleiades.stoa.org/places/413199)
-
-
-## GEO ID, 38502: Suebi
-[www.trismegistos.org/place/38502](www.trismegistos.org/place/38502)  
-
-### alignments:
- - [Suebi](https://pleiades.stoa.org/places/99040)
 
 
 ## GEO ID, 40502: Caesariana

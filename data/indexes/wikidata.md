@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10135 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
+10138 alignments exist in _Pleiades_ place references as of 2026-01-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -14317,6 +14317,13 @@
 
 ### alignments:
  - [Consabura/Consabrum](https://pleiades.stoa.org/places/265876)
+
+
+## Consoranni (Q2994739)
+[https://www.wikidata.org/wiki/Q2994739](https://www.wikidata.org/wiki/Q2994739)  
+
+### alignments:
+ - [Consoranni](https://pleiades.stoa.org/places/246354)
 
 
 ## Constantiana Daphne (Q5163686)
@@ -35198,6 +35205,13 @@
 
 ### alignments:
  - [Palmyrene Gate](https://pleiades.stoa.org/places/980015057)
+
+
+## Palsicium (Q137793838)
+[https://www.wikidata.org/wiki/Q137793838](https://www.wikidata.org/wiki/Q137793838)  
+
+### alignments:
+ - [Palsicium](https://pleiades.stoa.org/places/663248804)
 
 
 ## Palumbinum (Q11939937)
@@ -57741,6 +57755,13 @@
 
 ### alignments:
  - [Sangarius (river)](https://pleiades.stoa.org/places/511406)
+
+
+## Sala Consilina (Q81474)
+[https://www.wikidata.org/wiki/Q81474](https://www.wikidata.org/wiki/Q81474)  
+
+### alignments:
+ - [Sala Consilina](https://pleiades.stoa.org/places/442757)
 
 
 ## Salamboreia (Q85799236)

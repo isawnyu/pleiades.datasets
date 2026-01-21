@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2290 alignments exist in _Pleiades_ place references as of 2026-01-20. The following list of alignments is grouped by zotkey.
+2291 alignments exist in _Pleiades_ place references as of 2026-01-21. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1602,6 +1602,13 @@
 
 ### alignments:
  - [Aurelium Cananefatium/Forum Hadriani](https://pleiades.stoa.org/places/98918)
+
+
+## 1A2 (Talbert 564)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace564.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace564.html)  
+
+### alignments:
+ - [Flenium](https://pleiades.stoa.org/places/668593351)
 
 
 ## 1A2 (Talbert 565)
