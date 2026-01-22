@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10138 alignments exist in _Pleiades_ place references as of 2026-01-21. The following list of alignments is grouped by zotkey.
+10139 alignments exist in _Pleiades_ place references as of 2026-01-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -64681,6 +64681,13 @@
 
 ### alignments:
  - [Sybaris/Thurii/Copia](https://pleiades.stoa.org/places/452457)
+
+
+## Thurnham Roman villa (Q137841956)
+[http://www.wikidata.org/entity/Q137841956](http://www.wikidata.org/entity/Q137841956)  
+
+### alignments:
+ - [Thurnham Roman villa](https://pleiades.stoa.org/places/779867419)
 
 
 ## Thymaitadai (Q13426469)
