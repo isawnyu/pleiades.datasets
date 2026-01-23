@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-790 alignments exist in _Pleiades_ place references as of 2026-01-22. The following list of alignments is grouped by zotkey.
+791 alignments exist in _Pleiades_ place references as of 2026-01-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1673,6 +1673,13 @@
 
 ### alignments:
  - [Dion](https://pleiades.stoa.org/places/491572)
+
+
+## 10268183: Priene (Asia Minor)
+[https://resource.manto.unh.edu/10268183](https://resource.manto.unh.edu/10268183)  
+
+### alignments:
+ - [Priene/‘Lince’?](https://pleiades.stoa.org/places/599905)
 
 
 ## 10268192: Myous

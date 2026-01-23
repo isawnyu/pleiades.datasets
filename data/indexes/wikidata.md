@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10139 alignments exist in _Pleiades_ place references as of 2026-01-22. The following list of alignments is grouped by zotkey.
+10139 alignments exist in _Pleiades_ place references as of 2026-01-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9504,6 +9504,7 @@
 ### alignments:
  - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
  - [Auximum](https://pleiades.stoa.org/places/413045)
+ - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
  - [Cannatello](https://pleiades.stoa.org/places/491524938)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
  - [Eduranna](https://pleiades.stoa.org/places/175425813)
@@ -18453,13 +18454,6 @@
 
 ### alignments:
  - [Ferentinum](https://pleiades.stoa.org/places/432830)
-
-
-## Feres Q943354
-[]()  
-
-### alignments:
- - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
 
 
 ## Fern Pass (Q667984)
@@ -30741,6 +30735,13 @@
  - [Skinburness](https://pleiades.stoa.org/places/504812865)
 
 
+## Miletus (Q169460)
+[https://www.wikidata.org/wiki/Q169460](https://www.wikidata.org/wiki/Q169460)  
+
+### alignments:
+ - [Miletus](https://pleiades.stoa.org/places/599799)
+
+
 ## Military base, Dura-Europos (Q116622098)
 [https://www.wikidata.org/wiki/Q116622098](https://www.wikidata.org/wiki/Q116622098)  
 
@@ -38344,6 +38345,13 @@
  - [Priddy Circles](https://pleiades.stoa.org/places/90685466)
 
 
+## Priene (Q142819)
+[https://www.wikidata.org/wiki/Q142819](https://www.wikidata.org/wiki/Q142819)  
+
+### alignments:
+ - [Priene/‘Lince’?](https://pleiades.stoa.org/places/599905)
+
+
 ## Prifernum (Q124158074)
 [https://www.wikidata.org/wiki/Q124158074](https://www.wikidata.org/wiki/Q124158074)  
 
@@ -43542,13 +43550,6 @@
 
 ### alignments:
  - [Tell Chuēra/Harbe](https://pleiades.stoa.org/places/677382294)
-
-
-## Q169460: Miletus
-[https://www.wikidata.org/wiki/Q169460](https://www.wikidata.org/wiki/Q169460)  
-
-### alignments:
- - [Miletus](https://pleiades.stoa.org/places/599799)
 
 
 ## Q1696315: Castra Mediana
