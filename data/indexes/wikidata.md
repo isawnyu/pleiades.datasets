@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10139 alignments exist in _Pleiades_ place references as of 2026-01-23. The following list of alignments is grouped by zotkey.
+10150 alignments exist in _Pleiades_ place references as of 2026-01-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -188,6 +188,13 @@
 
 ### alignments:
  - [Abd al Kuri (island)](https://pleiades.stoa.org/places/655630899)
+
+
+## Abdah (Q791665)
+[https://www.wikidata.org/wiki/Q791665](https://www.wikidata.org/wiki/Q791665)  
+
+### alignments:
+ - [Eboda](https://pleiades.stoa.org/places/687887)
 
 
 ## Abdera (Q576408)
@@ -995,6 +1002,13 @@
 
 ### alignments:
  - [Aigospotamos](https://pleiades.stoa.org/places/501336)
+
+
+## Aelia Capitolina (Q1250874)
+[https://www.wikidata.org/wiki/Q1250874](https://www.wikidata.org/wiki/Q1250874)  
+
+### alignments:
+ - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
 
 
 ## Aemilia (Q2409251)
@@ -2683,13 +2697,6 @@
 
 ### alignments:
  - [Amphitheater of Alba Fucens](https://pleiades.stoa.org/places/535296216)
-
-
-## Amphitheatre of Eleutheropolis (Q30335930)
-[https://www.wikidata.org/wiki/Q30335930](https://www.wikidata.org/wiki/Q30335930)  
-
-### alignments:
- - [Roman amphitheater at Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/52124866)
 
 
 ## Amphitheatre of Oudna (Q13429354)
@@ -7391,6 +7398,13 @@
  - [Bayon at Angkor Thom](https://pleiades.stoa.org/places/96853716)
 
 
+## Bayt Jibrin (Q556637)
+[https://www.wikidata.org/wiki/Q556637](https://www.wikidata.org/wiki/Q556637)  
+
+### alignments:
+ - [Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/687854)
+
+
 ## Baâlon (Q473100)
 [https://www.wikidata.org/wiki/Q473100](https://www.wikidata.org/wiki/Q473100)  
 
@@ -10131,6 +10145,13 @@
 
 ### alignments:
  - [Cangas de Onís](https://pleiades.stoa.org/places/154654590)
+
+
+## Cannae (Q568611)
+[https://www.wikidata.org/wiki/Q568611](https://www.wikidata.org/wiki/Q568611)  
+
+### alignments:
+ - [Cannae](https://pleiades.stoa.org/places/442523)
 
 
 ## Canonica d'Adda (Q100135)
@@ -17412,6 +17433,13 @@
  - [Eleusis](https://pleiades.stoa.org/places/599607)
 
 
+## Eleutheropolis amphitheatre (Q28974152)
+[https://www.wikidata.org/wiki/Q28974152](https://www.wikidata.org/wiki/Q28974152)  
+
+### alignments:
+ - [Roman amphitheater at Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/52124866)
+
+
 ## Elimiotis (Q1329498)
 [https://www.wikidata.org/wiki/Q1329498](https://www.wikidata.org/wiki/Q1329498)  
 
@@ -21071,6 +21099,13 @@
  - [Hadrumetum/Iustinianopolis](https://pleiades.stoa.org/places/324716)
 
 
+## Haemimontus (Q1567711)
+[https://www.wikidata.org/wiki/Q1567711](https://www.wikidata.org/wiki/Q1567711)  
+
+### alignments:
+ - [Haemimontus](https://pleiades.stoa.org/places/991377)
+
+
 ## Haemoniae (Q39081796)
 [https://www.wikidata.org/wiki/Q39081796](https://www.wikidata.org/wiki/Q39081796)  
 
@@ -21223,6 +21258,13 @@
 
 ### alignments:
  - [Haltwhistle Burn Temporary Camp 4](https://pleiades.stoa.org/places/711363920)
+
+
+## Haluza (Q923921)
+[https://www.wikidata.org/wiki/Q923921](https://www.wikidata.org/wiki/Q923921)  
+
+### alignments:
+ - [Elousa](https://pleiades.stoa.org/places/687890)
 
 
 ## Ham Hill (Q15222650)
@@ -22084,6 +22126,13 @@
 
 ### alignments:
  - [Hippola](https://pleiades.stoa.org/places/570294)
+
+
+## Hipponion (Q16328376)
+[https://www.wikidata.org/wiki/Q16328376](https://www.wikidata.org/wiki/Q16328376)  
+
+### alignments:
+ - [Hipponion/Vibo Valentia](https://pleiades.stoa.org/places/452337)
 
 
 ## Hippos (Q1620075)
@@ -24149,6 +24198,13 @@
 
 ### alignments:
  - [Seria](https://pleiades.stoa.org/places/256444)
+
+
+## Jerusalem (Q1218)
+[https://www.wikidata.org/wiki/Q1218](https://www.wikidata.org/wiki/Q1218)  
+
+### alignments:
+ - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
 
 
 ## Jesi (Q13144)
@@ -33843,6 +33899,13 @@
  - [Oberscheidental](https://pleiades.stoa.org/places/118890)
 
 
+## Occhiolà (Q3880684)
+[https://www.wikidata.org/wiki/Q3880684](https://www.wikidata.org/wiki/Q3880684)  
+
+### alignments:
+ - [Terravecchia di Grammichele](https://pleiades.stoa.org/places/462510)
+
+
 ## Ocelis (Q7076260)
 [https://www.wikidata.org/wiki/Q7076260](https://www.wikidata.org/wiki/Q7076260)  
 
@@ -39899,6 +39962,13 @@
  - [Castel Malnome (Ponte Galeria)](https://pleiades.stoa.org/places/133309568)
 
 
+## Q110205848
+[https://www.wikidata.org/wiki/Q110205848](https://www.wikidata.org/wiki/Q110205848)  
+
+### alignments:
+ - [Mura greche di Hipponion](https://pleiades.stoa.org/places/338962038)
+
+
 ## Q110239443: Temple of Iuno Moneta at Signia
 [https://www.wikidata.org/wiki/Q110239443](https://www.wikidata.org/wiki/Q110239443)  
 
@@ -40642,13 +40712,6 @@
  - [Shakenoak](https://pleiades.stoa.org/places/79681)
 
 
-## Q1218: Jerusalem
-[https://www.wikidata.org/wiki/Q1218](https://www.wikidata.org/wiki/Q1218)  
-
-### alignments:
- - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
-
-
 ## Q121914186: Pontes Roman settlement
 [https://www.wikidata.org/wiki/Q121914186](https://www.wikidata.org/wiki/Q121914186)  
 
@@ -40985,13 +41048,6 @@
 
 ### alignments:
  - [Orraon/Horreum](https://pleiades.stoa.org/places/531025)
-
-
-## Q1250874: Aelia Capitolina
-[https://www.wikidata.org/wiki/Q1250874](https://www.wikidata.org/wiki/Q1250874)  
-
-### alignments:
- - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
 
 
 ## Q12508: Giza pyramid complex
@@ -42148,6 +42204,13 @@
 
 ### alignments:
  - [Ponte Taulella](https://pleiades.stoa.org/places/467960423)
+
+
+## Q137872079
+[https://www.wikidata.org/wiki/Q137872079](https://www.wikidata.org/wiki/Q137872079)  
+
+### alignments:
+ - [Terravecchia di Cuti](https://pleiades.stoa.org/places/462509)
 
 
 ## Q1385554: Plestia
@@ -44776,13 +44839,6 @@
 
 ### alignments:
  - [Berenikidai](https://pleiades.stoa.org/places/585895)
-
-
-## Q19680745: Vergellus river
-[https://www.wikidata.org/wiki/Q19680745](https://www.wikidata.org/wiki/Q19680745)  
-
-### alignments:
- - [Vergellus (river)](https://pleiades.stoa.org/places/446305)
 
 
 ## Q19686: River Thames
@@ -66581,6 +66637,13 @@
  - [Triokala?](https://pleiades.stoa.org/places/462525)
 
 
+## Trionto (Q1324128)
+[https://www.wikidata.org/wiki/Q1324128](https://www.wikidata.org/wiki/Q1324128)  
+
+### alignments:
+ - [Traeis (river)](https://pleiades.stoa.org/places/452481)
+
+
 ## Triopium (Q65088955)
 [https://www.wikidata.org/wiki/Q65088955](https://www.wikidata.org/wiki/Q65088955)  
 
@@ -68175,6 +68238,13 @@
 
 ### alignments:
  - [Veretum/Baris](https://pleiades.stoa.org/places/442848)
+
+
+## Vergellus river (Q19680745)
+[https://www.wikidata.org/wiki/Q19680745](https://www.wikidata.org/wiki/Q19680745)  
+
+### alignments:
+ - [Vergellus (river)](https://pleiades.stoa.org/places/446305)
 
 
 ## Vergigno Roman villa (Q87441002)
@@ -70725,6 +70795,13 @@
 
 ### alignments:
  - [Aksu - Zindan Mağarası Sanctuary](https://pleiades.stoa.org/places/638837)
+
+
+## Zinga (Q18431691)
+[https://www.wikidata.org/wiki/Q18431691](https://www.wikidata.org/wiki/Q18431691)  
+
+### alignments:
+ - [Zinga](https://pleiades.stoa.org/places/452496)
 
 
 ## Ziporea (Q85817124)

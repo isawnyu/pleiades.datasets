@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4799 alignments exist in _Pleiades_ place references as of 2026-01-23. The following list of alignments is grouped by zotkey.
+4803 alignments exist in _Pleiades_ place references as of 2026-01-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -10001,6 +10001,13 @@
  - [Elone/Leimone](https://pleiades.stoa.org/places/540760)
 
 
+## Elousa (Idumaia) 3 Haluza
+[https://topostext.org/place/311347UElo](https://topostext.org/place/311347UElo)  
+
+### alignments:
+ - [Elousa](https://pleiades.stoa.org/places/687890)
+
+
 ## Elpiae/Salapia (Apulia)
 [https://topostext.org/place/414160UElp](https://topostext.org/place/414160UElp)  
 
@@ -19444,6 +19451,13 @@
 
 ### alignments:
  - [Temple of Mars Ultor](https://pleiades.stoa.org/places/823121346)
+
+
+## Marsico Nuovo (Lucania)
+[https://topostext.org/place/404157XMAR](https://topostext.org/place/404157XMAR)  
+
+### alignments:
+ - [Marsico Nuovo](https://pleiades.stoa.org/places/442646)
 
 
 ## Martyropolis (Sophene) 15 Silvan
@@ -31887,6 +31901,13 @@
  - [Trachy (mountain)](https://pleiades.stoa.org/places/570744)
 
 
+## Traens (Bruttium)
+[https://topostext.org/place/396168WTra](https://topostext.org/place/396168WTra)  
+
+### alignments:
+ - [Traeis (river)](https://pleiades.stoa.org/places/452481)
+
+
 ## Tragasai (Troad)
 [https://topostext.org/place/396262UTra](https://topostext.org/place/396262UTra)  
 
@@ -33441,6 +33462,13 @@
 
 ### alignments:
  - [Zephyrion Pr.](https://pleiades.stoa.org/places/707644)
+
+
+## Zephyrion promontory (Calabria) 9 Capo Bruzzano
+[https://topostext.org/place/380161LZep](https://topostext.org/place/380161LZep)  
+
+### alignments:
+ - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
 
 
 ## Zereia? (Chalkidike) 1 Khalkidiki - Ζερεία

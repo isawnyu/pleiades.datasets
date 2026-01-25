@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4868 alignments exist in _Pleiades_ place references as of 2026-01-23. The following list of alignments is grouped by zotkey.
+4872 alignments exist in _Pleiades_ place references as of 2026-01-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15345,6 +15345,20 @@
  - [Didymoi](https://pleiades.stoa.org/places/786015)
 
 
+## GEO ID 3129: Eleutheropolis (Beit Djibrin)
+[http://www.trismegistos.org/place/3129](http://www.trismegistos.org/place/3129)  
+
+### alignments:
+ - [Beth Govrin/Eleutheropolis](https://pleiades.stoa.org/places/687854)
+
+
+## GEO ID 3130: Elousa (Halasa)
+[http://www.trismegistos.org/place/3130](http://www.trismegistos.org/place/3130)  
+
+### alignments:
+ - [Elousa](https://pleiades.stoa.org/places/687890)
+
+
 ## GEO ID 31333: Ad Silanos (Artegna)
 [https://www.trismegistos.org/place/31333](https://www.trismegistos.org/place/31333)  
 
@@ -20751,6 +20765,13 @@
  - [Torre Mordillo](https://pleiades.stoa.org/places/452480)
 
 
+## GEO ID 38461: Balate di Marianopoli
+[http://www.trismegistos.org/place/38461](http://www.trismegistos.org/place/38461)  
+
+### alignments:
+ - [Balate di Marianopoli](https://pleiades.stoa.org/places/462109)
+
+
 ## GEO ID 38462: Omphake (Butera)
 [http://www.trismegistos.org/place/38462](http://www.trismegistos.org/place/38462)  
 
@@ -25307,6 +25328,13 @@
 
 ### alignments:
  - [Rhose](https://pleiades.stoa.org/places/682574)
+
+
+## GEO ID 42060: Caphar Zacharia (Khirbet Zikhrin)
+[https://www.trismegistos.org/place/42060](https://www.trismegistos.org/place/42060)  
+
+### alignments:
+ - [Caphar Zacharia?](https://pleiades.stoa.org/places/687871)
 
 
 ## GEO ID 42066: Psessoi
