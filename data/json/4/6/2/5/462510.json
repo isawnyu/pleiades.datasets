@@ -11,8 +11,8 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "part_of_physical",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_physical",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462492",
             "contributors": [],
             "created": "2016-12-27T13:36:46Z",
@@ -28,6 +28,11 @@
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, reference",
+                    "modified": "2026-01-24T15:10:18Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2017-07-30T15:08:51Z",
@@ -56,7 +61,19 @@
             ],
             "id": "sicilia-island",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "47 F4 Terravecchia di Grammichele",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Sicilia (island)",
@@ -124,6 +141,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-01-24T15:09:50Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-02-08T02:02:00Z",
@@ -284,10 +306,12 @@
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 F4 Terravecchia di Grammichele",
     "references": [
@@ -303,10 +327,10 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/doc/btcgi_0000-0009_1990_num_8_1_3563",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
-            "citationDetail": "VIII, 164-69",
+            "citationDetail": "VIII, 164-69 s.v. \"GRAMMICHELE\" (Dario Palermo)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977.</div>",
             "otherIdentifier": "",
@@ -322,6 +346,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
             "otherIdentifier": "",
             "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3880684",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Occhiolà (Q3880684)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
             "type": "citesAsRelated"
         }
     ],
