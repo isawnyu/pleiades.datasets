@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4872 alignments exist in _Pleiades_ place references as of 2026-01-25. The following list of alignments is grouped by zotkey.
+4874 alignments exist in _Pleiades_ place references as of 2026-01-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15233,6 +15233,13 @@
  - [Prosopites Nomos](https://pleiades.stoa.org/places/727206)
 
 
+## GEO ID 30836: Camunni
+[http://www.trismegistos.org/place/30836](http://www.trismegistos.org/place/30836)  
+
+### alignments:
+ - [Camunni](https://pleiades.stoa.org/places/383608)
+
+
 ## GEO ID 30850
 [https://www.trismegistos.org/place/30850](https://www.trismegistos.org/place/30850)  
 
@@ -15525,6 +15532,13 @@
 
 ### alignments:
  - [Album Ingaunum/Albingaunum](https://pleiades.stoa.org/places/157803)
+
+
+## GEO ID 31694: Lucus Bormani (Diano Marina)
+[https://www.trismegistos.org/place/31694](https://www.trismegistos.org/place/31694)  
+
+### alignments:
+ - [Lucus Bormani](https://pleiades.stoa.org/places/157879)
 
 
 ## GEO ID 31698: Bordighera

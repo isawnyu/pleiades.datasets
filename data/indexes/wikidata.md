@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10150 alignments exist in _Pleiades_ place references as of 2026-01-25. The following list of alignments is grouped by zotkey.
+10151 alignments exist in _Pleiades_ place references as of 2026-01-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10110,6 +10110,13 @@
 
 ### alignments:
  - [Col. Camulodunum](https://pleiades.stoa.org/places/79393)
+
+
+## Camunni (Q1031802)
+[https://www.wikidata.org/wiki/Q1031802](https://www.wikidata.org/wiki/Q1031802)  
+
+### alignments:
+ - [Camunni](https://pleiades.stoa.org/places/383608)
 
 
 ## Canal of Drusus (Q1391392)
@@ -49901,13 +49908,6 @@
  - [Via Flavia](https://pleiades.stoa.org/places/855236251)
 
 
-## Q4010638: Via Hadriana
-[https://www.wikidata.org/wiki/Q4010638](https://www.wikidata.org/wiki/Q4010638)  
-
-### alignments:
- - [Via Hadriana](https://pleiades.stoa.org/places/632192759)
-
-
 ## Q4010652: Via Laurentina
 [https://www.wikidata.org/wiki/Q4010652](https://www.wikidata.org/wiki/Q4010652)  
 
@@ -68532,6 +68532,13 @@
 
 ### alignments:
  - [Via Gemina](https://pleiades.stoa.org/places/926322241)
+
+
+## Via Hadriana (Q4010638)
+[https://www.wikidata.org/wiki/Q4010638](https://www.wikidata.org/wiki/Q4010638)  
+
+### alignments:
+ - [Via Hadriana](https://pleiades.stoa.org/places/632192759)
 
 
 ## Via Herculia (Q4010639)
