@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4874 alignments exist in _Pleiades_ place references as of 2026-01-26. The following list of alignments is grouped by zotkey.
+4874 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1305,7 +1305,7 @@
 
 
 ## Geo 3554: Bactria
-[www.trismegistos.org/place/3554](www.trismegistos.org/place/3554)  
+[https://www.trismegistos.org/place/3554](https://www.trismegistos.org/place/3554)  
 
 ### alignments:
  - [Bactria (region)](https://pleiades.stoa.org/places/971705)
@@ -25348,7 +25348,7 @@
 [https://www.trismegistos.org/place/42060](https://www.trismegistos.org/place/42060)  
 
 ### alignments:
- - [Caphar Zacharia?](https://pleiades.stoa.org/places/687871)
+ - [Khirbet Zikhrin](https://pleiades.stoa.org/places/687871)
 
 
 ## GEO ID 42066: Psessoi
@@ -30648,7 +30648,7 @@
  - [Letoon](https://pleiades.stoa.org/places/638958)
 
 
-## GEO ID 56106
+## GEO ID 56106: Ophioussa (Türkeli Adası)
 [https://www.trismegistos.org/place/56106](https://www.trismegistos.org/place/56106)  
 
 ### alignments:

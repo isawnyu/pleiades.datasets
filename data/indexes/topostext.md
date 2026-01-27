@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4803 alignments exist in _Pleiades_ place references as of 2026-01-26. The following list of alignments is grouped by zotkey.
+4808 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -12193,7 +12193,7 @@
 [https://topostext.org/place/405276IHal](https://topostext.org/place/405276IHal)  
 
 ### alignments:
- - [Halone](https://pleiades.stoa.org/places/511262)
+ - [Halone (settlement)](https://pleiades.stoa.org/places/511262)
 
 
 ## Halonessos (Ionia)
@@ -15892,6 +15892,13 @@
  - [Kleidi Roman bridge (Emathia)](https://pleiades.stoa.org/places/492262)
 
 
+## Kleidi site (Eleia) Kleidi - Κλειδί
+[https://topostext.org/place/375216XKle](https://topostext.org/place/375216XKle)  
+
+### alignments:
+ - [Kleidí](https://pleiades.stoa.org/places/584922399)
+
+
 ## Kleisoura fort (Ioannina)  Kouklesi - Κλεισούρα
 [https://topostext.org/place/394209FKle](https://topostext.org/place/394209FKle)  
 
@@ -19306,6 +19313,13 @@
  - [Marathos](https://pleiades.stoa.org/places/668306)
 
 
+## Marcellino ‐ Roccanova (Lucania)
+[https://topostext.org/place/401162XMAR](https://topostext.org/place/401162XMAR)  
+
+### alignments:
+ - [Roccanova](https://pleiades.stoa.org/places/452420)
+
+
 ## Marcianopolis (Thrace)
 [https://topostext.org/place/432276UMar](https://topostext.org/place/432276UMar)  
 
@@ -21785,6 +21799,13 @@
 
 ### alignments:
  - [Oche (mountain)](https://pleiades.stoa.org/places/540965)
+
+
+## Ocinarus (Italia) 2 Savuto
+[https://topostext.org/place/390161WSav](https://topostext.org/place/390161WSav)  
+
+### alignments:
+ - [Sabutus (river)](https://pleiades.stoa.org/places/452424)
 
 
 ## Ocriculum (Italy)
@@ -27664,6 +27685,13 @@
  - [Sagalassos](https://pleiades.stoa.org/places/639087)
 
 
+## Sagra river (Bruttium)
+[https://topostext.org/place/384164WSag](https://topostext.org/place/384164WSag)  
+
+### alignments:
+ - [Sagra(s) (river)](https://pleiades.stoa.org/places/452425)
+
+
 ## Saguntum (Iberia)
 [https://topostext.org/place/397-03USag](https://topostext.org/place/397-03USag)  
 
@@ -27824,6 +27852,13 @@
 
 ### alignments:
  - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
+
+
+## Samian Poseidon Sanctuary (Triphylia) 5 Kato Samiko
+[https://topostext.org/place/375216SSaP](https://topostext.org/place/375216SSaP)  
+
+### alignments:
+ - [Samian Poseidon Sanctuary (Triphylia)](https://pleiades.stoa.org/places/584922400)
 
 
 ## Samikon/Samia (Eleia)

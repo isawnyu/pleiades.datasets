@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10151 alignments exist in _Pleiades_ place references as of 2026-01-26. The following list of alignments is grouped by zotkey.
+10158 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1389,6 +1389,13 @@
  - [Agrinion](https://pleiades.stoa.org/places/540599)
 
 
+## Ahhiyawa (Q552241)
+[https://www.wikidata.org/wiki/Q552241](https://www.wikidata.org/wiki/Q552241)  
+
+### alignments:
+ - [Aḫḫiyawa](https://pleiades.stoa.org/places/264413635)
+
+
 ## Ai Lia temples (Q111086427)
 [https://www.wikidata.org/wiki/Q111086427](https://www.wikidata.org/wiki/Q111086427)  
 
@@ -2095,6 +2102,13 @@
 
 ### alignments:
  - [Allahdino](https://pleiades.stoa.org/places/398671587)
+
+
+## Allaro (Q2837805)
+[https://www.wikidata.org/wiki/Q2837805](https://www.wikidata.org/wiki/Q2837805)  
+
+### alignments:
+ - [Sagra(s) (river)](https://pleiades.stoa.org/places/452425)
 
 
 ## Allem Daur (Q104904275)
@@ -17930,6 +17944,13 @@
  - [Erythrai](https://pleiades.stoa.org/places/550535)
 
 
+## Erythras (Q65070085)
+[https://www.wikidata.org/wiki/Q65070085](https://www.wikidata.org/wiki/Q65070085)  
+
+### alignments:
+ - [Erythras?](https://pleiades.stoa.org/places/550536)
+
+
 ## Erzurum (Q122803)
 [https://www.wikidata.org/wiki/Q122803](https://www.wikidata.org/wiki/Q122803)  
 
@@ -18012,6 +18033,13 @@
 
 ### alignments:
  - [Eukarpia](https://pleiades.stoa.org/places/609378)
+
+
+## Euganei (Q608519)
+[https://www.wikidata.org/wiki/Q608519](https://www.wikidata.org/wiki/Q608519)  
+
+### alignments:
+ - [Euganeae gentes](https://pleiades.stoa.org/places/20254884)
 
 
 ## Euhippe (Q85759769)
@@ -35892,6 +35920,20 @@
 
 ### alignments:
  - [Pazarlı Höyük](https://pleiades.stoa.org/places/172158348)
+
+
+## Paşalimanı (Q6581351)
+[https://www.wikidata.org/wiki/Q6581351](https://www.wikidata.org/wiki/Q6581351)  
+
+### alignments:
+ - [Halone (settlement)](https://pleiades.stoa.org/places/511262)
+
+
+## Paşalimanı Island (Q3083368)
+[https://www.wikidata.org/wiki/Q3083368](https://www.wikidata.org/wiki/Q3083368)  
+
+### alignments:
+ - [Halone (island)](https://pleiades.stoa.org/places/511263)
 
 
 ## Pech Maho (Q3373902)
@@ -58015,6 +58057,13 @@
 
 ### alignments:
  - [Samḥa (island)](https://pleiades.stoa.org/places/900159789)
+
+
+## Samian Poseidon sanctuary (Q131513358)
+[https://www.wikidata.org/wiki/Q131513358](https://www.wikidata.org/wiki/Q131513358)  
+
+### alignments:
+ - [Samian Poseidon Sanctuary (Triphylia)](https://pleiades.stoa.org/places/584922400)
 
 
 ## Samiopoula (Q1811108)
