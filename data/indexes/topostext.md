@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4808 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
+4809 alignments exist in _Pleiades_ place references as of 2026-01-28. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11437,6 +11437,13 @@
 
 ### alignments:
  - [Gebala](https://pleiades.stoa.org/places/246405)
+
+
+## Gedrosia (Persia)
+[https://topostext.org/place/266639RGed](https://topostext.org/place/266639RGed)  
+
+### alignments:
+ - [Gedrosia](https://pleiades.stoa.org/places/29573)
 
 
 ## Gela (Sicily)

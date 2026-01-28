@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4874 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
+4875 alignments exist in _Pleiades_ place references as of 2026-01-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25784,6 +25784,13 @@
 
 ### alignments:
  - [Antiochia Tharmata/Arma](https://pleiades.stoa.org/places/60420)
+
+
+## GEO ID 42317: Gedrosia
+[https://www.trismegistos.org/place/42317](https://www.trismegistos.org/place/42317)  
+
+### alignments:
+ - [Gedrosia](https://pleiades.stoa.org/places/29573)
 
 
 ## GEO ID 42326: Taprobane (Sri Lanka)

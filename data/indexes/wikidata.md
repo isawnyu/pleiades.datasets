@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10158 alignments exist in _Pleiades_ place references as of 2026-01-27. The following list of alignments is grouped by zotkey.
+10160 alignments exist in _Pleiades_ place references as of 2026-01-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6653,6 +6653,13 @@
 
 ### alignments:
  - [balneum Caesaris](https://pleiades.stoa.org/places/623982917)
+
+
+## Balochistan (Q181103)
+[https://www.wikidata.org/wiki/Q181103](https://www.wikidata.org/wiki/Q181103)  
+
+### alignments:
+ - [Balochistan (region)](https://pleiades.stoa.org/places/84624811)
 
 
 ## Balsa (Q2881532)
@@ -16394,6 +16401,13 @@
 
 ### alignments:
  - [Domus of Publius Confuleius Sabbio](https://pleiades.stoa.org/places/715839055)
+
+
+## Domus of Salvius (Q137906638)
+[https://www.wikidata.org/wiki/Q137906638](https://www.wikidata.org/wiki/Q137906638)  
+
+### alignments:
+ - [Domus of Salvius](https://pleiades.stoa.org/places/285658925)
 
 
 ## Domus of the figurative emblem (Q124359392)
@@ -32464,6 +32478,13 @@
  - [Nauportus](https://pleiades.stoa.org/places/197401)
 
 
+## Nausharo (Q2039702)
+[https://www.wikidata.org/wiki/Q2039702](https://www.wikidata.org/wiki/Q2039702)  
+
+### alignments:
+ - [Nausharo](https://pleiades.stoa.org/places/841214211)
+
+
 ## Naustathmus (Q65047435)
 [https://www.wikidata.org/wiki/Q65047435](https://www.wikidata.org/wiki/Q65047435)  
 
@@ -45287,13 +45308,6 @@
 
 ### alignments:
  - [Shrine of Venus Cloacina](https://pleiades.stoa.org/places/674507252)
-
-
-## Q2039702: Nausharo
-[https://www.wikidata.org/wiki/Q2039702](https://www.wikidata.org/wiki/Q2039702)  
-
-### alignments:
- - [Nausharo](https://pleiades.stoa.org/places/841214211)
 
 
 ## Q204728: Chalkidiki
