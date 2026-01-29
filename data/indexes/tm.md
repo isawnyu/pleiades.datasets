@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4875 alignments exist in _Pleiades_ place references as of 2026-01-28. The following list of alignments is grouped by zotkey.
+4877 alignments exist in _Pleiades_ place references as of 2026-01-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25582,11 +25582,25 @@
  - [Ad Herculem](https://pleiades.stoa.org/places/897700)
 
 
+## GEO ID 42166: Danas
+[https://www.trismegistos.org/place/42166](https://www.trismegistos.org/place/42166)  
+
+### alignments:
+ - [Danas/Rundanas/Rudanas](https://pleiades.stoa.org/places/897759)
+
+
 ## GEO ID 42169: Peloriarca
 [https://www.trismegistos.org/place/42169](https://www.trismegistos.org/place/42169)  
 
 ### alignments:
  - [Peloriarca/Peloriacha/Peloriarcha/Peloriaca](https://pleiades.stoa.org/places/897825)
+
+
+## GEO ID 42171: Tiona
+[https://www.trismegistos.org/place/42171](https://www.trismegistos.org/place/42171)  
+
+### alignments:
+ - [Tiona/Titana (river)](https://pleiades.stoa.org/places/897862)
 
 
 ## GEO ID 42172: Bisutun

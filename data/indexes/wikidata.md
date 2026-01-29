@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10160 alignments exist in _Pleiades_ place references as of 2026-01-28. The following list of alignments is grouped by zotkey.
+10161 alignments exist in _Pleiades_ place references as of 2026-01-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -35633,6 +35633,13 @@
 
 ### alignments:
  - [Papremis](https://pleiades.stoa.org/places/730136)
+
+
+## Paradan (Q3895318)
+[https://www.wikidata.org/wiki/Q3895318](https://www.wikidata.org/wiki/Q3895318)  
+
+### alignments:
+ - [Paradene](https://pleiades.stoa.org/places/60621)
 
 
 ## Paraetacene (Q20108602)
