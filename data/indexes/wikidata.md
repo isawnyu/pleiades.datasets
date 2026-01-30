@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10161 alignments exist in _Pleiades_ place references as of 2026-01-29. The following list of alignments is grouped by zotkey.
+10167 alignments exist in _Pleiades_ place references as of 2026-01-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5941,6 +5941,13 @@
  - [The "Auditorium site" at the Auditorium Parco della Musica (Rome)](https://pleiades.stoa.org/places/721060792)
 
 
+## Augers-en-Brie (Q760408)
+[https://www.wikidata.org/wiki/Q760408](https://www.wikidata.org/wiki/Q760408)  
+
+### alignments:
+ - [Augers-en-Brie](https://pleiades.stoa.org/places/108769)
+
+
 ## Augst amphitheatre (Q29001161)
 [https://www.wikidata.org/wiki/Q29001161](https://www.wikidata.org/wiki/Q29001161)  
 
@@ -9816,6 +9823,13 @@
 
 ### alignments:
  - [Caesarodunum](https://pleiades.stoa.org/places/138255)
+
+
+## Caesaromagus (Q1025460)
+[https://www.wikidata.org/wiki/Q1025460](https://www.wikidata.org/wiki/Q1025460)  
+
+### alignments:
+ - [Caesaromagus](https://pleiades.stoa.org/places/108844)
 
 
 ## Caesaromagus (Q1025463)
@@ -21463,6 +21477,13 @@
  - [Harpleia](https://pleiades.stoa.org/places/573244)
 
 
+## Harpole Roman villa (Q137919525)
+[http://www.wikidata.org/entity/Q137919525](http://www.wikidata.org/entity/Q137919525)  
+
+### alignments:
+ - [Harpole Roman villa](https://pleiades.stoa.org/places/438961574)
+
+
 ## Hartland Point (Q907467)
 [https://www.wikidata.org/wiki/Q907467](https://www.wikidata.org/wiki/Q907467)  
 
@@ -33010,6 +33031,13 @@
  - [Barous(s)ai? (islands)](https://pleiades.stoa.org/places/49903)
 
 
+## Nicomedia (Q209349)
+[https://www.wikidata.org/wiki/Q209349](https://www.wikidata.org/wiki/Q209349)  
+
+### alignments:
+ - [Nicomedia](https://pleiades.stoa.org/places/511337)
+
+
 ## Nicopolis (Q619704)
 [https://www.wikidata.org/wiki/Q619704](https://www.wikidata.org/wiki/Q619704)  
 
@@ -37895,6 +37923,13 @@
 
 ### alignments:
  - [Ad Medias](https://pleiades.stoa.org/places/432629)
+
+
+## Pontoise (Q201352)
+[https://www.wikidata.org/wiki/Q201352](https://www.wikidata.org/wiki/Q201352)  
+
+### alignments:
+ - [Briva Isarae](https://pleiades.stoa.org/places/108827)
 
 
 ## Pontus Polemoniacus (Q3396685)
@@ -57224,6 +57259,13 @@
 
 ### alignments:
  - [Villa romana di via Carciano](https://pleiades.stoa.org/places/714351467)
+
+
+## Roman villa N of Road Hill Farm (Q17647897)
+[http://www.wikidata.org/entity/Q17647897](http://www.wikidata.org/entity/Q17647897)  
+
+### alignments:
+ - [Harpole Roman villa](https://pleiades.stoa.org/places/79503)
 
 
 ## Roman villa N of Whitestaunton (Q17641854)

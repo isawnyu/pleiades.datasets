@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4877 alignments exist in _Pleiades_ place references as of 2026-01-29. The following list of alignments is grouped by zotkey.
+4879 alignments exist in _Pleiades_ place references as of 2026-01-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11697,6 +11697,13 @@
  - [Mediolanum Aulercorum](https://pleiades.stoa.org/places/109153)
 
 
+## GEO ID 23712: Caesaromagus (Beauvais)
+[https://www.trismegistos.org/place/23712](https://www.trismegistos.org/place/23712)  
+
+### alignments:
+ - [Caesaromagus](https://pleiades.stoa.org/places/108844)
+
+
 ## GEO ID 23724
 [http://www.trismegistos.org/place/23724](http://www.trismegistos.org/place/23724)  
 
@@ -11715,7 +11722,7 @@
 [https://www.trismegistos.org/place/23744](https://www.trismegistos.org/place/23744)  
 
 ### alignments:
- - [Aquae Bormonis?](https://pleiades.stoa.org/places/177443)
+ - [Aquae Bormonis](https://pleiades.stoa.org/places/177443)
 
 
 ## GEO ID 23756: Brevodorum (Brionne)
@@ -11877,6 +11884,13 @@
 
 ### alignments:
  - [Ariorica](https://pleiades.stoa.org/places/177453)
+
+
+## GEO ID 24122: Brivaisare (Pontoise)
+[https://www.trismegistos.org/place/24122](https://www.trismegistos.org/place/24122)  
+
+### alignments:
+ - [Briva Isarae](https://pleiades.stoa.org/places/108827)
 
 
 ## GEO ID 24139: Condate (Rennes)
@@ -17103,7 +17117,7 @@
  - [Cenabum](https://pleiades.stoa.org/places/138281)
 
 
-## GEO ID 3278
+## GEO ID 3278: Lutetia (Paris)
 [http://www.trismegistos.org/place/3278](http://www.trismegistos.org/place/3278)  
 
 ### alignments:

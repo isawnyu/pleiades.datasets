@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2293 alignments exist in _Pleiades_ place references as of 2026-01-29. The following list of alignments is grouped by zotkey.
+2296 alignments exist in _Pleiades_ place references as of 2026-01-30. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1863,6 +1863,13 @@
  - [Petromantulum?/Petromantalum?/Petrum Viaco](https://pleiades.stoa.org/places/114789)
 
 
+## 1A3 (Talbert 624)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace624.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace624.html)  
+
+### alignments:
+ - [Caesaromagus](https://pleiades.stoa.org/places/108844)
+
+
 ## 1A3 (Talbert 626)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace626.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace626.html)  
 
@@ -1882,6 +1889,13 @@
 
 ### alignments:
  - [Autricum](https://pleiades.stoa.org/places/108778)
+
+
+## 1A3 (Talbert 629)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace629.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace629.html)  
+
+### alignments:
+ - [Briva Isarae](https://pleiades.stoa.org/places/108827)
 
 
 ## 1A3 (Talbert 647)
@@ -2001,6 +2015,13 @@
 
 ### alignments:
  - [Axuenna?](https://pleiades.stoa.org/places/108780)
+
+
+## 1A4 (Talbert 630)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace630.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace630.html)  
+
+### alignments:
+ - [Lutetia](https://pleiades.stoa.org/places/109126)
 
 
 ## 1A4 (Talbert 631)
@@ -2738,7 +2759,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace664.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace664.html)  
 
 ### alignments:
- - [Aquae Bormonis?](https://pleiades.stoa.org/places/177443)
+ - [Aquae Bormonis](https://pleiades.stoa.org/places/177443)
 
 
 ## 1B4 (Talbert 679)
