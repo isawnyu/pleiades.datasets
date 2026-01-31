@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4879 alignments exist in _Pleiades_ place references as of 2026-01-30. The following list of alignments is grouped by zotkey.
+4883 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11753,11 +11753,25 @@
  - [Theogonis](https://pleiades.stoa.org/places/741626)
 
 
+## GEO ID 23784: Calagum (Chailly-en-Brie)
+[https://www.trismegistos.org/place/23784](https://www.trismegistos.org/place/23784)  
+
+### alignments:
+ - [Calagum](https://pleiades.stoa.org/places/108846)
+
+
 ## GEO ID 23800: Autricum (Chartres)
 [http://www.trismegistos.org/place/23800](http://www.trismegistos.org/place/23800)  
 
 ### alignments:
  - [Autricum](https://pleiades.stoa.org/places/108778)
+
+
+## GEO ID 23804: Riobe (Châteaubleau)
+[https://www.trismegistos.org/place/23804](https://www.trismegistos.org/place/23804)  
+
+### alignments:
+ - [Riobe](https://pleiades.stoa.org/places/114795)
 
 
 ## GEO ID 23836: Darioritum (Vannes)
@@ -12899,6 +12913,13 @@
 
 ### alignments:
  - [Kabasa](https://pleiades.stoa.org/places/727133)
+
+
+## GEO ID 26397: Caesarobriga (Talavera de la Reina)
+[https://www.trismegistos.org/place/26397](https://www.trismegistos.org/place/26397)  
+
+### alignments:
+ - [Caesarobriga](https://pleiades.stoa.org/places/265834)
 
 
 ## GEO ID 2641: Nesyt
@@ -22619,6 +22640,13 @@
 
 ### alignments:
  - [Fines](https://pleiades.stoa.org/places/138356)
+
+
+## GEO ID 41033: Bandritum (Bassou)
+[https://www.trismegistos.org/place/41033](https://www.trismegistos.org/place/41033)  
+
+### alignments:
+ - [‘Bandritum’](https://pleiades.stoa.org/places/138215)
 
 
 ## GEO ID 41036: Sitilia (Thiel-sur-Acolin)

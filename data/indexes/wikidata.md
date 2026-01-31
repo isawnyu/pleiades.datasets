@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10167 alignments exist in _Pleiades_ place references as of 2026-01-30. The following list of alignments is grouped by zotkey.
+10170 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9816,6 +9816,13 @@
 
 ### alignments:
  - [Caesareum of Palmyra](https://pleiades.stoa.org/places/867812306)
+
+
+## Caesarobriga (Q5739026)
+[https://www.wikidata.org/wiki/Q5739026](https://www.wikidata.org/wiki/Q5739026)  
+
+### alignments:
+ - [Caesarobriga](https://pleiades.stoa.org/places/265834)
 
 
 ## Caesarodunum (Q2932881)
@@ -37645,6 +37652,13 @@
  - [Ponte Buriano](https://pleiades.stoa.org/places/414498)
 
 
+## Ponte Camillario (Q137945355)
+[https://www.wikidata.org/wiki/Q137945355](https://www.wikidata.org/wiki/Q137945355)  
+
+### alignments:
+ - [Ponte Camillario](https://pleiades.stoa.org/places/291526922)
+
+
 ## Ponte Ceccara (Q131900839)
 [https://www.wikidata.org/wiki/Q131900839](https://www.wikidata.org/wiki/Q131900839)  
 
@@ -55830,6 +55844,13 @@
 
 ### alignments:
  - [Ringwall Rentmauer (Weilrod)](https://pleiades.stoa.org/places/253933600)
+
+
+## Riobé (Q3432953)
+[https://www.wikidata.org/wiki/Q3432953](https://www.wikidata.org/wiki/Q3432953)  
+
+### alignments:
+ - [Riobe](https://pleiades.stoa.org/places/114795)
 
 
 ## Rion promontory (Q24990480)
