@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2296 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
+2300 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4176,6 +4176,13 @@
  - [Vada Sabatia](https://pleiades.stoa.org/places/383808)
 
 
+## 2B4 (Talbert 856)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace856.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace856.html)  
+
+### alignments:
+ - [Aquae Statiellae](https://pleiades.stoa.org/places/383574)
+
+
 ## 2B4 (Talbert 860)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace860.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace860.html)  
 
@@ -4293,6 +4300,13 @@
 
 ### alignments:
  - [Alba Pompeia](https://pleiades.stoa.org/places/383564)
+
+
+## 2B5 (Talbert 858)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace858.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace858.html)  
+
+### alignments:
+ - [Pollentia](https://pleiades.stoa.org/places/383745)
 
 
 ## 2B5 (Talbert 859)
@@ -6597,6 +6611,13 @@
 
 ### alignments:
  - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
+## 4A1 (Talbert 1611)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1611.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1611.html)  
+
+### alignments:
+ - [Pola](https://pleiades.stoa.org/places/197448)
 
 
 ## 4A1 (Talbert 1692)
@@ -14421,6 +14442,13 @@
 
 ### alignments:
  - [Herakleopolis Mikra/Sethroe](https://pleiades.stoa.org/places/727121)
+
+
+## 8C4 (Talbert 378)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace378.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace378.html)  
+
+### alignments:
+ - [Behbeit el-Hagar](https://pleiades.stoa.org/places/727130)
 
 
 ## 8C4 (Talbert 380)

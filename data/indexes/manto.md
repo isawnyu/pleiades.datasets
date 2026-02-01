@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-791 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
+792 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2709,6 +2709,13 @@
 
 ### alignments:
  - [Calpe (mountain)](https://pleiades.stoa.org/places/256045)
+
+
+## 11305092: Pola (Illyria)
+[https://resource.manto.unh.edu/11305092](https://resource.manto.unh.edu/11305092)  
+
+### alignments:
+ - [Pola](https://pleiades.stoa.org/places/197448)
 
 
 ## 11305181: Patavium (Italy)

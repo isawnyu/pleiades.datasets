@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4883 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
+4887 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3596,7 +3596,7 @@
  - [Nauportus](https://pleiades.stoa.org/places/197401)
 
 
-## GEO ID 12233
+## GEO ID 12233: Pola (Pula)
 [https://www.trismegistos.org/place/12233](https://www.trismegistos.org/place/12233)  
 
 ### alignments:
@@ -9742,6 +9742,13 @@
  - [Col. Clunia (Sulpicia)](https://pleiades.stoa.org/places/246345)
 
 
+## GEO ID 19887: Pollentia (Pollenzo)
+[https://www.trismegistos.org/place/19887](https://www.trismegistos.org/place/19887)  
+
+### alignments:
+ - [Pollentia](https://pleiades.stoa.org/places/383745)
+
+
 ## GEO ID 19888: Arausio (Orange)
 [http://www.trismegistos.org/place/19888](http://www.trismegistos.org/place/19888)  
 
@@ -10350,6 +10357,13 @@
 
 ### alignments:
  - [Andusia](https://pleiades.stoa.org/places/147992)
+
+
+## GEO ID 20689
+[http://www.trismegistos.org/place/20689](http://www.trismegistos.org/place/20689)  
+
+### alignments:
+ - [Boutae](https://pleiades.stoa.org/places/167685)
 
 
 ## GEO ID 20695: Vicus Augusti (Aoste)
@@ -13293,6 +13307,13 @@
  - [Trimithis](https://pleiades.stoa.org/places/776235)
 
 
+## GEO ID 27363
+[http://www.trismegistos.org/place/27363](http://www.trismegistos.org/place/27363)  
+
+### alignments:
+ - [Dertosa/Hibera Iulia Ilercavonia](https://pleiades.stoa.org/places/246369)
+
+
 ## GEO ID 2738: Orchomenos
 [https://www.trismegistos.org/place/2738](https://www.trismegistos.org/place/2738)  
 
@@ -15581,6 +15602,13 @@
 
 ### alignments:
  - [Bordighera](https://pleiades.stoa.org/places/157823)
+
+
+## GEO ID 31700: Aquae Statiellae (Acqui Terme)
+[https://www.trismegistos.org/place/31700](https://www.trismegistos.org/place/31700)  
+
+### alignments:
+ - [Aquae Statiellae](https://pleiades.stoa.org/places/383574)
 
 
 ## GEO ID 3170: Pachora (Faras)

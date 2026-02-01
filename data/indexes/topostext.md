@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4810 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
+4816 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3622,6 +3622,13 @@
 
 ### alignments:
  - [Aquae Granni](https://pleiades.stoa.org/places/108749)
+
+
+## Aquae Statiellae (Italy)
+[https://topostext.org/place/44785UAqu](https://topostext.org/place/44785UAqu)  
+
+### alignments:
+ - [Aquae Statiellae](https://pleiades.stoa.org/places/383574)
 
 
 ## Aquae Terebellicae (Gallia)
@@ -11051,6 +11058,13 @@
 
 ### alignments:
  - [Forum Appii ](https://pleiades.stoa.org/places/422927)
+
+
+## Forum Aurelii (Italia)
+[https://topostext.org/place/424116UFor](https://topostext.org/place/424116UFor)  
+
+### alignments:
+ - [Forum Aurelii](https://pleiades.stoa.org/places/413143)
 
 
 ## Forum Boarium (Rome)
@@ -26092,6 +26106,13 @@
  - [Politorium](https://pleiades.stoa.org/places/438811)
 
 
+## Pollentia (Iberia)
+[https://topostext.org/place/398031UPol](https://topostext.org/place/398031UPol)  
+
+### alignments:
+ - [Pollentia](https://pleiades.stoa.org/places/266004)
+
+
 ## Pollentia (Italy)
 [https://topostext.org/place/447079UPol](https://topostext.org/place/447079UPol)  
 
@@ -26237,6 +26258,13 @@
 
 ### alignments:
  - [Pontus Euxinus](https://pleiades.stoa.org/places/1224)
+
+
+## Pontus Polemoniacus (Pontus)
+[https://topostext.org/place/425375RPon](https://topostext.org/place/425375RPon)  
+
+### alignments:
+ - [Pontus Polemoniacus](https://pleiades.stoa.org/places/981546)
 
 
 ## Populonium (Etruria)
@@ -28660,6 +28688,13 @@
 
 ### alignments:
  - [Side](https://pleiades.stoa.org/places/639105)
+
+
+## Sidene (Pontus) 11 between Fatsa and Boloman Irmak
+[https://topostext.org/place/410375RSid](https://topostext.org/place/410375RSid)  
+
+### alignments:
+ - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
 
 
 ## Sidero (Kea)  Ormos Sideri - Όρμος Σιδέρη
@@ -33146,6 +33181,13 @@
 
 ### alignments:
  - [Virunum](https://pleiades.stoa.org/places/197583)
+
+
+## Visentium (Italia)
+[https://topostext.org/place/426119UVis](https://topostext.org/place/426119UVis)  
+
+### alignments:
+ - [Visentium](https://pleiades.stoa.org/places/413386)
 
 
 ## Visurgis R. (Germania) 15 Weser - Ουίσουργις

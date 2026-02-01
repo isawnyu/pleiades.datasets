@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10170 alignments exist in _Pleiades_ place references as of 2026-01-31. The following list of alignments is grouped by zotkey.
+10186 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -644,6 +644,13 @@
 
 ### alignments:
  - [Ad Aquas](https://pleiades.stoa.org/places/412990)
+
+
+## Acqui Terme (Q17244)
+[https://www.wikidata.org/wiki/Q17244](https://www.wikidata.org/wiki/Q17244)  
+
+### alignments:
+ - [Aquae Statiellae](https://pleiades.stoa.org/places/383574)
 
 
 ## Acrae (Q60792270)
@@ -1852,6 +1859,13 @@
  - [Albaniana](https://pleiades.stoa.org/places/98908)
 
 
+## Albegna (Q1223308)
+[https://www.wikidata.org/wiki/Q1223308](https://www.wikidata.org/wiki/Q1223308)  
+
+### alignments:
+ - [Albinia (river)](https://pleiades.stoa.org/places/413006)
+
+
 ## Albenga (Q241298)
 [https://www.wikidata.org/wiki/Q241298](https://www.wikidata.org/wiki/Q241298)  
 
@@ -1955,6 +1969,13 @@
 
 ### alignments:
  - [Alcázar del rey Don Pedro](https://pleiades.stoa.org/places/580732678)
+
+
+## Alcúdia (Samian Ware Discovery Site) (Q103139753)
+[https://www.wikidata.org/wiki/Q103139753](https://www.wikidata.org/wiki/Q103139753)  
+
+### alignments:
+ - [Pollentia](https://pleiades.stoa.org/places/266004)
 
 
 ## Aldborough Roman Site (Q1674928)
@@ -14054,6 +14075,13 @@
  - [Coesike West temporary camps](https://pleiades.stoa.org/places/941416849)
 
 
+## Coggabata (Q3682385)
+[https://www.wikidata.org/wiki/Q3682385](https://www.wikidata.org/wiki/Q3682385)  
+
+### alignments:
+ - [Congavata](https://pleiades.stoa.org/places/89151)
+
+
 ## Cogoleto (Q265271)
 [https://www.wikidata.org/wiki/Q265271](https://www.wikidata.org/wiki/Q265271)  
 
@@ -15860,6 +15888,13 @@
 
 ### alignments:
  - [Deris](https://pleiades.stoa.org/places/501397)
+
+
+## Dertosa (Q8354994)
+[https://www.wikidata.org/wiki/Q8354994](https://www.wikidata.org/wiki/Q8354994)  
+
+### alignments:
+ - [Dertosa/Hibera Iulia Ilercavonia](https://pleiades.stoa.org/places/246369)
 
 
 ## Derveni (Q5263281)
@@ -18981,6 +19016,13 @@
  - [Forum Appii ](https://pleiades.stoa.org/places/422927)
 
 
+## Forum Aurelii (Q133875213)
+[https://www.wikidata.org/wiki/Q133875213](https://www.wikidata.org/wiki/Q133875213)  
+
+### alignments:
+ - [Forum Aurelii](https://pleiades.stoa.org/places/413143)
+
+
 ## Forum Brentani (Q106625757)
 [https://www.wikidata.org/wiki/Q106625757](https://www.wikidata.org/wiki/Q106625757)  
 
@@ -22093,6 +22135,13 @@
  - [Chalkitis/Demonnesos (island)](https://pleiades.stoa.org/places/520990)
 
 
+## Hibera (Q3135141)
+[https://www.wikidata.org/wiki/Q3135141](https://www.wikidata.org/wiki/Q3135141)  
+
+### alignments:
+ - [Dertosa/Hibera Iulia Ilercavonia](https://pleiades.stoa.org/places/246369)
+
+
 ## Hibernia (Q302980)
 [https://www.wikidata.org/wiki/Q302980](https://www.wikidata.org/wiki/Q302980)  
 
@@ -23204,6 +23253,13 @@
 
 ### alignments:
  - [I Morroni](https://pleiades.stoa.org/places/380606286)
+
+
+## Iadatini (Q135485115)
+[https://www.wikidata.org/wiki/Q135485115](https://www.wikidata.org/wiki/Q135485115)  
+
+### alignments:
+ - [Iadatini](https://pleiades.stoa.org/places/383673)
 
 
 ## Ialysos (Q29963099)
@@ -27245,6 +27301,13 @@
 
 ### alignments:
  - [Lautulae](https://pleiades.stoa.org/places/432903)
+
+
+## Lavanestro (Q3828018)
+[https://www.wikidata.org/wiki/Q3828018](https://www.wikidata.org/wiki/Q3828018)  
+
+### alignments:
+ - [Labonia (river)](https://pleiades.stoa.org/places/482320244)
 
 
 ## Lavatrae Roman Fort (Q17647275)
@@ -31344,6 +31407,13 @@
  - [Mons Silicis](https://pleiades.stoa.org/places/393454)
 
 
+## Montalto di Castro (Q175956)
+[https://www.wikidata.org/wiki/Q175956](https://www.wikidata.org/wiki/Q175956)  
+
+### alignments:
+ - [Forum Aurelii](https://pleiades.stoa.org/places/413143)
+
+
 ## Montana (Q220121)
 [https://www.wikidata.org/wiki/Q220121](https://www.wikidata.org/wiki/Q220121)  
 
@@ -35243,6 +35313,13 @@
  - [Palatine Stadium](https://pleiades.stoa.org/places/132886213)
 
 
+## Palatine Towers (Q1054755)
+[https://www.wikidata.org/wiki/Q1054755](https://www.wikidata.org/wiki/Q1054755)  
+
+### alignments:
+ - [Porta Palatina](https://pleiades.stoa.org/places/866917580)
+
+
 ## Palazzo Valentini (Q751105)
 [https://www.wikidata.org/wiki/Q751105](https://www.wikidata.org/wiki/Q751105)  
 
@@ -37351,11 +37428,25 @@
  - [Podere Cosciano](https://pleiades.stoa.org/places/879707568)
 
 
+## Podere Tartuchino (Q137960349)
+[https://www.wikidata.org/wiki/Q137960349](https://www.wikidata.org/wiki/Q137960349)  
+
+### alignments:
+ - [Podere Tartuchino](https://pleiades.stoa.org/places/445462065)
+
+
 ## Poemanenum (Q65043966)
 [https://www.wikidata.org/wiki/Q65043966](https://www.wikidata.org/wiki/Q65043966)  
 
 ### alignments:
  - [Poimanenon](https://pleiades.stoa.org/places/511368)
+
+
+## Poggio Buco (Q82093312)
+[https://www.wikidata.org/wiki/Q82093312](https://www.wikidata.org/wiki/Q82093312)  
+
+### alignments:
+ - [Poggio Buco](https://pleiades.stoa.org/places/413266)
 
 
 ## Poggio Colla (Q7207585)
@@ -37421,6 +37512,13 @@
  - [Porcibera (river)](https://pleiades.stoa.org/places/383749)
 
 
+## Polemonium (Q128996554)
+[https://www.wikidata.org/wiki/Q128996554](https://www.wikidata.org/wiki/Q128996554)  
+
+### alignments:
+ - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
+
+
 ## Polichne (Messenia) (Q48781606)
 [https://www.wikidata.org/wiki/Q48781606](https://www.wikidata.org/wiki/Q48781606)  
 
@@ -37447,6 +37545,13 @@
 
 ### alignments:
  - [Pollenzo Roman amphitheater](https://pleiades.stoa.org/places/423813718)
+
+
+## Pollenzo (Q264149)
+[https://www.wikidata.org/wiki/Q264149](https://www.wikidata.org/wiki/Q264149)  
+
+### alignments:
+ - [Pollentia](https://pleiades.stoa.org/places/383745)
 
 
 ## Polonnaruwa Vatadage (Q7225955)
@@ -37960,6 +38065,13 @@
  - [tribus Poblilia](https://pleiades.stoa.org/places/964333742)
 
 
+## Populonia (Q20108700)
+[https://www.wikidata.org/wiki/Q20108700](https://www.wikidata.org/wiki/Q20108700)  
+
+### alignments:
+ - [Fufluna/Populonium](https://pleiades.stoa.org/places/403212)
+
+
 ## Populonia (Q21573810)
 [https://www.wikidata.org/wiki/Q21573810](https://www.wikidata.org/wiki/Q21573810)  
 
@@ -38245,6 +38357,13 @@
 
 ### alignments:
  - [Kirkidios (river)](https://pleiades.stoa.org/places/472085)
+
+
+## Porto Ercole (Q1394400)
+[https://www.wikidata.org/wiki/Q1394400](https://www.wikidata.org/wiki/Q1394400)  
+
+### alignments:
+ - [Portus Herculis](https://pleiades.stoa.org/places/403260)
 
 
 ## Porto Maurizio (Q2251258)
@@ -40199,13 +40318,6 @@
 
 ### alignments:
  - [Kom el-Nana](https://pleiades.stoa.org/places/851304643)
-
-
-## Q1116623: Visentium
-[https://www.wikidata.org/wiki/Q1116623](https://www.wikidata.org/wiki/Q1116623)  
-
-### alignments:
- - [Visentium](https://pleiades.stoa.org/places/413386)
 
 
 ## Q111942: San Leo
@@ -42360,13 +42472,6 @@
  - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
 
 
-## Q1394400: Porto Ercole
-[https://www.wikidata.org/wiki/Q1394400](https://www.wikidata.org/wiki/Q1394400)  
-
-### alignments:
- - [Portus Herculis](https://pleiades.stoa.org/places/403260)
-
-
 ## Q1396850: Tiddis
 [https://www.wikidata.org/wiki/Q1396850](https://www.wikidata.org/wiki/Q1396850)  
 
@@ -44019,13 +44124,6 @@
 
 ### alignments:
  - [Tall Mūzān](https://pleiades.stoa.org/places/260976011)
-
-
-## Q175956: Montalto di Castro
-[https://www.wikidata.org/wiki/Q175956](https://www.wikidata.org/wiki/Q175956)  
-
-### alignments:
- - [Forum Aurelii](https://pleiades.stoa.org/places/413143)
 
 
 ## Q1760057: Porta del Popolo
@@ -49115,13 +49213,6 @@
  - [Claterna](https://pleiades.stoa.org/places/393405)
 
 
-## Q3682385: Coggabata
-[https://www.wikidata.org/wiki/Q3682385](https://www.wikidata.org/wiki/Q3682385)  
-
-### alignments:
- - [Congavata](https://pleiades.stoa.org/places/89151)
-
-
 ## Q3683400: Constantinian Columbarium
 [https://www.wikidata.org/wiki/Q3683400](https://www.wikidata.org/wiki/Q3683400)  
 
@@ -52127,13 +52218,6 @@
 
 ### alignments:
  - [Petavonium](https://pleiades.stoa.org/places/236598)
-
-
-## Q60733250: Regio VII Etruria
-[https://www.wikidata.org/wiki/Q60733250](https://www.wikidata.org/wiki/Q60733250)  
-
-### alignments:
- - [Italia, Regio VII](https://pleiades.stoa.org/places/699782783)
 
 
 ## Q607583: Tepe Gawra
@@ -55587,6 +55671,13 @@
  - [Italia, Regio VI](https://pleiades.stoa.org/places/699782782)
 
 
+## Regio VII Etruria (Q60733250)
+[https://www.wikidata.org/wiki/Q60733250](https://www.wikidata.org/wiki/Q60733250)  
+
+### alignments:
+ - [Italia, Regio VII](https://pleiades.stoa.org/places/699782783)
+
+
 ## Regio VII Via Lata (Q18288959)
 [https://www.wikidata.org/wiki/Q18288959](https://www.wikidata.org/wiki/Q18288959)  
 
@@ -58353,6 +58444,13 @@
  - [Crypt and church of San Lussorio](https://pleiades.stoa.org/places/970563462)
 
 
+## San Mamiliano monastery (Q3860495)
+[https://www.wikidata.org/wiki/Q3860495](https://www.wikidata.org/wiki/Q3860495)  
+
+### alignments:
+ - [Monastero di San Mamiliano](https://pleiades.stoa.org/places/406949)
+
+
 ## San Manno hypogeum (Q3144282)
 [https://www.wikidata.org/wiki/Q3144282](https://www.wikidata.org/wiki/Q3144282)  
 
@@ -60396,6 +60494,13 @@
 
 ### alignments:
  - [Sicyon/Demetrias](https://pleiades.stoa.org/places/570668)
+
+
+## Sidene (Q20108923)
+[https://www.wikidata.org/wiki/Q20108923](https://www.wikidata.org/wiki/Q20108923)  
+
+### alignments:
+ - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
 
 
 ## Sidi Nuah (Q106161402)
@@ -69625,6 +69730,13 @@
 
 ### alignments:
  - [Roman amphitheater of Virunum](https://pleiades.stoa.org/places/212586562)
+
+
+## Visentium (Q1116623)
+[https://www.wikidata.org/wiki/Q1116623](https://www.wikidata.org/wiki/Q1116623)  
+
+### alignments:
+ - [Visentium](https://pleiades.stoa.org/places/413386)
 
 
 ## Vistula Veneti (Q1416201)
