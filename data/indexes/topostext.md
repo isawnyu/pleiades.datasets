@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4816 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
+4818 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -11130,11 +11130,25 @@
  - [Forum of Nerva](https://pleiades.stoa.org/places/984830239)
 
 
+## Forum Popilii (Italia)
+[https://topostext.org/place/412140UFor](https://topostext.org/place/412140UFor)  
+
+### alignments:
+ - [Forum Popillii](https://pleiades.stoa.org/places/432843)
+
+
 ## Forum Segusiavorum
 [https://topostext.org/place/457042UFSe](https://topostext.org/place/457042UFSe)  
 
 ### alignments:
  - [Forum Segusiavorum](https://pleiades.stoa.org/places/167771)
+
+
+## Forum Sempronii (Italia)
+[https://topostext.org/place/437128UFSe](https://topostext.org/place/437128UFSe)  
+
+### alignments:
+ - [Forum Sempronii](https://pleiades.stoa.org/places/413149)
 
 
 ## Franchthi cave (Argolid) opposite Kilada

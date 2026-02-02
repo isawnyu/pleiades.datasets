@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10186 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
+10191 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4148,6 +4148,13 @@
  - [Aquis Querquennis](https://pleiades.stoa.org/places/933005071)
 
 
+## Aquis Segeste (Q2859278)
+[https://www.wikidata.org/wiki/Q2859278](https://www.wikidata.org/wiki/Q2859278)  
+
+### alignments:
+ - [Aquae Segetae](https://pleiades.stoa.org/places/167649)
+
+
 ## Ar Rahèba (Q106017145)
 [https://www.wikidata.org/wiki/Q106017145](https://www.wikidata.org/wiki/Q106017145)  
 
@@ -6933,6 +6940,13 @@
 
 ### alignments:
  - [Barzan (Gallo-Roman Site)](https://pleiades.stoa.org/places/138606)
+
+
+## Bas-en-Basset (Q1065773)
+[https://www.wikidata.org/wiki/Q1065773](https://www.wikidata.org/wiki/Q1065773)  
+
+### alignments:
+ - [Bas-en-Basset](https://pleiades.stoa.org/places/167667)
 
 
 ## Basento (Q791190)
@@ -19135,6 +19149,20 @@
  - [Forum of Theodosius](https://pleiades.stoa.org/places/448320942)
 
 
+## Forum Popili (Q136340786)
+[https://www.wikidata.org/wiki/Q136340786](https://www.wikidata.org/wiki/Q136340786)  
+
+### alignments:
+ - [Forum Popili](https://pleiades.stoa.org/places/442586)
+
+
+## Forum Popilii (Q3748882)
+[https://www.wikidata.org/wiki/Q3748882](https://www.wikidata.org/wiki/Q3748882)  
+
+### alignments:
+ - [Forum Popillii](https://pleiades.stoa.org/places/432843)
+
+
 ## Forum Sempronii archaeological site (Q11922647)
 [https://www.wikidata.org/wiki/Q11922647](https://www.wikidata.org/wiki/Q11922647)  
 
@@ -26687,6 +26715,13 @@
  - [Serbonitis (lake)](https://pleiades.stoa.org/places/688025)
 
 
+## lake Bolsena (Q208180)
+[https://www.wikidata.org/wiki/Q208180](https://www.wikidata.org/wiki/Q208180)  
+
+### alignments:
+ - [Volsiniensis L.](https://pleiades.stoa.org/places/413388)
+
+
 ## Lake Bracciano (Q896551)
 [https://www.wikidata.org/wiki/Q896551](https://www.wikidata.org/wiki/Q896551)  
 
@@ -28841,6 +28876,13 @@
 
 ### alignments:
  - [Magnesia ad Maeandrum/Leukophrys](https://pleiades.stoa.org/places/599778)
+
+
+## Magra (Q692549)
+[https://www.wikidata.org/wiki/Q692549](https://www.wikidata.org/wiki/Q692549)  
+
+### alignments:
+ - [Macra (river)](https://pleiades.stoa.org/places/403237)
 
 
 ## Mahalibeh Castle (Q6832851)
@@ -49304,13 +49346,6 @@
  - [Fortino di Mazzallakkar](https://pleiades.stoa.org/places/741493662)
 
 
-## Q3748882: Forum Popilii
-[https://www.wikidata.org/wiki/Q3748882](https://www.wikidata.org/wiki/Q3748882)  
-
-### alignments:
- - [Forum Popillii](https://pleiades.stoa.org/places/432843)
-
-
 ## Q375685: Eshnunna
 [https://www.wikidata.org/wiki/Q375685](https://www.wikidata.org/wiki/Q375685)  
 
@@ -53352,13 +53387,6 @@
 
 ### alignments:
  - [Via Clodia](https://pleiades.stoa.org/places/737328394)
-
-
-## Q692549: Magra
-[https://www.wikidata.org/wiki/Q692549](https://www.wikidata.org/wiki/Q692549)  
-
-### alignments:
- - [Macra (river)](https://pleiades.stoa.org/places/403237)
 
 
 ## Q6935822: Mundigak
@@ -62063,6 +62091,13 @@
 
 ### alignments:
  - [Adamas? (river)](https://pleiades.stoa.org/places/59655)
+
+
+## Subertani (Q137971320)
+[https://www.wikidata.org/wiki/Q137971320](https://www.wikidata.org/wiki/Q137971320)  
+
+### alignments:
+ - [Subertani](https://pleiades.stoa.org/places/416859)
 
 
 ## Suburana (Q20108949)

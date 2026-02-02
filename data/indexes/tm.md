@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4887 alignments exist in _Pleiades_ place references as of 2026-02-01. The following list of alignments is grouped by zotkey.
+4888 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11968,6 +11968,13 @@
 
 ### alignments:
  - [Tasciaca?](https://pleiades.stoa.org/places/138608)
+
+
+## GEO ID 24287: Icidmago (Usson-en-Forez)
+[https://www.trismegistos.org/place/24287](https://www.trismegistos.org/place/24287)  
+
+### alignments:
+ - [Icidmago](https://pleiades.stoa.org/places/167791)
 
 
 ## GEO ID 24304: Ludn( )
