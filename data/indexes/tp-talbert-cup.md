@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2301 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
+2303 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -5783,7 +5783,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1115.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1115.html)  
 
 ### alignments:
- - [Salebro?](https://pleiades.stoa.org/places/403269)
+ - [Salebro](https://pleiades.stoa.org/places/403269)
 
 
 ## 3B3 (Talbert 1116)
@@ -12722,6 +12722,13 @@
  - [Drabeskos](https://pleiades.stoa.org/places/501403)
 
 
+## 7B3 (Talbert 3083)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3083.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3083.html)  
+
+### alignments:
+ - [Brusdorciani](https://pleiades.stoa.org/places/103160383)
+
+
 ## 7B3 Philippis (Talbert 2040)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2040.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2040.html)  
 
@@ -14904,6 +14911,13 @@
 
 ### alignments:
  - [Pleuramis/‘Ptemari’?](https://pleiades.stoa.org/places/857284)
+
+
+## 9B1 (Talbert 2266)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2266.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2266.html)  
+
+### alignments:
+ - [Eugoni](https://pleiades.stoa.org/places/388927641)
 
 
 ## 9B1 (Talbert 2294)

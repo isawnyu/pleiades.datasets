@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10191 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
+10192 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -11250,7 +11250,7 @@
 [https://www.wikidata.org/wiki/Q188547](https://www.wikidata.org/wiki/Q188547)  
 
 ### alignments:
- - [Salebro?](https://pleiades.stoa.org/places/403269)
+ - [Salebro](https://pleiades.stoa.org/places/403269)
 
 
 ## Castillo de Almodóvar del Río (Q626232)
@@ -41636,6 +41636,13 @@
 
 ### alignments:
  - [Ehulhul](https://pleiades.stoa.org/places/100593149)
+
+
+## Q130261141
+[https://www.wikidata.org/wiki/Q130261141](https://www.wikidata.org/wiki/Q130261141)  
+
+### alignments:
+ - [Vicus Angusculanus](https://pleiades.stoa.org/places/482523501)
 
 
 ## Q130280520

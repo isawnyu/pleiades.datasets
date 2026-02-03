@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4888 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
+4893 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -16134,7 +16134,7 @@
 [http://www.trismegistos.org/place/32134](http://www.trismegistos.org/place/32134)  
 
 ### alignments:
- - [Salebro?](https://pleiades.stoa.org/places/403269)
+ - [Salebro](https://pleiades.stoa.org/places/403269)
 
 
 ## GEO ID 32135: Visentium (Bisenzo)
@@ -26612,6 +26612,13 @@
  - [Diabetai (islands)](https://pleiades.stoa.org/places/599591)
 
 
+## GEO ID 42557: Brusdorciani
+[https://www.trismegistos.org/place/42557](https://www.trismegistos.org/place/42557)  
+
+### alignments:
+ - [Brusdorciani](https://pleiades.stoa.org/places/103160383)
+
+
 ## GEO ID 42563: Asticus
 [https://www.trismegistos.org/place/42563](https://www.trismegistos.org/place/42563)  
 
@@ -26673,6 +26680,13 @@
 
 ### alignments:
  - [Ida (mountain)](https://pleiades.stoa.org/places/550592)
+
+
+## GEO ID 42620: Aegonne (Göne)
+[https://www.trismegistos.org/place/42620](https://www.trismegistos.org/place/42620)  
+
+### alignments:
+ - [Eugoni](https://pleiades.stoa.org/places/388927641)
 
 
 ## GEO ID 42637: Rogmorum
@@ -27620,6 +27634,13 @@
  - [Olbensis Pagus?](https://pleiades.stoa.org/places/256336)
 
 
+## GEO ID 43486: Vicus Angusculanus
+[https://www.trismegistos.org/place/43486](https://www.trismegistos.org/place/43486)  
+
+### alignments:
+ - [Vicus Angusculanus](https://pleiades.stoa.org/places/482523501)
+
+
 ## GEO ID 43488: Bastetania
 [https://www.trismegistos.org/place/43488](https://www.trismegistos.org/place/43488)  
 
@@ -28432,6 +28453,13 @@
 
 ### alignments:
  - [Articulanus/Horticulanus Pagus](https://pleiades.stoa.org/places/438687)
+
+
+## GEO ID 44730: Pagus Catillinus
+[http://www.trismegistos.org/place/44730](http://www.trismegistos.org/place/44730)  
+
+### alignments:
+ - [Pagus Catillinus](https://pleiades.stoa.org/places/617606555)
 
 
 ## GEO ID 44734: Campus Caledianus
@@ -29973,6 +30001,13 @@
 
 ### alignments:
  - [Rhodope (mountain)](https://pleiades.stoa.org/places/501592)
+
+
+## GEO ID 50295: Fundus Seneciosus?
+[https://www.trismegistos.org/place/50295](https://www.trismegistos.org/place/50295)  
+
+### alignments:
+ - [Fundus Seneciosus?](https://pleiades.stoa.org/places/904400348)
 
 
 ## GEO ID 50347: Cercina (Grand Kerkenna)

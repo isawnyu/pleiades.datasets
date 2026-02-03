@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4818 alignments exist in _Pleiades_ place references as of 2026-02-02. The following list of alignments is grouped by zotkey.
+4819 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3461,6 +3461,13 @@
 
 ### alignments:
  - [Thynias/Apollonia/Daphnousia (island)](https://pleiades.stoa.org/places/511446)
+
+
+## Apolloniatis lake (Bithynia) 2 Ulubat Gölü
+[https://topostext.org/place/402286WApo](https://topostext.org/place/402286WApo)  
+
+### alignments:
+ - [Miletopolitis/Apolloniatis/Artynia L.](https://pleiades.stoa.org/places/511319)
 
 
 ## Apollonis (Lydia)
