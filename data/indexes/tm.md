@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4893 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
+4894 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -30737,6 +30737,13 @@
 
 ### alignments:
  - [al-Muwalih/Modiana?](https://pleiades.stoa.org/places/814710)
+
+
+## GEO ID 5526: Angmering
+[https://www.trismegistos.org/place/15526](https://www.trismegistos.org/place/15526)  
+
+### alignments:
+ - [Angmering](https://pleiades.stoa.org/places/79295)
 
 
 ## GEO ID 55347: Phoitiai

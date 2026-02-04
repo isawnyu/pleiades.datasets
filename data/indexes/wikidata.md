@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10192 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
+10197 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -687,6 +687,13 @@
 
 ### alignments:
  - [Akroreia](https://pleiades.stoa.org/places/570060)
+
+
+## Acrothoum (Q17620105)
+[https://www.wikidata.org/wiki/Q17620105](https://www.wikidata.org/wiki/Q17620105)  
+
+### alignments:
+ - [Akrothooi](https://pleiades.stoa.org/places/501343)
 
 
 ## Acruvium (Q133504346)
@@ -1654,6 +1661,13 @@
 
 ### alignments:
  - [Akra](https://pleiades.stoa.org/places/59666)
+
+
+## Akrillai (Q3607386)
+[https://www.wikidata.org/wiki/Q3607386](https://www.wikidata.org/wiki/Q3607386)  
+
+### alignments:
+ - [Acrillae](https://pleiades.stoa.org/places/462069)
 
 
 ## Akrotiri (Q421232)
@@ -3418,6 +3432,13 @@
 
 ### alignments:
  - [Mona (island)](https://pleiades.stoa.org/places/79601)
+
+
+## Angmering Roman Villa (Q17675286)
+[http://www.wikidata.org/entity/Q17675286](http://www.wikidata.org/entity/Q17675286)  
+
+### alignments:
+ - [Angmering](https://pleiades.stoa.org/places/79295)
 
 
 ## Angrivarii (Q83150)
@@ -10308,6 +10329,13 @@
  - [Cany-Barville](https://pleiades.stoa.org/places/108855)
 
 
+## Cap Bon (Q849879)
+[https://www.wikidata.org/wiki/Q849879](https://www.wikidata.org/wiki/Q849879)  
+
+### alignments:
+ - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
 ## Cap Bougaroun (Q2937007)
 [https://www.wikidata.org/wiki/Q2937007](https://www.wikidata.org/wiki/Q2937007)  
 
@@ -10383,6 +10411,13 @@
 
 ### alignments:
  - [Leukimma Pr.](https://pleiades.stoa.org/places/530977)
+
+
+## Cape Maleas (Q1471621)
+[https://www.wikidata.org/wiki/Q1471621](https://www.wikidata.org/wiki/Q1471621)  
+
+### alignments:
+ - [Malea Pr.](https://pleiades.stoa.org/places/570455)
 
 
 ## Cape Matapan (Q849911)
@@ -29396,6 +29431,13 @@
  - [Marsonia](https://pleiades.stoa.org/places/197371)
 
 
+## Marsá al Burayqah, point (Q105990940)
+[https://www.wikidata.org/wiki/Q105990940](https://www.wikidata.org/wiki/Q105990940)  
+
+### alignments:
+ - [Antidrepanon Akroterion](https://pleiades.stoa.org/places/363923)
+
+
 ## Martanum (Q21235205)
 [https://www.wikidata.org/wiki/Q21235205](https://www.wikidata.org/wiki/Q21235205)  
 
@@ -42745,13 +42787,6 @@
  - [Telesia](https://pleiades.stoa.org/places/433147)
 
 
-## Q1471621: Cape Maleas
-[https://www.wikidata.org/wiki/Q1471621](https://www.wikidata.org/wiki/Q1471621)  
-
-### alignments:
- - [Malea Pr.](https://pleiades.stoa.org/places/570455)
-
-
 ## Q1471677: Mount Ossa
 [https://www.wikidata.org/wiki/Q1471677](https://www.wikidata.org/wiki/Q1471677)  
 
@@ -54285,13 +54320,6 @@
  - ["Trajan's Bridge" at Drobeta-Turnu Severin](https://pleiades.stoa.org/places/207629)
 
 
-## Q849879: Cap Bon
-[https://www.wikidata.org/wiki/Q849879](https://www.wikidata.org/wiki/Q849879)  
-
-### alignments:
- - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
-
-
 ## Q850223: Bructeri
 [https://www.wikidata.org/wiki/Q850223](https://www.wikidata.org/wiki/Q850223)  
 
@@ -60536,6 +60564,13 @@
 
 ### alignments:
  - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
+
+
+## Sidi Akreim (Q104807871)
+[https://www.wikidata.org/wiki/Q104807871](https://www.wikidata.org/wiki/Q104807871)  
+
+### alignments:
+ - [Sidi Akreim](https://pleiades.stoa.org/places/373890)
 
 
 ## Sidi Nuah (Q106161402)

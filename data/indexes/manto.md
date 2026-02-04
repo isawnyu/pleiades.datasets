@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-792 alignments exist in _Pleiades_ place references as of 2026-02-03. The following list of alignments is grouped by zotkey.
+796 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2480,6 +2480,13 @@
  - [Koresia/Arsinoe](https://pleiades.stoa.org/places/570370)
 
 
+## 11298236: the Rhipean Mountains (unlocatable)
+[https://resource.manto.unh.edu/11298236](https://resource.manto.unh.edu/11298236)  
+
+### alignments:
+ - [Rhipaei montes](https://pleiades.stoa.org/places/401802035)
+
+
 ## 11298422: Camarina (Sicily)
 [https://resource.manto.unh.edu/11298422](https://resource.manto.unh.edu/11298422)  
 
@@ -3237,6 +3244,20 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 11328607: Bizye (Thrace)
+[https://resource.manto.unh.edu/11328607](https://resource.manto.unh.edu/11328607)  
+
+### alignments:
+ - [Bizye](https://pleiades.stoa.org/places/511190)
+
+
+## 11329379: Cape Hermaia (N. Africa)
+[https://resource.manto.unh.edu/11329379](https://resource.manto.unh.edu/11329379)  
+
+### alignments:
+ - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
 ## 8188810: Crommyon (Argolid)
 [https://resource.manto.unh.edu/8188810](https://resource.manto.unh.edu/8188810)  
 
@@ -3866,6 +3887,13 @@
 
 ### alignments:
  - [Pelion (mountain)](https://pleiades.stoa.org/places/541021)
+
+
+## 8253983: Cape Malea (Laconia)
+[https://resource.manto.unh.edu/8253983](https://resource.manto.unh.edu/8253983)  
+
+### alignments:
+ - [Malea Pr.](https://pleiades.stoa.org/places/570455)
 
 
 ## 8253984: River Euenos (river in Aitolia)
