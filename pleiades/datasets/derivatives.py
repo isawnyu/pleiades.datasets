@@ -19,6 +19,7 @@ from shapely import distance, GeometryCollection, Point, simplify
 from shapely.geometry import shape, box
 import sys
 from textnorm import normalize_space
+from datetime import timedelta
 import traceback
 
 
@@ -96,7 +97,9 @@ def _place_convex_hull(place_source: dict, buffer=False, *args):
 
 class JSON2CSV:
     logger = logging.getLogger("JSON2CSV")
-    session = requests_cache.CachedSession("derivatives")
+    session = requests_cache.CachedSession(
+        "derivatives", expire_after=timedelta(hours=1)
+    )
 
     common_schema = dict(
         created=lambda x, y: x["created"],
@@ -220,6 +223,9 @@ class JSON2CSV:
     time_periods_keys = list(time_periods_schema.keys())
 
     def write(self, source: list, dir: str):
+        logging.getLogger("normalize_space").setLevel(logging.WARNING)
+        logger = logging.getLogger("derivatives.JSON2CSV.write")
+        logger.debug(f"Writing CSV derivatives to {dir}")
         dirpath = Path(dir).expanduser().resolve()
         dirpath.mkdir(parents=True, exist_ok=True)
         for filename in [
@@ -248,6 +254,8 @@ class JSON2CSV:
 
     def _parse_vocab(self, vocab_slug: str):
         vocab_uri = f"https://pleiades.stoa.org/vocabularies/{vocab_slug}"
+        logger = logging.getLogger("derivatives._parse_vocab")
+        logger.debug(f"Parsing vocabulary at {vocab_uri}")
         r = self.session.get(vocab_uri)
         if r.status_code != 200:
             r.raise_for_status()
