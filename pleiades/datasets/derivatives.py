@@ -98,7 +98,7 @@ def _place_convex_hull(place_source: dict, buffer=False, *args):
 class JSON2CSV:
     logger = logging.getLogger("JSON2CSV")
     session = requests_cache.CachedSession(
-        "derivatives", expire_after=timedelta(hours=1)
+        "derivatives", expire_after=timedelta(hours=12)
     )
 
     common_schema = dict(
@@ -209,6 +209,8 @@ class JSON2CSV:
         key=lambda x: x["key"],
         term=lambda x: x["term"],
         definition=lambda x: x["definition"],
+        same_as=lambda x: x["same-as"],
+        uri=lambda x: x["uri"],
     )
     vocabulary_keys = list(vocabulary_schema.keys())
 
@@ -274,14 +276,24 @@ class JSON2CSV:
             if cr.status_code != 200:
                 cr.raise_for_status()
             component_soup = BeautifulSoup(cr.text, features="lxml")
-            term_text = normalize_space(
-                component_soup.find("div", id="content").find("p").text
-            )
+            content_div = component_soup.find("div", id="content")
+            term_text = normalize_space(content_div.find("p").text)  # type: ignore
+            same_as_uri = ""
+            sub_div = content_div.find("div")
+            sub_paragraphs = sub_div.find_all("p")
+            if len(sub_paragraphs) == 2:
+                additional_text = normalize_space(sub_paragraphs[1].text)
+                if additional_text.startswith("Same as:"):
+                    same_as = sub_paragraphs[2].find("a")
+                    if same_as:
+                        same_as_uri = same_as["href"]
             components.append(
                 {
                     "key": normalize_space(link["href"].split("/")[-1]),
                     "term": normalize_space(link.text),
                     "definition": term_text,
+                    "same-as": same_as_uri,
+                    "uri": component_uri,
                 }
             )
             if vocab_slug == "time-periods":
