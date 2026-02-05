@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4819 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
+4820 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -28997,6 +28997,13 @@
 
 ### alignments:
  - [Sistrouni](https://pleiades.stoa.org/places/531098)
+
+
+## Sithonia (Chalkidike)
+[https://topostext.org/place/402238LSit](https://topostext.org/place/402238LSit)  
+
+### alignments:
+ - [Sithonia (peninsula)](https://pleiades.stoa.org/places/501618)
 
 
 ## Skabla/Skabala (Halkidiki)

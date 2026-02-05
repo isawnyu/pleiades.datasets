@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-796 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
+800 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2781,6 +2781,13 @@
  - [Pelagonia](https://pleiades.stoa.org/places/481953)
 
 
+## 11307177: Cynossema Promontory (Chersonesos)
+[https://resource.manto.unh.edu/11307177](https://resource.manto.unh.edu/11307177)  
+
+### alignments:
+ - [Kynossema (promontory)](https://pleiades.stoa.org/places/501487)
+
+
 ## 11307213: the Sanctuary of Thetis
 [https://resource.manto.unh.edu/11307213](https://resource.manto.unh.edu/11307213)  
 
@@ -2856,6 +2863,13 @@
 
 ### alignments:
  - [Rhypes](https://pleiades.stoa.org/places/570647)
+
+
+## 11308713: Sithonia (Thrace)
+[https://resource.manto.unh.edu/11308713](https://resource.manto.unh.edu/11308713)  
+
+### alignments:
+ - [Sithones](https://pleiades.stoa.org/places/501617)
 
 
 ## 11309266: Epacria (Attica)
@@ -3544,6 +3558,13 @@
 
 ### alignments:
  - [Euboea (island)](https://pleiades.stoa.org/places/540775)
+
+
+## 8195611: Dardanos (Troad)
+[https://resource.manto.unh.edu/8195611](https://resource.manto.unh.edu/8195611)  
+
+### alignments:
+ - [Dardanos](https://pleiades.stoa.org/places/501393)
 
 
 ## 8195613: Thrace (N. Greece)
@@ -4636,6 +4657,13 @@
 
 ### alignments:
  - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
+
+
+## 9615945: the Hill of Phrygian Ate (Troad)
+[https://resource.manto.unh.edu/9615945](https://resource.manto.unh.edu/9615945)  
+
+### alignments:
+ - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
 
 
 ## 9616046: Aphidnai (Attica)

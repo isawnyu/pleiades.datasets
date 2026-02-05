@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10197 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
+10201 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -15614,6 +15614,13 @@
 
 ### alignments:
  - [Hellespont (strait)](https://pleiades.stoa.org/places/501434)
+
+
+## Dardanos (Q950952)
+[https://www.wikidata.org/wiki/Q950952](https://www.wikidata.org/wiki/Q950952)  
+
+### alignments:
+ - [Dardanos](https://pleiades.stoa.org/places/501393)
 
 
 ## Dareioukome (Q85755698)
@@ -35355,6 +35362,13 @@
  - [Palaiskiathos](https://pleiades.stoa.org/places/543823)
 
 
+## Palaestra (Q18925063)
+[https://www.wikidata.org/wiki/Q18925063](https://www.wikidata.org/wiki/Q18925063)  
+
+### alignments:
+ - [Large Palaestra](https://pleiades.stoa.org/places/524253439)
+
+
 ## Palaestra at Olympia (Q7126543)
 [https://www.wikidata.org/wiki/Q7126543](https://www.wikidata.org/wiki/Q7126543)  
 
@@ -44875,13 +44889,6 @@
  - [Zama Regia/Zama *Maior](https://pleiades.stoa.org/places/315267)
 
 
-## Q18925063: Palaestra
-[https://www.wikidata.org/wiki/Q18925063](https://www.wikidata.org/wiki/Q18925063)  
-
-### alignments:
- - ["Palaestra"](https://pleiades.stoa.org/places/524253439)
-
-
 ## Q1894495: Mareia
 [https://www.wikidata.org/wiki/Q1894495](https://www.wikidata.org/wiki/Q1894495)  
 
@@ -46212,13 +46219,6 @@
 
 ### alignments:
  - [Silbury Hill](https://pleiades.stoa.org/places/943692804)
-
-
-## Q22647: Troy
-[https://www.wikidata.org/wiki/Q22647](https://www.wikidata.org/wiki/Q22647)  
-
-### alignments:
- - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
 
 
 ## Q22690
@@ -59851,6 +59851,13 @@
  - [Second Temple, Jerusalem](https://pleiades.stoa.org/places/973646718)
 
 
+## Secondary entrance (II.3.7) (Q27685719)
+[https://www.wikidata.org/wiki/Q27685719](https://www.wikidata.org/wiki/Q27685719)  
+
+### alignments:
+ - [Pompeii II.3.7 garden entrance](https://pleiades.stoa.org/places/243620947)
+
+
 ## Secondary Gate, Dura-Europos (Q116621907)
 [https://www.wikidata.org/wiki/Q116621907](https://www.wikidata.org/wiki/Q116621907)  
 
@@ -60977,6 +60984,20 @@
 
 ### alignments:
  - [Stoke Hill](https://pleiades.stoa.org/places/93334047)
+
+
+## Sithones (Q7531865)
+[https://www.wikidata.org/wiki/Q7531865](https://www.wikidata.org/wiki/Q7531865)  
+
+### alignments:
+ - [Sithones](https://pleiades.stoa.org/places/501617)
+
+
+## Sithonia (Q922342)
+[https://www.wikidata.org/wiki/Q922342](https://www.wikidata.org/wiki/Q922342)  
+
+### alignments:
+ - [Sithonia (peninsula)](https://pleiades.stoa.org/places/501618)
 
 
 ## Sitomagus (Q105556004)
@@ -67111,6 +67132,13 @@
 
 ### alignments:
  - [Troia](https://pleiades.stoa.org/places/727252)
+
+
+## Troy (Q22647)
+[https://www.wikidata.org/wiki/Q22647](https://www.wikidata.org/wiki/Q22647)  
+
+### alignments:
+ - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
 
 
 ## Trumpilini (Q3539728)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4894 alignments exist in _Pleiades_ place references as of 2026-02-04. The following list of alignments is grouped by zotkey.
+4896 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22376,6 +22376,13 @@
  - [Tirida/Kartera Kome/Stabulo Diomedis/Turris Diomedis/Tyrida](https://pleiades.stoa.org/places/507474)
 
 
+## GEO ID 40850: Dardanos
+[http://www.trismegistos.org/place/40850](http://www.trismegistos.org/place/40850)  
+
+### alignments:
+ - [Dardanos](https://pleiades.stoa.org/places/501393)
+
+
 ## GEO ID 40854: Bilubio
 [https://www.trismegistos.org/place/40854](https://www.trismegistos.org/place/40854)  
 
@@ -32853,6 +32860,13 @@
 
 ### alignments:
  - [tribus Sergia](https://pleiades.stoa.org/places/300044063)
+
+
+## GEO ID 7167: Sitheus
+[https://www.trismegistos.org/place/7167](https://www.trismegistos.org/place/7167)  
+
+### alignments:
+ - [Sitheus](https://pleiades.stoa.org/places/737049)
 
 
 ## GEO ID 716: Giza
