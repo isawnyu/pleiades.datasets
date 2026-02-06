@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-800 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
+803 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2221,6 +2221,13 @@
  - [Psyttaleia (island)](https://pleiades.stoa.org/places/580094)
 
 
+## 10991032: the Temple of Apollo Smintheus at Sminthe (Troad)
+[https://resource.manto.unh.edu/10991032](https://resource.manto.unh.edu/10991032)  
+
+### alignments:
+ - [Smintheion](https://pleiades.stoa.org/places/550892)
+
+
 ## 11003301: Ledon (Phocis)
 [https://resource.manto.unh.edu/11003301](https://resource.manto.unh.edu/11003301)  
 
@@ -2865,6 +2872,13 @@
  - [Rhypes](https://pleiades.stoa.org/places/570647)
 
 
+## 11308628: Sminthe (Troad)
+[https://resource.manto.unh.edu/11308628](https://resource.manto.unh.edu/11308628)  
+
+### alignments:
+ - [Smintheion](https://pleiades.stoa.org/places/550892)
+
+
 ## 11308713: Sithonia (Thrace)
 [https://resource.manto.unh.edu/11308713](https://resource.manto.unh.edu/11308713)  
 
@@ -2933,6 +2947,13 @@
 
 ### alignments:
  - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
+
+
+## 11309803: the Calydnian Islands (Tenedos)
+[https://resource.manto.unh.edu/11309803](https://resource.manto.unh.edu/11309803)  
+
+### alignments:
+ - [Kalydnai/Lagusae (islands)](https://pleiades.stoa.org/places/550611)
 
 
 ## 11309854: the Adriatic Sea

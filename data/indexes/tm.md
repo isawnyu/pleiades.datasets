@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4896 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
+4896 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -28949,7 +28949,7 @@
 [http://www.trismegistos.org/place/45486](http://www.trismegistos.org/place/45486)  
 
 ### alignments:
- - [Pedum?](https://pleiades.stoa.org/places/422997)
+ - [Pedum](https://pleiades.stoa.org/places/422997)
 
 
 ## GEO ID 45487: Digentia

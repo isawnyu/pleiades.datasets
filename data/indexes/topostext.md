@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4820 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
+4820 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -8623,7 +8623,7 @@
 [https://topostext.org/place/399239LDer](https://topostext.org/place/399239LDer)  
 
 ### alignments:
- - [Derris Pr.](https://pleiades.stoa.org/places/501398)
+ - [Derris (promontory)](https://pleiades.stoa.org/places/501398)
 
 
 ## Dertona (Liguria)

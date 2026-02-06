@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10201 alignments exist in _Pleiades_ place references as of 2026-02-05. The following list of alignments is grouped by zotkey.
+10202 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -14583,7 +14583,7 @@
 [https://www.wikidata.org/wiki/Q17628202](https://www.wikidata.org/wiki/Q17628202)  
 
 ### alignments:
- - [Pedum?](https://pleiades.stoa.org/places/422997)
+ - [Pedum](https://pleiades.stoa.org/places/422997)
 
 
 ## Cordillera Penibética (Q2504871)
@@ -61159,6 +61159,13 @@
 
 ### alignments:
  - [Small Down Knoll hill fort](https://pleiades.stoa.org/places/562474732)
+
+
+## Smintheion (Q65072495)
+[https://www.wikidata.org/wiki/Q65072495](https://www.wikidata.org/wiki/Q65072495)  
+
+### alignments:
+ - [Smintheion](https://pleiades.stoa.org/places/550892)
 
 
 ## Smyrna (Q1379299)
