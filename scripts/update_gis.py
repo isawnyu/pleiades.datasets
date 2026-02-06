@@ -33,6 +33,7 @@ OPTIONAL_ARGUMENTS = [
         "very verbose output (logging level == DEBUG)",
         False,
     ],
+    ["-r", "--refresh", True, "bypass local cache and refresh all data", False],
 ]
 POSITIONAL_ARGUMENTS = [
     # each row is a list with 3 elements: name, type, help
@@ -44,7 +45,7 @@ def main(**kwargs):
     main function
     """
     logger = logging.getLogger(sys._getframe().f_code.co_name)
-    converter = JSON2CSV()
+    converter = JSON2CSV(refresh_cache=kwargs.get("refresh", False))
     places = list()
     i = 0
     for root, dirs, files in os.walk("data/json"):

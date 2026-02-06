@@ -22,6 +22,12 @@ from textnorm import normalize_space
 from datetime import timedelta
 import traceback
 
+HEADERS = {
+    "User-Agent": "PleiadesDatasets/1.0 (https://pleiades.stoa.org/)",
+    "From": "pleiades-admin@nyu.edu",
+    "Cache-Control": "no-cache",
+}
+
 
 def dd_for_meters(orig_lon, orig_lat, meters):
     """
@@ -224,6 +230,10 @@ class JSON2CSV:
     )
     time_periods_keys = list(time_periods_schema.keys())
 
+    def __init__(self, refresh_cache: bool = False):
+        if refresh_cache:
+            self.session.cache.clear()
+
     def write(self, source: list, dir: str):
         logging.getLogger("normalize_space").setLevel(logging.WARNING)
         logger = logging.getLogger("derivatives.JSON2CSV.write")
@@ -258,7 +268,7 @@ class JSON2CSV:
         vocab_uri = f"https://pleiades.stoa.org/vocabularies/{vocab_slug}"
         logger = logging.getLogger("derivatives._parse_vocab")
         logger.debug(f"Parsing vocabulary at {vocab_uri}")
-        r = self.session.get(vocab_uri)
+        r = self.session.get(vocab_uri, headers=HEADERS)
         if r.status_code != 200:
             r.raise_for_status()
         soup = BeautifulSoup(r.text, features="lxml")
@@ -272,7 +282,7 @@ class JSON2CSV:
             ):
                 continue
             component_uri = f"{vocab_uri}/{link['href'].split('/')[-1]}"
-            cr = self.session.get(component_uri)
+            cr = self.session.get(component_uri, headers=HEADERS)
             if cr.status_code != 200:
                 cr.raise_for_status()
             component_soup = BeautifulSoup(cr.text, features="lxml")
