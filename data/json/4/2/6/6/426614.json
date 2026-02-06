@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        12.75,
-        41.75,
-        13.0,
-        42.0
+        12.7862287,
+        41.8717327,
+        12.7863881,
+        41.8717393
     ],
     "connections": [
         {
@@ -122,37 +122,23 @@
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            13.0,
-                            41.75
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ]
+                        12.7862287,
+                        41.8717327
+                    ],
+                    [
+                        12.7863881,
+                        41.8717393
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
-            "id": "batlas-location",
+            "id": "osm-location",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/426614/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/426614/osm-location",
+                "location_precision": "precise",
+                "snippet": "Bridge; 30 BC - AD 300",
+                "title": "OSM location"
             },
             "type": "Feature"
         }
@@ -218,8 +204,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -227,123 +213,175 @@
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-10T22:29:25Z",
+            "contributors": [],
+            "created": "2025-12-24T00:51:59Z",
             "creators": [
                 {
-                    "name": "L. Quilici",
-                    "username": null
-                },
-                {
-                    "name": "S. Quilici Gigli",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 300,
             "featureType": [
-                "unknown"
+                "bridge"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
             "geometry": {
                 "coordinates": [
                     [
-                        [
-                            12.75,
-                            41.75
-                        ],
-                        [
-                            13.0,
-                            41.75
-                        ],
-                        [
-                            13.0,
-                            42.0
-                        ],
-                        [
-                            12.75,
-                            42.0
-                        ],
-                        [
-                            12.75,
-                            41.75
-                        ]
+                        12.7862287,
+                        41.8717327
+                    ],
+                    [
+                        12.7863881,
+                        41.8717393
                     ]
                 ],
-                "type": "Polygon"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:58:28Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-11T05:12:26Z",
+                    "modified": "2026-02-05T19:22:15Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-10T22:38:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-12-24T00:52:24Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2025-12-24T00:52:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-12-24T00:51:59Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-10T22:29:25Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-12-24T00:51:59Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/bridge"
             ],
-            "provenance": "Barrington Atlas: BAtlas 43 D2 38",
-            "references": [],
+            "provenance": "OpenStreetMap (Way 1064455253, version 1, osm:changeset=121595060, 2022-05-27T22:07:51Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1064455253",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Way 1064455253",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1064455253",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/426614/batlas-location"
+            "start": -30,
+            "title": "OSM location",
+            "uri": "https://pleiades.stoa.org/places/426614/osm-location"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twentieth-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twentieth-ce"
+                }
+            ],
+            "attested": "Ponte dell’Acqua Nera",
+            "contributors": [],
+            "created": "2025-12-24T00:53:01Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 1999,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-02-05T19:22:33Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-01-01T14:20:05Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2026-01-01T14:19:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "name - Ponte dell’Acqua Nera",
+                    "modified": "2025-12-24T00:53:04Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2025-12-24T00:53:01Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "ponte-dell2019acqua-nera",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 633 s.v. \"Numbered Features\" no. 38",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Ponte dell’Acqua Nera",
+            "start": 1900,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/426614/ponte-dell2019acqua-nera"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/bridge"
     ],
@@ -409,8 +447,8 @@
         }
     ],
     "reprPoint": [
-        12.875,
-        41.875
+        12.7863084,
+        41.871736
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
