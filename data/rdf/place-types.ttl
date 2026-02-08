@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2026/02/01 06:47:36.563032 US/Eastern
+# Date: 2026/02/08 06:47:36.450952 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1098
+# Triple count: 1271
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -37,11 +37,19 @@
     skos:prefLabel "agora"@en;
     skos:scopeNote "An agora as defined by the Getty Art and Architecture Thesaurus: In ancient Greek settlements, open spaces used as marketplaces or general public meeting places."@en .
 
+<https://pleiades.stoa.org/vocabularies/altar> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/altar>,
+        <https://vocab.getty.edu/aat/300003725>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "altar"@en;
+    skos:scopeNote "An altar as defined by the Getty Art and Architecture Thesaurus: \"Elevated platforms or constructions upon which religious sacrifice is offered or other religious or spiritual activities carried out. In a Christian church altars are platforms where Eucharistic elements are consecrated, in the ancient tradition of a sacrifice. Includes both indoor small, tablelike fixtures and larger, free-standing, outdoor structures.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/amphitheatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/amphitheatre>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/amphitheatre>,
+        <https://vocab.getty.edu/aat/300007128>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "amphitheatre, amphitheater"@en;
-    skos:scopeNote "Equivalent to Getty AAT \"amphitheaters\" aat:300007128 (http://vocab.getty.edu/aat/300007128)."@en .
+    skos:scopeNote "An amphitheater as defined by the Getty Art and Architecture Thesaurus: \"Circular or elliptical structures in which a central performance area is surrounded by rising tiers of seats.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/anchorage> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/anchorage>,
@@ -70,7 +78,8 @@
     skos:scopeNote "An archaeological site as defined by the Getty Art and Architecture Thesaurus:  Locations where human activities once took place and some form of material evidence has been left behind, particularly sites where evidence of past activity is being or has been investigated using the discipline of archaeology."@en .
 
 <https://pleiades.stoa.org/vocabularies/archipelago> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/archipelago>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/archipelago>,
+        <https://vocab.getty.edu/aat/300386854>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "archipelago, island group"@en;
     skos:scopeNote "Any grouping of islands or an archipelago that are treated as a unit in antiquity or in archaeological analysis."@en .
@@ -96,9 +105,11 @@
     skos:scopeNote "Barracks as defined by the Getty Art and Architecture Thesaurus: Buildings or sets of buildings erected as common living quarters for groups of soldiers or workers."@en .
 
 <https://pleiades.stoa.org/vocabularies/basilica> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/basilica>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/basilica>,
+        <https://vocab.getty.edu/aat/300170443>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "basilica"@en .
+    skos:prefLabel "basilica"@en;
+    skos:scopeNote "A basilica as defined by the Getty Art and Architecture Thesaurus: \"Refers to religious or secular buildings characterized by an oblong plan divided into a nave with two or more side aisles, the former higher and wider than the latter and generally lit by clerestory windows; usually terminated by an apse.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/bath> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/bath>;
@@ -114,9 +125,11 @@
     skos:scopeNote "A battlefield as defined by the Getty Art and Architecture Thesaurus: Locations where a hostile meetings of opposing military forces in the course of a war have taken place."@en .
 
 <https://pleiades.stoa.org/vocabularies/bay> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/bay>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/bay>,
+        <https://vocab.getty.edu/aat/300132316>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "bay"@en .
+    skos:prefLabel "bay"@en;
+    skos:scopeNote "A bay as defined by the Getty Art and Architecture Thesaurus: \"Denotes wide, open, curving indentations of a shoreline, larger than coves and smaller than gulfs.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/bridge> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/bridge>,
@@ -161,9 +174,11 @@
     skos:scopeNote "A canyon (fluvial landform) as defined by the Getty Art and Architecture Thesaurus: Deep, steep-sided land depressions, often having a river at the bottom; common to arid and semi-arid areas. Distinct from \"valleys (landforms),\" which tend to have a flattish landscape rather than high, precipitous slopes. Distinct from \"gorges (landforms),\" which tend to be smaller, narrower, and more rocky."@en .
 
 <https://pleiades.stoa.org/vocabularies/cape> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/cape>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/cape>,
+        <https://vocab.getty.edu/aat/300008850>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "cape, promontory"@en .
+    skos:prefLabel "cape, promontory, promuntory"@en;
+    skos:scopeNote "A cape as defined by the Getty Art and Archaeology Thesaurus: \"Land areas, more prominent than a point, projecting into the sea and marking a notable change in coastal direction.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/cascade> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/cascade>,
@@ -192,14 +207,23 @@
     skos:prefLabel "causeway"@en .
 
 <https://pleiades.stoa.org/vocabularies/cave> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/cave>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/cave>,
+        <https://vocab.getty.edu/aat/300008746>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "cave"@en .
+    skos:prefLabel "cave"@en;
+    skos:scopeNote "A cave as defined by the Getty Art and Architecture Thesaurus: \"Natural openings in the earth large enough for human exploration.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/cemetery> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/cemetery>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "catacomb, cemetery, necropolis"@en .
+
+<https://pleiades.stoa.org/vocabularies/cenotaph> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/cenotaph>,
+        <https://vocab.getty.edu/aat/300007027>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "cenotaph"@en;
+    skos:scopeNote "A cenotaph as defined by the Getty Art and Architecture Thesaurus: \"Sepulchral monuments erected to a person or persons buried elsewhere.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/centuriation> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/centuriation>;
@@ -233,9 +257,11 @@
     skos:scopeNote "A church building as defined by the Getty Art and Architecture Thesaurus term 300007466: \"Buildings for public Christian worship that are distinguished historically from chapels and oratories, which are buildings that are in some respect private, or not public in the widest sense. Church architecture generally somewhat follows standard models, which vary depending upon the date, location, and characteristics of the congregation.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/circus> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/circus>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/circus>,
+        <https://vocab.getty.edu/aat/300007255>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "circus"@en .
+    skos:prefLabel "circus"@en;
+    skos:scopeNote "A circus as defined by the Getty Art and Architecture Thesaurus: \"Oblong ancient Roman enclosures that are curved at one end, with tiered seating on three sides, and built for chariot and horse racing.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/cistern> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/cistern>,
@@ -348,6 +374,13 @@
     skos:prefLabel "district"@en;
     skos:scopeNote "A district as defined by the Getty Art and Architecture Thesaurus: territorial divisions as for administrative or electoral purposes, or settlement areas with distinguishing characteristics."@en .
 
+<https://pleiades.stoa.org/vocabularies/ditch> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/ditch>,
+        <https://vocab.getty.edu/aat/300006178>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "ditch"@en;
+    skos:scopeNote "A ditch as defined by the Getty Art and Architecture Thesaurus: \"Long narrow excavations, usually with sloping sides, dug in the earth for defense, drainage, or irrigation.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/earthwork> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/earthwork>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
@@ -370,7 +403,7 @@
 <https://pleiades.stoa.org/vocabularies/estate> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/estate>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "estate, villa"@en .
+    skos:prefLabel "estate"@en .
 
 <https://pleiades.stoa.org/vocabularies/estuary> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/estuary>,
@@ -398,10 +431,19 @@
     skos:prefLabel "fictional place"@en;
     skos:scopeNote "A demonstrably non-existent place invented or perpetuated by ancient sources."@en .
 
-<https://pleiades.stoa.org/vocabularies/findspot> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/findspot>;
+<https://pleiades.stoa.org/vocabularies/field> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/field>,
+        <https://vocab.getty.edu/aat/300343519>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "findspot, place of finding"@en .
+    skos:prefLabel "field"@en;
+    skos:scopeNote "A field as defined by the Getty Art and Architecture Thesaurus: \"Open land as opposed to woodland or land occupied by buildings\""@en .
+
+<https://pleiades.stoa.org/vocabularies/findspot> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/findspot>,
+        <https://vocab.getty.edu/aat/300451414>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "findspot, place of finding, find place"@en;
+    skos:scopeNote "A find place as defined by the Getty Art and Architecture Thesaurus: \"In archaeology and related disciplines, the location where an object, artifact, or another thing or things were found.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/fishpond> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/fishpond>,
@@ -473,7 +515,8 @@
     skos:scopeNote "A border defensive system, as described at http://en.wikipedia.org/wiki/Limes"@en .
 
 <https://pleiades.stoa.org/vocabularies/garden-hortus> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/garden-hortus>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/garden-hortus>,
+        <https://www.wikidata.org/wiki/Q1107656>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "garden, hortus"@en;
     skos:scopeNote "A garden is a planned space, usually outdoors, set aside for the display, cultivation, and enjoyment of plants and other forms of nature, as described at https://en.wikipedia.org/?title=Garden"@en .
@@ -500,10 +543,18 @@
     skos:scopeNote "A village/hamlet (Sanskrit and prakrits)"@en .
 
 <https://pleiades.stoa.org/vocabularies/grove> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/grove>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/grove>,
+        <https://vocab.getty.edu/aat/300008884>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "grove"@en;
-    skos:scopeNote "a small wood, orchard, or group of trees."@en .
+    skos:scopeNote "A grove as defined by the Getty Art and Architecture Thesaurus: \"Groups of trees, often of a single species, smaller than forests in extent, growing naturally or planted in formation, and generally with little or no undergrowth.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/gulf> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/gulf>,
+        <https://vocab.getty.edu/aat/300132315>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "gulf"@en;
+    skos:scopeNote "A gulf as defined by the Getty Art and Architecture Thesaurus: \"Large inlets of the sea, usually more enclosed and more deeply indented than bays.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/gymnasium> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/gymnasium>,
@@ -520,9 +571,11 @@
     skos:scopeNote "A harbor as defined by the Getty Art and Architecture Thesaurus: Well-sheltered inlets of water affording protection from wind and sea and sufficient depth to allow anchorage for vessels."@en .
 
 <https://pleiades.stoa.org/vocabularies/hill> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/hill>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/hill>,
+        <https://vocab.getty.edu/aat/300008777>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "hill"@en .
+    skos:prefLabel "hill"@en;
+    skos:scopeNote "A hill as defined by the Getty Art and Architecture Thesaurus: \"Elevation of earth's surface, smaller than a mountain.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/hillfort> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/hillfort>,
@@ -530,6 +583,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "hillfort"@en;
     skos:scopeNote "A hillfort  as defined by the Getty Art and Architecture Thesaurus:  Defensive enclosures comprised of ramparts and ditches encircling a fortified structure on a central prominence; common in Bronze Age and Iron Age Europe."@en .
+
+<https://pleiades.stoa.org/vocabularies/house> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/house>,
+        <https://vocab.getty.edu/aat/300005433>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "house"@en;
+    skos:scopeNote "A house as defined by the Getty Art and Architecture Thesaurus: \"Individual dwellings designed to be occupied by a single tenant or family. May also refer to a building for human occupation, for some purpose other than that of an ordinary dwelling.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/hunting-base> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/hunting-base>,
@@ -546,15 +606,24 @@
     skos:scopeNote "An interior wall as defined by the Getty Art and Architecture Thesaurus: Walls having two interior faces and existing entirely within the exterior walls."@en .
 
 <https://pleiades.stoa.org/vocabularies/island> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/island>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/island>,
+        <https://vocab.getty.edu/aat/300008791>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "island"@en .
+    skos:prefLabel "island"@en;
+    skos:scopeNote "An island as defined by the Getty Art and Architecture Thesaurus: \"Landforms smaller than a continent, completely surrounded by water at high water. Islands appear in oceans, seas, lakes, or rivers.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/isthmus> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/isthmus>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "isthmus"@en;
     skos:scopeNote "a narrow strip of land connecting two larger land areas."@en .
+
+<https://pleiades.stoa.org/vocabularies/kingdom> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/kingdom>,
+        <https://vocab.getty.edu/aat/300235096>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "kingdom"@en;
+    skos:scopeNote "A kingdom as defined by the Getty Art and Architecture Thesaurus: \"Administrative bodies subject to a king or queen.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/label> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/label>;
@@ -569,10 +638,18 @@
     skos:scopeNote "A lagoon is a shallow body of water separated from a larger body of water by barrier islands or reefs."@en .
 
 <https://pleiades.stoa.org/vocabularies/lake> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/lake>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/lake>,
+        <https://vocab.getty.edu/aat/300008680>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "lake"@en;
-    skos:scopeNote "Lake or Lacus (Latin), abbreviated: L."@en .
+    skos:scopeNote "Lake or Lacus (Latin), abbreviated: L. As defined by the Getty Art and Architecture Thesaurus: \"Bodies of fresh or salt water surrounded by land.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/landmark> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/landmark>,
+        <https://vocab.getty.edu/aat/300006971>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "landmark"@en;
+    skos:scopeNote "A landmark as defined by the Getty Art and Architecture Thesaurus: \"Conspicuous monuments, fixed objects, or markers that serve as guides in the direction of one's course, characterize a neighborhood, or establish the location of land boundaries or property.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/league> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/league>,
@@ -580,6 +657,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "league, organization, association"@en;
     skos:scopeNote "A league/organization/association as defined by the Getty Art and Architecture Thesaurus: Collections of people, groups, or nations that join for mutual protection or cooperation, or for another purpose."@en .
+
+<https://pleiades.stoa.org/vocabularies/lesche> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/lesche>,
+        <https://www.wikidata.org/wiki/Q1785888>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "lesche"@en;
+    skos:scopeNote "A lesche as defined in Wikidata: \"ancient Greek council house or clubhouse\""@en .
 
 <https://pleiades.stoa.org/vocabularies/lighthouse> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/lighthouse>,
@@ -603,10 +687,18 @@
     skos:scopeNote "A macellum as defined by the Getty Art and Architecture Thesaurus: Designates ancient Roman meat markets; may also be used more generally for ancient Roman food markets."@en .
 
 <https://pleiades.stoa.org/vocabularies/marsh-wetland> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/marsh-wetland>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/marsh-wetland>,
+        <https://vocab.getty.edu/aat/300008899>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "marsh, wetland"@en;
-    skos:scopeNote "A wetland is a land area that is saturated with water, either permanently or seasonally, such that it takes on the characteristics of a distinct ecosystem."@en .
+    skos:prefLabel "wetland (swamp, marsh, or bog)"@en;
+    skos:scopeNote "A wetland is a land area that is saturated with water, either permanently or seasonally, such that it takes on the characteristics of a distinct ecosystem. Getty Art and Architecture Thesaurus: \"Large category including areas of land characterized by poor drainage, standing or slowly moving water, and as a result, an almost constant state of water-saturated soil. Wetlands include swamps, marshes, and bogs.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/meadow> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/meadow>,
+        <https://vocab.getty.edu/aat/300008876>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "meadow"@en;
+    skos:scopeNote "A meadow as defined by the Getty Art and Architecture Thesaurus: \"Large open tracts of grassland, sometimes used for pasture.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/metalworking> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/metalworking>,
@@ -665,6 +757,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/mosque>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "mosque"@en .
+
+<https://pleiades.stoa.org/vocabularies/mound> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/mound>,
+        <https://vocab.getty.edu/aat/300008024>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "mound"@en;
+    skos:scopeNote "A mound as defined by the Getty Art and Architecture Thesaurus: \" Piles of earth heaped up for landmarks, monuments, or as bases for other structures.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/mountain> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/mountain>,
@@ -731,11 +830,25 @@
     skos:prefLabel "palace complex"@en;
     skos:scopeNote "A palace complex as defined by the Getty Art and Architecture Thesaurus: Complexes of built works surrounding the palace or palaces of a ruler"@en .
 
+<https://pleiades.stoa.org/vocabularies/palaestra> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/palaestra>,
+        <https://vocab.getty.edu/aat/300007301>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "palaestra"@en;
+    skos:scopeNote "A palaestra as defined by the Getty Art and Architecture Thesaurus: \"Ancient Greek or Roman buildings for training in wrestling or other athletic endeavors. Palaestrae were often part of public gymnasia, although some functioned independently. The floorplan of palaestrae was standardized, usually comprising a rectangular court surrounded by colonnades with adjoining rooms devoted to activities such as undressing, bathing, socializing, observation, instruction, and storage.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/palaistra> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/palaistra>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "palaistra"@en;
     skos:scopeNote "A square or rectangular court, usually surrounded by colonnades, that formed part of a Greek-style athletic complex."@en .
+
+<https://pleiades.stoa.org/vocabularies/paradise-garden> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/paradise-garden>,
+        <https://vocab.getty.edu/aat/300008112>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "paradise garden, park"@en;
+    skos:scopeNote "A paradise garden as defined by the Getty Art and Architecture Thesaurus: \"Gardens often provided with shade, flowing water, pavilions, and elaborate plantings for private enjoyment; common in Islamic countries.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/pass> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/pass>,
@@ -745,9 +858,11 @@
     skos:scopeNote "A pass as defined by the Getty Art and Architecture Thesaurus: Refers to narrow routes through or gaps in mountain ranges allowing passage across."@en .
 
 <https://pleiades.stoa.org/vocabularies/peninsula> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/peninsula>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/peninsula>,
+        <https://vocab.getty.edu/aat/300008804>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "peninsula"@en .
+    skos:prefLabel "peninsula"@en;
+    skos:scopeNote "A peninsula as defined by the Getty Art and Architecture Thesaurus: \"Landforms surrounded by water on three sides, not completey independent from the mainland.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/people> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/people>,
@@ -770,10 +885,19 @@
     skos:prefLabel "pit"@en;
     skos:scopeNote "A pit as defined by the Getty Art and Architecture Thesaurus: Cavities in the earth, usually not below ground water level, that are shallow in proportion to their width and generally created for materials extraction or burial."@en .
 
-<https://pleiades.stoa.org/vocabularies/plain> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/plain>;
+<https://pleiades.stoa.org/vocabularies/place> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/place>,
+        <https://vocab.getty.edu/aat/300248475>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "plain"@en .
+    skos:prefLabel "place (distinct area)"@en;
+    skos:scopeNote "A place as defined by the Getty Art and Architecture Thesaurus: \"A space or area within the lived world of daily experience, perceived as distinct and unified, and possessing emotional, purposive, and social connotations along with physical features and characteristics.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/plain> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/plain>,
+        <https://vocab.getty.edu/aat/300008805>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "plain"@en;
+    skos:scopeNote "A plain as defined by the Getty Art and Architecture Thesaurus: \"Extensive areas of land having few inequalities of surface, being usually fairly flat and at low elevation.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/plateau> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/plateau>;
@@ -806,6 +930,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "port"@en .
 
+<https://pleiades.stoa.org/vocabularies/portico> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/portico>,
+        <https://vocab.getty.edu/aat/300004145>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "portico"@en;
+    skos:scopeNote "A portico as defined by the Getty Art and Architecture Thesaurus: \"Roofed porchlike spaces, open along at least one side and usually associated with an entrance, supported by columns and often surmounted by a pediment; porticoes may project from the main building mass or be recessed in it.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/postern> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/postern>,
         <http://vocab.getty.edu/aat/300002932>;
@@ -837,6 +968,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "province"@en;
     skos:scopeNote "A province as defined by the Getty Art and Architecture Thesaurus: The constituent political and administrative divisions within various sovereign states, including historic ones such as the Roman Empire and modern nations under a federal system such as Canada and Spain."@en .
+
+<https://pleiades.stoa.org/vocabularies/prytaneion> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/prytaneion>,
+        <https://vocab.getty.edu/aat/300127097>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "prytaneion"@en;
+    skos:scopeNote "A prytaneion as defined by the Getty Art and Architecture Thesaurus: \"Public halls in ancient Greek cities where the sacred hearth and official headquarters of the city administration were housed and where official guests were entertained.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/pyramid> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/pyramid>,
@@ -871,9 +1009,11 @@
     skos:scopeNote "Geographic district of Italia as defined by the Roman emperor Augustus."@en .
 
 <https://pleiades.stoa.org/vocabularies/region> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/region>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/region>,
+        <https://vocab.getty.edu/aat/300387178>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "region"@en .
+    skos:prefLabel "region"@en;
+    skos:scopeNote "A historical region as defined by the Getty Art and Architecture Thesaurus: \"Areas that were bound in the past by culture, economics, topography, or another characteristic, and that have historical importance.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/reservoir> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/reservoir>;
@@ -888,14 +1028,18 @@
     skos:scopeNote "A ridge as defined by the Getty Art and Architecture Thesaurus: Ridges are elongated strips of elevated ground that may be either on dry land or underwater."@en .
 
 <https://pleiades.stoa.org/vocabularies/river> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/river>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/river>,
+        <https://vocab.getty.edu/aat/300008707>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "river, drainage"@en .
+    skos:prefLabel "river, drainage"@en;
+    skos:scopeNote "A river as defined by the Getty Art and Architecture Thesaurus: \"Bodies of water flowing in direct course or a series of divergents or converging channels.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/road> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/road>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/road>,
+        <https://vocab.getty.edu/aat/300008217>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "road"@en .
+    skos:prefLabel "road"@en;
+    skos:scopeNote "A road as defined by the Getty Art and Architecture Thesaurus: \"General term referring to all long outdoor passages used by and generally created by humans, intended to allow people to pass between different places, usually one wide enough to admit of the passage of wheeled vehicles, horses, or travellers on foot.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/room> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/room>,
@@ -903,6 +1047,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "room (interior)"@en;
     skos:scopeNote "A room (interior space) as defined by the Getty Art and Architecture Thesaurus: Refers to the interior portions of buildings or other structures fully separated and divided off from the other portions by a floor, ceiling, and walls or partitions."@en .
+
+<https://pleiades.stoa.org/vocabularies/route> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/route>,
+        <https://vocab.getty.edu/aat/300265365>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "route"@en;
+    skos:scopeNote "A route as defined by the Getty Art and Architecture Thesaurus: \"Generally, a travelled way or course, from one place to another, whether terrestrial or on water.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/ruin> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/ruin>,
@@ -1034,11 +1185,19 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "station (road or coastal)"@en .
 
+<https://pleiades.stoa.org/vocabularies/statue> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/statue>,
+        <https://vocab.getty.edu/aat/300047600>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "statue"@en;
+    skos:scopeNote "A statue as defined by the Getty Art and Architecture Thesaurus: \"Sculpture in the round, usually but not always depicting humans, animals, mythical beings, or small figure groups. Statues are relatively large in scale, being life-size, larger than life-size, or only slightly smaller than life-size.\""@en .
+
 <https://pleiades.stoa.org/vocabularies/stoa> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/stoa>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/stoa>,
+        <https://vocab.getty.edu/aat/300005144>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "stoa"@en;
-    skos:scopeNote "A rectangular building with an open colonnade along one long side."@en .
+    skos:scopeNote "A stoa as defined by the Getty Art and Architecture Thesaurus: \"Structures that originated in Greek architecture, comprising freestanding colonnades or covered walkways, or long open buildings with the roof supported by one or more rows of columns parallel to the rear wall. Stoas surrounded marketplaces and sanctuaries, forming places of business and public promenade. Rooms could back onto the colonnade, and a second story was sometimes added.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/strait> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/strait>,
@@ -1060,6 +1219,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "stupa"@en;
     skos:scopeNote "A stupa as defined by the Getty Art and Architecture Thesaurus: Buddhist relic mounds of earth, brick, or stone, dominated by a hemispherical or bulbous dome set on a square or circular base and topped by a small pavilionlike structure and a spire. Stupas often serve as pilgrimage sites and symbols of the Buddha or his teachings."@en .
+
+<https://pleiades.stoa.org/vocabularies/subcontinent> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/subcontinent>,
+        <https://vocab.getty.edu/aat/300182723>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "subcontinent"@en;
+    skos:scopeNote "A subcontinent as defined by the Getty Art and Architecture Thesaurus: \"Land masses of great size but smaller than those generally called continents; also large subdivisions of continents having a certain geographical independence.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/synagogue> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/synagogue>,
@@ -1094,10 +1260,19 @@
     skos:prefLabel "temple"@en;
     skos:scopeNote "A temple as defined by the Getty Art and Architecture Thesaurus term 300007595: \"Buildings housing places devoted to the worship of a deity or deities. In the strictest sense, it refers to the dwelling place of a deity, and thus often houses a cult image. In modern usage a temple is generally a structure, but it was originally derived from the Latin \"templum\" and historically has referred to an uncovered place affording a view of the surrounding region. For Christian or Islamic religious buildings the terms \"churches\" or \"mosques\" are generally used, but an exception is that \"temples\" is used for Protestant, as opposed to Roman Catholic, places of worship in France and some French-speaking regions."@en .
 
-<https://pleiades.stoa.org/vocabularies/theatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/theatre>;
+<https://pleiades.stoa.org/vocabularies/territory> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/territory>,
+        <https://www.wikidata.org/wiki/Q183366>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "theatre, theater"@en .
+    skos:prefLabel "territory"@en;
+    skos:scopeNote "A territory as defined by Wikidata: \"an area of land under a certain jurisdiction\""@en .
+
+<https://pleiades.stoa.org/vocabularies/theatre> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/theatre>,
+        <https://vocab.getty.edu/aat/300007117>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "theatre, theater"@en;
+    skos:scopeNote "A theater as defined by the Getty Art and Architecture Thesaurus: \"Buildings having a stage or projection screen for the presentation of dramatic performances and providing seating areas for spectators.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/tomb> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/tomb>,
@@ -1168,17 +1343,36 @@
     skos:prefLabel "townhouse"@en;
     skos:scopeNote "Designation for a private residence or individual mixed-use residential and commercial complex within a planned urban environment. A townhouse abuts neighboring residences, either directly through party-walls or indirectly through lot-edges or shared alleys."@en .
 
-<https://pleiades.stoa.org/vocabularies/treasury> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/treasury>,
-        <http://vocab.getty.edu/aat/300006050>;
+<https://pleiades.stoa.org/vocabularies/treasure-house> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/treasure-house>,
+        <https://vocab.getty.edu/aat/300451437>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "treasury"@en;
-    skos:scopeNote "(i.e., ancient Greek Θησαυρός) Equivalent to AAT:treasurie."@en .
+    skos:prefLabel "treasure house, treasury"@en;
+    skos:scopeNote "A treasure house as defined by the Getty Art and Architecture Thesaurus: \"Buildings in which money or other valuables are stored, usually of relatively modest size and used for historical buildings. Examples are found in Classical Greece and Rome.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/treasury> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/treasury>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "treasury (deprecated)"@en .
+
+<https://pleiades.stoa.org/vocabularies/tree> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/tree>,
+        <https://vocab.getty.edu/aat/300132410>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "tree"@en;
+    skos:scopeNote "A tree as defined by the Getty Art and Architecture Thesaurus: \"Woody, perennial plants usually with a single, long, self-supporting stem or trunk, and which grow to a considerable height.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/tribus> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/tribus>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "tribus, Roman voting assembly"@en .
+
+<https://pleiades.stoa.org/vocabularies/trophy> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/trophy>,
+        <https://www.wikidata.org/wiki/Q1753584>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "trophy, tropaion"@en;
+    skos:scopeNote "A trophy as defined in Wikidata: \"Greco-Roman monument celebrating victory\""@en .
 
 <https://pleiades.stoa.org/vocabularies/tumulus> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/tumulus>;
@@ -1287,9 +1481,11 @@
     skos:scopeNote "A waterfall as defined by the Getty Art and Architecture Thesaurus: Perpendicular or very steep descents of the water of a stream"@en .
 
 <https://pleiades.stoa.org/vocabularies/well> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    owl:sameAs <http://pleiades.stoa.org/vocabularies/well>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/well>,
+        <https://vocab.getty.edu/aat/300006207>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
-    skos:prefLabel "well"@en .
+    skos:prefLabel "well"@en;
+    skos:scopeNote "A well as defined by the Getty Art and Architecture Thesaurus: \"Holes, pits, or other generally vertical excavations cored, bored, drilled, or otherwise constructed in the earth for purposes of drawing out various liquids, such as water, brine, or petroleum, or natural gas.\""@en .
 
 <https://pleiades.stoa.org/vocabularies/wheel> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/wheel>;
