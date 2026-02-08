@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4896 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
+4900 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2980,7 +2980,7 @@
  - [Gordion/Vindia?](https://pleiades.stoa.org/places/609393)
 
 
-## GEO ID 11822
+## GEO ID 11822: Moesia
 [https://www.trismegistos.org/place/11822](https://www.trismegistos.org/place/11822)  
 
 ### alignments:
@@ -14883,6 +14883,13 @@
  - [Sostra](https://pleiades.stoa.org/places/216989)
 
 
+## GEO ID 29965: Troesmis (Igliţa-Turcoaia)
+[https://www.trismegistos.org/place/29965](https://www.trismegistos.org/place/29965)  
+
+### alignments:
+ - [Troesmis](https://pleiades.stoa.org/places/217025)
+
+
 ## GEO ID 29979: Apulum (Alba Iulia)
 [http://www.trismegistos.org/place/29979](http://www.trismegistos.org/place/29979)  
 
@@ -14911,6 +14918,13 @@
  - [Thinites Nomos](https://pleiades.stoa.org/places/756658)
 
 
+## GEO ID 30004: Beroe (Frecăţei)
+[https://www.trismegistos.org/place/30004](https://www.trismegistos.org/place/30004)  
+
+### alignments:
+ - [Beroe](https://pleiades.stoa.org/places/216730)
+
+
 ## GEO ID 30010: Dinogetia (Gărvan)
 [http://www.trismegistos.org/place/30010](http://www.trismegistos.org/place/30010)  
 
@@ -14923,6 +14937,13 @@
 
 ### alignments:
  - [Noviodunum](https://pleiades.stoa.org/places/216900)
+
+
+## GEO ID 30019: Arrubium (Măcin)
+[https://www.trismegistos.org/place/30019](https://www.trismegistos.org/place/30019)  
+
+### alignments:
+ - [Arubium](https://pleiades.stoa.org/places/216712)
 
 
 ## GEO ID 30024: Ulmetum (Pantelimon)
@@ -33317,6 +33338,13 @@
 
 ### alignments:
  - [Hermopolis Mikra](https://pleiades.stoa.org/places/727123)
+
+
+## GEO ID 81: Ainos (Enez)
+[https://www.trismegistos.org/place/81](https://www.trismegistos.org/place/81)  
+
+### alignments:
+ - [Ainos](https://pleiades.stoa.org/places/501337)
 
 
 ## GEO ID 8201: Psinabla

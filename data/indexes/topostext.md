@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4820 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
+4823 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5023,6 +5023,13 @@
 
 ### alignments:
  - [Athyras](https://pleiades.stoa.org/places/511172)
+
+
+## Atlantic Ocean
+[https://topostext.org/place/319-19WAtl](https://topostext.org/place/319-19WAtl)  
+
+### alignments:
+ - [Atlanticus Oceanus](https://pleiades.stoa.org/places/845)
 
 
 ## Atrax (Thessaly)
@@ -11058,6 +11065,13 @@
 
 ### alignments:
  - [Temple B](https://pleiades.stoa.org/places/635795593)
+
+
+## Fortunate Isles 8
+[https://topostext.org/place/281-16IFor](https://topostext.org/place/281-16IFor)  
+
+### alignments:
+ - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
 
 
 ## Forum Appii (Italy)
@@ -18323,6 +18337,13 @@
 
 ### alignments:
  - [Limenia?](https://pleiades.stoa.org/places/707563)
+
+
+## Limia/Limaea/Lethe river (Lusitania)
+[https://topostext.org/place/417-88WLim](https://topostext.org/place/417-88WLim)  
+
+### alignments:
+ - [Limia (river)](https://pleiades.stoa.org/places/236518)
 
 
 ## Limiko Kapsalon dragon house (Euboea)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10202 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
+10210 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1044,6 +1044,13 @@
 
 ### alignments:
  - [Aenona](https://pleiades.stoa.org/places/197094)
+
+
+## Aenus (Q14800358)
+[https://www.wikidata.org/wiki/Q14800358](https://www.wikidata.org/wiki/Q14800358)  
+
+### alignments:
+ - [Ainos](https://pleiades.stoa.org/places/501337)
 
 
 ## Aeolian Islands (Q179883)
@@ -2270,6 +2277,7 @@
 
 ### alignments:
  - [Alpes Maritimae (province)](https://pleiades.stoa.org/places/982259)
+ - [Alpes Maritimae](https://pleiades.stoa.org/places/157806)
 
 
 ## Alphen aan den Rijn (Samian Ware Discovery Site) (Q103140639)
@@ -10231,6 +10239,13 @@
  - [Nekou Diorux](https://pleiades.stoa.org/places/728577)
 
 
+## Canary Islands (Q23988230)
+[https://www.wikidata.org/wiki/Q23988230](https://www.wikidata.org/wiki/Q23988230)  
+
+### alignments:
+ - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
+
+
 ## Cancho Roano (Q2060316)
 [https://www.wikidata.org/wiki/Q2060316](https://www.wikidata.org/wiki/Q2060316)  
 
@@ -12093,6 +12108,13 @@
  - [Argamum](https://pleiades.stoa.org/places/216710)
 
 
+## Castrum Arrubium (Q4796287)
+[https://www.wikidata.org/wiki/Q4796287](https://www.wikidata.org/wiki/Q4796287)  
+
+### alignments:
+ - [Arubium](https://pleiades.stoa.org/places/216712)
+
+
 ## Castrum Asciburgium (Q723019)
 [https://www.wikidata.org/wiki/Q723019](https://www.wikidata.org/wiki/Q723019)  
 
@@ -12189,6 +12211,13 @@
 
 ### alignments:
  - [Mannaricium](https://pleiades.stoa.org/places/99006)
+
+
+## Castrum Noviodunum (Q3373059)
+[https://www.wikidata.org/wiki/Q3373059](https://www.wikidata.org/wiki/Q3373059)  
+
+### alignments:
+ - [Noviodunum](https://pleiades.stoa.org/places/216900)
 
 
 ## Castrum Novum (Q2941534)
@@ -15329,6 +15358,13 @@
  - [Cáparra amphitheater](https://pleiades.stoa.org/places/74064979)
 
 
+## Cíes Islands (Q1658753)
+[https://www.wikidata.org/wiki/Q1658753](https://www.wikidata.org/wiki/Q1658753)  
+
+### alignments:
+ - [Siccae (islands)](https://pleiades.stoa.org/places/236667)
+
+
 ## Căciulătești (Q12109752)
 [https://www.wikidata.org/wiki/Q12109752](https://www.wikidata.org/wiki/Q12109752)  
 
@@ -15614,6 +15650,13 @@
 
 ### alignments:
  - [Hellespont (strait)](https://pleiades.stoa.org/places/501434)
+
+
+## Dardania (Q827501)
+[https://www.wikidata.org/wiki/Q827501](https://www.wikidata.org/wiki/Q827501)  
+
+### alignments:
+ - [Dardania (province)](https://pleiades.stoa.org/places/991367)
 
 
 ## Dardanos (Q950952)
@@ -19044,6 +19087,13 @@
  - [Temple B](https://pleiades.stoa.org/places/635795593)
 
 
+## Fortunate Isles (Q2336662)
+[https://www.wikidata.org/wiki/Q2336662](https://www.wikidata.org/wiki/Q2336662)  
+
+### alignments:
+ - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
+
+
 ## Forum (Q56258478)
 [https://www.wikidata.org/wiki/Q56258478](https://www.wikidata.org/wiki/Q56258478)  
 
@@ -21188,6 +21238,13 @@
 
 ### alignments:
  - [Göbekli Tepe](https://pleiades.stoa.org/places/245438984)
+
+
+## Gökırmak River (Q4896971)
+[https://www.wikidata.org/wiki/Q4896971](https://www.wikidata.org/wiki/Q4896971)  
+
+### alignments:
+ - [Amnias (river)](https://pleiades.stoa.org/places/844857)
 
 
 ## Göllü Dağ (Q1559343)
@@ -27854,6 +27911,13 @@
 
 ### alignments:
  - [Lilaios](https://pleiades.stoa.org/places/845005)
+
+
+## Lima River (Q14558)
+[https://www.wikidata.org/wiki/Q14558](https://www.wikidata.org/wiki/Q14558)  
+
+### alignments:
+ - [Limia (river)](https://pleiades.stoa.org/places/236518)
 
 
 ## Limenia (Q56402258)
@@ -41827,13 +41891,6 @@
  - [The Great Sphinx](https://pleiades.stoa.org/places/536839380)
 
 
-## Q1309599: Troesmis
-[https://www.wikidata.org/wiki/Q1309599](https://www.wikidata.org/wiki/Q1309599)  
-
-### alignments:
- - [Troesmis](https://pleiades.stoa.org/places/217025)
-
-
 ## Q1309632: Castra Gerulata
 [https://www.wikidata.org/wiki/Q1309632](https://www.wikidata.org/wiki/Q1309632)  
 
@@ -48393,13 +48450,6 @@
  - [Enispa](https://pleiades.stoa.org/places/573203)
 
 
-## Q3373059: Castrum Noviodunum
-[https://www.wikidata.org/wiki/Q3373059](https://www.wikidata.org/wiki/Q3373059)  
-
-### alignments:
- - [Noviodunum](https://pleiades.stoa.org/places/216900)
-
-
 ## Q3393187: Poggio Civitella Site
 [https://www.wikidata.org/wiki/Q3393187](https://www.wikidata.org/wiki/Q3393187)  
 
@@ -50866,13 +50916,6 @@
 
 ### alignments:
  - [Panagia Arkoudiotissa](https://pleiades.stoa.org/places/589971)
-
-
-## Q4796287: Castrum Arrubium
-[https://www.wikidata.org/wiki/Q4796287](https://www.wikidata.org/wiki/Q4796287)  
-
-### alignments:
- - [Arubium](https://pleiades.stoa.org/places/216712)
 
 
 ## Q4797717
@@ -65293,6 +65336,13 @@
  - [Tilurium](https://pleiades.stoa.org/places/197552)
 
 
+## Timachi (Q7804553)
+[https://www.wikidata.org/wiki/Q7804553](https://www.wikidata.org/wiki/Q7804553)  
+
+### alignments:
+ - [Timachi](https://pleiades.stoa.org/places/207499)
+
+
 ## Timacum Minus (Q7804557)
 [https://www.wikidata.org/wiki/Q7804557](https://www.wikidata.org/wiki/Q7804557)  
 
@@ -67069,6 +67119,13 @@
 
 ### alignments:
  - [Trokmoi](https://pleiades.stoa.org/places/619275)
+
+
+## Troesmis (Q1309599)
+[https://www.wikidata.org/wiki/Q1309599](https://www.wikidata.org/wiki/Q1309599)  
+
+### alignments:
+ - [Troesmis](https://pleiades.stoa.org/places/217025)
 
 
 ## Troezen (Q581494)

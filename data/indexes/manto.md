@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-803 alignments exist in _Pleiades_ place references as of 2026-02-06. The following list of alignments is grouped by zotkey.
+807 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2242,6 +2242,13 @@
  - [Steiria](https://pleiades.stoa.org/places/580110)
 
 
+## 11009854: the Atlantic Ocean
+[https://resource.manto.unh.edu/11009854](https://resource.manto.unh.edu/11009854)  
+
+### alignments:
+ - [Atlanticus Oceanus](https://pleiades.stoa.org/places/845)
+
+
 ## 11010553: Pityoussai Islands
 [https://resource.manto.unh.edu/11010553](https://resource.manto.unh.edu/11010553)  
 
@@ -3027,6 +3034,13 @@
  - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
+## 11310223: the Canary Islands
+[https://resource.manto.unh.edu/11310223](https://resource.manto.unh.edu/11310223)  
+
+### alignments:
+ - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
+
+
 ## 11310305: Monoicos Harbor (Gaul)
 [https://resource.manto.unh.edu/11310305](https://resource.manto.unh.edu/11310305)  
 
@@ -3060,6 +3074,13 @@
 
 ### alignments:
  - [Troikon Oros](https://pleiades.stoa.org/places/737096)
+
+
+## 11310538: River Limaia (Iberia)
+[https://resource.manto.unh.edu/11310538](https://resource.manto.unh.edu/11310538)  
+
+### alignments:
+ - [Limia (river)](https://pleiades.stoa.org/places/236518)
 
 
 ## 11311160: the Chasm of Chimaira (Lycia)
@@ -3985,6 +4006,13 @@
 
 ### alignments:
  - [Themiskyra](https://pleiades.stoa.org/places/857350)
+
+
+## 8253996: Ainos (Thrace)
+[https://resource.manto.unh.edu/8253996](https://resource.manto.unh.edu/8253996)  
+
+### alignments:
+ - [Ainos](https://pleiades.stoa.org/places/501337)
 
 
 ## 8253997: Thasos (island)
