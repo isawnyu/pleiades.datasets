@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4900 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
+4901 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29692,6 +29692,13 @@
 
 ### alignments:
  - [Aqola/[al-Kufa]](https://pleiades.stoa.org/places/912808)
+
+
+## GEO ID 48137: Attachas (Antağ)
+[http://www.trismegistos.org/place/48137](http://www.trismegistos.org/place/48137)  
+
+### alignments:
+ - [Attachas](https://pleiades.stoa.org/places/874372)
 
 
 ## GEO ID 48145: Iris (Yeşil Irmak)

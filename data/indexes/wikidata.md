@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10210 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
+10211 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2999,6 +2999,13 @@
 
 ### alignments:
  - [Mari(a)ba](https://pleiades.stoa.org/places/39379)
+
+
+## Ancient Corinth (Q1363688)
+[https://www.wikidata.org/wiki/Q1363688](https://www.wikidata.org/wiki/Q1363688)  
+
+### alignments:
+ - [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
 
 
 ## Ancient Corsica (Q1784775)
@@ -33137,6 +33144,13 @@
  - [Naro (river)](https://pleiades.stoa.org/places/197399)
 
 
+## Nericus (Q16612835)
+[https://www.wikidata.org/wiki/Q16612835](https://www.wikidata.org/wiki/Q16612835)  
+
+### alignments:
+ - [Nerikos?](https://pleiades.stoa.org/places/531012)
+
+
 ## Nervii (Q756812)
 [https://www.wikidata.org/wiki/Q756812](https://www.wikidata.org/wiki/Q756812)  
 
@@ -42548,13 +42562,6 @@
 
 ### alignments:
  - [Ness of Brodgar](https://pleiades.stoa.org/places/286881593)
-
-
-## Q1363688: Ancient Corinth
-[https://www.wikidata.org/wiki/Q1363688](https://www.wikidata.org/wiki/Q1363688)  
-
-### alignments:
- - [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
 
 
 ## Q1364168: Sabalan
@@ -54032,13 +54039,6 @@
 
 ### alignments:
  - [Turris Mamilia](https://pleiades.stoa.org/places/948173334)
-
-
-## Q7861515: Tyrida
-[https://www.wikidata.org/wiki/Q7861515](https://www.wikidata.org/wiki/Q7861515)  
-
-### alignments:
- - [Tirida/Kartera Kome/Stabulo Diomedis/Turris Diomedis/Tyrida](https://pleiades.stoa.org/places/507474)
 
 
 ## Q7861533: Tyritake
@@ -67819,6 +67819,13 @@
 
 ### alignments:
  - [Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
+
+
+## Tyrida (Q7861515)
+[https://www.wikidata.org/wiki/Q7861515](https://www.wikidata.org/wiki/Q7861515)  
+
+### alignments:
+ - [Tirida/Kartera Kome/Stabulo Diomedis/Turris Diomedis/Tyrida](https://pleiades.stoa.org/places/507474)
 
 
 ## Tyrmeidai (Q13427375)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-807 alignments exist in _Pleiades_ place references as of 2026-02-08. The following list of alignments is grouped by zotkey.
+811 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2795,6 +2795,13 @@
  - [Pelagonia](https://pleiades.stoa.org/places/481953)
 
 
+## 11307163: the Palace of Diomedes (Thrace)
+[https://resource.manto.unh.edu/11307163](https://resource.manto.unh.edu/11307163)  
+
+### alignments:
+ - [Tirida/Kartera Kome/Stabulo Diomedis/Turris Diomedis/Tyrida](https://pleiades.stoa.org/places/507474)
+
+
 ## 11307177: Cynossema Promontory (Chersonesos)
 [https://resource.manto.unh.edu/11307177](https://resource.manto.unh.edu/11307177)  
 
@@ -3361,6 +3368,13 @@
 
 ### alignments:
  - [Epidauros](https://pleiades.stoa.org/places/570228)
+
+
+## 8188817: the Isthmos of Corinth
+[https://resource.manto.unh.edu/8188817](https://resource.manto.unh.edu/8188817)  
+
+### alignments:
+ - [Isthmos](https://pleiades.stoa.org/places/570317)
 
 
 ## 8188818: Crete (island)
@@ -4239,6 +4253,13 @@
  - [Tyrrhenum/Inferum Mare](https://pleiades.stoa.org/places/1356)
 
 
+## 9055231: Delos (island)
+[https://resource.manto.unh.edu/9055231](https://resource.manto.unh.edu/9055231)  
+
+### alignments:
+ - [Delos (island)](https://pleiades.stoa.org/places/599588)
+
+
 ## 9055278: Chios (in the Aegean)
 [https://resource.manto.unh.edu/9055278](https://resource.manto.unh.edu/9055278)  
 
@@ -4272,6 +4293,13 @@
 
 ### alignments:
  - [Aetna (mountain)](https://pleiades.stoa.org/places/462077)
+
+
+## 9055627: Thessaly
+[https://resource.manto.unh.edu/9055627](https://resource.manto.unh.edu/9055627)  
+
+### alignments:
+ - [Thessalia](https://pleiades.stoa.org/places/1332)
 
 
 ## 9055629: Mount Parnassos (Phocis)
