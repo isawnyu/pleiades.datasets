@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4901 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
+4901 alignments exist in _Pleiades_ place references as of 2026-02-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4182,7 +4182,7 @@
 [http://www.trismegistos.org/place/13677](http://www.trismegistos.org/place/13677)  
 
 ### alignments:
- - [Massicus](https://pleiades.stoa.org/places/432931)
+ - [Massicus (mountain)](https://pleiades.stoa.org/places/432931)
 
 
 ## GEO ID 13679: Cataractonium (Catterick)

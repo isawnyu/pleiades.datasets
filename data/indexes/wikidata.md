@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10211 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
+10218 alignments exist in _Pleiades_ place references as of 2026-02-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6145,6 +6145,13 @@
  - [Aulon/Alonion](https://pleiades.stoa.org/places/589721)
 
 
+## Aulon (Q21589819)
+[https://www.wikidata.org/wiki/Q21589819](https://www.wikidata.org/wiki/Q21589819)  
+
+### alignments:
+ - [Aulon](https://pleiades.stoa.org/places/481750)
+
+
 ## Aunesis (Q65053244)
 [https://www.wikidata.org/wiki/Q65053244](https://www.wikidata.org/wiki/Q65053244)  
 
@@ -6166,6 +6173,13 @@
  - [Auridai](https://pleiades.stoa.org/places/585892)
 
 
+## Aurunci (Q777462)
+[https://www.wikidata.org/wiki/Q777462](https://www.wikidata.org/wiki/Q777462)  
+
+### alignments:
+ - [Aurunci](https://pleiades.stoa.org/places/432711)
+
+
 ## Aurès Mountains (Q62624)
 [https://www.wikidata.org/wiki/Q62624](https://www.wikidata.org/wiki/Q62624)  
 
@@ -6185,6 +6199,13 @@
 
 ### alignments:
  - [Ausona](https://pleiades.stoa.org/places/438688)
+
+
+## Ausones (Q4257463)
+[https://www.wikidata.org/wiki/Q4257463](https://www.wikidata.org/wiki/Q4257463)  
+
+### alignments:
+ - [Ausones](https://pleiades.stoa.org/places/438689)
 
 
 ## Autrigones (Q789372)
@@ -10181,6 +10202,13 @@
 
 ### alignments:
  - [Son Espases Roman Camp](https://pleiades.stoa.org/places/400546522)
+
+
+## Campania (Q129349983)
+[https://www.wikidata.org/wiki/Q129349983](https://www.wikidata.org/wiki/Q129349983)  
+
+### alignments:
+ - [Campania](https://pleiades.stoa.org/places/432742)
 
 
 ## Campi Veteres (Q11911076)
@@ -26891,6 +26919,13 @@
  - [Flevum L.](https://pleiades.stoa.org/places/98958)
 
 
+## Lake Fogliano (Q3825948)
+[https://www.wikidata.org/wiki/Q3825948](https://www.wikidata.org/wiki/Q3825948)  
+
+### alignments:
+ - [Lago di Fogliano](https://pleiades.stoa.org/places/458658927)
+
+
 ## Lake Garda (Q6414)
 [https://www.wikidata.org/wiki/Q6414](https://www.wikidata.org/wiki/Q6414)  
 
@@ -26994,13 +27029,6 @@
 
 ### alignments:
  - [Cutiliensis (lake)](https://pleiades.stoa.org/places/413115)
-
-
-## Lake of Foliano (Q3825948)
-[https://www.wikidata.org/wiki/Q3825948](https://www.wikidata.org/wiki/Q3825948)  
-
-### alignments:
- - [Lago di Fogliano](https://pleiades.stoa.org/places/458658927)
 
 
 ## Lake of Pusiano (Q63177)
@@ -31667,6 +31695,13 @@
  - [Monte Mario](https://pleiades.stoa.org/places/911517620)
 
 
+## Monte Massico (Q586646)
+[https://www.wikidata.org/wiki/Q586646](https://www.wikidata.org/wiki/Q586646)  
+
+### alignments:
+ - [Massicus (mountain)](https://pleiades.stoa.org/places/432931)
+
+
 ## Monte Papalucio sanctuary (Q3949897)
 [https://www.wikidata.org/wiki/Q3949897](https://www.wikidata.org/wiki/Q3949897)  
 
@@ -31707,6 +31742,13 @@
 
 ### alignments:
  - [*Cingulus (mountain)](https://pleiades.stoa.org/places/413083)
+
+
+## Monte Santa Croce (Q31614309)
+[https://www.wikidata.org/wiki/Q31614309](https://www.wikidata.org/wiki/Q31614309)  
+
+### alignments:
+ - [Monte S. Croce](https://pleiades.stoa.org/places/432959)
 
 
 ## Monte Sirai (Q1945932)
@@ -32036,6 +32078,13 @@
 
 ### alignments:
  - [Kissos (mountain)](https://pleiades.stoa.org/places/491636)
+
+
+## Mount Circeo (Q2530284)
+[https://www.wikidata.org/wiki/Q2530284](https://www.wikidata.org/wiki/Q2530284)  
+
+### alignments:
+ - [Kirkaion Akron/Veneris Pr.](https://pleiades.stoa.org/places/432781)
 
 
 ## Mount Fumaiolo (Q580842)
@@ -54006,13 +54055,6 @@
  - [Dolopia](https://pleiades.stoa.org/places/540737)
 
 
-## Q777462: Aurunci
-[https://www.wikidata.org/wiki/Q777462](https://www.wikidata.org/wiki/Q777462)  
-
-### alignments:
- - [Aurunci](https://pleiades.stoa.org/places/432711)
-
-
 ## Q7798619: Thrypti
 [https://www.wikidata.org/wiki/Q7798619](https://www.wikidata.org/wiki/Q7798619)  
 
@@ -68764,6 +68806,13 @@
 
 ### alignments:
  - [Vescera](https://pleiades.stoa.org/places/334663)
+
+
+## Vescia (Q2254425)
+[https://www.wikidata.org/wiki/Q2254425](https://www.wikidata.org/wiki/Q2254425)  
+
+### alignments:
+ - [Vescia](https://pleiades.stoa.org/places/438874)
 
 
 ## Vesontio (Q1873411)

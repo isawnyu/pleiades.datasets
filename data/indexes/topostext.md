@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4823 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
+4825 alignments exist in _Pleiades_ place references as of 2026-02-10. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3187,7 +3187,7 @@
 [https://topostext.org/place/364258SApo](https://topostext.org/place/364258SApo)  
 
 ### alignments:
- - [Apollo Asgelatos, T.](https://pleiades.stoa.org/places/599504)
+ - [Apollo Asgelatos (temple)](https://pleiades.stoa.org/places/599504)
 
 
 ## Apollo Cynneius (Aiolis) 3 İğnedere - Απόλλωνος Κυννείου ιερόν
@@ -19565,6 +19565,13 @@
  - [Mases](https://pleiades.stoa.org/places/570463)
 
 
+## Massicus mountain (Campania) 24 Monte Massico
+[https://topostext.org/place/412139LMon](https://topostext.org/place/412139LMon)  
+
+### alignments:
+ - [Massicus (mountain)](https://pleiades.stoa.org/places/432931)
+
+
 ## Massilia (France)
 [https://topostext.org/place/433054PMas](https://topostext.org/place/433054PMas)  
 
@@ -33048,6 +33055,13 @@
 
 ### alignments:
  - [Verulamium](https://pleiades.stoa.org/places/79739)
+
+
+## Vescia (Campania)
+[https://topostext.org/place/412139UVes](https://topostext.org/place/412139UVes)  
+
+### alignments:
+ - [Vescia](https://pleiades.stoa.org/places/438874)
 
 
 ## Vesontio (Gallia)

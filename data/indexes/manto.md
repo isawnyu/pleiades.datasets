@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-811 alignments exist in _Pleiades_ place references as of 2026-02-09. The following list of alignments is grouped by zotkey.
+815 alignments exist in _Pleiades_ place references as of 2026-02-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2333,6 +2333,13 @@
  - [Geronthrai](https://pleiades.stoa.org/places/570263)
 
 
+## 11289217: the Sanctuary of Diana Nemorensis at Aricia (Italy)
+[https://resource.manto.unh.edu/11289217](https://resource.manto.unh.edu/11289217)  
+
+### alignments:
+ - [Temple of Diana at Nemi](https://pleiades.stoa.org/places/422917)
+
+
 ## 11289315: Halicarnassos (Caria)
 [https://resource.manto.unh.edu/11289315](https://resource.manto.unh.edu/11289315)  
 
@@ -3090,6 +3097,13 @@
  - [Limia (river)](https://pleiades.stoa.org/places/236518)
 
 
+## 11310904: Campania (Italy)
+[https://resource.manto.unh.edu/11310904](https://resource.manto.unh.edu/11310904)  
+
+### alignments:
+ - [Campania](https://pleiades.stoa.org/places/432742)
+
+
 ## 11311160: the Chasm of Chimaira (Lycia)
 [https://resource.manto.unh.edu/11311160](https://resource.manto.unh.edu/11311160)  
 
@@ -3319,6 +3333,20 @@
 
 ### alignments:
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
+## 11330736: the House of Faustulus (Rome)
+[https://resource.manto.unh.edu/11330736](https://resource.manto.unh.edu/11330736)  
+
+### alignments:
+ - [Tugurium Romuli](https://pleiades.stoa.org/places/251058809)
+
+
+## 11330740: the Sanctuary of Apollo Aigletes on Anaphe
+[https://resource.manto.unh.edu/11330740](https://resource.manto.unh.edu/11330740)  
+
+### alignments:
+ - [Apollo Asgelatos (temple)](https://pleiades.stoa.org/places/599504)
 
 
 ## 8188810: Crommyon (Argolid)
