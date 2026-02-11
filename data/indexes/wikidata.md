@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10218 alignments exist in _Pleiades_ place references as of 2026-02-10. The following list of alignments is grouped by zotkey.
+10224 alignments exist in _Pleiades_ place references as of 2026-02-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8974,6 +8974,13 @@
  - [Callaeci Bracari](https://pleiades.stoa.org/places/236398)
 
 
+## Bracquemont (Q1074736)
+[https://www.wikidata.org/wiki/Q1074736](https://www.wikidata.org/wiki/Q1074736)  
+
+### alignments:
+ - [Bracquemont](https://pleiades.stoa.org/places/108822)
+
+
 ## Bragilos (Q55197494)
 [https://www.wikidata.org/wiki/Q55197494](https://www.wikidata.org/wiki/Q55197494)  
 
@@ -9595,6 +9602,13 @@
 
 ### alignments:
  - [Roman amphitheater at Béziers](https://pleiades.stoa.org/places/977841705)
+
+
+## Büderich (Q1020467)
+[https://www.wikidata.org/wiki/Q1020467](https://www.wikidata.org/wiki/Q1020467)  
+
+### alignments:
+ - [Wesel-Büderich](https://pleiades.stoa.org/places/109458)
 
 
 ## Büyükada (Q989883)
@@ -20617,6 +20631,13 @@
  - [Gothiscandza](https://pleiades.stoa.org/places/20473)
 
 
+## Gournay-sur-Aronde (Q289156)
+[https://www.wikidata.org/wiki/Q289156](https://www.wikidata.org/wiki/Q289156)  
+
+### alignments:
+ - [Gournay-sur-Aronde](https://pleiades.stoa.org/places/109015)
+
+
 ## Gournia (Q1540236)
 [https://www.wikidata.org/wiki/Q1540236](https://www.wikidata.org/wiki/Q1540236)  
 
@@ -25756,6 +25777,13 @@
  - [Kiosk of Qertassi](https://pleiades.stoa.org/places/119445131)
 
 
+## Kippenheim (Q527898)
+[https://www.wikidata.org/wiki/Q527898](https://www.wikidata.org/wiki/Q527898)  
+
+### alignments:
+ - [Kippenheim](https://pleiades.stoa.org/places/109083)
+
+
 ## Kirkby Thore Roman Fort and Associated Vicus (Q17662365)
 [https://www.wikidata.org/wiki/Q17662365](https://www.wikidata.org/wiki/Q17662365)  
 
@@ -26574,6 +26602,13 @@
 
 ### alignments:
  - [La Celsa](https://pleiades.stoa.org/places/727890049)
+
+
+## La Chaussée-Tirancourt (Q58923)
+[https://www.wikidata.org/wiki/Q58923](https://www.wikidata.org/wiki/Q58923)  
+
+### alignments:
+ - [La Chaussée-Tirancourt](https://pleiades.stoa.org/places/108886)
 
 
 ## La Courtine (Q200880)
@@ -50315,13 +50350,6 @@
  - [Victumulae](https://pleiades.stoa.org/places/383821)
 
 
-## Q4012551
-[https://www.wikidata.org/wiki/Q4012551](https://www.wikidata.org/wiki/Q4012551)  
-
-### alignments:
- - [Villa Sora](https://pleiades.stoa.org/places/549181140)
-
-
 ## Q4012726: Villa di Domiziano al Circeo
 [https://www.wikidata.org/wiki/Q4012726](https://www.wikidata.org/wiki/Q4012726)  
 
@@ -55593,6 +55621,13 @@
 
 ### alignments:
  - [Rachle/Zenopolis?](https://pleiades.stoa.org/places/678354)
+
+
+## Rammersweier (Q1231021)
+[https://www.wikidata.org/wiki/Q1231021](https://www.wikidata.org/wiki/Q1231021)  
+
+### alignments:
+ - [Rammersweier](https://pleiades.stoa.org/places/118924)
 
 
 ## Rantidi (Q22985795)
@@ -69836,6 +69871,13 @@
 
 ### alignments:
  - [Spoonley](https://pleiades.stoa.org/places/79693)
+
+
+## Villa Sora (Torre del Greco) (Q4012551)
+[https://www.wikidata.org/wiki/Q4012551](https://www.wikidata.org/wiki/Q4012551)  
+
+### alignments:
+ - [Villa Sora](https://pleiades.stoa.org/places/549181140)
 
 
 ## Villa Torlonia (Q1582108)
