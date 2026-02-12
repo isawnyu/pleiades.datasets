@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4825 alignments exist in _Pleiades_ place references as of 2026-02-11. The following list of alignments is grouped by zotkey.
+4826 alignments exist in _Pleiades_ place references as of 2026-02-12. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -3937,6 +3937,13 @@
 
 ### alignments:
  - [*Argentomagus](https://pleiades.stoa.org/places/138192)
+
+
+## Argentoratum (Gallia)
+[https://topostext.org/place/486078UArg](https://topostext.org/place/486078UArg)  
+
+### alignments:
+ - [Argentorate](https://pleiades.stoa.org/places/108754)
 
 
 ## Argestaean plain (Kastoria) 1 plain near Kastoria - Αργεσταίον πέδιον

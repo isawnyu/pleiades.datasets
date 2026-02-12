@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10224 alignments exist in _Pleiades_ place references as of 2026-02-11. The following list of alignments is grouped by zotkey.
+10228 alignments exist in _Pleiades_ place references as of 2026-02-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8918,6 +8918,13 @@
  - [Bourg-St-Pierre](https://pleiades.stoa.org/places/167684)
 
 
+## Bourgheim (Q21252)
+[https://www.wikidata.org/wiki/Q21252](https://www.wikidata.org/wiki/Q21252)  
+
+### alignments:
+ - [Bourgheim](https://pleiades.stoa.org/places/108821)
+
+
 ## Bourton Bridge Roman settlement (Q17677589)
 [http://www.wikidata.org/entity/Q17677589](http://www.wikidata.org/entity/Q17677589)  
 
@@ -9175,6 +9182,13 @@
 
 ### alignments:
  - [Breviodurum](https://pleiades.stoa.org/places/114771)
+
+
+## Brisgavi (Q905683)
+[https://www.wikidata.org/wiki/Q905683](https://www.wikidata.org/wiki/Q905683)  
+
+### alignments:
+ - [Brisigavi](https://pleiades.stoa.org/places/108825)
 
 
 ## Brislington villa (Q15133915)
@@ -11847,6 +11861,13 @@
 
 ### alignments:
  - [Rödgen](https://pleiades.stoa.org/places/220408239)
+
+
+## Castra of Sasbach-Jechtingen (Q1735415)
+[https://www.wikidata.org/wiki/Q1735415](https://www.wikidata.org/wiki/Q1735415)  
+
+### alignments:
+ - [Sasbach-Sponeck](https://pleiades.stoa.org/places/109325)
 
 
 ## Castra of Slăveni (Q5050751)
@@ -31618,6 +31639,13 @@
  - [Monopteros](https://pleiades.stoa.org/places/87615187)
 
 
+## Mons Brisiacus (Q15835533)
+[https://www.wikidata.org/wiki/Q15835533](https://www.wikidata.org/wiki/Q15835533)  
+
+### alignments:
+ - [(Mons) Brisiacus](https://pleiades.stoa.org/places/109174)
+
+
 ## Mons Smaragdus (Q1945241)
 [https://www.wikidata.org/wiki/Q1945241](https://www.wikidata.org/wiki/Q1945241)  
 
@@ -43472,13 +43500,6 @@
 
 ### alignments:
  - [Tapah Sīyalk](https://pleiades.stoa.org/places/864970042)
-
-
-## Q15835533: Mons Brisiacus
-[https://www.wikidata.org/wiki/Q15835533](https://www.wikidata.org/wiki/Q15835533)  
-
-### alignments:
- - [(Mons) Brisiacus](https://pleiades.stoa.org/places/109174)
 
 
 ## Q1583842: Emerita Augusta
@@ -60250,6 +60271,13 @@
 
 ### alignments:
  - [Sepolcreto Ostiense](https://pleiades.stoa.org/places/507301472)
+
+
+## Sept-Saulx (Q1219955)
+[https://www.wikidata.org/wiki/Q1219955](https://www.wikidata.org/wiki/Q1219955)  
+
+### alignments:
+ - [Sept-Saulx](https://pleiades.stoa.org/places/109340)
 
 
 ## Septimer Pass (Q667166)
