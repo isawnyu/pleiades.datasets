@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4902 alignments exist in _Pleiades_ place references as of 2026-02-12. The following list of alignments is grouped by zotkey.
+4903 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12451,6 +12451,13 @@
 
 ### alignments:
  - [Baetica](https://pleiades.stoa.org/places/862)
+
+
+## GEO ID 25542: Civitas Zoelarum (Castro de Avelãs)
+[https://www.trismegistos.org/place/25542](https://www.trismegistos.org/place/25542)  
+
+### alignments:
+ - [*Civitas Zoelarum](https://pleiades.stoa.org/places/236434)
 
 
 ## GEO ID 25556: Briteiros

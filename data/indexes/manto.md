@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-815 alignments exist in _Pleiades_ place references as of 2026-02-12. The following list of alignments is grouped by zotkey.
+819 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3321,6 +3321,13 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 11328490: the Land of the Marsi
+[https://resource.manto.unh.edu/11328490](https://resource.manto.unh.edu/11328490)  
+
+### alignments:
+ - [Marsi](https://pleiades.stoa.org/places/413191)
+
+
 ## 11328607: Bizye (Thrace)
 [https://resource.manto.unh.edu/11328607](https://resource.manto.unh.edu/11328607)  
 
@@ -3335,6 +3342,20 @@
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
 
 
+## 11330114: the Temple of Peace at Rome
+[https://resource.manto.unh.edu/11330114](https://resource.manto.unh.edu/11330114)  
+
+### alignments:
+ - [Templum Pacis](https://pleiades.stoa.org/places/152567558)
+
+
+## 11330120: the Temple of Jupiter Optimus Maximus at Rome
+[https://resource.manto.unh.edu/11330120](https://resource.manto.unh.edu/11330120)  
+
+### alignments:
+ - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
+
+
 ## 11330736: the House of Faustulus (Rome)
 [https://resource.manto.unh.edu/11330736](https://resource.manto.unh.edu/11330736)  
 
@@ -3347,6 +3368,13 @@
 
 ### alignments:
  - [Apollo Asgelatos (temple)](https://pleiades.stoa.org/places/599504)
+
+
+## 11331154: Atlantis (Unlocatable)
+[https://resource.manto.unh.edu/11331154](https://resource.manto.unh.edu/11331154)  
+
+### alignments:
+ - [Atlantis](https://pleiades.stoa.org/places/633625629)
 
 
 ## 8188810: Crommyon (Argolid)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10228 alignments exist in _Pleiades_ place references as of 2026-02-12. The following list of alignments is grouped by zotkey.
+10229 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -70908,6 +70908,13 @@
 
 ### alignments:
  - [Drakon (river)](https://pleiades.stoa.org/places/511239)
+
+
+## Yalburt (Q2599044)
+[https://www.wikidata.org/wiki/Q2599044](https://www.wikidata.org/wiki/Q2599044)  
+
+### alignments:
+ - [Yalburt Hittite sanctuary](https://pleiades.stoa.org/places/916747330)
 
 
 ## Yantra (Q217126)
