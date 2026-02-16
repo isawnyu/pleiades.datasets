@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/02/08 06:48:26.697817 US/Eastern
+# Date: 2026/02/15 06:48:25.227408 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5696
+# Triple count: 5749
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -1408,6 +1408,26 @@
     dcterms:modified "2019-02-02T11:22:10-05:00";
     dcterms:title "Mount Juktas";
     owl:sameAs <http://pleiades.stoa.org/errata/953163789/name.2013-06-13.0932421407> .
+
+<https://pleiades.stoa.org/errata/972010344%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Roccamonfina (volcano)";
+    spatial:C <https://pleiades.stoa.org/places/432959%23this>;
+    rdfs:comment "Unintentional duplicate of https://pleiades.stoa.org/places/433077";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/972010344> .
+
+<https://pleiades.stoa.org/errata/972010344/osm-location-of-roccamonfina> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-02-10T07:21:25-05:00";
+    dcterms:title "OSM location of Roccamonfina";
+    owl:sameAs <http://pleiades.stoa.org/errata/972010344/osm-location-of-roccamonfina> .
+
+<https://pleiades.stoa.org/errata/972010344/roccamonfina> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-02-10T07:21:25-05:00";
+    dcterms:title "Roccamonfina";
+    owl:sameAs <http://pleiades.stoa.org/errata/972010344/roccamonfina> .
 
 <https://pleiades.stoa.org/errata/973204924%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: House of the Tragic Poet";
@@ -4233,6 +4253,25 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-mount-juktas>;
     pleiades:hasName <https://pleiades.stoa.org/errata/name.2013-06-13.0932421407> .
 
+<https://pleiades.stoa.org/errata/972010344> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Wikipedia (English) Roccamonfina (volcano)";
+    dcterms:contributor <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Unintentional duplicate of https://pleiades.stoa.org/places/433077";
+    dcterms:modified "2026-02-10T07:21:25-05:00";
+    dcterms:title "Withdrawn: Roccamonfina (volcano)";
+    cito:citesForInformation <https://en.wikipedia.org/wiki/Roccamonfina_(volcano)>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/432959>;
+    owl:sameAs <http://pleiades.stoa.org/errata/972010344>;
+    skos:altLabel "Roccamonfina"@it;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/volcano>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-roccamonfina>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/roccamonfina> .
+
 <https://pleiades.stoa.org/errata/973204924> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -5541,6 +5580,12 @@
     pleiades:end_date 2100;
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/errata/osm-location-of-roccamonfina> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 10945475381";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/10945475381>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-roccamonfina>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 10945475381, version 4, osm:changeset=136869057, 2023-06-02T13:40:47Z)" ] .
+
 <https://pleiades.stoa.org/errata/osm-location-of-sanctuary-of-zeus-pan-hellenios> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 8494874194";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/8494874194>;
@@ -5630,6 +5675,17 @@
     owl:sameAs <http://pleiades.stoa.org/errata/rhodope>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 D3 2" ];
     pleiades:nameRomanized "Rhodope" .
+
+<https://pleiades.stoa.org/errata/roccamonfina> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "GeoNames 3169164: Roccamonfina";
+    cito:citesAsDataSource <https://www.geonames.org/3169164/roccamonfina.html>;
+    owl:sameAs <http://pleiades.stoa.org/errata/roccamonfina>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Roccamonfina"@it;
+    pleiades:nameRomanized "Roccamonfina";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/errata/sicilia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/sicilia>;
@@ -5919,8 +5975,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
@@ -5930,8 +5986,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
