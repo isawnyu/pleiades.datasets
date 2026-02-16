@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        14.50725,
-        36.7879,
-        14.50725,
-        36.7879
+        14.5066531,
+        36.7877302,
+        14.5077206,
+        36.7879955
     ],
     "connections": [
         {
@@ -104,18 +104,48 @@
         {
             "geometry": {
                 "coordinates": [
-                    14.50725,
-                    36.7879
+                    [
+                        14.5066772,
+                        36.7879955
+                    ],
+                    [
+                        14.5076321,
+                        36.787944
+                    ],
+                    [
+                        14.5077206,
+                        36.7879085
+                    ],
+                    [
+                        14.5074993,
+                        36.7877302
+                    ],
+                    [
+                        14.5070313,
+                        36.7877442
+                    ],
+                    [
+                        14.5068475,
+                        36.7878355
+                    ],
+                    [
+                        14.5066531,
+                        36.7879182
+                    ],
+                    [
+                        14.5066772,
+                        36.7879955
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "dare-location",
+            "id": "osm-location-of-area-archeologica-di-caucana",
             "properties": {
-                "description": "Representative point location, site precision",
-                "link": "https://pleiades.stoa.org/places/462459/dare-location",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462459/osm-location-of-area-archeologica-di-caucana",
                 "location_precision": "precise",
-                "snippet": "Settlement; AD 300 - AD 640",
-                "title": "DARE Location"
+                "snippet": "Archaeological-site; 30 BC - AD 640",
+                "title": "OSM location of Area Archeologica di Caucana"
             },
             "type": "Feature"
         }
@@ -181,12 +211,18 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
-            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -195,78 +231,113 @@
                 }
             ],
             "contributors": [],
-            "created": "2012-10-20T21:13:06Z",
+            "created": "2025-11-16T01:07:54Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Johan Åhlfeldt",
-                    "uri": "https://pleiades.stoa.org/author/jahlfeldt",
-                    "username": "jahlfeldt"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "Representative point location, site precision",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": 640,
             "featureType": [
-                "settlement"
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    14.50725,
-                    36.7879
+                    [
+                        14.5066772,
+                        36.7879955
+                    ],
+                    [
+                        14.5076321,
+                        36.787944
+                    ],
+                    [
+                        14.5077206,
+                        36.7879085
+                    ],
+                    [
+                        14.5074993,
+                        36.7877302
+                    ],
+                    [
+                        14.5070313,
+                        36.7877442
+                    ],
+                    [
+                        14.5068475,
+                        36.7878355
+                    ],
+                    [
+                        14.5066531,
+                        36.7879182
+                    ],
+                    [
+                        14.5066772,
+                        36.7879955
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2012-10-20T21:13:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-02-15T13:42:44Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2012-10-20T21:13:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-16T01:08:24Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
-                    "modified": "2012-10-20T21:13:08Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "add osm location",
+                    "modified": "2025-11-16T01:08:18Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2025-11-16T01:07:55Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2012-10-20T21:13:07Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2025-11-16T01:07:54Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "dare-location",
+            "id": "osm-location-of-area-archeologica-di-caucana",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "provenance": "OpenStreetMap (Way 1243493000, version 1, osm:changeset=146750808, 2024-01-27T16:30:43Z)",
             "references": [
                 {
-                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1243493000",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "",
-                    "citationTypeURI": "http://purl.org/spar/cito/cites",
-                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "",
-                    "type": "cites"
+                    "citationDetail": "Way 1243493000",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:way=1243493000",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": 300,
-            "title": "DARE Location",
-            "uri": "https://pleiades.stoa.org/places/462459/dare-location"
+            "start": -30,
+            "title": "OSM location of Area Archeologica di Caucana",
+            "uri": "https://pleiades.stoa.org/places/462459/osm-location-of-area-archeologica-di-caucana"
         }
     ],
     "names": [
@@ -587,8 +658,8 @@
         }
     ],
     "reprPoint": [
-        14.50725,
-        36.7879
+        14.507181464438741,
+        36.78787704381007
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

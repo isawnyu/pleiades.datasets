@@ -8,6 +8,7 @@
     ],
     "connections": [],
     "connectsWith": [
+        "https://pleiades.stoa.org/places/226577",
         "https://pleiades.stoa.org/places/197222"
     ],
     "contributors": [
@@ -89,13 +90,23 @@
                 "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/197360/osm-location-of-florentia",
                 "location_precision": "precise",
-                "snippet": "Fort; AD 300 - AD 640",
+                "snippet": "Fort-2; AD 300 - AD 640",
                 "title": "OSM location of Florentia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "ctype to fort",
+            "modified": "2026-02-15T14:58:39Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "update references",
+            "modified": "2026-02-15T14:55:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "added DARMC reference to maintain linkage after retracting less precise location",
             "modified": "2020-10-14T19:23:15Z",
@@ -283,10 +294,10 @@
             "details": "",
             "end": 640,
             "featureType": [
-                "fort"
+                "fort-2"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
             "geometry": {
                 "coordinates": [
@@ -296,6 +307,16 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "ctype to fort",
+                    "modified": "2026-02-15T14:58:23Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2026-02-15T14:54:01Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2020-10-14T19:20:16Z",
@@ -327,9 +348,9 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/fort"
+                "https://pleiades.stoa.org/vocabularies/place-types/fort-2"
             ],
-            "provenance": "OpenStreetMap (Node 5387190498, version 3, osm:changeset=92478583, 2020-10-14T14:21:00Z)",
+            "provenance": "OpenStreetMap (Node 5387190498, version 9, osm:changeset=145380201, 2023-12-21T17:50:43Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/browse/node/5387190498",
@@ -522,9 +543,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/fort-2",
         "https://pleiades.stoa.org/vocabularies/place-types/fort"
     ],
     "placeTypes": [
+        "fort-2",
         "fort"
     ],
     "provenance": "Barrington Atlas: BAtlas 20 F3 Lugio/Florentia",
@@ -610,7 +633,7 @@
             "accessURI": "https://www.wikidata.org/wiki/Q964298",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
-            "citationDetail": "Q964298: Castrum Lugio",
+            "citationDetail": "Castrum Lugio (Q964298)",
             "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
             "otherIdentifier": "",
@@ -626,6 +649,39 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "432",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItMiller",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+            "citationDetail": "244,2",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ItAnt (Cuntz)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=693",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "693: Lugione",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online, 2019. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
             "type": "citesAsRelated"
         }
     ],
