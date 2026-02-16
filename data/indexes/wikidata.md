@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10229 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+10251 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1298,6 +1298,13 @@
  - [Zervokhori](https://pleiades.stoa.org/places/531157)
 
 
+## Agios Eleftherios Church, Athens (Q2790568)
+[https://www.wikidata.org/wiki/Q2790568](https://www.wikidata.org/wiki/Q2790568)  
+
+### alignments:
+ - [Little Metropolis church (Athens)](https://pleiades.stoa.org/places/705446488)
+
+
 ## Agios Evstathios Kimolou (Q21693390)
 [https://www.wikidata.org/wiki/Q21693390](https://www.wikidata.org/wiki/Q21693390)  
 
@@ -2460,6 +2467,13 @@
 
 ### alignments:
  - [Amaseia](https://pleiades.stoa.org/places/857018)
+
+
+## Amasya Castle (Q21524009)
+[https://www.wikidata.org/wiki/Q21524009](https://www.wikidata.org/wiki/Q21524009)  
+
+### alignments:
+ - [Amasya castle](https://pleiades.stoa.org/places/502142298)
 
 
 ## Amathus (Q2343313)
@@ -4462,6 +4476,13 @@
 
 ### alignments:
  - [Monumental Arch of Palmyra](https://pleiades.stoa.org/places/628331928)
+
+
+## Arch of San Lazzaro (Q48804495)
+[https://www.wikidata.org/wiki/Q48804495](https://www.wikidata.org/wiki/Q48804495)  
+
+### alignments:
+ - [Arco di San Lazzaro](https://pleiades.stoa.org/places/446459843)
 
 
 ## Arch of Septimius Severus (Q2091585)
@@ -10267,6 +10288,13 @@
  - [Campus Esquilinus](https://pleiades.stoa.org/places/133574713)
 
 
+## Campus Lanatarius (Q107363174)
+[https://www.wikidata.org/wiki/Q107363174](https://www.wikidata.org/wiki/Q107363174)  
+
+### alignments:
+ - [Campus Lanatarius](https://pleiades.stoa.org/places/532313110)
+
+
 ## Campus Viminalis (Q127516682)
 [https://www.wikidata.org/wiki/Q127516682](https://www.wikidata.org/wiki/Q127516682)  
 
@@ -12136,6 +12164,13 @@
  - [Castropignano](https://pleiades.stoa.org/places/432771)
 
 
+## Castrum Altenum (Q4736256)
+[https://www.wikidata.org/wiki/Q4736256](https://www.wikidata.org/wiki/Q4736256)  
+
+### alignments:
+ - [Altinum](https://pleiades.stoa.org/places/216700)
+
+
 ## Castrum Altinum (Q1735330)
 [https://www.wikidata.org/wiki/Q1735330](https://www.wikidata.org/wiki/Q1735330)  
 
@@ -12274,6 +12309,13 @@
 
 ### alignments:
  - [Iatrus](https://pleiades.stoa.org/places/216846)
+
+
+## Castrum Lugio (Q964298)
+[https://www.wikidata.org/wiki/Q964298](https://www.wikidata.org/wiki/Q964298)  
+
+### alignments:
+ - [Lugio/Florentia](https://pleiades.stoa.org/places/197360)
 
 
 ## Castrum Mannaricium (Q1309550)
@@ -13354,13 +13396,6 @@
  - [Monte Aguzzo tumulus](https://pleiades.stoa.org/places/112932917)
 
 
-## Chignall St James (Q588190)
-[https://www.wikidata.org/wiki/Q588190](https://www.wikidata.org/wiki/Q588190)  
-
-### alignments:
- - [Chignall St. James](https://pleiades.stoa.org/places/79387)
-
-
 ## Chil Zena (Q28223863)
 [https://www.wikidata.org/wiki/Q28223863](https://www.wikidata.org/wiki/Q28223863)  
 
@@ -13626,6 +13661,13 @@
 
 ### alignments:
  - [Chûn Quoit](https://pleiades.stoa.org/places/847951890)
+
+
+## Cibalae (Q11913747)
+[https://www.wikidata.org/wiki/Q11913747](https://www.wikidata.org/wiki/Q11913747)  
+
+### alignments:
+ - [Cibalae](https://pleiades.stoa.org/places/197207)
 
 
 ## Cibarci (Q544329)
@@ -26078,6 +26120,13 @@
  - [Iconium/Claudiconium](https://pleiades.stoa.org/places/648647)
 
 
+## Kopačevo (Q368385)
+[https://www.wikidata.org/wiki/Q368385](https://www.wikidata.org/wiki/Q368385)  
+
+### alignments:
+ - [Kopačevo](https://pleiades.stoa.org/places/197339)
+
+
 ## Kopros (Q18079262)
 [https://www.wikidata.org/wiki/Q18079262](https://www.wikidata.org/wiki/Q18079262)  
 
@@ -26104,6 +26153,13 @@
 
 ### alignments:
  - [[Korama]](https://pleiades.stoa.org/places/619192)
+
+
+## Korma (Q65067840)
+[https://www.wikidata.org/wiki/Q65067840](https://www.wikidata.org/wiki/Q65067840)  
+
+### alignments:
+ - [*Korma](https://pleiades.stoa.org/places/638935)
 
 
 ## Kormasa (Q127430525)
@@ -26779,6 +26835,13 @@
  - [Lactodorum](https://pleiades.stoa.org/places/79552)
 
 
+## Lacus Curtius (Q1232467)
+[https://www.wikidata.org/wiki/Q1232467](https://www.wikidata.org/wiki/Q1232467)  
+
+### alignments:
+ - [Lacus Curtius](https://pleiades.stoa.org/places/459049147)
+
+
 ## Lacus Juturnae (Q1714672)
 [https://www.wikidata.org/wiki/Q1714672](https://www.wikidata.org/wiki/Q1714672)  
 
@@ -27175,7 +27238,7 @@
 [https://www.wikidata.org/wiki/Q211823](https://www.wikidata.org/wiki/Q211823)  
 
 ### alignments:
- - [Tatta L.](https://pleiades.stoa.org/places/619268)
+ - [Tatta (lake)](https://pleiades.stoa.org/places/619268)
 
 
 ## Lake Uluabat (Q4809067)
@@ -29843,6 +29906,13 @@
 
 ### alignments:
  - [Mausoleum of Romulus](https://pleiades.stoa.org/places/916973546)
+
+
+## Mausoleum of Menenius Agrippa (Q56256261)
+[https://www.wikidata.org/wiki/Q56256261](https://www.wikidata.org/wiki/Q56256261)  
+
+### alignments:
+ - [Mausoleum of Menenius Agrippa](https://pleiades.stoa.org/places/457581182)
 
 
 ## Mausoleum of Miralpeix (Q6007256)
@@ -33732,6 +33802,13 @@
  - [Tepe Nush-i Jan](https://pleiades.stoa.org/places/903131)
 
 
+## Novaria (Q7064452)
+[https://www.wikidata.org/wiki/Q7064452](https://www.wikidata.org/wiki/Q7064452)  
+
+### alignments:
+ - [Novaria](https://pleiades.stoa.org/places/383717)
+
+
 ## Novi Banovci (Q779333)
 [https://www.wikidata.org/wiki/Q779333](https://www.wikidata.org/wiki/Q779333)  
 
@@ -35046,6 +35123,13 @@
 
 ### alignments:
  - [Oratino](https://pleiades.stoa.org/places/432994)
+
+
+## Orbe (Q68213)
+[https://www.wikidata.org/wiki/Q68213](https://www.wikidata.org/wiki/Q68213)  
+
+### alignments:
+ - [Urba](https://pleiades.stoa.org/places/177648)
 
 
 ## Orbetello (Q214849)
@@ -37331,6 +37415,13 @@
  - [Pierrière](https://pleiades.stoa.org/places/138516)
 
 
+## Pieve di Cadore (Q41065)
+[https://www.wikidata.org/wiki/Q41065](https://www.wikidata.org/wiki/Q41065)  
+
+### alignments:
+ - [Pieve di Cadore](https://pleiades.stoa.org/places/187509)
+
+
 ## Pieve di Sant'Antonino a Socana (Q3904745)
 [https://www.wikidata.org/wiki/Q3904745](https://www.wikidata.org/wiki/Q3904745)  
 
@@ -38920,6 +39011,13 @@
  - [Roman Bath House, Prestatyn](https://pleiades.stoa.org/places/851674695)
 
 
+## Preston Court Farm, Beddingham (Q138102962)
+[http://www.wikidata.org/entity/Q138102962](http://www.wikidata.org/entity/Q138102962)  
+
+### alignments:
+ - [Beddingham](https://pleiades.stoa.org/places/79322)
+
+
 ## Priansus (Q17625909)
 [https://www.wikidata.org/wiki/Q17625909](https://www.wikidata.org/wiki/Q17625909)  
 
@@ -40229,13 +40327,6 @@
  - [Arch of Augustus at Ariminum](https://pleiades.stoa.org/places/368355544)
 
 
-## Q107363174: Campus Lanatarius
-[https://www.wikidata.org/wiki/Q107363174](https://www.wikidata.org/wiki/Q107363174)  
-
-### alignments:
- - [Campus Lanatarius](https://pleiades.stoa.org/places/532313110)
-
-
 ## Q107363216: lacus Promethei
 [https://www.wikidata.org/wiki/Q107363216](https://www.wikidata.org/wiki/Q107363216)  
 
@@ -41379,13 +41470,6 @@
  - [Suana](https://pleiades.stoa.org/places/413323)
 
 
-## Q1232467: Lacus Curtius
-[https://www.wikidata.org/wiki/Q1232467](https://www.wikidata.org/wiki/Q1232467)  
-
-### alignments:
- - [Lacus Curtius](https://pleiades.stoa.org/places/459049147)
-
-
 ## Q1232473: Ludus Magnus
 [https://www.wikidata.org/wiki/Q1232473](https://www.wikidata.org/wiki/Q1232473)  
 
@@ -41686,6 +41770,13 @@
 
 ### alignments:
  - [Melite](https://pleiades.stoa.org/places/582863)
+
+
+## Q127512814
+[https://www.wikidata.org/wiki/Q127512814](https://www.wikidata.org/wiki/Q127512814)  
+
+### alignments:
+ - [Aedes Tempestates](https://pleiades.stoa.org/places/957858592)
 
 
 ## Q12771305: Medeon
@@ -42695,6 +42786,13 @@
 
 ### alignments:
  - [Akragas/Agrigentum](https://pleiades.stoa.org/places/462086)
+
+
+## Q136922065
+[https://www.wikidata.org/wiki/Q136922065](https://www.wikidata.org/wiki/Q136922065)  
+
+### alignments:
+ - [Tabernae circa forum](https://pleiades.stoa.org/places/670131991)
 
 
 ## Q13696: Adige
@@ -44771,13 +44869,6 @@
  - [Lamptrai Paraloi/Lamptrai Hypenerthen](https://pleiades.stoa.org/places/580009)
 
 
-## Q180212: Roman Forum
-[https://www.wikidata.org/wiki/Q180212](https://www.wikidata.org/wiki/Q180212)  
-
-### alignments:
- - [Forum Romanum](https://pleiades.stoa.org/places/502866838)
-
-
 ## Q18043236: Aricia
 [https://www.wikidata.org/wiki/Q18043236](https://www.wikidata.org/wiki/Q18043236)  
 
@@ -45715,13 +45806,6 @@
 
 ### alignments:
  - [Kumidi](https://pleiades.stoa.org/places/10481849)
-
-
-## Q203959: Shrine of Venus Cloacina
-[https://www.wikidata.org/wiki/Q203959](https://www.wikidata.org/wiki/Q203959)  
-
-### alignments:
- - [Shrine of Venus Cloacina](https://pleiades.stoa.org/places/674507252)
 
 
 ## Q204728: Chalkidiki
@@ -50932,13 +51016,6 @@
  - [Dolciano](https://pleiades.stoa.org/places/890043101)
 
 
-## Q4736256: Castrum Altenum
-[https://www.wikidata.org/wiki/Q4736256](https://www.wikidata.org/wiki/Q4736256)  
-
-### alignments:
- - [Altinum](https://pleiades.stoa.org/places/216700)
-
-
 ## Q4739860: Amanian Gate
 [https://www.wikidata.org/wiki/Q4739860](https://www.wikidata.org/wiki/Q4739860)  
 
@@ -51028,6 +51105,13 @@
 
 ### alignments:
  - [Arthur's O'On](https://pleiades.stoa.org/places/260256455)
+
+
+## Q4808759
+[https://www.wikidata.org/wiki/Q4808759](https://www.wikidata.org/wiki/Q4808759)  
+
+### alignments:
+ - [Assesos](https://pleiades.stoa.org/places/978383930)
 
 
 ## Q481660: Temple of Amun, Jebel Barkal
@@ -51785,13 +51869,6 @@
 
 ### alignments:
  - [Centuripae](https://pleiades.stoa.org/places/462153)
-
-
-## Q56256261: Mausoleum of Menenius Agrippa
-[https://www.wikidata.org/wiki/Q56256261](https://www.wikidata.org/wiki/Q56256261)  
-
-### alignments:
- - [Mausoleum of Menenius Agrippa](https://pleiades.stoa.org/places/457581182)
 
 
 ## Q56256394: Sepolcro dei Veienti
@@ -53110,13 +53187,6 @@
  - [Lagentium](https://pleiades.stoa.org/places/79553)
 
 
-## Q647535: Via Nomentana
-[https://www.wikidata.org/wiki/Q647535](https://www.wikidata.org/wiki/Q647535)  
-
-### alignments:
- - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
-
-
 ## Q648075: Amphitheatre of Italica
 [https://www.wikidata.org/wiki/Q648075](https://www.wikidata.org/wiki/Q648075)  
 
@@ -53962,13 +54032,6 @@
 
 ### alignments:
  - [Silva Ciminia](https://pleiades.stoa.org/places/30464757)
-
-
-## Q753791: Temple of Vesta
-[https://www.wikidata.org/wiki/Q753791](https://www.wikidata.org/wiki/Q753791)  
-
-### alignments:
- - [Temple of Vesta at Rome](https://pleiades.stoa.org/places/55302071)
 
 
 ## Q754314: Tusculum
@@ -55040,13 +55103,6 @@
 
 ### alignments:
  - [Arco Romano de Dona Isabel](https://pleiades.stoa.org/places/982853456)
-
-
-## Q964298: Castrum Lugio
-[https://www.wikidata.org/wiki/Q964298](https://www.wikidata.org/wiki/Q964298)  
-
-### alignments:
- - [Lugio/Florentia](https://pleiades.stoa.org/places/197360)
 
 
 ## Q96671821: Apollo Tegyraios (sanctuary)
@@ -56947,6 +57003,13 @@
  - [Ince fortlet](https://pleiades.stoa.org/places/629766126)
 
 
+## Roman Forum (Q180212)
+[https://www.wikidata.org/wiki/Q180212](https://www.wikidata.org/wiki/Q180212)  
+
+### alignments:
+ - [Forum Romanum](https://pleiades.stoa.org/places/502866838)
+
+
 ## Roman Forum (Q7361967)
 [https://www.wikidata.org/wiki/Q7361967](https://www.wikidata.org/wiki/Q7361967)  
 
@@ -57533,6 +57596,20 @@
 
 ### alignments:
  - [Langton](https://pleiades.stoa.org/places/89223)
+
+
+## Roman villa 200m east of Howletts (Q17674063)
+[http://www.wikidata.org/entity/Q17674063](http://www.wikidata.org/entity/Q17674063)  
+
+### alignments:
+ - [Chignall St. James](https://pleiades.stoa.org/places/79387)
+
+
+## Roman villa 450m west of Bury Farm (Q17674049)
+[http://www.wikidata.org/entity/Q17674049](http://www.wikidata.org/entity/Q17674049)  
+
+### alignments:
+ - [Pleshey](https://pleiades.stoa.org/places/613664405)
 
 
 ## Roman villa 600yds (550m) NE of Great Lemhill Farm (Q17640837)
@@ -59152,6 +59229,13 @@
  - [Church of Santa Fosca](https://pleiades.stoa.org/places/887366324)
 
 
+## Santa Francesca Romana (Q1091640)
+[https://www.wikidata.org/wiki/Q1091640](https://www.wikidata.org/wiki/Q1091640)  
+
+### alignments:
+ - [Basilica di Santa Francesca Romana](https://pleiades.stoa.org/places/412344812)
+
+
 ## Santa Maria a Vico (Q58895)
 [https://www.wikidata.org/wiki/Q58895](https://www.wikidata.org/wiki/Q58895)  
 
@@ -60642,6 +60726,13 @@
 
 ### alignments:
  - [Shrine of Sabazius](https://pleiades.stoa.org/places/233060587)
+
+
+## Shrine of Venus Cloacina (Q203959)
+[https://www.wikidata.org/wiki/Q203959](https://www.wikidata.org/wiki/Q203959)  
+
+### alignments:
+ - [Shrine of Venus Cloacina](https://pleiades.stoa.org/places/674507252)
 
 
 ## Shumen (Q181830)
@@ -62577,6 +62668,13 @@
  - [Syros (island)](https://pleiades.stoa.org/places/590067)
 
 
+## Szebény (Q920876)
+[https://www.wikidata.org/wiki/Q920876](https://www.wikidata.org/wiki/Q920876)  
+
+### alignments:
+ - [Szebény](https://pleiades.stoa.org/places/197535)
+
+
 ## Szob (Q429409)
 [https://www.wikidata.org/wiki/Q429409](https://www.wikidata.org/wiki/Q429409)  
 
@@ -63795,6 +63893,13 @@
  - [Bona Dea Subsaxana, Aedes](https://pleiades.stoa.org/places/453271405)
 
 
+## Temple of Castor and Pollux (Q380530)
+[https://www.wikidata.org/wiki/Q380530](https://www.wikidata.org/wiki/Q380530)  
+
+### alignments:
+ - [Temple of Castor and Pollux (Rome)](https://pleiades.stoa.org/places/157276290)
+
+
 ## Temple of Ceres (Q2267529)
 [https://www.wikidata.org/wiki/Q2267529](https://www.wikidata.org/wiki/Q2267529)  
 
@@ -63807,6 +63912,13 @@
 
 ### alignments:
  - [Temple of Claudius](https://pleiades.stoa.org/places/86419549)
+
+
+## Temple of Concord (Q828143)
+[https://www.wikidata.org/wiki/Q828143](https://www.wikidata.org/wiki/Q828143)  
+
+### alignments:
+ - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
 
 
 ## Temple of Concordia (Q3983202)
@@ -64213,6 +64325,13 @@
 
 ### alignments:
  - [Temple of Vesta at Tibur](https://pleiades.stoa.org/places/474016230)
+
+
+## Temple of Vesta (Q753791)
+[https://www.wikidata.org/wiki/Q753791](https://www.wikidata.org/wiki/Q753791)  
+
+### alignments:
+ - [Temple of Vesta at Rome](https://pleiades.stoa.org/places/55302071)
 
 
 ## Temple of Yeha (Q56072973)
@@ -64768,6 +64887,13 @@
  - [Roman theater (Haidra)](https://pleiades.stoa.org/places/24892247)
 
 
+## Theatre of Balbus (Q2734384)
+[https://www.wikidata.org/wiki/Q2734384](https://www.wikidata.org/wiki/Q2734384)  
+
+### alignments:
+ - [Theater of Balbus](https://pleiades.stoa.org/places/687792644)
+
+
 ## Theatre of Bulla Regia (Q42755003)
 [https://www.wikidata.org/wiki/Q42755003](https://www.wikidata.org/wiki/Q42755003)  
 
@@ -64914,6 +65040,13 @@
 
 ### alignments:
  - [Thenford](https://pleiades.stoa.org/places/79711)
+
+
+## Theon Ochema (Q135971506)
+[https://www.wikidata.org/wiki/Q135971506](https://www.wikidata.org/wiki/Q135971506)  
+
+### alignments:
+ - [Theon Ochema](https://pleiades.stoa.org/places/790672218)
 
 
 ## Theotokos Kosmosoteira (Q96962495)
@@ -69102,6 +69235,13 @@
  - [Via Minucia / Traiana](https://pleiades.stoa.org/places/395708592)
 
 
+## Via Nomentana (Q647535)
+[https://www.wikidata.org/wiki/Q647535](https://www.wikidata.org/wiki/Q647535)  
+
+### alignments:
+ - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
+
+
 ## Via Ostiensis (Q1232418)
 [https://www.wikidata.org/wiki/Q1232418](https://www.wikidata.org/wiki/Q1232418)  
 
@@ -69241,6 +69381,13 @@
 
 ### alignments:
  - [Vicetia](https://pleiades.stoa.org/places/393513)
+
+
+## Vici Luccei (Q136939582)
+[https://www.wikidata.org/wiki/Q136939582](https://www.wikidata.org/wiki/Q136939582)  
+
+### alignments:
+ - [Vici Luccei](https://pleiades.stoa.org/places/575989749)
 
 
 ## Viciana (Q16361381)
@@ -70011,6 +70158,13 @@
 
 ### alignments:
  - [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
+
+
+## Vinkovci (Samian Ware Discovery Site) (Q103199319)
+[https://www.wikidata.org/wiki/Q103199319](https://www.wikidata.org/wiki/Q103199319)  
+
+### alignments:
+ - [Cibalae](https://pleiades.stoa.org/places/197207)
 
 
 ## Viromandui (Q761664)

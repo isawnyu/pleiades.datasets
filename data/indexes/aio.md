@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-149 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+150 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -1031,6 +1031,13 @@
 
 ### alignments:
  - [Sanctuary of Kodros, Neleus and Basile at Athens](https://pleiades.stoa.org/places/935764097)
+
+
+## Panagia Gorgoepikoos Church ("Little Metropolis")
+[https://www.atticinscriptions.com/browse/byfindspot/panagia-gorgoepikoos-church-little-metropolis/](https://www.atticinscriptions.com/browse/byfindspot/panagia-gorgoepikoos-church-little-metropolis/)  
+
+### alignments:
+ - [Little Metropolis church (Athens)](https://pleiades.stoa.org/places/705446488)
 
 
 ## Sanctuary of Akamas

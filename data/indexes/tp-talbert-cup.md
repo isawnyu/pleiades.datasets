@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2306 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+2310 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -6865,6 +6865,20 @@
  - [Alta Ripa](https://pleiades.stoa.org/places/197109)
 
 
+## 4A5 (Talbert 1600)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1600.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1600.html)  
+
+### alignments:
+ - [‘Marinianis’/Magniana](https://pleiades.stoa.org/places/197370)
+
+
+## 4A5 (Talbert 1601)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1601.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1601.html)  
+
+### alignments:
+ - [Serena?](https://pleiades.stoa.org/places/197507)
+
+
 ## 4A5 (Talbert 1609)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1609.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1609.html)  
 
@@ -8236,6 +8250,20 @@
 
 ### alignments:
  - [‘Vereis’](https://pleiades.stoa.org/places/197576)
+
+
+## 5A1 (Talbert 1650)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1650.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1650.html)  
+
+### alignments:
+ - [Iovalia](https://pleiades.stoa.org/places/197325)
+
+
+## 5A1 (Talbert 1651)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1651.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1651.html)  
+
+### alignments:
+ - [Mursella](https://pleiades.stoa.org/places/197391)
 
 
 ## 5A1 (Talbert 1660)

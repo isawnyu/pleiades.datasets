@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-819 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+827 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3146,6 +3146,13 @@
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
 
 
+## 11313009: Mount Calauros (Chalcidice)
+[https://resource.manto.unh.edu/11313009](https://resource.manto.unh.edu/11313009)  
+
+### alignments:
+ - [Kalauros (mountain)](https://pleiades.stoa.org/places/555396520)
+
+
 ## 11313573: Pisa (Italy)
 [https://resource.manto.unh.edu/11313573](https://resource.manto.unh.edu/11313573)  
 
@@ -3321,6 +3328,20 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 11325955: the Roman Forum (Rome)
+[https://resource.manto.unh.edu/11325955](https://resource.manto.unh.edu/11325955)  
+
+### alignments:
+ - [Forum Romanum](https://pleiades.stoa.org/places/502866838)
+
+
+## 11325956: the Temple of Vesta (Rome)
+[https://resource.manto.unh.edu/11325956](https://resource.manto.unh.edu/11325956)  
+
+### alignments:
+ - [Temple of Vesta at Rome](https://pleiades.stoa.org/places/55302071)
+
+
 ## 11328490: the Land of the Marsi
 [https://resource.manto.unh.edu/11328490](https://resource.manto.unh.edu/11328490)  
 
@@ -3335,11 +3356,32 @@
  - [Bizye](https://pleiades.stoa.org/places/511190)
 
 
+## 11329122: the Temple of Concordia at Rome
+[https://resource.manto.unh.edu/11329122](https://resource.manto.unh.edu/11329122)  
+
+### alignments:
+ - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
+
+
 ## 11329379: Cape Hermaia (N. Africa)
 [https://resource.manto.unh.edu/11329379](https://resource.manto.unh.edu/11329379)  
 
 ### alignments:
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
+## 11329905: the Sanctuary of Venus Cloacina (Rome)
+[https://resource.manto.unh.edu/11329905](https://resource.manto.unh.edu/11329905)  
+
+### alignments:
+ - [Shrine of Venus Cloacina](https://pleiades.stoa.org/places/674507252)
+
+
+## 11330050: the Curia Julia (Rome)
+[https://resource.manto.unh.edu/11330050](https://resource.manto.unh.edu/11330050)  
+
+### alignments:
+ - [Curia Iulia](https://pleiades.stoa.org/places/837078212)
 
 
 ## 11330114: the Temple of Peace at Rome
@@ -3370,11 +3412,25 @@
  - [Apollo Asgelatos (temple)](https://pleiades.stoa.org/places/599504)
 
 
+## 11330765
+[https://resource.manto.unh.edu/11330765](https://resource.manto.unh.edu/11330765)  
+
+### alignments:
+ - [Assesos](https://pleiades.stoa.org/places/978383930)
+
+
 ## 11331154: Atlantis (Unlocatable)
 [https://resource.manto.unh.edu/11331154](https://resource.manto.unh.edu/11331154)  
 
 ### alignments:
  - [Atlantis](https://pleiades.stoa.org/places/633625629)
+
+
+## 11331325: Hyria (Cilicia)
+[https://resource.manto.unh.edu/11331325](https://resource.manto.unh.edu/11331325)  
+
+### alignments:
+ - [Hyria (Cilicia)](https://pleiades.stoa.org/places/458576716)
 
 
 ## 8188810: Crommyon (Argolid)

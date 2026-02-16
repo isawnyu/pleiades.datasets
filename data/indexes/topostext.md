@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4826 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+4835 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4696,6 +4696,13 @@
  - [Asseros](https://pleiades.stoa.org/places/491529)
 
 
+## Assesos (Ionia)
+[https://topostext.org/place/375273UAss](https://topostext.org/place/375273UAss)  
+
+### alignments:
+ - [Assesos](https://pleiades.stoa.org/places/978383930)
+
+
 ## Asso (Iberia)
 [https://topostext.org/place/380000UAss](https://topostext.org/place/380000UAss)  
 
@@ -5443,6 +5450,13 @@
 
 ### alignments:
  - [Bactra/Zariaspa](https://pleiades.stoa.org/places/961886)
+
+
+## Bacuntius river (Pannonia)
+[https://topostext.org/place/451190WBos](https://topostext.org/place/451190WBos)  
+
+### alignments:
+ - [‘Bacuntius’ (river)](https://pleiades.stoa.org/places/197157)
 
 
 ## Baecula (Iberia)
@@ -7013,6 +7027,13 @@
  - [Castellum Menapiorum](https://pleiades.stoa.org/places/108865)
 
 
+## Castor and Pollux temple (Rome)
+[https://topostext.org/place/419125SCas](https://topostext.org/place/419125SCas)  
+
+### alignments:
+ - [Temple of Castor and Pollux (Rome)](https://pleiades.stoa.org/places/157276290)
+
+
 ## Castra Cornelia (Libya) 6 Kelaat El Andaluus
 [https://topostext.org/place/371101UCCo](https://topostext.org/place/371101UCCo)  
 
@@ -7915,6 +7936,13 @@
 
 ### alignments:
  - [Comum](https://pleiades.stoa.org/places/383627)
+
+
+## Concordia temple (Rome) 56 Tempio di Concordia
+[https://topostext.org/place/419125SCon](https://topostext.org/place/419125SCon)  
+
+### alignments:
+ - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
 
 
 ## Condate Redonum (Gallia)
@@ -16439,6 +16467,13 @@
  - [Korkyra Melaina](https://pleiades.stoa.org/places/197340)
 
 
+## Korma (Lycia)
+[https://topostext.org/place/366303UKor](https://topostext.org/place/366303UKor)  
+
+### alignments:
+ - [*Korma](https://pleiades.stoa.org/places/638935)
+
+
 ## Kormasa (Pisidia) 5 Çallıca? - Κύρμασα
 [https://topostext.org/place/375300UKyr](https://topostext.org/place/375300UKyr)  
 
@@ -22593,6 +22628,13 @@
  - [Argamum](https://pleiades.stoa.org/places/216710)
 
 
+## Oria/Oretum (Iberia)
+[https://topostext.org/place/387-37UOre](https://topostext.org/place/387-37UOre)  
+
+### alignments:
+ - [Oretum](https://pleiades.stoa.org/places/265990)
+
+
 ## Orikon (Illyria)
 [https://topostext.org/place/403195UOri](https://topostext.org/place/403195UOri)  
 
@@ -23298,6 +23340,13 @@
 
 ### alignments:
  - [Panagia Arkoudiotissa](https://pleiades.stoa.org/places/589971)
+
+
+## Panagia Gorgoepikoos church (Athens) Syntagma - Παναγία Γοργοεπήκοο
+[https://topostext.org/place/380237EGor](https://topostext.org/place/380237EGor)  
+
+### alignments:
+ - [Little Metropolis church (Athens)](https://pleiades.stoa.org/places/705446488)
 
 
 ## Panagia Kanakaria EC church (Cyprus)
@@ -30992,6 +31041,13 @@
  - [Theater of Orchomenus](https://pleiades.stoa.org/places/297166731)
 
 
+## Theatre of Balbus (Rome)
+[https://topostext.org/place/419125BTBa](https://topostext.org/place/419125BTBa)  
+
+### alignments:
+ - [Theater of Balbus](https://pleiades.stoa.org/places/687792644)
+
+
 ## Theatre of Marcellus (Rome)
 [https://topostext.org/place/419125BTMa](https://topostext.org/place/419125BTMa)  
 
@@ -33127,6 +33183,13 @@
  - [Via Labicana](https://pleiades.stoa.org/places/74935822)
 
 
+## Via Nomentana (Latium)
+[https://topostext.org/place/419125BVNo](https://topostext.org/place/419125BVNo)  
+
+### alignments:
+ - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
+
+
 ## Via Sacra (Rome)
 [https://topostext.org/place/419125LVsa](https://topostext.org/place/419125LVsa)  
 
@@ -33664,7 +33727,7 @@
 [https://topostext.org/place/381207SAin](https://topostext.org/place/381207SAin)  
 
 ### alignments:
- - [Zeus Ainesios, T.](https://pleiades.stoa.org/places/531158)
+ - [Zeus Ainesios (temple)](https://pleiades.stoa.org/places/531158)
 
 
 ## Zeus Akraios sanct. (Magnesia) 1 Pelion

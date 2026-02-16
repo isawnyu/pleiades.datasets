@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4903 alignments exist in _Pleiades_ place references as of 2026-02-13. The following list of alignments is grouped by zotkey.
+4912 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -422,6 +422,13 @@
 
 ### alignments:
  - [Ortygia (island)](https://pleiades.stoa.org/places/462402)
+
+
+## Geo 1568: Palestina
+[https://www.trismegistos.org/place/1568](https://www.trismegistos.org/place/1568)  
+
+### alignments:
+ - [Palaestina (region)](https://pleiades.stoa.org/places/687995)
 
 
 ## Geo 15749: Kynaitha (Kalavrita)
@@ -13328,6 +13335,13 @@
  - [Trimithis](https://pleiades.stoa.org/places/776235)
 
 
+## GEO ID 27343: Ad Novas (Vinaixa)
+[http://www.trismegistos.org/place/27343](http://www.trismegistos.org/place/27343)  
+
+### alignments:
+ - [Ad Novas](https://pleiades.stoa.org/places/246138)
+
+
 ## GEO ID 27363
 [http://www.trismegistos.org/place/27363](http://www.trismegistos.org/place/27363)  
 
@@ -19539,6 +19553,13 @@
  - [Kydathenaion](https://pleiades.stoa.org/places/582862)
 
 
+## GEO ID 35942: Iovalia (Valpovo)
+[https://www.trismegistos.org/place/35942](https://www.trismegistos.org/place/35942)  
+
+### alignments:
+ - [Iovalia](https://pleiades.stoa.org/places/197325)
+
+
 ## GEO ID 3603: Apollonia (Pojani)
 [http://www.trismegistos.org/place/3603](http://www.trismegistos.org/place/3603)  
 
@@ -21823,6 +21844,13 @@
  - [‘Lentulis’](https://pleiades.stoa.org/places/197348)
 
 
+## GEO ID 40535: Vereis (Podravski Podgajci)
+[https://www.trismegistos.org/place/40535](https://www.trismegistos.org/place/40535)  
+
+### alignments:
+ - [‘Vereis’](https://pleiades.stoa.org/places/197576)
+
+
 ## GEO ID 40543: Pizus (Dimitrievo)
 [https://www.trismegistos.org/place/40543](https://www.trismegistos.org/place/40543)  
 
@@ -23013,6 +23041,13 @@
  - [Fanum Fugitivi](https://pleiades.stoa.org/places/413130)
 
 
+## GEO ID 41101: Ad Sextum (Tomba di Nerone)
+[https://www.trismegistos.org/place/41101](https://www.trismegistos.org/place/41101)  
+
+### alignments:
+ - [Ad Sextum](https://pleiades.stoa.org/places/422815)
+
+
 ## GEO ID 41102: Aquae Passeris (Bacucco)
 [http://www.trismegistos.org/place/41102](http://www.trismegistos.org/place/41102)  
 
@@ -23263,6 +23298,13 @@
 
 ### alignments:
  - [Masaesyli](https://pleiades.stoa.org/places/278621)
+
+
+## GEO ID 41308: Mursella (Petrijevci)
+[https://www.trismegistos.org/place/41308](https://www.trismegistos.org/place/41308)  
+
+### alignments:
+ - [Mursella](https://pleiades.stoa.org/places/197391)
 
 
 ## GEO ID 41309: Ad Labores Pontis Ulcae (Bobota)
@@ -24054,6 +24096,13 @@
 
 ### alignments:
  - [Ramista](https://pleiades.stoa.org/places/197468)
+
+
+## GEO ID 41632: Serena
+[https://www.trismegistos.org/place/41632](https://www.trismegistos.org/place/41632)  
+
+### alignments:
+ - [Serena?](https://pleiades.stoa.org/places/197507)
 
 
 ## GEO ID 41636: Lugii
@@ -30452,6 +30501,13 @@
  - [Pistyros](https://pleiades.stoa.org/places/501569)
 
 
+## GEO ID 5284: Koloboi
+[http://www.trismegistos.org/place/5284](http://www.trismegistos.org/place/5284)  
+
+### alignments:
+ - [Koloboi/Kolboi](https://pleiades.stoa.org/places/40179)
+
+
 ## GEO ID 528: Cyprus
 [http://www.trismegistos.org/place/528](http://www.trismegistos.org/place/528)  
 
@@ -31886,6 +31942,13 @@
 
 ### alignments:
  - [Hybanda (island)](https://pleiades.stoa.org/places/599650)
+
+
+## GEO ID 60943: Assesos (Mengerevtepe)
+[https://www.trismegistos.org/place/60943](https://www.trismegistos.org/place/60943)  
+
+### alignments:
+ - [Assesos](https://pleiades.stoa.org/places/978383930)
 
 
 ## GEO ID 60955: Elaiton Kolpos (Çandarlı Körfezi)
