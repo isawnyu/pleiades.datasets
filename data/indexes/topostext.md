@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4835 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
+4836 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7838,6 +7838,13 @@
 
 ### alignments:
  - [Ara Ubiorum/Col. Claudia Ara Agrippinensium](https://pleiades.stoa.org/places/108751)
+
+
+## Colentum (Dalmatia)
+[https://topostext.org/place/438156ICol](https://topostext.org/place/438156ICol)  
+
+### alignments:
+ - [Colentum (island)](https://pleiades.stoa.org/places/197219)
 
 
 ## Collatia (Latium)

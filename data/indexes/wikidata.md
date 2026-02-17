@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10251 alignments exist in _Pleiades_ place references as of 2026-02-16. The following list of alignments is grouped by zotkey.
+10256 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -23557,6 +23557,13 @@
  - [*Iaza](https://pleiades.stoa.org/places/609412)
 
 
+## Ibiza (Q52631)
+[https://www.wikidata.org/wiki/Q52631](https://www.wikidata.org/wiki/Q52631)  
+
+### alignments:
+ - [Ebusus (island)](https://pleiades.stoa.org/places/265884)
+
+
 ## Icaria (Q209576)
 [https://www.wikidata.org/wiki/Q209576](https://www.wikidata.org/wiki/Q209576)  
 
@@ -32479,6 +32486,13 @@
  - [Mursella](https://pleiades.stoa.org/places/197390)
 
 
+## Murter (Q928983)
+[https://www.wikidata.org/wiki/Q928983](https://www.wikidata.org/wiki/Q928983)  
+
+### alignments:
+ - [Colentum (island)](https://pleiades.stoa.org/places/197219)
+
+
 ## Museum und Park Kalkriese (Q1954771)
 [https://www.wikidata.org/wiki/Q1954771](https://www.wikidata.org/wiki/Q1954771)  
 
@@ -34829,6 +34843,13 @@
 
 ### alignments:
  - [Olisipo](https://pleiades.stoa.org/places/256338)
+
+
+## Oliveto Citra (Q81160)
+[https://www.wikidata.org/wiki/Q81160](https://www.wikidata.org/wiki/Q81160)  
+
+### alignments:
+ - [Oliveto Citra](https://pleiades.stoa.org/places/442698)
 
 
 ## Olliculani (Q115151165)
@@ -41447,13 +41468,6 @@
 
 ### alignments:
  - [Thermi, Lesbos](https://pleiades.stoa.org/places/724562435)
-
-
-## Q1228725: Saticula
-[https://www.wikidata.org/wiki/Q1228725](https://www.wikidata.org/wiki/Q1228725)  
-
-### alignments:
- - [Saticula](https://pleiades.stoa.org/places/433105)
 
 
 ## Q1230599: Via Latina
@@ -59579,6 +59593,13 @@
  - [Satala](https://pleiades.stoa.org/places/874684)
 
 
+## Saticula (Q1228725)
+[https://www.wikidata.org/wiki/Q1228725](https://www.wikidata.org/wiki/Q1228725)  
+
+### alignments:
+ - [Saticula](https://pleiades.stoa.org/places/433105)
+
+
 ## Satricum (Q2137162)
 [https://www.wikidata.org/wiki/Q2137162](https://www.wikidata.org/wiki/Q2137162)  
 
@@ -59913,6 +59934,13 @@
 
 ### alignments:
  - [Eumorfiana? Ins.](https://pleiades.stoa.org/places/432823)
+
+
+## Scoglio di Rovigliano (Q3952643)
+[https://www.wikidata.org/wiki/Q3952643](https://www.wikidata.org/wiki/Q3952643)  
+
+### alignments:
+ - [Herculis Petra](https://pleiades.stoa.org/places/432876)
 
 
 ## Scolacium amphitheatre (Q28978002)
@@ -68274,6 +68302,13 @@
 
 ### alignments:
  - [Unnamed Gate of the Themistoklean Wall](https://pleiades.stoa.org/places/401250361)
+
+
+## Upper Agryle (Q13416286)
+[https://www.wikidata.org/wiki/Q13416286](https://www.wikidata.org/wiki/Q13416286)  
+
+### alignments:
+ - [Agryle Kathyperthen](https://pleiades.stoa.org/places/579849)
 
 
 ## Upper Ankyle (Q13518323)
