@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10256 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
+10264 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4716,6 +4716,13 @@
  - [Arco Felice Vecchio](https://pleiades.stoa.org/places/466414611)
 
 
+## Arcobriga (Q5703228)
+[https://www.wikidata.org/wiki/Q5703228](https://www.wikidata.org/wiki/Q5703228)  
+
+### alignments:
+ - [Arcobriga](https://pleiades.stoa.org/places/246183)
+
+
 ## Arcos de la Frontera (Q637863)
 [https://www.wikidata.org/wiki/Q637863](https://www.wikidata.org/wiki/Q637863)  
 
@@ -7487,6 +7494,13 @@
 
 ### alignments:
  - [Baumgarten an der March](https://pleiades.stoa.org/places/128359)
+
+
+## Bauterna (Q137921591)
+[https://www.wikidata.org/wiki/Q137921591](https://www.wikidata.org/wiki/Q137921591)  
+
+### alignments:
+ - [Bauterna](https://pleiades.stoa.org/places/480040249)
 
 
 ## Bavares (Q2892078)
@@ -18737,6 +18751,13 @@
  - [Faventia](https://pleiades.stoa.org/places/393420)
 
 
+## Faversham Roman villa (Q138318736)
+[http://www.wikidata.org/entity/Q138318736](http://www.wikidata.org/entity/Q138318736)  
+
+### alignments:
+ - [Faversham Roman villa](https://pleiades.stoa.org/places/261199605)
+
+
 ## Fectio (Q2311719)
 [https://www.wikidata.org/wiki/Q2311719](https://www.wikidata.org/wiki/Q2311719)  
 
@@ -19218,6 +19239,13 @@
 
 ### alignments:
  - [Forum Aemilianum](https://pleiades.stoa.org/places/700326648)
+
+
+## Forum Aemilii (Q111899689)
+[https://www.wikidata.org/wiki/Q111899689](https://www.wikidata.org/wiki/Q111899689)  
+
+### alignments:
+ - [Fioccaglia di Flumeri](https://pleiades.stoa.org/places/442583)
 
 
 ## Forum antique de Bavay (Q3078613)
@@ -28788,6 +28816,13 @@
  - [Lyceum](https://pleiades.stoa.org/places/122572945)
 
 
+## Lychnidos (Q1456371)
+[https://www.wikidata.org/wiki/Q1456371](https://www.wikidata.org/wiki/Q1456371)  
+
+### alignments:
+ - [Lychnidos](https://pleiades.stoa.org/places/481900)
+
+
 ## Lycia (Q18927)
 [https://www.wikidata.org/wiki/Q18927](https://www.wikidata.org/wiki/Q18927)  
 
@@ -31252,6 +31287,13 @@
 
 ### alignments:
  - [Skinburness](https://pleiades.stoa.org/places/504812865)
+
+
+## Miletouteichos (Q17622493)
+[https://www.wikidata.org/wiki/Q17622493](https://www.wikidata.org/wiki/Q17622493)  
+
+### alignments:
+ - [Miletouteichos](https://pleiades.stoa.org/places/511320)
 
 
 ## Miletus (Q169460)
@@ -34684,6 +34726,13 @@
  - [Ollius (river)](https://pleiades.stoa.org/places/383721)
 
 
+## Ogrylus (Q91109416)
+[https://www.wikidata.org/wiki/Q91109416](https://www.wikidata.org/wiki/Q91109416)  
+
+### alignments:
+ - [Ogryle](https://pleiades.stoa.org/places/261199604)
+
+
 ## Oiasso (Q653443)
 [https://www.wikidata.org/wiki/Q653443](https://www.wikidata.org/wiki/Q653443)  
 
@@ -37567,6 +37616,13 @@
 
 ### alignments:
  - [Piroboridava](https://pleiades.stoa.org/places/216932)
+
+
+## Pirustae (Q961794)
+[https://www.wikidata.org/wiki/Q961794](https://www.wikidata.org/wiki/Q961794)  
+
+### alignments:
+ - [Pirustae](https://pleiades.stoa.org/places/481961)
 
 
 ## Pisae (Q17591094)

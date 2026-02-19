@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4912 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
+4915 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -274,6 +274,13 @@
 
 ### alignments:
  - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
+
+
+## Geo 12159: Lychnidos (Ohrid)
+[https://www.trismegistos.org/place/12159](https://www.trismegistos.org/place/12159)  
+
+### alignments:
+ - [Lychnidos](https://pleiades.stoa.org/places/481900)
 
 
 ## Geo 1220: Lamia
@@ -13081,6 +13088,13 @@
 
 ### alignments:
  - [Urbiaca](https://pleiades.stoa.org/places/270381)
+
+
+## GEO ID 26693: Arcobriga (Monreal de Ariza)
+[http://www.trismegistos.org/place/26693](http://www.trismegistos.org/place/26693)  
+
+### alignments:
+ - [Arcobriga](https://pleiades.stoa.org/places/246183)
 
 
 ## GEO ID 26704: Celsa (Velilla de Ebro)
@@ -25966,6 +25980,13 @@
 
 ### alignments:
  - [Antiochia Tharmata/Arma](https://pleiades.stoa.org/places/60420)
+
+
+## GEO ID 42316: Bauterna
+[https://www.trismegistos.org/place/42316](https://www.trismegistos.org/place/42316)  
+
+### alignments:
+ - [Bauterna](https://pleiades.stoa.org/places/480040249)
 
 
 ## GEO ID 42317: Gedrosia

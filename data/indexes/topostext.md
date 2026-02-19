@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4836 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
+4838 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -9097,6 +9097,13 @@
  - [Doberos](https://pleiades.stoa.org/places/491573)
 
 
+## Doclea/Diokleia (Illyria)
+[https://topostext.org/place/425193UDoc](https://topostext.org/place/425193UDoc)  
+
+### alignments:
+ - [Doclea](https://pleiades.stoa.org/places/481808)
+
+
 ## Dodekaschoinos (Egypt)
 [https://topostext.org/place/235325UDod](https://topostext.org/place/235325UDod)  
 
@@ -17363,6 +17370,13 @@
 
 ### alignments:
  - [Cyzicus](https://pleiades.stoa.org/places/511218)
+
+
+## Labeatis lake (Illyria)
+[https://topostext.org/place/422193WLak](https://topostext.org/place/422193WLak)  
+
+### alignments:
+ - [Labeatis (lake)](https://pleiades.stoa.org/places/481890)
 
 
 ## Labicum (Latium) 35 Monte Compatri - Λαβικόν

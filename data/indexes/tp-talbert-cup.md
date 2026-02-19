@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2310 alignments exist in _Pleiades_ place references as of 2026-02-17. The following list of alignments is grouped by zotkey.
+2313 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1336,6 +1336,13 @@
 
 ### alignments:
  - [Persepolis/Parsa/Persai/Sat Setun](https://pleiades.stoa.org/places/922695)
+
+
+## 11C3 (Talbert 2770)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2770.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2770.html)  
+
+### alignments:
+ - [Bauterna](https://pleiades.stoa.org/places/480040249)
 
 
 ## 11C3 (Talbert 2772)
@@ -15599,6 +15606,13 @@
  - [Coele Syria](https://pleiades.stoa.org/places/678096)
 
 
+## 9B5 (Talbert 2274)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2274.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2274.html)  
+
+### alignments:
+ - [Mesorome](https://pleiades.stoa.org/places/857233)
+
+
 ## 9B5 (Talbert 2313)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2313.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2313.html)  
 
@@ -16178,5 +16192,12 @@
 
 ### alignments:
  - [Alb(i)um Intimilium/Albintimilium](https://pleiades.stoa.org/places/157802)
+
+
+## TP 6B4 (Talbert 1848)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1848.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1848.html)  
+
+### alignments:
+ - [Lychnidos](https://pleiades.stoa.org/places/481900)
 
 
