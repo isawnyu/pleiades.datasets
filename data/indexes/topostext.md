@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4838 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
+4839 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -14151,6 +14151,13 @@
 
 ### alignments:
  - [Danuvius/Istros/Hister (river)](https://pleiades.stoa.org/places/226577)
+
+
+## Isthmian Poseidon sanct. (Korinthia) 276 Isthmia - Ισθμία
+[https://topostext.org/place/379230SIst](https://topostext.org/place/379230SIst)  
+
+### alignments:
+ - [Isthmia](https://pleiades.stoa.org/places/570316)
 
 
 ## Isthmus (Korinthia) 240 Isthmia - Ισθμός
@@ -32025,7 +32032,6 @@
 [https://topostext.org/](https://topostext.org/)  
 
 ### alignments:
- - [Isthmia](https://pleiades.stoa.org/places/570316)
  - [Kamilari](https://pleiades.stoa.org/places/589835)
  - [Limiko blockhouse (Argolid)](https://pleiades.stoa.org/places/500721867)
  - [Makrygiannis domus](https://pleiades.stoa.org/places/496995888)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-828 alignments exist in _Pleiades_ place references as of 2026-02-19. The following list of alignments is grouped by zotkey.
+829 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3978,6 +3978,13 @@
 
 ### alignments:
  - [Phoenice (region)](https://pleiades.stoa.org/places/678334)
+
+
+## 8253954: Lerna (Argolid)
+[https://resource.manto.unh.edu/8253954](https://resource.manto.unh.edu/8253954)  
+
+### alignments:
+ - [Lerna](https://pleiades.stoa.org/places/570424)
 
 
 ## 8253956: Seriphos (island in the Cyclades)
