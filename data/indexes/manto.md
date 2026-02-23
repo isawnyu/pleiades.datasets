@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-829 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
+836 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2858,6 +2858,13 @@
  - [Kierion](https://pleiades.stoa.org/places/540867)
 
 
+## 11307447: Deucalion (island)
+[https://resource.manto.unh.edu/11307447](https://resource.manto.unh.edu/11307447)  
+
+### alignments:
+ - [Deukalion (island)](https://pleiades.stoa.org/places/543679)
+
+
 ## 11307461: Orestian Argos (N. Greece)
 [https://resource.manto.unh.edu/11307461](https://resource.manto.unh.edu/11307461)  
 
@@ -3153,6 +3160,13 @@
  - [Ophryneion](https://pleiades.stoa.org/places/550787)
 
 
+## 11312703: Nola (Italy)
+[https://resource.manto.unh.edu/11312703](https://resource.manto.unh.edu/11312703)  
+
+### alignments:
+ - [Nola](https://pleiades.stoa.org/places/432981)
+
+
 ## 11313009: Mount Calauros (Chalcidice)
 [https://resource.manto.unh.edu/11313009](https://resource.manto.unh.edu/11313009)  
 
@@ -3328,11 +3342,25 @@
  - [Shop with dwelling (VII.4.22)](https://pleiades.stoa.org/places/743364991)
 
 
+## 11320290: Nepet (Etruria)
+[https://resource.manto.unh.edu/11320290](https://resource.manto.unh.edu/11320290)  
+
+### alignments:
+ - [Nepet](https://pleiades.stoa.org/places/413224)
+
+
 ## 11320309: Baths of Caracalla (Rome)
 [https://resource.manto.unh.edu/11320309](https://resource.manto.unh.edu/11320309)  
 
 ### alignments:
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
+
+
+## 11321274: Tibur (Italy)
+[https://resource.manto.unh.edu/11321274](https://resource.manto.unh.edu/11321274)  
+
+### alignments:
+ - [Tibur](https://pleiades.stoa.org/places/423081)
 
 
 ## 11325955: the Roman Forum (Rome)
@@ -3375,6 +3403,27 @@
 
 ### alignments:
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
+## 11329647: the Temple of Apollo Sosianus at Rome
+[https://resource.manto.unh.edu/11329647](https://resource.manto.unh.edu/11329647)  
+
+### alignments:
+ - [Apollo, Aedes](https://pleiades.stoa.org/places/740034026)
+
+
+## 11329688: the Portico of Octavia (Rome)
+[https://resource.manto.unh.edu/11329688](https://resource.manto.unh.edu/11329688)  
+
+### alignments:
+ - [Porticus Octaviae](https://pleiades.stoa.org/places/236573248)
+
+
+## 11329699: The Saepta Julia (Rome)
+[https://resource.manto.unh.edu/11329699](https://resource.manto.unh.edu/11329699)  
+
+### alignments:
+ - [Saepta Iulia](https://pleiades.stoa.org/places/854946506)
 
 
 ## 11329905: the Sanctuary of Venus Cloacina (Rome)

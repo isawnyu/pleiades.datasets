@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4839 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
+4846 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -5445,6 +5445,13 @@
  - [Babylon](https://pleiades.stoa.org/places/893951)
 
 
+## Baccanae (Latium)
+[https://topostext.org/place/421124UBac](https://topostext.org/place/421124UBac)  
+
+### alignments:
+ - [Baccanae](https://pleiades.stoa.org/places/413050)
+
+
 ## Bactra (Bactria)
 [https://topostext.org/place/368669UBac](https://topostext.org/place/368669UBac)  
 
@@ -9615,6 +9622,13 @@
  - [Edessa (Macedonia)](https://pleiades.stoa.org/places/491585)
 
 
+## Edessa (Syria) 88 Sanliurfa - Έδεσσα
+[https://topostext.org/place/371388UEde](https://topostext.org/place/371388UEde)  
+
+### alignments:
+ - [Edessa/Antiochia ad Callirhoem](https://pleiades.stoa.org/places/658457)
+
+
 ## Edeta/Lauro? (Iberia)
 [https://topostext.org/place/396-06UEde](https://topostext.org/place/396-06UEde)  
 
@@ -11030,6 +11044,13 @@
 
 ### alignments:
  - [Temple C](https://pleiades.stoa.org/places/820369856)
+
+
+## Fescennia (Latium)
+[https://topostext.org/place/422124UFes](https://topostext.org/place/422124UFes)  
+
+### alignments:
+ - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## Ficana (Latium)
@@ -25383,6 +25404,13 @@
  - [Klimataria](https://pleiades.stoa.org/places/962493324)
 
 
+## Pistoria (Etruria)
+[https://topostext.org/place/439109UPis](https://topostext.org/place/439109UPis)  
+
+### alignments:
+ - [Pistoriae](https://pleiades.stoa.org/places/403254)
+
+
 ## Pistyros (Kavala)
 [https://topostext.org/place/410246PPis](https://topostext.org/place/410246PPis)  
 
@@ -28294,6 +28322,13 @@
 
 ### alignments:
  - [Savo (river)](https://pleiades.stoa.org/places/433108)
+
+
+## Saxa Rubra (Latium)
+[https://topostext.org/place/420125USaR](https://topostext.org/place/420125USaR)  
+
+### alignments:
+ - [Saxa Rubra](https://pleiades.stoa.org/places/423061)
 
 
 ## Scalabis (Lusitania)
@@ -33194,6 +33229,20 @@
 
 ### alignments:
  - [Via Appia](https://pleiades.stoa.org/places/356966898)
+
+
+## Via Cassia (Italia)
+[https://topostext.org/place/425119BVCa](https://topostext.org/place/425119BVCa)  
+
+### alignments:
+ - [Via Cassia](https://pleiades.stoa.org/places/447759107)
+
+
+## Via Clodia (Italia)
+[https://topostext.org/place/423120BVCl](https://topostext.org/place/423120BVCl)  
+
+### alignments:
+ - [Via Clodia](https://pleiades.stoa.org/places/737328394)
 
 
 ## Via Egnatia (Macedonia)

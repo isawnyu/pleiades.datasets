@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10264 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
+10269 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1193,6 +1193,13 @@
  - [Agathyrnum](https://pleiades.stoa.org/places/462079)
 
 
+## Agbia amphitheatre (Q29002312)
+[https://www.wikidata.org/wiki/Q29002312](https://www.wikidata.org/wiki/Q29002312)  
+
+### alignments:
+ - [Agbia amphitheater](https://pleiades.stoa.org/places/614847258)
+
+
 ## Ager Faliscus (Q2827224)
 [https://www.wikidata.org/wiki/Q2827224](https://www.wikidata.org/wiki/Q2827224)  
 
@@ -1885,6 +1892,13 @@
 
 ### alignments:
  - [Albaniana](https://pleiades.stoa.org/places/98908)
+
+
+## Albanus mons (Pauly-Wissowa) (Q19984384)
+[https://www.wikidata.org/wiki/Q19984384](https://www.wikidata.org/wiki/Q19984384)  
+
+### alignments:
+ - [Albanus M.](https://pleiades.stoa.org/places/422826)
 
 
 ## Albegna (Q1223308)
@@ -6262,6 +6276,13 @@
 
 ### alignments:
  - [Aballo](https://pleiades.stoa.org/places/177427)
+
+
+## Avanzi della Villa di M. Bruto a Tivoli (Q76335336)
+[https://www.wikidata.org/wiki/Q76335336](https://www.wikidata.org/wiki/Q76335336)  
+
+### alignments:
+ - [Bruto e Pisoni](https://pleiades.stoa.org/places/422853)
 
 
 ## Avaricum (Q281826)
@@ -11133,6 +11154,13 @@
 
 ### alignments:
  - [Balsignano](https://pleiades.stoa.org/places/588233703)
+
+
+## Casale Ghella villa (Q133255368)
+[https://www.wikidata.org/wiki/Q133255368](https://www.wikidata.org/wiki/Q133255368)  
+
+### alignments:
+ - [Villa di Casale Ghella](https://pleiades.stoa.org/places/576118704)
 
 
 ## Casale Monferrato (Q16333)
@@ -17377,6 +17405,13 @@
  - [Ecobrogis/Eccobriga](https://pleiades.stoa.org/places/619153)
 
 
+## Edessa (Q1190403)
+[https://www.wikidata.org/wiki/Q1190403](https://www.wikidata.org/wiki/Q1190403)  
+
+### alignments:
+ - [Edessa/Antiochia ad Callirhoem](https://pleiades.stoa.org/places/658457)
+
+
 ## Edessa (Q38281331)
 [https://www.wikidata.org/wiki/Q38281331](https://www.wikidata.org/wiki/Q38281331)  
 
@@ -19162,6 +19197,13 @@
 
 ### alignments:
  - [Roman Forum at Syracuse](https://pleiades.stoa.org/places/649857186)
+
+
+## Forre di Corchiano (Q56258482)
+[https://www.wikidata.org/wiki/Q56258482](https://www.wikidata.org/wiki/Q56258482)  
+
+### alignments:
+ - [Forre di Corchiano](https://pleiades.stoa.org/places/104240046)
 
 
 ## Fort de Brescou (Q1438844)
@@ -31835,6 +31877,13 @@
  - [Monte Catria](https://pleiades.stoa.org/places/803636721)
 
 
+## Monte Cavo (Q1729630)
+[https://www.wikidata.org/wiki/Q1729630](https://www.wikidata.org/wiki/Q1729630)  
+
+### alignments:
+ - [Albanus M.](https://pleiades.stoa.org/places/422826)
+
+
 ## Monte Colma (Q3861465)
 [https://www.wikidata.org/wiki/Q3861465](https://www.wikidata.org/wiki/Q3861465)  
 
@@ -32043,6 +32092,13 @@
 
 ### alignments:
  - [Corviano](https://pleiades.stoa.org/places/497584594)
+
+
+## Monumento naturale Forre di Corchiano (Q61890584)
+[https://www.wikidata.org/wiki/Q61890584](https://www.wikidata.org/wiki/Q61890584)  
+
+### alignments:
+ - [Forre di Corchiano](https://pleiades.stoa.org/places/104240046)
 
 
 ## Mopsium (Q16608983)
@@ -33697,6 +33753,13 @@
  - [Nuceria](https://pleiades.stoa.org/places/413227)
 
 
+## Nola (Q72288)
+[https://www.wikidata.org/wiki/Q72288](https://www.wikidata.org/wiki/Q72288)  
+
+### alignments:
+ - [Nola](https://pleiades.stoa.org/places/432981)
+
+
 ## Nome 14 of Lower Egypt (Q11929802)
 [https://www.wikidata.org/wiki/Q11929802](https://www.wikidata.org/wiki/Q11929802)  
 
@@ -34374,6 +34437,13 @@
 
 ### alignments:
  - [[Nuzi]](https://pleiades.stoa.org/places/894054)
+
+
+## Nymphaeum of Alexander Severus (Q3877101)
+[https://www.wikidata.org/wiki/Q3877101](https://www.wikidata.org/wiki/Q3877101)  
+
+### alignments:
+ - [Nymphaeum divi Alexandri](https://pleiades.stoa.org/places/402082165)
 
 
 ## Nymphaeum of Paris (Q131909922)
@@ -37660,6 +37730,13 @@
  - [Pistoriae](https://pleiades.stoa.org/places/403254)
 
 
+## Pistoria (Q134350654)
+[https://www.wikidata.org/wiki/Q134350654](https://www.wikidata.org/wiki/Q134350654)  
+
+### alignments:
+ - [Pistoriae](https://pleiades.stoa.org/places/403254)
+
+
 ## Pistyros (Q1356251)
 [https://www.wikidata.org/wiki/Q1356251](https://www.wikidata.org/wiki/Q1356251)  
 
@@ -38792,6 +38869,13 @@
 
 ### alignments:
  - [Porticus Minucia](https://pleiades.stoa.org/places/698151983)
+
+
+## Porticus Octaviae (Q1241207)
+[https://www.wikidata.org/wiki/Q1241207](https://www.wikidata.org/wiki/Q1241207)  
+
+### alignments:
+ - [Porticus Octaviae](https://pleiades.stoa.org/places/236573248)
 
 
 ## Porticus of Livia (Q911539)
@@ -41645,13 +41729,6 @@
  - [Forum Holitorium](https://pleiades.stoa.org/places/72845305)
 
 
-## Q1241207: Porticus Octaviae
-[https://www.wikidata.org/wiki/Q1241207](https://www.wikidata.org/wiki/Q1241207)  
-
-### alignments:
- - [Porticus Octaviae](https://pleiades.stoa.org/places/236573248)
-
-
 ## Q1241254: Derventio
 [https://www.wikidata.org/wiki/Q1241254](https://www.wikidata.org/wiki/Q1241254)  
 
@@ -42424,13 +42501,6 @@
  - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
 
 
-## Q133118: Şanlıurfa
-[https://www.wikidata.org/wiki/Q133118](https://www.wikidata.org/wiki/Q133118)  
-
-### alignments:
- - [Edessa/Antiochia ad Callirhoem](https://pleiades.stoa.org/places/658457)
-
-
 ## Q133123: Patras
 [https://www.wikidata.org/wiki/Q133123](https://www.wikidata.org/wiki/Q133123)  
 
@@ -42443,13 +42513,6 @@
 
 ### alignments:
  - [Acesinus? (river)](https://pleiades.stoa.org/places/226505)
-
-
-## Q133255368
-[https://www.wikidata.org/wiki/Q133255368](https://www.wikidata.org/wiki/Q133255368)  
-
-### alignments:
- - [Villa di Casale Ghella](https://pleiades.stoa.org/places/576118704)
 
 
 ## Q133286627
@@ -42898,6 +42961,13 @@
 
 ### alignments:
  - [Terravecchia di Cuti](https://pleiades.stoa.org/places/462509)
+
+
+## Q138381941
+[https://www.wikidata.org/wiki/Q138381941](https://www.wikidata.org/wiki/Q138381941)  
+
+### alignments:
+ - [Monumenti Funerari Romani](https://pleiades.stoa.org/places/732333582)
 
 
 ## Q1385554: Plestia
@@ -44414,13 +44484,6 @@
  - [Karakuş Tumulus](https://pleiades.stoa.org/places/658501)
 
 
-## Q1729630: Monte Cavo
-[https://www.wikidata.org/wiki/Q1729630](https://www.wikidata.org/wiki/Q1729630)  
-
-### alignments:
- - [Albanus M.](https://pleiades.stoa.org/places/422826)
-
-
 ## Q1729714: San Saba
 [https://www.wikidata.org/wiki/Q1729714](https://www.wikidata.org/wiki/Q1729714)  
 
@@ -45645,13 +45708,6 @@
 
 ### alignments:
  - [[Orcla]](https://pleiades.stoa.org/places/413233)
-
-
-## Q19984384: Albanus mons (Pauly-Wissowa)
-[https://www.wikidata.org/wiki/Q19984384](https://www.wikidata.org/wiki/Q19984384)  
-
-### alignments:
- - [Albanus M.](https://pleiades.stoa.org/places/422826)
 
 
 ## Q19987076
@@ -48163,13 +48219,6 @@
  - [Meninx amphitheater](https://pleiades.stoa.org/places/80154394)
 
 
-## Q29002312: Agbia amphitheatre
-[https://www.wikidata.org/wiki/Q29002312](https://www.wikidata.org/wiki/Q29002312)  
-
-### alignments:
- - [Agbia amphitheater](https://pleiades.stoa.org/places/614847258)
-
-
 ## Q29002313: Avitta Bibba amphitheatre
 [https://www.wikidata.org/wiki/Q29002313](https://www.wikidata.org/wiki/Q29002313)  
 
@@ -49564,13 +49613,6 @@
  - [Catacomb of SS. Paul and Agatha](https://pleiades.stoa.org/places/399911222)
 
 
-## Q3663204: San Senatore catacombs
-[https://www.wikidata.org/wiki/Q3663204](https://www.wikidata.org/wiki/Q3663204)  
-
-### alignments:
- - [Catacombs of San Senatore](https://pleiades.stoa.org/places/789855015)
-
-
 ## Q3663213
 [https://www.wikidata.org/wiki/Q3663213](https://www.wikidata.org/wiki/Q3663213)  
 
@@ -50025,13 +50067,6 @@
 
 ### alignments:
  - [Sena (river)](https://pleiades.stoa.org/places/413309)
-
-
-## Q3877101: Nymphaeum of Alexander Severus
-[https://www.wikidata.org/wiki/Q3877101](https://www.wikidata.org/wiki/Q3877101)  
-
-### alignments:
- - [Nymphaeum divi Alexandri](https://pleiades.stoa.org/places/402082165)
 
 
 ## Q3880770: Ocriticum
@@ -50558,13 +50593,6 @@
 
 ### alignments:
  - [Varignano Vecchio](https://pleiades.stoa.org/places/362185575)
-
-
-## Q4012801: Roman villa of Mura di Santo Stefano
-[https://www.wikidata.org/wiki/Q4012801](https://www.wikidata.org/wiki/Q4012801)  
-
-### alignments:
- - [Mura di S. Stefano](https://pleiades.stoa.org/places/432975)
 
 
 ## Q4012808: Roman villa of Marsicovetere
@@ -51969,13 +51997,6 @@
  - [Poggio Murella](https://pleiades.stoa.org/places/497311598)
 
 
-## Q56258482: Forre di Corchiano
-[https://www.wikidata.org/wiki/Q56258482](https://www.wikidata.org/wiki/Q56258482)  
-
-### alignments:
- - [Forre di Corchiano](https://pleiades.stoa.org/places/104240046)
-
-
 ## Q56258623: Mura Serviane
 [https://www.wikidata.org/wiki/Q56258623](https://www.wikidata.org/wiki/Q56258623)  
 
@@ -52100,13 +52121,6 @@
 
 ### alignments:
  - [Whitemoss Roman auxiliary fort](https://pleiades.stoa.org/places/933587195)
-
-
-## Q56682405: Tomb of the Plautii
-[https://www.wikidata.org/wiki/Q56682405](https://www.wikidata.org/wiki/Q56682405)  
-
-### alignments:
- - [Sep. Plautii](https://pleiades.stoa.org/places/423066)
 
 
 ## Q56760760: Tritaea (Achaea)
@@ -52914,13 +52928,6 @@
  - [Helena (island)](https://pleiades.stoa.org/places/579945)
 
 
-## Q61890584: Monumento naturale Forre di Corchiano
-[https://www.wikidata.org/wiki/Q61890584](https://www.wikidata.org/wiki/Q61890584)  
-
-### alignments:
- - [Forre di Corchiano](https://pleiades.stoa.org/places/104240046)
-
-
 ## Q61890932: Dema Wall
 [https://www.wikidata.org/wiki/Q61890932](https://www.wikidata.org/wiki/Q61890932)  
 
@@ -53712,13 +53719,6 @@
  - [Lepti Minus](https://pleiades.stoa.org/places/324767)
 
 
-## Q692488: Via Clodia
-[https://www.wikidata.org/wiki/Q692488](https://www.wikidata.org/wiki/Q692488)  
-
-### alignments:
- - [Via Clodia](https://pleiades.stoa.org/places/737328394)
-
-
 ## Q6935822: Mundigak
 [https://www.wikidata.org/wiki/Q6935822](https://www.wikidata.org/wiki/Q6935822)  
 
@@ -53871,13 +53871,6 @@
 
 ### alignments:
  - [Segura](https://pleiades.stoa.org/places/256441)
-
-
-## Q72288: Nola
-[https://www.wikidata.org/wiki/Q72288](https://www.wikidata.org/wiki/Q72288)  
-
-### alignments:
- - [Nola](https://pleiades.stoa.org/places/432981)
 
 
 ## Q72425: Pozzuoli
@@ -54130,13 +54123,6 @@
 
 ### alignments:
  - [Suburban Baths](https://pleiades.stoa.org/places/973204925)
-
-
-## Q76335336: Avanzi della Villa di M. Bruto a Tivoli
-[https://www.wikidata.org/wiki/Q76335336](https://www.wikidata.org/wiki/Q76335336)  
-
-### alignments:
- - [Bruto e Pisoni](https://pleiades.stoa.org/places/422853)
 
 
 ## Q766840: Juvanum
@@ -57780,6 +57766,13 @@
  - [Durley Hill](https://pleiades.stoa.org/places/847419768)
 
 
+## Roman villa of Mura di Santo Stefano (Q4012801)
+[https://www.wikidata.org/wiki/Q4012801](https://www.wikidata.org/wiki/Q4012801)  
+
+### alignments:
+ - [Mura di S. Stefano](https://pleiades.stoa.org/places/432975)
+
+
 ## Roman villa of Ossaia (Q115813258)
 [https://www.wikidata.org/wiki/Q115813258](https://www.wikidata.org/wiki/Q115813258)  
 
@@ -58914,6 +58907,13 @@
  - [S. Sebastianus](https://pleiades.stoa.org/places/423056)
 
 
+## San Senatore catacombs (Q3663204)
+[https://www.wikidata.org/wiki/Q3663204](https://www.wikidata.org/wiki/Q3663204)  
+
+### alignments:
+ - [Catacombs of San Senatore](https://pleiades.stoa.org/places/789855015)
+
+
 ## San Stino di Livenza (Q47215)
 [https://www.wikidata.org/wiki/Q47215](https://www.wikidata.org/wiki/Q47215)  
 
@@ -59339,6 +59339,13 @@
 
 ### alignments:
  - [Santa Maria dell'Orto](https://pleiades.stoa.org/places/625199888)
+
+
+## Santa Maria di Falleri (Q1689149)
+[https://www.wikidata.org/wiki/Q1689149](https://www.wikidata.org/wiki/Q1689149)  
+
+### alignments:
+ - [Abbazia di Santa Maria di Falleri](https://pleiades.stoa.org/places/380284185)
 
 
 ## Santa Maria di Galeria (Q666382)
@@ -66295,6 +66302,13 @@
  - [Tomb of the Lollii](https://pleiades.stoa.org/places/477129965)
 
 
+## Tomb of the Plautii (Q56682405)
+[https://www.wikidata.org/wiki/Q56682405](https://www.wikidata.org/wiki/Q56682405)  
+
+### alignments:
+ - [Sep. Plautii](https://pleiades.stoa.org/places/423066)
+
+
 ## Tomb of the Roaring Lions (Q3531109)
 [https://www.wikidata.org/wiki/Q3531109](https://www.wikidata.org/wiki/Q3531109)  
 
@@ -69235,6 +69249,13 @@
  - [Via Claudia Nova](https://pleiades.stoa.org/places/926033983)
 
 
+## Via Clodia (Q692488)
+[https://www.wikidata.org/wiki/Q692488](https://www.wikidata.org/wiki/Q692488)  
+
+### alignments:
+ - [Via Clodia](https://pleiades.stoa.org/places/737328394)
+
+
 ## Via Collatina (Q3556490)
 [https://www.wikidata.org/wiki/Q3556490](https://www.wikidata.org/wiki/Q3556490)  
 
@@ -69822,6 +69843,13 @@
 
 ### alignments:
  - [Monte Gentili](https://pleiades.stoa.org/places/178764324)
+
+
+## Villa of Brutus (Q117794756)
+[https://www.wikidata.org/wiki/Q117794756](https://www.wikidata.org/wiki/Q117794756)  
+
+### alignments:
+ - [Bruto e Pisoni](https://pleiades.stoa.org/places/422853)
 
 
 ## Villa of Caesar and Maxentius at San Cesareo (Q131364669)
@@ -71874,6 +71902,13 @@
 
 ### alignments:
  - [Łęg Piekarski](https://pleiades.stoa.org/places/20521)
+
+
+## Şanlıurfa (Q133118)
+[https://www.wikidata.org/wiki/Q133118](https://www.wikidata.org/wiki/Q133118)  
+
+### alignments:
+ - [Edessa/Antiochia ad Callirhoem](https://pleiades.stoa.org/places/658457)
 
 
 ## Šitbořice (Q391753)

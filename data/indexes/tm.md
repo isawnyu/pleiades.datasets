@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4915 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
+4917 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14981,6 +14981,13 @@
  - [Noviodunum](https://pleiades.stoa.org/places/216900)
 
 
+## GEO ID 30015: Vicus Secundini
+[https://www.trismegistos.org/place/30015](https://www.trismegistos.org/place/30015)  
+
+### alignments:
+ - [Vicus Secundini](https://pleiades.stoa.org/places/222241)
+
+
 ## GEO ID 30019: Arrubium (Măcin)
 [https://www.trismegistos.org/place/30019](https://www.trismegistos.org/place/30019)  
 
@@ -22381,6 +22388,13 @@
 
 ### alignments:
  - [Ad Aesim](https://pleiades.stoa.org/places/412988)
+
+
+## GEO ID 40820: Clodiana (Mafmutaga)
+[https://www.trismegistos.org/place/40820](https://www.trismegistos.org/place/40820)  
+
+### alignments:
+ - [Clodiana](https://pleiades.stoa.org/places/481793)
 
 
 ## GEO ID 40822: Tres Tabernae

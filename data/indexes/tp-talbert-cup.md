@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2313 alignments exist in _Pleiades_ place references as of 2026-02-20. The following list of alignments is grouped by zotkey.
+2316 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -930,6 +930,13 @@
 
 ### alignments:
  - [Zeugma](https://pleiades.stoa.org/places/658636)
+
+
+## 10C3 (Talbert 2642)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2642.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2642.html)  
+
+### alignments:
+ - [Dabana/Tharrana/Mannouorra](https://pleiades.stoa.org/places/658448)
 
 
 ## 10C3 (Talbert 2652)
@@ -10557,6 +10564,13 @@
  - [Scupi](https://pleiades.stoa.org/places/481987)
 
 
+## 6A3 (Talbert 1842)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1842.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1842.html)  
+
+### alignments:
+ - [Clodiana](https://pleiades.stoa.org/places/481793)
+
+
 ## 6A3 (Talbert 1852)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1852.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1852.html)  
 
@@ -16178,6 +16192,13 @@
 
 ### alignments:
  - [Palmyra](https://pleiades.stoa.org/places/668331)
+
+
+## Ad Sextvm (Talbert 1224)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1224.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1224.html)  
+
+### alignments:
+ - [Via Clodia](https://pleiades.stoa.org/places/737328394)
 
 
 ## 
