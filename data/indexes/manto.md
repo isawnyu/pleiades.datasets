@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-836 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
+853 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2634,6 +2634,20 @@
  - [Prusias ad Mare/Kios](https://pleiades.stoa.org/places/511385)
 
 
+## 11302148: Acherousias Promontory (Pontos)
+[https://resource.manto.unh.edu/11302148](https://resource.manto.unh.edu/11302148)  
+
+### alignments:
+ - [Acherousias Pr.](https://pleiades.stoa.org/places/844849)
+
+
+## 11302399: Acmonia (Asia Minor)
+[https://resource.manto.unh.edu/11302399](https://resource.manto.unh.edu/11302399)  
+
+### alignments:
+ - [Akmonia](https://pleiades.stoa.org/places/609293)
+
+
 ## 11302746: the House of Cacios (Rome)
 [https://resource.manto.unh.edu/11302746](https://resource.manto.unh.edu/11302746)  
 
@@ -3104,6 +3118,13 @@
  - [Troikon Oros](https://pleiades.stoa.org/places/737096)
 
 
+## 11310457: Abydos (Egypt)
+[https://resource.manto.unh.edu/11310457](https://resource.manto.unh.edu/11310457)  
+
+### alignments:
+ - [Abydos/Ebot](https://pleiades.stoa.org/places/756512)
+
+
 ## 11310538: River Limaia (Iberia)
 [https://resource.manto.unh.edu/11310538](https://resource.manto.unh.edu/11310538)  
 
@@ -3116,6 +3137,20 @@
 
 ### alignments:
  - [Campania](https://pleiades.stoa.org/places/432742)
+
+
+## 11310924: Abatos (Egypt)
+[https://resource.manto.unh.edu/11310924](https://resource.manto.unh.edu/11310924)  
+
+### alignments:
+ - [Abaton](https://pleiades.stoa.org/places/785957)
+
+
+## 11311061: Acharaca (Asia Minor)
+[https://resource.manto.unh.edu/11311061](https://resource.manto.unh.edu/11311061)  
+
+### alignments:
+ - [Acharaka](https://pleiades.stoa.org/places/599472)
 
 
 ## 11311160: the Chasm of Chimaira (Lycia)
@@ -3153,6 +3188,13 @@
  - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
 
 
+## 11312062: Acrai (Sicily)
+[https://resource.manto.unh.edu/11312062](https://resource.manto.unh.edu/11312062)  
+
+### alignments:
+ - [Acrae](https://pleiades.stoa.org/places/462068)
+
+
 ## 11312457: Ophryneion (Troad)
 [https://resource.manto.unh.edu/11312457](https://resource.manto.unh.edu/11312457)  
 
@@ -3172,6 +3214,27 @@
 
 ### alignments:
  - [Kalauros (mountain)](https://pleiades.stoa.org/places/555396520)
+
+
+## 11313161: Achaiion (Troad)
+[https://resource.manto.unh.edu/11313161](https://resource.manto.unh.edu/11313161)  
+
+### alignments:
+ - [Achaiion](https://pleiades.stoa.org/places/550398)
+
+
+## 11313195: Achilleion (Troad)
+[https://resource.manto.unh.edu/11313195](https://resource.manto.unh.edu/11313195)  
+
+### alignments:
+ - [Achilleion](https://pleiades.stoa.org/places/550401)
+
+
+## 11313460: the Harbor of the Achaians (Aiolia)
+[https://resource.manto.unh.edu/11313460](https://resource.manto.unh.edu/11313460)  
+
+### alignments:
+ - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
 ## 11313573: Pisa (Italy)
@@ -3258,6 +3321,13 @@
  - [Aedes Apollinis Palatini](https://pleiades.stoa.org/places/257097394)
 
 
+## 11313925: Administrative Building (Tel Kedesh)
+[https://resource.manto.unh.edu/11313925](https://resource.manto.unh.edu/11313925)  
+
+### alignments:
+ - [Persian and Hellenistic Administrative Building (PHAB), Tel Kedesh](https://pleiades.stoa.org/places/937106860)
+
+
 ## 11314863: Luceria (Italy)
 [https://resource.manto.unh.edu/11314863](https://resource.manto.unh.edu/11314863)  
 
@@ -3272,11 +3342,39 @@
  - [Leuca/Portus Sallentinus](https://pleiades.stoa.org/places/442632)
 
 
+## 11314964: Achaia (Pontos)
+[https://resource.manto.unh.edu/11314964](https://resource.manto.unh.edu/11314964)  
+
+### alignments:
+ - [Achaia (region)](https://pleiades.stoa.org/places/825220)
+
+
+## 11314988: Acilisene (Caucasia)
+[https://resource.manto.unh.edu/11314988](https://resource.manto.unh.edu/11314988)  
+
+### alignments:
+ - [Akilisene (region)](https://pleiades.stoa.org/places/874310)
+
+
+## 11314991: Adiabene (Caucasia)
+[https://resource.manto.unh.edu/11314991](https://resource.manto.unh.edu/11314991)  
+
+### alignments:
+ - [Adiabene](https://pleiades.stoa.org/places/893935)
+
+
 ## 11315307: Rhaicalos (Chalcidice)
 [https://resource.manto.unh.edu/11315307](https://resource.manto.unh.edu/11315307)  
 
 ### alignments:
  - [Rhaikelos](https://pleiades.stoa.org/places/491712)
+
+
+## 11315328: Lake Fucinus (Italy)
+[https://resource.manto.unh.edu/11315328](https://resource.manto.unh.edu/11315328)  
+
+### alignments:
+ - [Fucinus (lake)](https://pleiades.stoa.org/places/432853)
 
 
 ## 11315475: River Anio (Italy)
@@ -3363,6 +3461,20 @@
  - [Tibur](https://pleiades.stoa.org/places/423081)
 
 
+## 11324108: Acte (Chalcidice)
+[https://resource.manto.unh.edu/11324108](https://resource.manto.unh.edu/11324108)  
+
+### alignments:
+ - [Athos/Akte (peninsula)](https://pleiades.stoa.org/places/501365)
+
+
+## 11325840: Actium (Epeiros)
+[https://resource.manto.unh.edu/11325840](https://resource.manto.unh.edu/11325840)  
+
+### alignments:
+ - [Actium](https://pleiades.stoa.org/places/530771)
+
+
 ## 11325955: the Roman Forum (Rome)
 [https://resource.manto.unh.edu/11325955](https://resource.manto.unh.edu/11325955)  
 
@@ -3396,6 +3508,13 @@
 
 ### alignments:
  - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
+
+
+## 11329378: Cape Apollo (N. Africa)?
+[https://resource.manto.unh.edu/11329378](https://resource.manto.unh.edu/11329378)  
+
+### alignments:
+ - [Pulchri/Apollinis Pr.](https://pleiades.stoa.org/places/315120)
 
 
 ## 11329379: Cape Hermaia (N. Africa)

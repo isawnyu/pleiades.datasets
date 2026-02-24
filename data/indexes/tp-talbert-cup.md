@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2316 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
+2317 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -14715,6 +14715,13 @@
 
 ### alignments:
  - [Hermonassa](https://pleiades.stoa.org/places/854687)
+
+
+## 9A1 (Talbert 2831)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2831.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2831.html)  
+
+### alignments:
+ - [Achaia (region)](https://pleiades.stoa.org/places/825220)
 
 
 ## 9A1-9A3 (Talbert 3178)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4846 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
+4850 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -332,6 +332,13 @@
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
+## Acharaca (Lydia) 5 Salavatlı
+[https://topostext.org/place/379281UAch](https://topostext.org/place/379281UAch)  
+
+### alignments:
+ - [Acharaka](https://pleiades.stoa.org/places/599472)
+
+
 ## Acharna (Crete)  Arkhanes - Αχάρνα
 [https://topostext.org/place/352252UAch](https://topostext.org/place/352252UAch)  
 
@@ -372,6 +379,13 @@
 
 ### alignments:
  - [Acheron (river)](https://pleiades.stoa.org/places/530769)
+
+
+## Acherousia (Pontus) 6 Baba Burun
+[https://topostext.org/place/413314LAch](https://topostext.org/place/413314LAch)  
+
+### alignments:
+ - [Acherousias Pr.](https://pleiades.stoa.org/places/844849)
 
 
 ## Acherusia (Preveza) 34 Kastri dry lake - Αχερουσία λίμνη
@@ -428,6 +442,13 @@
 
 ### alignments:
  - [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
+
+
+## Acilisene (Armenia)
+[https://topostext.org/place/395393RAci](https://topostext.org/place/395393RAci)  
+
+### alignments:
+ - [Akilisene (region)](https://pleiades.stoa.org/places/874310)
 
 
 ## Acinippo/Acinipo (Iberia)
@@ -505,6 +526,13 @@
 
 ### alignments:
  - [Adana/Antiochia ad Sarum](https://pleiades.stoa.org/places/648548)
+
+
+## Adiabene (Asia) 79 Irbil - Αδιαβηνή
+[https://topostext.org/place/360440RAdi](https://topostext.org/place/360440RAdi)  
+
+### alignments:
+ - [Adiabene](https://pleiades.stoa.org/places/893935)
 
 
 ## Adonis river (Phoenicia)
@@ -11281,7 +11309,7 @@
 [https://topostext.org/place/420135WFuc](https://topostext.org/place/420135WFuc)  
 
 ### alignments:
- - [Fucinus L.](https://pleiades.stoa.org/places/432853)
+ - [Fucinus (lake)](https://pleiades.stoa.org/places/432853)
 
 
 ## Fundi (Italy)

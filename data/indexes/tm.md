@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4917 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
+4918 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1449,13 +1449,6 @@
 
 ### alignments:
  - [Kallipolis](https://pleiades.stoa.org/places/540849)
-
-
-## Geo 37621: Aktion
-[https://www.trismegistos.org/place/37621](https://www.trismegistos.org/place/37621)  
-
-### alignments:
- - [Actium](https://pleiades.stoa.org/places/530771)
 
 
 ## Geo 37641: Palairos
@@ -20190,6 +20183,13 @@
  - [Poteidania](https://pleiades.stoa.org/places/541069)
 
 
+## GEO ID 37621: Aktion
+[https://www.trismegistos.org/place/37621](https://www.trismegistos.org/place/37621)  
+
+### alignments:
+ - [Actium](https://pleiades.stoa.org/places/530771)
+
+
 ## GEO ID 37622: Alyzeia (Kandila)
 [https://www.trismegistos.org/place/37622](https://www.trismegistos.org/place/37622)  
 
@@ -25547,6 +25547,13 @@
  - [Khirbet Zikhrin](https://pleiades.stoa.org/places/687871)
 
 
+## GEO ID 42064: Achaia
+[https://www.trismegistos.org/place/42064](https://www.trismegistos.org/place/42064)  
+
+### alignments:
+ - [Achaia (region)](https://pleiades.stoa.org/places/825220)
+
+
 ## GEO ID 42066: Psessoi
 [https://www.trismegistos.org/place/42066](https://www.trismegistos.org/place/42066)  
 
@@ -27981,7 +27988,7 @@
 [http://www.trismegistos.org/place/43657](http://www.trismegistos.org/place/43657)  
 
 ### alignments:
- - [Fucinus L.](https://pleiades.stoa.org/places/432853)
+ - [Fucinus (lake)](https://pleiades.stoa.org/places/432853)
 
 
 ## GEO ID 4366: Resculum (Bologa)

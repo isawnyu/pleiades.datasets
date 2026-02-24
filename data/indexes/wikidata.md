@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10269 alignments exist in _Pleiades_ place references as of 2026-02-23. The following list of alignments is grouped by zotkey.
+10275 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -534,6 +534,13 @@
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
+## Acharaca (Q12874234)
+[https://www.wikidata.org/wiki/Q12874234](https://www.wikidata.org/wiki/Q12874234)  
+
+### alignments:
+ - [Acharaka](https://pleiades.stoa.org/places/599472)
+
+
 ## Acharna (Q65121499)
 [https://www.wikidata.org/wiki/Q65121499](https://www.wikidata.org/wiki/Q65121499)  
 
@@ -609,6 +616,13 @@
 
 ### alignments:
  - [Ackling Dyke](https://pleiades.stoa.org/places/385106254)
+
+
+## Acmonia (Q19753378)
+[https://www.wikidata.org/wiki/Q19753378](https://www.wikidata.org/wiki/Q19753378)  
+
+### alignments:
+ - [Akmonia](https://pleiades.stoa.org/places/609293)
 
 
 ## Acontium (Q39081791)
@@ -883,6 +897,13 @@
 
 ### alignments:
  - [Adane/Athenae/Eudaimon Arabia](https://pleiades.stoa.org/places/39269)
+
+
+## Adiabene (Q4682638)
+[https://www.wikidata.org/wiki/Q4682638](https://www.wikidata.org/wiki/Q4682638)  
+
+### alignments:
+ - [Adiabene](https://pleiades.stoa.org/places/893935)
 
 
 ## Adoreus (Q130494112)
@@ -1682,6 +1703,20 @@
 
 ### alignments:
  - [Akra](https://pleiades.stoa.org/places/59666)
+
+
+## Akrai (Q3607385)
+[https://www.wikidata.org/wiki/Q3607385](https://www.wikidata.org/wiki/Q3607385)  
+
+### alignments:
+ - [Acrae](https://pleiades.stoa.org/places/462068)
+
+
+## Akri (Q216551)
+[https://www.wikidata.org/wiki/Q216551](https://www.wikidata.org/wiki/Q216551)  
+
+### alignments:
+ - [Actium](https://pleiades.stoa.org/places/530771)
 
 
 ## Akrillai (Q3607386)
@@ -10531,6 +10566,13 @@
 
 ### alignments:
  - [Sarpedon (promontory in Thrace)](https://pleiades.stoa.org/places/501602)
+
+
+## Cape Farina (Q3483179)
+[https://www.wikidata.org/wiki/Q3483179](https://www.wikidata.org/wiki/Q3483179)  
+
+### alignments:
+ - [Pulchri/Apollinis Pr.](https://pleiades.stoa.org/places/315120)
 
 
 ## Cape Feno (Q2388186)
@@ -19637,7 +19679,7 @@
 [https://www.wikidata.org/wiki/Q914789](https://www.wikidata.org/wiki/Q914789)  
 
 ### alignments:
- - [Fucinus L.](https://pleiades.stoa.org/places/432853)
+ - [Fucinus (lake)](https://pleiades.stoa.org/places/432853)
 
 
 ## Fuencaliente (Q1632151)
