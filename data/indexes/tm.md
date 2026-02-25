@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4918 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
+4921 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -25932,6 +25932,13 @@
  - [Incomacenis](https://pleiades.stoa.org/places/674573403)
 
 
+## GEO ID 42216: Simitta
+[https://www.trismegistos.org/place/42216](https://www.trismegistos.org/place/42216)  
+
+### alignments:
+ - [Simitta](https://pleiades.stoa.org/places/89357020)
+
+
 ## GEO ID 42227: Araxes (Aras)
 [https://www.trismegistos.org/place/42227](https://www.trismegistos.org/place/42227)  
 
@@ -25951,6 +25958,13 @@
 
 ### alignments:
  - [Fines exercitus Syriaticae](https://pleiades.stoa.org/places/744920218)
+
+
+## GEO ID 42238: Thelbon
+[https://www.trismegistos.org/place/42238](https://www.trismegistos.org/place/42238)  
+
+### alignments:
+ - [Thelbon](https://pleiades.stoa.org/places/113385788)
 
 
 ## GEO ID 42248: Abara
@@ -28733,6 +28747,13 @@
 
 ### alignments:
  - [Thinodes Oros](https://pleiades.stoa.org/places/776233)
+
+
+## GEO ID 44948: Porticus Philippi
+[https://www.trismegistos.org/place/44948](https://www.trismegistos.org/place/44948)  
+
+### alignments:
+ - [Porticus Philippi](https://pleiades.stoa.org/places/346055018)
 
 
 ## GEO ID 44953: Martenses

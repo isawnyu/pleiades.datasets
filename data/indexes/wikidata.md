@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10275 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
+10283 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4987,6 +4987,13 @@
 
 ### alignments:
  - [House of Argus](https://pleiades.stoa.org/places/77858278)
+
+
+## Argolid Peninsula (Q25044670)
+[https://www.wikidata.org/wiki/Q25044670](https://www.wikidata.org/wiki/Q25044670)  
+
+### alignments:
+ - [Akte](https://pleiades.stoa.org/places/573068)
 
 
 ## Arguenon (Q2861062)
@@ -12596,6 +12603,13 @@
 
 ### alignments:
  - [S. Ippolito](https://pleiades.stoa.org/places/423045)
+
+
+## Catacomba di Santa Savinilla (Q17624209)
+[https://www.wikidata.org/wiki/Q17624209](https://www.wikidata.org/wiki/Q17624209)  
+
+### alignments:
+ - [Santa Savinilla catacomb](https://pleiades.stoa.org/places/829121960)
 
 
 ## Catacombs of Generosa (Q3663195)
@@ -34467,6 +34481,13 @@
  - [Nusco](https://pleiades.stoa.org/places/442694)
 
 
+## Nuvlana amphitheatre (Q28978050)
+[https://www.wikidata.org/wiki/Q28978050](https://www.wikidata.org/wiki/Q28978050)  
+
+### alignments:
+ - [Anfiteatro laterizio](https://pleiades.stoa.org/places/356540351)
+
+
 ## Nuweiba (Q1011488)
 [https://www.wikidata.org/wiki/Q1011488](https://www.wikidata.org/wiki/Q1011488)  
 
@@ -38927,6 +38948,13 @@
  - [Porticus Liviae](https://pleiades.stoa.org/places/872004918)
 
 
+## Porticus Philippi (Q20009320)
+[https://www.wikidata.org/wiki/Q20009320](https://www.wikidata.org/wiki/Q20009320)  
+
+### alignments:
+ - [Porticus Philippi](https://pleiades.stoa.org/places/346055018)
+
+
 ## Porticus Vipsania (Q2430760)
 [https://www.wikidata.org/wiki/Q2430760](https://www.wikidata.org/wiki/Q2430760)  
 
@@ -40787,6 +40815,13 @@
 
 ### alignments:
  - [Castel Malnome (Ponte Galeria)](https://pleiades.stoa.org/places/133309568)
+
+
+## Q110205821
+[https://www.wikidata.org/wiki/Q110205821](https://www.wikidata.org/wiki/Q110205821)  
+
+### alignments:
+ - [Castello di Filissano](https://pleiades.stoa.org/places/372843333)
 
 
 ## Q110205848
@@ -57150,6 +57185,13 @@
  - [Case Romane del Celio](https://pleiades.stoa.org/places/445192365)
 
 
+## Roman Irchester (Q17647831)
+[http://www.wikidata.org/entity/Q17647831](http://www.wikidata.org/entity/Q17647831)  
+
+### alignments:
+ - [Irchester](https://pleiades.stoa.org/places/79530)
+
+
 ## Roman Italy (Q913582)
 [https://www.wikidata.org/wiki/Q913582](https://www.wikidata.org/wiki/Q913582)  
 
@@ -64110,6 +64152,13 @@
  - [Dionysos Bresagenes, T.](https://pleiades.stoa.org/places/550514)
 
 
+## Temple of Divus Augustus (Q7698723)
+[https://www.wikidata.org/wiki/Q7698723](https://www.wikidata.org/wiki/Q7698723)  
+
+### alignments:
+ - [Temple of Divus Augustus (Nola)](https://pleiades.stoa.org/places/961707395)
+
+
 ## Temple of Ellesyia (Q3517517)
 [https://www.wikidata.org/wiki/Q3517517](https://www.wikidata.org/wiki/Q3517517)  
 
@@ -67126,6 +67175,13 @@
 
 ### alignments:
  - [Turenum](https://pleiades.stoa.org/places/442833)
+
+
+## Tranupara (Q27940800)
+[https://www.wikidata.org/wiki/Q27940800](https://www.wikidata.org/wiki/Q27940800)  
+
+### alignments:
+ - [Tranupara](https://pleiades.stoa.org/places/482019)
 
 
 ## Trapeza Doric temple (Q38281916)

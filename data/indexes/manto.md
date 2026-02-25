@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-853 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
+854 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2919,6 +2919,13 @@
 
 ### alignments:
  - [Rhypes](https://pleiades.stoa.org/places/570647)
+
+
+## 11308550: Acte (Argolid)
+[https://resource.manto.unh.edu/11308550](https://resource.manto.unh.edu/11308550)  
+
+### alignments:
+ - [Akte](https://pleiades.stoa.org/places/573068)
 
 
 ## 11308628: Sminthe (Troad)

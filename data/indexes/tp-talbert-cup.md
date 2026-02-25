@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2317 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
+2320 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -540,11 +540,25 @@
  - [Resaina/Theodosiopolis](https://pleiades.stoa.org/places/874662)
 
 
+## 10B3 (Talbert 2630)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2630.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2630.html)  
+
+### alignments:
+ - [Simitta](https://pleiades.stoa.org/places/89357020)
+
+
 ## 10B3 (Talbert 2634)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2634.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2634.html)  
 
 ### alignments:
  - [Edessa/Antiochia ad Callirhoem](https://pleiades.stoa.org/places/658457)
+
+
+## 10B3 (Talbert 2651)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2651.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2651.html)  
+
+### alignments:
+ - [Hostra](https://pleiades.stoa.org/places/768670531)
 
 
 ## 10B3 (Talbert 3541)
@@ -930,6 +944,13 @@
 
 ### alignments:
  - [Zeugma](https://pleiades.stoa.org/places/658636)
+
+
+## 10C3 (Talbert 2628)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2628.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2628.html)  
+
+### alignments:
+ - [Thelbon](https://pleiades.stoa.org/places/113385788)
 
 
 ## 10C3 (Talbert 2642)

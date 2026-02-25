@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4850 alignments exist in _Pleiades_ place references as of 2026-02-24. The following list of alignments is grouped by zotkey.
+4853 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -4028,6 +4028,13 @@
 
 ### alignments:
  - [Argolicus Sinus](https://pleiades.stoa.org/places/570103)
+
+
+## Argolid Peninsula (Peloponnese)
+[https://topostext.org/place/376230LArg](https://topostext.org/place/376230LArg)  
+
+### alignments:
+ - [Akte](https://pleiades.stoa.org/places/573068)
 
 
 ## Argolid region (Peloponnese)
@@ -15989,6 +15996,13 @@
  - [Kisamos?](https://pleiades.stoa.org/places/589871)
 
 
+## Kissa (Pontus)
+[https://topostext.org/place/414414UKis](https://topostext.org/place/414414UKis)  
+
+### alignments:
+ - [Kissa](https://pleiades.stoa.org/places/857188)
+
+
 ## Kissos Mt. (Thessaloniki)
 [https://topostext.org/place/408233LKis](https://topostext.org/place/408233LKis)  
 
@@ -26622,6 +26636,13 @@
 
 ### alignments:
  - [Porticus Octaviae](https://pleiades.stoa.org/places/236573248)
+
+
+## Porticus Philippi (Rome)
+[https://topostext.org/place/419125BPPh](https://topostext.org/place/419125BPPh)  
+
+### alignments:
+ - [Porticus Philippi](https://pleiades.stoa.org/places/346055018)
 
 
 ## Portonaccio temple (Veii) Portonaccio
