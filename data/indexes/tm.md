@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4921 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
+4926 alignments exist in _Pleiades_ place references as of 2026-02-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -478,13 +478,6 @@
 
 ### alignments:
  - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
-
-
-## Geo 15798: Kerkyra
-[https://www.trismegistos.org/place/15798](https://www.trismegistos.org/place/15798)  
-
-### alignments:
- - [Corcyra (settlement)](https://pleiades.stoa.org/places/530834)
 
 
 ## Geo 15831: Doliche
@@ -7073,6 +7066,13 @@
 
 ### alignments:
  - [Lissus](https://pleiades.stoa.org/places/481896)
+
+
+## GEO ID 15798: Kerkyra
+[https://www.trismegistos.org/place/15798](https://www.trismegistos.org/place/15798)  
+
+### alignments:
+ - [Corcyra (settlement)](https://pleiades.stoa.org/places/530834)
 
 
 ## GEO ID 15799
@@ -25722,6 +25722,20 @@
  - [Sorvae/Zourzoua](https://pleiades.stoa.org/places/876706)
 
 
+## GEO ID 42145: Thallaba
+[https://www.trismegistos.org/place/42145](https://www.trismegistos.org/place/42145)  
+
+### alignments:
+ - [Thallaba](https://pleiades.stoa.org/places/876713)
+
+
+## GEO ID 42149: Thubida
+[https://www.trismegistos.org/place/42149](https://www.trismegistos.org/place/42149)  
+
+### alignments:
+ - [Thubida](https://pleiades.stoa.org/places/876727)
+
+
 ## GEO ID 42150: Trispeda (Ormi)
 [https://www.trismegistos.org/place/42150](https://www.trismegistos.org/place/42150)  
 
@@ -25776,6 +25790,13 @@
 
 ### alignments:
  - [Ctesiphon](https://pleiades.stoa.org/places/893976)
+
+
+## GEO ID 42162: Radani
+[https://www.trismegistos.org/place/42162](https://www.trismegistos.org/place/42162)  
+
+### alignments:
+ - [Radani (river)](https://pleiades.stoa.org/places/894078)
 
 
 ## GEO ID 42163: Ad Herculem (Jaddalah)
@@ -25939,6 +25960,13 @@
  - [Simitta](https://pleiades.stoa.org/places/89357020)
 
 
+## GEO ID 42224: Flumeipersi
+[https://www.trismegistos.org/place/42224](https://www.trismegistos.org/place/42224)  
+
+### alignments:
+ - [Flumei Persi](https://pleiades.stoa.org/places/470358115)
+
+
 ## GEO ID 42227: Araxes (Aras)
 [https://www.trismegistos.org/place/42227](https://www.trismegistos.org/place/42227)  
 
@@ -25986,6 +26014,13 @@
 
 ### alignments:
  - [Caspium/Hyrcanium Mare](https://pleiades.stoa.org/places/884130)
+
+
+## GEO ID 42265: Nigrinum
+[https://www.trismegistos.org/place/42265](https://www.trismegistos.org/place/42265)  
+
+### alignments:
+ - [Fluvius Nigrinum](https://pleiades.stoa.org/places/966253517)
 
 
 ## GEO ID 42266: Oxus (Amu Darya)

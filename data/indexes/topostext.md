@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4853 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
+4854 alignments exist in _Pleiades_ place references as of 2026-02-26. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -14907,6 +14907,13 @@
 
 ### alignments:
  - [Karatsadagli](https://pleiades.stoa.org/places/540854)
+
+
+## Kardaki temple (Kerkyra) Mon Repos - Καρδάκι
+[https://topostext.org/place/396199SKar](https://topostext.org/place/396199SKar)  
+
+### alignments:
+ - [Doric Temple at Kardaki](https://pleiades.stoa.org/places/96199445)
 
 
 ## Kardamyle (Chios)

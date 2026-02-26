@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10283 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
+10288 alignments exist in _Pleiades_ place references as of 2026-02-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -14825,6 +14825,13 @@
  - [Pedum](https://pleiades.stoa.org/places/422997)
 
 
+## Corcyra (Q3693378)
+[https://www.wikidata.org/wiki/Q3693378](https://www.wikidata.org/wiki/Q3693378)  
+
+### alignments:
+ - [Corcyra (settlement)](https://pleiades.stoa.org/places/530834)
+
+
 ## Cordillera Penibética (Q2504871)
 [https://www.wikidata.org/wiki/Q2504871](https://www.wikidata.org/wiki/Q2504871)  
 
@@ -14844,6 +14851,13 @@
 
 ### alignments:
  - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
+
+
+## Corfu (Q121378)
+[https://www.wikidata.org/wiki/Q121378](https://www.wikidata.org/wiki/Q121378)  
+
+### alignments:
+ - [Corcyra (island)](https://pleiades.stoa.org/places/530835)
 
 
 ## Coriaria Septimiana (Q123848604)
@@ -19190,6 +19204,13 @@
 
 ### alignments:
  - [Krios (river)](https://pleiades.stoa.org/places/570384)
+
+
+## Fons Scabore (Q138473368)
+[https://www.wikidata.org/wiki/Q138473368](https://www.wikidata.org/wiki/Q138473368)  
+
+### alignments:
+ - [Fons Scabore](https://pleiades.stoa.org/places/876630)
 
 
 ## Fontana dell'Acqua Paola (Q1435809)
@@ -25223,6 +25244,13 @@
  - [Karbala](https://pleiades.stoa.org/places/619181)
 
 
+## Kardaki Temple (Q31283882)
+[https://www.wikidata.org/wiki/Q31283882](https://www.wikidata.org/wiki/Q31283882)  
+
+### alignments:
+ - [Doric Temple at Kardaki](https://pleiades.stoa.org/places/96199445)
+
+
 ## Kardamyle (Chios) (Q62921868)
 [https://www.wikidata.org/wiki/Q62921868](https://www.wikidata.org/wiki/Q62921868)  
 
@@ -27211,6 +27239,13 @@
 
 ### alignments:
  - [Kerkinitis L.](https://pleiades.stoa.org/places/491635)
+
+
+## Lake Khatuniya (Q21585859)
+[https://www.wikidata.org/wiki/Q21585859](https://www.wikidata.org/wiki/Q21585859)  
+
+### alignments:
+ - [Beberaci L.](https://pleiades.stoa.org/places/874399)
 
 
 ## Lake Lesina (Q1129358)
@@ -47399,13 +47434,6 @@
  - [Phocis](https://pleiades.stoa.org/places/541048)
 
 
-## Q2654754: Temple of Artemis
-[https://www.wikidata.org/wiki/Q2654754](https://www.wikidata.org/wiki/Q2654754)  
-
-### alignments:
- - [Temple of Artemis (Corfu)](https://pleiades.stoa.org/places/630250253)
-
-
 ## Q2666460: Guadiamar
 [https://www.wikidata.org/wiki/Q2666460](https://www.wikidata.org/wiki/Q2666460)  
 
@@ -63933,6 +63961,13 @@
 
 ### alignments:
  - [Temple of Artemis, Jerash](https://pleiades.stoa.org/places/491624944)
+
+
+## Temple of Artemis (Q2654754)
+[https://www.wikidata.org/wiki/Q2654754](https://www.wikidata.org/wiki/Q2654754)  
+
+### alignments:
+ - [Temple of Artemis (Corfu)](https://pleiades.stoa.org/places/630250253)
 
 
 ## Temple of Artemis Agrotera (Q20084335)

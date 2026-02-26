@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2320 alignments exist in _Pleiades_ place references as of 2026-02-25. The following list of alignments is grouped by zotkey.
+2322 alignments exist in _Pleiades_ place references as of 2026-02-26. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -834,6 +834,13 @@
  - [Charra](https://pleiades.stoa.org/places/897754)
 
 
+## 10B5 (Talbert 3229)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3229.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3229.html)  
+
+### alignments:
+ - [Flumei Persi](https://pleiades.stoa.org/places/470358115)
+
+
 ## 10B5-11A5 (Talbert 3493)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3493.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3493.html)  
 
@@ -1056,6 +1063,13 @@
 
 ### alignments:
  - [Media Atropatene](https://pleiades.stoa.org/places/874597)
+
+
+## 11A2-11A4 (Talbert 3498)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3498.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3498.html)  
+
+### alignments:
+ - [Fluvius Nigrinum](https://pleiades.stoa.org/places/966253517)
 
 
 ## 11A3 (Talbert 2802)
