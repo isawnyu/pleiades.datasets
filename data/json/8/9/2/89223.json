@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        -0.781295,
-        54.093702,
-        -0.781295,
-        54.093702
+        -0.7526365,
+        54.0971821,
+        -0.7526365,
+        54.0971821
     ],
     "connections": [],
     "connectsWith": [],
@@ -12,6 +12,12 @@
         {
             "name": "DARMC",
             "username": null
+        },
+        {
+            "homepage": null,
+            "name": "Gabriel Mckee",
+            "uri": "https://pleiades.stoa.org/author/gmckee",
+            "username": "gmckee"
         },
         {
             "name": "R. Talbert",
@@ -53,23 +59,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.781295,
-                    54.093702
+                    -0.7526365,
+                    54.0971821
                 ],
                 "type": "Point"
             },
-            "id": "darmc-location-20951",
+            "id": "roman-villa",
             "properties": {
-                "description": "1M scale point location",
-                "link": "https://pleiades.stoa.org/places/89223/darmc-location-20951",
+                "description": "Point representing the site of the Roman Villa at Lanton, derived from an OpenStreetMap Node after National Heritage List for England entry.",
+                "link": "https://pleiades.stoa.org/places/89223/roman-villa",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "DARMC location 20951"
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Roman Villa"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
+            "modified": "2026-02-25T18:31:11Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2025-01-11T20:08:49Z",
@@ -130,9 +141,9 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
-            "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notvisible",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -141,95 +152,97 @@
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
                     "timePeriod": "roman",
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
-                    "username": null
-                }
-            ],
-            "created": "2011-01-21T05:49:34Z",
+            "contributors": [],
+            "created": "2026-02-25T18:21:40Z",
             "creators": [
                 {
-                    "name": "A.S. Esmonde Cleary",
-                    "username": null
+                    "homepage": null,
+                    "name": "Gabriel Mckee",
+                    "uri": "https://pleiades.stoa.org/author/gmckee",
+                    "username": "gmckee"
                 }
             ],
-            "description": "1M scale point location",
-            "details": "DARMC OBJECTID: 20951",
-            "end": 640,
+            "description": "Point representing the site of the Roman Villa at Lanton, derived from an OpenStreetMap Node after National Heritage List for England entry.",
+            "details": "",
+            "end": 300,
             "featureType": [
-                "unknown"
+                "villa"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
             "geometry": {
                 "coordinates": [
-                    -0.781295,
-                    54.093702
+                    -0.7526365,
+                    54.0971821
                 ],
                 "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T09:19:08Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2011-01-21T13:41:26Z",
+                    "modified": "2026-02-25T18:30:38Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2011-01-21T05:49:35Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-02-25T18:28:44Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
-                    "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
-                    "modified": "2011-01-21T05:49:35Z",
-                    "modifiedBy": "sgillies"
+                    "comment": "Initial revision",
+                    "modified": "2026-02-25T18:28:07Z",
+                    "modifiedBy": "gmckee"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-02-25T18:21:40Z",
+                    "modifiedBy": "gmckee"
                 },
                 {
                     "action": "Create",
-                    "modified": "2011-01-21T05:49:34Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-02-25T18:21:40Z",
+                    "modifiedBy": "gmckee"
                 }
             ],
-            "id": "darmc-location-20951",
+            "id": "roman-villa",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
             ],
-            "provenance": "DARMC OBJECTID: 20951",
+            "provenance": "OpenStreetMap (Node 13596380797, version 2, osm:changeset=179006917, 2026-02-24T20:23:11Z)",
             "references": [
                 {
-                    "accessURI": "https://darmc.harvard.edu/",
+                    "accessURI": "https://www.openstreetmap.org/browse/node/13596380797",
                     "alternateURI": "",
-                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
-                    "citationDetail": "20951",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 13596380797",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 20951.",
-                    "otherIdentifier": " ",
-                    "shortTitle": "DARMC",
+                    "formattedCitation": "osm:node=13596380797",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
                     "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://historicengland.org.uk/listing/the-list/list-entry/1004884",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4EG3E3S",
+                    "citationDetail": "Roman Villa",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Historic England. <i>The National Heritage List for England</i>. Accessed August 1, 2023. https://historicengland.org.uk/listing/the-list/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "NHLE",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
             "start": -30,
-            "title": "DARMC location 20951",
-            "uri": "https://pleiades.stoa.org/places/89223/darmc-location-20951"
+            "title": "OSM location of Roman Villa",
+            "uri": "https://pleiades.stoa.org/places/89223/roman-villa"
         }
     ],
     "names": [],
@@ -295,11 +308,22 @@
             "otherIdentifier": "",
             "shortTitle": "NHLE",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://darmc.harvard.edu/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "citationDetail": "20951",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARMC",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        -0.781295,
-        54.093702
+        -0.7526365,
+        54.0971821
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
