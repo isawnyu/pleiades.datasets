@@ -2,18 +2,16 @@
     "@type": "Place",
     "bbox": null,
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/863770"
+    ],
     "contributors": [
-        {
-            "name": "Diane Braund",
-            "username": null
-        },
         {
             "name": "R. Talbert",
             "username": null
         },
         {
-            "name": "T. Elliott",
+            "name": "Diane Braund",
             "username": null
         },
         {
@@ -21,17 +19,23 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2010-10-05T17:27:55Z",
+    "created": "2026-02-26T20:44:50Z",
     "creators": [
         {
             "name": "David Braund",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 88 unlocated Zadris",
-    "details": "The Barrington Atlas Directory notes: Colchis",
+    "description": "A city or town in Colchis mentioned by Ptolemy. It cannot be located today.",
+    "details": "<p>The Barrington Atlas Directory notes: Colchis</p>",
     "features": [
         {
             "geometry": null,
@@ -47,6 +51,16 @@
         }
     ],
     "history": [
+        {
+            "comment": "removed pro forma BAtlas reference for unlocated and added BAtlDir reference; linked Ptolemy reference to Müller edition in Hathi trust and to Zotero library; summary; place type += settlement",
+            "modified": "2026-02-26T20:51:18Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2026-02-26T20:44:49Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T20:10:37Z",
@@ -215,6 +229,11 @@
             "end": 300,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2026-02-26T20:53:02Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T08:59:20Z",
                     "modifiedBy": "admin"
@@ -249,34 +268,36 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 88 Zadris",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "https://search.worldcat.org/title/45084869",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "88 Zadris",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 1264 see \"Zadris\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112023831271&seq=945",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/p.html#Ptol.-5.9.5",
-            "citationDetail": "",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ptol. 5.9.5",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2AUSPQIZ",
+            "citationDetail": "5.9.5 (page 925)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Klaudiou Ptolemaiou Geographike hyphegesis = Claudii Ptolemæi Geographia</i>. Edited by Karl Müller. 2 vols. Parisiis: Alfredo Firmin Didot, 1883. https://catalog.hathitrust.org/Record/003477580.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
-            "type": "seeFurther"
+            "shortTitle": "Ptol (Müller: Hathi Trust)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": null,
