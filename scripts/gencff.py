@@ -100,18 +100,122 @@ def contributors2cff(pjson_path: Path, username_subs: dict) -> list:
                                 continue
                         if not name:
                             raise ValueError(
-                                f"Person in file {filepath} has no name: {pprint(authors, indent=2)}"
+                                f"Person in file {filepath} has no name: {pformat(author, indent=2)}"
                             )
-                        if name == "T. Elliott":
-                            username = "thomase"
-                            name = "Tom Elliott"
-                        elif name == "R. Talbert":
-                            username = "rtalbert"
-                            name = "Richard J.A. Talbert"
-                        else:
-                            username = author.get("username", "")
-                            if not username:
+                        username = author.get("username", "")
+                        if not username:
+                            if name in {
+                                "Mary E. Downs",
+                                "Brian Z. Lund",
+                                "M. Joann McDaniel",
+                                "World Historical Gazetteer",
+                                "J.H.F. Bloemers",
+                                "DARMC, R. Talbert, T. Elliott, S. Gillies",
+                                "J.F. Drinkwater",
+                                "A.S. Esmonde-Cleary",
+                                "W.V. Harris",
+                                "R.C. Knapp",
+                                "S. Mitchell",
+                                "S.T. Parker",
+                                "C.M. Wells",
+                                "J.J. Wilkes",
+                                "Catie Herberg",
+                                "Alex Tagashira-McGillicuddy",
+                                "B. Siewert-Mayer",
+                                "W. Röllig",
+                                "H. Kopp",
+                                "R. Warner",
+                                "A. Hausleiter",
+                                "M. Roaf",
+                                "E.J. Keall",
+                                "J.S. Traill",
+                                "Thomas Mertens",
+                                "Christopher W. Jones",
+                                "T. Drew Bear",
+                                "Andrea Squitieri",
+                                "F.T. Hiebert",
+                                "P.L. Kohl",
+                                "Wikidata contributors",
+                                "Vici.org contributors",
+                                "St J. Simpson",
+                                "F. Hiebert",
+                                "Ethan Gruber",
+                                "D.J. Mattingly",
+                                "E. Bertrand",
+                                "R.B. Hitchner",
+                                "E.N. Borza",
+                                "G. Reger",
+                                "M. Šašel Kos",
+                                "P. Kos",
+                                "David Meadows",
+                                "R. Wenke",
+                                "P. Flensted Jensen",
+                                "L. Quilici",
+                                "S. Quilici Gigli",
+                                "L. Quilici and S. Quilici Gigli",
+                                "Amir Wekseler",
+                                "Alisa MacDonald",
+                                "Freya Schlaefer",
+                                "Asta Rossi",
+                                "M. Euzennat",
+                                "J. Desanges",
+                                "R.J.A. Wilson",
+                                "Elise Johnson",
+                                "Michael Horst",
+                                "Emily van Zanten",
+                                "Dalton Parish",
+                                "Kiel Papa",
+                                "AJ Adler",
+                                "D.T. Potts",
+                                "M. Pearce",
+                                "R. Peretto",
+                                "P. Tozzi",
+                                "Denise Candelo",
+                                "Katie Smidt",
+                                "Olivia Lewman",
+                                "Angelo Reyes",
+                                "S.M. Burstein",
+                                "D. Borough",
+                            }:
+
                                 username = slugify(name, separator="")
+                            elif name in {"thomas", "thoamse", "T. Elliott"}:
+                                username = "thomase"
+                                name = "Tom Elliott"
+                            elif name == "R.S. Bagnall":
+                                username = "rbagnall"
+                                name = "Roger S. Bagnall"
+                            elif name in {"Richard Talbert", "R. Talbert"}:
+                                username = "rtalbert"
+                                name = "Richard J.A. Talbert"
+                            elif name == "DARMC":
+                                username = "darmc"
+                                name = (
+                                    "Digital Atlas of Roman and Medieval Civilizations"
+                                )
+                            elif name == "A.S. Esmonde Cleary":
+                                name = "A.S. Esmonde-Cleary"
+                                username = slugify(name, separator="")
+                            elif name == "WHG":
+                                name = "World Historical Gazetteer"
+                                username = slugify(name, separator="")
+                            elif name == "Alex Tagashir-McGillicuddy":
+                                name = "Alex Tagashira-McGillicuddy"
+                                username = slugify(name, separator="")
+                            elif name == "jfu":
+                                username = "jfu"
+                                name = "Jonathan Fu"
+                            elif name == "Amir Weksler":
+                                name = "Amir Wekseler"
+                                username = slugify(name, separator="")
+                            elif name == "Irene Vagionakis":
+                                username = "ivagionakis"
+                            elif name == "E.W.B. Fentress":
+                                username = "efentress"
+                            if not username:
+                                raise ValueError(
+                                    f"Person in file {filepath} has no username: {pformat(author, indent=2)}"
+                                )
                             username = username.strip().lower()
                             try:
                                 sub = username_subs[username]
@@ -144,6 +248,11 @@ def contributors2cff(pjson_path: Path, username_subs: dict) -> list:
                             ]
                         elif username == "richardtalbert":
                             these_authors = [("rtalbert", "Richard J.A. Talbert")]
+                        elif username == "jpragghawes":
+                            these_authors = [
+                                ("jprag", "Jonathan Prag"),
+                                ("ghawes", "Greta Hawes"),
+                            ]
                         else:
                             these_authors = [(username, name)]
                         for u, n in these_authors:
