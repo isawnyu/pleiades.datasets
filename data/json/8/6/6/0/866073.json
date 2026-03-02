@@ -1,7 +1,70 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "in",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/in",
+            "connectsTo": "https://pleiades.stoa.org/places/863770",
+            "contributors": [],
+            "created": "2026-02-26T20:52:44Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-02-27T16:40:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-02-26T20:52:52Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-02-26T20:52:48Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-02-26T20:52:44Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "colchis-lazike-region",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1264 see \"Zadris\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World : Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Colchis/Lazike (region)",
+            "uri": "https://pleiades.stoa.org/places/866073/colchis-lazike-region"
+        }
+    ],
     "connectsWith": [
         "https://pleiades.stoa.org/places/863770"
     ],
@@ -196,18 +259,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Ζαδρίς",
             "contributors": [
-                {
-                    "name": "Diane Braund",
-                    "username": null
-                },
                 {
                     "name": "R. Talbert",
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
+                    "name": "Diane Braund",
                     "username": null
                 },
                 {
@@ -215,9 +274,15 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-10-05T17:27:55Z",
+            "created": "2026-02-26T20:53:02Z",
             "creators": [
                 {
                     "name": "David Braund",
@@ -228,6 +293,11 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "Ptolemy, Greek @thomase",
+                    "modified": "2026-02-27T16:41:10Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Baseline created",
                     "modified": "2026-02-26T20:53:02Z",
@@ -255,10 +325,22 @@
                 }
             ],
             "id": "zadris",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 88 Zadris",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112023831271&seq=945",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/2AUSPQIZ",
+                    "citationDetail": "5.9.5 (page 925)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Ptolemy. <i>Klaudiou Ptolemaiou Geographike hyphegesis = Claudii Ptolemæi Geographia</i>. Edited by Karl Müller. 2 vols. Parisiis: Alfredo Firmin Didot, 1883. https://catalog.hathitrust.org/Record/003477580.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Ptol (Müller: Hathi Trust)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Zadris",
             "start": -30,

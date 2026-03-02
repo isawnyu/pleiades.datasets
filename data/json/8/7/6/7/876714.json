@@ -1,15 +1,88 @@
 {
     "@type": "Place",
-    "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "bbox": [
+        41.214619,
+        37.066666,
+        41.216666,
+        37.068635
+    ],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "route_next",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/route_next",
+            "connectsTo": "https://pleiades.stoa.org/places/874623",
+            "contributors": [],
+            "created": "2026-02-27T23:30:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-02-28T17:09:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-02-27T23:30:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-02-27T23:30:10Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-02-27T23:30:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "nisibis-antiochia",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2613.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "10B5 Thamavdi (Talbert 2613)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": 300,
+            "title": "Nisibis/Antiochia",
+            "uri": "https://pleiades.stoa.org/places/876714/nisibis-antiochia"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/874623"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -17,29 +90,41 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2010-10-05T17:46:27Z",
+    "created": "2026-02-27T22:53:25Z",
     "creators": [
-        {
-            "name": "S.E. Kroll",
-            "username": null
-        },
         {
             "name": "M. Roaf",
             "username": null
         },
         {
-            "name": "St J. Simpson",
+            "name": "T. Sinclair",
             "username": null
         },
         {
-            "name": "T. Sinclair",
+            "name": "S.E. Kroll",
+            "username": null
+        },
+        {
+            "name": "St J. Simpson",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 89 unlocated Thamaudi",
-    "details": "None",
+    "description": "An ancient place included in the Peutinger map between \"Arcamo\" (Arzamon) and Nisibis (modern ). Its precise modern location is unknown today, not least because the map in this section seems rather confused with regard to the relative locations of known sites (like Arzamon and Nisibis) and the river Tigris.",
+    "details": "<p>None</p>",
     "features": [
         {
             "geometry": null,
@@ -55,6 +140,21 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-02-28T17:10:56Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "summary; place type += place; cleaned up references; added TP reference; Edited; updated Names @thomase",
+            "modified": "2026-02-28T17:09:18Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2026-02-27T22:53:23Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Changing 'unlocated toponym' type to 'unlocated'",
             "modified": "2012-07-23T20:27:10Z",
@@ -193,6 +293,78 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
+            "attested": "Thamavdi",
+            "contributors": [],
+            "created": "2026-02-27T23:28:20Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-02-28T17:09:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-02-27T23:28:24Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-02-27T23:28:20Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-02-27T23:28:20Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "thamaudi",
+            "language": "la",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2613.html",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+                    "citationDetail": "10B5 Thamavdi (Talbert 2613)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "TP (Talbert: CUP)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Thamaudi",
+            "start": 300,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/876714/thamaudi"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
             "attested": "",
             "contributors": [
                 {
@@ -210,23 +382,13 @@
                     "username": "sgillies"
                 }
             ],
-            "created": "2010-10-05T17:46:28Z",
+            "created": "2026-02-27T23:28:20Z",
             "creators": [
                 {
-                    "name": "S.E. Kroll",
-                    "username": null
-                },
-                {
-                    "name": "M. Roaf",
-                    "username": null
-                },
-                {
-                    "name": "St J. Simpson",
-                    "username": null
-                },
-                {
-                    "name": "T. Sinclair",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "description": "",
@@ -268,10 +430,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/place"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "place"
     ],
     "provenance": "Barrington Atlas: BAtlas 89 Thamaudi",
     "references": [
@@ -287,29 +451,76 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/i.html#ItMiller-777",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
+            "citationDetail": "777",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "ItMiller 777",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "ItMiller",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://search.worldcat.org/title/602686003",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/d.html#Dillemann-1962",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9ZK7WNAA",
+            "citationDetail": "pages 136-40",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Dillemann 1962, 136-40",
+            "formattedCitation": "<div class=\"csl-entry\">Dillemann, Louis. <i>Haute Mésopotamie Orientale et Pays Adjacents: Contribution a La Géographie Historique de La Région, Du Ve s. Avant l’ére Chrétienneau VIe s. de Cette Ére</i>. Bibliothèque Archéologique et Historique, t. 72. Paris: P. Geuthner; Institut français d’archéologie de Beyrouth, 1962. https://search.worldcat.org/title/602686003.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Dillemann 1962",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2613.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "10B5 Thamavdi (Talbert 2613)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TP (Talbert: CUP)",
+            "type": "citesAsEvidence"
+        },
+        {
+            "accessURI": "https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2612.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "citationDetail": "10B5 Arcamo (Talbert 2612) sub \"Onward stretch\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TP (Talbert: CUP)",
+            "type": "seeAlso"
+        },
+        {
+            "accessURI": "https://www.trismegistos.org/place/42146",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "citationDetail": "GEO ID 42146: Thamaudi",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "TM",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1746",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "1746: Thamaudi",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online, 2019. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
+            "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        41.215446666666665,
+        37.06751166666667
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
