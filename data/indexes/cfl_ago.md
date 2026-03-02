@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-461 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+462 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -168,6 +168,13 @@
 
 ### alignments:
  - [Aigai](https://pleiades.stoa.org/places/570040)
+
+
+## AMPHISSA. – Colline d’Amblianos - 2014
+[https://chronique.efa.gr/?kroute=report&id=18530](https://chronique.efa.gr/?kroute=report&id=18530)  
+
+### alignments:
+ - [Amphissa Tholos](https://pleiades.stoa.org/places/629588005)
 
 
 ## ANDROS. - Chora - 2001

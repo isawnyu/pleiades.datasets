@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2322 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+2329 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -624,6 +624,13 @@
  - [Sammachi](https://pleiades.stoa.org/places/874674)
 
 
+## 10B4 (Talbert 2623)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2623.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2623.html)  
+
+### alignments:
+ - [Mac(h)arta/Tiberioupolis/Monokarton](https://pleiades.stoa.org/places/874572)
+
+
 ## 10B4 (Talbert 2624)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2624.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2624.html)  
 
@@ -839,6 +846,20 @@
 
 ### alignments:
  - [Flumei Persi](https://pleiades.stoa.org/places/470358115)
+
+
+## 10B5 Arcamo (Talbert 2612) sub "Onward stretch"
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2612.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2612.html)  
+
+### alignments:
+ - [Thamaudi](https://pleiades.stoa.org/places/876714)
+
+
+## 10B5 Thamavdi (Talbert 2613)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2613.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2613.html)  
+
+### alignments:
+ - [Thamaudi](https://pleiades.stoa.org/places/876714)
 
 
 ## 10B5-11A5 (Talbert 3493)
@@ -13184,6 +13205,13 @@
  - [Anabucis](https://pleiades.stoa.org/places/363921)
 
 
+## 7C2-7C3 (Talbert 3072)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3072.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3072.html)  
+
+### alignments:
+ - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
 ## 7C3 (Talbert 3086)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3086.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3086.html)  
 
@@ -15032,6 +15060,13 @@
  - [Eugoni](https://pleiades.stoa.org/places/388927641)
 
 
+## 9B1 (Talbert 2275)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2275.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2275.html)  
+
+### alignments:
+ - [Euagina/Phoubagina](https://pleiades.stoa.org/places/622137)
+
+
 ## 9B1 (Talbert 2294)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2294.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2294.html)  
 
@@ -15436,6 +15471,20 @@
 
 ### alignments:
  - [Sibora/Foroba?](https://pleiades.stoa.org/places/629079)
+
+
+## 9B3 (Talbert 2286)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2286.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2286.html)  
+
+### alignments:
+ - [Armaxa](https://pleiades.stoa.org/places/628935)
+
+
+## 9B3 (Talbert 2287)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2287.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2287.html)  
+
+### alignments:
+ - [Euagina/Sebagena?](https://pleiades.stoa.org/places/628972)
 
 
 ## 9B3 (Talbert 2304)

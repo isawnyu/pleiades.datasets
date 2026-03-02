@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4926 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+4949 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -64,13 +64,6 @@
 
 ### alignments:
  - [Visentium](https://pleiades.stoa.org/places/413386)
-
-
-## 3362
-[http://www.trismegistos.org/place/3362](http://www.trismegistos.org/place/3362)  
-
-### alignments:
- - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
 ## 41750: Gaetuli
@@ -513,14 +506,6 @@
 
 ### alignments:
  - [Minoa](https://pleiades.stoa.org/places/599800)
-
-
-## Geo 16081: Rizenia (Prinias)
-[https://www.trismegistos.org/place/16081](https://www.trismegistos.org/place/16081)  
-
-### alignments:
- - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
- - [Rhittenia?](https://pleiades.stoa.org/places/590029)
 
 
 ## Geo 16131: Panamara (Bağyaka)
@@ -2706,6 +2691,13 @@
  - [Hadrianopolis/Kaukalou Kome?](https://pleiades.stoa.org/places/373824)
 
 
+## GEO ID 10990: Nasamones
+[http://www.trismegistos.org/place/10990](http://www.trismegistos.org/place/10990)  
+
+### alignments:
+ - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
 ## GEO ID 1105: Kimolos
 [http://www.trismegistos.org/place/1105](http://www.trismegistos.org/place/1105)  
 
@@ -4000,6 +3992,13 @@
 
 ### alignments:
  - [Gordioukome/Iuliopolis](https://pleiades.stoa.org/places/844935)
+
+
+## GEO ID 13146: Seleukeia (Bayat)
+[http://www.trismegistos.org/place/13146](http://www.trismegistos.org/place/13146)  
+
+### alignments:
+ - [Seleucia/Claudioseleucia/Seleucia Sidera](https://pleiades.stoa.org/places/639098)
 
 
 ## GEO ID 1318: Massalia (Marseille)
@@ -7250,6 +7249,14 @@
  - [Phoinix](https://pleiades.stoa.org/places/589993)
 
 
+## GEO ID 16081: Rizenia (Prinias)
+[https://www.trismegistos.org/place/16081](https://www.trismegistos.org/place/16081)  
+
+### alignments:
+ - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
+ - [Rhittenia?](https://pleiades.stoa.org/places/590029)
+
+
 ## GEO ID 16102: Perkote (Gökçebayır)
 [https://www.trismegistos.org/place/16102](https://www.trismegistos.org/place/16102)  
 
@@ -9399,6 +9406,13 @@
  - [Trisanton (river)](https://pleiades.stoa.org/places/79723)
 
 
+## GEO ID 19645: Cantium Promontorium (South Foreland)
+[http://www.trismegistos.org/place/19645](http://www.trismegistos.org/place/19645)  
+
+### alignments:
+ - [Kantion Akron](https://pleiades.stoa.org/places/79543)
+
+
 ## GEO ID 19653: Celnius (River Deveron)
 [http://www.trismegistos.org/place/19653](http://www.trismegistos.org/place/19653)  
 
@@ -10821,6 +10835,13 @@
  - [Stratonikeia](https://pleiades.stoa.org/places/599947)
 
 
+## GEO ID 22045: Calcaria (Vitrolles)
+[https://www.trismegistos.org/place/22045](https://www.trismegistos.org/place/22045)  
+
+### alignments:
+ - [Calcaria Solarium](https://pleiades.stoa.org/places/148028)
+
+
 ## GEO ID 22055
 [https://www.trismegistos.org/place/22055](https://www.trismegistos.org/place/22055)  
 
@@ -10903,6 +10924,13 @@
 
 ### alignments:
  - [Syria](https://pleiades.stoa.org/places/1306)
+
+
+## GEO ID 22132: Sorabile (Fonni)
+[https://www.trismegistos.org/place/22132](https://www.trismegistos.org/place/22132)  
+
+### alignments:
+ - [Nemus Sorabense/Sorabile](https://pleiades.stoa.org/places/471978)
 
 
 ## GEO ID 22167: Olbia
@@ -11246,6 +11274,13 @@
 
 ### alignments:
  - [Salinae](https://pleiades.stoa.org/places/157920)
+
+
+## GEO ID 22412: Eturamina (Thorame-Haute)
+[https://www.trismegistos.org/place/22412](https://www.trismegistos.org/place/22412)  
+
+### alignments:
+ - [Eturamina](https://pleiades.stoa.org/places/157850)
 
 
 ## GEO ID 22421: Tropaeum Augusti (La Turbie)
@@ -15471,6 +15506,13 @@
  - [Darnis](https://pleiades.stoa.org/places/373780)
 
 
+## GEO ID 3121: White Monastery (Deir el-Abiad)
+[http://www.trismegistos.org/place/3121](http://www.trismegistos.org/place/3121)  
+
+### alignments:
+ - [Apa Senouthou (monastery)](https://pleiades.stoa.org/places/756530)
+
+
 ## GEO ID 3125: Didymoi (Khashm el-Menih)
 [http://www.trismegistos.org/place/3125](http://www.trismegistos.org/place/3125)  
 
@@ -18529,6 +18571,13 @@
 
 ### alignments:
  - [Euchaita](https://pleiades.stoa.org/places/857120)
+
+
+## GEO ID 3362: Ancona
+[http://www.trismegistos.org/place/3362](http://www.trismegistos.org/place/3362)  
+
+### alignments:
+ - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
 ## GEO ID 33632: Phazimon
@@ -21942,6 +21991,13 @@
  - [Pontes](https://pleiades.stoa.org/places/109255)
 
 
+## GEO ID 40607: Armaxa (Gemerek)
+[https://www.trismegistos.org/place/40607](https://www.trismegistos.org/place/40607)  
+
+### alignments:
+ - [Armaxa](https://pleiades.stoa.org/places/628935)
+
+
 ## GEO ID 40609: Arasaxa (Akmesçit)
 [http://www.trismegistos.org/place/40609](http://www.trismegistos.org/place/40609)  
 
@@ -23426,6 +23482,13 @@
  - [Pardua](https://pleiades.stoa.org/places/197426)
 
 
+## GEO ID 41325: Aizisis (Fârliug)
+[https://www.trismegistos.org/place/41325](https://www.trismegistos.org/place/41325)  
+
+### alignments:
+ - [‘Aizisis’](https://pleiades.stoa.org/places/206899)
+
+
 ## GEO ID 41331: Remetodia (Orsoya)
 [https://www.trismegistos.org/place/41331](https://www.trismegistos.org/place/41331)  
 
@@ -23690,6 +23753,13 @@
 
 ### alignments:
  - [Seramisa](https://pleiades.stoa.org/places/857313)
+
+
+## GEO ID 41401: Euagina (Gemerek)
+[https://www.trismegistos.org/place/41401](https://www.trismegistos.org/place/41401)  
+
+### alignments:
+ - [Euagina/Sebagena?](https://pleiades.stoa.org/places/628972)
 
 
 ## GEO ID 41402: Salambriai (Kepez Tepe)
@@ -25386,6 +25456,13 @@
  - [Ubinnaca](https://pleiades.stoa.org/places/619277)
 
 
+## GEO ID 42004: Euagina
+[https://www.trismegistos.org/place/42004](https://www.trismegistos.org/place/42004)  
+
+### alignments:
+ - [Euagina/Phoubagina](https://pleiades.stoa.org/places/622137)
+
+
 ## GEO ID 42005: Laskoria
 [https://www.trismegistos.org/place/42005](https://www.trismegistos.org/place/42005)  
 
@@ -25729,6 +25806,13 @@
  - [Thallaba](https://pleiades.stoa.org/places/876713)
 
 
+## GEO ID 42146: Thamaudi
+[https://www.trismegistos.org/place/42146](https://www.trismegistos.org/place/42146)  
+
+### alignments:
+ - [Thamaudi](https://pleiades.stoa.org/places/876714)
+
+
 ## GEO ID 42149: Thubida
 [https://www.trismegistos.org/place/42149](https://www.trismegistos.org/place/42149)  
 
@@ -25958,6 +26042,13 @@
 
 ### alignments:
  - [Simitta](https://pleiades.stoa.org/places/89357020)
+
+
+## GEO ID 42219: Ammodios (Amuda)
+[http://www.trismegistos.org/place/42219](http://www.trismegistos.org/place/42219)  
+
+### alignments:
+ - [Ammodios/Amouda](https://pleiades.stoa.org/places/874318)
 
 
 ## GEO ID 42224: Flumeipersi
@@ -29008,6 +29099,13 @@
  - [Pomarico Vecchio](https://pleiades.stoa.org/places/442726)
 
 
+## GEO ID 4527: Thmoo (El-Isawiya Charq)
+[http://www.trismegistos.org/place/4527](http://www.trismegistos.org/place/4527)  
+
+### alignments:
+ - [Thmoo](https://pleiades.stoa.org/places/756660)
+
+
 ## GEO ID 4529: Thnephi
 [https://www.trismegistos.org/place/4529](https://www.trismegistos.org/place/4529)  
 
@@ -29405,6 +29503,13 @@
 
 ### alignments:
  - [Anagrana/Negram](https://pleiades.stoa.org/places/39286)
+
+
+## GEO ID 4662: Isidion Orous
+[http://www.trismegistos.org/place/4662](http://www.trismegistos.org/place/4662)  
+
+### alignments:
+ - [Isidiou Oros](https://pleiades.stoa.org/places/789740)
 
 
 ## GEO ID 46796: Pons Sublicius
@@ -31293,6 +31398,13 @@
  - [Athenai Diades](https://pleiades.stoa.org/places/540681)
 
 
+## GEO ID 58889: Macares
+[https://www.trismegistos.org/place/58889](https://www.trismegistos.org/place/58889)  
+
+### alignments:
+ - [Macares/Macae](https://pleiades.stoa.org/places/349602)
+
+
 ## GEO ID 58891: Grumum
 [https://www.trismegistos.org/place/58891](https://www.trismegistos.org/place/58891)  
 
@@ -32378,6 +32490,13 @@
  - [Sanctuary of Ptoan Apollo](https://pleiades.stoa.org/places/541078)
 
 
+## GEO ID 61290: Thornax (Geladari)
+[https://www.trismegistos.org/place/61290](https://www.trismegistos.org/place/61290)  
+
+### alignments:
+ - [Thornax](https://pleiades.stoa.org/places/573556)
+
+
 ## GEO ID 61300: Arrolos
 [https://www.trismegistos.org/place/61300](https://www.trismegistos.org/place/61300)  
 
@@ -32792,11 +32911,25 @@
  - [Ouallai/Vallaei](https://pleiades.stoa.org/places/494601)
 
 
+## GEO ID 644: Epagathiane Dioryx
+[https://www.trismegistos.org/place/644](https://www.trismegistos.org/place/644)  
+
+### alignments:
+ - [Epagathiane (Diorux)](https://pleiades.stoa.org/places/736906)
+
+
 ## GEO ID 6453: Pekty
 [https://www.trismegistos.org/place/6453](https://www.trismegistos.org/place/6453)  
 
 ### alignments:
  - [Pekty](https://pleiades.stoa.org/places/741552)
+
+
+## GEO ID 64617: Macae
+[https://www.trismegistos.org/place/64617](https://www.trismegistos.org/place/64617)  
+
+### alignments:
+ - [Macae](https://pleiades.stoa.org/places/344428)
 
 
 ## GEO ID 64629: Viscera
@@ -32874,6 +33007,13 @@
 
 ### alignments:
  - [Anurādhapura](https://pleiades.stoa.org/places/49863)
+
+
+## GEO ID 65539: Mykoi
+[https://www.trismegistos.org/place/65539](https://www.trismegistos.org/place/65539)  
+
+### alignments:
+ - [Mykoi/Macae](https://pleiades.stoa.org/places/932472)
 
 
 ## GEO ID 655: Epirus
@@ -33431,6 +33571,13 @@
  - [‘Falacro’](https://pleiades.stoa.org/places/786024)
 
 
+## GEO ID 7887: Psinthaubastis
+[https://www.trismegistos.org/place/7887](https://www.trismegistos.org/place/7887)  
+
+### alignments:
+ - [Psinthaubastis](https://pleiades.stoa.org/places/759620)
+
+
 ## GEO ID 788: Herakleidou Meris
 [http://www.trismegistos.org/place/788](http://www.trismegistos.org/place/788)  
 
@@ -33774,6 +33921,13 @@
  - [Illyricum](https://pleiades.stoa.org/places/481865)
 
 
+## GEO ID 9098: Thambol (Tell Tanbul)
+[https://www.trismegistos.org/place/9098](https://www.trismegistos.org/place/9098)  
+
+### alignments:
+ - [Thambol](https://pleiades.stoa.org/places/727245)
+
+
 ## GEO ID 920: Isieion (Behbeit el-Hagar)
 [http://www.trismegistos.org/place/920](http://www.trismegistos.org/place/920)  
 
@@ -33821,6 +33975,13 @@
 
 ### alignments:
  - [Kadyanda](https://pleiades.stoa.org/places/638885)
+
+
+## GEO ID 9470: Thmoresis
+[http://www.trismegistos.org/place/9470](http://www.trismegistos.org/place/9470)  
+
+### alignments:
+ - [Thmoresis](https://pleiades.stoa.org/places/756661)
 
 
 ## GEO ID 952: Kaine (Qena)

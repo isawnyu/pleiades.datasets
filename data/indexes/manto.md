@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-854 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+860 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1064,6 +1064,13 @@
 
 ### alignments:
  - [Larissa](https://pleiades.stoa.org/places/540905)
+
+
+## 10159708
+[https://resource.manto.unh.edu/10159708](https://resource.manto.unh.edu/10159708)  
+
+### alignments:
+ - [Temple of Nemesis](https://pleiades.stoa.org/places/580034)
 
 
 ## 10159723: Oropos (Boiotia)
@@ -3461,6 +3468,13 @@
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
 
 
+## 11320704
+[https://resource.manto.unh.edu/11320704](https://resource.manto.unh.edu/11320704)  
+
+### alignments:
+ - [Hermonthis](https://pleiades.stoa.org/places/786036)
+
+
 ## 11321274: Tibur (Italy)
 [https://resource.manto.unh.edu/11321274](https://resource.manto.unh.edu/11321274)  
 
@@ -3473,6 +3487,13 @@
 
 ### alignments:
  - [Athos/Akte (peninsula)](https://pleiades.stoa.org/places/501365)
+
+
+## 11325480
+[https://resource.manto.unh.edu/11325480](https://resource.manto.unh.edu/11325480)  
+
+### alignments:
+ - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
 ## 11325840: Actium (Epeiros)
@@ -3496,6 +3517,20 @@
  - [Temple of Vesta at Rome](https://pleiades.stoa.org/places/55302071)
 
 
+## 11326179
+[https://resource.manto.unh.edu/11326179](https://resource.manto.unh.edu/11326179)  
+
+### alignments:
+ - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
+## 11327845
+[https://resource.manto.unh.edu/11327845](https://resource.manto.unh.edu/11327845)  
+
+### alignments:
+ - [Barke](https://pleiades.stoa.org/places/373750)
+
+
 ## 11328490: the Land of the Marsi
 [https://resource.manto.unh.edu/11328490](https://resource.manto.unh.edu/11328490)  
 
@@ -3508,6 +3543,13 @@
 
 ### alignments:
  - [Bizye](https://pleiades.stoa.org/places/511190)
+
+
+## 11328897
+[https://resource.manto.unh.edu/11328897](https://resource.manto.unh.edu/11328897)  
+
+### alignments:
+ - [Mazaka/Eusebeia/Caesarea](https://pleiades.stoa.org/places/629035)
 
 
 ## 11329122: the Temple of Concordia at Rome

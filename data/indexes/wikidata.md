@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10288 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+10302 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2791,6 +2791,13 @@
  - [Amphipolis](https://pleiades.stoa.org/places/501347)
 
 
+## Amphissa Tholos (Q106472989)
+[https://www.wikidata.org/wiki/Q106472989](https://www.wikidata.org/wiki/Q106472989)  
+
+### alignments:
+ - [Amphissa Tholos](https://pleiades.stoa.org/places/629588005)
+
+
 ## amphitheater of Lyon (Q3124)
 [https://www.wikidata.org/wiki/Q3124](https://www.wikidata.org/wiki/Q3124)  
 
@@ -3764,6 +3771,13 @@
  - [Antiochia Castellum](https://pleiades.stoa.org/places/648559)
 
 
+## Antiochia in Mesopotamia (Q4775050)
+[https://www.wikidata.org/wiki/Q4775050](https://www.wikidata.org/wiki/Q4775050)  
+
+### alignments:
+ - [Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis](https://pleiades.stoa.org/places/874324)
+
+
 ## Antiparos (Q216985)
 [https://www.wikidata.org/wiki/Q216985](https://www.wikidata.org/wiki/Q216985)  
 
@@ -4147,6 +4161,13 @@
 
 ### alignments:
  - [Aqua Appia](https://pleiades.stoa.org/places/423562)
+
+
+## Aqua Claudia (Q622930)
+[https://www.wikidata.org/wiki/Q622930](https://www.wikidata.org/wiki/Q622930)  
+
+### alignments:
+ - [Aqua Claudia](https://pleiades.stoa.org/places/423563)
 
 
 ## Aqua Crabra (Q15149975)
@@ -6306,6 +6327,13 @@
  - [Autessiodurum](https://pleiades.stoa.org/places/138206)
 
 
+## Auximum (Q11907359)
+[https://www.wikidata.org/wiki/Q11907359](https://www.wikidata.org/wiki/Q11907359)  
+
+### alignments:
+ - [Auximum](https://pleiades.stoa.org/places/413045)
+
+
 ## Avaldsnes (Q790084)
 [https://www.wikidata.org/wiki/Q790084](https://www.wikidata.org/wiki/Q790084)  
 
@@ -6962,6 +6990,13 @@
 
 ### alignments:
  - [Barburgh Mill Roman fortlet](https://pleiades.stoa.org/places/655739578)
+
+
+## Barca (Q807913)
+[https://www.wikidata.org/wiki/Q807913](https://www.wikidata.org/wiki/Q807913)  
+
+### alignments:
+ - [Barke](https://pleiades.stoa.org/places/373750)
 
 
 ## Barcelona (Q1492)
@@ -9763,7 +9798,6 @@
 
 ### alignments:
  - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
- - [Auximum](https://pleiades.stoa.org/places/413045)
  - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
  - [Cannatello](https://pleiades.stoa.org/places/491524938)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
@@ -10251,6 +10285,13 @@
 
 ### alignments:
  - [Kalynda](https://pleiades.stoa.org/places/638891)
+
+
+## Camacae (Q18285640)
+[https://www.wikidata.org/wiki/Q18285640](https://www.wikidata.org/wiki/Q18285640)  
+
+### alignments:
+ - [Kamakai](https://pleiades.stoa.org/places/494577)
 
 
 ## Camactulici (Q116469917)
@@ -11693,6 +11734,13 @@
 
 ### alignments:
  - [Castra Aelia](https://pleiades.stoa.org/places/246313)
+
+
+## Castra Aizis (Q4699436)
+[https://www.wikidata.org/wiki/Q4699436](https://www.wikidata.org/wiki/Q4699436)  
+
+### alignments:
+ - [‘Aizisis’](https://pleiades.stoa.org/places/206899)
 
 
 ## Castra Albana (Q3663109)
@@ -18426,6 +18474,13 @@
 
 ### alignments:
  - [Eua?](https://pleiades.stoa.org/places/570241)
+
+
+## Euagina (Q85759734)
+[https://www.wikidata.org/wiki/Q85759734](https://www.wikidata.org/wiki/Q85759734)  
+
+### alignments:
+ - [Euagina/Sebagena?](https://pleiades.stoa.org/places/628972)
 
 
 ## Eucarpia (Q20717572)
@@ -28060,6 +28115,13 @@
  - [Leuci](https://pleiades.stoa.org/places/109106)
 
 
+## Leuctrum (Q60790806)
+[https://www.wikidata.org/wiki/Q60790806](https://www.wikidata.org/wiki/Q60790806)  
+
+### alignments:
+ - [Leuktron](https://pleiades.stoa.org/places/573340)
+
+
 ## Leukonoion (Q12880146)
 [https://www.wikidata.org/wiki/Q12880146](https://www.wikidata.org/wiki/Q12880146)  
 
@@ -29094,6 +29156,13 @@
 
 ### alignments:
  - [Mably](https://pleiades.stoa.org/places/951997539)
+
+
+## Macae (Q19715598)
+[https://www.wikidata.org/wiki/Q19715598](https://www.wikidata.org/wiki/Q19715598)  
+
+### alignments:
+ - [Macae](https://pleiades.stoa.org/places/344428)
 
 
 ## Macareae (Q11934483)
@@ -33074,6 +33143,13 @@
  - [Naryka/Tarphe?](https://pleiades.stoa.org/places/540958)
 
 
+## Nasamones (Q1215696)
+[https://www.wikidata.org/wiki/Q1215696](https://www.wikidata.org/wiki/Q1215696)  
+
+### alignments:
+ - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
 ## Nassoi (Q6967679)
 [https://www.wikidata.org/wiki/Q6967679](https://www.wikidata.org/wiki/Q6967679)  
 
@@ -33487,6 +33563,13 @@
  - [Roudon (river)](https://pleiades.stoa.org/places/20586)
 
 
+## Nemesis temple Rhamnous (Q94946184)
+[https://www.wikidata.org/wiki/Q94946184](https://www.wikidata.org/wiki/Q94946184)  
+
+### alignments:
+ - [Temple of Nemesis](https://pleiades.stoa.org/places/580034)
+
+
 ## Nemrik 9 (Q13708140)
 [https://www.wikidata.org/wiki/Q13708140](https://www.wikidata.org/wiki/Q13708140)  
 
@@ -33793,6 +33876,13 @@
 
 ### alignments:
  - [Nev-Shapur](https://pleiades.stoa.org/places/952092)
+
+
+## Nisibis (Q14524112)
+[https://www.wikidata.org/wiki/Q14524112](https://www.wikidata.org/wiki/Q14524112)  
+
+### alignments:
+ - [Nisibis/Antiochia](https://pleiades.stoa.org/places/874623)
 
 
 ## Nisida (Q1192720)
@@ -40488,13 +40578,6 @@
  - [Tarxien (Malta)](https://pleiades.stoa.org/places/110149525)
 
 
-## Q106472989: Amphissa Tholos
-[https://www.wikidata.org/wiki/Q106472989](https://www.wikidata.org/wiki/Q106472989)  
-
-### alignments:
- - [Amphissa Tholos](https://pleiades.stoa.org/places/629588005)
-
-
 ## Q106497024: Zeus Basileus (Boeotia)
 [https://www.wikidata.org/wiki/Q106497024](https://www.wikidata.org/wiki/Q106497024)  
 
@@ -43248,13 +43331,6 @@
 
 ### alignments:
  - [Lion Gate at Mycenae](https://pleiades.stoa.org/places/448885234)
-
-
-## Q14524112: Nisibis
-[https://www.wikidata.org/wiki/Q14524112](https://www.wikidata.org/wiki/Q14524112)  
-
-### alignments:
- - [Nisibis/Antiochia](https://pleiades.stoa.org/places/874623)
 
 
 ## Q1453042
@@ -51156,13 +51232,6 @@
  - [Ad Turres](https://pleiades.stoa.org/places/432643)
 
 
-## Q46812956: Theatre of Thorikos
-[https://www.wikidata.org/wiki/Q46812956](https://www.wikidata.org/wiki/Q46812956)  
-
-### alignments:
- - [Theater at Thorikos](https://pleiades.stoa.org/places/375191030)
-
-
 ## Q4688554: Aesica
 [https://www.wikidata.org/wiki/Q4688554](https://www.wikidata.org/wiki/Q4688554)  
 
@@ -51259,13 +51328,6 @@
 
 ### alignments:
  - [Aqua Iulia](https://pleiades.stoa.org/places/423564)
-
-
-## Q4775050: Antiochia in Mesopotamia
-[https://www.wikidata.org/wiki/Q4775050](https://www.wikidata.org/wiki/Q4775050)  
-
-### alignments:
- - [Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis](https://pleiades.stoa.org/places/874324)
 
 
 ## Q477728: Thapsos
@@ -51463,13 +51525,6 @@
 
 ### alignments:
  - [Hiera/Maritima (island)](https://pleiades.stoa.org/places/462243)
-
-
-## Q497731: Viranşehir
-[https://www.wikidata.org/wiki/Q497731](https://www.wikidata.org/wiki/Q497731)  
-
-### alignments:
- - [Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis](https://pleiades.stoa.org/places/874324)
 
 
 ## Q49880: Barete
@@ -53115,13 +53170,6 @@
 
 ### alignments:
  - [Tres Tabernae](https://pleiades.stoa.org/places/423106)
-
-
-## Q622930: Aqua Claudia
-[https://www.wikidata.org/wiki/Q622930](https://www.wikidata.org/wiki/Q622930)  
-
-### alignments:
- - [Aqua Claudia](https://pleiades.stoa.org/places/423563)
 
 
 ## Q622943: Aqua Marcia
@@ -55180,13 +55228,6 @@
 
 ### alignments:
  - [Hierapolis/Kastabala](https://pleiades.stoa.org/places/658481)
-
-
-## Q94946184: Nemesis temple Rhamnous
-[https://www.wikidata.org/wiki/Q94946184](https://www.wikidata.org/wiki/Q94946184)  
-
-### alignments:
- - [Temple of Nemesis](https://pleiades.stoa.org/places/580034)
 
 
 ## Q94978: Tolentino
@@ -60405,6 +60446,13 @@
  - [Hydatos Potamoi/Seleukeia Pieria](https://pleiades.stoa.org/places/658483)
 
 
+## Seleucia Sidera (Q7447932)
+[https://www.wikidata.org/wiki/Q7447932](https://www.wikidata.org/wiki/Q7447932)  
+
+### alignments:
+ - [Seleucia/Claudioseleucia/Seleucia Sidera](https://pleiades.stoa.org/places/639098)
+
+
 ## Seleucid Empire (Q93180)
 [https://www.wikidata.org/wiki/Q93180](https://www.wikidata.org/wiki/Q93180)  
 
@@ -61861,6 +61909,13 @@
 
 ### alignments:
  - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
+
+
+## South Foreland (Q15278681)
+[https://www.wikidata.org/wiki/Q15278681](https://www.wikidata.org/wiki/Q15278681)  
+
+### alignments:
+ - [Kantion Akron](https://pleiades.stoa.org/places/79543)
 
 
 ## South Necropolis (Pergamon) (Q131934430)
@@ -65202,6 +65257,13 @@
  - [Theater of Tegea](https://pleiades.stoa.org/places/953624202)
 
 
+## Theatre of Thorikos (Q46812956)
+[https://www.wikidata.org/wiki/Q46812956](https://www.wikidata.org/wiki/Q46812956)  
+
+### alignments:
+ - [Theater at Thorikos](https://pleiades.stoa.org/places/375191030)
+
+
 ## Theatre of Zea (Q28217926)
 [https://www.wikidata.org/wiki/Q28217926](https://www.wikidata.org/wiki/Q28217926)  
 
@@ -65460,6 +65522,20 @@
 
 ### alignments:
  - [Tholos at the Sanctuary of Asklepios, Epidauros](https://pleiades.stoa.org/places/995644788)
+
+
+## Thorai (Q13422931)
+[https://www.wikidata.org/wiki/Q13422931](https://www.wikidata.org/wiki/Q13422931)  
+
+### alignments:
+ - [Thorai?](https://pleiades.stoa.org/places/580118)
+
+
+## Thouththourbia (Q85809387)
+[https://www.wikidata.org/wiki/Q85809387](https://www.wikidata.org/wiki/Q85809387)  
+
+### alignments:
+ - [*Thouththourbia](https://pleiades.stoa.org/places/648795)
 
 
 ## Thrace (Q1491574)
@@ -66181,6 +66257,13 @@
 
 ### alignments:
  - [Tomb of Cuccumella](https://pleiades.stoa.org/places/704548439)
+
+
+## Tomb of Cyrus the Great (Q2635530)
+[https://www.wikidata.org/wiki/Q2635530](https://www.wikidata.org/wiki/Q2635530)  
+
+### alignments:
+ - [Tomb of Cyrus the Great](https://pleiades.stoa.org/places/547628631)
 
 
 ## Tomb of Eumachia (Q94592884)
@@ -67441,6 +67524,13 @@
 
 ### alignments:
  - [Trident(i)um](https://pleiades.stoa.org/places/383804)
+
+
+## Trieux (Q1232651)
+[https://www.wikidata.org/wiki/Q1232651](https://www.wikidata.org/wiki/Q1232651)  
+
+### alignments:
+ - [Titos (river)](https://pleiades.stoa.org/places/69576)
 
 
 ## Trigno (Q71768)
@@ -70417,6 +70507,13 @@
 
 ### alignments:
  - [Cibalae](https://pleiades.stoa.org/places/197207)
+
+
+## Viranşehir (Q497731)
+[https://www.wikidata.org/wiki/Q497731](https://www.wikidata.org/wiki/Q497731)  
+
+### alignments:
+ - [Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis](https://pleiades.stoa.org/places/874324)
 
 
 ## Viromandui (Q761664)

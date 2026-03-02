@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4854 alignments exist in _Pleiades_ place references as of 2026-02-27. The following list of alignments is grouped by zotkey.
+4858 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -7803,6 +7803,13 @@
 
 ### alignments:
  - [Clastidium](https://pleiades.stoa.org/places/383618)
+
+
+## Claudioseleucia/Seleucia Sidera (Anatolia) 2 Selef,Eğirdir
+[https://topostext.org/place/379306USel](https://topostext.org/place/379306USel)  
+
+### alignments:
+ - [Seleucia/Claudioseleucia/Seleucia Sidera](https://pleiades.stoa.org/places/639098)
 
 
 ## Clausentum? (Britannia) 1 Wickham
@@ -21260,6 +21267,13 @@
  - [Naryka/Tarphe?](https://pleiades.stoa.org/places/540958)
 
 
+## Nasamones tribe (Libya)
+[https://topostext.org/place/298200RNas](https://topostext.org/place/298200RNas)  
+
+### alignments:
+ - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
 ## Nasium (Gallia)
 [https://topostext.org/place/486054UNas](https://topostext.org/place/486054UNas)  
 
@@ -27480,6 +27494,13 @@
  - [Resapha/Sergioupolis](https://pleiades.stoa.org/places/668354)
 
 
+## Rhagai (Media)
+[https://topostext.org/place/356514RRha](https://topostext.org/place/356514RRha)  
+
+### alignments:
+ - [Rhaga(i)/Europos/Arsakia/Ray](https://pleiades.stoa.org/places/903104)
+
+
 ## Rhaikelos (Thessaloniki) 6 Peraia - Ράκηλος
 [https://topostext.org/place/405229URha](https://topostext.org/place/405229URha)  
 
@@ -30809,6 +30830,13 @@
  - [Aedes Ceres Liber Liberaque](https://pleiades.stoa.org/places/581361483)
 
 
+## Temple of Claudius (Rome)
+[https://topostext.org/place/419125SCla](https://topostext.org/place/419125SCla)  
+
+### alignments:
+ - [templum divi Claudii](https://pleiades.stoa.org/places/645216382)
+
+
 ## Temple of Hadrian (Rome)
 [https://topostext.org/place/419125SHad](https://topostext.org/place/419125SHad)  
 
@@ -33936,7 +33964,7 @@
 [https://topostext.org/place/400224SOly](https://topostext.org/place/400224SOly)  
 
 ### alignments:
- - [Zeus Olympios, T.](https://pleiades.stoa.org/places/491756)
+ - [Zeus Olympios (temple)](https://pleiades.stoa.org/places/491756)
 
 
 ## Zeus Ombrios (Hymettos) 1 Imitos summit - βωμός  Ομβρίου Διός
