@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10302 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
+10304 alignments exist in _Pleiades_ place references as of 2026-03-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9028,6 +9028,13 @@
 
 ### alignments:
  - [Bouleuterion at Dodona](https://pleiades.stoa.org/places/618644371)
+
+
+## Bouleuterion in Priene (Q77245461)
+[https://www.wikidata.org/wiki/Q77245461](https://www.wikidata.org/wiki/Q77245461)  
+
+### alignments:
+ - [Bouleuterion](https://pleiades.stoa.org/places/207771144)
 
 
 ## Boura (Q3555318)
@@ -50915,6 +50922,13 @@
 
 ### alignments:
  - [Ganj Nameh](https://pleiades.stoa.org/places/903032)
+
+
+## Q426372
+[https://www.wikidata.org/wiki/Q426372](https://www.wikidata.org/wiki/Q426372)  
+
+### alignments:
+ - [Rostra](https://pleiades.stoa.org/places/796942355)
 
 
 ## Q42659903: El Vilarenc

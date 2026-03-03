@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4858 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
+4862 alignments exist in _Pleiades_ place references as of 2026-03-03. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -98,6 +98,13 @@
 
 ### alignments:
  - [Mariandynoi](https://pleiades.stoa.org/places/845013)
+
+
+## 419125BRoA
+[https://topostext.org/place/419125BRoA](https://topostext.org/place/419125BRoA)  
+
+### alignments:
+ - [Rostra](https://pleiades.stoa.org/places/796942355)
 
 
 ## 419125FPLa: Porta/Via Latina (Rome) 29 Roma
@@ -14370,6 +14377,13 @@
  - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
 
 
+## Jordan river (Palestine)
+[https://topostext.org/place/318355WJor](https://topostext.org/place/318355WJor)  
+
+### alignments:
+ - [Iordanes (river)](https://pleiades.stoa.org/places/687932)
+
+
 ## Julia Valentia Banasa (Mauretania)
 [https://topostext.org/place/346-61UBan](https://topostext.org/place/346-61UBan)  
 
@@ -28022,6 +28036,13 @@
  - [Salaria?](https://pleiades.stoa.org/places/266022)
 
 
+## Saldae (Numidia)
+[https://topostext.org/place/367051USal](https://topostext.org/place/367051USal)  
+
+### alignments:
+ - [Saldae](https://pleiades.stoa.org/places/305142)
+
+
 ## Salduba/Saltum (Iberia)
 [https://topostext.org/place/365000USal](https://topostext.org/place/365000USal)  
 
@@ -28518,6 +28539,13 @@
 
 ### alignments:
  - [Scythopolis/Nysa](https://pleiades.stoa.org/places/678378)
+
+
+## Sea of Galilee/Genesaret (Palestine)
+[https://topostext.org/place/328356WGal](https://topostext.org/place/328356WGal)  
+
+### alignments:
+ - [Tiberiadis Mare/Gennesar Lacus](https://pleiades.stoa.org/places/678430)
 
 
 ## Sebaste (Phrygia)

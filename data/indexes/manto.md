@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-860 alignments exist in _Pleiades_ place references as of 2026-03-02. The following list of alignments is grouped by zotkey.
+862 alignments exist in _Pleiades_ place references as of 2026-03-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3559,6 +3559,13 @@
  - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
 
 
+## 11329135: the Rostra (Rome)
+[https://resource.manto.unh.edu/11329135](https://resource.manto.unh.edu/11329135)  
+
+### alignments:
+ - [Rostra](https://pleiades.stoa.org/places/796942355)
+
+
 ## 11329378: Cape Apollo (N. Africa)?
 [https://resource.manto.unh.edu/11329378](https://resource.manto.unh.edu/11329378)  
 
@@ -6001,6 +6008,13 @@
 
 ### alignments:
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
+
+
+## River Odrysses (Mygdonia)
+[https://resource.manto.unh.edu/11314608](https://resource.manto.unh.edu/11314608)  
+
+### alignments:
+ - [Odryses (river)](https://pleiades.stoa.org/places/511340)
 
 
 ## River Selleis
