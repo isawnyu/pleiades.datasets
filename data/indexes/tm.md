@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4949 alignments exist in _Pleiades_ place references as of 2026-03-04. The following list of alignments is grouped by zotkey.
+4950 alignments exist in _Pleiades_ place references as of 2026-03-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1840,6 +1840,13 @@
 
 ### alignments:
  - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
+
+
+## Geo 4252: Erchoas
+[https://www.trismegistos.org/place/4252](https://www.trismegistos.org/place/4252)  
+
+### alignments:
+ - [Erchoas](https://pleiades.stoa.org/places/798062)
 
 
 ## Geo 42544: Hypanis (Bug)
@@ -23615,7 +23622,7 @@
  - [Neapolis/Herakleia](https://pleiades.stoa.org/places/511333)
 
 
-## GEO ID 41360
+## GEO ID 41360: Sparata (Vakarel)
 [https://www.trismegistos.org/place/41360](https://www.trismegistos.org/place/41360)  
 
 ### alignments:

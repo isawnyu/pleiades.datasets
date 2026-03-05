@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10304 alignments exist in _Pleiades_ place references as of 2026-03-04. The following list of alignments is grouped by zotkey.
+10307 alignments exist in _Pleiades_ place references as of 2026-03-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -37434,6 +37434,13 @@
  - [Philippeion](https://pleiades.stoa.org/places/581674477)
 
 
+## Philippi (Q379652)
+[https://www.wikidata.org/wiki/Q379652](https://www.wikidata.org/wiki/Q379652)  
+
+### alignments:
+ - [Krenides/Philippi/Col. Augusta Iulia Philippensis](https://pleiades.stoa.org/places/501482)
+
+
 ## Philippopolis (Q27047924)
 [https://www.wikidata.org/wiki/Q27047924](https://www.wikidata.org/wiki/Q27047924)  
 
@@ -60874,6 +60881,13 @@
  - [Shaduppum](https://pleiades.stoa.org/places/821129014)
 
 
+## Shahba (Q926336)
+[https://www.wikidata.org/wiki/Q926336](https://www.wikidata.org/wiki/Q926336)  
+
+### alignments:
+ - [Philippopolis](https://pleiades.stoa.org/places/678332)
+
+
 ## Shahr-e Sukhteh (Q1025825)
 [https://www.wikidata.org/wiki/Q1025825](https://www.wikidata.org/wiki/Q1025825)  
 
@@ -63295,6 +63309,13 @@
 
 ### alignments:
  - [Tarbiṣu](https://pleiades.stoa.org/places/30774368)
+
+
+## Tarentum (Q3981110)
+[https://www.wikidata.org/wiki/Q3981110](https://www.wikidata.org/wiki/Q3981110)  
+
+### alignments:
+ - [Tarentum](https://pleiades.stoa.org/places/890225769)
 
 
 ## Tarpeian Rock (Q752553)
