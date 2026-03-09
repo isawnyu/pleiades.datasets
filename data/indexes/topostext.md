@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4862 alignments exist in _Pleiades_ place references as of 2026-03-06. The following list of alignments is grouped by zotkey.
+4869 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -617,6 +617,13 @@
 
 ### alignments:
  - [Aigialos](https://pleiades.stoa.org/places/844852)
+
+
+## Aegytis (Arcadia) 1 S Megalopolis
+[https://topostext.org/place/373221RAeg](https://topostext.org/place/373221RAeg)  
+
+### alignments:
+ - [Aigytis](https://pleiades.stoa.org/places/570053)
 
 
 ## Aeminium (Lusitania)
@@ -1720,6 +1727,13 @@
  - [Albanus M.](https://pleiades.stoa.org/places/422826)
 
 
+## Albania (Caucasus) 150 Georgia - Αλβανία
+[https://topostext.org/place/407465RAlb](https://topostext.org/place/407465RAlb)  
+
+### alignments:
+ - [Albania](https://pleiades.stoa.org/places/863731)
+
+
 ## Albanopolis (Illyria)
 [https://topostext.org/place/415198UAlb](https://topostext.org/place/415198UAlb)  
 
@@ -1795,6 +1809,13 @@
 
 ### alignments:
  - [Alexandria](https://pleiades.stoa.org/places/727070)
+
+
+## Alexandria Eschate (Bactria)
+[https://topostext.org/place/403696UAle](https://topostext.org/place/403696UAle)  
+
+### alignments:
+ - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
 
 
 ## Alexandria on Issos (Syria)
@@ -2264,6 +2285,13 @@
 
 ### alignments:
  - [Amphiareion](https://pleiades.stoa.org/places/540628)
+
+
+## Amphidolia (Eleia) 9 - Αμφίδολοι
+[https://topostext.org/place/378215PAmp](https://topostext.org/place/378215PAmp)  
+
+### alignments:
+ - [Amphidolia](https://pleiades.stoa.org/places/570073)
 
 
 ## Amphigeneia? (Messenia)
@@ -14643,6 +14671,13 @@
  - [Kallidromon](https://pleiades.stoa.org/places/540848)
 
 
+## Kallikolone (Troad) 9 Karatepe
+[https://topostext.org/place/400264LKal](https://topostext.org/place/400264LKal)  
+
+### alignments:
+ - [Kallikolone M.](https://pleiades.stoa.org/places/550609)
+
+
 ## Kallipolis (Caria) 3 Göcek - Καλλίπολις
 [https://topostext.org/place/370283UKal](https://topostext.org/place/370283UKal)  
 
@@ -20284,6 +20319,13 @@
 
 ### alignments:
  - [Messa](https://pleiades.stoa.org/places/570478)
+
+
+## Messapeai Anthochori (Lakonia) 2 Anthochori
+[https://topostext.org/place/369225XMes](https://topostext.org/place/369225XMes)  
+
+### alignments:
+ - [Messapeai](https://pleiades.stoa.org/places/573373)
 
 
 ## Messapians tribe (Magna Graecia)
@@ -33663,6 +33705,13 @@
 
 ### alignments:
  - [Vryokastro](https://pleiades.stoa.org/places/247348184)
+
+
+## Vulci (Etruria) 4 near Montalto di Castro
+[https://topostext.org/place/424116UVul](https://topostext.org/place/424116UVul)  
+
+### alignments:
+ - [Vulci](https://pleiades.stoa.org/places/413393)
 
 
 ## Windmill Hill sanctuary (Athens)

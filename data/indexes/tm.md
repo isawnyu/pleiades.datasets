@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4950 alignments exist in _Pleiades_ place references as of 2026-03-06. The following list of alignments is grouped by zotkey.
+4954 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -887,13 +887,6 @@
 
 ### alignments:
  - [Abrittus](https://pleiades.stoa.org/places/216688)
-
-
-## Geo 30329: Aigai (Vergina)
-[https://www.trismegistos.org/place/30329](https://www.trismegistos.org/place/30329)  
-
-### alignments:
- - [Aigeai](https://pleiades.stoa.org/places/491512)
 
 
 ## Geo 3135: Golas (Bu Njem)
@@ -7093,6 +7086,13 @@
 
 ### alignments:
  - [Amantia](https://pleiades.stoa.org/places/481715)
+
+
+## GEO ID 15802: Hadrianopolis (Sofratikë)
+[https://www.trismegistos.org/place/15802](https://www.trismegistos.org/place/15802)  
+
+### alignments:
+ - [Hadrianopolis](https://pleiades.stoa.org/places/530885)
 
 
 ## GEO ID 15816: Orikos (Orikumi)
@@ -15142,6 +15142,13 @@
  - [Pantikapaion/Bosp(h)orus](https://pleiades.stoa.org/places/854719)
 
 
+## GEO ID 30329: Aigai (Vergina)
+[https://www.trismegistos.org/place/30329](https://www.trismegistos.org/place/30329)  
+
+### alignments:
+ - [Aigeai](https://pleiades.stoa.org/places/491512)
+
+
 ## GEO ID 3034: Pheretnouis
 [http://www.trismegistos.org/place/3034](http://www.trismegistos.org/place/3034)  
 
@@ -19719,6 +19726,13 @@
 
 ### alignments:
  - [Zaldapa](https://pleiades.stoa.org/places/222244)
+
+
+## GEO ID 36402: Albania
+[https://www.trismegistos.org/place/36402](https://www.trismegistos.org/place/36402)  
+
+### alignments:
+ - [Albania](https://pleiades.stoa.org/places/863731)
 
 
 ## GEO ID 3640: Taucheira (Tokra)
@@ -30788,6 +30802,13 @@
  - [Kolchonouphites](https://pleiades.stoa.org/places/730119)
 
 
+## GEO ID 52: Aetolia
+[https://www.trismegistos.org/place/52](https://www.trismegistos.org/place/52)  
+
+### alignments:
+ - [Aetolia](https://pleiades.stoa.org/places/540591)
+
+
 ## GEO ID 53013: Shait
 [https://www.trismegistos.org/place/53013](https://www.trismegistos.org/place/53013)  
 
@@ -33765,6 +33786,13 @@
 
 ### alignments:
  - [Athychis](https://pleiades.stoa.org/places/741436)
+
+
+## GEO ID 8395
+[http://www.trismegistos.org/place/8395](http://www.trismegistos.org/place/8395)  
+
+### alignments:
+ - [Aigai](https://pleiades.stoa.org/places/540603)
 
 
 ## GEO ID 840: Hiera Nesos

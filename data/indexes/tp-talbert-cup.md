@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2329 alignments exist in _Pleiades_ place references as of 2026-03-06. The following list of alignments is grouped by zotkey.
+2330 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -11347,6 +11347,13 @@
 
 ### alignments:
  - [Amantia](https://pleiades.stoa.org/places/481715)
+
+
+## 6B3 (Talbert 1854)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1854.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1854.html)  
+
+### alignments:
+ - [Hadrianopolis](https://pleiades.stoa.org/places/530885)
 
 
 ## 6B3 (Talbert 1858)
