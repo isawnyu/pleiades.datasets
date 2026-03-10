@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10332 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
+10337 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -42436,6 +42436,13 @@
  - [Lykos (river)](https://pleiades.stoa.org/places/707565)
 
 
+## Q12880241
+[https://www.wikidata.org/wiki/Q12880241](https://www.wikidata.org/wiki/Q12880241)  
+
+### alignments:
+ - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
+
+
 ## Q12880663: Trophonius Oracle
 [https://www.wikidata.org/wiki/Q12880663](https://www.wikidata.org/wiki/Q12880663)  
 
@@ -47669,6 +47676,13 @@
 
 ### alignments:
  - [Ištar Gate](https://pleiades.stoa.org/places/653377582)
+
+
+## Q2612265
+[https://www.wikidata.org/wiki/Q2612265](https://www.wikidata.org/wiki/Q2612265)  
+
+### alignments:
+ - [Temple of Artemis (Aulis)](https://pleiades.stoa.org/places/741537853)
 
 
 ## Q261318: Carrowkeel Megalithic Cemetery
@@ -53802,6 +53816,13 @@
  - [Obernburg](https://pleiades.stoa.org/places/118889)
 
 
+## Q656900
+[https://www.wikidata.org/wiki/Q656900](https://www.wikidata.org/wiki/Q656900)  
+
+### alignments:
+ - [Cassiterides](https://pleiades.stoa.org/places/583607985)
+
+
 ## Q6578608: Savacık
 [https://www.wikidata.org/wiki/Q6578608](https://www.wikidata.org/wiki/Q6578608)  
 
@@ -55396,13 +55417,6 @@
 
 ### alignments:
  - [Nicopolis ad Nestum/Ulpia Nicopolis](https://pleiades.stoa.org/places/501525)
-
-
-## Q952173: Selinunte
-[https://www.wikidata.org/wiki/Q952173](https://www.wikidata.org/wiki/Q952173)  
-
-### alignments:
- - [Selinus](https://pleiades.stoa.org/places/462489)
 
 
 ## Q952186: Azor
@@ -59494,6 +59508,13 @@
  - [Sanctuary of the Bona Dea](https://pleiades.stoa.org/places/510922209)
 
 
+## Sanctuary of the Nymphs Ionides (Eleia) (Q107031254)
+[https://www.wikidata.org/wiki/Q107031254](https://www.wikidata.org/wiki/Q107031254)  
+
+### alignments:
+ - [The Sanctuary of the Nymph Ionides](https://pleiades.stoa.org/places/463282370)
+
+
 ## Sanctuary of the People and the Graces (Q125116985)
 [https://www.wikidata.org/wiki/Q125116985](https://www.wikidata.org/wiki/Q125116985)  
 
@@ -60633,6 +60654,13 @@
 
 ### alignments:
  - [Selinous (river)](https://pleiades.stoa.org/places/570661)
+
+
+## Selinunte (Q952173)
+[https://www.wikidata.org/wiki/Q952173](https://www.wikidata.org/wiki/Q952173)  
+
+### alignments:
+ - [Selinus](https://pleiades.stoa.org/places/462489)
 
 
 ## Selinus (Q11948129)
@@ -71985,6 +72013,13 @@
 
 ### alignments:
  - [Zereia/Zeira](https://pleiades.stoa.org/places/507480)
+
+
+## Zerynthus (Q8069673)
+[https://www.wikidata.org/wiki/Q8069673](https://www.wikidata.org/wiki/Q8069673)  
+
+### alignments:
+ - [Zerynthos](https://pleiades.stoa.org/places/501664)
 
 
 ## Zerzevan Castle (Q28806346)

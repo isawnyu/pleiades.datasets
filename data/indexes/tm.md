@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4954 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
+4954 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -677,13 +677,6 @@
 
 ### alignments:
  - [Sparta](https://pleiades.stoa.org/places/570685)
-
-
-## Geo 22286: Selinous (Selinunte)
-[https://www.trismegistos.org/place/22286](https://www.trismegistos.org/place/22286)  
-
-### alignments:
- - [Selinus](https://pleiades.stoa.org/places/462489)
 
 
 ## Geo 22359: Alpes Maritimae
@@ -11085,6 +11078,13 @@
 
 ### alignments:
  - [Calvisiana?](https://pleiades.stoa.org/places/462125)
+
+
+## GEO ID 22286: Selinous (Selinunte)
+[https://www.trismegistos.org/place/22286](https://www.trismegistos.org/place/22286)  
+
+### alignments:
+ - [Selinus](https://pleiades.stoa.org/places/462489)
 
 
 ## GEO ID 22289: Katane (Catania)

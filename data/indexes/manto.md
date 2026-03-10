@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-926 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
+936 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -139,6 +139,13 @@
 
 ### alignments:
  - [Salamis/Konstantia](https://pleiades.stoa.org/places/707617)
+
+
+## 10066109: City of Heleios
+[https://resource.manto.unh.edu/10066109](https://resource.manto.unh.edu/10066109)  
+
+### alignments:
+ - [Heleios](https://pleiades.stoa.org/places/434772636)
 
 
 ## 10073062: Cromna (Argolid)
@@ -2900,6 +2907,13 @@
  - [Aretias/Areonesos (islands)](https://pleiades.stoa.org/places/857042)
 
 
+## 11304146: Selinous (Sicily)
+[https://resource.manto.unh.edu/11304146](https://resource.manto.unh.edu/11304146)  
+
+### alignments:
+ - [Selinus](https://pleiades.stoa.org/places/462489)
+
+
 ## 11304203: the Heraian Mountains (Sicily)
 [https://resource.manto.unh.edu/11304203](https://resource.manto.unh.edu/11304203)  
 
@@ -3171,6 +3185,13 @@
 
 ### alignments:
  - [Eurykydeion](https://pleiades.stoa.org/places/573224)
+
+
+## 11308487: the Sanctuary of the Daughters of Ion (Elis)
+[https://resource.manto.unh.edu/11308487](https://resource.manto.unh.edu/11308487)  
+
+### alignments:
+ - [The Sanctuary of the Nymph Ionides](https://pleiades.stoa.org/places/463282370)
 
 
 ## 11308533: Rhypes (Achaia)
@@ -3909,11 +3930,25 @@
  - [Nasamones](https://pleiades.stoa.org/places/373861)
 
 
+## 11327251: The Lichades Islands (Malian Gulf)
+[https://resource.manto.unh.edu/11327251](https://resource.manto.unh.edu/11327251)  
+
+### alignments:
+ - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
+
+
 ## 11327642: Velzna (Etruria)
 [https://resource.manto.unh.edu/11327642](https://resource.manto.unh.edu/11327642)  
 
 ### alignments:
  - [Velzna/*Volsinii Veteres/Urbiventus](https://pleiades.stoa.org/places/413373)
+
+
+## 11327841: the Sanctuary of Artemis at Aulis (Boiotia)
+[https://resource.manto.unh.edu/11327841](https://resource.manto.unh.edu/11327841)  
+
+### alignments:
+ - [Temple of Artemis (Aulis)](https://pleiades.stoa.org/places/741537853)
 
 
 ## 11327844: Ainia (Thessaly)
@@ -3928,6 +3963,13 @@
 
 ### alignments:
  - [Barke](https://pleiades.stoa.org/places/373750)
+
+
+## 11328115: Cassiterris (island)
+[https://resource.manto.unh.edu/11328115](https://resource.manto.unh.edu/11328115)  
+
+### alignments:
+ - [Cassiterides](https://pleiades.stoa.org/places/583607985)
 
 
 ## 11328490: the Land of the Marsi
@@ -4007,6 +4049,13 @@
  - [Saepta Iulia](https://pleiades.stoa.org/places/854946506)
 
 
+## 11329850: the Temple of Artemis at Aulis
+[https://resource.manto.unh.edu/11329850](https://resource.manto.unh.edu/11329850)  
+
+### alignments:
+ - [Temple of Artemis (Aulis)](https://pleiades.stoa.org/places/741537853)
+
+
 ## 11329858: the Vatican Hill (Rome)
 [https://resource.manto.unh.edu/11329858](https://resource.manto.unh.edu/11329858)  
 
@@ -4068,6 +4117,13 @@
 
 ### alignments:
  - [Atlantis](https://pleiades.stoa.org/places/633625629)
+
+
+## 11331316: City of Cephalos
+[https://resource.manto.unh.edu/11331316](https://resource.manto.unh.edu/11331316)  
+
+### alignments:
+ - [Cephalos](https://pleiades.stoa.org/places/886967593)
 
 
 ## 11331325: Hyria (Cilicia)
@@ -4552,6 +4608,13 @@
 
 ### alignments:
  - [Lindos](https://pleiades.stoa.org/places/589913)
+
+
+## 8240713: the Sanctuary of Athena Lindia at Lindos
+[https://resource.manto.unh.edu/8240713](https://resource.manto.unh.edu/8240713)  
+
+### alignments:
+ - [Temple of Athena Lindia](https://pleiades.stoa.org/places/414067217)
 
 
 ## 8253939: River Inachos (Argolid)
@@ -6204,6 +6267,13 @@
 
 ### alignments:
  - [Helicon (mountain)](https://pleiades.stoa.org/places/540808)
+
+
+## 9878333: Zerynthos (Samothrace)
+[https://resource.manto.unh.edu/9878333](https://resource.manto.unh.edu/9878333)  
+
+### alignments:
+ - [Zerynthos](https://pleiades.stoa.org/places/501664)
 
 
 ## 9878375: Mount Apesantos (Argolid)

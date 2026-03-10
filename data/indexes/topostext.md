@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with ToposText
-4869 alignments exist in _Pleiades_ place references as of 2026-03-09. The following list of alignments is grouped by zotkey.
+4872 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
+
+## 23453
+[https://topostext.org/people/23453](https://topostext.org/people/23453)  
+
+### alignments:
+ - [Cassiterides](https://pleiades.stoa.org/places/583607985)
+
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
 [https://topostext.org/place/352261XPla](https://topostext.org/place/352261XPla)  
@@ -70,6 +77,13 @@
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
+
+
+## 388228ILic
+[https://topostext.org/place/388228ILic](https://topostext.org/place/388228ILic)  
+
+### alignments:
+ - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -5289,6 +5303,7 @@
 
 ### alignments:
  - [Aulis](https://pleiades.stoa.org/places/579889)
+ - [Temple of Artemis (Aulis)](https://pleiades.stoa.org/places/741537853)
 
 
 ## Aulon (Illyria)
@@ -28268,6 +28283,13 @@
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
 
 
+## Sanctuary of the Nymphs Ionides (Eleia) 1
+[https://topostext.org/place/377216SNIo](https://topostext.org/place/377216SNIo)  
+
+### alignments:
+ - [The Sanctuary of the Nymph Ionides](https://pleiades.stoa.org/places/463282370)
+
+
 ## Sandalium? (Lesbos) 2 Garbia - Σανδάλιον
 [https://topostext.org/place/393263ISan](https://topostext.org/place/393263ISan)  
 
@@ -32224,6 +32246,7 @@
  - [Kamilari](https://pleiades.stoa.org/places/589835)
  - [Limiko blockhouse (Argolid)](https://pleiades.stoa.org/places/500721867)
  - [Makrygiannis domus](https://pleiades.stoa.org/places/496995888)
+ - [Mostene](https://pleiades.stoa.org/places/550752)
  - [Sanctuary of Artemis at Avlonas](https://pleiades.stoa.org/places/581674476)
  - [Toronaikos Kolpos](https://pleiades.stoa.org/places/501647)
  - [Vroulia](https://pleiades.stoa.org/places/590093)
