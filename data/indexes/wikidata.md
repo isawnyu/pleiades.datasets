@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10337 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
+10338 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -22028,6 +22028,13 @@
 
 ### alignments:
  - [Hanau](https://pleiades.stoa.org/places/118726)
+
+
+## Hanay Hill (Q132182273)
+[https://www.wikidata.org/wiki/Q132182273](https://www.wikidata.org/wiki/Q132182273)  
+
+### alignments:
+ - [Bozköy-Hanaytepe](https://pleiades.stoa.org/places/581020757)
 
 
 ## Hanches (Q1139329)

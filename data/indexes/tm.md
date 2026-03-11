@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4954 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
+4955 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29020,6 +29020,13 @@
 
 ### alignments:
  - [Sabrina (river)](https://pleiades.stoa.org/places/629064)
+
+
+## Geo ID 45005: Chabina
+[http://www.trismegistos.org/place/45005](http://www.trismegistos.org/place/45005)  
+
+### alignments:
+ - [Chabina (river)](https://pleiades.stoa.org/places/658430)
 
 
 ## GEO ID 45008: Tell el-Ma'araka

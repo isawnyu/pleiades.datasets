@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-936 alignments exist in _Pleiades_ place references as of 2026-03-10. The following list of alignments is grouped by zotkey.
+937 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3984,6 +3984,13 @@
 
 ### alignments:
  - [Bizye](https://pleiades.stoa.org/places/511190)
+
+
+## 11328766: Calypsos (S. Italy)
+[https://resource.manto.unh.edu/11328766](https://resource.manto.unh.edu/11328766)  
+
+### alignments:
+ - [Ogygia/Calypsus (island)](https://pleiades.stoa.org/places/456105)
 
 
 ## 11328897
