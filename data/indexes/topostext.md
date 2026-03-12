@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4872 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
+4874 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -77,13 +77,6 @@
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
-
-
-## 388228ILic
-[https://topostext.org/place/388228ILic](https://topostext.org/place/388228ILic)  
-
-### alignments:
- - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -18501,6 +18494,13 @@
  - [Libyssa](https://pleiades.stoa.org/places/511305)
 
 
+## Lichades (Central Greece) 5
+[https://topostext.org/place/388228ILic](https://topostext.org/place/388228ILic)  
+
+### alignments:
+ - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
+
+
 ## Liger river (Gallia)
 [https://topostext.org/place/471-15WLig](https://topostext.org/place/471-15WLig)  
 
@@ -20839,6 +20839,13 @@
 
 ### alignments:
  - [Monopteros](https://pleiades.stoa.org/places/87615187)
+
+
+## Monte Pruno (Lucania)
+[https://topostext.org/place/404153XMON](https://topostext.org/place/404153XMON)  
+
+### alignments:
+ - [Monte Pruno](https://pleiades.stoa.org/places/442670)
 
 
 ## Monte San Mauro site (Sicily)
@@ -27676,6 +27683,13 @@
 ### alignments:
  - [Prinias (Patela)](https://pleiades.stoa.org/places/589981)
  - [Rhittenia?](https://pleiades.stoa.org/places/590029)
+
+
+## Rhizon/Risinum (Illyria) 9 Risan
+[https://topostext.org/place/425187URiz](https://topostext.org/place/425187URiz)  
+
+### alignments:
+ - [Rhizon/Risinium](https://pleiades.stoa.org/places/197471)
 
 
 ## Rhizous (Thessaly)

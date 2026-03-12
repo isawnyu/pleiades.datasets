@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-937 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
+938 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3928,6 +3928,13 @@
 
 ### alignments:
  - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
+## 11327039: the Malian Gulf (C. Greece)
+[https://resource.manto.unh.edu/11327039](https://resource.manto.unh.edu/11327039)  
+
+### alignments:
+ - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
 
 
 ## 11327251: The Lichades Islands (Malian Gulf)

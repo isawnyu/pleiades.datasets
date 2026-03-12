@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10338 alignments exist in _Pleiades_ place references as of 2026-03-11. The following list of alignments is grouped by zotkey.
+10341 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -69,6 +69,13 @@
 
 ### alignments:
  - [Lapford](https://pleiades.stoa.org/places/502452939)
+
+
+## A Romano-British villa at Boxted (Q17647286)
+[http://www.wikidata.org/entity/Q17647286](http://www.wikidata.org/entity/Q17647286)  
+
+### alignments:
+ - [Boxted Roman villa](https://pleiades.stoa.org/places/82140844)
 
 
 ## A street, Dura-Europos (Q116621881)
@@ -28409,6 +28416,13 @@
  - [Licates](https://pleiades.stoa.org/places/187454)
 
 
+## Lichades (Q12880241)
+[https://www.wikidata.org/wiki/Q12880241](https://www.wikidata.org/wiki/Q12880241)  
+
+### alignments:
+ - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
+
+
 ## Licosa (Q1139764)
 [https://www.wikidata.org/wiki/Q1139764](https://www.wikidata.org/wiki/Q1139764)  
 
@@ -32308,6 +32322,13 @@
 
 ### alignments:
  - [Monte Poggiolo](https://pleiades.stoa.org/places/19936501)
+
+
+## Monte Pruno (Q1240860)
+[https://www.wikidata.org/wiki/Q1240860](https://www.wikidata.org/wiki/Q1240860)  
+
+### alignments:
+ - [Monte Pruno](https://pleiades.stoa.org/places/442670)
 
 
 ## Monte Rovello (Q65129683)
@@ -42441,13 +42462,6 @@
 
 ### alignments:
  - [Lykos (river)](https://pleiades.stoa.org/places/707565)
-
-
-## Q12880241
-[https://www.wikidata.org/wiki/Q12880241](https://www.wikidata.org/wiki/Q12880241)  
-
-### alignments:
- - [Lichades Islands](https://pleiades.stoa.org/places/573313209)
 
 
 ## Q12880663: Trophonius Oracle
@@ -59296,6 +59310,13 @@
 
 ### alignments:
  - [Sanafir Island](https://pleiades.stoa.org/places/290587550)
+
+
+## Sanahin Monastery (Q1975614)
+[https://www.wikidata.org/wiki/Q1975614](https://www.wikidata.org/wiki/Q1975614)  
+
+### alignments:
+ - [Sanahin Monastery](https://pleiades.stoa.org/places/285923206)
 
 
 ## Sanctio (Q21556431)
