@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4874 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
+4877 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -91,6 +91,13 @@
 
 ### alignments:
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+
+
+## 400262MPro
+[https://topostext.org/place/400262MPro](https://topostext.org/place/400262MPro)  
+
+### alignments:
+ - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
 
 
 ## 405233RCha: Chalcidike region (Chalkidike) 102 Khalkidiki - Χαλκιδική
@@ -484,6 +491,13 @@
 
 ### alignments:
  - [Acrillae](https://pleiades.stoa.org/places/462069)
+
+
+## Acruvium (Illyria)
+[https://topostext.org/place/424188UAcr](https://topostext.org/place/424188UAcr)  
+
+### alignments:
+ - [*Agruvium](https://pleiades.stoa.org/places/197097)
 
 
 ## Actian Apollo (Akarnania)
@@ -6473,6 +6487,13 @@
 
 ### alignments:
  - [Bragylai](https://pleiades.stoa.org/places/491555)
+
+
+## Brauron EC basilica (Attica) Vravrona - Βραυρώνα
+[https://topostext.org/place/379240EBra](https://topostext.org/place/379240EBra)  
+
+### alignments:
+ - [Paleochristian basilica at Vravrona](https://pleiades.stoa.org/places/26337957)
 
 
 ## Brauronian Artemis shrine (Athens Acropolis) 1 Acropolis of Athens

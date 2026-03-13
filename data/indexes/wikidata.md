@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10341 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
+10347 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17516,6 +17516,13 @@
  - [E5 Barracks](https://pleiades.stoa.org/places/888638028)
 
 
+## Early Christian Basilica of Brauron (Q61355267)
+[https://www.wikidata.org/wiki/Q61355267](https://www.wikidata.org/wiki/Q61355267)  
+
+### alignments:
+ - [Paleochristian basilica at Vravrona](https://pleiades.stoa.org/places/26337957)
+
+
 ## Early Christian Basilica of Lechaeum (Q56398333)
 [https://www.wikidata.org/wiki/Q56875671](https://www.wikidata.org/wiki/Q56875671)  
 
@@ -25404,6 +25411,20 @@
  - [Kara-Tepe](https://pleiades.stoa.org/places/348167893)
 
 
+## Karabel Pass (Q49138342)
+[https://www.wikidata.org/wiki/Q49138342](https://www.wikidata.org/wiki/Q49138342)  
+
+### alignments:
+ - [Karabel Pass](https://pleiades.stoa.org/places/106315004)
+
+
+## Karabel relief (Q1404388)
+[https://www.wikidata.org/wiki/Q1404388](https://www.wikidata.org/wiki/Q1404388)  
+
+### alignments:
+ - [Karabel Reliefs](https://pleiades.stoa.org/places/218728805)
+
+
 ## Karacadağ (Q31518956)
 [https://www.wikidata.org/wiki/Q31518956](https://www.wikidata.org/wiki/Q31518956)  
 
@@ -32756,6 +32777,13 @@
 
 ### alignments:
  - [Mount Nebo](https://pleiades.stoa.org/places/563265622)
+
+
+## Mount Nif (Q6922413)
+[https://www.wikidata.org/wiki/Q6922413](https://www.wikidata.org/wiki/Q6922413)  
+
+### alignments:
+ - [Nif/Olympos? (mountain)](https://pleiades.stoa.org/places/550786)
 
 
 ## Mount Oeta (Q132378)
@@ -41900,6 +41928,13 @@
 
 ### alignments:
  - [Iciniacum](https://pleiades.stoa.org/places/118758)
+
+
+## Q121543499
+[https://www.wikidata.org/wiki/Q121543499](https://www.wikidata.org/wiki/Q121543499)  
+
+### alignments:
+ - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
 
 
 ## Q121837292
@@ -63211,6 +63246,13 @@
 
 ### alignments:
  - [Tabālu (region)](https://pleiades.stoa.org/places/129678075)
+
+
+## Tabard Square Roman temple complex (Q56293373)
+[http://www.wikidata.org/entity/Q56293373](http://www.wikidata.org/entity/Q56293373)  
+
+### alignments:
+ - [Tabard Square Temple Complex](https://pleiades.stoa.org/places/646165662)
 
 
 ## Tabarka (Q986213)

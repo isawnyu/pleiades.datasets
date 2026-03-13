@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4955 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
+4956 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14645,7 +14645,7 @@
  - [Rhizon/Risinium](https://pleiades.stoa.org/places/197471)
 
 
-## GEO ID 29619
+## GEO ID 29619: Agruvium (Kotor)
 [http://www.trismegistos.org/place/29619](http://www.trismegistos.org/place/29619)  
 
 ### alignments:
@@ -32930,6 +32930,13 @@
 
 ### alignments:
  - [Flamonienses](https://pleiades.stoa.org/places/194047)
+
+
+## GEO ID 64077: Endirudini
+[https://www.trismegistos.org/place/64077](https://www.trismegistos.org/place/64077)  
+
+### alignments:
+ - [Endirudini](https://pleiades.stoa.org/places/197261)
 
 
 ## GEO ID 64127: Kalamisos

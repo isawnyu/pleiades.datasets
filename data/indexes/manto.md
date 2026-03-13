@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-938 alignments exist in _Pleiades_ place references as of 2026-03-12. The following list of alignments is grouped by zotkey.
+942 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Elaious](https://pleiades.stoa.org/places/501411)
+
+
+## 10073066: the Tomb of Protesilaos (Chersonesos)
+[https://resource.manto.unh.edu/10073066](https://resource.manto.unh.edu/10073066)  
+
+### alignments:
+ - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
 
 
 ## 10073075: Mount Cragos (Lycia)
@@ -2585,6 +2592,13 @@
  - [Leuka (mountain)](https://pleiades.stoa.org/places/589907)
 
 
+## 11296706: Mount Olympos (Mysia)
+[https://resource.manto.unh.edu/11296706](https://resource.manto.unh.edu/11296706)  
+
+### alignments:
+ - [Nif/Olympos? (mountain)](https://pleiades.stoa.org/places/550786)
+
+
 ## 11296719: Perge (Asia Minor)
 [https://resource.manto.unh.edu/11296719](https://resource.manto.unh.edu/11296719)  
 
@@ -3902,6 +3916,13 @@
  - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
+## 11325491: Bouthoe (Illyria)
+[https://resource.manto.unh.edu/11325491](https://resource.manto.unh.edu/11325491)  
+
+### alignments:
+ - [Bouthoe](https://pleiades.stoa.org/places/481770)
+
+
 ## 11325840: Actium (Epeiros)
 [https://resource.manto.unh.edu/11325840](https://resource.manto.unh.edu/11325840)  
 
@@ -4040,6 +4061,13 @@
 
 ### alignments:
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
+## 11329531: Colchinium (Illyria)
+[https://resource.manto.unh.edu/11329531](https://resource.manto.unh.edu/11329531)  
+
+### alignments:
+ - [Olcinium/Vicinium](https://pleiades.stoa.org/places/481931)
 
 
 ## 11329647: the Temple of Apollo Sosianus at Rome
