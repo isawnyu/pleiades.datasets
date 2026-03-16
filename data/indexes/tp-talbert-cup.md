@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2330 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
+2332 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -538,6 +538,13 @@
 
 ### alignments:
  - [Resaina/Theodosiopolis](https://pleiades.stoa.org/places/874662)
+
+
+## 10B3 (Talbert 2629)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2629.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2629.html)  
+
+### alignments:
+ - [Vicus](https://pleiades.stoa.org/places/147897942)
 
 
 ## 10B3 (Talbert 2630)
@@ -16304,6 +16311,13 @@
 
 ### alignments:
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
+
+
+## TP 10B3 (Talbert 2617)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2617.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2617.html)  
+
+### alignments:
+ - [Daiara/Thiara](https://pleiades.stoa.org/places/658449)
 
 
 ## TP 2B3 Albe[-?-]+imillo (Talbert 849)

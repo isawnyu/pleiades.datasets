@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4877 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
+4881 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -2819,6 +2819,13 @@
  - [Anthemous](https://pleiades.stoa.org/places/491521)
 
 
+## Anthemusias (Mesopotamia)
+[https://topostext.org/place/368380UAnt](https://topostext.org/place/368380UAnt)  
+
+### alignments:
+ - [Anthemusia?](https://pleiades.stoa.org/places/658379)
+
+
 ## Anthene (Arkadia)
 [https://topostext.org/place/375227UAnt](https://topostext.org/place/375227UAnt)  
 
@@ -3551,7 +3558,7 @@
 [https://topostext.org/place/402286WApo](https://topostext.org/place/402286WApo)  
 
 ### alignments:
- - [Miletopolitis/Apolloniatis/Artynia L.](https://pleiades.stoa.org/places/511319)
+ - [Miletopolitis/Apolloniatis/Artynia (lake)](https://pleiades.stoa.org/places/511319)
 
 
 ## Apollonis (Lydia)
@@ -8399,6 +8406,13 @@
 
 ### alignments:
  - [Dafni Pan cave (Attica)](https://pleiades.stoa.org/places/61966026)
+
+
+## Daiara (Mesopotamia)
+[https://topostext.org/place/370382UDai](https://topostext.org/place/370382UDai)  
+
+### alignments:
+ - [Daiara/Thiara](https://pleiades.stoa.org/places/658449)
 
 
 ## Daidala (Caria)
@@ -21429,6 +21443,13 @@
  - [Naustathmos](https://pleiades.stoa.org/places/373862)
 
 
+## Navel of the City of Rome (Rome)
+[https://topostext.org/place/419125AOmp](https://topostext.org/place/419125AOmp)  
+
+### alignments:
+ - [Umbilicus urbis Romae](https://pleiades.stoa.org/places/225909940)
+
+
 ## Naxia (Caria)
 [https://topostext.org/place/376277UNax](https://topostext.org/place/376277UNax)  
 
@@ -24814,6 +24835,13 @@
 
 ### alignments:
  - [Phanari](https://pleiades.stoa.org/places/501560)
+
+
+## Phanaroia plain (Pontus)
+[https://topostext.org/place/408363RPha](https://topostext.org/place/408363RPha)  
+
+### alignments:
+ - [Phanaroia](https://pleiades.stoa.org/places/857270)
 
 
 ## Phara (Lefkada)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4956 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
+4958 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3761,6 +3761,13 @@
 
 ### alignments:
  - [Neilopolites](https://pleiades.stoa.org/places/730128)
+
+
+## GEO ID 12371: Maiotis (Sea of Azov)
+[https://www.trismegistos.org/place/12371](https://www.trismegistos.org/place/12371)  
+
+### alignments:
+ - [Maeotis](https://pleiades.stoa.org/places/825318)
 
 
 ## GEO ID 12386: Pessinous (Ballıhisar)
@@ -23963,6 +23970,13 @@
 
 ### alignments:
  - [Sammachi](https://pleiades.stoa.org/places/874674)
+
+
+## GEO ID 41543: Daiara (Cerdo)
+[https://www.trismegistos.org/place/41543](https://www.trismegistos.org/place/41543)  
+
+### alignments:
+ - [Daiara/Thiara](https://pleiades.stoa.org/places/658449)
 
 
 ## GEO ID 41549: Sarbane (Gürkaynak)

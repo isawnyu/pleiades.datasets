@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10347 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
+10353 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3755,6 +3755,13 @@
 
 ### alignments:
  - [Anthemous](https://pleiades.stoa.org/places/491521)
+
+
+## Anthemusias (Q3561792)
+[https://www.wikidata.org/wiki/Q3561792](https://www.wikidata.org/wiki/Q3561792)  
+
+### alignments:
+ - [Anthemusia?](https://pleiades.stoa.org/places/658379)
 
 
 ## Anthée (Samian Ware Discovery Site) (Q103141827)
@@ -9301,6 +9308,13 @@
 
 ### alignments:
  - [Bratton Castle](https://pleiades.stoa.org/places/876608639)
+
+
+## Braughing Roman Town (Q4958235)
+[http://www.wikidata.org/entity/Q4958235](http://www.wikidata.org/entity/Q4958235)  
+
+### alignments:
+ - [Braughing](https://pleiades.stoa.org/places/79349)
 
 
 ## Braunau am Inn (Q131128)
@@ -15854,6 +15868,13 @@
  - [Alalaiou (islands)](https://pleiades.stoa.org/places/39281)
 
 
+## Daiara (Q134726232)
+[https://www.wikidata.org/wiki/Q134726232](https://www.wikidata.org/wiki/Q134726232)  
+
+### alignments:
+ - [Daiara/Thiara](https://pleiades.stoa.org/places/658449)
+
+
 ## Daidalidai (Q13424317)
 [https://www.wikidata.org/wiki/Q13424317](https://www.wikidata.org/wiki/Q13424317)  
 
@@ -22142,6 +22163,13 @@
  - [Harpole Roman villa](https://pleiades.stoa.org/places/438961574)
 
 
+## Harran (Q199547)
+[https://www.wikidata.org/wiki/Q199547](https://www.wikidata.org/wiki/Q199547)  
+
+### alignments:
+ - [Harran/Carrhae](https://pleiades.stoa.org/places/658427)
+
+
 ## Hartland Point (Q907467)
 [https://www.wikidata.org/wiki/Q907467](https://www.wikidata.org/wiki/Q907467)  
 
@@ -23960,13 +23988,6 @@
 
 ### alignments:
  - [Oxymatis (river)](https://pleiades.stoa.org/places/59971)
-
-
-## Ickleton (Q2054431)
-[https://www.wikidata.org/wiki/Q2054431](https://www.wikidata.org/wiki/Q2054431)  
-
-### alignments:
- - [Ickleton](https://pleiades.stoa.org/places/79524)
 
 
 ## Icknield Street (Q1238821)
@@ -27671,7 +27692,7 @@
 [https://www.wikidata.org/wiki/Q4809067](https://www.wikidata.org/wiki/Q4809067)  
 
 ### alignments:
- - [Miletopolitis/Apolloniatis/Artynia L.](https://pleiades.stoa.org/places/511319)
+ - [Miletopolitis/Apolloniatis/Artynia (lake)](https://pleiades.stoa.org/places/511319)
 
 
 ## Lake Vadimo (Q3826072)
@@ -37574,6 +37595,13 @@
  - [Phanagor(e)ia](https://pleiades.stoa.org/places/854724)
 
 
+## Phanaroea (Q104841350)
+[https://www.wikidata.org/wiki/Q104841350](https://www.wikidata.org/wiki/Q104841350)  
+
+### alignments:
+ - [Phanaroia](https://pleiades.stoa.org/places/857270)
+
+
 ## Phanoteia (Q7180494)
 [https://www.wikidata.org/wiki/Q7180494](https://www.wikidata.org/wiki/Q7180494)  
 
@@ -46136,13 +46164,6 @@
  - [Velzeke](https://pleiades.stoa.org/places/109413)
 
 
-## Q199547: Harran
-[https://www.wikidata.org/wiki/Q199547](https://www.wikidata.org/wiki/Q199547)  
-
-### alignments:
- - [Harran/Carrhae](https://pleiades.stoa.org/places/658427)
-
-
 ## Q199551: Lake Urmia
 [https://www.wikidata.org/wiki/Q199551](https://www.wikidata.org/wiki/Q199551)  
 
@@ -49367,13 +49388,6 @@
  - [House of Sallust](https://pleiades.stoa.org/places/502004233)
 
 
-## Q35000: Sea of Azov
-[https://www.wikidata.org/wiki/Q35000](https://www.wikidata.org/wiki/Q35000)  
-
-### alignments:
- - [Maeotis](https://pleiades.stoa.org/places/825318)
-
-
 ## Q3515037: Tang-i Var Inscription
 [https://www.wikidata.org/wiki/Q3515037](https://www.wikidata.org/wiki/Q3515037)  
 
@@ -49659,13 +49673,6 @@
 
 ### alignments:
  - [Mases](https://pleiades.stoa.org/places/570463)
-
-
-## Q3561792: Anthemusias
-[https://www.wikidata.org/wiki/Q3561792](https://www.wikidata.org/wiki/Q3561792)  
-
-### alignments:
- - [Anthemusia?](https://pleiades.stoa.org/places/658379)
 
 
 ## Q3561: Algiers
@@ -58192,6 +58199,13 @@
  - [Römische Villa Otrang](https://pleiades.stoa.org/places/108982)
 
 
+## Roman villa site S of Rose Villa (Q17641445)
+[http://www.wikidata.org/entity/Q17641445](http://www.wikidata.org/entity/Q17641445)  
+
+### alignments:
+ - [Ickleton](https://pleiades.stoa.org/places/79524)
+
+
 ## Roman villa SW of Castor station (Q17641401)
 [https://www.wikidata.org/wiki/Q17641401](https://www.wikidata.org/wiki/Q17641401)  
 
@@ -60486,6 +60500,13 @@
 
 ### alignments:
  - [Roman amphitheater at Scythopolis/Nysa](https://pleiades.stoa.org/places/181951763)
+
+
+## Sea of Azov (Q35000)
+[https://www.wikidata.org/wiki/Q35000](https://www.wikidata.org/wiki/Q35000)  
+
+### alignments:
+ - [Maeotis](https://pleiades.stoa.org/places/825318)
 
 
 ## Sea of Crete (Q193149)
@@ -64977,6 +64998,13 @@
  - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
 
 
+## Tenerife (Q40846)
+[https://www.wikidata.org/wiki/Q40846](https://www.wikidata.org/wiki/Q40846)  
+
+### alignments:
+ - [Ninguaria (island)](https://pleiades.stoa.org/places/440618978)
+
+
 ## Tenna (Q3983464)
 [https://www.wikidata.org/wiki/Q3983464](https://www.wikidata.org/wiki/Q3983464)  
 
@@ -68814,6 +68842,13 @@
  - [Great Mosque of the Umayyads](https://pleiades.stoa.org/places/833129569)
 
 
+## Umbilicus urbis Romae (Q205840)
+[https://www.wikidata.org/wiki/Q205840](https://www.wikidata.org/wiki/Q205840)  
+
+### alignments:
+ - [Umbilicus urbis Romae](https://pleiades.stoa.org/places/225909940)
+
+
 ## Umbranici (Q11953941)
 [https://www.wikidata.org/wiki/Q11953941](https://www.wikidata.org/wiki/Q11953941)  
 
@@ -71859,6 +71894,13 @@
 
 ### alignments:
  - [Yığma Tepe Tumulus](https://pleiades.stoa.org/places/198601655)
+
+
+## Yolpınar (Q4827888)
+[https://www.wikidata.org/wiki/Q4827888](https://www.wikidata.org/wiki/Q4827888)  
+
+### alignments:
+ - [Ḥaḳala](https://pleiades.stoa.org/places/73737781)
 
 
 ## Yoncalı inscription (Q2600647)

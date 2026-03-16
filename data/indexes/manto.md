@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-942 alignments exist in _Pleiades_ place references as of 2026-03-13. The following list of alignments is grouped by zotkey.
+943 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -6246,6 +6246,13 @@
 
 ### alignments:
  - [Ganges (river)](https://pleiades.stoa.org/places/59822)
+
+
+## 9746404: Lake Maiotis (Pontos)
+[https://resource.manto.unh.edu/9746404](https://resource.manto.unh.edu/9746404)  
+
+### alignments:
+ - [Maeotis](https://pleiades.stoa.org/places/825318)
 
 
 ## 9747857: Dioscurias (Pontos)
