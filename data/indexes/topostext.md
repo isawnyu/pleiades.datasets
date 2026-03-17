@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4881 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
+4884 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -77,6 +77,13 @@
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
+
+
+## 385225LKir
+[https://topostext.org/place/385225LKir](https://topostext.org/place/385225LKir)  
+
+### alignments:
+ - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -10443,6 +10450,13 @@
  - [Ephyra (Elis)](https://pleiades.stoa.org/places/573208)
 
 
+## Epidamnian Treasury III (Olympia) 2 Olympia excavations
+[https://topostext.org/place/376216BEpT](https://topostext.org/place/376216BEpT)  
+
+### alignments:
+ - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
+
+
 ## Epidamnos (Illyria)
 [https://topostext.org/place/413194PEpi](https://topostext.org/place/413194PEpi)  
 
@@ -20061,6 +20075,13 @@
 
 ### alignments:
  - [Megara Hyblaia](https://pleiades.stoa.org/places/462307)
+
+
+## Megarian treasury XI (Olympia) 4 Olympia excavations
+[https://topostext.org/place/376216BMeT](https://topostext.org/place/376216BMeT)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
 
 
 ## Megiste (Dodecanese)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10353 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
+10357 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -40900,6 +40900,13 @@
  - [Esgair Perfedd marching camp](https://pleiades.stoa.org/places/597417689)
 
 
+## Q106956826
+[https://www.wikidata.org/wiki/Q106956826](https://www.wikidata.org/wiki/Q106956826)  
+
+### alignments:
+ - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
+
+
 ## Q106966494: Tifata
 [https://www.wikidata.org/wiki/Q106966494](https://www.wikidata.org/wiki/Q106966494)  
 
@@ -42310,6 +42317,13 @@
  - [Pisões](https://pleiades.stoa.org/places/256365)
 
 
+## Q125490961
+[https://www.wikidata.org/wiki/Q125490961](https://www.wikidata.org/wiki/Q125490961)  
+
+### alignments:
+ - [Agora of Messene](https://pleiades.stoa.org/places/457626875)
+
+
 ## Q12566810: Tagisken
 [https://www.wikidata.org/wiki/Q12566810](https://www.wikidata.org/wiki/Q12566810)  
 
@@ -43681,6 +43695,13 @@
 
 ### alignments:
  - [Gallo-Roman bath complex at Mackwiller](https://pleiades.stoa.org/places/302444126)
+
+
+## Q14657875
+[https://www.wikidata.org/wiki/Q14657875](https://www.wikidata.org/wiki/Q14657875)  
+
+### alignments:
+ - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## Q1466831: Marion
@@ -55529,6 +55550,13 @@
 
 ### alignments:
  - [Arco Romano de Dona Isabel](https://pleiades.stoa.org/places/982853456)
+
+
+## Q96392534
+[https://www.wikidata.org/wiki/Q96392534](https://www.wikidata.org/wiki/Q96392534)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
 
 
 ## Q96671821: Apollo Tegyraios (sanctuary)

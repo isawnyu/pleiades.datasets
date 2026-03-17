@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-943 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
+947 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1638,6 +1638,20 @@
 
 ### alignments:
  - [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
+
+
+## 10217935: the Epidamnian Treasuries (Olympia)
+[https://resource.manto.unh.edu/10217935](https://resource.manto.unh.edu/10217935)  
+
+### alignments:
+ - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
+
+
+## 10217941: The Megarian Treasury (Olympia)
+[https://resource.manto.unh.edu/10217941](https://resource.manto.unh.edu/10217941)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
 
 
 ## 10266956: Rome
@@ -3893,6 +3907,20 @@
 
 ### alignments:
  - [Villa Arianna](https://pleiades.stoa.org/places/688325945)
+
+
+## 11321592: the Agora of Messene
+[https://resource.manto.unh.edu/11321592](https://resource.manto.unh.edu/11321592)  
+
+### alignments:
+ - [Agora of Messene](https://pleiades.stoa.org/places/457626875)
+
+
+## 11321902: Mount Cirphis (Phocis)
+[https://resource.manto.unh.edu/11321902](https://resource.manto.unh.edu/11321902)  
+
+### alignments:
+ - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## 11324108: Acte (Chalcidice)

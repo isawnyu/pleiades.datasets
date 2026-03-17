@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-522 alignments exist in _Pleiades_ place references as of 2026-03-16. The following list of alignments is grouped by zotkey.
+526 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1939,6 +1939,13 @@
  - [Messene](https://pleiades.stoa.org/places/570479)
 
 
+## 4.31.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.31.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.31.6)  
+
+### alignments:
+ - [Agora of Messene](https://pleiades.stoa.org/places/457626875)
+
+
 ## 4.31
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.31](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.31)  
 
@@ -2320,11 +2327,32 @@
  - [Pergamum](https://pleiades.stoa.org/places/550812)
 
 
+## 6.19.12
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.12](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.12)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
+
+
+## 6.19.13
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.13](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.13)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
+
+
 ## 6.19.3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.19.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.19.3)  
 
 ### alignments:
  - [Tartessos](https://pleiades.stoa.org/places/256468)
+
+
+## 6.19.8
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.8)  
+
+### alignments:
+ - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
 
 
 ## 6.19.9
