@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4958 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
+4964 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -141,13 +141,6 @@
 
 ### alignments:
  - [Cibyra](https://pleiades.stoa.org/places/638804)
-
-
-## Geo 11098: Hauara
-[http://www.trismegistos.org/place/11098](http://www.trismegistos.org/place/11098)  
-
-### alignments:
- - [Auara](https://pleiades.stoa.org/places/746716)
 
 
 ## Geo 11138: Zygritai
@@ -684,6 +677,13 @@
 
 ### alignments:
  - [Alpes Maritimae (province)](https://pleiades.stoa.org/places/982259)
+
+
+## Geo 22459: Alpes Graiae
+[https://www.trismegistos.org/place/22459](https://www.trismegistos.org/place/22459)  
+
+### alignments:
+ - [Alpes Graiae (province)](https://pleiades.stoa.org/places/99304503945)
 
 
 ## Geo 2247: Tanagra
@@ -2696,6 +2696,13 @@
 
 ### alignments:
  - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
+
+
+## GEO ID 11098: Hauara
+[http://www.trismegistos.org/place/11098](http://www.trismegistos.org/place/11098)  
+
+### alignments:
+ - [Auara](https://pleiades.stoa.org/places/746716)
 
 
 ## GEO ID 1109: Kition (Larnaka)
@@ -8517,6 +8524,13 @@
  - [Thagura](https://pleiades.stoa.org/places/315199)
 
 
+## GEO ID 17421: Thibilis (Announa)
+[https://www.trismegistos.org/place/17421](https://www.trismegistos.org/place/17421)  
+
+### alignments:
+ - [Thibilis](https://pleiades.stoa.org/places/305165)
+
+
 ## GEO ID 17422: Calama (Guelma)
 [https://www.trismegistos.org/place/17422](https://www.trismegistos.org/place/17422)  
 
@@ -8977,6 +8991,13 @@
 
 ### alignments:
  - [Thubunae/Tuben Oppidum](https://pleiades.stoa.org/places/334641)
+
+
+## GEO ID 18778: Castellum Fabatianum (Ksar Mahidjiba)
+[https://www.trismegistos.org/place/18778](https://www.trismegistos.org/place/18778)  
+
+### alignments:
+ - [Castellum Fabatianum?](https://pleiades.stoa.org/places/305048)
 
 
 ## GEO ID 18780: Gadiaufala (Ksar Sbehi)
@@ -24371,6 +24392,13 @@
  - [Ad Centenarium/Kentouriai](https://pleiades.stoa.org/places/311065)
 
 
+## GEO ID 41685: Ad Lapidem Baium
+[https://www.trismegistos.org/place/41685](https://www.trismegistos.org/place/41685)  
+
+### alignments:
+ - [Ad Lapidem Baium](https://pleiades.stoa.org/places/311068)
+
+
 ## GEO ID 41686: Ad Palmam
 [http://www.trismegistos.org/place/41686](http://www.trismegistos.org/place/41686)  
 
@@ -24922,6 +24950,13 @@
 
 ### alignments:
  - [In Portu](https://pleiades.stoa.org/places/409227)
+
+
+## GEO ID 41803: Piscinae
+[https://www.trismegistos.org/place/41803](https://www.trismegistos.org/place/41803)  
+
+### alignments:
+ - [Piscinae](https://pleiades.stoa.org/places/409234)
 
 
 ## GEO ID 41804: Tuirtta
@@ -29860,6 +29895,13 @@
 
 ### alignments:
  - [Thospia/Bouana/‘Ospa’/Ṭušpa](https://pleiades.stoa.org/places/874771)
+
+
+## GEO ID 47923: Peruz Shapur
+[http://www.trismegistos.org/place/47923](http://www.trismegistos.org/place/47923)  
+
+### alignments:
+ - [Misiche/Peroz-Shapur/Anbar/Pumbedita/Pallughtha](https://pleiades.stoa.org/places/894043)
 
 
 ## Geo ID 47926: Hirta

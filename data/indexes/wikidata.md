@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10357 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
+10362 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -764,6 +764,13 @@
 
 ### alignments:
  - [Catacombe Ad Decimum](https://pleiades.stoa.org/places/484666730)
+
+
+## Ad Duas Lauros (Q3604871)
+[https://www.wikidata.org/wiki/Q3604871](https://www.wikidata.org/wiki/Q3604871)  
+
+### alignments:
+ - [Ad Duas Lauros](https://pleiades.stoa.org/places/422808)
 
 
 ## Ad Ficum (Q104904298)
@@ -2398,6 +2405,13 @@
  - [Alpenos](https://pleiades.stoa.org/places/540624)
 
 
+## Alpes Graiae (Q360922)
+[https://www.wikidata.org/wiki/Q360922](https://www.wikidata.org/wiki/Q360922)  
+
+### alignments:
+ - [Alpes Graiae (province)](https://pleiades.stoa.org/places/99304503945)
+
+
 ## Alpes Maritimae (Q309270)
 [https://www.wikidata.org/wiki/Q309270](https://www.wikidata.org/wiki/Q309270)  
 
@@ -3132,6 +3146,13 @@
 
 ### alignments:
  - [Anavyssos](https://pleiades.stoa.org/places/194496209)
+
+
+## Anbar (Q2829204)
+[https://www.wikidata.org/wiki/Q2829204](https://www.wikidata.org/wiki/Q2829204)  
+
+### alignments:
+ - [Misiche/Peroz-Shapur/Anbar/Pumbedita/Pallughtha](https://pleiades.stoa.org/places/894043)
 
 
 ## Ancalites (Q2308972)
@@ -11617,6 +11638,13 @@
  - [Castellum Amerinum](https://pleiades.stoa.org/places/416789)
 
 
+## Castellum aquae (Q3662995)
+[https://www.wikidata.org/wiki/Q3662995](https://www.wikidata.org/wiki/Q3662995)  
+
+### alignments:
+ - [Castellum aquae](https://pleiades.stoa.org/places/419672523)
+
+
 ## Castellum Dimmidi (Q60788343)
 [https://www.wikidata.org/wiki/Q60788343](https://www.wikidata.org/wiki/Q60788343)  
 
@@ -16928,6 +16956,13 @@
  - [Domus Augustana](https://pleiades.stoa.org/places/792237246)
 
 
+## Domus Cilonis (Q24933452)
+[https://www.wikidata.org/wiki/Q24933452](https://www.wikidata.org/wiki/Q24933452)  
+
+### alignments:
+ - [Domus Cilonis](https://pleiades.stoa.org/places/356557089)
+
+
 ## Domus del Chirurgo (Q3713399)
 [https://www.wikidata.org/wiki/Q3713399](https://www.wikidata.org/wiki/Q3713399)  
 
@@ -20052,6 +20087,13 @@
  - [Gadeira/Gades/Col. Augusta Gaditana](https://pleiades.stoa.org/places/256177)
 
 
+## Gadiaufala (Q1473088)
+[https://www.wikidata.org/wiki/Q1473088](https://www.wikidata.org/wiki/Q1473088)  
+
+### alignments:
+ - [Gadiaufala](https://pleiades.stoa.org/places/305082)
+
+
 ## Gadilon (Q65047431)
 [https://www.wikidata.org/wiki/Q65047431](https://www.wikidata.org/wiki/Q65047431)  
 
@@ -21104,6 +21146,13 @@
 
 ### alignments:
  - [Graia](https://pleiades.stoa.org/places/540796)
+
+
+## Graian Alps (Q1262)
+[https://www.wikidata.org/wiki/Q1262](https://www.wikidata.org/wiki/Q1262)  
+
+### alignments:
+ - [Alpes Graiae (region)](https://pleiades.stoa.org/places/167637)
 
 
 ## Gramvousa (Q1600173)
@@ -29452,6 +29501,13 @@
  - [Macellum Liviae](https://pleiades.stoa.org/places/422819772)
 
 
+## Macellum Magnum (Q19324511)
+[https://www.wikidata.org/wiki/Q19324511](https://www.wikidata.org/wiki/Q19324511)  
+
+### alignments:
+ - [Macellum Magnum](https://pleiades.stoa.org/places/327869515)
+
+
 ## Macellum of Pompeii (Q1882599)
 [https://www.wikidata.org/wiki/Q1882599](https://www.wikidata.org/wiki/Q1882599)  
 
@@ -30963,6 +31019,13 @@
 
 ### alignments:
  - [Meta Romuli](https://pleiades.stoa.org/places/52385300)
+
+
+## Meta Sudans (Q1924755)
+[https://www.wikidata.org/wiki/Q1924755](https://www.wikidata.org/wiki/Q1924755)  
+
+### alignments:
+ - [Meta Sudans](https://pleiades.stoa.org/places/419380619)
 
 
 ## Metalla (Q3855471)
@@ -32749,6 +32812,13 @@
 
 ### alignments:
  - [Kirkaion Akron/Veneris Pr.](https://pleiades.stoa.org/places/432781)
+
+
+## Mount Cirphis (Q14657875)
+[https://www.wikidata.org/wiki/Q14657875](https://www.wikidata.org/wiki/Q14657875)  
+
+### alignments:
+ - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## Mount Fumaiolo (Q580842)
@@ -37462,6 +37532,13 @@
  - [Petelia](https://pleiades.stoa.org/places/452403)
 
 
+## Petra (Q5788)
+[https://www.wikidata.org/wiki/Q5788](https://www.wikidata.org/wiki/Q5788)  
+
+### alignments:
+ - [Petra](https://pleiades.stoa.org/places/697725)
+
+
 ## Petra Theatre (Q55629697)
 [https://www.wikidata.org/wiki/Q55629697](https://www.wikidata.org/wiki/Q55629697)  
 
@@ -37754,6 +37831,13 @@
 
 ### alignments:
  - [Phintias](https://pleiades.stoa.org/places/462424)
+
+
+## Phlegraean Fields (Q755123)
+[https://www.wikidata.org/wiki/Q755123](https://www.wikidata.org/wiki/Q755123)  
+
+### alignments:
+ - [Campi Phlegraei](https://pleiades.stoa.org/places/432744)
 
 
 ## Phlius (Q1412043)
@@ -42590,13 +42674,6 @@
  - [Kilikiai Pylai](https://pleiades.stoa.org/places/648670)
 
 
-## Q12901761: Regio I Porta Capena
-[https://www.wikidata.org/wiki/Q12901761](https://www.wikidata.org/wiki/Q12901761)  
-
-### alignments:
- - [Regio I (Porta Capena)](https://pleiades.stoa.org/places/307963010)
-
-
 ## Q12901765: Regio V Esquiliae
 [https://www.wikidata.org/wiki/Q12901765](https://www.wikidata.org/wiki/Q12901765)  
 
@@ -43697,13 +43774,6 @@
  - [Gallo-Roman bath complex at Mackwiller](https://pleiades.stoa.org/places/302444126)
 
 
-## Q14657875
-[https://www.wikidata.org/wiki/Q14657875](https://www.wikidata.org/wiki/Q14657875)  
-
-### alignments:
- - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
-
-
 ## Q1466831: Marion
 [https://www.wikidata.org/wiki/Q1466831](https://www.wikidata.org/wiki/Q1466831)  
 
@@ -44375,13 +44445,6 @@
 
 ### alignments:
  - [Chios (island)](https://pleiades.stoa.org/places/550497)
-
-
-## Q16075269: Regio II Caelimontium
-[https://www.wikidata.org/wiki/Q16075269](https://www.wikidata.org/wiki/Q16075269)  
-
-### alignments:
- - [Regio II (Caelimontium)](https://pleiades.stoa.org/places/917389428)
 
 
 ## Q1607754: Heraion of Argos
@@ -45575,13 +45638,6 @@
  - [Maghlub/Forat?/Perat de Meshan?/Bahman Ardashir?/‘Oratha’?/Furat al-Basra?](https://pleiades.stoa.org/places/912899)
 
 
-## Q18397575: Regio III Isis et Serapis
-[https://www.wikidata.org/wiki/Q18397575](https://www.wikidata.org/wiki/Q18397575)  
-
-### alignments:
- - [Regio III (Isis et Serapis)](https://pleiades.stoa.org/places/378562728)
-
-
 ## Q1840036: Ostia Antica, Regio II
 [https://www.wikidata.org/wiki/Q1840036](https://www.wikidata.org/wiki/Q1840036)  
 
@@ -45877,13 +45933,6 @@
  - [Saqqarah](https://pleiades.stoa.org/places/796289136)
 
 
-## Q1924755: Meta Sudans
-[https://www.wikidata.org/wiki/Q1924755](https://www.wikidata.org/wiki/Q1924755)  
-
-### alignments:
- - [Meta Sudans](https://pleiades.stoa.org/places/419380619)
-
-
 ## Q192522: Çatalhöyük
 [https://www.wikidata.org/wiki/Q192522](https://www.wikidata.org/wiki/Q192522)  
 
@@ -45910,13 +45959,6 @@
 
 ### alignments:
  - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
-
-
-## Q19324511: Macellum Magnum
-[https://www.wikidata.org/wiki/Q19324511](https://www.wikidata.org/wiki/Q19324511)  
-
-### alignments:
- - [Macellum Magnum](https://pleiades.stoa.org/places/327869515)
 
 
 ## Q193325: Merv
@@ -46015,13 +46057,6 @@
 
 ### alignments:
  - [Sanctuary at Agios Konstantinos (Methana)](https://pleiades.stoa.org/places/865726154)
-
-
-## Q19622518: Regio IV Templum Pacis
-[https://www.wikidata.org/wiki/Q19622518](https://www.wikidata.org/wiki/Q19622518)  
-
-### alignments:
- - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
 
 
 ## Q19627849: Poblat ibèric del Turó d'en Boscà
@@ -46225,13 +46260,6 @@
 
 ### alignments:
  - [Regio VI (Alta Semita)](https://pleiades.stoa.org/places/75632296)
-
-
-## Q20008732: Regio XII Piscina Publica
-[https://www.wikidata.org/wiki/Q20008732](https://www.wikidata.org/wiki/Q20008732)  
-
-### alignments:
- - [Regio XII (Piscina Publica)](https://pleiades.stoa.org/places/886355306)
 
 
 ## Q20008733: Regio XIII Aventinus
@@ -47585,13 +47613,6 @@
 
 ### alignments:
  - [Apulia et Calabria](https://pleiades.stoa.org/places/991359)
-
-
-## Q24933452
-[https://www.wikidata.org/wiki/Q24933452](https://www.wikidata.org/wiki/Q24933452)  
-
-### alignments:
- - [Domus Cilonis](https://pleiades.stoa.org/places/356557089)
 
 
 ## Q24934597
@@ -49759,13 +49780,6 @@
  - [Acropolis of Aletrium](https://pleiades.stoa.org/places/158700360)
 
 
-## Q3604871
-[https://www.wikidata.org/wiki/Q3604871](https://www.wikidata.org/wiki/Q3604871)  
-
-### alignments:
- - [Ad Duas Lauros](https://pleiades.stoa.org/places/422808)
-
-
 ## Q3604875
 [https://www.wikidata.org/wiki/Q3604875](https://www.wikidata.org/wiki/Q3604875)  
 
@@ -50002,13 +50016,6 @@
 
 ### alignments:
  - [Samnite House](https://pleiades.stoa.org/places/214908564)
-
-
-## Q3662995: Castellum aquae
-[https://www.wikidata.org/wiki/Q3662995](https://www.wikidata.org/wiki/Q3662995)  
-
-### alignments:
- - [Castellum aquae](https://pleiades.stoa.org/places/419672523)
 
 
 ## Q3663027: Castelvecchio di San Gimignano
@@ -52736,13 +52743,6 @@
 
 ### alignments:
  - [Arch of Constantine](https://pleiades.stoa.org/places/874299107)
-
-
-## Q5788: Petra
-[https://www.wikidata.org/wiki/Q5788](https://www.wikidata.org/wiki/Q5788)  
-
-### alignments:
- - [Petra](https://pleiades.stoa.org/places/697725)
 
 
 ## Q5793293: Cuarto Roble
@@ -56364,6 +56364,27 @@
  - [Italia, Regio I](https://pleiades.stoa.org/places/441075550)
 
 
+## Regio I Porta Capena (Q12901761)
+[https://www.wikidata.org/wiki/Q12901761](https://www.wikidata.org/wiki/Q12901761)  
+
+### alignments:
+ - [Regio I (Porta Capena)](https://pleiades.stoa.org/places/307963010)
+
+
+## Regio II Caelimontium (Q16075269)
+[https://www.wikidata.org/wiki/Q16075269](https://www.wikidata.org/wiki/Q16075269)  
+
+### alignments:
+ - [Regio II (Caelimontium)](https://pleiades.stoa.org/places/917389428)
+
+
+## Regio III Isis et Serapis (Q18397575)
+[https://www.wikidata.org/wiki/Q18397575](https://www.wikidata.org/wiki/Q18397575)  
+
+### alignments:
+ - [Regio III (Isis et Serapis)](https://pleiades.stoa.org/places/378562728)
+
+
 ## Regio III Lucania et Bruttium (Q3931879)
 [https://www.wikidata.org/wiki/Q3931879](https://www.wikidata.org/wiki/Q3931879)  
 
@@ -56376,6 +56397,13 @@
 
 ### alignments:
  - [Italia, Regio IV](https://pleiades.stoa.org/places/865942280)
+
+
+## Regio IV Templum Pacis (Q19622518)
+[https://www.wikidata.org/wiki/Q19622518](https://www.wikidata.org/wiki/Q19622518)  
+
+### alignments:
+ - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
 
 
 ## Regio VI Umbria (Q1247527)
@@ -56404,6 +56432,13 @@
 
 ### alignments:
  - [Regio XI (Circus Maximus)](https://pleiades.stoa.org/places/418516191)
+
+
+## Regio XII Piscina Publica (Q20008732)
+[https://www.wikidata.org/wiki/Q20008732](https://www.wikidata.org/wiki/Q20008732)  
+
+### alignments:
+ - [Regio XII (Piscina Publica)](https://pleiades.stoa.org/places/886355306)
 
 
 ## region III of the archaeological excavations of Pompeii (Q3931875)
@@ -64662,8 +64697,8 @@
  - [Temple of Hercules at Amman/Philadelpheia](https://pleiades.stoa.org/places/696690497)
 
 
-## Temple of Honor and Virtue (Q16612729)
-[https://www.wikidata.org/wiki/Q16612729](https://www.wikidata.org/wiki/Q16612729)  
+## Temple of Honor and Virtue (Q3148483)
+[https://www.wikidata.org/wiki/Q3148483](https://www.wikidata.org/wiki/Q3148483)  
 
 ### alignments:
  - [Honos et Virtus, Aedes](https://pleiades.stoa.org/places/387810362)

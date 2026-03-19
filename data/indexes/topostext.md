@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4884 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
+4887 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -77,13 +77,6 @@
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
-
-
-## 385225LKir
-[https://topostext.org/place/385225LKir](https://topostext.org/place/385225LKir)  
-
-### alignments:
- - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -12113,6 +12106,13 @@
  - [Graia](https://pleiades.stoa.org/places/540796)
 
 
+## Graian Alps (Gallia) 11 Alps - Άλπεις
+[https://topostext.org/place/457072RGAl](https://topostext.org/place/457072RGAl)  
+
+### alignments:
+ - [Alpes Graiae (region)](https://pleiades.stoa.org/places/167637)
+
+
 ## Graias Gonu (Egypt)
 [https://topostext.org/place/313273UGra](https://topostext.org/place/313273UGra)  
 
@@ -16086,6 +16086,13 @@
 
 ### alignments:
  - [Circeii 1](https://pleiades.stoa.org/places/432782)
+
+
+## Kirphis Mt. (Phokis)
+[https://topostext.org/place/385225LKir](https://topostext.org/place/385225LKir)  
+
+### alignments:
+ - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
 ## Kirrha (Phokis) 105 Itea - Κίρρα
@@ -25215,6 +25222,13 @@
  - [Phintias](https://pleiades.stoa.org/places/462424)
 
 
+## Phlegraean Fields (Campania)
+[https://topostext.org/place/408141LPhl](https://topostext.org/place/408141LPhl)  
+
+### alignments:
+ - [Campi Phlegraei](https://pleiades.stoa.org/places/432744)
+
+
 ## Phlious (Korinthia)
 [https://topostext.org/place/378226PPhl](https://topostext.org/place/378226PPhl)  
 
@@ -31018,6 +31032,13 @@
 
 ### alignments:
  - [Temple of Hadrian](https://pleiades.stoa.org/places/666765291)
+
+
+## Temple of Honor and Virtue (Rome)
+[https://topostext.org/place/419125STHV](https://topostext.org/place/419125STHV)  
+
+### alignments:
+ - [Honos et Virtus, Aedes](https://pleiades.stoa.org/places/387810362)
 
 
 ## Temple of Jupiter Capitolinus (Rome) 29 Roma

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2332 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
+2334 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -6207,6 +6207,13 @@
  - [Brinta? (river)](https://pleiades.stoa.org/places/393392)
 
 
+## 3C1 (Talbert 108)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace108.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace108.html)  
+
+### alignments:
+ - [Castellum Fabatianum?](https://pleiades.stoa.org/places/305048)
+
+
 ## 3C1 (Talbert 174)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace174.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace174.html)  
 
@@ -6331,6 +6338,13 @@
 
 ### alignments:
  - [Gadiaufala](https://pleiades.stoa.org/places/305082)
+
+
+## 3C2 (Talbert 3525)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3525.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3525.html)  
+
+### alignments:
+ - [Ad Lapidem Baium](https://pleiades.stoa.org/places/311068)
 
 
 ## 3C2 (Talbert 3526)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-947 alignments exist in _Pleiades_ place references as of 2026-03-17. The following list of alignments is grouped by zotkey.
+950 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2872,6 +2872,13 @@
  - [Atrium Caci](https://pleiades.stoa.org/places/35711529)
 
 
+## 11302753: the Phlegraian Plain (Campania)
+[https://resource.manto.unh.edu/11302753](https://resource.manto.unh.edu/11302753)  
+
+### alignments:
+ - [Campi Phlegraei](https://pleiades.stoa.org/places/432744)
+
+
 ## 11302783: Agyrion (Sicily)
 [https://resource.manto.unh.edu/11302783](https://resource.manto.unh.edu/11302783)  
 
@@ -3403,6 +3410,13 @@
 
 ### alignments:
  - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
+
+
+## 11310252: New Carthage (Iberia)
+[https://resource.manto.unh.edu/11310252](https://resource.manto.unh.edu/11310252)  
+
+### alignments:
+ - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
 
 
 ## 11310305: Monoicos Harbor (Gaul)
@@ -6617,6 +6631,13 @@
 
 ### alignments:
  - [Selleis (river)](https://pleiades.stoa.org/places/501604)
+
+
+## the Graian Alps (N. Italy)
+[https://resource.manto.unh.edu/11329548](https://resource.manto.unh.edu/11329548)  
+
+### alignments:
+ - [Alpes Graiae (region)](https://pleiades.stoa.org/places/167637)
 
 
 ## the Sanctuary of Apollo Ptoios (Boiotia)
