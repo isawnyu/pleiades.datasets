@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10362 alignments exist in _Pleiades_ place references as of 2026-03-19. The following list of alignments is grouped by zotkey.
+10364 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -16181,6 +16181,13 @@
 
 ### alignments:
  - [Daulis](https://pleiades.stoa.org/places/540723)
+
+
+## Dağdeviren Höyüğü (Q132182869)
+[https://www.wikidata.org/wiki/Q132182869](https://www.wikidata.org/wiki/Q132182869)  
+
+### alignments:
+ - [Dağdeviren Höyük](https://pleiades.stoa.org/places/31588173)
 
 
 ## Dea Augusta Vocontiorum (Q86724954)
@@ -34401,6 +34408,13 @@
 
 ### alignments:
  - [North Theater (Jerash)](https://pleiades.stoa.org/places/804496327)
+
+
+## Northfleet Roman villa (Q138708581)
+[http://www.wikidata.org/entity/Q138708581](http://www.wikidata.org/entity/Q138708581)  
+
+### alignments:
+ - [Northfleet Villa](https://pleiades.stoa.org/places/441917860)
 
 
 ## Northwich (Samian Ware Discovery Site) (Q103187561)
