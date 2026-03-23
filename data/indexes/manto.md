@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-950 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
+953 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3222,6 +3222,13 @@
  - [Eurykydeion](https://pleiades.stoa.org/places/573224)
 
 
+## 11308433: Cyparissia (Elis)
+[https://resource.manto.unh.edu/11308433](https://resource.manto.unh.edu/11308433)  
+
+### alignments:
+ - [Kyparissia](https://pleiades.stoa.org/places/573325)
+
+
 ## 11308487: the Sanctuary of the Daughters of Ion (Elis)
 [https://resource.manto.unh.edu/11308487](https://resource.manto.unh.edu/11308487)  
 
@@ -4042,6 +4049,13 @@
  - [Cassiterides](https://pleiades.stoa.org/places/583607985)
 
 
+## 11328255: The Walls of Romulus
+[https://resource.manto.unh.edu/11328255](https://resource.manto.unh.edu/11328255)  
+
+### alignments:
+ - [Murus Romuli](https://pleiades.stoa.org/places/698502930)
+
+
 ## 11328490: the Land of the Marsi
 [https://resource.manto.unh.edu/11328490](https://resource.manto.unh.edu/11328490)  
 
@@ -4082,6 +4096,13 @@
 
 ### alignments:
  - [Temple of Concord](https://pleiades.stoa.org/places/694134032)
+
+
+## 11329123: the Temple of Jupiter Tonans (Rome)
+[https://resource.manto.unh.edu/11329123](https://resource.manto.unh.edu/11329123)  
+
+### alignments:
+ - [Temple of Jupiter Tonans](https://pleiades.stoa.org/places/354249963)
 
 
 ## 11329135: the Rostra (Rome)

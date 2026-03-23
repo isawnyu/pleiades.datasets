@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2334 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
+2335 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -7815,6 +7815,13 @@
 
 ### alignments:
  - [Lorium](https://pleiades.stoa.org/places/422963)
+
+
+## 4B5 (Talbert 1245)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1245.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1245.html)  
+
+### alignments:
+ - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
 
 
 ## 4B5 (Talbert 1262)

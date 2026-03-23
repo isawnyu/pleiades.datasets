@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4964 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
+4964 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -663,13 +663,6 @@
 
 ### alignments:
  - [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
-
-
-## Geo 2181 Sparta
-[http://www.trismegistos.org/place/2181](http://www.trismegistos.org/place/2181)  
-
-### alignments:
- - [Sparta](https://pleiades.stoa.org/places/570685)
 
 
 ## Geo 22359: Alpes Maritimae
@@ -10791,6 +10784,13 @@
 
 ### alignments:
  - [Taurois/Tauroention](https://pleiades.stoa.org/places/157934)
+
+
+## GEO ID 2181: Sparta
+[http://www.trismegistos.org/place/2181](http://www.trismegistos.org/place/2181)  
+
+### alignments:
+ - [Sparta](https://pleiades.stoa.org/places/570685)
 
 
 ## GEO ID 2185: Sphettos (Koropi)

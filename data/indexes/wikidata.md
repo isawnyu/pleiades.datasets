@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10364 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
+10372 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4322,6 +4322,13 @@
 
 ### alignments:
  - [Aqua Virgo](https://pleiades.stoa.org/places/423568)
+
+
+## Aquae Apollinares (Q120966386)
+[https://www.wikidata.org/wiki/Q120966386](https://www.wikidata.org/wiki/Q120966386)  
+
+### alignments:
+ - [Aquae Apollinares](https://pleiades.stoa.org/places/413022)
 
 
 ## Aquae Caeretanae (Q118898622)
@@ -10854,6 +10861,13 @@
  - [Kaphyai](https://pleiades.stoa.org/places/570329)
 
 
+## Capitoline Hill (Q34925)
+[https://www.wikidata.org/wiki/Q34925](https://www.wikidata.org/wiki/Q34925)  
+
+### alignments:
+ - [Capitolinus Mons](https://pleiades.stoa.org/places/347036492)
+
+
 ## Capitolium (Verona) (Q30888026)
 [https://www.wikidata.org/wiki/Q30888026](https://www.wikidata.org/wiki/Q30888026)  
 
@@ -12077,6 +12091,13 @@
 
 ### alignments:
  - [Castra Martis](https://pleiades.stoa.org/places/207017)
+
+
+## Castra Misenatium (Q2379633)
+[https://www.wikidata.org/wiki/Q2379633](https://www.wikidata.org/wiki/Q2379633)  
+
+### alignments:
+ - [Castra Misenatium](https://pleiades.stoa.org/places/855441499)
 
 
 ## Castra Mursa (Q1309674)
@@ -14115,6 +14136,13 @@
 
 ### alignments:
  - [Ciota Ciara](https://pleiades.stoa.org/places/596450512)
+
+
+## Circesium (Q1092772)
+[https://www.wikidata.org/wiki/Q1092772](https://www.wikidata.org/wiki/Q1092772)  
+
+### alignments:
+ - [Circesium/Qarquza/Habora/Phaliga?](https://pleiades.stoa.org/places/893974)
 
 
 ## Circus Flaminius (Q1092967)
@@ -19798,6 +19826,13 @@
 
 ### alignments:
  - [Forum Vibii](https://pleiades.stoa.org/places/383657)
+
+
+## Fossa Mariana (Q3079706)
+[https://www.wikidata.org/wiki/Q3079706](https://www.wikidata.org/wiki/Q3079706)  
+
+### alignments:
+ - [Fossae Marianae](https://pleiades.stoa.org/places/148085)
 
 
 ## Fossa Philistina (Q3745380)
@@ -33101,6 +33136,13 @@
  - [Colentum (island)](https://pleiades.stoa.org/places/197219)
 
 
+## Murus Romuli (Q2281852)
+[https://www.wikidata.org/wiki/Q2281852](https://www.wikidata.org/wiki/Q2281852)  
+
+### alignments:
+ - [Murus Romuli](https://pleiades.stoa.org/places/698502930)
+
+
 ## Museum und Park Kalkriese (Q1954771)
 [https://www.wikidata.org/wiki/Q1954771](https://www.wikidata.org/wiki/Q1954771)  
 
@@ -38737,6 +38779,13 @@
  - [Pons Aeli](https://pleiades.stoa.org/places/89275)
 
 
+## Pons Aemilius (Q640092)
+[https://www.wikidata.org/wiki/Q640092](https://www.wikidata.org/wiki/Q640092)  
+
+### alignments:
+ - [Pons Aemilius](https://pleiades.stoa.org/places/425068)
+
+
 ## Pons Agrippae (Q4429336)
 [https://www.wikidata.org/wiki/Q4429336](https://www.wikidata.org/wiki/Q4429336)  
 
@@ -41276,13 +41325,6 @@
 
 ### alignments:
  - [Roman Amphitheater at Syracuse](https://pleiades.stoa.org/places/473876126)
-
-
-## Q1092772: Circesium
-[https://www.wikidata.org/wiki/Q1092772](https://www.wikidata.org/wiki/Q1092772)  
-
-### alignments:
- - [Circesium/Qarquza/Habora/Phaliga?](https://pleiades.stoa.org/places/893974)
 
 
 ## Q1092998: Circus Varianus
@@ -44973,13 +45015,6 @@
  - [Khufu's ship](https://pleiades.stoa.org/places/324631564)
 
 
-## Q17154578: Regio IX Circus Flaminius
-[https://www.wikidata.org/wiki/Q17154578](https://www.wikidata.org/wiki/Q17154578)  
-
-### alignments:
- - [Regio IX (Circus Flaminius)](https://pleiades.stoa.org/places/936873471)
-
-
 ## Q1716909: Tell ‘Uqayr
 [https://www.wikidata.org/wiki/Q1716909](https://www.wikidata.org/wiki/Q1716909)  
 
@@ -45372,20 +45407,6 @@
  - [Porta Mugonia](https://pleiades.stoa.org/places/547584100)
 
 
-## Q17651844: Regio VIII Forum Romanum
-[https://www.wikidata.org/wiki/Q17651844](https://www.wikidata.org/wiki/Q17651844)  
-
-### alignments:
- - [Regio VIII (Forum Romanum)](https://pleiades.stoa.org/places/337325364)
-
-
-## Q17651846: Regio X Palatium
-[https://www.wikidata.org/wiki/Q17651846](https://www.wikidata.org/wiki/Q17651846)  
-
-### alignments:
- - [Regio X (Palatium)](https://pleiades.stoa.org/places/298699921)
-
-
 ## Q17659304: Written Rock of Gelt: Roman quarry inscriptions
 [https://www.wikidata.org/wiki/Q17659304](https://www.wikidata.org/wiki/Q17659304)  
 
@@ -45762,13 +45783,6 @@
 
 ### alignments:
  - [Roman amphitheater at Libarna](https://pleiades.stoa.org/places/533171569)
-
-
-## Q18649403: Regio XIV Transtiberim
-[https://www.wikidata.org/wiki/Q18649403](https://www.wikidata.org/wiki/Q18649403)  
-
-### alignments:
- - [Regio XIV (Transtiberim)](https://pleiades.stoa.org/places/217953464)
 
 
 ## Q18654686: Alavana
@@ -46267,20 +46281,6 @@
 
 ### alignments:
  - [Kordin III](https://pleiades.stoa.org/places/669962521)
-
-
-## Q20008730: Regio VI Alta Semita
-[https://www.wikidata.org/wiki/Q20008730](https://www.wikidata.org/wiki/Q20008730)  
-
-### alignments:
- - [Regio VI (Alta Semita)](https://pleiades.stoa.org/places/75632296)
-
-
-## Q20008733: Regio XIII Aventinus
-[https://www.wikidata.org/wiki/Q20008733](https://www.wikidata.org/wiki/Q20008733)  
-
-### alignments:
- - [Regio XIII (Aventinus)](https://pleiades.stoa.org/places/372769291)
 
 
 ## Q20009153: Curiae Veteres
@@ -47325,13 +47325,6 @@
 
 ### alignments:
  - [Twee Tommen](https://pleiades.stoa.org/places/318349403)
-
-
-## Q2379633: Castra Misenatium
-[https://www.wikidata.org/wiki/Q2379633](https://www.wikidata.org/wiki/Q2379633)  
-
-### alignments:
- - [Castra Misenatium](https://pleiades.stoa.org/places/855441499)
 
 
 ## Q2380131: Paytakaran
@@ -49421,13 +49414,6 @@
 
 ### alignments:
  - [Fontaines Salées](https://pleiades.stoa.org/places/766624229)
-
-
-## Q34925: Capitoline Hill
-[https://www.wikidata.org/wiki/Q34925](https://www.wikidata.org/wiki/Q34925)  
-
-### alignments:
- - [Capitolinus Mons](https://pleiades.stoa.org/places/347036492)
 
 
 ## Q3493502: Spinaceto
@@ -53585,13 +53571,6 @@
  - [Mygdonia](https://pleiades.stoa.org/places/491669)
 
 
-## Q640092: Pons Aemilius
-[https://www.wikidata.org/wiki/Q640092](https://www.wikidata.org/wiki/Q640092)  
-
-### alignments:
- - [Pons Aemilius](https://pleiades.stoa.org/places/425068)
-
-
 ## Q6413039: Kings Weston Roman Villa
 [https://www.wikidata.org/wiki/Q6413039](https://www.wikidata.org/wiki/Q6413039)  
 
@@ -54479,13 +54458,6 @@
 
 ### alignments:
  - [Septempeda](https://pleiades.stoa.org/places/413314)
-
-
-## Q745552: Temple of Faunus
-[https://www.wikidata.org/wiki/Q745552](https://www.wikidata.org/wiki/Q745552)  
-
-### alignments:
- - [Aedes Fauni](https://pleiades.stoa.org/places/455817200)
 
 
 ## Q74590612: Ancient Greek theatre of Corinth
@@ -55776,13 +55748,6 @@
  - [Usil(l)a/Usula](https://pleiades.stoa.org/places/324841)
 
 
-## Q998123: Tifata
-[https://www.wikidata.org/wiki/Q998123](https://www.wikidata.org/wiki/Q998123)  
-
-### alignments:
- - [Tifata (mountain)](https://pleiades.stoa.org/places/433153)
-
-
 ## Q998805: Methoni
 [https://www.wikidata.org/wiki/Q998805](https://www.wikidata.org/wiki/Q998805)  
 
@@ -56420,6 +56385,20 @@
  - [Regio IV (Templum Pacis)](https://pleiades.stoa.org/places/523965218)
 
 
+## Regio IX Circus Flaminius (Q17154578)
+[https://www.wikidata.org/wiki/Q17154578](https://www.wikidata.org/wiki/Q17154578)  
+
+### alignments:
+ - [Regio IX (Circus Flaminius)](https://pleiades.stoa.org/places/936873471)
+
+
+## Regio VI Alta Semita (Q20008730)
+[https://www.wikidata.org/wiki/Q20008730](https://www.wikidata.org/wiki/Q20008730)  
+
+### alignments:
+ - [Regio VI (Alta Semita)](https://pleiades.stoa.org/places/75632296)
+
+
 ## Regio VI Umbria (Q1247527)
 [https://www.wikidata.org/wiki/Q1247527](https://www.wikidata.org/wiki/Q1247527)  
 
@@ -56441,6 +56420,20 @@
  - [Regio VII (Via Lata)](https://pleiades.stoa.org/places/596666070)
 
 
+## Regio VIII Forum Romanum (Q17651844)
+[https://www.wikidata.org/wiki/Q17651844](https://www.wikidata.org/wiki/Q17651844)  
+
+### alignments:
+ - [Regio VIII (Forum Romanum)](https://pleiades.stoa.org/places/337325364)
+
+
+## Regio X Palatium (Q17651846)
+[https://www.wikidata.org/wiki/Q17651846](https://www.wikidata.org/wiki/Q17651846)  
+
+### alignments:
+ - [Regio X (Palatium)](https://pleiades.stoa.org/places/298699921)
+
+
 ## Regio XI Circus Maximus (Q20008731)
 [https://www.wikidata.org/wiki/Q20008731](https://www.wikidata.org/wiki/Q20008731)  
 
@@ -56453,6 +56446,20 @@
 
 ### alignments:
  - [Regio XII (Piscina Publica)](https://pleiades.stoa.org/places/886355306)
+
+
+## Regio XIII Aventinus (Q20008733)
+[https://www.wikidata.org/wiki/Q20008733](https://www.wikidata.org/wiki/Q20008733)  
+
+### alignments:
+ - [Regio XIII (Aventinus)](https://pleiades.stoa.org/places/372769291)
+
+
+## Regio XIV Transtiberim (Q18649403)
+[https://www.wikidata.org/wiki/Q18649403](https://www.wikidata.org/wiki/Q18649403)  
+
+### alignments:
+ - [Regio XIV (Transtiberim)](https://pleiades.stoa.org/places/217953464)
 
 
 ## region III of the archaeological excavations of Pompeii (Q3931875)
@@ -56929,6 +56936,13 @@
 
 ### alignments:
  - [To(u)bios (river)](https://pleiades.stoa.org/places/79717)
+
+
+## River Trent (Q19714)
+[https://www.wikidata.org/wiki/Q19714](https://www.wikidata.org/wiki/Q19714)  
+
+### alignments:
+ - [Trisantona (river)](https://pleiades.stoa.org/places/79724)
 
 
 ## River Walbrook (Q95175365)
@@ -59863,6 +59877,13 @@
 
 ### alignments:
  - [Santa Maria in Domnica](https://pleiades.stoa.org/places/888830081)
+
+
+## Santa Maria in Monterone (Q2223178)
+[https://www.wikidata.org/wiki/Q2223178](https://www.wikidata.org/wiki/Q2223178)  
+
+### alignments:
+ - [Santa Maria in Monterone](https://pleiades.stoa.org/places/139029037)
 
 
 ## Santa Maria in Tempulo (Q3674146)
@@ -64487,6 +64508,13 @@
  - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/579884)
 
 
+## Temple of Athena Chalkioikos (Q57302774)
+[https://www.wikidata.org/wiki/Q57302774](https://www.wikidata.org/wiki/Q57302774)  
+
+### alignments:
+ - [Sanctuary of Athena Chalkioikos](https://pleiades.stoa.org/places/894656845)
+
+
 ## Temple of Athena Lindia (Q29963051)
 [https://www.wikidata.org/wiki/Q29963051](https://www.wikidata.org/wiki/Q29963051)  
 
@@ -64655,6 +64683,13 @@
  - [Temple of Artemis at Ephesus](https://pleiades.stoa.org/places/873985034)
 
 
+## Temple of Faunus (Q745552)
+[https://www.wikidata.org/wiki/Q745552](https://www.wikidata.org/wiki/Q745552)  
+
+### alignments:
+ - [Aedes Fauni](https://pleiades.stoa.org/places/455817200)
+
+
 ## Temple of Flora (Q3983249)
 [https://www.wikidata.org/wiki/Q3983249](https://www.wikidata.org/wiki/Q3983249)  
 
@@ -64758,6 +64793,13 @@
 
 ### alignments:
  - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
+
+
+## Temple of Jupiter Tonans (Q2364823)
+[https://www.wikidata.org/wiki/Q2364823](https://www.wikidata.org/wiki/Q2364823)  
+
+### alignments:
+ - [Temple of Jupiter Tonans](https://pleiades.stoa.org/places/354249963)
 
 
 ## Temple of Jupiter, Bidonì (Q123906344)
@@ -65122,6 +65164,13 @@
 
 ### alignments:
  - [Tapah Gārān](https://pleiades.stoa.org/places/39082013)
+
+
+## Tepe Hissar (Q1484199)
+[https://www.wikidata.org/wiki/Q1484199](https://www.wikidata.org/wiki/Q1484199)  
+
+### alignments:
+ - [Tepe Hissar](https://pleiades.stoa.org/places/942329)
 
 
 ## Tepe Musiyan (Q136259353)
@@ -66173,6 +66222,13 @@
 
 ### alignments:
  - [Termes](https://pleiades.stoa.org/places/246688)
+
+
+## Tifata (Q998123)
+[https://www.wikidata.org/wiki/Q998123](https://www.wikidata.org/wiki/Q998123)  
+
+### alignments:
+ - [Tifata (mountain)](https://pleiades.stoa.org/places/433153)
 
 
 ## Tigani (Q24896610)

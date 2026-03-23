@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4887 alignments exist in _Pleiades_ place references as of 2026-03-20. The following list of alignments is grouped by zotkey.
+4892 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -4997,6 +4997,13 @@
  - [Gate of Athena Archegetis](https://pleiades.stoa.org/places/376031236)
 
 
+## Athena Chalkioikos temple (Sparta)
+[https://topostext.org/place/371224SACh](https://topostext.org/place/371224SACh)  
+
+### alignments:
+ - [Sanctuary of Athena Chalkioikos](https://pleiades.stoa.org/places/894656845)
+
+
 ## Athena Itonia sanct. (Boeotia)
 [https://topostext.org/place/384230SAth](https://topostext.org/place/384230SAth)  
 
@@ -6958,10 +6965,11 @@
  - [Capitium](https://pleiades.stoa.org/places/462130)
 
 
-## Capitolium (Rome) 788 Campidoglio - Καπιτώλιον
+## Capitolium (Rome)
 [https://topostext.org/place/419125SCap](https://topostext.org/place/419125SCap)  
 
 ### alignments:
+ - [Capitolinus Mons](https://pleiades.stoa.org/places/347036492)
  - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
 
 
@@ -14196,6 +14204,13 @@
  - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
 
 
+## Iovis Tifatinus temple (Campania)
+[https://topostext.org/place/411143SITi](https://topostext.org/place/411143SITi)  
+
+### alignments:
+ - [Iovis Tifatinus](https://pleiades.stoa.org/places/291605573)
+
+
 ## Ipagrum/Epagrum (Iberia)
 [https://topostext.org/place/375000UIpa](https://topostext.org/place/375000UIpa)  
 
@@ -18062,6 +18077,13 @@
 
 ### alignments:
  - [Lauro/*Olaurum](https://pleiades.stoa.org/places/256261)
+
+
+## Laus Pompeia (Transpadana)
+[https://topostext.org/place/453094ULPo](https://topostext.org/place/453094ULPo)  
+
+### alignments:
+ - [Laus Pompeia](https://pleiades.stoa.org/places/383691)
 
 
 ## Lavinium (Latium)
@@ -32092,6 +32114,13 @@
  - [Ticinus (river)](https://pleiades.stoa.org/places/383799)
 
 
+## Tifata (Campania)
+[https://topostext.org/place/411143LTif](https://topostext.org/place/411143LTif)  
+
+### alignments:
+ - [Tifata (mountain)](https://pleiades.stoa.org/places/433153)
+
+
 ## Tigani EC basilica (Lakonia)
 [https://topostext.org/place/365224ETig](https://topostext.org/place/365224ETig)  
 
@@ -33511,6 +33540,13 @@
 
 ### alignments:
  - [Via Appia](https://pleiades.stoa.org/places/356966898)
+
+
+## Via Aurelia (Gallia)
+[https://topostext.org/place/419122BVAu](https://topostext.org/place/419122BVAu)  
+
+### alignments:
+ - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
 
 
 ## Via Cassia (Italia)
