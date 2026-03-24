@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-953 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
+955 alignments exist in _Pleiades_ place references as of 2026-03-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3846,6 +3846,13 @@
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
 
 
+## 11319643: Hospitium dei Sulpici (Murecine)
+[https://resource.manto.unh.edu/11319643](https://resource.manto.unh.edu/11319643)  
+
+### alignments:
+ - [Moregine](https://pleiades.stoa.org/places/826462996)
+
+
 ## 11319688: Villa di Giulia Felice II 4, 3 (Pompeii)
 [https://resource.manto.unh.edu/11319688](https://resource.manto.unh.edu/11319688)  
 
@@ -6414,6 +6421,13 @@
 
 ### alignments:
  - [Heptaporos (river)](https://pleiades.stoa.org/places/897021085)
+
+
+## 9878412: River Hermos (Lydia)
+[https://resource.manto.unh.edu/9878412](https://resource.manto.unh.edu/9878412)  
+
+### alignments:
+ - [Hermus (river)](https://pleiades.stoa.org/places/550575)
 
 
 ## 9878416: River Caicos (Lydia)

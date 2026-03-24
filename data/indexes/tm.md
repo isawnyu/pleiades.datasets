@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4964 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
+4965 alignments exist in _Pleiades_ place references as of 2026-03-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -485,13 +485,6 @@
 
 ### alignments:
  - [Kaisareia](https://pleiades.stoa.org/places/491625)
-
-
-## Geo 15946: Ramnous
-[https://www.trismegistos.org/place/15946](https://www.trismegistos.org/place/15946)  
-
-### alignments:
- - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
 ## Geo 16066: Minoa
@@ -7198,6 +7191,13 @@
 
 ### alignments:
  - [Elimeia](https://pleiades.stoa.org/places/491587)
+
+
+## GEO ID 15946: Ramnous
+[https://www.trismegistos.org/place/15946](https://www.trismegistos.org/place/15946)  
+
+### alignments:
+ - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
 ## GEO ID 15971: Phalanna (Damasi)
@@ -29615,6 +29615,13 @@
 
 ### alignments:
  - [Istrou](https://pleiades.stoa.org/places/741483)
+
+
+## GEO ID 46818
+[http://www.trismegistos.org/place/46818](http://www.trismegistos.org/place/46818)  
+
+### alignments:
+ - [Korou Pedion](https://pleiades.stoa.org/places/550665)
 
 
 ## GEO ID 46821: Pedasa (Gökçeler)

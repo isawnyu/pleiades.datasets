@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10372 alignments exist in _Pleiades_ place references as of 2026-03-23. The following list of alignments is grouped by zotkey.
+10374 alignments exist in _Pleiades_ place references as of 2026-03-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -764,6 +764,13 @@
 
 ### alignments:
  - [Catacombe Ad Decimum](https://pleiades.stoa.org/places/484666730)
+
+
+## Ad Dimaniyat Islands (Q3019342)
+[https://www.wikidata.org/wiki/Q3019342](https://www.wikidata.org/wiki/Q3019342)  
+
+### alignments:
+ - [Kalaiou Nesoi](https://pleiades.stoa.org/places/29620)
 
 
 ## Ad Duas Lauros (Q3604871)
@@ -35388,6 +35395,13 @@
 
 ### alignments:
  - [Ogryle](https://pleiades.stoa.org/places/261199604)
+
+
+## Ogyris (Q124512302)
+[https://www.wikidata.org/wiki/Q124512302](https://www.wikidata.org/wiki/Q124512302)  
+
+### alignments:
+ - [Ogyris (island)](https://pleiades.stoa.org/places/30249)
 
 
 ## Oiasso (Q653443)
