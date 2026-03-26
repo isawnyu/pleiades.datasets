@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-150 alignments exist in _Pleiades_ place references as of 2026-03-25. The following list of alignments is grouped by zotkey.
+152 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -598,6 +598,13 @@
  - [Sanctuary of Artemis Aristoboule](https://pleiades.stoa.org/places/42368654)
 
 
+## Findspot: Sanctuary of Artemis Soteira
+[https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-artemis-soteira/](https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-artemis-soteira/)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira in the Kerameikos](https://pleiades.stoa.org/places/643083926)
+
+
 ## Findspot: Sanctuary of Kalliste
 [https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-kalliste/](https://www.atticinscriptions.com/browse/byfindspot/sanctuary-of-kalliste/)  
 
@@ -968,6 +975,13 @@
 
 ### alignments:
  - [Temple of Apollo Zoster](https://pleiades.stoa.org/places/579875)
+
+
+## Original location: Sanctuary of Artemis Soteira
+[https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-artemis-soteira/](https://www.atticinscriptions.com/browse/byoriginallocation/sanctuary-of-artemis-soteira/)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira in the Kerameikos](https://pleiades.stoa.org/places/643083926)
 
 
 ## Original Location: Sanctuary of Eurysakes

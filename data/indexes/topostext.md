@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4892 alignments exist in _Pleiades_ place references as of 2026-03-25. The following list of alignments is grouped by zotkey.
+4895 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -112,13 +112,6 @@
 
 ### alignments:
  - [Mariandynoi](https://pleiades.stoa.org/places/845013)
-
-
-## 419125BRoA
-[https://topostext.org/place/419125BRoA](https://topostext.org/place/419125BRoA)  
-
-### alignments:
- - [Rostra](https://pleiades.stoa.org/places/796942355)
 
 
 ## 419125FPLa: Porta/Via Latina (Rome) 29 Roma
@@ -6426,6 +6419,13 @@
  - [Bouraikos (river)](https://pleiades.stoa.org/places/570167)
 
 
+## Bouri cult site (Megara)
+[https://topostext.org/place/380232XBou](https://topostext.org/place/380232XBou)  
+
+### alignments:
+ - [Bouri cult site (Megara)](https://pleiades.stoa.org/places/32079425)
+
+
 ## Bourina (Kos)  Bourina
 [https://topostext.org/place/369273WBou](https://topostext.org/place/369273WBou)  
 
@@ -6508,6 +6508,13 @@
 
 ### alignments:
  - [Paleochristian basilica at Vravrona](https://pleiades.stoa.org/places/26337957)
+
+
+## Brauron tower (Attica) Kaliveza
+[https://topostext.org/place/379240FBra](https://topostext.org/place/379240FBra)  
+
+### alignments:
+ - [Tower of Vravrona](https://pleiades.stoa.org/places/999947807)
 
 
 ## Brauronian Artemis shrine (Athens Acropolis) 1 Acropolis of Athens
@@ -28009,6 +28016,13 @@
  - [Orsologiakos/Rosolodiacus](https://pleiades.stoa.org/places/619228)
 
 
+## Rostra Augusti (Rome)
+[https://topostext.org/place/419125BRoA](https://topostext.org/place/419125BRoA)  
+
+### alignments:
+ - [Rostra](https://pleiades.stoa.org/places/796942355)
+
+
 ## Rotomagus (Gallia)
 [https://topostext.org/place/494011URot](https://topostext.org/place/494011URot)  
 
@@ -28990,6 +29004,13 @@
 
 ### alignments:
  - [Serdica](https://pleiades.stoa.org/places/207439)
+
+
+## Seres (China) 53 China - Σήρες
+[https://topostext.org/place/370111RSer](https://topostext.org/place/370111RSer)  
+
+### alignments:
+ - [Seres/Serae](https://pleiades.stoa.org/places/60042)
 
 
 ## Sergius and Bacchus church

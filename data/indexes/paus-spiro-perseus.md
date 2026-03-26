@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-526 alignments exist in _Pleiades_ place references as of 2026-03-25. The following list of alignments is grouped by zotkey.
+529 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -477,6 +477,13 @@
 
 ### alignments:
  - [Megara](https://pleiades.stoa.org/places/570468)
+
+
+## 1.40.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.40.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.40.2)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira (Megara)](https://pleiades.stoa.org/places/562673315)
 
 
 ## 1.41.8
@@ -2478,6 +2485,13 @@
  - [Elis (city)](https://pleiades.stoa.org/places/570220)
 
 
+## 6.26.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.26.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.26.6)  
+
+### alignments:
+ - [Seres/Serae](https://pleiades.stoa.org/places/60042)
+
+
 ## 6.3.12
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.3.12](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:6.3.12)  
 
@@ -3424,6 +3438,13 @@
 
 ### alignments:
  - [Phigaleia](https://pleiades.stoa.org/places/570598)
+
+
+## 8.39.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.39.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.39.5)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira (Phigaleia)](https://pleiades.stoa.org/places/562673316)
 
 
 ## 8.4.3

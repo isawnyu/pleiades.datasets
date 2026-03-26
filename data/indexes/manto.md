@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-955 alignments exist in _Pleiades_ place references as of 2026-03-25. The following list of alignments is grouped by zotkey.
+957 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2445,6 +2445,13 @@
  - [Metapontum](https://pleiades.stoa.org/places/442658)
 
 
+## 11259237: Seres (China?)
+[https://resource.manto.unh.edu/11259237](https://resource.manto.unh.edu/11259237)  
+
+### alignments:
+ - [Seres/Serae](https://pleiades.stoa.org/places/60042)
+
+
 ## 11288769: Perraibia
 [https://resource.manto.unh.edu/11288769](https://resource.manto.unh.edu/11288769)  
 
@@ -4243,6 +4250,13 @@
 
 ### alignments:
  - [Hyria (Cilicia)](https://pleiades.stoa.org/places/458576716)
+
+
+## 11334116: New Hermion (Argolid)
+[https://resource.manto.unh.edu/11334116](https://resource.manto.unh.edu/11334116)  
+
+### alignments:
+ - [Hermion(e)](https://pleiades.stoa.org/places/570292)
 
 
 ## 8188810: Crommyon (Argolid)

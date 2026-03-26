@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10374 alignments exist in _Pleiades_ place references as of 2026-03-25. The following list of alignments is grouped by zotkey.
+10389 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7426,6 +7426,13 @@
  - [Basilica of St. Francis of Assisi ](https://pleiades.stoa.org/places/617667451)
 
 
+## Basilica of San Lorenzo (Q810080)
+[https://www.wikidata.org/wiki/Q810080](https://www.wikidata.org/wiki/Q810080)  
+
+### alignments:
+ - [Basilica di San Lorenzo Maggiore](https://pleiades.stoa.org/places/755240663)
+
+
 ## Basilica of San Vitale (Q721817)
 [https://www.wikidata.org/wiki/Q721817](https://www.wikidata.org/wiki/Q721817)  
 
@@ -14705,6 +14712,13 @@
  - [Colonne della Sabatina](https://pleiades.stoa.org/places/765513659)
 
 
+## Colonne di San Lorenzo (Q1053483)
+[https://www.wikidata.org/wiki/Q1053483](https://www.wikidata.org/wiki/Q1053483)  
+
+### alignments:
+ - [Colonne di San Lorenzo](https://pleiades.stoa.org/places/4763992)
+
+
 ## Colonos Agoraios (Q5148468)
 [https://www.wikidata.org/wiki/Q5148468](https://www.wikidata.org/wiki/Q5148468)  
 
@@ -18399,6 +18413,13 @@
  - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
 
 
+## Epidamnian Treasury III (Q106956826)
+[https://www.wikidata.org/wiki/Q106956826](https://www.wikidata.org/wiki/Q106956826)  
+
+### alignments:
+ - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
+
+
 ## Epidamnos (Q3567546)
 [https://www.wikidata.org/wiki/Q3567546](https://www.wikidata.org/wiki/Q3567546)  
 
@@ -18930,6 +18951,13 @@
 
 ### alignments:
  - [Euenos (river)](https://pleiades.stoa.org/places/540780)
+
+
+## Excubitorium (Q3735926)
+[https://www.wikidata.org/wiki/Q3735926](https://www.wikidata.org/wiki/Q3735926)  
+
+### alignments:
+ - [Excubitorium](https://pleiades.stoa.org/places/495489059)
 
 
 ## Exomvourgo (Q3560397)
@@ -24988,6 +25016,7 @@
 [https://www.wikidata.org/wiki/Q2172329](https://www.wikidata.org/wiki/Q2172329)  
 
 ### alignments:
+ - [Jardin des Vestiges](https://pleiades.stoa.org/places/4763993)
  - [Port antique de Marseille](https://pleiades.stoa.org/places/888303741)
 
 
@@ -30734,6 +30763,13 @@
  - [Megara](https://pleiades.stoa.org/places/570468)
 
 
+## Megarian Treasury at Olympia (Q96392534)
+[https://www.wikidata.org/wiki/Q96392534](https://www.wikidata.org/wiki/Q96392534)  
+
+### alignments:
+ - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
+
+
 ## Megaris (Q645572)
 [https://www.wikidata.org/wiki/Q645572](https://www.wikidata.org/wiki/Q645572)  
 
@@ -33148,6 +33184,13 @@
 
 ### alignments:
  - [Murus Romuli](https://pleiades.stoa.org/places/698502930)
+
+
+## Murus Terreus (Q18378374)
+[https://www.wikidata.org/wiki/Q18378374](https://www.wikidata.org/wiki/Q18378374)  
+
+### alignments:
+ - [Murus Terreus Carinarum](https://pleiades.stoa.org/places/987812398)
 
 
 ## Museum und Park Kalkriese (Q1954771)
@@ -38513,6 +38556,13 @@
  - [Plotino(u)polis](https://pleiades.stoa.org/places/501572)
 
 
+## Plovdiv Roman Stadium (Q7205170)
+[https://www.wikidata.org/wiki/Q7205170](https://www.wikidata.org/wiki/Q7205170)  
+
+### alignments:
+ - [Stadium of Philippopolis](https://pleiades.stoa.org/places/925968978)
+
+
 ## Plovdiv Roman theatre (Q1363208)
 [https://www.wikidata.org/wiki/Q1363208](https://www.wikidata.org/wiki/Q1363208)  
 
@@ -39290,6 +39340,13 @@
  - [Porta Eburnea](https://pleiades.stoa.org/places/580698596)
 
 
+## Porta Flumentana (Q1101672)
+[https://www.wikidata.org/wiki/Q1101672](https://www.wikidata.org/wiki/Q1101672)  
+
+### alignments:
+ - [Porta Flumentana](https://pleiades.stoa.org/places/502889801)
+
+
 ## Porta Herculaneum (Q94579468)
 [https://www.wikidata.org/wiki/Q94579468](https://www.wikidata.org/wiki/Q94579468)  
 
@@ -39323,6 +39380,13 @@
 
 ### alignments:
  - [Porta Metronia](https://pleiades.stoa.org/places/591390531)
+
+
+## Porta Montanara (Q28000559)
+[https://www.wikidata.org/wiki/Q28000559](https://www.wikidata.org/wiki/Q28000559)  
+
+### alignments:
+ - [Porta Montanara](https://pleiades.stoa.org/places/755240662)
 
 
 ## Porta Naevia (Q1058810)
@@ -40163,6 +40227,13 @@
 
 ### alignments:
  - [Ouangana? (island)](https://pleiades.stoa.org/places/50182)
+
+
+## Punic wall of Cartagena (Q3328024)
+[https://www.wikidata.org/wiki/Q3328024](https://www.wikidata.org/wiki/Q3328024)  
+
+### alignments:
+ - [Muralla Púnica](https://pleiades.stoa.org/places/167635326)
 
 
 ## Punta Pezzo (Q608369)
@@ -41059,13 +41130,6 @@
 
 ### alignments:
  - [Esgair Perfedd marching camp](https://pleiades.stoa.org/places/597417689)
-
-
-## Q106956826
-[https://www.wikidata.org/wiki/Q106956826](https://www.wikidata.org/wiki/Q106956826)  
-
-### alignments:
- - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
 
 
 ## Q106966494: Tifata
@@ -51204,13 +51268,6 @@
  - [Ganj Nameh](https://pleiades.stoa.org/places/903032)
 
 
-## Q426372
-[https://www.wikidata.org/wiki/Q426372](https://www.wikidata.org/wiki/Q426372)  
-
-### alignments:
- - [Rostra](https://pleiades.stoa.org/places/796942355)
-
-
 ## Q42659903: El Vilarenc
 [https://www.wikidata.org/wiki/Q42659903](https://www.wikidata.org/wiki/Q42659903)  
 
@@ -55552,13 +55609,6 @@
  - [Arco Romano de Dona Isabel](https://pleiades.stoa.org/places/982853456)
 
 
-## Q96392534
-[https://www.wikidata.org/wiki/Q96392534](https://www.wikidata.org/wiki/Q96392534)  
-
-### alignments:
- - [Megarian Treasury at Olympia](https://pleiades.stoa.org/places/515907169)
-
-
 ## Q96671821: Apollo Tegyraios (sanctuary)
 [https://www.wikidata.org/wiki/Q96671821](https://www.wikidata.org/wiki/Q96671821)  
 
@@ -56509,6 +56559,13 @@
 
 ### alignments:
  - [Remains of Sasanian Persian Siege Ramp in Dura-Europos](https://pleiades.stoa.org/places/888638020)
+
+
+## Remoria (Q3424578)
+[https://www.wikidata.org/wiki/Q3424578](https://www.wikidata.org/wiki/Q3424578)  
+
+### alignments:
+ - [Remoria](https://pleiades.stoa.org/places/233518203)
 
 
 ## Renaissance Monumental Ensembles of Úbeda and Baeza (Q15831671)
@@ -58444,6 +58501,13 @@
  - [Orsologiakos/Rosolodiacus](https://pleiades.stoa.org/places/619228)
 
 
+## rostra (Q426372)
+[https://www.wikidata.org/wiki/Q426372](https://www.wikidata.org/wiki/Q426372)  
+
+### alignments:
+ - [Rostra](https://pleiades.stoa.org/places/796942355)
+
+
 ## Rotomagus (Q3442995)
 [https://www.wikidata.org/wiki/Q3442995](https://www.wikidata.org/wiki/Q3442995)  
 
@@ -59228,6 +59292,13 @@
  - [San Felice Roman villa](https://pleiades.stoa.org/places/251126036)
 
 
+## San Gervasio (Q25349984)
+[https://www.wikidata.org/wiki/Q25349984](https://www.wikidata.org/wiki/Q25349984)  
+
+### alignments:
+ - [San Gervasio, Mondolfo](https://pleiades.stoa.org/places/415570571)
+
+
 ## San Giacomo di Rialto (Q922677)
 [https://www.wikidata.org/wiki/Q922677](https://www.wikidata.org/wiki/Q922677)  
 
@@ -59520,6 +59591,20 @@
 
 ### alignments:
  - [Temple of Artemis Orthia](https://pleiades.stoa.org/places/139216315)
+
+
+## Sanctuary of Artemis Soteira and Roman emperors in Megara (Q124644611)
+[https://www.wikidata.org/wiki/Q124644611](https://www.wikidata.org/wiki/Q124644611)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira (Megara)](https://pleiades.stoa.org/places/562673315)
+
+
+## Sanctuary of Artemis Soteira at Phigaleia (Q134036848)
+[https://www.wikidata.org/wiki/Q134036848](https://www.wikidata.org/wiki/Q134036848)  
+
+### alignments:
+ - [Sanctuary of Artemis Soteira (Phigaleia)](https://pleiades.stoa.org/places/562673316)
 
 
 ## Sanctuary of Asclepius, Epidaurus (Q7698713)
@@ -61054,6 +61139,13 @@
 
 ### alignments:
  - [Seregélyes](https://pleiades.stoa.org/places/197506)
+
+
+## Seres (Q210258)
+[https://www.wikidata.org/wiki/Q210258](https://www.wikidata.org/wiki/Q210258)  
+
+### alignments:
+ - [Seres/Serae](https://pleiades.stoa.org/places/60042)
 
 
 ## Sergia (Q3538810)
@@ -62882,6 +62974,13 @@
 
 ### alignments:
  - [Herakleios Porthmos/Gaditanum Fretum](https://pleiades.stoa.org/places/256198)
+
+
+## Strait of Hormuz (Q79883)
+[https://www.wikidata.org/wiki/Q79883](https://www.wikidata.org/wiki/Q79883)  
+
+### alignments:
+ - [Strait of Hormuz](https://pleiades.stoa.org/places/1010946)
 
 
 ## Strait of Kerch (Q187890)
@@ -67650,6 +67749,13 @@
 
 ### alignments:
  - [Torre de San Josep](https://pleiades.stoa.org/places/823633465)
+
+
+## tower of Vravrona (Q107225480)
+[https://www.wikidata.org/wiki/Q107225480](https://www.wikidata.org/wiki/Q107225480)  
+
+### alignments:
+ - [Tower of Vravrona](https://pleiades.stoa.org/places/999947807)
 
 
 ## Tozeur (Q504661)
