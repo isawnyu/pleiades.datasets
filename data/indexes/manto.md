@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-957 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
+958 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4152,6 +4152,13 @@
 
 ### alignments:
  - [Apollo, Aedes](https://pleiades.stoa.org/places/740034026)
+
+
+## 11329684: the Temple of Janus at Rome
+[https://resource.manto.unh.edu/11329684](https://resource.manto.unh.edu/11329684)  
+
+### alignments:
+ - [The Temple of Janus (Rome)](https://pleiades.stoa.org/places/468681435)
 
 
 ## 11329688: the Portico of Octavia (Rome)

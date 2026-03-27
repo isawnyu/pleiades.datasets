@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10389 alignments exist in _Pleiades_ place references as of 2026-03-26. The following list of alignments is grouped by zotkey.
+10390 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -64878,6 +64878,13 @@
 
 ### alignments:
  - [Temple of Iuno Sospita, Lanuvium](https://pleiades.stoa.org/places/879109673)
+
+
+## Temple of Janus (Q352799)
+[https://www.wikidata.org/wiki/Q352799](https://www.wikidata.org/wiki/Q352799)  
+
+### alignments:
+ - [The Temple of Janus (Rome)](https://pleiades.stoa.org/places/468681435)
 
 
 ## Temple of Juno Moneta (Q951089)
