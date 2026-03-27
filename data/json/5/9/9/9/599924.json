@@ -11,23 +11,40 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/599926",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:49:09Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype = located on; BAtlas and BAtlDir references",
+                    "modified": "2026-03-26T18:04:05Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "located near",
+                    "modified": "2026-03-26T18:02:00Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:49:09Z",
@@ -46,7 +63,30 @@
             ],
             "id": "599926",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "61 D2 Samiopoula",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 946 see \"Samiopoula\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Samos (island)",
@@ -54,7 +94,8 @@
         }
     ],
     "connectsWith": [
-        "https://pleiades.stoa.org/places/599926"
+        "https://pleiades.stoa.org/places/599926",
+        "https://pleiades.stoa.org/places/668432190"
     ],
     "contributors": [
         {
@@ -124,6 +165,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2026-03-26T17:33:08Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "added references provided by bkiesling",
             "modified": "2025-11-04T19:56:23Z",
@@ -319,6 +365,11 @@
             "end": 1999,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2026-03-26T17:37:49Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2026-02-19T01:51:49Z",
                     "modifiedBy": "thomase"
@@ -365,12 +416,10 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-        "https://pleiades.stoa.org/vocabularies/place-types/island"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "settlement",
-        "island"
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 61 D2 Samiopoula",
     "references": [
