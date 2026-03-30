@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4896 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
+4902 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -91,13 +91,6 @@
 
 ### alignments:
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
-
-
-## 400262MPro
-[https://topostext.org/place/400262MPro](https://topostext.org/place/400262MPro)  
-
-### alignments:
- - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
 
 
 ## 405233RCha: Chalcidike region (Chalkidike) 102 Khalkidiki - Χαλκιδική
@@ -1804,6 +1797,13 @@
  - [Alesion (mountain)](https://pleiades.stoa.org/places/570064)
 
 
+## Aletium (Sallentinum)
+[https://topostext.org/place/401181UAle](https://topostext.org/place/401181UAle)  
+
+### alignments:
+ - [(B)Aletium](https://pleiades.stoa.org/places/442495)
+
+
 ## Aletrium (Italy)
 [https://topostext.org/place/417133UAle](https://topostext.org/place/417133UAle)  
 
@@ -2180,6 +2180,13 @@
 
 ### alignments:
  - [Amiternum](https://pleiades.stoa.org/places/413013)
+
+
+## Ammaedara (Libya)
+[https://topostext.org/place/356085UHai](https://topostext.org/place/356085UHai)  
+
+### alignments:
+ - [Ammaedara](https://pleiades.stoa.org/places/324665)
 
 
 ## Ammaia (Lusitania)
@@ -9204,6 +9211,13 @@
  - [Dispilio](https://pleiades.stoa.org/places/471781651)
 
 
+## Divine Augustus temple (Rome)
+[https://topostext.org/place/419125SDAT](https://topostext.org/place/419125SDAT)  
+
+### alignments:
+ - [Temple of Divus Augustus (Rome)](https://pleiades.stoa.org/places/434772637)
+
+
 ## Divodurum/Mettis (Gallia)
 [https://topostext.org/place/491062UDiv](https://topostext.org/place/491062UDiv)  
 
@@ -11768,6 +11782,13 @@
 
 ### alignments:
  - [Gephyra](https://pleiades.stoa.org/places/491600)
+
+
+## Geraistian Poseidon (Euboea)
+[https://topostext.org/place/380245SGer](https://topostext.org/place/380245SGer)  
+
+### alignments:
+ - [Geraistos Pr.](https://pleiades.stoa.org/places/570259)
 
 
 ## Geraistos (Euboea)
@@ -19893,7 +19914,7 @@
 [https://topostext.org/place/401262LMas](https://topostext.org/place/401262LMas)  
 
 ### alignments:
- - [Mast(o)usia Pr.](https://pleiades.stoa.org/places/501509)
+ - [Mast(o)usia (promontory)](https://pleiades.stoa.org/places/501509)
 
 
 ## Matala (Crete) 6 Matala - Μάταλα
@@ -20216,6 +20237,13 @@
 
 ### alignments:
  - [Melas (river)](https://pleiades.stoa.org/places/543781)
+
+
+## Melas R. (Pamphylia)
+[https://topostext.org/place/368314WMel](https://topostext.org/place/368314WMel)  
+
+### alignments:
+ - [Melas (river)](https://pleiades.stoa.org/places/638993)
 
 
 ## Melas R. (Thrace) 10 Kavak Su - Μελάς
@@ -21689,6 +21717,13 @@
 
 ### alignments:
  - [Nequinum/Narnia](https://pleiades.stoa.org/places/413225)
+
+
+## Neretum (Sallentinum)
+[https://topostext.org/place/402180UNer](https://topostext.org/place/402180UNer)  
+
+### alignments:
+ - [Neretum](https://pleiades.stoa.org/places/442688)
 
 
 ## Nerikos (Lefkada)
@@ -30282,7 +30317,7 @@
 [https://topostext.org/place/409253PStr](https://topostext.org/place/409253PStr)  
 
 ### alignments:
- - [Stryme](https://pleiades.stoa.org/places/501628)
+ - [Molyvoti/Stryme?](https://pleiades.stoa.org/places/501628)
 
 
 ## Strymon R. (Serres)
@@ -30423,13 +30458,6 @@
 
 ### alignments:
  - [Sutrium](https://pleiades.stoa.org/places/413328)
-
-
-## Sveshtari tomb (Thrace)
-[https://topostext.org/place/437268GSve](https://topostext.org/place/437268GSve)  
-
-### alignments:
- - [Thracian Tomb of Sveshtari](https://pleiades.stoa.org/places/112399918)
 
 
 ## Syangela (Caria)
@@ -32359,6 +32387,13 @@
  - [Tomb of Marcus Servilius Quartus ](https://pleiades.stoa.org/places/98709290)
 
 
+## Tomb of Protesilaus (Thrace)
+[https://topostext.org/place/400262MPro](https://topostext.org/place/400262MPro)  
+
+### alignments:
+ - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
+
+
 ## Tomb of the Scipios (Rome)
 [https://topostext.org/place/419125GSSc](https://topostext.org/place/419125GSSc)  
 
@@ -33491,6 +33526,13 @@
 
 ### alignments:
  - [Vereniki](https://pleiades.stoa.org/places/531140)
+
+
+## Veretum (Sallentinum)
+[https://topostext.org/place/398183UVer](https://topostext.org/place/398183UVer)  
+
+### alignments:
+ - [Veretum/Baris](https://pleiades.stoa.org/places/442848)
 
 
 ## Verona (Italy)

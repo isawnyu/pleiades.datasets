@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2335 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
+2343 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3231,6 +3231,13 @@
  - [Iomnium](https://pleiades.stoa.org/places/295280)
 
 
+## 1C2-1C4 (Talbert 2851)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2851.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2851.html)  
+
+### alignments:
+ - [Fer(r)atus M.](https://pleiades.stoa.org/places/295262)
+
+
 ## 1C3 (Talbert 10)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace10.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace10.html)  
 
@@ -3700,11 +3707,25 @@
  - [Cambete](https://pleiades.stoa.org/places/177486)
 
 
+## 2A4 (Talbert 889)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace889.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace889.html)  
+
+### alignments:
+ - [Arialbinnum](https://pleiades.stoa.org/places/181203)
+
+
 ## 2A4 (Talbert 890)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace890.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace890.html)  
 
 ### alignments:
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
+## 2A4 (Talbert 936)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace936.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace936.html)  
+
+### alignments:
+ - [Arialbinnum](https://pleiades.stoa.org/places/181203)
 
 
 ## 2A5 (Talbert 1017)
@@ -11146,6 +11167,13 @@
  - [Aque Ange](https://pleiades.stoa.org/places/456032)
 
 
+## 6B2 (Talbert 1389)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1389.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1389.html)  
+
+### alignments:
+ - [(B)Aletium](https://pleiades.stoa.org/places/442495)
+
+
 ## 6B2 (Talbert 1390)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1390.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1390.html)  
 
@@ -12323,6 +12351,27 @@
  - [Sexaginta Prista](https://pleiades.stoa.org/places/216982)
 
 
+## 7A2 (Talbert 1940)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1940.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1940.html)  
+
+### alignments:
+ - [Appiaria](https://pleiades.stoa.org/places/216707)
+
+
+## 7A2 (Talbert 1941)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1941.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1941.html)  
+
+### alignments:
+ - [Transmarisca](https://pleiades.stoa.org/places/217021)
+
+
+## 7A2 (Talbert 1942)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1942.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1942.html)  
+
+### alignments:
+ - [Nigrinianis/Candidiana](https://pleiades.stoa.org/places/216896)
+
+
 ## 7A2 (Talbert 1944)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1944.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1944.html)  
 
@@ -13371,6 +13420,13 @@
 
 ### alignments:
  - [Ma(ra)ndis?](https://pleiades.stoa.org/places/373848)
+
+
+## 7C5 MONTES CYRENEI (mountain, no. 83) (Talbert 3117)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3117.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3117.html)  
+
+### alignments:
+ - [Montes Cyrenei](https://pleiades.stoa.org/places/950256720)
 
 
 ## 8 B1 ? (TPPlace3134)

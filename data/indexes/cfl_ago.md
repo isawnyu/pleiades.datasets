@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-462 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
+463 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -798,6 +798,14 @@
 
 ### alignments:
  - [Strymon (river)](https://pleiades.stoa.org/places/501629)
+
+
+## Toponym 15529: Skopelos
+[https://chronique.efa.gr/?r=topo_public&id=15529](https://chronique.efa.gr/?r=topo_public&id=15529)  
+
+### alignments:
+ - [Peparethus (island)](https://pleiades.stoa.org/places/541024)
+ - [Sporades (archipelago)](https://pleiades.stoa.org/places/599944)
 
 
 ## Toponym 17564: Drymaia, Glounista
@@ -3029,7 +3037,7 @@
 [https://chronique.efa.gr/?r=topo_public&id=69999](https://chronique.efa.gr/?r=topo_public&id=69999)  
 
 ### alignments:
- - [Stryme](https://pleiades.stoa.org/places/501628)
+ - [Molyvoti/Stryme?](https://pleiades.stoa.org/places/501628)
 
 
 ## Toponyme 70012: Dréros

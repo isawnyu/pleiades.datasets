@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-958 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
+964 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -167,6 +167,13 @@
 
 ### alignments:
  - [The Tomb of Protesilaus](https://pleiades.stoa.org/places/528599073)
+
+
+## 10073068: Cape Mazousia (Chersonesos)
+[https://resource.manto.unh.edu/10073068](https://resource.manto.unh.edu/10073068)  
+
+### alignments:
+ - [Mast(o)usia (promontory)](https://pleiades.stoa.org/places/501509)
 
 
 ## 10073075: Mount Cragos (Lycia)
@@ -2445,6 +2452,13 @@
  - [Metapontum](https://pleiades.stoa.org/places/442658)
 
 
+## 11259210: Peparethos (island)
+[https://resource.manto.unh.edu/11259210](https://resource.manto.unh.edu/11259210)  
+
+### alignments:
+ - [Peparethus (island)](https://pleiades.stoa.org/places/541024)
+
+
 ## 11259237: Seres (China?)
 [https://resource.manto.unh.edu/11259237](https://resource.manto.unh.edu/11259237)  
 
@@ -3138,6 +3152,13 @@
  - [Alope](https://pleiades.stoa.org/places/540621)
 
 
+## 11307374: Phthiotic Thebes (Thessaly)
+[https://resource.manto.unh.edu/11307374](https://resource.manto.unh.edu/11307374)  
+
+### alignments:
+ - [Thebai Phthiotides](https://pleiades.stoa.org/places/541137)
+
+
 ## 11307395: Anticyra (Thessaly)
 [https://resource.manto.unh.edu/11307395](https://resource.manto.unh.edu/11307395)  
 
@@ -3566,6 +3587,13 @@
  - [Acrae](https://pleiades.stoa.org/places/462068)
 
 
+## 11312324: Mount Aracynthos (Boiotia)
+[https://resource.manto.unh.edu/11312324](https://resource.manto.unh.edu/11312324)  
+
+### alignments:
+ - [Arakynthos (mountain)](https://pleiades.stoa.org/places/543635)
+
+
 ## 11312457: Ophryneion (Troad)
 [https://resource.manto.unh.edu/11312457](https://resource.manto.unh.edu/11312457)  
 
@@ -3739,6 +3767,13 @@
 
 ### alignments:
  - [Leuca/Portus Sallentinus](https://pleiades.stoa.org/places/442632)
+
+
+## 11314926: Baris (S. Italy)
+[https://resource.manto.unh.edu/11314926](https://resource.manto.unh.edu/11314926)  
+
+### alignments:
+ - [Veretum/Baris](https://pleiades.stoa.org/places/442848)
 
 
 ## 11314964: Achaia (Pontos)
@@ -4215,6 +4250,13 @@
 
 ### alignments:
  - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
+
+
+## 11330135: the Temple of Augustus (Rome)
+[https://resource.manto.unh.edu/11330135](https://resource.manto.unh.edu/11330135)  
+
+### alignments:
+ - [Temple of Divus Augustus (Rome)](https://pleiades.stoa.org/places/434772637)
 
 
 ## 11330736: the House of Faustulus (Rome)

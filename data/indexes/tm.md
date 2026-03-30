@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4967 alignments exist in _Pleiades_ place references as of 2026-03-27. The following list of alignments is grouped by zotkey.
+4982 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -719,13 +719,6 @@
 
 ### alignments:
  - [Teos](https://pleiades.stoa.org/places/550913)
-
-
-## Geo 2354: Thebai
-[https://www.trismegistos.org/place/2354](https://www.trismegistos.org/place/2354)  
-
-### alignments:
- - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
 
 
 ## Geo 2387: Thera (Santorini)
@@ -4429,6 +4422,13 @@
  - [Naucratis](https://pleiades.stoa.org/places/727169)
 
 
+## GEO ID 14255: Aletium (Alezio)
+[http://www.trismegistos.org/place/14255](http://www.trismegistos.org/place/14255)  
+
+### alignments:
+ - [(B)Aletium](https://pleiades.stoa.org/places/442495)
+
+
 ## GEO ID 14256: Argyrippa (Arpi)
 [http://www.trismegistos.org/place/14256](http://www.trismegistos.org/place/14256)  
 
@@ -4532,6 +4532,13 @@
 
 ### alignments:
  - [Diria?](https://pleiades.stoa.org/places/442566)
+
+
+## GEO ID 14278: Neretum (Nardò)
+[https://www.trismegistos.org/place/14278](https://www.trismegistos.org/place/14278)  
+
+### alignments:
+ - [Neretum](https://pleiades.stoa.org/places/442688)
 
 
 ## GEO ID 14279: Herdonia (Ordona)
@@ -10730,6 +10737,13 @@
  - [Lattara](https://pleiades.stoa.org/places/148107)
 
 
+## GEO ID 2149: Skenai Mandrai (Tell el-Minya Shurafa)
+[https://www.trismegistos.org/place/2149](https://www.trismegistos.org/place/2149)  
+
+### alignments:
+ - [Skenai Mandrai](https://pleiades.stoa.org/places/737050)
+
+
 ## GEO ID 2154: Smyrne (Izmir)
 [https://www.trismegistos.org/place/2154](https://www.trismegistos.org/place/2154)  
 
@@ -11695,6 +11709,13 @@
 
 ### alignments:
  - [Belgica (province)](https://pleiades.stoa.org/places/981511)
+
+
+## GEO ID 2354: Thebai
+[https://www.trismegistos.org/place/2354](https://www.trismegistos.org/place/2354)  
+
+### alignments:
+ - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
 
 
 ## GEO ID 23564: Brioratis (Briord)
@@ -14848,6 +14869,13 @@
  - [Argaitidos (Diorux)](https://pleiades.stoa.org/places/736892)
 
 
+## GEO ID 29809: Nigrinianae
+[https://www.trismegistos.org/place/29809](https://www.trismegistos.org/place/29809)  
+
+### alignments:
+ - [Nigrinianis/Candidiana](https://pleiades.stoa.org/places/216896)
+
+
 ## GEO ID 29821: Dimum (Belene)
 [https://www.trismegistos.org/place/29821](https://www.trismegistos.org/place/29821)  
 
@@ -14974,6 +15002,13 @@
  - [Iatrus](https://pleiades.stoa.org/places/216846)
 
 
+## GEO ID 29944: Appiaria (Ryakhovo)
+[https://www.trismegistos.org/place/29944](https://www.trismegistos.org/place/29944)  
+
+### alignments:
+ - [Appiaria](https://pleiades.stoa.org/places/216707)
+
+
 ## GEO ID 29951: Ad Radices (Popina Leka)
 [https://www.trismegistos.org/place/29951](https://www.trismegistos.org/place/29951)  
 
@@ -14993,6 +15028,13 @@
 
 ### alignments:
  - [Sostra](https://pleiades.stoa.org/places/216989)
+
+
+## GEO ID 29955: Transmarisca (Tutrakan)
+[https://www.trismegistos.org/place/29955](https://www.trismegistos.org/place/29955)  
+
+### alignments:
+ - [Transmarisca](https://pleiades.stoa.org/places/217021)
 
 
 ## GEO ID 29965: Troesmis (Igliţa-Turcoaia)
@@ -21704,6 +21746,13 @@
  - [Fines](https://pleiades.stoa.org/places/138358)
 
 
+## GEO ID 40430: Arialbinnum (Allschwil)
+[https://www.trismegistos.org/place/40430](https://www.trismegistos.org/place/40430)  
+
+### alignments:
+ - [Arialbinnum](https://pleiades.stoa.org/places/181203)
+
+
 ## GEO ID 40432: Carvo (Kesteren)
 [https://www.trismegistos.org/place/40432](https://www.trismegistos.org/place/40432)  
 
@@ -27004,6 +27053,13 @@
  - [Tritonis? L.](https://pleiades.stoa.org/places/364025)
 
 
+## GEO ID 42577: Montes Cyrenei
+[https://www.trismegistos.org/place/42577](https://www.trismegistos.org/place/42577)  
+
+### alignments:
+ - [Montes Cyrenei](https://pleiades.stoa.org/places/950256720)
+
+
 ## GEO ID 42591: Sangarios (Sakarya)
 [http://www.trismegistos.org/place/42591](http://www.trismegistos.org/place/42591)  
 
@@ -29041,6 +29097,13 @@
 
 ### alignments:
  - [Tit(i)us/Katarbates (river)](https://pleiades.stoa.org/places/197553)
+
+
+## GEO ID 44999: Spercheios (Alemanna)
+[https://www.trismegistos.org/place/44999](https://www.trismegistos.org/place/44999)  
+
+### alignments:
+ - [Spercheios](https://pleiades.stoa.org/places/541112)
 
 
 ## GEO ID 45000: Hippos (Tskhenistsqali)
@@ -32350,6 +32413,27 @@
  - [Pedasos](https://pleiades.stoa.org/places/554307)
 
 
+## GEO ID 60987: Mastousia (Tekke Burnu)
+[https://www.trismegistos.org/place/60987](https://www.trismegistos.org/place/60987)  
+
+### alignments:
+ - [Mast(o)usia (promontory)](https://pleiades.stoa.org/places/501509)
+
+
+## GEO ID 60992: Melas Kolpos (Saros Körfezi)
+[https://www.trismegistos.org/place/60992](https://www.trismegistos.org/place/60992)  
+
+### alignments:
+ - [Melas Kolpos](https://pleiades.stoa.org/places/501513)
+
+
+## GEO ID 60996: Melas (Kavak Suyu)
+[https://www.trismegistos.org/place/60996](https://www.trismegistos.org/place/60996)  
+
+### alignments:
+ - [Melas? (river)](https://pleiades.stoa.org/places/501514)
+
+
 ## GEO ID 60: Agathos Daimon (Mamoudia Canal)
 [https://www.trismegistos.org/place/60](https://www.trismegistos.org/place/60)  
 
@@ -32383,6 +32467,13 @@
 
 ### alignments:
  - [Auridai](https://pleiades.stoa.org/places/585892)
+
+
+## GEO ID 61065: Melas (Manavgat Çay)
+[https://www.trismegistos.org/place/61065](https://www.trismegistos.org/place/61065)  
+
+### alignments:
+ - [Melas (river)](https://pleiades.stoa.org/places/638993)
 
 
 ## GEO ID 61068: Eknomos (Pizzo Caduta)
@@ -32799,6 +32890,13 @@
  - [Aspledon/Eudeielos](https://pleiades.stoa.org/places/540673)
 
 
+## GEO ID 62452: Melas (Mavropotamos)
+[https://www.trismegistos.org/place/62452](https://www.trismegistos.org/place/62452)  
+
+### alignments:
+ - [Melas (river)](https://pleiades.stoa.org/places/543781)
+
+
 ## GEO ID 62474: Aianteion (Trikeri)
 [https://www.trismegistos.org/place/62474](https://www.trismegistos.org/place/62474)  
 
@@ -33105,6 +33203,13 @@
 
 ### alignments:
  - [Lycastus (Pontus)](https://pleiades.stoa.org/places/860823)
+
+
+## GEO ID 65165: Melas
+[https://www.trismegistos.org/place/65165](https://www.trismegistos.org/place/65165)  
+
+### alignments:
+ - [Melas (river)](https://pleiades.stoa.org/places/860831)
 
 
 ## GEO ID 65241: Mazamakai
