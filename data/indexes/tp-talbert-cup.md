@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2343 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
+2349 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1086,6 +1086,13 @@
  - [Sacae](https://pleiades.stoa.org/places/60021)
 
 
+## 11A1 (Talbert 3235)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3235.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3235.html)  
+
+### alignments:
+ - [Caspium/Hyrcanium Mare](https://pleiades.stoa.org/places/884130)
+
+
 ## 11A2 (Talbert 3249)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3249.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3249.html)  
 
@@ -1462,6 +1469,13 @@
 
 ### alignments:
  - [Baris (river)](https://pleiades.stoa.org/places/49901)
+
+
+## 11C5 (Talbert 2789)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2789.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2789.html)  
+
+### alignments:
+ - [Korkai/Kolchoi](https://pleiades.stoa.org/places/50064)
 
 
 ## 11C5 (Talbert 2797)
@@ -3651,6 +3665,13 @@
  - [Saletio](https://pleiades.stoa.org/places/109317)
 
 
+## 2A3 (Talbert 884)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace884.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace884.html)  
+
+### alignments:
+ - [Brocomagus](https://pleiades.stoa.org/places/108828)
+
+
 ## 2A3 (Talbert 917)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace917.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace917.html)  
 
@@ -3663,6 +3684,13 @@
 
 ### alignments:
  - [Tres Tabernae](https://pleiades.stoa.org/places/109389)
+
+
+## 2A3 (Talbert 934)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace934.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace934.html)  
+
+### alignments:
+ - [Larga](https://pleiades.stoa.org/places/177552)
 
 
 ## 2A3 (Talbert 942)
@@ -7807,6 +7835,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1203.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1203.html)  
 
 ### alignments:
+ - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
  - [Via Tiburtina](https://pleiades.stoa.org/places/272213281)
 
 
@@ -10247,6 +10276,13 @@
 
 ### alignments:
  - [Thaenae](https://pleiades.stoa.org/places/324825)
+
+
+## 5C4 (Talbert 267)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace267.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace267.html)  
+
+### alignments:
+ - [Macomades Minores/Iunci](https://pleiades.stoa.org/places/324772)
 
 
 ## 5C4 (Talbert 268)
@@ -16388,6 +16424,13 @@
 
 ### alignments:
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
+
+
+## see 4B5 fidenis (Talbert 1202)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1202.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1202.html)  
+
+### alignments:
+ - [Via Salaria](https://pleiades.stoa.org/places/18271457)
 
 
 ## TP 10B3 (Talbert 2617)

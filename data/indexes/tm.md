@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4982 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
+4989 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12502,6 +12502,13 @@
  - [Argentovaria?](https://pleiades.stoa.org/places/108755)
 
 
+## GEO ID 25374: Brocomagus (Brumath)
+[http://www.trismegistos.org/place/25374](http://www.trismegistos.org/place/25374)  
+
+### alignments:
+ - [Brocomagus](https://pleiades.stoa.org/places/108828)
+
+
 ## GEO ID 25384: Divio (Dijon)
 [https://www.trismegistos.org/place/25384](https://www.trismegistos.org/place/25384)  
 
@@ -12521,6 +12528,13 @@
 
 ### alignments:
  - [Apollonias](https://pleiades.stoa.org/places/741428)
+
+
+## GEO ID 25414: Epomanduodurum (Mandeure)
+[https://www.trismegistos.org/place/25414](https://www.trismegistos.org/place/25414)  
+
+### alignments:
+ - [Epamanduodurum](https://pleiades.stoa.org/places/177516)
 
 
 ## GEO ID 25430: Tres Tabernae (Saverne)
@@ -21711,6 +21725,13 @@
  - [‘Urbate’](https://pleiades.stoa.org/places/197567)
 
 
+## GEO ID 40415: Cambete (Kembs)
+[https://www.trismegistos.org/place/40415](https://www.trismegistos.org/place/40415)  
+
+### alignments:
+ - [Cambete](https://pleiades.stoa.org/places/177486)
+
+
 ## GEO ID 40418: Axuenna (Évergnicourt)
 [http://www.trismegistos.org/place/40418](http://www.trismegistos.org/place/40418)  
 
@@ -22397,6 +22418,13 @@
  - [Gramato](https://pleiades.stoa.org/places/181213)
 
 
+## GEO ID 40778: Larga (Largitzen)
+[https://www.trismegistos.org/place/40778](https://www.trismegistos.org/place/40778)  
+
+### alignments:
+ - [Larga](https://pleiades.stoa.org/places/177552)
+
+
 ## GEO ID 40781: Fines
 [http://www.trismegistos.org/place/40781](http://www.trismegistos.org/place/40781)  
 
@@ -22997,6 +23025,13 @@
 
 ### alignments:
  - [Corobilium?](https://pleiades.stoa.org/places/108910)
+
+
+## GEO ID 41059: Loposagium (Luxiol)
+[https://www.trismegistos.org/place/41059](https://www.trismegistos.org/place/41059)  
+
+### alignments:
+ - [Loposagium](https://pleiades.stoa.org/places/181215)
 
 
 ## GEO ID 41061: Petrensibus (Pleinting)
@@ -25447,6 +25482,13 @@
 
 ### alignments:
  - [Praesidium](https://pleiades.stoa.org/places/484007)
+
+
+## GEO ID 41951: Kolchoi
+[https://www.trismegistos.org/place/41951](https://www.trismegistos.org/place/41951)  
+
+### alignments:
+ - [Korkai/Kolchoi](https://pleiades.stoa.org/places/50064)
 
 
 ## GEO ID 41956: Ad Statuas
@@ -32523,6 +32565,13 @@
 
 ### alignments:
  - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
+
+
+## GEO ID 61089: Aiaia
+[https://www.trismegistos.org/place/61089](https://www.trismegistos.org/place/61089)  
+
+### alignments:
+ - [Aeaea](https://pleiades.stoa.org/places/621604967)
 
 
 ## GEO ID 61101: Corioli

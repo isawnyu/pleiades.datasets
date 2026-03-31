@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-529 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
+531 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -315,11 +315,25 @@
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
 
 
+## 1.33.3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.33.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.33.3)  
+
+### alignments:
+ - [River Oceanus](https://pleiades.stoa.org/places/608104479)
+
+
 ## 1.33.4
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.33.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.33.4)  
 
 ### alignments:
  - [Meroe](https://pleiades.stoa.org/places/805630)
+
+
+## 1.33.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.33.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.33.4)  
+
+### alignments:
+ - [River Oceanus](https://pleiades.stoa.org/places/608104479)
 
 
 ## 1.34.1
@@ -3916,6 +3930,7 @@
  - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
  - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
  - [Thourion](https://pleiades.stoa.org/places/487031708)
+ - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
  - [Untitled](https://pleiades.stoa.org/places/582108)
 
 

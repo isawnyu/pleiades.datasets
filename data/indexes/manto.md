@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-964 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
+978 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1549,6 +1549,20 @@
  - [Kalaureia (island)](https://pleiades.stoa.org/places/570325)
 
 
+## 10214996: the Tomg of Endymion (Olympia)
+[https://resource.manto.unh.edu/10214996](https://resource.manto.unh.edu/10214996)  
+
+### alignments:
+ - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
+
+
+## 10214997: the Stadium at Olympia
+[https://resource.manto.unh.edu/10214997](https://resource.manto.unh.edu/10214997)  
+
+### alignments:
+ - [Classical Stadium at Olympia](https://pleiades.stoa.org/places/929651744)
+
+
 ## 10214999: Mount Latmos (Caria)
 [https://resource.manto.unh.edu/10214999](https://resource.manto.unh.edu/10214999)  
 
@@ -2942,6 +2956,13 @@
  - [Ilva/Aethalia (island)](https://pleiades.stoa.org/places/403222)
 
 
+## 11303452: Telamon (Etruria)
+[https://resource.manto.unh.edu/11303452](https://resource.manto.unh.edu/11303452)  
+
+### alignments:
+ - [Telamon](https://pleiades.stoa.org/places/403280)
+
+
 ## 11303455: Caieta (Italy)
 [https://resource.manto.unh.edu/11303455](https://resource.manto.unh.edu/11303455)  
 
@@ -3024,6 +3045,13 @@
 
 ### alignments:
  - [Orbelos (mountain)](https://pleiades.stoa.org/places/501539)
+
+
+## 11304805: the Caspian Sea
+[https://resource.manto.unh.edu/11304805](https://resource.manto.unh.edu/11304805)  
+
+### alignments:
+ - [Caspium/Hyrcanium Mare](https://pleiades.stoa.org/places/884130)
 
 
 ## 11304845: the Promontory of Sarpedon (Cilicia)
@@ -3608,6 +3636,13 @@
  - [Temple of Cybele](https://pleiades.stoa.org/places/114722047)
 
 
+## 11312657: Caere (Italy)
+[https://resource.manto.unh.edu/11312657](https://resource.manto.unh.edu/11312657)  
+
+### alignments:
+ - [Caere](https://pleiades.stoa.org/places/422859)
+
+
 ## 11312703: Nola (Italy)
 [https://resource.manto.unh.edu/11312703](https://resource.manto.unh.edu/11312703)  
 
@@ -3657,11 +3692,25 @@
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
+## 11313545: Tarquinia (Italy)
+[https://resource.manto.unh.edu/11313545](https://resource.manto.unh.edu/11313545)  
+
+### alignments:
+ - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
+
+
 ## 11313573: Pisa (Italy)
 [https://resource.manto.unh.edu/11313573](https://resource.manto.unh.edu/11313573)  
 
 ### alignments:
  - [Pisae](https://pleiades.stoa.org/places/403253)
+
+
+## 11313684: Regis Villa (Italy)
+[https://resource.manto.unh.edu/11313684](https://resource.manto.unh.edu/11313684)  
+
+### alignments:
+ - [Regis Villa/Regae](https://pleiades.stoa.org/places/413284)
 
 
 ## 11313695: Ardea (Italy)
@@ -3860,6 +3909,13 @@
  - [Sanctuary of Apollo Pythios](https://pleiades.stoa.org/places/804115670)
 
 
+## 11319021: Casa del Fauno VI 12, 2 (Pompeii)
+[https://resource.manto.unh.edu/11319021](https://resource.manto.unh.edu/11319021)  
+
+### alignments:
+ - [House of the Faun](https://pleiades.stoa.org/places/876060818)
+
+
 ## 11319107: Casa dei Vettii VI 15, 1 (Pompeii)
 [https://resource.manto.unh.edu/11319107](https://resource.manto.unh.edu/11319107)  
 
@@ -3963,6 +4019,20 @@
 
 ### alignments:
  - [Tusculum](https://pleiades.stoa.org/places/423108)
+
+
+## 11321285: Caenina (Italy)
+[https://resource.manto.unh.edu/11321285](https://resource.manto.unh.edu/11321285)  
+
+### alignments:
+ - [Caenina](https://pleiades.stoa.org/places/438703)
+
+
+## 11321288: Medullia (Italy)
+[https://resource.manto.unh.edu/11321288](https://resource.manto.unh.edu/11321288)  
+
+### alignments:
+ - [Medullium/Medullum](https://pleiades.stoa.org/places/438784)
 
 
 ## 11321421: Aigai (Macedonia)
@@ -4434,6 +4504,13 @@
  - [Myrtoion Mare](https://pleiades.stoa.org/places/570495)
 
 
+## 8194361: River Oceanos
+[https://resource.manto.unh.edu/8194361](https://resource.manto.unh.edu/8194361)  
+
+### alignments:
+ - [River Oceanus](https://pleiades.stoa.org/places/608104479)
+
+
 ## 8194371: The Peloponnese region of southern Greece
 [https://resource.manto.unh.edu/8194371](https://resource.manto.unh.edu/8194371)  
 
@@ -4869,6 +4946,13 @@
  - [Lerna](https://pleiades.stoa.org/places/570424)
 
 
+## 8253955: Tiryns (Argolid)
+[https://resource.manto.unh.edu/8253955](https://resource.manto.unh.edu/8253955)  
+
+### alignments:
+ - [Tiryns](https://pleiades.stoa.org/places/570740)
+
+
 ## 8253956: Seriphos (island in the Cyclades)
 [https://resource.manto.unh.edu/8253956](https://resource.manto.unh.edu/8253956)  
 
@@ -5261,6 +5345,13 @@
  - [Tyrrhenum/Inferum Mare](https://pleiades.stoa.org/places/1356)
 
 
+## 9051582: Aiaia (unlocatable)
+[https://resource.manto.unh.edu/9051582](https://resource.manto.unh.edu/9051582)  
+
+### alignments:
+ - [Aeaea](https://pleiades.stoa.org/places/621604967)
+
+
 ## 9055231: Delos (island)
 [https://resource.manto.unh.edu/9055231](https://resource.manto.unh.edu/9055231)  
 
@@ -5273,6 +5364,13 @@
 
 ### alignments:
  - [Chios (island)](https://pleiades.stoa.org/places/550497)
+
+
+## 9055304: Rock Agelastos (Eleusis)
+[https://resource.manto.unh.edu/9055304](https://resource.manto.unh.edu/9055304)  
+
+### alignments:
+ - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
 
 
 ## 9055587: Cilicia (region in Asia Minor)

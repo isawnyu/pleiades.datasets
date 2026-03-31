@@ -1,5 +1,19 @@
 # _Pleiades_ alignments with ToposText
-4902 alignments exist in _Pleiades_ place references as of 2026-03-30. The following list of alignments is grouped by zotkey.
+4913 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
+
+## 17479
+[https://topostext.org/people/17479](https://topostext.org/people/17479)  
+
+### alignments:
+ - [River Oceanus](https://pleiades.stoa.org/places/608104479)
+
+
+## 18785
+[https://topostext.org/people/18785](https://topostext.org/people/18785)  
+
+### alignments:
+ - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
+
 
 ## 23453
 [https://topostext.org/people/23453](https://topostext.org/people/23453)  
@@ -55,6 +69,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Limnatis on Mount Lapithos](https://pleiades.stoa.org/places/570119)
+
+
+## 376216GEnd
+[https://topostext.org/place/376216GEnd](https://topostext.org/place/376216GEnd)  
+
+### alignments:
+ - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
 
 
 ## 376221UHyp: Hypsous (Arkadia) 12 Stemnitsa/Hypsous - Υψούς
@@ -1072,6 +1093,13 @@
 
 ### alignments:
  - [Agyrium](https://pleiades.stoa.org/places/462082)
+
+
+## Aiaia/Isle of Circe (mythical)
+[https://topostext.org/place/411127IKir](https://topostext.org/place/411127IKir)  
+
+### alignments:
+ - [Aeaea](https://pleiades.stoa.org/places/621604967)
 
 
 ## Aiakeion (sanctuary of Aeacus)
@@ -6874,6 +6902,13 @@
  - [Cales (Campania)](https://pleiades.stoa.org/places/432739)
 
 
+## Caletra (Etruria)
+[https://topostext.org/place/427115UCal](https://topostext.org/place/427115UCal)  
+
+### alignments:
+ - [Caletranus Ager](https://pleiades.stoa.org/places/413059)
+
+
 ## Calleva Atrebatum (Britannia)
 [https://topostext.org/place/514000UCal](https://topostext.org/place/514000UCal)  
 
@@ -9573,6 +9608,13 @@
 
 ### alignments:
  - [Drys](https://pleiades.stoa.org/places/501406)
+
+
+## Dubis (Gallia)
+[https://topostext.org/place/467062WDou](https://topostext.org/place/467062WDou)  
+
+### alignments:
+ - [Dubis (river)](https://pleiades.stoa.org/places/177508)
 
 
 ## Duo Ekklesies fort (Aitolia)  Stamna
@@ -26899,6 +26941,13 @@
  - [Porticus Philippi](https://pleiades.stoa.org/places/346055018)
 
 
+## Porticus Vipsania (Rome)
+[https://topostext.org/place/419125BPvi](https://topostext.org/place/419125BPvi)  
+
+### alignments:
+ - [Porticus Vipsania](https://pleiades.stoa.org/places/721487826)
+
+
 ## Portonaccio temple (Veii) Portonaccio
 [https://topostext.org/place/420124SPoA](https://topostext.org/place/420124SPoA)  
 
@@ -30100,6 +30149,13 @@
 
 ### alignments:
  - [Stadium of Delphi](https://pleiades.stoa.org/places/333036426)
+
+
+## Stadium (Olympia) 25 Olympia excavations - στάδιον
+[https://topostext.org/place/376216BOSt](https://topostext.org/place/376216BOSt)  
+
+### alignments:
+ - [Classical Stadium at Olympia](https://pleiades.stoa.org/places/929651744)
 
 
 ## Stadium of Domitian (Rome)
@@ -33654,11 +33710,32 @@
  - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
 
 
+## Via Praenestina (Roma)
+[https://topostext.org/place/419126BPr](https://topostext.org/place/419126BPr)  
+
+### alignments:
+ - [Via Praenestina](https://pleiades.stoa.org/places/622606468)
+
+
 ## Via Sacra (Rome)
 [https://topostext.org/place/419125LVsa](https://topostext.org/place/419125LVsa)  
 
 ### alignments:
  - [Sacra Via](https://pleiades.stoa.org/places/434423626)
+
+
+## Via Salaria (Italia)
+[https://topostext.org/place/420126BVSa](https://topostext.org/place/420126BVSa)  
+
+### alignments:
+ - [Via Salaria](https://pleiades.stoa.org/places/18271457)
+
+
+## Via Tiburtina (Latium)
+[https://topostext.org/place/419126BVTb](https://topostext.org/place/419126BVTb)  
+
+### alignments:
+ - [Via Tiburtina](https://pleiades.stoa.org/places/272213281)
 
 
 ## Via Valeria (Latium)
