@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4913 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
+4917 alignments exist in _Pleiades_ place references as of 2026-04-01. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -8374,6 +8374,13 @@
  - [Crustumerium](https://pleiades.stoa.org/places/422914)
 
 
+## Cuicul (Mauretania)
+[https://topostext.org/place/363057UCui](https://topostext.org/place/363057UCui)  
+
+### alignments:
+ - [Cuicul](https://pleiades.stoa.org/places/305068)
+
+
 ## Cularo/Gratianopolis (Gallia)
 [https://topostext.org/place/452057UCul](https://topostext.org/place/452057UCul)  
 
@@ -14358,6 +14365,13 @@
  - [Ismaris (lake)](https://pleiades.stoa.org/places/501440)
 
 
+## Ismenian Apollo (Boeotia)
+[https://topostext.org/place/383233SIsm](https://topostext.org/place/383233SIsm)  
+
+### alignments:
+ - [Sanctuary of Apollo Ismenios, Thebes](https://pleiades.stoa.org/places/116141527)
+
+
 ## Isos (Boeotia)
 [https://topostext.org/place/385234UIso](https://topostext.org/place/385234UIso)  
 
@@ -14510,6 +14524,13 @@
 
 ### alignments:
  - [(Iulia) Myrtilis](https://pleiades.stoa.org/places/256234)
+
+
+## Iulia Traducta (Iberia)
+[https://topostext.org/place/361-54UIul](https://topostext.org/place/361-54UIul)  
+
+### alignments:
+ - [Iulia Traducta/Iulia Ioza/Tingentera](https://pleiades.stoa.org/places/256235)
 
 
 ## Iuliobona (Gallia)
@@ -30549,6 +30570,13 @@
 
 ### alignments:
  - [Syene](https://pleiades.stoa.org/places/786123)
+
+
+## Sykai (Constantinople)
+[https://topostext.org/place/410290USyk](https://topostext.org/place/410290USyk)  
+
+### alignments:
+ - [Sykai/Ioustinianai/Ioustinianoupolis](https://pleiades.stoa.org/places/523982)
 
 
 ## Sykamina (Phoenicia)

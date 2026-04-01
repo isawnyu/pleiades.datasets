@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10424 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
+10441 alignments exist in _Pleiades_ place references as of 2026-04-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1950,6 +1950,13 @@
  - [Alabum](https://pleiades.stoa.org/places/79287)
 
 
+## Alagankulam (Q19694756)
+[https://www.wikidata.org/wiki/Q19694756](https://www.wikidata.org/wiki/Q19694756)  
+
+### alignments:
+ - [Alagankulam](https://pleiades.stoa.org/places/49850)
+
+
 ## Alahan Monastery (Q94668)
 [https://www.wikidata.org/wiki/Q94668](https://www.wikidata.org/wiki/Q94668)  
 
@@ -1969,6 +1976,13 @@
 
 ### alignments:
  - [Alalkomenai](https://pleiades.stoa.org/places/540619)
+
+
+## Alanya (Q171810)
+[https://www.wikidata.org/wiki/Q171810](https://www.wikidata.org/wiki/Q171810)  
+
+### alignments:
+ - [Korakesion](https://pleiades.stoa.org/places/638933)
 
 
 ## Alatzomouri Pefka (Q136767797)
@@ -9182,6 +9196,13 @@
 
 ### alignments:
  - [Boscotrecase](https://pleiades.stoa.org/places/432724)
+
+
+## Bosra (Q272680)
+[https://www.wikidata.org/wiki/Q272680](https://www.wikidata.org/wiki/Q272680)  
+
+### alignments:
+ - [Bostra/Col. Nova Traiana Alexandriana](https://pleiades.stoa.org/places/678073)
 
 
 ## Bostel (Q26263600)
@@ -16618,6 +16639,13 @@
  - [Deultum](https://pleiades.stoa.org/places/216788)
 
 
+## Devipattinam (Q2679071)
+[https://www.wikidata.org/wiki/Q2679071](https://www.wikidata.org/wiki/Q2679071)  
+
+### alignments:
+ - [Devipattinam](https://pleiades.stoa.org/places/465741478)
+
+
 ## Devín (Q661046)
 [https://www.wikidata.org/wiki/Q661046](https://www.wikidata.org/wiki/Q661046)  
 
@@ -16967,6 +16995,13 @@
 
 ### alignments:
  - [Bida](https://pleiades.stoa.org/places/295228)
+
+
+## Djémila (Q457362)
+[https://www.wikidata.org/wiki/Q457362](https://www.wikidata.org/wiki/Q457362)  
+
+### alignments:
+ - [Cuicul](https://pleiades.stoa.org/places/305068)
 
 
 ## Dnieper (Q40855)
@@ -17850,6 +17885,13 @@
 
 ### alignments:
  - [Ecobrogis/Eccobriga](https://pleiades.stoa.org/places/619153)
+
+
+## Ed-Dur (Q48969546)
+[https://www.wikidata.org/wiki/Q48969546](https://www.wikidata.org/wiki/Q48969546)  
+
+### alignments:
+ - [ed-Dur](https://pleiades.stoa.org/places/932474)
 
 
 ## Edessa (Q1190403)
@@ -22450,6 +22492,13 @@
  - [Hatra](https://pleiades.stoa.org/places/894004)
 
 
+## Hauran (Q1589883)
+[https://www.wikidata.org/wiki/Q1589883](https://www.wikidata.org/wiki/Q1589883)  
+
+### alignments:
+ - [Aurana](https://pleiades.stoa.org/places/678041)
+
+
 ## Havor (Q18290526)
 [https://www.wikidata.org/wiki/Q18290526](https://www.wikidata.org/wiki/Q18290526)  
 
@@ -24998,6 +25047,13 @@
  - [Zilil/Zilis](https://pleiades.stoa.org/places/275744)
 
 
+## Iulia Traducta (Q2838393)
+[https://www.wikidata.org/wiki/Q2838393](https://www.wikidata.org/wiki/Q2838393)  
+
+### alignments:
+ - [Iulia Traducta/Iulia Ioza/Tingentera](https://pleiades.stoa.org/places/256235)
+
+
 ## Iuliopolis (Q11927002)
 [https://www.wikidata.org/wiki/Q11927002](https://www.wikidata.org/wiki/Q11927002)  
 
@@ -25655,6 +25711,13 @@
 
 ### alignments:
  - [Kampir-Tepe](https://pleiades.stoa.org/places/809369795)
+
+
+## Kanchipuram (Q212332)
+[https://www.wikidata.org/wiki/Q212332](https://www.wikidata.org/wiki/Q212332)  
+
+### alignments:
+ - [Kanchipuram](https://pleiades.stoa.org/places/839190400)
 
 
 ## Kandahar (Q45604)
@@ -29915,6 +29978,20 @@
  - [Macra (river)](https://pleiades.stoa.org/places/403237)
 
 
+## Mahabalipuram (Q208000)
+[https://www.wikidata.org/wiki/Q208000](https://www.wikidata.org/wiki/Q208000)  
+
+### alignments:
+ - [Mamallapuram](https://pleiades.stoa.org/places/119192778)
+
+
+## Mahabalipuram temples (Q3522747)
+[https://www.wikidata.org/wiki/Q3522747](https://www.wikidata.org/wiki/Q3522747)  
+
+### alignments:
+ - [Group of monuments at Mahabalipuram (Q3522747)](https://pleiades.stoa.org/places/835093310)
+
+
 ## Mahalibeh Castle (Q6832851)
 [https://www.wikidata.org/wiki/Q6832851](https://www.wikidata.org/wiki/Q6832851)  
 
@@ -30025,6 +30102,13 @@
 
 ### alignments:
  - [Berekynthos](https://pleiades.stoa.org/places/589729)
+
+
+## Malazgirt (Q746811)
+[https://www.wikidata.org/wiki/Q746811](https://www.wikidata.org/wiki/Q746811)  
+
+### alignments:
+ - [Malazgirt](https://pleiades.stoa.org/places/733857263)
 
 
 ## Malchittu nuragic temple (Q1634579)
@@ -30272,6 +30356,13 @@
  - [Mar Behnam](https://pleiades.stoa.org/places/777829213)
 
 
+## Marakkanam (Q2554778)
+[https://www.wikidata.org/wiki/Q2554778](https://www.wikidata.org/wiki/Q2554778)  
+
+### alignments:
+ - [Marakkanam](https://pleiades.stoa.org/places/830472708)
+
+
 ## Marangone (Q734373)
 [https://www.wikidata.org/wiki/Q734373](https://www.wikidata.org/wiki/Q734373)  
 
@@ -30375,6 +30466,13 @@
 
 ### alignments:
  - [*Marmara?](https://pleiades.stoa.org/places/638985)
+
+
+## Marmara Island (Q950908)
+[https://www.wikidata.org/wiki/Q950908](https://www.wikidata.org/wiki/Q950908)  
+
+### alignments:
+ - [Proconnesus (island)](https://pleiades.stoa.org/places/511379)
 
 
 ## Marmarica (Q429466)
@@ -31414,6 +31512,13 @@
  - [Metropolis (near Priapus)](https://pleiades.stoa.org/places/440964557)
 
 
+## Metropolis Apollo temple (Q18691945)
+[https://www.wikidata.org/wiki/Q18691945](https://www.wikidata.org/wiki/Q18691945)  
+
+### alignments:
+ - [Temple of Apollo at Metropolis](https://pleiades.stoa.org/places/359707097)
+
+
 ## Meuse (Q41986)
 [https://www.wikidata.org/wiki/Q41986](https://www.wikidata.org/wiki/Q41986)  
 
@@ -32308,6 +32413,7 @@
 [https://www.wikidata.org/wiki/Q326304](https://www.wikidata.org/wiki/Q326304)  
 
 ### alignments:
+ - [Moab (kingdom)](https://pleiades.stoa.org/places/981247534)
  - [Moab](https://pleiades.stoa.org/places/857932176)
 
 
@@ -33639,6 +33745,13 @@
 
 ### alignments:
  - [Nagadiba](https://pleiades.stoa.org/places/50150)
+
+
+## Nagapattinam (Q695585)
+[https://www.wikidata.org/wiki/Q695585](https://www.wikidata.org/wiki/Q695585)  
+
+### alignments:
+ - [Nagappattinam](https://pleiades.stoa.org/places/50168)
 
 
 ## Nagara (Q65118637)
@@ -39492,6 +39605,13 @@
 
 ### alignments:
  - [Pontus Polemoniacus](https://pleiades.stoa.org/places/981546)
+
+
+## Poombuhar (Q19895332)
+[https://www.wikidata.org/wiki/Q19895332](https://www.wikidata.org/wiki/Q19895332)  
+
+### alignments:
+ - [Kaveripumpattinam/Poombuhar](https://pleiades.stoa.org/places/49939)
 
 
 ## Poplilia (Q3538804)
@@ -48610,13 +48730,6 @@
  - [Forum Boarium (at Rome)](https://pleiades.stoa.org/places/207271756)
 
 
-## Q2838393: Iulia Traducta
-[https://www.wikidata.org/wiki/Q2838393](https://www.wikidata.org/wiki/Q2838393)  
-
-### alignments:
- - [Iulia Traducta/Iulia Ioza/Tingentera](https://pleiades.stoa.org/places/256235)
-
-
 ## Q284009: Elephantine
 [https://www.wikidata.org/wiki/Q284009](https://www.wikidata.org/wiki/Q284009)  
 
@@ -49709,13 +49822,6 @@
 
 ### alignments:
  - [Thamusida](https://pleiades.stoa.org/places/275734)
-
-
-## Q3522747: Mahabalipuram temples
-[https://www.wikidata.org/wiki/Q3522747](https://www.wikidata.org/wiki/Q3522747)  
-
-### alignments:
- - [Mahabalipuram](https://pleiades.stoa.org/places/835093310)
 
 
 ## Q3523831: Gallo-Roman baths, Lyon
@@ -51700,13 +51806,6 @@
 
 ### alignments:
  - [Vicus Scuttarensium](https://pleiades.stoa.org/places/119030)
-
-
-## Q457362: Djémila
-[https://www.wikidata.org/wiki/Q457362](https://www.wikidata.org/wiki/Q457362)  
-
-### alignments:
- - [Cuicul](https://pleiades.stoa.org/places/305068)
 
 
 ## Q459629: Timgad
@@ -62346,6 +62445,13 @@
  - [Soanos (river)](https://pleiades.stoa.org/places/60055)
 
 
+## Socotra (Q82859)
+[https://www.wikidata.org/wiki/Q82859](https://www.wikidata.org/wiki/Q82859)  
+
+### alignments:
+ - [Diosko(u)rides (island)](https://pleiades.stoa.org/places/39338)
+
+
 ## Socotra Archipelago (Q2860218)
 [https://www.wikidata.org/wiki/Q2860218](https://www.wikidata.org/wiki/Q2860218)  
 
@@ -63527,6 +63633,13 @@
 
 ### alignments:
  - [Syia](https://pleiades.stoa.org/places/590064)
+
+
+## Sykai (Q65051584)
+[https://www.wikidata.org/wiki/Q65051584](https://www.wikidata.org/wiki/Q65051584)  
+
+### alignments:
+ - [Sykai/Ioustinianai/Ioustinianoupolis](https://pleiades.stoa.org/places/523982)
 
 
 ## Symplegades (Q326380)
@@ -65074,6 +65187,13 @@
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## Temple of Ismenian Apollo (Q106526588)
+[https://www.wikidata.org/wiki/Q106526588](https://www.wikidata.org/wiki/Q106526588)  
+
+### alignments:
+ - [Sanctuary of Apollo Ismenios, Thebes](https://pleiades.stoa.org/places/116141527)
 
 
 ## Temple of Iuno Sospita (Lanuvium) (Q117338124)

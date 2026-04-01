@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4989 alignments exist in _Pleiades_ place references as of 2026-03-31. The following list of alignments is grouped by zotkey.
+4990 alignments exist in _Pleiades_ place references as of 2026-04-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -34908,6 +34908,13 @@
 
 ### alignments:
  - [Rufrae](https://pleiades.stoa.org/places/433070)
+
+
+## Text 669: P.Cair.Zen. 59008
+[http://www.trismegistos.org/text/669](http://www.trismegistos.org/text/669)  
+
+### alignments:
+ - [Aurana](https://pleiades.stoa.org/places/678041)
 
 
 ## Text 786768 (also known as Statue Base of Pyrrhus)
