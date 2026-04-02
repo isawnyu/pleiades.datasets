@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10441 alignments exist in _Pleiades_ place references as of 2026-04-01. The following list of alignments is grouped by zotkey.
+10443 alignments exist in _Pleiades_ place references as of 2026-04-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -637,6 +637,13 @@
 
 ### alignments:
  - [Akmonia](https://pleiades.stoa.org/places/609293)
+
+
+## Acontia (Q137993901)
+[https://www.wikidata.org/wiki/Q137993901](https://www.wikidata.org/wiki/Q137993901)  
+
+### alignments:
+ - [Akontia](https://pleiades.stoa.org/places/240852)
 
 
 ## Acontium (Q39081791)
@@ -15123,6 +15130,13 @@
 
 ### alignments:
  - [Conventus Carthaginiensis](https://pleiades.stoa.org/places/791272286)
+
+
+## Conventus Cluniensis (Q12386453)
+[https://www.wikidata.org/wiki/Q12386453](https://www.wikidata.org/wiki/Q12386453)  
+
+### alignments:
+ - [conventus Cluniensis](https://pleiades.stoa.org/places/459346465)
 
 
 ## Conímbriga (Q66942507)

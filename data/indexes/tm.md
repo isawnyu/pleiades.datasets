@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4990 alignments exist in _Pleiades_ place references as of 2026-04-01. The following list of alignments is grouped by zotkey.
+4991 alignments exist in _Pleiades_ place references as of 2026-04-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -281,6 +281,13 @@
 
 ### alignments:
  - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
+
+
+## Geo 12384: Phernouphites
+[https://www.trismegistos.org/place/12384](https://www.trismegistos.org/place/12384)  
+
+### alignments:
+ - [Phernouphites](https://pleiades.stoa.org/places/730142)
 
 
 ## Geo 1239: Leontopolis (Tell el-Yahudiya)
