@@ -1,8 +1,78 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
+            "connectsTo": "https://pleiades.stoa.org/places/522406511",
+            "contributors": [],
+            "created": "2026-04-02T20:30:57Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-04-02T20:36:07Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-04-02T20:35:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "reference",
+                    "modified": "2026-04-02T20:34:12Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2026-04-02T20:31:00Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-04-02T20:30:57Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "hiera-hodos",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 914 see \"Bothynos\" sub \"Unlocated Toponyms\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Hiera Hodos",
+            "uri": "https://pleiades.stoa.org/places/585897/hiera-hodos"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/522406511"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -27,15 +97,15 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T21:28:40Z",
+    "created": "2026-04-02T18:54:18Z",
     "creators": [
         {
             "name": "J.S. Traill",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 59 unlocated Bothynos",
-    "details": "The Barrington Atlas Directory notes: Hiera Hodos, E Athens",
+    "description": "A locality along the sacred way to Eleusis from Athens. Its precise location has not been determined.",
+    "details": "<p>The Barrington Atlas Directory notes: Hiera Hodos, E Athens</p>",
     "features": [
         {
             "geometry": null,
@@ -51,6 +121,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "replaced pro forma BAtlas reference with accurate BAtlDir reference; provided correct Perseus link for Harp. reference; Harp. ref -> evidence; linked Mpires 1945 reference to Zotero; added author name to RE citation; summary; place type += place @thomase",
+            "modified": "2026-04-02T20:31:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2025-04-03T19:25:21Z",
@@ -211,14 +286,10 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "attested": "",
+            "attested": "Βόθυνος",
             "contributors": [
                 {
                     "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
                     "username": null
                 },
                 {
@@ -226,9 +297,21 @@
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-10T21:28:40Z",
+            "created": "2026-04-02T20:31:58Z",
             "creators": [
                 {
                     "name": "J.S. Traill",
@@ -239,6 +322,16 @@
             "details": "",
             "end": 300,
             "history": [
+                {
+                    "comment": "add Βόθυνος; add Harp. (Dindorf: Perseus); by @jbecker",
+                    "modified": "2026-04-02T20:36:30Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modified": "2026-04-02T20:31:57Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T06:46:20Z",
@@ -261,10 +354,22 @@
                 }
             ],
             "id": "bothynos",
-            "language": "",
+            "language": "grc",
             "nameType": "geographic",
             "provenance": "Barrington Atlas: BAtlas 59 Bothynos",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg1389.tlg001.perseus-grc1:b.bothunos",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/25UPXUDA",
+                    "citationDetail": "Βόθυνος",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Harpocration, Valerius. <i>Harpocrationis Lexicon in Decem Oratores Atticos Ex Recensione Gulielmi Dindorfii ..</i> 2 vols. Oxonii,: e Typographeo academico, Ann Arbor, Michigan: University of Michigan Library, 1853. http://data.perseus.org/texts/urn:cts:greekLit:tlg1389.tlg001.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Harp. (Dindorf: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
             "review_state": "published",
             "romanized": "Bothynos",
             "start": -550,
@@ -274,34 +379,36 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/place"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "place"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 Bothynos",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "https://search.worldcat.org/title/45084869",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "59 Bothynos",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 914 see \"Bothynos\" sub \"Unlocated Toponyms\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://data.perseus.org/texts/urn:cts:greekLit:tlg1389.tlg001",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg1389.tlg001.perseus-grc1:b.bothunos",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/25UPXUDA",
             "citationDetail": "Βόθυνος",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Harpocration, Valerius. <i>Harpocrationis Lexicon in Decem Oratores Atticos Ex Recensione Gulielmi Dindorfii ..</i> 2 vols. Oxonii,: e Typographeo academico, Ann Arbor, Michigan: University of Michigan Library, 1853. http://data.perseus.org/texts/urn:cts:greekLit:tlg1389.tlg001.</div>",
             "otherIdentifier": "",
             "shortTitle": "Harp. (Dindorf: Perseus)",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "",
@@ -318,7 +425,7 @@
             "accessURI": "https://de.wikisource.org/wiki/RE:Bothynos",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Bothynos",
+            "citationDetail": "Bothynos (A. Milchhöfer)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
