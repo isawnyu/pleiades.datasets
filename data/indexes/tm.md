@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-4991 alignments exist in _Pleiades_ place references as of 2026-04-02. The following list of alignments is grouped by zotkey.
+4994 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -15539,6 +15539,7 @@
 
 ### alignments:
  - [Mendesios (river)](https://pleiades.stoa.org/places/727158)
+ - [Mendesios Nomos](https://pleiades.stoa.org/places/727159)
 
 
 ## GEO ID 3093: Onouphis (Mehallet Menuf)
@@ -22073,6 +22074,13 @@
 
 ### alignments:
  - [Caenophrurium](https://pleiades.stoa.org/places/511199)
+
+
+## GEO ID 40552: Melantias (Yarimburgaz)
+[https://www.trismegistos.org/place/40552](https://www.trismegistos.org/place/40552)  
+
+### alignments:
+ - [Melantias](https://pleiades.stoa.org/places/511315)
 
 
 ## GEO ID 40556: Tattaios (Arıcaklar)
@@ -33849,6 +33857,20 @@
 
 ### alignments:
  - [‘Falacro’](https://pleiades.stoa.org/places/786024)
+
+
+## GEO ID 7825: Phanetou
+[https://www.trismegistos.org/place/7825](https://www.trismegistos.org/place/7825)  
+
+### alignments:
+ - [Phanetou](https://pleiades.stoa.org/places/730139)
+
+
+## GEO ID 7853: Pheop( )
+[https://www.trismegistos.org/place/7853](https://www.trismegistos.org/place/7853)  
+
+### alignments:
+ - [ Pheopites/ Pheop](https://pleiades.stoa.org/places/730140)
 
 
 ## GEO ID 7887: Psinthaubastis

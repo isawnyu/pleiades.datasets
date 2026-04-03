@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10443 alignments exist in _Pleiades_ place references as of 2026-04-02. The following list of alignments is grouped by zotkey.
+10449 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1109,6 +1109,13 @@
  - [Ierusalem/Hierosolyma/Col. Aelia Capitolina](https://pleiades.stoa.org/places/687928)
 
 
+## Aeliae (Q109588132)
+[https://www.wikidata.org/wiki/Q109588132](https://www.wikidata.org/wiki/Q109588132)  
+
+### alignments:
+ - [Aeliae?](https://pleiades.stoa.org/places/324657)
+
+
 ## Aemilia (Q2409251)
 [https://www.wikidata.org/wiki/Q2409251](https://www.wikidata.org/wiki/Q2409251)  
 
@@ -1331,6 +1338,13 @@
 
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+
+
+## Aggar (Q133889141)
+[https://www.wikidata.org/wiki/Q133889141](https://www.wikidata.org/wiki/Q133889141)  
+
+### alignments:
+ - [Aggar?](https://pleiades.stoa.org/places/324658)
 
 
 ## Aggersel (Q393185)
@@ -1878,6 +1892,13 @@
 
 ### alignments:
  - [Asabon (mountain)](https://pleiades.stoa.org/places/932433)
+
+
+## Al-Aqsa Mosque (Q12192963)
+[https://www.wikidata.org/wiki/Q12192963](https://www.wikidata.org/wiki/Q12192963)  
+
+### alignments:
+ - [Al-Aqsa Mosque](https://pleiades.stoa.org/places/195824089)
 
 
 ## Al-Hirah (Q310799)
@@ -27009,6 +27030,13 @@
  - [Casuagus/Kossoanos (river)](https://pleiades.stoa.org/places/59763)
 
 
+## Kothapatnam (Q15693437)
+[https://www.wikidata.org/wiki/Q15693437](https://www.wikidata.org/wiki/Q15693437)  
+
+### alignments:
+ - [Kottapatnam](https://pleiades.stoa.org/places/50081)
+
+
 ## Kothokidai (Q13427378)
 [https://www.wikidata.org/wiki/Q13427378](https://www.wikidata.org/wiki/Q13427378)  
 
@@ -31111,6 +31139,13 @@
 
 ### alignments:
  - [Melanteioi Skopeloi (island)](https://pleiades.stoa.org/places/599792)
+
+
+## Melantias (Q38251618)
+[https://www.wikidata.org/wiki/Q38251618](https://www.wikidata.org/wiki/Q38251618)  
+
+### alignments:
+ - [Melantias](https://pleiades.stoa.org/places/511315)
 
 
 ## Melas River (Q25018061)
@@ -36272,6 +36307,13 @@
 
 ### alignments:
  - [Orgus (river)](https://pleiades.stoa.org/places/383723)
+
+
+## Ordessus (Q131739889)
+[https://www.wikidata.org/wiki/Q131739889](https://www.wikidata.org/wiki/Q131739889)  
+
+### alignments:
+ - [Ordessos/Odessos](https://pleiades.stoa.org/places/229574)
 
 
 ## Ordovices (Q768052)
@@ -48408,13 +48450,6 @@
  - [Dispilio](https://pleiades.stoa.org/places/471781651)
 
 
-## Q2728193: Samarobriva
-[https://www.wikidata.org/wiki/Q2728193](https://www.wikidata.org/wiki/Q2728193)  
-
-### alignments:
- - [Samarobriva Ambianorum](https://pleiades.stoa.org/places/109321)
-
-
 ## Q272968: Velia
 [https://www.wikidata.org/wiki/Q272968](https://www.wikidata.org/wiki/Q272968)  
 
@@ -59340,6 +59375,13 @@
 
 ### alignments:
  - [Marakanda](https://pleiades.stoa.org/places/59915)
+
+
+## Samarobriva (Q2728193)
+[https://www.wikidata.org/wiki/Q2728193](https://www.wikidata.org/wiki/Q2728193)  
+
+### alignments:
+ - [Samarobriva Ambianorum](https://pleiades.stoa.org/places/109321)
 
 
 ## Samarra (Q170047)

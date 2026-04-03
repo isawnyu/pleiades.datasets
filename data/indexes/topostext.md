@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4917 alignments exist in _Pleiades_ place references as of 2026-04-02. The following list of alignments is grouped by zotkey.
+4921 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -974,6 +974,13 @@
 
 ### alignments:
  - [Agedincum](https://pleiades.stoa.org/places/108729)
+
+
+## Aggar (Libya)
+[https://topostext.org/place/355110UAgg](https://topostext.org/place/355110UAgg)  
+
+### alignments:
+ - [Aggar?](https://pleiades.stoa.org/places/324658)
 
 
 ## Agia site (Preveza)  Agia - Αγιά
@@ -7083,6 +7090,13 @@
 
 ### alignments:
  - [Caria (region)](https://pleiades.stoa.org/places/599564)
+
+
+## Carmania (Persia)
+[https://topostext.org/place/300570RKar](https://topostext.org/place/300570RKar)  
+
+### alignments:
+ - [Carmania](https://pleiades.stoa.org/places/29517)
 
 
 ## Carmo (Iberia)
@@ -20279,6 +20293,13 @@
 
 ### alignments:
  - [Melanteioi Skopeloi (island)](https://pleiades.stoa.org/places/599792)
+
+
+## Melantias (Thrace)
+[https://topostext.org/place/410288UMel](https://topostext.org/place/410288UMel)  
+
+### alignments:
+ - [Melantias](https://pleiades.stoa.org/places/511315)
 
 
 ## Melas (Naxos)
@@ -34086,6 +34107,13 @@
 
 ### alignments:
  - [Xerokambos](https://pleiades.stoa.org/places/599996)
+
+
+## Ximene (Pontus)
+[https://topostext.org/place/405348RXim](https://topostext.org/place/405348RXim)  
+
+### alignments:
+ - [Ximene?](https://pleiades.stoa.org/places/845091)
 
 
 ## Xois (Egypt) 7 Sakha - Ξόϊς
