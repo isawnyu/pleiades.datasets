@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/03/29 06:48:30.987782 GMT-4
+# Date: 2026/04/05 06:48:23.042551 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5749
+# Triple count: 5790
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -368,6 +368,18 @@
     dcterms:modified "2012-02-14T17:07:53-04:00";
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/1001942/batlas-location> .
+
+<https://pleiades.stoa.org/errata/112399918%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn duplicate: Thracian Tomb of Sveshtari";
+    spatial:C <https://pleiades.stoa.org/places/534537108%23this>;
+    rdfs:comment "Inadvertant duplicate of https://pleiades.stoa.org/places/216999";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/112399918> .
+
+<https://pleiades.stoa.org/errata/112399918/location-of-the-thracian-tomb-of-sveshtari> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "location verified in Google Earth 2012";
+    dcterms:modified "2026-03-30T08:32:30-04:00";
+    dcterms:title "Imagery location of the Thracian Tomb of Sveshtari";
+    owl:sameAs <http://pleiades.stoa.org/errata/112399918/location-of-the-thracian-tomb-of-sveshtari> .
 
 <https://pleiades.stoa.org/errata/1136%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn duplicate: Moesia Superior";
@@ -1244,11 +1256,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1256,11 +1268,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -2954,6 +2966,30 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/errata/arabia> .
 
+<https://pleiades.stoa.org/errata/112399918> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "ToposText Sveshtari tomb (Thrace)",
+        "WHL 359: Thracian Tomb of Sveshtari",
+        "Wikidata Q650531: Thracian Tomb of Sveshtari",
+        "Wikipedia (English) Thracian Tomb of Sveshtari";
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Inadvertant duplicate of https://pleiades.stoa.org/places/216999";
+    dcterms:modified "2026-03-30T08:32:30-04:00";
+    dcterms:subject "UWHS";
+    dcterms:title "Withdrawn duplicate: Thracian Tomb of Sveshtari";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q650531>;
+    cito:citesForInformation <http://whc.unesco.org/en/list/359>,
+        <https://en.wikipedia.org/wiki/Thracian_Tomb_of_Sveshtari>,
+        <https://topostext.org/place/437268GSve>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/534537108>;
+    owl:sameAs <http://pleiades.stoa.org/errata/112399918>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/tomb>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-the-thracian-tomb-of-sveshtari> .
+
 <https://pleiades.stoa.org/errata/1136> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/1%23H2>;
@@ -4011,11 +4047,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -4129,10 +4165,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ],
-        <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ];
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -5423,6 +5459,13 @@
     pleiades:end_date 640;
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/errata/location-of-the-thracian-tomb-of-sveshtari> a <https://pleiades.stoa.org/places/vocab#Location>;
+    owl:sameAs <http://pleiades.stoa.org/errata/location-of-the-thracian-tomb-of-sveshtari>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/hellenistic-republican>;
+    pleiades:end_date -30;
+    pleiades:start_date -330 .
+
 <https://pleiades.stoa.org/errata/lycia-et-pamphylia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/lycia-et-pamphylia>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ];
@@ -5840,8 +5883,8 @@
 
 <https://pleiades.stoa.org/errata/mesopotamia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/mesopotamia>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ];
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ];
     pleiades:nameRomanized "Mesopotamia" .
 
 <https://pleiades.stoa.org/errata/moesia-superior> a <https://pleiades.stoa.org/places/vocab#Name>;
@@ -5957,8 +6000,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 29 Kh., see Kherba" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Achaia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 16" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
@@ -5974,8 +6017,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
@@ -5985,8 +6028,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
@@ -5997,8 +6040,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 2" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
