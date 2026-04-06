@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10449 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
+10462 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1310,6 +1310,13 @@
 
 ### alignments:
  - [Agbia amphitheater](https://pleiades.stoa.org/places/614847258)
+
+
+## Agelastos petra (Q392401)
+[https://www.wikidata.org/wiki/Q392401](https://www.wikidata.org/wiki/Q392401)  
+
+### alignments:
+ - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
 
 
 ## Ager Faliscus (Q2827224)
@@ -4135,6 +4142,13 @@
  - [Apadana Palace](https://pleiades.stoa.org/places/774842748)
 
 
+## Apamea (Q617518)
+[https://www.wikidata.org/wiki/Q617518](https://www.wikidata.org/wiki/Q617518)  
+
+### alignments:
+ - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
+
+
 ## Apamea (Q617550)
 [https://www.wikidata.org/wiki/Q617550](https://www.wikidata.org/wiki/Q617550)  
 
@@ -6668,6 +6682,13 @@
 
 ### alignments:
  - [Abolla](https://pleiades.stoa.org/places/462063)
+
+
+## Axiacae (Q138864235)
+[https://www.wikidata.org/wiki/Q138864235](https://www.wikidata.org/wiki/Q138864235)  
+
+### alignments:
+ - [Axiacae](https://pleiades.stoa.org/places/226522)
 
 
 ## Axum (Q5832)
@@ -16456,6 +16477,13 @@
  - [Deir el-Shelwit](https://pleiades.stoa.org/places/477915982)
 
 
+## Deiradiotai (Q13464963)
+[https://www.wikidata.org/wiki/Q13464963](https://www.wikidata.org/wiki/Q13464963)  
+
+### alignments:
+ - [Deiradiotai?](https://pleiades.stoa.org/places/579906)
+
+
 ## Delgovicia (Q5253720)
 [https://www.wikidata.org/wiki/Q5253720](https://www.wikidata.org/wiki/Q5253720)  
 
@@ -19175,6 +19203,13 @@
 
 ### alignments:
  - [Robogdion Akron](https://pleiades.stoa.org/places/89281)
+
+
+## Faiyum (Q203299)
+[https://www.wikidata.org/wiki/Q203299](https://www.wikidata.org/wiki/Q203299)  
+
+### alignments:
+ - [Krokodilopolis/Ptolemais Euergetis](https://pleiades.stoa.org/places/736948)
 
 
 ## Faiyum Oasis (Q1399125)
@@ -36624,6 +36659,13 @@
  - [Oxyneia](https://pleiades.stoa.org/places/543821)
 
 
+## Oxyrhynchite Nome (Q138911750)
+[https://www.wikidata.org/wiki/Q138911750](https://www.wikidata.org/wiki/Q138911750)  
+
+### alignments:
+ - [Oxyrhynchites Nomos](https://pleiades.stoa.org/places/736982)
+
+
 ## Oxyrhynchus (Q622640)
 [https://www.wikidata.org/wiki/Q622640](https://www.wikidata.org/wiki/Q622640)  
 
@@ -37884,6 +37926,13 @@
  - [Nisyrion (islands)](https://pleiades.stoa.org/places/599828)
 
 
+## Perinthus (Q11815679)
+[https://www.wikidata.org/wiki/Q11815679](https://www.wikidata.org/wiki/Q11815679)  
+
+### alignments:
+ - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
+
+
 ## Perminounda (Q65122846)
 [https://www.wikidata.org/wiki/Q65122846](https://www.wikidata.org/wiki/Q65122846)  
 
@@ -39117,6 +39166,13 @@
  - [Polemonion/Side](https://pleiades.stoa.org/places/857285)
 
 
+## Polichna (Q60791960)
+[https://www.wikidata.org/wiki/Q60791960](https://www.wikidata.org/wiki/Q60791960)  
+
+### alignments:
+ - [Polichna](https://pleiades.stoa.org/places/570624)
+
+
 ## Polichne (Messenia) (Q48781606)
 [https://www.wikidata.org/wiki/Q48781606](https://www.wikidata.org/wiki/Q48781606)  
 
@@ -40123,6 +40179,13 @@
 
 ### alignments:
  - [Poteidaia/Kassandreia](https://pleiades.stoa.org/places/491701)
+
+
+## Poulnabrone dolmen (Q153645)
+[https://www.wikidata.org/wiki/Q153645](https://www.wikidata.org/wiki/Q153645)  
+
+### alignments:
+ - [Poulnabrone dolmen](https://pleiades.stoa.org/places/406501931)
 
 
 ## Poundbury Hill (Q7235658)
@@ -42303,13 +42366,6 @@
  - [Oguz](https://pleiades.stoa.org/places/226701)
 
 
-## Q11815679: Perinthus
-[https://www.wikidata.org/wiki/Q11815679](https://www.wikidata.org/wiki/Q11815679)  
-
-### alignments:
- - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
-
-
 ## Q118464934
 [https://www.wikidata.org/wiki/Q118464934](https://www.wikidata.org/wiki/Q118464934)  
 
@@ -43867,13 +43923,6 @@
  - [Ponte Tufaro](https://pleiades.stoa.org/places/747659417)
 
 
-## Q13464963: Deiradiotai
-[https://www.wikidata.org/wiki/Q13464963](https://www.wikidata.org/wiki/Q13464963)  
-
-### alignments:
- - [Deiradiotai?](https://pleiades.stoa.org/places/579906)
-
-
 ## Q13464976: Potamos Deiradiotes
 [https://www.wikidata.org/wiki/Q13464976](https://www.wikidata.org/wiki/Q13464976)  
 
@@ -44593,13 +44642,6 @@
 
 ### alignments:
  - [Temple of Seti I](https://pleiades.stoa.org/places/609762511)
-
-
-## Q153645
-[https://www.wikidata.org/wiki/Q153645](https://www.wikidata.org/wiki/Q153645)  
-
-### alignments:
- - [Poulnabrone dolmen](https://pleiades.stoa.org/places/406501931)
 
 
 ## Q1536583: Sufetula
@@ -51043,13 +51085,6 @@
  - [Portus Pisanus?](https://pleiades.stoa.org/places/403261)
 
 
-## Q392401
-[https://www.wikidata.org/wiki/Q392401](https://www.wikidata.org/wiki/Q392401)  
-
-### alignments:
- - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
-
-
 ## Q3926611: Quadriportico of the Theatre of Pompeii
 [https://www.wikidata.org/wiki/Q3926611](https://www.wikidata.org/wiki/Q3926611)  
 
@@ -52178,6 +52213,13 @@
 
 ### alignments:
  - [Hiera/Maritima (island)](https://pleiades.stoa.org/places/462243)
+
+
+## Q49773642
+[https://www.wikidata.org/wiki/Q49773642](https://www.wikidata.org/wiki/Q49773642)  
+
+### alignments:
+ - [Wadi Yutm](https://pleiades.stoa.org/places/849650099)
 
 
 ## Q49880: Barete
@@ -56331,6 +56373,13 @@
  - [Medinet Bu Hindi](https://pleiades.stoa.org/places/373855)
 
 
+## Qaşr Maymūn (Q106302565)
+[https://www.wikidata.org/wiki/Q106302565](https://www.wikidata.org/wiki/Q106302565)  
+
+### alignments:
+ - [Wadi Mimoun](https://pleiades.stoa.org/places/344556)
+
+
 ## Qaşr Salīf (Q106411222)
 [https://www.wikidata.org/wiki/Q106411222](https://www.wikidata.org/wiki/Q106411222)  
 
@@ -56525,6 +56574,13 @@
 
 ### alignments:
  - [Locri](https://pleiades.stoa.org/places/344424)
+
+
+## Ras Siyyan (Q7294675)
+[https://www.wikidata.org/wiki/Q7294675](https://www.wikidata.org/wiki/Q7294675)  
+
+### alignments:
+ - [Deire](https://pleiades.stoa.org/places/39335)
 
 
 ## Rass Kaboudia (Q11944750)
@@ -64055,6 +64111,13 @@
  - [Tanarus (river)](https://pleiades.stoa.org/places/383790)
 
 
+## Tanda, Bengal (Q25586686)
+[https://www.wikidata.org/wiki/Q25586686](https://www.wikidata.org/wiki/Q25586686)  
+
+### alignments:
+ - [Tanda](https://pleiades.stoa.org/places/73737782)
+
+
 ## Tanella Angori (Q3515032)
 [https://www.wikidata.org/wiki/Q3515032](https://www.wikidata.org/wiki/Q3515032)  
 
@@ -68767,6 +68830,13 @@
  - [Tsimintiri island](https://pleiades.stoa.org/places/392437876)
 
 
+## Tsimistea (Q138916262)
+[https://www.wikidata.org/wiki/Q138916262](https://www.wikidata.org/wiki/Q138916262)  
+
+### alignments:
+ - [Tsimistea](https://pleiades.stoa.org/places/737097)
+
+
 ## Tsouka kastro (Q111634755)
 [https://www.wikidata.org/wiki/Q111634755](https://www.wikidata.org/wiki/Q111634755)  
 
@@ -69283,6 +69353,20 @@
 
 ### alignments:
  - [Caermote Roman fort](https://pleiades.stoa.org/places/452125610)
+
+
+## Tylihul (Q2492856)
+[https://www.wikidata.org/wiki/Q2492856](https://www.wikidata.org/wiki/Q2492856)  
+
+### alignments:
+ - [Axiakes (river)](https://pleiades.stoa.org/places/226523)
+
+
+## Tylihul Estuary (Q2619452)
+[https://www.wikidata.org/wiki/Q2619452](https://www.wikidata.org/wiki/Q2619452)  
+
+### alignments:
+ - [Tylihul Estuary](https://pleiades.stoa.org/places/354267684)
 
 
 ## Tylis (Q1286814)
@@ -71321,6 +71405,13 @@
 
 ### alignments:
  - [Sanremo](https://pleiades.stoa.org/places/157924)
+
+
+## Villa romana della Linguella (Q16621635)
+[https://www.wikidata.org/wiki/Q16621635](https://www.wikidata.org/wiki/Q16621635)  
+
+### alignments:
+ - [Linguella Roman villa](https://pleiades.stoa.org/places/850888151)
 
 
 ## Villa romana delle Paduline (Q4012800)

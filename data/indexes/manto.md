@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-978 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
+982 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2116,6 +2116,13 @@
  - [Marsyas (river)](https://pleiades.stoa.org/places/638986)
 
 
+## 10274655: Celainai (Phrygia)
+[https://resource.manto.unh.edu/10274655](https://resource.manto.unh.edu/10274655)  
+
+### alignments:
+ - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
+
+
 ## 10274664: Ceryneia (Achaia)
 [https://resource.manto.unh.edu/10274664](https://resource.manto.unh.edu/10274664)  
 
@@ -2779,6 +2786,20 @@
 
 ### alignments:
  - [Rhodope (mountain)](https://pleiades.stoa.org/places/501592)
+
+
+## 11299937: River Sagaris (Phrygia)
+[https://resource.manto.unh.edu/11299937](https://resource.manto.unh.edu/11299937)  
+
+### alignments:
+ - [Sagaris/Rhode (river)](https://pleiades.stoa.org/places/226747)
+
+
+## 11299985: River Tanais (Scythia)
+[https://resource.manto.unh.edu/11299985](https://resource.manto.unh.edu/11299985)  
+
+### alignments:
+ - [Tanais (river)](https://pleiades.stoa.org/places/825398)
 
 
 ## 11300121: Babylon (Mesopotamia)
@@ -4117,6 +4138,13 @@
 
 ### alignments:
  - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
+## 11327003: Panopolis (Egypt)
+[https://resource.manto.unh.edu/11327003](https://resource.manto.unh.edu/11327003)  
+
+### alignments:
+ - [Panopolis/Schmin](https://pleiades.stoa.org/places/756613)
 
 
 ## 11327039: the Malian Gulf (C. Greece)

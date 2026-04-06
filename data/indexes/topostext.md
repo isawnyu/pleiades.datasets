@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4921 alignments exist in _Pleiades_ place references as of 2026-04-03. The following list of alignments is grouped by zotkey.
+4923 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -8,7 +8,7 @@
  - [River Oceanus](https://pleiades.stoa.org/places/608104479)
 
 
-## 18785
+## 18785: Agelastos petra
 [https://topostext.org/people/18785](https://topostext.org/people/18785)  
 
 ### alignments:
@@ -5474,6 +5474,13 @@
  - [Axia](https://pleiades.stoa.org/places/413048)
 
 
+## Axiakes (Pontus)
+[https://topostext.org/place/475303WAxi](https://topostext.org/place/475303WAxi)  
+
+### alignments:
+ - [Axiakes (river)](https://pleiades.stoa.org/places/226523)
+
+
 ## Axima/Forum Claudii Ceutronum (Gallia)
 [https://topostext.org/place/456067UAxi](https://topostext.org/place/456067UAxi)  
 
@@ -8694,6 +8701,13 @@
 
 ### alignments:
  - [Deiradiotai?](https://pleiades.stoa.org/places/579906)
+
+
+## Deire (Ethiopia)
+[https://topostext.org/place/124433LDei](https://topostext.org/place/124433LDei)  
+
+### alignments:
+ - [Deire](https://pleiades.stoa.org/places/39335)
 
 
 ## Dekeleia (Attica)
