@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4923 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
+4926 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -14547,6 +14547,13 @@
  - [Itouraioi](https://pleiades.stoa.org/places/678204)
 
 
+## Iulia Concordia (Italy)
+[https://topostext.org/place/458128UIul](https://topostext.org/place/458128UIul)  
+
+### alignments:
+ - [Iulia Concordia](https://pleiades.stoa.org/places/393441)
+
+
 ## Iulia Myrtilis (Lusitania)
 [https://topostext.org/place/376000UIul](https://topostext.org/place/376000UIul)  
 
@@ -21078,6 +21085,13 @@
 
 ### alignments:
  - [Monte S. Mauro di Caltagirone](https://pleiades.stoa.org/places/462365)
+
+
+## Monte San Nicola (Campania) Pietravairano
+[https://topostext.org/place/413142SMSN](https://topostext.org/place/413142SMSN)  
+
+### alignments:
+ - [Theater-temple complex, Monte San Nicola](https://pleiades.stoa.org/places/251442732)
 
 
 ## Monte Saraceno di Cercemaggiore (Samnium)
@@ -28518,7 +28532,7 @@
 [https://topostext.org/place/377268XSam](https://topostext.org/place/377268XSam)  
 
 ### alignments:
- - [Samiopoula](https://pleiades.stoa.org/places/599924)
+ - [Samiopoula (settlement opposite)](https://pleiades.stoa.org/places/599924)
 
 
 ## Sammonion cape (Crete)
@@ -30886,6 +30900,13 @@
 
 ### alignments:
  - [Tarchna/Tarquinii](https://pleiades.stoa.org/places/413332)
+
+
+## Tarracina (Latium) 105 Terracina - Ταρρακίνη
+[https://topostext.org/place/413133UTar](https://topostext.org/place/413133UTar)  
+
+### alignments:
+ - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
 
 
 ## Tarraco (Iberia) 96 Tarragona - Ταρράκων

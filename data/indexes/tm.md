@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5025 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
+5026 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -27122,6 +27122,13 @@
 
 ### alignments:
  - [Crathis/Crater (river)](https://pleiades.stoa.org/places/452315)
+
+
+## GEO ID 42510: Didyme (Salina)
+[http://www.trismegistos.org/place/42510](http://www.trismegistos.org/place/42510)  
+
+### alignments:
+ - [Didyme (island)](https://pleiades.stoa.org/places/462186)
 
 
 ## GEO ID 42511: Kinyps (Wadi Caan)

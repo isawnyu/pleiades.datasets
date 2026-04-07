@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10462 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
+10467 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1025,6 +1025,13 @@
  - [aedicula Capraria](https://pleiades.stoa.org/places/132738980)
 
 
+## Aedicula Concordiae (Q16303661)
+[https://www.wikidata.org/wiki/Q16303661](https://www.wikidata.org/wiki/Q16303661)  
+
+### alignments:
+ - [Aedicula Concordia](https://pleiades.stoa.org/places/844972184)
+
+
 ## Aedicula tomb of Publius Vesonius Phileros (Q108322786)
 [https://www.wikidata.org/wiki/Q108322786](https://www.wikidata.org/wiki/Q108322786)  
 
@@ -1541,6 +1548,13 @@
 
 ### alignments:
  - [Agrianes](https://pleiades.stoa.org/places/481704)
+
+
+## Agrigento (Q13678)
+[https://www.wikidata.org/wiki/Q13678](https://www.wikidata.org/wiki/Q13678)  
+
+### alignments:
+ - [Akragas/Agrigentum](https://pleiades.stoa.org/places/462086)
 
 
 ## Agrinium (Q56399733)
@@ -4854,6 +4868,13 @@
 
 ### alignments:
  - [Arch of Trajan at Benevento](https://pleiades.stoa.org/places/568637774)
+
+
+## Arch of Trajan (Q30919150)
+[https://www.wikidata.org/wiki/Q30919150](https://www.wikidata.org/wiki/Q30919150)  
+
+### alignments:
+ - [Monumental entrance arch at Mérida](https://pleiades.stoa.org/places/553647616)
 
 
 ## Arch of Trajan (Q3621793)
@@ -14894,6 +14915,13 @@
  - [Amphitheatrum Flavium](https://pleiades.stoa.org/places/285857974)
 
 
+## Colossi of Memnon (Q750209)
+[https://www.wikidata.org/wiki/Q750209](https://www.wikidata.org/wiki/Q750209)  
+
+### alignments:
+ - [Memnon Colossi](https://pleiades.stoa.org/places/786066)
+
+
 ## Colossus of Nero (Q1570519)
 [https://www.wikidata.org/wiki/Q1570519](https://www.wikidata.org/wiki/Q1570519)  
 
@@ -18425,6 +18453,13 @@
 
 ### alignments:
  - [Eburodunum](https://pleiades.stoa.org/places/167750)
+
+
+## Emerita Augusta (Q1583842)
+[https://www.wikidata.org/wiki/Q1583842](https://www.wikidata.org/wiki/Q1583842)  
+
+### alignments:
+ - [Emerita Augusta](https://pleiades.stoa.org/places/256155)
 
 
 ## Emesa (Q2548027)
@@ -34440,6 +34475,13 @@
  - [Nerikos?](https://pleiades.stoa.org/places/531012)
 
 
+## Nertobriga Concordia Iulia (Q6041035)
+[https://www.wikidata.org/wiki/Q6041035](https://www.wikidata.org/wiki/Q6041035)  
+
+### alignments:
+ - [Nertobriga Concordia Iulia](https://pleiades.stoa.org/places/256325)
+
+
 ## Nervii (Q756812)
 [https://www.wikidata.org/wiki/Q756812](https://www.wikidata.org/wiki/Q756812)  
 
@@ -41812,13 +41854,6 @@
  - [Puente de Cañete](https://pleiades.stoa.org/places/267277)
 
 
-## Q108418823: Sanctuary of Monte San Nicola at Pietravairano
-[https://www.wikidata.org/wiki/Q108418823](https://www.wikidata.org/wiki/Q108418823)  
-
-### alignments:
- - [Theater-temple complex, Monte San Nicola](https://pleiades.stoa.org/places/251442732)
-
-
 ## Q108418962: Lucus Aquilonensis
 [https://www.wikidata.org/wiki/Q108418962](https://www.wikidata.org/wiki/Q108418962)  
 
@@ -44077,13 +44112,6 @@
  - [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
 
-## Q13678: Agrigento
-[https://www.wikidata.org/wiki/Q13678](https://www.wikidata.org/wiki/Q13678)  
-
-### alignments:
- - [Akragas/Agrigentum](https://pleiades.stoa.org/places/462086)
-
-
 ## Q136922065
 [https://www.wikidata.org/wiki/Q136922065](https://www.wikidata.org/wiki/Q136922065)  
 
@@ -44873,13 +44901,6 @@
 
 ### alignments:
  - [Tapah Sīyalk](https://pleiades.stoa.org/places/864970042)
-
-
-## Q1583842: Emerita Augusta
-[https://www.wikidata.org/wiki/Q1583842](https://www.wikidata.org/wiki/Q1583842)  
-
-### alignments:
- - [Emerita Augusta](https://pleiades.stoa.org/places/256155)
 
 
 ## Q15843677: Sa Carcaredda
@@ -47565,6 +47586,13 @@
 
 ### alignments:
  - [Sacriportus](https://pleiades.stoa.org/places/208591878)
+
+
+## Q2217177
+[https://www.wikidata.org/wiki/Q2217177](https://www.wikidata.org/wiki/Q2217177)  
+
+### alignments:
+ - [Shamiram Canal](https://pleiades.stoa.org/places/497146323)
 
 
 ## Q2222846: Pozzo sacro di Santa Cristina
@@ -51302,14 +51330,6 @@
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
 
 
-## Q3983252: Temple of Jupiter Anxur
-[https://www.wikidata.org/wiki/Q3983252](https://www.wikidata.org/wiki/Q3983252)  
-
-### alignments:
- - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
- - [Temple of Jupiter Anxur](https://pleiades.stoa.org/places/867719962)
-
-
 ## Q3983254: Temple of Jupiter Apenninus
 [https://www.wikidata.org/wiki/Q3983254](https://www.wikidata.org/wiki/Q3983254)  
 
@@ -53391,13 +53411,6 @@
  - [Trayamar necropolis](https://pleiades.stoa.org/places/547048656)
 
 
-## Q6041035
-[https://www.wikidata.org/wiki/Q6041035](https://www.wikidata.org/wiki/Q6041035)  
-
-### alignments:
- - [Nertobriga Concordia Iulia](https://pleiades.stoa.org/places/256325)
-
-
 ## Q60617274: Roman villa of Liédena
 [https://www.wikidata.org/wiki/Q60617274](https://www.wikidata.org/wiki/Q60617274)  
 
@@ -53907,13 +53920,6 @@
 
 ### alignments:
  - [Aqua Augusta (Naples)](https://pleiades.stoa.org/places/662332233)
-
-
-## Q633572: Temple of Hera, Olympia
-[https://www.wikidata.org/wiki/Q633572](https://www.wikidata.org/wiki/Q633572)  
-
-### alignments:
- - [Temple of Hera, Olympia](https://pleiades.stoa.org/places/584889481)
 
 
 ## Q6359032: Kamouh el Hermel
@@ -54565,13 +54571,6 @@
 
 ### alignments:
  - [Arsameia pros Nymphaio](https://pleiades.stoa.org/places/658391)
-
-
-## Q70786367: Colossi of Memnon at Theban necropolis
-[https://www.wikidata.org/wiki/Q70786367](https://www.wikidata.org/wiki/Q70786367)  
-
-### alignments:
- - [Memnon Colossi](https://pleiades.stoa.org/places/786066)
 
 
 ## Q7083509: Old Bourtreebush
@@ -59356,6 +59355,13 @@
  - [Taramptos (island)](https://pleiades.stoa.org/places/599956)
 
 
+## Salina (Q505847)
+[https://www.wikidata.org/wiki/Q505847](https://www.wikidata.org/wiki/Q505847)  
+
+### alignments:
+ - [Didyme (island)](https://pleiades.stoa.org/places/462186)
+
+
 ## Salinello (Q647364)
 [https://www.wikidata.org/wiki/Q647364](https://www.wikidata.org/wiki/Q647364)  
 
@@ -59493,7 +59499,7 @@
 [https://www.wikidata.org/wiki/Q1811108](https://www.wikidata.org/wiki/Q1811108)  
 
 ### alignments:
- - [Samiopoula](https://pleiades.stoa.org/places/599924)
+ - [Samiopoula (island)](https://pleiades.stoa.org/places/668432190)
 
 
 ## Samnagenses (Q3470891)
@@ -60082,6 +60088,13 @@
 
 ### alignments:
  - [Monte Li Santi](https://pleiades.stoa.org/places/792532423)
+
+
+## Sanctuary of Monte San Nicola at Pietravairano (Q108418823)
+[https://www.wikidata.org/wiki/Q108418823](https://www.wikidata.org/wiki/Q108418823)  
+
+### alignments:
+ - [Theater-temple complex, Monte San Nicola](https://pleiades.stoa.org/places/251442732)
 
 
 ## Sanctuary of Pandion (Q3818592)
@@ -65273,6 +65286,13 @@
  - [Hephaisteion](https://pleiades.stoa.org/places/558659669)
 
 
+## Temple of Hera, Olympia (Q633572)
+[https://www.wikidata.org/wiki/Q633572](https://www.wikidata.org/wiki/Q633572)  
+
+### alignments:
+ - [Temple of Hera, Olympia](https://pleiades.stoa.org/places/584889481)
+
+
 ## Temple of Hera, Paestum (Q3555920)
 [https://www.wikidata.org/wiki/Q3555920](https://www.wikidata.org/wiki/Q3555920)  
 
@@ -65348,6 +65368,14 @@
 
 ### alignments:
  - [Temple of Jupiter](https://pleiades.stoa.org/places/367026512)
+
+
+## Temple of Jupiter Anxur (Q3983252)
+[https://www.wikidata.org/wiki/Q3983252](https://www.wikidata.org/wiki/Q3983252)  
+
+### alignments:
+ - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
+ - [Temple of Jupiter Anxur](https://pleiades.stoa.org/places/867719962)
 
 
 ## Temple of Jupiter Optimus Maximus (Q586468)
@@ -66272,6 +66300,13 @@
 
 ### alignments:
  - [Theban necropolis](https://pleiades.stoa.org/places/836839127)
+
+
+## Thebes (Q101583)
+[https://www.wikidata.org/wiki/Q101583](https://www.wikidata.org/wiki/Q101583)  
+
+### alignments:
+ - [Diospolis Magna/Thebai](https://pleiades.stoa.org/places/786017)
 
 
 ## Thebes (Q11225429)

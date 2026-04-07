@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-463 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
+464 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -546,6 +546,13 @@
 
 ### alignments:
  - [Antikyra](https://pleiades.stoa.org/places/540642)
+
+
+## Report 3177: SAMOS - 2004
+[https://chronique.efa.gr/?r=report&id=3177](https://chronique.efa.gr/?r=report&id=3177)  
+
+### alignments:
+ - [Samiopoula (island)](https://pleiades.stoa.org/places/668432190)
 
 
 ## Report 3930: KASTRO ANO DIAKOPTOU - 2001

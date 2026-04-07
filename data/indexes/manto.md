@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-982 alignments exist in _Pleiades_ place references as of 2026-04-06. The following list of alignments is grouped by zotkey.
+988 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4140,6 +4140,13 @@
  - [Nasamones](https://pleiades.stoa.org/places/373861)
 
 
+## 11326422: the Wall of Semiramis (Babylon)
+[https://resource.manto.unh.edu/11326422](https://resource.manto.unh.edu/11326422)  
+
+### alignments:
+ - [Wall of Media](https://pleiades.stoa.org/places/896945)
+
+
 ## 11327003: Panopolis (Egypt)
 [https://resource.manto.unh.edu/11327003](https://resource.manto.unh.edu/11327003)  
 
@@ -4152,6 +4159,13 @@
 
 ### alignments:
  - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
+
+
+## 11327158: the Channel of Semiramis (Ecbatana)
+[https://resource.manto.unh.edu/11327158](https://resource.manto.unh.edu/11327158)  
+
+### alignments:
+ - [Shamiram Canal](https://pleiades.stoa.org/places/497146323)
 
 
 ## 11327251: The Lichades Islands (Malian Gulf)
@@ -4222,6 +4236,20 @@
 
 ### alignments:
  - [Ogygia/Calypsus (island)](https://pleiades.stoa.org/places/456105)
+
+
+## 11328868: Cimolos (Aegean)
+[https://resource.manto.unh.edu/11328868](https://resource.manto.unh.edu/11328868)  
+
+### alignments:
+ - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
+
+
+## 11328870: Didyme (Aegean)
+[https://resource.manto.unh.edu/11328870](https://resource.manto.unh.edu/11328870)  
+
+### alignments:
+ - [Didyme (island)](https://pleiades.stoa.org/places/462186)
 
 
 ## 11328897
@@ -5548,6 +5576,13 @@
  - [Sirenes/Seirenoussai (islands)](https://pleiades.stoa.org/places/433124)
 
 
+## 9358829: Ogygia (Island)
+[https://resource.manto.unh.edu/9358829](https://resource.manto.unh.edu/9358829)  
+
+### alignments:
+ - [Ogygia/Calypsus (island)](https://pleiades.stoa.org/places/456105)
+
+
 ## 9364186: Zacynthos (island)
 [https://resource.manto.unh.edu/9364186](https://resource.manto.unh.edu/9364186)  
 
@@ -6554,6 +6589,13 @@
 
 ### alignments:
  - [Akidas/Iardanos (river)](https://pleiades.stoa.org/places/573064)
+
+
+## 9821352: Thebes (Egypt)
+[https://resource.manto.unh.edu/9821352](https://resource.manto.unh.edu/9821352)  
+
+### alignments:
+ - [Diospolis Magna/Thebai](https://pleiades.stoa.org/places/786017)
 
 
 ## 9821356: Heniochia (Pontos)
