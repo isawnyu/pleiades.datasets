@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10467 alignments exist in _Pleiades_ place references as of 2026-04-07. The following list of alignments is grouped by zotkey.
+10469 alignments exist in _Pleiades_ place references as of 2026-04-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -11398,6 +11398,13 @@
 
 ### alignments:
  - [Carsioli](https://pleiades.stoa.org/places/432760)
+
+
+## Carsulae amphitheatre (Q28978088)
+[https://www.wikidata.org/wiki/Q28978088](https://www.wikidata.org/wiki/Q28978088)  
+
+### alignments:
+ - [Roman amphitheater at Carsulae](https://pleiades.stoa.org/places/960592956)
 
 
 ## Carthage (Q6343)
@@ -27217,6 +27224,13 @@
 
 ### alignments:
  - [Krioa](https://pleiades.stoa.org/places/585923)
+
+
+## Krishna River (Q193499)
+[https://www.wikidata.org/wiki/Q193499](https://www.wikidata.org/wiki/Q193499)  
+
+### alignments:
+ - [Krishna/Maisolos (river)](https://pleiades.stoa.org/places/50104)
 
 
 ## Krk (Q6059)
@@ -49165,13 +49179,6 @@
  - [Roman amphitheater at Telesia](https://pleiades.stoa.org/places/828428388)
 
 
-## Q28978088: Carsulae amphitheatre
-[https://www.wikidata.org/wiki/Q28978088](https://www.wikidata.org/wiki/Q28978088)  
-
-### alignments:
- - [Roman amphitheater at Carsulae](https://pleiades.stoa.org/places/960592956)
-
-
 ## Q28996547: Porolissum amphitheatre
 [https://www.wikidata.org/wiki/Q28996547](https://www.wikidata.org/wiki/Q28996547)  
 
@@ -64255,6 +64262,13 @@
 
 ### alignments:
  - [Tarr Steps](https://pleiades.stoa.org/places/913465647)
+
+
+## Tarragona Amphitheatre (Q2746482)
+[https://www.wikidata.org/wiki/Q2746482](https://www.wikidata.org/wiki/Q2746482)  
+
+### alignments:
+ - [Roman amphitheater of Col. Tarraco](https://pleiades.stoa.org/places/353133530)
 
 
 ## Tarrenz (Q692617)
