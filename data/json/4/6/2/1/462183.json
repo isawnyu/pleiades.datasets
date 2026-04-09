@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        15.0,
-        37.0,
-        15.5,
-        37.5
+        15.2918784,
+        37.036293,
+        15.2918784,
+        37.036293
     ],
     "connections": [],
     "connectsWith": [],
@@ -14,14 +14,22 @@
             "username": null
         },
         {
-            "name": "T. Elliott",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
     "created": "2010-11-11T15:08:47Z",
@@ -37,43 +45,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.0
-                        ]
-                    ]
+                    15.2918784,
+                    37.036293
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-of-punta-del-pero",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/462183/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 550 BC - 330 BC",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/462183/osm-location-of-punta-del-pero",
+                "location_precision": "precise",
+                "snippet": "Cape; AD 2000 - AD 2099",
+                "title": "OSM location of Punta del Pero"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-04-08T14:07:24Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T05:20:13Z",
@@ -109,113 +102,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "classical",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-11T15:08:48Z",
+            "contributors": [],
+            "created": "2026-04-08T14:03:15Z",
             "creators": [
                 {
-                    "name": "R.J.A. Wilson",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": -330,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "cape"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            15.0,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.0
-                        ],
-                        [
-                            15.5,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.5
-                        ],
-                        [
-                            15.0,
-                            37.0
-                        ]
-                    ]
+                    15.2918784,
+                    37.036293
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:20:13Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-11T20:00:34Z",
+                    "modified": "2026-04-08T14:50:17Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T15:23:55Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-04-08T14:03:46Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add osm location",
+                    "modified": "2026-04-08T14:03:38Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-04-08T14:03:15Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T15:08:48Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-04-08T14:03:15Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-punta-del-pero",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/cape"
             ],
-            "provenance": "Barrington Atlas: BAtlas 47 G4 Daskon Akron",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 684908532, version 3, osm:changeset=71971924, 2019-07-07T01:08:58Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/684908532",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 684908532",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=684908532",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -550,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/462183/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Punta del Pero",
+            "uri": "https://pleiades.stoa.org/places/462183/osm-location-of-punta-del-pero"
         }
     ],
     "names": [
@@ -291,6 +268,78 @@
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
             "uri": "https://pleiades.stoa.org/places/462183/daskon-akron"
+        },
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "Punta del Pero",
+            "contributors": [],
+            "created": "2026-04-08T14:08:26Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-04-08T14:50:36Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-04-08T14:08:33Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "add name - Punta del Pero",
+                    "modified": "2026-04-08T14:08:28Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-04-08T14:08:26Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "punta-del-pero",
+            "language": "it",
+            "nameType": "associated_modern",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/node/684908532",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BA93AHVQ",
+                    "citationDetail": "Punta del Pero (684908532)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "Punta del Pero",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/462183/punta-del-pero"
         }
     ],
     "placeTypeURIs": [
@@ -313,31 +362,42 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/8494638",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Manni-1981",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U2CF7U8D",
+            "citationDetail": "55, 164",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Manni 1981, 55, 164",
+            "formattedCitation": "<div class=\"csl-entry\">Manni, Eugenio. <i>Geografia fisica e politica della Sicilia antica</i>. Supplementi a Kókalos 4. Rome: G. Bretschneider, 1981. http://www.worldcat.org/oclc/8494638.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Manni 1981",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/doc/btcgi_0000-0009_1989_num_7_1_3445",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-VII",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "VII, 76-77 s.v. \"Dasco\" (Maurizio Giangiulio)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI VII, 76-77",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/EFG24VXW",
+            "citationDetail": "6.66.2",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Thucydides. <i>Thucydidis Historiae; recognovit brevique adnotatione critica instruxit Henricus Stuart Jones ..</i> Edited by Henry Stuart Jones and J. Enoch Powell. 2 vols. Oxonii: e typographeo Clarendoniano, 1942. http://data.perseus.org/texts/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Thuc. Hist. (Jones; Perseus)",
+            "type": "citesAsEvidence"
         }
     ],
     "reprPoint": [
-        15.25,
-        37.25
+        15.2918784,
+        37.036293
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
