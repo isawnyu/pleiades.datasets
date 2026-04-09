@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5026 alignments exist in _Pleiades_ place references as of 2026-04-08. The following list of alignments is grouped by zotkey.
+5027 alignments exist in _Pleiades_ place references as of 2026-04-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -34277,6 +34277,13 @@
 
 ### alignments:
  - [Athychis](https://pleiades.stoa.org/places/741436)
+
+
+## GEO ID 8349: Ainesisphyra (Sidi Barrani)
+[https://www.trismegistos.org/place/8349](https://www.trismegistos.org/place/8349)  
+
+### alignments:
+ - [Ainesisphyra? Akron](https://pleiades.stoa.org/places/716506)
 
 
 ## GEO ID 8395

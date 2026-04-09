@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10469 alignments exist in _Pleiades_ place references as of 2026-04-08. The following list of alignments is grouped by zotkey.
+10473 alignments exist in _Pleiades_ place references as of 2026-04-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -701,6 +701,13 @@
 
 ### alignments:
  - [Akrasos](https://pleiades.stoa.org/places/554181)
+
+
+## Acrocorinth (Q420810)
+[https://www.wikidata.org/wiki/Q420810](https://www.wikidata.org/wiki/Q420810)  
+
+### alignments:
+ - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
 
 
 ## Acroma (Q4676146)
@@ -10959,6 +10966,13 @@
  - [Marianon Akron](https://pleiades.stoa.org/places/472098)
 
 
+## Cape Fiolent (Q2394403)
+[https://www.wikidata.org/wiki/Q2394403](https://www.wikidata.org/wiki/Q2394403)  
+
+### alignments:
+ - [Parthenion? Akron](https://pleiades.stoa.org/places/226714)
+
+
 ## Cape Kormakitis (Q959369)
 [https://www.wikidata.org/wiki/Q959369](https://www.wikidata.org/wiki/Q959369)  
 
@@ -11111,6 +11125,13 @@
 
 ### alignments:
  - [Argennon Akron](https://pleiades.stoa.org/places/462102)
+
+
+## Capo Santa Croce (Q34835777)
+[https://www.wikidata.org/wiki/Q34835777](https://www.wikidata.org/wiki/Q34835777)  
+
+### alignments:
+ - [Tauros Akron](https://pleiades.stoa.org/places/462507)
 
 
 ## Capo Testa (Q1034748)
@@ -23036,6 +23057,13 @@
 
 ### alignments:
  - [Hermai](https://pleiades.stoa.org/places/570291)
+
+
+## Hermaion Akron (Q114448973)
+[https://www.wikidata.org/wiki/Q114448973](https://www.wikidata.org/wiki/Q114448973)  
+
+### alignments:
+ - [Hermaion Akron](https://pleiades.stoa.org/places/471945)
 
 
 ## Hermes (Q941423)
@@ -37891,6 +37919,13 @@
  - [Pentephyle/*Triknaita](https://pleiades.stoa.org/places/511356)
 
 
+## Penteskoufia (Q97173081)
+[https://www.wikidata.org/wiki/Q97173081](https://www.wikidata.org/wiki/Q97173081)  
+
+### alignments:
+ - [Penteskouphia](https://pleiades.stoa.org/places/842094502)
+
+
 ## Pentrehyling Roman fort (Q120064953)
 [https://www.wikidata.org/wiki/Q120064953](https://www.wikidata.org/wiki/Q120064953)  
 
@@ -39815,6 +39850,13 @@
 
 ### alignments:
  - [Parentium](https://pleiades.stoa.org/places/197427)
+
+
+## Port of Augusta (Q3909207)
+[https://www.wikidata.org/wiki/Q3909207](https://www.wikidata.org/wiki/Q3909207)  
+
+### alignments:
+ - [Xiphonias Akroterion](https://pleiades.stoa.org/places/462536)
 
 
 ## Porta Collina (Q2104863)
@@ -51590,13 +51632,6 @@
  - [Abnob(ai)a Ore](https://pleiades.stoa.org/places/108724)
 
 
-## Q420810: Acrocorinth
-[https://www.wikidata.org/wiki/Q420810](https://www.wikidata.org/wiki/Q420810)  
-
-### alignments:
- - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
-
-
 ## Q42114709: Temple of Apollo Daphnephoros
 [https://www.wikidata.org/wiki/Q42114709](https://www.wikidata.org/wiki/Q42114709)  
 
@@ -55943,13 +55978,6 @@
 
 ### alignments:
  - [Panhellenios (mountain)](https://pleiades.stoa.org/places/580055)
-
-
-## Q97173081: Penteskoufia
-[https://www.wikidata.org/wiki/Q97173081](https://www.wikidata.org/wiki/Q97173081)  
-
-### alignments:
- - [Penteskouphia](https://pleiades.stoa.org/places/842094502)
 
 
 ## Q97180948: Mausoleum Campo Barbarico

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4926 alignments exist in _Pleiades_ place references as of 2026-04-08. The following list of alignments is grouped by zotkey.
+4929 alignments exist in _Pleiades_ place references as of 2026-04-09. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -1353,6 +1353,13 @@
 
 ### alignments:
  - [Aineia](https://pleiades.stoa.org/places/491513)
+
+
+## Ainesisphyra? Akron (Egypt)
+[https://topostext.org/place/315255LAin](https://topostext.org/place/315255LAin)  
+
+### alignments:
+ - [Ainesisphyra? Akron](https://pleiades.stoa.org/places/716506)
 
 
 ## Ainos (Thrace)
@@ -13129,6 +13136,13 @@
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
 
 
+## Hermaion cape (Sardinia) 6 Capo Marrargiu - Έρμαιον άκρον
+[https://topostext.org/place/403836LHer](https://topostext.org/place/403836LHer)  
+
+### alignments:
+ - [Hermaion Akron](https://pleiades.stoa.org/places/471945)
+
+
 ## Hermione (Argolid)
 [https://topostext.org/place/374232UHer](https://topostext.org/place/374232UHer)  
 
@@ -14601,6 +14615,13 @@
 
 ### alignments:
  - [The Temple of Janus (Rome)](https://pleiades.stoa.org/places/468681435)
+
+
+## Jasonia (Pontus) 5 Yasun Burnu
+[https://topostext.org/place/411377UJas](https://topostext.org/place/411377UJas)  
+
+### alignments:
+ - [Iasonion (promuntory)](https://pleiades.stoa.org/places/857168)
 
 
 ## Jerusalem

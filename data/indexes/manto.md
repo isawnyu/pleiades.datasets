@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-988 alignments exist in _Pleiades_ place references as of 2026-04-08. The following list of alignments is grouped by zotkey.
+990 alignments exist in _Pleiades_ place references as of 2026-04-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -980,6 +980,13 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+
+
+## 10153076: the Acrocorinth (Corinth)
+[https://resource.manto.unh.edu/10153076](https://resource.manto.unh.edu/10153076)  
+
+### alignments:
+ - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
 
 
 ## 10153163: Tithorea (Phocis)
@@ -3157,6 +3164,13 @@
 
 ### alignments:
  - [Gaulos (island)](https://pleiades.stoa.org/places/462213)
+
+
+## 11306987: Cape Parthenion (Chersonesos)
+[https://resource.manto.unh.edu/11306987](https://resource.manto.unh.edu/11306987)  
+
+### alignments:
+ - [Parthenion? Akron](https://pleiades.stoa.org/places/226714)
 
 
 ## 11307152: Pelagonia
