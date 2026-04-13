@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4929 alignments exist in _Pleiades_ place references as of 2026-04-10. The following list of alignments is grouped by zotkey.
+4938 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -547,6 +547,13 @@
 
 ### alignments:
  - [Ad Duodecimum](https://pleiades.stoa.org/places/491510)
+
+
+## Ad Fines (Transpadana)
+[https://topostext.org/place/451074UAFi](https://topostext.org/place/451074UAFi)  
+
+### alignments:
+ - [Ad Fines](https://pleiades.stoa.org/places/383545)
 
 
 ## Ad Vicesimum (Latium)
@@ -4058,6 +4065,13 @@
  - [Arethousa](https://pleiades.stoa.org/places/501357)
 
 
+## Aretias (Pontus) 2 Giresun Adası
+[https://topostext.org/place/409384IAre](https://topostext.org/place/409384IAre)  
+
+### alignments:
+ - [Aretias/Areonesos (islands)](https://pleiades.stoa.org/places/857042)
+
+
 ## Argennon cape (Ionia) 7 Ovacik - Αργεννόν
 [https://topostext.org/place/383262LArg](https://topostext.org/place/383262LArg)  
 
@@ -5598,6 +5612,13 @@
 
 ### alignments:
  - [Babylon](https://pleiades.stoa.org/places/893951)
+
+
+## Babylonia (Mesopotamia)
+[https://topostext.org/place/316455RBab](https://topostext.org/place/316455RBab)  
+
+### alignments:
+ - [Babylonia](https://pleiades.stoa.org/places/912816)
 
 
 ## Baccanae (Latium)
@@ -15086,6 +15107,13 @@
  - [Kanastraion Pr.](https://pleiades.stoa.org/places/501453)
 
 
+## Kanatha (Syria) 5 Qanawat
+[https://topostext.org/place/328366UQan](https://topostext.org/place/328366UQan)  
+
+### alignments:
+ - [Canatha/*Gabinia/*Septimia](https://pleiades.stoa.org/places/678082)
+
+
 ## Kane Mt. (Aiolis) 9 Kara Dağ - Κανή
 [https://topostext.org/place/390269LKan](https://topostext.org/place/390269LKan)  
 
@@ -16206,6 +16234,13 @@
 
 ### alignments:
  - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
+
+
+## Kimonian monuments (Athens) 5 Philopappous Hill - Κιμώνια μνήματα
+[https://topostext.org/place/380237GKMn](https://topostext.org/place/380237GKMn)  
+
+### alignments:
+ - [Kimonian monuments](https://pleiades.stoa.org/places/11564736)
 
 
 ## Kinaithion? cape (Lakonia)
@@ -21183,6 +21218,13 @@
 
 ### alignments:
  - [Mossyna](https://pleiades.stoa.org/places/609476)
+
+
+## Mossynoikoi tribe (Pontus)
+[https://topostext.org/place/408387RMos](https://topostext.org/place/408387RMos)  
+
+### alignments:
+ - [Mossynoeci](https://pleiades.stoa.org/places/857239)
 
 
 ## Motouka/Motyce (Sicily)
@@ -29511,6 +29553,13 @@
  - [Sindos](https://pleiades.stoa.org/places/491717)
 
 
+## Singara (Mesopotamia)
+[https://topostext.org/place/363419USin](https://topostext.org/place/363419USin)  
+
+### alignments:
+ - [Singara](https://pleiades.stoa.org/places/874699)
+
+
 ## Singidunum (Moesia)
 [https://topostext.org/place/448205USin](https://topostext.org/place/448205USin)  
 
@@ -33549,6 +33598,13 @@
  - [Vathychori](https://pleiades.stoa.org/places/749295738)
 
 
+## Vatican Obelisk (Rome)
+[https://topostext.org/place/419125AOVa](https://topostext.org/place/419125AOVa)  
+
+### alignments:
+ - [Vatican Obelisk](https://pleiades.stoa.org/places/855632226)
+
+
 ## Vatsa (Kefallenia)  Agios Nikolaos - Βάτσα
 [https://topostext.org/place/382204VVat](https://topostext.org/place/382204VVat)  
 
@@ -33820,6 +33876,13 @@
 
 ### alignments:
  - [Via Praenestina](https://pleiades.stoa.org/places/622606468)
+
+
+## Via Quinctia (Italia)
+[https://topostext.org/place/437107BVQu](https://topostext.org/place/437107BVQu)  
+
+### alignments:
+ - [Via *Quinctia](https://pleiades.stoa.org/places/43608945)
 
 
 ## Via Sacra (Rome)

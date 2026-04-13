@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5027 alignments exist in _Pleiades_ place references as of 2026-04-10. The following list of alignments is grouped by zotkey.
+5035 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2226,13 +2226,6 @@
 
 ### alignments:
  - [Psaphis](https://pleiades.stoa.org/places/580093)
-
-
-## Geo 60875: Antikragos (Buba Dağ)
-[https://www.trismegistos.org/place/60875](https://www.trismegistos.org/place/60875)  
-
-### alignments:
- - [Antikragos (mountain)](https://pleiades.stoa.org/places/638747)
 
 
 ## Geo 60981: Marpessos (Damkale)
@@ -7803,6 +7796,13 @@
  - [Charcha/‘Arcaiapis’/Karcharoman](https://pleiades.stoa.org/places/874418)
 
 
+## GEO ID 16516: Singara (Sindjar)
+[https://www.trismegistos.org/place/16516](https://www.trismegistos.org/place/16516)  
+
+### alignments:
+ - [Singara](https://pleiades.stoa.org/places/874699)
+
+
 ## GEO ID 16521: Carnuntum (Petronell)
 [https://www.trismegistos.org/place/16521](https://www.trismegistos.org/place/16521)  
 
@@ -12397,6 +12397,13 @@
  - [Trikomia](https://pleiades.stoa.org/places/741644)
 
 
+## GEO ID 24746
+[http://www.trismegistos.org/place/24746](http://www.trismegistos.org/place/24746)  
+
+### alignments:
+ - [Caturicis](https://pleiades.stoa.org/places/108872)
+
+
 ## GEO ID 2478: Troas
 [https://www.trismegistos.org/place/2478](https://www.trismegistos.org/place/2478)  
 
@@ -15401,6 +15408,13 @@
  - [Onosis](https://pleiades.stoa.org/places/741537)
 
 
+## GEO ID 3048: Papa Megale (Biba)
+[https://www.trismegistos.org/place/3048](https://www.trismegistos.org/place/3048)  
+
+### alignments:
+ - [Papa](https://pleiades.stoa.org/places/736992)
+
+
 ## GEO ID 30538: Theranda (Suva Reka)
 [https://www.trismegistos.org/place/30538](https://www.trismegistos.org/place/30538)  
 
@@ -16072,6 +16086,13 @@
 
 ### alignments:
  - [Dikaiarcheia/Puteoli](https://pleiades.stoa.org/places/432815)
+
+
+## GEO ID 3191: Rabbath Moaba (Rabba)
+[http://www.trismegistos.org/place/3191](http://www.trismegistos.org/place/3191)  
+
+### alignments:
+ - [Areopolis](https://pleiades.stoa.org/places/697632)
 
 
 ## GEO ID 31928: Caesena (Cesena)
@@ -24393,6 +24414,13 @@
  - [Olcinium/Vicinium](https://pleiades.stoa.org/places/481931)
 
 
+## GEO ID 41592: Baba
+[https://www.trismegistos.org/place/41592](https://www.trismegistos.org/place/41592)  
+
+### alignments:
+ - [Baba](https://pleiades.stoa.org/places/876579)
+
+
 ## GEO ID 41595: Ad Fines (Feins)
 [http://www.trismegistos.org/place/41595](http://www.trismegistos.org/place/41595)  
 
@@ -31090,6 +31118,13 @@
  - [Castell Collen](https://pleiades.stoa.org/places/79378)
 
 
+## GEO ID 52834: Nelkomia (El-Mushennef)
+[https://www.trismegistos.org/place/52834](https://www.trismegistos.org/place/52834)  
+
+### alignments:
+ - [Nelkomia/Neela?](https://pleiades.stoa.org/places/678305)
+
+
 ## GEO ID 52835: Pistyros
 [https://www.trismegistos.org/place/52835](https://www.trismegistos.org/place/52835)  
 
@@ -31559,6 +31594,13 @@
  - [Dionysias](https://pleiades.stoa.org/places/736904)
 
 
+## GEO ID 56774: Mansuriya
+[https://www.trismegistos.org/place/56774](https://www.trismegistos.org/place/56774)  
+
+### alignments:
+ - [Mansuriya](https://pleiades.stoa.org/places/776197)
+
+
 ## GEO ID 5685: Melanogaitouloi
 [https://www.trismegistos.org/place/5685](https://www.trismegistos.org/place/5685)  
 
@@ -31859,6 +31901,13 @@
 
 ### alignments:
  - [Lamponia](https://pleiades.stoa.org/places/550678)
+
+
+## GEO ID 58937: Rhoiteion (Baba Kale)
+[https://www.trismegistos.org/place/58937](https://www.trismegistos.org/place/58937)  
+
+### alignments:
+ - [Rhoiteion](https://pleiades.stoa.org/places/550856)
 
 
 ## GEO ID 58945: Hypana (Platiana)
@@ -32482,6 +32531,13 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## GEO ID 60875: Antikragos (Buba Dağ)
+[https://www.trismegistos.org/place/60875](https://www.trismegistos.org/place/60875)  
+
+### alignments:
+ - [Antikragos (mountain)](https://pleiades.stoa.org/places/638747)
 
 
 ## GEO ID 60876: Telandria (Tersane Ada)

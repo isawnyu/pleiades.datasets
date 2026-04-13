@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10473 alignments exist in _Pleiades_ place references as of 2026-04-10. The following list of alignments is grouped by zotkey.
+10498 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -792,6 +792,13 @@
 
 ### alignments:
  - [Kalaiou Nesoi](https://pleiades.stoa.org/places/29620)
+
+
+## Ad Disah (Q106495669)
+[https://www.wikidata.org/wiki/Q106495669](https://www.wikidata.org/wiki/Q106495669)  
+
+### alignments:
+ - [ed-Disa](https://pleiades.stoa.org/places/354109)
 
 
 ## Ad Duas Lauros (Q3604871)
@@ -1920,6 +1927,20 @@
 
 ### alignments:
  - [Asabon (mountain)](https://pleiades.stoa.org/places/932433)
+
+
+## Al Qarāyā (Q105995007)
+[https://www.wikidata.org/wiki/Q105995007](https://www.wikidata.org/wiki/Q105995007)  
+
+### alignments:
+ - [el-Gheraia](https://pleiades.stoa.org/places/354124)
+
+
+## Al Ḩamrā’ (Q106015512)
+[https://www.wikidata.org/wiki/Q106015512](https://www.wikidata.org/wiki/Q106015512)  
+
+### alignments:
+ - [el-Hamra](https://pleiades.stoa.org/places/354129)
 
 
 ## Al-Aqsa Mosque (Q12192963)
@@ -5374,6 +5395,13 @@
  - [Ariolica](https://pleiades.stoa.org/places/167655)
 
 
+## Arisba (Q2861312)
+[https://www.wikidata.org/wiki/Q2861312](https://www.wikidata.org/wiki/Q2861312)  
+
+### alignments:
+ - [Arisbe](https://pleiades.stoa.org/places/501359)
+
+
 ## Aristides' house (Q16537586)
 [https://www.wikidata.org/wiki/Q16537586](https://www.wikidata.org/wiki/Q16537586)  
 
@@ -6845,6 +6873,13 @@
  - [Acherousias Pr.](https://pleiades.stoa.org/places/844849)
 
 
+## Babadağ (Q4837427)
+[https://www.wikidata.org/wiki/Q4837427](https://www.wikidata.org/wiki/Q4837427)  
+
+### alignments:
+ - [Antikragos (mountain)](https://pleiades.stoa.org/places/638747)
+
+
 ## Babylon Fortress (Q2421968)
 [https://www.wikidata.org/wiki/Q2421968](https://www.wikidata.org/wiki/Q2421968)  
 
@@ -8057,6 +8092,20 @@
  - [Scythopolis/Nysa](https://pleiades.stoa.org/places/678378)
 
 
+## Beit Ur al-Fauqa (Q2905277)
+[https://www.wikidata.org/wiki/Q2905277](https://www.wikidata.org/wiki/Q2905277)  
+
+### alignments:
+ - [Bethoron Anotera](https://pleiades.stoa.org/places/687857)
+
+
+## Beit Ur al-Tahta (Q2905332)
+[https://www.wikidata.org/wiki/Q2905332](https://www.wikidata.org/wiki/Q2905332)  
+
+### alignments:
+ - [Bethoron Katotera](https://pleiades.stoa.org/places/687858)
+
+
 ## Belemina (Q16537117)
 [https://www.wikidata.org/wiki/Q16537117](https://www.wikidata.org/wiki/Q16537117)  
 
@@ -8622,6 +8671,13 @@
 
 ### alignments:
  - [Bir es-Shawi](https://pleiades.stoa.org/places/344321)
+
+
+## Bi’r Tin Abunda (Q106020122)
+[https://www.wikidata.org/wiki/Q106020122](https://www.wikidata.org/wiki/Q106020122)  
+
+### alignments:
+ - [Tin Abunda](https://pleiades.stoa.org/places/354158)
 
 
 ## Black Ball Camp (Q4920313)
@@ -13493,6 +13549,13 @@
  - [Cetaria](https://pleiades.stoa.org/places/256103)
 
 
+## Cetona (Q91160)
+[https://www.wikidata.org/wiki/Q91160](https://www.wikidata.org/wiki/Q91160)  
+
+### alignments:
+ - [Cetona](https://pleiades.stoa.org/places/232079422)
+
+
 ## Ceuclum (Q3414036)
 [https://www.wikidata.org/wiki/Q3414036](https://www.wikidata.org/wiki/Q3414036)  
 
@@ -17628,6 +17691,13 @@
  - [Portunata (island)](https://pleiades.stoa.org/places/197455)
 
 
+## Dujal (Q105992595)
+[https://www.wikidata.org/wiki/Q105992595](https://www.wikidata.org/wiki/Q105992595)  
+
+### alignments:
+ - [Dugial](https://pleiades.stoa.org/places/354110)
+
+
 ## Dukkan-e Daud (Q3041097)
 [https://www.wikidata.org/wiki/Q3041097](https://www.wikidata.org/wiki/Q3041097)  
 
@@ -20765,6 +20835,13 @@
 
 ### alignments:
  - [Garsaura/Col. Claudia Archelais/Koloneia](https://pleiades.stoa.org/places/619164)
+
+
+## Gasr el-Uatat (Q105993233)
+[https://www.wikidata.org/wiki/Q105993233](https://www.wikidata.org/wiki/Q105993233)  
+
+### alignments:
+ - [Gasr el-Uatuat](https://pleiades.stoa.org/places/354119)
 
 
 ## Gate of Athena Archegetis (Q5527012)
@@ -26687,6 +26764,13 @@
  - [Kimolos (island)](https://pleiades.stoa.org/places/589868)
 
 
+## Kimonian Monuments (Q55524296)
+[https://www.wikidata.org/wiki/Q55524296](https://www.wikidata.org/wiki/Q55524296)  
+
+### alignments:
+ - [Kimonian monuments](https://pleiades.stoa.org/places/11564736)
+
+
 ## Kinaidokolpitai (Q96385960)
 [https://www.wikidata.org/wiki/Q96385960](https://www.wikidata.org/wiki/Q96385960)  
 
@@ -28305,6 +28389,13 @@
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 
+## Lamponeia (Q15241433)
+[https://www.wikidata.org/wiki/Q15241433](https://www.wikidata.org/wiki/Q15241433)  
+
+### alignments:
+ - [Lamponia](https://pleiades.stoa.org/places/550678)
+
+
 ## Lampsacus (Q1229422)
 [https://www.wikidata.org/wiki/Q1229422](https://www.wikidata.org/wiki/Q1229422)  
 
@@ -28723,6 +28814,13 @@
 
 ### alignments:
  - [Leonforte](https://pleiades.stoa.org/places/764317939)
+
+
+## Leonine City (Q370350)
+[https://www.wikidata.org/wiki/Q370350](https://www.wikidata.org/wiki/Q370350)  
+
+### alignments:
+ - [Civitas Leonina](https://pleiades.stoa.org/places/229277207)
 
 
 ## Leontis (Q13415450)
@@ -33649,6 +33747,13 @@
  - [Mushabbak Basilica](https://pleiades.stoa.org/places/791239360)
 
 
+## Mushennef (Q109716725)
+[https://www.wikidata.org/wiki/Q109716725](https://www.wikidata.org/wiki/Q109716725)  
+
+### alignments:
+ - [Nelkomia/Neela?](https://pleiades.stoa.org/places/678305)
+
+
 ## Muslubium (Q134438303)
 [https://www.wikidata.org/wiki/Q134438303](https://www.wikidata.org/wiki/Q134438303)  
 
@@ -34039,6 +34144,13 @@
 
 ### alignments:
  - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
+## Nasium (Q3336204)
+[https://www.wikidata.org/wiki/Q3336204](https://www.wikidata.org/wiki/Q3336204)  
+
+### alignments:
+ - [Nasium](https://pleiades.stoa.org/places/109190)
 
 
 ## Nassoi (Q6967679)
@@ -37541,6 +37653,13 @@
  - [Parthenon](https://pleiades.stoa.org/places/168254096)
 
 
+## Parthenopolis (Q1534208)
+[https://www.wikidata.org/wiki/Q1534208](https://www.wikidata.org/wiki/Q1534208)  
+
+### alignments:
+ - [Parthenopolis](https://pleiades.stoa.org/places/222139)
+
+
 ## Parthenopolis (Q60793086)
 [https://www.wikidata.org/wiki/Q60793086](https://www.wikidata.org/wiki/Q60793086)  
 
@@ -37567,6 +37686,13 @@
 
 ### alignments:
  - [Paroikopolis/Parthikopolis](https://pleiades.stoa.org/places/491683)
+
+
+## Parthini (Q1230323)
+[https://www.wikidata.org/wiki/Q1230323](https://www.wikidata.org/wiki/Q1230323)  
+
+### alignments:
+ - [Parthini](https://pleiades.stoa.org/places/481948)
 
 
 ## Partskhanakanevi (Q12869881)
@@ -40039,6 +40165,13 @@
 
 ### alignments:
  - [Porta Appia](https://pleiades.stoa.org/places/661181629)
+
+
+## Porta Santo Spirito (Q3908831)
+[https://www.wikidata.org/wiki/Q3908831](https://www.wikidata.org/wiki/Q3908831)  
+
+### alignments:
+ - [Porta Santo Spirito](https://pleiades.stoa.org/places/971832733)
 
 
 ## Porta Settimiana (Q1422040)
@@ -44670,13 +44803,6 @@
 
 ### alignments:
  - [Porta Nigra](https://pleiades.stoa.org/places/151157248)
-
-
-## Q15241433: Lamponeia
-[https://www.wikidata.org/wiki/Q15241433](https://www.wikidata.org/wiki/Q15241433)  
-
-### alignments:
- - [Lamponia](https://pleiades.stoa.org/places/550678)
 
 
 ## Q1524: Athens
@@ -50034,13 +50160,6 @@
  - [tribus Tities](https://pleiades.stoa.org/places/640011069)
 
 
-## Q3531044: Tomba della Montagnola
-[https://www.wikidata.org/wiki/Q3531044](https://www.wikidata.org/wiki/Q3531044)  
-
-### alignments:
- - [Tomba della Montagnola](https://pleiades.stoa.org/places/277432403)
-
-
 ## Q3531065: Tomba dei Boschetti
 [https://www.wikidata.org/wiki/Q3531065](https://www.wikidata.org/wiki/Q3531065)  
 
@@ -55350,6 +55469,13 @@
  - [Solokha](https://pleiades.stoa.org/places/226766)
 
 
+## Q847351
+[https://www.wikidata.org/wiki/Q847351](https://www.wikidata.org/wiki/Q847351)  
+
+### alignments:
+ - [Areopolis](https://pleiades.stoa.org/places/697632)
+
+
 ## Q848877: Bradano
 [https://www.wikidata.org/wiki/Q848877](https://www.wikidata.org/wiki/Q848877)  
 
@@ -56398,6 +56524,13 @@
 
 ### alignments:
  - [Arae Philaenorum](https://pleiades.stoa.org/places/363924)
+
+
+## Qaşr Bint Bayyah (Q105992894)
+[https://www.wikidata.org/wiki/Q105992894](https://www.wikidata.org/wiki/Q105992894)  
+
+### alignments:
+ - [Gasr Bendbeia](https://pleiades.stoa.org/places/354118)
 
 
 ## Qaşr Madīnat Bū Hindī (Q104886723)
@@ -62184,6 +62317,13 @@
  - [Sindos](https://pleiades.stoa.org/places/491717)
 
 
+## Singara (Q776614)
+[https://www.wikidata.org/wiki/Q776614](https://www.wikidata.org/wiki/Q776614)  
+
+### alignments:
+ - [Singara](https://pleiades.stoa.org/places/874699)
+
+
 ## Singitic Gulf (Q1332013)
 [https://www.wikidata.org/wiki/Q1332013](https://www.wikidata.org/wiki/Q1332013)  
 
@@ -67682,6 +67822,13 @@
  - [Tomba del Duce, Vetulonia](https://pleiades.stoa.org/places/182270778)
 
 
+## Tomba della Montagnola (Q3531044)
+[https://www.wikidata.org/wiki/Q3531044](https://www.wikidata.org/wiki/Q3531044)  
+
+### alignments:
+ - [Tomba della Montagnola](https://pleiades.stoa.org/places/277432403)
+
+
 ## Tomba di Mezzavia (Q3531047)
 [https://www.wikidata.org/wiki/Q3531047](https://www.wikidata.org/wiki/Q3531047)  
 
@@ -68984,6 +69131,13 @@
  - [Tugunbulak](https://pleiades.stoa.org/places/925716437)
 
 
+## Tuiua (Q106022809)
+[https://www.wikidata.org/wiki/Q106022809](https://www.wikidata.org/wiki/Q106022809)  
+
+### alignments:
+ - [Tuiua](https://pleiades.stoa.org/places/354163)
+
+
 ## Tulln an der Donau (Q489810)
 [https://www.wikidata.org/wiki/Q489810](https://www.wikidata.org/wiki/Q489810)  
 
@@ -69731,6 +69885,13 @@
 
 ### alignments:
  - [Unnamed Gate of the Themistoklean Wall](https://pleiades.stoa.org/places/401250361)
+
+
+## Untersee (Q565637)
+[https://www.wikidata.org/wiki/Q565637](https://www.wikidata.org/wiki/Q565637)  
+
+### alignments:
+ - [Acronus (lake)](https://pleiades.stoa.org/places/187244)
 
 
 ## Upper Agryle (Q13416286)
@@ -72584,6 +72745,13 @@
  - [Xois](https://pleiades.stoa.org/places/727256)
 
 
+## Xuvia River (Q9071847)
+[https://www.wikidata.org/wiki/Q9071847](https://www.wikidata.org/wiki/Q9071847)  
+
+### alignments:
+ - [Libyca (river)](https://pleiades.stoa.org/places/236516)
+
+
 ## Xypete (Q13424319)
 [https://www.wikidata.org/wiki/Q13424319](https://www.wikidata.org/wiki/Q13424319)  
 
@@ -73128,6 +73296,13 @@
 
 ### alignments:
  - [Tedanius (river)](https://pleiades.stoa.org/places/197546)
+
+
+## Zuaya (Q106023446)
+[https://www.wikidata.org/wiki/Q106023446](https://www.wikidata.org/wiki/Q106023446)  
+
+### alignments:
+ - [Zuaya](https://pleiades.stoa.org/places/354170)
 
 
 ## Zubair Group (Q227496)

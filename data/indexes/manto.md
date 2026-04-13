@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-990 alignments exist in _Pleiades_ place references as of 2026-04-10. The following list of alignments is grouped by zotkey.
+995 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3720,6 +3720,13 @@
  - [Achilleion](https://pleiades.stoa.org/places/550401)
 
 
+## 11313360: Lamponia (Troad)
+[https://resource.manto.unh.edu/11313360](https://resource.manto.unh.edu/11313360)  
+
+### alignments:
+ - [Lamponia](https://pleiades.stoa.org/places/550678)
+
+
 ## 11313460: the Harbor of the Achaians (Aiolia)
 [https://resource.manto.unh.edu/11313460](https://resource.manto.unh.edu/11313460)  
 
@@ -3900,6 +3907,13 @@
 
 ### alignments:
  - [Almopia](https://pleiades.stoa.org/places/491518)
+
+
+## 11315310: River Arno (Italy)
+[https://resource.manto.unh.edu/11315310](https://resource.manto.unh.edu/11315310)  
+
+### alignments:
+ - [Arnus (river)](https://pleiades.stoa.org/places/403181)
 
 
 ## 11315328: Lake Fucinus (Italy)
@@ -4152,6 +4166,13 @@
 
 ### alignments:
  - [Nasamones](https://pleiades.stoa.org/places/373861)
+
+
+## 11326362: Babylonia
+[https://resource.manto.unh.edu/11326362](https://resource.manto.unh.edu/11326362)  
+
+### alignments:
+ - [Babylonia](https://pleiades.stoa.org/places/912816)
 
 
 ## 11326422: the Wall of Semiramis (Babylon)
@@ -4721,6 +4742,13 @@
  - [Adrasteia](https://pleiades.stoa.org/places/511138)
 
 
+## 8195176: Arisbe (Troad)
+[https://resource.manto.unh.edu/8195176](https://resource.manto.unh.edu/8195176)  
+
+### alignments:
+ - [Arisbe](https://pleiades.stoa.org/places/501359)
+
+
 ## 8195179: Larissa (Thessaly)
 [https://resource.manto.unh.edu/8195179](https://resource.manto.unh.edu/8195179)  
 
@@ -4916,6 +4944,13 @@
 
 ### alignments:
  - [Aethiopia](https://pleiades.stoa.org/places/334481)
+
+
+## 8240611: Rhoiteion (Troad)
+[https://resource.manto.unh.edu/8240611](https://resource.manto.unh.edu/8240611)  
+
+### alignments:
+ - [Rhoiteion](https://pleiades.stoa.org/places/550856)
 
 
 ## 8240629: Scyros (island)

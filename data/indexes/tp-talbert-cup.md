@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2349 alignments exist in _Pleiades_ place references as of 2026-04-10. The following list of alignments is grouped by zotkey.
+2352 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -650,6 +650,13 @@
 
 ### alignments:
  - [Thebeta/Thebitha/Thelia](https://pleiades.stoa.org/places/876715)
+
+
+## 10B4 (Talbert 2626)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2626.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2626.html)  
+
+### alignments:
+ - [Baba](https://pleiades.stoa.org/places/876579)
 
 
 ## 10B4 (Talbert 2646)
@@ -2288,6 +2295,13 @@
 
 ### alignments:
  - [Fanum Minervae](https://pleiades.stoa.org/places/114779)
+
+
+## 1A5 (Talbert 902)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace902.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace902.html)  
+
+### alignments:
+ - [Caturicis](https://pleiades.stoa.org/places/108872)
 
 
 ## 1A5 (Talbert 903)
@@ -14856,6 +14870,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/697725)
+
+
+## 8C5 (Talbert 471)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace471.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace471.html)  
+
+### alignments:
+ - [Areopolis](https://pleiades.stoa.org/places/697632)
 
 
 ## 9A1 (Talbert 2104)
