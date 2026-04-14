@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5035 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
+5039 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4280,6 +4280,13 @@
 
 ### alignments:
  - [Moeris (lake)](https://pleiades.stoa.org/places/736967)
+
+
+## GEO ID 1386: Moithymis (Meidum)
+[http://www.trismegistos.org/place/1386](http://www.trismegistos.org/place/1386)  
+
+### alignments:
+ - [Moi(e)thymis](https://pleiades.stoa.org/places/736968)
 
 
 ## GEO ID 1390: Montila Dioryx
@@ -10842,6 +10849,13 @@
  - [Ensérune](https://pleiades.stoa.org/places/246383)
 
 
+## GEO ID 2166: Psophthis (Saft el-Meidum)
+[http://www.trismegistos.org/place/2166](http://www.trismegistos.org/place/2166)  
+
+### alignments:
+ - [Sophthis](https://pleiades.stoa.org/places/737055)
+
+
 ## GEO ID 21742: Telo Martius (Toulon)
 [https://www.trismegistos.org/place/21742](https://www.trismegistos.org/place/21742)  
 
@@ -12381,6 +12395,13 @@
 
 ### alignments:
  - [Ad Duodecimum](https://pleiades.stoa.org/places/108725)
+
+
+## GEO ID 2468: Triballoi
+[https://www.trismegistos.org/place/2468](https://www.trismegistos.org/place/2468)  
+
+### alignments:
+ - [Triballi](https://pleiades.stoa.org/places/207513)
 
 
 ## GEO ID 24691: Vicus [ ] (Hérapel)
@@ -34886,6 +34907,13 @@
 
 ### alignments:
  - [Sardinia (island)](https://pleiades.stoa.org/places/472014)
+
+
+## GEO ID, 3656: Muzawwaqa
+[http://www.trismegistos.org/place/3656](http://www.trismegistos.org/place/3656)  
+
+### alignments:
+ - [Gebel el-Muzawaka](https://pleiades.stoa.org/places/756300531)
 
 
 ## GEO ID, 37319: Antiochia Arabis (Viranşehir)

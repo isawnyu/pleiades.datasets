@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4938 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
+4942 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -12005,7 +12005,6 @@
 [https://topostext.org/place/375141XGGa](https://topostext.org/place/375141XGGa)  
 
 ### alignments:
- - [Gibil Gabib](https://pleiades.stoa.org/places/797288429)
  - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
 
 
@@ -16367,6 +16366,13 @@
 
 ### alignments:
  - [Kition](https://pleiades.stoa.org/places/707534)
+
+
+## Kition necropolis (Cyprus) Larnaka
+[https://topostext.org/place/349336GLar](https://topostext.org/place/349336GLar)  
+
+### alignments:
+ - [Larnaka](https://pleiades.stoa.org/places/707556)
 
 
 ## Kitios Mt. (Ioannina)  Avgo - Κίτιος
@@ -28415,6 +28421,13 @@
  - [Sais](https://pleiades.stoa.org/places/727217)
 
 
+## Sala (Mauretania) 4 Rabat
+[https://topostext.org/place/340-68USal](https://topostext.org/place/340-68USal)  
+
+### alignments:
+ - [Sala](https://pleiades.stoa.org/places/275696)
+
+
 ## Salacia Imperatoria (Lusitania)
 [https://topostext.org/place/384000USal](https://topostext.org/place/384000USal)  
 
@@ -30211,6 +30224,13 @@
 
 ### alignments:
  - [Sphakteria (island)](https://pleiades.stoa.org/places/570686)
+
+
+## Sphendale (Attica)
+[https://topostext.org/place/382238USph](https://topostext.org/place/382238USph)  
+
+### alignments:
+ - [Sphendale](https://pleiades.stoa.org/places/585963)
 
 
 ## Sphettos (Attica)
@@ -32930,6 +32950,13 @@
 
 ### alignments:
  - [Tretos](https://pleiades.stoa.org/places/573567)
+
+
+## Triballoi (Balkans)
+[https://topostext.org/place/425220RTri](https://topostext.org/place/425220RTri)  
+
+### alignments:
+ - [Triballi](https://pleiades.stoa.org/places/207513)
 
 
 ## Trichoneion (Aitolia)

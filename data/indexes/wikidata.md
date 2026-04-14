@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10498 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
+10511 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8092,6 +8092,13 @@
  - [Scythopolis/Nysa](https://pleiades.stoa.org/places/678378)
 
 
+## Beit She'arim National Park (Q830805)
+[https://www.wikidata.org/wiki/Q830805](https://www.wikidata.org/wiki/Q830805)  
+
+### alignments:
+ - [Beit She’arim](https://pleiades.stoa.org/places/929943122)
+
+
 ## Beit Ur al-Fauqa (Q2905277)
 [https://www.wikidata.org/wiki/Q2905277](https://www.wikidata.org/wiki/Q2905277)  
 
@@ -10192,7 +10199,6 @@
  - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
  - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
  - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
- - [Sala](https://pleiades.stoa.org/places/275696)
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Side](https://pleiades.stoa.org/places/570669)
  - [Siriopaiones](https://pleiades.stoa.org/places/501614)
@@ -17950,6 +17956,13 @@
  - [Basilica of Lechaion](https://pleiades.stoa.org/places/660349527)
 
 
+## Early Christian Necropolis of Pécs (Q927535)
+[https://www.wikidata.org/wiki/Q927535](https://www.wikidata.org/wiki/Q927535)  
+
+### alignments:
+ - [Early Christian Necropolis of Pécs (Sopianae)](https://pleiades.stoa.org/places/565807319)
+
+
 ## Early-christian Basilica of Villa Gordiani (Q123514137)
 [https://www.wikidata.org/wiki/Q123514137](https://www.wikidata.org/wiki/Q123514137)  
 
@@ -21224,6 +21237,13 @@
  - [Mont'e Prama](https://pleiades.stoa.org/places/149683041)
 
 
+## Gibil Gabib (Q3763989)
+[https://www.wikidata.org/wiki/Q3763989](https://www.wikidata.org/wiki/Q3763989)  
+
+### alignments:
+ - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
+
+
 ## Gien-le-Vieux (Samian Ware Discovery Site) (Q103162625)
 [https://www.wikidata.org/wiki/Q103162625](https://www.wikidata.org/wiki/Q103162625)  
 
@@ -21327,6 +21347,13 @@
 
 ### alignments:
  - [Castrum Novum](https://pleiades.stoa.org/places/413073)
+
+
+## Giza pyramid complex (Q12508)
+[https://www.wikidata.org/wiki/Q12508](https://www.wikidata.org/wiki/Q12508)  
+
+### alignments:
+ - [Giza](https://pleiades.stoa.org/places/442962448)
 
 
 ## Glannoventa (Q16839208)
@@ -24312,6 +24339,13 @@
  - [Ipogeo dell'Oplita](https://pleiades.stoa.org/places/775133289)
 
 
+## Hypogeum of the Volumnus family (Q2253879)
+[https://www.wikidata.org/wiki/Q2253879](https://www.wikidata.org/wiki/Q2253879)  
+
+### alignments:
+ - [Tomb of the Volumnii and Palazzone necropolis](https://pleiades.stoa.org/places/851023495)
+
+
 ## Hypogeum of via Livenza (Q3801615)
 [https://www.wikidata.org/wiki/Q3801615](https://www.wikidata.org/wiki/Q3801615)  
 
@@ -26692,6 +26726,13 @@
 
 ### alignments:
  - [Tel Bet Yerah/Khirbet el-Kerak](https://pleiades.stoa.org/places/678333)
+
+
+## Khirbet Tibnah (Q17006899)
+[https://www.wikidata.org/wiki/Q17006899](https://www.wikidata.org/wiki/Q17006899)  
+
+### alignments:
+ - [Thamna](https://pleiades.stoa.org/places/688040)
 
 
 ## Khlemoutsi (Q25024290)
@@ -31316,6 +31357,13 @@
  - [Mehrgarh](https://pleiades.stoa.org/places/304475334)
 
 
+## Meidum Pyramid (Q13444093)
+[https://www.wikidata.org/wiki/Q13444093](https://www.wikidata.org/wiki/Q13444093)  
+
+### alignments:
+ - [Meidum](https://pleiades.stoa.org/places/736958)
+
+
 ## Meilichos (Q3566497)
 [https://www.wikidata.org/wiki/Q3566497](https://www.wikidata.org/wiki/Q3566497)  
 
@@ -33983,6 +34031,13 @@
 
 ### alignments:
  - [Nabalia (river)](https://pleiades.stoa.org/places/114787)
+
+
+## Nabataean temple at Wadi Rum village (Q82074481)
+[https://www.wikidata.org/wiki/Q82074481](https://www.wikidata.org/wiki/Q82074481)  
+
+### alignments:
+ - [Nabataean Temple (Wadi Rum)](https://pleiades.stoa.org/places/32144466)
 
 
 ## Nachchaduwa wewa (Q25105468)
@@ -40209,6 +40264,13 @@
  - [Porta Vesuvio](https://pleiades.stoa.org/places/753612858)
 
 
+## Porta Vesuvio necropolis (Q29886469)
+[https://www.wikidata.org/wiki/Q29886469](https://www.wikidata.org/wiki/Q29886469)  
+
+### alignments:
+ - [Necropolis of Porta Vesuvio](https://pleiades.stoa.org/places/419672522)
+
+
 ## Porta Viminale (Q1516087)
 [https://www.wikidata.org/wiki/Q1516087](https://www.wikidata.org/wiki/Q1516087)  
 
@@ -43201,13 +43263,6 @@
  - [Orraon/Horreum](https://pleiades.stoa.org/places/531025)
 
 
-## Q12508: Giza pyramid complex
-[https://www.wikidata.org/wiki/Q12508](https://www.wikidata.org/wiki/Q12508)  
-
-### alignments:
- - [Giza](https://pleiades.stoa.org/places/442962448)
-
-
 ## Q1253253: Roman ruins of Pisões
 [https://www.wikidata.org/wiki/Q1253253](https://www.wikidata.org/wiki/Q1253253)  
 
@@ -43227,6 +43282,13 @@
 
 ### alignments:
  - [Tagisken Plateau](https://pleiades.stoa.org/places/236955527)
+
+
+## Q1257541: Triballi
+[https://www.wikidata.org/wiki/Q1257541](https://www.wikidata.org/wiki/Q1257541)  
+
+### alignments:
+ - [Triballi](https://pleiades.stoa.org/places/207513)
 
 
 ## Q1260159
@@ -43640,13 +43702,6 @@
 
 ### alignments:
  - [Podere Cannicci (Civitella Paganico - GR)](https://pleiades.stoa.org/places/314862804)
-
-
-## Q130958: The Great Sphinx
-[https://www.wikidata.org/wiki/Q130958](https://www.wikidata.org/wiki/Q130958)  
-
-### alignments:
- - [The Great Sphinx](https://pleiades.stoa.org/places/536839380)
 
 
 ## Q1309632: Castra Gerulata
@@ -47973,6 +48028,13 @@
  - [Menelaion](https://pleiades.stoa.org/places/570477)
 
 
+## Q2314811
+[https://www.wikidata.org/wiki/Q2314811](https://www.wikidata.org/wiki/Q2314811)  
+
+### alignments:
+ - [Sala](https://pleiades.stoa.org/places/275696)
+
+
 ## Q23330293: Compitum Acili
 [https://www.wikidata.org/wiki/Q23330293](https://www.wikidata.org/wiki/Q23330293)  
 
@@ -50851,13 +50913,6 @@
 
 ### alignments:
  - [Gemellae](https://pleiades.stoa.org/places/334553)
-
-
-## Q3763989: Gibil Gabib
-[https://www.wikidata.org/wiki/Q3763989](https://www.wikidata.org/wiki/Q3763989)  
-
-### alignments:
- - [Monte Gibel Gabel](https://pleiades.stoa.org/places/462348)
 
 
 ## Q3774528: Acueducto de los Milagros
@@ -63718,6 +63773,13 @@
  - [Styx (river)](https://pleiades.stoa.org/places/570698)
 
 
+## Su Fraigu Punic necropolis (Q139290214)
+[https://www.wikidata.org/wiki/Q139290214](https://www.wikidata.org/wiki/Q139290214)  
+
+### alignments:
+ - [Su Fraigu](https://pleiades.stoa.org/places/467042569)
+
+
 ## Su Nuraxi di Barumini (Q253241)
 [https://www.wikidata.org/wiki/Q253241](https://www.wikidata.org/wiki/Q253241)  
 
@@ -66293,6 +66355,13 @@
 
 ### alignments:
  - [The Frith](https://pleiades.stoa.org/places/127132167)
+
+
+## The Great Sphinx (Q130958)
+[https://www.wikidata.org/wiki/Q130958](https://www.wikidata.org/wiki/Q130958)  
+
+### alignments:
+ - [The Great Sphinx](https://pleiades.stoa.org/places/536839380)
 
 
 ## The Ridgeway (Q590196)
@@ -69033,6 +69102,13 @@
  - [Trysa](https://pleiades.stoa.org/places/639155)
 
 
+## Tsepi (Q107498002)
+[https://www.wikidata.org/wiki/Q107498002](https://www.wikidata.org/wiki/Q107498002)  
+
+### alignments:
+ - [Tsepi at Marathon](https://pleiades.stoa.org/places/877327047)
+
+
 ## Tsikalario Geometric cemetery (Q2458352)
 [https://www.wikidata.org/wiki/Q2458352](https://www.wikidata.org/wiki/Q2458352)  
 
@@ -70293,6 +70369,13 @@
  - [Vasio](https://pleiades.stoa.org/places/148228)
 
 
+## Vatican City (Q237)
+[https://www.wikidata.org/wiki/Q237](https://www.wikidata.org/wiki/Q237)  
+
+### alignments:
+ - [Vatican City](https://pleiades.stoa.org/places/88500321)
+
+
 ## Vatican Hill (Q1053000)
 [https://www.wikidata.org/wiki/Q1053000](https://www.wikidata.org/wiki/Q1053000)  
 
@@ -70985,6 +71068,13 @@
 
 ### alignments:
  - [Via Tiburtina](https://pleiades.stoa.org/places/272213281)
+
+
+## Via Traiana Nova (Q2561132)
+[https://www.wikidata.org/wiki/Q2561132](https://www.wikidata.org/wiki/Q2561132)  
+
+### alignments:
+ - [Via Nova Traiana](https://pleiades.stoa.org/places/147882288)
 
 
 ## Via Triumphalis (Q60845848)

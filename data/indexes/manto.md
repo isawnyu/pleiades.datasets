@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-995 alignments exist in _Pleiades_ place references as of 2026-04-13. The following list of alignments is grouped by zotkey.
+1000 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3362,6 +3362,13 @@
  - [Epakria](https://pleiades.stoa.org/places/579921)
 
 
+## 11309267: Deceleia (Attica)
+[https://resource.manto.unh.edu/11309267](https://resource.manto.unh.edu/11309267)  
+
+### alignments:
+ - [Dekeleia](https://pleiades.stoa.org/places/579907)
+
+
 ## 11309268: Brauron (Attica)
 [https://resource.manto.unh.edu/11309268](https://resource.manto.unh.edu/11309268)  
 
@@ -4161,6 +4168,13 @@
  - [Temple of Vesta at Rome](https://pleiades.stoa.org/places/55302071)
 
 
+## 11326080: the Walls of Babylon
+[https://resource.manto.unh.edu/11326080](https://resource.manto.unh.edu/11326080)  
+
+### alignments:
+ - [Eastern Outer Wall of Babylon](https://pleiades.stoa.org/places/722340789)
+
+
 ## 11326179
 [https://resource.manto.unh.edu/11326179](https://resource.manto.unh.edu/11326179)  
 
@@ -4173,6 +4187,13 @@
 
 ### alignments:
  - [Babylonia](https://pleiades.stoa.org/places/912816)
+
+
+## 11326372: the Walls of Nineveh
+[https://resource.manto.unh.edu/11326372](https://resource.manto.unh.edu/11326372)  
+
+### alignments:
+ - [Citadel Wall of Nineveh](https://pleiades.stoa.org/places/767860328)
 
 
 ## 11326422: the Wall of Semiramis (Babylon)
@@ -4343,6 +4364,13 @@
  - [Olcinium/Vicinium](https://pleiades.stoa.org/places/481931)
 
 
+## 11329620: the Great Sphinx of Giza (Egypt)
+[https://resource.manto.unh.edu/11329620](https://resource.manto.unh.edu/11329620)  
+
+### alignments:
+ - [The Great Sphinx](https://pleiades.stoa.org/places/536839380)
+
+
 ## 11329647: the Temple of Apollo Sosianus at Rome
 [https://resource.manto.unh.edu/11329647](https://resource.manto.unh.edu/11329647)  
 
@@ -4369,6 +4397,13 @@
 
 ### alignments:
  - [Saepta Iulia](https://pleiades.stoa.org/places/854946506)
+
+
+## 11329721: Giza (Egypt)
+[https://resource.manto.unh.edu/11329721](https://resource.manto.unh.edu/11329721)  
+
+### alignments:
+ - [Giza](https://pleiades.stoa.org/places/442962448)
 
 
 ## 11329850: the Temple of Artemis at Aulis
