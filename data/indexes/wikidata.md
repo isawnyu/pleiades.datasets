@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10511 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
+10516 alignments exist in _Pleiades_ place references as of 2026-04-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2186,6 +2186,13 @@
 
 ### alignments:
  - [Complutum](https://pleiades.stoa.org/places/246352)
+
+
+## Alcantara (Q387849)
+[https://www.wikidata.org/wiki/Q387849](https://www.wikidata.org/wiki/Q387849)  
+
+### alignments:
+ - [Asinius (river)](https://pleiades.stoa.org/places/462103)
 
 
 ## Alcazaba of Mérida (Q2832102)
@@ -7781,6 +7788,13 @@
 
 ### alignments:
  - [Thermae Agrippae](https://pleiades.stoa.org/places/921692078)
+
+
+## Baths of Bagnoli (Q16613133)
+[https://www.wikidata.org/wiki/Q16613133](https://www.wikidata.org/wiki/Q16613133)  
+
+### alignments:
+ - [Bagnoli di S. Gregorio](https://pleiades.stoa.org/places/462108)
 
 
 ## Baths of Caracalla (Q502098)
@@ -33102,6 +33116,13 @@
  - [Monte Poggiolo](https://pleiades.stoa.org/places/19936501)
 
 
+## Monte Porcara (Q16579665)
+[https://www.wikidata.org/wiki/Q16579665](https://www.wikidata.org/wiki/Q16579665)  
+
+### alignments:
+ - [Monte Porcara](https://pleiades.stoa.org/places/462359)
+
+
 ## Monte Pruno (Q1240860)
 [https://www.wikidata.org/wiki/Q1240860](https://www.wikidata.org/wiki/Q1240860)  
 
@@ -51028,13 +51049,6 @@
  - [Beirut](https://pleiades.stoa.org/places/678060)
 
 
-## Q38250966: Villa Romana Bagnoli
-[https://www.wikidata.org/wiki/Q38250966](https://www.wikidata.org/wiki/Q38250966)  
-
-### alignments:
- - [Bagnoli di S. Gregorio](https://pleiades.stoa.org/places/462108)
-
-
 ## Q38251077
 [https://www.wikidata.org/wiki/Q38251077](https://www.wikidata.org/wiki/Q38251077)  
 
@@ -56376,6 +56390,13 @@
 
 ### alignments:
  - [Qalat al-Bahrain](https://pleiades.stoa.org/places/932478)
+
+
+## Qarat el-Muzawwaqa (Q14218523)
+[https://www.wikidata.org/wiki/Q14218523](https://www.wikidata.org/wiki/Q14218523)  
+
+### alignments:
+ - [Gebel el-Muzawaka](https://pleiades.stoa.org/places/756300531)
 
 
 ## Qarshi (Q644008)
@@ -67653,6 +67674,13 @@
  - [Tomb of Marcus Tullius](https://pleiades.stoa.org/places/71552717)
 
 
+## Tomb of Marcus Veius Marcellus (Q104538183)
+[https://www.wikidata.org/wiki/Q104538183](https://www.wikidata.org/wiki/Q104538183)  
+
+### alignments:
+ - [Tomb of Marcus Veius Marcellus](https://pleiades.stoa.org/places/309441810)
+
+
 ## Tomb of Marcus Venerius Secundio (Q133798256)
 [https://www.wikidata.org/wiki/Q133798256](https://www.wikidata.org/wiki/Q133798256)  
 
@@ -69849,6 +69877,13 @@
 
 ### alignments:
  - [Uluzibbira Roman amphitheater](https://pleiades.stoa.org/places/475432743)
+
+
+## Ulixis Portus (Q132523199)
+[https://www.wikidata.org/wiki/Q132523199](https://www.wikidata.org/wiki/Q132523199)  
+
+### alignments:
+ - [Ulixis Portus](https://pleiades.stoa.org/places/462530)
 
 
 ## Ulla (Q14548)

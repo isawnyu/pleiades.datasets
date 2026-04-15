@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4942 alignments exist in _Pleiades_ place references as of 2026-04-14. The following list of alignments is grouped by zotkey.
+4945 alignments exist in _Pleiades_ place references as of 2026-04-15. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -1543,6 +1543,13 @@
 
 ### alignments:
  - [Pyrgos](https://pleiades.stoa.org/places/501586)
+
+
+## Akesines/Asines river (Sicily)
+[https://topostext.org/place/378153WAke](https://topostext.org/place/378153WAke)  
+
+### alignments:
+ - [Asinius (river)](https://pleiades.stoa.org/places/462103)
 
 
 ## Akhladokhori site (Drama)  Akhladokhori - Αχλαδοχώρι
@@ -13400,6 +13407,13 @@
 
 ### alignments:
  - [Hippana](https://pleiades.stoa.org/places/462247)
+
+
+## Hippo Regius (Numidia) 33 Annaba - Ιππών Βασιλικόν
+[https://topostext.org/place/369077UHip](https://topostext.org/place/369077UHip)  
+
+### alignments:
+ - [Hippo Regius](https://pleiades.stoa.org/places/305090)
 
 
 ## Hippoi (Ionia) 2 Ildır Körfezi - Ίπποi
@@ -33476,6 +33490,13 @@
 
 ### alignments:
  - [Ulia (Fidentia)](https://pleiades.stoa.org/places/256499)
+
+
+## Ulixis Portus (Sicily)
+[https://topostext.org/place/375151UUli](https://topostext.org/place/375151UUli)  
+
+### alignments:
+ - [Ulixis Portus](https://pleiades.stoa.org/places/462530)
 
 
 ## Ulpiana/Justiniana Secunda (Dardania) 12 Gračanica
