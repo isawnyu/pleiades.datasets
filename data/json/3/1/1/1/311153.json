@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        7.747415,
-        36.881305,
-        7.755129,
-        36.883651
+        7.7477403,
+        36.8790042,
+        7.7525321,
+        36.8858691
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "near",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/near",
             "connectsTo": "https://pleiades.stoa.org/places/305090",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2016-07-13T13:37:22Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "connection type -> located near; batldir reference",
+                    "modified": "2026-04-14T13:53:38Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:37:22Z",
@@ -46,7 +58,19 @@
             ],
             "id": "305090",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 491 see \"Turres\" sub \"Unlocated Toponyms\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Hippo Regius",
@@ -84,14 +108,14 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-10T18:38:34Z",
+    "created": "2026-04-14T13:51:12Z",
     "creators": [
         {
             "name": "E.W.B. Fentress",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 31 unlocated Turres",
+    "description": "An ancient place attested in primary sources, but not precisely locateable today. It was probably located in the vicinity of Hippo Regius.",
     "details": "<p>The Barrington Atlas Directory notes: near Hippo Regius</p>",
     "features": [
         {
@@ -108,6 +132,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "summary after BAtlDir; removed pro forma BAtlas reference for unlocated and added BAtlDir reference",
+            "modified": "2026-04-14T13:57:02Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Edited",
             "modified": "2023-11-01T15:07:28Z",
@@ -328,14 +357,14 @@
     "provenance": "Barrington Atlas: BAtlas 31 Turres",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "https://search.worldcat.org/title/45084869",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "31 Turres",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 491 see \"Turres\" sub \"Unlocated Toponyms\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
@@ -351,8 +380,8 @@
         }
     ],
     "reprPoint": [
-        7.751272,
-        36.882478
+        7.750148530397462,
+        36.88253209153447
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
