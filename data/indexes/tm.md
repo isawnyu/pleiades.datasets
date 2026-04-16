@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5039 alignments exist in _Pleiades_ place references as of 2026-04-15. The following list of alignments is grouped by zotkey.
+5044 alignments exist in _Pleiades_ place references as of 2026-04-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13104,6 +13104,13 @@
  - [Nertobriga Concordia Iulia](https://pleiades.stoa.org/places/256325)
 
 
+## GEO ID 26294: Seria Fama Iulia (Jerez de los Caballeros)
+[https://www.trismegistos.org/place/26294](https://www.trismegistos.org/place/26294)  
+
+### alignments:
+ - [Seria](https://pleiades.stoa.org/places/256444)
+
+
 ## GEO ID 26298: Contributa Iulia Ugultunia (Medina de las Torres)
 [http://www.trismegistos.org/place/26298](http://www.trismegistos.org/place/26298)  
 
@@ -13279,6 +13286,13 @@
  - [Urbiaca](https://pleiades.stoa.org/places/270381)
 
 
+## GEO ID 26672: Nertobriga (La Almunia de Doña Godina)
+[http://www.trismegistos.org/place/26672](http://www.trismegistos.org/place/26672)  
+
+### alignments:
+ - [Nertobriga](https://pleiades.stoa.org/places/246518)
+
+
 ## GEO ID 26693: Arcobriga (Monreal de Ariza)
 [http://www.trismegistos.org/place/26693](http://www.trismegistos.org/place/26693)  
 
@@ -13305,6 +13319,13 @@
 
 ### alignments:
  - [Flavionavia](https://pleiades.stoa.org/places/236464)
+
+
+## GEO ID 26741: Iuliobriga (Campoo de Enmedio)
+[https://www.trismegistos.org/place/26741](https://www.trismegistos.org/place/26741)  
+
+### alignments:
+ - [Iuliobriga](https://pleiades.stoa.org/places/236493)
 
 
 ## GEO ID 2676: Nea Polis (Napoli)
@@ -22909,6 +22930,13 @@
  - [Aritium Praetorium](https://pleiades.stoa.org/places/255983)
 
 
+## GEO ID 40913: Turobriga (Ermita de S. Mamés?)
+[http://www.trismegistos.org/place/40913](http://www.trismegistos.org/place/40913)  
+
+### alignments:
+ - [Turobriga](https://pleiades.stoa.org/places/256494)
+
+
 ## GEO ID 4091: Appadana (Tell Fidain?)
 [https://www.trismegistos.org/place/4091](https://www.trismegistos.org/place/4091)  
 
@@ -22942,6 +22970,13 @@
 
 ### alignments:
  - [Sentice](https://pleiades.stoa.org/places/236660)
+
+
+## GEO ID 40938: Amallobriga
+[https://www.trismegistos.org/place/40938](https://www.trismegistos.org/place/40938)  
+
+### alignments:
+ - [Amallobriga/Abulobrica](https://pleiades.stoa.org/places/236329)
 
 
 ## GEO ID 40950: Vicus Cuminarius

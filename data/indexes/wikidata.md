@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10516 alignments exist in _Pleiades_ place references as of 2026-04-15. The following list of alignments is grouped by zotkey.
+10523 alignments exist in _Pleiades_ place references as of 2026-04-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -25649,6 +25649,13 @@
  - [Julier Pass](https://pleiades.stoa.org/places/191774)
 
 
+## Juliobriga (Q3189896)
+[https://www.wikidata.org/wiki/Q3189896](https://www.wikidata.org/wiki/Q3189896)  
+
+### alignments:
+ - [Iuliobriga](https://pleiades.stoa.org/places/236493)
+
+
 ## Juliopolis (Q1675454)
 [https://www.wikidata.org/wiki/Q1675454](https://www.wikidata.org/wiki/Q1675454)  
 
@@ -31111,6 +31118,13 @@
  - [Miralpeix](https://pleiades.stoa.org/places/246502)
 
 
+## Mausoleum of Monte dell'Incastro (Q139373336)
+[https://www.wikidata.org/wiki/Q139373336](https://www.wikidata.org/wiki/Q139373336)  
+
+### alignments:
+ - [Mausoleo di Monte dell'Incastro](https://pleiades.stoa.org/places/803270681)
+
+
 ## Mausoleum of Quintus Lollius Urbicus (Q84710269)
 [https://www.wikidata.org/wiki/Q84710269](https://www.wikidata.org/wiki/Q84710269)  
 
@@ -33221,6 +33235,13 @@
  - [Mons Faliscorum](https://pleiades.stoa.org/places/587180153)
 
 
+## Montegiordano (Q53918)
+[https://www.wikidata.org/wiki/Q53918](https://www.wikidata.org/wiki/Q53918)  
+
+### alignments:
+ - [Montegiordano](https://pleiades.stoa.org/places/452384)
+
+
 ## Montella (Q55061)
 [https://www.wikidata.org/wiki/Q55061](https://www.wikidata.org/wiki/Q55061)  
 
@@ -34710,6 +34731,13 @@
 
 ### alignments:
  - [Nertobriga Concordia Iulia](https://pleiades.stoa.org/places/256325)
+
+
+## Nertobriga Tarraconense (Q5396275)
+[https://www.wikidata.org/wiki/Q5396275](https://www.wikidata.org/wiki/Q5396275)  
+
+### alignments:
+ - [Nertobriga](https://pleiades.stoa.org/places/246518)
 
 
 ## Nervii (Q756812)
@@ -38848,6 +38876,13 @@
 
 ### alignments:
  - [Piana del Lago Sanctuary](https://pleiades.stoa.org/places/765249114)
+
+
+## Piana di Monte Verna (Q58744)
+[https://www.wikidata.org/wiki/Q58744](https://www.wikidata.org/wiki/Q58744)  
+
+### alignments:
+ - [Piana di Monte Verna](https://pleiades.stoa.org/places/262148219)
 
 
 ## Piano di Sorrento (Q72346)
@@ -45477,13 +45512,6 @@
  - [Pythionike monument](https://pleiades.stoa.org/places/621165832)
 
 
-## Q16524595: Sant'Egidio del Monte Albino aqueduct
-[https://www.wikidata.org/wiki/Q16524595](https://www.wikidata.org/wiki/Q16524595)  
-
-### alignments:
- - [Sant'Egidio del Monte Albino aqueduct](https://pleiades.stoa.org/places/594794321)
-
-
 ## Q165352: Kerman Province
 [https://www.wikidata.org/wiki/Q165352](https://www.wikidata.org/wiki/Q165352)  
 
@@ -49568,6 +49596,13 @@
 
 ### alignments:
  - [Turgalium](https://pleiades.stoa.org/places/256491)
+
+
+## Q29580163
+[https://www.wikidata.org/wiki/Q29580163](https://www.wikidata.org/wiki/Q29580163)  
+
+### alignments:
+ - [Amallobriga/Abulobrica](https://pleiades.stoa.org/places/236329)
 
 
 ## Q29647206: Puntone Vecchio Roman villa
@@ -60481,6 +60516,13 @@
  - [Tifernum Mataurense](https://pleiades.stoa.org/places/413338)
 
 
+## Sant'Egidio del Monte Albino aqueduct (Q16524595)
+[https://www.wikidata.org/wiki/Q16524595](https://www.wikidata.org/wiki/Q16524595)  
+
+### alignments:
+ - [Sant'Egidio del Monte Albino aqueduct](https://pleiades.stoa.org/places/594794321)
+
+
 ## Santa Anatolia (Q2066500)
 [https://www.wikidata.org/wiki/Q2066500](https://www.wikidata.org/wiki/Q2066500)  
 
@@ -69625,6 +69667,13 @@
 
 ### alignments:
  - [Turia (river)](https://pleiades.stoa.org/places/266076)
+
+
+## Turóbriga (Q97628509)
+[https://www.wikidata.org/wiki/Q97628509](https://www.wikidata.org/wiki/Q97628509)  
+
+### alignments:
+ - [Turobriga](https://pleiades.stoa.org/places/256494)
 
 
 ## Tus (Q681427)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4945 alignments exist in _Pleiades_ place references as of 2026-04-15. The following list of alignments is grouped by zotkey.
+4947 alignments exist in _Pleiades_ place references as of 2026-04-16. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -14621,6 +14621,13 @@
 
 ### alignments:
  - [Iuliobona](https://pleiades.stoa.org/places/109069)
+
+
+## Iuliobriga (Iberia)
+[https://topostext.org/place/430000UIul](https://topostext.org/place/430000UIul)  
+
+### alignments:
+ - [Iuliobriga](https://pleiades.stoa.org/places/236493)
 
 
 ## Iulium Carnicum (Italy)
@@ -33889,6 +33896,13 @@
 
 ### alignments:
  - [Via Cassia](https://pleiades.stoa.org/places/447759107)
+
+
+## Via Ciminia (Italia)
+[https://topostext.org/place/422122BVCi](https://topostext.org/place/422122BVCi)  
+
+### alignments:
+ - [Via Ciminia](https://pleiades.stoa.org/places/229670928)
 
 
 ## Via Clodia (Italia)
