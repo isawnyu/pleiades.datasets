@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5044 alignments exist in _Pleiades_ place references as of 2026-04-16. The following list of alignments is grouped by zotkey.
+5045 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -16549,6 +16549,13 @@
 
 ### alignments:
  - [Tifernum Tiberinum](https://pleiades.stoa.org/places/413339)
+
+
+## GEO ID 32155: Montefalco
+[https://www.trismegistos.org/place/32155](https://www.trismegistos.org/place/32155)  
+
+### alignments:
+ - [Montefalco](https://pleiades.stoa.org/places/597689488)
 
 
 ## GEO ID 32167: Aesis (Jesi)

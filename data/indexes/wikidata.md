@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10523 alignments exist in _Pleiades_ place references as of 2026-04-16. The following list of alignments is grouped by zotkey.
+10525 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -24969,6 +24969,13 @@
  - [Kambyses (river)](https://pleiades.stoa.org/places/863818)
 
 
+## Iotape (Q85769878)
+[https://www.wikidata.org/wiki/Q85769878](https://www.wikidata.org/wiki/Q85769878)  
+
+### alignments:
+ - [Iotape](https://pleiades.stoa.org/places/648650)
+
+
 ## Ioviacum (Q113988261)
 [https://www.wikidata.org/wiki/Q113988261](https://www.wikidata.org/wiki/Q113988261)  
 
@@ -33219,6 +33226,13 @@
 
 ### alignments:
  - [Montecatini Val de Cécina](https://pleiades.stoa.org/places/403245)
+
+
+## Montefalco (Q20478)
+[https://www.wikidata.org/wiki/Q20478](https://www.wikidata.org/wiki/Q20478)  
+
+### alignments:
+ - [Montefalco](https://pleiades.stoa.org/places/597689488)
 
 
 ## Montefalcone nel Sannio (Q277714)
