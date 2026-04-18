@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5045 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
+5049 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -22062,6 +22062,13 @@
  - [D(a)edalium](https://pleiades.stoa.org/places/462184)
 
 
+## GEO ID 40477: Portus Pachyni (Portopalo)
+[http://www.trismegistos.org/place/40477](http://www.trismegistos.org/place/40477)  
+
+### alignments:
+ - [Portus Pachyni/*Apollineum](https://pleiades.stoa.org/places/462456)
+
+
 ## GEO ID 40484: Aternum (Pescara)
 [http://www.trismegistos.org/place/40484](http://www.trismegistos.org/place/40484)  
 
@@ -22606,6 +22613,13 @@
 
 ### alignments:
  - [Boacias](https://pleiades.stoa.org/places/403188)
+
+
+## GEO ID 40765: Delphinis (Camogli)
+[https://www.trismegistos.org/place/40765](https://www.trismegistos.org/place/40765)  
+
+### alignments:
+ - [‘Delphinis’](https://pleiades.stoa.org/places/383632)
 
 
 ## GEO ID 40767: Pullopice
@@ -32890,6 +32904,13 @@
  - [Aeaea](https://pleiades.stoa.org/places/621604967)
 
 
+## GEO ID 61091: Nymphaios Limen (Porto Conte)
+[https://www.trismegistos.org/place/61091](https://www.trismegistos.org/place/61091)  
+
+### alignments:
+ - [Nymphaios Limen](https://pleiades.stoa.org/places/471985)
+
+
 ## GEO ID 61101: Corioli
 [https://www.trismegistos.org/place/61101](https://www.trismegistos.org/place/61101)  
 
@@ -33295,6 +33316,13 @@
 
 ### alignments:
  - [Batulum](https://pleiades.stoa.org/places/438692)
+
+
+## GEO ID 62913: Portus Delphini (Portofino)
+[https://www.trismegistos.org/place/62913](https://www.trismegistos.org/place/62913)  
+
+### alignments:
+ - [Portus Delphini](https://pleiades.stoa.org/places/383750)
 
 
 ## GEO ID 62917: Olivula (Villefranche)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4947 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
+4952 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -3076,6 +3076,13 @@
 
 ### alignments:
  - [Aous (river)](https://pleiades.stoa.org/places/481726)
+
+
+## Apamea Ragiana (Media)
+[https://topostext.org/place/355518UApa](https://topostext.org/place/355518UApa)  
+
+### alignments:
+ - [[Khuvar]/Choara/Apameia (Rhagiane)?](https://pleiades.stoa.org/places/942286)
 
 
 ## Apameia (Syria) 92 Qalaat al-Madiq - Απάμεια
@@ -7819,6 +7826,13 @@
 
 ### alignments:
  - [Chios (island)](https://pleiades.stoa.org/places/550497)
+
+
+## Choara (Media)
+[https://topostext.org/place/353525UCho](https://topostext.org/place/353525UCho)  
+
+### alignments:
+ - [[Khuvar]/Choara/Apameia (Rhagiane)?](https://pleiades.stoa.org/places/942286)
 
 
 ## Cholargos (Attica)
@@ -12748,6 +12762,13 @@
 
 ### alignments:
  - [Hebros (river)](https://pleiades.stoa.org/places/501432)
+
+
+## Hecatompylos (Partjoa) 12 Shahr-i Qumis
+[https://topostext.org/place/360540UHec](https://topostext.org/place/360540UHec)  
+
+### alignments:
+ - [Hecatompylos?/Komish/[(Shahr-i) Qumis]](https://pleiades.stoa.org/places/942276)
 
 
 ## Hekale (Attica)
@@ -23210,6 +23231,13 @@
  - [Orobiai](https://pleiades.stoa.org/places/540989)
 
 
+## Orontes Mt. (Alvand) (Media)
+[https://topostext.org/place/335502LOro](https://topostext.org/place/335502LOro)  
+
+### alignments:
+ - [Alvand/Orontes/Oroandes M.](https://pleiades.stoa.org/places/902985)
+
+
 ## Orontes river (Syria)
 [https://topostext.org/place/361360WOro](https://topostext.org/place/361360WOro)  
 
@@ -27113,6 +27141,13 @@
 
 ### alignments:
  - [Portonaccio sanctuary at Veii](https://pleiades.stoa.org/places/486020305)
+
+
+## Portus Delphini (Liguria)
+[https://topostext.org/place/443092HPDe](https://topostext.org/place/443092HPDe)  
+
+### alignments:
+ - [Portus Delphini](https://pleiades.stoa.org/places/383750)
 
 
 ## Portus Dubris/Dubrae (Britannia)

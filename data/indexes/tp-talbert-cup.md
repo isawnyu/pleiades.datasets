@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2353 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
+2354 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1231,6 +1231,13 @@
 
 ### alignments:
  - [[Kangavar]/Concobar](https://pleiades.stoa.org/places/903054)
+
+
+## 11B2 (Talbert 2723)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2723.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2723.html)  
+
+### alignments:
+ - [Beltra](https://pleiades.stoa.org/places/430509908)
 
 
 ## 11B2 (Talbert 2724)

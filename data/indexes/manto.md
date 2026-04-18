@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1000 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
+1003 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3965,6 +3965,13 @@
  - [Sanctuary of Apollo Pythios](https://pleiades.stoa.org/places/804115670)
 
 
+## 11318082: Lake Pergus (Sicily)
+[https://resource.manto.unh.edu/11318082](https://resource.manto.unh.edu/11318082)  
+
+### alignments:
+ - [Pergus L.](https://pleiades.stoa.org/places/462417)
+
+
 ## 11319021: Casa del Fauno VI 12, 2 (Pompeii)
 [https://resource.manto.unh.edu/11319021](https://resource.manto.unh.edu/11319021)  
 
@@ -4112,6 +4119,13 @@
  - [Agora of Messene](https://pleiades.stoa.org/places/457626875)
 
 
+## 11321834: Peiraion (Argolid)
+[https://resource.manto.unh.edu/11321834](https://resource.manto.unh.edu/11321834)  
+
+### alignments:
+ - [Peiraion](https://pleiades.stoa.org/places/570571)
+
+
 ## 11321902: Mount Cirphis (Phocis)
 [https://resource.manto.unh.edu/11321902](https://resource.manto.unh.edu/11321902)  
 
@@ -4215,6 +4229,13 @@
 
 ### alignments:
  - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
+
+
+## 11327157: Mount Orontes (Media)
+[https://resource.manto.unh.edu/11327157](https://resource.manto.unh.edu/11327157)  
+
+### alignments:
+ - [Alvand/Orontes/Oroandes M.](https://pleiades.stoa.org/places/902985)
 
 
 ## 11327158: the Channel of Semiramis (Ecbatana)

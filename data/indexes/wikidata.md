@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10525 alignments exist in _Pleiades_ place references as of 2026-04-17. The following list of alignments is grouped by zotkey.
+10543 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2468,6 +2468,13 @@
  - [Allumiere](https://pleiades.stoa.org/places/413009)
 
 
+## Almería (Q10400)
+[https://www.wikidata.org/wiki/Q10400](https://www.wikidata.org/wiki/Q10400)  
+
+### alignments:
+ - [Portos Magnos](https://pleiades.stoa.org/places/266005)
+
+
 ## Almonacid de la Cuba Dam (Q127607)
 [https://www.wikidata.org/wiki/Q127607](https://www.wikidata.org/wiki/Q127607)  
 
@@ -4210,6 +4217,13 @@
 
 ### alignments:
  - [Brylleion/Myrleia/Apamea/Col. Iulia Concordia](https://pleiades.stoa.org/places/511194)
+
+
+## Apamea Ragiana (Q1618859)
+[https://www.wikidata.org/wiki/Q1618859](https://www.wikidata.org/wiki/Q1618859)  
+
+### alignments:
+ - [[Khuvar]/Choara/Apameia (Rhagiane)?](https://pleiades.stoa.org/places/942286)
 
 
 ## Apamestini (Q136786730)
@@ -7571,6 +7585,13 @@
 
 ### alignments:
  - [Basilica of Saint Augustine in Campo Marzio](https://pleiades.stoa.org/places/34438602)
+
+
+## Basilica of Saint Hippolytus and Antiquarium (Q139393641)
+[https://www.wikidata.org/wiki/Q139393641](https://www.wikidata.org/wiki/Q139393641)  
+
+### alignments:
+ - [Basilica and convent of S. Ippolito](https://pleiades.stoa.org/places/354239692)
 
 
 ## Basilica of Saint Paul Outside the Walls (Q231699)
@@ -12699,6 +12720,13 @@
 
 ### alignments:
  - [Castro do Monte Padrão](https://pleiades.stoa.org/places/699777740)
+
+
+## Castro of Baroña (Q1049903)
+[https://www.wikidata.org/wiki/Q1049903](https://www.wikidata.org/wiki/Q1049903)  
+
+### alignments:
+ - [Castro de Baroña](https://pleiades.stoa.org/places/236367)
 
 
 ## Castro of Borneiro (Q2513122)
@@ -27947,6 +27975,13 @@
  - [Lacus Orphei](https://pleiades.stoa.org/places/557607129)
 
 
+## lacus Promethei (Q107363216)
+[https://www.wikidata.org/wiki/Q107363216](https://www.wikidata.org/wiki/Q107363216)  
+
+### alignments:
+ - [lacus Promethei](https://pleiades.stoa.org/places/915004925)
+
+
 ## Ladik Lake (Q6587092)
 [https://www.wikidata.org/wiki/Q6587092](https://www.wikidata.org/wiki/Q6587092)  
 
@@ -30808,6 +30843,13 @@
 
 ### alignments:
  - [Marmarion](https://pleiades.stoa.org/places/570462)
+
+
+## Marmini necropolis (Q139393530)
+[https://www.wikidata.org/wiki/Q139393530](https://www.wikidata.org/wiki/Q139393530)  
+
+### alignments:
+ - [Portone necropolis at Volaterrae](https://pleiades.stoa.org/places/484892186)
 
 
 ## Maroboudon (Q11770456)
@@ -34096,6 +34138,13 @@
  - [Nabataean Temple (Wadi Rum)](https://pleiades.stoa.org/places/32144466)
 
 
+## Nabataeans (Q220594)
+[https://www.wikidata.org/wiki/Q220594](https://www.wikidata.org/wiki/Q220594)  
+
+### alignments:
+ - [Nabataei](https://pleiades.stoa.org/places/746785)
+
+
 ## Nachchaduwa wewa (Q25105468)
 [https://www.wikidata.org/wiki/Q25105468](https://www.wikidata.org/wiki/Q25105468)  
 
@@ -37078,6 +37127,13 @@
  - [Pallia (river)](https://pleiades.stoa.org/places/413243)
 
 
+## Pagliano Roman port (Q139393598)
+[https://www.wikidata.org/wiki/Q139393598](https://www.wikidata.org/wiki/Q139393598)  
+
+### alignments:
+ - [Pagliano Roman port](https://pleiades.stoa.org/places/952976544)
+
+
 ## Paglicci Cave (Q3777010)
 [https://www.wikidata.org/wiki/Q3777010](https://www.wikidata.org/wiki/Q3777010)  
 
@@ -37286,6 +37342,13 @@
 
 ### alignments:
  - [Temple of Athena Pallenis](https://pleiades.stoa.org/places/42288211)
+
+
+## Palmaria (Q757114)
+[https://www.wikidata.org/wiki/Q757114](https://www.wikidata.org/wiki/Q757114)  
+
+### alignments:
+ - [Arenaria (island)](https://pleiades.stoa.org/places/403178)
 
 
 ## Palmarola (Q1466491)
@@ -38455,6 +38518,13 @@
 
 ### alignments:
  - [Peuma(ta)](https://pleiades.stoa.org/places/541030)
+
+
+## Pezza Petrosa (Q3901214)
+[https://www.wikidata.org/wiki/Q3901214](https://www.wikidata.org/wiki/Q3901214)  
+
+### alignments:
+ - [Pezza Petrosa](https://pleiades.stoa.org/places/442715)
 
 
 ## Phacium (Q16481515)
@@ -40418,6 +40488,13 @@
  - [Kirkidios (river)](https://pleiades.stoa.org/places/472085)
 
 
+## Porto Cesareo (Q52179)
+[https://www.wikidata.org/wiki/Q52179](https://www.wikidata.org/wiki/Q52179)  
+
+### alignments:
+ - [Porto Cesareo](https://pleiades.stoa.org/places/442730)
+
+
 ## Porto Ercole (Q1394400)
 [https://www.wikidata.org/wiki/Q1394400](https://www.wikidata.org/wiki/Q1394400)  
 
@@ -40446,11 +40523,32 @@
  - [‘Argoos Limen’](https://pleiades.stoa.org/places/403180)
 
 
+## Portofino (Q232782)
+[https://www.wikidata.org/wiki/Q232782](https://www.wikidata.org/wiki/Q232782)  
+
+### alignments:
+ - [Portus Delphini](https://pleiades.stoa.org/places/383750)
+
+
 ## Portonaccio (Q2319979)
 [https://www.wikidata.org/wiki/Q2319979](https://www.wikidata.org/wiki/Q2319979)  
 
 ### alignments:
  - [Portonaccio sanctuary at Veii](https://pleiades.stoa.org/places/486020305)
+
+
+## Portopalo di Capo Passero (Q490403)
+[https://www.wikidata.org/wiki/Q490403](https://www.wikidata.org/wiki/Q490403)  
+
+### alignments:
+ - [Portus Pachyni/*Apollineum](https://pleiades.stoa.org/places/462456)
+
+
+## Portout (Q21556424)
+[https://www.wikidata.org/wiki/Q21556424](https://www.wikidata.org/wiki/Q21556424)  
+
+### alignments:
+ - [Portout](https://pleiades.stoa.org/places/167875)
 
 
 ## Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto) (Q10351991)
@@ -42019,13 +42117,6 @@
 
 ### alignments:
  - [Arch of Augustus at Ariminum](https://pleiades.stoa.org/places/368355544)
-
-
-## Q107363216: lacus Promethei
-[https://www.wikidata.org/wiki/Q107363216](https://www.wikidata.org/wiki/Q107363216)  
-
-### alignments:
- - [lacus Promethei](https://pleiades.stoa.org/places/915004925)
 
 
 ## Q107363232: Camenarum Fons
@@ -44494,6 +44585,13 @@
 
 ### alignments:
  - [(H)Adriaticum/Superum Mare](https://pleiades.stoa.org/places/1004)
+
+
+## Q139394463
+[https://www.wikidata.org/wiki/Q139394463](https://www.wikidata.org/wiki/Q139394463)  
+
+### alignments:
+ - [Area di Monte Giulio e Capitaneria](https://pleiades.stoa.org/places/848395608)
 
 
 ## Q1396850: Tiddis
@@ -63885,6 +63983,13 @@
  - [Adamas? (river)](https://pleiades.stoa.org/places/59655)
 
 
+## Subasini (Q139393724)
+[https://www.wikidata.org/wiki/Q139393724](https://www.wikidata.org/wiki/Q139393724)  
+
+### alignments:
+ - [Soubasanoi](https://pleiades.stoa.org/places/472129)
+
+
 ## Subertani (Q137971320)
 [https://www.wikidata.org/wiki/Q137971320](https://www.wikidata.org/wiki/Q137971320)  
 
@@ -65206,6 +65311,13 @@
 
 ### alignments:
  - [Temple of Amenhotep II](https://pleiades.stoa.org/places/782688268)
+
+
+## Temple of Anahita at Kangavar (Q1077215)
+[https://www.wikidata.org/wiki/Q1077215](https://www.wikidata.org/wiki/Q1077215)  
+
+### alignments:
+ - [Anahita Temple](https://pleiades.stoa.org/places/261829930)
 
 
 ## Temple of Aphlad (Q110239771)
@@ -71013,6 +71125,13 @@
  - [Via Flaminia militare](https://pleiades.stoa.org/places/587811162)
 
 
+## Via Gabina villas (Q139383327)
+[https://www.wikidata.org/wiki/Q139383327](https://www.wikidata.org/wiki/Q139383327)  
+
+### alignments:
+ - [Via Gabina villas](https://pleiades.stoa.org/places/42248665)
+
+
 ## Via Gemina (Q4010626)
 [https://www.wikidata.org/wiki/Q4010626](https://www.wikidata.org/wiki/Q4010626)  
 
@@ -71515,6 +71634,7 @@
 [https://www.wikidata.org/wiki/Q37283295](https://www.wikidata.org/wiki/Q37283295)  
 
 ### alignments:
+ - [Complesso di Sant'Imbenia](https://pleiades.stoa.org/places/140039890)
  - [Sant'Imbenia Roman Villa](https://pleiades.stoa.org/places/472011)
 
 
@@ -71838,6 +71958,13 @@
 
 ### alignments:
  - [Linguella Roman villa](https://pleiades.stoa.org/places/850888151)
+
+
+## Villa Romana Delle Grotte (Q16621638)
+[https://www.wikidata.org/wiki/Q16621638](https://www.wikidata.org/wiki/Q16621638)  
+
+### alignments:
+ - [Villa romana delle Grotte](https://pleiades.stoa.org/places/659743015)
 
 
 ## Villa romana delle Paduline (Q4012800)
