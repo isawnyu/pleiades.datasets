@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10543 alignments exist in _Pleiades_ place references as of 2026-04-18. The following list of alignments is grouped by zotkey.
+10545 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17487,6 +17487,13 @@
  - [Dor(a)](https://pleiades.stoa.org/places/678121)
 
 
+## Dora Baltea (Q675028)
+[https://www.wikidata.org/wiki/Q675028](https://www.wikidata.org/wiki/Q675028)  
+
+### alignments:
+ - [Duria (Bautica) (river)](https://pleiades.stoa.org/places/383635)
+
+
 ## Dora Riparia (Q670414)
 [https://www.wikidata.org/wiki/Q670414](https://www.wikidata.org/wiki/Q670414)  
 
@@ -30059,6 +30066,13 @@
 
 ### alignments:
  - [Lyrnessos](https://pleiades.stoa.org/places/550703)
+
+
+## Lys (Q1399762)
+[https://www.wikidata.org/wiki/Q1399762](https://www.wikidata.org/wiki/Q1399762)  
+
+### alignments:
+ - [Betuctelum? (river)](https://pleiades.stoa.org/places/383590)
 
 
 ## Lysimachia (Aetolia) (Q11931997)
