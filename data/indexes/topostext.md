@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4952 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
+4953 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -33238,6 +33238,13 @@
 
 ### alignments:
  - [Pompei Tropaea](https://pleiades.stoa.org/places/246566)
+
+
+## Tropaeum Alpium (Gallia) 3 La Turbie
+[https://topostext.org/place/437074ATrA](https://topostext.org/place/437074ATrA)  
+
+### alignments:
+ - [Tropaeum Augusti/Alpium Tropaeum/Alpis Summa/Alpis Maritima](https://pleiades.stoa.org/places/157940)
 
 
 ## Trophonius oracle (Boeotia) 35 Livadia - Τροφώνιον

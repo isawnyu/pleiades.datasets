@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2354 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
+2356 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1469,6 +1469,13 @@
 
 ### alignments:
  - [Gedrosia](https://pleiades.stoa.org/places/29573)
+
+
+## 11C3 (Talbet 3268)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3268.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3268.html)  
+
+### alignments:
+ - [Ichthyophagoi](https://pleiades.stoa.org/places/29605)
 
 
 ## 11C4 (Talbert 3283)
@@ -3539,6 +3546,13 @@
  - [Divodurum/Mettis](https://pleiades.stoa.org/places/108927)
 
 
+## 2A1 (Talbert 914)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace914.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace914.html)  
+
+### alignments:
+ - [Caranusca?](https://pleiades.stoa.org/places/108857)
+
+
 ## 2A1 (Talbert 924)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace924.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace924.html)  
 
@@ -3851,7 +3865,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3311.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3311.html)  
 
 ### alignments:
- - [Betuctelum? (river)](https://pleiades.stoa.org/places/383590)
+ - [Lys (river)](https://pleiades.stoa.org/places/383590)
 
 
 ## 2B1 (Talbert 2880)

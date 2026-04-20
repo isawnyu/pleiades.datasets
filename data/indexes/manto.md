@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1003 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
+1007 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2760,6 +2760,13 @@
  - [Hieron (Byzantion)](https://pleiades.stoa.org/places/521034)
 
 
+## 11299629: River Indos (India)
+[https://resource.manto.unh.edu/11299629](https://resource.manto.unh.edu/11299629)  
+
+### alignments:
+ - [Indus/Sinthos/Phison (river)](https://pleiades.stoa.org/places/59851)
+
+
 ## 11299635: River Hydaspes (India)
 [https://resource.manto.unh.edu/11299635](https://resource.manto.unh.edu/11299635)  
 
@@ -4196,6 +4203,13 @@
  - [Nasamones](https://pleiades.stoa.org/places/373861)
 
 
+## 11326186: the Land of the Nabataei
+[https://resource.manto.unh.edu/11326186](https://resource.manto.unh.edu/11326186)  
+
+### alignments:
+ - [Nabataei](https://pleiades.stoa.org/places/746785)
+
+
 ## 11326362: Babylonia
 [https://resource.manto.unh.edu/11326362](https://resource.manto.unh.edu/11326362)  
 
@@ -4474,6 +4488,13 @@
 
 ### alignments:
  - [Temple of Divus Augustus (Rome)](https://pleiades.stoa.org/places/434772637)
+
+
+## 11330247: Colonia Augusta Treverorum (Germania)
+[https://resource.manto.unh.edu/11330247](https://resource.manto.unh.edu/11330247)  
+
+### alignments:
+ - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
 
 
 ## 11330736: the House of Faustulus (Rome)
@@ -5357,6 +5378,13 @@
 
 ### alignments:
  - [Echeidoros (river)](https://pleiades.stoa.org/places/491584)
+
+
+## 8254014: Mount Caucasos (Pontos)
+[https://resource.manto.unh.edu/8254014](https://resource.manto.unh.edu/8254014)  
+
+### alignments:
+ - [Caucasus (mountain range)](https://pleiades.stoa.org/places/863766)
 
 
 ## 8254019: Lydia (Asia Minor)

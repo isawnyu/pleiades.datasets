@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5049 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
+5051 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -24673,6 +24673,13 @@
  - [Perekop](https://pleiades.stoa.org/places/226777)
 
 
+## GEO ID 41661: Ichthyophagoi
+[https://www.trismegistos.org/place/41661](https://www.trismegistos.org/place/41661)  
+
+### alignments:
+ - [Ichthyophagoi](https://pleiades.stoa.org/places/29605)
+
+
 ## GEO ID 41662: Phra
 [http://www.trismegistos.org/place/41662](http://www.trismegistos.org/place/41662)  
 
@@ -30029,6 +30036,13 @@
 
 ### alignments:
  - [Korou Pedion](https://pleiades.stoa.org/places/550665)
+
+
+## GEO ID 4681: Ichthyophagoi
+[https://www.trismegistos.org/place/4681](https://www.trismegistos.org/place/4681)  
+
+### alignments:
+ - [Ichthyophagi](https://pleiades.stoa.org/places/766372)
 
 
 ## GEO ID 46821: Pedasa (Gökçeler)

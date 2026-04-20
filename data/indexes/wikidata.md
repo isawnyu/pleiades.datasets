@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10545 alignments exist in _Pleiades_ place references as of 2026-04-19. The following list of alignments is grouped by zotkey.
+10555 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6019,11 +6019,19 @@
  - [Assuras](https://pleiades.stoa.org/places/324669)
 
 
+## Assyria (Q40169)
+[https://www.wikidata.org/wiki/Q40169](https://www.wikidata.org/wiki/Q40169)  
+
+### alignments:
+ - [Assyria (Roman province)](https://pleiades.stoa.org/places/890040006)
+
+
 ## Assyrian Empire (Q41137)
 [https://www.wikidata.org/wiki/Q41137](https://www.wikidata.org/wiki/Q41137)  
 
 ### alignments:
  - [(As)Syria (region) ](https://pleiades.stoa.org/places/569131178)
+ - [Assyria (kingdom)](https://pleiades.stoa.org/places/29492)
 
 
 ## Astacus in Bithynia (Q4810504)
@@ -6486,6 +6494,13 @@
 
 ### alignments:
  - [Beroe/Augusta Traiana](https://pleiades.stoa.org/places/216731)
+
+
+## Augusta Treverorum (Q666165)
+[https://www.wikidata.org/wiki/Q666165](https://www.wikidata.org/wiki/Q666165)  
+
+### alignments:
+ - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
 
 
 ## Augusta Tricastrinorum (Q133539340)
@@ -9175,6 +9190,13 @@
 
 ### alignments:
  - [Sidenos (river)](https://pleiades.stoa.org/places/857317)
+
+
+## Bolan Pass (Q891257)
+[https://www.wikidata.org/wiki/Q891257](https://www.wikidata.org/wiki/Q891257)  
+
+### alignments:
+ - [Bolan Pass](https://pleiades.stoa.org/places/663790806)
 
 
 ## Bolbe (Q17622961)
@@ -24878,6 +24900,13 @@
  - [Indus/Sinthos/Phison (river)](https://pleiades.stoa.org/places/59851)
 
 
+## Indus River Delta (Q1277365)
+[https://www.wikidata.org/wiki/Q1277365](https://www.wikidata.org/wiki/Q1277365)  
+
+### alignments:
+ - [Indus Delta](https://pleiades.stoa.org/places/281606373)
+
+
 ## Ingaevones (Q1097118)
 [https://www.wikidata.org/wiki/Q1097118](https://www.wikidata.org/wiki/Q1097118)  
 
@@ -30072,7 +30101,7 @@
 [https://www.wikidata.org/wiki/Q1399762](https://www.wikidata.org/wiki/Q1399762)  
 
 ### alignments:
- - [Betuctelum? (river)](https://pleiades.stoa.org/places/383590)
+ - [Lys (river)](https://pleiades.stoa.org/places/383590)
 
 
 ## Lysimachia (Aetolia) (Q11931997)
@@ -30178,6 +30207,13 @@
 
 ### alignments:
  - [Macellum (Pompeii)](https://pleiades.stoa.org/places/825838273)
+
+
+## Machilipatnam (Q845662)
+[https://www.wikidata.org/wiki/Q845662](https://www.wikidata.org/wiki/Q845662)  
+
+### alignments:
+ - [Machilipatnam](https://pleiades.stoa.org/places/25660908)
 
 
 ## Mactaris (Q3485394)
@@ -30423,6 +30459,13 @@
 
 ### alignments:
  - [Mainalion (mountain)](https://pleiades.stoa.org/places/570449)
+
+
+## Makran (Q695111)
+[https://www.wikidata.org/wiki/Q695111](https://www.wikidata.org/wiki/Q695111)  
+
+### alignments:
+ - [Makurān](https://pleiades.stoa.org/places/477748559)
 
 
 ## Makri 8 (Q110808213)
@@ -34243,6 +34286,13 @@
  - [Eleutheros (river)](https://pleiades.stoa.org/places/668241)
 
 
+## Nahrawan Canal (Q1963721)
+[https://www.wikidata.org/wiki/Q1963721](https://www.wikidata.org/wiki/Q1963721)  
+
+### alignments:
+ - [Nahrawān Canal](https://pleiades.stoa.org/places/895436)
+
+
 ## Nalanda Mahavihara (Q216243)
 [https://www.wikidata.org/wiki/Q216243](https://www.wikidata.org/wiki/Q216243)  
 
@@ -35073,7 +35123,7 @@
 [https://www.wikidata.org/wiki/Q131350](https://www.wikidata.org/wiki/Q131350)  
 
 ### alignments:
- - [Nev-Shapur](https://pleiades.stoa.org/places/952092)
+ - [Nev-Shapur/Nishapur](https://pleiades.stoa.org/places/952092)
 
 
 ## Nisibis (Q14524112)
@@ -59676,6 +59726,13 @@
  - [Sangarius (river)](https://pleiades.stoa.org/places/511406)
 
 
+## Sakastan (Q3945171)
+[https://en.wikipedia.org/wiki/Sakastan_(Sasanian_province)](https://en.wikipedia.org/wiki/Sakastan_(Sasanian_province))  
+
+### alignments:
+ - [Sakastan(e)](https://pleiades.stoa.org/places/60026)
+
+
 ## Sala Consilina (Q81474)
 [https://www.wikidata.org/wiki/Q81474](https://www.wikidata.org/wiki/Q81474)  
 
@@ -69053,6 +69110,13 @@
  - [Trident(i)um](https://pleiades.stoa.org/places/383804)
 
 
+## Trier (Samian Ware Discovery Site) (Q103198266)
+[https://www.wikidata.org/wiki/Q103198266](https://www.wikidata.org/wiki/Q103198266)  
+
+### alignments:
+ - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
+
+
 ## Trieux (Q1232651)
 [https://www.wikidata.org/wiki/Q1232651](https://www.wikidata.org/wiki/Q1232651)  
 
@@ -69590,6 +69654,13 @@
 
 ### alignments:
  - [Tungri](https://pleiades.stoa.org/places/109397)
+
+
+## Turan (Sasanian province) (Q15649540)
+[https://www.wikidata.org/wiki/Q15649540](https://www.wikidata.org/wiki/Q15649540)  
+
+### alignments:
+ - [Turan](https://pleiades.stoa.org/places/866200565)
 
 
 ## Turano (Q15141693)
