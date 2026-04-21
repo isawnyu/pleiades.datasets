@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5051 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
+5052 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1667,6 +1667,13 @@
  - [Bargylia](https://pleiades.stoa.org/places/599550)
 
 
+## Geo 40462: Novioregum (Barzan)
+[https://www.trismegistos.org/place/40462](https://www.trismegistos.org/place/40462)  
+
+### alignments:
+ - [Novioregum](https://pleiades.stoa.org/places/138496)
+
+
 ## Geo 40612 Ariaratheia
 [http://www.trismegistos.org/place/40612](http://www.trismegistos.org/place/40612)  
 
@@ -1960,13 +1967,6 @@
 
 ### alignments:
  - [Kas(h)kar](https://pleiades.stoa.org/places/912880)
-
-
-## Geo 47896: Maishan
-[https://www.trismegistos.org/place/47896](https://www.trismegistos.org/place/47896)  
-
-### alignments:
- - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
 
 
 ## Geo 47912: Ram Hormizd
@@ -11428,6 +11428,13 @@
 
 ### alignments:
  - [Segusio](https://pleiades.stoa.org/places/167919)
+
+
+## GEO ID 22440: Gaesao (Cesana Torinese)
+[https://www.trismegistos.org/place/22440](https://www.trismegistos.org/place/22440)  
+
+### alignments:
+ - [Gaesao/Tyrium](https://pleiades.stoa.org/places/167778)
 
 
 ## GEO ID 22449: Fines Cotti (Avigliana)
@@ -30262,6 +30269,13 @@
  - [Zabas Mikros/Kapros?/Zerbis? (river)](https://pleiades.stoa.org/places/894184)
 
 
+## GEO ID 47896: Maishan
+[https://www.trismegistos.org/place/47896](https://www.trismegistos.org/place/47896)  
+
+### alignments:
+ - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
+
+
 ## GEO ID 47897: Magdalu (Sheikh Hamad)
 [http://www.trismegistos.org/place/47897](http://www.trismegistos.org/place/47897)  
 
@@ -35096,13 +35110,6 @@
 
 ### alignments:
  - [Tell Amarna](https://pleiades.stoa.org/places/658615)
-
-
-## GeoID 40462: Novioregum (Barzan)
-[www.trismegistos.org/place/40462](www.trismegistos.org/place/40462)  
-
-### alignments:
- - [Novioregum](https://pleiades.stoa.org/places/138496)
 
 
 ## GeoRef 157516

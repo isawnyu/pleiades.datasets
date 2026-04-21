@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2356 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
+2356 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4351,6 +4351,13 @@
  - [Vada Sabatia](https://pleiades.stoa.org/places/383808)
 
 
+## 2B4 (Talbert 855)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace855.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace855.html)  
+
+### alignments:
+ - [Crixia](https://pleiades.stoa.org/places/383629)
+
+
 ## 2B4 (Talbert 856)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace856.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace856.html)  
 
@@ -5686,13 +5693,6 @@
 
 ### alignments:
  - [Ad Fines](https://pleiades.stoa.org/places/403172)
-
-
-## 3B1 (Talbert 1103)
-[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1103.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1103.html)  
-
-### alignments:
- - [Crixia](https://pleiades.stoa.org/places/383629)
 
 
 ## 3B1 (Talbert 2931)
@@ -7772,6 +7772,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1261.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1261.html)  
 
 ### alignments:
+ - [Pons Aelius](https://pleiades.stoa.org/places/334776903)
  - [S. Petrus](https://pleiades.stoa.org/places/423053)
 
 

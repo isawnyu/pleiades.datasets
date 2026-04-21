@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1007 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
+1008 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4012,6 +4012,13 @@
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## 11319631: Ostia (Latium)
+[https://resource.manto.unh.edu/11319631](https://resource.manto.unh.edu/11319631)  
+
+### alignments:
+ - [Ostia](https://pleiades.stoa.org/places/422995)
 
 
 ## 11319643: Hospitium dei Sulpici (Murecine)

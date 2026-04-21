@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10555 alignments exist in _Pleiades_ place references as of 2026-04-20. The following list of alignments is grouped by zotkey.
+10558 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13750,6 +13750,13 @@
 
 ### alignments:
  - [Chapel of Wadjmose](https://pleiades.stoa.org/places/336140750)
+
+
+## Characene (Q1062946)
+[https://www.wikidata.org/wiki/Q1062946](https://www.wikidata.org/wiki/Q1062946)  
+
+### alignments:
+ - [Mesene/Characene/Shad Bahman/Maisan](https://pleiades.stoa.org/places/912905)
 
 
 ## Charadros (Q3558316)
@@ -66582,6 +66589,13 @@
  - [Thalamai](https://pleiades.stoa.org/places/573550)
 
 
+## Thamallula Antoniniani (Q139492351)
+[https://www.wikidata.org/wiki/Q139492351](https://www.wikidata.org/wiki/Q139492351)  
+
+### alignments:
+ - [Thamallula Antoniniani](https://pleiades.stoa.org/places/334634)
+
+
 ## Thasos (Q204096)
 [https://www.wikidata.org/wiki/Q204096](https://www.wikidata.org/wiki/Q204096)  
 
@@ -72267,6 +72281,13 @@
 
 ### alignments:
  - [Roman amphitheater of Virunum](https://pleiades.stoa.org/places/212586562)
+
+
+## Visakhapatnam (Q200016)
+[https://www.wikidata.org/wiki/Q200016](https://www.wikidata.org/wiki/Q200016)  
+
+### alignments:
+ - [Visakhapatnam](https://pleiades.stoa.org/places/454189058)
 
 
 ## Visentium (Q1116623)
