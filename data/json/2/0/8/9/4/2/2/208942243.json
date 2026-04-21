@@ -18,14 +18,14 @@
             "username": null
         },
         {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
             "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
-        },
-        {
-            "name": "R. Warner",
-            "username": null
         },
         {
             "homepage": null,
@@ -40,15 +40,15 @@
             "username": "thomase"
         }
     ],
-    "created": "2011-08-12T23:13:28Z",
+    "created": "2026-04-20T23:52:25Z",
     "creators": [
         {
             "name": "R.B. Hitchner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 32 E4 unnamed unlabeled ((15 monuments, 2 walls))",
-    "details": "The Barrington Atlas Directory notes: (15 monuments, 2 walls)",
+    "description": "BAtlas places 15 monuments and 2 walls on map 32, gridsquare E4 and cited Ferchiou 1990 in the directory.",
+    "details": "<p>The Barrington Atlas Directory notes: (15 monuments, 2 walls)</p>",
     "features": [
         {
             "geometry": {
@@ -60,7 +60,7 @@
             },
             "id": "darmc-location-25758",
             "properties": {
-                "description": "500K scale point location",
+                "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/208942243/darmc-location-25758",
                 "location_precision": "precise",
                 "snippet": "Unknown; 330 BC - 30 BC",
@@ -70,6 +70,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type += wall; connected Ferchiou reference to Zotero and copy at Persée; added BAtlDir reference @thomase",
+            "modified": "2026-04-21T00:29:08Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Edited",
             "modified": "2016-08-26T15:21:15Z",
@@ -159,7 +164,7 @@
                     "username": null
                 }
             ],
-            "description": "500K scale point location",
+            "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 25758",
             "end": -30,
             "featureType": [
@@ -236,9 +241,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/wall-2",
         "https://pleiades.stoa.org/vocabularies/place-types/monument"
     ],
     "placeTypes": [
+        "wall-2",
         "monument"
     ],
     "provenance": "Barrington Atlas: BAtlas 32 E4",
@@ -255,14 +262,25 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/doc/antaf_0066-4871_1990_num_26_1_1169",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/f.html#Ferchiou-1990",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/4CTSTA57",
             "citationDetail": "",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Ferchiou 1990",
+            "formattedCitation": "<div class=\"csl-entry\">Ferchiou, Naïdé. “Habitats Fortifiés Pré-Impériaux En Tunisie Antique.” <i>Antiquités Africaines</i> 26 (1990): 43–86. https://www.persee.fr/doc/antaf_0066-4871_1990_num_26_1_1169.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Ferchiou 1990",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://search.worldcat.org/title/45084869",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 505 see \"E4 (15 monuments, 2 walls)\" sub \"Unidentified Point Symbols\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         }
     ],
@@ -277,7 +295,7 @@
         "dare:ancient=2",
         "dare:feature=temple"
     ],
-    "title": "Untitled",
+    "title": "Unlabeled monuments in BAtlas 32 E4",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/208942243"
 }
