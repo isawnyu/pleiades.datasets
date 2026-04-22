@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1008 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
+1009 alignments exist in _Pleiades_ place references as of 2026-04-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -5028,6 +5028,13 @@
 
 ### alignments:
  - [Aethiopia](https://pleiades.stoa.org/places/334481)
+
+
+## 8240597: the Scaian Gates
+[https://resource.manto.unh.edu/8240597](https://resource.manto.unh.edu/8240597)  
+
+### alignments:
+ - [Scaean Gate](https://pleiades.stoa.org/places/216447619)
 
 
 ## 8240611: Rhoiteion (Troad)

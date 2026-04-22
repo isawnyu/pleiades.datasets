@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10558 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
+10559 alignments exist in _Pleiades_ place references as of 2026-04-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -22133,6 +22133,13 @@
 
 ### alignments:
  - [Syrtis Minor](https://pleiades.stoa.org/places/344492)
+
+
+## Gulf of Gaeta (Q929036)
+[https://www.wikidata.org/wiki/Q929036](https://www.wikidata.org/wiki/Q929036)  
+
+### alignments:
+ - [Amyclanus Sinus](https://pleiades.stoa.org/places/432674)
 
 
 ## Gulf of Gemlik (Q1936352)
@@ -56155,13 +56162,6 @@
  - [Esagila](https://pleiades.stoa.org/places/251337021)
 
 
-## Q929036: Gulf of Gaeta
-[https://www.wikidata.org/wiki/Q929036](https://www.wikidata.org/wiki/Q929036)  
-
-### alignments:
- - [Amyclanus Sinus](https://pleiades.stoa.org/places/432674)
-
-
 ## Q92967592: Nuraghe Bruncu Maduli
 [https://www.wikidata.org/wiki/Q92967592](https://www.wikidata.org/wiki/Q92967592)  
 
@@ -61257,6 +61257,13 @@
 
 ### alignments:
  - [*Skabla](https://pleiades.stoa.org/places/501619)
+
+
+## Scaean Gate (Q3399245)
+[https://www.wikidata.org/wiki/Q3399245](https://www.wikidata.org/wiki/Q3399245)  
+
+### alignments:
+ - [Scaean Gate](https://pleiades.stoa.org/places/216447619)
 
 
 ## Scalae Caci (Q3951416)

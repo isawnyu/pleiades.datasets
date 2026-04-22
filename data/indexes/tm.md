@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5052 alignments exist in _Pleiades_ place references as of 2026-04-21. The following list of alignments is grouped by zotkey.
+5052 alignments exist in _Pleiades_ place references as of 2026-04-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -18886,7 +18886,7 @@
 [https://www.trismegistos.org/place/33632](https://www.trismegistos.org/place/33632)  
 
 ### alignments:
- - [Untitled](https://pleiades.stoa.org/places/860848)
+ - [Phazemon](https://pleiades.stoa.org/places/860848)
 
 
 ## GEO ID 33636: Thermai Phazemoniton (Havza)
