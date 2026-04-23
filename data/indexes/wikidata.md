@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10559 alignments exist in _Pleiades_ place references as of 2026-04-22. The following list of alignments is grouped by zotkey.
+10565 alignments exist in _Pleiades_ place references as of 2026-04-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7371,6 +7371,13 @@
  - [Col. Barcino](https://pleiades.stoa.org/places/246343)
 
 
+## Barco Borghese (Q3634894)
+[https://www.wikidata.org/wiki/Q3634894](https://www.wikidata.org/wiki/Q3634894)  
+
+### alignments:
+ - [Il Barco](https://pleiades.stoa.org/places/422850)
+
+
 ## Barcombe Hill Roman signal station (Q17676761)
 [https://www.wikidata.org/wiki/Q17676761](https://www.wikidata.org/wiki/Q17676761)  
 
@@ -12149,6 +12156,13 @@
  - [Rocca Calascio](https://pleiades.stoa.org/places/936115714)
 
 
+## Castle of Serravalle (Q3662893)
+[https://www.wikidata.org/wiki/Q3662893](https://www.wikidata.org/wiki/Q3662893)  
+
+### alignments:
+ - [Castle of Serravalle](https://pleiades.stoa.org/places/286808787)
+
+
 ## Castle of Temenos (Q38285066)
 [https://www.wikidata.org/wiki/Q38285066](https://www.wikidata.org/wiki/Q38285066)  
 
@@ -16428,6 +16442,13 @@
  - [Dangstetten](https://pleiades.stoa.org/places/970740488)
 
 
+## Dantapuram (Q5221123)
+[https://www.wikidata.org/wiki/Q5221123](https://www.wikidata.org/wiki/Q5221123)  
+
+### alignments:
+ - [Dandagula/Dantapura/Paloura](https://pleiades.stoa.org/places/49958)
+
+
 ## Danube (Q1653)
 [https://www.wikidata.org/wiki/Q1653](https://www.wikidata.org/wiki/Q1653)  
 
@@ -20421,6 +20442,13 @@
 
 ### alignments:
  - [Fresilia](https://pleiades.stoa.org/places/438744)
+
+
+## Frigido (Q3753322)
+[https://www.wikidata.org/wiki/Q3753322](https://www.wikidata.org/wiki/Q3753322)  
+
+### alignments:
+ - [Frigidus (river)](https://pleiades.stoa.org/places/403209)
 
 
 ## Friniates (Q5504610)
@@ -26475,6 +26503,13 @@
 
 ### alignments:
  - [Kazeka](https://pleiades.stoa.org/places/854694)
+
+
+## Kaçkar Dağı (Q1641126)
+[https://www.wikidata.org/wiki/Q1641126](https://www.wikidata.org/wiki/Q1641126)  
+
+### alignments:
+ - [Skydises (mountain)](https://pleiades.stoa.org/places/857325)
 
 
 ## Kea (Q214109)
@@ -39033,6 +39068,13 @@
  - [Pian della Conserva](https://pleiades.stoa.org/places/294262131)
 
 
+## Pian di Mola necropolis (Q3346861)
+[https://www.wikidata.org/wiki/Q3346861](https://www.wikidata.org/wiki/Q3346861)  
+
+### alignments:
+ - [Pian di Mola necropolis](https://pleiades.stoa.org/places/13820911)
+
+
 ## Piana del Lago Sanctuary (Q130339298)
 [https://www.wikidata.org/wiki/Q130339298](https://www.wikidata.org/wiki/Q130339298)  
 
@@ -41243,6 +41285,13 @@
 
 ### alignments:
  - [Kainys (promontory)](https://pleiades.stoa.org/places/452350)
+
+
+## Pupinia (Q3538805)
+[https://www.wikidata.org/wiki/Q3538805](https://www.wikidata.org/wiki/Q3538805)  
+
+### alignments:
+ - [Pupinia](https://pleiades.stoa.org/places/666067877)
 
 
 ## Puy d'Issolud (Q16964768)
@@ -50886,13 +50935,6 @@
 
 ### alignments:
  - [Bagni di Nerone](https://pleiades.stoa.org/places/483627781)
-
-
-## Q3634894: Barco Borghese
-[https://www.wikidata.org/wiki/Q3634894](https://www.wikidata.org/wiki/Q3634894)  
-
-### alignments:
- - [Il Barco](https://pleiades.stoa.org/places/422850)
 
 
 ## Q3640384: Birtha
