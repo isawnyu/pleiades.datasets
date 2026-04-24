@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10565 alignments exist in _Pleiades_ place references as of 2026-04-23. The following list of alignments is grouped by zotkey.
+10565 alignments exist in _Pleiades_ place references as of 2026-04-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12021,6 +12021,13 @@
 
 ### alignments:
  - [Castelsardo](https://pleiades.stoa.org/places/471902)
+
+
+## Castelvecchio di San Gimignano (Q3663027)
+[https://www.wikidata.org/wiki/Q3663027](https://www.wikidata.org/wiki/Q3663027)  
+
+### alignments:
+ - [Castelvecchio di San Gimignano](https://pleiades.stoa.org/places/685284436)
 
 
 ## Castiglione del Lago (Q20390)
@@ -50991,13 +50998,6 @@
 
 ### alignments:
  - [Samnite House](https://pleiades.stoa.org/places/214908564)
-
-
-## Q3663027: Castelvecchio di San Gimignano
-[https://www.wikidata.org/wiki/Q3663027](https://www.wikidata.org/wiki/Q3663027)  
-
-### alignments:
- - [Castelvecchio di San Gimignano](https://pleiades.stoa.org/places/685284436)
 
 
 ## Q3663130: Area archeologica del Castrum Inui
