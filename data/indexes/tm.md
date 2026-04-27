@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5052 alignments exist in _Pleiades_ place references as of 2026-04-24. The following list of alignments is grouped by zotkey.
+5054 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9140,6 +9140,13 @@
  - [Cambodunum](https://pleiades.stoa.org/places/92124)
 
 
+## GEO ID 18970: Uxacona (Red Hill)
+[http://www.trismegistos.org/place/18970](http://www.trismegistos.org/place/18970)  
+
+### alignments:
+ - [Uxacona](https://pleiades.stoa.org/places/79727)
+
+
 ## GEO ID 18971: Venonis (High Cross)
 [http://www.trismegistos.org/place/18971](http://www.trismegistos.org/place/18971)  
 
@@ -9159,6 +9166,13 @@
 
 ### alignments:
  - [Noviomagus](https://pleiades.stoa.org/places/79623)
+
+
+## GEO ID 18975: Margidunum (East Bridgford)
+[http://www.trismegistos.org/place/18975](http://www.trismegistos.org/place/18975)  
+
+### alignments:
+ - [Margidunum](https://pleiades.stoa.org/places/79595)
 
 
 ## GEO ID 18976: Senomagus (Yoxford?)

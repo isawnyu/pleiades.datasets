@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4954 alignments exist in _Pleiades_ place references as of 2026-04-24. The following list of alignments is grouped by zotkey.
+4955 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -4897,6 +4897,13 @@
 
 ### alignments:
  - [Assos/Apollonia](https://pleiades.stoa.org/places/550463)
+
+
+## Assyria (Asia) 602 Iraq/Iran
+[https://topostext.org/place/361432RAss](https://topostext.org/place/361432RAss)  
+
+### alignments:
+ - [(As)Syria (region) ](https://pleiades.stoa.org/places/569131178)
 
 
 ## Astakos (Akarnania)

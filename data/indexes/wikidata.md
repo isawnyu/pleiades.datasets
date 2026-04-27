@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10565 alignments exist in _Pleiades_ place references as of 2026-04-24. The following list of alignments is grouped by zotkey.
+10573 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6030,7 +6030,6 @@
 [https://www.wikidata.org/wiki/Q41137](https://www.wikidata.org/wiki/Q41137)  
 
 ### alignments:
- - [(As)Syria (region) ](https://pleiades.stoa.org/places/569131178)
  - [Assyria (kingdom)](https://pleiades.stoa.org/places/29492)
 
 
@@ -18090,6 +18089,13 @@
  - [East Building](https://pleiades.stoa.org/places/337294882)
 
 
+## East Creech Roman villa (Q17670243)
+[http://www.wikidata.org/entity/Q17670243](http://www.wikidata.org/entity/Q17670243)  
+
+### alignments:
+ - [East Creech villa](https://pleiades.stoa.org/places/930634471)
+
+
 ## Eastern Galindians (Q17276517)
 [https://www.wikidata.org/wiki/Q17276517](https://www.wikidata.org/wiki/Q17276517)  
 
@@ -25264,6 +25270,13 @@
  - [*Scitis](https://pleiades.stoa.org/places/89286)
 
 
+## Isle of Thanet (Q590422)
+[https://www.wikidata.org/wiki/Q590422](https://www.wikidata.org/wiki/Q590422)  
+
+### alignments:
+ - [Toliatis/Tanatus (island)](https://pleiades.stoa.org/places/79719)
+
+
 ## Isle of Wight (Q9679)
 [https://www.wikidata.org/wiki/Q9679](https://www.wikidata.org/wiki/Q9679)  
 
@@ -30879,6 +30892,13 @@
 
 ### alignments:
  - [Margala/Margana](https://pleiades.stoa.org/places/573361)
+
+
+## Margidunum Roman Station (Q17642967)
+[https://www.wikidata.org/wiki/Q17642967](https://www.wikidata.org/wiki/Q17642967)  
+
+### alignments:
+ - [Margidunum](https://pleiades.stoa.org/places/79595)
 
 
 ## Mariana (Q507251)
@@ -39780,6 +39800,13 @@
 
 ### alignments:
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
+
+
+## Pomeroy Wood (Q7227292)
+[https://www.wikidata.org/wiki/Q7227292](https://www.wikidata.org/wiki/Q7227292)  
+
+### alignments:
+ - [Pomeroy Wood](https://pleiades.stoa.org/places/889232641)
 
 
 ## Pommeroeul (Samian Ware Discovery Site) (Q103190075)
@@ -57681,6 +57708,13 @@
  - [Anava (river)](https://pleiades.stoa.org/places/89103)
 
 
+## River Arun (Q261603)
+[https://www.wikidata.org/wiki/Q261603](https://www.wikidata.org/wiki/Q261603)  
+
+### alignments:
+ - [Trisanton (river)](https://pleiades.stoa.org/places/79723)
+
+
 ## River Avon (Q19711)
 [https://www.wikidata.org/wiki/Q19711](https://www.wikidata.org/wiki/Q19711)  
 
@@ -63403,6 +63437,13 @@
  - [South Theater (Jerash)](https://pleiades.stoa.org/places/276676983)
 
 
+## Southwark (Q5273898)
+[https://www.wikidata.org/wiki/Q5273898](https://www.wikidata.org/wiki/Q5273898)  
+
+### alignments:
+ - [Southwark](https://pleiades.stoa.org/places/404424015)
+
+
 ## Southwest Bath (Q25166607)
 [https://www.wikidata.org/wiki/Q25166607](https://www.wikidata.org/wiki/Q25166607)  
 
@@ -64808,6 +64849,13 @@
 
 ### alignments:
  - [Roman amphitheater of Col. Tarraco](https://pleiades.stoa.org/places/353133530)
+
+
+## Tarrant Hinton (Samian Ware Discovery Site) (Q103197494)
+[https://www.wikidata.org/wiki/Q103197494](https://www.wikidata.org/wiki/Q103197494)  
+
+### alignments:
+ - [Tarrant Hinton](https://pleiades.stoa.org/places/79709)
 
 
 ## Tarrenz (Q692617)
@@ -70452,6 +70500,13 @@
 
 ### alignments:
  - [Uushigiin Uver](https://pleiades.stoa.org/places/900824968)
+
+
+## Uxacona (Q1665205)
+[https://www.wikidata.org/wiki/Q1665205](https://www.wikidata.org/wiki/Q1665205)  
+
+### alignments:
+ - [Uxacona](https://pleiades.stoa.org/places/79727)
 
 
 ## Uxama Argaela (Q6158255)
