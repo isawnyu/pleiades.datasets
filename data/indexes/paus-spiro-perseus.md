@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-531 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+531 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -456,6 +456,7 @@
 
 ### alignments:
  - [Sanctuary of Metaneira](https://pleiades.stoa.org/places/160459928)
+ - [Tomb of the Seven against Thebes at Eleusis](https://pleiades.stoa.org/places/623023668)
 
 
 ## 1.39.3

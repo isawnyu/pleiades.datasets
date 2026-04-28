@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1009 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+1012 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1204,6 +1204,13 @@
 
 ### alignments:
  - [Rharion Pedion](https://pleiades.stoa.org/places/585954)
+
+
+## 10185099: the Tombs of the Seven against Thebes (Eleusis)
+[https://resource.manto.unh.edu/10185099](https://resource.manto.unh.edu/10185099)  
+
+### alignments:
+ - [Tomb of the Seven against Thebes at Eleusis](https://pleiades.stoa.org/places/623023668)
 
 
 ## 10185131: the Wrestling Grounds of Cercyon (Attica)
@@ -3040,6 +3047,13 @@
  - [Agathyrnum](https://pleiades.stoa.org/places/462079)
 
 
+## 11304297: Panchaia (island)
+[https://resource.manto.unh.edu/11304297](https://resource.manto.unh.edu/11304297)  
+
+### alignments:
+ - [Panchaea](https://pleiades.stoa.org/places/539001207)
+
+
 ## 11304376: the Tomb of Antaios (Libya)
 [https://resource.manto.unh.edu/11304376](https://resource.manto.unh.edu/11304376)  
 
@@ -4397,6 +4411,13 @@
 
 ### alignments:
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
+
+
+## 11329422: the Hanging Gardens of Babylon
+[https://resource.manto.unh.edu/11329422](https://resource.manto.unh.edu/11329422)  
+
+### alignments:
+ - [Hanging Gardens of Babylon](https://pleiades.stoa.org/places/55248061)
 
 
 ## 11329531: Colchinium (Illyria)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4955 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+4957 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -119,6 +119,13 @@
 
 ### alignments:
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+
+
+## 3924
+[https://topostext.org/people/3924](https://topostext.org/people/3924)  
+
+### alignments:
+ - [Panchaea](https://pleiades.stoa.org/places/539001207)
 
 
 ## 405233RCha: Chalcidike region (Chalkidike) 102 Khalkidiki - Χαλκιδική
@@ -6767,6 +6774,13 @@
 
 ### alignments:
  - [Burdigala](https://pleiades.stoa.org/places/138248)
+
+
+## Buridava (Dacia) 1 Stolniceni
+[https://topostext.org/place/451243UBur](https://topostext.org/place/451243UBur)  
+
+### alignments:
+ - [Buridava Roman Fort and Vicus](https://pleiades.stoa.org/places/216741)
 
 
 ## Butuntum (Apulia) 5 Bitonto

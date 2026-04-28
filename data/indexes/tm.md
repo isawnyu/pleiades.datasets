@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5054 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+5056 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -6458,6 +6458,13 @@
 
 ### alignments:
  - [Oxyryncha](https://pleiades.stoa.org/places/741540)
+
+
+## GEO ID 15245: Durocobrivis (Dunstable)
+[https://www.trismegistos.org/place/15245](https://www.trismegistos.org/place/15245)  
+
+### alignments:
+ - [Durocobrivis](https://pleiades.stoa.org/places/79434)
 
 
 ## GEO ID 15248: Concavata (Drumburgh)
@@ -23215,6 +23222,13 @@
 
 ### alignments:
  - [Grinnes](https://pleiades.stoa.org/places/98967)
+
+
+## GEO ID 41022: Ad Lullia (Douriez)
+[https://www.trismegistos.org/place/41022](https://www.trismegistos.org/place/41022)  
+
+### alignments:
+ - [Ad Lullia?](https://pleiades.stoa.org/places/108727)
 
 
 ## GEO ID 41026: Noviomagus (Novion-Porcien)

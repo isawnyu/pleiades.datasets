@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10573 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+10582 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8386,6 +8386,13 @@
  - [Bergion](https://pleiades.stoa.org/places/123074)
 
 
+## Berlanga de Duero (Q178684)
+[https://www.wikidata.org/wiki/Q178684](https://www.wikidata.org/wiki/Q178684)  
+
+### alignments:
+ - [Berlanga](https://pleiades.stoa.org/places/623023667)
+
+
 ## Berroea (Q15712213)
 [https://www.wikidata.org/wiki/Q15712213](https://www.wikidata.org/wiki/Q15712213)  
 
@@ -9448,6 +9455,13 @@
 
 ### alignments:
  - [Boudeion/Boudion/Boudeia/Boudia](https://pleiades.stoa.org/places/543656)
+
+
+## Bouleuterion (Troy) (Q112210724)
+[https://www.wikidata.org/wiki/Q112210724](https://www.wikidata.org/wiki/Q112210724)  
+
+### alignments:
+ - [Bouleuterion (Troy)](https://pleiades.stoa.org/places/945703088)
 
 
 ## Bouleuterion at Monte Iato (Q61828363)
@@ -42652,6 +42666,13 @@
  - [Monteferetra](https://pleiades.stoa.org/places/413210)
 
 
+## Q1120415
+[https://www.wikidata.org/wiki/Q1120415](https://www.wikidata.org/wiki/Q1120415)  
+
+### alignments:
+ - [Panchaea](https://pleiades.stoa.org/places/539001207)
+
+
 ## Q112188918: Roman theater of Caere
 [https://www.wikidata.org/wiki/Q112188918](https://www.wikidata.org/wiki/Q112188918)  
 
@@ -52107,6 +52128,13 @@
  - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
 
 
+## Q41931
+[https://www.wikidata.org/wiki/Q41931](https://www.wikidata.org/wiki/Q41931)  
+
+### alignments:
+ - [Hanging Gardens of Babylon](https://pleiades.stoa.org/places/55248061)
+
+
 ## Q4204: Black Forest
 [https://www.wikidata.org/wiki/Q4204](https://www.wikidata.org/wiki/Q4204)  
 
@@ -57820,6 +57848,13 @@
  - [Ouxella (river)](https://pleiades.stoa.org/places/83875)
 
 
+## River Ribble (Q114319)
+[https://www.wikidata.org/wiki/Q114319](https://www.wikidata.org/wiki/Q114319)  
+
+### alignments:
+ - [Belisama (river)](https://pleiades.stoa.org/places/79327)
+
+
 ## River Rother (Q1506209)
 [https://www.wikidata.org/wiki/Q1506209](https://www.wikidata.org/wiki/Q1506209)  
 
@@ -59095,6 +59130,13 @@
  - [Great Lemhill Farm Roman villa](https://pleiades.stoa.org/places/62842860)
 
 
+## Roman villa 630m south west of Starveall Farm (Q17663400)
+[https://www.wikidata.org/wiki/Q17663400](https://www.wikidata.org/wiki/Q17663400)  
+
+### alignments:
+ - [Bishopstone](https://pleiades.stoa.org/places/79330)
+
+
 ## Roman villa adjoining Watery Lane (Q17648401)
 [https://www.wikidata.org/wiki/Q17648401](https://www.wikidata.org/wiki/Q17648401)  
 
@@ -59121,6 +59163,13 @@
 
 ### alignments:
  - [Roman villa at Mill End](https://pleiades.stoa.org/places/807201018)
+
+
+## Roman villa E of Beddington Park (Q17644967)
+[https://www.wikidata.org/wiki/Q17644967](https://www.wikidata.org/wiki/Q17644967)  
+
+### alignments:
+ - [Beddington](https://pleiades.stoa.org/places/79323)
 
 
 ## Roman villa in Via Carciano (Q130263089)
@@ -59282,6 +59331,13 @@
 
 ### alignments:
  - [Roman walls of Lugo](https://pleiades.stoa.org/places/49788037)
+
+
+## Romano-British nucleated enclosed settlement and Roman villa complex at Glebe Farm (Q17673573)
+[https://www.wikidata.org/wiki/Q17673573](https://www.wikidata.org/wiki/Q17673573)  
+
+### alignments:
+ - [Barton-in-Fabis](https://pleiades.stoa.org/places/79320)
 
 
 ## Romano-British settlement SW of Badbury Rings (Q17648137)
@@ -68316,6 +68372,13 @@
 
 ### alignments:
  - [Tombs of the Kings](https://pleiades.stoa.org/places/848646653)
+
+
+## Tombs of the Seven against Thebes, at road from Eleusis to Megara (Q124644607)
+[https://www.wikidata.org/wiki/Q124644607](https://www.wikidata.org/wiki/Q124644607)  
+
+### alignments:
+ - [Tomb of the Seven against Thebes at Eleusis](https://pleiades.stoa.org/places/623023668)
 
 
 ## Tomen y Mur (Q12071213)

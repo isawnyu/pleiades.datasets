@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2356 alignments exist in _Pleiades_ place references as of 2026-04-27. The following list of alignments is grouped by zotkey.
+2358 alignments exist in _Pleiades_ place references as of 2026-04-28. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1786,6 +1786,13 @@
  - [Lintomagus?](https://pleiades.stoa.org/places/109115)
 
 
+## 1A2 (Talbert 603)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace603.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace603.html)  
+
+### alignments:
+ - [Ad Lullia?](https://pleiades.stoa.org/places/108727)
+
+
 ## 1A2 (Talbert 618)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace618.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace618.html)  
 
@@ -1938,6 +1945,13 @@
 
 ### alignments:
  - [Samarobriva Ambianorum](https://pleiades.stoa.org/places/109321)
+
+
+## 1A3 (Talbert 604)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace604.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace604.html)  
+
+### alignments:
+ - [Duro(i)coregum](https://pleiades.stoa.org/places/108946)
 
 
 ## 1A3 (Talbert 605)
