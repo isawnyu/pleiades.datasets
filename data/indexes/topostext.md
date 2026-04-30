@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4957 alignments exist in _Pleiades_ place references as of 2026-04-29. The following list of alignments is grouped by zotkey.
+4958 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -10791,7 +10791,7 @@
 [https://topostext.org/place/384238PEre](https://topostext.org/place/384238PEre)  
 
 ### alignments:
- - [Eretria](https://pleiades.stoa.org/places/579925)
+ - [Eretria (Euboea)](https://pleiades.stoa.org/places/579925)
 
 
 ## Eretria (Thessaly)
@@ -11487,6 +11487,13 @@
 
 ### alignments:
  - [Forum Cornelii](https://pleiades.stoa.org/places/393424)
+
+
+## Forum Deci (Italy) 2 Posta
+[https://topostext.org/place/425131UFDe](https://topostext.org/place/425131UFDe)  
+
+### alignments:
+ - [Forum Decii](https://pleiades.stoa.org/places/413146)
 
 
 ## Forum Holitorium (Rome)
@@ -25369,6 +25376,13 @@
  - [Phelloe](https://pleiades.stoa.org/places/570594)
 
 
+## Phellos (Lycia) 15 Cukurbag - Φελλός
+[https://topostext.org/place/364297PPhe](https://topostext.org/place/364297PPhe)  
+
+### alignments:
+ - [Phellos](https://pleiades.stoa.org/places/639052)
+
+
 ## Pheneos (Korinthia)
 [https://topostext.org/place/379223PPhe](https://topostext.org/place/379223PPhe)  
 
@@ -26250,13 +26264,6 @@
 
 ### alignments:
  - [Kragos (mountain)](https://pleiades.stoa.org/places/638942)
-
-
-## Place 364297PPhe: Phellos (Lycia)
-[https://topostext.org/place/364297PPhe](https://topostext.org/place/364297PPhe)  
-
-### alignments:
- - [Phellos](https://pleiades.stoa.org/places/639052)
 
 
 ## Place 365279ITeu: Teutloussa (Dodecanese)

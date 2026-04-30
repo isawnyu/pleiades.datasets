@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5056 alignments exist in _Pleiades_ place references as of 2026-04-29. The following list of alignments is grouped by zotkey.
+5056 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1231,13 +1231,6 @@
 
 ### alignments:
  - [Akalissos](https://pleiades.stoa.org/places/638736)
-
-
-## Geo 34389: Phellos (Çukurbağ)
-[https://www.trismegistos.org/place/34389](https://www.trismegistos.org/place/34389)  
-
-### alignments:
- - [Phellos](https://pleiades.stoa.org/places/639052)
 
 
 ## Geo 34533: Ankyra Sidera (Boğaz Köy)
@@ -19365,6 +19358,13 @@
  - [Milyas (region)](https://pleiades.stoa.org/places/638996)
 
 
+## GEO ID 34389: Phellos (Çukurbağ)
+[https://www.trismegistos.org/place/34389](https://www.trismegistos.org/place/34389)  
+
+### alignments:
+ - [Phellos](https://pleiades.stoa.org/places/639052)
+
+
 ## GEO ID 34400: Trebenna (Çağlarca)
 [http://www.trismegistos.org/place/34400](http://www.trismegistos.org/place/34400)  
 
@@ -33742,7 +33742,7 @@
 [http://www.trismegistos.org/place/659](http://www.trismegistos.org/place/659)  
 
 ### alignments:
- - [Eretria](https://pleiades.stoa.org/places/579925)
+ - [Eretria (Euboea)](https://pleiades.stoa.org/places/579925)
 
 
 ## GEO ID 672: Euboea

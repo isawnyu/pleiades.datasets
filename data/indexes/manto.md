@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1012 alignments exist in _Pleiades_ place references as of 2026-04-29. The following list of alignments is grouped by zotkey.
+1013 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4105,6 +4105,13 @@
  - [Tibur](https://pleiades.stoa.org/places/423081)
 
 
+## 11321276: Gabii (Italy)
+[https://resource.manto.unh.edu/11321276](https://resource.manto.unh.edu/11321276)  
+
+### alignments:
+ - [Gabii](https://pleiades.stoa.org/places/422932)
+
+
 ## 11321277: Tusculum (Italy)
 [https://resource.manto.unh.edu/11321277](https://resource.manto.unh.edu/11321277)  
 
@@ -6294,7 +6301,7 @@
 [https://resource.manto.unh.edu/9718699](https://resource.manto.unh.edu/9718699)  
 
 ### alignments:
- - [Eretria](https://pleiades.stoa.org/places/579925)
+ - [Eretria (Euboea)](https://pleiades.stoa.org/places/579925)
 
 
 ## 9718702: Cerinthos (Euboia)

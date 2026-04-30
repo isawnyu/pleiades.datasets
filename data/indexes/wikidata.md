@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10582 alignments exist in _Pleiades_ place references as of 2026-04-29. The following list of alignments is grouped by zotkey.
+10593 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2092,6 +2092,13 @@
 
 ## Alba Fucens (Q127429494)
 [https://www.wikidata.org/wiki/Q127429494](https://www.wikidata.org/wiki/Q127429494)  
+
+### alignments:
+ - [Alba Fucens](https://pleiades.stoa.org/places/413005)
+
+
+## Alba Fucens (Q944515)
+[https://www.wikidata.org/wiki/Q944515](https://www.wikidata.org/wiki/Q944515)  
 
 ### alignments:
  - [Alba Fucens](https://pleiades.stoa.org/places/413005)
@@ -6185,6 +6192,13 @@
 
 ### alignments:
  - [Atene](https://pleiades.stoa.org/places/579883)
+
+
+## Aterno-Pescara (Q71530)
+[https://www.wikidata.org/wiki/Q71530](https://www.wikidata.org/wiki/Q71530)  
+
+### alignments:
+ - [Aternus (river)](https://pleiades.stoa.org/places/413040)
 
 
 ## Atessa (Q51183)
@@ -11061,6 +11075,13 @@
 
 ### alignments:
  - [Capalbio](https://pleiades.stoa.org/places/336470346)
+
+
+## Capannelle Pass (Q2426888)
+[https://www.wikidata.org/wiki/Q2426888](https://www.wikidata.org/wiki/Q2426888)  
+
+### alignments:
+ - [Passo delle Capannelle](https://pleiades.stoa.org/places/219462971)
 
 
 ## Capdenac (Q1064107)
@@ -18419,6 +18440,13 @@
  - [El Chuche (settlement)](https://pleiades.stoa.org/places/266085)
 
 
+## el Collet (Q11954827)
+[https://www.wikidata.org/wiki/Q11954827](https://www.wikidata.org/wiki/Q11954827)  
+
+### alignments:
+ - [Collet Roman Villa](https://pleiades.stoa.org/places/465828942)
+
+
 ## El Turuñuelo (Q30904062)
 [https://www.wikidata.org/wiki/Q30904062](https://www.wikidata.org/wiki/Q30904062)  
 
@@ -19011,7 +19039,7 @@
 [https://www.wikidata.org/wiki/Q16562724](https://www.wikidata.org/wiki/Q16562724)  
 
 ### alignments:
- - [Eretria](https://pleiades.stoa.org/places/579925)
+ - [Eretria (Euboea)](https://pleiades.stoa.org/places/579925)
 
 
 ## Eretria (Q42114739)
@@ -20028,6 +20056,13 @@
 
 ### alignments:
  - [Salvatoretto](https://pleiades.stoa.org/places/564709226)
+
+
+## Fontecchio (Q50092)
+[https://www.wikidata.org/wiki/Q50092](https://www.wikidata.org/wiki/Q50092)  
+
+### alignments:
+ - [Fontecchio](https://pleiades.stoa.org/places/413141)
 
 
 ## Fordongianus (Q385692)
@@ -23112,6 +23147,13 @@
 
 ### alignments:
  - [Zagatis (river)](https://pleiades.stoa.org/places/857378)
+
+
+## Henchir Bourgou (Q3130225)
+[https://www.wikidata.org/wiki/Q3130225](https://www.wikidata.org/wiki/Q3130225)  
+
+### alignments:
+ - [Henchir Bourgou](https://pleiades.stoa.org/places/344390)
 
 
 ## Henchir Mettich (Q28220653)
@@ -26728,6 +26770,13 @@
  - [Kerlescan alignments](https://pleiades.stoa.org/places/320384863)
 
 
+## Kerma Necropolis (Q67439146)
+[https://www.wikidata.org/wiki/Q67439146](https://www.wikidata.org/wiki/Q67439146)  
+
+### alignments:
+ - [Kerma Necropolis](https://pleiades.stoa.org/places/651950411)
+
+
 ## Kerman (Q171714)
 [https://www.wikidata.org/wiki/Q171714](https://www.wikidata.org/wiki/Q171714)  
 
@@ -29480,6 +29529,13 @@
  - [West Meon](https://pleiades.stoa.org/places/79754)
 
 
+## Liri (Q71562)
+[https://www.wikidata.org/wiki/Q71562](https://www.wikidata.org/wiki/Q71562)  
+
+### alignments:
+ - [Liris/Clanis (river)](https://pleiades.stoa.org/places/432910)
+
+
 ## Lisht (Q287779)
 [https://www.wikidata.org/wiki/Q287779](https://www.wikidata.org/wiki/Q287779)  
 
@@ -29758,6 +29814,13 @@
 
 ### alignments:
  - [Los Villares (Fuentearmegil)](https://pleiades.stoa.org/places/250035)
+
+
+## Lothal (Q9443)
+[https://www.wikidata.org/wiki/Q9443](https://www.wikidata.org/wiki/Q9443)  
+
+### alignments:
+ - [Lothal](https://pleiades.stoa.org/places/580312478)
 
 
 ## Loudias River (Q3560044)
@@ -34089,6 +34152,13 @@
  - [Mutina](https://pleiades.stoa.org/places/383715)
 
 
+## Mutugenna (Q582907)
+[https://www.wikidata.org/wiki/Q582907](https://www.wikidata.org/wiki/Q582907)  
+
+### alignments:
+ - [Mutugenna](https://pleiades.stoa.org/places/311125)
+
+
 ## Muziris (Q2974112)
 [https://www.wikidata.org/wiki/Q2974112](https://www.wikidata.org/wiki/Q2974112)  
 
@@ -35508,6 +35578,13 @@
 
 ### alignments:
  - [Nowa Wieś Wrocławska](https://pleiades.stoa.org/places/128475)
+
+
+## Nubia (Q135028)
+[https://www.wikidata.org/wiki/Q135028](https://www.wikidata.org/wiki/Q135028)  
+
+### alignments:
+ - [Nubia](https://pleiades.stoa.org/places/953201624)
 
 
 ## Nubian pyramids (Q511686)
@@ -55167,13 +55244,6 @@
  - [Aquitania (Roman province)](https://pleiades.stoa.org/places/981505)
 
 
-## Q71562: Liri
-[https://www.wikidata.org/wiki/Q71562](https://www.wikidata.org/wiki/Q71562)  
-
-### alignments:
- - [Liris/Clanis (river)](https://pleiades.stoa.org/places/432910)
-
-
 ## Q7161205: Pelasgic wall
 [https://www.wikidata.org/wiki/Q7161205](https://www.wikidata.org/wiki/Q7161205)  
 
@@ -56362,13 +56432,6 @@
 
 ### alignments:
  - [Nicopolis](https://pleiades.stoa.org/places/531013)
-
-
-## Q944515: Alba Fucens
-[https://www.wikidata.org/wiki/Q944515](https://www.wikidata.org/wiki/Q944515)  
-
-### alignments:
- - [Alba Fucens](https://pleiades.stoa.org/places/413005)
 
 
 ## Q94522462: Apollo Ptoios
@@ -58771,6 +58834,13 @@
 
 ### alignments:
  - [Roman theater at Utica](https://pleiades.stoa.org/places/907258690)
+
+
+## Roman theater of Alba Fucens (Q90537702)
+[https://www.wikidata.org/wiki/Q90537702](https://www.wikidata.org/wiki/Q90537702)  
+
+### alignments:
+ - [Roman theater of Alba Fucens](https://pleiades.stoa.org/places/132738979)
 
 
 ## Roman theater of Atri (Q118311061)
@@ -65010,6 +65080,13 @@
 
 ### alignments:
  - [Rhotanos (river)](https://pleiades.stoa.org/places/472122)
+
+
+## Tavo (Q71644)
+[https://www.wikidata.org/wiki/Q71644](https://www.wikidata.org/wiki/Q71644)  
+
+### alignments:
+ - [Cumara? (river)](https://pleiades.stoa.org/places/413110)
 
 
 ## Tavoliere delle Puglie (Q302083)
