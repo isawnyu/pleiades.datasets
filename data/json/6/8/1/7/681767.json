@@ -6,15 +6,94 @@
         38.5,
         34.5
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "connectionType": "east_of",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/east_of",
+            "connectsTo": "https://pleiades.stoa.org/places/678398",
+            "contributors": [],
+            "created": "2026-04-30T13:25:06Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 300,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-04-30T14:58:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-04-30T13:27:37Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-04-30T13:25:08Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-04-30T13:25:06Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "sounoua",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 1069 see \"Strata Diocletiana\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "69 E4",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Sounoua",
+            "uri": "https://pleiades.stoa.org/places/681767/sounoua"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/678398"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
-            "username": null
-        },
-        {
-            "name": "T. Elliott",
             "username": null
         },
         {
@@ -22,21 +101,27 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
-    "created": "2009-09-16T20:06:28Z",
+    "created": "2026-04-29T23:06:10Z",
     "creators": [
-        {
-            "name": "J.P. Brown",
-            "username": null
-        },
         {
             "name": "E.M. Meyers",
             "username": null
+        },
+        {
+            "name": "J.P. Brown",
+            "username": null
         }
     ],
-    "description": "Unnamed route or road",
-    "details": "The Barrington Atlas Directory notes: E4",
+    "description": "A stretch of Roman road running roughly north-south and located to the east of Sounoua, commonly referred to as part of the \"Strata Diocletiana\".",
+    "details": "<p>The Barrington Atlas Directory notes: E4</p>",
     "features": [
         {
             "geometry": {
@@ -78,6 +163,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "repaired defective BAtlDir original data import: added title; added gridsquares to BAtlas reference; removed defective reference; added summary; added Dunand 1931; added Kennedy 1982; added Bauzou 1985; added Connection @thomase",
+            "modified": "2026-04-30T14:58:43Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Global migration and reindexing of citations and provenance, February 2012",
             "modified": "2012-02-15T07:52:51Z",
@@ -247,7 +337,7 @@
             "accessURI": "http://www.worldcat.org/oclc/43970336",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "69",
+            "citationDetail": "69 E4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
             "otherIdentifier": " ",
@@ -255,14 +345,36 @@
             "type": "seeFurther"
         },
         {
+            "accessURI": "https://www.jstor.org/stable/44102391",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RFUVSS7T",
+            "citationDetail": "page 228",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Dunand, Maurice. “La Strata Diocletiana.” <i>Revue Biblique (1892-1940)</i> 40, no. 3 (1931): 416–34. https://www.jstor.org/stable/44102391.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Dunand 1931",
+            "type": "seeFurther"
+        },
+        {
             "accessURI": "",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/r.html#R",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/C98JP98T",
+            "citationDetail": "pages 185-186",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "R",
+            "formattedCitation": "<div class=\"csl-entry\">Kennedy, D. L, D. N Riley, and Aurel Stein. <i>Archaeological Explorations on the Roman Frontier in North-East Jordan: The Roman and Byzantine Military Installations and Road Network on the Ground and from the Air</i>. BAR International Series 134. Oxford, England: B.A.R, 1982.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Kennedy 1982",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/JKY5RQ9Q",
+            "citationDetail": "page 144 note 19",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Bauzou, Thomas. “Les voies de communication dans le Hauran à l’époque romaine.” In <i>Hauran, 1. Recherches archéologiques sur la Syrie du Sud à l’époque hellénistique et romaine, 1-2</i>, 137–61, Abb. Taf, 1985.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Bauzou 1985",
             "type": "seeFurther"
         }
     ],
@@ -273,7 +385,7 @@
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Road: ‘Strata Diocletiana’",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/681767"
 }
