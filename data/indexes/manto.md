@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1013 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
+1014 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4243,6 +4243,13 @@
 
 ### alignments:
  - [Babylonia](https://pleiades.stoa.org/places/912816)
+
+
+## 11326368: Coile Syria (Assyria)
+[https://resource.manto.unh.edu/11326368](https://resource.manto.unh.edu/11326368)  
+
+### alignments:
+ - [Koile Syria/Massyas](https://pleiades.stoa.org/places/668288)
 
 
 ## 11326372: the Walls of Nineveh

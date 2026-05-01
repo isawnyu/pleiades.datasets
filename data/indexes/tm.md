@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5056 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
+5057 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -4392,6 +4392,13 @@
 
 ### alignments:
  - [Nabataea (region)](https://pleiades.stoa.org/places/29677)
+
+
+## GEO ID 14146: Kapitolias (Beyt el-Ras)
+[https://www.trismegistos.org/place/14146](https://www.trismegistos.org/place/14146)  
+
+### alignments:
+ - [Kapitolias](https://pleiades.stoa.org/places/678224)
 
 
 ## GEO ID 1414: Nabla

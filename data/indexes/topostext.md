@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4958 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
+4959 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -27920,6 +27920,13 @@
 
 ### alignments:
  - [Rakhi](https://pleiades.stoa.org/places/531084)
+
+
+## Raphana (Syria) 1 er-Rafe?
+[https://topostext.org/place/329362URap](https://topostext.org/place/329362URap)  
+
+### alignments:
+ - [Raphon/Raphana](https://pleiades.stoa.org/places/678360)
 
 
 ## Raphia (Palestine)

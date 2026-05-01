@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10593 alignments exist in _Pleiades_ place references as of 2026-04-30. The following list of alignments is grouped by zotkey.
+10601 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17227,6 +17227,13 @@
  - [Diomeia](https://pleiades.stoa.org/places/579912)
 
 
+## Dion (Q3052638)
+[https://www.wikidata.org/wiki/Q3052638](https://www.wikidata.org/wiki/Q3052638)  
+
+### alignments:
+ - [Kapitolias](https://pleiades.stoa.org/places/678224)
+
+
 ## Dionysades (Q915908)
 [https://www.wikidata.org/wiki/Q915908](https://www.wikidata.org/wiki/Q915908)  
 
@@ -19813,6 +19820,13 @@
  - [Faesulae](https://pleiades.stoa.org/places/413124)
 
 
+## fifth cataract of the Nile (Q71109688)
+[https://www.wikidata.org/wiki/Q71109688](https://www.wikidata.org/wiki/Q71109688)  
+
+### alignments:
+ - [Cataracta Quinta](https://pleiades.stoa.org/places/805601)
+
+
 ## Figsbury Ring (Q1411951)
 [https://www.wikidata.org/wiki/Q1411951](https://www.wikidata.org/wiki/Q1411951)  
 
@@ -20441,6 +20455,13 @@
 
 ### alignments:
  - [Fournou Korifi](https://pleiades.stoa.org/places/27461581)
+
+
+## fourth cataract of the Nile (Q71223686)
+[https://www.wikidata.org/wiki/Q71223686](https://www.wikidata.org/wiki/Q71223686)  
+
+### alignments:
+ - [Cataracta Quarta](https://pleiades.stoa.org/places/805600)
 
 
 ## Frampton Roman villa (Q17650665)
@@ -27064,6 +27085,13 @@
  - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
 
 
+## Kingdom of Kush (Q241790)
+[https://www.wikidata.org/wiki/Q241790](https://www.wikidata.org/wiki/Q241790)  
+
+### alignments:
+ - [Kush (kingdom)](https://pleiades.stoa.org/places/827790769)
+
+
 ## Kingdom of Mapungubwe (Q98085401)
 [https://www.wikidata.org/wiki/Q98085401](https://www.wikidata.org/wiki/Q98085401)  
 
@@ -31207,6 +31235,13 @@
 
 ### alignments:
  - [Massalia/Massilia](https://pleiades.stoa.org/places/148127)
+
+
+## Massyas (Q138586327)
+[https://www.wikidata.org/wiki/Q138586327](https://www.wikidata.org/wiki/Q138586327)  
+
+### alignments:
+ - [Koile Syria/Massyas](https://pleiades.stoa.org/places/668288)
 
 
 ## Mastaba of Kagemni (Q99913494)
@@ -42923,6 +42958,13 @@
 
 ### alignments:
  - [Via Domitia](https://pleiades.stoa.org/places/834876934)
+
+
+## Q114681203
+[https://www.wikidata.org/wiki/Q114681203](https://www.wikidata.org/wiki/Q114681203)  
+
+### alignments:
+ - [Diyatheh](https://pleiades.stoa.org/places/678120)
 
 
 ## Q1149666
@@ -55216,13 +55258,6 @@
  - [Roman theater at Cales](https://pleiades.stoa.org/places/926867727)
 
 
-## Q71223686: fourth cataract of the Nile
-[https://www.wikidata.org/wiki/Q71223686](https://www.wikidata.org/wiki/Q71223686)  
-
-### alignments:
- - [Cataracta Quarta](https://pleiades.stoa.org/places/805600)
-
-
 ## Q7139774: Parrhasia
 [https://www.wikidata.org/wiki/Q7139774](https://www.wikidata.org/wiki/Q7139774)  
 
@@ -55578,13 +55613,6 @@
 
 ### alignments:
  - [Temple of Derr](https://pleiades.stoa.org/places/314616533)
-
-
-## Q7698734: Temple of Jupiter, Damascus
-[https://www.wikidata.org/wiki/Q7698734](https://www.wikidata.org/wiki/Q7698734)  
-
-### alignments:
- - [Temple of Jupiter, Damascus](https://pleiades.stoa.org/places/245122016)
 
 
 ## Q7701236: Tepe Fullol
@@ -57153,6 +57181,13 @@
 
 ### alignments:
  - [Rantidi](https://pleiades.stoa.org/places/707615)
+
+
+## Raphana (Q247552)
+[https://www.wikidata.org/wiki/Q247552](https://www.wikidata.org/wiki/Q247552)  
+
+### alignments:
+ - [Raphon/Raphana](https://pleiades.stoa.org/places/678360)
 
 
 ## Rapinium (Q136451883)
@@ -58834,6 +58869,13 @@
 
 ### alignments:
  - [Roman theater at Utica](https://pleiades.stoa.org/places/907258690)
+
+
+## Roman theater of Adraha (Q139592932)
+[https://www.wikidata.org/wiki/Q139592932](https://www.wikidata.org/wiki/Q139592932)  
+
+### alignments:
+ - [Roman theater of Adraha](https://pleiades.stoa.org/places/221152517)
 
 
 ## Roman theater of Alba Fucens (Q90537702)
@@ -63079,6 +63121,13 @@
  - [Sebasteia/Megalopolis?/Talaura?](https://pleiades.stoa.org/places/629075)
 
 
+## sixth cataract of the Nile (Q71109996)
+[https://www.wikidata.org/wiki/Q71109996](https://www.wikidata.org/wiki/Q71109996)  
+
+### alignments:
+ - [Cataracta Sexta](https://pleiades.stoa.org/places/165626979)
+
+
 ## Skala Roman villa (Q56240191)
 [https://www.wikidata.org/wiki/Q56240191](https://www.wikidata.org/wiki/Q56240191)  
 
@@ -66138,6 +66187,13 @@
 
 ### alignments:
  - [Bidoni](https://pleiades.stoa.org/places/193087636)
+
+
+## Temple of Jupiter, Damascus (Q7698734)
+[https://www.wikidata.org/wiki/Q7698734](https://www.wikidata.org/wiki/Q7698734)  
+
+### alignments:
+ - [Temple of Jupiter, Damascus](https://pleiades.stoa.org/places/245122016)
 
 
 ## Temple of Khnum (Q1131024)
