@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10601 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
+10609 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3524,6 +3524,13 @@
 
 ### alignments:
  - [Roman quarries of Cartagena](https://pleiades.stoa.org/places/324453576)
+
+
+## ancient Roman theater of Cales (Q70863776)
+[https://www.wikidata.org/wiki/Q70863776](https://www.wikidata.org/wiki/Q70863776)  
+
+### alignments:
+ - [Roman theater at Cales](https://pleiades.stoa.org/places/926867727)
 
 
 ## Ancient Roman theatre of Salona (Q109015069)
@@ -14290,6 +14297,13 @@
  - [Church of St. George](https://pleiades.stoa.org/places/224949837)
 
 
+## Church of Saint Herculanus (Q139594881)
+[https://www.wikidata.org/wiki/Q139594881](https://www.wikidata.org/wiki/Q139594881)  
+
+### alignments:
+ - [Church of Saint Herculanus](https://pleiades.stoa.org/places/604307495)
+
+
 ## Church of Saint Nicholas Orphanos (Q1504317)
 [https://www.wikidata.org/wiki/Q1504317](https://www.wikidata.org/wiki/Q1504317)  
 
@@ -14309,6 +14323,13 @@
 
 ### alignments:
  - [San Pietro ad Oratorium](https://pleiades.stoa.org/places/813943703)
+
+
+## Church of San Primitivo (Q139600903)
+[https://www.wikidata.org/wiki/Q139600903](https://www.wikidata.org/wiki/Q139600903)  
+
+### alignments:
+ - [Church of San Primitivo](https://pleiades.stoa.org/places/236701131)
 
 
 ## Church of Sant'Ilario a Port'Aurea (Q3672838)
@@ -15450,7 +15471,7 @@
 [https://www.wikidata.org/wiki/Q3438824](https://www.wikidata.org/wiki/Q3438824)  
 
 ### alignments:
- - [Babylon](https://pleiades.stoa.org/places/727082)
+ - [Babylon/al-Fusṭāṭ/Old Cairo](https://pleiades.stoa.org/places/727082)
 
 
 ## Coralla (Q65048867)
@@ -15647,6 +15668,13 @@
 
 ### alignments:
  - [Koryphas](https://pleiades.stoa.org/places/550667)
+
+
+## Corzano Roman villa (Q139601239)
+[https://www.wikidata.org/wiki/Q139601239](https://www.wikidata.org/wiki/Q139601239)  
+
+### alignments:
+ - [Corzano](https://pleiades.stoa.org/places/422911)
 
 
 ## Cos (Q85754181)
@@ -25088,6 +25116,13 @@
  - [Insula M1 (Ephesus)](https://pleiades.stoa.org/places/956927192)
 
 
+## Insula Volusiana (Q111383738)
+[https://www.wikidata.org/wiki/Q111383738](https://www.wikidata.org/wiki/Q111383738)  
+
+### alignments:
+ - [Insula Volusiana](https://pleiades.stoa.org/places/167034775)
+
+
 ## Intemelii (Q21138435)
 [https://www.wikidata.org/wiki/Q21138435](https://www.wikidata.org/wiki/Q21138435)  
 
@@ -31039,6 +31074,13 @@
 
 ### alignments:
  - [Marios](https://pleiades.stoa.org/places/570461)
+
+
+## Maritime theatre at the Villa Adriana (Q100767646)
+[https://www.wikidata.org/wiki/Q100767646](https://www.wikidata.org/wiki/Q100767646)  
+
+### alignments:
+ - [Teatro Marittimo](https://pleiades.stoa.org/places/22372299)
 
 
 ## Maritsa (Q204347)
@@ -40194,6 +40236,13 @@
  - [Ponte della Maddalena](https://pleiades.stoa.org/places/172158347)
 
 
+## Ponte della Mola (Q139622553)
+[https://www.wikidata.org/wiki/Q139622553](https://www.wikidata.org/wiki/Q139622553)  
+
+### alignments:
+ - [Ponte della Mola di San Gregorio da Sassola](https://pleiades.stoa.org/places/132472924)
+
+
 ## Ponte delle Torri (Q16591375)
 [https://www.wikidata.org/wiki/Q16591375](https://www.wikidata.org/wiki/Q16591375)  
 
@@ -40255,6 +40304,13 @@
 
 ### alignments:
  - [Ponte Leproso](https://pleiades.stoa.org/places/668784750)
+
+
+## Ponte Lupo (Q55162589)
+[https://www.wikidata.org/wiki/Q55162589](https://www.wikidata.org/wiki/Q55162589)  
+
+### alignments:
+ - [Ponte Lupo](https://pleiades.stoa.org/places/939936150)
 
 
 ## Ponte Mammolo (Q3907988)
@@ -42245,13 +42301,6 @@
  - [Cattedrale di Santa Maria di Amiternum](https://pleiades.stoa.org/places/900977729)
 
 
-## Q106230047: Torrione di Micara
-[https://www.wikidata.org/wiki/Q106230047](https://www.wikidata.org/wiki/Q106230047)  
-
-### alignments:
- - [Torrione di Micara](https://pleiades.stoa.org/places/622154841)
-
-
 ## Q106237564: Daphni Cave
 [https://www.wikidata.org/wiki/Q106237564](https://www.wikidata.org/wiki/Q106237564)  
 
@@ -42748,13 +42797,6 @@
 
 ### alignments:
  - [Villa Romana di Casalotti](https://pleiades.stoa.org/places/161590165)
-
-
-## Q111383738: Insula Volusiana
-[https://www.wikidata.org/wiki/Q111383738](https://www.wikidata.org/wiki/Q111383738)  
-
-### alignments:
- - [Insula Volusiana](https://pleiades.stoa.org/places/167034775)
 
 
 ## Q1114081: Great Dolmen of Comenda da Igreja
@@ -44234,6 +44276,13 @@
 
 ### alignments:
  - [Grotte dell'Acqua](https://pleiades.stoa.org/places/407809786)
+
+
+## Q131362664
+[https://www.wikidata.org/wiki/Q131362664](https://www.wikidata.org/wiki/Q131362664)  
+
+### alignments:
+ - [Villa Area 5-7 a Tor Vergata](https://pleiades.stoa.org/places/348038268)
 
 
 ## Q13139: Fermo
@@ -47395,13 +47444,6 @@
 
 ### alignments:
  - [Lepti Minus](https://pleiades.stoa.org/places/324767)
-
-
-## Q19740061: Scincomagus
-[https://www.wikidata.org/wiki/Q19740061](https://www.wikidata.org/wiki/Q19740061)  
-
-### alignments:
- - [Scingomagus](https://pleiades.stoa.org/places/167914)
 
 
 ## Q19760797: Pedum
@@ -51938,13 +51980,6 @@
  - [Greek theater of Segesta](https://pleiades.stoa.org/places/866038915)
 
 
-## Q3982366: Roman Theatre of Ascoli Piceno
-[https://www.wikidata.org/wiki/Q3982366](https://www.wikidata.org/wiki/Q3982366)  
-
-### alignments:
- - [Roman theater at Asculum](https://pleiades.stoa.org/places/220487222)
-
-
 ## Q3982370: Roman Theatre of Ostia
 [https://www.wikidata.org/wiki/Q3982370](https://www.wikidata.org/wiki/Q3982370)  
 
@@ -53303,13 +53338,6 @@
 
 ### alignments:
  - [Doric nymphaeum](https://pleiades.stoa.org/places/651986105)
-
-
-## Q55162589: Ponte Lupo
-[https://www.wikidata.org/wiki/Q55162589](https://www.wikidata.org/wiki/Q55162589)  
-
-### alignments:
- - [Ponte Lupo](https://pleiades.stoa.org/places/939936150)
 
 
 ## Q55165670: Temple of Hercules at Lanuvium
@@ -55249,13 +55277,6 @@
 
 ### alignments:
  - [Auld Bourtreebush](https://pleiades.stoa.org/places/126090984)
-
-
-## Q70863776: ancient Roman theater of Cales
-[https://www.wikidata.org/wiki/Q70863776](https://www.wikidata.org/wiki/Q70863776)  
-
-### alignments:
- - [Roman theater at Cales](https://pleiades.stoa.org/places/926867727)
 
 
 ## Q7139774: Parrhasia
@@ -57365,6 +57386,13 @@
  - [Regia](https://pleiades.stoa.org/places/554680094)
 
 
+## Regia of Gabii (Q139600867)
+[https://www.wikidata.org/wiki/Q139600867](https://www.wikidata.org/wiki/Q139600867)  
+
+### alignments:
+ - [Archaic compound (Gabii)](https://pleiades.stoa.org/places/540746347)
+
+
 ## Regiae (Q3423451)
 [https://www.wikidata.org/wiki/Q3423451](https://www.wikidata.org/wiki/Q3423451)  
 
@@ -58974,6 +59002,13 @@
 
 ### alignments:
  - [Theater of Aphrodisias](https://pleiades.stoa.org/places/792804149)
+
+
+## Roman Theatre of Ascoli Piceno (Q3982366)
+[https://www.wikidata.org/wiki/Q3982366](https://www.wikidata.org/wiki/Q3982366)  
+
+### alignments:
+ - [Roman theater at Asculum](https://pleiades.stoa.org/places/220487222)
 
 
 ## Roman Theatre of Aspendos (Q16697381)
@@ -61690,6 +61725,13 @@
 
 ### alignments:
  - [Skillous](https://pleiades.stoa.org/places/570674)
+
+
+## Scincomagus (Q19740061)
+[https://www.wikidata.org/wiki/Q19740061](https://www.wikidata.org/wiki/Q19740061)  
+
+### alignments:
+ - [Scingomagus](https://pleiades.stoa.org/places/167914)
 
 
 ## Scione (Q963571)
@@ -64992,7 +65034,7 @@
 
 
 ## Tarpeian Rock (Q752553)
-[https://www.wikidata.org/wik/Q752553](https://www.wikidata.org/wik/Q752553)  
+[https://www.wikidata.org/wiki/Q752553](https://www.wikidata.org/wiki/Q752553)  
 
 ### alignments:
  - [Tarpeian Rock](https://pleiades.stoa.org/places/928849659)
@@ -66313,6 +66355,13 @@
 
 ### alignments:
  - [Temple of Tellus (Thugga)](https://pleiades.stoa.org/places/379988105)
+
+
+## Temple of the Cough (Q3983216)
+[https://www.wikidata.org/wiki/Q3983216](https://www.wikidata.org/wiki/Q3983216)  
+
+### alignments:
+ - [Tempio della Tosse](https://pleiades.stoa.org/places/512410974)
 
 
 ## Temple of the Dioscuri, Cyrene (Q104776460)
@@ -68757,6 +68806,13 @@
 
 ### alignments:
  - [Torre Aguila](https://pleiades.stoa.org/places/256474)
+
+
+## Torrione di Micara (Q106230047)
+[https://www.wikidata.org/wiki/Q106230047](https://www.wikidata.org/wiki/Q106230047)  
+
+### alignments:
+ - [Torrione di Micara](https://pleiades.stoa.org/places/622154841)
 
 
 ## Torrione prenestino (Q56256447)
@@ -72072,6 +72128,13 @@
  - [Vicus Feniculensis](https://pleiades.stoa.org/places/433197)
 
 
+## Villa Lollius (Q139602629)
+[https://www.wikidata.org/wiki/Q139602629](https://www.wikidata.org/wiki/Q139602629)  
+
+### alignments:
+ - [Lolli Paolini](https://pleiades.stoa.org/places/422962)
+
+
 ## Villa Magna (Q7930405)
 [https://www.wikidata.org/wiki/Q7930405](https://www.wikidata.org/wiki/Q7930405)  
 
@@ -73401,13 +73464,6 @@
 
 ### alignments:
  - [Węsiory](https://pleiades.stoa.org/places/20643)
-
-
-## X Maritime theatre at the Villa Adriana (Q100767646)
-[https://www.wikidata.org/wiki/Q100767646](https://www.wikidata.org/wiki/Q100767646)  
-
-### alignments:
- - [Teatro Marittimo](https://pleiades.stoa.org/places/22372299)
 
 
 ## X7 Barracks (Q121436980)

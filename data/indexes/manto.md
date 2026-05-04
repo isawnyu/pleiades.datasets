@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1014 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
+1017 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3846,6 +3846,13 @@
  - [Antium](https://pleiades.stoa.org/places/422837)
 
 
+## 11313770: the Quirinal Hill (Rome)
+[https://resource.manto.unh.edu/11313770](https://resource.manto.unh.edu/11313770)  
+
+### alignments:
+ - [Quirinal Hill](https://pleiades.stoa.org/places/125119394)
+
+
 ## 11313780: Lake Acherousia (Italy)
 [https://resource.manto.unh.edu/11313780](https://resource.manto.unh.edu/11313780)  
 
@@ -4427,11 +4434,25 @@
  - [Hermaia Akra/Mercurii Pr./Kalon Akroterion?](https://pleiades.stoa.org/places/315036)
 
 
+## 11329412: Olisipo (Iberia)
+[https://resource.manto.unh.edu/11329412](https://resource.manto.unh.edu/11329412)  
+
+### alignments:
+ - [Olisipo](https://pleiades.stoa.org/places/256338)
+
+
 ## 11329422: the Hanging Gardens of Babylon
 [https://resource.manto.unh.edu/11329422](https://resource.manto.unh.edu/11329422)  
 
 ### alignments:
  - [Hanging Gardens of Babylon](https://pleiades.stoa.org/places/55248061)
+
+
+## 11329504: River Savus (C. Europe)
+[https://resource.manto.unh.edu/11329504](https://resource.manto.unh.edu/11329504)  
+
+### alignments:
+ - [Savus (river)](https://pleiades.stoa.org/places/207429)
 
 
 ## 11329531: Colchinium (Illyria)

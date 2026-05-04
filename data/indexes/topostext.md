@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4959 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
+4963 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -5639,7 +5639,7 @@
 [https://topostext.org/place/300312UBab](https://topostext.org/place/300312UBab)  
 
 ### alignments:
- - [Babylon](https://pleiades.stoa.org/places/727082)
+ - [Babylon/al-Fusṭāṭ/Old Cairo](https://pleiades.stoa.org/places/727082)
 
 
 ## Babylon (Iraq)
@@ -27985,6 +27985,13 @@
  - [Regia](https://pleiades.stoa.org/places/554680094)
 
 
+## Regillus (Etruria)
+[https://topostext.org/place/419127WReg](https://topostext.org/place/419127WReg)  
+
+### alignments:
+ - [Lacus Regillus](https://pleiades.stoa.org/places/423023)
+
+
 ## Regina (Iberia)
 [https://topostext.org/place/382000UReg](https://topostext.org/place/382000UReg)  
 
@@ -28955,6 +28962,13 @@
  - [Savo (river)](https://pleiades.stoa.org/places/433108)
 
 
+## Savus (Pannonia)
+[https://topostext.org/place/448204WSav](https://topostext.org/place/448204WSav)  
+
+### alignments:
+ - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
 ## Saxa Rubra (Latium)
 [https://topostext.org/place/420125USaR](https://topostext.org/place/420125USaR)  
 
@@ -29037,6 +29051,13 @@
 
 ### alignments:
  - [School of Homer Ag. Athanasios excavations (Ithaca)](https://pleiades.stoa.org/places/308594948)
+
+
+## Scincomagus (Cottian Alps)
+[https://topostext.org/place/451069USci](https://topostext.org/place/451069USci)  
+
+### alignments:
+ - [Scingomagus](https://pleiades.stoa.org/places/167914)
 
 
 ## Scupi (Paionia) 5 Skopje - Σκούποι
@@ -31081,6 +31102,13 @@
 
 ### alignments:
  - [Taras/Tarentum/Neptunia](https://pleiades.stoa.org/places/442810)
+
+
+## Tarpeian Rock (Rome)
+[https://topostext.org/place/419125LTrp](https://topostext.org/place/419125LTrp)  
+
+### alignments:
+ - [Tarpeian Rock](https://pleiades.stoa.org/places/928849659)
 
 
 ## Tarquinii (Etruria)

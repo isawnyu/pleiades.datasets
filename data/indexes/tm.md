@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5057 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
+5061 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -563,6 +563,13 @@
 
 ### alignments:
  - [Perraibia](https://pleiades.stoa.org/places/491689)
+
+
+## Geo 17200: Municipium Aurelium Commodianum (Henchir Bou Cha)
+[https://www.trismegistos.org/place/17200](https://www.trismegistos.org/place/17200)  
+
+### alignments:
+ - [Municipium Aurelium Commodianum/Thibiuca?](https://pleiades.stoa.org/places/315084)
 
 
 ## Geo 1729: Phakoussai (Faqus)
@@ -8202,6 +8209,13 @@
  - [Ad Speculum?](https://pleiades.stoa.org/places/334478)
 
 
+## GEO ID 17114: Taparura (Sfax)
+[http://www.trismegistos.org/place/17114](http://www.trismegistos.org/place/17114)  
+
+### alignments:
+ - [Taparura](https://pleiades.stoa.org/places/324822)
+
+
 ## GEO ID 17119: Uzalis (El-Alia)
 [http://www.trismegistos.org/place/17119](http://www.trismegistos.org/place/17119)  
 
@@ -12787,6 +12801,13 @@
 
 ### alignments:
  - [Eburobrittium](https://pleiades.stoa.org/places/256153)
+
+
+## GEO ID 25886: Olisipo (Lisboa)
+[https://www.trismegistos.org/place/25886](https://www.trismegistos.org/place/25886)  
+
+### alignments:
+ - [Olisipo](https://pleiades.stoa.org/places/256338)
 
 
 ## GEO ID 25936: Scallabis (Santarém)
@@ -21498,14 +21519,14 @@
 [http://www.trismegistos.org/place/389](http://www.trismegistos.org/place/389)  
 
 ### alignments:
- - [Babylon](https://pleiades.stoa.org/places/727082)
+ - [Babylon/al-Fusṭāṭ/Old Cairo](https://pleiades.stoa.org/places/727082)
 
 
 ## GEO ID 389: Babylon (Fostat)
 [https://www.trismegistos.org/place/389](https://www.trismegistos.org/place/389)  
 
 ### alignments:
- - [Babylon](https://pleiades.stoa.org/places/727082)
+ - [Babylon/al-Fusṭāṭ/Old Cairo](https://pleiades.stoa.org/places/727082)
 
 
 ## GEO ID 3901: Bonchis (Abshek)
@@ -28473,6 +28494,13 @@
 
 ### alignments:
  - [Kadisenoi](https://pleiades.stoa.org/places/876642)
+
+
+## GEO ID 43529: Taphroura
+[http://www.trismegistos.org/place/43529](http://www.trismegistos.org/place/43529)  
+
+### alignments:
+ - [Taphroura/Taparura](https://pleiades.stoa.org/places/321702)
 
 
 ## GEO ID 43544: Chrysoroas (Le Basi Jerash)

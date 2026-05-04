@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2359 alignments exist in _Pleiades_ place references as of 2026-05-01. The following list of alignments is grouped by zotkey.
+2360 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -10321,6 +10321,13 @@
  - [Timezegeri Turris?](https://pleiades.stoa.org/places/344517)
 
 
+## 5C4 (Talbert 265)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace265.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace265.html)  
+
+### alignments:
+ - [Taparura](https://pleiades.stoa.org/places/324822)
+
+
 ## 5C4 (Talbert 266)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace266.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace266.html)  
 
@@ -14814,7 +14821,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace423.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace423.html)  
 
 ### alignments:
- - [Babylon](https://pleiades.stoa.org/places/727082)
+ - [Babylon/al-Fusṭāṭ/Old Cairo](https://pleiades.stoa.org/places/727082)
 
 
 ## 8C4 (Talbert 425)
