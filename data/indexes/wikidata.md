@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10609 alignments exist in _Pleiades_ place references as of 2026-05-04. The following list of alignments is grouped by zotkey.
+10612 alignments exist in _Pleiades_ place references as of 2026-05-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -40243,6 +40243,13 @@
  - [Ponte della Mola di San Gregorio da Sassola](https://pleiades.stoa.org/places/132472924)
 
 
+## Ponte della Selciatella (Q139622813)
+[https://www.wikidata.org/wiki/Q139622813](https://www.wikidata.org/wiki/Q139622813)  
+
+### alignments:
+ - [Selciatella Roman bridge](https://pleiades.stoa.org/places/431699813)
+
+
 ## Ponte delle Torri (Q16591375)
 [https://www.wikidata.org/wiki/Q16591375](https://www.wikidata.org/wiki/Q16591375)  
 
@@ -42834,13 +42841,6 @@
  - [Roman Theatre at Caere](https://pleiades.stoa.org/places/616791790)
 
 
-## Q112208753: Temple of Athena at Ilion
-[https://www.wikidata.org/wiki/Q112208753](https://www.wikidata.org/wiki/Q112208753)  
-
-### alignments:
- - [Temple of Athena (Ilium)](https://pleiades.stoa.org/places/877521473)
-
-
 ## Q1123019: Temple of Olympian Zeus
 [https://www.wikidata.org/wiki/Q1123019](https://www.wikidata.org/wiki/Q1123019)  
 
@@ -44942,6 +44942,13 @@
 
 ### alignments:
  - [Area di Monte Giulio e Capitaneria](https://pleiades.stoa.org/places/848395608)
+
+
+## Q139622201
+[https://www.wikidata.org/wiki/Q139622201](https://www.wikidata.org/wiki/Q139622201)  
+
+### alignments:
+ - [Ponte Sant'Antonio](https://pleiades.stoa.org/places/44877488)
 
 
 ## Q1396850: Tiddis
@@ -65887,6 +65894,13 @@
  - [Temple of Athena at Sounion](https://pleiades.stoa.org/places/579884)
 
 
+## Temple of Athena at Ilion (Q112208753)
+[https://www.wikidata.org/wiki/Q112208753](https://www.wikidata.org/wiki/Q112208753)  
+
+### alignments:
+ - [Temple of Athena (Ilium)](https://pleiades.stoa.org/places/877521473)
+
+
 ## Temple of Athena Chalkioikos (Q57302774)
 [https://www.wikidata.org/wiki/Q57302774](https://www.wikidata.org/wiki/Q57302774)  
 
@@ -72189,6 +72203,13 @@
 
 ### alignments:
  - [Villa of Caius Olius Ampliatus](https://pleiades.stoa.org/places/388120836)
+
+
+## Villa of Capito (Q139618675)
+[https://www.wikidata.org/wiki/Q139618675](https://www.wikidata.org/wiki/Q139618675)  
+
+### alignments:
+ - [Villa di Capitone](https://pleiades.stoa.org/places/785990531)
 
 
 ## Villa of Cassius (Q130251777)
