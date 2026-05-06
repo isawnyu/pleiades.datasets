@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1017 alignments exist in _Pleiades_ place references as of 2026-05-05. The following list of alignments is grouped by zotkey.
+1018 alignments exist in _Pleiades_ place references as of 2026-05-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -840,6 +840,13 @@
 
 ### alignments:
  - [Athmonon](https://pleiades.stoa.org/places/579887)
+
+
+## 10150296: the Stoa Poikile (Athens)
+[https://resource.manto.unh.edu/10150296](https://resource.manto.unh.edu/10150296)  
+
+### alignments:
+ - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
 
 
 ## 10150355: the Sanctuary of Artemis Brauronia at Brauron (Attica)
