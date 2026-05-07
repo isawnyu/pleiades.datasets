@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10612 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+10613 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -28850,6 +28850,13 @@
  - [Larisa Kremaste/Pelasgia](https://pleiades.stoa.org/places/540904)
 
 
+## Larissa Fortress (Q1012861)
+[https://www.wikidata.org/wiki/Q1012861](https://www.wikidata.org/wiki/Q1012861)  
+
+### alignments:
+ - [Larisa Fortress (Argolid)](https://pleiades.stoa.org/places/492759697)
+
+
 ## Larsa (Q244746)
 [https://www.wikidata.org/wiki/Q244746](https://www.wikidata.org/wiki/Q244746)  
 
@@ -51578,7 +51585,7 @@
 [https://www.wikidata.org/wiki/Q38280358](https://www.wikidata.org/wiki/Q38280358)  
 
 ### alignments:
- - [Athena Kranaia, T.](https://pleiades.stoa.org/places/540679)
+ - [Athena Kranaia (temple)](https://pleiades.stoa.org/places/540679)
 
 
 ## Q38280975

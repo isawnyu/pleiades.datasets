@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1018 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+1019 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1246,6 +1246,13 @@
 
 ### alignments:
  - [Pagai](https://pleiades.stoa.org/places/570543)
+
+
+## 10187153: Larisa (Argos)
+[https://resource.manto.unh.edu/10187153](https://resource.manto.unh.edu/10187153)  
+
+### alignments:
+ - [Larisa Fortress (Argolid)](https://pleiades.stoa.org/places/492759697)
 
 
 ## 10191948: Temenion

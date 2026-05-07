@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-531 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+532 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -702,11 +702,19 @@
  - [Ledon](https://pleiades.stoa.org/places/540908)
 
 
+## 10.2.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.2.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.2.4)  
+
+### alignments:
+ - [Tithorea/Neon](https://pleiades.stoa.org/places/541152)
+
+
 ## 10.3.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2)  
 
 ### alignments:
  - [Amphikleia](https://pleiades.stoa.org/places/540629)
+ - [Tithorea/Neon](https://pleiades.stoa.org/places/541152)
 
 
 ## 10.3.2
@@ -776,7 +784,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.34.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.34.7)  
 
 ### alignments:
- - [Athena Kranaia, T.](https://pleiades.stoa.org/places/540679)
+ - [Athena Kranaia (temple)](https://pleiades.stoa.org/places/540679)
 
 
 ## 10.35.1
@@ -995,10 +1003,11 @@
  - [Trachis/Herakleia](https://pleiades.stoa.org/places/541157)
 
 
-## 2.24.1
+## 2.24.1-3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.24.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.24.1)  
 
 ### alignments:
+ - [Larisa Fortress (Argolid)](https://pleiades.stoa.org/places/492759697)
  - [Sanctuaries of Apollo Deiradiotes and Athena Oxyderkes](https://pleiades.stoa.org/places/939076786)
 
 
@@ -1951,7 +1960,6 @@
  - [Psophis](https://pleiades.stoa.org/places/570638)
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Stiris/Steiris](https://pleiades.stoa.org/places/541113)
- - [Tithorea/Neon](https://pleiades.stoa.org/places/541152)
 
 
 ## 4.31.5

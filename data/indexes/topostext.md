@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4963 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+4964 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -5113,7 +5113,7 @@
 [https://topostext.org/place/387228SAth](https://topostext.org/place/387228SAth)  
 
 ### alignments:
- - [Athena Kranaia, T.](https://pleiades.stoa.org/places/540679)
+ - [Athena Kranaia (temple)](https://pleiades.stoa.org/places/540679)
 
 
 ## Athena Nike temple (Athens)
@@ -18194,6 +18194,13 @@
 
 ### alignments:
  - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
+
+
+## Larisa Citadel (Argolid) 34 Argos - Λάρισα
+[https://topostext.org/place/376227FLar](https://topostext.org/place/376227FLar)  
+
+### alignments:
+ - [Larisa Fortress (Argolid)](https://pleiades.stoa.org/places/492759697)
 
 
 ## Larisa Kremaste (Phthiotis)
