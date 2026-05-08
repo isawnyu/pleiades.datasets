@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10613 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+10618 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -23800,6 +23800,13 @@
  - [Bovium?](https://pleiades.stoa.org/places/79340)
 
 
+## Homoloid gate (Q135495756)
+[https://www.wikidata.org/wiki/Q135495756](https://www.wikidata.org/wiki/Q135495756)  
+
+### alignments:
+ - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
+
+
 ## Horace's Villa (Q4012755)
 [https://www.wikidata.org/wiki/Q4012755](https://www.wikidata.org/wiki/Q4012755)  
 
@@ -38373,6 +38380,13 @@
  - [Monument of Eumenes II/Agrippa](https://pleiades.stoa.org/places/573299846)
 
 
+## Pedieis (Q16617291)
+[https://www.wikidata.org/wiki/Q16617291](https://www.wikidata.org/wiki/Q16617291)  
+
+### alignments:
+ - [Pedieis](https://pleiades.stoa.org/places/541016)
+
+
 ## Pedieos (Q905376)
 [https://www.wikidata.org/wiki/Q905376](https://www.wikidata.org/wiki/Q905376)  
 
@@ -42383,6 +42397,13 @@
 
 ### alignments:
  - [Necropolis of Santa Maria in Borraccia](https://pleiades.stoa.org/places/127042386)
+
+
+## Q106526347
+[https://www.wikidata.org/wiki/Q106526347](https://www.wikidata.org/wiki/Q106526347)  
+
+### alignments:
+ - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
 
 
 ## Q106641289: Theater of Patara
@@ -59970,6 +59991,13 @@
  - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
 
+## Saguntum (Q6389103)
+[https://www.wikidata.org/wiki/Q6389103](https://www.wikidata.org/wiki/Q6389103)  
+
+### alignments:
+ - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
+
+
 ## Saint John of Caaveiro (Q3327219)
 [https://www.wikidata.org/wiki/Q3327219](https://www.wikidata.org/wiki/Q3327219)  
 
@@ -60451,6 +60479,13 @@
 
 ### alignments:
  - [San Giovanni in Oleo](https://pleiades.stoa.org/places/108889249)
+
+
+## San Lazzaro degli Armeni (Q1791020)
+[https://www.wikidata.org/wiki/Q1791020](https://www.wikidata.org/wiki/Q1791020)  
+
+### alignments:
+ - [Isola de San Lazzaro degli Armeni](https://pleiades.stoa.org/places/663740691)
 
 
 ## San Lorenzo del Vallo (Q53971)

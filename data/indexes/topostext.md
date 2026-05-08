@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4964 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+4967 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -27,6 +27,13 @@
 
 ### alignments:
  - [Cassiterides](https://pleiades.stoa.org/places/583607985)
+
+
+## 24239: Homoloid gate
+[https://topostext.org/people/24239](https://topostext.org/people/24239)  
+
+### alignments:
+ - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
 
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
@@ -105,6 +112,13 @@
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
+
+
+## 383233FEle
+[https://topostext.org/place/383233FEle](https://topostext.org/place/383233FEle)  
+
+### alignments:
+ - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -3846,6 +3860,13 @@
 
 ### alignments:
  - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
+
+
+## Arabia Felix Eudaemon 73 Yemen
+[https://topostext.org/place/135445RArF](https://topostext.org/place/135445RArF)  
+
+### alignments:
+ - [Arabia Eudaemon](https://pleiades.stoa.org/places/746710)
 
 
 ## Arachnaion Mt. (Argolid)
@@ -24575,7 +24596,7 @@
 [https://topostext.org/place/386227PPed](https://topostext.org/place/386227PPed)  
 
 ### alignments:
- - [Pedieis?](https://pleiades.stoa.org/places/541016)
+ - [Pedieis](https://pleiades.stoa.org/places/541016)
 
 
 ## Pednelissos (Pisidia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-532 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+534 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3909,6 +3909,20 @@
 
 ### alignments:
  - [Encheleioi](https://pleiades.stoa.org/places/481829)
+
+
+## 9.8.5-7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.5)  
+
+### alignments:
+ - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
+
+
+## 9.8.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.7)  
+
+### alignments:
+ - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
 
 
 ## 

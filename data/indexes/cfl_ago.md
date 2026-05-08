@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-466 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+467 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3221,6 +3221,13 @@
 
 ### alignments:
  - [Pallantion](https://pleiades.stoa.org/places/570548)
+
+
+## Toponyme 8202: Panagitsa, Sulebei-Δ.Δ.Παναγίτσας
+[https://chronique.efa.gr/?r=topo_public&id=8202](https://chronique.efa.gr/?r=topo_public&id=8202)  
+
+### alignments:
+ - [Panagitsa](https://pleiades.stoa.org/places/921892403)
 
 
 ## Toponyme 8493: Ag. Andreas, Metapa (119/1957), Bourlesia

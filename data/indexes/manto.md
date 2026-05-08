@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1019 alignments exist in _Pleiades_ place references as of 2026-05-07. The following list of alignments is grouped by zotkey.
+1024 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -973,6 +973,13 @@
 
 ### alignments:
  - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
+
+
+## 10152722: the Temple of Athena Parthenos at Athens
+[https://resource.manto.unh.edu/10152722](https://resource.manto.unh.edu/10152722)  
+
+### alignments:
+ - [Parthenon](https://pleiades.stoa.org/places/168254096)
 
 
 ## 10152747: the Erechtheion (Athens)
@@ -4518,6 +4525,13 @@
  - [Giza](https://pleiades.stoa.org/places/442962448)
 
 
+## 11329765: Saguntum (Iberia)
+[https://resource.manto.unh.edu/11329765](https://resource.manto.unh.edu/11329765)  
+
+### alignments:
+ - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
+
+
 ## 11329850: the Temple of Artemis at Aulis
 [https://resource.manto.unh.edu/11329850](https://resource.manto.unh.edu/11329850)  
 
@@ -6080,6 +6094,20 @@
  - [Kolonos](https://pleiades.stoa.org/places/579985)
 
 
+## 9613747: the Homoloidian Gates (Thebes)
+[https://resource.manto.unh.edu/9613747](https://resource.manto.unh.edu/9613747)  
+
+### alignments:
+ - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
+
+
+## 9613752: the Electran Gates (Thebes)
+[https://resource.manto.unh.edu/9613752](https://resource.manto.unh.edu/9613752)  
+
+### alignments:
+ - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
+
+
 ## 9613774: Mount Cyllene (Arcadia)
 [https://resource.manto.unh.edu/9613774](https://resource.manto.unh.edu/9613774)  
 
@@ -6799,6 +6827,13 @@
 
 ### alignments:
  - [Posideion](https://pleiades.stoa.org/places/668340)
+
+
+## 9748291: Arabia Felix
+[https://resource.manto.unh.edu/9748291](https://resource.manto.unh.edu/9748291)  
+
+### alignments:
+ - [Arabia Eudaemon](https://pleiades.stoa.org/places/746710)
 
 
 ## 9807977: River Iardanos (Elis)
