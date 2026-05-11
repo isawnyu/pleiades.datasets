@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        34.5736203,
-        37.8260608,
-        34.5736203,
-        37.8260608
+        34.57222,
+        37.823151,
+        34.57222,
+        37.823151
     ],
     "connections": [
         {
@@ -348,6 +348,12 @@
         },
         {
             "homepage": null,
+            "name": "Daniel C Browning Jr",
+            "uri": "https://pleiades.stoa.org/author/dbrowning",
+            "username": "dbrowning"
+        },
+        {
+            "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
@@ -382,18 +388,18 @@
         {
             "geometry": {
                 "coordinates": [
-                    34.5736203,
-                    37.8260608
+                    34.57222,
+                    37.823151
                 ],
                 "type": "Point"
             },
-            "id": "osm-location",
+            "id": "tyana-central-point",
             "properties": {
-                "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/648801/osm-location",
+                "description": "Tyana center - likely intersection of major roads based on archaeological survey",
+                "link": "https://pleiades.stoa.org/places/648801/tyana-central-point",
                 "location_precision": "precise",
-                "snippet": "Archaeological-site",
-                "title": "OSM location"
+                "snippet": "Settlement; 30 BC - AD 300",
+                "title": "Survey Location: central point of ancient settlement"
             },
             "type": "Feature"
         }
@@ -504,90 +510,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
-            "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/google-earth-2016ff",
+            "accuracy_value": 5.0,
+            "archaeologicalRemains": "substantive",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [],
-            "created": "2025-05-16T19:07:20Z",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "created": "2026-05-07T17:10:59Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "Jeffrey Becker",
-                    "uri": "https://pleiades.stoa.org/author/jbecker",
-                    "username": "jbecker"
+                    "name": "Daniel C Browning Jr",
+                    "uri": "https://pleiades.stoa.org/author/dbrowning",
+                    "username": "dbrowning"
                 }
             ],
-            "description": "Representative location based on OpenStreetMap",
+            "description": "Tyana center - likely intersection of major roads based on archaeological survey",
             "details": "",
-            "end": null,
+            "end": 300,
             "featureType": [
-                "archaeological-site"
+                "settlement"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
             "geometry": {
                 "coordinates": [
-                    34.5736203,
-                    37.8260608
+                    34.57222,
+                    37.823151
                 ],
                 "type": "Point"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2025-05-19T15:17:47Z",
+                    "modified": "2026-05-08T16:57:25Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2026-05-08T16:57:19Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2025-05-16T19:07:46Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2026-05-07T17:19:06Z",
+                    "modifiedBy": "dbrowning"
                 },
                 {
-                    "comment": "add osm location",
-                    "modified": "2025-05-16T19:07:41Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "Central location to be used with Roman road dataset reconstruction",
+                    "modified": "2026-05-07T17:17:54Z",
+                    "modifiedBy": "dbrowning"
                 },
                 {
-                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2025-05-16T19:07:21Z",
-                    "modifiedBy": "jbecker"
+                    "comment": "likely intersection of major roads based on archaeological survey",
+                    "modified": "2026-05-07T17:11:00Z",
+                    "modifiedBy": "dbrowning"
                 },
                 {
                     "action": "Create",
-                    "modified": "2025-05-16T19:07:20Z",
-                    "modifiedBy": "jbecker"
+                    "modified": "2026-05-07T17:10:59Z",
+                    "modifiedBy": "dbrowning"
                 }
             ],
-            "id": "osm-location",
+            "id": "tyana-central-point",
             "locationType": [
-                "representative"
+                "central_point"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
             ],
-            "provenance": "OpenStreetMap (Node 799989281, version 1, osm:changeset=5129642, 2010-07-04T04:58:37Z)",
+            "provenance": "Pleiades",
             "references": [
                 {
-                    "accessURI": "https://www.openstreetmap.org/browse/node/799989281",
+                    "accessURI": "https://search.worldcat.org/title/44516142",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 799989281",
-                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=799989281",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Berges, Dietrich, and Johannes Nollé. 2000. Tyana: archäologisch-historische Untersuchungen zum südwestlichen Kappadokien. 2 vols. Inschriften griechischer Städte aus Kleinasien 55. R. Habelt. ",
                     "otherIdentifier": "",
-                    "shortTitle": "OSM",
-                    "type": "citesAsDataSource"
+                    "shortTitle": "",
+                    "type": "seeFurther"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "OSM location",
-            "uri": "https://pleiades.stoa.org/places/648801/osm-location"
+            "start": -30,
+            "title": "Survey Location: central point of ancient settlement",
+            "uri": "https://pleiades.stoa.org/places/648801/tyana-central-point"
         }
     ],
     "names": [
@@ -2726,8 +2751,8 @@
         }
     ],
     "reprPoint": [
-        34.5736203,
-        37.8260608
+        34.57222,
+        37.823151
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",

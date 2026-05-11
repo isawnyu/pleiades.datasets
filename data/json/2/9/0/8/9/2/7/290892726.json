@@ -1,33 +1,45 @@
 {
     "@type": "Place",
     "bbox": [
-        3.3541664,
-        39.6872272,
-        3.3541664,
-        39.6872272
+        3.354,
+        39.6873213,
+        3.354,
+        39.6873213
     ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/632227173",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:47:11Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, reference",
+                    "modified": "2026-05-08T14:41:23Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:47:11Z",
@@ -46,7 +58,19 @@
             ],
             "id": "632227173",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://www.wikidata.org/wiki/Q1403219",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+                    "citationDetail": "Ses Païsses (Q1403219)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Wikidata",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Majorca (island)",
@@ -72,23 +96,28 @@
         {
             "geometry": {
                 "coordinates": [
-                    3.3541664,
-                    39.6872272
+                    3.354,
+                    39.6873213
                 ],
                 "type": "Point"
             },
             "id": "location-of-ses-paisses",
             "properties": {
-                "description": "Location based on OpenStreetMap",
+                "description": "Representative location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/290892726/location-of-ses-paisses",
                 "location_precision": "precise",
-                "snippet": "Unknown, Settlement, ; 2000 BC - 1000 BC",
-                "title": "location of Ses Païsses"
+                "snippet": "Settlement, Archaeological-site; 2000 BC - 1000 BC",
+                "title": "OSM location of Ses Païsses"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "wikidata Q1403219",
+            "modified": "2026-05-08T14:40:39Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2013-08-01T18:53:26Z",
@@ -137,27 +166,35 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
             "end": -1000,
             "featureType": [
-                "unknown",
                 "settlement",
-                ""
+                "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
             "geometry": {
                 "coordinates": [
-                    3.3541664,
-                    39.6872272
+                    3.354,
+                    39.6873213
                 ],
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "update",
+                    "modified": "2026-05-08T14:39:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2026-05-08T14:39:00Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-08-01T18:53:34Z",
@@ -189,11 +226,10 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/settlement",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
-            "provenance": "OpenStreetMap (Node 541006537, version 9, osm:changeset=12699263, 2012-08-12T09:20:08Z)",
+            "provenance": "OpenStreetMap (Node 541006537, version 16, osm:changeset=141382596, 2023-09-17T13:43:25Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/541006537",
@@ -209,34 +245,47 @@
             ],
             "review_state": "published",
             "start": -2000,
-            "title": "location of Ses Païsses",
+            "title": "OSM location of Ses Païsses",
             "uri": "https://pleiades.stoa.org/places/290892726/location-of-ses-paisses"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement",
+        "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
     ],
     "placeTypes": [
-        "settlement"
+        "settlement",
+        "archaeological-site"
     ],
     "provenance": "Pleiades",
     "references": [
         {
             "accessURI": "https://en.wikipedia.org/wiki/Ses_Pa%C3%AFsses",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
             "citationDetail": "Ses Païsses",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ses Païsses.",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
             "otherIdentifier": " ",
             "shortTitle": "Wikipedia (English)",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q1403219",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Ses Païsses (Q1403219)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        3.3541664,
-        39.6872272
+        3.354,
+        39.6873213
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
