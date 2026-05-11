@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2026/05/03 06:47:38.730949 GMT-4
+# Date: 2026/05/10 06:47:38.068304 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1277
+# Triple count: 1283
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -314,6 +314,13 @@
     owl:sameAs <http://pleiades.stoa.org/vocabularies/coastal-change>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "coastal change"@en .
+
+<https://pleiades.stoa.org/vocabularies/crop-marks> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/crop-marks>,
+        <https://vocab.getty.edu/aat/300248611>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "crop marks"@en;
+    skos:scopeNote "Crop marks as defined by the Getty Art and Architecture Thesaurus: Variations in the color or growth of crops or other vegetation on the surface of the ground, usually patterns or other recognizable shapes that reflect the shapes of buried walls, ditches, or other remains; used, for example, to locate ancient sites on aerial photographs."@en .
 
 <https://pleiades.stoa.org/vocabularies/cultural-landscape> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/cultural-landscape>,
