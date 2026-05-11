@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5061 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
+5067 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8069,6 +8069,13 @@
  - [Hebron](https://pleiades.stoa.org/places/687915)
 
 
+## GEO ID 16906: Macenites
+[https://www.trismegistos.org/place/16906](https://www.trismegistos.org/place/16906)  
+
+### alignments:
+ - [Macenites](https://pleiades.stoa.org/places/275670)
+
+
 ## GEO ID 16930: Laodikeia (Tell Nebi Mend)
 [http://www.trismegistos.org/place/16930](http://www.trismegistos.org/place/16930)  
 
@@ -10314,6 +10321,13 @@
 
 ### alignments:
  - [Thanaramusa Castra](https://pleiades.stoa.org/places/295354)
+
+
+## GEO ID 20462: Zabi (Bechilga)
+[http://www.trismegistos.org/place/20462](http://www.trismegistos.org/place/20462)  
+
+### alignments:
+ - [Zabi (Iustiniana)](https://pleiades.stoa.org/places/334668)
 
 
 ## GEO ID 20464: Rusguniae (Tementfoust)
@@ -13592,6 +13606,13 @@
 
 ### alignments:
  - [Abu Sha'ar](https://pleiades.stoa.org/places/766332)
+
+
+## GEO ID 27291: Gerunda (Gerona)
+[https://www.trismegistos.org/place/27291](https://www.trismegistos.org/place/27291)  
+
+### alignments:
+ - [Gerunda](https://pleiades.stoa.org/places/246406)
 
 
 ## Geo ID 2729: Ain Labakha
@@ -30185,6 +30206,13 @@
  - [Leonessa](https://pleiades.stoa.org/places/442631)
 
 
+## GEO ID 47508: Wancennes
+[https://www.trismegistos.org/place/47508](https://www.trismegistos.org/place/47508)  
+
+### alignments:
+ - [Wancennes](https://pleiades.stoa.org/places/109451)
+
+
 ## GEO ID 4755: Kambysou Tamieia
 [http://www.trismegistos.org/place/4755](http://www.trismegistos.org/place/4755)  
 
@@ -30844,6 +30872,13 @@
  - [Temple of Jupiter Optimus Maximus](https://pleiades.stoa.org/places/871801169)
 
 
+## GEO ID 50090: Ucennii
+[https://www.trismegistos.org/place/50090](https://www.trismegistos.org/place/50090)  
+
+### alignments:
+ - [Ucennii](https://pleiades.stoa.org/places/167946)
+
+
 ## GEO ID 50106: Oitylos
 [http://www.trismegistos.org/place/50106](http://www.trismegistos.org/place/50106)  
 
@@ -30954,6 +30989,13 @@
 
 ### alignments:
  - [Margara](https://pleiades.stoa.org/places/50687)
+
+
+## GEO ID 50380: Civitas Bencennensis
+[https://www.trismegistos.org/place/50380](https://www.trismegistos.org/place/50380)  
+
+### alignments:
+ - [Civitas Bencennensis](https://pleiades.stoa.org/places/321652)
 
 
 ## GEO ID 50420

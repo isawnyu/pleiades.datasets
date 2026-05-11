@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1024 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
+1028 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2998,6 +2998,13 @@
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
 
 
+## 11302799: Leontini (Sicily)
+[https://resource.manto.unh.edu/11302799](https://resource.manto.unh.edu/11302799)  
+
+### alignments:
+ - [Leontini](https://pleiades.stoa.org/places/462279)
+
+
 ## 11303256: Aiolia
 [https://resource.manto.unh.edu/11303256](https://resource.manto.unh.edu/11303256)  
 
@@ -4154,11 +4161,25 @@
  - [Caenina](https://pleiades.stoa.org/places/438703)
 
 
+## 11321287: Cameria (Italy)
+[https://resource.manto.unh.edu/11321287](https://resource.manto.unh.edu/11321287)  
+
+### alignments:
+ - [Cameria](https://pleiades.stoa.org/places/438704)
+
+
 ## 11321288: Medullia (Italy)
 [https://resource.manto.unh.edu/11321288](https://resource.manto.unh.edu/11321288)  
 
 ### alignments:
  - [Medullium/Medullum](https://pleiades.stoa.org/places/438784)
+
+
+## 11321289: Boilum (Italy)
+[https://resource.manto.unh.edu/11321289](https://resource.manto.unh.edu/11321289)  
+
+### alignments:
+ - [Bolani](https://pleiades.stoa.org/places/438696)
 
 
 ## 11321421: Aigai (Macedonia)
@@ -4439,6 +4460,13 @@
 
 ### alignments:
  - [Rostra](https://pleiades.stoa.org/places/796942355)
+
+
+## 11329242: Trica
+[https://resource.manto.unh.edu/11329242](https://resource.manto.unh.edu/11329242)  
+
+### alignments:
+ - [Trica](https://pleiades.stoa.org/places/446299)
 
 
 ## 11329378: Cape Apollo (N. Africa)?

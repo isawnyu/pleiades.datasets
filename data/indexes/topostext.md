@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4967 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
+4976 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -3813,6 +3813,13 @@
  - [Aquae Granni](https://pleiades.stoa.org/places/108749)
 
 
+## Aquae Sextiae Col. (Gallia)
+[https://topostext.org/place/435054UCol](https://topostext.org/place/435054UCol)  
+
+### alignments:
+ - [Col. Aquae Sextiae](https://pleiades.stoa.org/places/148053)
+
+
 ## Aquae Statiellae (Italy)
 [https://topostext.org/place/44785UAqu](https://topostext.org/place/44785UAqu)  
 
@@ -7049,6 +7056,13 @@
  - [Cambodunum (Raetia)](https://pleiades.stoa.org/places/187335)
 
 
+## Cameria (Italia)
+[https://topostext.org/place/421128UCam](https://topostext.org/place/421128UCam)  
+
+### alignments:
+ - [Cameria](https://pleiades.stoa.org/places/438704)
+
+
 ## Camerinum (Italia)
 [https://topostext.org/place/431131UCam](https://topostext.org/place/431131UCam)  
 
@@ -8043,6 +8057,13 @@
 
 ### alignments:
  - [Cithaeron (mountain)](https://pleiades.stoa.org/places/540714)
+
+
+## Civitella/Campochiaro (Samnium)
+[https://topostext.org/place/414145SCam](https://topostext.org/place/414145SCam)  
+
+### alignments:
+ - [Campochiaro](https://pleiades.stoa.org/places/432746)
 
 
 ## Clastidium (Italy)
@@ -12064,6 +12085,13 @@
  - [Gerra](https://pleiades.stoa.org/places/687909)
 
 
+## Gerunda (Tarraconensis)
+[https://topostext.org/place/420028UGer](https://topostext.org/place/420028UGer)  
+
+### alignments:
+ - [Gerunda](https://pleiades.stoa.org/places/246406)
+
+
 ## Gesoriacum/Bononia (Gallia)
 [https://topostext.org/place/507016UGes](https://topostext.org/place/507016UGes)  
 
@@ -12405,6 +12433,13 @@
 
 ### alignments:
  - [Grumentum](https://pleiades.stoa.org/places/442603)
+
+
+## Grumum (Italia)
+[https://topostext.org/place/410167UGru](https://topostext.org/place/410167UGru)  
+
+### alignments:
+ - [*Grumum](https://pleiades.stoa.org/places/442604)
 
 
 ## Grynchai (Euboea)
@@ -14712,6 +14747,13 @@
 
 ### alignments:
  - [Iulium Carnicum](https://pleiades.stoa.org/places/187430)
+
+
+## Iuvanum (Italia) Fonticelle
+[https://topostext.org/place/420142UIuv](https://topostext.org/place/420142UIuv)  
+
+### alignments:
+ - [Iuvanum](https://pleiades.stoa.org/places/432887)
 
 
 ## Iuvavum (Noricum) 5 Salzburg
@@ -20663,6 +20705,13 @@
 
 ### alignments:
  - [Meninx/Lotophagitis/Girba (island)](https://pleiades.stoa.org/places/344440)
+
+
+## Menorca (Iberia)
+[https://topostext.org/place/40041IMen](https://topostext.org/place/40041IMen)  
+
+### alignments:
+ - [Minorca (island)](https://pleiades.stoa.org/places/572631626)
 
 
 ## Menouthis (Egypt)
@@ -29769,6 +29818,13 @@
  - [Sintike](https://pleiades.stoa.org/places/491720)
 
 
+## Sinuessa (Campania) 65 Mondragone - Σινοέσση
+[https://topostext.org/place/411139USin](https://topostext.org/place/411139USin)  
+
+### alignments:
+ - [Sinues(s)a/Sinope](https://pleiades.stoa.org/places/433122)
+
+
 ## Siphai (Boeotia)
 [https://topostext.org/place/382230PSip](https://topostext.org/place/382230PSip)  
 
@@ -31663,6 +31719,13 @@
 
 ### alignments:
  - [Temple of Demeter and Kore](https://pleiades.stoa.org/places/260724426)
+
+
+## Terventum (Italy)
+[https://topostext.org/place/418146UTer](https://topostext.org/place/418146UTer)  
+
+### alignments:
+ - [Terventum](https://pleiades.stoa.org/places/433149)
 
 
 ## Tes Kores to Gephyri site (Chios)  Tes Kores to Gephyri

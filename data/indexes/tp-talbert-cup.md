@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2360 alignments exist in _Pleiades_ place references as of 2026-05-08. The following list of alignments is grouped by zotkey.
+2362 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2508,13 +2508,17 @@
 
 
 ## 1B1 (Talbert 770) Ce++nda
-[http://www.cambridge.org/us/talbert/talbertdatabase/prm.html](http://www.cambridge.org/us/talbert/talbertdatabase/prm.html)  
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace770.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace770.html)  
 
 ### alignments:
- - [Ad Novas](https://pleiades.stoa.org/places/393364)
- - [Bovillae](https://pleiades.stoa.org/places/422852)
  - [Gerunda](https://pleiades.stoa.org/places/246406)
- - [Larissa](https://pleiades.stoa.org/places/631221)
+
+
+## 1B1 (Talbert 771)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace771.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace771.html)  
+
+### alignments:
+ - [Cinniana](https://pleiades.stoa.org/places/246335)
 
 
 ## 1B1-1B2 (Talbert 2847)
@@ -7115,6 +7119,15 @@
 
 ### alignments:
  - [Sabis](https://pleiades.stoa.org/places/393487)
+
+
+## 4B1 (Talbert 1142)
+[http://www.cambridge.org/us/talbert/talbertdatabase/prm.html](http://www.cambridge.org/us/talbert/talbertdatabase/prm.html)  
+
+### alignments:
+ - [Ad Novas](https://pleiades.stoa.org/places/393364)
+ - [Bovillae](https://pleiades.stoa.org/places/422852)
+ - [Larissa](https://pleiades.stoa.org/places/631221)
 
 
 ## 4B1 (Talbert 1153)
