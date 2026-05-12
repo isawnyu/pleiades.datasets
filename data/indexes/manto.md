@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1028 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
+1030 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -791,6 +791,13 @@
 
 ### alignments:
  - [Side](https://pleiades.stoa.org/places/570669)
+
+
+## 10149864: the Neistan Gates (Thebes)
+[https://resource.manto.unh.edu/10149864](https://resource.manto.unh.edu/10149864)  
+
+### alignments:
+ - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
 
 
 ## 10149872: Pergamon
@@ -4880,6 +4887,13 @@
 
 ### alignments:
  - [Scamander (river)](https://pleiades.stoa.org/places/550871)
+
+
+## 8195110: the Temple of Athena at Troy
+[https://resource.manto.unh.edu/8195110](https://resource.manto.unh.edu/8195110)  
+
+### alignments:
+ - [Bronze Age Temple of Athena (Ilium)](https://pleiades.stoa.org/places/989175579)
 
 
 ## 8195121: Thymbra (Troad)

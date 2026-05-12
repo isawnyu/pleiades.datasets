@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10643 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
+10650 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9863,6 +9863,13 @@
  - [Broomholm](https://pleiades.stoa.org/places/752369279)
 
 
+## Brough-on-Humber (Samian Ware Discovery Site) (Q103155707)
+[https://www.wikidata.org/wiki/Q103155707](https://www.wikidata.org/wiki/Q103155707)  
+
+### alignments:
+ - [*Petuaria](https://pleiades.stoa.org/places/79639)
+
+
 ## Brownhart Law Roman fortlet (Q56666539)
 [https://www.wikidata.org/wiki/Q56666539](https://www.wikidata.org/wiki/Q56666539)  
 
@@ -14947,6 +14954,13 @@
 
 ### alignments:
  - [Cloghanmore](https://pleiades.stoa.org/places/930092846)
+
+
+## Closos de Can Gaià (Q5829990)
+[https://www.wikidata.org/wiki/Q5829990](https://www.wikidata.org/wiki/Q5829990)  
+
+### alignments:
+ - [Closos de Ca'n Gaià](https://pleiades.stoa.org/places/712997240)
 
 
 ## Clostra Romana (Q137593252)
@@ -36777,6 +36791,13 @@
  - [Old Winchester Hill](https://pleiades.stoa.org/places/460428554)
 
 
+## Old Winteringham Roman settlement (Q17641676)
+[https://www.wikidata.org/wiki/Q17641676](https://www.wikidata.org/wiki/Q17641676)  
+
+### alignments:
+ - [Old Winteringham](https://pleiades.stoa.org/places/308048141)
+
+
 ## Oldberry Castle (Q7085504)
 [https://www.wikidata.org/wiki/Q7085504](https://www.wikidata.org/wiki/Q7085504)  
 
@@ -42525,6 +42546,13 @@
  - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
 
 
+## Q106526386
+[https://www.wikidata.org/wiki/Q106526386](https://www.wikidata.org/wiki/Q106526386)  
+
+### alignments:
+ - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
+
+
 ## Q106641289: Theater of Patara
 [https://www.wikidata.org/wiki/Q106641289](https://www.wikidata.org/wiki/Q106641289)  
 
@@ -45110,6 +45138,13 @@
 
 ### alignments:
  - [Fratuertium/Fratuentium](https://pleiades.stoa.org/places/446244)
+
+
+## Q139762276
+[https://www.wikidata.org/wiki/Q139762276](https://www.wikidata.org/wiki/Q139762276)  
+
+### alignments:
+ - [*Incerulae](https://pleiades.stoa.org/places/413175)
 
 
 ## Q140345: Zagora
@@ -68696,6 +68731,13 @@
  - [Tomb of the Stronnii](https://pleiades.stoa.org/places/90074311)
 
 
+## Tomb of the Tassinara (Q3531048)
+[https://www.wikidata.org/wiki/Q3531048](https://www.wikidata.org/wiki/Q3531048)  
+
+### alignments:
+ - [Tomb of the Tassinara](https://pleiades.stoa.org/places/473872874)
+
+
 ## Tomb of Tiberius Claudius Secundus (Q110832905)
 [https://www.wikidata.org/wiki/Q110832905](https://www.wikidata.org/wiki/Q110832905)  
 
@@ -73618,6 +73660,13 @@
 
 ### alignments:
  - [Wincobank hill fort](https://pleiades.stoa.org/places/502974419)
+
+
+## Winterton Roman Villa (Q15133937)
+[https://www.wikidata.org/wiki/Q15133937](https://www.wikidata.org/wiki/Q15133937)  
+
+### alignments:
+ - [Winterton](https://pleiades.stoa.org/places/79766)
 
 
 ## Wiston Roman fort (Q72160229)

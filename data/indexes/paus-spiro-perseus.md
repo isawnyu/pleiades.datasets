@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-534 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
+536 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3748,6 +3748,13 @@
  - [Hyettos](https://pleiades.stoa.org/places/540823)
 
 
+## 9.25.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.25.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.25.1)  
+
+### alignments:
+ - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
+
+
 ## 9.25.5
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.25.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.25.5)  
 
@@ -3909,6 +3916,13 @@
 
 ### alignments:
  - [Encheleioi](https://pleiades.stoa.org/places/481829)
+
+
+## 9.8.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.8.4)  
+
+### alignments:
+ - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
 
 
 ## 9.8.5-7

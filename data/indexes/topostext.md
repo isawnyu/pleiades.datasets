@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4976 alignments exist in _Pleiades_ place references as of 2026-05-11. The following list of alignments is grouped by zotkey.
+4978 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -20,6 +20,13 @@
 
 ### alignments:
  - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
+
+
+## 21415: Angulani
+[https://topostext.org/people/21415](https://topostext.org/people/21415)  
+
+### alignments:
+ - [Angulani](https://pleiades.stoa.org/places/907860742)
 
 
 ## 23453
@@ -119,6 +126,13 @@
 
 ### alignments:
  - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
+
+
+## 383233FNei
+[https://topostext.org/place/383233FNei](https://topostext.org/place/383233FNei)  
+
+### alignments:
+ - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
