@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1030 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
+1033 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2018,6 +2018,13 @@
  - [Antigoneia/(Col. Augusta) Alexandria Troas](https://pleiades.stoa.org/places/550434)
 
 
+## 10270810: Inycos (Sicily)
+[https://resource.manto.unh.edu/10270810](https://resource.manto.unh.edu/10270810)  
+
+### alignments:
+ - [Inykon?](https://pleiades.stoa.org/places/462261)
+
+
 ## 10270831: the Castalian Spring (Delphi)
 [https://resource.manto.unh.edu/10270831](https://resource.manto.unh.edu/10270831)  
 
@@ -3741,6 +3748,13 @@
  - [Caere](https://pleiades.stoa.org/places/422859)
 
 
+## 11312688: Silvium (Italy)
+[https://resource.manto.unh.edu/11312688](https://resource.manto.unh.edu/11312688)  
+
+### alignments:
+ - [Silvium](https://pleiades.stoa.org/places/442796)
+
+
 ## 11312703: Nola (Italy)
 [https://resource.manto.unh.edu/11312703](https://resource.manto.unh.edu/11312703)  
 
@@ -4222,6 +4236,13 @@
 
 ### alignments:
  - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
+
+
+## 11322892: Peucetia (Italy)
+[https://resource.manto.unh.edu/11322892](https://resource.manto.unh.edu/11322892)  
+
+### alignments:
+ - [Peucetii](https://pleiades.stoa.org/places/442714)
 
 
 ## 11324108: Acte (Chalcidice)

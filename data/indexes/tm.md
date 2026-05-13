@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5067 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
+5072 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -9308,6 +9308,13 @@
  - [Premis](https://pleiades.stoa.org/places/795845)
 
 
+## GEO ID 19266: Sipia (Visseiche)
+[https://www.trismegistos.org/place/19266](https://www.trismegistos.org/place/19266)  
+
+### alignments:
+ - [Sipia](https://pleiades.stoa.org/places/69571)
+
+
 ## GEO ID 1948: Pselemachis
 [https://www.trismegistos.org/place/1948](https://www.trismegistos.org/place/1948)  
 
@@ -11863,6 +11870,13 @@
 
 ### alignments:
  - [Autessiodurum](https://pleiades.stoa.org/places/138206)
+
+
+## GEO ID 23650: Ingena (Avranches)
+[https://www.trismegistos.org/place/23650](https://www.trismegistos.org/place/23650)  
+
+### alignments:
+ - [Ingena/Abrincas](https://pleiades.stoa.org/places/69518)
 
 
 ## GEO ID 23656: Segessera (Bar-sur-Aube)
@@ -17916,6 +17930,13 @@
  - [Ligures Corneliani?](https://pleiades.stoa.org/places/442636)
 
 
+## GEO ID 33039: Saltus Carminianensis
+[https://www.trismegistos.org/place/33039](https://www.trismegistos.org/place/33039)  
+
+### alignments:
+ - [Saltus Carminianensis](https://pleiades.stoa.org/places/442764)
+
+
 ## GEO ID 3304
 [http://www.trismegistos.org/place/3304](http://www.trismegistos.org/place/3304)  
 
@@ -23306,6 +23327,13 @@
 
 ### alignments:
  - [‘Bandritum’](https://pleiades.stoa.org/places/138215)
+
+
+## GEO ID 41034: Coriallum (Cherbourg)
+[https://www.trismegistos.org/place/41034](https://www.trismegistos.org/place/41034)  
+
+### alignments:
+ - [Coriallum](https://pleiades.stoa.org/places/69493)
 
 
 ## GEO ID 41036: Sitilia (Thiel-sur-Acolin)
@@ -29924,6 +29952,13 @@
 
 ### alignments:
  - [S. Giovanni in Galdo](https://pleiades.stoa.org/places/433086)
+
+
+## GEO ID 45810: San Martino in Pensilis
+[http://www.trismegistos.org/place/45810](http://www.trismegistos.org/place/45810)  
+
+### alignments:
+ - [S. Martino in Pensilis](https://pleiades.stoa.org/places/442777)
 
 
 ## GEO ID 45813: San Vincenzo al Volturno

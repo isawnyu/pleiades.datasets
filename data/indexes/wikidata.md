@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10650 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
+10661 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3330,6 +3330,13 @@
  - [Abdera](https://pleiades.stoa.org/places/501323)
 
 
+## Ancient Agora of Argos (Q38281281)
+[https://www.wikidata.org/wiki/Q38281281](https://www.wikidata.org/wiki/Q38281281)  
+
+### alignments:
+ - [Ancient Agora of Argos](https://pleiades.stoa.org/places/84693646)
+
+
 ## Ancient Agora of Athens (Q395367)
 [https://www.wikidata.org/wiki/Q395367](https://www.wikidata.org/wiki/Q395367)  
 
@@ -5346,6 +5353,20 @@
  - [Akte](https://pleiades.stoa.org/places/573068)
 
 
+## Argos (Q13533353)
+[https://www.wikidata.org/wiki/Q13533353](https://www.wikidata.org/wiki/Q13533353)  
+
+### alignments:
+ - [Argos](https://pleiades.stoa.org/places/570106)
+
+
+## Argos (Q189901)
+[https://www.wikidata.org/wiki/Q189901](https://www.wikidata.org/wiki/Q189901)  
+
+### alignments:
+ - [Argos](https://pleiades.stoa.org/places/570106)
+
+
 ## Arguenon (Q2861062)
 [https://www.wikidata.org/wiki/Q2861062](https://www.wikidata.org/wiki/Q2861062)  
 
@@ -6801,6 +6822,13 @@
 
 ### alignments:
  - [Abolla](https://pleiades.stoa.org/places/462063)
+
+
+## Avranches (Q204430)
+[https://www.wikidata.org/wiki/Q204430](https://www.wikidata.org/wiki/Q204430)  
+
+### alignments:
+ - [Ingena/Abrincas](https://pleiades.stoa.org/places/69518)
 
 
 ## Axiacae (Q138864235)
@@ -12246,6 +12274,13 @@
  - [Castel Lagopesole](https://pleiades.stoa.org/places/727086379)
 
 
+## Castle of Mussomeli (Q979043)
+[https://www.wikidata.org/wiki/Q979043](https://www.wikidata.org/wiki/Q979043)  
+
+### alignments:
+ - [Castello di Mussomeli](https://pleiades.stoa.org/places/72999594)
+
+
 ## Castle of Rocca Calascio (Q1166100)
 [https://www.wikidata.org/wiki/Q1166100](https://www.wikidata.org/wiki/Q1166100)  
 
@@ -15411,6 +15446,13 @@
  - [Iulia Concordia](https://pleiades.stoa.org/places/393441)
 
 
+## Condate Riedonum (Q16507528)
+[https://www.wikidata.org/wiki/Q16507528](https://www.wikidata.org/wiki/Q16507528)  
+
+### alignments:
+ - [Condate Redonum](https://pleiades.stoa.org/places/69491)
+
+
 ## Condercum (Q5159195)
 [https://www.wikidata.org/wiki/Q5159195](https://www.wikidata.org/wiki/Q5159195)  
 
@@ -15795,6 +15837,13 @@
 
 ### alignments:
  - [Cotini](https://pleiades.stoa.org/places/128386)
+
+
+## Coutances (Q202565)
+[https://www.wikidata.org/wiki/Q202565](https://www.wikidata.org/wiki/Q202565)  
+
+### alignments:
+ - [Cosedia/Constantia](https://pleiades.stoa.org/places/69494)
 
 
 ## Coventina's Well (Q107978385)
@@ -22008,6 +22057,13 @@
  - [Great Temple of Petra](https://pleiades.stoa.org/places/777218559)
 
 
+## Great Theatre of Argos (Q24912661)
+[https://www.wikidata.org/wiki/Q24912661](https://www.wikidata.org/wiki/Q24912661)  
+
+### alignments:
+ - [Ancient Theater of Argos](https://pleiades.stoa.org/places/567146275)
+
+
 ## Great Theatre of Pompeii (Q3982012)
 [https://www.wikidata.org/wiki/Q3982012](https://www.wikidata.org/wiki/Q3982012)  
 
@@ -25240,6 +25296,13 @@
 
 ### alignments:
  - [Inverquharity](https://pleiades.stoa.org/places/25339216)
+
+
+## Inycum (Q969998)
+[https://www.wikidata.org/wiki/Q969998](https://www.wikidata.org/wiki/Q969998)  
+
+### alignments:
+ - [Inykon?](https://pleiades.stoa.org/places/462261)
 
 
 ## Iolcos (Q662613)
@@ -46156,13 +46219,6 @@
  - [Belbina (island)](https://pleiades.stoa.org/places/570150)
 
 
-## Q16507528: Condate Riedonum
-[https://www.wikidata.org/wiki/Q16507528](https://www.wikidata.org/wiki/Q16507528)  
-
-### alignments:
- - [Condate Redonum](https://pleiades.stoa.org/places/69491)
-
-
 ## Q16521555: Pythionike monument
 [https://www.wikidata.org/wiki/Q16521555](https://www.wikidata.org/wiki/Q16521555)  
 
@@ -47352,13 +47408,6 @@
 
 ### alignments:
  - [Pont du Gard](https://pleiades.stoa.org/places/149496)
-
-
-## Q189901: Argos
-[https://www.wikidata.org/wiki/Q189901](https://www.wikidata.org/wiki/Q189901)  
-
-### alignments:
- - [Argos](https://pleiades.stoa.org/places/570106)
 
 
 ## Q190053
@@ -60866,6 +60915,13 @@
  - [Villards-d’Heria](https://pleiades.stoa.org/places/177659)
 
 
+## Sanctuaries of Apollo Deiradiotis and Athena Oxyderkes (Q38281150)
+[https://www.wikidata.org/wiki/Q38281150](https://www.wikidata.org/wiki/Q38281150)  
+
+### alignments:
+ - [Sanctuaries of Apollo Deiradiotes and Athena Oxyderkes](https://pleiades.stoa.org/places/939076786)
+
+
 ## Sanctuary 18/19 (Q122158575)
 [https://www.wikidata.org/wiki/Q122158575](https://www.wikidata.org/wiki/Q122158575)  
 
@@ -63098,6 +63154,13 @@
 
 ### alignments:
  - [Silvanectes](https://pleiades.stoa.org/places/109345)
+
+
+## Silvium (Q3974278)
+[https://www.wikidata.org/wiki/Q3974278](https://www.wikidata.org/wiki/Q3974278)  
+
+### alignments:
+ - [Silvium](https://pleiades.stoa.org/places/442796)
 
 
 ## Simav River (Q3181444)
@@ -71104,6 +71167,13 @@
  - [Kainepolis](https://pleiades.stoa.org/places/863815)
 
 
+## Vagnari (Gravina in Puglia, Italy) (Q139766165)
+[https://www.wikidata.org/wiki/Q139766165](https://www.wikidata.org/wiki/Q139766165)  
+
+### alignments:
+ - [Vagnari](https://pleiades.stoa.org/places/303135575)
+
+
 ## Vagniacis (Q68133414)
 [https://www.wikidata.org/wiki/Q68133414](https://www.wikidata.org/wiki/Q68133414)  
 
@@ -73730,6 +73800,13 @@
 
 ### alignments:
  - [Worlebury Camp](https://pleiades.stoa.org/places/893850615)
+
+
+## Worplesdon (Samian Ware Discovery Site) (Q103200263)
+[https://www.wikidata.org/wiki/Q103200263](https://www.wikidata.org/wiki/Q103200263)  
+
+### alignments:
+ - [Worplesdon](https://pleiades.stoa.org/places/79771)
 
 
 ## Wortley Roman Villa (Q131912678)

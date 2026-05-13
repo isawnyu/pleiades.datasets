@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2362 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
+2363 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2547,6 +2547,13 @@
 
 ### alignments:
  - [Bituriges Vivisci](https://pleiades.stoa.org/places/138226)
+
+
+## 1B2 (Talbert 669)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace669.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace669.html)  
+
+### alignments:
+ - [Sipia](https://pleiades.stoa.org/places/69571)
 
 
 ## 1B2 (Talbert 671)

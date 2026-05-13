@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4978 alignments exist in _Pleiades_ place references as of 2026-05-12. The following list of alignments is grouped by zotkey.
+4980 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -3398,6 +3398,13 @@
 
 ### alignments:
  - [Temple of Apollo Daphnephoros](https://pleiades.stoa.org/places/462127127)
+
+
+## Apollo Deiradiotis (Argos) 3 Argos - Δειραδιώτης
+[https://topostext.org/place/376227SApD](https://topostext.org/place/376227SApD)  
+
+### alignments:
+ - [Sanctuaries of Apollo Deiradiotes and Athena Oxyderkes](https://pleiades.stoa.org/places/939076786)
 
 
 ## Apollo Didymaios/Branchidai (Caria)
@@ -31887,6 +31894,13 @@
 
 ### alignments:
  - [Graeco-Roman theater at Isthmia](https://pleiades.stoa.org/places/513030903)
+
+
+## theater of Argos (Argos)
+[https://topostext.org/place/376227BThA](https://topostext.org/place/376227BThA)  
+
+### alignments:
+ - [Ancient Theater of Argos](https://pleiades.stoa.org/places/567146275)
 
 
 ## Theater of Dionysos (Sikyon)
