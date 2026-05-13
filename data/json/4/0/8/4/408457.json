@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.9,
-        42.35,
-        10.9,
-        42.35
+        10.9227586,
+        42.3590838,
+        10.923242,
+        42.3592857
     ],
     "connections": [
         {
@@ -85,56 +85,59 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-15T18:56:18Z",
+    "created": "2026-05-12T20:55:38Z",
     "creators": [
         {
             "name": "W.V. Harris",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 41 D5 unnamed villa (Igilium Ins.)",
+    "description": "A massive Roman maritime villa that stretched across multiple platforms and the hill known as Poggio del Castellare at Giglio Porto. It was continuously occupied from the first century BCE through the fourth century CE and was renovated and expanded multiple times. During the empire, it was equipped with a large fishpond (the so-called Bagno del Saraceno/Cala del Saracino), which had been converted from an original landing, as well as a lighthouse and possibly thermal baths. Subsequent structures have been built with and over the villa and some of its components are now underwater as well.",
     "details": "<p>The Barrington Atlas Directory notes: Igilium Ins.</p>",
     "features": [
         {
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            10.5,
-                            42.0
-                        ],
-                        [
-                            11.0,
-                            42.0
-                        ],
-                        [
-                            11.0,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.0
-                        ]
-                    ]
+                    10.9227586,
+                    42.3592857
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
-            "id": "batlas-location",
+            "id": "osm-location-cala-del-saracino",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/408457/batlas-location",
-                "location_precision": "rough",
-                "snippet": "Unknown; 330 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/408457/osm-location-cala-del-saracino",
+                "location_precision": "precise",
+                "snippet": "Fishpond, Harbor; 30 BC - AD 300",
+                "title": "OSM Location: Cala del Saracino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.923242,
+                    42.3590838
+                ],
+                "type": "Point"
+            },
+            "id": "location-of-roman-villa-in-localita-saraceno",
+            "properties": {
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/408457/location-of-roman-villa-in-localita-saraceno",
+                "location_precision": "precise",
+                "snippet": "Villa; 30 BC - AD 300",
+                "title": "OSM location of Roman villa in località Saraceno"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; place type; added Giuffrè 2026; added location of the fishpond, which is clearly visible on satellite imagery whereas the rest of the villa is subterranean. @thomase",
+            "modified": "2026-05-13T00:07:05Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2024-01-17T21:49:44Z",
@@ -180,18 +183,12 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
-            "archaeologicalRemains": "unknown",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "traces",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "hellenistic-republican",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
@@ -199,108 +196,229 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-11-15T18:56:18Z",
+            "contributors": [],
+            "created": "2026-05-12T21:12:24Z",
             "creators": [
                 {
-                    "name": "W.V. Harris",
-                    "username": null
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 300,
             "featureType": [
-                "unknown"
+                "fishpond",
+                "harbor"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fishpond",
+                "https://pleiades.stoa.org/vocabularies/place-types/harbor"
             ],
             "geometry": {
                 "coordinates": [
-                    [
-                        [
-                            10.5,
-                            42.0
-                        ],
-                        [
-                            11.0,
-                            42.0
-                        ],
-                        [
-                            11.0,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.5
-                        ],
-                        [
-                            10.5,
-                            42.0
-                        ]
-                    ]
+                    10.9227586,
+                    42.3592857
                 ],
-                "type": "Polygon"
+                "type": "Point"
             },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:46:15Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-11-15T19:06:08Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2026-05-13T00:07:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-15T19:02:12Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-05-12T21:19:16Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-05-12T21:13:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-05-12T21:12:24Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-15T18:56:18Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-05-12T21:12:24Z",
+                    "modifiedBy": "thomase"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-cala-del-saracino",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/fishpond",
+                "https://pleiades.stoa.org/vocabularies/place-types/harbor"
             ],
-            "provenance": "Barrington Atlas: BAtlas 41 D5",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 3121034498, version 1, osm:changeset=25967743, 2014-10-09T18:51:33Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3121034498",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3121034498",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=3121034498",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://engramma.it/eOS/index.php?id_articolo=6170",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TUGRH64W",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Giuffrè, Enrico Maria, and Jacopo Tabolli. “A Gondola, a Fishpond and, Perhaps, a Thermal Bath. New Evidence from Isola Del Giglio.” <i>La Rivista Di Engramma</i> 2026, no. 231 (January 22, 2026). https://doi.org/10.25432/1826-901X/2026.231.0009.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Giuffrè 2026",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -330,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/408457/batlas-location"
+            "start": -30,
+            "title": "OSM Location: Cala del Saracino",
+            "uri": "https://pleiades.stoa.org/places/408457/osm-location-cala-del-saracino"
+        },
+        {
+            "@type": "Location",
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
+            "archaeologicalRemains": "unknown",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
+            "contributors": [],
+            "created": "2013-12-01T18:18:32Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "Location based on OpenStreetMap",
+            "details": "",
+            "end": 300,
+            "featureType": [
+                "villa"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "geometry": {
+                "coordinates": [
+                    10.923242,
+                    42.3590838
+                ],
+                "type": "Point"
+            },
+            "history": [
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2026-04-17T15:13:53Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Publish externally",
+                    "modified": "2022-12-20T20:21:58Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2017-02-10T03:31:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2015-05-16T16:03:25Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added location",
+                    "modified": "2013-12-01T18:19:13Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2013-12-01T18:18:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2013-12-01T18:18:34Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "location-of-roman-villa-in-localita-saraceno",
+            "locationType": [
+                "representative"
+            ],
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/villa"
+            ],
+            "provenance": "OpenStreetMap (Node 2560244208, version 2, osm:changeset=139788943, 2023-08-12T13:53:17Z)",
+            "references": [
+                {
+                    "accessURI": "http://www.openstreetmap.org/browse/node/2560244208",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 2560244208",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=2560244208",
+                    "otherIdentifier": " ",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "http://www.parcodeglietruschi.it/cda/pte/view/scheda.jsp?OTYPE_ID=1383&ID=11749&CAT_ID=10814&CAT_PARENT=10810&Lang=LANGIT",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "Villa romana in località Saraceno (Isola del Giglio)",
+                    "otherIdentifier": " ",
+                    "shortTitle": "",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "OSM location of Roman villa in località Saraceno",
+            "uri": "https://pleiades.stoa.org/places/408457/location-of-roman-villa-in-localita-saraceno"
         }
     ],
     "names": [],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/villa"
+        "https://pleiades.stoa.org/vocabularies/place-types/lighthouse",
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
+        "https://pleiades.stoa.org/vocabularies/place-types/harbor",
+        "https://pleiades.stoa.org/vocabularies/place-types/fishpond",
+        "https://pleiades.stoa.org/vocabularies/place-types/bath"
     ],
     "placeTypes": [
-        "villa"
+        "lighthouse",
+        "villa",
+        "harbor",
+        "fishpond",
+        "bath"
     ],
     "provenance": "Barrington Atlas: BAtlas 41 D5",
     "references": [
@@ -325,16 +443,27 @@
             "otherIdentifier": "",
             "shortTitle": "Bronson 1970",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://engramma.it/eOS/index.php?id_articolo=6170",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TUGRH64W",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Giuffrè, Enrico Maria, and Jacopo Tabolli. “A Gondola, a Fishpond and, Perhaps, a Thermal Bath. New Evidence from Isola Del Giglio.” <i>La Rivista Di Engramma</i> 2026, no. 231 (January 22, 2026). https://doi.org/10.25432/1826-901X/2026.231.0009.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Giuffrè 2026",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        10.9,
-        42.35
+        10.9230003,
+        42.35918475
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled Villa on the island of Igilium",
+    "title": "Villa del Saraceno (Giglio)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/408457"
 }
