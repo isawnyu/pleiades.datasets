@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10661 alignments exist in _Pleiades_ place references as of 2026-05-13. The following list of alignments is grouped by zotkey.
+10666 alignments exist in _Pleiades_ place references as of 2026-05-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4616,6 +4616,13 @@
 
 ### alignments:
  - [Ara Pacis Augustae](https://pleiades.stoa.org/places/816091000)
+
+
+## Arab Baths of Girona (Q8245078)
+[https://www.wikidata.org/wiki/Q8245078](https://www.wikidata.org/wiki/Q8245078)  
+
+### alignments:
+ - [Arab Baths of Girona](https://pleiades.stoa.org/places/712997242)
 
 
 ## Arabian Sea (Q58705)
@@ -22099,6 +22106,13 @@
  - [Armenia Maior](https://pleiades.stoa.org/places/863747)
 
 
+## Greek Baths of Syracuse (Q138661980)
+[https://www.wikidata.org/wiki/Q138661980](https://www.wikidata.org/wiki/Q138661980)  
+
+### alignments:
+ - [Hellenistic Baths (Syracuse)](https://pleiades.stoa.org/places/667694858)
+
+
 ## Greek Theatre at Hadrian's Villa (Q56513543)
 [https://www.wikidata.org/wiki/Q56513543](https://www.wikidata.org/wiki/Q56513543)  
 
@@ -27426,6 +27440,13 @@
 
 ### alignments:
  - [Höflein](https://pleiades.stoa.org/places/128409)
+
+
+## Kleinkastell Oberranna (Q2741490)
+[https://www.wikidata.org/wiki/Q2741490](https://www.wikidata.org/wiki/Q2741490)  
+
+### alignments:
+ - [Stanacum](https://pleiades.stoa.org/places/118972)
 
 
 ## Kleitor (Q2537130)
@@ -58696,6 +58717,13 @@
  - [Roman bath at Fregellae](https://pleiades.stoa.org/places/564820740)
 
 
+## Roman baths of Gafsa (Q42764187)
+[https://www.wikidata.org/wiki/Q42764187](https://www.wikidata.org/wiki/Q42764187)  
+
+### alignments:
+ - [Roman baths (Capsa)](https://pleiades.stoa.org/places/188790129)
+
+
 ## Roman Bridge (Q2179571)
 [https://www.wikidata.org/wiki/Q2179571](https://www.wikidata.org/wiki/Q2179571)  
 
@@ -71445,6 +71473,13 @@
 
 ### alignments:
  - [Velia](https://pleiades.stoa.org/places/157710058)
+
+
+## Veliko Orašje (Q2738189)
+[https://www.wikidata.org/wiki/Q2738189](https://www.wikidata.org/wiki/Q2738189)  
+
+### alignments:
+ - [Veliko Orašje](https://pleiades.stoa.org/places/207542)
 
 
 ## Velina (Q56119381)
