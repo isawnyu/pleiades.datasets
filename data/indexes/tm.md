@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5072 alignments exist in _Pleiades_ place references as of 2026-05-14. The following list of alignments is grouped by zotkey.
+5073 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -577,6 +577,20 @@
 
 ### alignments:
  - [Phakoussa](https://pleiades.stoa.org/places/727194)
+
+
+## Geo 17321: Tisavar (Ksar Rhilane)
+[https://www.trismegistos.org/place/17321](https://www.trismegistos.org/place/17321)  
+
+### alignments:
+ - [Tisavar](https://pleiades.stoa.org/places/344520)
+
+
+## Geo 17336: Althiburos (Henchir Medeina)
+[https://www.trismegistos.org/place/17336](https://www.trismegistos.org/place/17336)  
+
+### alignments:
+ - [Althiburos](https://pleiades.stoa.org/places/324664)
 
 
 ## Geo 17338: Vallis (Sidi Mediene)
@@ -8515,13 +8529,6 @@
 
 ### alignments:
  - [Uzappa](https://pleiades.stoa.org/places/324843)
-
-
-## GEO ID 17336: Althiburos (Henchir Medeina)
-[http://www.trismegistos.org/place/17336](http://www.trismegistos.org/place/17336)  
-
-### alignments:
- - [Althiburos](https://pleiades.stoa.org/places/324664)
 
 
 ## GEO ID 17341: Ruspina (Monastir)

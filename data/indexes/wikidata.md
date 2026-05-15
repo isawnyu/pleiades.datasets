@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10666 alignments exist in _Pleiades_ place references as of 2026-05-14. The following list of alignments is grouped by zotkey.
+10674 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2656,6 +2656,13 @@
 
 ### alignments:
  - [Althepia](https://pleiades.stoa.org/places/573079)
+
+
+## Altiburo (Q440812)
+[https://www.wikidata.org/wiki/Q440812](https://www.wikidata.org/wiki/Q440812)  
+
+### alignments:
+ - [Althiburos](https://pleiades.stoa.org/places/324664)
 
 
 ## Altinum (Q441542)
@@ -8426,6 +8433,13 @@
 
 ### alignments:
  - [Untitled](https://pleiades.stoa.org/places/375997)
+
+
+## Berenikidai (Q19652366)
+[https://www.wikidata.org/wiki/Q19652366](https://www.wikidata.org/wiki/Q19652366)  
+
+### alignments:
+ - [Berenikidai](https://pleiades.stoa.org/places/585895)
 
 
 ## Bergamo (Samian Ware Discovery Site) (Q103146531)
@@ -44628,6 +44642,13 @@
  - [Aşağı Anzaf](https://pleiades.stoa.org/places/72333196)
 
 
+## Q131909955
+[https://www.wikidata.org/wiki/Q131909955](https://www.wikidata.org/wiki/Q131909955)  
+
+### alignments:
+ - [Porta Neola](https://pleiades.stoa.org/places/958331561)
+
+
 ## Q131910025
 [https://www.wikidata.org/wiki/Q131910025](https://www.wikidata.org/wiki/Q131910025)  
 
@@ -47640,13 +47661,6 @@
 
 ### alignments:
  - [Lykos (river)](https://pleiades.stoa.org/places/678269)
-
-
-## Q19652366: Berenikidai
-[https://www.wikidata.org/wiki/Q19652366](https://www.wikidata.org/wiki/Q19652366)  
-
-### alignments:
- - [Berenikidai](https://pleiades.stoa.org/places/585895)
 
 
 ## Q19686: River Thames
@@ -58381,6 +58395,13 @@
  - [Rocca Abbaziale](https://pleiades.stoa.org/places/861562863)
 
 
+## Rocca dei Colonna (Q106529368)
+[https://www.wikidata.org/wiki/Q106529368](https://www.wikidata.org/wiki/Q106529368)  
+
+### alignments:
+ - [Rocca dei Colonna](https://pleiades.stoa.org/places/146137615)
+
+
 ## Rocca della Verruca (Q3939451)
 [https://www.wikidata.org/wiki/Q3939451](https://www.wikidata.org/wiki/Q3939451)  
 
@@ -68276,6 +68297,13 @@
  - [Tiryns](https://pleiades.stoa.org/places/570740)
 
 
+## Tisavar (Q14612528)
+[https://www.wikidata.org/wiki/Q14612528](https://www.wikidata.org/wiki/Q14612528)  
+
+### alignments:
+ - [Tisavar](https://pleiades.stoa.org/places/344520)
+
+
 ## Tisia (Q132168147)
 [https://www.wikidata.org/wiki/Q132168147](https://www.wikidata.org/wiki/Q132168147)  
 
@@ -69079,6 +69107,13 @@
 
 ### alignments:
  - [Torre Dell'Angelo](https://pleiades.stoa.org/places/201442266)
+
+
+## Torre della Scimmia (Q63032177)
+[https://www.wikidata.org/wiki/Q63032177](https://www.wikidata.org/wiki/Q63032177)  
+
+### alignments:
+ - [Torre della Scimmia](https://pleiades.stoa.org/places/332608633)
 
 
 ## Torre delle Milizie (Q2547165)
@@ -70367,6 +70402,13 @@
 
 ### alignments:
  - [Tungri](https://pleiades.stoa.org/places/109397)
+
+
+## Tunnels of Claudius (Q23000145)
+[https://www.wikidata.org/wiki/Q23000145](https://www.wikidata.org/wiki/Q23000145)  
+
+### alignments:
+ - [Tunnels of Claudius](https://pleiades.stoa.org/places/860463950)
 
 
 ## Turan (Sasanian province) (Q15649540)
@@ -72856,6 +72898,13 @@
  - [Römische Villa](https://pleiades.stoa.org/places/179179194)
 
 
+## Villa rustica of Altheim-Weirading (Q2525679)
+[https://www.wikidata.org/wiki/Q2525679](https://www.wikidata.org/wiki/Q2525679)  
+
+### alignments:
+ - [Altheim-Weirading villa rustica](https://pleiades.stoa.org/places/214502051)
+
+
 ## Villa rustica of Blankenheim (Ahr) (Q1669191)
 [https://www.wikidata.org/wiki/Q1669191](https://www.wikidata.org/wiki/Q1669191)  
 
@@ -73387,6 +73436,13 @@
 
 ### alignments:
  - [Römisches Forum Waldgirmes](https://pleiades.stoa.org/places/889344376)
+
+
+## Wall of Češov (Q42851906)
+[https://www.wikidata.org/wiki/Q42851906](https://www.wikidata.org/wiki/Q42851906)  
+
+### alignments:
+ - [Češov](https://pleiades.stoa.org/places/575798128)
 
 
 ## Wall0001, Synagogue, Dura-Europos (Q118469355)

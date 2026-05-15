@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4980 alignments exist in _Pleiades_ place references as of 2026-05-14. The following list of alignments is grouped by zotkey.
+4981 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -8036,6 +8036,13 @@
 
 ### alignments:
  - [Cimmerius Bosp(h)orus](https://pleiades.stoa.org/places/854675)
+
+
+## Cinniana (Tarraconensis)
+[https://topostext.org/place/421029UCin](https://topostext.org/place/421029UCin)  
+
+### alignments:
+ - [Cinniana](https://pleiades.stoa.org/places/246335)
 
 
 ## Circesium fort (Syria)
