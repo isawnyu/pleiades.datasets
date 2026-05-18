@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2026/05/10 06:47:38.068304 GMT-4
+# Date: 2026/05/17 06:47:37.112540 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1283
+# Triple count: 1289
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -1240,6 +1240,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "subcontinent"@en;
     skos:scopeNote "A subcontinent as defined by the Getty Art and Architecture Thesaurus: \"Land masses of great size but smaller than those generally called continents; also large subdivisions of continents having a certain geographical independence.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/swimming-pool> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/swimming-pool>,
+        <https://vocab.getty.edu/aat/300007376>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "swimming pool"@en;
+    skos:scopeNote "A swimming pool as defined by the Getty Art and Architecture Thesaurus: Artificial bodies of water designed for swimming, either sunken into the ground or created by the construction of walls, whether or not the pool is housed within a structure or open to the sky."@en .
 
 <https://pleiades.stoa.org/vocabularies/synagogue> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/synagogue>,
