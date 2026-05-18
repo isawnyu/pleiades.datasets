@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5073 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
+5078 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -634,6 +634,13 @@
 
 ### alignments:
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
+
+
+## Geo 20052: Ala (Aalen)
+[https://www.trismegistos.org/place/20052](https://www.trismegistos.org/place/20052)  
+
+### alignments:
+ - [Kastell Aalen](https://pleiades.stoa.org/places/118537)
 
 
 ## Geo 20347 Thabudeos (Tehouda)
@@ -2893,6 +2900,13 @@
 
 ### alignments:
  - [Brundisium/Brentesion](https://pleiades.stoa.org/places/442509)
+
+
+## GEO ID 114
+[http://www.trismegistos.org/place/114](http://www.trismegistos.org/place/114)  
+
+### alignments:
+ - [Allaria?](https://pleiades.stoa.org/places/589679)
 
 
 ## GEO ID 1161: Korakesion (Alanya)
@@ -13410,6 +13424,13 @@
 
 ### alignments:
  - [Iuliobriga](https://pleiades.stoa.org/places/236493)
+
+
+## GEO ID 2674
+[http://www.trismegistos.org/place/2674](http://www.trismegistos.org/place/2674)  
+
+### alignments:
+ - [Pachnamounis](https://pleiades.stoa.org/places/727183)
 
 
 ## GEO ID 2676: Nea Polis (Napoli)
@@ -25016,6 +25037,13 @@
  - [Armua?/Armoniacum (river)](https://pleiades.stoa.org/places/314890)
 
 
+## GEO ID 41713: Drusiliana (Henchir Khanguet el-Kedim)
+[https://www.trismegistos.org/place/41713](https://www.trismegistos.org/place/41713)  
+
+### alignments:
+ - [Drusiliana?](https://pleiades.stoa.org/places/314949)
+
+
 ## GEO ID 41714: Lamniana (Henchir Selloum)
 [http://www.trismegistos.org/place/41714](http://www.trismegistos.org/place/41714)  
 
@@ -30947,6 +30975,13 @@
 
 ### alignments:
  - [Luceres](https://pleiades.stoa.org/places/749375794)
+
+
+## GEO ID 5014: Mylon (Khandak)
+[http://www.trismegistos.org/place/5014](http://www.trismegistos.org/place/5014)  
+
+### alignments:
+ - [Mulon/Hypaton](https://pleiades.stoa.org/places/805631)
 
 
 ## GEO ID 50182: Basilica Hilariana

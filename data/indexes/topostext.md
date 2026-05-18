@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4981 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
+4982 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -12643,6 +12643,13 @@
 
 ### alignments:
  - [Halai Araphenides](https://pleiades.stoa.org/places/579940)
+
+
+## Halandritsa exc. (Achaia)
+[https://topostext.org/place/381218XHal](https://topostext.org/place/381218XHal)  
+
+### alignments:
+ - [Khalandritsa](https://pleiades.stoa.org/places/814364052)
 
 
 ## Halasarna (Kos)

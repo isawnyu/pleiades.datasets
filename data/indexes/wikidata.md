@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10674 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
+10694 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -118,6 +118,20 @@
 
 ### alignments:
  - [Abakainon](https://pleiades.stoa.org/places/462062)
+
+
+## Abadan (Q63049)
+[https://www.wikidata.org/wiki/Q63049](https://www.wikidata.org/wiki/Q63049)  
+
+### alignments:
+ - [Ābādān (settlement)](https://pleiades.stoa.org/places/211425280)
+
+
+## Abadan Island (Q2088764)
+[https://www.wikidata.org/wiki/Q2088764](https://www.wikidata.org/wiki/Q2088764)  
+
+### alignments:
+ - [Ābādān (island)](https://pleiades.stoa.org/places/996415846)
 
 
 ## Abai Apollo sanctuary (Q38281622)
@@ -1326,6 +1340,13 @@
  - [Agathyrnum](https://pleiades.stoa.org/places/462079)
 
 
+## Agbia (Q392050)
+[https://www.wikidata.org/wiki/Q392050](https://www.wikidata.org/wiki/Q392050)  
+
+### alignments:
+ - [Agbia](https://pleiades.stoa.org/places/314857)
+
+
 ## Agbia amphitheatre (Q29002312)
 [https://www.wikidata.org/wiki/Q29002312](https://www.wikidata.org/wiki/Q29002312)  
 
@@ -2419,6 +2440,13 @@
  - [Allahdino](https://pleiades.stoa.org/places/398671587)
 
 
+## Allaria (Q17620476)
+[https://www.wikidata.org/wiki/Q17620476](https://www.wikidata.org/wiki/Q17620476)  
+
+### alignments:
+ - [Allaria?](https://pleiades.stoa.org/places/589679)
+
+
 ## Allaro (Q2837805)
 [https://www.wikidata.org/wiki/Q2837805](https://www.wikidata.org/wiki/Q2837805)  
 
@@ -3356,6 +3384,13 @@
 
 ### alignments:
  - [Capua](https://pleiades.stoa.org/places/432754)
+
+
+## Ancient Chalandritsa (Q38281406)
+[https://www.wikidata.org/wiki/Q38281406](https://www.wikidata.org/wiki/Q38281406)  
+
+### alignments:
+ - [Khalandritsa](https://pleiades.stoa.org/places/814364052)
 
 
 ## Ancient City of Ma’rib (Q119041557)
@@ -4856,6 +4891,13 @@
  - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
 
 
+## Arch of Gordian III at Musti (Q139827218)
+[https://www.wikidata.org/wiki/Q139827218](https://www.wikidata.org/wiki/Q139827218)  
+
+### alignments:
+ - [Arch of Gordian III at Musti](https://pleiades.stoa.org/places/225822532)
+
+
 ## Arch of Janus (Q580555)
 [https://www.wikidata.org/wiki/Q580555](https://www.wikidata.org/wiki/Q580555)  
 
@@ -4889,6 +4931,13 @@
 
 ### alignments:
  - [Monumental Arch of Palmyra](https://pleiades.stoa.org/places/628331928)
+
+
+## Arch of Pheradi Majus (Q42762599)
+[https://www.wikidata.org/wiki/Q42762599](https://www.wikidata.org/wiki/Q42762599)  
+
+### alignments:
+ - [Roman Arch of Pheradi Majus](https://pleiades.stoa.org/places/63880221)
 
 
 ## Arch of San Lazzaro (Q48804495)
@@ -5295,6 +5344,13 @@
 
 ### alignments:
  - [Arethousa](https://pleiades.stoa.org/places/501357)
+
+
+## Arevaci (Q2527467)
+[https://www.wikidata.org/wiki/Q2527467](https://www.wikidata.org/wiki/Q2527467)  
+
+### alignments:
+ - [Arevaci](https://pleiades.stoa.org/places/246188)
 
 
 ## Argadina (Q98923958)
@@ -12596,6 +12652,13 @@
  - [Mursa](https://pleiades.stoa.org/places/197389)
 
 
+## Castra of Aalen (Q1660247)
+[https://www.wikidata.org/wiki/Q1660247](https://www.wikidata.org/wiki/Q1660247)  
+
+### alignments:
+ - [Kastell Aalen](https://pleiades.stoa.org/places/118537)
+
+
 ## Castra of Arzbach (Q1735331)
 [https://www.wikidata.org/wiki/Q1735331](https://www.wikidata.org/wiki/Q1735331)  
 
@@ -19855,6 +19918,13 @@
  - [Faversham Roman villa](https://pleiades.stoa.org/places/261199605)
 
 
+## Faysh Khabur (Q5439109)
+[https://www.wikidata.org/wiki/Q5439109](https://www.wikidata.org/wiki/Q5439109)  
+
+### alignments:
+ - [Fesh-Khabur/Peroz-Shapur?](https://pleiades.stoa.org/places/874472)
+
+
 ## Fectio (Q2311719)
 [https://www.wikidata.org/wiki/Q2311719](https://www.wikidata.org/wiki/Q2311719)  
 
@@ -27071,11 +27141,25 @@
  - [Kapharsaba](https://pleiades.stoa.org/places/678223)
 
 
+## Khabur River (Q685344)
+[https://www.wikidata.org/wiki/Q685344](https://www.wikidata.org/wiki/Q685344)  
+
+### alignments:
+ - [Lesser Khabur R.](https://pleiades.stoa.org/places/874565)
+
+
 ## Khafajah (Q1305112)
 [https://www.wikidata.org/wiki/Q1305112](https://www.wikidata.org/wiki/Q1305112)  
 
 ### alignments:
  - [Ḫafāǧa](https://pleiades.stoa.org/places/490043590)
+
+
+## Khajuraho Group of Monuments (Q26258435)
+[https://www.wikidata.org/wiki/Q26258435](https://www.wikidata.org/wiki/Q26258435)  
+
+### alignments:
+ - [Khajuraho Group of Monuments](https://pleiades.stoa.org/places/338595017)
 
 
 ## Khalchayan (Q1060260)
@@ -27099,11 +27183,25 @@
  - [Khalij al-Masri](https://pleiades.stoa.org/places/571454571)
 
 
+## Khane Gauhar (Q139824954)
+[https://www.wikidata.org/wiki/Q139824954](https://www.wikidata.org/wiki/Q139824954)  
+
+### alignments:
+ - [Khane Gauhar](https://pleiades.stoa.org/places/47191338)
+
+
 ## Khanpur Cave (Q66134639)
 [https://www.wikidata.org/wiki/Q66134639](https://www.wikidata.org/wiki/Q66134639)  
 
 ### alignments:
  - [Khanpur Cave](https://pleiades.stoa.org/places/107421147)
+
+
+## Kharab Shams (Q1740567)
+[https://www.wikidata.org/wiki/Q1740567](https://www.wikidata.org/wiki/Q1740567)  
+
+### alignments:
+ - [Kharab Shems](https://pleiades.stoa.org/places/658507)
 
 
 ## Kharaneh IV (Q1740572)
@@ -39255,6 +39353,13 @@
  - [Phellos](https://pleiades.stoa.org/places/639052)
 
 
+## Pheradi Majius (Q3378708)
+[https://www.wikidata.org/wiki/Q3378708](https://www.wikidata.org/wiki/Q3378708)  
+
+### alignments:
+ - [Pheradi Maius](https://pleiades.stoa.org/places/315113)
+
+
 ## Pherae (Q1330631)
 [https://www.wikidata.org/wiki/Q1330631](https://www.wikidata.org/wiki/Q1330631)  
 
@@ -43280,13 +43385,6 @@
 
 ### alignments:
  - [Diyatheh](https://pleiades.stoa.org/places/678120)
-
-
-## Q1149666
-[https://www.wikidata.org/wiki/Q1149666](https://www.wikidata.org/wiki/Q1149666)  
-
-### alignments:
- - [Sikani](https://pleiades.stoa.org/places/572048102)
 
 
 ## Q1150536: Saint-Romain-de-Jalionas
@@ -52541,13 +52639,6 @@
  - [Ašnakkum](https://pleiades.stoa.org/places/480215077)
 
 
-## Q4120177: Tell Arbid
-[https://www.wikidata.org/wiki/Q4120177](https://www.wikidata.org/wiki/Q4120177)  
-
-### alignments:
- - [Tall ‘Arbīd](https://pleiades.stoa.org/places/674712658)
-
-
 ## Q416103
 [https://www.wikidata.org/wiki/Q416103](https://www.wikidata.org/wiki/Q416103)  
 
@@ -57078,6 +57169,13 @@
  - [Qalat-i Dinka](https://pleiades.stoa.org/places/512491137)
 
 
+## Qaleh Kharabeh (Q85795198)
+[https://www.wikidata.org/wiki/Q85795198](https://www.wikidata.org/wiki/Q85795198)  
+
+### alignments:
+ - [Qaleh Kharabeh fortress](https://pleiades.stoa.org/places/535297381)
+
+
 ## Qal’at al Bahrain (Q740104)
 [https://www.wikidata.org/wiki/Q740104](https://www.wikidata.org/wiki/Q740104)  
 
@@ -59051,6 +59149,13 @@
 
 ### alignments:
  - [Gatcombe](https://pleiades.stoa.org/places/79477)
+
+
+## Roman shrine on Scargill Moor (Q17647282)
+[https://www.wikidata.org/wiki/Q17647282](https://www.wikidata.org/wiki/Q17647282)  
+
+### alignments:
+ - [Scargill Moors Roman shrines](https://pleiades.stoa.org/places/803832320)
 
 
 ## Roman signal station (Q17648304)
@@ -65712,6 +65817,13 @@
  - [Tell Abu en-Ni'aj](https://pleiades.stoa.org/places/96505315)
 
 
+## Tell Abu Hafur (Q98078107)
+[https://www.wikidata.org/wiki/Q98078107](https://www.wikidata.org/wiki/Q98078107)  
+
+### alignments:
+ - [Tell Abu Hafur](https://pleiades.stoa.org/places/196205531)
+
+
 ## Tell Afis (Q7697374)
 [https://www.wikidata.org/wiki/Q7697374](https://www.wikidata.org/wiki/Q7697374)  
 
@@ -65738,6 +65850,14 @@
 
 ### alignments:
  - [Qattara?/Karana?](https://pleiades.stoa.org/places/356369838)
+
+
+## Tell Arbid (Q4120177)
+[https://www.wikidata.org/wiki/Q4120177](https://www.wikidata.org/wiki/Q4120177)  
+
+### alignments:
+ - [Tall ‘Arbīd](https://pleiades.stoa.org/places/674712658)
+ - [Tell Arbid](https://pleiades.stoa.org/places/874730)
 
 
 ## Tell Arpachiyah (Q1744863)
@@ -65794,6 +65914,14 @@
 
 ### alignments:
  - [Tell Deir Situn](https://pleiades.stoa.org/places/874736)
+
+
+## Tell el Fakhariya (Q1149666)
+[https://www.wikidata.org/wiki/Q1149666](https://www.wikidata.org/wiki/Q1149666)  
+
+### alignments:
+ - [Sikani](https://pleiades.stoa.org/places/572048102)
+ - [Tell Fekheriye](https://pleiades.stoa.org/places/413537087)
 
 
 ## Tell el-'Oueili (Q22935755)
@@ -65864,6 +65992,13 @@
 
 ### alignments:
  - [Tel Kisson](https://pleiades.stoa.org/places/504745937)
+
+
+## Tell Khaiber (Q55115737)
+[https://www.wikidata.org/wiki/Q55115737](https://www.wikidata.org/wiki/Q55115737)  
+
+### alignments:
+ - [Tell Khaiber](https://pleiades.stoa.org/places/12084644)
 
 
 ## Tell Khoshi (Q14466961)
@@ -67251,6 +67386,13 @@
 
 ### alignments:
  - [Teutones?](https://pleiades.stoa.org/places/99044)
+
+
+## Thacia (Q30590851)
+[https://www.wikidata.org/wiki/Q30590851](https://www.wikidata.org/wiki/Q30590851)  
+
+### alignments:
+ - [Thacia](https://pleiades.stoa.org/places/315195)
 
 
 ## Thaenae (Q3519416)

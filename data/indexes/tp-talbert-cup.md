@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2363 alignments exist in _Pleiades_ place references as of 2026-05-15. The following list of alignments is grouped by zotkey.
+2364 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -8097,6 +8097,13 @@
 
 ### alignments:
  - [Novae Aquilianae?](https://pleiades.stoa.org/places/315095)
+
+
+## 4C2 (Talbert 122)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace122.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace122.html)  
+
+### alignments:
+ - [Drusiliana?](https://pleiades.stoa.org/places/314949)
 
 
 ## 4C2 (Talbert 123)
