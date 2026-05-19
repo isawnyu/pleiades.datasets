@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5078 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
+5079 alignments exist in _Pleiades_ place references as of 2026-05-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -591,13 +591,6 @@
 
 ### alignments:
  - [Althiburos](https://pleiades.stoa.org/places/324664)
-
-
-## Geo 17338: Vallis (Sidi Mediene)
-[https://www.trismegistos.org/place/17338](https://www.trismegistos.org/place/17338)  
-
-### alignments:
- - [Vallis](https://pleiades.stoa.org/places/315254)
 
 
 ## Geo 17467: Ad Maiores (Henchir Besseriani)
@@ -8543,6 +8536,13 @@
 
 ### alignments:
  - [Uzappa](https://pleiades.stoa.org/places/324843)
+
+
+## GEO ID 17338: Vallis (Sidi Mediene)
+[https://www.trismegistos.org/place/17338](https://www.trismegistos.org/place/17338)  
+
+### alignments:
+ - [Vallis](https://pleiades.stoa.org/places/315254)
 
 
 ## GEO ID 17341: Ruspina (Monastir)
@@ -25021,6 +25021,13 @@
 
 ### alignments:
  - [Sidi-Abd-er-Rahmane-el-Garci](https://pleiades.stoa.org/places/314858)
+
+
+## GEO ID 41709: Aquae (Ain Younes)
+[https://www.trismegistos.org/place/41709](https://www.trismegistos.org/place/41709)  
+
+### alignments:
+ - [Aquae?](https://pleiades.stoa.org/places/314881)
 
 
 ## GEO ID 41710: Armasela (Bou Heurtma)

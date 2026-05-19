@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10694 alignments exist in _Pleiades_ place references as of 2026-05-18. The following list of alignments is grouped by zotkey.
+10699 alignments exist in _Pleiades_ place references as of 2026-05-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4609,6 +4609,13 @@
 
 ### alignments:
  - [Aqueduct of the Gier](https://pleiades.stoa.org/places/812127749)
+
+
+## Aqueduct of Zaghouan (Q623425)
+[https://www.wikidata.org/wiki/Q623425](https://www.wikidata.org/wiki/Q623425)  
+
+### alignments:
+ - [Zaghouan Aqueduct](https://pleiades.stoa.org/places/315603)
 
 
 ## Aquileia (Q2859274)
@@ -14227,6 +14234,13 @@
  - [Cilurnum](https://pleiades.stoa.org/places/89144)
 
 
+## Chesterton-on-Fosse (Q139831579)
+[https://www.wikidata.org/wiki/Q139831579](https://www.wikidata.org/wiki/Q139831579)  
+
+### alignments:
+ - [Chesterton-on-Fosse](https://pleiades.stoa.org/places/79385)
+
+
 ## Chetinyova Tomb (Q60715850)
 [https://www.wikidata.org/wiki/Q60715850](https://www.wikidata.org/wiki/Q60715850)  
 
@@ -15222,8 +15236,8 @@
  - [Cold Knap Roman Building](https://pleiades.stoa.org/places/20876903)
 
 
-## Colerne (Q2530698)
-[https://www.wikidata.org/wiki/Q2530698](https://www.wikidata.org/wiki/Q2530698)  
+## Colerne Roman villa (Q139831694)
+[https://www.wikidata.org/wiki/Q139831694](https://www.wikidata.org/wiki/Q139831694)  
 
 ### alignments:
  - [Colerne](https://pleiades.stoa.org/places/79396)
@@ -23448,6 +23462,13 @@
 
 ### alignments:
  - [Villa Magna Variana](https://pleiades.stoa.org/places/315263)
+
+
+## Henchir-Mâtria (Q30591933)
+[https://www.wikidata.org/wiki/Q30591933](https://www.wikidata.org/wiki/Q30591933)  
+
+### alignments:
+ - [Numluli](https://pleiades.stoa.org/places/315097)
 
 
 ## Hengistbury Head (Q12059867)
@@ -33968,6 +33989,13 @@
 
 ### alignments:
  - [Montone (river)](https://pleiades.stoa.org/places/393517)
+
+
+## Monument La Torratxa (Q137919485)
+[https://www.wikidata.org/wiki/Q137919485](https://www.wikidata.org/wiki/Q137919485)  
+
+### alignments:
+ - [Vilablareix](https://pleiades.stoa.org/places/246745)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -59674,6 +59702,13 @@
 
 ### alignments:
  - [Grimston](https://pleiades.stoa.org/places/79494)
+
+
+## Roman villa and medieval settlement remains immediately north of Ewefields Farm (Q17674963)
+[http://www.wikidata.org/entity/Q17674963](http://www.wikidata.org/entity/Q17674963)  
+
+### alignments:
+ - [Chesterton villa](https://pleiades.stoa.org/places/187106386)
 
 
 ## Roman villa at Anagnina Metro station (Q130485525)
