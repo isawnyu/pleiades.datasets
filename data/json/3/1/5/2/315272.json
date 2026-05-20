@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        10.1117246,
-        36.3518395,
-        10.1117246,
-        36.3518395
+        10.112153,
+        36.3519188,
+        10.112153,
+        36.3519188
     ],
     "connections": [],
     "connectsWith": [],
@@ -49,8 +49,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    10.1117246,
-                    36.3518395
+                    10.112153,
+                    36.3519188
                 ],
                 "type": "Point"
             },
@@ -59,13 +59,18 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/315272/location-of-djebel-zaghouan",
                 "location_precision": "precise",
-                "snippet": "Mountain, ; AD 1700 - AD 2100",
-                "title": "location of Djebel Zaghouan"
+                "snippet": "Mountain; AD 1700 - AD 2100",
+                "title": "OSM location of Djebel Zaghouan"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-05-19T14:02:54Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
             "modified": "2021-03-01T22:40:24Z",
@@ -108,7 +113,7 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "unknown",
+            "archaeologicalRemains": "notapplicable",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [
@@ -133,21 +138,29 @@
             "details": "",
             "end": 2100,
             "featureType": [
-                "mountain",
-                ""
+                "mountain"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
             "geometry": {
                 "coordinates": [
-                    10.1117246,
-                    36.3518395
+                    10.112153,
+                    36.3519188
                 ],
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "Edited",
+                    "modified": "2026-05-19T14:00:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full node geometry and updated provenance",
+                    "modified": "2026-05-19T14:00:17Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2013-11-26T02:56:43Z",
@@ -176,13 +189,12 @@
             ],
             "id": "location-of-djebel-zaghouan",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/mountain",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/mountain"
             ],
-            "provenance": "OpenStreetMap (Node 1301344097, version 2, osm:changeset=8959240, 2011-08-08T16:56:23Z)",
+            "provenance": "OpenStreetMap (Node 1301344097, version 5, osm:changeset=179926378, 2026-03-16T04:23:47Z)",
             "references": [
                 {
                     "accessURI": "http://www.openstreetmap.org/browse/node/1301344097",
@@ -198,7 +210,7 @@
             ],
             "review_state": "published",
             "start": 1700,
-            "title": "location of Djebel Zaghouan",
+            "title": "OSM location of Djebel Zaghouan",
             "uri": "https://pleiades.stoa.org/places/315272/location-of-djebel-zaghouan"
         }
     ],
@@ -215,7 +227,7 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "attested": "",
+            "attested": "Ziquensis M.",
             "contributors": [
                 {
                     "name": "R. Warner",
@@ -226,14 +238,22 @@
                     "username": null
                 },
                 {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
                     "name": "Sean Gillies",
                     "uri": "https://pleiades.stoa.org/author/sgillies",
                     "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                },
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
             "created": "2010-09-28T05:05:40Z",
@@ -247,6 +267,11 @@
             "details": "",
             "end": 640,
             "history": [
+                {
+                    "comment": "add batlas ref",
+                    "modified": "2026-05-19T14:00:08Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "comment": "programmatically changing titles, summaries, name languages, and romanized/attested forms as part of site-wide cleanup of mountains imported from the Barrington Atlas",
                     "modified": "2021-03-01T22:40:54Z",
@@ -274,12 +299,24 @@
                 }
             ],
             "id": "Ziquensis-M",
-            "language": "",
-            "nameType": "geographic",
+            "language": "la",
+            "nameType": "label",
             "provenance": "Barrington Atlas: BAtlas 32 F4 Ziquensis M.",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "32 F4 Ziquensis M.",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "romanized": "Ziquensis",
+            "romanized": "Ziquensis Mons",
             "start": 300,
             "transcriptionAccuracy": "accurate",
             "transcriptionCompleteness": "complete",
@@ -306,20 +343,42 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://worldcat.org/title/174864482",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/l.html#Lepelley-1981",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ET74ERCZ",
+            "citationDetail": "249",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Lepelley 1981, 249",
+            "formattedCitation": "<div class=\"csl-entry\">Lepelley, Claude. “Notices d’histoire municipale,” Vol. 2. Paris: Etudes Augustiniennes, 1981. https://worldcat.org/title/174864482.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Lepelley 1981",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://en.wikipedia.org/wiki/Djebel_Zaghouan",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CI6F6W7W",
+            "citationDetail": "Djebel Zaghouan",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikipedia: The Free Encyclopedia That Anyone Can Edit</i>. Wikimedia Foundation, 2001. https://en.wikipedia.org.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikipedia (English)",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q3032859",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Djebel Zaghouan (Q3032859)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        10.1117246,
-        36.3518395
+        10.112153,
+        36.3519188
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
