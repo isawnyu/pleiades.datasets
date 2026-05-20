@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5079 alignments exist in _Pleiades_ place references as of 2026-05-19. The following list of alignments is grouped by zotkey.
+5080 alignments exist in _Pleiades_ place references as of 2026-05-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -5939,6 +5939,13 @@
 
 ### alignments:
  - [Mediolanum](https://pleiades.stoa.org/places/79597)
+
+
+## GEO ID 14651
+[http://www.trismegistos.org/place/14651](http://www.trismegistos.org/place/14651)  
+
+### alignments:
+ - [Wendens Ambo](https://pleiades.stoa.org/places/79749)
 
 
 ## GEO ID 14652: Welwyn

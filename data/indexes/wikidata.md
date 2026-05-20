@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10699 alignments exist in _Pleiades_ place references as of 2026-05-19. The following list of alignments is grouped by zotkey.
+10703 alignments exist in _Pleiades_ place references as of 2026-05-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7172,6 +7172,13 @@
 
 ### alignments:
  - [Bagdata](https://pleiades.stoa.org/places/893952)
+
+
+## Bahariya Oasis (Q738878)
+[https://www.wikidata.org/wiki/Q738878](https://www.wikidata.org/wiki/Q738878)  
+
+### alignments:
+ - [Oasis Parva](https://pleiades.stoa.org/places/716609)
 
 
 ## Bahiret el Bibane (Q800241)
@@ -17561,6 +17568,13 @@
 
 ### alignments:
  - [Djarkutan](https://pleiades.stoa.org/places/646531235)
+
+
+## Djebel Zaghouan (Q3032859)
+[https://www.wikidata.org/wiki/Q3032859](https://www.wikidata.org/wiki/Q3032859)  
+
+### alignments:
+ - [Ziquensis (mountain)](https://pleiades.stoa.org/places/315272)
 
 
 ## Djemaa Saharidj (Q3032885)
@@ -46913,13 +46927,6 @@
  - [Aetokremnos](https://pleiades.stoa.org/places/751079112)
 
 
-## Q1754028: Siphnian Treasury
-[https://www.wikidata.org/wiki/Q1754028](https://www.wikidata.org/wiki/Q1754028)  
-
-### alignments:
- - [The Siphnian Treasury](https://pleiades.stoa.org/places/333036425)
-
-
 ## Q175741
 [https://www.wikidata.org/wiki/Q175741](https://www.wikidata.org/wiki/Q175741)  
 
@@ -53282,13 +53289,6 @@
 
 ### alignments:
  - [Locris Ozolia](https://pleiades.stoa.org/places/540919)
-
-
-## Q4915645: Temple of Athena Pronaia
-[https://www.wikidata.org/wiki/Q4915645](https://www.wikidata.org/wiki/Q4915645)  
-
-### alignments:
- - [Temple of Athena Pronaia](https://pleiades.stoa.org/places/513711610)
 
 
 ## Q4918: Mediterranean Sea
@@ -59718,6 +59718,13 @@
  - [Roman villa at Anagnina Metro station ](https://pleiades.stoa.org/places/776367157)
 
 
+## Roman villa at Chinnel Barn (Q17646379)
+[https://www.wikidata.org/wiki/Q17646379](https://www.wikidata.org/wiki/Q17646379)  
+
+### alignments:
+ - [Wendens Ambo](https://pleiades.stoa.org/places/79749)
+
+
 ## Roman villa at Gayton Thorpe (Q17648447)
 [https://www.wikidata.org/wiki/Q17648447](https://www.wikidata.org/wiki/Q17648447)  
 
@@ -63450,6 +63457,13 @@
  - [Siphai/Tipha](https://pleiades.stoa.org/places/541102)
 
 
+## Siphnian Treasury (Q1754028)
+[https://www.wikidata.org/wiki/Q1754028](https://www.wikidata.org/wiki/Q1754028)  
+
+### alignments:
+ - [The Siphnian Treasury](https://pleiades.stoa.org/places/333036425)
+
+
 ## Siphnos (Q95452882)
 [https://www.wikidata.org/wiki/Q95452882](https://www.wikidata.org/wiki/Q95452882)  
 
@@ -66426,6 +66440,13 @@
 
 ### alignments:
  - [Temple of Athena Lindia](https://pleiades.stoa.org/places/414067217)
+
+
+## Temple of Athena Pronaia (Q4915645)
+[https://www.wikidata.org/wiki/Q4915645](https://www.wikidata.org/wiki/Q4915645)  
+
+### alignments:
+ - [Temple of Athena Pronaia](https://pleiades.stoa.org/places/513711610)
 
 
 ## Temple of Athena Skiras at Phaleron (Q131765396)
@@ -73115,6 +73136,13 @@
 
 ### alignments:
  - [Spoonley](https://pleiades.stoa.org/places/79693)
+
+
+## Villa rustica of Yarchester (Q1270582)
+[https://www.wikidata.org/wiki/Q1270582](https://www.wikidata.org/wiki/Q1270582)  
+
+### alignments:
+ - [Yarchester](https://pleiades.stoa.org/places/79774)
 
 
 ## Villa Sora (Torre del Greco) (Q4012551)
