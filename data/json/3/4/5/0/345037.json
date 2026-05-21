@@ -1,13 +1,102 @@
 {
     "@type": "Place",
     "bbox": [
-        14.0,
-        32.0,
-        15.0,
-        33.0
+        14.2804416,
+        32.6306801,
+        14.3133856,
+        32.6423086
     ],
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/344448",
+            "contributors": [],
+            "created": "2026-05-20T20:41:04Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 640,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-05-21T01:51:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-05-20T20:41:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-05-20T20:41:06Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-05-20T20:41:04Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "neapolis-lepcis-magna",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/43970336",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+                    "citationDetail": "35 G2 (southwest of Neapolis/Lepcis Magna)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlas",
+                    "type": "seeFurther"
+                },
+                {
+                    "accessURI": "https://journals.openedition.org/mefra/21249#tocto1n4",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3NAWGU5U",
+                    "citationDetail": "see \"L’acquedotto di uadi Caam\" (paragraphs 25-35)",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Masturzo, Nicolò. “Leptis Magna e le acque.” <i>Mélanges de l’École française de Rome - Antiquité</i>, no. 137–2 (January 2025): 561–92. https://doi.org/10.4000/168mx.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Masturzo 2025",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": -30,
+            "title": "Neapolis/Lepcis Magna",
+            "uri": "https://pleiades.stoa.org/places/345037/neapolis-lepcis-magna"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/344448"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -32,15 +121,15 @@
             "username": "jbecker"
         }
     ],
-    "created": "2009-09-08T19:46:13Z",
+    "created": "2026-05-20T20:15:08Z",
     "creators": [
         {
             "name": "D.J. Mattingly",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 35 G2 unnamed aqueduct (Lepcis)",
-    "details": "The Barrington Atlas Directory notes: Lepcis",
+    "description": "A Roman aqueduct, probably built during the reign of Hadrian (or possibly Trajan), that brought water approximately 20km from Wādī Ki‘ām to Lepcis Magna, where it is thought to have fed a series of reservoirs, cisterns, and settling tanks prior to distribution to urban fountains and baths. Remains of contemporary dams and aqueduct components paralleling the wadi are thought to have been involved in collection for the aqueduct; the route from there is thought to have been a straight line from the collection apparatus to the city.",
+    "details": "<p>The Barrington Atlas Directory notes: Lepcis</p>",
     "features": [
         {
             "geometry": {
@@ -82,6 +171,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "title; summary; added Masturzo 2025; added IRT link; Edited; add batldir ref. @thomase",
+            "modified": "2026-05-21T01:50:44Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2019-11-14T00:39:02Z",
@@ -262,7 +356,80 @@
             "uri": "https://pleiades.stoa.org/places/345037/undetermined"
         }
     ],
-    "names": [],
+    "names": [
+        {
+            "@type": "Name",
+            "associationCertainty": "certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
+                }
+            ],
+            "attested": "L’acquedotto di uadi Caam",
+            "contributors": [],
+            "created": "2026-05-20T20:42:10Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": 2099,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-05-21T01:51:06Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-05-20T20:42:18Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-05-20T20:42:11Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-05-20T20:42:10Z",
+                    "modifiedBy": "thomase"
+                }
+            ],
+            "id": "l2019acquedotto-di-uadi-caam",
+            "language": "it",
+            "nameType": "geographic",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://journals.openedition.org/mefra/21249#tocto1n4",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3NAWGU5U",
+                    "citationDetail": "see \"L’acquedotto di uadi Caam\" (paragraphs 25-35)",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\">Masturzo, Nicolò. “Leptis Magna e le acque.” <i>Mélanges de l’École française de Rome - Antiquité</i>, no. 137–2 (January 2025): 561–92. https://doi.org/10.4000/168mx.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "Masturzo 2025",
+                    "type": "citesAsDataSource"
+                }
+            ],
+            "review_state": "published",
+            "romanized": "L’acquedotto di uadi Caam",
+            "start": 2000,
+            "transcriptionAccuracy": "accurate",
+            "transcriptionCompleteness": "complete",
+            "uri": "https://pleiades.stoa.org/places/345037/l2019acquedotto-di-uadi-caam"
+        }
+    ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/aqueduct"
     ],
@@ -283,25 +450,47 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "http://www.worldcat.org/oclc/802528513",
+            "accessURI": "https://inslib.kcl.ac.uk/irt2009/IRT357.html",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DHVSM6AC",
-            "citationDetail": "275 357-59",
+            "citationDetail": "page 275 numbers 357-59",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Reynolds, JM, and JB Ward-Perkins, eds. <i>Inscriptions of Roman Tripolitania</i>. Rome: British School at Rome, 1952. http://www.worldcat.org/oclc/802528513.</div>",
             "otherIdentifier": "",
             "shortTitle": "IRT",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://journals.openedition.org/mefra/21249#tocto1n4",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3NAWGU5U",
+            "citationDetail": "see \"L’acquedotto di uadi Caam\" (paragraphs 25-35)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Masturzo, Nicolò. “Leptis Magna e le acque.” <i>Mélanges de l’École française de Rome - Antiquité</i>, no. 137–2 (January 2025): 561–92. https://doi.org/10.4000/168mx.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Masturzo 2025",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://search.worldcat.org/title/45084869",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "p. 537 s.v. \"Aqueducts\"",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "BAtlDir",
+            "type": "seeFurther"
         }
     ],
     "reprPoint": [
-        14.5,
-        32.5
+        14.296404982801366,
+        32.636101835243494
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Untitled",
+    "title": "Wādī Ki‘ām Aqueduct (Lepcis)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/345037"
 }
