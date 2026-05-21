@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10703 alignments exist in _Pleiades_ place references as of 2026-05-20. The following list of alignments is grouped by zotkey.
+10708 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -34009,7 +34009,7 @@
 [https://www.wikidata.org/wiki/Q137919485](https://www.wikidata.org/wiki/Q137919485)  
 
 ### alignments:
- - [Vilablareix](https://pleiades.stoa.org/places/246745)
+ - [Monument La Torratxa (Vilablareix)](https://pleiades.stoa.org/places/246745)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -58997,6 +58997,13 @@
  - [Unnamed dam near Jumilla, Spain](https://pleiades.stoa.org/places/559027219)
 
 
+## Roman fort 300m east of Drayton Lodge Farm (Q17675840)
+[http://www.wikidata.org/entity/Q17675840](http://www.wikidata.org/entity/Q17675840)  
+
+### alignments:
+ - [Drayton Roman fort](https://pleiades.stoa.org/places/120451975)
+
+
 ## Roman Fort at Pen y Gaer (Q13126488)
 [https://www.wikidata.org/wiki/Q13126488](https://www.wikidata.org/wiki/Q13126488)  
 
@@ -59170,6 +59177,13 @@
 
 ### alignments:
  - [Wilderspool](https://pleiades.stoa.org/places/79763)
+
+
+## Roman settlement remains immediately south of Westland Road (Q17663706)
+[https://www.wikidata.org/wiki/Q17663706](https://www.wikidata.org/wiki/Q17663706)  
+
+### alignments:
+ - [Yeovil Roman settlement](https://pleiades.stoa.org/places/333121794)
 
 
 ## Roman settlement, part of an associated field system and earlier Iron Age settlement remains at Gatcombe Farm (Q17676263)
@@ -67942,6 +67956,13 @@
  - [Tholos of Athens](https://pleiades.stoa.org/places/91288718)
 
 
+## Tholos of Delphi (Q12013451)
+[https://www.wikidata.org/wiki/Q12013451](https://www.wikidata.org/wiki/Q12013451)  
+
+### alignments:
+ - [Tholos of Athena Pronaia](https://pleiades.stoa.org/places/274083926)
+
+
 ## Tholos Tomb (Pharsala) (Q38282889)
 [https://www.wikidata.org/wiki/Q38282889](https://www.wikidata.org/wiki/Q38282889)  
 
@@ -69879,6 +69900,13 @@
 
 ### alignments:
  - [Tre'r Ceiri hillfort](https://pleiades.stoa.org/places/479831455)
+
+
+## Treasury of the Massaliots (Q22936355)
+[https://www.wikidata.org/wiki/Q22936355](https://www.wikidata.org/wiki/Q22936355)  
+
+### alignments:
+ - [Treasury of the Massaliots](https://pleiades.stoa.org/places/579842268)
 
 
 ## Trebbia (Q732587)
@@ -74299,6 +74327,13 @@
 
 ### alignments:
  - [Yelizavetinskaya](https://pleiades.stoa.org/places/825426)
+
+
+## Yeovil Roman villa (Q139859321)
+[https://www.wikidata.org/wiki/Q139859321](https://www.wikidata.org/wiki/Q139859321)  
+
+### alignments:
+ - [Yeovil](https://pleiades.stoa.org/places/79775)
 
 
 ## Yesemek Quarry and Sculpture Workshop (Q26959195)
