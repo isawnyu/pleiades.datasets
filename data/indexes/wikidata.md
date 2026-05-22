@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10708 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
+10713 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1246,6 +1246,7 @@
 [https://www.wikidata.org/wiki/Q410453](https://www.wikidata.org/wiki/Q410453)  
 
 ### alignments:
+ - [Aethiopia](https://pleiades.stoa.org/places/334481)
  - [Aethiopia](https://pleiades.stoa.org/places/39274)
 
 
@@ -1948,6 +1949,13 @@
 
 ### alignments:
  - [Asabon (mountain)](https://pleiades.stoa.org/places/932433)
+
+
+## Al Jawsh (Q18474987)
+[https://www.wikidata.org/wiki/Q18474987](https://www.wikidata.org/wiki/Q18474987)  
+
+### alignments:
+ - [Giosc](https://pleiades.stoa.org/places/344382)
 
 
 ## Al Qarāyā (Q105995007)
@@ -17275,6 +17283,13 @@
  - [Diagon (river)](https://pleiades.stoa.org/places/570195)
 
 
+## Diana Veteranorum (Q1573776)
+[https://www.wikidata.org/wiki/Q1573776](https://www.wikidata.org/wiki/Q1573776)  
+
+### alignments:
+ - [Diana Veteranorum](https://pleiades.stoa.org/places/334536)
+
+
 ## Diane's Arch (Q2859858)
 [https://www.wikidata.org/wiki/Q2859858](https://www.wikidata.org/wiki/Q2859858)  
 
@@ -28100,6 +28115,13 @@
  - [Euas(...) (river)](https://pleiades.stoa.org/places/59811)
 
 
+## Kundl (Q279572)
+[https://www.wikidata.org/wiki/Q279572](https://www.wikidata.org/wiki/Q279572)  
+
+### alignments:
+ - [Kundl](https://pleiades.stoa.org/places/187441)
+
+
 ## Kunduz (Q108155)
 [https://www.wikidata.org/wiki/Q108155](https://www.wikidata.org/wiki/Q108155)  
 
@@ -35613,6 +35635,13 @@
 
 ### alignments:
  - [Nicea Nialia/Barsa](https://pleiades.stoa.org/places/884897)
+
+
+## Nicives (Q1985305)
+[https://www.wikidata.org/wiki/Q1985305](https://www.wikidata.org/wiki/Q1985305)  
+
+### alignments:
+ - [Nicivibus](https://pleiades.stoa.org/places/334600)
 
 
 ## Nicobar Islands (Q157286)
@@ -46071,13 +46100,6 @@
  - [Dorion](https://pleiades.stoa.org/places/570202)
 
 
-## Q1573776: Diana Veteranorum
-[https://www.wikidata.org/wiki/Q1573776](https://www.wikidata.org/wiki/Q1573776)  
-
-### alignments:
- - [Diana Veteranorum](https://pleiades.stoa.org/places/334536)
-
-
 ## Q157676: Boii
 [https://www.wikidata.org/wiki/Q157676](https://www.wikidata.org/wiki/Q157676)  
 
@@ -54381,13 +54403,6 @@
 
 ### alignments:
  - [Suessa Aurunca](https://pleiades.stoa.org/places/433132)
-
-
-## Q58905: Teano
-[https://www.wikidata.org/wiki/Q58905](https://www.wikidata.org/wiki/Q58905)  
-
-### alignments:
- - [Teanum Sidicinum](https://pleiades.stoa.org/places/433146)
 
 
 ## Q589858: Taurisci
@@ -65733,6 +65748,13 @@
  - [Tbilisi](https://pleiades.stoa.org/places/863903)
 
 
+## Teano (Q58905)
+[https://www.wikidata.org/wiki/Q58905](https://www.wikidata.org/wiki/Q58905)  
+
+### alignments:
+ - [Teanum Sidicinum](https://pleiades.stoa.org/places/433146)
+
+
 ## Teate (Q3554226)
 [https://www.wikidata.org/wiki/Q3554226](https://www.wikidata.org/wiki/Q3554226)  
 
@@ -66572,7 +66594,7 @@
 [https://www.wikidata.org/wiki/Q133868539](https://www.wikidata.org/wiki/Q133868539)  
 
 ### alignments:
- - [Diana Tifatina, T.](https://pleiades.stoa.org/places/432813)
+ - [Diana Tifatina (temple)](https://pleiades.stoa.org/places/432813)
 
 
 ## Temple of Dionysos (Q56440191)
@@ -66699,6 +66721,13 @@
 
 ### alignments:
  - [Temple of Hercules at Amman/Philadelpheia](https://pleiades.stoa.org/places/696690497)
+
+
+## Temple of Hercules Gaditanus (Q3517581)
+[https://www.wikidata.org/wiki/Q3517581](https://www.wikidata.org/wiki/Q3517581)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/256197)
 
 
 ## Temple of Hercules Musarum (Q2770925)
@@ -71111,6 +71140,13 @@
 
 ### alignments:
  - [Ozene](https://pleiades.stoa.org/places/59972)
+
+
+## Uled Bu Aescia (Q106298876)
+[https://www.wikidata.org/wiki/Q106298876](https://www.wikidata.org/wiki/Q106298876)  
+
+### alignments:
+ - [Uled Bu Aescia](https://pleiades.stoa.org/places/344528)
 
 
 ## Ulhas River (Q53233)

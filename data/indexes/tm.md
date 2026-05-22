@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5080 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
+5083 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1679,6 +1679,13 @@
 
 ### alignments:
  - [Bargylia](https://pleiades.stoa.org/places/599550)
+
+
+## Geo 40435: Contra Aginnum (Condren)
+[https://www.trismegistos.org/place/40435](https://www.trismegistos.org/place/40435)  
+
+### alignments:
+ - [Contra Aginnum](https://pleiades.stoa.org/places/108905)
 
 
 ## Geo 40462: Novioregum (Barzan)
@@ -8032,6 +8039,13 @@
 
 ### alignments:
  - [Iabrouda](https://pleiades.stoa.org/places/678196)
+
+
+## GEO ID 16813
+[http://www.trismegistos.org/place/16813](http://www.trismegistos.org/place/16813)  
+
+### alignments:
+ - [(B)Ossia/Ad Dianam?](https://pleiades.stoa.org/places/746721)
 
 
 ## GEO ID 16815: Gerasa (Jerash)
@@ -17136,7 +17150,7 @@
 [http://www.trismegistos.org/place/32421](http://www.trismegistos.org/place/32421)  
 
 ### alignments:
- - [Diana Tifatina, T.](https://pleiades.stoa.org/places/432813)
+ - [Diana Tifatina (temple)](https://pleiades.stoa.org/places/432813)
 
 
 ## GEO ID 32424: Tifata Mons (Monte Tifata)
@@ -22139,13 +22153,6 @@
  - [Castra Vetera](https://pleiades.stoa.org/places/108867)
 
 
-## GEO ID 40435: Contra Aginnum (Condren)
-[https://www.trismegistos.org/place/40435](https://www.trismegistos.org/place/40435)  
-
-### alignments:
- - [Contra Aginnum](https://pleiades.stoa.org/places/108905)
-
-
 ## GEO ID 40436: Fines (Fismes)
 [http://www.trismegistos.org/place/40436](http://www.trismegistos.org/place/40436)  
 
@@ -25126,6 +25133,13 @@
 
 ### alignments:
  - [T(h)amascani](https://pleiades.stoa.org/places/334635)
+
+
+## GEO ID 41731: Ubaza (Terebaza)
+[https://www.trismegistos.org/place/41731](https://www.trismegistos.org/place/41731)  
+
+### alignments:
+ - [Ubaza Castellum](https://pleiades.stoa.org/places/334653)
 
 
 ## GEO ID 41733: Ad Capsum Iuliani
@@ -34571,6 +34585,13 @@
 
 ### alignments:
  - [Psinabla](https://pleiades.stoa.org/places/756628)
+
+
+## GEO ID 8263: Psochemis
+[https://www.trismegistos.org/place/8263](https://www.trismegistos.org/place/8263)  
+
+### alignments:
+ - [Psochemmis](https://pleiades.stoa.org/places/730151)
 
 
 ## GEO ID 8290: Ankyra (Ankara)

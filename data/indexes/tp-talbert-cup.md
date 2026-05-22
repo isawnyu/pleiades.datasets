@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2365 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
+2367 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -8737,6 +8737,13 @@
  - [Bilubio](https://pleiades.stoa.org/places/203106)
 
 
+## 5A3 (Talbert 1708)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1708.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1708.html)  
+
+### alignments:
+ - [Ad Dianam](https://pleiades.stoa.org/places/197059)
+
+
 ## 5A3 (Talbert 2986)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2986.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2986.html)  
 
@@ -9533,7 +9540,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1450.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1450.html)  
 
 ### alignments:
- - [Diana Tifatina, T.](https://pleiades.stoa.org/places/432813)
+ - [Diana Tifatina (temple)](https://pleiades.stoa.org/places/432813)
 
 
 ## 5B3 (Talbert 1455)
@@ -14919,6 +14926,13 @@
 
 ### alignments:
  - [Aelana/Aila](https://pleiades.stoa.org/places/746700)
+
+
+## 8C5 (Talbert 452)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace452.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace452.html)  
+
+### alignments:
+ - [(B)Ossia/Ad Dianam?](https://pleiades.stoa.org/places/746721)
 
 
 ## 8C5 (Talbert 453)

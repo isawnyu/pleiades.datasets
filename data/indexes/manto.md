@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1033 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
+1035 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3096,6 +3096,13 @@
  - [Panchaea](https://pleiades.stoa.org/places/539001207)
 
 
+## 11304365: the Temple of Heracles at Gadeira
+[https://resource.manto.unh.edu/11304365](https://resource.manto.unh.edu/11304365)  
+
+### alignments:
+ - [Herakleion](https://pleiades.stoa.org/places/256197)
+
+
 ## 11304376: the Tomb of Antaios (Libya)
 [https://resource.manto.unh.edu/11304376](https://resource.manto.unh.edu/11304376)  
 
@@ -4257,6 +4264,13 @@
 
 ### alignments:
  - [Temple of Quirinus](https://pleiades.stoa.org/places/524616090)
+
+
+## 11325103: Cales (Campania)
+[https://resource.manto.unh.edu/11325103](https://resource.manto.unh.edu/11325103)  
+
+### alignments:
+ - [Cales (Campania)](https://pleiades.stoa.org/places/432739)
 
 
 ## 11325480

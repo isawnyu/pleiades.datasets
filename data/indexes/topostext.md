@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4984 alignments exist in _Pleiades_ place references as of 2026-05-21. The following list of alignments is grouped by zotkey.
+4986 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -11258,7 +11258,7 @@
  - [Eurotas (river)](https://pleiades.stoa.org/places/570248)
 
 
-## Eurymedon R. (Asia Minor)
+## Eurymedon R. (Asia Minor) 43 Koprucay river
 [https://topostext.org/place/369312WEur](https://topostext.org/place/369312WEur)  
 
 ### alignments:
@@ -21464,6 +21464,13 @@
  - [Mounichia Limen](https://pleiades.stoa.org/places/580029)
 
 
+## Mount Atlas (Africa)
+[https://topostext.org/place/311079LAtl](https://topostext.org/place/311079LAtl)  
+
+### alignments:
+ - [Atlas (mountains)](https://pleiades.stoa.org/places/846)
+
+
 ## Mount Carmel (Phoenicia) 18 Carmel
 [https://topostext.org/place/327350LKar](https://topostext.org/place/327350LKar)  
 
@@ -31594,6 +31601,13 @@
  - [templum divi Claudii](https://pleiades.stoa.org/places/645216382)
 
 
+## Temple of Diana Tifatina (Campania)
+[https://topostext.org/place/411143SDiT](https://topostext.org/place/411143SDiT)  
+
+### alignments:
+ - [Diana Tifatina (temple)](https://pleiades.stoa.org/places/432813)
+
+
 ## Temple of Hadrian (Rome)
 [https://topostext.org/place/419125SHad](https://topostext.org/place/419125SHad)  
 
@@ -31893,7 +31907,7 @@
 [https://topostext.org/place/354270SThe](https://topostext.org/place/354270SThe)  
 
 ### alignments:
- - [Theai kai Nymphai, T.](https://pleiades.stoa.org/places/590075)
+ - [Theai kai Nymphai (temple)](https://pleiades.stoa.org/places/590075)
 
 
 ## Theangela (Caria)
