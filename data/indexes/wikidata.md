@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10713 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
+10716 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5107,6 +5107,13 @@
 
 ### alignments:
  - [Cercadilla](https://pleiades.stoa.org/places/874536625)
+
+
+## Archaeological site of Cuccureddus (Q43305221)
+[https://www.wikidata.org/wiki/Q43305221](https://www.wikidata.org/wiki/Q43305221)  
+
+### alignments:
+ - [Cuccureddus](https://pleiades.stoa.org/places/328783231)
 
 
 ## Archaeological Site of Emporio (Q38281346)
@@ -41672,6 +41679,13 @@
  - [Privernum](https://pleiades.stoa.org/places/433052)
 
 
+## Procida (Q72432)
+[https://www.wikidata.org/wiki/Q72432](https://www.wikidata.org/wiki/Q72432)  
+
+### alignments:
+ - [Prochyta (island)](https://pleiades.stoa.org/places/433053)
+
+
 ## Proerna (Q16622363)
 [https://www.wikidata.org/wiki/Q16622363](https://www.wikidata.org/wiki/Q16622363)  
 
@@ -73060,6 +73074,13 @@
 
 ### alignments:
  - [Veranes](https://pleiades.stoa.org/places/581136584)
+
+
+## Villa romana de Vinamargo (Q113515817)
+[https://www.wikidata.org/wiki/Q113515817](https://www.wikidata.org/wiki/Q113515817)  
+
+### alignments:
+ - [Villamargo](https://pleiades.stoa.org/places/939442083)
 
 
 ## Villa romana del Bruñel (Q6162500)

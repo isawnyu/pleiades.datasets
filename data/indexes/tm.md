@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5083 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
+5085 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3882,7 +3882,7 @@
  - [Limyra](https://pleiades.stoa.org/places/638961)
 
 
-## GEO ID 12628
+## GEO ID 12628: Sikelikos Porthmos (Straits of Messina)
 [http://www.trismegistos.org/place/12628](http://www.trismegistos.org/place/12628)  
 
 ### alignments:
@@ -24799,6 +24799,13 @@
  - [Bastarnae](https://pleiades.stoa.org/places/216728)
 
 
+## GEO ID 41650: Buaticum
+[https://www.trismegistos.org/place/41650](https://www.trismegistos.org/place/41650)  
+
+### alignments:
+ - [Buaticum](https://pleiades.stoa.org/places/222025)
+
+
 ## GEO ID 41651: Stratonis Turris
 [http://www.trismegistos.org/place/41651](http://www.trismegistos.org/place/41651)  
 
@@ -35341,6 +35348,13 @@
 
 ### alignments:
  - [Melampagos](https://pleiades.stoa.org/places/550728)
+
+
+## Name 34769
+[https://www.trismegistos.org/name/34769](https://www.trismegistos.org/name/34769)  
+
+### alignments:
+ - [Charybdis](https://pleiades.stoa.org/places/462157)
 
 
 ## Pannonia Inferior: 16529

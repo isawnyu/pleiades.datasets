@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1035 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
+1037 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4707,6 +4707,13 @@
  - [Hermion(e)](https://pleiades.stoa.org/places/570292)
 
 
+## 8188000: Charybdis
+[https://resource.manto.unh.edu/8188000](https://resource.manto.unh.edu/8188000)  
+
+### alignments:
+ - [Charybdis](https://pleiades.stoa.org/places/462157)
+
+
 ## 8188810: Crommyon (Argolid)
 [https://resource.manto.unh.edu/8188810](https://resource.manto.unh.edu/8188810)  
 
@@ -5877,13 +5884,6 @@
  - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
 
 
-## 9358812: the Seirenoussai (islands)
-[https://resource.manto.unh.edu/9358812](https://resource.manto.unh.edu/9358812)  
-
-### alignments:
- - [Sirenes/Seirenoussai (islands)](https://pleiades.stoa.org/places/433124)
-
-
 ## 9358829: Ogygia (Island)
 [https://resource.manto.unh.edu/9358829](https://resource.manto.unh.edu/9358829)  
 
@@ -6801,6 +6801,13 @@
  - [Parthenope/Neapolis](https://pleiades.stoa.org/places/433014)
 
 
+## 9721326: the Seirenoussai (islands)
+[https://resource.manto.unh.edu/9721326](https://resource.manto.unh.edu/9721326)  
+
+### alignments:
+ - [Sirenes/Seirenoussai (islands)](https://pleiades.stoa.org/places/433124)
+
+
 ## 9721333: Claros (Ionia)
 [https://resource.manto.unh.edu/9721333](https://resource.manto.unh.edu/9721333)  
 
@@ -7212,6 +7219,13 @@
 
 ### alignments:
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
+
+
+## Prochyta (island)
+[https://resource.manto.unh.edu/11324209](https://resource.manto.unh.edu/11324209)  
+
+### alignments:
+ - [Prochyta (island)](https://pleiades.stoa.org/places/433053)
 
 
 ## River Odrysses (Mygdonia)

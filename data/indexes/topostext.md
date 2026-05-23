@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4986 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
+4989 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -6809,6 +6809,13 @@
 
 ### alignments:
  - [Boubastis](https://pleiades.stoa.org/places/727088)
+
+
+## Buca (Frentani)
+[https://topostext.org/place/420150UBuc](https://topostext.org/place/420150UBuc)  
+
+### alignments:
+ - [Buca](https://pleiades.stoa.org/places/432727)
 
 
 ## Budua (Iberia)
@@ -27620,6 +27627,13 @@
  - [Probalinthos](https://pleiades.stoa.org/places/580091)
 
 
+## Prochyte (Campania)
+[https://topostext.org/place/407140IPro](https://topostext.org/place/407140IPro)  
+
+### alignments:
+ - [Prochyta (island)](https://pleiades.stoa.org/places/433053)
+
+
 ## Proconnesus (Propontis)
 [https://topostext.org/place/406276IPro](https://topostext.org/place/406276IPro)  
 
@@ -30709,6 +30723,13 @@
 
 ### alignments:
  - [Stolos](https://pleiades.stoa.org/places/501627)
+
+
+## Strait of Messina (Italia)
+[https://topostext.org/place/382156WSMe](https://topostext.org/place/382156WSMe)  
+
+### alignments:
+ - [Siculum Fretum](https://pleiades.stoa.org/places/462494)
 
 
 ## Stratonikeia (Caria)

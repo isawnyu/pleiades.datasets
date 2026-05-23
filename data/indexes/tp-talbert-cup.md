@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2367 alignments exist in _Pleiades_ place references as of 2026-05-22. The following list of alignments is grouped by zotkey.
+2368 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12742,6 +12742,13 @@
 
 ### alignments:
  - [Portus Boeotorum](https://pleiades.stoa.org/places/50049903)
+
+
+## 7A5 (Talbert 1970)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1970.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1970.html)  
+
+### alignments:
+ - [Buaticum](https://pleiades.stoa.org/places/222025)
 
 
 ## 7A5 (Talbert 1971)
