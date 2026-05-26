@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1037 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
+1043 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -588,6 +588,13 @@
 
 ### alignments:
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
+
+
+## 10137158: Peraitheis (Arcadia)
+[https://resource.manto.unh.edu/10137158](https://resource.manto.unh.edu/10137158)  
+
+### alignments:
+ - [Peraithea](https://pleiades.stoa.org/places/570583)
 
 
 ## 10137160: Asea
@@ -2886,6 +2893,13 @@
  - [Segesta/Egesta](https://pleiades.stoa.org/places/462487)
 
 
+## 11300419: Tamassos (Cyprus)
+[https://resource.manto.unh.edu/11300419](https://resource.manto.unh.edu/11300419)  
+
+### alignments:
+ - [Tamassos](https://pleiades.stoa.org/places/707628)
+
+
 ## 11300730: Troy (Egypt)
 [https://resource.manto.unh.edu/11300730](https://resource.manto.unh.edu/11300730)  
 
@@ -3479,6 +3493,13 @@
 
 ### alignments:
  - [Hierapytna](https://pleiades.stoa.org/places/589807)
+
+
+## 11309767: Mount Eryx (Sicily)
+[https://resource.manto.unh.edu/11309767](https://resource.manto.unh.edu/11309767)  
+
+### alignments:
+ - [Eryx (mountain)](https://pleiades.stoa.org/places/462202)
 
 
 ## 11309768: the Apennine Mountains
@@ -4133,6 +4154,13 @@
  - [Ara Maxima Herculis](https://pleiades.stoa.org/places/207271757)
 
 
+## 11319984: Oplontis (Campania)
+[https://resource.manto.unh.edu/11319984](https://resource.manto.unh.edu/11319984)  
+
+### alignments:
+ - [Oplontis](https://pleiades.stoa.org/places/432992)
+
+
 ## 11320079: Private Dwelling VII 4, 22-23 (Pompeii)
 [https://resource.manto.unh.edu/11320079](https://resource.manto.unh.edu/11320079)  
 
@@ -4187,6 +4215,13 @@
 
 ### alignments:
  - [Caenina](https://pleiades.stoa.org/places/438703)
+
+
+## 11321286: Fregellae (Italy)
+[https://resource.manto.unh.edu/11321286](https://resource.manto.unh.edu/11321286)  
+
+### alignments:
+ - [Fregellae](https://pleiades.stoa.org/places/432846)
 
 
 ## 11321287: Cameria (Italy)
@@ -4432,6 +4467,13 @@
 
 ### alignments:
  - [Murus Romuli](https://pleiades.stoa.org/places/698502930)
+
+
+## 11328397: the Oinotrides (islands)
+[https://resource.manto.unh.edu/11328397](https://resource.manto.unh.edu/11328397)  
+
+### alignments:
+ - [Pontiae (islands)](https://pleiades.stoa.org/places/433042)
 
 
 ## 11328490: the Land of the Marsi

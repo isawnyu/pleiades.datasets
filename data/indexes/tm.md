@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5085 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
+5091 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1294,13 +1294,6 @@
 
 ### alignments:
  - [Aphrodisias (coastal settlement in Rough Cilicia)](https://pleiades.stoa.org/places/648565)
-
-
-## Geo 3592: Amorgos
-[https://www.trismegistos.org/place/3592](https://www.trismegistos.org/place/3592)  
-
-### alignments:
- - [Amorgos (island)](https://pleiades.stoa.org/places/599484)
 
 
 ## Geo 3605: Kaudos
@@ -7179,6 +7172,13 @@
  - [Hadrianopolis](https://pleiades.stoa.org/places/530885)
 
 
+## GEO ID 15806: Ad Quintum (Bradashesh)
+[https://www.trismegistos.org/place/15806](https://www.trismegistos.org/place/15806)  
+
+### alignments:
+ - [Ad Quintum](https://pleiades.stoa.org/places/481701)
+
+
 ## GEO ID 15816: Orikos (Orikumi)
 [http://www.trismegistos.org/place/15816](http://www.trismegistos.org/place/15816)  
 
@@ -9614,6 +9614,13 @@
 
 ### alignments:
  - [Tamesis (river)](https://pleiades.stoa.org/places/79705)
+
+
+## GEO ID 19671: Orolaunum (Arlon)
+[https://www.trismegistos.org/place/19671](https://www.trismegistos.org/place/19671)  
+
+### alignments:
+ - [Orolaunum](https://pleiades.stoa.org/places/109232)
 
 
 ## GEO ID 19675: Uxellum (Ward Law?)
@@ -15401,6 +15408,13 @@
  - [Noviodunum](https://pleiades.stoa.org/places/216900)
 
 
+## GEO ID 30014: Vicus Quintionis (Sinoe)
+[https://www.trismegistos.org/place/30014](https://www.trismegistos.org/place/30014)  
+
+### alignments:
+ - [Vicus Quintionis](https://pleiades.stoa.org/places/217049)
+
+
 ## GEO ID 30015: Vicus Secundini
 [https://www.trismegistos.org/place/30015](https://www.trismegistos.org/place/30015)  
 
@@ -19232,6 +19246,13 @@
  - [Skotoussa](https://pleiades.stoa.org/places/491722)
 
 
+## GEO ID 34064: Aigiale
+[https://www.trismegistos.org/place/34064](https://www.trismegistos.org/place/34064)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
+
+
 ## GEO ID 34089: Kerinthos
 [http://www.trismegistos.org/place/34089](http://www.trismegistos.org/place/34089)  
 
@@ -19862,6 +19883,13 @@
  - [Isinisca](https://pleiades.stoa.org/places/187426)
 
 
+## GEO ID 3522
+[http://www.trismegistos.org/place/3522](http://www.trismegistos.org/place/3522)  
+
+### alignments:
+ - [Mamertion?](https://pleiades.stoa.org/places/452374)
+
+
 ## GEO ID 3523: Naupaktos
 [http://www.trismegistos.org/place/3523](http://www.trismegistos.org/place/3523)  
 
@@ -20056,6 +20084,13 @@
 
 ### alignments:
  - [Kydathenaion](https://pleiades.stoa.org/places/582862)
+
+
+## GEO ID 3592: Amorgos
+[https://www.trismegistos.org/place/3592](https://www.trismegistos.org/place/3592)  
+
+### alignments:
+ - [Amorgos (island)](https://pleiades.stoa.org/places/599484)
 
 
 ## GEO ID 35942: Iovalia (Valpovo)
@@ -32853,6 +32888,13 @@
 
 ### alignments:
  - [Panagia Kanakaria](https://pleiades.stoa.org/places/707600)
+
+
+## GEO ID 60865: Analiontas
+[https://www.trismegistos.org/place/60865](https://www.trismegistos.org/place/60865)  
+
+### alignments:
+ - [Apollo Alasiotas, T.](https://pleiades.stoa.org/places/707475)
 
 
 ## GEO ID 60875: Antikragos (Buba Dağ)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-467 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
+469 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2346,6 +2346,13 @@
  - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
+## Toponyme 3308: AMORGOS. - Aigiali - 2003
+[https://chronique.efa.gr/?kroute=report&id=3308](https://chronique.efa.gr/?kroute=report&id=3308)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
+
+
 ## Toponyme 3344: Amfipolis, Neochorion-Δ.Δ.Αμφιπόλεως
 [https://chronique.efa.gr/?r=topo_public&id=3344](https://chronique.efa.gr/?r=topo_public&id=3344)  
 
@@ -2870,6 +2877,13 @@
 
 ### alignments:
  - [Actium](https://pleiades.stoa.org/places/530771)
+
+
+## Toponyme 4612: Arkessini, Arkessini-Δ.Δ. Αρκεσίνης
+[https://chronique.efa.gr/?r=topo_public&id=4612](https://chronique.efa.gr/?r=topo_public&id=4612)  
+
+### alignments:
+ - [Arkesine](https://pleiades.stoa.org/places/599517)
 
 
 ## Toponyme 4762: Acropolis, Acropole-Ακρόπολη Αθηνών

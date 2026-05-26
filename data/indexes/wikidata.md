@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10716 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
+10747 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -892,6 +892,13 @@
  - [Ad Quintanas](https://pleiades.stoa.org/places/422814)
 
 
+## Ad Quintum (Q13046345)
+[https://www.wikidata.org/wiki/Q13046345](https://www.wikidata.org/wiki/Q13046345)  
+
+### alignments:
+ - [Ad Quintum](https://pleiades.stoa.org/places/481701)
+
+
 ## Ad Speculum (Q137665927)
 [https://www.wikidata.org/wiki/Q137665927](https://www.wikidata.org/wiki/Q137665927)  
 
@@ -1107,6 +1114,13 @@
 
 ### alignments:
  - [Aigeiros?](https://pleiades.stoa.org/places/550418)
+
+
+## Aegiale (Q28721809)
+[https://www.wikidata.org/wiki/Q28721809](https://www.wikidata.org/wiki/Q28721809)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
 
 
 ## Aegialus (Q65073096)
@@ -3030,6 +3044,13 @@
  - [Amnya](https://pleiades.stoa.org/places/505085395)
 
 
+## Amorgos (Q208587)
+[https://www.wikidata.org/wiki/Q208587](https://www.wikidata.org/wiki/Q208587)  
+
+### alignments:
+ - [Amorgos (island)](https://pleiades.stoa.org/places/599484)
+
+
 ## Amorium (Q174270)
 [https://www.wikidata.org/wiki/Q174270](https://www.wikidata.org/wiki/Q174270)  
 
@@ -4822,6 +4843,13 @@
  - [Arx Fregellana](https://pleiades.stoa.org/places/432702)
 
 
+## Arcesine (Q63994763)
+[https://www.wikidata.org/wiki/Q63994763](https://www.wikidata.org/wiki/Q63994763)  
+
+### alignments:
+ - [Arkesine](https://pleiades.stoa.org/places/599517)
+
+
 ## Arcesseia (Q72715843)
 [https://www.wikidata.org/wiki/Q72715843](https://www.wikidata.org/wiki/Q72715843)  
 
@@ -5599,6 +5627,13 @@
  - [Arles Amphitheatre](https://pleiades.stoa.org/places/438050385)
 
 
+## Arlon (Q675960)
+[https://www.wikidata.org/wiki/Q675960](https://www.wikidata.org/wiki/Q675960)  
+
+### alignments:
+ - [Orolaunum](https://pleiades.stoa.org/places/109232)
+
+
 ## Armathia (Q185804)
 [https://www.wikidata.org/wiki/Q185804](https://www.wikidata.org/wiki/Q185804)  
 
@@ -5976,6 +6011,13 @@
 
 ### alignments:
  - [Asiane (Byzantine diocese)](https://pleiades.stoa.org/places/1001134)
+
+
+## Asido (Q64827862)
+[https://www.wikidata.org/wiki/Q64827862](https://www.wikidata.org/wiki/Q64827862)  
+
+### alignments:
+ - [Asido](https://pleiades.stoa.org/places/255994)
 
 
 ## Asilah (Q730328)
@@ -6580,6 +6622,13 @@
  - [The "Auditorium site" at the Auditorium Parco della Musica (Rome)](https://pleiades.stoa.org/places/721060792)
 
 
+## Audun-le-Tiche (Q21917)
+[https://www.wikidata.org/wiki/Q21917](https://www.wikidata.org/wiki/Q21917)  
+
+### alignments:
+ - [Audun-le-Tiche](https://pleiades.stoa.org/places/108767)
+
+
 ## Augers-en-Brie (Q760408)
 [https://www.wikidata.org/wiki/Q760408](https://www.wikidata.org/wiki/Q760408)  
 
@@ -6795,6 +6844,13 @@
 
 ### alignments:
  - [Ausones](https://pleiades.stoa.org/places/438689)
+
+
+## Austicula (Q139905483)
+[https://www.wikidata.org/wiki/Q139905483](https://www.wikidata.org/wiki/Q139905483)  
+
+### alignments:
+ - [Austicula](https://pleiades.stoa.org/places/438690)
 
 
 ## Autrigones (Q789372)
@@ -11281,6 +11337,13 @@
  - [Kolyergia (promuntory)](https://pleiades.stoa.org/places/570369)
 
 
+## Cape Apostolos Andreas (Q1637084)
+[https://www.wikidata.org/wiki/Q1637084](https://www.wikidata.org/wiki/Q1637084)  
+
+### alignments:
+ - [Kleides Pr.](https://pleiades.stoa.org/places/707537)
+
+
 ## Cape Aspro (Q22991976)
 [https://www.wikidata.org/wiki/Q22991976](https://www.wikidata.org/wiki/Q22991976)  
 
@@ -12168,6 +12231,13 @@
 
 ### alignments:
  - [Castello D'Evoli](https://pleiades.stoa.org/places/799567350)
+
+
+## Castello di Decima (Rome) (Q16538082)
+[https://www.wikidata.org/wiki/Q16538082](https://www.wikidata.org/wiki/Q16538082)  
+
+### alignments:
+ - [Castello di Decima](https://pleiades.stoa.org/places/480370535)
 
 
 ## Castello di Monte Sant'Angelo (Q3662725)
@@ -15517,6 +15587,13 @@
  - [Combley Roman villa](https://pleiades.stoa.org/places/919152219)
 
 
+## Cominium Ocritum (Q139918249)
+[https://www.wikidata.org/wiki/Q139918249](https://www.wikidata.org/wiki/Q139918249)  
+
+### alignments:
+ - [Cominium Ocritum](https://pleiades.stoa.org/places/438720)
+
+
 ## Como (Q1308)
 [https://www.wikidata.org/wiki/Q1308](https://www.wikidata.org/wiki/Q1308)  
 
@@ -15978,6 +16055,13 @@
 
 ### alignments:
  - [‘Bomio’](https://pleiades.stoa.org/places/79335)
+
+
+## Cozzo Presepe (Q97729244)
+[https://www.wikidata.org/wiki/Q97729244](https://www.wikidata.org/wiki/Q97729244)  
+
+### alignments:
+ - [Cozzo Presepe](https://pleiades.stoa.org/places/442557)
 
 
 ## Cramond Roman fort
@@ -16951,6 +17035,13 @@
 
 ### alignments:
  - [Deer Stone Monuments and Related Bronze Age Sites](https://pleiades.stoa.org/places/900824967)
+
+
+## defensive circuit of Cozzo Matrice (Q113563807)
+[https://www.wikidata.org/wiki/Q113563807](https://www.wikidata.org/wiki/Q113563807)  
+
+### alignments:
+ - [Cozzo Matrice](https://pleiades.stoa.org/places/462170)
 
 
 ## Defensive walls (Q125810729)
@@ -22000,6 +22091,13 @@
 
 ### alignments:
  - [Gorbeous](https://pleiades.stoa.org/places/619167)
+
+
+## Gorgona Abbey (Q5586302)
+[https://www.wikidata.org/wiki/Q5586302](https://www.wikidata.org/wiki/Q5586302)  
+
+### alignments:
+ - [Unnamed monastery (Urgo)](https://pleiades.stoa.org/places/406948)
 
 
 ## Goritsa, Neromyloi (Q52427888)
@@ -27366,6 +27464,13 @@
  - [Thamna](https://pleiades.stoa.org/places/688040)
 
 
+## Khirokitia (Q385086)
+[https://www.wikidata.org/wiki/Q385086](https://www.wikidata.org/wiki/Q385086)  
+
+### alignments:
+ - [Choirokoitia](https://pleiades.stoa.org/places/755568222)
+
+
 ## Khlemoutsi (Q25024290)
 [https://www.wikidata.org/wiki/Q25024290](https://www.wikidata.org/wiki/Q25024290)  
 
@@ -28459,6 +28564,13 @@
  - [La Rustica](https://pleiades.stoa.org/places/423026)
 
 
+## La Sila (Q1088296)
+[https://www.wikidata.org/wiki/Q1088296](https://www.wikidata.org/wiki/Q1088296)  
+
+### alignments:
+ - [Sila (mountain)](https://pleiades.stoa.org/places/452449)
+
+
 ## La Storta (Q1131028)
 [https://www.wikidata.org/wiki/Q1131028](https://www.wikidata.org/wiki/Q1131028)  
 
@@ -29159,6 +29271,13 @@
  - [Lanuvium](https://pleiades.stoa.org/places/422956)
 
 
+## Lao River (Q703305)
+[https://www.wikidata.org/wiki/Q703305](https://www.wikidata.org/wiki/Q703305)  
+
+### alignments:
+ - [Laos (river)](https://pleiades.stoa.org/places/452362)
+
+
 ## Laodicea ad Libanum (Q1137988)
 [https://www.wikidata.org/wiki/Q1137988](https://www.wikidata.org/wiki/Q1137988)  
 
@@ -29236,6 +29355,13 @@
  - [La(s)](https://pleiades.stoa.org/places/570417)
 
 
+## Lascaux (Q172125)
+[https://www.wikidata.org/wiki/Q172125](https://www.wikidata.org/wiki/Q172125)  
+
+### alignments:
+ - [Lascaux Cave](https://pleiades.stoa.org/places/802425707)
+
+
 ## Lasion (Q15780077)
 [https://www.wikidata.org/wiki/Q15780077](https://www.wikidata.org/wiki/Q15780077)  
 
@@ -29276,6 +29402,13 @@
 
 ### alignments:
  - [Vari](https://pleiades.stoa.org/places/580129)
+
+
+## Latin League (Q874283)
+[https://www.wikidata.org/wiki/Q874283](https://www.wikidata.org/wiki/Q874283)  
+
+### alignments:
+ - [Latin League](https://pleiades.stoa.org/places/174457453)
 
 
 ## Latium (Q1048669)
@@ -29733,6 +29866,13 @@
  - [Li Schiavoni (Nardò, Lecce)](https://pleiades.stoa.org/places/839402399)
 
 
+## Liadi (Q21693440)
+[https://www.wikidata.org/wiki/Q21693440](https://www.wikidata.org/wiki/Q21693440)  
+
+### alignments:
+ - [Leia? (island)](https://pleiades.stoa.org/places/599757)
+
+
 ## Libiopolis (Q65048881)
 [https://www.wikidata.org/wiki/Q65048881](https://www.wikidata.org/wiki/Q65048881)  
 
@@ -30074,6 +30214,13 @@
 
 ### alignments:
  - [Liquentia (river)](https://pleiades.stoa.org/places/393446)
+
+
+## Liverdun (Q903665)
+[https://www.wikidata.org/wiki/Q903665](https://www.wikidata.org/wiki/Q903665)  
+
+### alignments:
+ - [Liverdun](https://pleiades.stoa.org/places/789604416)
 
 
 ## Lixus amphitheatre (Q18640103)
@@ -33824,6 +33971,13 @@
  - [Monte del Grano](https://pleiades.stoa.org/places/422973)
 
 
+## Monte Erice (Q3861524)
+[https://www.wikidata.org/wiki/Q3861524](https://www.wikidata.org/wiki/Q3861524)  
+
+### alignments:
+ - [Eryx (mountain)](https://pleiades.stoa.org/places/462202)
+
+
 ## Monte Falterona (Q749841)
 [https://www.wikidata.org/wiki/Q749841](https://www.wikidata.org/wiki/Q749841)  
 
@@ -33920,6 +34074,13 @@
 
 ### alignments:
  - [Monte S. Croce](https://pleiades.stoa.org/places/432959)
+
+
+## Monte Saraceno di Ravanusa (Q55678918)
+[https://www.wikidata.org/wiki/Q55678918](https://www.wikidata.org/wiki/Q55678918)  
+
+### alignments:
+ - [Monte Saraceno di Ravanusa (Kakyron?)](https://pleiades.stoa.org/places/462266)
 
 
 ## Monte Sirai (Q1945932)
@@ -34517,6 +34678,13 @@
  - [City wall of Ameria](https://pleiades.stoa.org/places/992150860)
 
 
+## Mura Pregne (Q135258737)
+[https://www.wikidata.org/wiki/Q135258737](https://www.wikidata.org/wiki/Q135258737)  
+
+### alignments:
+ - [Mura Pregne](https://pleiades.stoa.org/places/462376)
+
+
 ## Muradiye (Q1000878)
 [https://www.wikidata.org/wiki/Q1000878](https://www.wikidata.org/wiki/Q1000878)  
 
@@ -34970,6 +35138,13 @@
 
 ### alignments:
  - [Namur](https://pleiades.stoa.org/places/109188)
+
+
+## Naniglio archaeological site (Q55675600)
+[https://www.wikidata.org/wiki/Q55675600](https://www.wikidata.org/wiki/Q55675600)  
+
+### alignments:
+ - [Naniglio Roman Villa](https://pleiades.stoa.org/places/452388)
 
 
 ## Nape (Q65121147)
@@ -37268,6 +37443,13 @@
  - [Opitergium](https://pleiades.stoa.org/places/393459)
 
 
+## Oplontis (Q1257335)
+[https://www.wikidata.org/wiki/Q1257335](https://www.wikidata.org/wiki/Q1257335)  
+
+### alignments:
+ - [Oplontis](https://pleiades.stoa.org/places/432992)
+
+
 ## Opone (Q7098410)
 [https://www.wikidata.org/wiki/Q7098410](https://www.wikidata.org/wiki/Q7098410)  
 
@@ -38178,6 +38360,13 @@
  - [Pamphylia (region)](https://pleiades.stoa.org/places/639034)
 
 
+## Pamplona (Q10282)
+[https://www.wikidata.org/wiki/Q10282](https://www.wikidata.org/wiki/Q10282)  
+
+### alignments:
+ - [Pompelo](https://pleiades.stoa.org/places/246567)
+
+
 ## Panachaiko (Q655702)
 [https://www.wikidata.org/wiki/Q655702](https://www.wikidata.org/wiki/Q655702)  
 
@@ -39009,6 +39198,13 @@
 
 ### alignments:
  - [Pephnos](https://pleiades.stoa.org/places/570581)
+
+
+## Peraitheis (Q39081772)
+[https://www.wikidata.org/wiki/Q39081772](https://www.wikidata.org/wiki/Q39081772)  
+
+### alignments:
+ - [Peraithea](https://pleiades.stoa.org/places/570583)
 
 
 ## Percote (Q3558595)
@@ -40090,6 +40286,13 @@
  - [Pityous](https://pleiades.stoa.org/places/857283)
 
 
+## Pizzo Carbonara (Q965689)
+[https://www.wikidata.org/wiki/Q965689](https://www.wikidata.org/wiki/Q965689)  
+
+### alignments:
+ - [Maroneus (mountain)](https://pleiades.stoa.org/places/462302)
+
+
 ## Piła (Q556200)
 [https://www.wikidata.org/wiki/Q556200](https://www.wikidata.org/wiki/Q556200)  
 
@@ -40361,6 +40564,13 @@
 
 ### alignments:
  - [Polimartium](https://pleiades.stoa.org/places/413268)
+
+
+## Politorium (Q3395248)
+[https://www.wikidata.org/wiki/Q3395248](https://www.wikidata.org/wiki/Q3395248)  
+
+### alignments:
+ - [Politorium](https://pleiades.stoa.org/places/438811)
 
 
 ## Polizzi Generosa (Q502657)
@@ -41782,6 +41992,13 @@
 
 ### alignments:
  - [Pyretos (river)](https://pleiades.stoa.org/places/216947)
+
+
+## Prüm River (Q697718)
+[https://www.wikidata.org/wiki/Q697718](https://www.wikidata.org/wiki/Q697718)  
+
+### alignments:
+ - [Promea (river)](https://pleiades.stoa.org/places/109264)
 
 
 ## Psantanchnoubis (Q134511485)
@@ -46795,13 +47012,6 @@
  - [Marta (river)](https://pleiades.stoa.org/places/413193)
 
 
-## Q1720688: Tamassos
-[https://www.wikidata.org/wiki/Q1720688](https://www.wikidata.org/wiki/Q1720688)  
-
-### alignments:
- - [Tamassos](https://pleiades.stoa.org/places/707628)
-
-
 ## Q1720: Mainz
 [https://www.wikidata.org/wiki/Q1720](https://www.wikidata.org/wiki/Q1720)  
 
@@ -50943,13 +51153,6 @@
  - [Poggio Civitella](https://pleiades.stoa.org/places/227716874)
 
 
-## Q3395248: Politorium
-[https://www.wikidata.org/wiki/Q3395248](https://www.wikidata.org/wiki/Q3395248)  
-
-### alignments:
- - [Politorium](https://pleiades.stoa.org/places/438811)
-
-
 ## Q3398722: Porta all'Arco
 [https://www.wikidata.org/wiki/Q3398722](https://www.wikidata.org/wiki/Q3398722)  
 
@@ -53873,20 +54076,6 @@
  - [Poggio La Croce](https://pleiades.stoa.org/places/817583144)
 
 
-## Q55675600: Naniglio archaeological site
-[https://www.wikidata.org/wiki/Q55675600](https://www.wikidata.org/wiki/Q55675600)  
-
-### alignments:
- - [Naniglio Roman Villa](https://pleiades.stoa.org/places/452388)
-
-
-## Q55678918
-[https://www.wikidata.org/wiki/Q55678918](https://www.wikidata.org/wiki/Q55678918)  
-
-### alignments:
- - [Monte Saraceno di Ravanusa (Kakyron?)](https://pleiades.stoa.org/places/462266)
-
-
 ## Q55685668: Villa of the Volusii Saturnini
 [https://www.wikidata.org/wiki/Q55685668](https://www.wikidata.org/wiki/Q55685668)  
 
@@ -56582,13 +56771,6 @@
  - [Porta Saracena](https://pleiades.stoa.org/places/14626469)
 
 
-## Q874283: Latin League
-[https://www.wikidata.org/wiki/Q874283](https://www.wikidata.org/wiki/Q874283)  
-
-### alignments:
- - [Latin League](https://pleiades.stoa.org/places/174457453)
-
-
 ## Q8771527: Eburobrittium
 [https://www.wikidata.org/wiki/Q8771527](https://www.wikidata.org/wiki/Q8771527)  
 
@@ -57091,13 +57273,6 @@
 
 ### alignments:
  - [Roman theater of Acinipo](https://pleiades.stoa.org/places/577784362)
-
-
-## Q97729244: Cozzo Presepe
-[https://www.wikidata.org/wiki/Q97729244](https://www.wikidata.org/wiki/Q97729244)  
-
-### alignments:
- - [Cozzo Presepe](https://pleiades.stoa.org/places/442557)
 
 
 ## Q980425: Suasa amphitheatre
@@ -60433,6 +60608,13 @@
  - [Saguntum/Arse](https://pleiades.stoa.org/places/266021)
 
 
+## Saint Hilarion Castle (Q2302532)
+[https://www.wikidata.org/wiki/Q2302532](https://www.wikidata.org/wiki/Q2302532)  
+
+### alignments:
+ - [St. Hilarion Castle](https://pleiades.stoa.org/places/23023514)
+
+
 ## Saint John of Caaveiro (Q3327219)
 [https://www.wikidata.org/wiki/Q3327219](https://www.wikidata.org/wiki/Q3327219)  
 
@@ -61924,6 +62106,13 @@
  - [*Aurinia/Saturnia](https://pleiades.stoa.org/places/413044)
 
 
+## Sauer (Q158847)
+[https://www.wikidata.org/wiki/Q158847](https://www.wikidata.org/wiki/Q158847)  
+
+### alignments:
+ - [Sura (river)](https://pleiades.stoa.org/places/109359)
+
+
 ## Saugnac-et-Muret (Q742791)
 [https://www.wikidata.org/wiki/Q742791](https://www.wikidata.org/wiki/Q742791)  
 
@@ -62264,7 +62453,7 @@
 [https://www.wikidata.org/wiki/Q3952622](https://www.wikidata.org/wiki/Q3952622)  
 
 ### alignments:
- - [Eumorfiana? Ins.](https://pleiades.stoa.org/places/432823)
+ - [Eumorfiana? (island)](https://pleiades.stoa.org/places/432823)
 
 
 ## Scoglio di Rovigliano (Q3952643)
@@ -62772,6 +62961,13 @@
  - [Sanctuary of Hathor (Serabit el-Khadim)](https://pleiades.stoa.org/places/816186710)
 
 
+## Serapeum of Alexandria (Q521646)
+[https://www.wikidata.org/wiki/Q521646](https://www.wikidata.org/wiki/Q521646)  
+
+### alignments:
+ - [Serapeum of Alexandria](https://pleiades.stoa.org/places/182618516)
+
+
 ## Serbinum (Q3480549)
 [https://www.wikidata.org/wiki/Q3480549](https://www.wikidata.org/wiki/Q3480549)  
 
@@ -62882,6 +63078,13 @@
 
 ### alignments:
  - [Sesars](https://pleiades.stoa.org/places/252984)
+
+
+## Sese Grande (Q139900032)
+[https://www.wikidata.org/wiki/Q139900032](https://www.wikidata.org/wiki/Q139900032)  
+
+### alignments:
+ - [Sese Grande](https://pleiades.stoa.org/places/273840229)
 
 
 ## Sesebi (Q2274450)
@@ -65417,6 +65620,13 @@
 
 ### alignments:
  - [Korokondamitis/Opissas Limne](https://pleiades.stoa.org/places/854700)
+
+
+## Tamassos (Q1720688)
+[https://www.wikidata.org/wiki/Q1720688](https://www.wikidata.org/wiki/Q1720688)  
+
+### alignments:
+ - [Tamassos](https://pleiades.stoa.org/places/707628)
 
 
 ## Tambre River (Q14546)
@@ -73256,6 +73466,13 @@
 
 ### alignments:
  - [Villalfonsina](https://pleiades.stoa.org/places/413385)
+
+
+## Villanova Monferrato (Q17698)
+[https://www.wikidata.org/wiki/Q17698](https://www.wikidata.org/wiki/Q17698)  
+
+### alignments:
+ - [Carbantia/Ad Medias](https://pleiades.stoa.org/places/383610)
 
 
 ## Villanueva de la Reina (Q1641608)

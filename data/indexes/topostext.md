@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4989 alignments exist in _Pleiades_ place references as of 2026-05-23. The following list of alignments is grouped by zotkey.
+4998 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -596,6 +596,13 @@
 
 ### alignments:
  - [Ad Fines](https://pleiades.stoa.org/places/383545)
+
+
+## Ad Quintum station (Illyria)
+[https://topostext.org/place/420200UAdQ](https://topostext.org/place/420200UAdQ)  
+
+### alignments:
+ - [Ad Quintum](https://pleiades.stoa.org/places/481701)
 
 
 ## Ad Vicesimum (Latium)
@@ -3384,6 +3391,13 @@
 
 ### alignments:
  - [Apollo Asgelatos (temple)](https://pleiades.stoa.org/places/599504)
+
+
+## Apollo Alasiotas sanct. (Cyprus)
+[https://topostext.org/place/350333SApo](https://topostext.org/place/350333SApo)  
+
+### alignments:
+ - [Apollo Alasiotas, T.](https://pleiades.stoa.org/places/707475)
 
 
 ## Apollo Cynneius (Aiolis) 3 İğnedere - Απόλλωνος Κυννείου ιερόν
@@ -7931,6 +7945,13 @@
 
 ### alignments:
  - [[Khuvar]/Choara/Apameia (Rhagiane)?](https://pleiades.stoa.org/places/942286)
+
+
+## Choirokoitia exc. (Cyprus) Khirokitia - Χοιροκοιτία
+[https://topostext.org/place/348333UCho](https://topostext.org/place/348333UCho)  
+
+### alignments:
+ - [Choirokoitia](https://pleiades.stoa.org/places/755568222)
 
 
 ## Cholargos (Attica)
@@ -21373,6 +21394,13 @@
  - [Monte Saraceno di Cercemaggiore](https://pleiades.stoa.org/places/432963)
 
 
+## Montescaglioso (Lucania) Montescaglioso
+[https://topostext.org/place/405166XMNu](https://topostext.org/place/405166XMNu)  
+
+### alignments:
+ - [Montescaglioso](https://pleiades.stoa.org/places/442678)
+
+
 ## Montetosto tumulus (Etruria) 1 Cerveteri
 [https://topostext.org/place/420212GMon](https://topostext.org/place/420212GMon)  
 
@@ -21427,6 +21455,13 @@
 
 ### alignments:
  - [Moryllos](https://pleiades.stoa.org/places/491665)
+
+
+## Mosella river (Gallia)
+[https://topostext.org/place/497066WMos](https://topostext.org/place/497066WMos)  
+
+### alignments:
+ - [Mosella (river)](https://pleiades.stoa.org/places/109182)
 
 
 ## Mossyna (Phrygia) 2  - Μόσσυνα
@@ -27045,6 +27080,13 @@
  - [Pompeiopolis/Sebaste](https://pleiades.stoa.org/places/845041)
 
 
+## Pompelon (Iberia)
+[https://topostext.org/place/428-16UPom](https://topostext.org/place/428-16UPom)  
+
+### alignments:
+ - [Pompelo](https://pleiades.stoa.org/places/246567)
+
+
 ## Pons Aelius (Rome)
 [https://topostext.org/place/419125BBAl](https://topostext.org/place/419125BBAl)  
 
@@ -29488,6 +29530,13 @@
  - [Sequana (river)](https://pleiades.stoa.org/places/109341)
 
 
+## Serapeum of Alexandria (Egypt)
+[https://topostext.org/place/312299SSer](https://topostext.org/place/312299SSer)  
+
+### alignments:
+ - [Serapeum of Alexandria](https://pleiades.stoa.org/places/182618516)
+
+
 ## Serapis sanct. (Phthiotis)
 [https://topostext.org/place/386229SSer](https://topostext.org/place/386229SSer)  
 
@@ -31349,6 +31398,13 @@
  - [Taulantioi](https://pleiades.stoa.org/places/482012)
 
 
+## Tauriana (Calabria)
+[https://topostext.org/place/384159UTau](https://topostext.org/place/384159UTau)  
+
+### alignments:
+ - [Taurianum](https://pleiades.stoa.org/places/452466)
+
+
 ## Tauriana? (Kilkis) 5 Chorygi
 [https://topostext.org/place/410227UTau](https://topostext.org/place/410227UTau)  
 
@@ -31733,6 +31789,13 @@
 ### alignments:
  - [Tenos (island)](https://pleiades.stoa.org/places/590074)
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## Tenta Kalavasos exc. (Cyprus)
+[https://topostext.org/place/347333XTen](https://topostext.org/place/347333XTen)  
+
+### alignments:
+ - [Kalavasos-Tenta](https://pleiades.stoa.org/places/807160605)
 
 
 ## Tentyra (Egypt)
