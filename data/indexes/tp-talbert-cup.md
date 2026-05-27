@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2368 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
+2369 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -9057,6 +9057,13 @@
 
 ### alignments:
  - [In Monte Carbonario](https://pleiades.stoa.org/places/438757)
+
+
+## 5B1 (Talbert 1316)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1316.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1316.html)  
+
+### alignments:
+ - [Vignae](https://pleiades.stoa.org/places/438884)
 
 
 ## 5B1 (Talbert 1317)

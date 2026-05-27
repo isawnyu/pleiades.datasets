@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10747 alignments exist in _Pleiades_ place references as of 2026-05-26. The following list of alignments is grouped by zotkey.
+10749 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -11622,6 +11622,13 @@
 
 ### alignments:
  - [Carecini Supernates](https://pleiades.stoa.org/places/432756)
+
+
+## Carbonarius mons (Q139936855)
+[https://www.wikidata.org/wiki/Q139936855](https://www.wikidata.org/wiki/Q139936855)  
+
+### alignments:
+ - [In Monte Carbonario](https://pleiades.stoa.org/places/438757)
 
 
 ## Carbula (Q109918561)
@@ -41049,6 +41056,13 @@
  - [Ponte Romito](https://pleiades.stoa.org/places/414499)
 
 
+## Ponte Salario (Q943224)
+[https://www.wikidata.org/wiki/Q943224](https://www.wikidata.org/wiki/Q943224)  
+
+### alignments:
+ - [Ponte Salario](https://pleiades.stoa.org/places/423011)
+
+
 ## Ponte San Lorenzo (Q2103738)
 [https://www.wikidata.org/wiki/Q2103738](https://www.wikidata.org/wiki/Q2103738)  
 
@@ -48077,13 +48091,6 @@
  - [Porta Trigemina](https://pleiades.stoa.org/places/303638861)
 
 
-## Q19716908: Sublaqueum
-[https://www.wikidata.org/wiki/Q19716908](https://www.wikidata.org/wiki/Q19716908)  
-
-### alignments:
- - [Sublaqueum](https://pleiades.stoa.org/places/423078)
-
-
 ## Q19721
 [https://www.wikidata.org/wiki/Q19721](https://www.wikidata.org/wiki/Q19721)  
 
@@ -49421,13 +49428,6 @@
 
 ### alignments:
  - [Signia](https://pleiades.stoa.org/places/423072)
-
-
-## Q243467: Subiaco
-[https://www.wikidata.org/wiki/Q243467](https://www.wikidata.org/wiki/Q243467)  
-
-### alignments:
- - [Sublaqueum](https://pleiades.stoa.org/places/423078)
 
 
 ## Q243497: Trevignano Romano
@@ -57063,13 +57063,6 @@
 
 ### alignments:
  - [Acropolis of Cumae](https://pleiades.stoa.org/places/832104041)
-
-
-## Q943224: Ponte Salario
-[https://www.wikidata.org/wiki/Q943224](https://www.wikidata.org/wiki/Q943224)  
-
-### alignments:
- - [Ponte Salario](https://pleiades.stoa.org/places/423011)
 
 
 ## Q943637: Nicopolis
@@ -65125,6 +65118,20 @@
  - [Subertani](https://pleiades.stoa.org/places/416859)
 
 
+## Subiaco (Q243467)
+[https://www.wikidata.org/wiki/Q243467](https://www.wikidata.org/wiki/Q243467)  
+
+### alignments:
+ - [Sublaqueum](https://pleiades.stoa.org/places/423078)
+
+
+## Sublaqueum (Q19716908)
+[https://www.wikidata.org/wiki/Q19716908](https://www.wikidata.org/wiki/Q19716908)  
+
+### alignments:
+ - [Sublaqueum](https://pleiades.stoa.org/places/423078)
+
+
 ## Suburana (Q20108949)
 [https://www.wikidata.org/wiki/Q20108949](https://www.wikidata.org/wiki/Q20108949)  
 
@@ -68193,6 +68200,13 @@
 
 ### alignments:
  - [Tredici Altari](https://pleiades.stoa.org/places/423104)
+
+
+## Thistleton (Samian Ware Discovery Site) (Q103197761)
+[https://www.wikidata.org/wiki/Q103197761](https://www.wikidata.org/wiki/Q103197761)  
+
+### alignments:
+ - [Thistleton Roman Town](https://pleiades.stoa.org/places/79712)
 
 
 ## Thocnia (Q60790111)
