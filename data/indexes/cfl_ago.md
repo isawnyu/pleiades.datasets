@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-469 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
+470 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2898,6 +2898,13 @@
 
 ### alignments:
  - [Tegea](https://pleiades.stoa.org/places/570707)
+
+
+## Toponyme 4828: AMORGOS. - Aghia Triada - 2005
+[https://chronique.efa.gr/?kroute=report&id=4828](https://chronique.efa.gr/?kroute=report&id=4828)  
+
+### alignments:
+ - [Agia Triada Tower](https://pleiades.stoa.org/places/50492053)
 
 
 ## Toponyme 4906: Ancient Olynthos-Αρχαία Όλυνθος

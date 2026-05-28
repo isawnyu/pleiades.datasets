@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10749 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
+10761 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3602,6 +3602,13 @@
 
 ### alignments:
  - [Roman quarries of Cartagena](https://pleiades.stoa.org/places/324453576)
+
+
+## Ancient Roman sites in Goeblange (Q13104915)
+[https://www.wikidata.org/wiki/Q13104915](https://www.wikidata.org/wiki/Q13104915)  
+
+### alignments:
+ - [Goeblange](https://pleiades.stoa.org/places/331813284)
 
 
 ## ancient Roman theater of Cales (Q70863776)
@@ -11540,6 +11547,13 @@
  - [Tauros Akron](https://pleiades.stoa.org/places/462507)
 
 
+## Capo Suvero (Q34836020)
+[https://www.wikidata.org/wiki/Q34836020](https://www.wikidata.org/wiki/Q34836020)  
+
+### alignments:
+ - [Lampetes Pr.](https://pleiades.stoa.org/places/452360)
+
+
 ## Capo Testa (Q1034748)
 [https://www.wikidata.org/wiki/Q1034748](https://www.wikidata.org/wiki/Q1034748)  
 
@@ -18517,6 +18531,13 @@
  - [East Creech villa](https://pleiades.stoa.org/places/930634471)
 
 
+## East Gymnasium (Ephesus) (Q97341135)
+[https://www.wikidata.org/wiki/Q97341135](https://www.wikidata.org/wiki/Q97341135)  
+
+### alignments:
+ - [East Gymnasium](https://pleiades.stoa.org/places/43374418)
+
+
 ## Eastern Galindians (Q17276517)
 [https://www.wikidata.org/wiki/Q17276517](https://www.wikidata.org/wiki/Q17276517)  
 
@@ -24760,6 +24781,13 @@
  - [‘A(n)dros’ Ins.](https://pleiades.stoa.org/places/79294)
 
 
+## Hozoviotissa monastery (Q2738728)
+[https://www.wikidata.org/wiki/Q2738728](https://www.wikidata.org/wiki/Q2738728)  
+
+### alignments:
+ - [Chozoviotissa Monastery](https://pleiades.stoa.org/places/246728612)
+
+
 ## Hu (Q1227091)
 [https://www.wikidata.org/wiki/Q1227091](https://www.wikidata.org/wiki/Q1227091)  
 
@@ -29502,6 +29530,13 @@
  - [Mine of Laureion](https://pleiades.stoa.org/places/963101176)
 
 
+## Laüs (Q1805723)
+[https://www.wikidata.org/wiki/Q1805723](https://www.wikidata.org/wiki/Q1805723)  
+
+### alignments:
+ - [Laos/Lavinium?](https://pleiades.stoa.org/places/452361)
+
+
 ## Le Langon (Q1171614)
 [https://www.wikidata.org/wiki/Q1171614](https://www.wikidata.org/wiki/Q1171614)  
 
@@ -29838,6 +29873,13 @@
  - [Levant (region)](https://pleiades.stoa.org/places/930907033)
 
 
+## Levanzo (Q497357)
+[https://www.wikidata.org/wiki/Q497357](https://www.wikidata.org/wiki/Q497357)  
+
+### alignments:
+ - [Phorbantia (island)](https://pleiades.stoa.org/places/462428)
+
+
 ## Lewarde (Q644716)
 [https://www.wikidata.org/wiki/Q644716](https://www.wikidata.org/wiki/Q644716)  
 
@@ -29864,6 +29906,13 @@
 
 ### alignments:
  - [Legio VII Gemina](https://pleiades.stoa.org/places/236512)
+
+
+## Li Castelli (Q108866973)
+[https://www.wikidata.org/wiki/Q108866973](https://www.wikidata.org/wiki/Q108866973)  
+
+### alignments:
+ - [Li Castelli](https://pleiades.stoa.org/places/442635)
 
 
 ## Li Schiavoni (Q108866979)
@@ -30636,6 +30685,13 @@
  - [Lunel-Viel](https://pleiades.stoa.org/places/148120)
 
 
+## Luni sul Mignone (Q3267604)
+[https://www.wikidata.org/wiki/Q3267604](https://www.wikidata.org/wiki/Q3267604)  
+
+### alignments:
+ - [Luni sul Mignone](https://pleiades.stoa.org/places/413186)
+
+
 ## Lunt Roman Fort (Q12061402)
 [https://www.wikidata.org/wiki/Q12061402](https://www.wikidata.org/wiki/Q12061402)  
 
@@ -31131,6 +31187,13 @@
 
 ### alignments:
  - [Magnesia ad Maeandrum/Leukophrys](https://pleiades.stoa.org/places/599778)
+
+
+## Magnesian Gate (Ephesus) (Q104641893)
+[https://www.wikidata.org/wiki/Q104641893](https://www.wikidata.org/wiki/Q104641893)  
+
+### alignments:
+ - [Gate of Magnesia](https://pleiades.stoa.org/places/43374417)
 
 
 ## Magra (Q692549)
@@ -47579,13 +47642,6 @@
  - [Vicus Nediensis](https://pleiades.stoa.org/places/243310943)
 
 
-## Q1805723: Laüs
-[https://www.wikidata.org/wiki/Q1805723](https://www.wikidata.org/wiki/Q1805723)  
-
-### alignments:
- - [Laos/Lavinium?](https://pleiades.stoa.org/places/452361)
-
-
 ## Q1807870: Saepinum
 [https://www.wikidata.org/wiki/Q1807870](https://www.wikidata.org/wiki/Q1807870)  
 
@@ -51018,13 +51074,6 @@
 
 ### alignments:
  - [Ilicitanus Sinus](https://pleiades.stoa.org/places/265923)
-
-
-## Q3267604: Luni sul Mignone
-[https://www.wikidata.org/wiki/Q3267604](https://www.wikidata.org/wiki/Q3267604)  
-
-### alignments:
- - [Luni sul Mignone](https://pleiades.stoa.org/places/413186)
 
 
 ## Q3301847: Mausoleum of Glanum
@@ -58339,6 +58388,13 @@
  - [Rutupiae](https://pleiades.stoa.org/places/79664)
 
 
+## Richti Tower (Q139901536)
+[https://www.wikidata.org/wiki/Q139901536](https://www.wikidata.org/wiki/Q139901536)  
+
+### alignments:
+ - [Richti Tower (Amorgos)](https://pleiades.stoa.org/places/131911427)
+
+
 ## Ricina (Q3784754)
 [https://www.wikidata.org/wiki/Q3784754](https://www.wikidata.org/wiki/Q3784754)  
 
@@ -63148,6 +63204,13 @@
 
 ### alignments:
  - [Settefinestre](https://pleiades.stoa.org/places/413316)
+
+
+## Seven Sleepers cemetery (Ephesus) (Q1409276)
+[https://www.wikidata.org/wiki/Q1409276](https://www.wikidata.org/wiki/Q1409276)  
+
+### alignments:
+ - [Cave of the Seven Sleepers (Ephesus)](https://pleiades.stoa.org/places/43374419)
 
 
 ## Severan Basilica (Q2124732)
@@ -69945,6 +70008,13 @@
  - [Tower 9](https://pleiades.stoa.org/places/980015039)
 
 
+## Tower of Agia Triada (Q56450680)
+[https://www.wikidata.org/wiki/Q56450680](https://www.wikidata.org/wiki/Q56450680)  
+
+### alignments:
+ - [Agia Triada Tower](https://pleiades.stoa.org/places/50492053)
+
+
 ## Tower of Caepio (Q131824651)
 [https://www.wikidata.org/wiki/Q131824651](https://www.wikidata.org/wiki/Q131824651)  
 
@@ -74246,6 +74316,13 @@
  - [West Coker](https://pleiades.stoa.org/places/70083736)
 
 
+## West Kennet Long Barrow (Q541312)
+[https://www.wikidata.org/wiki/Q541312](https://www.wikidata.org/wiki/Q541312)  
+
+### alignments:
+ - [West Kennet Long Barrow](https://pleiades.stoa.org/places/882076328)
+
+
 ## Western Ghats (Q4527)
 [https://www.wikidata.org/wiki/Q4527](https://www.wikidata.org/wiki/Q4527)  
 
@@ -74503,6 +74580,13 @@
 
 ### alignments:
  - [Libyca (river)](https://pleiades.stoa.org/places/236516)
+
+
+## Xylokeratidi necropolis (Q139901039)
+[https://www.wikidata.org/wiki/Q139901039](https://www.wikidata.org/wiki/Q139901039)  
+
+### alignments:
+ - [Xylokeratidi cemetery](https://pleiades.stoa.org/places/131911425)
 
 
 ## Xypete (Q13424319)

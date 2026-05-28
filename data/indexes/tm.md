@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5091 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
+5094 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -915,6 +915,13 @@
 
 ### alignments:
  - [Castra Albana](https://pleiades.stoa.org/places/422885)
+
+
+## Geo 32729: Statulae (Goriano Sicoli)
+[https://www.trismegistos.org/place/32729](https://www.trismegistos.org/place/32729)  
+
+### alignments:
+ - [Statulae](https://pleiades.stoa.org/places/413322)
 
 
 ## Geo 33123: Himera
@@ -4294,6 +4301,13 @@
 
 ### alignments:
  - [Iordanes (river)](https://pleiades.stoa.org/places/687932)
+
+
+## GEO ID 13843: Pmoun Psoi
+[https://www.trismegistos.org/place/13843](https://www.trismegistos.org/place/13843)  
+
+### alignments:
+ - [Pmoun Psoi](https://pleiades.stoa.org/places/530540822)
 
 
 ## GEO ID 1384: Moiris (Birket Qarun)
@@ -11353,6 +11367,13 @@
  - [Gaulos (island)](https://pleiades.stoa.org/places/462213)
 
 
+## GEO ID 22307
+[http://www.trismegistos.org/place/22307](http://www.trismegistos.org/place/22307)  
+
+### alignments:
+ - [Phorbantia (island)](https://pleiades.stoa.org/places/462428)
+
+
 ## GEO ID 22308: Phintias (Licata)
 [http://www.trismegistos.org/place/22308](http://www.trismegistos.org/place/22308)  
 
@@ -17606,13 +17627,6 @@
 
 ### alignments:
  - [Agellum](https://pleiades.stoa.org/places/432655)
-
-
-## GEO ID 32729: Statulae (Goriano Sicoli)
-[http://www.trismegistos.org/place/32729](http://www.trismegistos.org/place/32729)  
-
-### alignments:
- - [Statulae](https://pleiades.stoa.org/places/413322)
 
 
 ## GEO ID 32732: Angitiae Lucus (Luco nei Marsi)
@@ -35425,6 +35439,13 @@
 
 ### alignments:
  - [Lucus Furrinae](https://pleiades.stoa.org/places/432336962)
+
+
+## Text 131163
+[https://www.trismegistos.org/text/131163](https://www.trismegistos.org/text/131163)  
+
+### alignments:
+ - [Pmoun Psoi](https://pleiades.stoa.org/places/530540822)
 
 
 ## Text 155491 = CIL VII 305 (Hübner, Emil - 1873)

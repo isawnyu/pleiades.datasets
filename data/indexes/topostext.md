@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-4998 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
+5002 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -7980,6 +7980,13 @@
 
 ### alignments:
  - [Chorsiai](https://pleiades.stoa.org/places/540711)
+
+
+## Chozoviotissa Monastery (Amorgos)
+[https://topostext.org/place/368259ECho](https://topostext.org/place/368259ECho)  
+
+### alignments:
+ - [Chozoviotissa Monastery](https://pleiades.stoa.org/places/246728612)
 
 
 ## Chrysa (Troad)
@@ -18814,6 +18821,13 @@
  - [Letrinoi](https://pleiades.stoa.org/places/570427)
 
 
+## Leucosia (Italy) 10 Licosa - Λευκοσία
+[https://topostext.org/place/403149ILeu](https://topostext.org/place/403149ILeu)  
+
+### alignments:
+ - [Leucosia (island)](https://pleiades.stoa.org/places/442633)
+
+
 ## Leukai (Ionia)
 [https://topostext.org/place/385269PLeu](https://topostext.org/place/385269PLeu)  
 
@@ -28442,6 +28456,13 @@
  - [Ribari](https://pleiades.stoa.org/places/570648)
 
 
+## Richti tower (Amorgos)
+[https://topostext.org/place/369259FRic](https://topostext.org/place/369259FRic)  
+
+### alignments:
+ - [Richti Tower (Amorgos)](https://pleiades.stoa.org/places/131911427)
+
+
 ## Rigomagus (Gallia)
 [https://topostext.org/place/444066URig](https://topostext.org/place/444066URig)  
 
@@ -34673,6 +34694,13 @@
 
 ### alignments:
  - [Xylokastro (fort on Kalamos)](https://pleiades.stoa.org/places/531151)
+
+
+## Xylokeratidi cem. (Amorgos)
+[https://topostext.org/place/368259XXyl](https://topostext.org/place/368259XXyl)  
+
+### alignments:
+ - [Xylokeratidi cemetery](https://pleiades.stoa.org/places/131911425)
 
 
 ## Xyniai (Phthiotis)

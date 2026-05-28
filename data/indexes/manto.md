@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1043 alignments exist in _Pleiades_ place references as of 2026-05-27. The following list of alignments is grouped by zotkey.
+1043 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -569,7 +569,7 @@
  - [(H)Aimoniai](https://pleiades.stoa.org/places/570271)
 
 
-## 10137148: Mainalos
+## 10137148: Mainalos (Arcadia)
 [https://resource.manto.unh.edu/10137148](https://resource.manto.unh.edu/10137148)  
 
 ### alignments:
