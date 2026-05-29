@@ -1,8 +1,136 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "less-certain",
+            "attestations": [],
+            "connectionType": "same_as",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/same_as",
+            "connectsTo": "https://pleiades.stoa.org/places/462428",
+            "contributors": [],
+            "created": "2026-05-28T13:44:30Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-05-28T13:59:50Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-05-28T13:44:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "cnxn, reference",
+                    "modified": "2026-05-28T13:44:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-05-28T13:44:30Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "phorbantia-island",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 724 see \"Boukinna Ins.\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Phorbantia (island)",
+            "uri": "https://pleiades.stoa.org/places/465870/phorbantia-island"
+        },
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [],
+            "connectionType": "part_of_analytical",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/part_of_analytical",
+            "connectsTo": "https://pleiades.stoa.org/places/462075",
+            "contributors": [],
+            "created": "2026-05-28T13:46:48Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": null,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-05-28T13:59:41Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-05-28T13:46:56Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-05-28T13:46:52Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-05-28T13:46:48Z",
+                    "modifiedBy": "jbecker"
+                }
+            ],
+            "id": "aegates-islands",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 724",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
+            "review_state": "published",
+            "start": null,
+            "title": "Aegates (islands)",
+            "uri": "https://pleiades.stoa.org/places/465870/aegates-islands"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/462428",
+        "https://pleiades.stoa.org/places/462075"
+    ],
     "contributors": [
         {
             "name": "R. Talbert",
@@ -35,7 +163,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 47 unlocated Boukinna Ins.",
-    "details": "The Barrington Atlas Directory notes: one of the Egadi Iss., possibly Levanzo (Phorbantia)",
+    "details": "<p>The Barrington Atlas Directory notes: one of the Egadi Iss., possibly Levanzo (Phorbantia)</p>",
     "features": [
         {
             "geometry": null,
@@ -51,6 +179,11 @@
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-05-28T13:46:12Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Initial revision",
             "modified": "2013-04-24T03:50:50Z",
@@ -266,25 +399,25 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/8494638",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/m.html#Manni-1981",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/U2CF7U8D",
+            "citationDetail": "151",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Manni 1981, 151",
+            "formattedCitation": "<div class=\"csl-entry\">Manni, Eugenio. <i>Geografia fisica e politica della Sicilia antica</i>. Supplementi a Kókalos 4. Rome: G. Bretschneider, 1981. http://www.worldcat.org/oclc/8494638.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Manni 1981",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "https://www.persee.fr/doc/btcgi_0000-0009_1985_num_4_1_3251",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/b.html#BTCGI-IV",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/3X8QE9ZE",
+            "citationDetail": "IV, 215-16 s.v. \"Bucinna\" (Giorgio Bejor)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "BTCGI IV, 215-16",
+            "formattedCitation": "<div class=\"csl-entry\">Nenci, Giuseppe, Georges Vallet, Ugo Fantasia, and Carmine Ampolo, eds. <i>Bibliografia topografica della colonizzazione greca in Italia e nelle isole tirreniche</i>. 21 vols. Pisa; Roma: Scuola normale superiore ; Ecole française de Rome, 1977. https://www.persee.fr/collection/btcgi.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "BTCGI",
             "type": "seeFurther"
         }
     ],
@@ -292,7 +425,7 @@
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
-    "title": "Boukinna",
+    "title": "Boukinna (island)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/465870"
 }
