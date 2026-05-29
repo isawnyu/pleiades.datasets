@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5094 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
+5097 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11367,7 +11367,14 @@
  - [Gaulos (island)](https://pleiades.stoa.org/places/462213)
 
 
-## GEO ID 22307
+## GEO ID 22306: Aegates Insulae
+[http://www.trismegistos.org/place/22306](http://www.trismegistos.org/place/22306)  
+
+### alignments:
+ - [Aegates (islands)](https://pleiades.stoa.org/places/462075)
+
+
+## GEO ID 22307: Phorbantia (Levanzo)
 [http://www.trismegistos.org/place/22307](http://www.trismegistos.org/place/22307)  
 
 ### alignments:
@@ -21444,6 +21451,13 @@
  - [Traianoupolis](https://pleiades.stoa.org/places/501649)
 
 
+## GEO ID 38433: Norba (Conversano)
+[https://www.trismegistos.org/place/38433](https://www.trismegistos.org/place/38433)  
+
+### alignments:
+ - [Norba](https://pleiades.stoa.org/places/442691)
+
+
 ## GEO ID 38435: Kaulonia (Monasterace)
 [http://www.trismegistos.org/place/38435](http://www.trismegistos.org/place/38435)  
 
@@ -28438,6 +28452,13 @@
 
 ### alignments:
  - [Sorrina](https://pleiades.stoa.org/places/413319)
+
+
+## GEO ID 43365: Garganus Mons (Gargano)
+[https://www.trismegistos.org/place/43365](https://www.trismegistos.org/place/43365)  
+
+### alignments:
+ - [Garganus Mons](https://pleiades.stoa.org/places/442596)
 
 
 ## GEO ID 43372: Arae Augusti

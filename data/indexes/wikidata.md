@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10761 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
+10770 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1086,6 +1086,13 @@
 
 ### alignments:
  - [Aefula](https://pleiades.stoa.org/places/422821)
+
+
+## Aegadian Islands (Q109576)
+[https://www.wikidata.org/wiki/Q109576](https://www.wikidata.org/wiki/Q109576)  
+
+### alignments:
+ - [Aegates (islands)](https://pleiades.stoa.org/places/462075)
 
 
 ## Aegae (Q16737279)
@@ -12219,6 +12226,13 @@
  - [Castell Henllys](https://pleiades.stoa.org/places/773739434)
 
 
+## Castellaccio Archaeological Necropolis (Q114012621)
+[https://www.wikidata.org/wiki/Q114012621](https://www.wikidata.org/wiki/Q114012621)  
+
+### alignments:
+ - [Necropoli del Castellaccio](https://pleiades.stoa.org/places/450760294)
+
+
 ## Castellammare del Golfo (Q481642)
 [https://www.wikidata.org/wiki/Q481642](https://www.wikidata.org/wiki/Q481642)  
 
@@ -15244,6 +15258,13 @@
  - [Clusiolum](https://pleiades.stoa.org/places/416792)
 
 
+## Clusium (Q843729)
+[https://www.wikidata.org/wiki/Q843729](https://www.wikidata.org/wiki/Q843729)  
+
+### alignments:
+ - [Clusium](https://pleiades.stoa.org/places/413096)
+
+
 ## Clustumina (Q3538785)
 [https://www.wikidata.org/wiki/Q3538785](https://www.wikidata.org/wiki/Q3538785)  
 
@@ -15781,6 +15802,13 @@
 
 ### alignments:
  - [conventus Cluniensis](https://pleiades.stoa.org/places/459346465)
+
+
+## Conversano (Q51825)
+[https://www.wikidata.org/wiki/Q51825](https://www.wikidata.org/wiki/Q51825)  
+
+### alignments:
+ - [Norba](https://pleiades.stoa.org/places/442691)
 
 
 ## Conímbriga (Q66942507)
@@ -20738,6 +20766,13 @@
  - [Forum of Nerva](https://pleiades.stoa.org/places/984830239)
 
 
+## Forum of Norba (Q139969719)
+[https://www.wikidata.org/wiki/Q139969719](https://www.wikidata.org/wiki/Q139969719)  
+
+### alignments:
+ - [Forum of Norba](https://pleiades.stoa.org/places/149706992)
+
+
 ## Forum of Pompeii (Q3748443)
 [https://www.wikidata.org/wiki/Q3748443](https://www.wikidata.org/wiki/Q3748443)  
 
@@ -21402,6 +21437,13 @@
 
 ### alignments:
  - [Horti Lucull(i)ani](https://pleiades.stoa.org/places/418356677)
+
+
+## Gargano (Q763332)
+[https://www.wikidata.org/wiki/Q763332](https://www.wikidata.org/wiki/Q763332)  
+
+### alignments:
+ - [Garganus Mons](https://pleiades.stoa.org/places/442596)
 
 
 ## Gargaphia (Q4952634)
@@ -33627,6 +33669,13 @@
  - [Zou](https://pleiades.stoa.org/places/144291814)
 
 
+## Minor acropolis of Norba (Q139970189)
+[https://www.wikidata.org/wiki/Q139970189](https://www.wikidata.org/wiki/Q139970189)  
+
+### alignments:
+ - [Minor Acropolis, Norba](https://pleiades.stoa.org/places/76301894)
+
+
 ## Minor Romano British villa 100m south east of Magor Farm (Q17647592)
 [https://www.wikidata.org/wiki/Q17647592](https://www.wikidata.org/wiki/Q17647592)  
 
@@ -33969,6 +34018,13 @@
 
 ### alignments:
  - [Montana](https://pleiades.stoa.org/places/207293)
+
+
+## Montarano necropolis (Q139971042)
+[https://www.wikidata.org/wiki/Q139971042](https://www.wikidata.org/wiki/Q139971042)  
+
+### alignments:
+ - [Necropoli di Montarano](https://pleiades.stoa.org/places/131901105)
 
 
 ## Montauban-sous-Buzenol (Q112574262)
@@ -36125,6 +36181,13 @@
 
 ### alignments:
  - [Nora](https://pleiades.stoa.org/places/471979)
+
+
+## Norba (Apulia) (Q3878311)
+[https://www.wikidata.org/wiki/Q3878311](https://www.wikidata.org/wiki/Q3878311)  
+
+### alignments:
+ - [Norba](https://pleiades.stoa.org/places/442691)
 
 
 ## Noret-Khent Nome (Q740597)
@@ -45729,6 +45792,13 @@
  - [*Incerulae](https://pleiades.stoa.org/places/413175)
 
 
+## Q139971038
+[https://www.wikidata.org/wiki/Q139971038](https://www.wikidata.org/wiki/Q139971038)  
+
+### alignments:
+ - [Iunonis Curritis Lucus](https://pleiades.stoa.org/places/978725165)
+
+
 ## Q140345: Zagora
 [https://www.wikidata.org/wiki/Q140345](https://www.wikidata.org/wiki/Q140345)  
 
@@ -52898,13 +52968,6 @@
  - [Tigellio Roman villa](https://pleiades.stoa.org/places/520388219)
 
 
-## Q4012798: Roman villa of Varignano
-[https://www.wikidata.org/wiki/Q4012798](https://www.wikidata.org/wiki/Q4012798)  
-
-### alignments:
- - [Varignano Vecchio](https://pleiades.stoa.org/places/362185575)
-
-
 ## Q4012808: Roman villa of Marsicovetere
 [https://www.wikidata.org/wiki/Q4012808](https://www.wikidata.org/wiki/Q4012808)  
 
@@ -56608,13 +56671,6 @@
 
 ### alignments:
  - [Lapis Niger](https://pleiades.stoa.org/places/326532998)
-
-
-## Q843729: Clusium
-[https://www.wikidata.org/wiki/Q843729](https://www.wikidata.org/wiki/Q843729)  
-
-### alignments:
- - [Clusium](https://pleiades.stoa.org/places/413096)
 
 
 ## Q844601: Eflatun Pınar
@@ -71973,6 +72029,13 @@
 
 ### alignments:
  - [Cave of Pan and the Nymphs](https://pleiades.stoa.org/places/580056)
+
+
+## Varignano Roman Villa (Q4012798)
+[https://www.wikidata.org/wiki/Q4012798](https://www.wikidata.org/wiki/Q4012798)  
+
+### alignments:
+ - [Varignano Vecchio](https://pleiades.stoa.org/places/362185575)
 
 
 ## Vartsikhe (Q12864352)

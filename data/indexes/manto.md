@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1043 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
+1047 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3439,6 +3439,13 @@
  - [Sithones](https://pleiades.stoa.org/places/501617)
 
 
+## 11309141: Chiusi (Etruria)
+[https://resource.manto.unh.edu/11309141](https://resource.manto.unh.edu/11309141)  
+
+### alignments:
+ - [Clusium](https://pleiades.stoa.org/places/413096)
+
+
 ## 11309266: Epacria (Attica)
 [https://resource.manto.unh.edu/11309266](https://resource.manto.unh.edu/11309266)  
 
@@ -3951,6 +3958,13 @@
  - [Persian and Hellenistic Administrative Building (PHAB), Tel Kedesh](https://pleiades.stoa.org/places/937106860)
 
 
+## 11314420: Cortona (Etruria)
+[https://resource.manto.unh.edu/11314420](https://resource.manto.unh.edu/11314420)  
+
+### alignments:
+ - [Cortona](https://pleiades.stoa.org/places/413106)
+
+
 ## 11314496: Ainea (Troad)
 [https://resource.manto.unh.edu/11314496](https://resource.manto.unh.edu/11314496)  
 
@@ -3977,6 +3991,13 @@
 
 ### alignments:
  - [Veretum/Baris](https://pleiades.stoa.org/places/442848)
+
+
+## 11314951: Mount Garganon (S. Italy)
+[https://resource.manto.unh.edu/11314951](https://resource.manto.unh.edu/11314951)  
+
+### alignments:
+ - [Garganus Mons](https://pleiades.stoa.org/places/442596)
 
 
 ## 11314964: Achaia (Pontos)
@@ -4299,6 +4320,13 @@
 
 ### alignments:
  - [Temple of Quirinus](https://pleiades.stoa.org/places/524616090)
+
+
+## 11324988: Noicattaro (Italy)
+[https://resource.manto.unh.edu/11324988](https://resource.manto.unh.edu/11324988)  
+
+### alignments:
+ - [Noicattaro](https://pleiades.stoa.org/places/442690)
 
 
 ## 11325103: Cales (Campania)

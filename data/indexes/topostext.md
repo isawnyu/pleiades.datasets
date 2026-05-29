@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5002 alignments exist in _Pleiades_ place references as of 2026-05-28. The following list of alignments is grouped by zotkey.
+5006 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -5661,6 +5661,13 @@
 
 ### alignments:
  - [Azenia?](https://pleiades.stoa.org/places/579890)
+
+
+## Azetium (Italia)
+[https://topostext.org/place/410170UAze](https://topostext.org/place/410170UAze)  
+
+### alignments:
+ - [*Azetium](https://pleiades.stoa.org/places/442491)
 
 
 ## Azoria (Crete) Azoria
@@ -11852,6 +11859,13 @@
 
 ### alignments:
  - [Gardiki](https://pleiades.stoa.org/places/530877)
+
+
+## Garganus mountain (Italy) 32 Gargano - Γάργανον
+[https://topostext.org/place/418161UGar](https://topostext.org/place/418161UGar)  
+
+### alignments:
+ - [Garganus Mons](https://pleiades.stoa.org/places/442596)
 
 
 ## Gargaphia spring (Boeotia) 20 Plataia - Γαργαφία
@@ -22451,6 +22465,13 @@
 
 ### alignments:
  - [Nora](https://pleiades.stoa.org/places/471979)
+
+
+## Norba (Apulia) (Apulia)
+[https://topostext.org/place/410171UNor](https://topostext.org/place/410171UNor)  
+
+### alignments:
+ - [Norba](https://pleiades.stoa.org/places/442691)
 
 
 ## Norba (Italy)
@@ -34505,6 +34526,13 @@
 
 ### alignments:
  - [Velathri/Volaterrae](https://pleiades.stoa.org/places/403292)
+
+
+## Volcei (Lucania)
+[https://topostext.org/place/406154UVol](https://topostext.org/place/406154UVol)  
+
+### alignments:
+ - [Volcei](https://pleiades.stoa.org/places/442855)
 
 
 ## Volsci (Latium)
