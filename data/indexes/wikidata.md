@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10770 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
+10794 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1675,6 +1675,13 @@
 
 ### alignments:
  - [Aiantis](https://pleiades.stoa.org/places/330976685)
+
+
+## Aiello Calabro (Q53820)
+[https://www.wikidata.org/wiki/Q53820](https://www.wikidata.org/wiki/Q53820)  
+
+### alignments:
+ - [Aiello](https://pleiades.stoa.org/places/452257)
 
 
 ## Aigai (Q16963755)
@@ -7553,6 +7560,13 @@
  - [*Baradendromia](https://pleiades.stoa.org/places/511176)
 
 
+## Baraqish (Q807269)
+[https://www.wikidata.org/wiki/Q807269](https://www.wikidata.org/wiki/Q807269)  
+
+### alignments:
+ - [Athroula/Laththa](https://pleiades.stoa.org/places/39300)
+
+
 ## Barbar Temple (Q807317)
 [https://www.wikidata.org/wiki/Q807317](https://www.wikidata.org/wiki/Q807317)  
 
@@ -7921,7 +7935,7 @@
 [https://www.wikidata.org/wiki/Q810177](https://www.wikidata.org/wiki/Q810177)  
 
 ### alignments:
- - [Basiluzzo](https://pleiades.stoa.org/places/548145747)
+ - [Hikesia Nesos/Basilidin (island)](https://pleiades.stoa.org/places/452336)
 
 
 ## Basra (Q48195)
@@ -9024,6 +9038,13 @@
  - [Blaundos](https://pleiades.stoa.org/places/609344)
 
 
+## Blemmyes (Q934374)
+[https://www.wikidata.org/wiki/Q934374](https://www.wikidata.org/wiki/Q934374)  
+
+### alignments:
+ - [Blemmyes](https://pleiades.stoa.org/places/795790)
+
+
 ## Blera (Q159678)
 [https://www.wikidata.org/wiki/Q159678](https://www.wikidata.org/wiki/Q159678)  
 
@@ -9463,6 +9484,13 @@
 
 ### alignments:
  - [Boleoi Lithoi](https://pleiades.stoa.org/places/573147)
+
+
+## Bolina (Q16944934)
+[https://www.wikidata.org/wiki/Q16944934](https://www.wikidata.org/wiki/Q16944934)  
+
+### alignments:
+ - [Boline](https://pleiades.stoa.org/places/573148)
 
 
 ## Bolkar Mountains (Q2909452)
@@ -10107,6 +10135,13 @@
 
 ### alignments:
  - [Brusselstown Ring](https://pleiades.stoa.org/places/464027192)
+
+
+## Bruttii (Q994847)
+[https://www.wikidata.org/wiki/Q994847](https://www.wikidata.org/wiki/Q994847)  
+
+### alignments:
+ - [Bruttii](https://pleiades.stoa.org/places/452275)
 
 
 ## Bryanium (Q60793114)
@@ -12142,6 +12177,13 @@
  - [Caspingium](https://pleiades.stoa.org/places/479893606)
 
 
+## Cassano allo Ionio (Q53853)
+[https://www.wikidata.org/wiki/Q53853](https://www.wikidata.org/wiki/Q53853)  
+
+### alignments:
+ - [Cassano](https://pleiades.stoa.org/places/452288)
+
+
 ## Cassibile (Q614659)
 [https://www.wikidata.org/wiki/Q614659](https://www.wikidata.org/wiki/Q614659)  
 
@@ -12357,6 +12399,13 @@
 
 ### alignments:
  - [Castelvecchio di San Gimignano](https://pleiades.stoa.org/places/685284436)
+
+
+## Castelvetere in Val Fortore (Q55891)
+[https://www.wikidata.org/wiki/Q55891](https://www.wikidata.org/wiki/Q55891)  
+
+### alignments:
+ - [Castelvetere](https://pleiades.stoa.org/places/442535)
 
 
 ## Castiglione del Lago (Q20390)
@@ -12973,6 +13022,13 @@
 
 ### alignments:
  - [Quintana](https://pleiades.stoa.org/places/118919)
+
+
+## Castra Traiana (Q5050707)
+[https://www.wikidata.org/wiki/Q5050707](https://www.wikidata.org/wiki/Q5050707)  
+
+### alignments:
+ - [Castra Traiana](https://pleiades.stoa.org/places/216755)
 
 
 ## Castra Ulcisia (Q1735427)
@@ -13956,7 +14012,7 @@
 
 
 ## Ceryneia (Q12879058)
-[https://www.zotero.org/groups/2533/items/BCQIKDKS](https://www.zotero.org/groups/2533/items/BCQIKDKS)  
+[https://www.wikidata.org/wiki/Q12879058](https://www.wikidata.org/wiki/Q12879058)  
 
 ### alignments:
  - [Keryneia](https://pleiades.stoa.org/places/570354)
@@ -15734,6 +15790,13 @@
  - [Consabura/Consabrum](https://pleiades.stoa.org/places/265876)
 
 
+## Consentia (Q127430030)
+[https://www.wikidata.org/wiki/Q127430030](https://www.wikidata.org/wiki/Q127430030)  
+
+### alignments:
+ - [Consentia](https://pleiades.stoa.org/places/452308)
+
+
 ## Consoranni (Q2994739)
 [https://www.wikidata.org/wiki/Q2994739](https://www.wikidata.org/wiki/Q2994739)  
 
@@ -16049,6 +16112,13 @@
  - [Cosa](https://pleiades.stoa.org/places/413107)
 
 
+## Coscile (Q869272)
+[https://www.wikidata.org/wiki/Q869272](https://www.wikidata.org/wiki/Q869272)  
+
+### alignments:
+ - [Sybaris (river)](https://pleiades.stoa.org/places/452459)
+
+
 ## Costa Balenae (Q3695259)
 [https://www.wikidata.org/wiki/Q3695259](https://www.wikidata.org/wiki/Q3695259)  
 
@@ -16125,6 +16195,13 @@
 
 ### alignments:
  - [Kranae (island)](https://pleiades.stoa.org/places/570379)
+
+
+## Crathis (Q660005)
+[https://www.wikidata.org/wiki/Q660005](https://www.wikidata.org/wiki/Q660005)  
+
+### alignments:
+ - [Crathis/Crater (river)](https://pleiades.stoa.org/places/452315)
 
 
 ## Crawford,Roman fort (Q56663047)
@@ -19323,6 +19400,13 @@
  - [Epamanduodurum](https://pleiades.stoa.org/places/177516)
 
 
+## Epetium (Q133821520)
+[https://www.wikidata.org/wiki/Q133821520](https://www.wikidata.org/wiki/Q133821520)  
+
+### alignments:
+ - [Epetium](https://pleiades.stoa.org/places/197262)
+
+
 ## Ephesus (Q47611)
 [https://www.wikidata.org/wiki/Q47611](https://www.wikidata.org/wiki/Q47611)  
 
@@ -19384,6 +19468,13 @@
 
 ### alignments:
  - [Palaia Epeiros](https://pleiades.stoa.org/places/1001898)
+
+
+## Epizephyrian Locri (Q3836325)
+[https://www.wikidata.org/wiki/Q3836325](https://www.wikidata.org/wiki/Q3836325)  
+
+### alignments:
+ - [Lokroi Epizephyrioi](https://pleiades.stoa.org/places/452369)
 
 
 ## Erana (Q5384871)
@@ -20969,6 +21060,13 @@
  - [Fresilia](https://pleiades.stoa.org/places/438744)
 
 
+## Frigento (Q55036)
+[https://www.wikidata.org/wiki/Q55036](https://www.wikidata.org/wiki/Q55036)  
+
+### alignments:
+ - [Frigento](https://pleiades.stoa.org/places/442589)
+
+
 ## Frigido (Q3753322)
 [https://www.wikidata.org/wiki/Q3753322](https://www.wikidata.org/wiki/Q3753322)  
 
@@ -21191,6 +21289,13 @@
 
 ### alignments:
  - [Galava](https://pleiades.stoa.org/places/89191)
+
+
+## Galeso (Q1491970)
+[https://www.wikidata.org/wiki/Q1491970](https://www.wikidata.org/wiki/Q1491970)  
+
+### alignments:
+ - [Galaesus (river)](https://pleiades.stoa.org/places/442592)
 
 
 ## Galessus (Q65040333)
@@ -22476,6 +22581,13 @@
 
 ### alignments:
  - [Greppe S. Angelo necropolis](https://pleiades.stoa.org/places/105341156)
+
+
+## Grimaldi (Q53886)
+[https://www.wikidata.org/wiki/Q53886](https://www.wikidata.org/wiki/Q53886)  
+
+### alignments:
+ - [Grimaldi](https://pleiades.stoa.org/places/452328)
 
 
 ## Grimsbury Castle (Q12059149)
@@ -28788,6 +28900,13 @@
  - [*Ladarma](https://pleiades.stoa.org/places/589891)
 
 
+## Lagaria (Q3825537)
+[https://www.wikidata.org/wiki/Q3825537](https://www.wikidata.org/wiki/Q3825537)  
+
+### alignments:
+ - [Lagaria](https://pleiades.stoa.org/places/456082)
+
+
 ## Lageina (Q85775550)
 [https://www.wikidata.org/wiki/Q85775550](https://www.wikidata.org/wiki/Q85775550)  
 
@@ -30606,6 +30725,13 @@
 
 ### alignments:
  - [Lucania (region)](https://pleiades.stoa.org/places/442639)
+
+
+## Lucanians (Q1264391)
+[https://www.wikidata.org/wiki/Q1264391](https://www.wikidata.org/wiki/Q1264391)  
+
+### alignments:
+ - [Lucani](https://pleiades.stoa.org/places/452371)
 
 
 ## Lucca (Q13373)
@@ -34013,6 +34139,13 @@
  - [Forum Aurelii](https://pleiades.stoa.org/places/413143)
 
 
+## Montalto Uffugo (Q53917)
+[https://www.wikidata.org/wiki/Q53917](https://www.wikidata.org/wiki/Q53917)  
+
+### alignments:
+ - [Aufugum](https://pleiades.stoa.org/places/452266)
+
+
 ## Montana (Q220121)
 [https://www.wikidata.org/wiki/Q220121](https://www.wikidata.org/wiki/Q220121)  
 
@@ -37387,6 +37520,13 @@
  - [Oldberry Castle](https://pleiades.stoa.org/places/742741440)
 
 
+## Olenus (Q11939304)
+[https://www.wikidata.org/wiki/Q11939304](https://www.wikidata.org/wiki/Q11939304)  
+
+### alignments:
+ - [Olenos](https://pleiades.stoa.org/places/570528)
+
+
 ## Olenus (Q16652246)
 [https://www.wikidata.org/wiki/Q16652246](https://www.wikidata.org/wiki/Q16652246)  
 
@@ -39198,6 +39338,13 @@
 
 ### alignments:
  - [Pella/Diokletianoupolis](https://pleiades.stoa.org/places/491687)
+
+
+## Pellana (Q56399014)
+[https://www.wikidata.org/wiki/Q56399014](https://www.wikidata.org/wiki/Q56399014)  
+
+### alignments:
+ - [Pellana](https://pleiades.stoa.org/places/570575)
 
 
 ## Peloriarca (Q135639210)
@@ -45799,6 +45946,13 @@
  - [Iunonis Curritis Lucus](https://pleiades.stoa.org/places/978725165)
 
 
+## Q140006148
+[https://www.wikidata.org/wiki/Q140006148](https://www.wikidata.org/wiki/Q140006148)  
+
+### alignments:
+ - [Cersosimo](https://pleiades.stoa.org/places/452298)
+
+
 ## Q140345: Zagora
 [https://www.wikidata.org/wiki/Q140345](https://www.wikidata.org/wiki/Q140345)  
 
@@ -48425,13 +48579,6 @@
 
 ### alignments:
  - [Salaria?](https://pleiades.stoa.org/places/266022)
-
-
-## Q2010159: Pellana
-[https://www.wikidata.org/wiki/Q2010159](https://www.wikidata.org/wiki/Q2010159)  
-
-### alignments:
- - [Pellana](https://pleiades.stoa.org/places/570575)
 
 
 ## Q20103
@@ -52099,6 +52246,13 @@
  - [‘Eltavori’ (river)](https://pleiades.stoa.org/places/79450)
 
 
+## Q3697983
+[https://www.wikidata.org/wiki/Q3697983](https://www.wikidata.org/wiki/Q3697983)  
+
+### alignments:
+ - [Arocas (river)](https://pleiades.stoa.org/places/452265)
+
+
 ## Q3715786: Dubris Pharos
 [https://www.wikidata.org/wiki/Q3715786](https://www.wikidata.org/wiki/Q3715786)  
 
@@ -52254,6 +52408,13 @@
  - [Hypogeum of via Dino Compagni](https://pleiades.stoa.org/places/319931451)
 
 
+## Q3802869
+[https://www.wikidata.org/wiki/Q3802869](https://www.wikidata.org/wiki/Q3802869)  
+
+### alignments:
+ - [Isola S. Janni](https://pleiades.stoa.org/places/452345)
+
+
 ## Q380497: Aeclanum
 [https://www.wikidata.org/wiki/Q380497](https://www.wikidata.org/wiki/Q380497)  
 
@@ -52301,13 +52462,6 @@
 
 ### alignments:
  - [Alepotrypa](https://pleiades.stoa.org/places/385804799)
-
-
-## Q3825537: Lagaria
-[https://www.wikidata.org/wiki/Q3825537](https://www.wikidata.org/wiki/Q3825537)  
-
-### alignments:
- - [Lagaria](https://pleiades.stoa.org/places/456082)
 
 
 ## Q3825952: Lago di Fondi
@@ -52385,13 +52539,6 @@
 
 ### alignments:
  - [Temple of Amenhotep, son of Hapu](https://pleiades.stoa.org/places/922752946)
-
-
-## Q3836325: Epizephyrian Locri
-[https://www.wikidata.org/wiki/Q3836325](https://www.wikidata.org/wiki/Q3836325)  
-
-### alignments:
- - [Lokroi Epizephyrioi](https://pleiades.stoa.org/places/452369)
 
 
 ## Q384813: Temple of Athena Nike
@@ -56512,13 +56659,6 @@
  - [St. Raphael Church II (Banganarti)](https://pleiades.stoa.org/places/534713795)
 
 
-## Q807269: Baraqish
-[https://www.wikidata.org/wiki/Q807269](https://www.wikidata.org/wiki/Q807269)  
-
-### alignments:
- - [Athroula/Laththa](https://pleiades.stoa.org/places/39300)
-
-
 ## Q807733: Barbara Baths
 [https://www.wikidata.org/wiki/Q807733](https://www.wikidata.org/wiki/Q807733)  
 
@@ -57119,13 +57259,6 @@
 
 ### alignments:
  - [Gaziantep](https://pleiades.stoa.org/places/534964140)
-
-
-## Q934374: Blemmyes
-[https://www.wikidata.org/wiki/Q934374](https://www.wikidata.org/wiki/Q934374)  
-
-### alignments:
- - [Blemmyes](https://pleiades.stoa.org/places/795790)
 
 
 ## Q935454
@@ -60116,6 +60249,13 @@
 
 ### alignments:
  - [Roman villa of Capo di Massa](https://pleiades.stoa.org/places/32194089)
+
+
+## Roman Villa of Casignana (Q4012805)
+[https://www.wikidata.org/wiki/Q4012805](https://www.wikidata.org/wiki/Q4012805)  
+
+### alignments:
+ - [Casignana Roman Villa](https://pleiades.stoa.org/places/452397)
 
 
 ## Roman villa of Desenzano del Garda (Q4012807)
@@ -63248,6 +63388,13 @@
  - [Sitifis](https://pleiades.stoa.org/places/305153)
 
 
+## Setovia (Q7456830)
+[https://www.wikidata.org/wiki/Q7456830](https://www.wikidata.org/wiki/Q7456830)  
+
+### alignments:
+ - [Setovia](https://pleiades.stoa.org/places/197510)
+
+
 ## Sette Bassi aqueduct (Q130252090)
 [https://www.wikidata.org/wiki/Q130252090](https://www.wikidata.org/wiki/Q130252090)  
 
@@ -64607,6 +64754,13 @@
  - [Noviomagus/Nemetae](https://pleiades.stoa.org/places/109224)
 
 
+## Spezzano Albanese (Q54005)
+[https://www.wikidata.org/wiki/Q54005](https://www.wikidata.org/wiki/Q54005)  
+
+### alignments:
+ - [Spezzano Albanese](https://pleiades.stoa.org/places/452454)
+
+
 ## Sphaeria (Q60791476)
 [https://www.wikidata.org/wiki/Q60791476](https://www.wikidata.org/wiki/Q60791476)  
 
@@ -64955,6 +65109,13 @@
 
 ### alignments:
  - [Stobi](https://pleiades.stoa.org/places/491731)
+
+
+## Stobreč (Q1280557)
+[https://www.wikidata.org/wiki/Q1280557](https://www.wikidata.org/wiki/Q1280557)  
+
+### alignments:
+ - [Epetium](https://pleiades.stoa.org/places/197262)
 
 
 ## Stonea Camp (Q7619094)
@@ -68101,6 +68262,13 @@
 
 ### alignments:
  - [Theater of Zea](https://pleiades.stoa.org/places/58858515)
+
+
+## Thebae Lucanae (Q137780753)
+[https://www.wikidata.org/wiki/Q137780753](https://www.wikidata.org/wiki/Q137780753)  
+
+### alignments:
+ - [Thebae Lucanae?](https://pleiades.stoa.org/places/452475)
 
 
 ## Theban Necropolis (Q29223)

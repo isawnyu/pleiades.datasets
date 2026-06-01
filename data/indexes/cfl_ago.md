@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-470 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
+471 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2091,6 +2091,13 @@
 
 ### alignments:
  - [Kapros (island)](https://pleiades.stoa.org/places/501456)
+
+
+## Toponyme 22224: Kerinia, Gardena (156/1928)-Δ.Δ.Κερυνείας, Γαρδενά
+[https://chronique.efa.gr/?r=topo_public&id=22224](https://chronique.efa.gr/?r=topo_public&id=22224)  
+
+### alignments:
+ - [Keryneia](https://pleiades.stoa.org/places/570354)
 
 
 ## Toponyme 22478: Koropi-Δ. Δ. Κρωπίας, Κορωπί

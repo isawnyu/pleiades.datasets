@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5097 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
+5098 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1700,6 +1700,13 @@
 
 ### alignments:
  - [Ariaratheia](https://pleiades.stoa.org/places/628934)
+
+
+## Geo 40814: Respa
+[https://www.trismegistos.org/place/40814](https://www.trismegistos.org/place/40814)  
+
+### alignments:
+ - [Respa](https://pleiades.stoa.org/places/442743)
 
 
 ## Geo 40847: Kypsela (İpsala?)
@@ -5561,6 +5568,13 @@
 
 ### alignments:
  - [Nestou Epoikion](https://pleiades.stoa.org/places/741531)
+
+
+## GEO ID 14510: Caulonia
+[https://www.trismegistos.org/place/14510](https://www.trismegistos.org/place/14510)  
+
+### alignments:
+ - [Caulonia](https://pleiades.stoa.org/places/452295)
 
 
 ## GEO ID 14513: Nuceria Alfaterna (Nocera Superiore)
@@ -22991,13 +23005,6 @@
 
 ### alignments:
  - [Corneli](https://pleiades.stoa.org/places/442555)
-
-
-## GEO ID 40814: Respa
-[https://www.trismegistos.org/place/40814](https://www.trismegistos.org/place/40814)  
-
-### alignments:
- - [Respa](https://pleiades.stoa.org/places/442743)
 
 
 ## GEO ID 40817: Ad Pirum

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5006 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
+5014 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -6433,6 +6433,13 @@
  - [Bolinaios (river)](https://pleiades.stoa.org/places/570157)
 
 
+## Boline (Achaia) 4 Drepano - Βολίνα
+[https://topostext.org/place/383219UBol](https://topostext.org/place/383219UBol)  
+
+### alignments:
+ - [Boline](https://pleiades.stoa.org/places/573148)
+
+
 ## Bonna (Germania)
 [https://topostext.org/place/507071UBon](https://topostext.org/place/507071UBon)  
 
@@ -7028,7 +7035,7 @@
  - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
-## Calanna (Magna Graecia)  Calanna
+## Calanna (Magna Graecia)
 [https://topostext.org/place/382157UCal](https://topostext.org/place/382157UCal)  
 
 ### alignments:
@@ -7623,6 +7630,13 @@
 
 ### alignments:
  - [Cerami](https://pleiades.stoa.org/places/462155)
+
+
+## Cersosimo (Lucania)
+[https://topostext.org/place/400163XCER](https://topostext.org/place/400163XCER)  
+
+### alignments:
+ - [Cersosimo](https://pleiades.stoa.org/places/452298)
 
 
 ## Cessero/Araura (Gallia)
@@ -10715,6 +10729,13 @@
 
 ### alignments:
  - [Ep(e)ion](https://pleiades.stoa.org/places/570226)
+
+
+## Epetium (Illyria)
+[https://topostext.org/place/435165UEpe](https://topostext.org/place/435165UEpe)  
+
+### alignments:
+ - [Epetium](https://pleiades.stoa.org/places/197262)
 
 
 ## Ephesian Artemis T. (Ionia) 108 Selcuk - Άρτεμις η εν Εφέσωι
@@ -13915,6 +13936,13 @@
  - [Hyllarima](https://pleiades.stoa.org/places/599659)
 
 
+## Hyllis peninsula (Dalmatia)
+[https://topostext.org/place/435160LHyl](https://topostext.org/place/435160LHyl)  
+
+### alignments:
+ - [Hyllis Pr.](https://pleiades.stoa.org/places/197309)
+
+
 ## Hymettos Mt. (Athens)
 [https://topostext.org/place/379238LHym](https://topostext.org/place/379238LHym)  
 
@@ -14186,6 +14214,13 @@
 
 ### alignments:
  - [Idomene Maior](https://pleiades.stoa.org/places/530895)
+
+
+## Idomene Minor (Aitolia) Alonaki - Ειδομενή
+[https://topostext.org/place/391211SIdo](https://topostext.org/place/391211SIdo)  
+
+### alignments:
+ - [Idomene Minor](https://pleiades.stoa.org/places/530896)
 
 
 ## Idumaea (Palestine)
@@ -18104,7 +18139,7 @@
 
 
 ## Lagaria? Amendolara (Magna Graecia)
-[https://www.trismegistos.org/place/38436](https://www.trismegistos.org/place/38436)  
+[https://topostext.org/place/399166XAme](https://topostext.org/place/399166XAme)  
 
 ### alignments:
  - [Lagaria](https://pleiades.stoa.org/places/456082)
@@ -21394,6 +21429,13 @@
  - [Monopteros](https://pleiades.stoa.org/places/87615187)
 
 
+## Monte Coppolo (Lucania)
+[https://topostext.org/place/401164XMCo](https://topostext.org/place/401164XMCo)  
+
+### alignments:
+ - [Monte Coppolo](https://pleiades.stoa.org/places/452383)
+
+
 ## Monte Pruno (Lucania)
 [https://topostext.org/place/404153XMON](https://topostext.org/place/404153XMON)  
 
@@ -24337,7 +24379,7 @@
  - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
-## Panormos (Kalymnos) 2 Vathys? - Πάνορμος
+## Panormos (Kalymnos) 2 Vathys?
 [https://topostext.org/place/368268HPan](https://topostext.org/place/368268HPan)  
 
 ### alignments:
@@ -26376,13 +26418,6 @@
 
 ### alignments:
  - [Amnisos (river)](https://pleiades.stoa.org/places/589682)
-
-
-## Place 353253WTri: Triton R. (Crete)
-[https://topostext.org/place/353253WTri](https://topostext.org/place/353253WTri)  
-
-### alignments:
- - [Triton (river)](https://pleiades.stoa.org/places/590083)
 
 
 ## Place 353263IOny: Onysia (Crete)
@@ -28638,6 +28673,13 @@
  - [Rudiae](https://pleiades.stoa.org/places/442753)
 
 
+## Ruoti (Lucania)
+[https://topostext.org/place/407156XRUO](https://topostext.org/place/407156XRUO)  
+
+### alignments:
+ - [Ruoti](https://pleiades.stoa.org/places/442754)
+
+
 ## Rusellae (Italy)
 [https://topostext.org/place/428112URus](https://topostext.org/place/428112URus)  
 
@@ -29023,6 +29065,13 @@
 
 ### alignments:
  - [Sanisera](https://pleiades.stoa.org/places/266026)
+
+
+## Sante Croce (Lucania)
+[https://topostext.org/place/400156XSAN](https://topostext.org/place/400156XSAN)  
+
+### alignments:
+ - [S. Croce](https://pleiades.stoa.org/places/452428)
 
 
 ## Saos Mt. (Samothrace) 5 Mt. Phengari - Σάος
@@ -33518,6 +33567,13 @@
 
 ### alignments:
  - [Tritium](https://pleiades.stoa.org/places/236691)
+
+
+## Triton R. (Crete)
+[https://topostext.org/place/353253WTri](https://topostext.org/place/353253WTri)  
+
+### alignments:
+ - [Triton (river)](https://pleiades.stoa.org/places/590083)
 
 
 ## Tritonis lake (Libya) 49 unknown - Τριτωνίς

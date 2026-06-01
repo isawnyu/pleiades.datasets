@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1047 alignments exist in _Pleiades_ place references as of 2026-05-29. The following list of alignments is grouped by zotkey.
+1061 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2165,6 +2165,13 @@
  - [Argyra](https://pleiades.stoa.org/places/573118)
 
 
+## 10274478: Boline (Achaia)
+[https://resource.manto.unh.edu/10274478](https://resource.manto.unh.edu/10274478)  
+
+### alignments:
+ - [Boline](https://pleiades.stoa.org/places/573148)
+
+
 ## 10274653: River Marsyas (Phrygia)
 [https://resource.manto.unh.edu/10274653](https://resource.manto.unh.edu/10274653)  
 
@@ -2900,6 +2907,20 @@
  - [Tamassos](https://pleiades.stoa.org/places/707628)
 
 
+## 11300421: Hipponion (Italy)
+[https://resource.manto.unh.edu/11300421](https://resource.manto.unh.edu/11300421)  
+
+### alignments:
+ - [Hipponion/Vibo Valentia](https://pleiades.stoa.org/places/452337)
+
+
+## 11300468: Lagaria (S. Italy)
+[https://resource.manto.unh.edu/11300468](https://resource.manto.unh.edu/11300468)  
+
+### alignments:
+ - [Lagaria](https://pleiades.stoa.org/places/456082)
+
+
 ## 11300730: Troy (Egypt)
 [https://resource.manto.unh.edu/11300730](https://resource.manto.unh.edu/11300730)  
 
@@ -3173,6 +3194,13 @@
  - [Sarpedonion (promontory)](https://pleiades.stoa.org/places/648764)
 
 
+## 11304938: River Triton (Crete)
+[https://resource.manto.unh.edu/11304938](https://resource.manto.unh.edu/11304938)  
+
+### alignments:
+ - [Triton (river)](https://pleiades.stoa.org/places/590083)
+
+
 ## 11304947: Mount Calpe (Iberia)
 [https://resource.manto.unh.edu/11304947](https://resource.manto.unh.edu/11304947)  
 
@@ -3311,6 +3339,13 @@
 
 ### alignments:
  - [Antikyra?](https://pleiades.stoa.org/places/540641)
+
+
+## 11307407: Phalara (Thessaly)
+[https://resource.manto.unh.edu/11307407](https://resource.manto.unh.edu/11307407)  
+
+### alignments:
+ - [Phalara](https://pleiades.stoa.org/places/541034)
 
 
 ## 11307417: Chaonia (Epeiros)
@@ -3867,6 +3902,13 @@
  - [Regis Villa/Regae](https://pleiades.stoa.org/places/413284)
 
 
+## 11313688: Pyrgi (Italy)
+[https://resource.manto.unh.edu/11313688](https://resource.manto.unh.edu/11313688)  
+
+### alignments:
+ - [Pyrgi](https://pleiades.stoa.org/places/433061)
+
+
 ## 11313695: Ardea (Italy)
 [https://resource.manto.unh.edu/11313695](https://resource.manto.unh.edu/11313695)  
 
@@ -4028,6 +4070,13 @@
  - [Adiabene](https://pleiades.stoa.org/places/893935)
 
 
+## 11315183: Clete (Italy)
+[https://resource.manto.unh.edu/11315183](https://resource.manto.unh.edu/11315183)  
+
+### alignments:
+ - [Klete](https://pleiades.stoa.org/places/456078)
+
+
 ## 11315307: Rhaicalos (Chalcidice)
 [https://resource.manto.unh.edu/11315307](https://resource.manto.unh.edu/11315307)  
 
@@ -4068,6 +4117,13 @@
 
 ### alignments:
  - [Falerii Veteres](https://pleiades.stoa.org/places/413126)
+
+
+## 11315521: Dura-Europos (Syria)
+[https://resource.manto.unh.edu/11315521](https://resource.manto.unh.edu/11315521)  
+
+### alignments:
+ - [D(o)ura/Europos](https://pleiades.stoa.org/places/893990)
 
 
 ## 11315967: Amphipolis (Thrace)
@@ -4201,6 +4257,20 @@
 
 ### alignments:
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
+
+
+## 11320358: Mount Tylessos (Italy)
+[https://resource.manto.unh.edu/11320358](https://resource.manto.unh.edu/11320358)  
+
+### alignments:
+ - [Tylessos (mountain)](https://pleiades.stoa.org/places/456130)
+
+
+## 11320359: Linos (Italy)
+[https://resource.manto.unh.edu/11320359](https://resource.manto.unh.edu/11320359)  
+
+### alignments:
+ - [Linos (promontory)](https://pleiades.stoa.org/places/456086)
 
 
 ## 11320704
@@ -4497,6 +4567,13 @@
  - [Murus Romuli](https://pleiades.stoa.org/places/698502930)
 
 
+## 11328262: Bruttium (Italy)
+[https://resource.manto.unh.edu/11328262](https://resource.manto.unh.edu/11328262)  
+
+### alignments:
+ - [Bruttii](https://pleiades.stoa.org/places/452275)
+
+
 ## 11328397: the Oinotrides (islands)
 [https://resource.manto.unh.edu/11328397](https://resource.manto.unh.edu/11328397)  
 
@@ -4614,6 +4691,13 @@
 
 ### alignments:
  - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
+## 11329528: Cape Diomedes (Illyria)
+[https://resource.manto.unh.edu/11329528](https://resource.manto.unh.edu/11329528)  
+
+### alignments:
+ - [Hyllis Pr.](https://pleiades.stoa.org/places/197309)
 
 
 ## 11329531: Colchinium (Illyria)
@@ -5511,6 +5595,13 @@
 
 ### alignments:
  - [Peneios (river)](https://pleiades.stoa.org/places/570579)
+
+
+## 8253987: Olenos (Achaia)
+[https://resource.manto.unh.edu/8253987](https://resource.manto.unh.edu/8253987)  
+
+### alignments:
+ - [Olenos](https://pleiades.stoa.org/places/570528)
 
 
 ## 8253990: Abdera (Thrace)
@@ -6820,6 +6911,13 @@
 
 ### alignments:
  - [Peneios (river)](https://pleiades.stoa.org/places/541022)
+
+
+## 9721260: Epizephyrian Locris (Italy)
+[https://resource.manto.unh.edu/9721260](https://resource.manto.unh.edu/9721260)  
+
+### alignments:
+ - [Lokroi Epizephyrioi](https://pleiades.stoa.org/places/452369)
 
 
 ## 9721264: the Atlas Mountains (N. Africa)
