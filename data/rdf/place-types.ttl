@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2026/05/24 06:47:37.591228 GMT-4
+# Date: 2026/05/31 06:47:37.031330 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1289
+# Triple count: 1301
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -970,6 +970,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "production center (manufacturing, fishing)"@en .
 
+<https://pleiades.stoa.org/vocabularies/protected-area-modern> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/protected-area-modern>,
+        <https://vocab.getty.edu/aat/300386975>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "protected area (modern)"@en;
+    skos:scopeNote "A modern protected area as defined by the Getty Art and Architecture Thesaurus: areas designated for protection by a governing body due to the natural, ecological, or cultural value or fragility of the area."@en .
+
 <https://pleiades.stoa.org/vocabularies/province> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/province>;
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
@@ -1054,6 +1061,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "road"@en;
     skos:scopeNote "A road as defined by the Getty Art and Architecture Thesaurus: \"General term referring to all long outdoor passages used by and generally created by humans, intended to allow people to pass between different places, usually one wide enough to admit of the passage of wheeled vehicles, horses, or travellers on foot.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/rock-landform> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/rock-landform>,
+        <https://vocab.getty.edu/aat/300404733>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "rock (landform)"@en;
+    skos:scopeNote "A rock (landform) as defined by the Getty Art and Architecture Thesaurus: Large rugged masses comprising primarily hard mineral material or stone and forming a cliff, crag, or other natural feature on dry land or the seabed."@en .
 
 <https://pleiades.stoa.org/vocabularies/room> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/room>,
