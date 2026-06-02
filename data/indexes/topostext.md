@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5014 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
+5017 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -133,6 +133,13 @@
 
 ### alignments:
  - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
+
+
+## 383233WIsm
+[https://topostext.org/place/383233WIsm](https://topostext.org/place/383233WIsm)  
+
+### alignments:
+ - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -10267,6 +10274,13 @@
 
 ### alignments:
  - [Elaitikos Sinus](https://pleiades.stoa.org/places/550525)
+
+
+## Elanitic Gulf (Arabia) 8 Gulf of Aqaba
+[https://topostext.org/place/261359WEla](https://topostext.org/place/261359WEla)  
+
+### alignments:
+ - [Aelaniticus Sinus](https://pleiades.stoa.org/places/746701)
 
 
 ## Elaos (Aitolia)
@@ -27759,6 +27773,13 @@
 
 ### alignments:
  - [Proerna](https://pleiades.stoa.org/places/541073)
+
+
+## Proitid Gate of Thebes (Boeotia)
+[https://topostext.org/place/383233FPro](https://topostext.org/place/383233FPro)  
+
+### alignments:
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
 
 
 ## Pronnoi (Kefallenia)

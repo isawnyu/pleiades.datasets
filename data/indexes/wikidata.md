@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10794 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
+10807 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4400,6 +4400,13 @@
 
 ### alignments:
  - [Sanctuary of Erynike Aphrodite ](https://pleiades.stoa.org/places/712583012)
+
+
+## Aphrodite sanctuary of Marasà Sud (Q123352497)
+[https://www.wikidata.org/wiki/Q123352497](https://www.wikidata.org/wiki/Q123352497)  
+
+### alignments:
+ - [Marasà Sud](https://pleiades.stoa.org/places/484080361)
 
 
 ## Aphytis (Q4779776)
@@ -11043,6 +11050,13 @@
  - [Callow Hill Roman villa](https://pleiades.stoa.org/places/921321518)
 
 
+## Calucones (Q1397676)
+[https://www.wikidata.org/wiki/Q1397676](https://www.wikidata.org/wiki/Q1397676)  
+
+### alignments:
+ - [Calucones](https://pleiades.stoa.org/places/187334)
+
+
 ## Calydnian isles (Q25536001)
 [https://www.wikidata.org/wiki/Q25536001](https://www.wikidata.org/wiki/Q25536001)  
 
@@ -11965,6 +11979,13 @@
 
 ### alignments:
  - [Casa dei Crescenzi](https://pleiades.stoa.org/places/111763397)
+
+
+## Casa del Bicentenario (Q16537513)
+[https://www.wikidata.org/wiki/Q16537513](https://www.wikidata.org/wiki/Q16537513)  
+
+### alignments:
+ - [House of the Bicentenary](https://pleiades.stoa.org/places/756480383)
 
 
 ## Casa Del Marinaio (Q27687907)
@@ -13710,6 +13731,13 @@
  - [Caudium](https://pleiades.stoa.org/places/432773)
 
 
+## Caulonia (Q54597)
+[https://www.wikidata.org/wiki/Q54597](https://www.wikidata.org/wiki/Q54597)  
+
+### alignments:
+ - [Caulonia](https://pleiades.stoa.org/places/452295)
+
+
 ## Cavalupo Necropolis (Q3346849)
 [https://www.wikidata.org/wiki/Q3346849](https://www.wikidata.org/wiki/Q3346849)  
 
@@ -14646,6 +14674,13 @@
 
 ### alignments:
  - [Chullu](https://pleiades.stoa.org/places/305063)
+
+
+## Chur (Q69007)
+[https://www.wikidata.org/wiki/Q69007](https://www.wikidata.org/wiki/Q69007)  
+
+### alignments:
+ - [Curia](https://pleiades.stoa.org/places/187357)
 
 
 ## Church of Panagia Chalkeon (Q1650229)
@@ -24823,6 +24858,13 @@
  - [House of the masks, Hadrumetum](https://pleiades.stoa.org/places/83003523)
 
 
+## House of the Mosaic Atrium (Q16537570)
+[https://www.wikidata.org/wiki/Q16537570](https://www.wikidata.org/wiki/Q16537570)  
+
+### alignments:
+ - [House of the Mosaic Atrium](https://pleiades.stoa.org/places/365894023)
+
+
 ## House of the Nilotic threshold (Q135220229)
 [https://www.wikidata.org/wiki/Q135220229](https://www.wikidata.org/wiki/Q135220229)  
 
@@ -27189,6 +27231,13 @@
 
 ### alignments:
  - [Caunus](https://pleiades.stoa.org/places/638796)
+
+
+## Kaveri (Q216239)
+[https://www.wikidata.org/wiki/Q216239](https://www.wikidata.org/wiki/Q216239)  
+
+### alignments:
+ - [Cabirus (river)](https://pleiades.stoa.org/places/49931)
 
 
 ## Kavousi Vronda (Q23586062)
@@ -31313,6 +31362,13 @@
 
 ### alignments:
  - [Mageroy Gallo-Roman villa](https://pleiades.stoa.org/places/523235272)
+
+
+## Magia (Q90885274)
+[https://www.wikidata.org/wiki/Q90885274](https://www.wikidata.org/wiki/Q90885274)  
+
+### alignments:
+ - [Magia](https://pleiades.stoa.org/places/187464)
 
 
 ## Magis Roman Fort (Q17642617)
@@ -42204,6 +42260,13 @@
  - [Ostrakina (mountain)](https://pleiades.stoa.org/places/573421)
 
 
+## Proitid Gate (Q106526373)
+[https://www.wikidata.org/wiki/Q106526373](https://www.wikidata.org/wiki/Q106526373)  
+
+### alignments:
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
+
+
 ## Pronnoi (Q7249936)
 [https://www.wikidata.org/wiki/Q7249936](https://www.wikidata.org/wiki/Q7249936)  
 
@@ -49618,6 +49681,13 @@
  - [Temple of Ares](https://pleiades.stoa.org/places/468194251)
 
 
+## Q2422308
+[https://www.wikidata.org/wiki/Q2422308](https://www.wikidata.org/wiki/Q2422308)  
+
+### alignments:
+ - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
+
+
 ## Q242533: Civitavecchia
 [https://www.wikidata.org/wiki/Q242533](https://www.wikidata.org/wiki/Q242533)  
 
@@ -52742,13 +52812,6 @@
 
 ### alignments:
  - [Portus Pisanus?](https://pleiades.stoa.org/places/403261)
-
-
-## Q3926611: Quadriportico of the Theatre of Pompeii
-[https://www.wikidata.org/wiki/Q3926611](https://www.wikidata.org/wiki/Q3926611)  
-
-### alignments:
- - [Quadriporticus of the theatre](https://pleiades.stoa.org/places/568496340)
 
 
 ## Q392725: Shuruppak
@@ -57931,6 +57994,13 @@
 
 ### alignments:
  - [Quadraro](https://pleiades.stoa.org/places/423018)
+
+
+## Quadriportico of the Theatre of Pompeii (Q3926611)
+[https://www.wikidata.org/wiki/Q3926611](https://www.wikidata.org/wiki/Q3926611)  
+
+### alignments:
+ - [Quadriporticus of the theatre](https://pleiades.stoa.org/places/568496340)
 
 
 ## Queen's Megaron (Q123396375)
@@ -65370,6 +65440,13 @@
  - [Bitti, Complesso di Romanzesu](https://pleiades.stoa.org/places/494216807)
 
 
+## Suanetes (Q3976466)
+[https://www.wikidata.org/wiki/Q3976466](https://www.wikidata.org/wiki/Q3976466)  
+
+### alignments:
+ - [Suanetes](https://pleiades.stoa.org/places/187560)
+
+
 ## sub Romula (Q108394788)
 [https://www.wikidata.org/wiki/Q108394788](https://www.wikidata.org/wiki/Q108394788)  
 
@@ -67120,6 +67197,13 @@
 
 ### alignments:
  - [Dionysos Bresagenes, T.](https://pleiades.stoa.org/places/550514)
+
+
+## Temple of Dionysus Lysios (Q60791135)
+[https://www.wikidata.org/wiki/Q60791135](https://www.wikidata.org/wiki/Q60791135)  
+
+### alignments:
+ - [Temple of Dionysus Lysios (Thebes)](https://pleiades.stoa.org/places/33738912)
 
 
 ## Temple of Divus Augustus (Q7698723)
@@ -73536,6 +73620,13 @@
 
 ### alignments:
  - [Villa di Vibio Varo](https://pleiades.stoa.org/places/423124)
+
+
+## Villa Poppaea (Q542944)
+[https://www.wikidata.org/wiki/Q542944](https://www.wikidata.org/wiki/Q542944)  
+
+### alignments:
+ - [Villa Poppaea](https://pleiades.stoa.org/places/60021200)
 
 
 ## Villa Regina (Q25511450)

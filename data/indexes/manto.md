@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1061 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
+1072 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2347,6 +2347,13 @@
  - [Leuktra](https://pleiades.stoa.org/places/540913)
 
 
+## 10772045: the Temple of Dionysos Lysios at Thebes
+[https://resource.manto.unh.edu/10772045](https://resource.manto.unh.edu/10772045)  
+
+### alignments:
+ - [Temple of Dionysus Lysios (Thebes)](https://pleiades.stoa.org/places/33738912)
+
+
 ## 10772077: Pioniai (Troad)
 [https://resource.manto.unh.edu/10772077](https://resource.manto.unh.edu/10772077)  
 
@@ -3073,6 +3080,13 @@
 
 ### alignments:
  - [Ilva/Aethalia (island)](https://pleiades.stoa.org/places/403222)
+
+
+## 11303449: Argoon (Aithalia)
+[https://resource.manto.unh.edu/11303449](https://resource.manto.unh.edu/11303449)  
+
+### alignments:
+ - [‘Argoos Limen’](https://pleiades.stoa.org/places/403180)
 
 
 ## 11303452: Telamon (Etruria)
@@ -4154,6 +4168,13 @@
  - [Pergus L.](https://pleiades.stoa.org/places/462417)
 
 
+## 11318759: Herculaneum (Campania)
+[https://resource.manto.unh.edu/11318759](https://resource.manto.unh.edu/11318759)  
+
+### alignments:
+ - [Herculaneum](https://pleiades.stoa.org/places/432873)
+
+
 ## 11319021: Casa del Fauno VI 12, 2 (Pompeii)
 [https://resource.manto.unh.edu/11319021](https://resource.manto.unh.edu/11319021)  
 
@@ -4187,6 +4208,13 @@
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## 11319297: Bicentennial House V 13-18 (Herculaneum)
+[https://resource.manto.unh.edu/11319297](https://resource.manto.unh.edu/11319297)  
+
+### alignments:
+ - [House of the Bicentenary](https://pleiades.stoa.org/places/756480383)
 
 
 ## 11319631: Ostia (Latium)
@@ -4238,6 +4266,13 @@
  - [Oplontis](https://pleiades.stoa.org/places/432992)
 
 
+## 11319985: Villa dei Poppaei (Oplontis)
+[https://resource.manto.unh.edu/11319985](https://resource.manto.unh.edu/11319985)  
+
+### alignments:
+ - [Villa Poppaea](https://pleiades.stoa.org/places/60021200)
+
+
 ## 11320079: Private Dwelling VII 4, 22-23 (Pompeii)
 [https://resource.manto.unh.edu/11320079](https://resource.manto.unh.edu/11320079)  
 
@@ -4252,11 +4287,32 @@
  - [Nepet](https://pleiades.stoa.org/places/413224)
 
 
+## 11320302: Casa dell'Atrio a Mosaico IV, 1-2 (Herculaneum)
+[https://resource.manto.unh.edu/11320302](https://resource.manto.unh.edu/11320302)  
+
+### alignments:
+ - [House of the Mosaic Atrium](https://pleiades.stoa.org/places/365894023)
+
+
 ## 11320309: Baths of Caracalla (Rome)
 [https://resource.manto.unh.edu/11320309](https://resource.manto.unh.edu/11320309)  
 
 ### alignments:
  - [Thermae Antoninianae](https://pleiades.stoa.org/places/322942899)
+
+
+## 11320318: Basilica (Herculaneum)
+[https://resource.manto.unh.edu/11320318](https://resource.manto.unh.edu/11320318)  
+
+### alignments:
+ - [Augusteum, so-called Basilica at Herculaneum](https://pleiades.stoa.org/places/590848271)
+
+
+## 11320327: Caserma dei Gladiatori VIII 7, 16 (Pompeii)
+[https://resource.manto.unh.edu/11320327](https://resource.manto.unh.edu/11320327)  
+
+### alignments:
+ - [Quadriporticus of the theatre](https://pleiades.stoa.org/places/568496340)
 
 
 ## 11320358: Mount Tylessos (Italy)
@@ -4593,6 +4649,13 @@
 
 ### alignments:
  - [Bizye](https://pleiades.stoa.org/places/511190)
+
+
+## 11328668: the Forum of Caesar (Rome)
+[https://resource.manto.unh.edu/11328668](https://resource.manto.unh.edu/11328668)  
+
+### alignments:
+ - [Forum Iulium](https://pleiades.stoa.org/places/445545537)
 
 
 ## 11328766: Calypsos (S. Italy)
@@ -6339,6 +6402,13 @@
  - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
 
 
+## 9613749: the Proitidian Gates (Thebes)
+[https://resource.manto.unh.edu/9613749](https://resource.manto.unh.edu/9613749)  
+
+### alignments:
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
+
+
 ## 9613752: the Electran Gates (Thebes)
 [https://resource.manto.unh.edu/9613752](https://resource.manto.unh.edu/9613752)  
 
@@ -6351,6 +6421,13 @@
 
 ### alignments:
  - [Kyllene (mountain)](https://pleiades.stoa.org/places/570391)
+
+
+## 9613788: River Ismenos (Thebes)
+[https://resource.manto.unh.edu/9613788](https://resource.manto.unh.edu/9613788)  
+
+### alignments:
+ - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
 
 
 ## 9613865: Amphilochian Argos (Epeiros)

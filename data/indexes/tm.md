@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5098 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
+5099 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -556,6 +556,13 @@
 
 ### alignments:
  - [Nemrut Dağ](https://pleiades.stoa.org/places/658544)
+
+
+## Geo 1694: Perinthos (Ereğli)
+[https://www.trismegistos.org/place/1694](https://www.trismegistos.org/place/1694)  
+
+### alignments:
+ - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
 
 
 ## Geo 1700: Perraibia
@@ -8158,13 +8165,6 @@
 
 ### alignments:
  - [Hispania Citerior](https://pleiades.stoa.org/places/530036687)
-
-
-## GEO ID 1694: Perinthos (Ereğli)
-[https://www.trismegistos.org/place/1694](https://www.trismegistos.org/place/1694)  
-
-### alignments:
- - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
 
 
 ## GEO ID 16969: Zliten
@@ -23553,6 +23553,13 @@
  - [Clunia](https://pleiades.stoa.org/places/187350)
 
 
+## GEO ID 41069: Magia (Maienfeld)
+[https://www.trismegistos.org/place/41069](https://www.trismegistos.org/place/41069)  
+
+### alignments:
+ - [Magia](https://pleiades.stoa.org/places/187464)
+
+
 ## GEO ID 41070: Lapidaria (Reischen)
 [https://www.trismegistos.org/place/41070](https://www.trismegistos.org/place/41070)  
 
@@ -29318,7 +29325,7 @@
 
 
 ## GEO ID 43983: Forum Iulium
-[http://www.trismegistos.org/place/43983](http://www.trismegistos.org/place/43983)  
+[https://www.trismegistos.org/place/43983](https://www.trismegistos.org/place/43983)  
 
 ### alignments:
  - [Forum Iulium](https://pleiades.stoa.org/places/445545537)

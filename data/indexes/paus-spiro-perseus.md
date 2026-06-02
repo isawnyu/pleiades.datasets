@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-536 alignments exist in _Pleiades_ place references as of 2026-06-01. The following list of alignments is grouped by zotkey.
+539 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3704,6 +3704,13 @@
  - [Plataea](https://pleiades.stoa.org/places/541063)
 
 
+## 9.10.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.10.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.10.2)  
+
+### alignments:
+ - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
+
+
 ## 9.13.3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.13.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.13.3)  
 
@@ -3717,6 +3724,21 @@
 
 ### alignments:
  - [Keressos](https://pleiades.stoa.org/places/525018437)
+
+
+## 9.16.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.16.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.16.6)  
+
+### alignments:
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
+ - [Temple of Dionysus Lysios (Thebes)](https://pleiades.stoa.org/places/33738912)
+
+
+## 9.18.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.18.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.18.1)  
+
+### alignments:
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
 
 
 ## 9.19.4
@@ -3923,6 +3945,7 @@
 
 ### alignments:
  - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
+ - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
 
 
 ## 9.8.5-7
