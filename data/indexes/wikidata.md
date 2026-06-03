@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10807 alignments exist in _Pleiades_ place references as of 2026-06-02. The following list of alignments is grouped by zotkey.
+10809 alignments exist in _Pleiades_ place references as of 2026-06-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -36069,6 +36069,13 @@
 
 ### alignments:
  - [Netheravon](https://pleiades.stoa.org/places/79608)
+
+
+## Neto River (Q609648)
+[https://www.wikidata.org/wiki/Q609648](https://www.wikidata.org/wiki/Q609648)  
+
+### alignments:
+ - [Neaethus (river)](https://pleiades.stoa.org/places/452389)
 
 
 ## Nettuno (Q243116)
@@ -72673,6 +72680,13 @@
 
 ### alignments:
  - [Verturiones](https://pleiades.stoa.org/places/92197)
+
+
+## Verzino (Q54524)
+[https://www.wikidata.org/wiki/Q54524](https://www.wikidata.org/wiki/Q54524)  
+
+### alignments:
+ - [Verzino](https://pleiades.stoa.org/places/636943626)
 
 
 ## Vescera (Q737094)
