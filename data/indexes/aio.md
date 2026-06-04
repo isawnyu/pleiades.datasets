@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-152 alignments exist in _Pleiades_ place references as of 2026-06-03. The following list of alignments is grouped by zotkey.
+152 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -462,7 +462,7 @@
 [https://www.atticinscriptions.com/browse/byfindspot/hymettos-m/](https://www.atticinscriptions.com/browse/byfindspot/hymettos-m/)  
 
 ### alignments:
- - [Hymettos M.](https://pleiades.stoa.org/places/579955)
+ - [Hymettos (mountain)](https://pleiades.stoa.org/places/579955)
 
 
 ## Findspot: Mygdaleza

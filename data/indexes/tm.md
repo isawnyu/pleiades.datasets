@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5099 alignments exist in _Pleiades_ place references as of 2026-06-03. The following list of alignments is grouped by zotkey.
+5100 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1870,6 +1870,13 @@
  - [Hypanis/Southern Bug (river)](https://pleiades.stoa.org/places/226630)
 
 
+## Geo 42577: Montes Cyrenei
+[https://www.trismegistos.org/place/42577](https://www.trismegistos.org/place/42577)  
+
+### alignments:
+ - [Montes Cyrenei](https://pleiades.stoa.org/places/950256720)
+
+
 ## Geo 42604: Keria (Keros)
 [https://www.trismegistos.org/place/42604](https://www.trismegistos.org/place/42604)  
 
@@ -1939,6 +1946,13 @@
 
 ### alignments:
  - [Boeotia](https://pleiades.stoa.org/places/540689)
+
+
+## Geo 44787: Clivus Capitolinus
+[https://www.trismegistos.org/place/44787](https://www.trismegistos.org/place/44787)  
+
+### alignments:
+ - [Clivus Capitolinus](https://pleiades.stoa.org/places/152699900)
 
 
 ## Geo 45201: Verucchio
@@ -11458,7 +11472,7 @@
  - [Takyris](https://pleiades.stoa.org/places/737063)
 
 
-## GEO ID 22330
+## GEO ID 22330: Netum (Noto)
 [http://www.trismegistos.org/place/22330](http://www.trismegistos.org/place/22330)  
 
 ### alignments:
@@ -11519,6 +11533,13 @@
 
 ### alignments:
  - [Tyndaris](https://pleiades.stoa.org/places/462527)
+
+
+## GEO ID 22352: Abakainon (Tripi)
+[http://www.trismegistos.org/place/22352](http://www.trismegistos.org/place/22352)  
+
+### alignments:
+ - [Abakainon](https://pleiades.stoa.org/places/462062)
 
 
 ## GEO ID 22353: Engyon (Troina)
@@ -21557,7 +21578,7 @@
  - [Heraclea Minoa](https://pleiades.stoa.org/places/462237)
 
 
-## GEO ID 38469
+## GEO ID 38469: Ietas (Monte Iato)
 [http://www.trismegistos.org/place/38469](http://www.trismegistos.org/place/38469)  
 
 ### alignments:
@@ -27628,13 +27649,6 @@
  - [Tritonis? L.](https://pleiades.stoa.org/places/364025)
 
 
-## GEO ID 42577: Montes Cyrenei
-[https://www.trismegistos.org/place/42577](https://www.trismegistos.org/place/42577)  
-
-### alignments:
- - [Montes Cyrenei](https://pleiades.stoa.org/places/950256720)
-
-
 ## GEO ID 42591: Sangarios (Sakarya)
 [http://www.trismegistos.org/place/42591](http://www.trismegistos.org/place/42591)  
 
@@ -29504,13 +29518,6 @@
 
 ### alignments:
  - [Pons Aemilius](https://pleiades.stoa.org/places/425068)
-
-
-## GEO ID 44787: Clivus Capitolinus
-[http://www.trismegistos.org/place/44787](http://www.trismegistos.org/place/44787)  
-
-### alignments:
- - [Clivus Capitolinus](https://pleiades.stoa.org/places/152699900)
 
 
 ## GEO ID 44791: Fundus Caelanus

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5017 alignments exist in _Pleiades_ place references as of 2026-06-03. The following list of alignments is grouped by zotkey.
+5022 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -13633,6 +13633,13 @@
  - [Himera](https://pleiades.stoa.org/places/462244)
 
 
+## Himera river (Sicily)
+[https://topostext.org/place/378141WSal](https://topostext.org/place/378141WSal)  
+
+### alignments:
+ - [Himeras (river)](https://pleiades.stoa.org/places/462246)
+
+
 ## Himyarites tribe (Arabia)
 [https://topostext.org/place/130450RHim](https://topostext.org/place/130450RHim)  
 
@@ -22172,6 +22179,13 @@
  - [Nedon (river)](https://pleiades.stoa.org/places/570503)
 
 
+## Neeton (Sicily)
+[https://topostext.org/place/369150UNet](https://topostext.org/place/369150UNet)  
+
+### alignments:
+ - [Neaition/Netum](https://pleiades.stoa.org/places/462388)
+
+
 ## Neiloupolis (Egypt)
 [https://topostext.org/place/295308UNei](https://topostext.org/place/295308UNei)  
 
@@ -22479,6 +22493,13 @@
 
 ### alignments:
  - [Nitriai (settlement)](https://pleiades.stoa.org/places/727176)
+
+
+## Noai (Sicily)
+[https://topostext.org/place/375146UNoa](https://topostext.org/place/375146UNoa)  
+
+### alignments:
+ - [Noai?](https://pleiades.stoa.org/places/462393)
 
 
 ## Noeodunum Diablintum (Gallia)
@@ -24602,6 +24623,13 @@
 
 ### alignments:
  - [Parnon (mountain)](https://pleiades.stoa.org/places/570561)
+
+
+## Paropus (Sicilia)
+[https://topostext.org/place/381133UPar](https://topostext.org/place/381133UPar)  
+
+### alignments:
+ - [Paropos](https://pleiades.stoa.org/places/465971)
 
 
 ## Paroraia region (Ioannina) 3 flanks of Mt. Peristeri - Παρωραίοί
@@ -30828,6 +30856,13 @@
 
 ### alignments:
  - [Sterna](https://pleiades.stoa.org/places/531103)
+
+
+## Stielanaioi (Sicily)
+[https://topostext.org/place/371146USti](https://topostext.org/place/371146USti)  
+
+### alignments:
+ - [Stielana](https://pleiades.stoa.org/places/465997)
 
 
 ## Stiris (Phokis) 8 Palaiokhori/Ag. Nikolaos

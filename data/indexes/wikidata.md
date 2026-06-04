@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10809 alignments exist in _Pleiades_ place references as of 2026-06-03. The following list of alignments is grouped by zotkey.
+10817 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -532,6 +532,13 @@
 
 ### alignments:
  - [Acerrae Vafriae](https://pleiades.stoa.org/places/416762)
+
+
+## Acesta (Q3604256)
+[https://www.wikidata.org/wiki/Q3604256](https://www.wikidata.org/wiki/Q3604256)  
+
+### alignments:
+ - [Aceste](https://pleiades.stoa.org/places/465838)
 
 
 ## Achaea (Q2790451)
@@ -6732,6 +6739,13 @@
 
 ### alignments:
  - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
+
+
+## Augustales (Q62113190)
+[https://www.wikidata.org/wiki/Q62113190](https://www.wikidata.org/wiki/Q62113190)  
+
+### alignments:
+ - [Temple of Augustales at Centuripae](https://pleiades.stoa.org/places/916046175)
 
 
 ## Augustamnica (Q2870967)
@@ -13953,6 +13967,13 @@
 
 ### alignments:
  - [Kempraten](https://pleiades.stoa.org/places/187438)
+
+
+## Centuripe (Q56202)
+[https://www.wikidata.org/wiki/Q56202](https://www.wikidata.org/wiki/Q56202)  
+
+### alignments:
+ - [Centuripae](https://pleiades.stoa.org/places/462153)
 
 
 ## Cephissus (Q1235405)
@@ -25066,6 +25087,13 @@
 
 ### alignments:
  - [Hybla Heraia](https://pleiades.stoa.org/places/462252)
+
+
+## Hyblaean Mountains (Q181115)
+[https://www.wikidata.org/wiki/Q181115](https://www.wikidata.org/wiki/Q181115)  
+
+### alignments:
+ - [Hyblaei Colles](https://pleiades.stoa.org/places/462253)
 
 
 ## Hyccara (Q728102)
@@ -36337,6 +36365,13 @@
  - [Niš Fortress](https://pleiades.stoa.org/places/865385553)
 
 
+## Noai (Q132520026)
+[https://www.wikidata.org/wiki/Q132520026](https://www.wikidata.org/wiki/Q132520026)  
+
+### alignments:
+ - [Noai?](https://pleiades.stoa.org/places/462393)
+
+
 ## Nocera Umbra (Q20491)
 [https://www.wikidata.org/wiki/Q20491](https://www.wikidata.org/wiki/Q20491)  
 
@@ -39051,6 +39086,13 @@
 
 ### alignments:
  - [Deir Amba Baramos](https://pleiades.stoa.org/places/727106)
+
+
+## Paropos (Q3896378)
+[https://www.wikidata.org/wiki/Q3896378](https://www.wikidata.org/wiki/Q3896378)  
+
+### alignments:
+ - [Paropos](https://pleiades.stoa.org/places/465971)
 
 
 ## Paroria (Q3605950)
@@ -54468,13 +54510,6 @@
  - [Great Witcombe](https://pleiades.stoa.org/places/79492)
 
 
-## Q56202: Centuripe
-[https://www.wikidata.org/wiki/Q56202](https://www.wikidata.org/wiki/Q56202)  
-
-### alignments:
- - [Centuripae](https://pleiades.stoa.org/places/462153)
-
-
 ## Q56256394: Sepolcro dei Veienti
 [https://www.wikidata.org/wiki/Q56256394](https://www.wikidata.org/wiki/Q56256394)  
 
@@ -59633,6 +59668,13 @@
 
 ### alignments:
  - [Neftenbach](https://pleiades.stoa.org/places/41177951)
+
+
+## Roman mausoleum (Q62114043)
+[https://www.wikidata.org/wiki/Q62114043](https://www.wikidata.org/wiki/Q62114043)  
+
+### alignments:
+ - [Castello di Corradino](https://pleiades.stoa.org/places/528052483)
 
 
 ## Roman Middlewich (Q7362090)
@@ -65137,6 +65179,13 @@
 
 ### alignments:
  - [Stelida](https://pleiades.stoa.org/places/507121565)
+
+
+## Stielanaioi (Q65244662)
+[https://www.wikidata.org/wiki/Q65244662](https://www.wikidata.org/wiki/Q65244662)  
+
+### alignments:
+ - [Stielana](https://pleiades.stoa.org/places/465997)
 
 
 ## Stilaro (Q724188)
@@ -72561,6 +72610,13 @@
 
 ### alignments:
  - [Viriodunum](https://pleiades.stoa.org/places/109435)
+
+
+## Verdura (Q1061674)
+[https://www.wikidata.org/wiki/Q1061674](https://www.wikidata.org/wiki/Q1061674)  
+
+### alignments:
+ - [Isbouros/Triocala (river)](https://pleiades.stoa.org/places/462262)
 
 
 ## Veretum (Q4009948)
