@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10817 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
+10825 alignments exist in _Pleiades_ place references as of 2026-06-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10563,7 +10563,6 @@
 ### alignments:
  - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
  - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
- - [Cannatello](https://pleiades.stoa.org/places/491524938)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
  - [Eduranna](https://pleiades.stoa.org/places/175425813)
  - [Euchaita](https://pleiades.stoa.org/places/857120)
@@ -11288,6 +11287,13 @@
  - [Cannae](https://pleiades.stoa.org/places/442523)
 
 
+## Cannatello (Q31838321)
+[https://www.wikidata.org/wiki/Q31838321](https://www.wikidata.org/wiki/Q31838321)  
+
+### alignments:
+ - [Cannatello](https://pleiades.stoa.org/places/491524938)
+
+
 ## Canonica d'Adda (Q100135)
 [https://www.wikidata.org/wiki/Q100135](https://www.wikidata.org/wiki/Q100135)  
 
@@ -11559,6 +11565,13 @@
 
 ### alignments:
  - [Capitium](https://pleiades.stoa.org/places/462130)
+
+
+## Capo Bruzzano (Q34834162)
+[https://www.wikidata.org/wiki/Q34834162](https://www.wikidata.org/wiki/Q34834162)  
+
+### alignments:
+ - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
 
 
 ## Capo Colonna (Q868332)
@@ -17928,6 +17941,13 @@
  - [Dodona (Thessaly)](https://pleiades.stoa.org/places/543686)
 
 
+## Dogana romana (Q62113614)
+[https://www.wikidata.org/wiki/Q62113614](https://www.wikidata.org/wiki/Q62113614)  
+
+### alignments:
+ - [La Dogana](https://pleiades.stoa.org/places/653482567)
+
+
 ## Dokimeion (Q15806224)
 [https://www.wikidata.org/wiki/Q15806224](https://www.wikidata.org/wiki/Q15806224)  
 
@@ -22441,6 +22461,13 @@
 
 ### alignments:
  - [Korykos (promontory)](https://pleiades.stoa.org/places/589880)
+
+
+## Gran Sasso d'Italia (Q216869)
+[https://www.wikidata.org/wiki/Q216869](https://www.wikidata.org/wiki/Q216869)  
+
+### alignments:
+ - [Gran Sasso d'Italia](https://pleiades.stoa.org/places/703739112)
 
 
 ## Grande (Q3796616)
@@ -29824,6 +29851,13 @@
  - [Leben](https://pleiades.stoa.org/places/589901)
 
 
+## Lecce (Q13386)
+[https://www.wikidata.org/wiki/Q13386](https://www.wikidata.org/wiki/Q13386)  
+
+### alignments:
+ - [Lupia(e)](https://pleiades.stoa.org/places/442642)
+
+
 ## Lechlade Roman villa (Q136841694)
 [http://www.wikidata.org/entity/Q136841694](http://www.wikidata.org/entity/Q136841694)  
 
@@ -30823,6 +30857,13 @@
 
 ### alignments:
  - [Lucera Castle](https://pleiades.stoa.org/places/817071134)
+
+
+## Luceria (Q127430624)
+[https://www.wikidata.org/wiki/Q127430624](https://www.wikidata.org/wiki/Q127430624)  
+
+### alignments:
+ - [Luceria/Noukeria (Apoulon)](https://pleiades.stoa.org/places/442640)
 
 
 ## Lucone di Polpenazze (Q16574070)
@@ -35705,6 +35746,13 @@
 
 ### alignments:
  - [Neapolis (Kavalla)](https://pleiades.stoa.org/places/501523)
+
+
+## Neapolis of Syracuse (Q11938657)
+[https://www.wikidata.org/wiki/Q11938657](https://www.wikidata.org/wiki/Q11938657)  
+
+### alignments:
+ - [Neapolis of Syracuse](https://pleiades.stoa.org/places/468879479)
 
 
 ## Nearchi (Q3337588)
@@ -40669,6 +40717,13 @@
 
 ### alignments:
  - [Pityous](https://pleiades.stoa.org/places/857283)
+
+
+## Pizzo Cannita (Q16590915)
+[https://www.wikidata.org/wiki/Q16590915](https://www.wikidata.org/wiki/Q16590915)  
+
+### alignments:
+ - [Pizzo Cannita](https://pleiades.stoa.org/places/462443)
 
 
 ## Pizzo Carbonara (Q965689)
@@ -47369,13 +47424,6 @@
  - [Ganesh Ratha](https://pleiades.stoa.org/places/270118641)
 
 
-## Q17053341: Virgil's tomb
-[https://www.wikidata.org/wiki/Q17053341](https://www.wikidata.org/wiki/Q17053341)  
-
-### alignments:
- - [Tomb of Virgil](https://pleiades.stoa.org/places/344755334)
-
-
 ## Q171132: Cyclades
 [https://www.wikidata.org/wiki/Q171132](https://www.wikidata.org/wiki/Q171132)  
 
@@ -49245,13 +49293,6 @@
 
 ### alignments:
  - [Ġgantija](https://pleiades.stoa.org/places/62131047)
-
-
-## Q216869: Gran Sasso d'Italia
-[https://www.wikidata.org/wiki/Q216869](https://www.wikidata.org/wiki/Q216869)  
-
-### alignments:
- - [Gran Sasso d'Italia](https://pleiades.stoa.org/places/703739112)
 
 
 ## Q21705214: stadium of Delphi
@@ -59640,6 +59681,13 @@
 
 ### alignments:
  - [Roman forum of Sarsina](https://pleiades.stoa.org/places/791853466)
+
+
+## Roman forum of Sbeitla (Q138647227)
+[https://www.wikidata.org/wiki/Q138647227](https://www.wikidata.org/wiki/Q138647227)  
+
+### alignments:
+ - [Roman forum of Sbeitla](https://pleiades.stoa.org/places/327351960)
 
 
 ## Roman houses of the Caelian (Q3661653)
@@ -74047,6 +74095,13 @@
 
 ### alignments:
  - [Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis](https://pleiades.stoa.org/places/874324)
+
+
+## Virgil's tomb (Q17053341)
+[https://www.wikidata.org/wiki/Q17053341](https://www.wikidata.org/wiki/Q17053341)  
+
+### alignments:
+ - [Tomb of Virgil](https://pleiades.stoa.org/places/344755334)
 
 
 ## Viromandui (Q761664)

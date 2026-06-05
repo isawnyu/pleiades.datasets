@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1072 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
+1074 alignments exist in _Pleiades_ place references as of 2026-06-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2760,6 +2760,13 @@
  - [Bryseai](https://pleiades.stoa.org/places/573155)
 
 
+## 11297659: Zancle (Sicily)
+[https://resource.manto.unh.edu/11297659](https://resource.manto.unh.edu/11297659)  
+
+### alignments:
+ - [Zancle/Messana](https://pleiades.stoa.org/places/462538)
+
+
 ## 11297708: Acragas (Sicily)
 [https://resource.manto.unh.edu/11297708](https://resource.manto.unh.edu/11297708)  
 
@@ -4446,6 +4453,13 @@
 
 ### alignments:
  - [Temple of Quirinus](https://pleiades.stoa.org/places/524616090)
+
+
+## 11324672: Lacinium (Italy)
+[https://resource.manto.unh.edu/11324672](https://resource.manto.unh.edu/11324672)  
+
+### alignments:
+ - [Lacinium (promontory)](https://pleiades.stoa.org/places/452356)
 
 
 ## 11324988: Noicattaro (Italy)

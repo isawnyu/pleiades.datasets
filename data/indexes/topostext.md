@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5022 alignments exist in _Pleiades_ place references as of 2026-06-04. The following list of alignments is grouped by zotkey.
+5023 alignments exist in _Pleiades_ place references as of 2026-06-05. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -22135,6 +22135,13 @@
 
 ### alignments:
  - [Neapolis (Sardinia)](https://pleiades.stoa.org/places/471977)
+
+
+## Neapolis (Syracusa)
+[https://topostext.org/place/371153DNea](https://topostext.org/place/371153DNea)  
+
+### alignments:
+ - [Neapolis of Syracuse](https://pleiades.stoa.org/places/468879479)
 
 
 ## Neapolis (Tunis)
