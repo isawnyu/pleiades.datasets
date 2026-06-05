@@ -11,23 +11,35 @@
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/462311",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:46:14Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, reference",
+                    "modified": "2026-06-05T01:07:33Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:46:15Z",
@@ -46,7 +58,19 @@
             ],
             "id": "462311",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "p. 722",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Melita/Malta (island)",
@@ -246,9 +270,11 @@
     ],
     "names": [],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/villa",
         "https://pleiades.stoa.org/vocabularies/place-types/estate"
     ],
     "placeTypes": [
+        "villa",
         "estate"
     ],
     "provenance": "Barrington Atlas: BAtlas 47 inset Zejtun",
