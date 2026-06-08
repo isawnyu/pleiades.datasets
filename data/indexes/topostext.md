@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5023 alignments exist in _Pleiades_ place references as of 2026-06-05. The following list of alignments is grouped by zotkey.
+5024 alignments exist in _Pleiades_ place references as of 2026-06-08. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -34449,6 +34449,13 @@
 
 ### alignments:
  - [Via Nomentana](https://pleiades.stoa.org/places/699256589)
+
+
+## Via Postumia (Italia)
+[https://topostext.org/place/452105BVPo](https://topostext.org/place/452105BVPo)  
+
+### alignments:
+ - [Via Postumia](https://pleiades.stoa.org/places/788760849)
 
 
 ## Via Praenestina (Roma)

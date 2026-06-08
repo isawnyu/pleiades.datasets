@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10825 alignments exist in _Pleiades_ place references as of 2026-06-05. The following list of alignments is grouped by zotkey.
+10835 alignments exist in _Pleiades_ place references as of 2026-06-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1530,6 +1530,13 @@
  - [Agios Nikolaos (island)](https://pleiades.stoa.org/places/63423309)
 
 
+## Agisymba (Q394105)
+[https://www.wikidata.org/wiki/Q394105](https://www.wikidata.org/wiki/Q394105)  
+
+### alignments:
+ - [Agisymba](https://pleiades.stoa.org/places/355608)
+
+
 ## Agneion (Q25164223)
 [https://www.wikidata.org/wiki/Q25164223](https://www.wikidata.org/wiki/Q25164223)  
 
@@ -1654,6 +1661,13 @@
 
 ### alignments:
  - [Ai Khanoum (Alexandria Oxiana?)](https://pleiades.stoa.org/places/971693)
+
+
+## Aia Nuova Roman villa (Q140087650)
+[https://www.wikidata.org/wiki/Q140087650](https://www.wikidata.org/wiki/Q140087650)  
+
+### alignments:
+ - [Roman villa of Aia Nova](https://pleiades.stoa.org/places/861510570)
 
 
 ## Aiakeion (Q3144678)
@@ -6895,6 +6909,13 @@
  - [Austicula](https://pleiades.stoa.org/places/438690)
 
 
+## Autololes (Q25391592)
+[https://www.wikidata.org/wiki/Q25391592](https://www.wikidata.org/wiki/Q25391592)  
+
+### alignments:
+ - [Autololes/Autoteles](https://pleiades.stoa.org/places/275596)
+
+
 ## Autrigones (Q789372)
 [https://www.wikidata.org/wiki/Q789372](https://www.wikidata.org/wiki/Q789372)  
 
@@ -11378,6 +11399,13 @@
  - [Metagonium (promontory)](https://pleiades.stoa.org/places/305108)
 
 
+## Cap Cantin (Q18214270)
+[https://www.wikidata.org/wiki/Q18214270](https://www.wikidata.org/wiki/Q18214270)  
+
+### alignments:
+ - [Solis Pr.](https://pleiades.stoa.org/places/386778281)
+
+
 ## Cap de Cervera (Q25422882)
 [https://www.wikidata.org/wiki/Q25422882](https://www.wikidata.org/wiki/Q25422882)  
 
@@ -11460,6 +11488,13 @@
 
 ### alignments:
  - [Parthenion? Akron](https://pleiades.stoa.org/places/226714)
+
+
+## Cape Ghir (Q27511471)
+[https://www.wikidata.org/wiki/Q27511471](https://www.wikidata.org/wiki/Q27511471)  
+
+### alignments:
+ - [Surrentium/Rhysadeiron? (promontory)](https://pleiades.stoa.org/places/758467594)
 
 
 ## Cape Kormakitis (Q959369)
@@ -22463,6 +22498,13 @@
  - [Korykos (promontory)](https://pleiades.stoa.org/places/589880)
 
 
+## Gran Canaria (Q178925)
+[https://www.wikidata.org/wiki/Q178925](https://www.wikidata.org/wiki/Q178925)  
+
+### alignments:
+ - [Canaria? (island)](https://pleiades.stoa.org/places/770912717)
+
+
 ## Gran Sasso d'Italia (Q216869)
 [https://www.wikidata.org/wiki/Q216869](https://www.wikidata.org/wiki/Q216869)  
 
@@ -29030,6 +29072,13 @@
 
 ### alignments:
  - [Lago di Burano](https://pleiades.stoa.org/places/139776558)
+
+
+## Lago di Massaciuccoli (Q1236114)
+[https://www.wikidata.org/wiki/Q1236114](https://www.wikidata.org/wiki/Q1236114)  
+
+### alignments:
+ - [Lago di Massaciuccoli](https://pleiades.stoa.org/places/795751125)
 
 
 ## Lago di Mezzola (Q1502960)
@@ -38296,6 +38345,13 @@
  - [tribus Oufentina](https://pleiades.stoa.org/places/702604147)
 
 
+## Oum Er-Rbia River (Q1778840)
+[https://www.wikidata.org/wiki/Q1778840](https://www.wikidata.org/wiki/Q1778840)  
+
+### alignments:
+ - [Anatis/Asana (river)](https://pleiades.stoa.org/places/798)
+
+
 ## Ourania (Q56402265)
 [https://www.wikidata.org/wiki/Q56402265](https://www.wikidata.org/wiki/Q56402265)  
 
@@ -43190,13 +43246,6 @@
  - [Belora](https://pleiades.stoa.org/places/403187)
 
 
-## Q103305: Volterra
-[https://www.wikidata.org/wiki/Q103305](https://www.wikidata.org/wiki/Q103305)  
-
-### alignments:
- - [Velathri/Volaterrae](https://pleiades.stoa.org/places/403292)
-
-
 ## Q1036262: Oppian Hill
 [https://www.wikidata.org/wiki/Q1036262](https://www.wikidata.org/wiki/Q1036262)  
 
@@ -48045,13 +48094,6 @@
 
 ### alignments:
  - [Polizzello](https://pleiades.stoa.org/places/462454)
-
-
-## Q1825356: Roman Theatre of Volterra
-[https://www.wikidata.org/wiki/Q1825356](https://www.wikidata.org/wiki/Q1825356)  
-
-### alignments:
- - [Roman theater at Volaterrae](https://pleiades.stoa.org/places/957561489)
 
 
 ## Q18288898
@@ -60229,6 +60271,13 @@
  - [Roman theater at Tergeste](https://pleiades.stoa.org/places/683009535)
 
 
+## Roman Theatre of Volterra (Q1825356)
+[https://www.wikidata.org/wiki/Q1825356](https://www.wikidata.org/wiki/Q1825356)  
+
+### alignments:
+ - [Roman theater at Volaterrae](https://pleiades.stoa.org/places/957561489)
+
+
 ## Roman Theatre of Zaragoza (Q583459)
 [https://www.wikidata.org/wiki/Q583459](https://www.wikidata.org/wiki/Q583459)  
 
@@ -72198,6 +72247,13 @@
  - [Vaccaei](https://pleiades.stoa.org/places/236706)
 
 
+## Vada (Q650740)
+[https://www.wikidata.org/wiki/Q650740](https://www.wikidata.org/wiki/Q650740)  
+
+### alignments:
+ - [Vada Volaterrana](https://pleiades.stoa.org/places/403288)
+
+
 ## Vada Sabatia (Q11954163)
 [https://www.wikidata.org/wiki/Q11954163](https://www.wikidata.org/wiki/Q11954163)  
 
@@ -73233,6 +73289,13 @@
 
 ### alignments:
  - [‘Vicianum’](https://pleiades.stoa.org/places/482032)
+
+
+## Vicopisano (Q103297)
+[https://www.wikidata.org/wiki/Q103297](https://www.wikidata.org/wiki/Q103297)  
+
+### alignments:
+ - [Vicopisano](https://pleiades.stoa.org/places/960808207)
 
 
 ## Vicovaro (Q243521)
@@ -74278,6 +74341,13 @@
 
 ### alignments:
  - [Roman amphitheater at Volsinii](https://pleiades.stoa.org/places/659746118)
+
+
+## Volterra (Q103305)
+[https://www.wikidata.org/wiki/Q103305](https://www.wikidata.org/wiki/Q103305)  
+
+### alignments:
+ - [Velathri/Volaterrae](https://pleiades.stoa.org/places/403292)
 
 
 ## Voltinia (Q3538815)
