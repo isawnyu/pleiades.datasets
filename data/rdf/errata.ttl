@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/05/31 06:48:26.699262 GMT-4
+# Date: 2026/06/07 06:48:32.615741 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5791
+# Triple count: 5834
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -846,6 +846,18 @@
     dcterms:modified "2025-10-28T12:23:30-04:00";
     dcterms:title "Psaphis";
     owl:sameAs <http://pleiades.stoa.org/errata/541076/psaphis> .
+
+<https://pleiades.stoa.org/errata/548145747%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Basiluzzo";
+    spatial:C <https://pleiades.stoa.org/places/462076%23this>;
+    rdfs:comment "Duplicate of https://pleiades.stoa.org/places/452336";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/548145747> .
+
+<https://pleiades.stoa.org/errata/548145747/osm-location-of-isola-di-basiluzzo> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-06-01T10:57:25-04:00";
+    dcterms:title "OSM location of Isola di Basiluzzo";
+    owl:sameAs <http://pleiades.stoa.org/errata/548145747/osm-location-of-isola-di-basiluzzo> .
 
 <https://pleiades.stoa.org/errata/550420%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erratum: Aisepos (river)";
@@ -3619,6 +3631,28 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
     pleiades:hasName <https://pleiades.stoa.org/errata/psaphis> .
 
+<https://pleiades.stoa.org/errata/548145747> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BTCGI IV, 14-17 (Madeleine Cavalier)",
+        "Wikidata Basiluzzo (Q810177)",
+        "Wikipedia (English) Basiluzzo";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Duplicate of https://pleiades.stoa.org/places/452336";
+    dcterms:modified "2026-06-01T10:57:25-04:00";
+    dcterms:title "Withdrawn: Basiluzzo";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q810177>;
+    cito:citesForInformation <https://en.wikipedia.org/wiki/Basiluzzo>,
+        <https://www.persee.fr/doc/btcgi_0000-0009_1985_num_4_1_3204>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/462076>;
+    owl:sameAs <http://pleiades.stoa.org/errata/548145747>;
+    geo:lat 38.6635035005;
+    geo:long 15.1138302144;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/island>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-isola-di-basiluzzo> .
+
 <https://pleiades.stoa.org/errata/550420> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/56%23E2>;
@@ -5601,6 +5635,17 @@
     pleiades:end_date -1000;
     pleiades:start_date -2000 .
 
+<https://pleiades.stoa.org/errata/osm-location-of-isola-di-basiluzzo> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[15.1175376, 38.6609867], [15.1176946, 38.6610287], [15.117836, 38.6612754], [15.1179457, 38.6618423], [15.1179709, 38.6636804], [15.1179698, 38.6639695], [15.1178504, 38.6645953], [15.1177786, 38.6646696], [15.115256, 38.6663011], [15.1151302, 38.6663293], [15.1131565, 38.6662764], [15.1089931, 38.6641865], [15.1087752, 38.6640679], [15.1086431, 38.6639313], [15.1085371, 38.663819], [15.1098917, 38.6620797], [15.1101486, 38.6617832], [15.1113709, 38.6614572], [15.1163787, 38.6610047], [15.1175376, 38.6609867]]]}";
+    osgeo:asWKT "POLYGON ((15.1175376000000004 38.6609867000000023, 15.1176946000000001 38.6610287000000028, 15.1178360000000005 38.6612754000000010, 15.1179456999999999 38.6618423000000035, 15.1179708999999995 38.6636803999999970, 15.1179697999999991 38.6639695000000003, 15.1178504000000000 38.6645953000000020, 15.1177785999999994 38.6646696000000034, 15.1152560000000005 38.6663010999999983, 15.1151301999999994 38.6663293000000010, 15.1131565000000005 38.6662764000000010, 15.1089930999999993 38.6641864999999996, 15.1087752000000002 38.6640678999999992, 15.1086431000000001 38.6639313000000016, 15.1085370999999995 38.6638189999999966, 15.1098917000000004 38.6620796999999996, 15.1101486000000005 38.6617832000000021, 15.1113709000000007 38.6614572000000010, 15.1163787000000003 38.6610046999999994, 15.1175376000000004 38.6609867000000023))";
+    dcterms:bibliographicCitation "OSM Way 10364907";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/10364907>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-isola-di-basiluzzo>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 10364907, version 34, osm:changeset=149774545, 2024-04-09T12:06:48Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/errata/osm-location-of-necropoli-delle-pianacce> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 767312997",
         "Wikipedia (Italian) Necropoli delle Pianacce";
@@ -6006,8 +6051,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Pleiades" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 24" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 A4 Skylax fl." ],
@@ -6017,8 +6062,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
@@ -6028,8 +6073,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
