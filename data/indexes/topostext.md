@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5024 alignments exist in _Pleiades_ place references as of 2026-06-08. The following list of alignments is grouped by zotkey.
+5025 alignments exist in _Pleiades_ place references as of 2026-06-09. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -34393,6 +34393,13 @@
 
 ### alignments:
  - [Vatl/Vetulonia](https://pleiades.stoa.org/places/403291)
+
+
+## Via Aemiliana (Italia)
+[https://topostext.org/place/44295BVAS](https://topostext.org/place/44295BVAS)  
+
+### alignments:
+ - [Via Aemilia Scauri / Via Aurelia](https://pleiades.stoa.org/places/502042016)
 
 
 ## Via Appia (Latium)

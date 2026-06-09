@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10835 alignments exist in _Pleiades_ place references as of 2026-06-08. The following list of alignments is grouped by zotkey.
+10840 alignments exist in _Pleiades_ place references as of 2026-06-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7308,6 +7308,13 @@
  - [Bagdata](https://pleiades.stoa.org/places/893952)
 
 
+## Bagnone (Q52228)
+[https://www.wikidata.org/wiki/Q52228](https://www.wikidata.org/wiki/Q52228)  
+
+### alignments:
+ - [Bondelia](https://pleiades.stoa.org/places/409218)
+
+
 ## Bahariya Oasis (Q738878)
 [https://www.wikidata.org/wiki/Q738878](https://www.wikidata.org/wiki/Q738878)  
 
@@ -10114,6 +10121,13 @@
 
 ### alignments:
  - [Brioula](https://pleiades.stoa.org/places/638793)
+
+
+## Brixellum (Q3645134)
+[https://www.wikidata.org/wiki/Q3645134](https://www.wikidata.org/wiki/Q3645134)  
+
+### alignments:
+ - [Brixellum](https://pleiades.stoa.org/places/383602)
 
 
 ## Broch of Clickimin (Q923324)
@@ -36518,6 +36532,13 @@
  - [Norba](https://pleiades.stoa.org/places/442691)
 
 
+## Norcia (Q20494)
+[https://www.wikidata.org/wiki/Q20494](https://www.wikidata.org/wiki/Q20494)  
+
+### alignments:
+ - [Nursia](https://pleiades.stoa.org/places/413229)
+
+
 ## Noret-Khent Nome (Q740597)
 [https://www.wikidata.org/wiki/Q740597](https://www.wikidata.org/wiki/Q740597)  
 
@@ -48900,13 +48921,6 @@
 
 ### alignments:
  - [Pani Loriga](https://pleiades.stoa.org/places/877459133)
-
-
-## Q20494: Norcia
-[https://www.wikidata.org/wiki/Q20494](https://www.wikidata.org/wiki/Q20494)  
-
-### alignments:
- - [Nursia](https://pleiades.stoa.org/places/413229)
 
 
 ## Q20552952
@@ -64900,6 +64914,13 @@
  - [Southwick](https://pleiades.stoa.org/places/79690)
 
 
+## Soyans (Q219399)
+[https://www.wikidata.org/wiki/Q219399](https://www.wikidata.org/wiki/Q219399)  
+
+### alignments:
+ - [Soyans](https://pleiades.stoa.org/places/167928)
+
+
 ## Soyons (Q375346)
 [https://www.wikidata.org/wiki/Q375346](https://www.wikidata.org/wiki/Q375346)  
 
@@ -67904,6 +67925,13 @@
 
 ### alignments:
  - [Tinna (river)](https://pleiades.stoa.org/places/413341)
+
+
+## Tensift River (Q2371903)
+[https://www.wikidata.org/wiki/Q2371903](https://www.wikidata.org/wiki/Q2371903)  
+
+### alignments:
+ - [Fut / Quosenum?/ Kousa? fl.](https://pleiades.stoa.org/places/201549524)
 
 
 ## Tenta, Cyprus (Q1404714)
@@ -72930,7 +72958,7 @@
 [https://www.wikidata.org/wiki/Q1240126](https://www.wikidata.org/wiki/Q1240126)  
 
 ### alignments:
- - [Via Aemilia Scauri](https://pleiades.stoa.org/places/502042016)
+ - [Via Aemilia Scauri / Via Aurelia](https://pleiades.stoa.org/places/502042016)
 
 
 ## Via Amerina (Q2335070)
@@ -73289,6 +73317,13 @@
 
 ### alignments:
  - [‘Vicianum’](https://pleiades.stoa.org/places/482032)
+
+
+## Vico Pancellorum (Q18489188)
+[https://www.wikidata.org/wiki/Q18489188](https://www.wikidata.org/wiki/Q18489188)  
+
+### alignments:
+ - [Vico Pancellorum](https://pleiades.stoa.org/places/960808205)
 
 
 ## Vicopisano (Q103297)
