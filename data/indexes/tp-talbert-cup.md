@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2372 alignments exist in _Pleiades_ place references as of 2026-06-09. The following list of alignments is grouped by zotkey.
+2377 alignments exist in _Pleiades_ place references as of 2026-06-10. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -2507,6 +2507,13 @@
  - [Tolosa](https://pleiades.stoa.org/places/246694)
 
 
+## 1B1 (Talbert 756)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace756.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace756.html)  
+
+### alignments:
+ - [*Sarnali](https://pleiades.stoa.org/places/246625)
+
+
 ## 1B1 (Talbert 770) Ce++nda
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace770.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace770.html)  
 
@@ -2668,6 +2675,27 @@
  - [Lactora](https://pleiades.stoa.org/places/246459)
 
 
+## 1B2 (Talbert 760)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace760.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace760.html)  
+
+### alignments:
+ - [*Badera](https://pleiades.stoa.org/places/246218)
+
+
+## 1B2 (Talbert 761)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace761.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace761.html)  
+
+### alignments:
+ - [Fines](https://pleiades.stoa.org/places/246392)
+
+
+## 1B2 (Talbert 762)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace762.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace762.html)  
+
+### alignments:
+ - [Hebromagus/Eburomagus](https://pleiades.stoa.org/places/246413)
+
+
 ## 1B2 (Talbert 763)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace763.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace763.html)  
 
@@ -2827,6 +2855,13 @@
 
 ### alignments:
  - [Luteva/*Forum Neronis](https://pleiades.stoa.org/places/148121)
+
+
+## 1B3 (Talbert 764)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace764.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace764.html)  
+
+### alignments:
+ - [Liviana](https://pleiades.stoa.org/places/246470)
 
 
 ## 1B3 (Talbert 765)

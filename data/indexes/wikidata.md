@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10840 alignments exist in _Pleiades_ place references as of 2026-06-09. The following list of alignments is grouped by zotkey.
+10846 alignments exist in _Pleiades_ place references as of 2026-06-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7539,6 +7539,13 @@
  - [Bancroft Roman villa](https://pleiades.stoa.org/places/79312)
 
 
+## Banganarti (Q806461)
+[https://www.wikidata.org/wiki/Q806461](https://www.wikidata.org/wiki/Q806461)  
+
+### alignments:
+ - [St. Raphael Church II (Banganarti)](https://pleiades.stoa.org/places/534713795)
+
+
 ## Bani Walid (Q244230)
 [https://www.wikidata.org/wiki/Q244230](https://www.wikidata.org/wiki/Q244230)  
 
@@ -8730,6 +8737,13 @@
  - [HaBesor Stream](https://pleiades.stoa.org/places/500317779)
 
 
+## Bessèges (Q271325)
+[https://www.wikidata.org/wiki/Q271325](https://www.wikidata.org/wiki/Q271325)  
+
+### alignments:
+ - [Bessèges](https://pleiades.stoa.org/places/167678)
+
+
 ## Beta Samati (Q124570925)
 [https://www.wikidata.org/wiki/Q124570925](https://www.wikidata.org/wiki/Q124570925)  
 
@@ -9911,6 +9925,13 @@
 
 ### alignments:
  - [Ganganon Akron](https://pleiades.stoa.org/places/79474)
+
+
+## Bram (Samian Ware Discovery Site) (Q103151309)
+[https://www.wikidata.org/wiki/Q103151309](https://www.wikidata.org/wiki/Q103151309)  
+
+### alignments:
+ - [Hebromagus/Eburomagus](https://pleiades.stoa.org/places/246413)
 
 
 ## Brampton Old Church Roman fort and the medieval Church of St Martin (Q17659606)
@@ -11782,6 +11803,13 @@
 
 ### alignments:
  - [Carbula](https://pleiades.stoa.org/places/256056)
+
+
+## Carcassonne (Q6582)
+[https://www.wikidata.org/wiki/Q6582](https://www.wikidata.org/wiki/Q6582)  
+
+### alignments:
+ - [Carcas(s)o/Col. Iulia](https://pleiades.stoa.org/places/246294)
 
 
 ## Carceri Vecchie Roman Mausoleum (Q48801957)
@@ -22370,6 +22398,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Golo (Q649519)
+[https://www.wikidata.org/wiki/Q649519](https://www.wikidata.org/wiki/Q649519)  
+
+### alignments:
+ - [Gouola (river)](https://pleiades.stoa.org/places/472070)
 
 
 ## Gomphi (Q1337313)
@@ -56854,13 +56889,6 @@
  - [Olympos (mountain in Greece)](https://pleiades.stoa.org/places/491677)
 
 
-## Q806461: Banganarti
-[https://www.wikidata.org/wiki/Q806461](https://www.wikidata.org/wiki/Q806461)  
-
-### alignments:
- - [St. Raphael Church II (Banganarti)](https://pleiades.stoa.org/places/534713795)
-
-
 ## Q807733: Barbara Baths
 [https://www.wikidata.org/wiki/Q807733](https://www.wikidata.org/wiki/Q807733)  
 
@@ -65950,6 +65978,13 @@
  - [Szob](https://pleiades.stoa.org/places/197537)
 
 
+## Sète (Samian Ware Discovery Site) (Q103195111)
+[https://www.wikidata.org/wiki/Q103195111](https://www.wikidata.org/wiki/Q103195111)  
+
+### alignments:
+ - [Le Barrou](https://pleiades.stoa.org/places/148013)
+
+
 ## Sítio Arqueológico de São Cucufate (Q2802496)
 [https://www.wikidata.org/wiki/Q2802496](https://www.wikidata.org/wiki/Q2802496)  
 
@@ -74333,6 +74368,13 @@
 
 ### alignments:
  - [Tectosages](https://pleiades.stoa.org/places/619269)
+
+
+## Volcae Tectosages (Q3091656)
+[https://www.wikidata.org/wiki/Q3091656](https://www.wikidata.org/wiki/Q3091656)  
+
+### alignments:
+ - [(Volcae) Tectosages](https://pleiades.stoa.org/places/246750)
 
 
 ## Voley Castle (Q16897608)

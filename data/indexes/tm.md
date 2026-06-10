@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5100 alignments exist in _Pleiades_ place references as of 2026-06-09. The following list of alignments is grouped by zotkey.
+5102 alignments exist in _Pleiades_ place references as of 2026-06-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10819,6 +10819,13 @@
 
 ### alignments:
  - [Ad Fines](https://pleiades.stoa.org/places/147983)
+
+
+## GEO ID 21195
+[http://www.trismegistos.org/place/21195](http://www.trismegistos.org/place/21195)  
+
+### alignments:
+ - [Hebromagus/Eburomagus](https://pleiades.stoa.org/places/246413)
 
 
 ## GEO ID 21203: Apollinaris Reiorum (Riez)
@@ -23495,6 +23502,13 @@
 
 ### alignments:
  - [Condate](https://pleiades.stoa.org/places/167722)
+
+
+## GEO ID 41047
+[http://www.trismegistos.org/place/41047](http://www.trismegistos.org/place/41047)  
+
+### alignments:
+ - [Fines](https://pleiades.stoa.org/places/246392)
 
 
 ## GEO ID 41049: Ictodurus (La Bâtie-Neuve)
