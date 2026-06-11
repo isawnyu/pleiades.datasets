@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10846 alignments exist in _Pleiades_ place references as of 2026-06-10. The following list of alignments is grouped by zotkey.
+10860 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2035,6 +2035,13 @@
  - [[(al-)Hir(t)a]/Ertha?](https://pleiades.stoa.org/places/912800)
 
 
+## al-Kana'is (Q53918004)
+[https://www.wikidata.org/wiki/Q53918004](https://www.wikidata.org/wiki/Q53918004)  
+
+### alignments:
+ - [Hydreuma to epi tou Paneiou](https://pleiades.stoa.org/places/786040)
+
+
 ## al-Karmil (Q4702667)
 [https://www.wikidata.org/wiki/Q4702667](https://www.wikidata.org/wiki/Q4702667)  
 
@@ -3175,6 +3182,13 @@
 
 ### alignments:
  - [Amphitheater of the Three Gauls](https://pleiades.stoa.org/places/127640903)
+
+
+## Amphitheater of Nîmes (Q179656)
+[https://www.wikidata.org/wiki/Q179656](https://www.wikidata.org/wiki/Q179656)  
+
+### alignments:
+ - [Arènes de Nîmes](https://pleiades.stoa.org/places/356648400)
 
 
 ## Amphitheater of Statilius Taurus (Q2623831)
@@ -6655,6 +6669,13 @@
 
 ### alignments:
  - [Attidium](https://pleiades.stoa.org/places/413041)
+
+
+## Auch (Samian Ware Discovery Site) (Q103143862)
+[https://www.wikidata.org/wiki/Q103143862](https://www.wikidata.org/wiki/Q103143862)  
+
+### alignments:
+ - [Elimberrum](https://pleiades.stoa.org/places/246379)
 
 
 ## Auchendavy Roman fort (Q48797214)
@@ -17780,6 +17801,13 @@
  - [Dynevor Park](https://pleiades.stoa.org/places/522959909)
 
 
+## Dinia (Q138799431)
+[https://www.wikidata.org/wiki/Q138799431](https://www.wikidata.org/wiki/Q138799431)  
+
+### alignments:
+ - [Dinia](https://pleiades.stoa.org/places/157843)
+
+
 ## Dinkha Tepe (Q115523702)
 [https://www.wikidata.org/wiki/Q115523702](https://www.wikidata.org/wiki/Q115523702)  
 
@@ -22061,6 +22089,13 @@
 
 ### alignments:
  - [Geronthrai](https://pleiades.stoa.org/places/570263)
+
+
+## Gers (Q836299)
+[https://www.wikidata.org/wiki/Q836299](https://www.wikidata.org/wiki/Q836299)  
+
+### alignments:
+ - [Egir(i)cius (river)](https://pleiades.stoa.org/places/246378)
 
 
 ## Gerunda (Q4897589)
@@ -31671,6 +31706,13 @@
  - [Mainalion (mountain)](https://pleiades.stoa.org/places/570449)
 
 
+## Maison Carrée (Q677659)
+[https://www.wikidata.org/wiki/Q677659](https://www.wikidata.org/wiki/Q677659)  
+
+### alignments:
+ - [Maison Carrée](https://pleiades.stoa.org/places/353133531)
+
+
 ## Makran (Q695111)
 [https://www.wikidata.org/wiki/Q695111](https://www.wikidata.org/wiki/Q695111)  
 
@@ -35643,6 +35685,13 @@
  - [Naqa](https://pleiades.stoa.org/places/805635)
 
 
+## Narbonne (Q6555)
+[https://www.wikidata.org/wiki/Q6555](https://www.wikidata.org/wiki/Q6555)  
+
+### alignments:
+ - [Col. Narbo Martius](https://pleiades.stoa.org/places/246347)
+
+
 ## Narce (Q3336046)
 [https://www.wikidata.org/wiki/Q3336046](https://www.wikidata.org/wiki/Q3336046)  
 
@@ -36117,6 +36166,13 @@
 
 ### alignments:
  - [Roudon (river)](https://pleiades.stoa.org/places/20586)
+
+
+## Nemausus (Q2914723)
+[https://www.wikidata.org/wiki/Q2914723](https://www.wikidata.org/wiki/Q2914723)  
+
+### alignments:
+ - [Nemausus](https://pleiades.stoa.org/places/148142)
 
 
 ## Nemesis temple Rhamnous (Q94946184)
@@ -37293,6 +37349,13 @@
 
 ### alignments:
  - [Nysa/Athymbra](https://pleiades.stoa.org/places/599832)
+
+
+## Nîmes aqueduct (Q2859224)
+[https://www.wikidata.org/wiki/Q2859224](https://www.wikidata.org/wiki/Q2859224)  
+
+### alignments:
+ - [Nîmes aqueduct](https://pleiades.stoa.org/places/148738)
 
 
 ## Oakmere hill fort (Q7074177)
@@ -41741,6 +41804,13 @@
  - [Xiphonias Akroterion](https://pleiades.stoa.org/places/462536)
 
 
+## Porta Augusta (Q3399001)
+[https://www.wikidata.org/wiki/Q3399001](https://www.wikidata.org/wiki/Q3399001)  
+
+### alignments:
+ - [Porte d'Auguste of Nemausus](https://pleiades.stoa.org/places/241034493)
+
+
 ## Porta Collina (Q2104863)
 [https://www.wikidata.org/wiki/Q2104863](https://www.wikidata.org/wiki/Q2104863)  
 
@@ -41984,6 +42054,13 @@
 
 ### alignments:
  - [Portchester Castle](https://pleiades.stoa.org/places/607646886)
+
+
+## Porte de France (Q3399042)
+[https://www.wikidata.org/wiki/Q3399042](https://www.wikidata.org/wiki/Q3399042)  
+
+### alignments:
+ - [Porte de France, Nemausus](https://pleiades.stoa.org/places/432394421)
 
 
 ## Porte de Mars (Q1243526)
@@ -44234,13 +44311,6 @@
  - [Tillya tepe](https://pleiades.stoa.org/places/961969)
 
 
-## Q1146645: Via Domitia
-[https://www.wikidata.org/wiki/Q1146645](https://www.wikidata.org/wiki/Q1146645)  
-
-### alignments:
- - [Via Domitia](https://pleiades.stoa.org/places/834876934)
-
-
 ## Q114681203
 [https://www.wikidata.org/wiki/Q114681203](https://www.wikidata.org/wiki/Q114681203)  
 
@@ -45782,13 +45852,6 @@
 
 ### alignments:
  - [Selvasecca di Blera](https://pleiades.stoa.org/places/876756581)
-
-
-## Q133628811
-[https://www.wikidata.org/wiki/Q133628811](https://www.wikidata.org/wiki/Q133628811)  
-
-### alignments:
- - [Villa delle Colonne](https://pleiades.stoa.org/places/544641873)
 
 
 ## Q13367: Forlì
@@ -51194,13 +51257,6 @@
  - [Amphitheatre of El Jem](https://pleiades.stoa.org/places/136366606)
 
 
-## Q2914723: Nemausus
-[https://www.wikidata.org/wiki/Q2914723](https://www.wikidata.org/wiki/Q2914723)  
-
-### alignments:
- - [Nemausus](https://pleiades.stoa.org/places/148142)
-
-
 ## Q291839: Temple of Maharraqa
 [https://www.wikidata.org/wiki/Q291839](https://www.wikidata.org/wiki/Q291839)  
 
@@ -52012,13 +52068,6 @@
 
 ### alignments:
  - [tribus Stellatina](https://pleiades.stoa.org/places/580975875)
-
-
-## Q3540493: Trophy of Pompey
-[https://www.wikidata.org/wiki/Q3540493](https://www.wikidata.org/wiki/Q3540493)  
-
-### alignments:
- - [Pompei Tropaea](https://pleiades.stoa.org/places/246566)
 
 
 ## Q3542034: Tumuli of Tusson
@@ -56231,13 +56280,6 @@
  - [Orto della Regina](https://pleiades.stoa.org/places/789450243)
 
 
-## Q677659: Maison Carrée
-[https://www.wikidata.org/wiki/Q677659](https://www.wikidata.org/wiki/Q677659)  
-
-### alignments:
- - [Maison Carrée](https://pleiades.stoa.org/places/353133531)
-
-
 ## Q677814
 [https://www.wikidata.org/wiki/Q677814](https://www.wikidata.org/wiki/Q677814)  
 
@@ -59282,6 +59324,13 @@
 
 ### alignments:
  - [Roiate](https://pleiades.stoa.org/places/689046103)
+
+
+## Roki Pass (Q2604922)
+[https://www.wikidata.org/wiki/Q2604922](https://www.wikidata.org/wiki/Q2604922)  
+
+### alignments:
+ - [Roki Pass](https://pleiades.stoa.org/places/864485)
 
 
 ## Rokka archaeological site (Q104366821)
@@ -67387,6 +67436,13 @@
  - [Temple of Diana at Nemi](https://pleiades.stoa.org/places/422917)
 
 
+## temple of Diana (Q1992203)
+[https://www.wikidata.org/wiki/Q1992203](https://www.wikidata.org/wiki/Q1992203)  
+
+### alignments:
+ - [Temple de Diane](https://pleiades.stoa.org/places/439736209)
+
+
 ## Temple of Diana Tifatina (Q133868539)
 [https://www.wikidata.org/wiki/Q133868539](https://www.wikidata.org/wiki/Q133868539)  
 
@@ -70322,6 +70378,13 @@
  - [Telo Martius](https://pleiades.stoa.org/places/157936)
 
 
+## Toulouse (Samian Ware Discovery Site) (Q103198168)
+[https://www.wikidata.org/wiki/Q103198168](https://www.wikidata.org/wiki/Q103198168)  
+
+### alignments:
+ - [Tolosa](https://pleiades.stoa.org/places/246694)
+
+
 ## Toumba, Apsalos (Q52389872)
 [https://www.wikidata.org/wiki/Q52389872](https://www.wikidata.org/wiki/Q52389872)  
 
@@ -70334,6 +70397,13 @@
 
 ### alignments:
  - [Tour de la Chèvre d'Or](https://pleiades.stoa.org/places/392088786)
+
+
+## Tour Magne (Q827420)
+[https://www.wikidata.org/wiki/Q827420](https://www.wikidata.org/wiki/Q827420)  
+
+### alignments:
+ - [Tour Magne](https://pleiades.stoa.org/places/439736210)
 
 
 ## Tourves (Q818280)
@@ -71167,6 +71237,13 @@
 
 ### alignments:
  - [Tropaeum Traiani (monument)](https://pleiades.stoa.org/places/406510719)
+
+
+## Trophy of Pompey (Q3540493)
+[https://www.wikidata.org/wiki/Q3540493](https://www.wikidata.org/wiki/Q3540493)  
+
+### alignments:
+ - [Pompei Tropaea](https://pleiades.stoa.org/places/246566)
 
 
 ## Trossulum (Q113577306)
@@ -73010,6 +73087,13 @@
  - [Via Annia](https://pleiades.stoa.org/places/932949218)
 
 
+## Via Aquitania (Q1245452)
+[https://www.wikidata.org/wiki/Q1245452](https://www.wikidata.org/wiki/Q1245452)  
+
+### alignments:
+ - [Via Aquitania](https://pleiades.stoa.org/places/601039654)
+
+
 ## Via Ardeatina (Q739066)
 [https://www.wikidata.org/wiki/Q739066](https://www.wikidata.org/wiki/Q739066)  
 
@@ -73092,6 +73176,13 @@
 
 ### alignments:
  - [*Via Curia](https://pleiades.stoa.org/places/358077243)
+
+
+## Via Domitia (Q1146645)
+[https://www.wikidata.org/wiki/Q1146645](https://www.wikidata.org/wiki/Q1146645)  
+
+### alignments:
+ - [Via Domitia](https://pleiades.stoa.org/places/834876934)
 
 
 ## Via Domiziana (Q1227543)
@@ -73611,6 +73702,13 @@
 
 ### alignments:
  - [Negrar Roman Villa](https://pleiades.stoa.org/places/575996197)
+
+
+## Villa delle Colonne (Q133628811)
+[https://www.wikidata.org/wiki/Q133628811](https://www.wikidata.org/wiki/Q133628811)  
+
+### alignments:
+ - [Villa delle Colonne](https://pleiades.stoa.org/places/544641873)
 
 
 ## Villa delle Vignacce (Q7930568)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5025 alignments exist in _Pleiades_ place references as of 2026-06-10. The following list of alignments is grouped by zotkey.
+5029 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -11650,6 +11650,13 @@
  - [Forum Decii](https://pleiades.stoa.org/places/413146)
 
 
+## Forum Domitii (Narbonensis)
+[https://topostext.org/place/435037UFDo](https://topostext.org/place/435037UFDo)  
+
+### alignments:
+ - [Forum Domitii](https://pleiades.stoa.org/places/148081)
+
+
 ## Forum Holitorium (Rome)
 [https://topostext.org/place/419125XFHo](https://topostext.org/place/419125XFHo)  
 
@@ -11929,6 +11936,13 @@
 
 ### alignments:
  - [Garsaura/Col. Claudia Archelais/Koloneia](https://pleiades.stoa.org/places/619164)
+
+
+## Garuna river (Gallia)
+[https://topostext.org/place/449-05WGar](https://topostext.org/place/449-05WGar)  
+
+### alignments:
+ - [Garumna (river)](https://pleiades.stoa.org/places/138369)
 
 
 ## Gate IX Hippades? (Athens)
@@ -28736,6 +28750,13 @@
  - [Ruoti](https://pleiades.stoa.org/places/442754)
 
 
+## Ruscino (Gallia)
+[https://topostext.org/place/427029URus](https://topostext.org/place/427029URus)  
+
+### alignments:
+ - [Col. Ruscino](https://pleiades.stoa.org/places/246348)
+
+
 ## Rusellae (Italy)
 [https://topostext.org/place/428112URus](https://topostext.org/place/428112URus)  
 
@@ -34435,6 +34456,13 @@
 
 ### alignments:
  - [Via Clodia](https://pleiades.stoa.org/places/737328394)
+
+
+## Via Domitia (Gallia)
+[https://topostext.org/place/43536BVDo](https://topostext.org/place/43536BVDo)  
+
+### alignments:
+ - [Via Domitia](https://pleiades.stoa.org/places/834876934)
 
 
 ## Via Egnatia (Macedonia)
