@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5102 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
+5104 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -12915,6 +12915,13 @@
  - [Ebora](https://pleiades.stoa.org/places/256151)
 
 
+## GEO ID 25812
+[http://www.trismegistos.org/place/25812](http://www.trismegistos.org/place/25812)  
+
+### alignments:
+ - [(B)Aesuris/Esuris](https://pleiades.stoa.org/places/256008)
+
+
 ## GEO ID 25813: Ossonoba (Faro)
 [https://www.trismegistos.org/place/25813](https://www.trismegistos.org/place/25813)  
 
@@ -13242,6 +13249,13 @@
 
 ### alignments:
  - [Urso/Col. Genetiva Iulia](https://pleiades.stoa.org/places/256503)
+
+
+## GEO ID 26246
+[http://www.trismegistos.org/place/26246](http://www.trismegistos.org/place/26246)  
+
+### alignments:
+ - [Osset](https://pleiades.stoa.org/places/256344)
 
 
 ## GEO ID 26248: Italica (Santiponce)

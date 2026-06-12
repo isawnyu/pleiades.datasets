@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5029 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
+5032 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -5780,6 +5780,13 @@
 
 ### alignments:
  - [Baesippo](https://pleiades.stoa.org/places/256007)
+
+
+## Baesuris/Aesuris/Esuris (Lusitania)
+[https://topostext.org/place/372000UBae](https://topostext.org/place/372000UBae)  
+
+### alignments:
+ - [(B)Aesuris/Esuris](https://pleiades.stoa.org/places/256008)
 
 
 ## Baetica region (Hispania)
@@ -31348,6 +31355,13 @@
  - [Tabai](https://pleiades.stoa.org/places/639125)
 
 
+## Tagus river (Lusitania)
+[https://topostext.org/place/390-89WTag](https://topostext.org/place/390-89WTag)  
+
+### alignments:
+ - [Tagus (river)](https://pleiades.stoa.org/places/256463)
+
+
 ## Tainaron (Lakonia)
 [https://topostext.org/place/364225STai](https://topostext.org/place/364225STai)  
 
@@ -34295,6 +34309,13 @@
 
 ### alignments:
  - [Veni](https://pleiades.stoa.org/places/590088)
+
+
+## Venice (Adriatic)
+[https://topostext.org/place/454123PVen](https://topostext.org/place/454123PVen)  
+
+### alignments:
+ - [Venice](https://pleiades.stoa.org/places/818739154)
 
 
 ## Venta Belgarum (Britannia)

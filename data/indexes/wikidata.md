@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10860 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
+10869 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1416,6 +1416,13 @@
 
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+
+
+## ager Volaterranus (Q140105992)
+[https://www.wikidata.org/wiki/Q140105992](https://www.wikidata.org/wiki/Q140105992)  
+
+### alignments:
+ - [ager Volaterranus](https://pleiades.stoa.org/places/477378516)
 
 
 ## Aggar (Q133889141)
@@ -4696,6 +4703,13 @@
  - [Aquae Sulis](https://pleiades.stoa.org/places/79299)
 
 
+## Aqueduct from Gorze to Metz (Q2563830)
+[https://www.wikidata.org/wiki/Q2563830](https://www.wikidata.org/wiki/Q2563830)  
+
+### alignments:
+ - [Roman Aqueduct from Gorze to Metz](https://pleiades.stoa.org/places/882076326)
+
+
 ## Aqueduct of the Gier (Q3067)
 [https://www.wikidata.org/wiki/Q3067](https://www.wikidata.org/wiki/Q3067)  
 
@@ -5520,13 +5534,6 @@
 
 ### alignments:
  - [Argithea](https://pleiades.stoa.org/places/540658)
-
-
-## Argo's house (Q16537494)
-[https://www.wikidata.org/wiki/Q16537494](https://www.wikidata.org/wiki/Q16537494)  
-
-### alignments:
- - [House of Argus](https://pleiades.stoa.org/places/77858278)
 
 
 ## Argolid Peninsula (Q25044670)
@@ -6921,6 +6928,13 @@
 
 ### alignments:
  - [Ausones](https://pleiades.stoa.org/places/438689)
+
+
+## Aussières (Samian Ware Discovery Site) (Q103143963)
+[https://www.wikidata.org/wiki/Q103143963](https://www.wikidata.org/wiki/Q103143963)  
+
+### alignments:
+ - [Aussières](https://pleiades.stoa.org/places/376548595)
 
 
 ## Austicula (Q139905483)
@@ -10186,6 +10200,13 @@
  - [Broch of Mousa](https://pleiades.stoa.org/places/6525101)
 
 
+## Brodiontii (Q2908389)
+[https://www.wikidata.org/wiki/Q2908389](https://www.wikidata.org/wiki/Q2908389)  
+
+### alignments:
+ - [Bodiontici](https://pleiades.stoa.org/places/157822)
+
+
 ## Broomholm, Roman fort (Q56667012)
 [https://www.wikidata.org/wiki/Q56667012](https://www.wikidata.org/wiki/Q56667012)  
 
@@ -10635,33 +10656,10 @@
 
 
 ## Cabo da Roca (Q169175)
-[https://www.wikidata.org/](https://www.wikidata.org/)  
+[https://www.wikidata.org/wiki/Q169175](https://www.wikidata.org/wiki/Q169175)  
 
 ### alignments:
- - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
- - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
- - [Cholleidai](https://pleiades.stoa.org/places/585901)
- - [Eduranna](https://pleiades.stoa.org/places/175425813)
- - [Euchaita](https://pleiades.stoa.org/places/857120)
- - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
- - [Girmua](https://pleiades.stoa.org/places/248782116)
- - [Granicus (river)](https://pleiades.stoa.org/places/511260)
- - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
- - [Macael](https://pleiades.stoa.org/places/265957)
  - [Magnum (promontory)](https://pleiades.stoa.org/places/256282)
- - [Marad](https://pleiades.stoa.org/places/912901)
- - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
- - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
- - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
- - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
- - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
- - [Side](https://pleiades.stoa.org/places/570669)
- - [Siriopaiones](https://pleiades.stoa.org/places/501614)
- - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
- - [Tassiesholm](https://pleiades.stoa.org/places/292892276)
- - [Via Francigena](https://pleiades.stoa.org/places/136661131)
- - [Yaat](https://pleiades.stoa.org/places/668398)
- - [Çatıören](https://pleiades.stoa.org/places/779964391)
 
 
 ## Cabo Espichel (Q63378387)
@@ -24801,6 +24799,13 @@
  - [Domus of A. Octavius Primus](https://pleiades.stoa.org/places/242335383)
 
 
+## House of Argus (Q16537494)
+[https://www.wikidata.org/wiki/Q16537494](https://www.wikidata.org/wiki/Q16537494)  
+
+### alignments:
+ - [House of Argus](https://pleiades.stoa.org/places/77858278)
+
+
 ## House of Aufidia Cornelia Valentinilla (Q96757985)
 [https://www.wikidata.org/wiki/Q96757985](https://www.wikidata.org/wiki/Q96757985)  
 
@@ -29151,6 +29156,13 @@
  - [Lago dell'Accesa (lake)](https://pleiades.stoa.org/places/532675709)
 
 
+## Lago di Bientina (Q3825910)
+[https://www.wikidata.org/wiki/Q3825910](https://www.wikidata.org/wiki/Q3825910)  
+
+### alignments:
+ - [Lago di Biéntina](https://pleiades.stoa.org/places/553386318)
+
+
 ## Lago di Burano (Q3825918)
 [https://www.wikidata.org/wiki/Q3825918](https://www.wikidata.org/wiki/Q3825918)  
 
@@ -31368,6 +31380,35 @@
 
 ### alignments:
  - [Macae](https://pleiades.stoa.org/places/344428)
+
+
+## Macael (Q1161455)
+[https://www.wikidata.org/](https://www.wikidata.org/)  
+
+### alignments:
+ - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
+ - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
+ - [Cholleidai](https://pleiades.stoa.org/places/585901)
+ - [Eduranna](https://pleiades.stoa.org/places/175425813)
+ - [Euchaita](https://pleiades.stoa.org/places/857120)
+ - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
+ - [Girmua](https://pleiades.stoa.org/places/248782116)
+ - [Granicus (river)](https://pleiades.stoa.org/places/511260)
+ - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+ - [Macael](https://pleiades.stoa.org/places/265957)
+ - [Marad](https://pleiades.stoa.org/places/912901)
+ - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
+ - [Qaşr Qaddās](https://pleiades.stoa.org/places/344509)
+ - [Regio VII, Pompeii](https://pleiades.stoa.org/places/599902893)
+ - [Roman Odeon of Gortyn](https://pleiades.stoa.org/places/481346137)
+ - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
+ - [Side](https://pleiades.stoa.org/places/570669)
+ - [Siriopaiones](https://pleiades.stoa.org/places/501614)
+ - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
+ - [Tassiesholm](https://pleiades.stoa.org/places/292892276)
+ - [Via Francigena](https://pleiades.stoa.org/places/136661131)
+ - [Yaat](https://pleiades.stoa.org/places/668398)
+ - [Çatıören](https://pleiades.stoa.org/places/779964391)
 
 
 ## Macareae (Q11934483)
@@ -38366,6 +38407,13 @@
  - [Tetellus](https://pleiades.stoa.org/places/383797)
 
 
+## Osset (Q111536311)
+[https://www.wikidata.org/wiki/Q111536311](https://www.wikidata.org/wiki/Q111536311)  
+
+### alignments:
+ - [Osset](https://pleiades.stoa.org/places/256344)
+
+
 ## Ossonoba (Q6565811)
 [https://www.wikidata.org/wiki/Q6565811](https://www.wikidata.org/wiki/Q6565811)  
 
@@ -40072,6 +40120,13 @@
 
 ### alignments:
  - [Peuma(ta)](https://pleiades.stoa.org/places/541030)
+
+
+## Peyrestortes (Samian Ware Discovery Site) (Q103189417)
+[https://www.wikidata.org/wiki/Q103189417](https://www.wikidata.org/wiki/Q103189417)  
+
+### alignments:
+ - [Peyrestortes](https://pleiades.stoa.org/places/812093845)
 
 
 ## Pezza Petrosa (Q3901214)
@@ -46349,13 +46404,6 @@
 
 ### alignments:
  - [Tell Mureybet](https://pleiades.stoa.org/places/10236664)
-
-
-## Q14294: Tagus river
-[https://www.wikidata.org/wiki/Q14294](https://www.wikidata.org/wiki/Q14294)  
-
-### alignments:
- - [Tagus (river)](https://pleiades.stoa.org/places/256463)
 
 
 ## Q1431121: St Michael's Mount
@@ -66160,6 +66208,13 @@
  - [Tag'lit](https://pleiades.stoa.org/places/354153)
 
 
+## Tagus river (Q14294)
+[https://www.wikidata.org/wiki/Q14294](https://www.wikidata.org/wiki/Q14294)  
+
+### alignments:
+ - [Tagus (river)](https://pleiades.stoa.org/places/256463)
+
+
 ## Tahpanhes (Q1810451)
 [https://www.wikidata.org/wiki/Q1810451](https://www.wikidata.org/wiki/Q1810451)  
 
@@ -68499,6 +68554,13 @@
 
 ### alignments:
  - [Tavium Theater](https://pleiades.stoa.org/places/154948553)
+
+
+## Theatre of Aigeira (Q17354418)
+[https://www.wikidata.org/wiki/Q17354418](https://www.wikidata.org/wiki/Q17354418)  
+
+### alignments:
+ - [Theater of Aigeira](https://pleiades.stoa.org/places/686869856)
 
 
 ## Theatre of Ammaedara (Q42760097)

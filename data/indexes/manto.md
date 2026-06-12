@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1074 alignments exist in _Pleiades_ place references as of 2026-06-11. The following list of alignments is grouped by zotkey.
+1077 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3572,6 +3572,13 @@
  - [Ap(p)enninus M.](https://pleiades.stoa.org/places/815)
 
 
+## 11309769: River Tagus (Iberia)
+[https://resource.manto.unh.edu/11309769](https://resource.manto.unh.edu/11309769)  
+
+### alignments:
+ - [Tagus (river)](https://pleiades.stoa.org/places/256463)
+
+
 ## 11309770: River Rhine
 [https://resource.manto.unh.edu/11309770](https://resource.manto.unh.edu/11309770)  
 
@@ -4224,6 +4231,13 @@
  - [House of the Bicentenary](https://pleiades.stoa.org/places/756480383)
 
 
+## 11319304: House of Argos II 2 (Herculaneum)
+[https://resource.manto.unh.edu/11319304](https://resource.manto.unh.edu/11319304)  
+
+### alignments:
+ - [House of Argus](https://pleiades.stoa.org/places/77858278)
+
+
 ## 11319631: Ostia (Latium)
 [https://resource.manto.unh.edu/11319631](https://resource.manto.unh.edu/11319631)  
 
@@ -4348,6 +4362,13 @@
 
 ### alignments:
  - [Tibur](https://pleiades.stoa.org/places/423081)
+
+
+## 11321275 Praeneste (Italy)
+[https://resource.manto.unh.edu/11321275](https://resource.manto.unh.edu/11321275)  
+
+### alignments:
+ - [Praeneste](https://pleiades.stoa.org/places/423013)
 
 
 ## 11321276: Gabii (Italy)
