@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1077 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
+1078 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3851,6 +3851,13 @@
 
 ### alignments:
  - [Silvium](https://pleiades.stoa.org/places/442796)
+
+
+## 11312692: Capua (Italy)
+[https://resource.manto.unh.edu/11312692](https://resource.manto.unh.edu/11312692)  
+
+### alignments:
+ - [Capua](https://pleiades.stoa.org/places/432754)
 
 
 ## 11312703: Nola (Italy)

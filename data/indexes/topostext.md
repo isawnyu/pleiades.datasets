@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5032 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
+5039 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -1149,6 +1149,13 @@
 
 ### alignments:
  - [Agryle Kathyperthen](https://pleiades.stoa.org/places/579849)
+
+
+## Aguntum (Alos)
+[https://topostext.org/place/468128UAgu](https://topostext.org/place/468128UAgu)  
+
+### alignments:
+ - [Aguntum](https://pleiades.stoa.org/places/187265)
 
 
 ## Agylla/Caere (Italy) 60 Cerveteri - Άγυλλα
@@ -5817,6 +5824,13 @@
  - [Bagacum](https://pleiades.stoa.org/places/108788)
 
 
+## Bagradas river (Libya)
+[https://topostext.org/place/370100WBag](https://topostext.org/place/370100WBag)  
+
+### alignments:
+ - [Bagrada (river)](https://pleiades.stoa.org/places/314899)
+
+
 ## Baiae (Italy)
 [https://topostext.org/place/408141PBai](https://topostext.org/place/408141PBai)  
 
@@ -8346,6 +8360,13 @@
  - [Combretovium](https://pleiades.stoa.org/places/79399)
 
 
+## Commagene region (Asia)
+[https://topostext.org/place/380387RCom](https://topostext.org/place/380387RCom)  
+
+### alignments:
+ - [Commagene](https://pleiades.stoa.org/places/658443)
+
+
 ## Complutum (Iberia)
 [https://topostext.org/place/405000UCom](https://topostext.org/place/405000UCom)  
 
@@ -9242,6 +9263,13 @@
 
 ### alignments:
  - [Didymoi](https://pleiades.stoa.org/places/570196)
+
+
+## Difesa San Biagio (Lucania)
+[https://topostext.org/place/405166XDIF](https://topostext.org/place/405166XDIF)  
+
+### alignments:
+ - [Difesa S. Biagio](https://pleiades.stoa.org/places/442565)
 
 
 ## Dikaia (Chalkidike) 11 Nea Kallikrateia - Δίκαια
@@ -26161,6 +26189,13 @@
  - [Pialeia](https://pleiades.stoa.org/places/541060)
 
 
+## Piantarella Roman villa (Corsica)
+[https://topostext.org/place/414092BPia](https://topostext.org/place/414092BPia)  
+
+### alignments:
+ - [Piantarella](https://pleiades.stoa.org/places/472113)
+
+
 ## Piazza Armerina villa mosaics (Sicily) Casale - Πιάτσα Αρμερίνα
 [https://topostext.org/place/374143BPAr](https://topostext.org/place/374143BPAr)  
 
@@ -32988,6 +33023,13 @@
  - [Tigris/Diglitus (river)](https://pleiades.stoa.org/places/912964)
 
 
+## Tiliaventum (Italia)
+[https://topostext.org/place/456131WTag](https://topostext.org/place/456131WTag)  
+
+### alignments:
+ - [Tiliaventum (river)](https://pleiades.stoa.org/places/187585)
+
+
 ## Tilphosaion (Boeotia)
 [https://topostext.org/place/384230FTil](https://topostext.org/place/384230FTil)  
 
@@ -34211,6 +34253,13 @@
 
 ### alignments:
  - [Vatican Obelisk](https://pleiades.stoa.org/places/855632226)
+
+
+## Vatrenus river (Italia)
+[https://topostext.org/place/443116WVat](https://topostext.org/place/443116WVat)  
+
+### alignments:
+ - [Vatrenus (river)](https://pleiades.stoa.org/places/393510)
 
 
 ## Vatsa (Kefallenia)  Agios Nikolaos - Βάτσα

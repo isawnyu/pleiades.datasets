@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5104 alignments exist in _Pleiades_ place references as of 2026-06-12. The following list of alignments is grouped by zotkey.
+5108 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -549,13 +549,6 @@
 
 ### alignments:
  - [Doliche](https://pleiades.stoa.org/places/658455)
-
-
-## Geo 16769: Nemrud Dağ
-[https://www.trismegistos.org/place/16769](https://www.trismegistos.org/place/16769)  
-
-### alignments:
- - [Nemrut Dağ](https://pleiades.stoa.org/places/658544)
 
 
 ## Geo 1694: Perinthos (Ereğli)
@@ -6652,7 +6645,6 @@
  - [Argithea](https://pleiades.stoa.org/places/540658)
  - [Astron](https://pleiades.stoa.org/places/570134)
  - [Blanda](https://pleiades.stoa.org/places/452274)
- - [Caput Bubali](https://pleiades.stoa.org/places/207009)
  - [Curiga](https://pleiades.stoa.org/places/256147)
  - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
  - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
@@ -7375,6 +7367,13 @@
  - [Oreini](https://pleiades.stoa.org/places/501540)
 
 
+## GEO ID 16059
+[http://www.trismegistos.org/place/16059](http://www.trismegistos.org/place/16059)  
+
+### alignments:
+ - [Transdierna](https://pleiades.stoa.org/places/207508)
+
+
 ## GEO ID 16073: Priansos (Kastellos)
 [https://www.trismegistos.org/place/16073](https://www.trismegistos.org/place/16073)  
 
@@ -8081,6 +8080,13 @@
 
 ### alignments:
  - [Phaine](https://pleiades.stoa.org/places/678328)
+
+
+## GEO ID 16769: Nemrud Dağ
+[https://www.trismegistos.org/place/16769](https://www.trismegistos.org/place/16769)  
+
+### alignments:
+ - [Nemrut Dağ](https://pleiades.stoa.org/places/658544)
 
 
 ## GEO ID 16803: Iabrouda (Yabrud)
@@ -17468,6 +17474,13 @@
  - [Hibernia](https://pleiades.stoa.org/places/20487)
 
 
+## GEO ID 32535: Giffoni Valle Piana
+[https://www.trismegistos.org/place/32535](https://www.trismegistos.org/place/32535)  
+
+### alignments:
+ - [Giffoni Valle Piana](https://pleiades.stoa.org/places/442600)
+
+
 ## GEO ID 32536: Vietri sul Mare
 [http://www.trismegistos.org/place/32536](http://www.trismegistos.org/place/32536)  
 
@@ -22776,6 +22789,13 @@
  - [Anneianum](https://pleiades.stoa.org/places/397887)
 
 
+## GEO ID 40742
+[http://www.trismegistos.org/place/40742](http://www.trismegistos.org/place/40742)  
+
+### alignments:
+ - [Vicus Serninus](https://pleiades.stoa.org/places/393515)
+
+
 ## GEO ID 40744: Castellum (Marradi)
 [http://www.trismegistos.org/place/40744](http://www.trismegistos.org/place/40744)  
 
@@ -24160,6 +24180,13 @@
 
 ### alignments:
  - [‘Aizisis’](https://pleiades.stoa.org/places/206899)
+
+
+## GEO ID 41326: Caput Bubali (Cornuţel)
+[https://www.trismegistos.org/place/41326](https://www.trismegistos.org/place/41326)  
+
+### alignments:
+ - [Caput Bubali](https://pleiades.stoa.org/places/207009)
 
 
 ## GEO ID 41331: Remetodia (Orsoya)
