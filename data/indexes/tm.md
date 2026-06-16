@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5108 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
+5110 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -915,6 +915,13 @@
 
 ### alignments:
  - [Castra Albana](https://pleiades.stoa.org/places/422885)
+
+
+## Geo 32579: Ad Rotas (Monteroduni)
+[https://www.trismegistos.org/place/32579](https://www.trismegistos.org/place/32579)  
+
+### alignments:
+ - [Ad Rotas/Rotae](https://pleiades.stoa.org/places/432635)
 
 
 ## Geo 32729: Statulae (Goriano Sicoli)
@@ -11205,6 +11212,13 @@
  - [Nemus Sorabense/Sorabile](https://pleiades.stoa.org/places/471978)
 
 
+## GEO ID 22166: Hafa (Mores)
+[http://www.trismegistos.org/place/22166](http://www.trismegistos.org/place/22166)  
+
+### alignments:
+ - [Hafa?](https://pleiades.stoa.org/places/471941)
+
+
 ## GEO ID 22167: Olbia
 [http://www.trismegistos.org/place/22167](http://www.trismegistos.org/place/22167)  
 
@@ -17549,13 +17563,6 @@
 
 ### alignments:
  - [Varia](https://pleiades.stoa.org/places/423115)
-
-
-## GEO ID 32579: Ad Rotas (Monteroduni)
-[http://www.trismegistos.org/place/32579](http://www.trismegistos.org/place/32579)  
-
-### alignments:
- - [Ad Rotas/Rotae](https://pleiades.stoa.org/places/432635)
 
 
 ## GEO ID 3257: Aquae Granni (Aachen)
@@ -28612,6 +28619,13 @@
 
 ### alignments:
  - [Caramantesium Vicus](https://pleiades.stoa.org/places/211422)
+
+
+## GEO ID 43416: Beronicenses
+[http://www.trismegistos.org/place/43416](http://www.trismegistos.org/place/43416)  
+
+### alignments:
+ - [Beronicenses](https://pleiades.stoa.org/places/471892)
 
 
 ## GEO ID 43421: Tagus (Tejo)

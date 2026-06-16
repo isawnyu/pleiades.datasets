@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10895 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
+10901 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -20581,6 +20581,13 @@
  - [Fern Pass](https://pleiades.stoa.org/places/191776)
 
 
+## Feronia (Q5445194)
+[https://www.wikidata.org/wiki/Q5445194](https://www.wikidata.org/wiki/Q5445194)  
+
+### alignments:
+ - [Pheronia](https://pleiades.stoa.org/places/471995)
+
+
 ## Fescennia (Q2314058)
 [https://www.wikidata.org/wiki/Q2314058](https://www.wikidata.org/wiki/Q2314058)  
 
@@ -32286,6 +32293,13 @@
  - [Maries](https://pleiades.stoa.org/places/501506)
 
 
+## Marina di Palo Roman villa (Q140238729)
+[https://www.wikidata.org/wiki/Q140238729](https://www.wikidata.org/wiki/Q140238729)  
+
+### alignments:
+ - [Marina di Palo Roman villa ](https://pleiades.stoa.org/places/584868519)
+
+
 ## Marina, Egypt (Q778942)
 [https://www.wikidata.org/wiki/Q778942](https://www.wikidata.org/wiki/Q778942)  
 
@@ -37938,6 +37952,13 @@
  - [Olbasa/Col. Iulia Augusta](https://pleiades.stoa.org/places/639015)
 
 
+## Olbia (Q13630)
+[https://www.wikidata.org/wiki/Q13630](https://www.wikidata.org/wiki/Q13630)  
+
+### alignments:
+ - [Olbia](https://pleiades.stoa.org/places/471987)
+
+
 ## Olcinium (Q21095202)
 [https://www.wikidata.org/wiki/Q21095202](https://www.wikidata.org/wiki/Q21095202)  
 
@@ -38601,6 +38622,13 @@
 
 ### alignments:
  - [Ostrovany](https://pleiades.stoa.org/places/128482)
+
+
+## Othoca (Q15837846)
+[https://www.wikidata.org/wiki/Q15837846](https://www.wikidata.org/wiki/Q15837846)  
+
+### alignments:
+ - [Othoca](https://pleiades.stoa.org/places/471988)
 
 
 ## Otranto (Q52174)
@@ -41185,6 +41213,13 @@
 
 ### alignments:
  - [Plinth in D Street Outside The Temple of Artemis Azzanthkona](https://pleiades.stoa.org/places/888638048)
+
+
+## Ploaghe (Samian Ware Discovery Site) (Q103189807)
+[https://www.wikidata.org/wiki/Q103189807](https://www.wikidata.org/wiki/Q103189807)  
+
+### alignments:
+ - [Ploaghe](https://pleiades.stoa.org/places/471997)
 
 
 ## Plotinopolis (Q11942094)
@@ -48859,13 +48894,6 @@
  - [Zeugma](https://pleiades.stoa.org/places/658636)
 
 
-## Q197019: Temple of Zeus in Olympia
-[https://www.wikidata.org/wiki/Q197019](https://www.wikidata.org/wiki/Q197019)  
-
-### alignments:
- - [Temple of Zeus at Olympia](https://pleiades.stoa.org/places/316294900)
-
-
 ## Q1970689: Porta Trigemina
 [https://www.wikidata.org/wiki/Q1970689](https://www.wikidata.org/wiki/Q1970689)  
 
@@ -53776,7 +53804,7 @@
 [https://www.wikidata.org/wiki/Q4277572](https://www.wikidata.org/wiki/Q4277572)  
 
 ### alignments:
- - [Tulūl Yassir](https://pleiades.stoa.org/places/656796826)
+ - [Tell Yassir](https://pleiades.stoa.org/places/656796826)
 
 
 ## Q42853237: Tadinae
@@ -54219,13 +54247,6 @@
 
 ### alignments:
  - [Anastasian Wall](https://pleiades.stoa.org/places/514912)
-
-
-## Q48740865: Villa of Diomedes
-[https://www.wikidata.org/wiki/Q48740865](https://www.wikidata.org/wiki/Q48740865)  
-
-### alignments:
- - [Villa of Diomedes](https://pleiades.stoa.org/places/142165735)
 
 
 ## Q487614: Dūr-Katlimmu
@@ -68150,6 +68171,13 @@
  - [Temple of Zeus at Phaleron](https://pleiades.stoa.org/places/457406454)
 
 
+## Temple of Zeus in Olympia (Q197019)
+[https://www.wikidata.org/wiki/Q197019](https://www.wikidata.org/wiki/Q197019)  
+
+### alignments:
+ - [Temple of Zeus at Olympia](https://pleiades.stoa.org/places/316294900)
+
+
 ## Temple of Zeus Kyrios/Baal-Shamin (Q38199291)
 [https://www.wikidata.org/wiki/Q38199291](https://www.wikidata.org/wiki/Q38199291)  
 
@@ -73422,6 +73450,13 @@
  - [*Via Curia](https://pleiades.stoa.org/places/358077243)
 
 
+## Via della Fortuna (Pompeii) (Q114030841)
+[https://www.wikidata.org/wiki/Q114030841](https://www.wikidata.org/wiki/Q114030841)  
+
+### alignments:
+ - [Via della Fortuna](https://pleiades.stoa.org/places/924546513)
+
+
 ## Via Domitia (Q1146645)
 [https://www.wikidata.org/wiki/Q1146645](https://www.wikidata.org/wiki/Q1146645)  
 
@@ -74094,6 +74129,13 @@
 
 ### alignments:
  - [Cassio](https://pleiades.stoa.org/places/422879)
+
+
+## Villa of Diomedes (Q2525951)
+[https://www.wikidata.org/wiki/Q2525951](https://www.wikidata.org/wiki/Q2525951)  
+
+### alignments:
+ - [Villa of Diomedes](https://pleiades.stoa.org/places/142165735)
 
 
 ## Villa of Furius Octavianus (Q133730319)

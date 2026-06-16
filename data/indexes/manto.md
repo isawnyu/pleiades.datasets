@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1078 alignments exist in _Pleiades_ place references as of 2026-06-15. The following list of alignments is grouped by zotkey.
+1084 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1710,6 +1710,13 @@
  - [Palatinus Mons](https://pleiades.stoa.org/places/971691208)
 
 
+## 10217933: the Sanctuary of Zeus at Olympia
+[https://resource.manto.unh.edu/10217933](https://resource.manto.unh.edu/10217933)  
+
+### alignments:
+ - [Temple of Zeus at Olympia](https://pleiades.stoa.org/places/316294900)
+
+
 ## 10217935: the Epidamnian Treasuries (Olympia)
 [https://resource.manto.unh.edu/10217935](https://resource.manto.unh.edu/10217935)  
 
@@ -2947,6 +2954,13 @@
 
 ### alignments:
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
+
+
+## 11300906: Cherronesos (Libya)
+[https://resource.manto.unh.edu/11300906](https://resource.manto.unh.edu/11300906)  
+
+### alignments:
+ - [Cherronesos](https://pleiades.stoa.org/places/373770)
 
 
 ## 11300920: Myrine (Mysia)
@@ -4287,6 +4301,27 @@
  - [Ara Maxima Herculis](https://pleiades.stoa.org/places/207271757)
 
 
+## 11319954: Via della Fortuna (Pompeii)
+[https://resource.manto.unh.edu/11319954](https://resource.manto.unh.edu/11319954)  
+
+### alignments:
+ - [Via della Fortuna](https://pleiades.stoa.org/places/924546513)
+
+
+## 11319974: Villa di Diomede (Pompeii)
+[https://resource.manto.unh.edu/11319974](https://resource.manto.unh.edu/11319974)  
+
+### alignments:
+ - [Villa of Diomedes](https://pleiades.stoa.org/places/142165735)
+
+
+## 11319978: Casa della Gemma I, 1 (Herculaneum)
+[https://resource.manto.unh.edu/11319978](https://resource.manto.unh.edu/11319978)  
+
+### alignments:
+ - [House of the Gem](https://pleiades.stoa.org/places/757666490)
+
+
 ## 11319984: Oplontis (Campania)
 [https://resource.manto.unh.edu/11319984](https://resource.manto.unh.edu/11319984)  
 
@@ -4964,6 +4999,13 @@
 
 ### alignments:
  - [Hermion(e)](https://pleiades.stoa.org/places/570292)
+
+
+## 11334321: Alsium (Italy)
+[https://resource.manto.unh.edu/11334321](https://resource.manto.unh.edu/11334321)  
+
+### alignments:
+ - [Alsium](https://pleiades.stoa.org/places/422831)
 
 
 ## 8188000: Charybdis
