@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5110 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
+5110 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -824,6 +824,13 @@
 
 ### alignments:
  - [Thespiai](https://pleiades.stoa.org/places/541141)
+
+
+## Geo 2773: El-Salamuni
+[https://www.trismegistos.org/place/2773](https://www.trismegistos.org/place/2773)  
+
+### alignments:
+ - [Psinemoun](https://pleiades.stoa.org/places/756629)
 
 
 ## Geo 2794: Klysma (Qulzum)
@@ -2107,6 +2114,13 @@
 
 ### alignments:
  - [Anastasia](https://pleiades.stoa.org/places/674219)
+
+
+## Geo 52834: Nelkomia (El-Mushennef)
+[https://www.trismegistos.org/place/52834](https://www.trismegistos.org/place/52834)  
+
+### alignments:
+ - [Nelkomia/Neela?](https://pleiades.stoa.org/places/678305)
 
 
 ## Geo 52968: Umm Esh
@@ -13976,13 +13990,6 @@
 
 ### alignments:
  - [Porphyrites (mountain)](https://pleiades.stoa.org/places/766391)
-
-
-## GEO ID 2773: El-Salamuni
-[http://www.trismegistos.org/place/2773](http://www.trismegistos.org/place/2773)  
-
-### alignments:
- - [Psinemoun](https://pleiades.stoa.org/places/756629)
 
 
 ## GEO ID 2774: Antinoopolis (El-Sheikh Ibada)
@@ -31598,13 +31605,6 @@
 
 ### alignments:
  - [Castell Collen](https://pleiades.stoa.org/places/79378)
-
-
-## GEO ID 52834: Nelkomia (El-Mushennef)
-[https://www.trismegistos.org/place/52834](https://www.trismegistos.org/place/52834)  
-
-### alignments:
- - [Nelkomia/Neela?](https://pleiades.stoa.org/places/678305)
 
 
 ## GEO ID 52835: Pistyros

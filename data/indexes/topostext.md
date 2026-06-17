@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5039 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
+5039 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -13121,7 +13121,7 @@
  - [Helisson (river in modern Megalopoli)](https://pleiades.stoa.org/places/570284)
 
 
-## Helisson R. (Korinthia) 4 Elisson R. - Ελισσώνας
+## Helisson R. (Korinthia) 3 Elisson R.
 [https://topostext.org/place/380227WHel](https://topostext.org/place/380227WHel)  
 
 ### alignments:

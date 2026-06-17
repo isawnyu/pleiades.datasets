@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10901 alignments exist in _Pleiades_ place references as of 2026-06-16. The following list of alignments is grouped by zotkey.
+10902 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12508,6 +12508,13 @@
 
 ### alignments:
  - [Castello D'Evoli](https://pleiades.stoa.org/places/799567350)
+
+
+## Castello di Capalbiaccio (Q3662528)
+[https://www.wikidata.org/wiki/Q3662528](https://www.wikidata.org/wiki/Q3662528)  
+
+### alignments:
+ - [Capalbiaccio Tricosto](https://pleiades.stoa.org/places/117215971)
 
 
 ## Castello di Decima (Rome) (Q16538082)
@@ -42391,6 +42398,13 @@
  - [Portus Maurici](https://pleiades.stoa.org/places/157908)
 
 
+## Porto Pisano (Q3909173)
+[https://www.wikidata.org/wiki/Q3909173](https://www.wikidata.org/wiki/Q3909173)  
+
+### alignments:
+ - [Portus Pisanus?](https://pleiades.stoa.org/places/403261)
+
+
 ## Porto Recanati (Q83355)
 [https://www.wikidata.org/wiki/Q83355](https://www.wikidata.org/wiki/Q83355)  
 
@@ -53237,13 +53251,6 @@
 
 ### alignments:
  - [Porta Rosa](https://pleiades.stoa.org/places/271500627)
-
-
-## Q3909173: Porto Pisano
-[https://www.wikidata.org/wiki/Q3909173](https://www.wikidata.org/wiki/Q3909173)  
-
-### alignments:
- - [Portus Pisanus?](https://pleiades.stoa.org/places/403261)
 
 
 ## Q392725: Shuruppak
