@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5039 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
+5042 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -2889,7 +2889,7 @@
  - [Antemnae](https://pleiades.stoa.org/places/422836)
 
 
-## Anthana/Thyrea? (Arkadia)
+## Anthana/Thyrea? (Arkadia) 8 Paralia Ag. Andreas
 [https://topostext.org/place/374228HAnt](https://topostext.org/place/374228HAnt)  
 
 ### alignments:
@@ -11622,6 +11622,13 @@
  - [Florentia](https://pleiades.stoa.org/places/413138)
 
 
+## Florentiola/Florentia (Italia)
+[https://topostext.org/place/449099UFlo](https://topostext.org/place/449099UFlo)  
+
+### alignments:
+ - [Florenti(ol)a](https://pleiades.stoa.org/places/383649)
+
+
 ## Formiae (Latium)
 [https://topostext.org/place/413136UFor](https://topostext.org/place/413136UFor)  
 
@@ -11690,6 +11697,13 @@
 
 ### alignments:
  - [Forum Domitii](https://pleiades.stoa.org/places/148081)
+
+
+## Forum Fulvii (Liguria)
+[https://topostext.org/place/450086UFor](https://topostext.org/place/450086UFor)  
+
+### alignments:
+ - [Forum Fulvii Valentinum](https://pleiades.stoa.org/places/383651)
 
 
 ## Forum Holitorium (Rome)
@@ -34484,6 +34498,13 @@
 
 ### alignments:
  - [Vatl/Vetulonia](https://pleiades.stoa.org/places/403291)
+
+
+## Via Aemilia (Italia)
+[https://topostext.org/place/445113BVAe](https://topostext.org/place/445113BVAe)  
+
+### alignments:
+ - [Via Aemilia](https://pleiades.stoa.org/places/66908841)
 
 
 ## Via Aemiliana (Italia)

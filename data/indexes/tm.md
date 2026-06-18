@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5110 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
+5112 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1674,6 +1674,13 @@
  - [Bethar](https://pleiades.stoa.org/places/687851)
 
 
+## Geo 3823: Bida (Djemaa Saharidj)
+[https://www.trismegistos.org/place/3823](https://www.trismegistos.org/place/3823)  
+
+### alignments:
+ - [Bida](https://pleiades.stoa.org/places/295228)
+
+
 ## Geo 38502: Suebi
 [https://www.trismegistos.org/place/38502](https://www.trismegistos.org/place/38502)  
 
@@ -1714,6 +1721,13 @@
 
 ### alignments:
  - [Ariaratheia](https://pleiades.stoa.org/places/628934)
+
+
+## Geo 40712: Ad Salices
+[https://www.trismegistos.org/place/40712](https://www.trismegistos.org/place/40712)  
+
+### alignments:
+ - [Ad Salices](https://pleiades.stoa.org/places/221973)
 
 
 ## Geo 40814: Respa
@@ -14735,6 +14749,13 @@
  - [Taampeti](https://pleiades.stoa.org/places/737060)
 
 
+## GEO ID 2906
+[http://www.trismegistos.org/place/2906](http://www.trismegistos.org/place/2906)  
+
+### alignments:
+ - [Tarouthinou](https://pleiades.stoa.org/places/741615)
+
+
 ## GEO ID 2909: Thmoinepsobthis
 [http://www.trismegistos.org/place/2909](http://www.trismegistos.org/place/2909)  
 
@@ -21436,13 +21457,6 @@
  - [Naulochos/Templum Iovis?](https://pleiades.stoa.org/places/216893)
 
 
-## GEO ID 3823: Bida (Djemaa Saharidj)
-[https://www.trismegistos.org/place/3823](https://www.trismegistos.org/place/3823)  
-
-### alignments:
- - [Bida](https://pleiades.stoa.org/places/295228)
-
-
 ## GEO ID 38244: Gorgippia (Anapa)
 [http://www.trismegistos.org/place/38244](http://www.trismegistos.org/place/38244)  
 
@@ -22768,13 +22782,6 @@
  - [Dorticum](https://pleiades.stoa.org/places/207093)
 
 
-## GEO ID 40712: Ad Salices
-[http://www.trismegistos.org/place/40712](http://www.trismegistos.org/place/40712)  
-
-### alignments:
- - [Ad Salices](https://pleiades.stoa.org/places/221973)
-
-
 ## GEO ID 40716: Tarpodizo (Kayova)
 [https://www.trismegistos.org/place/40716](https://www.trismegistos.org/place/40716)  
 
@@ -22803,7 +22810,14 @@
  - [Anneianum](https://pleiades.stoa.org/places/397887)
 
 
-## GEO ID 40742
+## GEO ID 40741: Vicus Varianus
+[https://www.trismegistos.org/place/40741](https://www.trismegistos.org/place/40741)  
+
+### alignments:
+ - [Vicus Varianus](https://pleiades.stoa.org/places/393516)
+
+
+## GEO ID 40742: Vicus Serninus
 [http://www.trismegistos.org/place/40742](http://www.trismegistos.org/place/40742)  
 
 ### alignments:

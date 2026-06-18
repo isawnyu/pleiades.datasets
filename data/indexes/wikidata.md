@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10902 alignments exist in _Pleiades_ place references as of 2026-06-17. The following list of alignments is grouped by zotkey.
+10904 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -22970,6 +22970,13 @@
 
 ### alignments:
  - [Tomba Campana](https://pleiades.stoa.org/places/302659740)
+
+
+## Grotta dei Massacci (Q55162252)
+[https://www.wikidata.org/wiki/Q55162252](https://www.wikidata.org/wiki/Q55162252)  
+
+### alignments:
+ - [Grotta dei Massacci](https://pleiades.stoa.org/places/524828266)
 
 
 ## Grotta della vipera (Q21192539)
@@ -66647,6 +66654,13 @@
 
 ### alignments:
  - [Tarentum](https://pleiades.stoa.org/places/890225769)
+
+
+## Taro (Q636608)
+[https://www.wikidata.org/wiki/Q636608](https://www.wikidata.org/wiki/Q636608)  
+
+### alignments:
+ - [Tarus (river)](https://pleiades.stoa.org/places/383793)
 
 
 ## Tarpeian Rock (Q752553)
