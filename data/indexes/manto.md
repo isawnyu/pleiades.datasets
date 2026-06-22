@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1084 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
+1089 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3811,6 +3811,13 @@
  - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
 
 
+## 11311968: Spina (Italy)
+[https://resource.manto.unh.edu/11311968](https://resource.manto.unh.edu/11311968)  
+
+### alignments:
+ - [Spina](https://pleiades.stoa.org/places/393498)
+
+
 ## 11312028: Amisos (Pontic)
 [https://resource.manto.unh.edu/11312028](https://resource.manto.unh.edu/11312028)  
 
@@ -3928,6 +3935,13 @@
 
 ### alignments:
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
+
+
+## 11313525: River Timavus (Italy)
+[https://resource.manto.unh.edu/11313525](https://resource.manto.unh.edu/11313525)  
+
+### alignments:
+ - [Timavus (river)](https://pleiades.stoa.org/places/187588)
 
 
 ## 11313545: Tarquinia (Italy)
@@ -4350,6 +4364,13 @@
  - [Nepet](https://pleiades.stoa.org/places/413224)
 
 
+## 11320294: Augustan Villa (Boscotrecase)
+[https://resource.manto.unh.edu/11320294](https://resource.manto.unh.edu/11320294)  
+
+### alignments:
+ - [Villa of Agrippa Postumus](https://pleiades.stoa.org/places/901742290)
+
+
 ## 11320302: Casa dell'Atrio a Mosaico IV, 1-2 (Herculaneum)
 [https://resource.manto.unh.edu/11320302](https://resource.manto.unh.edu/11320302)  
 
@@ -4390,6 +4411,13 @@
 
 ### alignments:
  - [Linos (promontory)](https://pleiades.stoa.org/places/456086)
+
+
+## 11320361: River Longanos (Sicily)
+[https://resource.manto.unh.edu/11320361](https://resource.manto.unh.edu/11320361)  
+
+### alignments:
+ - [Longanos (river)](https://pleiades.stoa.org/places/462288)
 
 
 ## 11320704
@@ -4992,6 +5020,13 @@
 
 ### alignments:
  - [Hyria (Cilicia)](https://pleiades.stoa.org/places/458576716)
+
+
+## 11332172: Tauromenium (Sicily)
+[https://resource.manto.unh.edu/11332172](https://resource.manto.unh.edu/11332172)  
+
+### alignments:
+ - [Tauromenium](https://pleiades.stoa.org/places/462506)
 
 
 ## 11334116: New Hermion (Argolid)
@@ -5671,7 +5706,7 @@
 [https://resource.manto.unh.edu/8253969](https://resource.manto.unh.edu/8253969)  
 
 ### alignments:
- - [Orchomenos/Orchomenus](https://pleiades.stoa.org/places/540987)
+ - [Orchomenos/Orchomenus (Boeotia)](https://pleiades.stoa.org/places/540987)
 
 
 ## 8253971: Nemea (Argolid)

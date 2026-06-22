@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5112 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
+5114 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13877,7 +13877,7 @@
 [https://www.trismegistos.org/place/2744](https://www.trismegistos.org/place/2744)  
 
 ### alignments:
- - [Orchomenos/Orchomenus](https://pleiades.stoa.org/places/540987)
+ - [Orchomenos/Orchomenus (Boeotia)](https://pleiades.stoa.org/places/540987)
 
 
 ## GEO ID 27479: Edeta (Liria)
@@ -18445,6 +18445,13 @@
 
 ### alignments:
  - [Quadrata](https://pleiades.stoa.org/places/383753)
+
+
+## GEO ID 33195
+[https://www.trismegistos.org/place/33195](https://www.trismegistos.org/place/33195)  
+
+### alignments:
+ - [Rigomagus](https://pleiades.stoa.org/places/383759)
 
 
 ## GEO ID 33196: Cuttiae (Cozzo)
@@ -29657,6 +29664,13 @@
 
 ### alignments:
  - [Ioventio Mons](https://pleiades.stoa.org/places/383679)
+
+
+## GEO ID 44863: Cavaturini
+[https://www.trismegistos.org/place/44863](https://www.trismegistos.org/place/44863)  
+
+### alignments:
+ - [Cavaturini](https://pleiades.stoa.org/places/328660748)
 
 
 ## GEO ID 44891: Porta Trigemina

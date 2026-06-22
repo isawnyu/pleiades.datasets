@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5042 alignments exist in _Pleiades_ place references as of 2026-06-18. The following list of alignments is grouped by zotkey.
+5049 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -8192,6 +8192,13 @@
  - [Clastidium](https://pleiades.stoa.org/places/383618)
 
 
+## Claternae (Italia)
+[https://topostext.org/place/444115UCla](https://topostext.org/place/444115UCla)  
+
+### alignments:
+ - [Claterna](https://pleiades.stoa.org/places/393405)
+
+
 ## Claudioseleucia/Seleucia Sidera (Anatolia) 2 Selef,Eğirdir
 [https://topostext.org/place/379306USel](https://topostext.org/place/379306USel)  
 
@@ -11753,6 +11760,13 @@
 
 ### alignments:
  - [Forum Popillii](https://pleiades.stoa.org/places/432843)
+
+
+## Forum Popilii (Italia)
+[https://topostext.org/place/442121UFor](https://topostext.org/place/442121UFor)  
+
+### alignments:
+ - [Forum Popilii](https://pleiades.stoa.org/places/393427)
 
 
 ## Forum Segusiavorum
@@ -22656,6 +22670,13 @@
  - [Noumenion/Hiera et Cepia? (islands)](https://pleiades.stoa.org/places/707589)
 
 
+## Novae (Moesia) 9 Svishtov - Νόβας
+[https://topostext.org/place/436254UNov](https://topostext.org/place/436254UNov)  
+
+### alignments:
+ - [Novae](https://pleiades.stoa.org/places/216899)
+
+
 ## Novaesium (Germania)
 [https://topostext.org/place/512067UNov](https://topostext.org/place/512067UNov)  
 
@@ -22943,7 +22964,7 @@
  - [Odigitria tholos cemetery](https://pleiades.stoa.org/places/685778973)
 
 
-## Odomantes tribe (Serres) 15 lower R. Strymon valley - Οδόμαντοι
+## Odomantes tribe (Serres) 16 lower R. Strymon valley
 [https://topostext.org/place/410236ROdo](https://topostext.org/place/410236ROdo)  
 
 ### alignments:
@@ -23529,7 +23550,7 @@
 [https://topostext.org/place/385230POrc](https://topostext.org/place/385230POrc)  
 
 ### alignments:
- - [Orchomenos/Orchomenus](https://pleiades.stoa.org/places/540987)
+ - [Orchomenos/Orchomenus (Boeotia)](https://pleiades.stoa.org/places/540987)
 
 
 ## Ordymnos Mt. (Lesbos)
@@ -27444,6 +27465,13 @@
  - [Arch of Gallienus](https://pleiades.stoa.org/places/29110684)
 
 
+## Porta Naevia (Rome)
+[https://topostext.org/place/419125FPna](https://topostext.org/place/419125FPna)  
+
+### alignments:
+ - [Porta Naevia](https://pleiades.stoa.org/places/37637607)
+
+
 ## Porta Nomentana (Rome)
 [https://topostext.org/place/419125FPNo](https://topostext.org/place/419125FPNo)  
 
@@ -28059,7 +28087,8 @@
 [https://topostext.org/place/386256IPsy](https://topostext.org/place/386256IPsy)  
 
 ### alignments:
- - [Psyra](https://pleiades.stoa.org/places/550845)
+ - [Psyra (island)](https://pleiades.stoa.org/places/550846)
+ - [Psyra (settlement)](https://pleiades.stoa.org/places/550845)
 
 
 ## Psyttaleia (Attica)
@@ -28652,6 +28681,13 @@
  - [Rigomagus](https://pleiades.stoa.org/places/167883)
 
 
+## Rigomagus (Transpadana)
+[https://topostext.org/place/452083URig](https://topostext.org/place/452083URig)  
+
+### alignments:
+ - [Rigomagus](https://pleiades.stoa.org/places/383759)
+
+
 ## Rimokastro fort (Chios)  Rimokastro?
 [https://topostext.org/place/384261FRim](https://topostext.org/place/384261FRim)  
 
@@ -28860,6 +28896,13 @@
 
 ### alignments:
  - [Saba](https://pleiades.stoa.org/places/39417)
+
+
+## Sabis (Gallia)
+[https://topostext.org/place/50342WSab](https://topostext.org/place/50342WSab)  
+
+### alignments:
+ - [Sabis (river)](https://pleiades.stoa.org/places/109299)
 
 
 ## Sabucina excav. (Sicily)
@@ -33051,6 +33094,13 @@
  - [Tilphosaion?](https://pleiades.stoa.org/places/541148)
 
 
+## Timavus river (Italy)
+[https://topostext.org/place/458136WTim](https://topostext.org/place/458136WTim)  
+
+### alignments:
+ - [Timavus (river)](https://pleiades.stoa.org/places/187588)
+
+
 ## Timonitis (Paphlagonia)
 [https://topostext.org/place/410321RTim](https://topostext.org/place/410321RTim)  
 
@@ -34409,8 +34459,8 @@
  - [Venusia](https://pleiades.stoa.org/places/442847)
 
 
-## Vercellae (Italy)
-[https://topostext.org/place/45384UVer](https://topostext.org/place/45384UVer)  
+## Vercellae (Italy) 15 Vercelli
+[https://topostext.org/place/453084UVer](https://topostext.org/place/453084UVer)  
 
 ### alignments:
  - [Vercellae](https://pleiades.stoa.org/places/383815)
