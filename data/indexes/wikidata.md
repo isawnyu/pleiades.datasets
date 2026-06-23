@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10918 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+10926 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1088,6 +1088,13 @@
  - [Tomb of Publius Vesonius Phileros ](https://pleiades.stoa.org/places/792436981)
 
 
+## Aedoneus (Q131903567)
+[https://www.wikidata.org/wiki/Q131903567](https://www.wikidata.org/wiki/Q131903567)  
+
+### alignments:
+ - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
+
+
 ## Aedui (Q677863)
 [https://www.wikidata.org/wiki/Q677863](https://www.wikidata.org/wiki/Q677863)  
 
@@ -1794,6 +1801,13 @@
 
 ### alignments:
  - [Aigyptiake](https://pleiades.stoa.org/places/1001137)
+
+
+## Aime (Q405513)
+[https://www.wikidata.org/wiki/Q405513](https://www.wikidata.org/wiki/Q405513)  
+
+### alignments:
+ - [Axima/Forum Claudii Ceutronum](https://pleiades.stoa.org/places/167663)
 
 
 ## Ain Amur (Q14223961)
@@ -6062,6 +6076,13 @@
  - [Sanctuary of Asklepios at Athens](https://pleiades.stoa.org/places/954340915)
 
 
+## Ascoli Satriano (Q51892)
+[https://www.wikidata.org/wiki/Q51892](https://www.wikidata.org/wiki/Q51892)  
+
+### alignments:
+ - [Ausculum](https://pleiades.stoa.org/places/442487)
+
+
 ## Asculum (Q1290401)
 [https://www.wikidata.org/wiki/Q1290401](https://www.wikidata.org/wiki/Q1290401)  
 
@@ -6963,6 +6984,20 @@
 
 ### alignments:
  - [Aprusa (river)](https://pleiades.stoa.org/places/393378)
+
+
+## Ausetani (Q1763944)
+[https://www.wikidata.org/wiki/Q1763944](https://www.wikidata.org/wiki/Q1763944)  
+
+### alignments:
+ - [Ausetani](https://pleiades.stoa.org/places/246211)
+
+
+## Ausigda (Q106407985)
+[https://www.wikidata.org/wiki/Q106407985](https://www.wikidata.org/wiki/Q106407985)  
+
+### alignments:
+ - [Ausigda?](https://pleiades.stoa.org/places/373745)
 
 
 ## Ausinza (Q137863949)
@@ -54536,13 +54571,6 @@
  - [Crofton Roman villa](https://pleiades.stoa.org/places/646455441)
 
 
-## Q51892: Ascoli Satriano
-[https://www.wikidata.org/wiki/Q51892](https://www.wikidata.org/wiki/Q51892)  
-
-### alignments:
- - [Ausculum](https://pleiades.stoa.org/places/442487)
-
-
 ## Q519033: Carsulae
 [https://www.wikidata.org/wiki/Q519033](https://www.wikidata.org/wiki/Q519033)  
 
@@ -61607,6 +61635,13 @@
  - [Zerninus (river)](https://pleiades.stoa.org/places/413395)
 
 
+## Salins-les-Thermes (Q744811)
+[https://www.wikidata.org/wiki/Q744811](https://www.wikidata.org/wiki/Q744811)  
+
+### alignments:
+ - [Salins-les-Thermes](https://pleiades.stoa.org/places/167909)
+
+
 ## Salkhad (Q24343)
 [https://www.wikidata.org/wiki/Q24343](https://www.wikidata.org/wiki/Q24343)  
 
@@ -62200,6 +62235,13 @@
 
 ### alignments:
  - [Apollo Korythos Sanctuary](https://pleiades.stoa.org/places/570096)
+
+
+## Sanctuary of Artemis Mounichia (Q12878108)
+[https://www.wikidata.org/wiki/Q12878108](https://www.wikidata.org/wiki/Q12878108)  
+
+### alignments:
+ - [Sanctuary of Artemis Munychia (Piraeus)](https://pleiades.stoa.org/places/380378608)
 
 
 ## sanctuary of Artemis Orthia (Q550466)
@@ -66446,6 +66488,13 @@
  - [Taburnus M.](https://pleiades.stoa.org/places/433141)
 
 
+## Tacape (Q139306836)
+[https://www.wikidata.org/wiki/Q139306836](https://www.wikidata.org/wiki/Q139306836)  
+
+### alignments:
+ - [Tacape](https://pleiades.stoa.org/places/344496)
+
+
 ## Tachompso (Q18692564)
 [https://www.wikidata.org/wiki/Q18692564](https://www.wikidata.org/wiki/Q18692564)  
 
@@ -70018,6 +70067,13 @@
 
 ### alignments:
  - [Tomb of Cyrus the Great](https://pleiades.stoa.org/places/547628631)
+
+
+## Tomb of Epaminondas (Q107162062)
+[https://www.wikidata.org/wiki/Q107162062](https://www.wikidata.org/wiki/Q107162062)  
+
+### alignments:
+ - [Tomb of Epaminondas](https://pleiades.stoa.org/places/920972287)
 
 
 ## Tomb of Eumachia (Q94592884)

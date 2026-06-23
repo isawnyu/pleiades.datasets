@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5049 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+5053 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -1206,6 +1206,13 @@
 ### alignments:
  - [Aidepsos (spa)](https://pleiades.stoa.org/places/540602)
  - [Aidepsos? (polis)](https://pleiades.stoa.org/places/540601)
+
+
+## Aidoneus river (Troad)
+[https://topostext.org/place/398265WAid](https://topostext.org/place/398265WAid)  
+
+### alignments:
+ - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
 
 
 ## Aidoni Myc. cemetery exc. (Korinthia)
@@ -4590,6 +4597,13 @@
  - [Temple of Artemis Orthasia](https://pleiades.stoa.org/places/53976666)
 
 
+## Artemis Mounychia (Piraeus)
+[https://topostext.org/place/379237SMou](https://topostext.org/place/379237SMou)  
+
+### alignments:
+ - [Sanctuary of Artemis Munychia (Piraeus)](https://pleiades.stoa.org/places/380378608)
+
+
 ## Artemis Ortheia (Lakonia)
 [https://topostext.org/place/371224SArt](https://topostext.org/place/371224SArt)  
 
@@ -5542,6 +5556,13 @@
 
 ### alignments:
  - [*Aurinia/Saturnia](https://pleiades.stoa.org/places/413044)
+
+
+## Ausigda (Libya)
+[https://topostext.org/place/328214UAus](https://topostext.org/place/328214UAus)  
+
+### alignments:
+ - [Ausigda?](https://pleiades.stoa.org/places/373745)
 
 
 ## Automala (Libya) 7 Bu Sceefa
@@ -10778,6 +10799,13 @@
 
 ### alignments:
  - [Epakria](https://pleiades.stoa.org/places/579921)
+
+
+## Epaminondas tomb (Arkadia)
+[https://topostext.org/place/376224GTEp](https://topostext.org/place/376224GTEp)  
+
+### alignments:
+ - [Tomb of Epaminondas](https://pleiades.stoa.org/places/920972287)
 
 
 ## Epeion (Eleia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-539 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+540 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -32,6 +32,7 @@
  - [Altar of Androgeos](https://pleiades.stoa.org/places/756525877)
  - [Munychia](https://pleiades.stoa.org/places/116035285)
  - [Phaleron Limen](https://pleiades.stoa.org/places/580071)
+ - [Sanctuary of Artemis Munychia (Piraeus)](https://pleiades.stoa.org/places/380378608)
  - [Temple of Zeus at Phaleron](https://pleiades.stoa.org/places/457406454)
 
 
@@ -2852,6 +2853,13 @@
  - [Skope](https://pleiades.stoa.org/places/573523)
 
 
+## 8.11.8
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.8)  
+
+### alignments:
+ - [Tomb of Epaminondas](https://pleiades.stoa.org/places/920972287)
+
+
 ## 8.12.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.12.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.12.2)  
 
@@ -3966,6 +3974,7 @@
 [http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1](http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1)  
 
 ### alignments:
+ - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
  - [Akakesion](https://pleiades.stoa.org/places/573060)
  - [Amnisos](https://pleiades.stoa.org/places/524143100)
  - [Antikyra](https://pleiades.stoa.org/places/540642)

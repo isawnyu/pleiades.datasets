@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2377 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+2380 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -4243,6 +4243,13 @@
  - [Ad Publicanos](https://pleiades.stoa.org/places/167618)
 
 
+## 2B2 (Talbert 963)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace963.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace963.html)  
+
+### alignments:
+ - [Obilonna](https://pleiades.stoa.org/places/167858)
+
+
 ## 2B2 (Talbert 964)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace964.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace964.html)  
 
@@ -4346,6 +4353,13 @@
 
 ### alignments:
  - [Octodurus/Forum Claudii Vallensium](https://pleiades.stoa.org/places/167859)
+
+
+## 2B3 (Talbert 965)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace965.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace965.html)  
+
+### alignments:
+ - [Axima/Forum Claudii Ceutronum](https://pleiades.stoa.org/places/167663)
 
 
 ## 2B3 (Talbert 966)
@@ -12075,6 +12089,13 @@
 
 ### alignments:
  - [Hybla Heraia](https://pleiades.stoa.org/places/462252)
+
+
+## 6C1-6C2 (Talbert 3418)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3418.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3418.html)  
+
+### alignments:
+ - [Ausere (river)](https://pleiades.stoa.org/places/344304)
 
 
 ## 6C2 (Talbert 1503)

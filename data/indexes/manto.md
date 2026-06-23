@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1089 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+1095 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1276,6 +1276,13 @@
  - [Larisa Fortress (Argolid)](https://pleiades.stoa.org/places/492759697)
 
 
+## 10187156: the Temple of Apollo at Argos
+[https://resource.manto.unh.edu/10187156](https://resource.manto.unh.edu/10187156)  
+
+### alignments:
+ - [Sanctuaries of Apollo Deiradiotes and Athena Oxyderkes](https://pleiades.stoa.org/places/939076786)
+
+
 ## 10191948: Temenion
 [https://resource.manto.unh.edu/10191948](https://resource.manto.unh.edu/10191948)  
 
@@ -2025,6 +2032,13 @@
  - [Marpessos](https://pleiades.stoa.org/places/550723)
 
 
+## 10270788: River Aidoneus (Troad)
+[https://resource.manto.unh.edu/10270788](https://resource.manto.unh.edu/10270788)  
+
+### alignments:
+ - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
+
+
 ## 10270802: Alexandria (Troad)
 [https://resource.manto.unh.edu/10270802](https://resource.manto.unh.edu/10270802)  
 
@@ -2737,6 +2751,13 @@
 
 ### alignments:
  - [Perge](https://pleiades.stoa.org/places/639048)
+
+
+## 11296760: Mounychia (Attica)
+[https://resource.manto.unh.edu/11296760](https://resource.manto.unh.edu/11296760)  
+
+### alignments:
+ - [Munychia](https://pleiades.stoa.org/places/116035285)
 
 
 ## 11296826: Mount Pindos (Thessaly)
@@ -3930,6 +3951,13 @@
  - [Lamponia](https://pleiades.stoa.org/places/550678)
 
 
+## 11313418: River Ceteios (Mysia)
+[https://resource.manto.unh.edu/11313418](https://resource.manto.unh.edu/11313418)  
+
+### alignments:
+ - [Keteios (river)](https://pleiades.stoa.org/places/550637)
+
+
 ## 11313460: the Harbor of the Achaians (Aiolia)
 [https://resource.manto.unh.edu/11313460](https://resource.manto.unh.edu/11313460)  
 
@@ -4075,6 +4103,13 @@
 
 ### alignments:
  - [Ainea](https://pleiades.stoa.org/places/554179)
+
+
+## 11314552: Ausigda (Cyrenaica)
+[https://resource.manto.unh.edu/11314552](https://resource.manto.unh.edu/11314552)  
+
+### alignments:
+ - [Ausigda?](https://pleiades.stoa.org/places/373745)
 
 
 ## 11314863: Luceria (Italy)
@@ -4516,6 +4551,13 @@
 
 ### alignments:
  - [Peiraion](https://pleiades.stoa.org/places/570571)
+
+
+## 11321876: The Tomb of Epaminondas
+[https://resource.manto.unh.edu/11321876](https://resource.manto.unh.edu/11321876)  
+
+### alignments:
+ - [Tomb of Epaminondas](https://pleiades.stoa.org/places/920972287)
 
 
 ## 11321902: Mount Cirphis (Phocis)

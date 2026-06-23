@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5114 alignments exist in _Pleiades_ place references as of 2026-06-22. The following list of alignments is grouped by zotkey.
+5115 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -29930,6 +29930,13 @@
 
 ### alignments:
  - [Corbulonis Fossa](https://pleiades.stoa.org/places/99662)
+
+
+## GEO ID 45057: Thermae Sabinianae
+[https://www.trismegistos.org/place/45057](https://www.trismegistos.org/place/45057)  
+
+### alignments:
+ - [Megalithic walls at Telese Terme](https://pleiades.stoa.org/places/543353473)
 
 
 ## GEO ID 45059: Sicalenum (Casacalenda)
