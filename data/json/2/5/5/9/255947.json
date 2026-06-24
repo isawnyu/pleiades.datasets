@@ -14,6 +14,10 @@
             "username": null
         },
         {
+            "name": "R. Warner",
+            "username": null
+        },
+        {
             "name": "R. Talbert",
             "username": null
         },
@@ -24,8 +28,10 @@
             "username": "jahlfeldt"
         },
         {
-            "name": "R. Warner",
-            "username": null
+            "homepage": null,
+            "name": "René Voorburg",
+            "uri": "https://pleiades.stoa.org/author/renevoorburg",
+            "username": "renevoorburg"
         },
         {
             "homepage": null,
@@ -40,7 +46,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2010-11-09T19:30:40Z",
+    "created": "2026-06-23T19:43:59Z",
     "creators": [
         {
             "name": "Jr.",
@@ -56,7 +62,7 @@
         }
     ],
     "description": "An ancient place, cited: BAtlas 26 C2 Abelterium",
-    "details": "The Barrington Atlas Directory notes: probably Alter do Chão POR",
+    "details": "<p>The Barrington Atlas Directory notes: probably Alter do Chão POR</p>",
     "features": [
         {
             "geometry": {
@@ -68,10 +74,10 @@
             },
             "id": "darmc-location-19632",
             "properties": {
-                "description": "1M scale point location",
+                "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/255947/darmc-location-19632",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
+                "snippet": "Settlement-modern; 30 BC - AD 640",
                 "title": "DARMC location 19632"
             },
             "type": "Feature"
@@ -89,13 +95,28 @@
                 "description": "Representative point location, village precision",
                 "link": "https://pleiades.stoa.org/places/255947/dare-location",
                 "location_precision": "precise",
-                "snippet": "Station; 30 BC - AD 640",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
                 "title": "DARE Location"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2026-06-23T19:56:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "cleaned up references; added vici.org reference provided by @renevoorburg; added DARE reference provided by @jahlfeldt and @renevoorburg",
+            "modified": "2026-06-23T19:49:05Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2026-06-23T19:43:59Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
             "modified": "2012-10-20T23:24:21Z",
@@ -138,9 +159,9 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/darmc-a",
             "accuracy_value": 10.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
@@ -157,29 +178,49 @@
             ],
             "contributors": [
                 {
-                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies",
+                    "name": "DARMC",
                     "username": null
+                },
+                {
+                    "name": "R. Talbert",
+                    "username": null
+                },
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
             "created": "2011-03-09T23:44:43Z",
             "creators": [
                 {
-                    "name": "R.C. Knapp",
+                    "name": "Jr.",
                     "username": null
                 },
                 {
-                    "name": "F.H. Stanley, Jr.",
+                    "name": "F.H. Stanley",
+                    "username": null
+                },
+                {
+                    "name": "R.C. Knapp",
                     "username": null
                 }
             ],
-            "description": "1M scale point location",
+            "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 19632",
             "end": 640,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -189,6 +230,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "less certain associated modern location (relocated by DARMC to match modern)",
+                    "modified": "2026-06-23T19:54:22Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T03:39:00Z",
@@ -217,10 +263,10 @@
             ],
             "id": "darmc-location-19632",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "DARMC OBJECTID: 19632",
             "references": [
@@ -245,24 +291,31 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/dare-2",
             "accuracy_value": 100.0,
-            "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "archaeologicalRemains": "notapplicable",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
-                {
-                    "confidence": "confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
+                },
+                {
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
+                }
+            ],
             "created": "2012-10-20T23:24:18Z",
             "creators": [
                 {
@@ -274,12 +327,12 @@
             ],
             "description": "Representative point location, village precision",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "station"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "geometry": {
                 "coordinates": [
@@ -289,6 +342,21 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "associated modern",
+                    "modified": "2026-06-23T19:54:40Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "representative",
+                    "modified": "2026-06-23T19:53:42Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "associated modern location (less certain, per BAtlDir)",
+                    "modified": "2026-06-23T19:53:17Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2012-10-20T23:24:20Z",
@@ -312,10 +380,10 @@
             ],
             "id": "dare-location",
             "locationType": [
-                "associated modern"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/station"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
             "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
             "references": [
@@ -332,7 +400,7 @@
                 }
             ],
             "review_state": "published",
-            "start": -30,
+            "start": 2000,
             "title": "DARE Location",
             "uri": "https://pleiades.stoa.org/places/255947/dare-location"
         }
@@ -393,6 +461,11 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2026-06-23T20:04:45Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T03:39:00Z",
                     "modifiedBy": "admin"
@@ -427,10 +500,12 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
-        "station"
+        "station",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 26 C2 Abelterium",
     "references": [
@@ -446,26 +521,48 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/37821577",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/a.html#Alarcão-1988-II.3",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9FFZTKE2",
+            "citationDetail": "II.3, 150",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "Alarcão 1988 II.3, 150",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de. <i>Roman Portugal</i>. 2 in 4 vols. Warminster: Aris &amp; Phillips, 1988. http://www.worldcat.org/oclc/37821577.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "Alarcão 1988",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/36156421",
             "alternateURI": "",
-            "bibliographicURI": "http://atlantides.org/bibliography/t.html#TIR-Emerita-23",
-            "citationDetail": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PCC822HP",
+            "citationDetail": "23",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "TIR Emerita 23",
+            "formattedCitation": "<div class=\"csl-entry\">Alarcão, Jorge de, Adela Cepas, José Ignacio Reguera Cardiel, Angela Alonso Sánchez, and Union académique internationale, eds. <i>Tabula Imperii Romani. Hoja J-29 : Lisboa : Emerita, Scallabis, Pax Iulia, Gades: sobre la base cartográfica del mapa a escala 1:1000000 del IGN</i>. Tabula Imperii Romani, J-29. Madrid: Consejo Superior de Investigaciones Cientificas : Ministerio de Obras Públicas, Transportes y Medio Ambiente, Instituto Geográfico Nacional : Ministerio de Cultura, 1995. http://www.worldcat.org/oclc/36156421.</div>",
             "otherIdentifier": "",
-            "shortTitle": "",
+            "shortTitle": "TIR Emerita",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://vici.org/vici/3597/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "3597: Abelterium",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://imperium.ahlfeldt.se/places/18341.html",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "citationDetail": "18341: Abelterium, Alter do Chão",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Gothenburg, Sweden: Centre for Digital Humanities University of Gothenburg, Sweden, 2012. https://imperium.ahlfeldt.se/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "DARE",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
