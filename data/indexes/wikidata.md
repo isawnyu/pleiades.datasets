@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10926 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
+10946 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -258,6 +258,13 @@
 
 ### alignments:
  - [Abia](https://pleiades.stoa.org/places/570027)
+
+
+## Abila Lysaniou (Q3106439)
+[https://www.wikidata.org/wiki/Q3106439](https://www.wikidata.org/wiki/Q3106439)  
+
+### alignments:
+ - [Abila Lysaniou](https://pleiades.stoa.org/places/677993)
 
 
 ## Abiward (Q2821653)
@@ -632,6 +639,13 @@
  - [Akhladokhorion](https://pleiades.stoa.org/places/501340)
 
 
+## Acholla (Q17379233)
+[https://www.wikidata.org/wiki/Q17379233](https://www.wikidata.org/wiki/Q17379233)  
+
+### alignments:
+ - [Acholla](https://pleiades.stoa.org/places/324653)
+
+
 ## Acholshausen (Q253574)
 [https://www.wikidata.org/wiki/Q253574](https://www.wikidata.org/wiki/Q253574)  
 
@@ -960,6 +974,13 @@
 
 ### alignments:
  - [Adab](https://pleiades.stoa.org/places/787747618)
+
+
+## Adada (Q346649)
+[https://www.wikidata.org/wiki/Q346649](https://www.wikidata.org/wiki/Q346649)  
+
+### alignments:
+ - [Adada](https://pleiades.stoa.org/places/638733)
 
 
 ## Adel Roman fort and settlement (Q106399272)
@@ -1437,6 +1458,13 @@
 
 ### alignments:
  - [Vaticanus Ager](https://pleiades.stoa.org/places/104629751)
+
+
+## Ager Venusinus (Q140325235)
+[https://www.wikidata.org/wiki/Q140325235](https://www.wikidata.org/wiki/Q140325235)  
+
+### alignments:
+ - [Ager Venusinus](https://pleiades.stoa.org/places/510986601)
 
 
 ## ager Volaterranus (Q140105992)
@@ -2047,6 +2075,13 @@
 
 ### alignments:
  - [Kalon Oros](https://pleiades.stoa.org/places/29621)
+
+
+## Al Bayda (Q35784)
+[https://www.wikidata.org/wiki/Q35784](https://www.wikidata.org/wiki/Q35784)  
+
+### alignments:
+ - [Balagrae](https://pleiades.stoa.org/places/373749)
 
 
 ## Al Hajar Mountains (Q1422726)
@@ -6074,6 +6109,13 @@
 
 ### alignments:
  - [Sanctuary of Asklepios at Athens](https://pleiades.stoa.org/places/954340915)
+
+
+## Asclepium in Balagrae (Q12243745)
+[https://www.wikidata.org/wiki/Q12243745](https://www.wikidata.org/wiki/Q12243745)  
+
+### alignments:
+ - [Sanctuary of Asklepios, Balagrae](https://pleiades.stoa.org/places/54519385)
 
 
 ## Ascoli Satriano (Q51892)
@@ -11369,6 +11411,13 @@
  - [Campania](https://pleiades.stoa.org/places/432742)
 
 
+## Campi Macri (Q136330839)
+[https://www.wikidata.org/wiki/Q136330839](https://www.wikidata.org/wiki/Q136330839)  
+
+### alignments:
+ - [Campi Macri](https://pleiades.stoa.org/places/383607)
+
+
 ## Campi Veteres (Q11911076)
 [https://www.wikidata.org/wiki/Q11911076](https://www.wikidata.org/wiki/Q11911076)  
 
@@ -14078,6 +14127,13 @@
  - [Zas Cave](https://pleiades.stoa.org/places/194606909)
 
 
+## Cave with sacred spring of Asclepius (Q38280380)
+[https://www.wikidata.org/wiki/Q38280380](https://www.wikidata.org/wiki/Q38280380)  
+
+### alignments:
+ - [South Slope Spring](https://pleiades.stoa.org/places/567540780)
+
+
 ## Cavoli Island (Q3802946)
 [https://www.wikidata.org/wiki/Q3802946](https://www.wikidata.org/wiki/Q3802946)  
 
@@ -14152,7 +14208,7 @@
 [https://www.wikidata.org/wiki/Q654595](https://www.wikidata.org/wiki/Q654595)  
 
 ### alignments:
- - [Caelia](https://pleiades.stoa.org/places/442515)
+ - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
 
 
 ## Celone (Q3664304)
@@ -15603,6 +15659,13 @@
 
 ### alignments:
  - [Clivus Salutis](https://pleiades.stoa.org/places/21938933)
+
+
+## Clivus Victoriae (Q17280619)
+[https://www.wikidata.org/wiki/Q17280619](https://www.wikidata.org/wiki/Q17280619)  
+
+### alignments:
+ - [Clivus Victoriae](https://pleiades.stoa.org/places/668537796)
 
 
 ## Cloaca Maxima (Q746102)
@@ -23000,6 +23063,13 @@
  - [Theater of Miletus](https://pleiades.stoa.org/places/265498964)
 
 
+## Greek Theatre of Monte Jato (Q16612562)
+[https://www.wikidata.org/wiki/Q16612562](https://www.wikidata.org/wiki/Q16612562)  
+
+### alignments:
+ - [Greek theater, Monte Iato](https://pleiades.stoa.org/places/280075176)
+
+
 ## Greek Theatre of Priene (Q56194553)
 [https://www.wikidata.org/wiki/Q56194553](https://www.wikidata.org/wiki/Q56194553)  
 
@@ -24832,6 +24902,13 @@
 
 ### alignments:
  - [Bovium?](https://pleiades.stoa.org/places/79340)
+
+
+## Homarium (Q36027376)
+[https://www.wikidata.org/wiik/Q36027376](https://www.wikidata.org/wiik/Q36027376)  
+
+### alignments:
+ - [Homarium](https://pleiades.stoa.org/places/996927949)
 
 
 ## Homoloid gate (Q135495756)
@@ -30101,6 +30178,13 @@
  - [Lateran Basilica, Palace, and Castra Nova equitum singularium](https://pleiades.stoa.org/places/825912337)
 
 
+## Laterza (Q52016)
+[https://www.wikidata.org/wiki/Q52016](https://www.wikidata.org/wiki/Q52016)  
+
+### alignments:
+ - [Laterza](https://pleiades.stoa.org/places/442630)
+
+
 ## Lathouriza (Q113145010)
 [https://www.wikidata.org/wiki/Q113145010](https://www.wikidata.org/wiki/Q113145010)  
 
@@ -32962,7 +33046,7 @@
 [https://www.wikidata.org/wiki/Q932622](https://www.wikidata.org/wiki/Q932622)  
 
 ### alignments:
- - [Medinet Habu](https://pleiades.stoa.org/places/321318358)
+ - [Mortuary Temple of Ramesses III at Medinet Habu](https://pleiades.stoa.org/places/321318358)
 
 
 ## Mediolanum (Q1445216)
@@ -34851,6 +34935,13 @@
  - [Monte Mario](https://pleiades.stoa.org/places/911517620)
 
 
+## Monte Marzano (Q31619299)
+[https://www.wikidata.org/wiki/Q31619299](https://www.wikidata.org/wiki/Q31619299)  
+
+### alignments:
+ - [Balabo (mountain)](https://pleiades.stoa.org/places/442493)
+
+
 ## Monte Massico (Q586646)
 [https://www.wikidata.org/wiki/Q586646](https://www.wikidata.org/wiki/Q586646)  
 
@@ -35170,7 +35261,7 @@
 [https://www.wikidata.org/wiki/Q656040](https://www.wikidata.org/wiki/Q656040)  
 
 ### alignments:
- - [Medinet Habu](https://pleiades.stoa.org/places/321318358)
+ - [Mortuary Temple of Ramesses III at Medinet Habu](https://pleiades.stoa.org/places/321318358)
 
 
 ## Mortuary Temple of Seti I (Q375642)
@@ -46672,6 +46763,13 @@
  - [Cersosimo](https://pleiades.stoa.org/places/452298)
 
 
+## Q140325265
+[https://www.wikidata.org/wiki/Q140325265](https://www.wikidata.org/wiki/Q140325265)  
+
+### alignments:
+ - [Complesso episcopale](https://pleiades.stoa.org/places/799968313)
+
+
 ## Q140345: Zagora
 [https://www.wikidata.org/wiki/Q140345](https://www.wikidata.org/wiki/Q140345)  
 
@@ -54599,13 +54697,6 @@
  - [Kallipolis/Anxa](https://pleiades.stoa.org/places/442625)
 
 
-## Q52197: Soleto
-[https://www.wikidata.org/wiki/Q52197](https://www.wikidata.org/wiki/Q52197)  
-
-### alignments:
- - [Soletum](https://pleiades.stoa.org/places/442801)
-
-
 ## Q522924: Basilica Aemilia
 [https://www.wikidata.org/wiki/Q522924](https://www.wikidata.org/wiki/Q522924)  
 
@@ -60158,6 +60249,13 @@
  - [Castello di Corradino](https://pleiades.stoa.org/places/528052483)
 
 
+## Roman mausoleum of Punta del Moral (Q6007265)
+[https://www.wikidata.org/wiki/Q6007265](https://www.wikidata.org/wiki/Q6007265)  
+
+### alignments:
+ - [Punta Moral Roman mausoleum](https://pleiades.stoa.org/places/364011117)
+
+
 ## Roman Middlewich (Q7362090)
 [https://www.wikidata.org/wiki/Q7362090](https://www.wikidata.org/wiki/Q7362090)  
 
@@ -60723,6 +60821,13 @@
 
 ### alignments:
  - [Osmanthorpe Roman vexillation fortress](https://pleiades.stoa.org/places/28699541)
+
+
+## Roman villa (Q140307994)
+[https://www.wikidata.org/wiki/Q140307994](https://www.wikidata.org/wiki/Q140307994)  
+
+### alignments:
+ - [Unnamed Roman villa (Ladispoli)](https://pleiades.stoa.org/places/190306780)
 
 
 ## Roman villa (Q17643672)
@@ -62270,13 +62375,6 @@
 
 ### alignments:
  - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
-
-
-## Sanctuary of Asklepios, Balagrae (Q104776135)
-[https://www.wikidata.org/wiki/Q104776135](https://www.wikidata.org/wiki/Q104776135)  
-
-### alignments:
- - [Sanctuary of Asklepios, Balagrae](https://pleiades.stoa.org/places/54519385)
 
 
 ## Sanctuary of Athena at Kardamyle (Q124616488)
@@ -65030,6 +65128,13 @@
 
 ### alignments:
  - [Solduno](https://pleiades.stoa.org/places/187555)
+
+
+## Soleto (Q52197)
+[https://www.wikidata.org/wiki/Q52197](https://www.wikidata.org/wiki/Q52197)  
+
+### alignments:
+ - [Soletum](https://pleiades.stoa.org/places/442801)
 
 
 ## Solforata (Q133827110)
@@ -73282,6 +73387,13 @@
  - [Pandataria (island)](https://pleiades.stoa.org/places/433011)
 
 
+## Venusia (Q2513101)
+[https://www.wikidata.org/wiki/Q2513101](https://www.wikidata.org/wiki/Q2513101)  
+
+### alignments:
+ - [Venusia](https://pleiades.stoa.org/places/442847)
+
+
 ## Venusia amphitheatre (Q28978106)
 [https://www.wikidata.org/wiki/Q28978106](https://www.wikidata.org/wiki/Q28978106)  
 
@@ -74222,6 +74334,13 @@
  - [St. Ulrich](https://pleiades.stoa.org/places/822279249)
 
 
+## Villa La Grottaccia (Q140239034)
+[https://www.wikidata.org/wiki/Q140239034](https://www.wikidata.org/wiki/Q140239034)  
+
+### alignments:
+ - [Roman Villa La Grottaccia](https://pleiades.stoa.org/places/533417134)
+
+
 ## Villa Literno (Q499139)
 [https://www.wikidata.org/wiki/Q499139](https://www.wikidata.org/wiki/Q499139)  
 
@@ -74605,6 +74724,20 @@
 
 ### alignments:
  - [Römische Villa](https://pleiades.stoa.org/places/179179194)
+
+
+## Villa Rustica (Kloten) (Q17041697)
+[https://www.wikidata.org/wiki/Q17041697](https://www.wikidata.org/wiki/Q17041697)  
+
+### alignments:
+ - [Kloten](https://pleiades.stoa.org/places/187440)
+
+
+## Villa rustica of Altheim-Wagham (Q1769494)
+[https://www.wikidata.org/wiki/Q1769494](https://www.wikidata.org/wiki/Q1769494)  
+
+### alignments:
+ - [Altheim-Wagham villa rustica](https://pleiades.stoa.org/places/441255169)
 
 
 ## Villa rustica of Altheim-Weirading (Q2525679)
@@ -76412,6 +76545,13 @@
 
 ### alignments:
  - [Çelebibağı](https://pleiades.stoa.org/places/662610533)
+
+
+## Çemka Höyük (Q132182967)
+[https://www.wikidata.org/wiki/Q132182967](https://www.wikidata.org/wiki/Q132182967)  
+
+### alignments:
+ - [Çemka Höyük](https://pleiades.stoa.org/places/973850903)
 
 
 ## Çoruh River (Q70970)

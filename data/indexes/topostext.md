@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5053 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
+5058 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -617,6 +617,13 @@
 
 ### alignments:
  - [Ad Vicesimum](https://pleiades.stoa.org/places/412998)
+
+
+## Adada (Pisidia) 3 Karabaulo
+[https://topostext.org/place/376310UAda](https://topostext.org/place/376310UAda)  
+
+### alignments:
+ - [Adada](https://pleiades.stoa.org/places/638733)
 
 
 ## Adana (Cilicia)
@@ -3139,6 +3146,13 @@
 
 ### alignments:
  - [Anxanum](https://pleiades.stoa.org/places/413017)
+
+
+## Anxia (Lucania)
+[https://topostext.org/place/405159UAnx](https://topostext.org/place/405159UAnx)  
+
+### alignments:
+ - [Anxia](https://pleiades.stoa.org/places/442465)
 
 
 ## Aous R. (Illyria)
@@ -5859,6 +5873,13 @@
  - [Baiae](https://pleiades.stoa.org/places/432716)
 
 
+## Balagrai Asclepieion (Libya)
+[https://topostext.org/place/328218SBal](https://topostext.org/place/328218SBal)  
+
+### alignments:
+ - [Balagrae](https://pleiades.stoa.org/places/373749)
+
+
 ## Balboura (Lycia)
 [https://topostext.org/place/370296UBal](https://topostext.org/place/370296UBal)  
 
@@ -6990,7 +7011,7 @@
 [https://topostext.org/place/411169UCae](https://topostext.org/place/411169UCae)  
 
 ### alignments:
- - [Caelia](https://pleiades.stoa.org/places/442515)
+ - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
 
 
 ## Caelian hill (Rome)
@@ -7194,6 +7215,13 @@
 
 ### alignments:
  - [Campania](https://pleiades.stoa.org/places/432742)
+
+
+## Campi Macri (Italia)
+[https://topostext.org/place/446108UCam](https://topostext.org/place/446108UCam)  
+
+### alignments:
+ - [Campi Macri](https://pleiades.stoa.org/places/383607)
 
 
 ## Campona (Noricum)
@@ -24363,6 +24391,13 @@
 
 ### alignments:
  - [Panagia tis Kyras](https://pleiades.stoa.org/places/707601)
+
+
+## Panagia tou Politi church (Amorgos)
+[https://topostext.org/place/368258EPan](https://topostext.org/place/368258EPan)  
+
+### alignments:
+ - [Panagia tou Politi church (Amorgos)](https://pleiades.stoa.org/places/229548172)
 
 
 ## Panakton (Attica)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5115 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
+5117 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -183,6 +183,13 @@
 
 ### alignments:
  - [Coptos](https://pleiades.stoa.org/places/786010)
+
+
+## Geo 11830: Acholla (Ras Botria)
+[https://www.trismegistos.org/place/11830](https://www.trismegistos.org/place/11830)  
+
+### alignments:
+ - [Acholla](https://pleiades.stoa.org/places/324653)
 
 
 ## Geo 11836: Leptis Magna (Khoms)
@@ -693,6 +700,13 @@
  - [Alpes Maritimae (province)](https://pleiades.stoa.org/places/982259)
 
 
+## Geo 22449: Fines Cotti (Avigliana)
+[https://www.trismegistos.org/place/22449](https://www.trismegistos.org/place/22449)  
+
+### alignments:
+ - [Ad Fines](https://pleiades.stoa.org/places/383545)
+
+
 ## Geo 22459: Alpes Graiae
 [https://www.trismegistos.org/place/22459](https://www.trismegistos.org/place/22459)  
 
@@ -719,6 +733,13 @@
 
 ### alignments:
  - [Tanis](https://pleiades.stoa.org/places/727236)
+
+
+## Geo 2273: Tassat
+[https://www.trismegistos.org/place/2273](https://www.trismegistos.org/place/2273)  
+
+### alignments:
+ - [Tassat](https://pleiades.stoa.org/places/741617)
 
 
 ## Geo 22898: Castelculier
@@ -775,6 +796,13 @@
 
 ### alignments:
  - [Troizen](https://pleiades.stoa.org/places/570756)
+
+
+## Geo 25860: Abdera (Adra)
+[https://www.trismegistos.org/place/25860](https://www.trismegistos.org/place/25860)  
+
+### alignments:
+ - [Abdera](https://pleiades.stoa.org/places/265762)
 
 
 ## Geo 26125: Ilipula (Niebla)
@@ -861,6 +889,13 @@
  - [Plinthine](https://pleiades.stoa.org/places/727205)
 
 
+## Geo 28140: Abodiacum (Epfach)
+[https://www.trismegistos.org/place/28140](https://www.trismegistos.org/place/28140)  
+
+### alignments:
+ - [Abodiacum](https://pleiades.stoa.org/places/187242)
+
+
 ## Geo 29349: Epidaurum (Cavtat)
 [https://www.trismegistos.org/place/29349](https://www.trismegistos.org/place/29349)  
 
@@ -915,6 +950,13 @@
 
 ### alignments:
  - [Pella/Apamea](https://pleiades.stoa.org/places/668335)
+
+
+## Geo 32244: Sentinum (Sassoferrato)
+[https://www.trismegistos.org/place/32244](https://www.trismegistos.org/place/32244)  
+
+### alignments:
+ - [Sentinum](https://pleiades.stoa.org/places/413312)
 
 
 ## Geo 32291: Albanum (Albano Laziale)
@@ -1287,6 +1329,13 @@
 
 ### alignments:
  - [Asine](https://pleiades.stoa.org/places/570125)
+
+
+## Geo 3505: Abila (Suq Wadi Barada)
+[https://www.trismegistos.org/place/3505](https://www.trismegistos.org/place/3505)  
+
+### alignments:
+ - [Abila Lysaniou](https://pleiades.stoa.org/places/677993)
 
 
 ## Geo 3516: Kelenderis (Aydıncık)
@@ -3082,13 +3131,6 @@
 
 ### alignments:
  - [Tainaron (settlement)](https://pleiades.stoa.org/places/570702)
-
-
-## GEO ID 11830: Acholla (Ras Botria)
-[http://www.trismegistos.org/place/11830](http://www.trismegistos.org/place/11830)  
-
-### alignments:
- - [Acholla](https://pleiades.stoa.org/places/324653)
 
 
 ## GEO ID 11831: Ammaedara (Haidra)
@@ -11660,13 +11702,6 @@
  - [Gaesao/Tyrium](https://pleiades.stoa.org/places/167778)
 
 
-## GEO ID 22449: Fines Cotti (Avigliana)
-[http://www.trismegistos.org/place/22449](http://www.trismegistos.org/place/22449)  
-
-### alignments:
- - [Ad Fines](https://pleiades.stoa.org/places/383545)
-
-
 ## GEO ID 22465: Bergintrum (Bourg-Saint-Maurice)
 [https://www.trismegistos.org/place/22465](https://www.trismegistos.org/place/22465)  
 
@@ -12984,13 +13019,6 @@
  - [Balsa](https://pleiades.stoa.org/places/256013)
 
 
-## GEO ID 25860: Abdera (Adra)
-[https://www.trismegistos.org/place/25860](https://www.trismegistos.org/place/25860)  
-
-### alignments:
- - [Abdera](https://pleiades.stoa.org/places/265762)
-
-
 ## GEO ID 25874: Collippo (Leiria)
 [http://www.trismegistos.org/place/25874](http://www.trismegistos.org/place/25874)  
 
@@ -14277,13 +14305,6 @@
 
 ### alignments:
  - [Spania](https://pleiades.stoa.org/places/737056)
-
-
-## GEO ID 28140: Abodiacum (Epfach)
-[http://www.trismegistos.org/place/28140](http://www.trismegistos.org/place/28140)  
-
-### alignments:
- - [Abodiacum](https://pleiades.stoa.org/places/187242)
 
 
 ## GEO ID 28142: Phoebiana (Faimingen)
@@ -16975,13 +16996,6 @@
 
 ### alignments:
  - [Sena Gallica](https://pleiades.stoa.org/places/413310)
-
-
-## GEO ID 32244: Sentinum (Sassoferrato)
-[http://www.trismegistos.org/place/32244](http://www.trismegistos.org/place/32244)  
-
-### alignments:
- - [Sentinum](https://pleiades.stoa.org/places/413312)
 
 
 ## GEO ID 32248: Spoletium (Spoleto)
@@ -19931,13 +19945,6 @@
  - [Niederbieber](https://pleiades.stoa.org/places/109208)
 
 
-## GEO ID 3505: Abila (Suq Wadi Barada)
-[http://www.trismegistos.org/place/3505](http://www.trismegistos.org/place/3505)  
-
-### alignments:
- - [Abila Lysaniou](https://pleiades.stoa.org/places/677993)
-
-
 ## GEO ID 35077: Port-sur-Saône
 [https://www.trismegistos.org/place/35077](https://www.trismegistos.org/place/35077)  
 
@@ -20734,6 +20741,13 @@
 
 ### alignments:
  - [Naqsh-i Rustam](https://pleiades.stoa.org/places/922685)
+
+
+## GEO ID 3750: Balagrai (El-Beida)
+[https://www.trismegistos.org/place/3750](https://www.trismegistos.org/place/3750)  
+
+### alignments:
+ - [Balagrae](https://pleiades.stoa.org/places/373749)
 
 
 ## GEO ID 3751: Balaneai (Baniyas)
@@ -23948,7 +23962,7 @@
 [http://www.trismegistos.org/place/41116](http://www.trismegistos.org/place/41116)  
 
 ### alignments:
- - [Caelia](https://pleiades.stoa.org/places/442515)
+ - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
 
 
 ## GEO ID 41117: Castrum Minervae (Castro)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2380 alignments exist in _Pleiades_ place references as of 2026-06-23. The following list of alignments is grouped by zotkey.
+2381 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -9910,7 +9910,7 @@
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1346.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1346.html)  
 
 ### alignments:
- - [Caelia](https://pleiades.stoa.org/places/442515)
+ - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
 
 
 ## 5B5 (Talbert 1347)
@@ -9939,6 +9939,13 @@
 
 ### alignments:
  - [Silvium](https://pleiades.stoa.org/places/442796)
+
+
+## 5B5 (Talbert 1352)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1352.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1352.html)  
+
+### alignments:
+ - [Sublupatia](https://pleiades.stoa.org/places/446295)
 
 
 ## 5B5 (Talbert 1353)
