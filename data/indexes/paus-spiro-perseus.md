@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-540 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
+541 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -500,6 +500,13 @@
 
 ### alignments:
  - [Sanctuary of Artemis Soteira (Megara)](https://pleiades.stoa.org/places/562673315)
+
+
+## 1.41.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.41.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.41.2)  
+
+### alignments:
+ - [Isthmos](https://pleiades.stoa.org/places/570317)
 
 
 ## 1.41.8
@@ -3985,7 +3992,6 @@
  - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
- - [Isthmos](https://pleiades.stoa.org/places/570317)
  - [Kalamai](https://pleiades.stoa.org/places/570323)
  - [Kyrtones](https://pleiades.stoa.org/places/540898)
  - [Medeon](https://pleiades.stoa.org/places/540939)

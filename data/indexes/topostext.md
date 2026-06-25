@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5058 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
+5060 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -532,7 +532,7 @@
 [https://topostext.org/place/368000UAci](https://topostext.org/place/368000UAci)  
 
 ### alignments:
- - [Acinippo](https://pleiades.stoa.org/places/255950)
+ - [Acinippo/Ronda la Vieja](https://pleiades.stoa.org/places/255950)
 
 
 ## Acrae (Sicily)
@@ -773,6 +773,13 @@
  - [Aesis](https://pleiades.stoa.org/places/413002)
 
 
+## Aeso (Iberia) 1 Isona
+[https://topostext.org/place/421010UAes](https://topostext.org/place/421010UAes)  
+
+### alignments:
+ - [Aeso](https://pleiades.stoa.org/places/246147)
+
+
 ## Aethiopia (Africa)
 [https://topostext.org/place/130350REth](https://topostext.org/place/130350REth)  
 
@@ -794,7 +801,7 @@
  - [Agios Andreas (Siphnos)](https://pleiades.stoa.org/places/492082396)
 
 
-## Ag. Athanasios site (Drama)  Ag. Athanasios - Άγιος Αθανάσιος
+## Ag. Athanasios site (Drama) Ag. Athanasios
 [https://topostext.org/place/411242XAth](https://topostext.org/place/411242XAth)  
 
 ### alignments:
@@ -960,6 +967,13 @@
 
 ### alignments:
  - [Ag. Pneuma](https://pleiades.stoa.org/places/501330)
+
+
+## Ag. Sophia EC church (Akarnania) Ag. Sophia
+[https://topostext.org/place/387210EASo](https://topostext.org/place/387210EASo)  
+
+### alignments:
+ - [Ag. Sophia](https://pleiades.stoa.org/places/530781)
 
 
 ## Ag. Sophia tower (Lemnos)
@@ -5207,7 +5221,7 @@
  - [Athena Itonia?, T.](https://pleiades.stoa.org/places/540678)
 
 
-## Athena Itonia sanct. (Thessaly) 12 Philia Karditsis - Ιτωνία η Αθηνά
+## Athena Itonia sanct. (Thessaly) 12 Philia Karditsis
 [https://topostext.org/place/393221SAth](https://topostext.org/place/393221SAth)  
 
 ### alignments:

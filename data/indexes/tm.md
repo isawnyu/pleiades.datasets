@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5117 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
+5118 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -931,6 +931,13 @@
  - [Abrittus](https://pleiades.stoa.org/places/216688)
 
 
+## Geo 3108: Andropolis
+[https://www.trismegistos.org/place/3108](https://www.trismegistos.org/place/3108)  
+
+### alignments:
+ - [Andronpolis](https://pleiades.stoa.org/places/727071)
+
+
 ## Geo 3135: Golas (Bu Njem)
 [https://www.trismegistos.org/place/3135](https://www.trismegistos.org/place/3135)  
 
@@ -1371,6 +1378,13 @@
 
 ### alignments:
  - [Kaudos (island)](https://pleiades.stoa.org/places/589858)
+
+
+## Geo 3610: Isthmos
+[https://www.trismegistos.org/place/3610](https://www.trismegistos.org/place/3610)  
+
+### alignments:
+ - [Isthmos](https://pleiades.stoa.org/places/570317)
 
 
 ## Geo 3620: Praisos
@@ -1973,6 +1987,13 @@
 
 ### alignments:
  - [Alpes Graiae et Poeninae (Roman province)](https://pleiades.stoa.org/places/982257)
+
+
+## Geo 42766: Dacia Inferior
+[https://www.trismegistos.org/place/42766](https://www.trismegistos.org/place/42766)  
+
+### alignments:
+ - [Dacia Inferior (province)](https://pleiades.stoa.org/places/981519)
 
 
 ## Geo 42801: Flaminia
@@ -20253,13 +20274,6 @@
  - [Methana/Arsinoe](https://pleiades.stoa.org/places/570482)
 
 
-## GEO ID 3610: Isthmos
-[http://www.trismegistos.org/place/3610](http://www.trismegistos.org/place/3610)  
-
-### alignments:
- - [Isthmos](https://pleiades.stoa.org/places/570317)
-
-
 ## GEO ID 3614: Thermopylai
 [https://www.trismegistos.org/place/3614](https://www.trismegistos.org/place/3614)  
 
@@ -28031,13 +28045,6 @@
 
 ### alignments:
  - [Dacia Malvensis (province)](https://pleiades.stoa.org/places/716976703)
-
-
-## GEO ID 42766: Dacia Inferior
-[https://www.trismegistos.org/place/42766](https://www.trismegistos.org/place/42766)  
-
-### alignments:
- - [Dacia Inferior (province)](https://pleiades.stoa.org/places/981519)
 
 
 ## GEO ID 42767

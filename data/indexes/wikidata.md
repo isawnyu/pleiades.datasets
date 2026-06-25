@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10946 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
+10949 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -731,8 +731,8 @@
  - [Akrai?](https://pleiades.stoa.org/places/540616)
 
 
-## Acrasus (Q112184834)
-[https://www.wikidata.org/wiki/Q112184834](https://www.wikidata.org/wiki/Q112184834)  
+## Acrassus (Q132456781)
+[https://www.wikidata.org/wiki/Q132456781](https://www.wikidata.org/wiki/Q132456781)  
 
 ### alignments:
  - [Akrasos](https://pleiades.stoa.org/places/554181)
@@ -1284,6 +1284,13 @@
  - [Unnamed Bridge near Memnonis Vicus](https://pleiades.stoa.org/places/512650)
 
 
+## Aeso (Q11904243)
+[https://www.wikidata.org/wiki/Q11904243](https://www.wikidata.org/wiki/Q11904243)  
+
+### alignments:
+ - [Aeso](https://pleiades.stoa.org/places/246147)
+
+
 ## Aeson (Q60790539)
 [https://www.wikidata.org/wiki/Q60790539](https://www.wikidata.org/wiki/Q60790539)  
 
@@ -1367,6 +1374,13 @@
 
 ### alignments:
  - [Oinoparas (river)](https://pleiades.stoa.org/places/658557)
+
+
+## Agabis (Q139191152)
+[https://www.wikidata.org/wiki/Q139191152](https://www.wikidata.org/wiki/Q139191152)  
+
+### alignments:
+ - [Agabis](https://pleiades.stoa.org/places/373727)
 
 
 ## Agame (Q2826405)
@@ -1514,6 +1528,13 @@
 
 ### alignments:
  - [Limani Ozia](https://pleiades.stoa.org/places/530979)
+
+
+## Agia Sophia basilica, Mytikas (Q113757165)
+[https://www.wikidata.org/wiki/Q113757165](https://www.wikidata.org/wiki/Q113757165)  
+
+### alignments:
+ - [Ag. Sophia](https://pleiades.stoa.org/places/530781)
 
 
 ## Aginnum (Q2826856)
@@ -21531,6 +21552,13 @@
 
 ### alignments:
  - [Frattura Vecchia](https://pleiades.stoa.org/places/854820311)
+
+
+## Fratuentium (Q139737666)
+[https://www.wikidata.org/wiki/Q139737666](https://www.wikidata.org/wiki/Q139737666)  
+
+### alignments:
+ - [Fratuertium/Fratuentium](https://pleiades.stoa.org/places/446244)
 
 
 ## Fregenae (Q1918325)
@@ -46735,13 +46763,6 @@
  - [Ulmanus Pagus](https://pleiades.stoa.org/places/438862)
 
 
-## Q139737666
-[https://www.wikidata.org/wiki/Q139737666](https://www.wikidata.org/wiki/Q139737666)  
-
-### alignments:
- - [Fratuertium/Fratuentium](https://pleiades.stoa.org/places/446244)
-
-
 ## Q139762276
 [https://www.wikidata.org/wiki/Q139762276](https://www.wikidata.org/wiki/Q139762276)  
 
@@ -54266,7 +54287,7 @@
 [https://www.wikidata.org/wiki/Q4674175](https://www.wikidata.org/wiki/Q4674175)  
 
 ### alignments:
- - [Acinippo](https://pleiades.stoa.org/places/255950)
+ - [Acinippo/Ronda la Vieja](https://pleiades.stoa.org/places/255950)
 
 
 ## Q4678184: Ad Turres
@@ -54638,7 +54659,7 @@
 [https://www.wikidata.org/wiki/Q516783](https://www.wikidata.org/wiki/Q516783)  
 
 ### alignments:
- - [Château-Bas](https://pleiades.stoa.org/places/148046)
+ - [Château-Bas (Roman Temple)](https://pleiades.stoa.org/places/148046)
 
 
 ## Q517374: San Giorgio in Velabro

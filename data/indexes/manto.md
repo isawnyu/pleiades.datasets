@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1095 alignments exist in _Pleiades_ place references as of 2026-06-24. The following list of alignments is grouped by zotkey.
+1096 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3493,6 +3493,13 @@
 
 ### alignments:
  - [Kyparissia](https://pleiades.stoa.org/places/573325)
+
+
+## 11308435: Amphigeneia (Elis)
+[https://resource.manto.unh.edu/11308435](https://resource.manto.unh.edu/11308435)  
+
+### alignments:
+ - [Amphigeneia](https://pleiades.stoa.org/places/573083)
 
 
 ## 11308487: the Sanctuary of the Daughters of Ion (Elis)
