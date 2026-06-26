@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2381 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
+2383 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -14647,6 +14647,13 @@
  - [Gonia](https://pleiades.stoa.org/places/716566)
 
 
+## 8C1 (Talbert 356)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace356.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace356.html)  
+
+### alignments:
+ - [Nemeseo/Hemeseo](https://pleiades.stoa.org/places/718035)
+
+
 ## 8C1 (Talbert 357)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace357.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace357.html)  
 
@@ -14701,6 +14708,13 @@
 
 ### alignments:
  - [Hierapytna](https://pleiades.stoa.org/places/589807)
+
+
+## 8C2 (Talbert 359)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace359.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace359.html)  
+
+### alignments:
+ - [Ainesisphyra/Ennesyphora/Nesus](https://pleiades.stoa.org/places/716507)
 
 
 ## 8C2 (Talbert 361)

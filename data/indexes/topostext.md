@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5060 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
+5067 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -973,7 +973,7 @@
 [https://topostext.org/place/387210EASo](https://topostext.org/place/387210EASo)  
 
 ### alignments:
- - [Ag. Sophia](https://pleiades.stoa.org/places/530781)
+ - [Ag. Sophia (Mytikas)](https://pleiades.stoa.org/places/530781)
 
 
 ## Ag. Sophia tower (Lemnos)
@@ -1451,6 +1451,13 @@
 
 ### alignments:
  - [Aineia](https://pleiades.stoa.org/places/491513)
+
+
+## Ainesippeia islands (Egypt)
+[https://topostext.org/place/315275IAin](https://topostext.org/place/315275IAin)  
+
+### alignments:
+ - [Ainesipp(ei)a/Nesoi Inss.](https://pleiades.stoa.org/places/716505)
 
 
 ## Ainesisphyra? Akron (Egypt)
@@ -7947,6 +7954,13 @@
  - [Charybdis](https://pleiades.stoa.org/places/462157)
 
 
+## Chautaion/Chettaia (Egypt)
+[https://topostext.org/place/314265UCha](https://topostext.org/place/314265UCha)  
+
+### alignments:
+ - [Chautaion/Chettaia](https://pleiades.stoa.org/places/716543)
+
+
 ## Cheimerion cape (Preveza)
 [https://topostext.org/place/393203LChe](https://topostext.org/place/393203LChe)  
 
@@ -9200,6 +9214,13 @@
 
 ### alignments:
  - [Deris](https://pleiades.stoa.org/places/501397)
+
+
+## Derras (Egypt)
+[https://topostext.org/place/308289UDer](https://topostext.org/place/308289UDer)  
+
+### alignments:
+ - [Derras](https://pleiades.stoa.org/places/716549)
 
 
 ## Derris cape (Chalkidike) 11 Cape Ambelos - Δέρρις
@@ -18285,6 +18306,13 @@
  - [Lacus Curtius](https://pleiades.stoa.org/places/459049147)
 
 
+## Ladamantia (Egypt)
+[https://topostext.org/place/311276ULad](https://topostext.org/place/311276ULad)  
+
+### alignments:
+ - [Ladamantia](https://pleiades.stoa.org/places/716585)
+
+
 ## Lade (Caria)
 [https://topostext.org/place/375272ILad](https://topostext.org/place/375272ILad)  
 
@@ -23882,6 +23910,13 @@
  - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
 
 
+## Oxus R. (Asia)
+[https://topostext.org/place/372673WOxu](https://topostext.org/place/372673WOxu)  
+
+### alignments:
+ - [Oxus (river)](https://pleiades.stoa.org/places/59969)
+
+
 ## Oxyneia? (Thessaly) 4 Xirokambos - Οξύνεια
 [https://topostext.org/place/399228POxy](https://topostext.org/place/399228POxy)  
 
@@ -25479,6 +25514,13 @@
 
 ### alignments:
  - [Petra](https://pleiades.stoa.org/places/491691)
+
+
+## Petras Megas (Egypt)
+[https://topostext.org/place/317250UPet](https://topostext.org/place/317250UPet)  
+
+### alignments:
+ - [Petras Megas](https://pleiades.stoa.org/places/716619)
 
 
 ## Petrera EC church (Cyprus)  N Marathovounos
@@ -34130,6 +34172,13 @@
  - [(S)Tymphaia](https://pleiades.stoa.org/places/541116)
 
 
+## Tyndareioi isl. (Egypt)
+[https://topostext.org/place/315265ITyn](https://topostext.org/place/315265ITyn)  
+
+### alignments:
+ - [Tyndareioi (islands)](https://pleiades.stoa.org/places/716642)
+
+
 ## Tyndaris (Sicily)
 [https://topostext.org/place/381150PTyn](https://topostext.org/place/381150PTyn)  
 
@@ -35248,6 +35297,7 @@
 [https://topostext.org/place/315275LZep](https://topostext.org/place/315275LZep)  
 
 ### alignments:
+ - [Zephyrion Akron](https://pleiades.stoa.org/places/716652)
  - [Zephyrion](https://pleiades.stoa.org/places/716651)
 
 

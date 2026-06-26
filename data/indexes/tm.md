@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5118 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
+5129 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2866,6 +2866,13 @@
  - [Anthedon/Agrippias](https://pleiades.stoa.org/places/687826)
 
 
+## GEO ID 11124: Petra Megale (Bardia)
+[https://www.trismegistos.org/place/11124](https://www.trismegistos.org/place/11124)  
+
+### alignments:
+ - [Petras Megas](https://pleiades.stoa.org/places/716619)
+
+
 ## GEO ID 11129: Glaukon Akron
 [https://www.trismegistos.org/place/11129](https://www.trismegistos.org/place/11129)  
 
@@ -5554,6 +5561,13 @@
 
 ### alignments:
  - [Larinum](https://pleiades.stoa.org/places/442629)
+
+
+## GEO ID 1447: Nesoi
+[https://www.trismegistos.org/place/1447](https://www.trismegistos.org/place/1447)  
+
+### alignments:
+ - [Ainesisphyra/Ennesyphora/Nesus](https://pleiades.stoa.org/places/716507)
 
 
 ## GEO ID 14481: Teanum Apulum (San Paolo di Civitate)
@@ -16822,6 +16836,13 @@
  - [Pistoriae](https://pleiades.stoa.org/places/403254)
 
 
+## GEO ID 3210: Thennesos (Kom Tennis)
+[http://www.trismegistos.org/place/3210](http://www.trismegistos.org/place/3210)  
+
+### alignments:
+ - [Thenessos](https://pleiades.stoa.org/places/727247)
+
+
 ## GEO ID 32118: Saturnia
 [http://www.trismegistos.org/place/32118](http://www.trismegistos.org/place/32118)  
 
@@ -21864,6 +21885,13 @@
  - [Nilus (river)](https://pleiades.stoa.org/places/727172)
 
 
+## GEO ID 3959: Gonia (Acroma)
+[https://www.trismegistos.org/place/3959](https://www.trismegistos.org/place/3959)  
+
+### alignments:
+ - [Gonia](https://pleiades.stoa.org/places/716566)
+
+
 ## GEO ID 395: Bambyke (Manbij)
 [http://www.trismegistos.org/place/395](http://www.trismegistos.org/place/395)  
 
@@ -21890,6 +21918,13 @@
 
 ### alignments:
  - [Dumana](https://pleiades.stoa.org/places/805607)
+
+
+## GEO ID 4014: Derris (Ras Gibeisa)
+[https://www.trismegistos.org/place/4014](https://www.trismegistos.org/place/4014)  
+
+### alignments:
+ - [Derras](https://pleiades.stoa.org/places/716549)
 
 
 ## GEO ID 40224: Tuniza (La Calle)
@@ -31052,6 +31087,13 @@
  - [Ain Amour](https://pleiades.stoa.org/places/776143)
 
 
+## GEO ID 4901: Zawyet Umm el-Rakham
+[https://www.trismegistos.org/place/4901](https://www.trismegistos.org/place/4901)  
+
+### alignments:
+ - [Apis](https://pleiades.stoa.org/places/716526)
+
+
 ## GEO ID 4908: Askut
 [https://www.trismegistos.org/place/4908](https://www.trismegistos.org/place/4908)  
 
@@ -31457,6 +31499,13 @@
 
 ### alignments:
  - [Dravus (river)](https://pleiades.stoa.org/places/197253)
+
+
+## GEO ID 5127: Tell Tebilla
+[https://www.trismegistos.org/place/5127](https://www.trismegistos.org/place/5127)  
+
+### alignments:
+ - [Phernouphis](https://pleiades.stoa.org/places/727200)
 
 
 ## GEO ID 51296: Sapis (Savio)
@@ -32509,6 +32558,13 @@
 
 ### alignments:
  - [Deir Amba Baramos](https://pleiades.stoa.org/places/727106)
+
+
+## GEO ID 5908: Nemesion
+[https://www.trismegistos.org/place/5908](https://www.trismegistos.org/place/5908)  
+
+### alignments:
+ - [Nemeseo/Hemeseo](https://pleiades.stoa.org/places/718035)
 
 
 ## GEO ID 59291: Kalanthia (Eski Erdemli)
@@ -34656,6 +34712,13 @@
  - [Tsimistea](https://pleiades.stoa.org/places/737097)
 
 
+## GEO ID 7751: Tyndarioi Skopeloi (Ishaila Rocks)
+[https://www.trismegistos.org/place/7751](https://www.trismegistos.org/place/7751)  
+
+### alignments:
+ - [Tyndareioi (islands)](https://pleiades.stoa.org/places/716642)
+
+
 ## GEO ID 7767: Tchonemyris (Qasr el-Zaiyan)
 [http://www.trismegistos.org/place/7767](http://www.trismegistos.org/place/7767)  
 
@@ -34901,6 +34964,13 @@
  - [Athychis](https://pleiades.stoa.org/places/741436)
 
 
+## GEO ID 8348: Ainesippeia
+[https://www.trismegistos.org/place/8348](https://www.trismegistos.org/place/8348)  
+
+### alignments:
+ - [Ainesipp(ei)a/Nesoi Inss.](https://pleiades.stoa.org/places/716505)
+
+
 ## GEO ID 8349: Ainesisphyra (Sidi Barrani)
 [https://www.trismegistos.org/place/8349](https://www.trismegistos.org/place/8349)  
 
@@ -34969,6 +35039,13 @@
 
 ### alignments:
  - [Antibacchias (island)](https://pleiades.stoa.org/places/40043)
+
+
+## GEO ID 8550: Antipyrgos (Tobruk)
+[https://www.trismegistos.org/place/8550](https://www.trismegistos.org/place/8550)  
+
+### alignments:
+ - [Antipyrgos](https://pleiades.stoa.org/places/716525)
 
 
 ## GEO ID 855: Spain

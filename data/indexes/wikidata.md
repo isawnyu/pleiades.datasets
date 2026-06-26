@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10949 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
+10962 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1534,7 +1534,7 @@
 [https://www.wikidata.org/wiki/Q113757165](https://www.wikidata.org/wiki/Q113757165)  
 
 ### alignments:
- - [Ag. Sophia](https://pleiades.stoa.org/places/530781)
+ - [Ag. Sophia (Mytikas)](https://pleiades.stoa.org/places/530781)
 
 
 ## Aginnum (Q2826856)
@@ -1880,6 +1880,13 @@
  - [Ain Dara temple](https://pleiades.stoa.org/places/818918654)
 
 
+## Ain el-Muftilla (Q14223990)
+[https://www.wikidata.org/wiki/Q14223990](https://www.wikidata.org/wiki/Q14223990)  
+
+### alignments:
+ - [el-Muftella](https://pleiades.stoa.org/places/716602)
+
+
 ## Ain Harcha Roman Temple (Q135269682)
 [https://www.wikidata.org/wiki/Q135269682](https://www.wikidata.org/wiki/Q135269682)  
 
@@ -2124,6 +2131,13 @@
 
 ### alignments:
  - [el-Gheraia](https://pleiades.stoa.org/places/354124)
+
+
+## Al Qa‘rah (Q105988538)
+[https://www.wikidata.org/wiki/Q105988538](https://www.wikidata.org/wiki/Q105988538)  
+
+### alignments:
+ - [el-Gara](https://pleiades.stoa.org/places/716556)
 
 
 ## Al Ḩamrā’ (Q106015512)
@@ -7873,6 +7887,13 @@
 
 ### alignments:
  - [Barcombe Hill Roman Signal Station](https://pleiades.stoa.org/places/512867195)
+
+
+## Bardia (Q141687)
+[https://www.wikidata.org/wiki/Q141687](https://www.wikidata.org/wiki/Q141687)  
+
+### alignments:
+ - [Petras Megas](https://pleiades.stoa.org/places/716619)
 
 
 ## Bardili (Q16950333)
@@ -17340,6 +17361,13 @@
 
 ### alignments:
  - [Dal'verzin tepe](https://pleiades.stoa.org/places/971739)
+
+
+## Damanhur (Q328153)
+[https://www.wikidata.org/wiki/Q328153](https://www.wikidata.org/wiki/Q328153)  
+
+### alignments:
+ - [Hermopolis Mikra](https://pleiades.stoa.org/places/727123)
 
 
 ## Damascus (Q3766)
@@ -32650,6 +32678,13 @@
  - [Marruvium](https://pleiades.stoa.org/places/432927)
 
 
+## Marsa Lukk (Q105988345)
+[https://www.wikidata.org/wiki/Q105988345](https://www.wikidata.org/wiki/Q105988345)  
+
+### alignments:
+ - [Marsa Lucch](https://pleiades.stoa.org/places/716598)
+
+
 ## Marsiliana d'Albegna (Q2855078)
 [https://www.wikidata.org/wiki/Q2855078](https://www.wikidata.org/wiki/Q2855078)  
 
@@ -32669,6 +32704,20 @@
 
 ### alignments:
  - [Antidrepanon Akroterion](https://pleiades.stoa.org/places/363923)
+
+
+## Marsá Bū al ‘Ifrīt (Q105407096)
+[https://www.wikidata.org/wiki/Q105407096](https://www.wikidata.org/wiki/Q105407096)  
+
+### alignments:
+ - [Kyrthanion](https://pleiades.stoa.org/places/716584)
+
+
+## Marsá Qābis (Q105988375)
+[https://www.wikidata.org/wiki/Q105988375](https://www.wikidata.org/wiki/Q105988375)  
+
+### alignments:
+ - [Marsa Gabes](https://pleiades.stoa.org/places/716597)
 
 
 ## Martanum (Q21235205)
@@ -40757,6 +40806,13 @@
 
 ### alignments:
  - [Pheraia](https://pleiades.stoa.org/places/570597)
+
+
+## Phernouphis (Q104845485)
+[https://www.wikidata.org/wiki/Q104845485](https://www.wikidata.org/wiki/Q104845485)  
+
+### alignments:
+ - [Phernouphis](https://pleiades.stoa.org/places/727200)
 
 
 ## Phigalia (Q7623270)
@@ -54234,13 +54290,6 @@
  - [Mahabodhi Temple](https://pleiades.stoa.org/places/713767971)
 
 
-## Q451698: Amada
-[https://www.wikidata.org/wiki/Q451698](https://www.wikidata.org/wiki/Q451698)  
-
-### alignments:
- - [Temple of Amada](https://pleiades.stoa.org/places/683591498)
-
-
 ## Q4536138: Temple of the Sun
 [https://www.wikidata.org/wiki/Q4536138](https://www.wikidata.org/wiki/Q4536138)  
 
@@ -62867,6 +62916,13 @@
  - [Macchia delle Valli, Vetralla](https://pleiades.stoa.org/places/251060662)
 
 
+## Santuario di Santa Maria Regina di Anglona (Q3950050)
+[https://www.wikidata.org/wiki/Q3950050](https://www.wikidata.org/wiki/Q3950050)  
+
+### alignments:
+ - [Santuario di Santa Maria Regina di Anglona](https://pleiades.stoa.org/places/218737684)
+
+
 ## Santuario italico di Schiavi d'Abruzzo (Q3950119)
 [https://www.wikidata.org/wiki/Q3950119](https://www.wikidata.org/wiki/Q3950119)  
 
@@ -67365,6 +67421,13 @@
  - [Tell el-'Oueili](https://pleiades.stoa.org/places/636257512)
 
 
+## Tell el-Balamun (Q2402247)
+[https://www.wikidata.org/wiki/Q2402247](https://www.wikidata.org/wiki/Q2402247)  
+
+### alignments:
+ - [Diospolis Kato](https://pleiades.stoa.org/places/727111)
+
+
 ## Tell el-Far'ah (Q86755613)
 [https://www.wikidata.org/wiki/Q86755613](https://www.wikidata.org/wiki/Q86755613)  
 
@@ -67622,6 +67685,13 @@
 
 ### alignments:
  - [Temple of Adonis](https://pleiades.stoa.org/places/888638013)
+
+
+## Temple of Amada (Q11951235)
+[https://www.wikidata.org/wiki/Q11951235](https://www.wikidata.org/wiki/Q11951235)  
+
+### alignments:
+ - [Temple of Amada](https://pleiades.stoa.org/places/683591498)
 
 
 ## Temple of Amenhotep II (Q18008311)
@@ -70032,6 +70102,13 @@
 
 ### alignments:
  - [Tmolus (mountain)](https://pleiades.stoa.org/places/550937)
+
+
+## Tobruk (Q182092)
+[https://www.wikidata.org/wiki/Q182092](https://www.wikidata.org/wiki/Q182092)  
+
+### alignments:
+ - [Antipyrgos](https://pleiades.stoa.org/places/716525)
 
 
 ## Tocherknowe Roman fortlet (Q132855968)
@@ -76216,6 +76293,20 @@
 
 ### alignments:
  - [Zau Taberna?](https://pleiades.stoa.org/places/373912)
+
+
+## Zawiyat al-Murassas (Q104904097)
+[https://www.wikidata.org/wiki/Q104904097](https://www.wikidata.org/wiki/Q104904097)  
+
+### alignments:
+ - [Miceris](https://pleiades.stoa.org/places/716601)
+
+
+## Zawiyet Umm el-Rakham (Q167780)
+[https://www.wikidata.org/wiki/Q167780](https://www.wikidata.org/wiki/Q167780)  
+
+### alignments:
+ - [Apis](https://pleiades.stoa.org/places/716526)
 
 
 ## Zeleia (Q3177640)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1096 alignments exist in _Pleiades_ place references as of 2026-06-25. The following list of alignments is grouped by zotkey.
+1098 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3804,6 +3804,13 @@
  - [Chimaira](https://pleiades.stoa.org/places/638801)
 
 
+## 11311477: the Tyndareian Rocks (Libya)
+[https://resource.manto.unh.edu/11311477](https://resource.manto.unh.edu/11311477)  
+
+### alignments:
+ - [Tyndareioi (islands)](https://pleiades.stoa.org/places/716642)
+
+
 ## 11311483: Altamura (Apulia)
 [https://resource.manto.unh.edu/11311483](https://resource.manto.unh.edu/11311483)  
 
@@ -4579,6 +4586,13 @@
 
 ### alignments:
  - [Peucetii](https://pleiades.stoa.org/places/442714)
+
+
+## 11323165: Paraitonion (Egypt)
+[https://resource.manto.unh.edu/11323165](https://resource.manto.unh.edu/11323165)  
+
+### alignments:
+ - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
 
 
 ## 11324108: Acte (Chalcidice)
