@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5129 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
+5131 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -691,6 +691,13 @@
 
 ### alignments:
  - [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
+
+
+## Geo 22268: Adranon (Adrano)
+[https://www.trismegistos.org/place/22268](https://www.trismegistos.org/place/22268)  
+
+### alignments:
+ - [Adranon](https://pleiades.stoa.org/places/462074)
 
 
 ## Geo 22359: Alpes Maritimae
@@ -1716,6 +1723,13 @@
  - [Korone](https://pleiades.stoa.org/places/570371)
 
 
+## Geo 38114: Thouria
+[https://www.trismegistos.org/place/38114](https://www.trismegistos.org/place/38114)  
+
+### alignments:
+ - [Thouria](https://pleiades.stoa.org/places/570733)
+
+
 ## Geo 38116: Abai
 [https://www.trismegistos.org/place/38116](https://www.trismegistos.org/place/38116)  
 
@@ -2394,6 +2408,13 @@
 
 ### alignments:
  - [Onysia (island)](https://pleiades.stoa.org/places/589961)
+
+
+## Geo 61091: Nymphaios Limen (Porto Conte)
+[https://www.trismegistos.org/place/61091](https://www.trismegistos.org/place/61091)  
+
+### alignments:
+ - [Nymphaios Limen](https://pleiades.stoa.org/places/471985)
 
 
 ## Geo 61168: Seres
@@ -4868,6 +4889,13 @@
 
 ### alignments:
  - [Nola](https://pleiades.stoa.org/places/432981)
+
+
+## GEO ID 14342
+[http://www.trismegistos.org/place/14342](http://www.trismegistos.org/place/14342)  
+
+### alignments:
+ - [Suessula](https://pleiades.stoa.org/places/433133)
 
 
 ## GEO ID 14343: Calatia (San Giacomo delle Galazze)
@@ -11401,13 +11429,6 @@
  - [Aeoliae (islands)](https://pleiades.stoa.org/places/462076)
 
 
-## GEO ID 22268: Adranon (Adrano)
-[http://www.trismegistos.org/place/22268](http://www.trismegistos.org/place/22268)  
-
-### alignments:
- - [Adranon](https://pleiades.stoa.org/places/462074)
-
-
 ## GEO ID 22269: Agyrion (Agira)
 [http://www.trismegistos.org/place/22269](http://www.trismegistos.org/place/22269)  
 
@@ -16759,7 +16780,7 @@
  - [Soracte (mountain)](https://pleiades.stoa.org/places/413317)
 
 
-## GEO ID 32058
+## GEO ID 32058: Ferentium (Ferento)
 [http://www.trismegistos.org/place/32058](http://www.trismegistos.org/place/32058)  
 
 ### alignments:
@@ -33426,13 +33447,6 @@
 
 ### alignments:
  - [Aeaea](https://pleiades.stoa.org/places/621604967)
-
-
-## GEO ID 61091: Nymphaios Limen (Porto Conte)
-[https://www.trismegistos.org/place/61091](https://www.trismegistos.org/place/61091)  
-
-### alignments:
- - [Nymphaios Limen](https://pleiades.stoa.org/places/471985)
 
 
 ## GEO ID 61101: Corioli

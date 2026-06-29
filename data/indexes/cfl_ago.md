@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-472 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
+473 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3073,6 +3073,13 @@
 
 ### alignments:
  - [Argos Amphilochikon](https://pleiades.stoa.org/places/530809)
+
+
+## Toponyme 69917: Asclepieion, Épidaure, Epidaurus, Sanctuaire, Sanctuary-Ασκληπιείο Επιδαύρου, το / ιερό (τ.Αρχαία Επίδαυρος,η)
+[https://chronique.efa.gr/?r=topo_public&id=69917](https://chronique.efa.gr/?r=topo_public&id=69917)  
+
+### alignments:
+ - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
 
 
 ## Toponyme 69979: Dikili Tash

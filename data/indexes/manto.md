@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1098 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
+1099 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2961,6 +2961,13 @@
 
 ### alignments:
  - [Lagaria](https://pleiades.stoa.org/places/456082)
+
+
+## 11300708: Boubastis (Egypt)
+[https://resource.manto.unh.edu/11300708](https://resource.manto.unh.edu/11300708)  
+
+### alignments:
+ - [Boubastis](https://pleiades.stoa.org/places/727088)
 
 
 ## 11300730: Troy (Egypt)

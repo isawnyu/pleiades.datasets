@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10962 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
+10971 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -335,6 +335,13 @@
 
 ### alignments:
  - [Abrittus](https://pleiades.stoa.org/places/216688)
+
+
+## Absa Salla (Q331674)
+[https://www.wikidata.org/wiki/Q331674](https://www.wikidata.org/wiki/Q331674)  
+
+### alignments:
+ - [Absasallensis](https://pleiades.stoa.org/places/321633)
 
 
 ## Abthugni (Q334495)
@@ -801,6 +808,13 @@
  - [Acumincum](https://pleiades.stoa.org/places/206874)
 
 
+## Ad Aesim (Q140371237)
+[https://www.wikidata.org/wiki/Q140371237](https://www.wikidata.org/wiki/Q140371237)  
+
+### alignments:
+ - [Ad Aesim](https://pleiades.stoa.org/places/412988)
+
+
 ## ad Bivium (Q136419004)
 [https://www.wikidata.org/wiki/Q136419004](https://www.wikidata.org/wiki/Q136419004)  
 
@@ -1023,6 +1037,13 @@
 
 ### alignments:
  - [Adramyttium](https://pleiades.stoa.org/places/550403)
+
+
+## Adranon (Q28219837)
+[https://www.wikidata.org/wiki/Q28219837](https://www.wikidata.org/wiki/Q28219837)  
+
+### alignments:
+ - [Adranon](https://pleiades.stoa.org/places/462074)
 
 
 ## Adriatic Veneti (Q220379)
@@ -5114,6 +5135,13 @@
 
 ### alignments:
  - [Arch of Caracalla](https://pleiades.stoa.org/places/806216683)
+
+
+## Arch of Diocletian (Q42760424)
+[https://www.wikidata.org/wiki/Q42760424](https://www.wikidata.org/wiki/Q42760424)  
+
+### alignments:
+ - [Arch of Diocletian](https://pleiades.stoa.org/places/349338481)
 
 
 ## Arch of Galerius and Rotunda (Q1258082)
@@ -16957,6 +16985,13 @@
  - [Cupra Maritima](https://pleiades.stoa.org/places/413112)
 
 
+## Cupra Montana (Q136340795)
+[https://www.wikidata.org/wiki/Q136340795](https://www.wikidata.org/wiki/Q136340795)  
+
+### alignments:
+ - [Cupra Montana](https://pleiades.stoa.org/places/413113)
+
+
 ## Cures (Q2246183)
 [https://www.wikidata.org/wiki/Q2246183](https://www.wikidata.org/wiki/Q2246183)  
 
@@ -20803,6 +20838,13 @@
 
 ### alignments:
  - [Ferentinum](https://pleiades.stoa.org/places/432830)
+
+
+## Ferentium (Q597347)
+[https://www.wikidata.org/wiki/Q597347](https://www.wikidata.org/wiki/Q597347)  
+
+### alignments:
+ - [Ferentium](https://pleiades.stoa.org/places/413132)
 
 
 ## Fern Pass (Q667984)
@@ -41096,6 +41138,13 @@
  - [Piana di Monte Verna](https://pleiades.stoa.org/places/262148219)
 
 
+## Pianello Vallesina (Q532704)
+[https://www.wikidata.org/wiki/Q532704](https://www.wikidata.org/wiki/Q532704)  
+
+### alignments:
+ - [Planina](https://pleiades.stoa.org/places/413263)
+
+
 ## Piano di Sorrento (Q72346)
 [https://www.wikidata.org/wiki/Q72346](https://www.wikidata.org/wiki/Q72346)  
 
@@ -41675,6 +41724,13 @@
 
 ### alignments:
  - [Poggio di Moscona](https://pleiades.stoa.org/places/664290121)
+
+
+## Poggio Evangelista (Q8545662)
+[https://www.wikidata.org/wiki/Q8545662](https://www.wikidata.org/wiki/Q8545662)  
+
+### alignments:
+ - [Poggio Evangelista](https://pleiades.stoa.org/places/963441585)
 
 
 ## Poggio Gramignano Roman Villa (Q66945050)
@@ -42284,6 +42340,13 @@
 
 ### alignments:
  - [Ponte Sodo](https://pleiades.stoa.org/places/980216943)
+
+
+## Ponte Tufaro (Q134568215)
+[https://www.wikidata.org/wiki/Q134568215](https://www.wikidata.org/wiki/Q134568215)  
+
+### alignments:
+ - [Ponte Tufaro](https://pleiades.stoa.org/places/747659417)
 
 
 ## Pontecorvo (Q117186)
@@ -46572,13 +46635,6 @@
 
 ### alignments:
  - [Campus Caledianus](https://pleiades.stoa.org/places/679258819)
-
-
-## Q134568215
-[https://www.wikidata.org/wiki/Q134568215](https://www.wikidata.org/wiki/Q134568215)  
-
-### alignments:
- - [Ponte Tufaro](https://pleiades.stoa.org/places/747659417)
 
 
 ## Q13464976: Potamos Deiradiotes
@@ -53813,13 +53869,6 @@
  - [Roman baths at Fundi](https://pleiades.stoa.org/places/520736511)
 
 
-## Q3990836: Thouria, Messenia
-[https://www.wikidata.org/wiki/Q3990836](https://www.wikidata.org/wiki/Q3990836)  
-
-### alignments:
- - [Thouria](https://pleiades.stoa.org/places/570733)
-
-
 ## Q3991613: Tino di Moscona
 [https://www.wikidata.org/wiki/Q3991613](https://www.wikidata.org/wiki/Q3991613)  
 
@@ -54087,13 +54136,6 @@
  - [Roman theater at Sufetula](https://pleiades.stoa.org/places/66403500)
 
 
-## Q42760424: Arch of Diocletian
-[https://www.wikidata.org/wiki/Q42760424](https://www.wikidata.org/wiki/Q42760424)  
-
-### alignments:
- - [Arch of Diocletian](https://pleiades.stoa.org/places/349338481)
-
-
 ## Q42760508: Amphitheatre of Sbeitla
 [https://www.wikidata.org/wiki/Q42760508](https://www.wikidata.org/wiki/Q42760508)  
 
@@ -54120,13 +54162,6 @@
 
 ### alignments:
  - [Tadinae](https://pleiades.stoa.org/places/413330)
-
-
-## Q42856942: Tuficum
-[https://www.wikidata.org/wiki/Q42856942](https://www.wikidata.org/wiki/Q42856942)  
-
-### alignments:
- - [Tuficum](https://pleiades.stoa.org/places/413355)
 
 
 ## Q42884454
@@ -55073,13 +55108,6 @@
 
 ### alignments:
  - [Tall el Hammam (Jordan)](https://pleiades.stoa.org/places/858395098)
-
-
-## Q55634900: Temple of Al-Lat
-[https://www.wikidata.org/wiki/Q55634900](https://www.wikidata.org/wiki/Q55634900)  
-
-### alignments:
- - [Temple of Al-Lat at Palmyra](https://pleiades.stoa.org/places/215749623)
 
 
 ## Q55640121: Jebel Moya
@@ -66306,6 +66334,13 @@
  - [Suessiones](https://pleiades.stoa.org/places/109356)
 
 
+## Suessula (Q2274328)
+[https://www.wikidata.org/wiki/Q2274328](https://www.wikidata.org/wiki/Q2274328)  
+
+### alignments:
+ - [Suessula](https://pleiades.stoa.org/places/433133)
+
+
 ## Sulaiman-Too (Q750190)
 [https://www.wikidata.org/wiki/Q750190](https://www.wikidata.org/wiki/Q750190)  
 
@@ -67685,6 +67720,13 @@
 
 ### alignments:
  - [Temple of Adonis](https://pleiades.stoa.org/places/888638013)
+
+
+## Temple of Al-Lat (Q55634900)
+[https://www.wikidata.org/wiki/Q55634900](https://www.wikidata.org/wiki/Q55634900)  
+
+### alignments:
+ - [Temple of Al-Lat at Palmyra](https://pleiades.stoa.org/places/215749623)
 
 
 ## Temple of Amada (Q11951235)
@@ -69612,6 +69654,13 @@
 
 ### alignments:
  - [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+
+
+## Thuria (Q9090574)
+[https://www.wikidata.org/wiki/Q9090574](https://www.wikidata.org/wiki/Q9090574)  
+
+### alignments:
+ - [Thouria](https://pleiades.stoa.org/places/570733)
 
 
 ## Thuriae (Q98398630)
@@ -72022,6 +72071,13 @@
  - [Tucci/Col. Augusta Gemella](https://pleiades.stoa.org/places/266070)
 
 
+## Tuficum (Q42856942)
+[https://www.wikidata.org/wiki/Q42856942](https://www.wikidata.org/wiki/Q42856942)  
+
+### alignments:
+ - [Tuficum](https://pleiades.stoa.org/places/413355)
+
+
 ## Tugunbulak (Q130708103)
 [https://www.wikidata.org/wiki/Q130708103](https://www.wikidata.org/wiki/Q130708103)  
 
@@ -73007,6 +73063,13 @@
 
 ### alignments:
  - [Ucetia](https://pleiades.stoa.org/places/148222)
+
+
+## Uşaklı Höyük (Q114635661)
+[https://www.wikidata.org/wiki/Q114635661](https://www.wikidata.org/wiki/Q114635661)  
+
+### alignments:
+ - [Uşaklı Höyük](https://pleiades.stoa.org/places/512530798)
 
 
 ## Užice (Q59473)

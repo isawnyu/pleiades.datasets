@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5067 alignments exist in _Pleiades_ place references as of 2026-06-26. The following list of alignments is grouped by zotkey.
+5070 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -575,6 +575,13 @@
 
 ### alignments:
  - [Acumincum](https://pleiades.stoa.org/places/206874)
+
+
+## Ad Aesim (Italia)
+[https://topostext.org/place/434126UAes](https://topostext.org/place/434126UAes)  
+
+### alignments:
+ - [Ad Aesim](https://pleiades.stoa.org/places/412988)
 
 
 ## Ad Ansam (Britannia)
@@ -4378,6 +4385,13 @@
 
 ### alignments:
  - [Ariminum](https://pleiades.stoa.org/places/393379)
+
+
+## Aris river (Messenia) 1 Aris
+[https://topostext.org/place/371230WAri](https://topostext.org/place/371230WAri)  
+
+### alignments:
+ - [Aris (river)](https://pleiades.stoa.org/places/570107)
 
 
 ## Arisba (Lesvos)
@@ -11774,6 +11788,13 @@
 
 ### alignments:
  - [Forum Cambusis?](https://pleiades.stoa.org/places/795808)
+
+
+## Forum Cassii (Italia)
+[https://topostext.org/place/423121UFCa](https://topostext.org/place/423121UFCa)  
+
+### alignments:
+ - [Forum Cassii](https://pleiades.stoa.org/places/413144)
 
 
 ## Forum Cornelii (Italia)
