@@ -2,7 +2,9 @@
     "@type": "Place",
     "bbox": null,
     "connections": [],
-    "connectsWith": [],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/991341"
+    ],
     "contributors": [
         {
             "name": "R. Warner",
@@ -31,15 +33,15 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-09-28T04:50:15Z",
+    "created": "2026-06-26T20:10:11Z",
     "creators": [
         {
             "name": "R.B. Hitchner",
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 32 unlocated Absasallensis",
-    "details": "The Barrington Atlas Directory notes: in Proconsularis?",
+    "description": "A late antique \"episcopus Absasallensis\" is attested, but the bishopric seems to have been nowhere else mentioned. It probably lay in Africa proconsularis.",
+    "details": "<p>The Barrington Atlas Directory notes: in Proconsularis?</p>",
     "features": [
         {
             "geometry": null,
@@ -55,6 +57,21 @@
         }
     ],
     "history": [
+        {
+            "comment": "replaced pro forma BAtlas reference for unlocated place with a precise BAtlDir page reference",
+            "modified": "2026-06-26T20:19:01Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "summary; place type += settlement",
+            "modified": "2026-06-26T20:16:03Z",
+            "modifiedBy": "thomase"
+        },
+        {
+            "comment": "added Wikidata reference provided by Wikidata contributors; cleaned up RE reference",
+            "modified": "2026-06-26T20:14:37Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2024-05-03T13:19:20Z",
@@ -228,6 +245,11 @@
             "end": 640,
             "history": [
                 {
+                    "comment": "Baseline created",
+                    "modified": "2026-06-26T20:19:14Z",
+                    "modifiedBy": "thomase"
+                },
+                {
                     "comment": "Global migration and reindexing of citations and provenance, February 2012",
                     "modified": "2012-02-15T04:14:28Z",
                     "modifiedBy": "admin"
@@ -262,22 +284,24 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated"
+        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
     ],
     "placeTypes": [
-        "unlocated"
+        "unlocated",
+        "settlement"
     ],
     "provenance": "Barrington Atlas: BAtlas 32 Absasallensis",
     "references": [
         {
-            "accessURI": "http://www.worldcat.org/oclc/43970336",
+            "accessURI": "https://search.worldcat.org/title/45084869",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
-            "citationDetail": "32 Absasallensis",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+            "citationDetail": "page 505 see \"Absasallensis\" sub \"Unlocated Toponyms\"",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A., ed. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
             "otherIdentifier": " ",
-            "shortTitle": "BAtlas",
+            "shortTitle": "BAtlDir",
             "type": "seeFurther"
         },
         {
@@ -295,12 +319,23 @@
             "accessURI": "https://de.m.wikisource.org/wiki/RE:Absasalla",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "Absasalla",
+            "citationDetail": "Absasalla (Joh. Schmidt)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
             "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q331674",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Absa Salla (Q331674)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": null,
