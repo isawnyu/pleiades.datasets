@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5070 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
+5075 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -114,11 +114,39 @@
  - [Helisson](https://pleiades.stoa.org/places/570282)
 
 
+## 376224SPos
+[https://topostext.org/place/376224SPos](https://topostext.org/place/376224SPos)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
+
+
 ## 377228FPyr: Pyrgouthi tower (Argolid) Prosymna - Πύργουθι
 [https://topostext.org/place/377228FPyr](https://topostext.org/place/377228FPyr)  
 
 ### alignments:
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
+
+
+## 379229SAph
+[https://topostext.org/place/379229SAph](https://topostext.org/place/379229SAph)  
+
+### alignments:
+ - [Temple of Aphrodite on the Acrocorinth](https://pleiades.stoa.org/places/516817907)
+
+
+## 380237CPan
+[https://topostext.org/place/380237CPan](https://topostext.org/place/380237CPan)  
+
+### alignments:
+ - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
+
+
+## 380237SAna
+[https://topostext.org/place/380237SAna](https://topostext.org/place/380237SAna)  
+
+### alignments:
+ - [Sanctuary of the Dioscouri at Athens](https://pleiades.stoa.org/places/982681751)
 
 
 ## 383233FEle
@@ -673,6 +701,13 @@
 
 ### alignments:
  - [Adranon](https://pleiades.stoa.org/places/462074)
+
+
+## Adranon?/Monte Adranone (Sicily)
+[https://topostext.org/place/377131UAdr](https://topostext.org/place/377131UAdr)  
+
+### alignments:
+ - [Monte Adranone (Adranon?)](https://pleiades.stoa.org/places/462073)
 
 
 ## Adrasteia (Mysia)
@@ -19850,6 +19885,7 @@
 
 ### alignments:
  - [Lykosoura](https://pleiades.stoa.org/places/570444)
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
 
 
 ## Lykouria (Arkadia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10971 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
+10977 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3497,6 +3497,13 @@
 
 ### alignments:
  - [Anakaia?](https://pleiades.stoa.org/places/579864)
+
+
+## Anakeion (Q484363)
+[https://www.wikidata.org/wiki/Q484363](https://www.wikidata.org/wiki/Q484363)  
+
+### alignments:
+ - [Sanctuary of the Dioscouri at Athens](https://pleiades.stoa.org/places/982681751)
 
 
 ## Anamares (Q133871498)
@@ -42895,6 +42902,13 @@
  - [Vatreni Portus](https://pleiades.stoa.org/places/397895)
 
 
+## Poseidon Hippios sanctuary at Mantineia (Q17574778)
+[https://www.wikidata.org/Q17574778](https://www.wikidata.org/Q17574778)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
+
+
 ## Poseidon Temple of Isthmia (Q18385210)
 [https://www.wikidata.org/wiki/Q18385210](https://www.wikidata.org/wiki/Q18385210)  
 
@@ -53386,6 +53400,13 @@
  - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
 
 
+## Q38281257
+[https://www.wikidata.org/wiki/Q38281257](https://www.wikidata.org/wiki/Q38281257)  
+
+### alignments:
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
+
+
 ## Q38281278: Methymna
 [https://www.wikidata.org/wiki/Q38281278](https://www.wikidata.org/wiki/Q38281278)  
 
@@ -62601,6 +62622,13 @@
  - [Theater-temple complex, Monte San Nicola](https://pleiades.stoa.org/places/251442732)
 
 
+## Sanctuary of Pan in Athens (Q61755042)
+[https://www.wikidata.org/wiki/Q61755042](https://www.wikidata.org/wiki/Q61755042)  
+
+### alignments:
+ - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
+
+
 ## Sanctuary of Pandion (Q3818592)
 [https://www.wikidata.org/wiki/Q3818592](https://www.wikidata.org/wiki/Q3818592)  
 
@@ -67757,6 +67785,13 @@
  - [Temple of Aphlad](https://pleiades.stoa.org/places/888638015)
 
 
+## Temple of Aphrodite at Acrocorinth (Q57559776)
+[https://www.wikidata.org/wiki/Q57559776](https://www.wikidata.org/wiki/Q57559776)  
+
+### alignments:
+ - [Temple of Aphrodite on the Acrocorinth](https://pleiades.stoa.org/places/516817907)
+
+
 ## Temple of Aphrodite Urania (Q2118071)
 [https://www.wikidata.org/wiki/Q2118071](https://www.wikidata.org/wiki/Q2118071)  
 
@@ -70291,6 +70326,13 @@
 
 ### alignments:
  - [Tomb of Gaius Vestorius Priscus](https://pleiades.stoa.org/places/118633297)
+
+
+## Tomb of Castor in Sparta (Q124616316)
+[https://www.wikidata.org/wiki/Q124616316](https://www.wikidata.org/wiki/Q124616316)  
+
+### alignments:
+ - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
 
 
 ## Tomb of Charmylos (Q83731063)

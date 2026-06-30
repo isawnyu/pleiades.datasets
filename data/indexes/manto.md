@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1099 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
+1109 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -898,11 +898,25 @@
  - [Sanctuary of Artemis Anaiitis in Lydia](https://pleiades.stoa.org/places/550456)
 
 
+## 10150378: the Sanctuary of Athena Poliouchos at Sparta
+[https://resource.manto.unh.edu/10150378](https://resource.manto.unh.edu/10150378)  
+
+### alignments:
+ - [Sanctuary of Athena Chalkioikos](https://pleiades.stoa.org/places/894656845)
+
+
 ## 10150527: Cichyros
 [https://resource.manto.unh.edu/10150527](https://resource.manto.unh.edu/10150527)  
 
 ### alignments:
  - [Ephyra/Kichyros](https://pleiades.stoa.org/places/530870)
+
+
+## 10150989: the Sanctuary of the Dioscouroi at Athens
+[https://resource.manto.unh.edu/10150989](https://resource.manto.unh.edu/10150989)  
+
+### alignments:
+ - [Sanctuary of the Dioscouri at Athens](https://pleiades.stoa.org/places/982681751)
 
 
 ## 10151045: Teuthrone
@@ -919,6 +933,13 @@
  - [Amnisos](https://pleiades.stoa.org/places/524143100)
 
 
+## 10151068: the Sanctuary of Poseidon at Mantineia
+[https://resource.manto.unh.edu/10151068](https://resource.manto.unh.edu/10151068)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
+
+
 ## 10151142: Pharis
 [https://resource.manto.unh.edu/10151142](https://resource.manto.unh.edu/10151142)  
 
@@ -931,6 +952,13 @@
 
 ### alignments:
  - [Syrna](https://pleiades.stoa.org/places/599953)
+
+
+## 10151177: the Tomb of Castor (Sparta)
+[https://resource.manto.unh.edu/10151177](https://resource.manto.unh.edu/10151177)  
+
+### alignments:
+ - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
 
 
 ## 10151508: The Sanctuary of Apollo Lyceios (Athens)
@@ -1092,6 +1120,13 @@
 
 ### alignments:
  - [Myrgion/Tithion (mountain)](https://pleiades.stoa.org/places/573382)
+
+
+## 10158885: the Sanctuary of Asclepios at Epidauros (Argolid)
+[https://resource.manto.unh.edu/10158885](https://resource.manto.unh.edu/10158885)  
+
+### alignments:
+ - [Sanctuary of Asklepios at Epidauros](https://pleiades.stoa.org/places/570127)
 
 
 ## 10158897: Aricia (Italy)
@@ -1547,6 +1582,13 @@
 
 ### alignments:
  - [Kabeirion](https://pleiades.stoa.org/places/540844)
+
+
+## 10214639: the Sanctuary of Despoina at Lycosoura (Arcadia)
+[https://resource.manto.unh.edu/10214639](https://resource.manto.unh.edu/10214639)  
+
+### alignments:
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
 
 
 ## 10214779: Methana (Argolid)
@@ -2606,6 +2648,13 @@
  - [Geronthrai](https://pleiades.stoa.org/places/570263)
 
 
+## 11288895: the Temple of Aphrodite at Corinth
+[https://resource.manto.unh.edu/11288895](https://resource.manto.unh.edu/11288895)  
+
+### alignments:
+ - [Temple of Aphrodite on the Acrocorinth](https://pleiades.stoa.org/places/516817907)
+
+
 ## 11289217: the Sanctuary of Diana Nemorensis at Aricia (Italy)
 [https://resource.manto.unh.edu/11289217](https://resource.manto.unh.edu/11289217)  
 
@@ -3108,6 +3157,13 @@
 
 ### alignments:
  - [Leontini](https://pleiades.stoa.org/places/462279)
+
+
+## 11302884: the Sanctuary of the Dioscouroi at Sparta
+[https://resource.manto.unh.edu/11302884](https://resource.manto.unh.edu/11302884)  
+
+### alignments:
+ - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
 
 
 ## 11303256: Aiolia
@@ -4411,6 +4467,13 @@
 
 ### alignments:
  - [Shop with dwelling (VII.4.22)](https://pleiades.stoa.org/places/743364991)
+
+
+## 11320106: the Sanctuary of Pan at Athens
+[https://resource.manto.unh.edu/11320106](https://resource.manto.unh.edu/11320106)  
+
+### alignments:
+ - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
 
 
 ## 11320290: Nepet (Etruria)
@@ -6673,6 +6736,13 @@
 
 ### alignments:
  - [Dolopia](https://pleiades.stoa.org/places/540737)
+
+
+## 9619261: the Sanctuary of Pandrosos at Athens
+[https://resource.manto.unh.edu/9619261](https://resource.manto.unh.edu/9619261)  
+
+### alignments:
+ - [Pandroseion](https://pleiades.stoa.org/places/936968680)
 
 
 ## 9619274: the Thriasian Plain (Attica)

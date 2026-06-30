@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-542 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
+547 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -69,6 +69,13 @@
 
 ### alignments:
  - [Ephyra/Kichyros](https://pleiades.stoa.org/places/530870)
+
+
+## 1.18.1-2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.18.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.18.1)  
+
+### alignments:
+ - [Sanctuary of the Dioscouri at Athens](https://pleiades.stoa.org/places/982681751)
 
 
 ## 1.18.1
@@ -1365,6 +1372,13 @@
  - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
 
 
+## 2.5.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.5.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.5.1)  
+
+### alignments:
+ - [Temple of Aphrodite on the Acrocorinth](https://pleiades.stoa.org/places/516817907)
+
+
 ## 2.5.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.5.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.5.2)  
 
@@ -1441,6 +1455,13 @@
 
 ### alignments:
  - [Skotitas](https://pleiades.stoa.org/places/570678)
+
+
+## 3.13.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.13.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.13.1)  
+
+### alignments:
+ - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
 
 
 ## 3.16.4
@@ -2852,12 +2873,26 @@
  - [Alesion (mountain)](https://pleiades.stoa.org/places/570064)
 
 
+## 8.10.2-5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.10.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.10.2)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
+
+
 ## 8.11.12
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.12](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.12)  
 
 ### alignments:
  - [Sicilia (island)](https://pleiades.stoa.org/places/462492)
  - [Sikelia hill](https://pleiades.stoa.org/places/585959)
+
+
+## 8.11.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.11.1)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
 
 
 ## 8.11.7
@@ -4009,6 +4044,7 @@
  - [Pegai](https://pleiades.stoa.org/places/573430)
  - [Petrosaka](https://pleiades.stoa.org/places/573440)
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
  - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
  - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
  - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)

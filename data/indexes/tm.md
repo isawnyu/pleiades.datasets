@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5131 alignments exist in _Pleiades_ place references as of 2026-06-29. The following list of alignments is grouped by zotkey.
+5132 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -431,6 +431,13 @@
  - [Ortygia (island)](https://pleiades.stoa.org/places/462402)
 
 
+## Geo 15670: Camerton
+[https://www.trismegistos.org/place/15670](https://www.trismegistos.org/place/15670)  
+
+### alignments:
+ - [Camerton](https://pleiades.stoa.org/places/79370)
+
+
 ## Geo 1568: Palestina
 [https://www.trismegistos.org/place/1568](https://www.trismegistos.org/place/1568)  
 
@@ -627,6 +634,13 @@
 
 ### alignments:
  - [Thimisua](https://pleiades.stoa.org/places/315211)
+
+
+## Geo 1824: Piamouei (Biahmu)
+[https://www.trismegistos.org/place/1824](https://www.trismegistos.org/place/1824)  
+
+### alignments:
+ - [Andrianton](https://pleiades.stoa.org/places/736887)
 
 
 ## Geo 1890: Polyrrenia
@@ -1840,6 +1854,13 @@
 
 ### alignments:
  - [Boiodurum/Boiotro](https://pleiades.stoa.org/places/118606)
+
+
+## Geo 41337: Vindenis (Podujeva)
+[https://www.trismegistos.org/place/41337](https://www.trismegistos.org/place/41337)  
+
+### alignments:
+ - [‘Vindenis’](https://pleiades.stoa.org/places/207551)
 
 
 ## Geo 41382: Naulochon (Bayraklı)
@@ -7169,13 +7190,6 @@
 
 ### alignments:
  - [Eridanos](https://pleiades.stoa.org/places/591471666)
-
-
-## GEO ID 15670: Camerton
-[http://www.trismegistos.org/place/15670](http://www.trismegistos.org/place/15670)  
-
-### alignments:
- - [Camerton](https://pleiades.stoa.org/places/79370)
 
 
 ## GEO ID 15678: Crowdundle quarries
@@ -24320,13 +24334,6 @@
 
 ### alignments:
  - [Ad Picaria(s)](https://pleiades.stoa.org/places/481700)
-
-
-## GEO ID 41337: Vindenis (Podujeva)
-[https://www.trismegistos.org/place/41337](https://www.trismegistos.org/place/41337)  
-
-### alignments:
- - [‘Vindenis’](https://pleiades.stoa.org/places/207551)
 
 
 ## GEO ID 41338: Ad Herculem (Žitorađa)
