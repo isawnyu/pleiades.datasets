@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5132 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
+5134 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -641,6 +641,13 @@
 
 ### alignments:
  - [Andrianton](https://pleiades.stoa.org/places/736887)
+
+
+## Geo 182: Ankyropolis (El-Hiba)
+[https://www.trismegistos.org/place/182](https://www.trismegistos.org/place/182)  
+
+### alignments:
+ - [Ankyronpolis](https://pleiades.stoa.org/places/736888)
 
 
 ## Geo 1890: Polyrrenia
@@ -2296,6 +2303,13 @@
 
 ### alignments:
  - [Hypnia?](https://pleiades.stoa.org/places/540828)
+
+
+## Geo 5584: Mallo (Aliab?)
+[https://www.trismegistos.org/place/5584](https://www.trismegistos.org/place/5584)  
+
+### alignments:
+ - [Mallo](https://pleiades.stoa.org/places/805625)
 
 
 ## Geo 56034: Aisepos (Gönen Çay)

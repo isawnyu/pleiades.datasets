@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1109 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
+1112 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2506,6 +2506,13 @@
 
 ### alignments:
  - [Pallene](https://pleiades.stoa.org/places/580051)
+
+
+## 10853926: the Academy (Athens)
+[https://resource.manto.unh.edu/10853926](https://resource.manto.unh.edu/10853926)  
+
+### alignments:
+ - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
 
 
 ## 10956126: the Sanctuary of Athena Sciras at Phaleron (Attica)
@@ -5064,6 +5071,13 @@
  - [Temple of Artemis (Aulis)](https://pleiades.stoa.org/places/741537853)
 
 
+## 11329851: the Sanctuary of Vulcan in the Roman Forum (Rome)
+[https://resource.manto.unh.edu/11329851](https://resource.manto.unh.edu/11329851)  
+
+### alignments:
+ - [Volcanal](https://pleiades.stoa.org/places/980748445)
+
+
 ## 11329858: the Vatican Hill (Rome)
 [https://resource.manto.unh.edu/11329858](https://resource.manto.unh.edu/11329858)  
 
@@ -5174,6 +5188,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## 11334891: Alalcomenai (Ithaca)
+[https://resource.manto.unh.edu/11334891](https://resource.manto.unh.edu/11334891)  
+
+### alignments:
+ - [Al(al)komenai](https://pleiades.stoa.org/places/530791)
 
 
 ## 8188000: Charybdis

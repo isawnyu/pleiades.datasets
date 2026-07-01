@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5075 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
+5077 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -855,6 +855,13 @@
 
 ### alignments:
  - [Ag. Berenike](https://pleiades.stoa.org/places/550407)
+
+
+## Ag. Demetrios (Phthiotis) Kouvelos
+[https://topostext.org/place/388224SADe](https://topostext.org/place/388224SADe)  
+
+### alignments:
+ - [Ag. Demetrios](https://pleiades.stoa.org/places/540593)
 
 
 ## Ag. Dimitrios church (Zakynthos)  Melinado
@@ -2929,6 +2936,13 @@
 
 ### alignments:
  - [Ankyle Kathyperthen](https://pleiades.stoa.org/places/579870)
+
+
+## Ankyronpolis (Egypt) 2 el-Hiba - Αγκυρών
+[https://topostext.org/place/287309UAnk](https://topostext.org/place/287309UAnk)  
+
+### alignments:
+ - [Ankyronpolis](https://pleiades.stoa.org/places/736888)
 
 
 ## Anopolis (Chania)

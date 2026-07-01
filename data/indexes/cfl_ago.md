@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-473 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
+475 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -897,13 +897,6 @@
 
 ### alignments:
  - [Kaisareia](https://pleiades.stoa.org/places/491625)
-
-
-## Toponym 21301: Kalapodi, Kalapodion, Abai
-[https://chronique.efa.gr/?kroute=topo_public&id=21301](https://chronique.efa.gr/?kroute=topo_public&id=21301)  
-
-### alignments:
- - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
 
 
 ## Toponym 21333: Elis, Ilis, Palaiopolis
@@ -2065,6 +2058,13 @@
  - [Orchomenos (Arcadia)](https://pleiades.stoa.org/places/570535)
 
 
+## Toponyme 21301: Kalapodi, Kalapodion, Abai-Καλαπόδι, Αβαί
+[https://chronique.efa.gr/?r=topo_public&id=21301](https://chronique.efa.gr/?r=topo_public&id=21301)  
+
+### alignments:
+ - [Temple of Artemis and Apollo](https://pleiades.stoa.org/places/955675680)
+
+
 ## Toponyme 21316: Kalandra-Δ.Δ.Καλάνδρας
 [https://chronique.efa.gr/?r=topo_public&id=21316](https://chronique.efa.gr/?r=topo_public&id=21316)  
 
@@ -3110,6 +3110,13 @@
  - [Molyvoti/Stryme?](https://pleiades.stoa.org/places/501628)
 
 
+## Toponyme 70002: Académie de Platon, Academy of Plato-Ακαδημία Πλάτωνος
+[https://chronique.efa.gr/](https://chronique.efa.gr/)  
+
+### alignments:
+ - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
 ## Toponyme 70012: Dréros
 [https://chronique.efa.gr/?kroute=topo_public&id=70012](https://chronique.efa.gr/?kroute=topo_public&id=70012)  
 
@@ -3241,6 +3248,13 @@
 
 ### alignments:
  - [Chani Kokkonas](https://pleiades.stoa.org/places/113317585)
+
+
+## Toponyme 70108: Athens North, Académie de Platon, Academy of Plato, Kolonos, Athènes quartiers Nord-Ακαδημία Πλάτωνος, Αθήνα κέντρο-βόρεια
+[https://chronique.efa.gr/?r=topo_public&id=70108](https://chronique.efa.gr/?r=topo_public&id=70108)  
+
+### alignments:
+ - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
 
 
 ## Toponyme 7255: Pyrrichos, Kavalon

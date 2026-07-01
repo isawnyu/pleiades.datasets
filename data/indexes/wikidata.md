@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10977 alignments exist in _Pleiades_ place references as of 2026-06-30. The following list of alignments is grouped by zotkey.
+10982 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -19719,6 +19719,13 @@
  - [Eleusis](https://pleiades.stoa.org/places/599607)
 
 
+## Eleutherna (ancient city) (Q1328347)
+[https://www.wikidata.org/wiki/Q1328347](https://www.wikidata.org/wiki/Q1328347)  
+
+### alignments:
+ - [Eleutherna](https://pleiades.stoa.org/places/589772)
+
+
 ## Eleutheropolis amphitheatre (Q28974152)
 [https://www.wikidata.org/wiki/Q28974152](https://www.wikidata.org/wiki/Q28974152)  
 
@@ -29609,6 +29616,13 @@
 
 ### alignments:
  - [Lago di Burano](https://pleiades.stoa.org/places/139776558)
+
+
+## Lago di Giulianello (Q568715)
+[https://www.wikidata.org/wiki/Q568715](https://www.wikidata.org/wiki/Q568715)  
+
+### alignments:
+ - [Lago di Giulianello](https://pleiades.stoa.org/places/824974027)
 
 
 ## Lago di Massaciuccoli (Q1236114)
@@ -67813,6 +67827,13 @@
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
 
 
+## Temple of Apollo Epicurius in Bassae (Q38278862)
+[https://www.wikidata.org/wiki/Q38278862](https://www.wikidata.org/wiki/Q38278862)  
+
+### alignments:
+ - [Bassai](https://pleiades.stoa.org/places/570148)
+
+
 ## Temple of Apollo Lepsios (Q134396723)
 [https://www.wikidata.org/wiki/Q134396723](https://www.wikidata.org/wiki/Q134396723)  
 
@@ -71110,6 +71131,13 @@
 
 ### alignments:
  - [Toumba Apsalou (Pella)](https://pleiades.stoa.org/places/781836776)
+
+
+## Tour de Grisset (Q3533349)
+[https://www.wikidata.org/wiki/Q3533349](https://www.wikidata.org/wiki/Q3533349)  
+
+### alignments:
+ - [Tour de Gresset](https://pleiades.stoa.org/places/138623)
 
 
 ## Tour de la Chèvre d'Or (Q15953404)
@@ -75432,6 +75460,13 @@
 
 ### alignments:
  - [Vroulia](https://pleiades.stoa.org/places/590093)
+
+
+## Vulcanal (Q1671649)
+[https://www.wikidata.org/wiki/Q1671649](https://www.wikidata.org/wiki/Q1671649)  
+
+### alignments:
+ - [Volcanal](https://pleiades.stoa.org/places/980748445)
 
 
 ## Vulcano (Q207323)
