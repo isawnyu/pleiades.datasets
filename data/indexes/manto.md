@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1112 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
+1113 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -5181,6 +5181,13 @@
 
 ### alignments:
  - [Hermion(e)](https://pleiades.stoa.org/places/570292)
+
+
+## 11334151: Amiternon (Italy)
+[https://resource.manto.unh.edu/11334151](https://resource.manto.unh.edu/11334151)  
+
+### alignments:
+ - [Amiternum](https://pleiades.stoa.org/places/413013)
 
 
 ## 11334321: Alsium (Italy)

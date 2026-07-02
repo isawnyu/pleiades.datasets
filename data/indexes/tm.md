@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5134 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
+5135 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -861,6 +861,13 @@
  - [Acci/Col. Iulia Gemella](https://pleiades.stoa.org/places/265765)
 
 
+## Geo 2727: Abu Sha'ar
+[https://www.trismegistos.org/place/2727](https://www.trismegistos.org/place/2727)  
+
+### alignments:
+ - [Abu Sha'ar](https://pleiades.stoa.org/places/766332)
+
+
 ## Geo 2728: Therma
 [https://www.trismegistos.org/place/2728](https://www.trismegistos.org/place/2728)  
 
@@ -908,6 +915,13 @@
 
 ### alignments:
  - [Lapethos/Lepethis Phoinikon](https://pleiades.stoa.org/places/707555)
+
+
+## Geo 27989: Karben
+[https://www.trismegistos.org/place/27989](https://www.trismegistos.org/place/27989)  
+
+### alignments:
+ - [Karben](https://pleiades.stoa.org/places/118777)
 
 
 ## Geo 2808: Plinthine
@@ -1905,6 +1919,13 @@
  - [Berenice/Berenike](https://pleiades.stoa.org/places/785986)
 
 
+## Geo 41746: Ad Palmam
+[https://www.trismegistos.org/place/41746](https://www.trismegistos.org/place/41746)  
+
+### alignments:
+ - [Ad Palmam](https://pleiades.stoa.org/places/344285)
+
+
 ## Geo 41756: Taricheiai (Henchir el-Mdeina)
 [http://www.trismegistos.org/place/41756](http://www.trismegistos.org/place/41756)  
 
@@ -2445,6 +2466,13 @@
  - [Onysia (island)](https://pleiades.stoa.org/places/589961)
 
 
+## Geo 61084: Metauron (Gioia Tauro)
+[https://www.trismegistos.org/place/61084](https://www.trismegistos.org/place/61084)  
+
+### alignments:
+ - [Metaurum](https://pleiades.stoa.org/places/452379)
+
+
 ## Geo 61091: Nymphaios Limen (Porto Conte)
 [https://www.trismegistos.org/place/61091](https://www.trismegistos.org/place/61091)  
 
@@ -2492,6 +2520,13 @@
 
 ### alignments:
  - [Pityoussa/Petrossa? (island)](https://pleiades.stoa.org/places/648739)
+
+
+## Geo 61467: Skolopoeis (Doğanbey)
+[https://www.trismegistos.org/place/61467](https://www.trismegistos.org/place/61467)  
+
+### alignments:
+ - [Skolopoeis](https://pleiades.stoa.org/places/599940)
 
 
 ## Geo 62623: Teumessos (Mesovouni)
@@ -13913,13 +13948,6 @@
 
 ### alignments:
  - [Auso](https://pleiades.stoa.org/places/246212)
-
-
-## GEO ID 2727: Abu Sha'ar
-[http://www.trismegistos.org/place/2727](http://www.trismegistos.org/place/2727)  
-
-### alignments:
- - [Abu Sha'ar](https://pleiades.stoa.org/places/766332)
 
 
 ## GEO ID 27291: Gerunda (Gerona)
@@ -25526,13 +25554,6 @@
  - [Ad Ammonem](https://pleiades.stoa.org/places/344284)
 
 
-## GEO ID 41746: Ad Palmam
-[https://www.trismegistos.org/place/41746](https://www.trismegistos.org/place/41746)  
-
-### alignments:
- - [Ad Palmam](https://pleiades.stoa.org/places/344285)
-
-
 ## GEO ID 41747: Ausere fl.
 [https://www.trismegistos.org/place/41747](https://www.trismegistos.org/place/41747)  
 
@@ -33449,13 +33470,6 @@
  - [Scylla](https://pleiades.stoa.org/places/452436)
 
 
-## GEO ID 61084: Metauron (Gioia Tauro)
-[https://www.trismegistos.org/place/61084](https://www.trismegistos.org/place/61084)  
-
-### alignments:
- - [Metaurum](https://pleiades.stoa.org/places/452379)
-
-
 ## GEO ID 61086: Zephyrion
 [https://www.trismegistos.org/place/61086](https://www.trismegistos.org/place/61086)  
 
@@ -33692,13 +33706,6 @@
 
 ### alignments:
  - [Batanaia/Basanitis](https://pleiades.stoa.org/places/678054)
-
-
-## GEO ID 61467: Skolopoeis (Doğanbey)
-[https://www.trismegistos.org/place/61467](https://www.trismegistos.org/place/61467)  
-
-### alignments:
- - [Skolopoeis](https://pleiades.stoa.org/places/599940)
 
 
 ## GEO ID 61473: Patara (Eren Tepe)

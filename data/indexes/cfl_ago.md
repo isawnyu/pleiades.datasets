@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-475 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
+477 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1924,6 +1924,13 @@
  - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
+## Toponyme 14999: Vrachasion (Anavlochos)-Δ.Δ. Βραχασίου
+[https://chronique.efa.gr/?r=topo_public&id=14999](https://chronique.efa.gr/?r=topo_public&id=14999)  
+
+### alignments:
+ - [Anavlokhos](https://pleiades.stoa.org/places/589691)
+
+
 ## Toponyme 15809: Abdère, Abdera, Avdira
 [https://chronique.efa.gr/?kroute=topo_public&id=15809](https://chronique.efa.gr/?kroute=topo_public&id=15809)  
 
@@ -2715,6 +2722,13 @@
 
 ### alignments:
  - [Aptera](https://pleiades.stoa.org/places/589704)
+
+
+## Toponyme 39147: Agathonision, ancient Tragia-Αγαθονήσι, αρχαία Τραγιά
+[https://chronique.efa.gr/?r=topo_public&id=39147](https://chronique.efa.gr/?r=topo_public&id=39147)  
+
+### alignments:
+ - [Tragia (island)](https://pleiades.stoa.org/places/599986)
 
 
 ## Toponyme 39338: Lindos

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5077 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
+5080 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -323,6 +323,13 @@
 
 ### alignments:
  - [Ab(ou)la/Al(a)ba](https://pleiades.stoa.org/places/265763)
+
+
+## Abrettene (Mysia) 5 between Rhyndakos fl. and Makestos fl.
+[https://topostext.org/place/396287RAbr](https://topostext.org/place/396287RAbr)  
+
+### alignments:
+ - [Abrettene](https://pleiades.stoa.org/places/609289)
 
 
 ## Abrincas/Ingena
@@ -2726,6 +2733,13 @@
 
 ### alignments:
  - [Anauros (river)](https://pleiades.stoa.org/places/540634)
+
+
+## Anavlokhos site (Crete) Vrakhasi - Ανάβλοχος
+[https://topostext.org/place/353256XAna](https://topostext.org/place/353256XAna)  
+
+### alignments:
+ - [Anavlokhos](https://pleiades.stoa.org/places/589691)
 
 
 ## Anazarbos (Cilicia)
@@ -14712,6 +14726,13 @@
 
 ### alignments:
  - [Indus/Sinthos/Phison (river)](https://pleiades.stoa.org/places/59851)
+
+
+## Industria (Liguria)
+[https://topostext.org/place/452080UInd](https://topostext.org/place/452080UInd)  
+
+### alignments:
+ - [Industria/Bodincomagum?](https://pleiades.stoa.org/places/383677)
 
 
 ## Interamna Nahars (Italy)

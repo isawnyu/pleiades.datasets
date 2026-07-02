@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10982 alignments exist in _Pleiades_ place references as of 2026-07-01. The following list of alignments is grouped by zotkey.
+10996 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1200,6 +1200,13 @@
  - [Aigialos](https://pleiades.stoa.org/places/844852)
 
 
+## Aegina (Q57394139)
+[https://www.wikidata.org/wiki/Q57394139](https://www.wikidata.org/wiki/Q57394139)  
+
+### alignments:
+ - [Aigina (settlement)](https://pleiades.stoa.org/places/579853)
+
+
 ## Aegospotami (Q404513)
 [https://www.wikidata.org/wiki/Q404513](https://www.wikidata.org/wiki/Q404513)  
 
@@ -2292,6 +2299,13 @@
 
 ### alignments:
  - [Korakesion](https://pleiades.stoa.org/places/638933)
+
+
+## Alatri (Q18400)
+[https://www.wikidata.org/wiki/Q18400](https://www.wikidata.org/wiki/Q18400)  
+
+### alignments:
+ - [Aletrium](https://pleiades.stoa.org/places/432664)
 
 
 ## Alatzomouri Pefka (Q136767797)
@@ -3546,6 +3560,13 @@
 
 ### alignments:
  - [Anatolike](https://pleiades.stoa.org/places/1001136)
+
+
+## Anavlochos archaeological site (Q140393198)
+[https://www.wikidata.org/wiki/Q140393198](https://www.wikidata.org/wiki/Q140393198)  
+
+### alignments:
+ - [Anavlokhos](https://pleiades.stoa.org/places/589691)
 
 
 ## Anavros (Q4752411)
@@ -12433,6 +12454,13 @@
  - [Casa di Properzio](https://pleiades.stoa.org/places/902282876)
 
 
+## Casa di Stephanus (Q27070446)
+[https://www.wikidata.org/wiki/Q27070446](https://www.wikidata.org/wiki/Q27070446)  
+
+### alignments:
+ - [Casa del pomarius Felix ](https://pleiades.stoa.org/places/769901808)
+
+
 ## Casa di Trittolemo (Q27687258)
 [https://www.wikidata.org/wiki/Q27687258](https://www.wikidata.org/wiki/Q27687258)  
 
@@ -12529,6 +12557,13 @@
 
 ### alignments:
  - [Gladiators' barracks](https://pleiades.stoa.org/places/182931393)
+
+
+## Casinum (Q5048900)
+[https://www.wikidata.org/wiki/Q5048900](https://www.wikidata.org/wiki/Q5048900)  
+
+### alignments:
+ - [Casinum](https://pleiades.stoa.org/places/432764)
 
 
 ## Casinum amphitheatre (Q28978014)
@@ -17643,6 +17678,13 @@
  - [Daulis](https://pleiades.stoa.org/places/540723)
 
 
+## Dayr Umm Duhays (Q57724109)
+[https://www.wikidata.org/wiki/Q57724109](https://www.wikidata.org/wiki/Q57724109)  
+
+### alignments:
+ - [Abu Sha'ar](https://pleiades.stoa.org/places/766332)
+
+
 ## Dağdeviren Höyüğü (Q132182869)
 [https://www.wikidata.org/wiki/Q132182869](https://www.wikidata.org/wiki/Q132182869)  
 
@@ -21309,6 +21351,13 @@
  - [Fortunatae Insulae (Canary Islands)](https://pleiades.stoa.org/places/149334673)
 
 
+## Foruli (Q5864288)
+[https://www.wikidata.org/wiki/Q5864288](https://www.wikidata.org/wiki/Q5864288)  
+
+### alignments:
+ - [Foruli](https://pleiades.stoa.org/places/413142)
+
+
 ## Forum (Q56258478)
 [https://www.wikidata.org/wiki/Q56258478](https://www.wikidata.org/wiki/Q56258478)  
 
@@ -21440,6 +21489,13 @@
 
 ### alignments:
  - [Forum of Cosa](https://pleiades.stoa.org/places/6218928)
+
+
+## Forum of Lucus Feroniae (Q140395024)
+[https://www.wikidata.org/wiki/Q140395024](https://www.wikidata.org/wiki/Q140395024)  
+
+### alignments:
+ - [Forum of Lucus Feroniae](https://pleiades.stoa.org/places/507853727)
 
 
 ## Forum of Nerva (Q686911)
@@ -21699,6 +21755,13 @@
 
 ### alignments:
  - [Frocester](https://pleiades.stoa.org/places/79471)
+
+
+## Frosinone (Q13413)
+[https://www.wikidata.org/wiki/Q13413](https://www.wikidata.org/wiki/Q13413)  
+
+### alignments:
+ - [Frusino](https://pleiades.stoa.org/places/432852)
 
 
 ## Frosolone (Q279196)
@@ -25604,6 +25667,13 @@
  - [Chozoviotissa Monastery](https://pleiades.stoa.org/places/246728612)
 
 
+## http://www.wikidata.org/entity/Q305667
+[https://www.wikidata.org/wiki/Q305667](https://www.wikidata.org/wiki/Q305667)  
+
+### alignments:
+ - [Abastanoi/Sambastai](https://pleiades.stoa.org/places/59648)
+
+
 ## Hu (Q1227091)
 [https://www.wikidata.org/wiki/Q1227091](https://www.wikidata.org/wiki/Q1227091)  
 
@@ -26323,6 +26393,13 @@
 
 ### alignments:
  - [Indus Delta](https://pleiades.stoa.org/places/281606373)
+
+
+## Industria (Q3798380)
+[https://www.wikidata.org/wiki/Q3798380](https://www.wikidata.org/wiki/Q3798380)  
+
+### alignments:
+ - [Industria/Bodincomagum?](https://pleiades.stoa.org/places/383677)
 
 
 ## Ingaevones (Q1097118)
@@ -36790,6 +36867,13 @@
  - [Nerikos?](https://pleiades.stoa.org/places/531012)
 
 
+## Nerola (Q65046409)
+[https://www.wikidata.org/wiki/Q65046409](https://www.wikidata.org/wiki/Q65046409)  
+
+### alignments:
+ - [*Nerola](https://pleiades.stoa.org/places/511335)
+
+
 ## Nertobriga Concordia Iulia (Q6041035)
 [https://www.wikidata.org/wiki/Q6041035](https://www.wikidata.org/wiki/Q6041035)  
 
@@ -45666,7 +45750,6 @@
 [https://www.wikidata.org/wiki/Q1241278](https://www.wikidata.org/wiki/Q1241278)  
 
 ### alignments:
- - [Casa del pomarius Felix ](https://pleiades.stoa.org/places/769901808)
  - [Horti Sallustiani](https://pleiades.stoa.org/places/166405461)
 
 
@@ -46936,6 +47019,13 @@
 
 ### alignments:
  - [Zagora](https://pleiades.stoa.org/places/590097)
+
+
+## Q140394984
+[https://www.wikidata.org/wiki/Q140394984](https://www.wikidata.org/wiki/Q140394984)  
+
+### alignments:
+ - [Villa romana della Standa a Fiano Romano](https://pleiades.stoa.org/places/109944633)
 
 
 ## Q1407535: Venta Icenorum
@@ -48690,13 +48780,6 @@
  - [Roall auxiliary fort](https://pleiades.stoa.org/places/571616794)
 
 
-## Q17676449: Roman villa at Kirk Sink
-[https://www.wikidata.org/wiki/Q17676449](https://www.wikidata.org/wiki/Q17676449)  
-
-### alignments:
- - [Kirk Sink](https://pleiades.stoa.org/places/89217)
-
-
 ## Q17676994: Two Roman forts and two Roman camps at St Andrew's Hill
 [https://www.wikidata.org/wiki/Q17676994](https://www.wikidata.org/wiki/Q17676994)  
 
@@ -48877,13 +48960,6 @@
 
 ### alignments:
  - [Regio I, Ostia Antica](https://pleiades.stoa.org/places/461688683)
-
-
-## Q18400: Alatri
-[https://www.wikidata.org/wiki/Q18400](https://www.wikidata.org/wiki/Q18400)  
-
-### alignments:
- - [Aletrium](https://pleiades.stoa.org/places/432664)
 
 
 ## Q18432478:
@@ -49108,7 +49184,6 @@
 
 ### alignments:
  - [Aegina (island)](https://pleiades.stoa.org/places/579844)
- - [Aigina (settlement)](https://pleiades.stoa.org/places/579853)
 
 
 ## Q191504: Leptis Magna
@@ -50896,13 +50971,6 @@
 
 ### alignments:
  - [Akriai](https://pleiades.stoa.org/places/570058)
-
-
-## Q25860174: Villa romana
-[https://www.wikidata.org/wiki/Q25860174](https://www.wikidata.org/wiki/Q25860174)  
-
-### alignments:
- - [Avezzano Roman villa](https://pleiades.stoa.org/places/640346165)
 
 
 ## Q2586760
@@ -56573,13 +56641,6 @@
  - [Temple of the Winged Lions](https://pleiades.stoa.org/places/777218560)
 
 
-## Q65070176: Skolopoeis
-[https://www.wikidata.org/wiki/Q65070176](https://www.wikidata.org/wiki/Q65070176)  
-
-### alignments:
- - [Skolopoeis](https://pleiades.stoa.org/places/599940)
-
-
 ## Q65078553: Pylorus
 [https://www.wikidata.org/wiki/Q65078553](https://www.wikidata.org/wiki/Q65078553)  
 
@@ -61033,6 +61094,13 @@
  - [Gayton Thorpe](https://pleiades.stoa.org/places/79478)
 
 
+## Roman villa at Kirk Sink (Q17676449)
+[https://www.wikidata.org/wiki/Q17676449](https://www.wikidata.org/wiki/Q17676449)  
+
+### alignments:
+ - [Kirk Sink](https://pleiades.stoa.org/places/89217)
+
+
 ## Roman villa at Mill End (Q17660549)
 [https://www.wikidata.org/wiki/Q17660549](https://www.wikidata.org/wiki/Q17660549)  
 
@@ -62942,6 +63010,13 @@
 
 ### alignments:
  - [SS. Marcellino e Pietro](https://pleiades.stoa.org/places/423048)
+
+
+## Santi Nereo e Achilleo (Q2223492)
+[https://www.wikidata.org/wiki/Q2223492](https://www.wikidata.org/wiki/Q2223492)  
+
+### alignments:
+ - [Santi Nereo e Achilleo](https://pleiades.stoa.org/places/778154279)
 
 
 ## Santi Quattro Coronati (Q1536044)
@@ -65113,6 +65188,13 @@
 
 ### alignments:
  - [Skollis (mountain)](https://pleiades.stoa.org/places/570676)
+
+
+## Skolopoeis (Q65070176)
+[https://www.wikidata.org/wiki/Q65070176](https://www.wikidata.org/wiki/Q65070176)  
+
+### alignments:
+ - [Skolopoeis](https://pleiades.stoa.org/places/599940)
 
 
 ## Skopje Aqueduct (Q862032)
@@ -74803,6 +74885,13 @@
  - [Vax/Villa Repentina](https://pleiades.stoa.org/places/344531)
 
 
+## Villa romana (Q25860174)
+[https://www.wikidata.org/wiki/Q25860174](https://www.wikidata.org/wiki/Q25860174)  
+
+### alignments:
+ - [Avezzano Roman villa](https://pleiades.stoa.org/places/640346165)
+
+
 ## Villa romana de Carranque (Q766555)
 [https://www.wikidata.org/wiki/Q766555](https://www.wikidata.org/wiki/Q766555)  
 
@@ -74948,6 +75037,13 @@
 
 ### alignments:
  - [Villa Rufinella](https://pleiades.stoa.org/places/803980452)
+
+
+## Villa rustica "Le Muracche" (Q56220653)
+[https://www.wikidata.org/wiki/Q56220653](https://www.wikidata.org/wiki/Q56220653)  
+
+### alignments:
+ - [Le Muracche Roman villa](https://pleiades.stoa.org/places/505987879)
 
 
 ## Villa rustica (Höflein) (Q123860107)
