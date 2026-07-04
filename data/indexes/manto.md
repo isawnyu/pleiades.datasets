@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1113 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
+1115 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4581,6 +4581,13 @@
  - [Tusculum](https://pleiades.stoa.org/places/423108)
 
 
+## 11321282: Satricum (Italy)
+[https://resource.manto.unh.edu/11321282](https://resource.manto.unh.edu/11321282)  
+
+### alignments:
+ - [Satricum](https://pleiades.stoa.org/places/423060)
+
+
 ## 11321285: Caenina (Italy)
 [https://resource.manto.unh.edu/11321285](https://resource.manto.unh.edu/11321285)  
 
@@ -5188,6 +5195,13 @@
 
 ### alignments:
  - [Amiternum](https://pleiades.stoa.org/places/413013)
+
+
+## 11334154: Ficulea (Latium)
+[https://resource.manto.unh.edu/11334154](https://resource.manto.unh.edu/11334154)  
+
+### alignments:
+ - [Ficulea](https://pleiades.stoa.org/places/422922)
 
 
 ## 11334321: Alsium (Italy)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5080 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
+5084 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -743,6 +743,13 @@
 
 ### alignments:
  - [Aeclanum](https://pleiades.stoa.org/places/442451)
+
+
+## Aefula (Latium)
+[https://topostext.org/place/419129UAef](https://topostext.org/place/419129UAef)  
+
+### alignments:
+ - [Aefula](https://pleiades.stoa.org/places/422821)
 
 
 ## Aegaeae (Cilicia)
@@ -7098,6 +7105,13 @@
  - [Cadmea](https://pleiades.stoa.org/places/239936126)
 
 
+## Caecubus Ager (Italy)
+[https://topostext.org/place/413133LCae](https://topostext.org/place/413133LCae)  
+
+### alignments:
+ - [Caecubus Ager](https://pleiades.stoa.org/places/432729)
+
+
 ## Caelia (Italy)
 [https://topostext.org/place/406175UCae](https://topostext.org/place/406175UCae)  
 
@@ -11732,6 +11746,13 @@
 
 ### alignments:
  - [Ficana](https://pleiades.stoa.org/places/422921)
+
+
+## Ficulea (Latium)
+[https://topostext.org/place/420126UFic](https://topostext.org/place/420126UFic)  
+
+### alignments:
+ - [Ficulea](https://pleiades.stoa.org/places/422922)
 
 
 ## Fidenae (Latium)
@@ -18754,6 +18775,13 @@
 
 ### alignments:
  - [Lateran Obelisk](https://pleiades.stoa.org/places/464741837)
+
+
+## Laterium (Latium
+[https://topostext.org/place/416136ULat](https://topostext.org/place/416136ULat)  
+
+### alignments:
+ - [Laterium](https://pleiades.stoa.org/places/438768)
 
 
 ## Latium region (Italy) 958 Lazio - Λάτιον

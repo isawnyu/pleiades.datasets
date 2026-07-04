@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-10996 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
+11003 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -202,6 +202,13 @@
 
 ### alignments:
  - [Abbotsbury Castle](https://pleiades.stoa.org/places/708926627)
+
+
+## Abbotts Ann Roman villa (Q139765729)
+[https://www.wikidata.org/wiki/Q139765729](https://www.wikidata.org/wiki/Q139765729)  
+
+### alignments:
+ - [Abbotts Ann](https://pleiades.stoa.org/places/79277)
 
 
 ## Abd al Kuri (Q307268)
@@ -13000,6 +13007,13 @@
  - [Castello di Venere](https://pleiades.stoa.org/places/131911426)
 
 
+## Castle of Vicalvi (Q16538186)
+[https://www.wikidata.org/wiki/Q16538186](https://www.wikidata.org/wiki/Q16538186)  
+
+### alignments:
+ - [Castello di Vicalvi](https://pleiades.stoa.org/places/883727892)
+
+
 ## Castle Rising Castle (Q1049485)
 [https://www.wikidata.org/wiki/Q1049485](https://www.wikidata.org/wiki/Q1049485)  
 
@@ -20635,6 +20649,13 @@
 
 ### alignments:
  - [Fagutal](https://pleiades.stoa.org/places/837320803)
+
+
+## Failaka (Q127430235)
+[https://www.wikidata.org/wiki/Q127430235](https://www.wikidata.org/wiki/Q127430235)  
+
+### alignments:
+ - [Failaka/Tell Khazne](https://pleiades.stoa.org/places/912851)
 
 
 ## Failaka Island (Q1392962)
@@ -30372,6 +30393,13 @@
 
 ### alignments:
  - [Lateran Basilica, Palace, and Castra Nova equitum singularium](https://pleiades.stoa.org/places/825912337)
+
+
+## Laterium (Q134808994)
+[https://www.wikidata.org/wiki/Q134808994](https://www.wikidata.org/wiki/Q134808994)  
+
+### alignments:
+ - [Laterium](https://pleiades.stoa.org/places/438768)
 
 
 ## Laterza (Q52016)
@@ -47028,6 +47056,13 @@
  - [Villa romana della Standa a Fiano Romano](https://pleiades.stoa.org/places/109944633)
 
 
+## Q140409546
+[https://www.wikidata.org/wiki/Q140409546](https://www.wikidata.org/wiki/Q140409546)  
+
+### alignments:
+ - [Villa di Grotte di Piastra](https://pleiades.stoa.org/places/983899141)
+
+
 ## Q1407535: Venta Icenorum
 [https://www.wikidata.org/wiki/Q1407535](https://www.wikidata.org/wiki/Q1407535)  
 
@@ -58398,13 +58433,6 @@
  - [Haftavan tepe](https://pleiades.stoa.org/places/874495)
 
 
-## Q98704264: “Villa of Augustus” at Somma Vesuviana
-[https://www.wikidata.org/wiki/Q98704264](https://www.wikidata.org/wiki/Q98704264)  
-
-### alignments:
- - [Villa Augustea](https://pleiades.stoa.org/places/652231747)
-
-
 ## Q98790798: Arcadian gate
 [https://www.wikidata.org/wiki/Q98790798](https://www.wikidata.org/wiki/Q98790798)  
 
@@ -59285,6 +59313,13 @@
 
 ### alignments:
  - [Rhenus (river)](https://pleiades.stoa.org/places/393483)
+
+
+## Republican temple at Fabrateria Nova (Q140396391)
+[https://www.wikidata.org/wiki/Q140396391](https://www.wikidata.org/wiki/Q140396391)  
+
+### alignments:
+ - [Republican-period temple, Fabrateria Nova](https://pleiades.stoa.org/places/310265417)
 
 
 ## Reschen Pass (Q222860)
@@ -61218,6 +61253,13 @@
 
 ### alignments:
  - [Russi Roman Villa](https://pleiades.stoa.org/places/393485)
+
+
+## Roman Villa of San Giovanni Del Palco (Q140423473)
+[https://www.wikidata.org/wiki/Q140423473](https://www.wikidata.org/wiki/Q140423473)  
+
+### alignments:
+ - [Roman Villa of San Giovanni Del Palco](https://pleiades.stoa.org/places/65232415)
 
 
 ## Roman Villa of Sendim (Q10391493)
@@ -77040,5 +77082,12 @@
 
 ### alignments:
  - [Ammoniou (promontory)](https://pleiades.stoa.org/places/39284)
+
+
+## “Villa of Augustus” at Somma Vesuviana (Q98704264)
+[https://www.wikidata.org/wiki/Q98704264](https://www.wikidata.org/wiki/Q98704264)  
+
+### alignments:
+ - [Villa Augustea](https://pleiades.stoa.org/places/652231747)
 
 

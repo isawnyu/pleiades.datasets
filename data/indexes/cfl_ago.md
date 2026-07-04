@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-477 alignments exist in _Pleiades_ place references as of 2026-07-02. The following list of alignments is grouped by zotkey.
+478 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3129,6 +3129,13 @@
 
 ### alignments:
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
+## Toponyme 70007: Agios Andreas-Άγιος Ανδρέας
+[https://chronique.efa.gr/?r=topo_public&id=70007](https://chronique.efa.gr/?r=topo_public&id=70007)  
+
+### alignments:
+ - [Agios Andreas (Siphnos)](https://pleiades.stoa.org/places/492082396)
 
 
 ## Toponyme 70012: Dréros
