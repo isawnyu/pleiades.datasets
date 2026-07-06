@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/06/28 06:48:30.443803 GMT-4
+# Date: 2026/07/05 06:48:32.131947 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5834
+# Triple count: 5862
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -1178,6 +1178,11 @@
     dcterms:title "Undetermined location";
     owl:sameAs <http://pleiades.stoa.org/errata/697680/undetermined> .
 
+<https://pleiades.stoa.org/errata/710571959%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Anavlochos";
+    rdfs:comment "Withdrawn duplicate for https://pleiades.stoa.org/places/589691";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/710571959> .
+
 <https://pleiades.stoa.org/errata/739125041%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: al-Bara";
     rdfs:comment "Unintentional duplicate of https://pleiades.stoa.org/places/668207";
@@ -1268,11 +1273,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1280,11 +1285,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3976,6 +3981,30 @@
     pleiades:hasLocation <https://pleiades.stoa.org/errata/undetermined>;
     pleiades:hasName <https://pleiades.stoa.org/errata/kh-see-khirbet> .
 
+<https://pleiades.stoa.org/errata/710571959> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Anavlochos Project ",
+        "Gaignerot-Driessen 2016 ",
+        "Gaignerot-Driessen 2018 ",
+        "Gaignerot-Driessen 2023 ",
+        "Pilz 2011 ",
+        "Zographaki 2015 ";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Withdrawn duplicate for https://pleiades.stoa.org/places/589691";
+    dcterms:modified "2026-07-01T17:21:47-04:00";
+    dcterms:title "Withdrawn: Anavlochos";
+    cito:citesForInformation <https://anavlochos.hypotheses.org/>,
+        <https://journals.openedition.org/baefe/9316>,
+        <https://www.zotero.org/groups/pleiades/items/8YVJSCIR>,
+        <https://www.zotero.org/groups/pleiades/items/BM7ZF2VP>,
+        <https://www.zotero.org/groups/pleiades/items/PEX8CFEC>,
+        <https://www.zotero.org/groups/pleiades/items/R2ANVWBY>;
+    owl:sameAs <http://pleiades.stoa.org/errata/710571959>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement> .
+
 <https://pleiades.stoa.org/errata/739125041> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Wikipedia (English) Bara, Syria";
@@ -4081,11 +4110,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -4200,10 +4229,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ];
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ],
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -6061,8 +6090,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
@@ -6072,8 +6101,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
@@ -6083,8 +6112,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 1 H2 Moesia Superior" ],
