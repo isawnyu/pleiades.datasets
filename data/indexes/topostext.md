@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5084 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
+5085 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -11823,6 +11823,13 @@
 
 ### alignments:
  - [Florenti(ol)a](https://pleiades.stoa.org/places/383649)
+
+
+## Forentum (Apulia)
+[https://topostext.org/place/410158UFor](https://topostext.org/place/410158UFor)  
+
+### alignments:
+ - [Forentum?](https://pleiades.stoa.org/places/442584)
 
 
 ## Formiae (Latium)

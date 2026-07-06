@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11003 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
+11009 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12426,6 +12426,13 @@
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
+## Casa delle Pareti rosse (Q27688279)
+[https://www.wikidata.org/wiki/Q27688279](https://www.wikidata.org/wiki/Q27688279)  
+
+### alignments:
+ - [House of the Red Walls](https://pleiades.stoa.org/places/657262551)
+
+
 ## Casa dello Scheletro (Q15617236)
 [https://www.wikidata.org/wiki/Q15617236](https://www.wikidata.org/wiki/Q15617236)  
 
@@ -16866,6 +16873,13 @@
  - [Krisa](https://pleiades.stoa.org/places/540889)
 
 
+## Cristallini hypogeum (Q20181651)
+[https://www.wikidata.org/wiki/Q20181651](https://www.wikidata.org/wiki/Q20181651)  
+
+### alignments:
+ - [Ipogeo dei Cristallini ](https://pleiades.stoa.org/places/497313871)
+
+
 ## Crna (Q1140644)
 [https://www.wikidata.org/wiki/Q1140644](https://www.wikidata.org/wiki/Q1140644)  
 
@@ -16976,6 +16990,13 @@
 
 ### alignments:
  - [Crypta Balbi](https://pleiades.stoa.org/places/756231346)
+
+
+## Crypta Neapolitana (Q977606)
+[https://www.wikidata.org/wiki/Q977606](https://www.wikidata.org/wiki/Q977606)  
+
+### alignments:
+ - [Crypta Neapolitana](https://pleiades.stoa.org/places/2160179)
 
 
 ## cryptoporticus of Alife (Q56258399)
@@ -21274,6 +21295,13 @@
  - [Forensis Pagus](https://pleiades.stoa.org/places/438738)
 
 
+## Forentum (Q132485722)
+[https://www.wikidata.org/wiki/Q132485722](https://www.wikidata.org/wiki/Q132485722)  
+
+### alignments:
+ - [Forentum?](https://pleiades.stoa.org/places/442584)
+
+
 ## Forlimpopoli (Q99940)
 [https://www.wikidata.org/wiki/Q99940](https://www.wikidata.org/wiki/Q99940)  
 
@@ -25422,6 +25450,13 @@
  - [House of Livia](https://pleiades.stoa.org/places/904782880)
 
 
+## House of Loreius Tiburtinus (Q1590867)
+[https://www.wikidata.org/wiki/Q1590867](https://www.wikidata.org/wiki/Q1590867)  
+
+### alignments:
+ - [House of Octavius Quartio](https://pleiades.stoa.org/places/658295679)
+
+
 ## House of Lucius Caecilius Jucundus (Q3661299)
 [https://www.wikidata.org/wiki/Q3661299](https://www.wikidata.org/wiki/Q3661299)  
 
@@ -25583,6 +25618,13 @@
  - [House of the Painters at Work](https://pleiades.stoa.org/places/746630758)
 
 
+## House of the Relief of Telephus (Q16537540)
+[https://www.wikidata.org/wiki/Q16537540](https://www.wikidata.org/wiki/Q16537540)  
+
+### alignments:
+ - [Casa del Rilievo di Telefo](https://pleiades.stoa.org/places/656691255)
+
+
 ## House of the Silver Wedding (Q5915633)
 [https://www.wikidata.org/wiki/Q5915633](https://www.wikidata.org/wiki/Q5915633)  
 
@@ -25616,6 +25658,13 @@
 
 ### alignments:
  - [Domus delle bestie ferite](https://pleiades.stoa.org/places/842400634)
+
+
+## House of Thiasus (Q133270544)
+[https://www.wikidata.org/wiki/Q133270544](https://www.wikidata.org/wiki/Q133270544)  
+
+### alignments:
+ - [House of Thiasus](https://pleiades.stoa.org/places/868835070)
 
 
 ## House of Titus Macer (Q55686163)
@@ -43042,6 +43091,13 @@
  - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
 
 
+## Posillipo (Q589347)
+[https://www.wikidata.org/wiki/Q589347](https://www.wikidata.org/wiki/Q589347)  
+
+### alignments:
+ - [Pausilipum](https://pleiades.stoa.org/places/442113997)
+
+
 ## Posto Roman villa (Q131361267)
 [https://www.wikidata.org/wiki/Q131361267](https://www.wikidata.org/wiki/Q131361267)  
 
@@ -44169,13 +44225,6 @@
  - [Thamusida](https://pleiades.stoa.org/places/275734)
 
 
-## Q103199007: Verulamium (Samian Ware Discovery Site)
-[https://www.wikidata.org/wiki/Q103199007](https://www.wikidata.org/wiki/Q103199007)  
-
-### alignments:
- - [Verulamium](https://pleiades.stoa.org/places/79739)
-
-
 ## Q103228
 [https://www.wikidata.org/wiki/Q103228](https://www.wikidata.org/wiki/Q103228)  
 
@@ -44272,13 +44321,6 @@
 
 ### alignments:
  - [House of the Moralist](https://pleiades.stoa.org/places/557684935)
-
-
-## Q104787743
-[https://www.wikidata.org/wiki/Q104787743](https://www.wikidata.org/wiki/Q104787743)  
-
-### alignments:
- - [Villa in via Casone Grotta](https://pleiades.stoa.org/places/523755191)
 
 
 ## Q104834170: Tell Ras Budran
@@ -47770,13 +47812,6 @@
  - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
 
 
-## Q1590867: House of Loreius Tiburtinus
-[https://www.wikidata.org/wiki/Q1590867](https://www.wikidata.org/wiki/Q1590867)  
-
-### alignments:
- - [House of Octavius Quartio](https://pleiades.stoa.org/places/658295679)
-
-
 ## Q1590891: House of Augustus
 [https://www.wikidata.org/wiki/Q1590891](https://www.wikidata.org/wiki/Q1590891)  
 
@@ -48056,13 +48091,6 @@
 
 ### alignments:
  - [Carmania](https://pleiades.stoa.org/places/29517)
-
-
-## Q16537540: House of the Relief of Telephus
-[https://www.wikidata.org/wiki/Q16537540](https://www.wikidata.org/wiki/Q16537540)  
-
-### alignments:
- - [Casa del Rilievo di Telefo](https://pleiades.stoa.org/places/656691255)
 
 
 ## Q16537613: House of M. Lucretius
@@ -49464,13 +49492,6 @@
 
 ### alignments:
  - [Roman Circus at Mérida](https://pleiades.stoa.org/places/723991750)
-
-
-## Q19861: Verulamium
-[https://www.wikidata.org/wiki/Q19861](https://www.wikidata.org/wiki/Q19861)  
-
-### alignments:
- - [Verulamium](https://pleiades.stoa.org/places/79739)
 
 
 ## Q1987323: Nicopolis ad Istrum
@@ -50966,13 +50987,6 @@
  - [Asklepieion and Lerna](https://pleiades.stoa.org/places/322517289)
 
 
-## Q25510660: Villa della Pisanella
-[https://www.wikidata.org/wiki/Q25510660](https://www.wikidata.org/wiki/Q25510660)  
-
-### alignments:
- - [Villa della Pisanella](https://pleiades.stoa.org/places/573541355)
-
-
 ## Q25511426: Tumulus MM
 [https://www.wikidata.org/wiki/Q25511426](https://www.wikidata.org/wiki/Q25511426)  
 
@@ -51398,13 +51412,6 @@
 
 ### alignments:
  - [House of Lucius Cornelius Diadumenus](https://pleiades.stoa.org/places/615457796)
-
-
-## Q27688279: House of the Red Walls
-[https://www.wikidata.org/wiki/Q27688279](https://www.wikidata.org/wiki/Q27688279)  
-
-### alignments:
- - [House of the Red Walls](https://pleiades.stoa.org/places/657262551)
 
 
 ## Q27688281: Garden (VIII.5.38)
@@ -53795,13 +53802,6 @@
 
 ### alignments:
  - [Regio IV, Pompeii](https://pleiades.stoa.org/places/984330149)
-
-
-## Q3931882: region IX of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931882](https://www.wikidata.org/wiki/Q3931882)  
-
-### alignments:
- - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
 
 
 ## Q3931883: region I of the archaeological excavations of Pompeii
@@ -57852,13 +57852,6 @@
  - [Tower of Amfikleia](https://pleiades.stoa.org/places/282029780)
 
 
-## Q85864302: Cristallini hypogeum
-[https://www.wikidata.org/wiki/Q85864302](https://www.wikidata.org/wiki/Q85864302)  
-
-### alignments:
- - [Ipogeo dei Cristallini ](https://pleiades.stoa.org/places/497313871)
-
-
 ## Q85878079: Ruínas romanas da Quinta de Marim
 [https://www.wikidata.org/wiki/Q85878079](https://www.wikidata.org/wiki/Q85878079)  
 
@@ -59264,6 +59257,13 @@
 
 ### alignments:
  - [Regio III, Pompeii](https://pleiades.stoa.org/places/762217869)
+
+
+## region IX of the archaeological excavations of Pompeii (Q3931882)
+[https://www.wikidata.org/wiki/Q3931882](https://www.wikidata.org/wiki/Q3931882)  
+
+### alignments:
+ - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
 
 
 ## region VII of the archaeological excavations of Pompeii (Q3931887)
@@ -61155,6 +61155,13 @@
 
 ### alignments:
  - [Villa romana di via Carciano](https://pleiades.stoa.org/places/714351467)
+
+
+## Roman villa in via Casone Grotta (Q104787743)
+[https://www.wikidata.org/wiki/Q104787743](https://www.wikidata.org/wiki/Q104787743)  
+
+### alignments:
+ - [Villa in via Casone Grotta](https://pleiades.stoa.org/places/523755191)
 
 
 ## Roman villa N of Road Hill Farm (Q17647897)
@@ -73896,6 +73903,20 @@
  - [Verturiones](https://pleiades.stoa.org/places/92197)
 
 
+## Verulamium (Q19861)
+[https://www.wikidata.org/wiki/Q19861](https://www.wikidata.org/wiki/Q19861)  
+
+### alignments:
+ - [Verulamium](https://pleiades.stoa.org/places/79739)
+
+
+## Verulamium (Samian Ware Discovery Site)  (Q103199007)
+[https://www.wikidata.org/wiki/Q103199007](https://www.wikidata.org/wiki/Q103199007)  
+
+### alignments:
+ - [Verulamium](https://pleiades.stoa.org/places/79739)
+
+
 ## Verzino (Q54524)
 [https://www.wikidata.org/wiki/Q54524](https://www.wikidata.org/wiki/Q54524)  
 
@@ -74625,6 +74646,20 @@
  - [Negrar Roman Villa](https://pleiades.stoa.org/places/575996197)
 
 
+## Villa del fondo Ippolito Zurlo (Q140443521)
+[https://www.wikidata.org/wiki/Q140443521](https://www.wikidata.org/wiki/Q140443521)  
+
+### alignments:
+ - [Villa del fondo Ippolito Zurlo](https://pleiades.stoa.org/places/490597949)
+
+
+## Villa della Pisanella (Q25510660)
+[https://www.wikidata.org/wiki/Q25510660](https://www.wikidata.org/wiki/Q25510660)  
+
+### alignments:
+ - [Villa della Pisanella](https://pleiades.stoa.org/places/573541355)
+
+
 ## Villa delle Colonne (Q133628811)
 [https://www.wikidata.org/wiki/Q133628811](https://www.wikidata.org/wiki/Q133628811)  
 
@@ -74834,6 +74869,13 @@
 
 ### alignments:
  - [Villa of Manlius Vopiscus](https://pleiades.stoa.org/places/766267487)
+
+
+## Villa of Numerius Popidius Florus (Q140443009)
+[https://www.wikidata.org/wiki/Q140443009](https://www.wikidata.org/wiki/Q140443009)  
+
+### alignments:
+ - [Villa of Numerius Popidius Florus ](https://pleiades.stoa.org/places/523755189)
 
 
 ## Villa of Numisia Procula (Q134591834)

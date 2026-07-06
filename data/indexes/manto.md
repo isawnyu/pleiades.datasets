@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1115 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
+1116 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3136,6 +3136,13 @@
 
 ### alignments:
  - [Campi Phlegraei](https://pleiades.stoa.org/places/432744)
+
+
+## 11302758: Mount Vesuvius (Italy)
+[https://resource.manto.unh.edu/11302758](https://resource.manto.unh.edu/11302758)  
+
+### alignments:
+ - [Vesuvius (volcano)](https://pleiades.stoa.org/places/433189)
 
 
 ## 11302783: Agyrion (Sicily)

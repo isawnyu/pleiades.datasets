@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5135 alignments exist in _Pleiades_ place references as of 2026-07-04. The following list of alignments is grouped by zotkey.
+5135 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -394,13 +394,6 @@
 
 ### alignments:
  - [Caiatia](https://pleiades.stoa.org/places/432733)
-
-
-## Geo 14800: Verulamium (Saint Albans)
-[https://www.trismegistos.org/place/14800](https://www.trismegistos.org/place/14800)  
-
-### alignments:
- - [Verulamium](https://pleiades.stoa.org/places/79739)
 
 
 ## Geo 15126: Hayling Island
@@ -6324,6 +6317,13 @@
 
 ### alignments:
  - [Scarborough](https://pleiades.stoa.org/places/89285)
+
+
+## GEO ID 14800: Verulamium (Saint Albans)
+[https://www.trismegistos.org/place/14800](https://www.trismegistos.org/place/14800)  
+
+### alignments:
+ - [Verulamium](https://pleiades.stoa.org/places/79739)
 
 
 ## GEO ID 14806: Rudston
