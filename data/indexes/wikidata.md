@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11009 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+11026 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10466,6 +10466,13 @@
  - [Bodiontici](https://pleiades.stoa.org/places/157822)
 
 
+## Bronze Herm house (Q16537574)
+[https://www.wikidata.org/wiki/Q16537574](https://www.wikidata.org/wiki/Q16537574)  
+
+### alignments:
+ - [House of the Bronze Herm](https://pleiades.stoa.org/places/769646506)
+
+
 ## Broomholm, Roman fort (Q56667012)
 [https://www.wikidata.org/wiki/Q56667012](https://www.wikidata.org/wiki/Q56667012)  
 
@@ -10569,6 +10576,13 @@
 
 ### alignments:
  - [Gholaia](https://pleiades.stoa.org/places/344377)
+
+
+## Bubetani (Q23024802)
+[https://www.wikidata.org/wiki/Q23024802](https://www.wikidata.org/wiki/Q23024802)  
+
+### alignments:
+ - [Bubetani](https://pleiades.stoa.org/places/438698)
 
 
 ## Bubon (Q997591)
@@ -12823,6 +12837,13 @@
 
 ### alignments:
  - [Castellum Mattiacorum](https://pleiades.stoa.org/places/108864)
+
+
+## Castelporziano Discobolus (Q126182491)
+[https://www.wikidata.org/wiki/Q126182491](https://www.wikidata.org/wiki/Q126182491)  
+
+### alignments:
+ - [Villa of the Discobolos](https://pleiades.stoa.org/places/968563188)
 
 
 ## Castelraimondo (Q73552)
@@ -15624,6 +15645,13 @@
 
 ### alignments:
  - [Civic forum of Praeneste](https://pleiades.stoa.org/places/678434580)
+
+
+## Cividale del Friuli (Q53245)
+[https://www.wikidata.org/wiki/Q53245](https://www.wikidata.org/wiki/Q53245)  
+
+### alignments:
+ - [Forum Iulii](https://pleiades.stoa.org/places/187386)
 
 
 ## Cividate Camuno (Q104017)
@@ -18759,6 +18787,13 @@
  - [Dothan](https://pleiades.stoa.org/places/857932175)
 
 
+## Double Sanctuary of Aphrodite and Ares near Argos (Q134038503)
+[https://www.wikidata.org/wiki/Q134038503](https://www.wikidata.org/wiki/Q134038503)  
+
+### alignments:
+ - [Sanctuary of Aphrodite and Ares (Argos)](https://pleiades.stoa.org/places/271533806)
+
+
 ## Doubs (Q14372)
 [https://www.wikidata.org/wiki/Q14372](https://www.wikidata.org/wiki/Q14372)  
 
@@ -21456,6 +21491,13 @@
  - [Forum Brentani/Brentanorum](https://pleiades.stoa.org/places/416811)
 
 
+## Forum Cambusis (Q140450374)
+[https://www.wikidata.org/wiki/Q140450374](https://www.wikidata.org/wiki/Q140450374)  
+
+### alignments:
+ - [Forum Cambusis?](https://pleiades.stoa.org/places/795808)
+
+
 ## Forum Cassii (Q5473047)
 [https://www.wikidata.org/wiki/Q5473047](https://www.wikidata.org/wiki/Q5473047)  
 
@@ -21517,6 +21559,20 @@
 
 ### alignments:
  - [Col. Forum Iulii](https://pleiades.stoa.org/places/157836)
+
+
+## Forum Iulii Concupiensium (Q133456900)
+[https://www.wikidata.org/wiki/Q133456900](https://www.wikidata.org/wiki/Q133456900)  
+
+### alignments:
+ - [Forum Iulii Concupiensium](https://pleiades.stoa.org/places/416812)
+
+
+## Forum Novum (Q5473073)
+[https://www.wikidata.org/wiki/Q5473073](https://www.wikidata.org/wiki/Q5473073)  
+
+### alignments:
+ - [Forum Novum (Vescovio)](https://pleiades.stoa.org/places/413148)
 
 
 ## Forum of Augustus (Q770797)
@@ -30563,6 +30619,13 @@
  - [Laos/Lavinium?](https://pleiades.stoa.org/places/452361)
 
 
+## Le Carrozze-Gravetta (Q120754779)
+[https://www.wikidata.org/wiki/Q120754779](https://www.wikidata.org/wiki/Q120754779)  
+
+### alignments:
+ - [Le Carrozze-Gravetta](https://pleiades.stoa.org/places/630865968)
+
+
 ## Le Langon (Q1171614)
 [https://www.wikidata.org/wiki/Q1171614](https://www.wikidata.org/wiki/Q1171614)  
 
@@ -30815,6 +30878,13 @@
  - [Bene(h)arnum](https://pleiades.stoa.org/places/246237)
 
 
+## Lesche of the Knidians (Q3830889)
+[https://www.wikidata.org/wiki/Q3830889](https://www.wikidata.org/wiki/Q3830889)  
+
+### alignments:
+ - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
+
+
 ## Lestenitsas river (Q25020951)
 [https://www.wikidata.org/wiki/Q25020951](https://www.wikidata.org/wiki/Q25020951)  
 
@@ -30981,6 +31051,13 @@
 
 ### alignments:
  - [Libiopolis](https://pleiades.stoa.org/places/857212)
+
+
+## Libisosa (Q5974846)
+[https://www.wikidata.org/wiki/Q5974846](https://www.wikidata.org/wiki/Q5974846)  
+
+### alignments:
+ - [Libisosa](https://pleiades.stoa.org/places/265949)
 
 
 ## Library of Pantainus (Q5727966)
@@ -31660,6 +31737,13 @@
 
 ### alignments:
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
+
+
+## Lucullus' villa in Naples (Q4012739)
+[https://www.wikidata.org/wiki/Q4012739](https://www.wikidata.org/wiki/Q4012739)  
+
+### alignments:
+ - [Villa of Lucullus (Neaoplis)](https://pleiades.stoa.org/places/628761194)
 
 
 ## Lucus Angitiae (Q3839042)
@@ -33215,6 +33299,13 @@
 
 ### alignments:
  - [Mausoleo di Monte dell'Incastro](https://pleiades.stoa.org/places/803270681)
+
+
+## Mausoleum of Pianura (Q140428470)
+[https://www.wikidata.org/wiki/Q140428470](https://www.wikidata.org/wiki/Q140428470)  
+
+### alignments:
+ - [Mausoleum of Pianura](https://pleiades.stoa.org/places/984326806)
 
 
 ## Mausoleum of Quintus Lollius Urbicus (Q84710269)
@@ -39534,6 +39625,13 @@
  - [Kayal](https://pleiades.stoa.org/places/444530273)
 
 
+## Palazzo degli Spiriti (Q124359499)
+[https://www.wikidata.org/wiki/Q124359499](https://www.wikidata.org/wiki/Q124359499)  
+
+### alignments:
+ - [Palazzo degli Spiriti](https://pleiades.stoa.org/places/381242986)
+
+
 ## Palazzo Valentini (Q751105)
 [https://www.wikidata.org/wiki/Q751105](https://www.wikidata.org/wiki/Q751105)  
 
@@ -42361,6 +42459,13 @@
 
 ### alignments:
  - [Ponte di Quintodecimo](https://pleiades.stoa.org/places/414510)
+
+
+## Ponte di San Francesco (Q1481888)
+[https://www.wikidata.org/wiki/Q1481888](https://www.wikidata.org/wiki/Q1481888)  
+
+### alignments:
+ - [Ponte di San Francesco](https://pleiades.stoa.org/places/724797678)
 
 
 ## Ponte di San Vito (Q124528663)
@@ -46634,13 +46739,6 @@
 
 ### alignments:
  - [Pietrarossa di Trevi](https://pleiades.stoa.org/places/547514740)
-
-
-## Q133456900
-[https://www.wikidata.org/wiki/Q133456900](https://www.wikidata.org/wiki/Q133456900)  
-
-### alignments:
- - [Forum Iulii Concupiensium](https://pleiades.stoa.org/places/416812)
 
 
 ## Q1334825: Pelion
@@ -54014,13 +54112,6 @@
  - [Tino di Moscona](https://pleiades.stoa.org/places/787161721)
 
 
-## Q3992394: Tolerium
-[https://www.wikidata.org/wiki/Q3992394](https://www.wikidata.org/wiki/Q3992394)  
-
-### alignments:
- - [Tolerium](https://pleiades.stoa.org/places/438853)
-
-
 ## Q3992602: Tomba dei giganti di Sa Perda 'e S'Altare
 [https://www.wikidata.org/wiki/Q3992602](https://www.wikidata.org/wiki/Q3992602)  
 
@@ -60226,6 +60317,13 @@
  - [Unnamed Roman bridge (Fidenza)](https://pleiades.stoa.org/places/160277607)
 
 
+## Roman bridge (Q3908181)
+[https://www.wikidata.org/wiki/Q3908181](https://www.wikidata.org/wiki/Q3908181)  
+
+### alignments:
+ - [Roman bridge (via Salvator Rosa)](https://pleiades.stoa.org/places/862491656)
+
+
 ## Roman bridge (Q55188945)
 [https://www.wikidata.org/wiki/Q55188945](https://www.wikidata.org/wiki/Q55188945)  
 
@@ -62667,6 +62765,13 @@
 
 ### alignments:
  - [Demeter Mykalessia](https://pleiades.stoa.org/places/543678)
+
+
+## Sanctuary of Dionysos at Sicyon (Q134037382)
+[https://www.wikidata.org/wiki/Q134037382](https://www.wikidata.org/wiki/Q134037382)  
+
+### alignments:
+ - [Sanctuary of Dionysus (Sicyon)](https://pleiades.stoa.org/places/271533805)
 
 
 ## Sanctuary of Fortuna Primigenia (Q3949669)
@@ -65868,6 +65973,13 @@
 
 ### alignments:
  - [Sporades (archipelago)](https://pleiades.stoa.org/places/599944)
+
+
+## Spring of Bandusium (Q1097855)
+[https://www.wikidata.org/wiki/Q1097855](https://www.wikidata.org/wiki/Q1097855)  
+
+### alignments:
+ - [fons Bandusiae](https://pleiades.stoa.org/places/35868451)
 
 
 ## Square Castan (Q3494520)
@@ -70373,6 +70485,13 @@
 
 ### alignments:
  - [Tolentinum](https://pleiades.stoa.org/places/413344)
+
+
+## Tolerium (Q3992394)
+[https://www.wikidata.org/wiki/Q3992394](https://www.wikidata.org/wiki/Q3992394)  
+
+### alignments:
+ - [Tolerium](https://pleiades.stoa.org/places/438853)
 
 
 ## Tolfa (Q243488)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5135 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+5135 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1406,13 +1406,6 @@
 
 ### alignments:
  - [Aphrodisias (coastal settlement in Rough Cilicia)](https://pleiades.stoa.org/places/648565)
-
-
-## Geo 3605: Kaudos
-[https://www.trismegistos.org/place/3605](https://www.trismegistos.org/place/3605)  
-
-### alignments:
- - [Kaudos (island)](https://pleiades.stoa.org/places/589858)
 
 
 ## Geo 3610: Isthmos
@@ -20363,6 +20356,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/481728)
+
+
+## Geo ID 3605: Kaudos
+[https://www.trismegistos.org/place/3605](https://www.trismegistos.org/place/3605)  
+
+### alignments:
+ - [Kaudos (island)](https://pleiades.stoa.org/places/589858)
 
 
 ## GEO ID 3606: Methana (Megalochori)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1116 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+1125 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1045,6 +1045,13 @@
  - [Akrokorinthos](https://pleiades.stoa.org/places/570059)
 
 
+## 10153085: The Sanctuary of Poseidon at Isthmia
+[https://resource.manto.unh.edu/10153085](https://resource.manto.unh.edu/10153085)  
+
+### alignments:
+ - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
+
+
 ## 10153163: Tithorea (Phocis)
 [https://resource.manto.unh.edu/10153163](https://resource.manto.unh.edu/10153163)  
 
@@ -1094,6 +1101,13 @@
  - [Titane](https://pleiades.stoa.org/places/570741)
 
 
+## 10158643: the Sanctuary of Ares and Aphrodite near Argos
+[https://resource.manto.unh.edu/10158643](https://resource.manto.unh.edu/10158643)  
+
+### alignments:
+ - [Sanctuary of Aphrodite and Ares (Argos)](https://pleiades.stoa.org/places/271533806)
+
+
 ## 10158709: Mount Anchisia (Arcadia)
 [https://resource.manto.unh.edu/10158709](https://resource.manto.unh.edu/10158709)  
 
@@ -1106,6 +1120,13 @@
 
 ### alignments:
  - [Phreatto?](https://pleiades.stoa.org/places/580078)
+
+
+## 10158747: the Sanctuary of Dionysos at Sicyon
+[https://resource.manto.unh.edu/10158747](https://resource.manto.unh.edu/10158747)  
+
+### alignments:
+ - [Sanctuary of Dionysus (Sicyon)](https://pleiades.stoa.org/places/271533805)
 
 
 ## 10158827: River Aroanios (Arcadia)
@@ -1386,6 +1407,13 @@
 
 ### alignments:
  - [Sacred Grove near Mount Pontinos](https://pleiades.stoa.org/places/69536363)
+
+
+## 10192080: the Sanctuary of Zeus Panhellenios at Aigina
+[https://resource.manto.unh.edu/10192080](https://resource.manto.unh.edu/10192080)  
+
+### alignments:
+ - [Zeus Panhellenios sanctuary (Aegina)](https://pleiades.stoa.org/places/580139)
 
 
 ## 10192414: Althepia (Argolid)
@@ -2207,6 +2235,13 @@
  - [Euryteiai](https://pleiades.stoa.org/places/573225)
 
 
+## 10273400: the Lesche of the Cnidians (Delphi)
+[https://resource.manto.unh.edu/10273400](https://resource.manto.unh.edu/10273400)  
+
+### alignments:
+ - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
+
+
 ## 10273411: Mesatis (Achaia)
 [https://resource.manto.unh.edu/10273411](https://resource.manto.unh.edu/10273411)  
 
@@ -2401,6 +2436,13 @@
 
 ### alignments:
  - [Thymaitadai](https://pleiades.stoa.org/places/580123)
+
+
+## 10771991: the Sanctuary of Ismenian Apollo at Thebes
+[https://resource.manto.unh.edu/10771991](https://resource.manto.unh.edu/10771991)  
+
+### alignments:
+ - [Sanctuary of Apollo Ismenios, Thebes](https://pleiades.stoa.org/places/116141527)
 
 
 ## 10772026: Leuctra (Boiotia)
@@ -4588,6 +4630,13 @@
  - [Tusculum](https://pleiades.stoa.org/places/423108)
 
 
+## 11321280: Lanuvium (Italy)
+[https://resource.manto.unh.edu/11321280](https://resource.manto.unh.edu/11321280)  
+
+### alignments:
+ - [Lanuvium](https://pleiades.stoa.org/places/422956)
+
+
 ## 11321282: Satricum (Italy)
 [https://resource.manto.unh.edu/11321282](https://resource.manto.unh.edu/11321282)  
 
@@ -4873,6 +4922,13 @@
 
 ### alignments:
  - [Cassiterides](https://pleiades.stoa.org/places/583607985)
+
+
+## 11328219: Formiae (Italy)
+[https://resource.manto.unh.edu/11328219](https://resource.manto.unh.edu/11328219)  
+
+### alignments:
+ - [Formiae](https://pleiades.stoa.org/places/432839)
 
 
 ## 11328255: The Walls of Romulus
@@ -7485,6 +7541,13 @@
 
 ### alignments:
  - [Diospolis Magna/Thebai](https://pleiades.stoa.org/places/786017)
+
+
+## 9821353: the Colossos of Memnon (Egypt)
+[https://resource.manto.unh.edu/9821353](https://resource.manto.unh.edu/9821353)  
+
+### alignments:
+ - [Memnon Colossi](https://pleiades.stoa.org/places/786066)
 
 
 ## 9821356: Heniochia (Pontos)

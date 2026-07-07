@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-547 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+550 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -724,6 +724,13 @@
  - [Tithorea/Neon](https://pleiades.stoa.org/places/541152)
 
 
+## 10.25.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.25.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.25.1)  
+
+### alignments:
+ - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
+
+
 ## 10.3.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2)  
 
@@ -1047,6 +1054,13 @@
 
 ### alignments:
  - [Arachnaion (mountain)](https://pleiades.stoa.org/places/570098)
+
+
+## 2.25.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.25.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.25.1)  
+
+### alignments:
+ - [Sanctuary of Aphrodite and Ares (Argos)](https://pleiades.stoa.org/places/271533806)
 
 
 ## 2.25.2
@@ -1413,6 +1427,13 @@
 
 ### alignments:
  - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
+
+
+## 2.7.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.7.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.7.5)  
+
+### alignments:
+ - [Sanctuary of Dionysus (Sicyon)](https://pleiades.stoa.org/places/271533805)
 
 
 ## 2.7.8

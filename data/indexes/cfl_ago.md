@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-478 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+480 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3005,6 +3005,13 @@
  - [Kition](https://pleiades.stoa.org/places/707534)
 
 
+## Toponyme 61098: Amathous, Amathonte, Amathus City-Site-Αμαθούς, Αμαθούντα
+[https://chronique.efa.gr/?r=topo_public&id=61098](https://chronique.efa.gr/?r=topo_public&id=61098)  
+
+### alignments:
+ - [Amathous](https://pleiades.stoa.org/places/707462)
+
+
 ## Toponyme 6136: Lefkandi
 [https://chronique.efa.gr/?kroute=topo_public&id=6136](https://chronique.efa.gr/?kroute=topo_public&id=6136)  
 
@@ -3269,6 +3276,13 @@
 
 ### alignments:
  - [Chani Kokkonas](https://pleiades.stoa.org/places/113317585)
+
+
+## Toponyme 70099: Delphes, Delfoi, Delfi, Delphi, Temple d'Apollon-Δελφοί, αρχαιολογικός χώρος, Ναός Απόλλωνος
+[https://chronique.efa.gr/?r=topo_public&id=70099](https://chronique.efa.gr/?r=topo_public&id=70099)  
+
+### alignments:
+ - [Temple of Apollo at Delphi](https://pleiades.stoa.org/places/464482219)
 
 
 ## Toponyme 70108: Athens North, Académie de Platon, Academy of Plato, Kolonos, Athènes quartiers Nord-Ακαδημία Πλάτωνος, Αθήνα κέντρο-βόρεια

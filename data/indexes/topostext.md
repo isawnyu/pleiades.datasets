@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5085 alignments exist in _Pleiades_ place references as of 2026-07-06. The following list of alignments is grouped by zotkey.
+5093 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -27,6 +27,27 @@
 
 ### alignments:
  - [Angulani](https://pleiades.stoa.org/places/907860742)
+
+
+## 21635: Bubetani
+[https://topostext.org/people/21635](https://topostext.org/people/21635)  
+
+### alignments:
+ - [Bubetani](https://pleiades.stoa.org/places/438698)
+
+
+## 21978: Foretani
+[https://topostext.org/people/21978](https://topostext.org/people/21978)  
+
+### alignments:
+ - [Foretani](https://pleiades.stoa.org/places/913178185)
+
+
+## 21979: Foretii
+[https://topostext.org/people/21979](https://topostext.org/people/21979)  
+
+### alignments:
+ - [Foreti](https://pleiades.stoa.org/places/913178186)
 
 
 ## 23453
@@ -10023,6 +10044,13 @@
  - [Dr(o)usipara](https://pleiades.stoa.org/places/511241)
 
 
+## Druentia river (Gallia)
+[https://topostext.org/place/437053WDru](https://topostext.org/place/437053WDru)  
+
+### alignments:
+ - [Druentia (river)](https://pleiades.stoa.org/places/148069)
+
+
 ## Drymaia (Phokis)
 [https://topostext.org/place/387225UDry](https://topostext.org/place/387225UDry)  
 
@@ -11909,6 +11937,13 @@
  - [Forum Domitii](https://pleiades.stoa.org/places/148081)
 
 
+## Forum Flaminii (Italia)
+[https://topostext.org/place/430127UFor](https://topostext.org/place/430127UFor)  
+
+### alignments:
+ - [Forum Flaminii](https://pleiades.stoa.org/places/413147)
+
+
 ## Forum Fulvii (Liguria)
 [https://topostext.org/place/450086UFor](https://topostext.org/place/450086UFor)  
 
@@ -11935,6 +11970,13 @@
 
 ### alignments:
  - [Forum Livii](https://pleiades.stoa.org/places/393426)
+
+
+## Forum Novum (Italia)
+[https://topostext.org/place/423126UFoN](https://topostext.org/place/423126UFoN)  
+
+### alignments:
+ - [Forum Novum (Vescovio)](https://pleiades.stoa.org/places/413148)
 
 
 ## Forum of Augustus (Rome)
@@ -11984,6 +12026,13 @@
 
 ### alignments:
  - [Forum Sempronii](https://pleiades.stoa.org/places/413149)
+
+
+## Forum Vibi (Gallia)
+[https://topostext.org/place/44874UFVi](https://topostext.org/place/44874UFVi)  
+
+### alignments:
+ - [Forum Vibii](https://pleiades.stoa.org/places/383657)
 
 
 ## Franchthi cave (Argolid) opposite Kilada
@@ -17088,6 +17137,13 @@
 
 ### alignments:
  - [Knemis (mountain)](https://pleiades.stoa.org/places/540871)
+
+
+## Knidian Lesche (Delphi)
+[https://topostext.org/place/385225BLKn](https://topostext.org/place/385225BLKn)  
+
+### alignments:
+ - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
 
 
 ## Knossos (Irakleio)
