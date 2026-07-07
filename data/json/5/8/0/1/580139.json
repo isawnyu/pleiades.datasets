@@ -1,10 +1,10 @@
 {
     "@type": "Place",
     "bbox": [
-        23.497615,
-        37.7077746,
-        23.497615,
-        37.7077746
+        23.4975105,
+        37.7077333,
+        23.4979256,
+        37.7079324
     ],
     "connections": [
         {
@@ -126,14 +126,6 @@
     ],
     "contributors": [
         {
-            "name": "DARMC",
-            "username": null
-        },
-        {
-            "name": "R. Talbert",
-            "username": null
-        },
-        {
             "homepage": null,
             "name": "Brady Kiesling",
             "uri": "https://pleiades.stoa.org/author/bkiesling",
@@ -147,6 +139,12 @@
         },
         {
             "homepage": null,
+            "name": "Anika Campbell",
+            "uri": "https://pleiades.stoa.org/author/acampbell",
+            "username": "acampbell"
+        },
+        {
+            "homepage": null,
             "name": "Jeffrey Becker",
             "uri": "https://pleiades.stoa.org/author/jbecker",
             "username": "jbecker"
@@ -156,9 +154,29 @@
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "name": "DARMC",
+            "username": null
+        },
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
+        {
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
+        },
+        {
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
         }
     ],
-    "created": "2022-12-23T03:46:56Z",
+    "created": "2026-07-06T11:00:59Z",
     "creators": [
         {
             "name": "J.S. Traill",
@@ -171,23 +189,46 @@
         {
             "geometry": {
                 "coordinates": [
-                    23.497615,
-                    37.7077746
+                    [
+                        23.4975105,
+                        37.7078863
+                    ],
+                    [
+                        23.4975397,
+                        37.7077333
+                    ],
+                    [
+                        23.4979256,
+                        37.7077793
+                    ],
+                    [
+                        23.4978964,
+                        37.7079324
+                    ],
+                    [
+                        23.4975105,
+                        37.7078863
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "osm-location-of-sanctuary-of-zeus-pan-hellenios",
+            "id": "osm-location-sanctuary-of-zeus-pan-hellenios",
             "properties": {
-                "description": "Location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/580139/osm-location-of-sanctuary-of-zeus-pan-hellenios",
+                "description": "Representative location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/580139/osm-location-sanctuary-of-zeus-pan-hellenios",
                 "location_precision": "precise",
-                "snippet": "Temple-2",
-                "title": "OSM location of Sanctuary of Zeus (Pan)Hellenios"
+                "snippet": "Sanctuary; 750 BC - AD 300",
+                "title": "OSM location: Sanctuary of Zeus (Pan)Hellenios"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Added MANTO entity under 'see further'; manto = related @ghawes @rssmith",
+            "modified": "2026-07-06T17:24:32Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "DARMC 21340",
             "modified": "2024-11-11T14:48:41Z",
@@ -255,12 +296,37 @@
             "@type": "Location",
             "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
             "accuracy_value": 20.0,
-            "archaeologicalRemains": "traces",
+            "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                }
+            ],
             "contributors": [],
-            "created": "2022-12-23T03:47:14Z",
+            "created": "2026-07-06T17:27:07Z",
             "creators": [
                 {
                     "homepage": null,
@@ -269,69 +335,92 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Location based on OpenStreetMap",
+            "description": "Representative location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 300,
             "featureType": [
-                "temple-2"
+                "sanctuary"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
             "geometry": {
                 "coordinates": [
-                    23.497615,
-                    37.7077746
+                    [
+                        23.4975105,
+                        37.7078863
+                    ],
+                    [
+                        23.4975397,
+                        37.7077333
+                    ],
+                    [
+                        23.4979256,
+                        37.7077793
+                    ],
+                    [
+                        23.4978964,
+                        37.7079324
+                    ],
+                    [
+                        23.4975105,
+                        37.7078863
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
-                    "comment": "add Generic OSM Accuracy Assessment",
-                    "modified": "2023-02-23T21:13:08Z",
-                    "modifiedBy": "jbecker"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2023-01-03T16:49:11Z",
+                    "modified": "2026-07-06T21:40:42Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2022-12-23T03:57:16Z",
+                    "modified": "2026-07-06T17:27:35Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "supersedes prev publ loc which relies on now-deprecated OSM data.",
+                    "modified": "2026-07-06T17:27:31Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-07-06T17:27:07Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2022-12-23T03:47:13Z",
+                    "modified": "2026-07-06T17:27:07Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location-of-sanctuary-of-zeus-pan-hellenios",
+            "id": "osm-location-sanctuary-of-zeus-pan-hellenios",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
+                "https://pleiades.stoa.org/vocabularies/place-types/sanctuary"
             ],
-            "provenance": "OpenStreetMap (Node 8494874194, version 1, osm:changeset=100590578, 2021-03-07T20:17:24Z)",
+            "provenance": "OpenStreetMap (Way 303334101, version 6, osm:changeset=185216338, 2026-07-06T17:26:34Z)",
             "references": [
                 {
-                    "accessURI": "https://www.openstreetmap.org/browse/node/8494874194",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/303334101",
                     "alternateURI": "",
                     "bibliographicURI": "",
-                    "citationDetail": "Node 8494874194",
+                    "citationDetail": "Way 303334101",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=8494874194",
+                    "formattedCitation": "osm:way=303334101",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
                 }
             ],
             "review_state": "published",
-            "start": null,
-            "title": "OSM location of Sanctuary of Zeus (Pan)Hellenios",
-            "uri": "https://pleiades.stoa.org/places/580139/osm-location-of-sanctuary-of-zeus-pan-hellenios"
+            "start": -750,
+            "title": "OSM location: Sanctuary of Zeus (Pan)Hellenios",
+            "uri": "https://pleiades.stoa.org/places/580139/osm-location-sanctuary-of-zeus-pan-hellenios"
         }
     ],
     "names": [
@@ -453,9 +542,11 @@
         }
     ],
     "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/sanctuary",
         "https://pleiades.stoa.org/vocabularies/place-types/temple-2"
     ],
     "placeTypes": [
+        "sanctuary",
         "temple-2"
     ],
     "provenance": "Barrington Atlas: BAtlas 59 A4 Zeus Panhellenios, T.",
@@ -547,11 +638,22 @@
             "otherIdentifier": "",
             "shortTitle": "DARMC",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://resource.manto.unh.edu/10192080",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
+            "citationDetail": "10192080: the Sanctuary of Zeus Panhellenios at Aigina",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "MANTO",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        23.497615,
-        37.7077746
+        23.497718067246943,
+        37.70783282790978
     ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
