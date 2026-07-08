@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-480 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
+481 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1924,6 +1924,13 @@
  - [Psilo Kastro (Ag. Marina)](https://pleiades.stoa.org/places/541015)
 
 
+## Toponyme 14735: Gerakarion-Δ.Δ.Γερακαρίου
+[https://chronique.efa.gr/?r=topo_public&id=14735](https://chronique.efa.gr/?r=topo_public&id=14735)  
+
+### alignments:
+ - [Amyros](https://pleiades.stoa.org/places/540631)
+
+
 ## Toponyme 14999: Vrachasion (Anavlochos)-Δ.Δ. Βραχασίου
 [https://chronique.efa.gr/?r=topo_public&id=14999](https://chronique.efa.gr/?r=topo_public&id=14999)  
 
@@ -2224,6 +2231,14 @@
 
 ### alignments:
  - [Genesion/Apobathmoi](https://pleiades.stoa.org/places/570257)
+
+
+## Toponyme 26415: Alexandroupolis, Dedeagach (Dedeağaç)-Δ.Δ. Αλεξανδρουπόλεως
+[https://chronique.efa.gr/](https://chronique.efa.gr/)  
+
+### alignments:
+ - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+ - [Sale](https://pleiades.stoa.org/places/501595)
 
 
 ## Toponyme 26450: Didymoteicho, Dimotika-Δ.Δ.Διδυμοτείχου
@@ -3129,13 +3144,6 @@
 
 ### alignments:
  - [Molyvoti/Stryme?](https://pleiades.stoa.org/places/501628)
-
-
-## Toponyme 70002: Académie de Platon, Academy of Plato-Ακαδημία Πλάτωνος
-[https://chronique.efa.gr/](https://chronique.efa.gr/)  
-
-### alignments:
- - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
 
 
 ## Toponyme 70007: Agios Andreas-Άγιος Ανδρέας

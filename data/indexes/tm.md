@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5135 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
+5138 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1015,6 +1015,13 @@
  - [Ad Rotas/Rotae](https://pleiades.stoa.org/places/432635)
 
 
+## Geo 32632: Cupra Montana (Cupramontana)
+[https://www.trismegistos.org/place/32632](https://www.trismegistos.org/place/32632)  
+
+### alignments:
+ - [Cupra Montana](https://pleiades.stoa.org/places/413113)
+
+
 ## Geo 32729: Statulae (Goriano Sicoli)
 [https://www.trismegistos.org/place/32729](https://www.trismegistos.org/place/32729)  
 
@@ -1933,6 +1940,13 @@
  - [Euenos (river)](https://pleiades.stoa.org/places/540780)
 
 
+## Geo 41997: Trikomia [3]
+[https://www.trismegistos.org/place/41997](https://www.trismegistos.org/place/41997)  
+
+### alignments:
+ - [Trikomia 3](https://pleiades.stoa.org/places/614870)
+
+
 ## Geo 42033: Amphipolis
 [https://www.trismegistos.org/place/42033](https://www.trismegistos.org/place/42033)  
 
@@ -2226,6 +2240,13 @@
 
 ### alignments:
  - [Abrettene](https://pleiades.stoa.org/places/609289)
+
+
+## Geo 50308: Sale
+[https://www.trismegistos.org/place/50308](https://www.trismegistos.org/place/50308)  
+
+### alignments:
+ - [Sale](https://pleiades.stoa.org/places/501595)
 
 
 ## Geo 5256: Larisa (Limantepe)
@@ -17789,13 +17810,6 @@
  - [Cupra Maritima](https://pleiades.stoa.org/places/413112)
 
 
-## GEO ID 32632: Cupra Montana (Cupramontana)
-[http://www.trismegistos.org/place/32632](http://www.trismegistos.org/place/32632)  
-
-### alignments:
- - [Cupra Montana](https://pleiades.stoa.org/places/413113)
-
-
 ## GEO ID 32636: Firmum Picenum (Fermo)
 [http://www.trismegistos.org/place/32636](http://www.trismegistos.org/place/32636)  
 
@@ -23580,6 +23594,20 @@
  - [Zacazama](https://pleiades.stoa.org/places/364034)
 
 
+## GEO ID 40994: Ad Puteum (Bir el-Gin)
+[https://www.trismegistos.org/place/40994](https://www.trismegistos.org/place/40994)  
+
+### alignments:
+ - [Ad Puteum](https://pleiades.stoa.org/places/363916)
+
+
+## GEO ID 40995: Priscu Taberna (Tombia)
+[https://www.trismegistos.org/place/40995](https://www.trismegistos.org/place/40995)  
+
+### alignments:
+ - [Priscu Taberna](https://pleiades.stoa.org/places/373877)
+
+
 ## GEO ID 41006: Ad Ammontem (Qafr Hawar)
 [https://www.trismegistos.org/place/41006](https://www.trismegistos.org/place/41006)  
 
@@ -26336,13 +26364,6 @@
 
 ### alignments:
  - [Euphorbium](https://pleiades.stoa.org/places/614656)
-
-
-## GEO ID 41997: Trikomia [3]
-[https://www.trismegistos.org/place/41997](https://www.trismegistos.org/place/41997)  
-
-### alignments:
- - [Trikomia 3](https://pleiades.stoa.org/places/614870)
 
 
 ## GEO ID 41998: Caballucome

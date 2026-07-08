@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11026 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
+11031 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3476,6 +3476,13 @@
 
 ### alignments:
  - [Ladle Hill Iron Age Fort](https://pleiades.stoa.org/places/127132165)
+
+
+## Anabucis (Q140456164)
+[https://www.wikidata.org/wiki/Q140456164](https://www.wikidata.org/wiki/Q140456164)  
+
+### alignments:
+ - [Anabucis](https://pleiades.stoa.org/places/363921)
 
 
 ## Anactorium (Q12873561)
@@ -9332,6 +9339,13 @@
  - [Hippo Diarrhytus](https://pleiades.stoa.org/places/315038)
 
 
+## Bi’r al Jinn (Q104904320)
+[https://www.wikidata.org/wiki/Q104904320](https://www.wikidata.org/wiki/Q104904320)  
+
+### alignments:
+ - [Ad Puteum](https://pleiades.stoa.org/places/363916)
+
+
 ## Bi’r ash Shahwī (Q106129062)
 [https://www.wikidata.org/wiki/Q106129062](https://www.wikidata.org/wiki/Q106129062)  
 
@@ -9344,6 +9358,13 @@
 
 ### alignments:
  - [Tin Abunda](https://pleiades.stoa.org/places/354158)
+
+
+## Bi’r Ţunubīyah (Q106157194)
+[https://www.wikidata.org/wiki/Q106157194](https://www.wikidata.org/wiki/Q106157194)  
+
+### alignments:
+ - [Priscu Taberna](https://pleiades.stoa.org/places/373877)
 
 
 ## Black Ball Camp (Q4920313)
@@ -17090,13 +17111,6 @@
  - [Cupra Maritima](https://pleiades.stoa.org/places/413112)
 
 
-## Cupra Montana (Q136340795)
-[https://www.wikidata.org/wiki/Q136340795](https://www.wikidata.org/wiki/Q136340795)  
-
-### alignments:
- - [Cupra Montana](https://pleiades.stoa.org/places/413113)
-
-
 ## Cures (Q2246183)
 [https://www.wikidata.org/wiki/Q2246183](https://www.wikidata.org/wiki/Q2246183)  
 
@@ -20796,6 +20810,13 @@
 
 ### alignments:
  - [Hierakia (island)](https://pleiades.stoa.org/places/570293)
+
+
+## Fanum d'Aron (Q3066668)
+[https://www.wikidata.org/wiki/Q3066668](https://www.wikidata.org/wiki/Q3066668)  
+
+### alignments:
+ - [Fanum d'Aron](https://pleiades.stoa.org/places/138193)
 
 
 ## Fanum Fugitivi (Q59783950)
@@ -36944,6 +36965,13 @@
  - [Kanathra (island)](https://pleiades.stoa.org/places/50033)
 
 
+## Negev (Q162843)
+[https://www.wikidata.org/wiki/Q162843](https://www.wikidata.org/wiki/Q162843)  
+
+### alignments:
+ - [Negev](https://pleiades.stoa.org/places/687985)
+
+
 ## Negrine (Q1649736)
 [https://www.wikidata.org/wiki/Q1649736](https://www.wikidata.org/wiki/Q1649736)  
 
@@ -48100,13 +48128,6 @@
  - [Roman dam of Nossa Senhora da Represa](https://pleiades.stoa.org/places/844790836)
 
 
-## Q162843: Negev
-[https://www.wikidata.org/wiki/Q162843](https://www.wikidata.org/wiki/Q162843)  
-
-### alignments:
- - [Negev](https://pleiades.stoa.org/places/687985)
-
-
 ## Q16294969
 [https://www.wikidata.org/wiki/Q16294969](https://www.wikidata.org/wiki/Q16294969)  
 
@@ -54061,13 +54082,6 @@
 
 ### alignments:
  - [Frontone](https://pleiades.stoa.org/places/857433537)
-
-
-## Q3983287: Temple of Vespasian
-[https://www.wikidata.org/wiki/Q3983287](https://www.wikidata.org/wiki/Q3983287)  
-
-### alignments:
- - [Temple of Vespasian](https://pleiades.stoa.org/places/95873554)
 
 
 ## Q3983290: Temple of Olympian Zeus (Syracuse)
@@ -62053,6 +62067,13 @@
  - [Salduie/‘Salduba’](https://pleiades.stoa.org/places/246607)
 
 
+## Sale (Q7403795)
+[https://www.wikidata.org/wiki/Q7403795](https://www.wikidata.org/wiki/Q7403795)  
+
+### alignments:
+ - [Sale](https://pleiades.stoa.org/places/501595)
+
+
 ## Salerno (Q1083)
 [https://www.wikidata.org/wiki/Q1083](https://www.wikidata.org/wiki/Q1083)  
 
@@ -68811,6 +68832,13 @@
 
 ### alignments:
  - [Temple of Venus](https://pleiades.stoa.org/places/663121962)
+
+
+## Temple of Vespasian (Q3983287)
+[https://www.wikidata.org/wiki/Q3983287](https://www.wikidata.org/wiki/Q3983287)  
+
+### alignments:
+ - [Temple of Vespasian](https://pleiades.stoa.org/places/95873554)
 
 
 ## Temple of Vespasian and Titus (Q731284)
@@ -76165,6 +76193,13 @@
 
 ### alignments:
  - [Westerwood](https://pleiades.stoa.org/places/89321)
+
+
+## Weycock Hill (Q133607492)
+[https://www.wikidata.org/wiki/Q133607492](https://www.wikidata.org/wiki/Q133607492)  
+
+### alignments:
+ - [Weycock Hill (temple)](https://pleiades.stoa.org/places/79755)
 
 
 ## Wharram-le-Street (Q7990692)

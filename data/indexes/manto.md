@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1125 alignments exist in _Pleiades_ place references as of 2026-07-07. The following list of alignments is grouped by zotkey.
+1126 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2772,6 +2772,13 @@
 
 ### alignments:
  - [Asteria (island)](https://pleiades.stoa.org/places/530816)
+
+
+## 11293091: Amyros (Thessaly)
+[https://resource.manto.unh.edu/11293091](https://resource.manto.unh.edu/11293091)  
+
+### alignments:
+ - [Amyros](https://pleiades.stoa.org/places/540631)
 
 
 ## 11293434: Soloi (Cilicia)
