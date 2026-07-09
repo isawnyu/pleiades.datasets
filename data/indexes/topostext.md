@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5093 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
+5094 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -12187,6 +12187,13 @@
 
 ### alignments:
  - [Gangra](https://pleiades.stoa.org/places/844926)
+
+
+## Garama (Libya)
+[https://topostext.org/place/265131UGar](https://topostext.org/place/265131UGar)  
+
+### alignments:
+ - [Garama Metropolis](https://pleiades.stoa.org/places/354115)
 
 
 ## Garates R. (Arkadia)

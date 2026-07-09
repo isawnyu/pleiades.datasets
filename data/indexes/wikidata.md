@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11031 alignments exist in _Pleiades_ place references as of 2026-07-08. The following list of alignments is grouped by zotkey.
+11037 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2250,6 +2250,13 @@
 
 ### alignments:
  - [Dedan/al-'Ula](https://pleiades.stoa.org/places/814671)
+
+
+## Al-Wādī al-Ajāl (Q105992735)
+[https://www.wikidata.org/wiki/Q105992735](https://www.wikidata.org/wiki/Q105992735)  
+
+### alignments:
+ - [Fauces Garamanticae](https://pleiades.stoa.org/places/354112)
 
 
 ## Ala (Q243644)
@@ -4883,6 +4890,13 @@
 
 ### alignments:
  - [Aquae Sulis](https://pleiades.stoa.org/places/79299)
+
+
+## Aquae Thibilitanae (Q622996)
+[https://www.wikidata.org/wiki/Q622996](https://www.wikidata.org/wiki/Q622996)  
+
+### alignments:
+ - [Aquae Thibilitanae](https://pleiades.stoa.org/places/305030)
 
 
 ## Aqueduct from Gorze to Metz (Q2563830)
@@ -9050,6 +9064,13 @@
 
 ### alignments:
  - [Beth Aramaye](https://pleiades.stoa.org/places/893958)
+
+
+## Beth Garmai (Q4145610)
+[https://www.wikidata.org/wiki/Q4145610](https://www.wikidata.org/wiki/Q4145610)  
+
+### alignments:
+ - [Garmakan/Beth Garmai](https://pleiades.stoa.org/places/893999)
 
 
 ## Bethlehem (Q5776)
@@ -22633,6 +22654,13 @@
  - [Geridu](https://pleiades.stoa.org/places/364873309)
 
 
+## Germa (Q117654)
+[https://www.wikidata.org/wiki/Q117654](https://www.wikidata.org/wiki/Q117654)  
+
+### alignments:
+ - [Garama Metropolis](https://pleiades.stoa.org/places/354115)
+
+
 ## Germa (Q1513790)
 [https://www.wikidata.org/wiki/Q1513790](https://www.wikidata.org/wiki/Q1513790)  
 
@@ -25651,6 +25679,13 @@
 
 ### alignments:
  - [House of the geometric mosaics](https://pleiades.stoa.org/places/393691694)
+
+
+## House of the Indian Statuette (Q27070449)
+[https://www.wikidata.org/wiki/Q27070449](https://www.wikidata.org/wiki/Q27070449)  
+
+### alignments:
+ - [Casa della statuetta indiana](https://pleiades.stoa.org/places/264408878)
 
 
 ## House of the Lararium of Achilles (Q27070411)
@@ -51295,13 +51330,6 @@
  - [House of Publius Casca Longus](https://pleiades.stoa.org/places/836029917)
 
 
-## Q27070449: House of the Indian Statuette
-[https://www.wikidata.org/wiki/Q27070449](https://www.wikidata.org/wiki/Q27070449)  
-
-### alignments:
- - [Casa della statuetta indiana](https://pleiades.stoa.org/places/264408878)
-
-
 ## Q27070452: Caupona of Lucius Betutius (Vetutius) Placidus
 [https://www.wikidata.org/wiki/Q27070452](https://www.wikidata.org/wiki/Q27070452)  
 
@@ -58795,6 +58823,13 @@
 
 ### alignments:
  - [Gasr Beni Gdem](https://pleiades.stoa.org/places/373796)
+
+
+## Qaşr al Mākīnah (Q106155676)
+[https://www.wikidata.org/wiki/Q106155676](https://www.wikidata.org/wiki/Q106155676)  
+
+### alignments:
+ - [Tugulus](https://pleiades.stoa.org/places/364026)
 
 
 ## Qaşr al ‘Uqlah (Q106161174)
@@ -77257,6 +77292,13 @@
 
 ### alignments:
  - [Żejtun (Zejtun) Roman Villa](https://pleiades.stoa.org/places/462539)
+
+
+## Ḩawsh Maţrātīn (Q106155857)
+[https://www.wikidata.org/wiki/Q106155857](https://www.wikidata.org/wiki/Q106155857)  
+
+### alignments:
+ - [Turris et Taberna](https://pleiades.stoa.org/places/364027)
 
 
 ## Ḩufrat az Zāwiyah (Q32223768)
