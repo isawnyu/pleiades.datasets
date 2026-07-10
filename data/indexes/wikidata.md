@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11037 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
+11046 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4857,6 +4857,13 @@
  - [Aquae Granni](https://pleiades.stoa.org/places/108749)
 
 
+## Aquae Helveticae, Roman vicus / medieval / modern city (Q622983)
+[https://www.wikidata.org/wiki/Q622983](https://www.wikidata.org/wiki/Q622983)  
+
+### alignments:
+ - [Aquae Helveticae](https://pleiades.stoa.org/places/177445)
+
+
 ## Aquae Iasae (Q3510699)
 [https://www.wikidata.org/wiki/Q3510699](https://www.wikidata.org/wiki/Q3510699)  
 
@@ -7558,6 +7565,13 @@
 
 ### alignments:
  - [Badbury Rings](https://pleiades.stoa.org/places/511968274)
+
+
+## Baden (Samian Ware Discovery Site) (Q103145355)
+[https://www.wikidata.org/wiki/Q103145355](https://www.wikidata.org/wiki/Q103145355)  
+
+### alignments:
+ - [Aquae Helveticae](https://pleiades.stoa.org/places/177445)
 
 
 ## Baden-Baden (Q4100)
@@ -11355,6 +11369,13 @@
  - [Calavon (river)](https://pleiades.stoa.org/places/54430875)
 
 
+## Caldas de Reis (Q1448886)
+[https://www.wikidata.org/wiki/Q1448886](https://www.wikidata.org/wiki/Q1448886)  
+
+### alignments:
+ - [Aquae Celenae](https://pleiades.stoa.org/places/236333)
+
+
 ## Caledonia (Q1048625)
 [https://www.wikidata.org/wiki/Q1048625](https://www.wikidata.org/wiki/Q1048625)  
 
@@ -13621,6 +13642,13 @@
 
 ### alignments:
  - [Castro de Coaña](https://pleiades.stoa.org/places/565617320)
+
+
+## Castro de La Garma (Q5757984)
+[https://www.wikidata.org/wiki/Q5757984](https://www.wikidata.org/wiki/Q5757984)  
+
+### alignments:
+ - [Castro de La Garmas](https://pleiades.stoa.org/places/951808136)
 
 
 ## Castro de Pendía (Q8342724)
@@ -31816,6 +31844,13 @@
  - [Lucus Asturum](https://pleiades.stoa.org/places/236524)
 
 
+## Lucus Ferentina (Q3836328)
+[https://www.wikidata.org/wiki/Q3836328](https://www.wikidata.org/wiki/Q3836328)  
+
+### alignments:
+ - [Ferentinae Lucus](https://pleiades.stoa.org/places/691398461)
+
+
 ## Lucus Feroniae (Q3265994)
 [https://www.wikidata.org/wiki/Q3265994](https://www.wikidata.org/wiki/Q3265994)  
 
@@ -33622,6 +33657,13 @@
 
 ### alignments:
  - [Mehrgarh](https://pleiades.stoa.org/places/304475334)
+
+
+## Meiacarire (Q140476476)
+[https://www.wikidata.org/wiki/Q140476476](https://www.wikidata.org/wiki/Q140476476)  
+
+### alignments:
+ - [Meiacarire/*Aquae Frigidae](https://pleiades.stoa.org/places/874598)
 
 
 ## Meidum Pyramid (Q13444093)
@@ -39933,6 +39975,13 @@
  - [Panathenaic Way](https://pleiades.stoa.org/places/639740331)
 
 
+## Panaztepe (Q6055963)
+[https://www.wikidata.org/wiki/Q6055963](https://www.wikidata.org/wiki/Q6055963)  
+
+### alignments:
+ - [Panaztepe](https://pleiades.stoa.org/places/325069622)
+
+
 ## Pancrazi tomb (Via Latina) (Q123986360)
 [https://www.wikidata.org/wiki/Q123986360](https://www.wikidata.org/wiki/Q123986360)  
 
@@ -45035,13 +45084,6 @@
 
 ### alignments:
  - [Mura greche di Hipponion](https://pleiades.stoa.org/places/338962038)
-
-
-## Q110239443: Temple of Iuno Moneta at Signia
-[https://www.wikidata.org/wiki/Q110239443](https://www.wikidata.org/wiki/Q110239443)  
-
-### alignments:
- - [Temple of Iuno Moneta at Signia](https://pleiades.stoa.org/places/866779647)
 
 
 ## Q110372255: Migonion
@@ -68595,6 +68637,13 @@
  - [Sanctuary of Apollo Ismenios, Thebes](https://pleiades.stoa.org/places/116141527)
 
 
+## Temple of Iuno Moneta at Signia (Q110239443)
+[https://www.wikidata.org/wiki/Q110239443](https://www.wikidata.org/wiki/Q110239443)  
+
+### alignments:
+ - [Temple of Iuno Moneta at Signia](https://pleiades.stoa.org/places/866779647)
+
+
 ## Temple of Iuno Sospita (Lanuvium) (Q117338124)
 [https://www.wikidata.org/wiki/Q117338124](https://www.wikidata.org/wiki/Q117338124)  
 
@@ -69722,6 +69771,13 @@
 
 ### alignments:
  - [Thermae Novati](https://pleiades.stoa.org/places/365816491)
+
+
+## Thermae Selinuntine (Q3984383)
+[https://www.wikidata.org/wiki/Q3984383](https://www.wikidata.org/wiki/Q3984383)  
+
+### alignments:
+ - [Thermae Selinuntinae/Aquae Larodes](https://pleiades.stoa.org/places/462514)
 
 
 ## Thermai Himeraiai (Q61465927)
@@ -75065,6 +75121,13 @@
 
 ### alignments:
  - [Villa of Numisia Procula](https://pleiades.stoa.org/places/141644886)
+
+
+## villa of Publius Clodius Pulcher (Q140473813)
+[https://www.wikidata.org/wiki/Q140473813](https://www.wikidata.org/wiki/Q140473813)  
+
+### alignments:
+ - [Clodio](https://pleiades.stoa.org/places/422897)
 
 
 ## Villa of Publius Fannius Synistor (Q64159914)

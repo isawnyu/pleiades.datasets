@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5138 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
+5141 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11877,6 +11877,13 @@
  - [Vivisco](https://pleiades.stoa.org/places/177663)
 
 
+## GEO ID 22517: Bagnères-de-Luchon
+[https://www.trismegistos.org/place/22517](https://www.trismegistos.org/place/22517)  
+
+### alignments:
+ - [Aquae Onesiorum](https://pleiades.stoa.org/places/246171)
+
+
 ## GEO ID 22600: Hispania Tarraconensis
 [https://www.trismegistos.org/place/22600](https://www.trismegistos.org/place/22600)  
 
@@ -14109,6 +14116,13 @@
 
 ### alignments:
  - [Kellis](https://pleiades.stoa.org/places/776189)
+
+
+## GEO ID 27642
+[http://www.trismegistos.org/place/27642](http://www.trismegistos.org/place/27642)  
+
+### alignments:
+ - [Aquae Celenae](https://pleiades.stoa.org/places/236333)
 
 
 ## GEO ID 27646: Turris Augusti (Catoira)
@@ -22086,6 +22100,13 @@
 
 ### alignments:
  - [Telonnum](https://pleiades.stoa.org/places/138613)
+
+
+## GEO ID 40288
+[https://www.trismegistos.org/place/40288](https://www.trismegistos.org/place/40288)  
+
+### alignments:
+ - [Aquae Convenarum](https://pleiades.stoa.org/places/246170)
 
 
 ## GEO ID 40293: Avesica

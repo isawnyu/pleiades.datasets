@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2385 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
+2388 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -631,6 +631,13 @@
  - [Sammachi](https://pleiades.stoa.org/places/874674)
 
 
+## 10B4 (Talbert 2611)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2611.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2611.html)  
+
+### alignments:
+ - [Meiacarire/*Aquae Frigidae](https://pleiades.stoa.org/places/874598)
+
+
 ## 10B4 (Talbert 2623)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2623.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2623.html)  
 
@@ -741,6 +748,13 @@
 
 ### alignments:
  - [Trispeda](https://pleiades.stoa.org/places/876730)
+
+
+## 10B5 (Talbert 2612)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2612.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2612.html)  
+
+### alignments:
+ - [Arzamon/Arxama](https://pleiades.stoa.org/places/874366)
 
 
 ## 10B5 (Talbert 2627)
@@ -2512,6 +2526,13 @@
 
 ### alignments:
  - [*Sarnali](https://pleiades.stoa.org/places/246625)
+
+
+## 1B1 (Talbert 767)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace767.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace767.html)  
+
+### alignments:
+ - [Aquae Convenarum](https://pleiades.stoa.org/places/246170)
 
 
 ## 1B1 (Talbert 770) Ce++nda

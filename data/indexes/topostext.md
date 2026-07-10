@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5094 alignments exist in _Pleiades_ place references as of 2026-07-09. The following list of alignments is grouped by zotkey.
+5099 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -3995,11 +3995,25 @@
  - [Aquae Calidae](https://pleiades.stoa.org/places/246168)
 
 
+## Aquae Flaviae (Lusitania)
+[https://topostext.org/place/417000UAqu](https://topostext.org/place/417000UAqu)  
+
+### alignments:
+ - [Aquae Flaviae](https://pleiades.stoa.org/places/236334)
+
+
 ## Aquae Granni/Aquis (Germania)
 [https://topostext.org/place/508061UAqu](https://topostext.org/place/508061UAqu)  
 
 ### alignments:
  - [Aquae Granni](https://pleiades.stoa.org/places/108749)
+
+
+## Aquae Mattiacorum (Germania)
+[https://topostext.org/place/501082UAqu](https://topostext.org/place/501082UAqu)  
+
+### alignments:
+ - [Aquae Mattiacorum](https://pleiades.stoa.org/places/108750)
 
 
 ## Aquae Sextiae Col. (Gallia)
@@ -4014,6 +4028,13 @@
 
 ### alignments:
  - [Aquae Statiellae](https://pleiades.stoa.org/places/383574)
+
+
+## Aquae Sulis (Britannia)
+[https://topostext.org/place/514-24UASu](https://topostext.org/place/514-24UASu)  
+
+### alignments:
+ - [Aquae Sulis](https://pleiades.stoa.org/places/79299)
 
 
 ## Aquae Terebellicae (Gallia)
@@ -32521,6 +32542,13 @@
  - [Teuthrone](https://pleiades.stoa.org/places/570714)
 
 
+## Thabraca (Numidia)
+[https://topostext.org/place/369088UTha](https://topostext.org/place/369088UTha)  
+
+### alignments:
+ - [Thabraca](https://pleiades.stoa.org/places/315192)
+
+
 ## Thalamai (Elis) 3 Ileia
 [https://topostext.org/place/379214UTha](https://topostext.org/place/379214UTha)  
 
@@ -32876,6 +32904,13 @@
 
 ### alignments:
  - [Thermae Himeraeae](https://pleiades.stoa.org/places/462513)
+
+
+## Thermae Selinuntinae (Sicilia)
+[https://topostext.org/place/375131UThS](https://topostext.org/place/375131UThS)  
+
+### alignments:
+ - [Thermae Selinuntinae/Aquae Larodes](https://pleiades.stoa.org/places/462514)
 
 
 ## Thermai (Nisyros)
