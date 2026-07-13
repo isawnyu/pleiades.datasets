@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11046 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+11058 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -545,7 +545,7 @@
 [https://www.wikidata.org/wiki/Q630709](https://www.wikidata.org/wiki/Q630709)  
 
 ### alignments:
- - [Acerrae](https://pleiades.stoa.org/places/383542)
+ - [Acerrae (Cisalpine Gaul)](https://pleiades.stoa.org/places/383542)
 
 
 ## Acerrae Vatriae (Q4673211)
@@ -553,6 +553,13 @@
 
 ### alignments:
  - [Acerrae Vafriae](https://pleiades.stoa.org/places/416762)
+
+
+## Acerronia (Q137780876)
+[https://www.wikidata.org/wiki/Q137780876](https://www.wikidata.org/wiki/Q137780876)  
+
+### alignments:
+ - [Acer(r)onia](https://pleiades.stoa.org/places/442435)
 
 
 ## Acesta (Q3604256)
@@ -2383,6 +2390,13 @@
 
 ### alignments:
  - [Alba Longa](https://pleiades.stoa.org/places/422824)
+
+
+## Albanella (Q80547)
+[https://www.wikidata.org/wiki/Q80547](https://www.wikidata.org/wiki/Q80547)  
+
+### alignments:
+ - [Albanella](https://pleiades.stoa.org/places/442455)
 
 
 ## Albaniana (Q2663417)
@@ -12018,6 +12032,13 @@
 
 ### alignments:
  - [Temple of Hera Lacinia](https://pleiades.stoa.org/places/452332)
+
+
+## Capo di Fiume (Q3657199)
+[https://www.wikidata.org/wiki/Q3657199](https://www.wikidata.org/wiki/Q3657199)  
+
+### alignments:
+ - [Capodifiume](https://pleiades.stoa.org/places/442527)
 
 
 ## Capo Falcone (Q3657120)
@@ -32496,6 +32517,13 @@
  - [Mahalibeh Castle](https://pleiades.stoa.org/places/99995226)
 
 
+## Mahi River (Q542539)
+[https://www.wikidata.org/wiki/Q542539](https://www.wikidata.org/wiki/Q542539)  
+
+### alignments:
+ - [Mais (river)](https://pleiades.stoa.org/places/59905)
+
+
 ## Mahmudabad, Urmia (Q5715835)
 [https://www.wikidata.org/wiki/Q5715835](https://www.wikidata.org/wiki/Q5715835)  
 
@@ -37490,6 +37518,13 @@
  - [Noai?](https://pleiades.stoa.org/places/462393)
 
 
+## Nocera amphitheatre (Q28978047)
+[https://www.wikidata.org/wiki/Q28978047](https://www.wikidata.org/wiki/Q28978047)  
+
+### alignments:
+ - [Roman amphitheater at Nuceria (Alfaterna)](https://pleiades.stoa.org/places/293261278)
+
+
 ## Nocera Umbra (Q20491)
 [https://www.wikidata.org/wiki/Q20491](https://www.wikidata.org/wiki/Q20491)  
 
@@ -37810,6 +37845,13 @@
 
 ### alignments:
  - [Numidia (Roman province)](https://pleiades.stoa.org/places/981539)
+
+
+## Numistro (Q11939048)
+[https://www.wikidata.org/wiki/Q11939048](https://www.wikidata.org/wiki/Q11939048)  
+
+### alignments:
+ - [Numistro?](https://pleiades.stoa.org/places/442693)
 
 
 ## Numituriana (Q99298929)
@@ -39275,6 +39317,13 @@
  - [Ortona](https://pleiades.stoa.org/places/413234)
 
 
+## Orubicaria (Q140517358)
+[https://www.wikidata.org/wiki/Q140517358](https://www.wikidata.org/wiki/Q140517358)  
+
+### alignments:
+ - [Orubicaria](https://pleiades.stoa.org/places/906021)
+
+
 ## Oryxis (Q27044139)
 [https://www.wikidata.org/wiki/Q27044139](https://www.wikidata.org/wiki/Q27044139)  
 
@@ -40444,6 +40493,13 @@
  - [Pasture House Turret 3A](https://pleiades.stoa.org/places/189058537)
 
 
+## Pataliputra (Q389755)
+[https://www.wikidata.org/wiki/Q389755](https://www.wikidata.org/wiki/Q389755)  
+
+### alignments:
+ - [Palibothra](https://pleiades.stoa.org/places/59978)
+
+
 ## Patara (Q233121)
 [https://www.wikidata.org/wiki/Q233121](https://www.wikidata.org/wiki/Q233121)  
 
@@ -41296,6 +41352,13 @@
 
 ### alignments:
  - [Philistia (region)](https://pleiades.stoa.org/places/660988416)
+
+
+## Philopappos Monument (Q1760491)
+[https://www.wikidata.org/wiki/Q1760491](https://www.wikidata.org/wiki/Q1760491)  
+
+### alignments:
+ - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## Philopappou (Q2088161)
@@ -43448,6 +43511,13 @@
  - [Prasias (lake)](https://pleiades.stoa.org/places/501579)
 
 
+## Prasii (Q19739832)
+[https://www.wikidata.org/wiki/Q19739832](https://www.wikidata.org/wiki/Q19739832)  
+
+### alignments:
+ - [Prasii](https://pleiades.stoa.org/places/60007)
+
+
 ## Prassilus (Q18286328)
 [https://www.wikidata.org/wiki/Q18286328](https://www.wikidata.org/wiki/Q18286328)  
 
@@ -45176,13 +45246,6 @@
 
 ### alignments:
  - [Kom el-Nana](https://pleiades.stoa.org/places/851304643)
-
-
-## Q111942: San Leo
-[https://www.wikidata.org/wiki/Q111942](https://www.wikidata.org/wiki/Q111942)  
-
-### alignments:
- - [Monteferetra](https://pleiades.stoa.org/places/413210)
 
 
 ## Q1120415
@@ -47308,6 +47371,13 @@
  - [Villa di Grotte di Piastra](https://pleiades.stoa.org/places/983899141)
 
 
+## Q140517691
+[https://www.wikidata.org/wiki/Q140517691](https://www.wikidata.org/wiki/Q140517691)  
+
+### alignments:
+ - [Temple of Jupiter?, Via Appia](https://pleiades.stoa.org/places/422950)
+
+
 ## Q1407535: Venta Icenorum
 [https://www.wikidata.org/wiki/Q1407535](https://www.wikidata.org/wiki/Q1407535)  
 
@@ -48806,13 +48876,6 @@
 
 ### alignments:
  - [Espelt Roman villa](https://pleiades.stoa.org/places/289254456)
-
-
-## Q1760491: Philopappos Monument
-[https://www.wikidata.org/wiki/Q1760491](https://www.wikidata.org/wiki/Q1760491)  
-
-### alignments:
- - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## Q1761052: Rock Carvings in Tanum
@@ -51174,6 +51237,13 @@
 
 ### alignments:
  - [La Almoloya](https://pleiades.stoa.org/places/465188488)
+
+
+## Q25456937
+[https://www.wikidata.org/wiki/Q25456937](https://www.wikidata.org/wiki/Q25456937)  
+
+### alignments:
+ - [Pinguis (mountain)](https://pleiades.stoa.org/places/197437)
 
 
 ## Q25461264: Asklepieion of Corinth
@@ -62527,6 +62597,13 @@
 
 ### alignments:
  - [Isola de San Lazzaro degli Armeni](https://pleiades.stoa.org/places/663740691)
+
+
+## San Leo (Q111942)
+[https://www.wikidata.org/wiki/Q111942](https://www.wikidata.org/wiki/Q111942)  
+
+### alignments:
+ - [Monteferetra](https://pleiades.stoa.org/places/413210)
 
 
 ## San Lorenzo del Vallo (Q53971)
@@ -74798,6 +74875,13 @@
 
 ### alignments:
  - [Vieste](https://pleiades.stoa.org/places/442853)
+
+
+## Vietri di Potenza (Q52692)
+[https://www.wikidata.org/wiki/Q52692](https://www.wikidata.org/wiki/Q52692)  
+
+### alignments:
+ - [Pietrastretta](https://pleiades.stoa.org/places/442720)
 
 
 ## Vietri sul Mare (Q81814)

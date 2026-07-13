@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5141 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+5148 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -521,6 +521,13 @@
 ### alignments:
  - [Paros (island)](https://pleiades.stoa.org/places/599868)
  - [Paros (settlement)](https://pleiades.stoa.org/places/599867)
+
+
+## Geo 16151: Eumeneia (Işıklı)
+[https://www.trismegistos.org/place/16151](https://www.trismegistos.org/place/16151)  
+
+### alignments:
+ - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
 
 
 ## Geo 16207: Erythrai (Ildırı)
@@ -7716,13 +7723,6 @@
 
 ### alignments:
  - [Dokimeion](https://pleiades.stoa.org/places/609366)
-
-
-## GEO ID 16151: Eumeneia (Işıklı)
-[https://www.trismegistos.org/place/16151](https://www.trismegistos.org/place/16151)  
-
-### alignments:
- - [Fulvia/Eumeneia](https://pleiades.stoa.org/places/609382)
 
 
 ## GEO ID 16152: Priapos (Karabiğa)
@@ -16322,7 +16322,7 @@
 [https://www.trismegistos.org/place/31483](https://www.trismegistos.org/place/31483)  
 
 ### alignments:
- - [Acerrae](https://pleiades.stoa.org/places/383542)
+ - [Acerrae (Cisalpine Gaul)](https://pleiades.stoa.org/places/383542)
 
 
 ## GEO ID 31487: Industria (Monteu da Po)
@@ -22740,6 +22740,13 @@
  - [Longaticum](https://pleiades.stoa.org/places/197357)
 
 
+## GEO ID 40529
+[http://www.trismegistos.org/place/40529](http://www.trismegistos.org/place/40529)  
+
+### alignments:
+ - [Ragando](https://pleiades.stoa.org/places/197467)
+
+
 ## GEO ID 40532: Lentulis (Stari Gradac)
 [https://www.trismegistos.org/place/40532](https://www.trismegistos.org/place/40532)  
 
@@ -25239,6 +25246,13 @@
  - [Caumatis/Kanate/Kanthatis](https://pleiades.stoa.org/places/30221)
 
 
+## GEO ID 41676: Tazora
+[https://www.trismegistos.org/place/41676](https://www.trismegistos.org/place/41676)  
+
+### alignments:
+ - [Tazora](https://pleiades.stoa.org/places/30276)
+
+
 ## GEO ID 41677: Ad Portum (Zebacha)
 [https://www.trismegistos.org/place/41677](https://www.trismegistos.org/place/41677)  
 
@@ -26359,6 +26373,13 @@
  - [Boukephala](https://pleiades.stoa.org/places/59750)
 
 
+## GEO ID 41985: Palibothra (Patna)
+[https://www.trismegistos.org/place/41985](https://www.trismegistos.org/place/41985)  
+
+### alignments:
+ - [Palibothra](https://pleiades.stoa.org/places/59978)
+
+
 ## GEO ID 41990: Arae Alexandri
 [https://www.trismegistos.org/place/41990](https://www.trismegistos.org/place/41990)  
 
@@ -26898,6 +26919,13 @@
  - [Onoadas](https://pleiades.stoa.org/places/906020)
 
 
+## GEO ID 42176: Orubicaria
+[https://www.trismegistos.org/place/42176](https://www.trismegistos.org/place/42176)  
+
+### alignments:
+ - [Orubicaria](https://pleiades.stoa.org/places/906021)
+
+
 ## GEO ID 42178: Alexandreia
 [https://www.trismegistos.org/place/42178](https://www.trismegistos.org/place/42178)  
 
@@ -27135,6 +27163,20 @@
 
 ### alignments:
  - [Sri Lanka](https://pleiades.stoa.org/places/50298)
+
+
+## GEO ID 42329: Aunes
+[https://www.trismegistos.org/place/42329](https://www.trismegistos.org/place/42329)  
+
+### alignments:
+ - [Aunes (river)](https://pleiades.stoa.org/places/50606)
+
+
+## GEO ID 42332: Calippe
+[https://www.trismegistos.org/place/42332](https://www.trismegistos.org/place/42332)  
+
+### alignments:
+ - [Calippe](https://pleiades.stoa.org/places/366013522)
 
 
 ## GEO ID 42339: Mosa (Meuse)
@@ -35445,6 +35487,13 @@
 
 ### alignments:
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
+
+
+## GEO ID, 14492
+[http://www.trismegistos.org/place/14492](http://www.trismegistos.org/place/14492)  
+
+### alignments:
+ - [Numistro?](https://pleiades.stoa.org/places/442693)
 
 
 ## Geo ID, 15780: Doclea (Podgorica)

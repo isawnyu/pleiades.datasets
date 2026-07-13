@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1126 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+1127 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3087,6 +3087,13 @@
 
 ### alignments:
  - [Persis/Pars](https://pleiades.stoa.org/places/922698)
+
+
+## 11300867: Palibothra (India)
+[https://resource.manto.unh.edu/11300867](https://resource.manto.unh.edu/11300867)  
+
+### alignments:
+ - [Palibothra](https://pleiades.stoa.org/places/59978)
 
 
 ## 11300906: Cherronesos (Libya)

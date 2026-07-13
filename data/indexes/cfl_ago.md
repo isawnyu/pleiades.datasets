@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-481 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+481 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -203,13 +203,6 @@
 
 ### alignments:
  - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
-
-
-## ATHENS - Philopappos Hill - 2003
-[https://chronique.efa.gr/?kroute=report&id=4558](https://chronique.efa.gr/?kroute=report&id=4558)  
-
-### alignments:
- - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## FRANCHTHI CAVE - 2014
@@ -595,6 +588,13 @@
 
 ### alignments:
  - [Altar of the Twelve Gods](https://pleiades.stoa.org/places/676120270)
+
+
+## Report 4558: ATHENS - Philopappos Hill - 2003
+[https://chronique.efa.gr/?kroute=report&id=4558](https://chronique.efa.gr/?kroute=report&id=4558)  
+
+### alignments:
+ - [Philopappos Monument](https://pleiades.stoa.org/places/491444298)
 
 
 ## Report 4726: KASTRI LIVADIOU. - Ancienne Dolichè - 2008

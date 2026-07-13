@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5099 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+5101 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -434,7 +434,7 @@
 [https://topostext.org/place/452098UAce](https://topostext.org/place/452098UAce)  
 
 ### alignments:
- - [Acerrae](https://pleiades.stoa.org/places/383542)
+ - [Acerrae (Cisalpine Gaul)](https://pleiades.stoa.org/places/383542)
 
 
 ## Achaea Phthiotis region (Phthiotis) 199 Phthiotida - Φθιώτας Αχαιούς
@@ -23091,6 +23091,13 @@
  - [Numidia (Roman province)](https://pleiades.stoa.org/places/981539)
 
 
+## Numistro (Italia)
+[https://topostext.org/place/408155UNum](https://topostext.org/place/408155UNum)  
+
+### alignments:
+ - [Numistro?](https://pleiades.stoa.org/places/442693)
+
+
 ## Nursia (Italy)
 [https://topostext.org/place/428131UNur](https://topostext.org/place/428131UNur)  
 
@@ -24476,6 +24483,13 @@
 
 ### alignments:
  - [Paleokhori](https://pleiades.stoa.org/places/501548)
+
+
+## Palibothra, Pataliputra (India)
+[https://topostext.org/place/256851UPal](https://topostext.org/place/256851UPal)  
+
+### alignments:
+ - [Palibothra](https://pleiades.stoa.org/places/59978)
 
 
 ## Palice (Sicily)

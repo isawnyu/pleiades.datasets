@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2388 alignments exist in _Pleiades_ place references as of 2026-07-10. The following list of alignments is grouped by zotkey.
+2395 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1310,6 +1310,20 @@
  - [Phra(da)/Prophthasia/Frakh-kar-Peroz](https://pleiades.stoa.org/places/29718)
 
 
+## 11B3 (Talbert 2754)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2754.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2754.html)  
+
+### alignments:
+ - [Tazora](https://pleiades.stoa.org/places/30276)
+
+
+## 11B3 (Talbert 2756)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2756.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2756.html)  
+
+### alignments:
+ - [Palibothra](https://pleiades.stoa.org/places/59978)
+
+
 ## 11B3 (Talbert 2763)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2763.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2763.html)  
 
@@ -1492,6 +1506,13 @@
  - [Ichthyophagoi](https://pleiades.stoa.org/places/29605)
 
 
+## 11C4 (Talbert 2761)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2761.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2761.html)  
+
+### alignments:
+ - [Mais (river)](https://pleiades.stoa.org/places/59905)
+
+
 ## 11C4 (Talbert 3283)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3283.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3283.html)  
 
@@ -1506,11 +1527,32 @@
  - [Baris (river)](https://pleiades.stoa.org/places/49901)
 
 
+## 11C4-11C5 (Talbert 3505)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3505.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3505.html)  
+
+### alignments:
+ - [Aunes (river)](https://pleiades.stoa.org/places/50606)
+
+
 ## 11C5 (Talbert 2789)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2789.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2789.html)  
 
 ### alignments:
  - [Korkai/Kolchoi](https://pleiades.stoa.org/places/50064)
+
+
+## 11C5 (Talbert 2791)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2791.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2791.html)  
+
+### alignments:
+ - [Calippe](https://pleiades.stoa.org/places/366013522)
+
+
+## 11C5 (Talbert 2792)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2792.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2792.html)  
+
+### alignments:
+ - [Dharanikota/Pitoura](https://pleiades.stoa.org/places/50219)
 
 
 ## 11C5 (Talbert 2797)
@@ -5857,7 +5899,7 @@
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1050.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1050.html)  
 
 ### alignments:
- - [Acerrae](https://pleiades.stoa.org/places/383542)
+ - [Acerrae (Cisalpine Gaul)](https://pleiades.stoa.org/places/383542)
 
 
 ## 3B2 (Talbert 1051)
@@ -7020,6 +7062,13 @@
 
 ### alignments:
  - [Atrans](https://pleiades.stoa.org/places/197147)
+
+
+## 4A2 (Talbert 1589)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1589.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1589.html)  
+
+### alignments:
+ - [Ragando](https://pleiades.stoa.org/places/197467)
 
 
 ## 4A2 (Talbert 1603)
