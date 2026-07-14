@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2395 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+2396 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1308,6 +1308,13 @@
 
 ### alignments:
  - [Phra(da)/Prophthasia/Frakh-kar-Peroz](https://pleiades.stoa.org/places/29718)
+
+
+## 11B3 (Talbert 2753)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2753.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2753.html)  
+
+### alignments:
+ - [Rages](https://pleiades.stoa.org/places/928302177)
 
 
 ## 11B3 (Talbert 2754)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5101 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+5106 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -149,6 +149,13 @@
  - [Pyrgouthi](https://pleiades.stoa.org/places/410857095)
 
 
+## 379214BElG
+[https://topostext.org/place/379214BElG](https://topostext.org/place/379214BElG)  
+
+### alignments:
+ - [Elis Gymnasium](https://pleiades.stoa.org/places/638203605)
+
+
 ## 379229SAph
 [https://topostext.org/place/379229SAph](https://topostext.org/place/379229SAph)  
 
@@ -170,6 +177,13 @@
  - [Sanctuary of the Dioscouri at Athens](https://pleiades.stoa.org/places/982681751)
 
 
+## 380237SOTA
+[https://topostext.org/place/380237SOTA](https://topostext.org/place/380237SOTA)  
+
+### alignments:
+ - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
+
+
 ## 383233FEle
 [https://topostext.org/place/383233FEle](https://topostext.org/place/383233FEle)  
 
@@ -189,6 +203,13 @@
 
 ### alignments:
  - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
+
+
+## 385225BDGy
+[https://topostext.org/place/385225BDGy](https://topostext.org/place/385225BDGy)  
+
+### alignments:
+ - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -6060,6 +6081,13 @@
 
 ### alignments:
  - [Bannaventa](https://pleiades.stoa.org/places/79313)
+
+
+## Baragiano (Lucania)
+[https://topostext.org/place/406155XBAR](https://topostext.org/place/406155XBAR)  
+
+### alignments:
+ - [Baragiano](https://pleiades.stoa.org/places/442497)
 
 
 ## Barathron (Athens)
@@ -24728,6 +24756,13 @@
 
 ### alignments:
  - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
+
+
+## Pandosia (Italia) 5 S. Maria d’Anglona
+[https://topostext.org/place/402166UPan](https://topostext.org/place/402166UPan)  
+
+### alignments:
+ - [Pandosia](https://pleiades.stoa.org/places/442709)
 
 
 ## Pandosia (Preveza)

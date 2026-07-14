@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5148 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+5150 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -542,6 +542,13 @@
 
 ### alignments:
  - [Brigetio](https://pleiades.stoa.org/places/197180)
+
+
+## Geo 1634: Patsontis
+[https://www.trismegistos.org/place/1634](https://www.trismegistos.org/place/1634)  
+
+### alignments:
+ - [Patsontis](https://pleiades.stoa.org/places/741548)
 
 
 ## Geo 16524 Ferresanus Portus (Farasan Kabir)
@@ -1504,6 +1511,13 @@
 
 ### alignments:
  - [Golgoi](https://pleiades.stoa.org/places/707512)
+
+
+## Geo 37230: Leukos Oikos (Leukoniko)
+[https://www.trismegistos.org/place/37230](https://www.trismegistos.org/place/37230)  
+
+### alignments:
+ - [Leukos Oikos](https://pleiades.stoa.org/places/707562)
 
 
 ## Geo 37270: Issos (Kınet Höyüğü)
@@ -20764,13 +20778,6 @@
  - [Tanamey](https://pleiades.stoa.org/places/759652)
 
 
-## GEO ID 37230: Leukos Oikos (Leukoniko)
-[https://www.trismegistos.org/place/37230](https://www.trismegistos.org/place/37230)  
-
-### alignments:
- - [Leukos Oikos](https://pleiades.stoa.org/places/707562)
-
-
 ## GEO ID 37274: Seleukeia epi tou Zeugmatos (Killik?)
 [http://www.trismegistos.org/place/37274](http://www.trismegistos.org/place/37274)  
 
@@ -27135,6 +27142,13 @@
 ### alignments:
  - [Aquae Albulae](https://pleiades.stoa.org/places/422840)
  - [Aquae Albulae](https://pleiades.stoa.org/places/422841)
+
+
+## GEO ID 42295: Ragaia (Rhaga)
+[https://www.trismegistos.org/place/42295](https://www.trismegistos.org/place/42295)  
+
+### alignments:
+ - [Rages](https://pleiades.stoa.org/places/928302177)
 
 
 ## GEO ID 42303: Antiocheia Tharmata

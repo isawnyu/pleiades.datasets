@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11058 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+11066 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3415,6 +3415,13 @@
  - [Roman amphitheater at Patavium](https://pleiades.stoa.org/places/237512727)
 
 
+## Amphitheatre of Sbeitla (Q42760508)
+[https://www.wikidata.org/wiki/Q42760508](https://www.wikidata.org/wiki/Q42760508)  
+
+### alignments:
+ - [Amphitheater of Sbeitla](https://pleiades.stoa.org/places/614847257)
+
+
 ## Amphitheatre of Serdica (Q980970)
 [https://www.wikidata.org/wiki/Q980970](https://www.wikidata.org/wiki/Q980970)  
 
@@ -5968,6 +5975,13 @@
 
 ### alignments:
  - [Armenion](https://pleiades.stoa.org/places/540662)
+
+
+## Armento (Q52515)
+[https://www.wikidata.org/wiki/Q52515](https://www.wikidata.org/wiki/Q52515)  
+
+### alignments:
+ - [Armento](https://pleiades.stoa.org/places/442477)
 
 
 ## Arnières-sur-Iton (Q1009681)
@@ -12865,6 +12879,13 @@
 
 ### alignments:
  - [Castello di Monte Sant'Angelo](https://pleiades.stoa.org/places/147181486)
+
+
+## Castello di Montevetrano (Q3662747)
+[https://www.wikidata.org/wiki/Q3662747](https://www.wikidata.org/wiki/Q3662747)  
+
+### alignments:
+ - [Castello di Montevetrano](https://pleiades.stoa.org/places/890246903)
 
 
 ## Castello di Scribla (Q108471382)
@@ -22016,6 +22037,13 @@
  - [funeral monuments of the Via Iulia Augusta](https://pleiades.stoa.org/places/431472222)
 
 
+## Funerary monuments in piazza del Corso (Q3862596)
+[https://www.wikidata.org/wiki/Q3862596](https://www.wikidata.org/wiki/Q3862596)  
+
+### alignments:
+ - [Funerary monuments in piazza del Corso (Nocera Inferiore)](https://pleiades.stoa.org/places/754096801)
+
+
 ## Funtana Coberta (Q1474759)
 [https://www.wikidata.org/wiki/Q1474759](https://www.wikidata.org/wiki/Q1474759)  
 
@@ -23903,11 +23931,25 @@
  - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
 
 
+## Gymnasium (Elis) (Q107031194)
+[https://www.wikidata.org/wiki/Q107031194](https://www.wikidata.org/wiki/Q107031194)  
+
+### alignments:
+ - [Elis Gymnasium](https://pleiades.stoa.org/places/638203605)
+
+
 ## Gymnasium (Q17631557)
 [https://www.wikidata.org/wiki/Q17631557](https://www.wikidata.org/wiki/Q17631557)  
 
 ### alignments:
  - [So-called Roman Gymnasium at Syracuse](https://pleiades.stoa.org/places/649857187)
+
+
+## Gymnasium at Delphi (Q22668472)
+[https://www.wikidata.org/wiki/Q22668472](https://www.wikidata.org/wiki/Q22668472)  
+
+### alignments:
+ - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
 
 
 ## Gymnasium of Ptolemy, Athens (Q24204093)
@@ -38785,6 +38827,13 @@
  - [Ṣanʿāʾ](https://pleiades.stoa.org/places/104811110)
 
 
+## Old Temple of Athena (Q683988)
+[https://www.wikidata.org/wiki/Q683988](https://www.wikidata.org/wiki/Q683988)  
+
+### alignments:
+ - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
+
+
 ## Old Winchester Hill (Q7085420)
 [https://www.wikidata.org/wiki/Q7085420](https://www.wikidata.org/wiki/Q7085420)  
 
@@ -40043,6 +40092,13 @@
 
 ### alignments:
  - [Pandionis](https://pleiades.stoa.org/places/391233695)
+
+
+## Pandosia (Q1451133)
+[https://www.wikidata.org/wiki/Q1451133](https://www.wikidata.org/wiki/Q1451133)  
+
+### alignments:
+ - [Pandosia](https://pleiades.stoa.org/places/442709)
 
 
 ## Pandosia (Q3180048)
@@ -54517,13 +54573,6 @@
 
 ### alignments:
  - [Roman theater at Sufetula](https://pleiades.stoa.org/places/66403500)
-
-
-## Q42760508: Amphitheatre of Sbeitla
-[https://www.wikidata.org/wiki/Q42760508](https://www.wikidata.org/wiki/Q42760508)  
-
-### alignments:
- - [Amphitheater of Sbeitla](https://pleiades.stoa.org/places/614847257)
 
 
 ## Q42760700: Flavii Mausoleum
@@ -69709,6 +69758,13 @@
  - [Theater of Nero](https://pleiades.stoa.org/places/406270378)
 
 
+## theatre of Nuceria Alfaterna (Q21196047)
+[https://www.wikidata.org/wiki/Q21196047](https://www.wikidata.org/wiki/Q21196047)  
+
+### alignments:
+ - [Theater of Nuceria Alfaterna](https://pleiades.stoa.org/places/463600955)
+
+
 ## Theatre of Pompey (Q944814)
 [https://www.wikidata.org/wiki/Q944814](https://www.wikidata.org/wiki/Q944814)  
 
@@ -74552,7 +74608,7 @@
 
 ### alignments:
  - [Via Popilia (in Aemilia)](https://pleiades.stoa.org/places/910399260)
- - [Via Popilia](https://pleiades.stoa.org/places/438878)
+ - [Via Popilia (in Campania)](https://pleiades.stoa.org/places/438878)
 
 
 ## Via Portuensis (Q1057246)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1127 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+1131 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1031,6 +1031,13 @@
  - [Erechtheion](https://pleiades.stoa.org/places/750203268)
 
 
+## 10152751: The Temple of Athena Polias at Athens
+[https://resource.manto.unh.edu/10152751](https://resource.manto.unh.edu/10152751)  
+
+### alignments:
+ - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
+
+
 ## 10153056: Acharnai (Attica)
 [https://resource.manto.unh.edu/10153056](https://resource.manto.unh.edu/10153056)  
 
@@ -1155,6 +1162,13 @@
 
 ### alignments:
  - [Aricia](https://pleiades.stoa.org/places/422844)
+
+
+## 10158899: the Theater at Epidauros (Argolid)
+[https://resource.manto.unh.edu/10158899](https://resource.manto.unh.edu/10158899)  
+
+### alignments:
+ - [Theater at the Sanctuary of Asklepios, Epidauros](https://pleiades.stoa.org/places/671846980)
 
 
 ## 10159357: Colonos Hippios (Attica)
@@ -2004,6 +2018,13 @@
  - [Tyrus/Col. Septimia Severa](https://pleiades.stoa.org/places/678437)
 
 
+## 10268978: the Gymnasium at Elis
+[https://resource.manto.unh.edu/10268978](https://resource.manto.unh.edu/10268978)  
+
+### alignments:
+ - [Elis Gymnasium](https://pleiades.stoa.org/places/638203605)
+
+
 ## 10268982: Gargettos (Attica)
 [https://resource.manto.unh.edu/10268982](https://resource.manto.unh.edu/10268982)  
 
@@ -2555,6 +2576,13 @@
 
 ### alignments:
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
+## 10911528: the Gymnasium at Delphi (Delphi)
+[https://resource.manto.unh.edu/10911528](https://resource.manto.unh.edu/10911528)  
+
+### alignments:
+ - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
 
 
 ## 10956126: the Sanctuary of Athena Sciras at Phaleron (Attica)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-551 alignments exist in _Pleiades_ place references as of 2026-07-13. The following list of alignments is grouped by zotkey.
+554 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -169,6 +169,13 @@
 ### alignments:
  - [Boutadai](https://pleiades.stoa.org/places/579897)
  - [Erechtheion](https://pleiades.stoa.org/places/750203268)
+
+
+## 1.27.1-3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.27.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.27.1)  
+
+### alignments:
+ - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
 
 
 ## 1.27.3
@@ -885,6 +892,13 @@
 
 ### alignments:
  - [Korykion Antron (Parnassos)](https://pleiades.stoa.org/places/540883)
+
+
+## 10.8.8
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.8.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.8.8)  
+
+### alignments:
+ - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
 
 
 ## 10.8.9
@@ -2528,6 +2542,13 @@
 ### alignments:
  - [Kyther(i)os (river)](https://pleiades.stoa.org/places/570399)
  - [The Sanctuary of the Nymph Ionides](https://pleiades.stoa.org/places/463282370)
+
+
+## 6.23.1-3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.23.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.23.1)  
+
+### alignments:
+ - [Elis Gymnasium](https://pleiades.stoa.org/places/638203605)
 
 
 ## 6.24.5
