@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5106 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+5107 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -414,6 +414,13 @@
 
 ### alignments:
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
+
+
+## Acalandrus River (Magna Graecia) 2 Cavone
+[https://topostext.org/place/403167WAca](https://topostext.org/place/403167WAca)  
+
+### alignments:
+ - [Acalander (river)](https://pleiades.stoa.org/places/442432)
 
 
 ## Acascomarci

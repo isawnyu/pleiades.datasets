@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1131 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+1134 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2361,6 +2361,13 @@
  - [Oiantheia/Euantheia?](https://pleiades.stoa.org/places/540969)
 
 
+## 10274739: Amphissa (Ozolian Locris)
+[https://resource.manto.unh.edu/10274739](https://resource.manto.unh.edu/10274739)  
+
+### alignments:
+ - [Amphissa](https://pleiades.stoa.org/places/540630)
+
+
 ## 10276445: Aiga (Troad)
 [https://resource.manto.unh.edu/10276445](https://resource.manto.unh.edu/10276445)  
 
@@ -3094,6 +3101,13 @@
 
 ### alignments:
  - [Lagaria](https://pleiades.stoa.org/places/456082)
+
+
+## 11300472: Siris (S. Italy)
+[https://resource.manto.unh.edu/11300472](https://resource.manto.unh.edu/11300472)  
+
+### alignments:
+ - [Siris](https://pleiades.stoa.org/places/452450)
 
 
 ## 11300708: Boubastis (Egypt)
@@ -5237,6 +5251,13 @@
 
 ### alignments:
  - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
+
+
+## 11330400: Heracleia (Campania)
+[https://resource.manto.unh.edu/11330400](https://resource.manto.unh.edu/11330400)  
+
+### alignments:
+ - [Heraclea](https://pleiades.stoa.org/places/452333)
 
 
 ## 11330736: the House of Faustulus (Rome)

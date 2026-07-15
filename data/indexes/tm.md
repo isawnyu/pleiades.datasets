@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5150 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+5151 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -542,6 +542,13 @@
 
 ### alignments:
  - [Brigetio](https://pleiades.stoa.org/places/197180)
+
+
+## Geo 162: Amphissa (Salona)
+[https://www.trismegistos.org/place/162](https://www.trismegistos.org/place/162)  
+
+### alignments:
+ - [Amphissa](https://pleiades.stoa.org/places/540630)
 
 
 ## Geo 1634: Patsontis
@@ -1303,6 +1310,13 @@
  - [Leibethra](https://pleiades.stoa.org/places/491650)
 
 
+## Geo 34064: Aigiale
+[https://www.trismegistos.org/place/34064](https://www.trismegistos.org/place/34064)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
+
+
 ## Geo 34083: Amarynthos
 [https://www.trismegistos.org/place/34083](https://www.trismegistos.org/place/34083)  
 
@@ -1532,6 +1546,13 @@
 
 ### alignments:
  - [Abila Dekapoleos/Seleukeia](https://pleiades.stoa.org/places/677992)
+
+
+## Geo 37593: El-Asabi'ah
+[https://www.trismegistos.org/place/37593](https://www.trismegistos.org/place/37593)  
+
+### alignments:
+ - [Vinaza](https://pleiades.stoa.org/places/344539)
 
 
 ## Geo 37599: 37599
@@ -7898,13 +7919,6 @@
 
 ### alignments:
  - [Krateia/Flaviopolis/*Agrippeia?](https://pleiades.stoa.org/places/844991)
-
-
-## GEO ID 162: Amphissa (Salona)
-[http://www.trismegistos.org/place/162](http://www.trismegistos.org/place/162)  
-
-### alignments:
- - [Amphissa](https://pleiades.stoa.org/places/540630)
 
 
 ## GEO ID 16304: Zela (Zile)
@@ -19544,13 +19558,6 @@
 
 ### alignments:
  - [Skotoussa](https://pleiades.stoa.org/places/491722)
-
-
-## GEO ID 34064: Aigiale
-[https://www.trismegistos.org/place/34064](https://www.trismegistos.org/place/34064)  
-
-### alignments:
- - [Aigiale](https://pleiades.stoa.org/places/599476)
 
 
 ## GEO ID 34089: Kerinthos

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11066 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+11077 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3359,6 +3359,13 @@
  - [Amphipolis](https://pleiades.stoa.org/places/501347)
 
 
+## Amphissa (Q38281545)
+[https://www.wikidata.org/wiki/Q38281545](https://www.wikidata.org/wiki/Q38281545)  
+
+### alignments:
+ - [Amphissa](https://pleiades.stoa.org/places/540630)
+
+
 ## Amphissa Tholos (Q106472989)
 [https://www.wikidata.org/wiki/Q106472989](https://www.wikidata.org/wiki/Q106472989)  
 
@@ -6587,6 +6594,13 @@
  - [Asterousia (mountain)](https://pleiades.stoa.org/places/589716)
 
 
+## Asthall (Q140175819)
+[https://www.wikidata.org/wiki/Q140175819](https://www.wikidata.org/wiki/Q140175819)  
+
+### alignments:
+ - [Asthall](https://pleiades.stoa.org/places/79305)
+
+
 ## Astigi (Q11907044)
 [https://www.wikidata.org/wiki/Q11907044](https://www.wikidata.org/wiki/Q11907044)  
 
@@ -7931,6 +7945,13 @@
  - [Baptistery, Christian House Church, Dura-Europos](https://pleiades.stoa.org/places/486132829)
 
 
+## baptistry of Santa Maria Maggiore (Q3636820)
+[https://www.wikidata.org/wiki/Q3636820](https://www.wikidata.org/wiki/Q3636820)  
+
+### alignments:
+ - [Paleochristian baptistry of Santa Maria Maggiore](https://pleiades.stoa.org/places/754096802)
+
+
 ## Bara (Q310049)
 [https://www.wikidata.org/wiki/Q310049](https://www.wikidata.org/wiki/Q310049)  
 
@@ -8447,6 +8468,13 @@
 
 ### alignments:
  - [Bath F3](https://pleiades.stoa.org/places/801400483)
+
+
+## Bath, Hot Bath Spring (Q140176070)
+[https://www.wikidata.org/wiki/Q140176070](https://www.wikidata.org/wiki/Q140176070)  
+
+### alignments:
+ - [Hot Baths ](https://pleiades.stoa.org/places/242559905)
 
 
 ## Bathampton Down (Q4868983)
@@ -21932,6 +21960,13 @@
  - [Fresilia](https://pleiades.stoa.org/places/438744)
 
 
+## Friars Wash, Redbourn (Q140175927)
+[https://www.wikidata.org/wiki/Q140175927](https://www.wikidata.org/wiki/Q140175927)  
+
+### alignments:
+ - [Friars Wash Roman Temple](https://pleiades.stoa.org/places/503058494)
+
+
 ## Frigento (Q55036)
 [https://www.wikidata.org/wiki/Q55036](https://www.wikidata.org/wiki/Q55036)  
 
@@ -23530,6 +23565,13 @@
 
 ### alignments:
  - [Grimspound](https://pleiades.stoa.org/places/248025633)
+
+
+## Grimstock Hill Romano-British settlement (Q5609356)
+[https://www.wikidata.org/wiki/Q5609356](https://www.wikidata.org/wiki/Q5609356)  
+
+### alignments:
+ - [Coleshill](https://pleiades.stoa.org/places/79397)
 
 
 ## Grinnes (Q2533914)
@@ -29104,6 +29146,13 @@
 
 ### alignments:
  - [Komedai](https://pleiades.stoa.org/places/59882)
+
+
+## Komisene (Q140561589)
+[https://www.wikidata.org/wiki/Q140561589](https://www.wikidata.org/wiki/Q140561589)  
+
+### alignments:
+ - [Komisene/Komish](https://pleiades.stoa.org/places/942287)
 
 
 ## Kommos (Q788080)
@@ -35311,6 +35360,13 @@
 
 ### alignments:
  - [Minoa (promontory)](https://pleiades.stoa.org/places/570487)
+
+
+## Money Field Roman site, Dragonby (Q17641599)
+[https://www.wikidata.org/wiki/Q17641599](https://www.wikidata.org/wiki/Q17641599)  
+
+### alignments:
+ - [Dragonby](https://pleiades.stoa.org/places/79427)
 
 
 ## Moni Sosinou (Q56397265)
@@ -51470,13 +51526,6 @@
  - [Hospitium of Hermes](https://pleiades.stoa.org/places/260329423)
 
 
-## Q2705822: Siris
-[https://www.wikidata.org/wiki/Q2705822](https://www.wikidata.org/wiki/Q2705822)  
-
-### alignments:
- - [Siris](https://pleiades.stoa.org/places/452450)
-
-
 ## Q27070314: House of the Actors
 [https://www.wikidata.org/wiki/Q27070314](https://www.wikidata.org/wiki/Q27070314)  
 
@@ -54249,7 +54298,7 @@
 [https://www.wikidata.org/wiki/Q3983179](https://www.wikidata.org/wiki/Q3983179)  
 
 ### alignments:
- - [Doric temple](https://pleiades.stoa.org/places/81187433)
+ - [Doric temple (Pompei)](https://pleiades.stoa.org/places/81187433)
 
 
 ## Q3983181: Temple E
@@ -61388,6 +61437,13 @@
  - [Pleshey](https://pleiades.stoa.org/places/613664405)
 
 
+## Roman villa 500m south east of Hill House Farm (Q17669563)
+[https://www.wikidata.org/wiki/Q17669563](https://www.wikidata.org/wiki/Q17669563)  
+
+### alignments:
+ - [Box](https://pleiades.stoa.org/places/79341)
+
+
 ## Roman villa 600yds (550m) NE of Great Lemhill Farm (Q17640837)
 [http://www.wikidata.org/entity/Q17640837](http://www.wikidata.org/entity/Q17640837)  
 
@@ -61687,6 +61743,13 @@
 
 ### alignments:
  - [Comblessac](https://pleiades.stoa.org/places/44707452)
+
+
+## Romano-Celtic temple at Keston villa (Q139593674)
+[https://www.wikidata.org/wiki/Q139593674](https://www.wikidata.org/wiki/Q139593674)  
+
+### alignments:
+ - [Keston Roman Mausoleum](https://pleiades.stoa.org/places/654806992)
 
 
 ## Romano-Celtic temple in Uley (Q17645666)
@@ -65365,6 +65428,13 @@
  - [Hierasos/Gerasus/Tiarantos? (river)](https://pleiades.stoa.org/places/216837)
 
 
+## Siris (Q2705822)
+[https://www.wikidata.org/wiki/Q2705822](https://www.wikidata.org/wiki/Q2705822)  
+
+### alignments:
+ - [Siris](https://pleiades.stoa.org/places/452450)
+
+
 ## Sirkap (Q1340954)
 [https://www.wikidata.org/wiki/Q1340954](https://www.wikidata.org/wiki/Q1340954)  
 
@@ -68944,6 +69014,13 @@
 
 ### alignments:
  - [Santu Misirinu](https://pleiades.stoa.org/places/807933372)
+
+
+## temple of Sulis Minerva at Bath (Q139594044)
+[https://www.wikidata.org/wiki/Q139594044](https://www.wikidata.org/wiki/Q139594044)  
+
+### alignments:
+ - [Temple of Sulis Minerva](https://pleiades.stoa.org/places/360820443)
 
 
 ## Temple of Talamonaccio (Q3517625)

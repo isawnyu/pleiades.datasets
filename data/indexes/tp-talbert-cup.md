@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2396 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+2397 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1511,6 +1511,13 @@
 
 ### alignments:
  - [Ichthyophagoi](https://pleiades.stoa.org/places/29605)
+
+
+## 11C4 (Talbert 2760)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2760.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2760.html)  
+
+### alignments:
+ - [Ad flumen Ganges](https://pleiades.stoa.org/places/273994108)
 
 
 ## 11C4 (Talbert 2761)

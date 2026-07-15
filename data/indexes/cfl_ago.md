@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-481 alignments exist in _Pleiades_ place references as of 2026-07-14. The following list of alignments is grouped by zotkey.
+482 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -560,6 +560,13 @@
 
 ### alignments:
  - [Samiopoula (island)](https://pleiades.stoa.org/places/668432190)
+
+
+## Report 3308: AMORGOS. - Aigiali - 2003
+[https://chronique.efa.gr/?kroute=report&id=3308](https://chronique.efa.gr/?kroute=report&id=3308)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
 
 
 ## Report 3930: KASTRO ANO DIAKOPTOU - 2001
@@ -1699,13 +1706,6 @@
  - [Agrinion](https://pleiades.stoa.org/places/540599)
 
 
-## Toponyme - 36776: Amfissa-Δ.Δ.Αμφίσσης
-[https://chronique.efa.gr/?r=topo_public&id=36776](https://chronique.efa.gr/?r=topo_public&id=36776)  
-
-### alignments:
- - [Amphissa](https://pleiades.stoa.org/places/540630)
-
-
 ## Toponyme - 37913: Kalamata-Δ.Δ.Καλαμάτας
 [https://chronique.efa.gr/?r=topo_public&id=37913](https://chronique.efa.gr/?r=topo_public&id=37913)  
 
@@ -2382,13 +2382,6 @@
  - [Seriphos (settlement)](https://pleiades.stoa.org/places/590043)
 
 
-## Toponyme 3308: AMORGOS. - Aigiali - 2003
-[https://chronique.efa.gr/?kroute=report&id=3308](https://chronique.efa.gr/?kroute=report&id=3308)  
-
-### alignments:
- - [Aigiale](https://pleiades.stoa.org/places/599476)
-
-
 ## Toponyme 3344: Amfipolis, Neochorion-Δ.Δ.Αμφιπόλεως
 [https://chronique.efa.gr/?r=topo_public&id=3344](https://chronique.efa.gr/?r=topo_public&id=3344)  
 
@@ -2471,6 +2464,13 @@
 
 ### alignments:
  - [Naupactus](https://pleiades.stoa.org/places/540960)
+
+
+## Toponyme 36776: Amfissa-Δ.Δ.Αμφίσσης
+[https://chronique.efa.gr/?r=topo_public&id=36776](https://chronique.efa.gr/?r=topo_public&id=36776)  
+
+### alignments:
+ - [Amphissa](https://pleiades.stoa.org/places/540630)
 
 
 ## Toponyme 36828: Orchomène, Orchomenos, Adamas, Athamas, Skripou (JO54/1955)-Δ.Δ.Ορχομενού, Σκριπού, Αθάμας
@@ -2906,6 +2906,13 @@
 
 ### alignments:
  - [Aigosthena](https://pleiades.stoa.org/places/570051)
+
+
+## Toponyme 4452: Aigiali, Langada-Λαγκάδα Δ.Δ.Αιγιάλης
+[https://chronique.efa.gr/?r=topo_public&id=4452](https://chronique.efa.gr/?r=topo_public&id=4452)  
+
+### alignments:
+ - [Aigiale](https://pleiades.stoa.org/places/599476)
 
 
 ## Toponyme 44: Valyra, Tzeferemini-Δ.Δ.Βαλύρας
