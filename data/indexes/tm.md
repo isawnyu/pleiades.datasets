@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5151 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
+5157 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -396,6 +396,13 @@
  - [Caiatia](https://pleiades.stoa.org/places/432733)
 
 
+## Geo 14891: Maglona (Old Carlisle)
+[https://www.trismegistos.org/place/14891](https://www.trismegistos.org/place/14891)  
+
+### alignments:
+ - [‘Maglone’](https://pleiades.stoa.org/places/89236)
+
+
 ## Geo 15126: Hayling Island
 [https://www.trismegistos.org/place/15126](https://www.trismegistos.org/place/15126)  
 
@@ -669,6 +676,13 @@
 
 ### alignments:
  - [Polyrrenia](https://pleiades.stoa.org/places/590003)
+
+
+## Geo 19794: Fanum Cocidi (Bewcastle)
+[https://www.trismegistos.org/place/19794](https://www.trismegistos.org/place/19794)  
+
+### alignments:
+ - [Bewcastle Roman Fort](https://pleiades.stoa.org/places/89181)
 
 
 ## Geo 20052: Ala (Aalen)
@@ -6481,13 +6495,6 @@
  - [Pennocrucium](https://pleiades.stoa.org/places/79638)
 
 
-## GEO ID 14891: Maglona (Old Carlisle)
-[http://www.trismegistos.org/place/14891](http://www.trismegistos.org/place/14891)  
-
-### alignments:
- - [‘Maglone’](https://pleiades.stoa.org/places/89236)
-
-
 ## GEO ID 14895: Condate (Northwich)
 [http://www.trismegistos.org/place/14895](http://www.trismegistos.org/place/14895)  
 
@@ -10070,13 +10077,6 @@
  - [‘Eltavori’ (river)](https://pleiades.stoa.org/places/79450)
 
 
-## GEO ID 19794: Fanum Cocidi (Bewcastle)
-[http://www.trismegistos.org/place/19794](http://www.trismegistos.org/place/19794)  
-
-### alignments:
- - [Fanum Cocidi](https://pleiades.stoa.org/places/89181)
-
-
 ## GEO ID 19803: itunodunum
 [https://www.trismegistos.org/place/19803](https://www.trismegistos.org/place/19803)  
 
@@ -13649,6 +13649,13 @@
  - [Augustobriga](https://pleiades.stoa.org/places/256001)
 
 
+## GEO ID 2649: Ekous
+[http://www.trismegistos.org/place/2649](http://www.trismegistos.org/place/2649)  
+
+### alignments:
+ - [Ekous](https://pleiades.stoa.org/places/759559)
+
+
 ## GEO ID 2650: Pois (Bus)
 [http://www.trismegistos.org/place/2650](http://www.trismegistos.org/place/2650)  
 
@@ -15804,6 +15811,13 @@
 
 ### alignments:
  - [Porolissum](https://pleiades.stoa.org/places/207361)
+
+
+## GEO ID 3016
+[http://www.trismegistos.org/place/3016](http://www.trismegistos.org/place/3016)  
+
+### alignments:
+ - [Smin/Zmin](https://pleiades.stoa.org/places/759648)
 
 
 ## GEO ID 30180: Gherlad
@@ -22270,6 +22284,13 @@
  - [Villa Fulgurita](https://pleiades.stoa.org/places/344535)
 
 
+## GEO ID 40327: Pisida (Bu Chemmasc)
+[http://www.trismegistos.org/place/40327](http://www.trismegistos.org/place/40327)  
+
+### alignments:
+ - [Pisida](https://pleiades.stoa.org/places/344459)
+
+
 ## GEO ID 40329: Vax
 [https://www.trismegistos.org/place/40329](https://www.trismegistos.org/place/40329)  
 
@@ -23585,6 +23606,20 @@
 
 ### alignments:
  - [Putea Pallene](https://pleiades.stoa.org/places/344462)
+
+
+## GEO ID 40979: Pontos (Zavia)
+[https://www.trismegistos.org/place/40979](https://www.trismegistos.org/place/40979)  
+
+### alignments:
+ - [Pontos?](https://pleiades.stoa.org/places/344460)
+
+
+## GEO ID 40980: Assaria (Lmaia)
+[https://www.trismegistos.org/place/40980](https://www.trismegistos.org/place/40980)  
+
+### alignments:
+ - [Assaria](https://pleiades.stoa.org/places/344299)
 
 
 ## GEO ID 40981: Getullu
@@ -25624,7 +25659,7 @@
  - [Zyrnas Maseli](https://pleiades.stoa.org/places/338307)
 
 
-## GEO ID 41745
+## GEO ID 41745: Ad Ammonem (Mellita)
 [http://www.trismegistos.org/place/41745](http://www.trismegistos.org/place/41745)  
 
 ### alignments:
@@ -34092,6 +34127,13 @@
 
 ### alignments:
  - [Nemorensis (lake)](https://pleiades.stoa.org/places/422984)
+
+
+## GEO ID 6345: Pasinouphis
+[https://www.trismegistos.org/place/6345](https://www.trismegistos.org/place/6345)  
+
+### alignments:
+ - [Pasinouphis](https://pleiades.stoa.org/places/759603)
 
 
 ## GEO ID 63664: Suessetani

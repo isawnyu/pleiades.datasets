@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11077 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
+11098 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2154,6 +2154,13 @@
  - [Balagrae](https://pleiades.stoa.org/places/373749)
 
 
+## Al Ghīrān (Q106509831)
+[https://www.wikidata.org/wiki/Q106509831](https://www.wikidata.org/wiki/Q106509831)  
+
+### alignments:
+ - [Geran](https://pleiades.stoa.org/places/344371)
+
+
 ## Al Hajar Mountains (Q1422726)
 [https://www.wikidata.org/wiki/Q1422726](https://www.wikidata.org/wiki/Q1422726)  
 
@@ -2166,6 +2173,20 @@
 
 ### alignments:
  - [Giosc](https://pleiades.stoa.org/places/344382)
+
+
+## Al Khaţāţibah (Q105408891)
+[https://www.wikidata.org/wiki/Q105408891](https://www.wikidata.org/wiki/Q105408891)  
+
+### alignments:
+ - [el-Chatatba](https://pleiades.stoa.org/places/344338)
+
+
+## Al Māyah (Q3791554)
+[https://www.wikidata.org/wiki/Q3791554](https://www.wikidata.org/wiki/Q3791554)  
+
+### alignments:
+ - [Assaria](https://pleiades.stoa.org/places/344299)
 
 
 ## Al Qarāyā (Q105995007)
@@ -9162,6 +9183,13 @@
 
 ### alignments:
  - [Beudos (Palaion)](https://pleiades.stoa.org/places/609342)
+
+
+## Bewcastle Roman Fort (Q3078392)
+[https://www.wikidata.org/wiki/Q3078392](https://www.wikidata.org/wiki/Q3078392)  
+
+### alignments:
+ - [Bewcastle Roman Fort](https://pleiades.stoa.org/places/89181)
 
 
 ## Beycesultan (Q4081181)
@@ -17944,6 +17972,13 @@
  - [City wall of Pompeii](https://pleiades.stoa.org/places/824486497)
 
 
+## Deir Abu Fana (Q11256333)
+[https://www.wikidata.org/wiki/Q11256333](https://www.wikidata.org/wiki/Q11256333)  
+
+### alignments:
+ - [Apa Bane, Mon.](https://pleiades.stoa.org/places/756523)
+
+
 ## Deir Abu Matta (Q14207544)
 [https://www.wikidata.org/wiki/Q14207544](https://www.wikidata.org/wiki/Q14207544)  
 
@@ -23252,6 +23287,13 @@
  - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
+## Gosbecks Iron Age and Romano-British site (Q17646317)
+[https://www.wikidata.org/wiki/Q17646317](https://www.wikidata.org/wiki/Q17646317)  
+
+### alignments:
+ - [Gosbecks](https://pleiades.stoa.org/places/79486)
+
+
 ## Gothiscandza (Q1538832)
 [https://www.wikidata.org/wiki/Q1538832](https://www.wikidata.org/wiki/Q1538832)  
 
@@ -23385,6 +23427,13 @@
  - [Pikrai Limnai](https://pleiades.stoa.org/places/727203)
 
 
+## Great Bulmore Roman settlement (Q122217178)
+[https://www.wikidata.org/wiki/Q122217178](https://www.wikidata.org/wiki/Q122217178)  
+
+### alignments:
+ - [Great Bulmore](https://pleiades.stoa.org/places/972561590)
+
+
 ## Great Chesterford (Q1020030)
 [https://www.wikidata.org/wiki/Q1020030](https://www.wikidata.org/wiki/Q1020030)  
 
@@ -23397,6 +23446,13 @@
 
 ### alignments:
  - [Great Colonnade at Palmyra](https://pleiades.stoa.org/places/867812308)
+
+
+## Great Dunmow (Q140175928)
+[https://www.wikidata.org/wiki/Q140175928](https://www.wikidata.org/wiki/Q140175928)  
+
+### alignments:
+ - [Great Dunmow](https://pleiades.stoa.org/places/79489)
 
 
 ## Great Morava (Q211328)
@@ -24790,6 +24846,13 @@
 
 ### alignments:
  - [Heniochoi](https://pleiades.stoa.org/places/857153)
+
+
+## Henley Wood (Q140175952)
+[https://www.wikidata.org/wiki/Q140175952](https://www.wikidata.org/wiki/Q140175952)  
+
+### alignments:
+ - [Henley Wood](https://pleiades.stoa.org/places/79507)
 
 
 ## Hephaistia (Q5731882)
@@ -26946,6 +27009,13 @@
 
 ### alignments:
  - [Is Pirois](https://pleiades.stoa.org/places/411868128)
+
+
+## Isca Augusta (Q929778)
+[https://www.wikidata.org/wiki/Q929778](https://www.wikidata.org/wiki/Q929778)  
+
+### alignments:
+ - [Isca Silurum](https://pleiades.stoa.org/places/79532)
 
 
 ## Isca Dumnoniorum (Q1226112)
@@ -33883,6 +33953,13 @@
  - [Mellissurgin](https://pleiades.stoa.org/places/491661)
 
 
+## Mellitta (Q3854262)
+[https://www.wikidata.org/wiki/Q3854262](https://www.wikidata.org/wiki/Q3854262)  
+
+### alignments:
+ - [Ad Ammonem](https://pleiades.stoa.org/places/344284)
+
+
 ## Melpeia (Q12880498)
 [https://www.wikidata.org/wiki/Q12880498](https://www.wikidata.org/wiki/Q12880498)  
 
@@ -38839,6 +38916,13 @@
 
 ### alignments:
  - [Old Burrow](https://pleiades.stoa.org/places/975884600)
+
+
+## Old Carlisle (Olerica) fort and civil settlement (Q17642990)
+[https://www.wikidata.org/wiki/Q17642990](https://www.wikidata.org/wiki/Q17642990)  
+
+### alignments:
+ - [‘Maglone’](https://pleiades.stoa.org/places/89236)
 
 
 ## Old Dongola (Q433112)
@@ -60639,6 +60723,13 @@
  - [Puente Mayor del Tormes](https://pleiades.stoa.org/places/237851)
 
 
+## Roman building at Lamyatt Beacon, Creech Hill (Q17646808)
+[https://www.wikidata.org/wiki/Q17646808](https://www.wikidata.org/wiki/Q17646808)  
+
+### alignments:
+ - [Lamyatt](https://pleiades.stoa.org/places/79554)
+
+
 ## Roman camp 50m south of Elm Bank (Q17674041)
 [https://www.wikidata.org/wiki/Q17674041](https://www.wikidata.org/wiki/Q17674041)  
 
@@ -61437,6 +61528,13 @@
  - [Pleshey](https://pleiades.stoa.org/places/613664405)
 
 
+## Roman villa 480m south east of Hill Farm (Q17674024)
+[https://www.wikidata.org/wiki/Q17674024](https://www.wikidata.org/wiki/Q17674024)  
+
+### alignments:
+ - [Gestingthorpe](https://pleiades.stoa.org/places/79482)
+
+
 ## Roman villa 500m south east of Hill House Farm (Q17669563)
 [https://www.wikidata.org/wiki/Q17669563](https://www.wikidata.org/wiki/Q17669563)  
 
@@ -61764,6 +61862,13 @@
 
 ### alignments:
  - [Wanborough](https://pleiades.stoa.org/places/79746)
+
+
+## Romano-Celtic temple N of Woodeaton (Q17642803)
+[https://www.wikidata.org/wiki/Q17642803](https://www.wikidata.org/wiki/Q17642803)  
+
+### alignments:
+ - [Woodeaton](https://pleiades.stoa.org/places/79769)
 
 
 ## Rometta (Q139826)
@@ -63824,6 +63929,13 @@
  - [Sabutus (river)](https://pleiades.stoa.org/places/452424)
 
 
+## Sawbench Wood, Hockwold (Q140175965)
+[https://www.wikidata.org/wiki/Q140175965](https://www.wikidata.org/wiki/Q140175965)  
+
+### alignments:
+ - [Hockwold](https://pleiades.stoa.org/places/79516)
+
+
 ## Saxa Rubra (Q677666)
 [https://www.wikidata.org/wiki/Q677666](https://www.wikidata.org/wiki/Q677666)  
 
@@ -64116,6 +64228,13 @@
 
 ### alignments:
  - [Roman amphitheater at Scylletium/Scolacium](https://pleiades.stoa.org/places/914767313)
+
+
+## Scole, A143 Scole-Stuston Bypass (Q140175919)
+[https://www.wikidata.org/wiki/Q140175919](https://www.wikidata.org/wiki/Q140175919)  
+
+### alignments:
+ - [Scole](https://pleiades.stoa.org/places/79675)
 
 
 ## Scoltenna (Q3952669)
@@ -64938,6 +65057,13 @@
  - [Archous (river)](https://pleiades.stoa.org/places/912811)
 
 
+## Shavards Farm, Meonstoke (Q140175817)
+[https://www.wikidata.org/wiki/Q140175817](https://www.wikidata.org/wiki/Q140175817)  
+
+### alignments:
+ - [Meonstoke](https://pleiades.stoa.org/places/79598)
+
+
 ## Shepherds' Field Chapel (Q24039683)
 [https://www.wikidata.org/wiki/Q24039683](https://www.wikidata.org/wiki/Q24039683)  
 
@@ -65293,6 +65419,13 @@
 
 ### alignments:
  - [Symaethus (river)](https://pleiades.stoa.org/places/462502)
+
+
+## Simois (Q3961092)
+[https://www.wikidata.org/wiki/Q3961092](https://www.wikidata.org/wiki/Q3961092)  
+
+### alignments:
+ - [Simoeis (river)](https://pleiades.stoa.org/places/550883)
 
 
 ## Sinai Peninsula (Q36755)
@@ -70396,6 +70529,13 @@
  - [Tibradden Chambered Cairn](https://pleiades.stoa.org/places/989429709)
 
 
+## Tibuda (Q106181869)
+[https://www.wikidata.org/wiki/Q106181869](https://www.wikidata.org/wiki/Q106181869)  
+
+### alignments:
+ - [*Gypsaria Taberna](https://pleiades.stoa.org/places/344388)
+
+
 ## Tibula (Q3991144)
 [https://www.wikidata.org/wiki/Q3991144](https://www.wikidata.org/wiki/Q3991144)  
 
@@ -74903,6 +75043,13 @@
 
 ### alignments:
  - [Vicus Drusianus](https://pleiades.stoa.org/places/942692312)
+
+
+## Vicus M(...)nus? (Q106300405)
+[https://www.wikidata.org/wiki/Q106300405](https://www.wikidata.org/wiki/Q106300405)  
+
+### alignments:
+ - [Vicus M(...)nus?](https://pleiades.stoa.org/places/344532)
 
 
 ## Vicus Martis Tudertium (Q25051561)

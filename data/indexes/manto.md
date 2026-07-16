@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1134 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
+1138 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4133,6 +4133,13 @@
  - [Achilleion](https://pleiades.stoa.org/places/550401)
 
 
+## 11313347: Gargara (Troad)
+[https://resource.manto.unh.edu/11313347](https://resource.manto.unh.edu/11313347)  
+
+### alignments:
+ - [Gargara](https://pleiades.stoa.org/places/550544)
+
+
 ## 11313360: Lamponia (Troad)
 [https://resource.manto.unh.edu/11313360](https://resource.manto.unh.edu/11313360)  
 
@@ -5617,6 +5624,13 @@
  - [Lyrnessos](https://pleiades.stoa.org/places/550703)
 
 
+## 8195157: Antandros (Troad)
+[https://resource.manto.unh.edu/8195157](https://resource.manto.unh.edu/8195157)  
+
+### alignments:
+ - [Antandros](https://pleiades.stoa.org/places/550433)
+
+
 ## 8195169: Zeleia (Troad)
 [https://resource.manto.unh.edu/8195169](https://resource.manto.unh.edu/8195169)  
 
@@ -6724,6 +6738,13 @@
  - [Spercheios](https://pleiades.stoa.org/places/541112)
 
 
+## 961199: River Simoeis (Troad)
+[https://resource.manto.unh.edu/961199](https://resource.manto.unh.edu/961199)  
+
+### alignments:
+ - [Simoeis (river)](https://pleiades.stoa.org/places/550883)
+
+
 ## 9612000: River Asopos (Boiotia)
 [https://resource.manto.unh.edu/9612000](https://resource.manto.unh.edu/9612000)  
 
@@ -7653,6 +7674,13 @@
 
 ### alignments:
  - [Danuvius/Istros/Hister (river)](https://pleiades.stoa.org/places/226577)
+
+
+## 9878393: River Rhesos (Troad)
+[https://resource.manto.unh.edu/9878393](https://resource.manto.unh.edu/9878393)  
+
+### alignments:
+ - [Rhesos (river)](https://pleiades.stoa.org/places/511398)
 
 
 ## 9878403: River Haliacmon (N. Greece)

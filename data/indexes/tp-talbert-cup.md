@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2397 alignments exist in _Pleiades_ place references as of 2026-07-15. The following list of alignments is grouped by zotkey.
+2402 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -1553,6 +1553,13 @@
 
 ### alignments:
  - [Korkai/Kolchoi](https://pleiades.stoa.org/places/50064)
+
+
+## 11C5 (Talbert 2790)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2790.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2790.html)  
+
+### alignments:
+ - [Thimara](https://pleiades.stoa.org/places/725189942)
 
 
 ## 11C5 (Talbert 2791)
@@ -12140,6 +12147,13 @@
  - [Taricheiai/Zouchis](https://pleiades.stoa.org/places/344500)
 
 
+## 6C1 (Talbert 285)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace285.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace285.html)  
+
+### alignments:
+ - [Pisida](https://pleiades.stoa.org/places/344459)
+
+
 ## 6C1 (Talbert 287)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace287.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace287.html)  
 
@@ -12245,6 +12259,13 @@
  - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
 
 
+## 6C2 (Talbert 290)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace290.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace290.html)  
+
+### alignments:
+ - [Pontos?](https://pleiades.stoa.org/places/344460)
+
+
 ## 6C2 (Talbert 3026)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3026.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3026.html)  
 
@@ -12271,6 +12292,13 @@
 
 ### alignments:
  - [Oea](https://pleiades.stoa.org/places/344456)
+
+
+## 6C3 (Talbert 293)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace293.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace293.html)  
+
+### alignments:
+ - [Assaria](https://pleiades.stoa.org/places/344299)
 
 
 ## 6C3 (Talbert 294)
@@ -15149,6 +15177,13 @@
 
 ### alignments:
  - [Gerasa/ Rasa](https://pleiades.stoa.org/places/748962)
+
+
+## 8C5 (Talbert 454)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace454.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace454.html)  
+
+### alignments:
+ - [Gypsaria?](https://pleiades.stoa.org/places/746741)
 
 
 ## 8C5 (Talbert 465)
