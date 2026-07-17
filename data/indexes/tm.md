@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5157 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
+5158 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -197,6 +197,13 @@
 
 ### alignments:
  - [Neapolis/Lepcis Magna](https://pleiades.stoa.org/places/344448)
+
+
+## Geo 11843: Thuburbo Minus (Tebourba)
+[https://www.trismegistos.org/place/11843](https://www.trismegistos.org/place/11843)  
+
+### alignments:
+ - [Thuburbo Minus](https://pleiades.stoa.org/places/315219)
 
 
 ## Geo 11897: Taphos (Meganisi)
@@ -591,6 +598,13 @@
 
 ### alignments:
  - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
+
+
+## Geo 16995: Sabratha
+[https://www.trismegistos.org/place/16995](https://www.trismegistos.org/place/16995)  
+
+### alignments:
+ - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
 
 
 ## Geo 1700: Perraibia
@@ -2228,6 +2242,13 @@
  - [Kas(h)kar](https://pleiades.stoa.org/places/912880)
 
 
+## Geo 47895: Lesser Zab
+[https://www.trismegistos.org/place/47895](https://www.trismegistos.org/place/47895)  
+
+### alignments:
+ - [Zabas Mikros/Kapros?/Zerbis? (river)](https://pleiades.stoa.org/places/894184)
+
+
 ## Geo 47912: Ram Hormizd
 [http://www.trismegistos.org/place/47912](http://www.trismegistos.org/place/47912)  
 
@@ -3362,13 +3383,6 @@
 
 ### alignments:
  - [Thaenae](https://pleiades.stoa.org/places/324825)
-
-
-## GEO ID 11843: Thuburbo Minus (Tebourba)
-[https://www.trismegistos.org/place/11843](https://www.trismegistos.org/place/11843)  
-
-### alignments:
- - [Thuburbo Minus](https://pleiades.stoa.org/places/315219)
 
 
 ## GEO ID 11844: Thuburbo Maius (Henchir Khasbat)
@@ -8458,13 +8472,6 @@
 
 ### alignments:
  - [Cidamus](https://pleiades.stoa.org/places/344341)
-
-
-## GEO ID 16995: Sabratha
-[http://www.trismegistos.org/place/16995](http://www.trismegistos.org/place/16995)  
-
-### alignments:
- - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
 
 
 ## GEO ID 17009: Macomades Selorum (Sirte)
@@ -22698,6 +22705,13 @@
  - [Beleianum](https://pleiades.stoa.org/places/446225)
 
 
+## GEO ID 40509: Paternum
+[http://www.trismegistos.org/place/40509](http://www.trismegistos.org/place/40509)  
+
+### alignments:
+ - [Paternum](https://pleiades.stoa.org/places/452401)
+
+
 ## GEO ID 40510: Meto
 [http://www.trismegistos.org/place/40510](http://www.trismegistos.org/place/40510)  
 
@@ -30917,13 +30931,6 @@
 
 ### alignments:
  - [Thospitis Limne](https://pleiades.stoa.org/places/874772)
-
-
-## GEO ID 47895: Lesser Zab
-[http://www.trismegistos.org/place/47895](http://www.trismegistos.org/place/47895)  
-
-### alignments:
- - [Zabas Mikros/Kapros?/Zerbis? (river)](https://pleiades.stoa.org/places/894184)
 
 
 ## GEO ID 47896: Maishan

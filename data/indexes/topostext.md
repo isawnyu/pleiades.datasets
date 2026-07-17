@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5108 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
+5109 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -388,7 +388,7 @@
  - [Abrittus](https://pleiades.stoa.org/places/216688)
 
 
-## Abrotonon/Sabratha (Libya)
+## Abrotonon/Sabratha (Libya) 17 Sabratah
 [https://topostext.org/place/328125UAbr](https://topostext.org/place/328125UAbr)  
 
 ### alignments:
@@ -29130,7 +29130,7 @@
  - [Forum Romanum](https://pleiades.stoa.org/places/502866838)
 
 
-## Romano site (Ioannina)  Romano
+## Romano site (Ioannina)
 [https://topostext.org/place/394207XRom](https://topostext.org/place/394207XRom)  
 
 ### alignments:
@@ -30687,6 +30687,13 @@
 
 ### alignments:
  - [Sithonia (peninsula)](https://pleiades.stoa.org/places/501618)
+
+
+## Sittacene (Persia)
+[https://topostext.org/place/334449RSit](https://topostext.org/place/334449RSit)  
+
+### alignments:
+ - [Apolloniatis/Sittacene](https://pleiades.stoa.org/places/893939)
 
 
 ## Skabla/Skabala (Halkidiki)

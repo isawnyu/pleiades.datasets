@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11098 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
+11111 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5508,6 +5508,13 @@
  - [Phanota?](https://pleiades.stoa.org/places/531056)
 
 
+## Archaeological Site of Sabratha (Q15052130)
+[https://www.wikidata.org/wiki/Q15052130](https://www.wikidata.org/wiki/Q15052130)  
+
+### alignments:
+ - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
+
+
 ## Archaeological site of San Vincenzino (Q47531808)
 [https://www.wikidata.org/wiki/Q47531808](https://www.wikidata.org/wiki/Q47531808)  
 
@@ -5653,6 +5660,13 @@
 
 ### alignments:
  - [Ardres](https://pleiades.stoa.org/places/108752)
+
+
+## Area archeologica di Casale di Madonna del Piano (Q135216670)
+[https://www.wikidata.org/wiki/Q135216670](https://www.wikidata.org/wiki/Q135216670)  
+
+### alignments:
+ - [Casale di Madonna del Piano](https://pleiades.stoa.org/places/346004677)
 
 
 ## Area archeologica di Decima (Q85859408)
@@ -8365,6 +8379,13 @@
  - [Basilica Porcia](https://pleiades.stoa.org/places/547224816)
 
 
+## Basilica Portuense (Q140381402)
+[https://www.wikidata.org/wiki/Q140381402](https://www.wikidata.org/wiki/Q140381402)  
+
+### alignments:
+ - [Basilica Portuense](https://pleiades.stoa.org/places/684863935)
+
+
 ## Basilis (Q4867451)
 [https://www.wikidata.org/wiki/Q4867451](https://www.wikidata.org/wiki/Q4867451)  
 
@@ -8580,6 +8601,13 @@
 
 ### alignments:
  - [Villa dei Venulei - Terme Romane](https://pleiades.stoa.org/places/181167413)
+
+
+## Baths of Oceanus in Sabratha (Q68121999)
+[https://www.wikidata.org/wiki/Q68121999](https://www.wikidata.org/wiki/Q68121999)  
+
+### alignments:
+ - [Baths of Oceanus in Sabratha](https://pleiades.stoa.org/places/14493280)
 
 
 ## Baths of the Philosopher (Q133296401)
@@ -9183,6 +9211,13 @@
 
 ### alignments:
  - [Beudos (Palaion)](https://pleiades.stoa.org/places/609342)
+
+
+## Bewcastle Castle (Q678595)
+[https://www.wikidata.org/wiki/Q678595](https://www.wikidata.org/wiki/Q678595)  
+
+### alignments:
+ - [Bewcastle Castle](https://pleiades.stoa.org/places/361159184)
 
 
 ## Bewcastle Roman Fort (Q3078392)
@@ -11304,6 +11339,13 @@
 
 ### alignments:
  - [Col. Caesaraugusta](https://pleiades.stoa.org/places/246344)
+
+
+## Caesareia ad Libanum (Q127429828)
+[https://www.wikidata.org/wiki/Q127429828](https://www.wikidata.org/wiki/Q127429828)  
+
+### alignments:
+ - [Arca/Herakleia en Phoinike/Caesarea ad Libanum](https://pleiades.stoa.org/places/668198)
 
 
 ## Caesareum at Cyrene (Q82073818)
@@ -21932,6 +21974,13 @@
  - [Frampton](https://pleiades.stoa.org/places/79468)
 
 
+## Francavilla Marittima (Q53882)
+[https://www.wikidata.org/wiki/Q53882](https://www.wikidata.org/wiki/Q53882)  
+
+### alignments:
+ - [Francavilla Marittima](https://pleiades.stoa.org/places/452326)
+
+
 ## Franchthi Cave (Q1441331)
 [https://www.wikidata.org/wiki/Q1441331](https://www.wikidata.org/wiki/Q1441331)  
 
@@ -24568,6 +24617,13 @@
  - [Hatra](https://pleiades.stoa.org/places/894004)
 
 
+## Haughey's Fort (Q5682429)
+[https://www.wikidata.org/wiki/Q5682429](https://www.wikidata.org/wiki/Q5682429)  
+
+### alignments:
+ - [Haughey's Fort](https://pleiades.stoa.org/places/190590387)
+
+
 ## Hauran (Q1589883)
 [https://www.wikidata.org/wiki/Q1589883](https://www.wikidata.org/wiki/Q1589883)  
 
@@ -26057,6 +26113,13 @@
 
 ### alignments:
  - [Diospolis Mikra](https://pleiades.stoa.org/places/756566)
+
+
+## Hub River (Q3248039)
+[https://www.wikidata.org/wiki/Q3248039](https://www.wikidata.org/wiki/Q3248039)  
+
+### alignments:
+ - [Arabis (river)](https://pleiades.stoa.org/places/59690)
 
 
 ## Hucclecote Roman villa (Q15133923)
@@ -47574,6 +47637,13 @@
  - [Temple of Jupiter?, Via Appia](https://pleiades.stoa.org/places/422950)
 
 
+## Q140523053
+[https://www.wikidata.org/wiki/Q140523053](https://www.wikidata.org/wiki/Q140523053)  
+
+### alignments:
+ - [Roman Bridge (Auletta)](https://pleiades.stoa.org/places/547266548)
+
+
 ## Q1407535: Venta Icenorum
 [https://www.wikidata.org/wiki/Q1407535](https://www.wikidata.org/wiki/Q1407535)  
 
@@ -47838,13 +47908,6 @@
 
 ### alignments:
  - [Burgundiones](https://pleiades.stoa.org/places/118617)
-
-
-## Q15052130: Archaeological Site of Sabratha
-[https://www.wikidata.org/wiki/Q15052130](https://www.wikidata.org/wiki/Q15052130)  
-
-### alignments:
- - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
 
 
 ## Q15056188: Cape Araxos
@@ -49760,13 +49823,6 @@
  - [Column of Trajan](https://pleiades.stoa.org/places/783489695)
 
 
-## Q192918: Sabratha
-[https://www.wikidata.org/wiki/Q192918](https://www.wikidata.org/wiki/Q192918)  
-
-### alignments:
- - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
-
-
 ## Q193325: Merv
 [https://www.wikidata.org/wiki/Q193325](https://www.wikidata.org/wiki/Q193325)  
 
@@ -51181,13 +51237,6 @@
 
 ### alignments:
  - [Corfinium](https://pleiades.stoa.org/places/413105)
-
-
-## Q2429748: Thuburbo Minus
-[https://www.wikidata.org/wiki/Q2429748](https://www.wikidata.org/wiki/Q2429748)  
-
-### alignments:
- - [Thuburbo Minus](https://pleiades.stoa.org/places/315219)
 
 
 ## Q242990
@@ -62235,6 +62284,13 @@
  - [Sabini](https://pleiades.stoa.org/places/413291)
 
 
+## Sabratha (Q192918)
+[https://www.wikidata.org/wiki/Q192918](https://www.wikidata.org/wiki/Q192918)  
+
+### alignments:
+ - [Abrotonum/Sabratha](https://pleiades.stoa.org/places/344282)
+
+
 ## Sabzevar (Q765553)
 [https://www.wikidata.org/wiki/Q765553](https://www.wikidata.org/wiki/Q765553)  
 
@@ -65694,6 +65750,13 @@
  - [Sitones?](https://pleiades.stoa.org/places/20604)
 
 
+## Sittacene (Q669814)
+[https://www.wikidata.org/wiki/Q669814](https://www.wikidata.org/wiki/Q669814)  
+
+### alignments:
+ - [Apolloniatis/Sittacene](https://pleiades.stoa.org/places/893939)
+
+
 ## Sivas (Q107401)
 [https://www.wikidata.org/wiki/Q107401](https://www.wikidata.org/wiki/Q107401)  
 
@@ -67914,6 +67977,13 @@
  - [Teate](https://pleiades.stoa.org/places/413333)
 
 
+## Teatro romano (Q55388525)
+[https://www.wikidata.org/wiki/Q55388525](https://www.wikidata.org/wiki/Q55388525)  
+
+### alignments:
+ - [Roman theater at Grumentum](https://pleiades.stoa.org/places/37574658)
+
+
 ## Tebaga Gap (Q17023325)
 [https://www.wikidata.org/wiki/Q17023325](https://www.wikidata.org/wiki/Q17023325)  
 
@@ -68957,6 +69027,13 @@
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## Temple of Isis, Sabratha (Q82074394)
+[https://www.wikidata.org/wiki/Q82074394](https://www.wikidata.org/wiki/Q82074394)  
+
+### alignments:
+ - [Temple of Isis, Sabratha](https://pleiades.stoa.org/places/700277937)
 
 
 ## Temple of Ismenian Apollo (Q106526588)
@@ -70415,6 +70492,13 @@
 
 ### alignments:
  - [Thuburbo Maius](https://pleiades.stoa.org/places/315220)
+
+
+## Thuburbo Minus (Q2429748)
+[https://www.wikidata.org/wiki/Q2429748](https://www.wikidata.org/wiki/Q2429748)  
+
+### alignments:
+ - [Thuburbo Minus](https://pleiades.stoa.org/places/315219)
 
 
 ## Thuria (Q9090574)
@@ -77236,6 +77320,13 @@
 
 ### alignments:
  - [Miceris](https://pleiades.stoa.org/places/716601)
+
+
+## Zawiyet el Agdab (Q140355792)
+[https://www.wikidata.org/wiki/Q140355792](https://www.wikidata.org/wiki/Q140355792)  
+
+### alignments:
+ - [Zawiyet el-Agdab](https://pleiades.stoa.org/places/136714002)
 
 
 ## Zawiyet Umm el-Rakham (Q167780)

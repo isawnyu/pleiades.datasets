@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2402 alignments exist in _Pleiades_ place references as of 2026-07-16. The following list of alignments is grouped by zotkey.
+2403 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -14932,6 +14932,13 @@
 
 ### alignments:
  - [Memphis](https://pleiades.stoa.org/places/736963)
+
+
+## 8C3 (Talbert 399)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace399.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace399.html)  
+
+### alignments:
+ - [Anami](https://pleiades.stoa.org/places/620864362)
 
 
 ## 8C3 (Talbert 401)
