@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5109 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+5114 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -7827,6 +7827,13 @@
  - [Caurium](https://pleiades.stoa.org/places/256087)
 
 
+## Cave of Nestor (Pylos)
+[https://topostext.org/place/370217CNes](https://topostext.org/place/370217CNes)  
+
+### alignments:
+ - [Cave of Nestor](https://pleiades.stoa.org/places/473155336)
+
+
 ## Cave of the Lakes (Achaia)
 [https://topostext.org/place/380211CKas](https://topostext.org/place/380211CKas)  
 
@@ -9114,6 +9121,13 @@
 
 ### alignments:
  - [Darnis](https://pleiades.stoa.org/places/373780)
+
+
+## Dascylitis lake (Bithynia)
+[https://topostext.org/place/402280WDas](https://topostext.org/place/402280WDas)  
+
+### alignments:
+ - [Daskylitis Limne](https://pleiades.stoa.org/places/511224)
 
 
 ## Daseai (Arkadia)
@@ -12988,6 +13002,13 @@
  - [Gymnasium at Corinth](https://pleiades.stoa.org/places/100913712)
 
 
+## Gymnasium (Olympia)
+[https://topostext.org/place/376216BOGy](https://topostext.org/place/376216BOGy)  
+
+### alignments:
+ - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
+
+
 ## Gymnasium of Ptolemy (Athens)
 [https://topostext.org/place/380237BGyP](https://topostext.org/place/380237BGyP)  
 
@@ -15097,6 +15118,13 @@
 
 ### alignments:
  - [Ismaris (lake)](https://pleiades.stoa.org/places/501440)
+
+
+## Ismaros (Thrace)
+[https://topostext.org/place/410254UIsm](https://topostext.org/place/410254UIsm)  
+
+### alignments:
+ - [Ismaros/Ismara/Parthenion/Phalesina](https://pleiades.stoa.org/places/507409)
 
 
 ## Ismenian Apollo (Boeotia)
@@ -21287,6 +21315,13 @@
 
 ### alignments:
  - [Meninx/Lotophagitis/Girba (island)](https://pleiades.stoa.org/places/344440)
+
+
+## Menios (Elis)
+[https://topostext.org/place/379214WMen](https://topostext.org/place/379214WMen)  
+
+### alignments:
+ - [Menios (river)](https://pleiades.stoa.org/places/573369)
 
 
 ## Menorca (Iberia)

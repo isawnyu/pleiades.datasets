@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1138 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+1146 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1766,6 +1766,13 @@
  - [Anigros/Minyeios (river)](https://pleiades.stoa.org/places/573093)
 
 
+## 10215594: Samicon (Elis)
+[https://resource.manto.unh.edu/10215594](https://resource.manto.unh.edu/10215594)  
+
+### alignments:
+ - [Samikon/Samia](https://pleiades.stoa.org/places/570653)
+
+
 ## 10215661: Ortygia (island) island off Sicily, sometimes identified as the birthplace of Artemis
 [https://resource.manto.unh.edu/10215661](https://resource.manto.unh.edu/10215661)  
 
@@ -3264,6 +3271,13 @@
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
 
 
+## 11302798: Pelorias (Sicily)
+[https://resource.manto.unh.edu/11302798](https://resource.manto.unh.edu/11302798)  
+
+### alignments:
+ - [Pelorus/Regium (promontory)](https://pleiades.stoa.org/places/462416)
+
+
 ## 11302799: Leontini (Sicily)
 [https://resource.manto.unh.edu/11302799](https://resource.manto.unh.edu/11302799)  
 
@@ -4112,6 +4126,13 @@
  - [Aineia](https://pleiades.stoa.org/places/491513)
 
 
+## 11313091: Lake Dascylitis (Troad)
+[https://resource.manto.unh.edu/11313091](https://resource.manto.unh.edu/11313091)  
+
+### alignments:
+ - [Daskylitis Limne](https://pleiades.stoa.org/places/511224)
+
+
 ## 11313133: the Village of the Ilians (Troad)
 [https://resource.manto.unh.edu/11313133](https://resource.manto.unh.edu/11313133)  
 
@@ -4784,6 +4805,13 @@
  - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
+## 11322762: Coryphasion (Messenia)
+[https://resource.manto.unh.edu/11322762](https://resource.manto.unh.edu/11322762)  
+
+### alignments:
+ - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
+
+
 ## 11322892: Peucetia (Italy)
 [https://resource.manto.unh.edu/11322892](https://resource.manto.unh.edu/11322892)  
 
@@ -5006,6 +5034,13 @@
 
 ### alignments:
  - [Bruttii](https://pleiades.stoa.org/places/452275)
+
+
+## 11328267: the Harbor of Orestes (S. Italy)
+[https://resource.manto.unh.edu/11328267](https://resource.manto.unh.edu/11328267)  
+
+### alignments:
+ - [Portus Orestis](https://pleiades.stoa.org/places/452409)
 
 
 ## 11328397: the Oinotrides (islands)
@@ -6374,6 +6409,13 @@
  - [Tyrrhenum/Inferum Mare](https://pleiades.stoa.org/places/1356)
 
 
+## 9051556: Ismaros (Thrace)
+[https://resource.manto.unh.edu/9051556](https://resource.manto.unh.edu/9051556)  
+
+### alignments:
+ - [Ismaros/Ismara/Parthenion/Phalesina](https://pleiades.stoa.org/places/507409)
+
+
 ## 9051582: Aiaia (unlocatable)
 [https://resource.manto.unh.edu/9051582](https://resource.manto.unh.edu/9051582)  
 
@@ -6547,6 +6589,13 @@
 
 ### alignments:
  - [Ogygia/Calypsus (island)](https://pleiades.stoa.org/places/456105)
+
+
+## 9364183: Same (island)
+[https://resource.manto.unh.edu/9364183](https://resource.manto.unh.edu/9364183)  
+
+### alignments:
+ - [Same (island)](https://pleiades.stoa.org/places/604626506)
 
 
 ## 9364186: Zacynthos (island)
@@ -6883,6 +6932,13 @@
 
 ### alignments:
  - [Acarnania](https://pleiades.stoa.org/places/530767)
+
+
+## 9614046: Elis (city)
+[https://resource.manto.unh.edu/9614046](https://resource.manto.unh.edu/9614046)  
+
+### alignments:
+ - [Elis (city)](https://pleiades.stoa.org/places/570220)
 
 
 ## 9614063: the Sanctuary of Athena Alea (Tegea)

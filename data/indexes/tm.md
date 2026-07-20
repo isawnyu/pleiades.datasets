@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5158 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+5158 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -754,6 +754,13 @@
 
 ### alignments:
  - [Ouindinon/Subdinnum](https://pleiades.stoa.org/places/109236)
+
+
+## Geo 22106: Aquae Hypsitanae (Caddas)
+[https://www.trismegistos.org/place/22106](https://www.trismegistos.org/place/22106)  
+
+### alignments:
+ - [Hydata Hypsitana/Forum Traiani](https://pleiades.stoa.org/places/471947)
 
 
 ## Geo 22268: Adranon (Adrano)
@@ -1735,13 +1742,6 @@
 
 ### alignments:
  - [Tenea](https://pleiades.stoa.org/places/570711)
-
-
-## Geo 37874: Pylos
-[https://www.trismegistos.org/place/37874](https://www.trismegistos.org/place/37874)  
-
-### alignments:
- - [Pylos/Koryphasion](https://pleiades.stoa.org/places/570640)
 
 
 ## Geo 37888: Gitana (Gkoumani)
@@ -11399,13 +11399,6 @@
 
 ### alignments:
  - [Bosa](https://pleiades.stoa.org/places/471895)
-
-
-## GEO ID 22106: Aquae Hypsitanae (Caddas)
-[https://www.trismegistos.org/place/22106](https://www.trismegistos.org/place/22106)  
-
-### alignments:
- - [Hydata Hypsitana/Forum Traiani](https://pleiades.stoa.org/places/471947)
 
 
 ## GEO ID 2210: Syrakousai (Siracusa)
@@ -21385,6 +21378,13 @@
 
 ### alignments:
  - [Thronion](https://pleiades.stoa.org/places/541147)
+
+
+## GEO ID 37874: Pylos
+[https://www.trismegistos.org/place/37874](https://www.trismegistos.org/place/37874)  
+
+### alignments:
+ - [Pylos/Koryphasion](https://pleiades.stoa.org/places/570640)
 
 
 ## GEO ID 37876: Typaneai

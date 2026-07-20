@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-482 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+483 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -191,13 +191,6 @@
  - [Amphissa Tholos](https://pleiades.stoa.org/places/629588005)
 
 
-## ANDROS. - Chora - 2001
-[https://chronique.efa.gr/?r=report&id=11381](https://chronique.efa.gr/?r=report&id=11381)  
-
-### alignments:
- - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
-
-
 ## Archontiko/Giannitson
 [http://chronique.efa.gr/index.php/fiches/voir/820/](http://chronique.efa.gr/index.php/fiches/voir/820/)  
 
@@ -336,6 +329,13 @@
 
 ### alignments:
  - [Kyparissia](https://pleiades.stoa.org/places/570396)
+
+
+## Report 11381: ANDROS. - Chora - 2001"
+[https://chronique.efa.gr/?r=report&id=11381](https://chronique.efa.gr/?r=report&id=11381)  
+
+### alignments:
+ - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
 
 
 ## Report 11902: SARANTAPORO. - Dolichè antique - 1996
@@ -1622,6 +1622,13 @@
  - [Pronnoi](https://pleiades.stoa.org/places/531074)
 
 
+## Toponyme - 11358: Peloponnese
+[https://chronique.efa.gr/?r=topo_public&id=11358](https://chronique.efa.gr/?r=topo_public&id=11358)  
+
+### alignments:
+ - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
+
+
 ## Toponyme - 14142: Sikyon (Kiato), Vassilika (usuel)-Δ.Δ.Σικυώνος (έδρα Κίατο,το)
 [https://chronique.efa.gr/?r=topo_public&id=14142](https://chronique.efa.gr/?r=topo_public&id=14142)  
 
@@ -1732,13 +1739,6 @@
 
 ### alignments:
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
-
-
-## Toponyme - 41265: Andros, Kastron-Δ.Δ. Άνδρου
-[https://chronique.efa.gr/?r=topo_public&id=41265](https://chronique.efa.gr/?r=topo_public&id=41265)  
-
-### alignments:
- - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
 
 
 ## Toponyme - 4350: Aiani, Kalliani-Αιανή
@@ -2807,6 +2807,13 @@
 
 ### alignments:
  - [Amorgos (island)](https://pleiades.stoa.org/places/599484)
+
+
+## Toponyme 41265: Andros, Kastron-Δ.Δ. Άνδρου
+[https://chronique.efa.gr/?r=topo_public&id=41265](https://chronique.efa.gr/?r=topo_public&id=41265)  
+
+### alignments:
+ - [Andros (medieval fortification)](https://pleiades.stoa.org/places/596828152)
 
 
 ## Toponyme 41320: Santorini, Thera, Thira, Phira, Kallisti

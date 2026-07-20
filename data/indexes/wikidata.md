@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11111 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+11126 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3443,6 +3443,13 @@
  - [Roman amphitheater at Patavium](https://pleiades.stoa.org/places/237512727)
 
 
+## Amphitheatre of Paestum (Q28978009)
+[https://www.wikidata.org/wiki/Q28978009](https://www.wikidata.org/wiki/Q28978009)  
+
+### alignments:
+ - [Roman amphitheater at Paestum](https://pleiades.stoa.org/places/569006287)
+
+
 ## Amphitheatre of Sbeitla (Q42760508)
 [https://www.wikidata.org/wiki/Q42760508](https://www.wikidata.org/wiki/Q42760508)  
 
@@ -3651,6 +3658,13 @@
 
 ### alignments:
  - [Anavyssos](https://pleiades.stoa.org/places/194496209)
+
+
+## Anazarbus amphitheatre (Q29002435)
+[https://www.wikidata.org/wiki/Q29002435](https://www.wikidata.org/wiki/Q29002435)  
+
+### alignments:
+ - [Amphitheater of Anazarbos](https://pleiades.stoa.org/places/755162813)
 
 
 ## Anbar (Q2829204)
@@ -14463,6 +14477,13 @@
  - [Tallaion Antron](https://pleiades.stoa.org/places/590070)
 
 
+## Cave of Nestor (Q25162361)
+[https://www.wikidata.org/wiki/Q25162361](https://www.wikidata.org/wiki/Q25162361)  
+
+### alignments:
+ - [Cave of Nestor](https://pleiades.stoa.org/places/473155336)
+
+
 ## Cave of the Apocalypse (Q1978886)
 [https://www.wikidata.org/wiki/Q1978886](https://www.wikidata.org/wiki/Q1978886)  
 
@@ -16478,6 +16499,13 @@
 
 ### alignments:
  - [Cominium Ocritum](https://pleiades.stoa.org/places/438720)
+
+
+## Comitium Paestum (Q56258371)
+[https://www.wikidata.org/wiki/Q56258371](https://www.wikidata.org/wiki/Q56258371)  
+
+### alignments:
+ - [Comitium of Poseidonia/Paestum](https://pleiades.stoa.org/places/103018179)
 
 
 ## Commagene (Q15427622)
@@ -20069,6 +20097,13 @@
  - [Elina](https://pleiades.stoa.org/places/530862)
 
 
+## Elis (Q217667)
+[https://www.wikidata.org/wiki/Q217667](https://www.wikidata.org/wiki/Q217667)  
+
+### alignments:
+ - [Elis (city)](https://pleiades.stoa.org/places/570220)
+
+
 ## Elissonas (Q3723337)
 [https://www.wikidata.org/wiki/Q3723337](https://www.wikidata.org/wiki/Q3723337)  
 
@@ -23088,6 +23123,13 @@
 
 ### alignments:
  - [Natiolum](https://pleiades.stoa.org/places/442686)
+
+
+## Gird-I Matrab (Q140609018)
+[https://www.wikidata.org/wiki/Q140609018](https://www.wikidata.org/wiki/Q140609018)  
+
+### alignments:
+ - [Gird-I Matrab](https://pleiades.stoa.org/places/473155335)
 
 
 ## Gird-i Rostam (Q133455889)
@@ -27193,6 +27235,13 @@
  - [*Silina Inss.](https://pleiades.stoa.org/places/79684)
 
 
+## Ismara (Q2317888)
+[https://www.wikidata.org/wiki/Q2317888](https://www.wikidata.org/wiki/Q2317888)  
+
+### alignments:
+ - [Ismaros/Ismara/Parthenion/Phalesina](https://pleiades.stoa.org/places/507409)
+
+
 ## Isola Comacina (Q1674456)
 [https://www.wikidata.org/wiki/Q1674456](https://www.wikidata.org/wiki/Q1674456)  
 
@@ -29764,6 +29813,13 @@
  - [Kynosoura (promontory)](https://pleiades.stoa.org/places/580002)
 
 
+## Kyparissia (ancient Laconia) (Q16549185)
+[https://www.wikidata.org/wiki/Q16549185](https://www.wikidata.org/wiki/Q16549185)  
+
+### alignments:
+ - [Kyparissia](https://pleiades.stoa.org/places/570396)
+
+
 ## Kyparissia (Q1026705)
 [https://www.wikidata.org/wiki/Q1026705](https://www.wikidata.org/wiki/Q1026705)  
 
@@ -30351,6 +30407,13 @@
 
 ### alignments:
  - [Beberaci L.](https://pleiades.stoa.org/places/874399)
+
+
+## Lake Kuş (Q1891954)
+[https://www.wikidata.org/wiki/Q1891954](https://www.wikidata.org/wiki/Q1891954)  
+
+### alignments:
+ - [Daskylitis Limne](https://pleiades.stoa.org/places/511224)
 
 
 ## Lake Lesina (Q1129358)
@@ -34315,6 +34378,27 @@
 
 ### alignments:
  - [Methana/Arsinoe](https://pleiades.stoa.org/places/570482)
+
+
+## Methone (Q60790706)
+[https://www.wikidata.org/wiki/Q60790706](https://www.wikidata.org/wiki/Q60790706)  
+
+### alignments:
+ - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## Methoni (Q998805)
+[https://www.wikidata.org/wiki/Q998805](https://www.wikidata.org/wiki/Q998805)  
+
+### alignments:
+ - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## Methoni Castle (Q12878512)
+[https://www.wikidata.org/wiki/Q12878512](https://www.wikidata.org/wiki/Q12878512)  
+
+### alignments:
+ - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
 
 
 ## Methouriades islands (Q130375336)
@@ -40969,6 +41053,13 @@
  - [Pellana](https://pleiades.stoa.org/places/570575)
 
 
+## Peloponnese (Q78967)
+[https://www.wikidata.org/wiki/Q78967](https://www.wikidata.org/wiki/Q78967)  
+
+### alignments:
+ - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
+
+
 ## Peloriarca (Q135639210)
 [https://www.wikidata.org/wiki/Q135639210](https://www.wikidata.org/wiki/Q135639210)  
 
@@ -42867,6 +42958,13 @@
  - [Selciatella Roman bridge](https://pleiades.stoa.org/places/431699813)
 
 
+## Ponte delle Serretelle (Q26960687)
+[https://www.wikidata.org/wiki/Q26960687](https://www.wikidata.org/wiki/Q26960687)  
+
+### alignments:
+ - [Ponte delle Serretelle](https://pleiades.stoa.org/places/244583543)
+
+
 ## Ponte delle Torri (Q16591375)
 [https://www.wikidata.org/wiki/Q16591375](https://www.wikidata.org/wiki/Q16591375)  
 
@@ -44272,6 +44370,13 @@
 
 ### alignments:
  - [Kydna/Pydnai](https://pleiades.stoa.org/places/638949)
+
+
+## Pylos (Q7263152)
+[https://www.wikidata.org/wiki/Q7263152](https://www.wikidata.org/wiki/Q7263152)  
+
+### alignments:
+ - [Pylos/Koryphasion](https://pleiades.stoa.org/places/570640)
 
 
 ## Pyramid of Amenemhet I (Q462160)
@@ -48646,13 +48751,6 @@
  - [Kasthaneia](https://pleiades.stoa.org/places/540856)
 
 
-## Q16549185: Kyparissia (ancient Laconia)
-[https://www.wikidata.org/wiki/Q16549185](https://www.wikidata.org/wiki/Q16549185)  
-
-### alignments:
- - [Kyparissia](https://pleiades.stoa.org/places/570396)
-
-
 ## Q165570: Lelantine Plain
 [https://www.wikidata.org/wiki/Q165570](https://www.wikidata.org/wiki/Q165570)  
 
@@ -50720,6 +50818,13 @@
  - [Stadium of Delphi](https://pleiades.stoa.org/places/333036426)
 
 
+## Q217253
+[http://www.wikidata.org/entity/Q217253](http://www.wikidata.org/entity/Q217253)  
+
+### alignments:
+ - [Anaphe (island)](https://pleiades.stoa.org/places/599492)
+
+
 ## Q2176743: Roman Theatre of Spoleto
 [https://www.wikidata.org/wiki/Q2176743](https://www.wikidata.org/wiki/Q2176743)  
 
@@ -52289,13 +52394,6 @@
  - [Roman amphitheater at Album Ingaunum/Albingaunum](https://pleiades.stoa.org/places/331262016)
 
 
-## Q28978009: Amphitheatre of Paestum
-[https://www.wikidata.org/wiki/Q28978009](https://www.wikidata.org/wiki/Q28978009)  
-
-### alignments:
- - [Roman amphitheater at Paestum](https://pleiades.stoa.org/places/569006287)
-
-
 ## Q28978011: Lucus Feroniae amphitheatre
 [https://www.wikidata.org/wiki/Q28978011](https://www.wikidata.org/wiki/Q28978011)  
 
@@ -53465,13 +53563,6 @@
 
 ### alignments:
  - [Roman amphitheater at Albano Laziale](https://pleiades.stoa.org/places/466340541)
-
-
-## Q3616683: Roman Amphitheatre of Benevento
-[https://www.wikidata.org/wiki/Q3616683](https://www.wikidata.org/wiki/Q3616683)  
-
-### alignments:
- - [Roman amphitheater of Beneventum](https://pleiades.stoa.org/places/585690563)
 
 
 ## Q3616684: Roman Amphitheatre of Rimini
@@ -57971,13 +58062,6 @@
  - [Ummān-manda](https://pleiades.stoa.org/places/56567732)
 
 
-## Q78967: Peloponnese
-[https://www.wikidata.org/wiki/Q78967](https://www.wikidata.org/wiki/Q78967)  
-
-### alignments:
- - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
-
-
 ## Q79115191: Irisagrig
 [https://www.wikidata.org/wiki/Q79115191](https://www.wikidata.org/wiki/Q79115191)  
 
@@ -58949,13 +59033,6 @@
 
 ### alignments:
  - [Usil(l)a/Usula](https://pleiades.stoa.org/places/324841)
-
-
-## Q998805: Methoni
-[https://www.wikidata.org/wiki/Q998805](https://www.wikidata.org/wiki/Q998805)  
-
-### alignments:
- - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
 
 
 ## Qal'at Ja'bar (Q1857888)
@@ -60504,6 +60581,13 @@
 
 ### alignments:
  - [Roman amphitheater at Arretium](https://pleiades.stoa.org/places/442563575)
+
+
+## Roman Amphitheatre of Benevento (Q3616683)
+[https://www.wikidata.org/wiki/Q3616683](https://www.wikidata.org/wiki/Q3616683)  
+
+### alignments:
+ - [Roman amphitheater of Beneventum](https://pleiades.stoa.org/places/585690563)
 
 
 ## Roman amphitheatre of Caerleon (Q2844398)
@@ -62648,6 +62732,13 @@
  - [Sabis (river)](https://pleiades.stoa.org/places/109299)
 
 
+## Same (Q3373932)
+[https://www.wikidata.org/wiki/Q3373932](https://www.wikidata.org/wiki/Q3373932)  
+
+### alignments:
+ - [Same (island)](https://pleiades.stoa.org/places/604626506)
+
+
 ## Same (Q7409183)
 [https://www.wikidata.org/wiki/Q7409183](https://www.wikidata.org/wiki/Q7409183)  
 
@@ -62667,6 +62758,13 @@
 
 ### alignments:
  - [Samian Poseidon Sanctuary (Triphylia)](https://pleiades.stoa.org/places/584922400)
+
+
+## Samiko (Q3558588)
+[https://www.wikidata.org/wiki/Q3558588](https://www.wikidata.org/wiki/Q3558588)  
+
+### alignments:
+ - [Samikon/Samia](https://pleiades.stoa.org/places/570653)
 
 
 ## Samiopoula (Q1811108)
@@ -66575,6 +66673,13 @@
 
 ### alignments:
  - [Stadium (Ephesus)](https://pleiades.stoa.org/places/956927189)
+
+
+## Stadium at Anazarbos (Q139433322)
+[https://www.wikidata.org/wiki/Q139433322](https://www.wikidata.org/wiki/Q139433322)  
+
+### alignments:
+ - [Stadium at Anazarbos](https://pleiades.stoa.org/places/92225875)
 
 
 ## Stadium at Olympia (Q4357227)

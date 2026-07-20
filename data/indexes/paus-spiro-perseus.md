@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-555 alignments exist in _Pleiades_ place references as of 2026-07-17. The following list of alignments is grouped by zotkey.
+556 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2161,7 +2161,15 @@
 
 ### alignments:
  - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
+ - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
  - [Pylos](https://pleiades.stoa.org/places/570639)
+
+
+## 4.36.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.36.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:4.36.2)  
+
+### alignments:
+ - [Cave of Nestor](https://pleiades.stoa.org/places/473155336)
 
 
 ## 4.4.2
@@ -4088,6 +4096,7 @@
  - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
  - [Geren(i)a](https://pleiades.stoa.org/places/570261)
  - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
+ - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
  - [Kalamai](https://pleiades.stoa.org/places/570323)
