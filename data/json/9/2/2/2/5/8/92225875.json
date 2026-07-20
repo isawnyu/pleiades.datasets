@@ -61,7 +61,14 @@
     "connectsWith": [
         "https://pleiades.stoa.org/places/658378"
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
+        }
+    ],
     "created": "2020-10-27T20:09:07Z",
     "creators": [
         {
@@ -137,13 +144,23 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/92225875/stadium-of-ancient-anazarbos",
                 "location_precision": "precise",
-                "snippet": "Unknown; 30 BC - AD 640",
+                "snippet": "Stadion; 30 BC - AD 640",
                 "title": "OSM Location of Ancient Stadium"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "vici.org",
+            "modified": "2026-07-17T13:44:48Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "wikidata Q139433322",
+            "modified": "2026-07-17T13:41:52Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "action": "Publish externally",
             "modified": "2020-10-28T00:28:12Z",
@@ -193,7 +210,14 @@
                     "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2020-10-27T20:17:22Z",
             "creators": [
                 {
@@ -206,8 +230,12 @@
             "description": "Location based on OpenStreetMap",
             "details": "",
             "end": 640,
-            "featureType": [],
-            "featureTypeURI": [],
+            "featureType": [
+                "stadion"
+            ],
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/stadion"
+            ],
             "geometry": {
                 "coordinates": [
                     [
@@ -267,6 +295,16 @@
             },
             "history": [
                 {
+                    "comment": "add feature type",
+                    "modified": "2026-07-17T13:40:44Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2026-07-17T13:40:19Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2020-10-28T00:28:12Z",
                     "modifiedBy": "jbecker"
@@ -296,8 +334,10 @@
             "locationType": [
                 "representative"
             ],
-            "locationTypeURI": [],
-            "provenance": "OpenStreetMap (Way 864290282, version 1, osm:changeset=93142230, 2020-10-27T20:16:55Z)",
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/stadion"
+            ],
+            "provenance": "OpenStreetMap (Way 864290282, version 3, osm:changeset=138538408, 2023-07-15T10:14:29Z)",
             "references": [
                 {
                     "accessURI": "https://www.openstreetmap.org/browse/way/864290282",
@@ -342,11 +382,33 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/NTQZEIIX",
             "citationDetail": "2422: Anazarbos Hippodrom",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Gogräfe, Rüdiger, Marin Buovac, and Maria Engracia Muñoz-Santos. <i>Amphi-theatrum</i>. Mainz: Direktion Landesarchäologie Mainz, 2011. http://amphi-theatrum.de/.</div>",
             "otherIdentifier": "",
             "shortTitle": "Amphi-theatrum",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q139433322",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Stadium at Anazarbos (Q139433322)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/12011/",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "12011",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
