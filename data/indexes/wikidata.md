@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11126 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
+11129 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3476,6 +3476,13 @@
 
 ### alignments:
  - [Roman amphitheater at Urbs Salvia](https://pleiades.stoa.org/places/18540341)
+
+
+## Amphitheatrum Castrense (Q475012)
+[https://www.wikidata.org/wiki/Q475012](https://www.wikidata.org/wiki/Q475012)  
+
+### alignments:
+ - [Amphitheatrum Castrense](https://pleiades.stoa.org/places/537585744)
 
 
 ## Amu Darya (Q8493)
@@ -14309,6 +14316,13 @@
  - [Santa Savinilla catacomb](https://pleiades.stoa.org/places/829121960)
 
 
+## Catacomba maggiore (Q3663191)
+[https://www.wikidata.org/wiki/Q3663191](https://www.wikidata.org/wiki/Q3663191)  
+
+### alignments:
+ - [Cimitero Maggiore](https://pleiades.stoa.org/places/422894)
+
+
 ## Catacombs of Generosa (Q3663195)
 [https://www.wikidata.org/wiki/Q3663195](https://www.wikidata.org/wiki/Q3663195)  
 
@@ -18848,6 +18862,13 @@
 
 ### alignments:
  - [domus Cornificia](https://pleiades.stoa.org/places/987812399)
+
+
+## Domus dei Ritratti (Q140636848)
+[https://www.wikidata.org/wiki/Q140636848](https://www.wikidata.org/wiki/Q140636848)  
+
+### alignments:
+ - [Domus dei Ritratti](https://pleiades.stoa.org/places/624604511)
 
 
 ## Domus del Chirurgo (Q3713399)
@@ -25763,6 +25784,13 @@
 
 ### alignments:
  - [House of Aufidia Cornelia Valentinilla](https://pleiades.stoa.org/places/624604510)
+
+
+## House of Augustus (Q1590891)
+[https://www.wikidata.org/wiki/Q1590891](https://www.wikidata.org/wiki/Q1590891)  
+
+### alignments:
+ - [House of Augustus](https://pleiades.stoa.org/places/250568480)
 
 
 ## House of Aulus Umbricius Scaurus (Q27688002)
@@ -43259,6 +43287,13 @@
  - [Xiphonias Akroterion](https://pleiades.stoa.org/places/462536)
 
 
+## Porta Asinaria (Q2104854)
+[https://www.wikidata.org/wiki/Q2104854](https://www.wikidata.org/wiki/Q2104854)  
+
+### alignments:
+ - [Porta Asinaria](https://pleiades.stoa.org/places/958548506)
+
+
 ## Porta Augusta (Q3399001)
 [https://www.wikidata.org/wiki/Q3399001](https://www.wikidata.org/wiki/Q3399001)  
 
@@ -47707,6 +47742,13 @@
  - [Cersosimo](https://pleiades.stoa.org/places/452298)
 
 
+## Q140289906
+[http://www.wikidata.org/entity/Q140289906](http://www.wikidata.org/entity/Q140289906)  
+
+### alignments:
+ - [Praetorian Guard Barracks at Amba Aradam Metro Station](https://pleiades.stoa.org/places/256068848)
+
+
 ## Q140325265
 [https://www.wikidata.org/wiki/Q140325265](https://www.wikidata.org/wiki/Q140325265)  
 
@@ -48447,14 +48489,6 @@
 
 ### alignments:
  - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
-
-
-## Q1590891: House of Augustus
-[https://www.wikidata.org/wiki/Q1590891](https://www.wikidata.org/wiki/Q1590891)  
-
-### alignments:
- - [House of Augustus](https://pleiades.stoa.org/places/250568480)
- - [House of Augustus](https://pleiades.stoa.org/places/960271818)
 
 
 ## Q15926: Trebnje
@@ -50528,13 +50562,6 @@
 
 ### alignments:
  - [Ponte di Augusto](https://pleiades.stoa.org/places/208942846)
-
-
-## Q2104854: Porta Asinaria
-[https://www.wikidata.org/wiki/Q2104854](https://www.wikidata.org/wiki/Q2104854)  
-
-### alignments:
- - [Porta Asinaria](https://pleiades.stoa.org/places/958548506)
 
 
 ## Q21055407: Venetulani
@@ -53775,13 +53802,6 @@
  - [S. Valentino](https://pleiades.stoa.org/places/423058)
 
 
-## Q3663191: Catacomba maggiore
-[https://www.wikidata.org/wiki/Q3663191](https://www.wikidata.org/wiki/Q3663191)  
-
-### alignments:
- - [Cimitero Maggiore](https://pleiades.stoa.org/places/422894)
-
-
 ## Q3663197: Praetextatus Catacombs
 [https://www.wikidata.org/wiki/Q3663197](https://www.wikidata.org/wiki/Q3663197)  
 
@@ -55156,13 +55176,6 @@
  - [Amphikleia](https://pleiades.stoa.org/places/540629)
 
 
-## Q475012: Amphitheatrum Castrense
-[https://www.wikidata.org/wiki/Q475012](https://www.wikidata.org/wiki/Q475012)  
-
-### alignments:
- - [Amphitheatrum Castrense](https://pleiades.stoa.org/places/537585744)
-
-
 ## Q47518123: Roman Theatre of Metellinum
 [https://www.wikidata.org/wiki/Q47518123](https://www.wikidata.org/wiki/Q47518123)  
 
@@ -55904,13 +55917,6 @@
 
 ### alignments:
  - [Sepolcro dei Veienti](https://pleiades.stoa.org/places/344023792)
-
-
-## Q56256395: Sedia del Diavolo
-[https://www.wikidata.org/wiki/Q56256395](https://www.wikidata.org/wiki/Q56256395)  
-
-### alignments:
- - [Tomb of Publius Aelius Callistion](https://pleiades.stoa.org/places/684741498)
 
 
 ## Q56258078: Roman theatre of Sepphoris
@@ -61066,6 +61072,13 @@
  - [Punta Moral Roman mausoleum](https://pleiades.stoa.org/places/364011117)
 
 
+## Roman Mausoleum of Villa Gordiani (Q140631804)
+[https://www.wikidata.org/wiki/Q140631804](https://www.wikidata.org/wiki/Q140631804)  
+
+### alignments:
+ - [Roman Mausoleum of Villa Gordiani](https://pleiades.stoa.org/places/472526695)
+
+
 ## Roman Middlewich (Q7362090)
 [https://www.wikidata.org/wiki/Q7362090](https://www.wikidata.org/wiki/Q7362090)  
 
@@ -64578,6 +64591,13 @@
 
 ### alignments:
  - [(T)Erebinthodes (island)](https://pleiades.stoa.org/places/521162)
+
+
+## Sedia del Diavolo (Q56256395)
+[https://www.wikidata.org/wiki/Q56256395](https://www.wikidata.org/wiki/Q56256395)  
+
+### alignments:
+ - [Tomb of Publius Aelius Callistion](https://pleiades.stoa.org/places/684741498)
 
 
 ## Sefid Rud (Q1430986)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5114 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
+5114 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -14226,7 +14226,6 @@
 
 ### alignments:
  - [House of Augustus](https://pleiades.stoa.org/places/250568480)
- - [House of Augustus](https://pleiades.stoa.org/places/960271818)
 
 
 ## House of the Arrephoroi (Athens Acropolis) 1 Acropolis of Athens

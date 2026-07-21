@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5158 alignments exist in _Pleiades_ place references as of 2026-07-20. The following list of alignments is grouped by zotkey.
+5159 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1034,6 +1034,13 @@
 
 ### alignments:
  - [Gholaia](https://pleiades.stoa.org/places/344377)
+
+
+## Geo 3169: Ris
+[https://www.trismegistos.org/place/3169](https://www.trismegistos.org/place/3169)  
+
+### alignments:
+ - [Ain Ris](https://pleiades.stoa.org/places/716516)
 
 
 ## Geo 31715: Augusta Bagiennorum (Bene Vagienna)
