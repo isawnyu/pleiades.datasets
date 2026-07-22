@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5114 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+5115 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -421,6 +421,13 @@
 
 ### alignments:
  - [Acalander (river)](https://pleiades.stoa.org/places/442432)
+
+
+## Acanthus (Egypt) 1
+[https://topostext.org/place/298312UAca](https://topostext.org/place/298312UAca)  
+
+### alignments:
+ - [Akanthopolis](https://pleiades.stoa.org/places/730087)
 
 
 ## Acascomarci
@@ -13524,7 +13531,7 @@
 [https://topostext.org/place/389231UHel](https://topostext.org/place/389231UHel)  
 
 ### alignments:
- - [(H)Ellopia](https://pleiades.stoa.org/places/540811)
+ - [(H)Ellopia (Euboea)](https://pleiades.stoa.org/places/540811)
 
 
 ## Helorus (Sicily)

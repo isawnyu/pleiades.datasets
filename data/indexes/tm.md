@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5159 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+5160 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1896,6 +1896,13 @@
 
 ### alignments:
  - [Novioregum](https://pleiades.stoa.org/places/138496)
+
+
+## Geo 40505: Ad Pinum
+[https://www.trismegistos.org/place/40505](https://www.trismegistos.org/place/40505)  
+
+### alignments:
+ - [Ad Pinum](https://pleiades.stoa.org/places/446210)
 
 
 ## Geo 40612 Ariaratheia

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-483 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+484 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3088,6 +3088,13 @@
 
 ### alignments:
  - [Phalasarna](https://pleiades.stoa.org/places/589989)
+
+
+## Toponyme 66901: Analipsis (anc. Maltezana)-Ανάληψις, η (αρχαία Μαλτεζάνα)
+[https://chronique.efa.gr/?r=topo_public&id=66901](https://chronique.efa.gr/?r=topo_public&id=66901)  
+
+### alignments:
+ - [Maltezana Marble Quarry](https://pleiades.stoa.org/places/599782)
 
 
 ## Toponyme 67223: Strovikion-Στροβίκιον,το

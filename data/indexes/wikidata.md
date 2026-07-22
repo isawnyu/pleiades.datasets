@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11129 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+11139 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -462,6 +462,13 @@
 
 ### alignments:
  - [Akanthos](https://pleiades.stoa.org/places/501339)
+
+
+## Acanthus (Q4672075)
+[https://www.wikidata.org/wiki/Q4672075](https://www.wikidata.org/wiki/Q4672075)  
+
+### alignments:
+ - [Akanthopolis](https://pleiades.stoa.org/places/730087)
 
 
 ## Acarnania (Q416070)
@@ -8309,6 +8316,13 @@
  - [Basilica Constantini](https://pleiades.stoa.org/places/678676209)
 
 
+## Basilica of Neptune (Q1844125)
+[https://www.wikidata.org/wiki/Q1844125](https://www.wikidata.org/wiki/Q1844125)  
+
+### alignments:
+ - [Basilica Neptuni](https://pleiades.stoa.org/places/360837130)
+
+
 ## Basilica of Pompeii (Q3635629)
 [https://www.wikidata.org/wiki/Q3635629](https://www.wikidata.org/wiki/Q3635629)  
 
@@ -12256,6 +12270,13 @@
 
 ### alignments:
  - [Cappadocia (region)](https://pleiades.stoa.org/places/628949)
+
+
+## Cappellette (Q140647055)
+[https://www.wikidata.org/wiki/Q140647055](https://www.wikidata.org/wiki/Q140647055)  
+
+### alignments:
+ - [Cappellette](https://pleiades.stoa.org/places/422866)
 
 
 ## Cappuck Roman fort (Q56633478)
@@ -20137,6 +20158,13 @@
 
 ### alignments:
  - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
+
+
+## Ellopia (Q16561475)
+[https://www.wikidata.org/wiki/Q16561475](https://www.wikidata.org/wiki/Q16561475)  
+
+### alignments:
+ - [(H)Ellopia (Euboea)](https://pleiades.stoa.org/places/540811)
 
 
 ## Elsenz (Q8315)
@@ -33705,6 +33733,13 @@
 
 ### alignments:
  - [Mausoleum of Lucius Sempronius Atratinus](https://pleiades.stoa.org/places/142574161)
+
+
+## Mausoleum of Marcus Coelius Vinicianus (Q140647071)
+[https://www.wikidata.org/wiki/Q140647071](https://www.wikidata.org/wiki/Q140647071)  
+
+### alignments:
+ - [Mausoleum of M. Coelius Vinicianus](https://pleiades.stoa.org/places/629655495)
 
 
 ## Mausoleum of Maxentius (Q22919904)
@@ -49689,13 +49724,6 @@
  - [Pontecagnano](https://pleiades.stoa.org/places/442728)
 
 
-## Q1844125: Basilica of Neptune
-[https://www.wikidata.org/wiki/Q1844125](https://www.wikidata.org/wiki/Q1844125)  
-
-### alignments:
- - [Basilica Neptuni](https://pleiades.stoa.org/places/360837130)
-
-
 ## Q18454765: Malborghetto
 [https://www.wikidata.org/wiki/Q18454765](https://www.wikidata.org/wiki/Q18454765)  
 
@@ -55989,13 +56017,6 @@
  - [Archaeological Site at Plasi of Marathon](https://pleiades.stoa.org/places/226716587)
 
 
-## Q56477142: Roman Theatre of Tusculum
-[https://www.wikidata.org/wiki/Q56477142](https://www.wikidata.org/wiki/Q56477142)  
-
-### alignments:
- - [Roman theater at Tusculum](https://pleiades.stoa.org/places/719522410)
-
-
 ## Q564771: Glauberg
 [https://www.wikidata.org/wiki/Q564771](https://www.wikidata.org/wiki/Q564771)  
 
@@ -59370,6 +59391,13 @@
  - [Quadraro](https://pleiades.stoa.org/places/423018)
 
 
+## Quadrato di Torre Spaccata (Q134883417)
+[https://www.wikidata.org/wiki/Q134883417](https://www.wikidata.org/wiki/Q134883417)  
+
+### alignments:
+ - [Quadrato di Torre Spaccata (Rome)](https://pleiades.stoa.org/places/454350148)
+
+
 ## Quadriportico of the Theatre of Pompeii (Q3926611)
 [https://www.wikidata.org/wiki/Q3926611](https://www.wikidata.org/wiki/Q3926611)  
 
@@ -61583,6 +61611,13 @@
  - [Roman theater at Tergeste](https://pleiades.stoa.org/places/683009535)
 
 
+## Roman Theatre of Tusculum (Q56477142)
+[https://www.wikidata.org/wiki/Q56477142](https://www.wikidata.org/wiki/Q56477142)  
+
+### alignments:
+ - [Roman theater at Tusculum](https://pleiades.stoa.org/places/719522410)
+
+
 ## Roman Theatre of Volterra (Q1825356)
 [https://www.wikidata.org/wiki/Q1825356](https://www.wikidata.org/wiki/Q1825356)  
 
@@ -63289,6 +63324,13 @@
 
 ### alignments:
  - [Sanctuary of Athena at Kardamyle](https://pleiades.stoa.org/places/83493702)
+
+
+## Sanctuary of Athena Itonia (Q60970000)
+[https://www.wikidata.org/wiki/Q60970000](https://www.wikidata.org/wiki/Q60970000)  
+
+### alignments:
+ - [Sanctuary of Athena Itonia](https://pleiades.stoa.org/places/540677)
 
 
 ## Sanctuary of Cybele, Pergamon (Q64705203)
@@ -72516,6 +72558,13 @@
  - [Tre'r Ceiri hillfort](https://pleiades.stoa.org/places/479831455)
 
 
+## Treasury of Metapontion (Olympia) (Q111523930)
+[https://www.wikidata.org/wiki/Q111523930](https://www.wikidata.org/wiki/Q111523930)  
+
+### alignments:
+ - [Metapontine Treasury at Olympia](https://pleiades.stoa.org/places/638203604)
+
+
 ## Treasury of the Massaliots (Q22936355)
 [https://www.wikidata.org/wiki/Q22936355](https://www.wikidata.org/wiki/Q22936355)  
 
@@ -72682,6 +72731,13 @@
 
 ### alignments:
  - [Trikka](https://pleiades.stoa.org/places/541163)
+
+
+## Triconch Palace at Butrint (Q85836640)
+[https://www.wikidata.org/wiki/Q85836640](https://www.wikidata.org/wiki/Q85836640)  
+
+### alignments:
+ - [Triconch Palace at Butrint](https://pleiades.stoa.org/places/200345143)
 
 
 ## Tridentum (Q3998737)
@@ -73515,6 +73571,13 @@
 
 ### alignments:
  - [Tusculum](https://pleiades.stoa.org/places/423108)
+
+
+## Tusculum amphitheatre (Q28978034)
+[https://www.wikidata.org/wiki/Q28978034](https://www.wikidata.org/wiki/Q28978034)  
+
+### alignments:
+ - [Roman amphitheater at Tusculum](https://pleiades.stoa.org/places/157403317)
 
 
 ## Tushhan (Q4819172)
@@ -75554,6 +75617,13 @@
 
 ### alignments:
  - [Lolli Paolini](https://pleiades.stoa.org/places/422962)
+
+
+## Villa Lucidi (Q134118400)
+[https://www.wikidata.org/wiki/Q134118400](https://www.wikidata.org/wiki/Q134118400)  
+
+### alignments:
+ - [Villa Lucidi](https://pleiades.stoa.org/places/423128)
 
 
 ## Villa Magna (Q7930405)

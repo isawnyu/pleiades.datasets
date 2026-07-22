@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-556 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+557 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2434,6 +2434,13 @@
 
 ### alignments:
  - [Pergamum](https://pleiades.stoa.org/places/550812)
+
+
+## 6.19.11
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.11](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.19.11)  
+
+### alignments:
+ - [Metapontine Treasury at Olympia](https://pleiades.stoa.org/places/638203604)
 
 
 ## 6.19.12

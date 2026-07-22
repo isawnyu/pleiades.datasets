@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1146 alignments exist in _Pleiades_ place references as of 2026-07-21. The following list of alignments is grouped by zotkey.
+1149 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1822,6 +1822,13 @@
  - [Epidamnian Treasury at Olympia](https://pleiades.stoa.org/places/964672520)
 
 
+## 10217938: the Metapontine Treasury (Olympia)
+[https://resource.manto.unh.edu/10217938](https://resource.manto.unh.edu/10217938)  
+
+### alignments:
+ - [Metapontine Treasury at Olympia](https://pleiades.stoa.org/places/638203604)
+
+
 ## 10217941: The Megarian Treasury (Olympia)
 [https://resource.manto.unh.edu/10217941](https://resource.manto.unh.edu/10217941)  
 
@@ -3621,6 +3628,13 @@
  - [Argos Orestikon](https://pleiades.stoa.org/places/481739)
 
 
+## 11307515: Hellopia (N. Greece)
+[https://resource.manto.unh.edu/11307515](https://resource.manto.unh.edu/11307515)  
+
+### alignments:
+ - [(H)Ellopia (Euboea)](https://pleiades.stoa.org/places/540811)
+
+
 ## 11307721: Erymnai (Thessaly)
 [https://resource.manto.unh.edu/11307721](https://resource.manto.unh.edu/11307721)  
 
@@ -5251,6 +5265,13 @@
 
 ### alignments:
  - [Vaticanus Mons](https://pleiades.stoa.org/places/463398874)
+
+
+## 11329879: Amycos (Pontos)
+[https://resource.manto.unh.edu/11329879](https://resource.manto.unh.edu/11329879)  
+
+### alignments:
+ - [Amykos](https://pleiades.stoa.org/places/520957)
 
 
 ## 11329905: the Sanctuary of Venus Cloacina (Rome)
