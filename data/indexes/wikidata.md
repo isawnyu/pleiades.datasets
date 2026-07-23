@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11139 alignments exist in _Pleiades_ place references as of 2026-07-22. The following list of alignments is grouped by zotkey.
+11143 alignments exist in _Pleiades_ place references as of 2026-07-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -15750,6 +15750,13 @@
 
 ### alignments:
  - [Circus Maximus](https://pleiades.stoa.org/places/458808506)
+
+
+## Circus of Bovillae (Q3677502)
+[https://www.wikidata.org/wiki/Q3677502](https://www.wikidata.org/wiki/Q3677502)  
+
+### alignments:
+ - [Circus of Bovillae](https://pleiades.stoa.org/places/554051119)
 
 
 ## Circus of Leptis Magna (Q70772483)
@@ -40682,6 +40689,13 @@
  - [Necropoli Cappella](https://pleiades.stoa.org/places/612646272)
 
 
+## Parco Archeologico di Cocciano (Q140646954)
+[https://www.wikidata.org/wiki/Q140646954](https://www.wikidata.org/wiki/Q140646954)  
+
+### alignments:
+ - [Cocciano](https://pleiades.stoa.org/places/267550313)
+
+
 ## parco sommerso di Baia (Q3895759)
 [https://www.wikidata.org/wiki/Q3895759](https://www.wikidata.org/wiki/Q3895759)  
 
@@ -43096,6 +43110,13 @@
 
 ### alignments:
  - [Ponte Leproso](https://pleiades.stoa.org/places/668784750)
+
+
+## Ponte Loreto (Q140666066)
+[https://www.wikidata.org/wiki/Q140666066](https://www.wikidata.org/wiki/Q140666066)  
+
+### alignments:
+ - [Ponte Loreto](https://pleiades.stoa.org/places/426629)
 
 
 ## Ponte Lupo (Q55162589)
@@ -75806,6 +75827,13 @@
 
 ### alignments:
  - [Neratii](https://pleiades.stoa.org/places/432979)
+
+
+## Villa of the Octavii (Q140666219)
+[https://www.wikidata.org/wiki/Q140666219](https://www.wikidata.org/wiki/Q140666219)  
+
+### alignments:
+ - [Villa of the Octavii](https://pleiades.stoa.org/places/422991)
 
 
 ## Villa of the Sette Bassi (Q4012682)
