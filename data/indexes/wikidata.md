@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11143 alignments exist in _Pleiades_ place references as of 2026-07-23. The following list of alignments is grouped by zotkey.
+11143 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -34366,6 +34366,13 @@
  - [Messapii](https://pleiades.stoa.org/places/442657)
 
 
+## Messene (Q1022117)
+[https://www.wikidata.org/wiki/Q1022117](https://www.wikidata.org/wiki/Q1022117)  
+
+### alignments:
+ - [Messene](https://pleiades.stoa.org/places/570479)
+
+
 ## Messenian Gulf (Q1474634)
 [https://www.wikidata.org/wiki/Q1474634](https://www.wikidata.org/wiki/Q1474634)  
 
@@ -44785,13 +44792,6 @@
  - [Morgantina, House of Ganymede](https://pleiades.stoa.org/places/966917973)
 
 
-## Q1022117: Messene
-[https://www.wikidata.org/wiki/Q1022117](https://www.wikidata.org/wiki/Q1022117)  
-
-### alignments:
- - [Messene](https://pleiades.stoa.org/places/570479)
-
-
 ## Q102355646: Garšana
 [https://www.wikidata.org/wiki/Q102355646](https://www.wikidata.org/wiki/Q102355646)  
 
@@ -48230,13 +48230,6 @@
 
 ### alignments:
  - [Tepe Giyan](https://pleiades.stoa.org/places/609518824)
-
-
-## Q1521344: Rusahinili
-[https://www.wikidata.org/wiki/Q1521344](https://www.wikidata.org/wiki/Q1521344)  
-
-### alignments:
- - [Rusahinili](https://pleiades.stoa.org/places/379202545)
 
 
 ## Q15222052: Grave Circle B, Mycenae
@@ -62246,6 +62239,13 @@
 
 ### alignments:
  - [Rura (river)](https://pleiades.stoa.org/places/109293)
+
+
+## Rusahinili (Q1521344)
+[https://www.wikidata.org/wiki/Q1521344](https://www.wikidata.org/wiki/Q1521344)  
+
+### alignments:
+ - [Rusahinili](https://pleiades.stoa.org/places/379202545)
 
 
 ## Rusellae (Q2860778)

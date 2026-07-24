@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5160 alignments exist in _Pleiades_ place references as of 2026-07-23. The following list of alignments is grouped by zotkey.
+5160 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -387,6 +387,13 @@
 
 ### alignments:
  - [Ialysos](https://pleiades.stoa.org/places/589815)
+
+
+## Geo 1339: Malta
+[https://www.trismegistos.org/place/1339](https://www.trismegistos.org/place/1339)  
+
+### alignments:
+ - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
 
 
 ## Geo 1405: Myrina
@@ -2038,6 +2045,13 @@
  - [Amphipolis/Tourmeda/Nikatoris?](https://pleiades.stoa.org/places/658377)
 
 
+## Geo 42230: Thiltauri (Tell Turin)
+[https://www.trismegistos.org/place/42230](https://www.trismegistos.org/place/42230)  
+
+### alignments:
+ - [Til-Tūri](https://pleiades.stoa.org/places/135544311)
+
+
 ## Geo 42357: Mons (Kasbait)
 [https://www.trismegistos.org/place/42357](https://www.trismegistos.org/place/42357)  
 
@@ -2660,13 +2674,6 @@
 
 ### alignments:
  - [Gela](https://pleiades.stoa.org/places/462214)
-
-
-## Geo 727: Gytheion
-[https://www.trismegistos.org/place/727](https://www.trismegistos.org/place/727)  
-
-### alignments:
- - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
 
 
 ## Geo 7518: Tenedos (Bozcaada)
@@ -4384,13 +4391,6 @@
 
 ### alignments:
  - [Megara](https://pleiades.stoa.org/places/570468)
-
-
-## GEO ID 1339: Malta
-[http://www.trismegistos.org/place/1339](http://www.trismegistos.org/place/1339)  
-
-### alignments:
- - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
 
 
 ## GEO ID 1340: Melitonos Epoikion
@@ -27143,13 +27143,6 @@
  - [Araxes (river)](https://pleiades.stoa.org/places/884118)
 
 
-## GEO ID 42230
-[http://www.trismegistos.org/place/42230](http://www.trismegistos.org/place/42230)  
-
-### alignments:
- - [Til-Tūri](https://pleiades.stoa.org/places/135544311)
-
-
 ## GEO ID 42232: Fines exercitus Syriaticae
 [http://www.trismegistos.org/place/42232](http://www.trismegistos.org/place/42232)  
 
@@ -34765,6 +34758,13 @@
 
 ### alignments:
  - [tribus Velina](https://pleiades.stoa.org/places/67911853)
+
+
+## Geo ID 727: Gytheion
+[https://www.trismegistos.org/place/727](https://www.trismegistos.org/place/727)  
+
+### alignments:
+ - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
 
 
 ## GEO ID 7302: Sykaminos (Tell el-Samak)
