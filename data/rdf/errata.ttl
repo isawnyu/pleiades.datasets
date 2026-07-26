@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/07/19 06:48:28.529824 GMT-4
+# Date: 2026/07/26 06:48:35.069037 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5862
+# Triple count: 5926
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -1273,11 +1273,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1285,11 +1285,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -1437,6 +1437,21 @@
     dcterms:modified "2019-02-02T12:22:10-04:00";
     dcterms:title "Mount Juktas";
     owl:sameAs <http://pleiades.stoa.org/errata/953163789/name.2013-06-13.0932421407> .
+
+<https://pleiades.stoa.org/errata/960271818%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: House of Augustus";
+    spatial:C <https://pleiades.stoa.org/places/257097394%23this>,
+        <https://pleiades.stoa.org/places/423025%23this>,
+        <https://pleiades.stoa.org/places/971691208%23this>;
+    rdfs:comment "Withdrawn because unintentional duplicate of https://pleiades.stoa.org/places/250568480";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/960271818> .
+
+<https://pleiades.stoa.org/errata/960271818/osm-location-of-casa-di-augusto> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap";
+    dcterms:modified "2026-07-21T09:10:38-04:00";
+    dcterms:title "OSM location of Casa di Augusto";
+    owl:sameAs <http://pleiades.stoa.org/errata/960271818/osm-location-of-casa-di-augusto> .
 
 <https://pleiades.stoa.org/errata/972010344%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Roccamonfina (volcano)";
@@ -4110,11 +4125,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ],
+        <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ];
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -4229,10 +4244,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>,
-        [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ];
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ],
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -4352,6 +4367,45 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/mountain>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-mount-juktas>;
     pleiades:hasName <https://pleiades.stoa.org/errata/name.2013-06-13.0932421407> .
+
+<https://pleiades.stoa.org/errata/960271818> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Carandini 2010 ",
+        "Digital Augustan Rome Domus: Augustus",
+        "Iacopi 2006 ",
+        "LTUR II, 116-17, s.v. “Domus: Q. Hortensius” (E. Papi)",
+        "LTUR II, 46-8, s.v. “Domus: Augustus (Palatium),” (I. Iacopi)",
+        "Suet. (Ihm: Packard) Aug. 72.1",
+        "ToposText House of Augustus (Rome)",
+        "Wikidata House of Augustus (Q1590891)",
+        "Wikipedia (English) House of Augustus",
+        "Wiseman 2020 ";
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Withdrawn because unintentional duplicate of https://pleiades.stoa.org/places/250568480";
+    dcterms:modified "2026-07-21T09:10:38-04:00";
+    dcterms:title "Withdrawn: House of Augustus";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/1348/1/0%2360>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q1590891>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/813279761>,
+        <https://en.wikipedia.org/wiki/House_of_Augustus>,
+        <https://press.princeton.edu/books/hardcover/9780691180076/the-house-of-augustus>,
+        <https://topostext.org/place/419125BDAg>,
+        <https://www.digitalaugustanrome.org/records/domus-augustus>,
+        <https://www.zotero.org/groups/pleiades/items/NGCT9MWM>,
+        <https://www.zotero.org/groups/pleiades/items/Z3FRQFA2>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/257097394>,
+        <https://pleiades.stoa.org/places/423025>,
+        <https://pleiades.stoa.org/places/971691208>;
+    owl:sameAs <http://pleiades.stoa.org/errata/960271818>;
+    geo:lat 41.8885678158;
+    geo:long 12.4853427573;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-casa-di-augusto> .
 
 <https://pleiades.stoa.org/errata/972010344> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -5646,6 +5700,18 @@
     pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
     pleiades:end_date 2100;
     pleiades:start_date 1700 .
+
+<https://pleiades.stoa.org/errata/osm-location-of-casa-di-augusto> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[12.4853451, 41.8883581], [12.4854075, 41.8883754], [12.4855343, 41.8884574], [12.4856071, 41.8885355], [12.4854613, 41.8886837], [12.4853549, 41.8887753], [12.4853264, 41.8887819], [12.4853187, 41.8887768], [12.4850574, 41.888603], [12.485178, 41.8885003], [12.4853345, 41.8883671], [12.4853451, 41.8883581]]]}";
+    osgeo:asWKT "POLYGON ((12.4853451000000000 41.8883580999999978, 12.4854075000000009 41.8883754000000010, 12.4855342999999994 41.8884574000000001, 12.4856070999999993 41.8885355000000033, 12.4854613000000008 41.8886837000000014, 12.4853549000000008 41.8887752999999989, 12.4853263999999999 41.8887818999999979, 12.4853187000000005 41.8887768000000023, 12.4850574000000005 41.8886030000000034, 12.4851779999999994 41.8885002999999969, 12.4853345000000004 41.8883671000000035, 12.4853451000000000 41.8883580999999978))";
+    dcterms:bibliographicCitation "OSM Way 132581385";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/132581385>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-casa-di-augusto>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 132581385, version 6, osm:changeset=136024956, 2023-05-12T16:00:25Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/first-bce>,
+        <https://pleiades.stoa.org/vocabularies/first-ce>;
+    pleiades:end_date 99;
+    pleiades:start_date -100 .
 
 <https://pleiades.stoa.org/errata/osm-location-of-chiesa-di-santurbano-alla> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[12.5244248, 41.8578034], [12.5244411, 41.8579179], [12.5242119, 41.8579361], [12.5241956, 41.8578216], [12.5244248, 41.8578034]]]}";
