@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1149 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+1153 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3138,6 +3138,13 @@
  - [Troia](https://pleiades.stoa.org/places/727252)
 
 
+## 11300799: Mount Bagistanos (Persia)
+[https://resource.manto.unh.edu/11300799](https://resource.manto.unh.edu/11300799)  
+
+### alignments:
+ - [Bagistanus (mountain)](https://pleiades.stoa.org/places/902996)
+
+
 ## 11300807: Persia
 [https://resource.manto.unh.edu/11300807](https://resource.manto.unh.edu/11300807)  
 
@@ -4287,6 +4294,13 @@
  - [Cures](https://pleiades.stoa.org/places/413114)
 
 
+## 11313737: Sabina (Italy)
+[https://resource.manto.unh.edu/11313737](https://resource.manto.unh.edu/11313737)  
+
+### alignments:
+ - [Sabina](https://pleiades.stoa.org/places/423028)
+
+
 ## 11313752: Antium (Italy)
 [https://resource.manto.unh.edu/11313752](https://resource.manto.unh.edu/11313752)  
 
@@ -4971,6 +4985,13 @@
 
 ### alignments:
  - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
+
+
+## 11327154: Ecbatana (Media)
+[https://resource.manto.unh.edu/11327154](https://resource.manto.unh.edu/11327154)  
+
+### alignments:
+ - [Ecbatana/Hagmatana/Achmeta/Epiphaneia/Ahmadan](https://pleiades.stoa.org/places/903021)
 
 
 ## 11327157: Mount Orontes (Media)
@@ -6526,6 +6547,13 @@
 
 ### alignments:
  - [Iolkos](https://pleiades.stoa.org/places/540837)
+
+
+## 9356955: Messene (Messenia)
+[https://resource.manto.unh.edu/9356955](https://resource.manto.unh.edu/9356955)  
+
+### alignments:
+ - [Messene](https://pleiades.stoa.org/places/570479)
 
 
 ## 9358724: Croton (Italy)

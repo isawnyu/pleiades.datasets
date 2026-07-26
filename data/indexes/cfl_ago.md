@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-484 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+487 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2634,6 +2634,13 @@
  - [Kyparissia](https://pleiades.stoa.org/places/570397)
 
 
+## Toponyme 37975: Megalopoli-Δ.Δ.Μεγαλοπόλεως
+[https://chronique.efa.gr/?r=topo_public&id=37975](https://chronique.efa.gr/?r=topo_public&id=37975)  
+
+### alignments:
+ - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
 ## Toponyme 37999: Gythio-Δ.Δ.Γυθείου
 [https://chronique.efa.gr/?r=topo_public&id=37999](https://chronique.efa.gr/?r=topo_public&id=37999)  
 
@@ -3069,6 +3076,13 @@
  - [Creta (island)](https://pleiades.stoa.org/places/589748)
 
 
+## Toponyme 6376: Archaia Messini, Ithomis, Mavrommati Ithomis-Δ.Δ.Αρχαίας Μεσσήνης
+[https://chronique.efa.gr/?r=topo_public&id=6376](https://chronique.efa.gr/?r=topo_public&id=6376)  
+
+### alignments:
+ - [Messene](https://pleiades.stoa.org/places/570479)
+
+
 ## Toponyme 6441: Matala
 [https://chronique.efa.gr/?kroute=topo_public&id=6441](https://chronique.efa.gr/?kroute=topo_public&id=6441)  
 
@@ -3362,6 +3376,13 @@
 
 ### alignments:
  - [Metapa](https://pleiades.stoa.org/places/540945)
+
+
+## Toponyme 8584: Messini (ancient), Messène antique-Μεσσήνη (αρχαία)
+[https://chronique.efa.gr/?r=topo_public&id=8584](https://chronique.efa.gr/?r=topo_public&id=8584)  
+
+### alignments:
+ - [Messene](https://pleiades.stoa.org/places/570479)
 
 
 ## Toponyme 858: Apollonas-Απόλλων,ο

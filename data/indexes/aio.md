@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-152 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+153 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -518,7 +518,7 @@
 [https://www.atticinscriptions.com/browse/byfindspot/panakton/](https://www.atticinscriptions.com/browse/byfindspot/panakton/)  
 
 ### alignments:
- - [Panakton](https://pleiades.stoa.org/places/580053)
+ - [Panakton (Attika)](https://pleiades.stoa.org/places/580053)
 
 
 ## Findspot: Panathenaic Stadium
@@ -701,6 +701,13 @@
 
 ### alignments:
  - [Vouliagmeni](https://pleiades.stoa.org/places/580132)
+
+
+## I Eleus. 499
+[https://www.atticinscriptions.com/inscription/IEleus/499](https://www.atticinscriptions.com/inscription/IEleus/499)  
+
+### alignments:
+ - [Greater Propylaia, Eleusis](https://pleiades.stoa.org/places/720770009)
 
 
 ## IG II² 5185

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11143 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+11149 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1493,6 +1493,13 @@
 
 ### alignments:
  - [Gallo-Roman Amphitheater of Agen](https://pleiades.stoa.org/places/555003241)
+
+
+## Ager Capenas (Q140685115)
+[https://www.wikidata.org/wiki/Q140685115](https://www.wikidata.org/wiki/Q140685115)  
+
+### alignments:
+ - [Ager Capenas](https://pleiades.stoa.org/places/448032083)
 
 
 ## Ager Faliscus (Q2827224)
@@ -29078,6 +29085,13 @@
  - [Iberia (ancient region)](https://pleiades.stoa.org/places/863807)
 
 
+## Kingdom of Israel (Q230407)
+[https://www.wikidata.org/wiki/Q230407](https://www.wikidata.org/wiki/Q230407)  
+
+### alignments:
+ - [Israel (kingdom)](https://pleiades.stoa.org/places/14077998)
+
+
 ## Kingdom of Kush (Q241790)
 [https://www.wikidata.org/wiki/Q241790](https://www.wikidata.org/wiki/Q241790)  
 
@@ -33967,7 +33981,7 @@
 
 
 ## Megalopolis (Q36024972)
-[https://referenceworks.brillonline.com/entries/brill-s-new-pauly/megalopolis-e729130](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/megalopolis-e729130)  
+[https://www.wikidata.org/wiki/Q36024972](https://www.wikidata.org/wiki/Q36024972)  
 
 ### alignments:
  - [Megalopolis](https://pleiades.stoa.org/places/570467)
@@ -46863,7 +46877,7 @@
 [https://www.wikidata.org/wiki/Q12882434](https://www.wikidata.org/wiki/Q12882434)  
 
 ### alignments:
- - [Panakton](https://pleiades.stoa.org/places/580053)
+ - [Panakton (Attika)](https://pleiades.stoa.org/places/580053)
 
 
 ## Q12882440: Panormus (Achaea)
@@ -47691,13 +47705,6 @@
 
 ### alignments:
  - [Tabernae circa forum](https://pleiades.stoa.org/places/670131991)
-
-
-## Q13712: Tiber
-[https://www.wikidata.org/wiki/Q13712](https://www.wikidata.org/wiki/Q13712)  
-
-### alignments:
- - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
 
 
 ## Q137219299
@@ -62759,6 +62766,13 @@
  - [Samara Bend](https://pleiades.stoa.org/places/50163782)
 
 
+## Samaria (Q1757438)
+[https://www.wikidata.org/wiki/Q1757438](https://www.wikidata.org/wiki/Q1757438)  
+
+### alignments:
+ - [Samaria/Sebaste](https://pleiades.stoa.org/places/678370)
+
+
 ## Samarkand (Q5753)
 [https://www.wikidata.org/wiki/Q5753](https://www.wikidata.org/wiki/Q5753)  
 
@@ -62813,6 +62827,13 @@
 
 ### alignments:
  - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
+
+
+## Samerina (Q122059046)
+[https://www.wikidata.org/wiki/Q122059046](https://www.wikidata.org/wiki/Q122059046)  
+
+### alignments:
+ - [Samaria (province)](https://pleiades.stoa.org/places/44836840)
 
 
 ## Samhah (Q1807728)
@@ -65271,6 +65292,13 @@
 
 ### alignments:
  - [Shara Temple at Umma](https://pleiades.stoa.org/places/537242705)
+
+
+## Sharon Plain (Q218907)
+[https://www.wikidata.org/wiki/Q218907](https://www.wikidata.org/wiki/Q218907)  
+
+### alignments:
+ - [Sharon plain](https://pleiades.stoa.org/places/465843763)
 
 
 ## Sharpenhoe Clappers (Q31053052)
@@ -70787,6 +70815,13 @@
  - [Tarvenna](https://pleiades.stoa.org/places/109366)
 
 
+## Tiber (Q13712)
+[https://www.wikidata.org/wiki/Q13712](https://www.wikidata.org/wiki/Q13712)  
+
+### alignments:
+ - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
+
+
 ## Tiber Island (Q545404)
 [https://www.wikidata.org/wiki/Q545404](https://www.wikidata.org/wiki/Q545404)  
 
@@ -71107,6 +71142,13 @@
 
 ### alignments:
  - [Tiryns](https://pleiades.stoa.org/places/570740)
+
+
+## Tirzah (Q2002121)
+[https://www.wikidata.org/wiki/Q2002121](https://www.wikidata.org/wiki/Q2002121)  
+
+### alignments:
+ - [Tirzah](https://pleiades.stoa.org/places/589744740)
 
 
 ## Tisavar (Q14612528)

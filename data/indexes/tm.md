@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5160 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+5162 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2169,13 +2169,6 @@
 
 ### alignments:
  - [Velia](https://pleiades.stoa.org/places/157710058)
-
-
-## Geo 43199: Tiberis (Tevere)
-[https://www.trismegistos.org/place/43199](https://www.trismegistos.org/place/43199)  
-
-### alignments:
- - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
 
 
 ## Geo 43333: Ampsaga (Oued el-Kebir)
@@ -11702,6 +11695,13 @@
  - [Mazara](https://pleiades.stoa.org/places/462305)
 
 
+## GEO ID 22318
+[http://www.trismegistos.org/place/22318](http://www.trismegistos.org/place/22318)  
+
+### alignments:
+ - [Philosophiana](https://pleiades.stoa.org/places/462423)
+
+
 ## GEO ID 22319: Morgantina (Serra Orlando)
 [http://www.trismegistos.org/place/22319](http://www.trismegistos.org/place/22319)  
 
@@ -14403,6 +14403,13 @@
 
 ### alignments:
  - [Sumelocenna](https://pleiades.stoa.org/places/118985)
+
+
+## GEO ID 2801: Messene (Mauromati)
+[https://www.trismegistos.org/place/2801](https://www.trismegistos.org/place/2801)  
+
+### alignments:
+ - [Messene](https://pleiades.stoa.org/places/570479)
 
 
 ## GEO ID 2804: Naq'a
@@ -28675,6 +28682,13 @@
 
 ### alignments:
  - [Azimacia](https://pleiades.stoa.org/places/305034)
+
+
+## GEO ID 43199: Tiberis (Tevere)
+[https://www.trismegistos.org/place/43199](https://www.trismegistos.org/place/43199)  
+
+### alignments:
+ - [Tiberis (river)](https://pleiades.stoa.org/places/423080)
 
 
 ## GEO ID 431: Berytos (Beirut)

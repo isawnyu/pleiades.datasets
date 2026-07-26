@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2403 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+2407 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13051,6 +13051,13 @@
  - [Peiraieus/Piraeus](https://pleiades.stoa.org/places/580062)
 
 
+## 7B1 (Talbert 1900)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1900.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1900.html)  
+
+### alignments:
+ - [Megalopolis](https://pleiades.stoa.org/places/570467)
+
+
 ## 7B1 (Talbert 2026)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2026.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2026.html)  
 
@@ -13518,6 +13525,27 @@
 
 ### alignments:
  - [Sparta](https://pleiades.stoa.org/places/570685)
+
+
+## 7C1 (Talbert 1920)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1920.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1920.html)  
+
+### alignments:
+ - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
+
+
+## 7C1 (Talbert 1921)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1921.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1921.html)  
+
+### alignments:
+ - [Asopos](https://pleiades.stoa.org/places/570129)
+
+
+## 7C1 (Talbert 1922)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1922.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1922.html)  
+
+### alignments:
+ - [Boia(i)](https://pleiades.stoa.org/places/570156)
 
 
 ## 7C1 (Talbert 317)

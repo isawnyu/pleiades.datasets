@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5115 alignments exist in _Pleiades_ place references as of 2026-07-24. The following list of alignments is grouped by zotkey.
+5115 alignments exist in _Pleiades_ place references as of 2026-07-26. The following list of alignments is grouped by zotkey.
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -24754,7 +24754,7 @@
 [https://topostext.org/place/382235FPan](https://topostext.org/place/382235FPan)  
 
 ### alignments:
- - [Panakton](https://pleiades.stoa.org/places/580053)
+ - [Panakton (Attika)](https://pleiades.stoa.org/places/580053)
 
 
 ## Panamara sanct. (Caria)
