@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11149 alignments exist in _Pleiades_ place references as of 2026-07-27. The following list of alignments is grouped by zotkey.
+11155 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -17461,6 +17461,13 @@
  - [Cyclopum Scopuli Tres](https://pleiades.stoa.org/places/462179)
 
 
+## Cyllarabis gymnasium at Argos (Q133054612)
+[https://www.wikidata.org/wiki/Q133054612](https://www.wikidata.org/wiki/Q133054612)  
+
+### alignments:
+ - [Cylarabis Gymnasium (Argos)](https://pleiades.stoa.org/places/783324303)
+
+
 ## Cyllene (Q56650616)
 [https://www.wikidata.org/wiki/Q56650616](https://www.wikidata.org/wiki/Q56650616)  
 
@@ -20216,6 +20223,13 @@
  - [Elyros](https://pleiades.stoa.org/places/589775)
 
 
+## Elysium (Q157128)
+[https://www.wikidata.org/wiki/Q157128](https://www.wikidata.org/wiki/Q157128)  
+
+### alignments:
+ - [Elysium](https://pleiades.stoa.org/places/595204977)
+
+
 ## Embatum (Q65070079)
 [https://www.wikidata.org/wiki/Q65070079](https://www.wikidata.org/wiki/Q65070079)  
 
@@ -22876,13 +22890,6 @@
 
 ### alignments:
  - [Gentinos?](https://pleiades.stoa.org/places/550546)
-
-
-## GEO ID 63068: Naro (Neretva)
-[https://www.trismegistos.org/place/63068](https://www.trismegistos.org/place/63068)  
-
-### alignments:
- - [Naro (river)](https://pleiades.stoa.org/places/197399)
 
 
 ## GEO ID Q35958: Bosporus
@@ -30143,6 +30150,13 @@
  - [Labicum](https://pleiades.stoa.org/places/422952)
 
 
+## Labyrinth of Knossos (Q1091243)
+[https://www.wikidata.org/wiki/Q1091243](https://www.wikidata.org/wiki/Q1091243)  
+
+### alignments:
+ - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
+
+
 ## Lacedonia (Q55045)
 [https://www.wikidata.org/wiki/Q55045](https://www.wikidata.org/wiki/Q55045)  
 
@@ -33817,6 +33831,13 @@
 
 ### alignments:
  - [Mausoleum of Theodoric](https://pleiades.stoa.org/places/861709371)
+
+
+## Mausoleum of Tor di Quinto (Rome) (Q62596148)
+[https://www.wikidata.org/wiki/Q62596148](https://www.wikidata.org/wiki/Q62596148)  
+
+### alignments:
+ - [Mausoleum of Tor di Quinto](https://pleiades.stoa.org/places/711000375)
 
 
 ## Mausoleum of Ummidia Quadratilla (Q3852985)
@@ -42893,6 +42914,13 @@
 
 ### alignments:
  - [Pont Julien](https://pleiades.stoa.org/places/149500)
+
+
+## Pont Romà (Q43103827)
+[https://www.wikidata.org/wiki/Q43103827](https://www.wikidata.org/wiki/Q43103827)  
+
+### alignments:
+ - [Pont Romà](https://pleiades.stoa.org/places/439339512)
 
 
 ## Pont'ezzu (Q3907939)
@@ -54978,13 +55006,6 @@
 
 ### alignments:
  - [Navatejera](https://pleiades.stoa.org/places/236560)
-
-
-## Q43103827: Pont Romà
-[https://www.wikidata.org/wiki/Q43103827](https://www.wikidata.org/wiki/Q43103827)  
-
-### alignments:
- - [Pont Romà](https://pleiades.stoa.org/places/439339512)
 
 
 ## Q431470: Civita di Bagnoregio
@@ -67213,6 +67234,13 @@
  - [Styx (river)](https://pleiades.stoa.org/places/570698)
 
 
+## Styx (Q8843276)
+[https://www.wikidata.org/wiki/Q8843276](https://www.wikidata.org/wiki/Q8843276)  
+
+### alignments:
+ - [Styx (mythological river)](https://pleiades.stoa.org/places/891819985)
+
+
 ## Su Fraigu Punic necropolis (Q139290214)
 [https://www.wikidata.org/wiki/Q139290214](https://www.wikidata.org/wiki/Q139290214)  
 
@@ -68044,6 +68072,13 @@
 
 ### alignments:
  - [Tarrenz](https://pleiades.stoa.org/places/187569)
+
+
+## Tartarus (Q101322)
+[https://www.wikidata.org/wiki/Q101322](https://www.wikidata.org/wiki/Q101322)  
+
+### alignments:
+ - [Tartarus (Underworld)](https://pleiades.stoa.org/places/595204976)
 
 
 ## Tartessos (Q320416)
@@ -76934,6 +76969,13 @@
 
 ### alignments:
  - [Watling Lodge](https://pleiades.stoa.org/places/77301056)
+
+
+## Well of Junia Rufina (Q140650323)
+[https://www.wikidata.org/wiki/Q140650323](https://www.wikidata.org/wiki/Q140650323)  
+
+### alignments:
+ - [Junia Rufina's Well](https://pleiades.stoa.org/places/616395377)
 
 
 ## Welwyn Roman Baths (Q7982152)

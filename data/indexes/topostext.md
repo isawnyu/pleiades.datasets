@@ -1,5 +1,12 @@
 # _Pleiades_ alignments with ToposText
-5115 alignments exist in _Pleiades_ place references as of 2026-07-27. The following list of alignments is grouped by zotkey.
+5119 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
+
+## 000000GEly
+[https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
+
+### alignments:
+ - [Elysium](https://pleiades.stoa.org/places/595204977)
+
 
 ## 17479
 [https://topostext.org/people/17479](https://topostext.org/people/17479)  
@@ -62,6 +69,20 @@
 
 ### alignments:
  - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
+
+
+## 306
+[https://topostext.org/people/306](https://topostext.org/people/306)  
+
+### alignments:
+ - [Tartarus (Underworld)](https://pleiades.stoa.org/places/595204976)
+
+
+## 351249CLab
+[https://topostext.org/place/351249CLab](https://topostext.org/place/351249CLab)  
+
+### alignments:
+ - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
 
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
@@ -140,6 +161,13 @@
 
 ### alignments:
  - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
+
+
+## 376227BKyG
+[https://topostext.org/place/376227BKyG](https://topostext.org/place/376227BKyG)  
+
+### alignments:
+ - [Cylarabis Gymnasium (Argos)](https://pleiades.stoa.org/places/783324303)
 
 
 ## 377228FPyr: Pyrgouthi tower (Argolid) Prosymna - Πύργουθι

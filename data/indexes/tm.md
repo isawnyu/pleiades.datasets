@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5162 alignments exist in _Pleiades_ place references as of 2026-07-27. The following list of alignments is grouped by zotkey.
+5163 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2639,6 +2639,13 @@
 
 ### alignments:
  - [Teumessos](https://pleiades.stoa.org/places/541133)
+
+
+## Geo 63068: Naro (Neretva)
+[https://www.trismegistos.org/place/63068](https://www.trismegistos.org/place/63068)  
+
+### alignments:
+ - [Naro (river)](https://pleiades.stoa.org/places/197399)
 
 
 ## Geo 635: Elam

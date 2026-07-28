@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-557 alignments exist in _Pleiades_ place references as of 2026-07-27. The following list of alignments is grouped by zotkey.
+561 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -176,6 +176,13 @@
 
 ### alignments:
  - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
+
+
+## 1.27.10
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.27.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.27.10)  
+
+### alignments:
+ - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
 
 
 ## 1.27.3
@@ -1030,6 +1037,13 @@
 
 ### alignments:
  - [Kephisos (river)](https://pleiades.stoa.org/places/573283)
+
+
+## 2.22.9
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.22.9](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.22.9)  
+
+### alignments:
+ - [Cylarabis Gymnasium (Argos)](https://pleiades.stoa.org/places/783324303)
 
 
 ## 2.23.5
@@ -3048,6 +3062,14 @@
 
 ### alignments:
  - [Nonakris](https://pleiades.stoa.org/places/570510)
+ - [Styx (mythological river)](https://pleiades.stoa.org/places/891819985)
+
+
+## 8.18.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.18.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.18.1)  
+
+### alignments:
+ - [Styx (mythological river)](https://pleiades.stoa.org/places/891819985)
 
 
 ## 8.18.7
@@ -3744,6 +3766,13 @@
 
 ### alignments:
  - [Aphrodite Golgia](https://pleiades.stoa.org/places/707470)
+
+
+## 8.53.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.53.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.53.5)  
+
+### alignments:
+ - [Elysium](https://pleiades.stoa.org/places/595204977)
 
 
 ## 8.53

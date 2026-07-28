@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1153 alignments exist in _Pleiades_ place references as of 2026-07-27. The following list of alignments is grouped by zotkey.
+1159 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -959,6 +959,13 @@
 
 ### alignments:
  - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
+
+
+## 10151497: the Temple of Apollo Delphinios at Athens
+[https://resource.manto.unh.edu/10151497](https://resource.manto.unh.edu/10151497)  
+
+### alignments:
+ - [Delphinion](https://pleiades.stoa.org/places/585725955)
 
 
 ## 10151508: The Sanctuary of Apollo Lyceios (Athens)
@@ -2751,6 +2758,13 @@
 
 ### alignments:
  - [Temple of Aphrodite on the Acrocorinth](https://pleiades.stoa.org/places/516817907)
+
+
+## 11289092: the Gymnasium of Cylarabis at Argos
+[https://resource.manto.unh.edu/11289092](https://resource.manto.unh.edu/11289092)  
+
+### alignments:
+ - [Cylarabis Gymnasium (Argos)](https://pleiades.stoa.org/places/783324303)
 
 
 ## 11289217: the Sanctuary of Diana Nemorensis at Aricia (Italy)
@@ -5435,6 +5449,13 @@
  - [Charybdis](https://pleiades.stoa.org/places/462157)
 
 
+## 8188232: the Elysian Fields
+[https://resource.manto.unh.edu/8188232](https://resource.manto.unh.edu/8188232)  
+
+### alignments:
+ - [Elysium](https://pleiades.stoa.org/places/595204977)
+
+
 ## 8188810: Crommyon (Argolid)
 [https://resource.manto.unh.edu/8188810](https://resource.manto.unh.edu/8188810)  
 
@@ -5531,6 +5552,20 @@
 
 ### alignments:
  - [Symplegades/Kyaneai (islands)](https://pleiades.stoa.org/places/521160)
+
+
+## 8190061: Tartaros
+[https://resource.manto.unh.edu/8190061](https://resource.manto.unh.edu/8190061)  
+
+### alignments:
+ - [Tartarus (Underworld)](https://pleiades.stoa.org/places/595204976)
+
+
+## 8190204: the Labyrinth (Knossos)
+[https://resource.manto.unh.edu/8190204](https://resource.manto.unh.edu/8190204)  
+
+### alignments:
+ - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
 
 
 ## 8190499: The Areiopagos (Athens)
@@ -6421,6 +6456,13 @@
 
 ### alignments:
  - [Gortyn(a)](https://pleiades.stoa.org/places/589796)
+
+
+## 8358903: River Styx (Underworld)
+[https://resource.manto.unh.edu/8358903](https://resource.manto.unh.edu/8358903)  
+
+### alignments:
+ - [Styx (mythological river)](https://pleiades.stoa.org/places/891819985)
 
 
 ## 8358998: Pieria (N. Greece)
