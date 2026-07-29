@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5163 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
+5164 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1006,6 +1006,13 @@
 
 ### alignments:
  - [*Ausancalio](https://pleiades.stoa.org/places/197150)
+
+
+## Geo 29869: Alyke
+[https://www.trismegistos.org/place/29869](https://www.trismegistos.org/place/29869)  
+
+### alignments:
+ - [Alyke (settlement)](https://pleiades.stoa.org/places/501346)
 
 
 ## Geo 29885: Gazoros (Hagios Athanasios)

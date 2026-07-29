@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5119 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
+5119 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -2347,7 +2347,7 @@
 [https://topostext.org/place/406247UAly](https://topostext.org/place/406247UAly)  
 
 ### alignments:
- - [Alyke](https://pleiades.stoa.org/places/501346)
+ - [Alyke (settlement)](https://pleiades.stoa.org/places/501346)
 
 
 ## Alyzeia (Akarnania)

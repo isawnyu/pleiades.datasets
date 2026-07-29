@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11155 alignments exist in _Pleiades_ place references as of 2026-07-28. The following list of alignments is grouped by zotkey.
+11158 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5492,6 +5492,13 @@
 
 ### alignments:
  - [Marialba Paleochristian Basilica](https://pleiades.stoa.org/places/411491820)
+
+
+## Archaeological site of Aliki (Q38279937)
+[https://www.wikidata.org/wiki/Q38279937](https://www.wikidata.org/wiki/Q38279937)  
+
+### alignments:
+ - [Alyke (settlement)](https://pleiades.stoa.org/places/501346)
 
 
 ## Archaeological site of Cabeço do Vouga (Q10276240)
@@ -33082,6 +33089,13 @@
 
 ### alignments:
  - [Malling](https://pleiades.stoa.org/places/89241)
+
+
+## Mallorca (Q8828)
+[https://www.wikidata.org/wiki/Q8828](https://www.wikidata.org/wiki/Q8828)  
+
+### alignments:
+ - [Majorca (island)](https://pleiades.stoa.org/places/632227173)
 
 
 ## Mallus (Q1425353)
@@ -76247,6 +76261,13 @@
 
 ### alignments:
  - [Villar de don Pardo](https://pleiades.stoa.org/places/716077481)
+
+
+## Vil·la romana de Can Sent-romà (Q11954825)
+[https://www.wikidata.org/wiki/Q11954825](https://www.wikidata.org/wiki/Q11954825)  
+
+### alignments:
+ - [Untitled](https://pleiades.stoa.org/places/250014)
 
 
 ## Vil·la romana de Sant Amanç (Q106117107)
