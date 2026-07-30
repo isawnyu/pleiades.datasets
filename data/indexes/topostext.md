@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5119 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
+5121 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -8731,6 +8731,13 @@
  - [Contrebia (Belaisca)](https://pleiades.stoa.org/places/246355)
 
 
+## Contributa Iulia Ugultunia (Iberia)
+[https://topostext.org/place/383000UCon](https://topostext.org/place/383000UCon)  
+
+### alignments:
+ - [Contributa Iulia Ugultunia](https://pleiades.stoa.org/places/256126)
+
+
 ## Copais lake (Boeotia)
 [https://topostext.org/place/384231WCop](https://topostext.org/place/384231WCop)  
 
@@ -8981,6 +8988,13 @@
 
 ### alignments:
  - [Curia Iulia](https://pleiades.stoa.org/places/837078212)
+
+
+## Curicta (Dalmatia)
+[https://topostext.org/place/451146ICur](https://topostext.org/place/451146ICur)  
+
+### alignments:
+ - [Curicta (island)](https://pleiades.stoa.org/places/197234)
 
 
 ## Cyclades region (Aegean)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11158 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
+11166 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5464,6 +5464,13 @@
 
 ### alignments:
  - [Roman villa of Torre di Pordenone](https://pleiades.stoa.org/places/125510816)
+
+
+## Archaeological Museum of São Miguel de Odrinhas (Q10365475)
+[https://www.wikidata.org/wiki/Q10365475](https://www.wikidata.org/wiki/Q10365475)  
+
+### alignments:
+ - [S. Miguel de Odrinhas](https://pleiades.stoa.org/places/256430)
 
 
 ## Archaeological park of Posillipo (Q3575454)
@@ -16711,6 +16718,13 @@
  - [Contra Aginnum](https://pleiades.stoa.org/places/108905)
 
 
+## Contributa Iulia (Q130417050)
+[https://www.wikidata.org/wiki/Q130417050](https://www.wikidata.org/wiki/Q130417050)  
+
+### alignments:
+ - [Contributa Iulia Ugultunia](https://pleiades.stoa.org/places/256126)
+
+
 ## conventus Astigitanus (Q136039463)
 [https://www.wikidata.org/wiki/Q136039463](https://www.wikidata.org/wiki/Q136039463)  
 
@@ -27144,6 +27158,13 @@
  - [Iresiae](https://pleiades.stoa.org/places/543735)
 
 
+## Irippo (Q111536309)
+[https://www.wikidata.org/wiki/Q111536309](https://www.wikidata.org/wiki/Q111536309)  
+
+### alignments:
+ - [Irippo?/Serippo?](https://pleiades.stoa.org/places/256229)
+
+
 ## Irish Sea (Q41735)
 [https://www.wikidata.org/wiki/Q41735](https://www.wikidata.org/wiki/Q41735)  
 
@@ -29083,6 +29104,13 @@
 
 ### alignments:
  - [Kindsbach](https://pleiades.stoa.org/places/109082)
+
+
+## King Street Roman fort, Harbutt's Field (Q17649387)
+[http://www.wikidata.org/entity/Q17649387](http://www.wikidata.org/entity/Q17649387)  
+
+### alignments:
+ - [Middlewich Roman fort](https://pleiades.stoa.org/places/929059942)
 
 
 ## Kingdom of Dardania (Q11916620)
@@ -32598,6 +32626,7 @@
 
 ### alignments:
  - [Accu Sa Pira Nuraghe](https://pleiades.stoa.org/places/565559821)
+ - [Aphetai?](https://pleiades.stoa.org/places/540645)
  - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
  - [Eduranna](https://pleiades.stoa.org/places/175425813)
@@ -41018,6 +41047,13 @@
  - [Patronus tomb](https://pleiades.stoa.org/places/52737372)
 
 
+## Paulenca (Q6067426)
+[https://www.wikidata.org/wiki/Q6067426](https://www.wikidata.org/wiki/Q6067426)  
+
+### alignments:
+ - [Paulenca](https://pleiades.stoa.org/places/266000)
+
+
 ## Pauli Stincus (Q131529181)
 [https://www.wikidata.org/wiki/Q131529181](https://www.wikidata.org/wiki/Q131529181)  
 
@@ -45035,13 +45071,6 @@
 
 ### alignments:
  - [Oppius Mons](https://pleiades.stoa.org/places/91325207)
-
-
-## Q10365475: Archaeological Museum of São Miguel de Odrinhas
-[https://www.wikidata.org/wiki/Q10365475](https://www.wikidata.org/wiki/Q10365475)  
-
-### alignments:
- - [S. Miguel de Odrinhas](https://pleiades.stoa.org/places/256430)
 
 
 ## Q10378966: Delphi Theater
@@ -56220,13 +56249,6 @@
  - [Roman bath at Alange](https://pleiades.stoa.org/places/386745968)
 
 
-## Q572191: Volturno
-[https://www.wikidata.org/wiki/Q572191](https://www.wikidata.org/wiki/Q572191)  
-
-### alignments:
- - [Volturnus (river)](https://pleiades.stoa.org/places/433211)
-
-
 ## Q57357: Hadrian's Wall
 [https://www.wikidata.org/wiki/Q57357](https://www.wikidata.org/wiki/Q57357)  
 
@@ -61422,6 +61444,13 @@
  - [Theater at Segobriga](https://pleiades.stoa.org/places/980746932)
 
 
+## Roman theater of Singilia Barba (Q140765500)
+[https://www.wikidata.org/wiki/Q140765500](https://www.wikidata.org/wiki/Q140765500)  
+
+### alignments:
+ - [Roman theater, Singilia Barba](https://pleiades.stoa.org/places/448119705)
+
+
 ## Roman Theater of Tipasa (Q129992260)
 [https://www.wikidata.org/wiki/Q129992260](https://www.wikidata.org/wiki/Q129992260)  
 
@@ -63284,6 +63313,13 @@
  - [S. Valentino Torio](https://pleiades.stoa.org/places/433098)
 
 
+## San Vincenzo al Volturno abbey (Q2425141)
+[https://www.wikidata.org/wiki/Q2425141](https://www.wikidata.org/wiki/Q2425141)  
+
+### alignments:
+ - [S. Vincenzo al Volturno](https://pleiades.stoa.org/places/433099)
+
+
 ## San Vitale (Q1579529)
 [https://www.wikidata.org/wiki/Q1579529](https://www.wikidata.org/wiki/Q1579529)  
 
@@ -64738,6 +64774,20 @@
 
 ### alignments:
  - [Segesta/Egesta](https://pleiades.stoa.org/places/462487)
+
+
+## Segida (Q140761943)
+[https://www.wikidata.org/wiki/Q140761943](https://www.wikidata.org/wiki/Q140761943)  
+
+### alignments:
+ - [Segida](https://pleiades.stoa.org/places/256439)
+
+
+## Segida Augurina (Q140761926)
+[https://www.wikidata.org/wiki/Q140761926](https://www.wikidata.org/wiki/Q140761926)  
+
+### alignments:
+ - [Segida](https://pleiades.stoa.org/places/256440)
 
 
 ## Segre (Q23145)
@@ -76556,6 +76606,13 @@
 
 ### alignments:
  - [Hasta](https://pleiades.stoa.org/places/383670)
+
+
+## Volturno (Q572191)
+[https://www.wikidata.org/wiki/Q572191](https://www.wikidata.org/wiki/Q572191)  
+
+### alignments:
+ - [Volturnus (river)](https://pleiades.stoa.org/places/433211)
 
 
 ## Volubilis (Q391215)

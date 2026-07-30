@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5164 alignments exist in _Pleiades_ place references as of 2026-07-29. The following list of alignments is grouped by zotkey.
+5166 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -13383,6 +13383,13 @@
  - [Ulia (Fidentia)](https://pleiades.stoa.org/places/256499)
 
 
+## GEO ID 26050: Segida Augurina (Palma del Río)
+[https://www.trismegistos.org/place/26050](https://www.trismegistos.org/place/26050)  
+
+### alignments:
+ - [Segida](https://pleiades.stoa.org/places/256440)
+
+
 ## GEO ID 26085: Acci Vetus (Iznalloz)
 [http://www.trismegistos.org/place/26085](http://www.trismegistos.org/place/26085)  
 
@@ -13598,6 +13605,13 @@
 
 ### alignments:
  - [Contributa Iulia Ugultunia](https://pleiades.stoa.org/places/256126)
+
+
+## GEO ID 26331: Segida (Zafra)
+[https://www.trismegistos.org/place/26331](https://www.trismegistos.org/place/26331)  
+
+### alignments:
+ - [Segida](https://pleiades.stoa.org/places/256439)
 
 
 ## GEO ID 2633
