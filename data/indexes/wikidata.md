@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11166 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
+11178 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2509,6 +2509,13 @@
 
 ### alignments:
  - [Asinius (river)](https://pleiades.stoa.org/places/462103)
+
+
+## Alcantarilla Bridge (Q64848313)
+[https://www.wikidata.org/wiki/Q64848313](https://www.wikidata.org/wiki/Q64848313)  
+
+### alignments:
+ - [Alcantarilla Bridge](https://pleiades.stoa.org/places/526519400)
 
 
 ## Alcazaba of Mérida (Q2832102)
@@ -11502,6 +11509,13 @@
  - [Caieta](https://pleiades.stoa.org/places/432734)
 
 
+## Cala Morell Settlement (Q927907)
+[https://www.wikidata.org/wiki/Q927907](https://www.wikidata.org/wiki/Q927907)  
+
+### alignments:
+ - [El Coll De Cala Morell](https://pleiades.stoa.org/places/18611184)
+
+
 ## Calabria (Q1458)
 [https://www.wikidata.org/wiki/Q1458](https://www.wikidata.org/wiki/Q1458)  
 
@@ -14657,6 +14671,13 @@
 
 ### alignments:
  - [Aquilo (river)](https://pleiades.stoa.org/places/442470)
+
+
+## Celsa (Q5760255)
+[https://www.wikidata.org/wiki/Q5760255](https://www.wikidata.org/wiki/Q5760255)  
+
+### alignments:
+ - [Celsa/Col. Victrix Iulia Lepida](https://pleiades.stoa.org/places/246321)
 
 
 ## Celtic circular wall of Otzenhausen (Q1412838)
@@ -19758,6 +19779,13 @@
 
 ### alignments:
  - [Edessa (Macedonia)](https://pleiades.stoa.org/places/491585)
+
+
+## Edeta (Q6081033)
+[https://www.wikidata.org/wiki/Q6081033](https://www.wikidata.org/wiki/Q6081033)  
+
+### alignments:
+ - [Edeta/Leiria](https://pleiades.stoa.org/places/265887)
 
 
 ## Edin's Hall Broch (Q1284794)
@@ -26484,6 +26512,13 @@
 
 ### alignments:
  - [Tomb of the Volumnii and Palazzone necropolis](https://pleiades.stoa.org/places/851023495)
+
+
+## hypogeum of Torre del Ram (Q1641338)
+[https://www.wikidata.org/wiki/Q1641338](https://www.wikidata.org/wiki/Q1641338)  
+
+### alignments:
+ - [Hypogeum of Torre del Ram](https://pleiades.stoa.org/places/676585718)
 
 
 ## Hypogeum of via Livenza (Q3801615)
@@ -37225,6 +37260,13 @@
  - [Naveta of Sa Torreta](https://pleiades.stoa.org/places/835076165)
 
 
+## Naveta de Son Morell de Dalt (Q43106602)
+[https://www.wikidata.org/wiki/Q43106602](https://www.wikidata.org/wiki/Q43106602)  
+
+### alignments:
+ - [Naveta de Son Morell de Dalt](https://pleiades.stoa.org/places/699043944)
+
+
 ## Navia (Q14526)
 [https://www.wikidata.org/wiki/Q14526](https://www.wikidata.org/wiki/Q14526)  
 
@@ -37517,6 +37559,13 @@
 
 ### alignments:
  - [Necropolis of Su Crucifissu Mannu](https://pleiades.stoa.org/places/307125124)
+
+
+## Necròpolis de Cala Morell (Q59336710)
+[https://www.wikidata.org/wiki/Q59336710](https://www.wikidata.org/wiki/Q59336710)  
+
+### alignments:
+ - [Cala Morell Necropolis](https://pleiades.stoa.org/places/6893636)
 
 
 ## Necrópolis de Los Villares (Q6039303)
@@ -41933,7 +41982,14 @@
 [https://www.wikidata.org/wiki/Q781463](https://www.wikidata.org/wiki/Q781463)  
 
 ### alignments:
- - [Phoinike](https://pleiades.stoa.org/places/531061)
+ - [Phoinike/Finiq](https://pleiades.stoa.org/places/531061)
+
+
+## Phoenice II (Q11921789)
+[https://www.wikidata.org/wiki/Q11921789](https://www.wikidata.org/wiki/Q11921789)  
+
+### alignments:
+ - [Phoinike Libanesia](https://pleiades.stoa.org/places/1001938)
 
 
 ## Phoenicia (Q41642)
@@ -63740,6 +63796,13 @@
  - [Basilica di Santa Balbina all'Aventino](https://pleiades.stoa.org/places/356557088)
 
 
+## Santa Catalina Basilica, Mérida (Q64850516)
+[https://www.wikidata.org/wiki/Q64850516](https://www.wikidata.org/wiki/Q64850516)  
+
+### alignments:
+ - [Xenodoquio](https://pleiades.stoa.org/places/614311138)
+
+
 ## Santa Cecilia in Trastevere (Q1479873)
 [https://www.wikidata.org/wiki/Q1479873](https://www.wikidata.org/wiki/Q1479873)  
 
@@ -73504,6 +73567,13 @@
  - [Turduli](https://pleiades.stoa.org/places/256489)
 
 
+## Turia (Q20118)
+[https://www.wikidata.org/wiki/Q20118](https://www.wikidata.org/wiki/Q20118)  
+
+### alignments:
+ - [Turia (river)](https://pleiades.stoa.org/places/266076)
+
+
 ## Turmanin (Q1183365)
 [https://www.wikidata.org/wiki/Q1183365](https://www.wikidata.org/wiki/Q1183365)  
 
@@ -73698,13 +73768,6 @@
 
 ### alignments:
  - [Turublum Minus](https://pleiades.stoa.org/places/472036)
-
-
-## Turía River (Q2460771)
-[https://www.wikidata.org/wiki/Q2460771](https://www.wikidata.org/wiki/Q2460771)  
-
-### alignments:
- - [Turia (river)](https://pleiades.stoa.org/places/266076)
 
 
 ## Turóbriga (Q97628509)
@@ -74386,6 +74449,13 @@
  - [Valentia](https://pleiades.stoa.org/places/266090)
 
 
+## Valeria (Q6158926)
+[https://www.wikidata.org/wiki/Q6158926](https://www.wikidata.org/wiki/Q6158926)  
+
+### alignments:
+ - [Valeria](https://pleiades.stoa.org/places/266092)
+
+
 ## Valesio (Q4007937)
 [https://www.wikidata.org/wiki/Q4007937](https://www.wikidata.org/wiki/Q4007937)  
 
@@ -75056,6 +75126,13 @@
 
 ### alignments:
  - [Via Ardeatina](https://pleiades.stoa.org/places/587835546)
+
+
+## Via Augusta (Q1241197)
+[https://www.wikidata.org/wiki/Q1241197](https://www.wikidata.org/wiki/Q1241197)  
+
+### alignments:
+ - [Via Augusta](https://pleiades.stoa.org/places/803793619)
 
 
 ## Via Aurelia (Q756816)
@@ -76317,7 +76394,7 @@
 [https://www.wikidata.org/wiki/Q11954825](https://www.wikidata.org/wiki/Q11954825)  
 
 ### alignments:
- - [Untitled](https://pleiades.stoa.org/places/250014)
+ - [Can Sentromà (villa)](https://pleiades.stoa.org/places/250014)
 
 
 ## Vil·la romana de Sant Amanç (Q106117107)
@@ -78125,6 +78202,13 @@
 
 ### alignments:
  - [Sena (island)](https://pleiades.stoa.org/places/69569)
+
+
+## île Sainte-Marguerite (Q1369366)
+[https://www.wikidata.org/wiki/Q1369366](https://www.wikidata.org/wiki/Q1369366)  
+
+### alignments:
+ - [Lero (island)](https://pleiades.stoa.org/places/157874)
 
 
 ## Îles d'Hyères (Q292728)

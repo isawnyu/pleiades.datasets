@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5166 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
+5169 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7497,7 +7497,7 @@
 [http://www.trismegistos.org/place/15799](http://www.trismegistos.org/place/15799)  
 
 ### alignments:
- - [Phoinike](https://pleiades.stoa.org/places/531061)
+ - [Phoinike/Finiq](https://pleiades.stoa.org/places/531061)
 
 
 ## GEO ID 15801: Amantia (Ploçë)
@@ -27326,6 +27326,13 @@
  - [Planasia/Lerina (island)](https://pleiades.stoa.org/places/157906)
 
 
+## GEO ID 42349
+[https://www.trismegistos.org/place/42349](https://www.trismegistos.org/place/42349)  
+
+### alignments:
+ - [Lero (island)](https://pleiades.stoa.org/places/157874)
+
+
 ## GEO ID 42351: Umbranici
 [https://www.trismegistos.org/place/42351](https://www.trismegistos.org/place/42351)  
 
@@ -28654,6 +28661,13 @@
 
 ### alignments:
  - [Zeugma](https://pleiades.stoa.org/places/658636)
+
+
+## GEO ID 43126
+[https://www.trismegistos.org/place/43126](https://www.trismegistos.org/place/43126)  
+
+### alignments:
+ - [Via Augusta](https://pleiades.stoa.org/places/803793619)
 
 
 ## GEO ID 43135: Via Clodia
@@ -30875,6 +30889,13 @@
 
 ### alignments:
  - [Internum Mare](https://pleiades.stoa.org/places/1043)
+
+
+## GEO ID 47795
+[http://www.trismegistos.org/place/47795](http://www.trismegistos.org/place/47795)  
+
+### alignments:
+ - [Phoinike Libanesia](https://pleiades.stoa.org/places/1001938)
 
 
 ## GEO ID 47799: Propontis (Sea of Marmara)
@@ -33715,7 +33736,7 @@
  - [Panormos (Epirus)](https://pleiades.stoa.org/places/481944)
 
 
-## Geo ID 61119
+## GEO ID 61119
 [https://www.trismegistos.org/place/61119](https://www.trismegistos.org/place/61119)  
 
 ### alignments:

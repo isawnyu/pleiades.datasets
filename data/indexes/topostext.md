@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5121 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
+5124 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -14422,7 +14422,7 @@
 [https://topostext.org/place/435160LHyl](https://topostext.org/place/435160LHyl)  
 
 ### alignments:
- - [Hyllis Pr.](https://pleiades.stoa.org/places/197309)
+ - [Hyllis/Diomedis (promontory)](https://pleiades.stoa.org/places/197309)
 
 
 ## Hymettos Mt. (Athens)
@@ -15369,6 +15369,13 @@
 
 ### alignments:
  - [Iulium Carnicum](https://pleiades.stoa.org/places/187430)
+
+
+## Iuncaria (Tarraconensis)
+[https://topostext.org/place/423030UIun](https://topostext.org/place/423030UIun)  
+
+### alignments:
+ - [Iuncaria](https://pleiades.stoa.org/places/246449)
 
 
 ## Iuvanum (Italia) Fonticelle
@@ -26465,7 +26472,7 @@
 [https://topostext.org/place/399201UPho](https://topostext.org/place/399201UPho)  
 
 ### alignments:
- - [Phoinike](https://pleiades.stoa.org/places/531061)
+ - [Phoinike/Finiq](https://pleiades.stoa.org/places/531061)
 
 
 ## Phoinikous (Kythera)
@@ -34739,6 +34746,13 @@
  - [Valentia](https://pleiades.stoa.org/places/266090)
 
 
+## Valeria (Iberia)
+[https://topostext.org/place/398000UVal](https://topostext.org/place/398000UVal)  
+
+### alignments:
+ - [Valeria](https://pleiades.stoa.org/places/266092)
+
+
 ## Vapheio (Lakonia)
 [https://topostext.org/place/370225GVap](https://topostext.org/place/370225GVap)  
 
@@ -34884,6 +34898,13 @@
 
 ### alignments:
  - [Veldidena](https://pleiades.stoa.org/places/187608)
+
+
+## Veleia (Iberia)
+[https://topostext.org/place/428-28UVel](https://topostext.org/place/428-28UVel)  
+
+### alignments:
+ - [Bele(g)ia/Veleia](https://pleiades.stoa.org/places/246232)
 
 
 ## Veleia (Italy)

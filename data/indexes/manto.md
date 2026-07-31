@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1159 alignments exist in _Pleiades_ place references as of 2026-07-30. The following list of alignments is grouped by zotkey.
+1162 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3951,6 +3951,13 @@
  - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
 
 
+## 11310299: Leron (island)
+[https://resource.manto.unh.edu/11310299](https://resource.manto.unh.edu/11310299)  
+
+### alignments:
+ - [Lero (island)](https://pleiades.stoa.org/places/157874)
+
+
 ## 11310305: Monoicos Harbor (Gaul)
 [https://resource.manto.unh.edu/11310305](https://resource.manto.unh.edu/11310305)  
 
@@ -4432,6 +4439,13 @@
 
 ### alignments:
  - [Klete](https://pleiades.stoa.org/places/456078)
+
+
+## 11315201: River Aias (Epeiros)
+[https://resource.manto.unh.edu/11315201](https://resource.manto.unh.edu/11315201)  
+
+### alignments:
+ - [Aous (river)](https://pleiades.stoa.org/places/481726)
 
 
 ## 11315307: Rhaicalos (Chalcidice)
@@ -5222,7 +5236,7 @@
 [https://resource.manto.unh.edu/11329528](https://resource.manto.unh.edu/11329528)  
 
 ### alignments:
- - [Hyllis Pr.](https://pleiades.stoa.org/places/197309)
+ - [Hyllis/Diomedis (promontory)](https://pleiades.stoa.org/places/197309)
 
 
 ## 11329531: Colchinium (Illyria)
@@ -6631,6 +6645,13 @@
 
 ### alignments:
  - [Melos (island)](https://pleiades.stoa.org/places/570475)
+
+
+## 9358744: Apollonia (Illyria)
+[https://resource.manto.unh.edu/9358744](https://resource.manto.unh.edu/9358744)  
+
+### alignments:
+ - [Apollonia](https://pleiades.stoa.org/places/481728)
 
 
 ## 9358745: Epeiros (region in northern Greece)
