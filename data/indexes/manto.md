@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1162 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
+1163 alignments exist in _Pleiades_ place references as of 2026-08-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -5412,6 +5412,13 @@
 
 ### alignments:
  - [Hyria (Cilicia)](https://pleiades.stoa.org/places/458576716)
+
+
+## 11331782: the Janiculum (Rome)
+[https://resource.manto.unh.edu/11331782](https://resource.manto.unh.edu/11331782)  
+
+### alignments:
+ - [Janiculum](https://pleiades.stoa.org/places/430827518)
 
 
 ## 11332172: Tauromenium (Sicily)

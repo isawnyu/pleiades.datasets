@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5124 alignments exist in _Pleiades_ place references as of 2026-07-31. The following list of alignments is grouped by zotkey.
+5125 alignments exist in _Pleiades_ place references as of 2026-08-01. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -3986,6 +3986,13 @@
 
 ### alignments:
  - [Apulia](https://pleiades.stoa.org/places/442469)
+
+
+## Aqua Alsietina (Italia)
+[https://topostext.org/place/421123BAqu](https://topostext.org/place/421123BAqu)  
+
+### alignments:
+ - [Aqua Alsietina](https://pleiades.stoa.org/places/423558)
 
 
 ## Aqua Anio Novus (Rome
