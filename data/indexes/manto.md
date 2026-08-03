@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1163 alignments exist in _Pleiades_ place references as of 2026-08-01. The following list of alignments is grouped by zotkey.
+1164 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -5454,6 +5454,13 @@
 
 ### alignments:
  - [Alsium](https://pleiades.stoa.org/places/422831)
+
+
+## 11334324: Fescennium (Italy)
+[https://resource.manto.unh.edu/11334324](https://resource.manto.unh.edu/11334324)  
+
+### alignments:
+ - [Fescennium](https://pleiades.stoa.org/places/413133)
 
 
 ## 11334891: Alalcomenai (Ithaca)

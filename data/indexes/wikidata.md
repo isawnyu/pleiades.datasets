@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11178 alignments exist in _Pleiades_ place references as of 2026-08-01. The following list of alignments is grouped by zotkey.
+11179 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -44051,6 +44051,13 @@
  - [Pozzo sacro di Sa Testa](https://pleiades.stoa.org/places/623096561)
 
 
+## Praedia Galbana (Q140799801)
+[https://www.wikidata.org/wiki/Q140799801](https://www.wikidata.org/wiki/Q140799801)  
+
+### alignments:
+ - [Praedia Galbana](https://pleiades.stoa.org/places/277030428)
+
+
 ## Praetorium Agrippinae (Q584285)
 [https://www.wikidata.org/wiki/Q584285](https://www.wikidata.org/wiki/Q584285)  
 
@@ -45954,13 +45961,6 @@
 
 ### alignments:
  - [Cornalvo Roman Dam and Aqueduct](https://pleiades.stoa.org/places/256129)
-
-
-## Q1133288: Temple of Caesar
-[https://www.wikidata.org/wiki/Q1133288](https://www.wikidata.org/wiki/Q1133288)  
-
-### alignments:
- - [Temple of Divus Iulius](https://pleiades.stoa.org/places/277569430)
 
 
 ## Q1133801: Uragh Stone Circle
@@ -49303,13 +49303,6 @@
 
 ### alignments:
  - [Karakuş Tumulus](https://pleiades.stoa.org/places/658501)
-
-
-## Q1729714: San Saba
-[https://www.wikidata.org/wiki/Q1729714](https://www.wikidata.org/wiki/Q1729714)  
-
-### alignments:
- - [San Saba, Rome](https://pleiades.stoa.org/places/242008147)
 
 
 ## Q17310116: Abnoba mons
@@ -63320,6 +63313,13 @@
  - [S. Rocco](https://pleiades.stoa.org/places/433094)
 
 
+## San Saba (Q1729714)
+[https://www.wikidata.org/wiki/Q1729714](https://www.wikidata.org/wiki/Q1729714)  
+
+### alignments:
+ - [San Saba, Rome](https://pleiades.stoa.org/places/242008147)
+
+
 ## San Sebastiano (Q3884752)
 [https://www.wikidata.org/wiki/Q3884752](https://www.wikidata.org/wiki/Q3884752)  
 
@@ -69160,6 +69160,13 @@
 
 ### alignments:
  - [Bona Dea Subsaxana, Aedes](https://pleiades.stoa.org/places/453271405)
+
+
+## Temple of Caesar (Q1133288)
+[https://www.wikidata.org/wiki/Q1133288](https://www.wikidata.org/wiki/Q1133288)  
+
+### alignments:
+ - [Temple of Divus Iulius](https://pleiades.stoa.org/places/277569430)
 
 
 ## Temple of Castor and Pollux (Q380530)
