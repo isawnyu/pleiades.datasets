@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/07/26 06:48:35.069037 GMT-4
+# Date: 2026/08/02 06:48:37.073138 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5926
+# Triple count: 5993
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -492,6 +492,24 @@
     dcterms:modified "2012-02-14T17:39:19-04:00";
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/180467/batlas-location> .
+
+<https://pleiades.stoa.org/errata/197249%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Diomedis (promontory)";
+    rdfs:comment "Merged into https://pleiades.stoa.org/places/197309";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/197249> .
+
+<https://pleiades.stoa.org/errata/197249/osm-location-of-rt-ploaa> dcterms:creator <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-07-21T18:44:05-04:00";
+    dcterms:title "OSM Location of Rt Ploča";
+    owl:sameAs <http://pleiades.stoa.org/errata/197249/osm-location-of-rt-ploaa> .
+
+<https://pleiades.stoa.org/errata/197249/rt-ploca> dcterms:creator <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "";
+    dcterms:modified "2026-07-21T18:44:05-04:00";
+    dcterms:title "Rt Ploča";
+    owl:sameAs <http://pleiades.stoa.org/errata/197249/rt-ploca> .
 
 <https://pleiades.stoa.org/errata/208942867%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Untitled";
@@ -3177,6 +3195,32 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/road>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location> .
 
+<https://pleiades.stoa.org/errata/197249> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 20 C6 Diomedis Pr.",
+        "Castiglioni 2008 ",
+        "Kirigin 1998 72-74";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Ploča CRO";
+    dcterms:creator <http://viaf.org/viaf/2500370>,
+        <http://viaf.org/viaf/36949186>;
+    dcterms:description "Merged into https://pleiades.stoa.org/places/197309";
+    dcterms:modified "2026-07-29T18:49:54-04:00";
+    dcterms:title "Withdrawn: Diomedis (promontory)";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://www.zotero.org/groups/pleiades/items/7EG5G2TP>,
+        <https://www.zotero.org/groups/pleiades/items/9TTQRJME>;
+    owl:sameAs <http://pleiades.stoa.org/errata/197249>;
+    skos:altLabel "Rt Ploča"@hr;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 20 C6 Diomedis Pr." ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cape>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-rt-ploaa>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/rt-ploca> .
+
 <https://pleiades.stoa.org/errata/208942867> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "",
@@ -5770,6 +5814,15 @@
     owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-roccamonfina>;
     prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 10945475381, version 4, osm:changeset=136869057, 2023-06-02T13:40:47Z)" ] .
 
+<https://pleiades.stoa.org/errata/osm-location-of-rt-ploaa> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 51417759";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/51417759>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-rt-ploaa>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 51417759, version 5, osm:changeset=96111259, 2020-12-19T14:55:52Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/errata/osm-location-of-sanctuary-of-zeus-pan-hellenios> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 8494874194";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/8494874194>;
@@ -5870,6 +5923,23 @@
     pleiades:nameAttested "Roccamonfina"@it;
     pleiades:nameRomanized "Roccamonfina";
     pleiades:start_date 2000 .
+
+<https://pleiades.stoa.org/errata/rt-ploca> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "BAtlDir page 291 see \"Diomedis Pr.\"",
+        "GeoNames 3193153: Rt Ploča";
+    cito:citesAsDataSource <https://www.geonames.org/3193153/rt-ploca.html>,
+        <https://www.zotero.org/groups/pleiades/items/9377UUFB>;
+    owl:sameAs <http://pleiades.stoa.org/errata/rt-ploca>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twentieth-ce>,
+        <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Rt Ploča"@hr;
+    pleiades:nameRomanized "Ploca (Rt)",
+        "Ploča (Rt)",
+        "Rt Ploca",
+        "Rt Ploča";
+    pleiades:start_date 1900 .
 
 <https://pleiades.stoa.org/errata/sicilia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/sicilia>;
@@ -6154,9 +6224,9 @@
         [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
         [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J2 Raetia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ],
@@ -6166,8 +6236,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Lycia et Pamphylia" ],
@@ -6177,8 +6247,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 2" ],
