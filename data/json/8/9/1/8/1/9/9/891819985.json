@@ -1,17 +1,113 @@
 {
     "@type": "Place",
     "bbox": null,
-    "connections": [],
-    "connectsWith": [],
+    "connections": [
+        {
+            "@type": "Connection",
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "middle-geometric",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/middle-geometric"
+                },
+                {
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic"
+                }
+            ],
+            "connectionType": "flows_into",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/flows_into",
+            "connectsTo": "https://pleiades.stoa.org/places/853874840",
+            "contributors": [],
+            "created": "2026-08-03T11:54:40Z",
+            "creators": [
+                {
+                    "homepage": null,
+                    "name": "Anika Campbell",
+                    "uri": "https://pleiades.stoa.org/author/acampbell",
+                    "username": "acampbell"
+                }
+            ],
+            "description": "",
+            "details": "",
+            "end": -550,
+            "history": [
+                {
+                    "action": "Publish externally",
+                    "modified": "2026-08-03T18:15:31Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "action": "Submit for review",
+                    "modified": "2026-08-03T11:55:45Z",
+                    "modifiedBy": "acampbell"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-08-03T11:54:40Z",
+                    "modifiedBy": "acampbell"
+                },
+                {
+                    "action": "Create",
+                    "modified": "2026-08-03T11:54:40Z",
+                    "modifiedBy": "acampbell"
+                }
+            ],
+            "id": "hades-underworld",
+            "provenance": "Pleiades",
+            "references": [
+                {
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0020.tlg001.perseus-grc1:767-806",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z24SNP4V",
+                    "citationDetail": "775",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "formattedCitation": "<div class=\"csl-entry\">Hesiod. <i>Hesiod. The Homeric hymns, and Homerica</i>. Edited by Hugh G. Evelyn-White. Loeb classical library 57. London, New York: William Heinemann ; The Macmillan Co., 1914. http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0013.tlg003.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "HH (Evelyn-White: Perseus)",
+                    "type": "citesAsEvidence"
+                }
+            ],
+            "review_state": "published",
+            "start": -850,
+            "title": "Hades (Underworld)",
+            "uri": "https://pleiades.stoa.org/places/891819985/hades-underworld"
+        }
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/853874840"
+    ],
     "contributors": [
+        {
+            "homepage": null,
+            "name": "R. Scott Smith",
+            "uri": "https://pleiades.stoa.org/author/rssmith",
+            "username": "rssmith"
+        },
+        {
+            "homepage": null,
+            "name": "Greta Hawes",
+            "uri": "https://pleiades.stoa.org/author/ghawes",
+            "username": "ghawes"
+        },
         {
             "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         }
     ],
-    "created": "2026-07-27T06:37:50Z",
+    "created": "2026-08-03T11:52:54Z",
     "creators": [
         {
             "homepage": null,
@@ -24,6 +120,16 @@
     "details": "",
     "features": [],
     "history": [
+        {
+            "comment": "updated Connections to Hades; Edited @acampbell",
+            "modified": "2026-08-03T14:17:20Z",
+            "modifiedBy": "jbecker"
+        },
+        {
+            "comment": "Baseline created",
+            "modified": "2026-08-03T11:52:54Z",
+            "modifiedBy": "acampbell"
+        },
         {
             "comment": "title ",
             "modified": "2026-07-27T20:07:13Z",
@@ -187,11 +293,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SLCUI2TB",
             "citationDetail": "8358903: River Styx (Underworld)",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
             "formattedCitation": "<div class=\"csl-entry\">Hawes, Greta, and Scott Smith. <i>MANTO</i>. Accessed February 17, 2023. https://www.manto-myth.org/manto.</div>",
             "otherIdentifier": "",
             "shortTitle": "MANTO",
-            "type": "seeFurther"
+            "type": "citesAsRelated"
         },
         {
             "accessURI": "https://www.wikidata.org/wiki/Q8843276",
