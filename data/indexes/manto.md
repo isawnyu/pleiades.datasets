@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1164 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
+1169 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -281,11 +281,32 @@
  - [Baiae](https://pleiades.stoa.org/places/432716)
 
 
+## 10093380: the Land of the Cimmerians
+[https://resource.manto.unh.edu/10093380](https://resource.manto.unh.edu/10093380)  
+
+### alignments:
+ - [Kimmerioi](https://pleiades.stoa.org/places/135663336)
+
+
 ## 10093382: Lake Lucrinus (Campania)
 [https://resource.manto.unh.edu/10093382](https://resource.manto.unh.edu/10093382)  
 
 ### alignments:
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
+
+
+## 10093386: River Cocytos
+[https://resource.manto.unh.edu/10093386](https://resource.manto.unh.edu/10093386)  
+
+### alignments:
+ - [Cocytus (mythological river)](https://pleiades.stoa.org/places/287442731)
+
+
+## 10093387: River Lethe (Underworld)
+[https://resource.manto.unh.edu/10093387](https://resource.manto.unh.edu/10093387)  
+
+### alignments:
+ - [Lethe (mythological river)](https://pleiades.stoa.org/places/994547017)
 
 
 ## 10093418: Chelone (Asia Minor)
@@ -5484,6 +5505,13 @@
  - [Elysium](https://pleiades.stoa.org/places/595204977)
 
 
+## 8188448: the Underworld
+[https://resource.manto.unh.edu/8188448](https://resource.manto.unh.edu/8188448)  
+
+### alignments:
+ - [Hades (Underworld)](https://pleiades.stoa.org/places/853874840)
+
+
 ## 8188810: Crommyon (Argolid)
 [https://resource.manto.unh.edu/8188810](https://resource.manto.unh.edu/8188810)  
 
@@ -7989,6 +8017,13 @@
 
 ### alignments:
  - [Pedasos](https://pleiades.stoa.org/places/573429)
+
+
+## 9954970: Erebos (Underworld)
+[https://resource.manto.unh.edu/9954970](https://resource.manto.unh.edu/9954970)  
+
+### alignments:
+ - [Erebus (Underworld)](https://pleiades.stoa.org/places/832339226)
 
 
 ## 9962650: Liguria (region in northwest Italy)

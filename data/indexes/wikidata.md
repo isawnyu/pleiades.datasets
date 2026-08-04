@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11179 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
+11194 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1710,6 +1710,13 @@
 
 ### alignments:
  - [Agora of Dura-Europos](https://pleiades.stoa.org/places/451190267)
+
+
+## Agora of Elis (Q106996940)
+[https://www.wikidata.org/wiki/Q106996940](https://www.wikidata.org/wiki/Q106996940)  
+
+### alignments:
+ - [Agora of Elis](https://pleiades.stoa.org/places/710989469)
 
 
 ## Agora of Priene (Q124807486)
@@ -3898,6 +3905,13 @@
  - [Panjakent](https://pleiades.stoa.org/places/362094923)
 
 
+## Ancient Roman aqueduct of Gades (Q22969919)
+[https://www.wikidata.org/wiki/Q22969919](https://www.wikidata.org/wiki/Q22969919)  
+
+### alignments:
+ - [Roman aqueduct of Cádiz](https://pleiades.stoa.org/places/686135188)
+
+
 ## Ancient Roman castra of Cidadela (Q12385033)
 [https://www.wikidata.org/wiki/Q12385033](https://www.wikidata.org/wiki/Q12385033)  
 
@@ -5394,6 +5408,13 @@
 
 ### alignments:
  - [Arcus Tiberii](https://pleiades.stoa.org/places/307446389)
+
+
+## Arch of Titus (Q2017708)
+[https://www.wikidata.org/wiki/Q2017708](https://www.wikidata.org/wiki/Q2017708)  
+
+### alignments:
+ - [Arch of Titus (Circus Maximus)](https://pleiades.stoa.org/places/45530496)
 
 
 ## Arch of Titus (Q723887)
@@ -8638,6 +8659,13 @@
  - [Thermae Constantinianae](https://pleiades.stoa.org/places/933584945)
 
 
+## Baths of Decius (Q2129565)
+[https://www.wikidata.org/wiki/Q2129565](https://www.wikidata.org/wiki/Q2129565)  
+
+### alignments:
+ - [Baths of Decius](https://pleiades.stoa.org/places/26588226)
+
+
 ## Baths of Diocletian (Q21234252)
 [https://www.wikidata.org/wiki/Q21234252](https://www.wikidata.org/wiki/Q21234252)  
 
@@ -10947,6 +10975,13 @@
 
 ### alignments:
  - [Zullestein](https://pleiades.stoa.org/places/109473)
+
+
+## Burgalimar Castle (Q2968465)
+[https://www.wikidata.org/wiki/Q2968465](https://www.wikidata.org/wiki/Q2968465)  
+
+### alignments:
+ - [Burgalimar Castle](https://pleiades.stoa.org/places/457886890)
 
 
 ## Burgaz Adası (Q1014806)
@@ -15750,6 +15785,13 @@
 
 ### alignments:
  - [Ciminius (mountain)](https://pleiades.stoa.org/places/413081)
+
+
+## Cimmerians (Q192730)
+[https://www.wikidata.org/wiki/Q192730](https://www.wikidata.org/wiki/Q192730)  
+
+### alignments:
+ - [Kimmerioi](https://pleiades.stoa.org/places/135663336)
 
 
 ## Cineto Romano (Q143674)
@@ -20608,6 +20650,13 @@
  - [Erebuni](https://pleiades.stoa.org/places/863785)
 
 
+## Erebus (Q131122)
+[https://www.wikidata.org/wiki/Q131122](https://www.wikidata.org/wiki/Q131122)  
+
+### alignments:
+ - [Erebus (Underworld)](https://pleiades.stoa.org/places/832339226)
+
+
 ## Erechtheis (Q13415445)
 [https://www.wikidata.org/wiki/Q13415445](https://www.wikidata.org/wiki/Q13415445)  
 
@@ -23782,6 +23831,13 @@
 
 ### alignments:
  - [Theater of Priene](https://pleiades.stoa.org/places/182750553)
+
+
+## Greek Underworld (Q1521549)
+[https://www.wikidata.org/wiki/Q1521549](https://www.wikidata.org/wiki/Q1521549)  
+
+### alignments:
+ - [Hades (Underworld)](https://pleiades.stoa.org/places/853874840)
 
 
 ## Greetwell Fields Roman Villa (Q124809055)
@@ -31452,6 +31508,13 @@
  - [Lete](https://pleiades.stoa.org/places/491651)
 
 
+## Lethe (Q161096)
+[https://www.wikidata.org/wiki/Q161096](https://www.wikidata.org/wiki/Q161096)  
+
+### alignments:
+ - [Lethe (mythological river)](https://pleiades.stoa.org/places/994547017)
+
+
 ## Letocetum (Q1230592)
 [https://www.wikidata.org/wiki/Q1230592](https://www.wikidata.org/wiki/Q1230592)  
 
@@ -37960,6 +38023,13 @@
  - [Nineveh/Ninos](https://pleiades.stoa.org/places/874621)
 
 
+## Niphates (Q7039463)
+[https://www.wikidata.org/wiki/Q7039463](https://www.wikidata.org/wiki/Q7039463)  
+
+### alignments:
+ - [Niphates (mountain)](https://pleiades.stoa.org/places/874622)
+
+
 ## Nippur (Q188395)
 [https://www.wikidata.org/wiki/Q188395](https://www.wikidata.org/wiki/Q188395)  
 
@@ -44266,6 +44336,13 @@
 
 ### alignments:
  - [Prisovo](https://pleiades.stoa.org/places/216944)
+
+
+## Privata domus Traiani (Q135090191)
+[https://www.wikidata.org/wiki/Q135090191](https://www.wikidata.org/wiki/Q135090191)  
+
+### alignments:
+ - [Privata domus Traiani](https://pleiades.stoa.org/places/254273447)
 
 
 ## Privernum (Q12291411)
@@ -58881,6 +58958,13 @@
  - [Askra](https://pleiades.stoa.org/places/540670)
 
 
+## Q939218
+[https://www.wikidata.org/wiki/Q939218](https://www.wikidata.org/wiki/Q939218)  
+
+### alignments:
+ - [Cocytus (mythological river)](https://pleiades.stoa.org/places/287442731)
+
+
 ## Q9396534: Temple of Apollo at Didyma
 [https://www.wikidata.org/wiki/Q9396534](https://www.wikidata.org/wiki/Q9396534)  
 
@@ -62428,7 +62512,7 @@
 [https://www.wikidata.org/wiki/Q2177952](https://www.wikidata.org/wiki/Q2177952)  
 
 ### alignments:
- - [Rouweyha](https://pleiades.stoa.org/places/674925422)
+ - [Ruweiha](https://pleiades.stoa.org/places/668355)
 
 
 ## Ruínas da cidade velha de Santa Luzia (Q5770441)
@@ -67641,6 +67725,13 @@
  - [Sykai/Ioustinianai/Ioustinianoupolis](https://pleiades.stoa.org/places/523982)
 
 
+## Symi (Q429430)
+[https://www.wikidata.org/wiki/Q429430](https://www.wikidata.org/wiki/Q429430)  
+
+### alignments:
+ - [Syme (island)](https://pleiades.stoa.org/places/599951)
+
+
 ## Symplegades (Q326380)
 [https://www.wikidata.org/wiki/Q326380](https://www.wikidata.org/wiki/Q326380)  
 
@@ -67933,6 +68024,13 @@
 
 ### alignments:
  - [S'Illot](https://pleiades.stoa.org/places/655808604)
+
+
+## Talaiot de Son Fred (Q18696939)
+[https://www.wikidata.org/wiki/Q18696939](https://www.wikidata.org/wiki/Q18696939)  
+
+### alignments:
+ - [Son Fred](https://pleiades.stoa.org/places/352537734)
 
 
 ## Talamone (Q2073211)
@@ -71521,6 +71619,13 @@
 
 ### alignments:
  - [Sep. C. Maenius Bassus](https://pleiades.stoa.org/places/423063)
+
+
+## tomb of C. Sulpicius Platorinus (Q140782598)
+[https://www.wikidata.org/wiki/Q140782598](https://www.wikidata.org/wiki/Q140782598)  
+
+### alignments:
+ - [tomb of C. Sulpicius Platorinus](https://pleiades.stoa.org/places/732224173)
 
 
 ## Tomb of C. Veranius Rufus (Q29887326)

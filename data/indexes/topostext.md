@@ -1,11 +1,32 @@
 # _Pleiades_ alignments with ToposText
-5125 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
+5129 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
 
 ### alignments:
  - [Elysium](https://pleiades.stoa.org/places/595204977)
+
+
+## 000000GHad
+[https://topostext.org/place/000000GHad](https://topostext.org/place/000000GHad)  
+
+### alignments:
+ - [Hades (Underworld)](https://pleiades.stoa.org/places/853874840)
+
+
+## 1072
+[https://topostext.org/people/1072](https://topostext.org/people/1072)  
+
+### alignments:
+ - [Lethe (mythological river)](https://pleiades.stoa.org/places/994547017)
+
+
+## 16435
+[https://topostext.org/people/16435](https://topostext.org/people/16435)  
+
+### alignments:
+ - [Cocytus (mythological river)](https://pleiades.stoa.org/places/287442731)
 
 
 ## 17479
@@ -281,6 +302,13 @@
 ### alignments:
  - [Porta Latina](https://pleiades.stoa.org/places/870073463)
  - [Via Latina](https://pleiades.stoa.org/places/93042695)
+
+
+## 933: Erebus (s. of Chaos)
+[https://topostext.org/people/933](https://topostext.org/people/933)  
+
+### alignments:
+ - [Erebus (Underworld)](https://pleiades.stoa.org/places/832339226)
 
 
 ## Abai (Phokis) 17 Palaiokhori - Άβαι

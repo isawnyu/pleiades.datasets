@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-488 alignments exist in _Pleiades_ place references as of 2026-08-03. The following list of alignments is grouped by zotkey.
+490 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -56,13 +56,6 @@
 
 ### alignments:
  - [(Nea) Paphos](https://pleiades.stoa.org/places/707586)
-
-
-## 18571: Katharo Plateau - 2023
-[https://chronique.efa.gr/?r=report&id=18571](https://chronique.efa.gr/?r=report&id=18571)  
-
-### alignments:
- - [Katharo](https://pleiades.stoa.org/places/589854)
 
 
 ## 19912
@@ -497,6 +490,13 @@
 
 ### alignments:
  - [Thasos (settlement)](https://pleiades.stoa.org/places/501634)
+
+
+## Report 18571: Katharo Plateau - 2023
+[https://chronique.efa.gr/?r=report&id=18571](https://chronique.efa.gr/?r=report&id=18571)  
+
+### alignments:
+ - [Katharo](https://pleiades.stoa.org/places/589854)
 
 
 ## Report 18610: KITION. - Bamboula - 2023
@@ -1739,6 +1739,20 @@
 
 ### alignments:
  - [Rhodos (settlement)](https://pleiades.stoa.org/places/590030)
+
+
+## Toponyme - 39855: Symi, Sombeki-Δ.Δ. Σύμης
+[https://chronique.efa.gr/?r=topo_public&id=39855](https://chronique.efa.gr/?r=topo_public&id=39855)  
+
+### alignments:
+ - [Syme (island)](https://pleiades.stoa.org/places/599951)
+
+
+## Toponyme - 39857: Symi, Syme island-Σύμη, νήσος
+[https://chronique.efa.gr/?r=topo_public&id=39857](https://chronique.efa.gr/?r=topo_public&id=39857)  
+
+### alignments:
+ - [Syme (island)](https://pleiades.stoa.org/places/599951)
 
 
 ## Toponyme - 4350: Aiani, Kalliani-Αιανή
