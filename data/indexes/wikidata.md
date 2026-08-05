@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11194 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
+11194 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -30479,6 +30479,13 @@
  - [Lagos](https://pleiades.stoa.org/places/256255)
 
 
+## Lake Albano (Q849448)
+[https://www.wikidata.org/wiki/Q849448](https://www.wikidata.org/wiki/Q849448)  
+
+### alignments:
+ - [Albanus L.](https://pleiades.stoa.org/places/422825)
+
+
 ## Lake Bafa (Q799781)
 [https://www.wikidata.org/wiki/Q799781](https://www.wikidata.org/wiki/Q799781)  
 
@@ -39995,6 +40002,13 @@
 
 ### alignments:
  - [Ostia](https://pleiades.stoa.org/places/422995)
+
+
+## Ostia Antica, Regio I (Q1840038)
+[https://www.wikidata.org/wiki/Q1840038](https://www.wikidata.org/wiki/Q1840038)  
+
+### alignments:
+ - [Regio I, Ostia Antica](https://pleiades.stoa.org/places/461688683)
 
 
 ## Ostia Synagogue (Q123433)
@@ -49921,13 +49935,6 @@
  - [Regio II, Ostia Antica](https://pleiades.stoa.org/places/461688684)
 
 
-## Q1840038: Ostia Antica, Regio I
-[https://www.wikidata.org/wiki/Q1840038](https://www.wikidata.org/wiki/Q1840038)  
-
-### alignments:
- - [Regio I, Ostia Antica](https://pleiades.stoa.org/places/461688683)
-
-
 ## Q18432478:
 [https://www.wikidata.org/wiki/Q18432478](https://www.wikidata.org/wiki/Q18432478)  
 
@@ -54665,13 +54672,6 @@
  - [Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
 
 
-## Q3931889: region VI of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931889](https://www.wikidata.org/wiki/Q3931889)  
-
-### alignments:
- - [Regio VI, Pompeii](https://pleiades.stoa.org/places/984330151)
-
-
 ## Q3931890: region V of the archaeological excavations of Pompeii
 [https://www.wikidata.org/wiki/Q3931890](https://www.wikidata.org/wiki/Q3931890)  
 
@@ -58538,13 +58538,6 @@
  - [Gobero](https://pleiades.stoa.org/places/218046074)
 
 
-## Q849448: Lake Albano
-[https://www.wikidata.org/wiki/Q849448](https://www.wikidata.org/wiki/Q849448)  
-
-### alignments:
- - [Albanus L.](https://pleiades.stoa.org/places/422825)
-
-
 ## Q849473
 [https://www.wikidata.org/wiki/Q849473](https://www.wikidata.org/wiki/Q849473)  
 
@@ -60069,6 +60062,13 @@
 
 ### alignments:
  - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
+
+
+## region VI of the archaeological excavations of Pompeii (Q3931889)
+[https://www.wikidata.org/wiki/Q3931889](https://www.wikidata.org/wiki/Q3931889)  
+
+### alignments:
+ - [Regio VI, Pompeii](https://pleiades.stoa.org/places/984330151)
 
 
 ## region VII of the archaeological excavations of Pompeii (Q3931887)

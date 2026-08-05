@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1169 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
+1170 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4838,6 +4838,13 @@
 
 ### alignments:
  - [Bolani](https://pleiades.stoa.org/places/438696)
+
+
+## 11321312: Lake Alba (Italy)
+[https://resource.manto.unh.edu/11321312](https://resource.manto.unh.edu/11321312)  
+
+### alignments:
+ - [Albanus L.](https://pleiades.stoa.org/places/422825)
 
 
 ## 11321421: Aigai (Macedonia)

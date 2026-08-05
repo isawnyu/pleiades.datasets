@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5169 alignments exist in _Pleiades_ place references as of 2026-08-04. The following list of alignments is grouped by zotkey.
+5169 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -704,6 +704,13 @@
 
 ### alignments:
  - [Bewcastle Roman Fort](https://pleiades.stoa.org/places/89181)
+
+
+## Geo 19857: Carthago Nova (Cartagena)
+[https://www.trismegistos.org/place/19857](https://www.trismegistos.org/place/19857)  
+
+### alignments:
+ - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
 
 
 ## Geo 20052: Ala (Aalen)
@@ -10187,13 +10194,6 @@
 
 ### alignments:
  - [Intraum](https://pleiades.stoa.org/places/83848)
-
-
-## GEO ID 19857: Carthago Nova (Cartagena)
-[http://www.trismegistos.org/place/19857](http://www.trismegistos.org/place/19857)  
-
-### alignments:
- - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
 
 
 ## GEO ID 19858: Lugdunensis
