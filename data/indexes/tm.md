@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5169 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+5170 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -120,6 +120,13 @@
 
 ### alignments:
  - [Blestium](https://pleiades.stoa.org/places/79333)
+
+
+## Geo 100: Alexandria
+[https://www.trismegistos.org/place/100](https://www.trismegistos.org/place/100)  
+
+### alignments:
+ - [Alexandria](https://pleiades.stoa.org/places/727070)
 
 
 ## Geo 10345: Eleusis
@@ -401,6 +408,13 @@
 
 ### alignments:
  - [Myrina](https://pleiades.stoa.org/places/550755)
+
+
+## Geo 14406: Urbs Salvia (Urbisaglia)
+[https://www.trismegistos.org/place/14406](https://www.trismegistos.org/place/14406)  
+
+### alignments:
+ - [Urbs Salvia](https://pleiades.stoa.org/places/413364)
 
 
 ## Geo 14441: Caiatia (Caiazzo)
@@ -894,6 +908,13 @@
 
 ### alignments:
  - [Abdera](https://pleiades.stoa.org/places/265762)
+
+
+## Geo 26108: Arucci (Aroche)
+[https://www.trismegistos.org/place/26108](https://www.trismegistos.org/place/26108)  
+
+### alignments:
+ - [Arucci](https://pleiades.stoa.org/places/255991)
 
 
 ## Geo 26125: Ilipula (Niebla)
@@ -1576,6 +1597,13 @@
  - [Asopos](https://pleiades.stoa.org/places/570129)
 
 
+## Geo 369: Athribis (Tell el-Atrib)
+[https://www.trismegistos.org/place/369](https://www.trismegistos.org/place/369)  
+
+### alignments:
+ - [Athribis (Lower Egypt)](https://pleiades.stoa.org/places/727078)
+
+
 ## Geo 3705: Album Intimilium (Ventimiglia)
 [http://www.trismegistos.org/place/3705](http://www.trismegistos.org/place/3705)  
 
@@ -2164,6 +2192,13 @@
  - [Alpes Graiae et Poeninae (Roman province)](https://pleiades.stoa.org/places/982257)
 
 
+## Geo 42698: Narbonensis Secunda
+[https://www.trismegistos.org/place/42698](https://www.trismegistos.org/place/42698)  
+
+### alignments:
+ - [Narbonensis II](https://pleiades.stoa.org/places/992827)
+
+
 ## Geo 42766: Dacia Inferior
 [https://www.trismegistos.org/place/42766](https://www.trismegistos.org/place/42766)  
 
@@ -2198,6 +2233,13 @@
 
 ### alignments:
  - [Fundus (Dic)itanus](https://pleiades.stoa.org/places/324706)
+
+
+## Geo 43502: Saltus Firronanus
+[https://www.trismegistos.org/place/43502](https://www.trismegistos.org/place/43502)  
+
+### alignments:
+ - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
 
 
 ## Geo 446: Boeotia
@@ -2352,6 +2394,13 @@
 
 ### alignments:
  - [Abrettene](https://pleiades.stoa.org/places/609289)
+
+
+## Geo 50295: Fundus Seneciosus?
+[https://www.trismegistos.org/place/50295](https://www.trismegistos.org/place/50295)  
+
+### alignments:
+ - [Fundus Seneciosus?](https://pleiades.stoa.org/places/904400348)
 
 
 ## Geo 50308: Sale
@@ -2779,13 +2828,6 @@
 
 ### alignments:
  - [Karanis](https://pleiades.stoa.org/places/736932)
-
-
-## GEO ID 100: Alexandria
-[http://www.trismegistos.org/place/100](http://www.trismegistos.org/place/100)  
-
-### alignments:
- - [Alexandria](https://pleiades.stoa.org/places/727070)
 
 
 ## GEO ID 1014: Kasion (El-Qels)
@@ -5353,13 +5395,6 @@
  - [Picenum (region)](https://pleiades.stoa.org/places/413253)
 
 
-## GEO ID 14406: Urbs Salvia (Urbisaglia)
-[http://www.trismegistos.org/place/14406](http://www.trismegistos.org/place/14406)  
-
-### alignments:
- - [Urbs Salvia](https://pleiades.stoa.org/places/413364)
-
-
 ## GEO ID 14407: Falerio Picenus (Falerone)
 [http://www.trismegistos.org/place/14407](http://www.trismegistos.org/place/14407)  
 
@@ -6961,7 +6996,6 @@
  - [Astron](https://pleiades.stoa.org/places/570134)
  - [Blanda](https://pleiades.stoa.org/places/452274)
  - [Curiga](https://pleiades.stoa.org/places/256147)
- - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
  - [Gallo-Roman vicus at Pierrefonds](https://pleiades.stoa.org/places/109247)
  - [Iotape](https://pleiades.stoa.org/places/648650)
  - [Ischalis?](https://pleiades.stoa.org/places/79534)
@@ -13395,13 +13429,6 @@
 
 ### alignments:
  - [Agatucci?](https://pleiades.stoa.org/places/265784)
-
-
-## GEO ID 26108: Arucci (Aroche)
-[http://www.trismegistos.org/place/26108](http://www.trismegistos.org/place/26108)  
-
-### alignments:
- - [Arucci](https://pleiades.stoa.org/places/255991)
 
 
 ## GEO ID 26120: Onoba Aestuaria (Huelva)
@@ -20734,13 +20761,6 @@
 
 ### alignments:
  - [Lerna](https://pleiades.stoa.org/places/570424)
-
-
-## GEO ID 369: Athribis (Tell el-Atrib)
-[http://www.trismegistos.org/place/369](http://www.trismegistos.org/place/369)  
-
-### alignments:
- - [Athribis (Lower Egypt)](https://pleiades.stoa.org/places/727078)
 
 
 ## GEO ID 3703: Keramos (Ören)
@@ -28243,13 +28263,6 @@
  - [Narbonensis I](https://pleiades.stoa.org/places/991333)
 
 
-## GEO ID 42698: Narbonensis Secunda
-[https://www.trismegistos.org/place/42698](https://www.trismegistos.org/place/42698)  
-
-### alignments:
- - [Narbonensis II](https://pleiades.stoa.org/places/992827)
-
-
 ## GEO ID 42699
 [https://www.trismegistos.org/place/42699](https://www.trismegistos.org/place/42699)  
 
@@ -31583,13 +31596,6 @@
 
 ### alignments:
  - [Rhodope (mountain)](https://pleiades.stoa.org/places/501592)
-
-
-## GEO ID 50295: Fundus Seneciosus?
-[https://www.trismegistos.org/place/50295](https://www.trismegistos.org/place/50295)  
-
-### alignments:
- - [Fundus Seneciosus?](https://pleiades.stoa.org/places/904400348)
 
 
 ## GEO ID 50347: Cercina (Grand Kerkenna)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11194 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+11201 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3751,6 +3751,13 @@
  - [Agora of Athens](https://pleiades.stoa.org/places/807514119)
 
 
+## Ancient Alexandria (Q1244206)
+[https://www.wikidata.org/wiki/Q1244206](https://www.wikidata.org/wiki/Q1244206)  
+
+### alignments:
+ - [Alexandria](https://pleiades.stoa.org/places/727070)
+
+
 ## ancient Capua (Q3136685)
 [https://www.wikidata.org/wiki/Q3136685](https://www.wikidata.org/wiki/Q3136685)  
 
@@ -4022,6 +4029,13 @@
 
 ### alignments:
  - [Ancient Theater of Amphilochian Argos](https://pleiades.stoa.org/places/966876571)
+
+
+## Ancient Theatre of Halicarnassus (Q6023471)
+[https://www.wikidata.org/wiki/Q6023471](https://www.wikidata.org/wiki/Q6023471)  
+
+### alignments:
+ - [Theater at Bodrum](https://pleiades.stoa.org/places/102024695)
 
 
 ## ancient theatre of Lyon (Q1510)
@@ -5513,6 +5527,13 @@
 
 ### alignments:
  - [Necropoli di San Vito](https://pleiades.stoa.org/places/263847936)
+
+
+## Archaeological Park of Urbs Salvia (Q2372655)
+[https://www.wikidata.org/wiki/Q2372655](https://www.wikidata.org/wiki/Q2372655)  
+
+### alignments:
+ - [Urbs Salvia](https://pleiades.stoa.org/places/413364)
 
 
 ## Archaeological site at Goritsa hill (Q38281502)
@@ -8160,6 +8181,13 @@
 
 ### alignments:
  - [Bardili Turduli](https://pleiades.stoa.org/places/260506)
+
+
+## Bargylia (Q808168)
+[https://www.wikidata.org/wiki/Q808168](https://www.wikidata.org/wiki/Q808168)  
+
+### alignments:
+ - [Bargylia](https://pleiades.stoa.org/places/599550)
 
 
 ## Bari (Q3519)
@@ -14561,6 +14589,13 @@
  - [Cavaturini](https://pleiades.stoa.org/places/328660748)
 
 
+## Cave di Cusa (Q3663959)
+[https://www.wikidata.org/wiki/Q3663959](https://www.wikidata.org/wiki/Q3663959)  
+
+### alignments:
+ - [Cave di Cusa](https://pleiades.stoa.org/places/462151)
+
+
 ## Cave of Apollon Ipakrion (Q24204697)
 [https://www.wikidata.org/wiki/Q24204697](https://www.wikidata.org/wiki/Q24204697)  
 
@@ -15455,6 +15490,13 @@
 
 ### alignments:
  - [Caturigomagus](https://pleiades.stoa.org/places/167701)
+
+
+## Chorrillo (Q97636020)
+[https://www.wikidata.org/wiki/Q97636020](https://www.wikidata.org/wiki/Q97636020)  
+
+### alignments:
+ - [Chorrillo](https://pleiades.stoa.org/places/256104)
 
 
 ## Chott el Djerid (Q849143)
@@ -30483,7 +30525,7 @@
 [https://www.wikidata.org/wiki/Q849448](https://www.wikidata.org/wiki/Q849448)  
 
 ### alignments:
- - [Albanus L.](https://pleiades.stoa.org/places/422825)
+ - [Albanus (lake)](https://pleiades.stoa.org/places/422825)
 
 
 ## Lake Bafa (Q799781)
@@ -36483,6 +36525,13 @@
  - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
+## Mount Erymanthos (Q1363703)
+[https://www.wikidata.org/wiki/Q1363703](https://www.wikidata.org/wiki/Q1363703)  
+
+### alignments:
+ - [Erymanthos (mountain)](https://pleiades.stoa.org/places/570238)
+
+
 ## Mount Fumaiolo (Q580842)
 [https://www.wikidata.org/wiki/Q580842](https://www.wikidata.org/wiki/Q580842)  
 
@@ -37195,6 +37244,13 @@
 
 ### alignments:
  - [Naqa](https://pleiades.stoa.org/places/805635)
+
+
+## Narbonensis II (Q89702680)
+[https://www.wikidata.org/wiki/Q89702680](https://www.wikidata.org/wiki/Q89702680)  
+
+### alignments:
+ - [Narbonensis II](https://pleiades.stoa.org/places/992827)
 
 
 ## Narbonne (Q6555)
@@ -53523,13 +53579,6 @@
  - [Gallo-Roman baths](https://pleiades.stoa.org/places/678120089)
 
 
-## Q3523853: Thermes des Lutteurs
-[https://www.wikidata.org/wiki/Q3523853](https://www.wikidata.org/wiki/Q3523853)  
-
-### alignments:
- - [Thermes des Lutteurs](https://pleiades.stoa.org/places/663163576)
-
-
 ## Q3523866: Roman baths of Gaujac
 [https://www.wikidata.org/wiki/Q3523866](https://www.wikidata.org/wiki/Q3523866)  
 
@@ -54777,25 +54826,11 @@
  - [Fons Clitumni](https://pleiades.stoa.org/places/413140)
 
 
-## Q3983175: Temple C
-[https://www.wikidata.org/wiki/Q3983175](https://www.wikidata.org/wiki/Q3983175)  
-
-### alignments:
- - [Temple C at Selinus](https://pleiades.stoa.org/places/795363785)
-
-
 ## Q3983179: Doric temple (Pompei)
 [https://www.wikidata.org/wiki/Q3983179](https://www.wikidata.org/wiki/Q3983179)  
 
 ### alignments:
  - [Doric temple (Pompei)](https://pleiades.stoa.org/places/81187433)
-
-
-## Q3983181: Temple E
-[https://www.wikidata.org/wiki/Q3983181](https://www.wikidata.org/wiki/Q3983181)  
-
-### alignments:
- - [Temple E at Selinus](https://pleiades.stoa.org/places/502577470)
 
 
 ## Q3983204: Temple of Fortuna Augusta
@@ -58713,13 +58748,6 @@
  - [Skotoussa (Thessaly)](https://pleiades.stoa.org/places/541107)
 
 
-## Q87
-[https://www.wikidata.org/wiki/Q87](https://www.wikidata.org/wiki/Q87)  
-
-### alignments:
- - [Alexandria](https://pleiades.stoa.org/places/727070)
-
-
 ## Q88123829
 [https://www.wikidata.org/wiki/Q88123829](https://www.wikidata.org/wiki/Q88123829)  
 
@@ -58760,13 +58788,6 @@
 
 ### alignments:
  - [Narbonensis I](https://pleiades.stoa.org/places/991333)
-
-
-## Q89702680: Narbonensis II
-[https://www.wikidata.org/wiki/Q89702680](https://www.wikidata.org/wiki/Q89702680)  
-
-### alignments:
- - [Narbonensis II](https://pleiades.stoa.org/places/992827)
 
 
 ## Q904128: Gamzigrad
@@ -59019,13 +59040,6 @@
 
 ### alignments:
  - [Hierapolis/Kastabala](https://pleiades.stoa.org/places/658481)
-
-
-## Q94982: Urbisaglia
-[https://www.wikidata.org/wiki/Q94982](https://www.wikidata.org/wiki/Q94982)  
-
-### alignments:
- - [Urbs Salvia](https://pleiades.stoa.org/places/413364)
 
 
 ## Q951149
@@ -68945,11 +68959,25 @@
  - [Italic temple of Castel di Ieri](https://pleiades.stoa.org/places/431684924)
 
 
+## Temple C (Q3983175)
+[https://www.wikidata.org/wiki/Q3983175](https://www.wikidata.org/wiki/Q3983175)  
+
+### alignments:
+ - [Temple C (Selinus)](https://pleiades.stoa.org/places/795363785)
+
+
 ## Temple de Minerve (Q86724666)
 [https://www.wikidata.org/wiki/Q86724666](https://www.wikidata.org/wiki/Q86724666)  
 
 ### alignments:
  - [Temple of Minerva at Theveste](https://pleiades.stoa.org/places/730497359)
+
+
+## Temple E (Q3983181)
+[https://www.wikidata.org/wiki/Q3983181](https://www.wikidata.org/wiki/Q3983181)  
+
+### alignments:
+ - [Temple E at Selinus](https://pleiades.stoa.org/places/502577470)
 
 
 ## Temple F (Q3983186)
@@ -70718,6 +70746,13 @@
  - [Thermes de Cluny](https://pleiades.stoa.org/places/890816516)
 
 
+## Thermes des Lutteurs (Q3523853)
+[https://www.wikidata.org/wiki/Q3523853](https://www.wikidata.org/wiki/Q3523853)  
+
+### alignments:
+ - [Thermes des Lutteurs](https://pleiades.stoa.org/places/663163576)
+
+
 ## Thermodon (Q684421)
 [https://www.wikidata.org/wiki/Q684421](https://www.wikidata.org/wiki/Q684421)  
 
@@ -71311,6 +71346,13 @@
 
 ### alignments:
  - [Timpone della Motta](https://pleiades.stoa.org/places/919620902)
+
+
+## Timpone Rasta (Q124380524)
+[https://www.wikidata.org/wiki/Q124380524](https://www.wikidata.org/wiki/Q124380524)  
+
+### alignments:
+ - [Timpone Rasta](https://pleiades.stoa.org/places/462518)
 
 
 ## Tincausari (Q106154620)
@@ -74699,6 +74741,13 @@
 
 ### alignments:
  - [Varignano Vecchio](https://pleiades.stoa.org/places/362185575)
+
+
+## Varnenum (Q151336)
+[https://www.wikidata.org/wiki/Q151336](https://www.wikidata.org/wiki/Q151336)  
+
+### alignments:
+ - [Varnenum Temple Complex](https://pleiades.stoa.org/places/109411)
 
 
 ## Vartsikhe (Q12864352)

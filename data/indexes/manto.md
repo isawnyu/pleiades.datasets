@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1170 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+1171 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4231,6 +4231,13 @@
  - [Lamponia](https://pleiades.stoa.org/places/550678)
 
 
+## 11313371: Bargylia (Caria)
+[https://resource.manto.unh.edu/11313371](https://resource.manto.unh.edu/11313371)  
+
+### alignments:
+ - [Bargylia](https://pleiades.stoa.org/places/599550)
+
+
 ## 11313418: River Ceteios (Mysia)
 [https://resource.manto.unh.edu/11313418](https://resource.manto.unh.edu/11313418)  
 
@@ -4844,7 +4851,7 @@
 [https://resource.manto.unh.edu/11321312](https://resource.manto.unh.edu/11321312)  
 
 ### alignments:
- - [Albanus L.](https://pleiades.stoa.org/places/422825)
+ - [Albanus (lake)](https://pleiades.stoa.org/places/422825)
 
 
 ## 11321421: Aigai (Macedonia)
@@ -6224,7 +6231,7 @@
 [https://resource.manto.unh.edu/8253979](https://resource.manto.unh.edu/8253979)  
 
 ### alignments:
- - [Erymanthos M.](https://pleiades.stoa.org/places/570238)
+ - [Erymanthos (mountain)](https://pleiades.stoa.org/places/570238)
 
 
 ## 8253980: Mount Pholoe (mountain in Elis)

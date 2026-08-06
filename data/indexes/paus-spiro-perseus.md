@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-561 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+561 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3163,6 +3163,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.24.4)  
 
 ### alignments:
+ - [Erymanthos (mountain)](https://pleiades.stoa.org/places/570238)
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 

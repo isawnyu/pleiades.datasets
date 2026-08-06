@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-490 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+491 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2006,6 +2006,13 @@
 
 ### alignments:
  - [Eretria (Euboea)](https://pleiades.stoa.org/places/579925)
+
+
+## Toponyme 18430: Erymanthus
+[https://chronique.efa.gr/?r=topo_public&id=18430](https://chronique.efa.gr/?r=topo_public&id=18430)  
+
+### alignments:
+ - [Erymanthos (mountain)](https://pleiades.stoa.org/places/570238)
 
 
 ## Toponyme 18495: Evpalion, Soule (anc.)-Δ.Δ.Ευπαλίου

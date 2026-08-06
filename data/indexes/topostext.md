@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5129 alignments exist in _Pleiades_ place references as of 2026-08-05. The following list of alignments is grouped by zotkey.
+5130 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -1319,6 +1319,13 @@
  - [Agrianes](https://pleiades.stoa.org/places/481704)
 
 
+## Agrilies fort (Aitolia) Agrilies - Αγριλιές
+[https://topostext.org/place/390211FAgr](https://topostext.org/place/390211FAgr)  
+
+### alignments:
+ - [Agriliais](https://pleiades.stoa.org/places/530785)
+
+
 ## Agriliki fort (Attica)  Nea Makri
 [https://topostext.org/place/381239FAgr](https://topostext.org/place/381239FAgr)  
 
@@ -2053,7 +2060,7 @@
 [https://topostext.org/place/418127WAlb](https://topostext.org/place/418127WAlb)  
 
 ### alignments:
- - [Albanus L.](https://pleiades.stoa.org/places/422825)
+ - [Albanus (lake)](https://pleiades.stoa.org/places/422825)
 
 
 ## Alban Mount (Latium)
@@ -11435,7 +11442,7 @@
 [https://topostext.org/place/380218LEry](https://topostext.org/place/380218LEry)  
 
 ### alignments:
- - [Erymanthos M.](https://pleiades.stoa.org/places/570238)
+ - [Erymanthos (mountain)](https://pleiades.stoa.org/places/570238)
 
 
 ## Erymanthos R. (Eleia) 77 Erymanthos - Ερύμανθος
