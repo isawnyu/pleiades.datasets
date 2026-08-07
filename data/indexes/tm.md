@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5170 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
+5172 alignments exist in _Pleiades_ place references as of 2026-08-07. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -11652,6 +11652,13 @@
  - [Calvisiana?](https://pleiades.stoa.org/places/462125)
 
 
+## GEO ID 22285
+[http://www.trismegistos.org/place/22285](http://www.trismegistos.org/place/22285)  
+
+### alignments:
+ - [Halaesa](https://pleiades.stoa.org/places/462225)
+
+
 ## GEO ID 22286: Selinous (Selinunte)
 [https://www.trismegistos.org/place/22286](https://www.trismegistos.org/place/22286)  
 
@@ -11839,6 +11846,13 @@
 
 ### alignments:
  - [Haluntium](https://pleiades.stoa.org/places/462228)
+
+
+## GEO ID 22346
+[http://www.trismegistos.org/place/22346](http://www.trismegistos.org/place/22346)  
+
+### alignments:
+ - [Soluntum](https://pleiades.stoa.org/places/462498)
 
 
 ## GEO ID 22348: Thermae Himeraeae (Termini Imerese)

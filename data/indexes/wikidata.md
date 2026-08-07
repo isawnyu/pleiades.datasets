@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11201 alignments exist in _Pleiades_ place references as of 2026-08-06. The following list of alignments is grouped by zotkey.
+11211 alignments exist in _Pleiades_ place references as of 2026-08-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5590,6 +5590,13 @@
 
 ### alignments:
  - [archaeological area of Monte Bibele](https://pleiades.stoa.org/places/926170979)
+
+
+## Archaeological site of Mount Bonifato (Q88470656)
+[https://www.wikidata.org/wiki/Q88470656](https://www.wikidata.org/wiki/Q88470656)  
+
+### alignments:
+ - [Monte Bonifato di Alcamo](https://pleiades.stoa.org/places/462331)
 
 
 ## Archaeological site of Palaiopolis (Andros) (Q42295055)
@@ -23581,6 +23588,13 @@
  - [Gortyn(a)](https://pleiades.stoa.org/places/589796)
 
 
+## Gortyn amphitheatre (Q28973923)
+[https://www.wikidata.org/wiki/Q28973923](https://www.wikidata.org/wiki/Q28973923)  
+
+### alignments:
+ - [Roman theater at Gortyna](https://pleiades.stoa.org/places/226009789)
+
+
 ## Gortys (Arcadia) (Q1538431)
 [https://www.wikidata.org/wiki/Q1538431](https://www.wikidata.org/wiki/Q1538431)  
 
@@ -30493,6 +30507,13 @@
  - [Velini L.](https://pleiades.stoa.org/places/413371)
 
 
+## Lago di San Floriano (Q3826036)
+[https://www.wikidata.org/wiki/Q3826036](https://www.wikidata.org/wiki/Q3826036)  
+
+### alignments:
+ - [Lago di San Floriano](https://pleiades.stoa.org/places/336470347)
+
+
 ## Lago di Toblino (Q781019)
 [https://www.wikidata.org/wiki/Q781019](https://www.wikidata.org/wiki/Q781019)  
 
@@ -30715,6 +30736,13 @@
 
 ### alignments:
  - [Alsietinus lacus](https://pleiades.stoa.org/places/413010)
+
+
+## Lake Mezzano (Q1052521)
+[https://www.wikidata.org/wiki/Q1052521](https://www.wikidata.org/wiki/Q1052521)  
+
+### alignments:
+ - [Lake Mezzano](https://pleiades.stoa.org/places/343654552)
 
 
 ## Lake Moeris (Q1330952)
@@ -37953,6 +37981,13 @@
  - [Newgrange](https://pleiades.stoa.org/places/79612)
 
 
+## Newport Arch (Q7018771)
+[https://www.wikidata.org/wiki/Q7018771](https://www.wikidata.org/wiki/Q7018771)  
+
+### alignments:
+ - [Newport Arch city gate](https://pleiades.stoa.org/places/670424966)
+
+
 ## Nicaea (Q739037)
 [https://www.wikidata.org/wiki/Q739037](https://www.wikidata.org/wiki/Q739037)  
 
@@ -41129,6 +41164,13 @@
 
 ### alignments:
  - [Parthini](https://pleiades.stoa.org/places/481948)
+
+
+## Partinico (Q490863)
+[https://www.wikidata.org/wiki/Q490863](https://www.wikidata.org/wiki/Q490863)  
+
+### alignments:
+ - [Parthenicum](https://pleiades.stoa.org/places/462413)
 
 
 ## Partskhanakanevi (Q12869881)
@@ -60330,6 +60372,13 @@
  - [Levefanum?](https://pleiades.stoa.org/places/98998)
 
 
+## Rila (Q191795)
+[https://www.wikidata.org/wiki/Q191795](https://www.wikidata.org/wiki/Q191795)  
+
+### alignments:
+ - [Dounax (mountain)](https://pleiades.stoa.org/places/481813)
+
+
 ## Rineia (Q1475379)
 [https://www.wikidata.org/wiki/Q1475379](https://www.wikidata.org/wiki/Q1475379)  
 
@@ -64648,6 +64697,13 @@
 
 ### alignments:
  - [Schwarzenacker](https://pleiades.stoa.org/places/109333)
+
+
+## Scidrus (Q7433442)
+[https://www.wikidata.org/wiki/Q7433442](https://www.wikidata.org/wiki/Q7433442)  
+
+### alignments:
+ - [Skidros](https://pleiades.stoa.org/places/452452)
 
 
 ## Scilla (Q54666)
@@ -70360,6 +70416,13 @@
  - [Thamallula Antoniniani](https://pleiades.stoa.org/places/334634)
 
 
+## Thapsacus (Q1284954)
+[https://www.wikidata.org/wiki/Q1284954](https://www.wikidata.org/wiki/Q1284954)  
+
+### alignments:
+ - [Thapsacus](https://pleiades.stoa.org/places/674270)
+
+
 ## Thasos (Q204096)
 [https://www.wikidata.org/wiki/Q204096](https://www.wikidata.org/wiki/Q204096)  
 
@@ -75939,6 +76002,13 @@
 
 ### alignments:
  - [Villa delle Colonne](https://pleiades.stoa.org/places/544641873)
+
+
+## Villa delle Grotte at Grottarossa (Q140915963)
+[https://www.wikidata.org/wiki/Q140915963](https://www.wikidata.org/wiki/Q140915963)  
+
+### alignments:
+ - [Villa delle Grotte at Grottarossa](https://pleiades.stoa.org/places/426584)
 
 
 ## Villa delle Vignacce (Q7930568)
