@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1171 alignments exist in _Pleiades_ place references as of 2026-08-07. The following list of alignments is grouped by zotkey.
+1172 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3402,6 +3402,13 @@
 
 ### alignments:
  - [Selinus](https://pleiades.stoa.org/places/462489)
+
+
+## 11304162: Engion (Sicily)
+[https://resource.manto.unh.edu/11304162](https://resource.manto.unh.edu/11304162)  
+
+### alignments:
+ - [Engyon](https://pleiades.stoa.org/places/462195)
 
 
 ## 11304203: the Heraian Mountains (Sicily)

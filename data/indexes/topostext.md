@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5130 alignments exist in _Pleiades_ place references as of 2026-08-07. The following list of alignments is grouped by zotkey.
+5132 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -97,13 +97,6 @@
 
 ### alignments:
  - [Tartarus (Underworld)](https://pleiades.stoa.org/places/595204976)
-
-
-## 351249CLab
-[https://topostext.org/place/351249CLab](https://topostext.org/place/351249CLab)  
-
-### alignments:
- - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
 
 
 ## 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia
@@ -8101,7 +8094,7 @@
  - [(Hypo)Chalkis](https://pleiades.stoa.org/places/540829)
 
 
-## Chalkitis/Demonnesos (Propontis) 8 Heybeli ada - Χαλκηδών
+## Chalkitis/Demonnesos (Propontis) 9 Heybeli ada
 [https://topostext.org/place/409291ICha](https://topostext.org/place/409291ICha)  
 
 ### alignments:
@@ -14537,6 +14530,13 @@
  - [Hypokremnos](https://pleiades.stoa.org/places/550586)
 
 
+## Hypsas river
+[https://topostext.org/place/373136Hyp](https://topostext.org/place/373136Hyp)  
+
+### alignments:
+ - [Hypsa(s) (river)](https://pleiades.stoa.org/places/462255)
+
+
 ## Hyria (Euboea)
 [https://topostext.org/place/385236UHyr](https://topostext.org/place/385236UHyr)  
 
@@ -18616,6 +18616,13 @@
 
 ### alignments:
  - [Labraunda](https://pleiades.stoa.org/places/599745)
+
+
+## Labyrinth (Crete)
+[https://topostext.org/place/351249CLab](https://topostext.org/place/351249CLab)  
+
+### alignments:
+ - [Labyrinth of Knossos](https://pleiades.stoa.org/places/74287421)
 
 
 ## Labyrinthos temple (Egypt) 34 Hawara - Λαβύρινθος
@@ -34352,6 +34359,13 @@
 
 ### alignments:
  - [Trogilion (promontory)](https://pleiades.stoa.org/places/599991)
+
+
+## Trogilus (Sicily)
+[https://topostext.org/place/373153UTro](https://topostext.org/place/373153UTro)  
+
+### alignments:
+ - [Trogilos](https://pleiades.stoa.org/places/462526)
 
 
 ## Trogodos M. (Cyprus) Olympos/Troodos - Τρόγοδος

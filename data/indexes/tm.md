@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5172 alignments exist in _Pleiades_ place references as of 2026-08-07. The following list of alignments is grouped by zotkey.
+5173 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1148,6 +1148,13 @@
  - [Liguria (region)](https://pleiades.stoa.org/places/383698)
 
 
+## Geo 33165: Ad Aras
+[https://www.trismegistos.org/place/33165](https://www.trismegistos.org/place/33165)  
+
+### alignments:
+ - [Ad Aras](https://pleiades.stoa.org/places/255951)
+
+
 ## Geo 33221: Kynouria
 [https://www.trismegistos.org/place/33221](https://www.trismegistos.org/place/33221)  
 
@@ -1609,6 +1616,13 @@
 
 ### alignments:
  - [Alb(i)um Intimilium/Albintimilium](https://pleiades.stoa.org/places/157802)
+
+
+## Geo 37189: Nimrud
+[https://www.trismegistos.org/place/37189](https://www.trismegistos.org/place/37189)  
+
+### alignments:
+ - [Nimrud](https://pleiades.stoa.org/places/894019)
 
 
 ## Geo 37215: Golgoi (Athienou)
@@ -18656,13 +18670,6 @@
  - [Vicarello](https://pleiades.stoa.org/places/413379)
 
 
-## GEO ID 33165: Ad Aras
-[https://www.trismegistos.org/place/33165](https://www.trismegistos.org/place/33165)  
-
-### alignments:
- - [Ad Aras](https://pleiades.stoa.org/places/255951)
-
-
 ## GEO ID 33167: Ad Novlas
 [https://www.trismegistos.org/place/33167](https://www.trismegistos.org/place/33167)  
 
@@ -20840,13 +20847,6 @@
  - [Tell Asfar](https://pleiades.stoa.org/places/678412)
 
 
-## GEO ID 37189: Nimrud
-[http://www.trismegistos.org/place/37189](http://www.trismegistos.org/place/37189)  
-
-### alignments:
- - [Nimrud](https://pleiades.stoa.org/places/894019)
-
-
 ## GEO ID 37190: Seleukeia pros tei Tigrei (Tell Baruda)
 [http://www.trismegistos.org/place/37190](http://www.trismegistos.org/place/37190)  
 
@@ -21903,6 +21903,13 @@
 
 ### alignments:
  - [Castiglione di Ragusa](https://pleiades.stoa.org/places/462144)
+
+
+## GEO ID 38465
+[http://www.trismegistos.org/place/38465](http://www.trismegistos.org/place/38465)  
+
+### alignments:
+ - [Entella](https://pleiades.stoa.org/places/462197)
 
 
 ## GEO ID 38466: Phoinikoussa Nesos (Filicudi)
