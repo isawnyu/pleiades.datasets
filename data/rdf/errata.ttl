@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/08/02 06:48:37.073138 GMT-4
+# Date: 2026/08/09 06:48:35.337706 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 5993
+# Triple count: 6078
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -734,6 +734,30 @@
     dcterms:title "OSM location of Ekklesiasterion";
     owl:sameAs <http://pleiades.stoa.org/errata/349338482/location-of-ekklesiasterion> .
 
+<https://pleiades.stoa.org/errata/40301%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Scytala (duplicate)";
+    rdfs:comment "Duplicate inherited from BAtlDir for https://pleiades.stoa.org/places/767858";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/40301> .
+
+<https://pleiades.stoa.org/errata/40301/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/17238976>;
+    dcterms:description "";
+    dcterms:modified "2012-02-14T19:44:33-04:00";
+    dcterms:title "Barrington Atlas location";
+    owl:sameAs <http://pleiades.stoa.org/errata/40301/batlas-location> .
+
+<https://pleiades.stoa.org/errata/40301/scytala> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/17238976>;
+    dcterms:description "";
+    dcterms:modified "2018-07-09T22:42:45-04:00";
+    dcterms:title "Scytala";
+    owl:sameAs <http://pleiades.stoa.org/errata/40301/scytala> .
+
 <https://pleiades.stoa.org/errata/404%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Not Found";
     rdfs:comment "The canonical non-existent place";
@@ -1077,6 +1101,11 @@
     dcterms:title "Barrington Atlas map location";
     owl:sameAs <http://pleiades.stoa.org/errata/6521693551211800/batlas-location> .
 
+<https://pleiades.stoa.org/errata/674925422%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Rouweyha (duplicate)";
+    rdfs:comment "Duplicate of https://pleiades.stoa.org/places/668355";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/674925422> .
+
 <https://pleiades.stoa.org/errata/678169%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "H., see Horvat";
     rdfs:comment "This is not and never should have been a place resource; it was created because a cross-reference that should have been ignored in the Barrington Atlas Map-by-Map Directory was erroneously treated as place data during initial processing. It has therefore been moved from its original location to the errata section and its original URI deprecated.";
@@ -1291,11 +1320,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1303,11 +1332,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3535,6 +3564,28 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/ekklesiasterion>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-ekklesiasterion> .
 
+<https://pleiades.stoa.org/errata/40301> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 4 Scytala",
+        "Plin., NH (Mayhoff: PHI) 6.168.4";
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/17238976>;
+    dcterms:description "Duplicate inherited from BAtlDir for https://pleiades.stoa.org/places/767858";
+    dcterms:modified "2026-08-05T18:10:54-04:00";
+    dcterms:title "Withdrawn: Scytala (duplicate)";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/118/60-63%23424>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>;
+    owl:sameAs <http://pleiades.stoa.org/errata/40301>;
+    skos:altLabel "Scytala"@la;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 4 Scytala" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/unlocated>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/scytala> .
+
 <https://pleiades.stoa.org/errata/404> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:creator <https://pleiades.stoa.org/author/sgillies>;
@@ -3948,6 +3999,30 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/bridge>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/batlas-location> .
 
+<https://pleiades.stoa.org/errata/674925422> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "",
+        "WHL 1348: Ancient Villages of Northern Syria",
+        "Wikidata Ruweiha (Q2177952)",
+        "Wikipedia (English) Dead Cities";
+    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/adamp>;
+    dcterms:description "Duplicate of https://pleiades.stoa.org/places/668355";
+    dcterms:modified "2026-08-03T17:21:48-04:00";
+    dcterms:subject "UWHS";
+    dcterms:title "Withdrawn: Rouweyha (duplicate)";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q2177952>;
+    cito:citesForInformation <http://whc.unesco.org/archive/advisory_body_evaluation/1348.pdf>,
+        <http://whc.unesco.org/en/list/1348/>,
+        <https://en.wikipedia.org/wiki/Dead_Cities>;
+    owl:sameAs <http://pleiades.stoa.org/errata/674925422>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>,
+        <https://pleiades.stoa.org/vocabularies/church>,
+        <https://pleiades.stoa.org/vocabularies/settlement> .
+
 <https://pleiades.stoa.org/errata/678169> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "";
@@ -4169,11 +4244,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -4288,10 +4363,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ],
-        <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ];
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -5941,6 +6016,17 @@
         "Rt Ploča";
     pleiades:start_date 1900 .
 
+<https://pleiades.stoa.org/errata/scytala> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 6.168.4";
+    cito:citesAsEvidence <http://latin.packhum.org/loc/978/1/424/1600-1607>;
+    owl:sameAs <http://pleiades.stoa.org/errata/scytala>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 4 Scytala" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 300;
+    pleiades:nameAttested "Scytala"@la;
+    pleiades:nameRomanized "Scytala";
+    pleiades:start_date -30 .
+
 <https://pleiades.stoa.org/errata/sicilia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/sicilia>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 J4 Sicilia" ];
@@ -6210,19 +6296,20 @@
         [ rdfs:label "Barrington Atlas: BAtlas 25 Untikesken" ],
         [ rdfs:label "Barrington Atlas: BAtlas 29 Kh., see Kherba" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Achaia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 4 Scytala" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D3 16" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
         [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Pleiades" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 24" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 A4 Skylax fl." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
@@ -6234,9 +6321,9 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Asia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M4 Hellespontus" ],
@@ -6245,9 +6332,9 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Mesopotamia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G5 56" ],
@@ -6265,5 +6352,6 @@
         640;
     pleiades:start_date -750,
         -550,
-        -330 .
+        -330,
+        -30 .
 
