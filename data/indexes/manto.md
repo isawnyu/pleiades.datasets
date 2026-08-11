@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1172 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
+1173 alignments exist in _Pleiades_ place references as of 2026-08-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2667,6 +2667,13 @@
 
 ### alignments:
  - [Steiria](https://pleiades.stoa.org/places/580110)
+
+
+## 11003479: the Tomb of Iphigeneia (Megara)
+[https://resource.manto.unh.edu/11003479](https://resource.manto.unh.edu/11003479)  
+
+### alignments:
+ - [Tomb of Iphigenia](https://pleiades.stoa.org/places/36476597)
 
 
 ## 11009854: the Atlantic Ocean

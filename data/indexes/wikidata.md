@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11231 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
+11234 alignments exist in _Pleiades_ place references as of 2026-08-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -25490,6 +25490,13 @@
 
 ### alignments:
  - [Hernici](https://pleiades.stoa.org/places/422944)
+
+
+## hero shrine of Iphigeneia in Megara (Q124644644)
+[https://www.wikidata.org/wiki/Q124644644](https://www.wikidata.org/wiki/Q124644644)  
+
+### alignments:
+ - [Tomb of Iphigenia](https://pleiades.stoa.org/places/36476597)
 
 
 ## Herodium (Q913099)
@@ -62306,6 +62313,13 @@
  - [Römische Villa Otrang](https://pleiades.stoa.org/places/108982)
 
 
+## Roman villa SE of Thenford House (Q17647746)
+[http://www.wikidata.org/entity/Q17647746](http://www.wikidata.org/entity/Q17647746)  
+
+### alignments:
+ - [Thenford](https://pleiades.stoa.org/places/79711)
+
+
 ## Roman villa site S of Rose Villa (Q17641445)
 [http://www.wikidata.org/entity/Q17641445](http://www.wikidata.org/entity/Q17641445)  
 
@@ -69667,6 +69681,13 @@
  - [Temple of Hera I (the "Basilica")](https://pleiades.stoa.org/places/608476833)
 
 
+## Temple of Heracles (Q3983242)
+[https://www.wikidata.org/wiki/Q3983242](https://www.wikidata.org/wiki/Q3983242)  
+
+### alignments:
+ - [Temple of Heracles](https://pleiades.stoa.org/places/983899139)
+
+
 ## Temple of Hercules (Q20423672)
 [https://www.wikidata.org/wiki/Q20423672](https://www.wikidata.org/wiki/Q20423672)  
 
@@ -69742,6 +69763,13 @@
 
 ### alignments:
  - [The Temple of Janus (Rome)](https://pleiades.stoa.org/places/468681435)
+
+
+## Temple of Juno (Q3983262)
+[https://www.wikidata.org/wiki/Q3983262](https://www.wikidata.org/wiki/Q3983262)  
+
+### alignments:
+ - [Temple of Juno (Hera Lacinia)](https://pleiades.stoa.org/places/423235147)
 
 
 ## Temple of Juno Moneta (Q951089)
@@ -70843,13 +70871,6 @@
 
 ### alignments:
  - [Themiskyra](https://pleiades.stoa.org/places/857350)
-
-
-## Thenford (Q2216331)
-[https://www.wikidata.org/wiki/Q2216331](https://www.wikidata.org/wiki/Q2216331)  
-
-### alignments:
- - [Thenford](https://pleiades.stoa.org/places/79711)
 
 
 ## Theon Ochema (Q135971506)

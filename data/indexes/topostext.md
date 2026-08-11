@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5132 alignments exist in _Pleiades_ place references as of 2026-08-10. The following list of alignments is grouped by zotkey.
+5133 alignments exist in _Pleiades_ place references as of 2026-08-11. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -15481,6 +15481,13 @@
 
 ### alignments:
  - [Temple of Iuno Moneta](https://pleiades.stoa.org/places/76518529)
+
+
+## Juno temple (Akragas)
+[https://topostext.org/place/373136SJun](https://topostext.org/place/373136SJun)  
+
+### alignments:
+ - [Temple of Juno (Hera Lacinia)](https://pleiades.stoa.org/places/423235147)
 
 
 ## Juturna T. (Rome)
