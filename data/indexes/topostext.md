@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5133 alignments exist in _Pleiades_ place references as of 2026-08-11. The following list of alignments is grouped by zotkey.
+5134 alignments exist in _Pleiades_ place references as of 2026-08-12. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -33617,6 +33617,13 @@
 
 ### alignments:
  - [Tifata (mountain)](https://pleiades.stoa.org/places/433153)
+
+
+## Tifernus (Italia)
+[https://topostext.org/place/420150WTif](https://topostext.org/place/420150WTif)  
+
+### alignments:
+ - [Tifernus (river)](https://pleiades.stoa.org/places/433154)
 
 
 ## Tigani EC basilica (Lakonia)

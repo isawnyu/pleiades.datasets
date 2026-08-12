@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11234 alignments exist in _Pleiades_ place references as of 2026-08-11. The following list of alignments is grouped by zotkey.
+11243 alignments exist in _Pleiades_ place references as of 2026-08-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8968,6 +8968,13 @@
  - [Ugernum](https://pleiades.stoa.org/places/148223)
 
 
+## Beaufort Castle (Q476801)
+[https://www.wikidata.org/wiki/Q476801](https://www.wikidata.org/wiki/Q476801)  
+
+### alignments:
+ - [Beaufort Castle, Lebanon](https://pleiades.stoa.org/places/812828781)
+
+
 ## Beaumont-sur-Oise (Q243212)
 [https://www.wikidata.org/wiki/Q243212](https://www.wikidata.org/wiki/Q243212)  
 
@@ -13126,6 +13133,13 @@
  - [Castello D'Evoli](https://pleiades.stoa.org/places/799567350)
 
 
+## Castello della Pietra (Q1048842)
+[https://www.wikidata.org/wiki/Q1048842](https://www.wikidata.org/wiki/Q1048842)  
+
+### alignments:
+ - [Castello della Pietra (Vobbia)](https://pleiades.stoa.org/places/945313597)
+
+
 ## Castello della Pietra (Q140962905)
 [https://www.wikidata.org/wiki/Q140962905](https://www.wikidata.org/wiki/Q140962905)  
 
@@ -13145,6 +13159,13 @@
 
 ### alignments:
  - [Castello di Decima](https://pleiades.stoa.org/places/480370535)
+
+
+## Castello di Lombardia (Q841683)
+[https://www.wikidata.org/wiki/Q841683](https://www.wikidata.org/wiki/Q841683)  
+
+### alignments:
+ - [Castello di Lombardia](https://pleiades.stoa.org/places/870078375)
 
 
 ## Castello di Monte Sant'Angelo (Q3662725)
@@ -16613,6 +16634,13 @@
  - [Columbarium of Tiberius Claudius Vitalis](https://pleiades.stoa.org/places/141644885)
 
 
+## columbarium of Via di Pietralata (Q140630956)
+[https://www.wikidata.org/wiki/Q140630956](https://www.wikidata.org/wiki/Q140630956)  
+
+### alignments:
+ - [Columbarium, Via di Pietralata](https://pleiades.stoa.org/places/277506251)
+
+
 ## Columbarium of via Olevano Romano (Q85861094)
 [https://www.wikidata.org/wiki/Q85861094](https://www.wikidata.org/wiki/Q85861094)  
 
@@ -17515,6 +17543,13 @@
 
 ### alignments:
  - [Cova de les Dones](https://pleiades.stoa.org/places/652043992)
+
+
+## Cugno Case Vecchie (Q111044331)
+[https://www.wikidata.org/wiki/Q111044331](https://www.wikidata.org/wiki/Q111044331)  
+
+### alignments:
+ - [Cugno Case Vecchie](https://pleiades.stoa.org/places/153635093)
 
 
 ## Cularo (Q3007086)
@@ -21657,6 +21692,13 @@
 
 ### alignments:
  - [Motykanos (river)](https://pleiades.stoa.org/places/462374)
+
+
+## Fiume di Girgenti (Q5455763)
+[https://www.wikidata.org/wiki/Q5455763](https://www.wikidata.org/wiki/Q5455763)  
+
+### alignments:
+ - [Hypsas (river)](https://pleiades.stoa.org/places/462256)
 
 
 ## Fiumenicà (Q17637129)
@@ -62314,7 +62356,7 @@
 
 
 ## Roman villa SE of Thenford House (Q17647746)
-[http://www.wikidata.org/entity/Q17647746](http://www.wikidata.org/entity/Q17647746)  
+[https://www.wikidata.org/wiki/Q17647746](https://www.wikidata.org/wiki/Q17647746)  
 
 ### alignments:
  - [Thenford](https://pleiades.stoa.org/places/79711)
@@ -69135,6 +69177,13 @@
  - [Italic temple of Castel di Ieri](https://pleiades.stoa.org/places/431684924)
 
 
+## Temple B (Selinunte) (Q58237083)
+[https://www.wikidata.org/wiki/Q58237083](https://www.wikidata.org/wiki/Q58237083)  
+
+### alignments:
+ - [Temple B (Selinus)](https://pleiades.stoa.org/places/13062726)
+
+
 ## Temple C (Q3983175)
 [https://www.wikidata.org/wiki/Q3983175](https://www.wikidata.org/wiki/Q3983175)  
 
@@ -70408,6 +70457,13 @@
 
 ### alignments:
  - [Tarracina(e)/Anxur](https://pleiades.stoa.org/places/433143)
+
+
+## Territorial Abbey of Santa Maria di Grottaferrata (Q1551179)
+[https://www.wikidata.org/wiki/Q1551179](https://www.wikidata.org/wiki/Q1551179)  
+
+### alignments:
+ - [Santa Maria di Grottaferrata](https://pleiades.stoa.org/places/554051118)
 
 
 ## Territorial Abbey of Subiaco (Q1428446)
@@ -76403,6 +76459,13 @@
 
 ### alignments:
  - [Villa of Publius Fannius Synistor](https://pleiades.stoa.org/places/635629587)
+
+
+## villa of Q. Volconius Pollio (Q140960478)
+[https://www.wikidata.org/wiki/Q140960478](https://www.wikidata.org/wiki/Q140960478)  
+
+### alignments:
+ - [villa of Q. Volconius Pollio](https://pleiades.stoa.org/places/703656433)
 
 
 ## Villa of the Antonines (Q107453713)
