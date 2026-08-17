@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11243 alignments exist in _Pleiades_ place references as of 2026-08-12. The following list of alignments is grouped by zotkey.
+11254 alignments exist in _Pleiades_ place references as of 2026-08-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6257,6 +6257,13 @@
  - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
 
 
+## Arsennaria (Q125375915)
+[https://www.wikidata.org/wiki/Q125375915](https://www.wikidata.org/wiki/Q125375915)  
+
+### alignments:
+ - [Arsennaria](https://pleiades.stoa.org/places/295219)
+
+
 ## Arsida (Q16327018)
 [https://www.wikidata.org/wiki/Q16327018](https://www.wikidata.org/wiki/Q16327018)  
 
@@ -8449,6 +8456,13 @@
  - [Basilica and convent of S. Ippolito](https://pleiades.stoa.org/places/354239692)
 
 
+## Basilica of Saint Mark (Q141085316)
+[https://www.wikidata.org/wiki/Q141085316](https://www.wikidata.org/wiki/Q141085316)  
+
+### alignments:
+ - [Basilica di San Marco](https://pleiades.stoa.org/places/415768871)
+
+
 ## Basilica of Saint Paul Outside the Walls (Q231699)
 [https://www.wikidata.org/wiki/Q231699](https://www.wikidata.org/wiki/Q231699)  
 
@@ -8496,6 +8510,13 @@
 
 ### alignments:
  - [Basilica of Sant'Apollinare in Classe](https://pleiades.stoa.org/places/880538993)
+
+
+## Basilica of Santo Stefano on the via Latina (Q28000913)
+[https://www.wikidata.org/wiki/Q28000913](https://www.wikidata.org/wiki/Q28000913)  
+
+### alignments:
+ - [Basilica di Santo Stefano in via Latina](https://pleiades.stoa.org/places/922015288)
 
 
 ## Basilica of St. John (Q930613)
@@ -12300,6 +12321,13 @@
  - [Zephyrium Pr.](https://pleiades.stoa.org/places/452495)
 
 
+## Capo Cavallo (Q34834288)
+[https://www.wikidata.org/wiki/Q34834288](https://www.wikidata.org/wiki/Q34834288)  
+
+### alignments:
+ - [Attiou Akron](https://pleiades.stoa.org/places/472057)
+
+
 ## Capo Colonna (Q868332)
 [https://www.wikidata.org/wiki/Q868332](https://www.wikidata.org/wiki/Q868332)  
 
@@ -12699,6 +12727,13 @@
  - [Roman amphitheater at Carsulae](https://pleiades.stoa.org/places/960592956)
 
 
+## Cartennas (Q15052636)
+[https://www.wikidata.org/wiki/Q15052636](https://www.wikidata.org/wiki/Q15052636)  
+
+### alignments:
+ - [Cartenna](https://pleiades.stoa.org/places/295240)
+
+
 ## Carthage (Q6343)
 [https://www.wikidata.org/wiki/Q6343](https://www.wikidata.org/wiki/Q6343)  
 
@@ -12886,6 +12921,13 @@
 
 ### alignments:
  - [Tugurium Romuli](https://pleiades.stoa.org/places/251058809)
+
+
+## Casal Bertone necropolis (Q141044807)
+[https://www.wikidata.org/wiki/Q141044807](https://www.wikidata.org/wiki/Q141044807)  
+
+### alignments:
+ - [Casal Bertone necropolis](https://pleiades.stoa.org/places/505226457)
 
 
 ## Casal Rotondo (Q3661405)
@@ -14498,6 +14540,13 @@
  - [Cimitero Maggiore](https://pleiades.stoa.org/places/422894)
 
 
+## Catacombs of Domitilla (Q287041)
+[https://www.wikidata.org/wiki/Q287041](https://www.wikidata.org/wiki/Q287041)  
+
+### alignments:
+ - [Catacombs of Domitilla](https://pleiades.stoa.org/places/867414858)
+
+
 ## Catacombs of Generosa (Q3663195)
 [https://www.wikidata.org/wiki/Q3663195](https://www.wikidata.org/wiki/Q3663195)  
 
@@ -15177,6 +15226,13 @@
  - [Charax](https://pleiades.stoa.org/places/511205)
 
 
+## Charax (Q85751518)
+[https://www.wikidata.org/wiki/Q85751518](https://www.wikidata.org/wiki/Q85751518)  
+
+### alignments:
+ - [Charax/Charakipolis](https://pleiades.stoa.org/places/550495)
+
+
 ## Charente (Q123362)
 [https://www.wikidata.org/wiki/Q123362](https://www.wikidata.org/wiki/Q123362)  
 
@@ -15637,6 +15693,13 @@
 
 ### alignments:
  - [Curia](https://pleiades.stoa.org/places/187357)
+
+
+## Church of Domine Quo Vadis (Q1081921)
+[https://www.wikidata.org/wiki/Q1081921](https://www.wikidata.org/wiki/Q1081921)  
+
+### alignments:
+ - [Sanctae Mariae in Palmis](https://pleiades.stoa.org/places/770702013)
 
 
 ## Church of Panagia Chalkeon (Q1650229)
@@ -16954,6 +17017,13 @@
 
 ### alignments:
  - [Conímbriga amphitheatre](https://pleiades.stoa.org/places/64451004)
+
+
+## Coppa Nevigata (Q3691795)
+[https://www.wikidata.org/wiki/Q3691795](https://www.wikidata.org/wiki/Q3691795)  
+
+### alignments:
+ - [Coppa Nevigata](https://pleiades.stoa.org/places/442552)
 
 
 ## Coptic Cairo (Q3438824)
@@ -33338,6 +33408,13 @@
  - [Maladers](https://pleiades.stoa.org/places/187466)
 
 
+## Malafede Roman bridge (Q141086018)
+[https://www.wikidata.org/wiki/Q141086018](https://www.wikidata.org/wiki/Q141086018)  
+
+### alignments:
+ - [Ponte di Malafede](https://pleiades.stoa.org/places/426591)
+
+
 ## Malak Preslavets (Q2018440)
 [https://www.wikidata.org/wiki/Q2018440](https://www.wikidata.org/wiki/Q2018440)  
 
@@ -34064,6 +34141,20 @@
 
 ### alignments:
  - [Mausoleum of Gallienus](https://pleiades.stoa.org/places/587082458)
+
+
+## Mausoleum of C. Ennius Marsus (Q110238703)
+[https://www.wikidata.org/wiki/Q110238703](https://www.wikidata.org/wiki/Q110238703)  
+
+### alignments:
+ - [Mausoleum of C. Ennius Marsus](https://pleiades.stoa.org/places/132381077)
+
+
+## Mausoleum of Campo Barbarico (Q97180948)
+[https://www.wikidata.org/wiki/Q97180948](https://www.wikidata.org/wiki/Q97180948)  
+
+### alignments:
+ - [Mausoleum Campo Barbarico](https://pleiades.stoa.org/places/57783831)
 
 
 ## Mausoleum of Centcelles (Q1053521)
@@ -45879,13 +45970,6 @@
  - [Jamjamāl](https://pleiades.stoa.org/places/955698086)
 
 
-## Q1081921: Church of Domine Quo Vadis
-[https://www.wikidata.org/wiki/Q1081921](https://www.wikidata.org/wiki/Q1081921)  
-
-### alignments:
- - [Sanctae Mariae in Palmis](https://pleiades.stoa.org/places/770702013)
-
-
 ## Q108272104
 [https://www.wikidata.org/wiki/Q108272104](https://www.wikidata.org/wiki/Q108272104)  
 
@@ -46031,13 +46115,6 @@
 
 ### alignments:
  - [Gymnasium at Corinth](https://pleiades.stoa.org/places/100913712)
-
-
-## Q109456874: Villa of Fralana
-[https://www.wikidata.org/wiki/Q109456874](https://www.wikidata.org/wiki/Q109456874)  
-
-### alignments:
- - [Villa di Fralana](https://pleiades.stoa.org/places/603582704)
 
 
 ## Q109923783: Via Ostiensis necropolis
@@ -52584,13 +52661,6 @@
  - [Villa San Marco](https://pleiades.stoa.org/places/688325943)
 
 
-## Q28000913: Basilica of Santo Stefano on the via Latina
-[https://www.wikidata.org/wiki/Q28000913](https://www.wikidata.org/wiki/Q28000913)  
-
-### alignments:
- - [Basilica di Santo Stefano in via Latina](https://pleiades.stoa.org/places/922015288)
-
-
 ## Q28001156: Roman theatre of Helvia Recina
 [https://www.wikidata.org/wiki/Q28001156](https://www.wikidata.org/wiki/Q28001156)  
 
@@ -52806,13 +52876,6 @@
 
 ### alignments:
  - [Sullecthum](https://pleiades.stoa.org/places/324817)
-
-
-## Q287041: Catacombs of Domitilla
-[https://www.wikidata.org/wiki/Q287041](https://www.wikidata.org/wiki/Q287041)  
-
-### alignments:
- - [Catacombs of Domitilla](https://pleiades.stoa.org/places/867414858)
 
 
 ## Q2876389: Ain Tounga
@@ -54301,13 +54364,6 @@
  - [Santa Maria della Libera](https://pleiades.stoa.org/places/724216015)
 
 
-## Q3674186: Santa Passera
-[https://www.wikidata.org/wiki/Q3674186](https://www.wikidata.org/wiki/Q3674186)  
-
-### alignments:
- - [S. Passera](https://pleiades.stoa.org/places/423051)
-
-
 ## Q3678794
 [https://www.wikidata.org/wiki/Q3678794](https://www.wikidata.org/wiki/Q3678794)  
 
@@ -54320,13 +54376,6 @@
 
 ### alignments:
  - [Constantinian Columbarium](https://pleiades.stoa.org/places/541774889)
-
-
-## Q3691795: Coppa Nevigata
-[https://www.wikidata.org/wiki/Q3691795](https://www.wikidata.org/wiki/Q3691795)  
-
-### alignments:
- - [Coppa Nevigata](https://pleiades.stoa.org/places/442552)
 
 
 ## Q369528: River Tame
@@ -54951,13 +55000,6 @@
 
 ### alignments:
  - [Scornavacche](https://pleiades.stoa.org/places/462486)
-
-
-## Q3955654: Tomb of Priscilla
-[https://www.wikidata.org/wiki/Q3955654](https://www.wikidata.org/wiki/Q3955654)  
-
-### alignments:
- - [Tomb of Priscilla](https://pleiades.stoa.org/places/50864839)
 
 
 ## Q3981620: Tavole Palatine
@@ -59281,13 +59323,6 @@
  - [Panhellenios (mountain)](https://pleiades.stoa.org/places/580055)
 
 
-## Q97180948: Mausoleum Campo Barbarico
-[https://www.wikidata.org/wiki/Q97180948](https://www.wikidata.org/wiki/Q97180948)  
-
-### alignments:
- - [Mausoleum Campo Barbarico](https://pleiades.stoa.org/places/57783831)
-
-
 ## Q97201175: Mykalessos
 [https://www.wikidata.org/wiki/Q97201175](https://www.wikidata.org/wiki/Q97201175)  
 
@@ -59804,6 +59839,13 @@
 
 ### alignments:
  - [Quirinal Hill](https://pleiades.stoa.org/places/125119394)
+
+
+## Quiza Cenitana (Q7272713)
+[https://www.wikidata.org/wiki/Q7272713](https://www.wikidata.org/wiki/Q7272713)  
+
+### alignments:
+ - [Quiza Cenitana](https://pleiades.stoa.org/places/295327)
 
 
 ## Quwê (Q823862)
@@ -64208,6 +64250,13 @@
 
 ### alignments:
  - [Panapio/Punicum](https://pleiades.stoa.org/places/433010)
+
+
+## Santa Passera (Q3674186)
+[https://www.wikidata.org/wiki/Q3674186](https://www.wikidata.org/wiki/Q3674186)  
+
+### alignments:
+ - [S. Passera](https://pleiades.stoa.org/places/423051)
 
 
 ## Santa Pudenziana (church) (Q3674191)
@@ -72168,6 +72217,13 @@
  - [Tomb of Petosiris at Tuna el-Gebel](https://pleiades.stoa.org/places/254173129)
 
 
+## Tomb of Priscilla (Q3955654)
+[https://www.wikidata.org/wiki/Q3955654](https://www.wikidata.org/wiki/Q3955654)  
+
+### alignments:
+ - [Tomb of Priscilla](https://pleiades.stoa.org/places/50864839)
+
+
 ## Tomb of Protesilaus (Q121543499)
 [https://www.wikidata.org/wiki/Q121543499](https://www.wikidata.org/wiki/Q121543499)  
 
@@ -72509,6 +72565,13 @@
 
 ### alignments:
  - [Tower of Seneca](https://pleiades.stoa.org/places/276094797)
+
+
+## Torraccio a Poggio Moiano (Q141069079)
+[https://www.wikidata.org/wiki/Q141069079](https://www.wikidata.org/wiki/Q141069079)  
+
+### alignments:
+ - [Torraccio a Poggio Moiano](https://pleiades.stoa.org/places/762843934)
 
 
 ## Torraccio della Cecchina (Q3995103)
@@ -76201,6 +76264,13 @@
  - [Villa del fondo Ippolito Zurlo](https://pleiades.stoa.org/places/490597949)
 
 
+## Villa della Longarina (Q141085337)
+[https://www.wikidata.org/wiki/Q141085337](https://www.wikidata.org/wiki/Q141085337)  
+
+### alignments:
+ - [Villa della Longarina](https://pleiades.stoa.org/places/983899142)
+
+
 ## Villa della Pisanella (Q25510660)
 [https://www.wikidata.org/wiki/Q25510660](https://www.wikidata.org/wiki/Q25510660)  
 
@@ -76382,6 +76452,13 @@
 
 ### alignments:
  - [Villa of Diomedes](https://pleiades.stoa.org/places/142165735)
+
+
+## Villa of Fralana (Q109456874)
+[https://www.wikidata.org/wiki/Q109456874](https://www.wikidata.org/wiki/Q109456874)  
+
+### alignments:
+ - [Villa di Fralana](https://pleiades.stoa.org/places/603582704)
 
 
 ## Villa of Furius Octavianus (Q133730319)

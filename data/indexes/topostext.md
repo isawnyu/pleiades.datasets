@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5134 alignments exist in _Pleiades_ place references as of 2026-08-12. The following list of alignments is grouped by zotkey.
+5138 alignments exist in _Pleiades_ place references as of 2026-08-17. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -4765,6 +4765,13 @@
  - [Hellenistic Arsenal](https://pleiades.stoa.org/places/78993694)
 
 
+## Arsenaria (Mauretania)
+[https://topostext.org/place/363009UArs](https://topostext.org/place/363009UArs)  
+
+### alignments:
+ - [Arsennaria](https://pleiades.stoa.org/places/295219)
+
+
 ## Arsinoe (Cilicia)
 [https://topostext.org/place/361330UArs](https://topostext.org/place/361330UArs)  
 
@@ -7657,6 +7664,13 @@
 
 ### alignments:
  - [Carteia/Calpe/Karpessos](https://pleiades.stoa.org/places/256063)
+
+
+## Cartennas (Mauretania)
+[https://topostext.org/place/365013UCar](https://topostext.org/place/365013UCar)  
+
+### alignments:
+ - [Cartenna](https://pleiades.stoa.org/places/295240)
 
 
 ## Carthage (Tunisia)
@@ -20623,6 +20637,13 @@
  - [Dorion](https://pleiades.stoa.org/places/570202)
 
 
+## Malva River (Mauretania)
+[https://topostext.org/place/337-38WMou](https://topostext.org/place/337-38WMou)  
+
+### alignments:
+ - [Moulouya (river)](https://pleiades.stoa.org/places/285491)
+
+
 ## Managros exc. (Chios)  Pyrgi - Μαναγρός
 [https://topostext.org/place/382260XMan](https://topostext.org/place/382260XMan)  
 
@@ -28859,6 +28880,13 @@
 
 ### alignments:
  - [Quirinal Hill](https://pleiades.stoa.org/places/125119394)
+
+
+## Quiza Cenitana (Mauretania)
+[https://topostext.org/place/360002UQui](https://topostext.org/place/360002UQui)  
+
+### alignments:
+ - [Quiza Cenitana](https://pleiades.stoa.org/places/295327)
 
 
 ## Rakhi fort (Kefallenia)  Rakhi

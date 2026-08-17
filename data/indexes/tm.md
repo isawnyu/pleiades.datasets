@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5174 alignments exist in _Pleiades_ place references as of 2026-08-12. The following list of alignments is grouped by zotkey.
+5180 alignments exist in _Pleiades_ place references as of 2026-08-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3067,6 +3067,13 @@
 
 ### alignments:
  - [Reate](https://pleiades.stoa.org/places/413283)
+
+
+## GEO ID 10933: Badrin
+[https://www.trismegistos.org/place/10933](https://www.trismegistos.org/place/10933)  
+
+### alignments:
+ - [Badrin](https://pleiades.stoa.org/places/718015)
 
 
 ## GEO ID 10942: Faventia (Faenza)
@@ -10783,6 +10790,13 @@
  - [Kaputtasaccora](https://pleiades.stoa.org/places/285456)
 
 
+## GEO ID 20476: Quiza (El-Bénian)
+[https://www.trismegistos.org/place/20476](https://www.trismegistos.org/place/20476)  
+
+### alignments:
+ - [Quiza Cenitana](https://pleiades.stoa.org/places/295327)
+
+
 ## GEO ID 2047: Paneion (El-Kanayis)
 [http://www.trismegistos.org/place/2047](http://www.trismegistos.org/place/2047)  
 
@@ -10887,6 +10901,13 @@
 
 ### alignments:
  - [Antiochia/Theoupolis](https://pleiades.stoa.org/places/658381)
+
+
+## GEO ID 20618: Arsenaria (Sidi Bou Ras)
+[https://www.trismegistos.org/place/20618](https://www.trismegistos.org/place/20618)  
+
+### alignments:
+ - [Arsennaria](https://pleiades.stoa.org/places/295219)
 
 
 ## GEO ID 20624: Vahartanenses (Mechta Skaif)
@@ -22367,6 +22388,20 @@
  - [Oviscae?](https://pleiades.stoa.org/places/324798)
 
 
+## GEO ID 40313: Amudarsa
+[https://www.trismegistos.org/place/40313](https://www.trismegistos.org/place/40313)  
+
+### alignments:
+ - [Amudarsa](https://pleiades.stoa.org/places/329183)
+
+
+## GEO ID 40314: Autenti
+[https://www.trismegistos.org/place/40314](https://www.trismegistos.org/place/40314)  
+
+### alignments:
+ - [Autenti](https://pleiades.stoa.org/places/329189)
+
+
 ## GEO ID 40321: Menegere (Henchir Bou Taba)
 [https://www.trismegistos.org/place/40321](https://www.trismegistos.org/place/40321)  
 
@@ -23647,6 +23682,13 @@
 
 ### alignments:
  - [Caput fluminis Anae](https://pleiades.stoa.org/places/265841)
+
+
+## GEO ID 40955: Agiria
+[https://www.trismegistos.org/place/40955](https://www.trismegistos.org/place/40955)  
+
+### alignments:
+ - [Agiria](https://pleiades.stoa.org/places/246151)
 
 
 ## GEO ID 40956: Carae
