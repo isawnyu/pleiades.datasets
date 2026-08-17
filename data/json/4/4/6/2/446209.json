@@ -1,28 +1,45 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        15.734868,
+        40.423012,
+        15.734868,
+        40.423012
+    ],
     "connections": [
         {
             "@type": "Connection",
             "associationCertainty": "certain",
             "attestations": [],
-            "connectionType": "connection",
-            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection",
+            "connectionType": "on",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/on",
             "connectsTo": "https://pleiades.stoa.org/places/469059303",
-            "contributors": [],
+            "contributors": [
+                {
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
+                }
+            ],
             "created": "2016-07-13T13:47:27Z",
             "creators": [
                 {
                     "homepage": null,
-                    "name": "",
-                    "uri": "https://pleiades.stoa.org/author/admin",
-                    "username": "admin"
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies",
+                    "username": "sgillies"
                 }
             ],
             "description": "",
             "details": "",
             "end": null,
             "history": [
+                {
+                    "comment": "ctype, reference",
+                    "modified": "2026-08-16T14:17:46Z",
+                    "modifiedBy": "jbecker"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2016-07-13T13:47:27Z",
@@ -41,7 +58,19 @@
             ],
             "id": "469059303",
             "provenance": "Pleiades",
-            "references": [],
+            "references": [
+                {
+                    "accessURI": "http://www.worldcat.org/oclc/936644063",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
+                    "citationDetail": "104,5",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "ItAnt (Cuntz)",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
             "start": null,
             "title": "Via Herculia",
@@ -64,6 +93,12 @@
         },
         {
             "homepage": null,
+            "name": "Chiara Palladino",
+            "uri": "https://pleiades.stoa.org/author/cpalladino",
+            "username": "cpalladino"
+        },
+        {
+            "homepage": null,
             "name": "Tom Elliott",
             "uri": "https://pleiades.stoa.org/author/thomase",
             "username": "thomase"
@@ -75,7 +110,7 @@
             "username": "jbecker"
         }
     ],
-    "created": "2010-11-11T20:35:23Z",
+    "created": "2026-08-15T18:36:36Z",
     "creators": [
         {
             "name": "I.E.M. Edlund Berry",
@@ -86,23 +121,34 @@
             "username": null
         }
     ],
-    "description": "An ancient place, cited: BAtlas 45 unlocated Acidios",
+    "description": "Now unlocated, Acidios was a station on the Via Herculia according to the Antonine Itinerary, possibly located in the vicinity of Grumentum in the area of Marsico Nuovo.",
     "details": "<p>The Barrington Atlas Directory notes: statio on Via Herculia between Potentia and Grumentum</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    15.734868,
+                    40.423012
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-marsico-nuovo",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/446209/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/446209/osm-location-of-marsico-nuovo",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of Marsico Nuovo"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Edited description according to RE; added evidence in the references; updated Locations; Edited @cpalladino",
+            "modified": "2026-08-16T14:16:27Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2022-12-04T01:30:25Z",
@@ -153,97 +199,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-11T20:35:24Z",
+            "created": "2026-08-15T18:37:29Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Chiara Palladino",
+                    "uri": "https://pleiades.stoa.org/author/cpalladino",
+                    "username": "cpalladino"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    15.734868,
+                    40.423012
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:12:11Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2026-08-16T14:17:01Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-12T12:52:09Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Edited",
+                    "modified": "2026-08-16T14:16:55Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T21:04:10Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-15T18:38:08Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-08-15T18:37:47Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-08-15T18:37:30Z",
+                    "modifiedBy": "cpalladino"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:35:24Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-15T18:37:29Z",
+                    "modifiedBy": "cpalladino"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-marsico-nuovo",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 45 Acidios",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 67280708, version 4, osm:changeset=128835280, 2022-11-13T07:00:21Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/67280708",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 67280708",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=67280708",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/446209/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of Marsico Nuovo",
+            "uri": "https://pleiades.stoa.org/places/446209/osm-location-of-marsico-nuovo"
         }
     ],
     "names": [
@@ -333,11 +391,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "unlocated",
-        "station"
+        "station",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 45 Acidios",
     "references": [
@@ -357,11 +417,11 @@
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
             "citationDetail": "104.5",
-            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
             "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
             "otherIdentifier": "",
             "shortTitle": "ItAnt (Cuntz)",
-            "type": "seeFurther"
+            "type": "citesAsEvidence"
         },
         {
             "accessURI": "https://link.gale.com/apps/doc/CXWWNE753554551/NCCO?u=new64731&sid=bookmark-NCCO&xid=fc884f52&pg=1",
@@ -384,9 +444,23 @@
             "otherIdentifier": " ",
             "shortTitle": "TM",
             "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://de.wikisource.org/wiki/Paulys_Realencyclop%C3%A4die_der_classischen_Altertumswissenschaft",
+            "alternateURI": "https://de.wikisource.org/wiki/RE:Acidii",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
+            "citationDetail": "Acidii (C. Hülsen)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894. https://de.wikisource.org/wiki/Paulys_Realencyclop%C3%A4die_der_classischen_Altertumswissenschaft.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "RE",
+            "type": "citesAsEvidence"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        15.734868,
+        40.423012
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
