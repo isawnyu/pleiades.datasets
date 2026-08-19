@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-562 alignments exist in _Pleiades_ place references as of 2026-08-18. The following list of alignments is grouped by zotkey.
+561 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -234,15 +234,8 @@
  - [Kerameikos](https://pleiades.stoa.org/places/97294452)
 
 
-## 1.3.2
+## 1.3.2-1.3.3
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.3.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.3.2)  
-
-### alignments:
- - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)
-
-
-## 1.3.3
-[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.3.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.3.3)  
 
 ### alignments:
  - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5138 alignments exist in _Pleiades_ place references as of 2026-08-18. The following list of alignments is grouped by zotkey.
+5140 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -13660,6 +13660,13 @@
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
 
 
+## Heptaporus
+[https://topostext.org/people/24594](https://topostext.org/people/24594)  
+
+### alignments:
+ - [Heptaporos (river)](https://pleiades.stoa.org/places/897021085)
+
+
 ## Hera T. (Malta) 3 Tas-Silġ
 [https://topostext.org/place/358146SHer](https://topostext.org/place/358146SHer)  
 
@@ -24944,6 +24951,13 @@
 
 ### alignments:
  - [Pandosia?](https://pleiades.stoa.org/places/531039)
+
+
+## Pandroseion (Athens)
+[https://topostext.org/place/380237SPdr](https://topostext.org/place/380237SPdr)  
+
+### alignments:
+ - [Pandroseion](https://pleiades.stoa.org/places/936968680)
 
 
 ## Paneas/Caesarea Philippi (Palestine)

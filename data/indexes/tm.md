@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5180 alignments exist in _Pleiades_ place references as of 2026-08-18. The following list of alignments is grouped by zotkey.
+5180 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2758,6 +2758,13 @@
 
 ### alignments:
  - [Gela](https://pleiades.stoa.org/places/462214)
+
+
+## Geo 7217: Sobata (Shivta)
+[https://www.trismegistos.org/place/7217](https://www.trismegistos.org/place/7217)  
+
+### alignments:
+ - [Sobata](https://pleiades.stoa.org/places/688030)
 
 
 ## Geo 7518: Tenedos (Bozcaada)
@@ -34743,13 +34750,6 @@
 ### alignments:
  - [Scythae/Sagae/Sacae](https://pleiades.stoa.org/places/60676)
  - [Scythia](https://pleiades.stoa.org/places/1273)
-
-
-## GEO ID 7217: Sobata (Shivta)
-[http://www.trismegistos.org/place/7217](http://www.trismegistos.org/place/7217)  
-
-### alignments:
- - [Sobata](https://pleiades.stoa.org/places/688030)
 
 
 ## GEO ID 7222: Suburana

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11254 alignments exist in _Pleiades_ place references as of 2026-08-18. The following list of alignments is grouped by zotkey.
+11256 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1689,6 +1689,13 @@
 
 ### alignments:
  - [Agisymba](https://pleiades.stoa.org/places/355608)
+
+
+## Aglaureion (Q394211)
+[https://www.wikidata.org/wiki/Q394211](https://www.wikidata.org/wiki/Q394211)  
+
+### alignments:
+ - [Sanctuary of Aglauros](https://pleiades.stoa.org/places/965050506)
 
 
 ## Agneion (Q25164223)
@@ -5359,6 +5366,13 @@
 
 ### alignments:
  - [Arch of Gordian III at Musti](https://pleiades.stoa.org/places/225822532)
+
+
+## Arch of Hadrian (Q1567576)
+[https://www.wikidata.org/wiki/Q1567576](https://www.wikidata.org/wiki/Q1567576)  
+
+### alignments:
+ - [Arch of Hadrian at Athens](https://pleiades.stoa.org/places/235795850)
 
 
 ## Arch of Janus (Q580555)
@@ -20895,6 +20909,13 @@
  - [Ereikinion](https://pleiades.stoa.org/places/540766)
 
 
+## Eridanos (Q1353735)
+[https://www.wikidata.org/wiki/Q1353735](https://www.wikidata.org/wiki/Q1353735)  
+
+### alignments:
+ - [Eridanos](https://pleiades.stoa.org/places/591471666)
+
+
 ## Eridu (Q210065)
 [https://www.wikidata.org/wiki/Q210065](https://www.wikidata.org/wiki/Q210065)  
 
@@ -25364,6 +25385,13 @@
 
 ### alignments:
  - [Hephaistia](https://pleiades.stoa.org/places/550569)
+
+
+## Heptaporus (Q135851328)
+[https://www.wikidata.org/wiki/Q135851328](https://www.wikidata.org/wiki/Q135851328)  
+
+### alignments:
+ - [Heptaporos (river)](https://pleiades.stoa.org/places/897021085)
 
 
 ## Heraclea (Aeolis) (Q17121842)
@@ -48164,13 +48192,6 @@
  - [Tabernae Veteres](https://pleiades.stoa.org/places/108635484)
 
 
-## Q1353735: Eridanos
-[https://www.wikidata.org/wiki/Q1353735](https://www.wikidata.org/wiki/Q1353735)  
-
-### alignments:
- - [Eridanos](https://pleiades.stoa.org/places/591471666)
-
-
 ## Q1356788: Flag Fen
 [https://www.wikidata.org/wiki/Q1356788](https://www.wikidata.org/wiki/Q1356788)  
 
@@ -48960,13 +48981,6 @@
 
 ### alignments:
  - [Yazılıkaya (Eskişehir)](https://pleiades.stoa.org/places/609570)
-
-
-## Q1567576: Arch of Hadrian
-[https://www.wikidata.org/wiki/Q1567576](https://www.wikidata.org/wiki/Q1567576)  
-
-### alignments:
- - [Arch of Hadrian at Athens](https://pleiades.stoa.org/places/235795850)
 
 
 ## Q1568438: Abusir
@@ -53535,13 +53549,6 @@
 
 ### alignments:
  - [Pons Aeni](https://pleiades.stoa.org/places/187516)
-
-
-## Q331355
-[https://www.wikidata.org/wiki/Q331355](https://www.wikidata.org/wiki/Q331355)  
-
-### alignments:
- - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)
 
 
 ## Q3322814
@@ -67472,6 +67479,13 @@
 
 ### alignments:
  - [Stoa of Eumenes](https://pleiades.stoa.org/places/3347126)
+
+
+## Stoa of Zeus (Q331355)
+[https://www.wikidata.org/wiki/Q331355](https://www.wikidata.org/wiki/Q331355)  
+
+### alignments:
+ - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)
 
 
 ## Stoa Poikile (Q936234)

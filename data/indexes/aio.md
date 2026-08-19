@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with AIO
-153 alignments exist in _Pleiades_ place references as of 2026-08-18. The following list of alignments is grouped by zotkey.
+154 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
 
 ## 17.b1 = IG I3 259
 [https://www.atticinscriptions.com/inscription/IGI3/259](https://www.atticinscriptions.com/inscription/IGI3/259)  
@@ -582,6 +582,13 @@
 
 ### alignments:
  - [Rheneia (island)](https://pleiades.stoa.org/places/599919)
+
+
+## Findspot: Roman Agora
+[https://www.atticinscriptions.com/browse/byfindspot/roman-agora/](https://www.atticinscriptions.com/browse/byfindspot/roman-agora/)  
+
+### alignments:
+ - [Roman Agora of Athens](https://pleiades.stoa.org/places/773761100)
 
 
 ## Findspot: Salamis
