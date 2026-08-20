@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11256 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
+11259 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -21210,6 +21210,13 @@
  - [Europos/Euromos/Philippoi](https://pleiades.stoa.org/places/599616)
 
 
+## Euromos Zeus Temple (Q135581928)
+[https://www.wikidata.org/wiki/Q135581928](https://www.wikidata.org/wiki/Q135581928)  
+
+### alignments:
+ - [Temple of Zeus Lepsinos at Euromus](https://pleiades.stoa.org/places/642990135)
+
+
 ## Europa (Q5412023)
 [https://www.wikidata.org/wiki/Q5412023](https://www.wikidata.org/wiki/Q5412023)  
 
@@ -26729,6 +26736,13 @@
 
 ### alignments:
  - [Hydissos](https://pleiades.stoa.org/places/599653)
+
+
+## Hydra (Q208319)
+[https://www.wikidata.org/wiki/Q208319](https://www.wikidata.org/wiki/Q208319)  
+
+### alignments:
+ - [Hydroussa/Hydrea (island)](https://pleiades.stoa.org/places/570299)
 
 
 ## Hydramia (Q65075205)
@@ -41790,6 +41804,13 @@
  - [Pentele](https://pleiades.stoa.org/places/580064)
 
 
+## Penteliko Mountain (Q1125206)
+[https://www.wikidata.org/wiki/Q1125206](https://www.wikidata.org/wiki/Q1125206)  
+
+### alignments:
+ - [Pentelikon/Brilessos (mountain)](https://pleiades.stoa.org/places/580065)
+
+
 ## Pentephyle (Q65046428)
 [https://www.wikidata.org/wiki/Q65046428](https://www.wikidata.org/wiki/Q65046428)  
 
@@ -46284,13 +46305,6 @@
 
 ### alignments:
  - [Temple of Olympian Zeus, Athens](https://pleiades.stoa.org/places/659771158)
-
-
-## Q1125206: Penteliko Mountain
-[https://www.wikidata.org/wiki/Q1125206](https://www.wikidata.org/wiki/Q1125206)  
-
-### alignments:
- - [Pentelikon/Brilessos (mountain)](https://pleiades.stoa.org/places/580065)
 
 
 ## Q1126234: Tavolara Island
@@ -71097,6 +71111,13 @@
  - [Thermon](https://pleiades.stoa.org/places/541139)
 
 
+## Theseion sanctuary (Q36024284)
+[https://www.wikidata.org/wiki/Q36024284](https://www.wikidata.org/wiki/Q36024284)  
+
+### alignments:
+ - [Theseion](https://pleiades.stoa.org/places/17374034)
+
+
 ## Thesprotians (Q2551754)
 [https://www.wikidata.org/wiki/Q2551754](https://www.wikidata.org/wiki/Q2551754)  
 
@@ -73988,8 +74009,8 @@
  - [Pietrera tomb](https://pleiades.stoa.org/places/336528878)
 
 
-## Tumulus of the Plataeans (Q119056952)
-[https://www.wikidata.org/wiki/Q119056952](https://www.wikidata.org/wiki/Q119056952)  
+## Tumulus of the Plataeans (Q111512673)
+[https://www.wikidata.org/wiki/Q111512673](https://www.wikidata.org/wiki/Q111512673)  
 
 ### alignments:
  - [Plataean Tumulus (Marathon)](https://pleiades.stoa.org/places/774102407)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5140 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
+5141 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -33225,6 +33225,13 @@
 
 ### alignments:
  - [Thermopylae](https://pleiades.stoa.org/places/541140)
+
+
+## Theseion (Athens) (380237SThe)
+[https://topostext.org/place/380237SThe](https://topostext.org/place/380237SThe)  
+
+### alignments:
+ - [Theseion](https://pleiades.stoa.org/places/17374034)
 
 
 ## Thespiai (Boeotia)

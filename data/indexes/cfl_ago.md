@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-491 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
+492 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1711,6 +1711,13 @@
 
 ### alignments:
  - [Agrinion](https://pleiades.stoa.org/places/540599)
+
+
+## Toponyme - 37413 Hydra
+[https://chronique.efa.gr/?r=topo_public&id=37413](https://chronique.efa.gr/?r=topo_public&id=37413)  
+
+### alignments:
+ - [Hydroussa/Hydrea (island)](https://pleiades.stoa.org/places/570299)
 
 
 ## Toponyme - 37913: Kalamata-Δ.Δ.Καλαμάτας

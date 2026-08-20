@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1173 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
+1175 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -756,6 +756,13 @@
 
 ### alignments:
  - [Messapeai](https://pleiades.stoa.org/places/573373)
+
+
+## 10146670: the Tomb of Theseus (Athens)
+[https://resource.manto.unh.edu/10146670](https://resource.manto.unh.edu/10146670)  
+
+### alignments:
+ - [Theseion](https://pleiades.stoa.org/places/17374034)
 
 
 ## 10146676: The Sanctuary of Aphrodite Migonitis (Laconia) unlocatable sanctuary of Aphrodite near Gytheion
@@ -4908,6 +4915,13 @@
 
 ### alignments:
  - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
+
+
+## 11322076: Mount Brilessos (Attica)
+[https://resource.manto.unh.edu/11322076](https://resource.manto.unh.edu/11322076)  
+
+### alignments:
+ - [Pentelikon/Brilessos (mountain)](https://pleiades.stoa.org/places/580065)
 
 
 ## 11322762: Coryphasion (Messenia)

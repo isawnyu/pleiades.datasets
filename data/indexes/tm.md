@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5180 alignments exist in _Pleiades_ place references as of 2026-08-19. The following list of alignments is grouped by zotkey.
+5181 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -8422,6 +8422,13 @@
 
 ### alignments:
  - [Germanikeia](https://pleiades.stoa.org/places/658474)
+
+
+## GEO ID 1673: Pentaschoinon
+[https://www.trismegistos.org/place/1673](https://www.trismegistos.org/place/1673)  
+
+### alignments:
+ - [Pentascino](https://pleiades.stoa.org/places/690831)
 
 
 ## GEO ID 16740: Karkemish
