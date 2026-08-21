@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11259 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
+11261 alignments exist in _Pleiades_ place references as of 2026-08-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -33394,6 +33394,13 @@
  - [Moenus (river)](https://pleiades.stoa.org/places/109168)
 
 
+## Main street, Dura-Europos (Q116621893)
+[https://www.wikidata.org/wiki/Q116621893](https://www.wikidata.org/wiki/Q116621893)  
+
+### alignments:
+ - [Main Street](https://pleiades.stoa.org/places/451190253)
+
+
 ## Mainalo (Q2703145)
 [https://www.wikidata.org/wiki/Q2703145](https://www.wikidata.org/wiki/Q2703145)  
 
@@ -64026,6 +64033,13 @@
 
 ### alignments:
  - [Sanctuary of the Bona Dea](https://pleiades.stoa.org/places/510922209)
+
+
+## Sanctuary of the Egyptian gods (Nea Makri) (Q56397534)
+[https://www.wikidata.org/wiki/Q56397534](https://www.wikidata.org/wiki/Q56397534)  
+
+### alignments:
+ - [Sanctuary of the Egyptian gods (Nea Makri)](https://pleiades.stoa.org/places/887311735)
 
 
 ## Sanctuary of the Nymphs Ionides (Eleia) (Q107031254)

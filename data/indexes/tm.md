@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5181 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
+5182 alignments exist in _Pleiades_ place references as of 2026-08-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -768,6 +768,13 @@
 ### alignments:
  - [Samothrace (island)](https://pleiades.stoa.org/places/501597)
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
+
+
+## Geo 2096: Schedia (El-Giza)
+[https://www.trismegistos.org/place/2096](https://www.trismegistos.org/place/2096)  
+
+### alignments:
+ - [Schedia/Chaireon/Menelais?](https://pleiades.stoa.org/places/727221)
 
 
 ## Geo 2132: Sicilia
@@ -2275,6 +2282,13 @@
 
 ### alignments:
  - [Clivus Capitolinus](https://pleiades.stoa.org/places/152699900)
+
+
+## Geo 45007: Kelol (El-Ga'afira)
+[https://www.trismegistos.org/place/45007](https://www.trismegistos.org/place/45007)  
+
+### alignments:
+ - [Kelol](https://pleiades.stoa.org/places/736934)
 
 
 ## Geo 45201: Verucchio
@@ -11097,13 +11111,6 @@
 
 ### alignments:
  - [Col. Dea Vocontiorum](https://pleiades.stoa.org/places/167716)
-
-
-## GEO ID 2096: Schedia (El-Giza)
-[http://www.trismegistos.org/place/2096](http://www.trismegistos.org/place/2096)  
-
-### alignments:
- - [Schedia/Chaireon/Menelais?](https://pleiades.stoa.org/places/727221)
 
 
 ## GEO ID 20974

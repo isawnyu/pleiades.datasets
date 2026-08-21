@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5141 alignments exist in _Pleiades_ place references as of 2026-08-20. The following list of alignments is grouped by zotkey.
+5142 alignments exist in _Pleiades_ place references as of 2026-08-21. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -7061,6 +7061,13 @@
 
 ### alignments:
  - [Brenthe](https://pleiades.stoa.org/places/570168)
+
+
+## Brexiza Egyptian Gods sanct. (Attica)
+[https://topostext.org/place/381240SEgy](https://topostext.org/place/381240SEgy)  
+
+### alignments:
+ - [Sanctuary of the Egyptian gods (Nea Makri)](https://pleiades.stoa.org/places/887311735)
 
 
 ## Briantike region (Rodopi) 1  - Βριαντική
