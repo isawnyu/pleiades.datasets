@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 0,2
-# Date: 2026/08/16 06:58:25.853082 GMT-4
+# Date: 2026/08/23 06:58:1.492036 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 332634
+# Triple count: 332697
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -21230,9 +21230,10 @@
     rdfs:comment "A group of nine Bronze Age barrows in Somerset, England.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/112379514> .
 
-<https://pleiades.stoa.org/places/112379514/osm-location-of-robin-hoods-butts> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+<https://pleiades.stoa.org/places/112379514/osm-location-of-robin-hoods-butts> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Representative location based on OpenStreetMap";
-    dcterms:modified "2024-12-18T13:25:28-04:00";
+    dcterms:modified "2026-08-20T15:30:12-04:00";
     dcterms:title "OSM location of Robin Hood's Butts";
     owl:sameAs <http://pleiades.stoa.org/places/112379514/osm-location-of-robin-hoods-butts> .
 
@@ -79312,6 +79313,25 @@
     dcterms:title "OSM location of Puig de Sa Morisca archaeological area";
     owl:sameAs <http://pleiades.stoa.org/places/173312608/osm-location> .
 
+<https://pleiades.stoa.org/places/17374034%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Theseion";
+    spatial:C <https://pleiades.stoa.org/places/579885%23this>;
+    rdfs:comment "Now destroyed Tomb of Theseus at Athens. Described by Pausanias to have the bones of Theseus. Once thought to be the Hephaisteion temple.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/17374034> .
+
+<https://pleiades.stoa.org/places/17374034/theseion> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "";
+    dcterms:modified "2026-08-19T13:24:14-04:00";
+    dcterms:title "Theseion";
+    owl:sameAs <http://pleiades.stoa.org/places/17374034/theseion> .
+
+<https://pleiades.stoa.org/places/17374034/topostext-location> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Representative location derived from Topostext";
+    dcterms:modified "2026-08-19T13:24:14-04:00";
+    dcterms:title "ToposText Location";
+    owl:sameAs <http://pleiades.stoa.org/places/17374034/topostext-location> .
+
 <https://pleiades.stoa.org/places/174231907/numeruskastell-welzheim> dcterms:creator <https://pleiades.stoa.org/author/thomase>;
     dcterms:description "";
     dcterms:modified "2022-03-31T22:08:33-04:00";
@@ -131353,7 +131373,7 @@
         "Wikipedia (English) Robin Hood's Butts";
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A group of nine Bronze Age barrows in Somerset, England.";
-    dcterms:modified "2024-12-18T13:25:28-04:00";
+    dcterms:modified "2026-08-20T15:30:11-04:00";
     dcterms:title "Robin Hood's Butts";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q20712670>;
     cito:citesForInformation <https://en.wikipedia.org/wiki/Robin_Hood%2527s_Butts>;
@@ -204541,6 +204561,34 @@
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location> .
+
+<https://pleiades.stoa.org/places/17374034> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "MANTO 10146670: the Tomb of Theseus (Athens)",
+        "Paus. (Spiro: Perseus) 1.17.6",
+        "Str. (Meineke: Perseus) 9.1.16",
+        "ToposText Theseion (Athens) (380237SThe)",
+        "Wikidata Theseion sanctuary (Q36024284)";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Now destroyed Tomb of Theseus at Athens. Described by Pausanias to have the bones of Theseus. Once thought to be the Hephaisteion temple.";
+    dcterms:modified "2026-08-19T13:24:14-04:00";
+    dcterms:title "Theseion";
+    cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.1.16>,
+        <http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.17.6>;
+    cito:citesAsRelated <https://resource.manto.unh.edu/10146670>,
+        <https://topostext.org/place/380237SThe>,
+        <https://www.wikidata.org/wiki/Q36024284>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/579885>;
+    owl:sameAs <http://pleiades.stoa.org/places/17374034>;
+    skos:altLabel "Θησεῖον"@grc;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/sanctuary>,
+        <https://pleiades.stoa.org/vocabularies/temple-2>,
+        <https://pleiades.stoa.org/vocabularies/tomb>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/topostext-location>;
+    pleiades:hasName <https://pleiades.stoa.org/places/theseion> .
 
 <https://pleiades.stoa.org/places/174231907%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Welzheim: Ostkastell";
@@ -293718,8 +293766,8 @@
     pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/places/osm-location-of-robin-hoods-butts> a <https://pleiades.stoa.org/places/vocab#Location>;
-    dcterms:bibliographicCitation "OSM Node 2839482344";
-    cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/2839482344>;
+    dcterms:bibliographicCitation "OSM Node: Robin Hood's Butts (2839482344)";
+    cito:citesAsDataSource <https://www.openstreetmap.org/node/2839482344>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-robin-hoods-butts>;
     prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 2839482344, version 7, osm:changeset=138540530, 2023-07-15T11:12:06Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/bronze-age-britain>;
@@ -305749,6 +305797,18 @@
     pleiades:end_date 2100;
     pleiades:nameRomanized "Thésée";
     pleiades:start_date 1700 .
+
+<https://pleiades.stoa.org/places/theseion> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Str. (Meineke: Perseus) 9.1.16";
+    cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:9.1.16>;
+    owl:sameAs <http://pleiades.stoa.org/places/theseion>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
+        <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 300;
+    pleiades:nameAttested "Θησεῖον"@grc;
+    pleiades:nameRomanized "Theseion";
+    pleiades:start_date -330 .
 
 <https://pleiades.stoa.org/places/thessalia> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 4.28.4";
@@ -320582,7 +320642,8 @@
         "Wikidata Parthenon (Q10288)",
         "Wikipedia (English) Parthenon",
         "de Lara 2023 ",
-        "van Rookhuijzen 2020 ";
+        "van Rookhuijzen 2020 ",
+        "vici.org 11523: Parthenon";
     dcterms:contributor <https://pleiades.stoa.org/author/acampbell>,
         <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/cdlisle>,
@@ -320593,7 +320654,7 @@
             foaf:name "jfu" ];
     dcterms:creator <https://pleiades.stoa.org/author/gmckee>;
     dcterms:description "The temple of Athena Parthenos located on the Acropolis of Athens, which was constructed at the height of Athenian power between 447 and 432 BCE. It is the largest Doric temple in mainland Greece.";
-    dcterms:modified "2026-05-07T12:43:00-04:00";
+    dcterms:modified "2026-08-18T22:03:26-04:00";
     dcterms:subject "Athena",
         "Doric",
         "Temple",
@@ -320607,6 +320668,7 @@
         <https://resource.manto.unh.edu/10152722>,
         <https://romeresearchgroup.org/items/1000944>,
         <https://topostext.org/place/380237SAth>,
+        <https://vici.org/vici/11523/>,
         <https://www.wikidata.org/wiki/Q10288>;
     cito:citesForInformation <http://site.ebrary.com/id/2002855>,
         <http://whc.unesco.org/en/list/404>,
@@ -335103,31 +335165,6 @@
     pleiades:end_date 300;
     pleiades:start_date -30 .
 
-<https://pleiades.stoa.org/places/topostext-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    dcterms:bibliographicCitation "Eaby 2007 pages 63-64",
-        "ToposText 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia",
-        "ToposText 380237SOTA",
-        "ToposText 385225BDGy",
-        "ToposText Kynosarges sanct. (Athens) 45 Neos Kosmos - Κυνόσαργες",
-        "Wikidata Gymnasium at Delphi (Q22668472)";
-    cito:citesAsDataSource <https://topostext.org/place/352261XPla>,
-        <https://topostext.org/place/380237BKyn>,
-        <https://topostext.org/place/380237SOTA>,
-        <https://topostext.org/place/385225BDGy>,
-        <https://www.zotero.org/groups/pleiades/items/L4LQKSB9>;
-    cito:citesForInformation <https://www.wikidata.org/wiki/Q22668472>;
-    owl:sameAs <http://pleiades.stoa.org/places/topostext-location>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ],
-        [ rdfs:label "Pleiades" ],
-        [ rdfs:label "Pleiades" ],
-        [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/late-minoan>,
-        <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
-    pleiades:end_date -1080,
-        2099;
-    pleiades:start_date -1600,
-        2000 .
-
 <http://atlantides.org/capgrids/102%23E3> osgeo:extent <http://atlantides.org/capgrids/102%23E3-extent> .
 
 <http://atlantides.org/capgrids/102%23F5> osgeo:extent <http://atlantides.org/capgrids/102%23F5-extent> .
@@ -336523,6 +336560,34 @@
     pleiades:nameRomanized "Mediolanum";
     pleiades:start_date -330,
         -30 .
+
+<https://pleiades.stoa.org/places/topostext-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "Eaby 2007 pages 63-64",
+        "ToposText 352261XPla: Platyskinos/Achladia tholos (Crete) Achladia",
+        "ToposText 380237SOTA",
+        "ToposText 385225BDGy",
+        "ToposText Kynosarges sanct. (Athens) 45 Neos Kosmos - Κυνόσαργες",
+        "ToposText Theseion (380237SThe)",
+        "Wikidata Gymnasium at Delphi (Q22668472)";
+    cito:citesAsDataSource <https://topostext.org/place/352261XPla>,
+        <https://topostext.org/place/380237BKyn>,
+        <https://topostext.org/place/380237SOTA>,
+        <https://topostext.org/place/380237SThe>,
+        <https://topostext.org/place/385225BDGy>,
+        <https://www.zotero.org/groups/pleiades/items/L4LQKSB9>;
+    cito:citesForInformation <https://www.wikidata.org/wiki/Q22668472>;
+    owl:sameAs <http://pleiades.stoa.org/places/topostext-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/late-minoan>,
+        <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date -1080,
+        2099;
+    pleiades:start_date -1600,
+        2000 .
 
 <http://atlantides.org/capgrids/12%23D4> osgeo:extent <http://atlantides.org/capgrids/12%23D4-extent> .
 
@@ -341295,8 +341360,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 40" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
@@ -341352,8 +341417,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 19 C3 Tuliassi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 B2 Vennon(et)es" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 C3 Venostes" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 19 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 46" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 19 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 F4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 A2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 A2" ],
