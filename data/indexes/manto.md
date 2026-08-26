@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1175 alignments exist in _Pleiades_ place references as of 2026-08-21. The following list of alignments is grouped by zotkey.
+1178 alignments exist in _Pleiades_ place references as of 2026-08-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4238,6 +4238,13 @@
  - [Achilleion](https://pleiades.stoa.org/places/550401)
 
 
+## 11313290: Hamaxitos (Troad)
+[https://resource.manto.unh.edu/11313290](https://resource.manto.unh.edu/11313290)  
+
+### alignments:
+ - [Hamaxitos](https://pleiades.stoa.org/places/550565)
+
+
 ## 11313347: Gargara (Troad)
 [https://resource.manto.unh.edu/11313347](https://resource.manto.unh.edu/11313347)  
 
@@ -7347,6 +7354,13 @@
  - [Encheleioi](https://pleiades.stoa.org/places/481829)
 
 
+## 9717117: Chryse (Troad)
+[https://resource.manto.unh.edu/9717117](https://resource.manto.unh.edu/9717117)  
+
+### alignments:
+ - [Chrysa](https://pleiades.stoa.org/places/550500)
+
+
 ## 9718649: River Xanthos (Lycia)
 [https://resource.manto.unh.edu/9718649](https://resource.manto.unh.edu/9718649)  
 
@@ -8136,6 +8150,13 @@
 
 ### alignments:
  - [E-kara/Icarus (island)](https://pleiades.stoa.org/places/912841)
+
+
+## Larisa (Troad)
+[https://resource.manto.unh.edu/9718668](https://resource.manto.unh.edu/9718668)  
+
+### alignments:
+ - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
 
 
 ## Megalopolis (Arcadia)

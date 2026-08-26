@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5182 alignments exist in _Pleiades_ place references as of 2026-08-21. The following list of alignments is grouped by zotkey.
+5184 alignments exist in _Pleiades_ place references as of 2026-08-26. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2443,13 +2443,6 @@
 
 ### alignments:
  - [Sale](https://pleiades.stoa.org/places/501595)
-
-
-## Geo 5256: Larisa (Limantepe)
-[http://www.trismegistos.org/place/5256](http://www.trismegistos.org/place/5256)  
-
-### alignments:
- - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
 
 
 ## Geo 526: Cilicia
@@ -16048,6 +16041,13 @@
 
 ### alignments:
  - [Peretnouis/Pheretnouis](https://pleiades.stoa.org/places/737000)
+
+
+## GEO ID 30353: Tragasai (Tuzla)
+[https://www.trismegistos.org/place/30353](https://www.trismegistos.org/place/30353)  
+
+### alignments:
+ - [Tragasai](https://pleiades.stoa.org/places/550940)
 
 
 ## GEO ID 3036: Assya
@@ -32019,6 +32019,13 @@
  - [Cadmea](https://pleiades.stoa.org/places/239936126)
 
 
+## GEO ID 5256: Larisa (Limantepe)
+[http://www.trismegistos.org/place/5256](http://www.trismegistos.org/place/5256)  
+
+### alignments:
+ - [Larisa/Ptolemais?](https://pleiades.stoa.org/places/550685)
+
+
 ## GEO ID 5263: Klimax (Qattara-Pass)
 [http://www.trismegistos.org/place/5263](http://www.trismegistos.org/place/5263)  
 
@@ -32514,6 +32521,13 @@
 
 ### alignments:
  - [*Kokylion?](https://pleiades.stoa.org/places/550658)
+
+
+## GEO ID 56281: Chrysa (Göztepe)
+[https://www.trismegistos.org/place/56281](https://www.trismegistos.org/place/56281)  
+
+### alignments:
+ - [Chrysa](https://pleiades.stoa.org/places/550500)
 
 
 ## GEO ID 56491: Agryle Kathyperthen
