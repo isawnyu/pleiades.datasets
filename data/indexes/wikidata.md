@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11307 alignments exist in _Pleiades_ place references as of 2026-08-26. The following list of alignments is grouped by zotkey.
+11331 alignments exist in _Pleiades_ place references as of 2026-08-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -10277,11 +10277,39 @@
  - [Block L8](https://pleiades.stoa.org/places/451190379)
 
 
+## Block M1, Dura-Europos (Q116622037)
+[https://www.wikidata.org/wiki/Q116622037](https://www.wikidata.org/wiki/Q116622037)  
+
+### alignments:
+ - [Block M1](https://pleiades.stoa.org/places/451190380)
+
+
+## Block M2, Dura-Europos (Q116622039)
+[https://www.wikidata.org/wiki/Q116622039](https://www.wikidata.org/wiki/Q116622039)  
+
+### alignments:
+ - [Block M2](https://pleiades.stoa.org/places/451190381)
+
+
+## Block M3, Dura-Europos (Q116622040)
+[https://www.wikidata.org/wiki/Q116622040](https://www.wikidata.org/wiki/Q116622040)  
+
+### alignments:
+ - [Block M3](https://pleiades.stoa.org/places/451190382)
+
+
 ## Block M4, Dura-Europos (Q116622041)
 [https://www.wikidata.org/wiki/Q116622041](https://www.wikidata.org/wiki/Q116622041)  
 
 ### alignments:
  - [Block M4](https://pleiades.stoa.org/places/451190383)
+
+
+## Block M5, Dura-Europos (Q116622042)
+[https://www.wikidata.org/wiki/Q116622042](https://www.wikidata.org/wiki/Q116622042)  
+
+### alignments:
+ - [Block M5](https://pleiades.stoa.org/places/451190384)
 
 
 ## Block M6, Dura-Europos (Q116622043)
@@ -10291,11 +10319,32 @@
  - [Block M6](https://pleiades.stoa.org/places/451190385)
 
 
+## Block M7, Dura-Europos (Q116622044)
+[https://www.wikidata.org/wiki/Q116622044](https://www.wikidata.org/wiki/Q116622044)  
+
+### alignments:
+ - [Block M7](https://pleiades.stoa.org/places/451190386)
+
+
 ## Block M8, Dura-Europos (Q116622045)
 [https://www.wikidata.org/wiki/Q116622045](https://www.wikidata.org/wiki/Q116622045)  
 
 ### alignments:
  - [Block M8](https://pleiades.stoa.org/places/451190387)
+
+
+## Block N2, Dura-Europos (Q116622047)
+[https://www.wikidata.org/wiki/Q116622047](https://www.wikidata.org/wiki/Q116622047)  
+
+### alignments:
+ - [Block N2](https://pleiades.stoa.org/places/451190389)
+
+
+## Block N3, Dura-Europos (Q116622048)
+[https://www.wikidata.org/wiki/Q116622048](https://www.wikidata.org/wiki/Q116622048)  
+
+### alignments:
+ - [Block N3](https://pleiades.stoa.org/places/451190390)
 
 
 ## Block N4, Dura-Europos (Q116622072)
@@ -10305,11 +10354,53 @@
  - [Block N4](https://pleiades.stoa.org/places/451190391)
 
 
+## Block N5, Dura-Europos (Q116622074)
+[https://www.wikidata.org/wiki/Q116622074](https://www.wikidata.org/wiki/Q116622074)  
+
+### alignments:
+ - [Block N5](https://pleiades.stoa.org/places/451190392)
+
+
 ## Block N6, Dura-Europos (Q116622076)
 [https://www.wikidata.org/wiki/Q116622076](https://www.wikidata.org/wiki/Q116622076)  
 
 ### alignments:
  - [Block N6](https://pleiades.stoa.org/places/451190393)
+
+
+## Block N7, Dura-Europos (Q116622077)
+[https://www.wikidata.org/wiki/Q116622077](https://www.wikidata.org/wiki/Q116622077)  
+
+### alignments:
+ - [Block N7](https://pleiades.stoa.org/places/451190394)
+
+
+## Block N8, Dura-Europos (Q116622079)
+[https://www.wikidata.org/wiki/Q116622079](https://www.wikidata.org/wiki/Q116622079)  
+
+### alignments:
+ - [Block N8](https://pleiades.stoa.org/places/451190395)
+
+
+## Block X1, Dura-Europos (Q116622080)
+[https://www.wikidata.org/wiki/Q116622080](https://www.wikidata.org/wiki/Q116622080)  
+
+### alignments:
+ - [Block X1](https://pleiades.stoa.org/places/451190396)
+
+
+## Block X10, Dura-Europos (Q116622095)
+[https://www.wikidata.org/wiki/Q116622095](https://www.wikidata.org/wiki/Q116622095)  
+
+### alignments:
+ - [Block X10](https://pleiades.stoa.org/places/451190405)
+
+
+## Block X2, Dura-Europos (Q116622081)
+[https://www.wikidata.org/wiki/Q116622081](https://www.wikidata.org/wiki/Q116622081)  
+
+### alignments:
+ - [Block X2](https://pleiades.stoa.org/places/451190397)
 
 
 ## Block X3, Dura-Europos (Q116622083)
@@ -20215,6 +20306,13 @@
  - [Ebutiana](https://pleiades.stoa.org/places/438729)
 
 
+## EC basilica site in Varka, Ypati (Q38281492)
+[https://www.wikidata.org/wiki/Q38281492](https://www.wikidata.org/wiki/Q38281492)  
+
+### alignments:
+ - [Loutra Hypatis Early Christian basilica and bath](https://pleiades.stoa.org/places/540920)
+
+
 ## Ecbatana (Q696193)
 [https://www.wikidata.org/wiki/Q696193](https://www.wikidata.org/wiki/Q696193)  
 
@@ -22933,6 +23031,13 @@
  - [Fórnea Roman villa](https://pleiades.stoa.org/places/363525448)
 
 
+## G street, Dura-Europos (Q116621888)
+[https://www.wikidata.org/wiki/Q116621888](https://www.wikidata.org/wiki/Q116621888)  
+
+### alignments:
+ - [G Street](https://pleiades.stoa.org/places/451190248)
+
+
 ## Gabali (Q1007141)
 [https://www.wikidata.org/wiki/Q1007141](https://www.wikidata.org/wiki/Q1007141)  
 
@@ -24890,6 +24995,13 @@
  - [Lykos (river)](https://pleiades.stoa.org/places/845006)
 
 
+## H street, Dura-Europos (Q116621889)
+[https://www.wikidata.org/wiki/Q116621889](https://www.wikidata.org/wiki/Q116621889)  
+
+### alignments:
+ - [H Street](https://pleiades.stoa.org/places/451190249)
+
+
 ## Habitancum (Q5636876)
 [https://www.wikidata.org/wiki/Q5636876](https://www.wikidata.org/wiki/Q5636876)  
 
@@ -25224,6 +25336,13 @@
 
 ### alignments:
  - [Gallo-Roman Sanctuary at Hanches](https://pleiades.stoa.org/places/109031)
+
+
+## Haradum (Q3127717)
+[https://www.wikidata.org/wiki/Q3127717](https://www.wikidata.org/wiki/Q3127717)  
+
+### alignments:
+ - [Haradu](https://pleiades.stoa.org/places/894003)
 
 
 ## Harappa (Q185562)
@@ -27249,6 +27368,13 @@
  - [I Morroni](https://pleiades.stoa.org/places/380606286)
 
 
+## I street, Dura-Europos (Q116621890)
+[https://www.wikidata.org/wiki/Q116621890](https://www.wikidata.org/wiki/Q116621890)  
+
+### alignments:
+ - [I Street](https://pleiades.stoa.org/places/451190250)
+
+
 ## Iadatini (Q135485115)
 [https://www.wikidata.org/wiki/Q135485115](https://www.wikidata.org/wiki/Q135485115)  
 
@@ -28244,6 +28370,13 @@
  - [Syspiritis](https://pleiades.stoa.org/places/857341)
 
 
+## J street, Dura-Europos (Q116621891)
+[https://www.wikidata.org/wiki/Q116621891](https://www.wikidata.org/wiki/Q116621891)  
+
+### alignments:
+ - [J Street](https://pleiades.stoa.org/places/451190251)
+
+
 ## J1 Barracks (Q122158559)
 [https://www.wikidata.org/wiki/Q122158559](https://www.wikidata.org/wiki/Q122158559)  
 
@@ -28558,6 +28691,13 @@
 
 ### alignments:
  - [Iuvanum](https://pleiades.stoa.org/places/432887)
+
+
+## K street, Dura-Europos (Q116621892)
+[https://www.wikidata.org/wiki/Q116621892](https://www.wikidata.org/wiki/Q116621892)  
+
+### alignments:
+ - [K Street](https://pleiades.stoa.org/places/451190252)
 
 
 ## K5 Barracks (Q122158554)
@@ -36035,6 +36175,13 @@
  - [Military Base](https://pleiades.stoa.org/places/451190407)
 
 
+## Military Campus, Dura-Europos (Q116622105)
+[https://www.wikidata.org/wiki/Q116622105](https://www.wikidata.org/wiki/Q116622105)  
+
+### alignments:
+ - [Military Campus](https://pleiades.stoa.org/places/451190411)
+
+
 ## Military compound in the Temple of Artemis Azzanathkona (Q118390421)
 [https://www.wikidata.org/wiki/Q118390421](https://www.wikidata.org/wiki/Q118390421)  
 
@@ -38876,6 +39023,13 @@
 
 ### alignments:
  - [Hyperboreios/Douekaledonios Okeanos](https://pleiades.stoa.org/places/20489)
+
+
+## North citadel gate, Dura-Europos (Q116621912)
+[https://www.wikidata.org/wiki/Q116621912](https://www.wikidata.org/wiki/Q116621912)  
+
+### alignments:
+ - [North Citadel Gate](https://pleiades.stoa.org/places/451190270)
 
 
 ## North Leigh Roman Villa (Q1705995)
@@ -44988,6 +45142,13 @@
 
 ### alignments:
  - [Corvey](https://pleiades.stoa.org/places/377547412)
+
+
+## principia, Dura-Europos (Q107436407)
+[https://www.wikidata.org/wiki/Q107436407](https://www.wikidata.org/wiki/Q107436407)  
+
+### alignments:
+ - [Principia](https://pleiades.stoa.org/places/888638001)
 
 
 ## Priniatikos Pyrgos (Q7245224
@@ -62955,6 +63116,13 @@
 
 ### alignments:
  - [Royal Hypogeum at Qatna](https://pleiades.stoa.org/places/650320274)
+
+
+## Royal Palace of Mari (Q1887409)
+[https://www.wikidata.org/wiki/Q1887409](https://www.wikidata.org/wiki/Q1887409)  
+
+### alignments:
+ - [Royal Palace of Māri](https://pleiades.stoa.org/places/538862595)
 
 
 ## Rudiae (Q3942250)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5142 alignments exist in _Pleiades_ place references as of 2026-08-26. The following list of alignments is grouped by zotkey.
+5142 alignments exist in _Pleiades_ place references as of 2026-08-28. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -20009,7 +20009,7 @@
 [https://topostext.org/place/389223ELou](https://topostext.org/place/389223ELou)  
 
 ### alignments:
- - [Loutra Hypatis](https://pleiades.stoa.org/places/540920)
+ - [Loutra Hypatis Early Christian basilica and bath](https://pleiades.stoa.org/places/540920)
 
 
 ## Loutra site (Crete)  Loutra - Λουτρά
