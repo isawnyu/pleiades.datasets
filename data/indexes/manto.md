@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1178 alignments exist in _Pleiades_ place references as of 2026-08-28. The following list of alignments is grouped by zotkey.
+1179 alignments exist in _Pleiades_ place references as of 2026-08-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -749,6 +749,13 @@
 
 ### alignments:
  - [Nicomedia](https://pleiades.stoa.org/places/511337)
+
+
+## 10146665: the Tomb of Orestes (Sparta)
+[https://resource.manto.unh.edu/10146665](https://resource.manto.unh.edu/10146665)  
+
+### alignments:
+ - [Tomb of Orestes (Sparta)](https://pleiades.stoa.org/places/219059935)
 
 
 ## 10146667: the Sanctuary of Zeus Messapeus near Brysiai (Laconia)

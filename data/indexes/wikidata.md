@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11331 alignments exist in _Pleiades_ place references as of 2026-08-28. The following list of alignments is grouped by zotkey.
+11336 alignments exist in _Pleiades_ place references as of 2026-08-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5534,6 +5534,13 @@
 
 ### alignments:
  - [Arch of Trajan at Canosa](https://pleiades.stoa.org/places/829122898)
+
+
+## Arch of Trajan at Dura-Europos (Q121301899)
+[https://www.wikidata.org/wiki/Q121301899](https://www.wikidata.org/wiki/Q121301899)  
+
+### alignments:
+ - [Arch of Trajan at Dura-Europos](https://pleiades.stoa.org/places/56308089)
 
 
 ## archaeological area of Carife (Q28670860)
@@ -15987,6 +15994,13 @@
 
 ### alignments:
  - [Salinae *Tubunenses](https://pleiades.stoa.org/places/334615)
+
+
+## Chreophylakeion (Q121301900)
+[https://www.wikidata.org/wiki/Q121301900](https://www.wikidata.org/wiki/Q121301900)  
+
+### alignments:
+ - [Chreophylakeion](https://pleiades.stoa.org/places/45230554)
 
 
 ## Christian Basilica (Q810067)
@@ -26591,6 +26605,13 @@
  - [House L7-H](https://pleiades.stoa.org/places/769637721)
 
 
+## House M7-A (Q121302022)
+[https://www.wikidata.org/wiki/Q121302022](https://www.wikidata.org/wiki/Q121302022)  
+
+### alignments:
+ - [House M7-A](https://pleiades.stoa.org/places/937318869)
+
+
 ## House M7-W (Q121302023)
 [https://www.wikidata.org/wiki/Q121302023](https://www.wikidata.org/wiki/Q121302023)  
 
@@ -29917,6 +29938,13 @@
 
 ### alignments:
  - [Middlewich Roman fort](https://pleiades.stoa.org/places/929059942)
+
+
+## King's Stables (Q6411107)
+[https://www.wikidata.org/wiki/Q6411107](https://www.wikidata.org/wiki/Q6411107)  
+
+### alignments:
+ - [King's Stables](https://pleiades.stoa.org/places/686476673)
 
 
 ## Kingdom of Dardania (Q11916620)
@@ -33485,6 +33513,7 @@
  - [Sanctuary of the Muses](https://pleiades.stoa.org/places/540951)
  - [Side](https://pleiades.stoa.org/places/570669)
  - [Siriopaiones](https://pleiades.stoa.org/places/501614)
+ - [Small Temple of Bel](https://pleiades.stoa.org/places/246255506)
  - [Tall al-Ḥadīdī](https://pleiades.stoa.org/places/702110865)
  - [Tassiesholm](https://pleiades.stoa.org/places/292892276)
  - [Via Francigena](https://pleiades.stoa.org/places/136661131)
@@ -72720,6 +72749,13 @@
 
 ### alignments:
  - [Tomb of Numerius Agrestinus Equitius Pulcher](https://pleiades.stoa.org/places/719121735)
+
+
+## Tomb of Orestes near sanctuary of the Fates at Sparta (Q124616308)
+[https://www.wikidata.org/wiki/Q124616308](https://www.wikidata.org/wiki/Q124616308)  
+
+### alignments:
+ - [Tomb of Orestes (Sparta)](https://pleiades.stoa.org/places/219059935)
 
 
 ## Tomb of P. Mancius Diogenes (Q29887371)

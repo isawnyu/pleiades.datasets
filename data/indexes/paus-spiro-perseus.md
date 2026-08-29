@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-562 alignments exist in _Pleiades_ place references as of 2026-08-28. The following list of alignments is grouped by zotkey.
+563 alignments exist in _Pleiades_ place references as of 2026-08-29. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -1511,6 +1511,13 @@
 
 ### alignments:
  - [Skotitas](https://pleiades.stoa.org/places/570678)
+
+
+## 3.11.10
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.11.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.11.10)  
+
+### alignments:
+ - [Tomb of Orestes (Sparta)](https://pleiades.stoa.org/places/219059935)
 
 
 ## 3.13.1
