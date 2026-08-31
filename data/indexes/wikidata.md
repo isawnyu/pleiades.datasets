@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11336 alignments exist in _Pleiades_ place references as of 2026-08-29. The following list of alignments is grouped by zotkey.
+11339 alignments exist in _Pleiades_ place references as of 2026-08-31. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -16844,6 +16844,13 @@
  - [Kobandoi](https://pleiades.stoa.org/places/101205)
 
 
+## Cocosates (Q2544830)
+[https://www.wikidata.org/wiki/Q2544830](https://www.wikidata.org/wiki/Q2544830)  
+
+### alignments:
+ - [Cocosates (Sexsignani)](https://pleiades.stoa.org/places/246339)
+
+
 ## Cocullo (Q50085)
 [https://www.wikidata.org/wiki/Q50085](https://www.wikidata.org/wiki/Q50085)  
 
@@ -32354,6 +32361,13 @@
 
 ### alignments:
  - [Leuna](https://pleiades.stoa.org/places/118804)
+
+
+## Leuni (Q9021994)
+[https://www.wikidata.org/wiki/Q9021994](https://www.wikidata.org/wiki/Q9021994)  
+
+### alignments:
+ - [Leuni?](https://pleiades.stoa.org/places/236515)
 
 
 ## Leusaba (Q56393816)
@@ -66219,6 +66233,13 @@
 
 ### alignments:
  - [Settefinestre](https://pleiades.stoa.org/places/413316)
+
+
+## Seurbi (Q962888)
+[https://www.wikidata.org/wiki/Q962888](https://www.wikidata.org/wiki/Q962888)  
+
+### alignments:
+ - [Seurbi?](https://pleiades.stoa.org/places/236664)
 
 
 ## Seven Sleepers cemetery (Ephesus) (Q1409276)
