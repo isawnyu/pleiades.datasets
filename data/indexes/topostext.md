@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5142 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
+5143 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -35444,6 +35444,13 @@
 
 ### alignments:
  - [Visentium](https://pleiades.stoa.org/places/413386)
+
+
+## Vistula (Germania)
+[https://topostext.org/place/517201WVis](https://topostext.org/place/517201WVis)  
+
+### alignments:
+ - [Vistula (river)](https://pleiades.stoa.org/places/20639)
 
 
 ## Visurgis R. (Germania) 15 Weser - Ουίσουργις

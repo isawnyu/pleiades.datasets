@@ -192,6 +192,13 @@
  - [Coptos](https://pleiades.stoa.org/places/786010)
 
 
+## Geo 11774: Nikaia (Iznik)
+[https://www.trismegistos.org/place/11774](https://www.trismegistos.org/place/11774)  
+
+### alignments:
+ - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
 ## Geo 11830: Acholla (Ras Botria)
 [https://www.trismegistos.org/place/11830](https://www.trismegistos.org/place/11830)  
 
@@ -2270,6 +2277,13 @@
  - [Firronanus Saltus](https://pleiades.stoa.org/places/74926636)
 
 
+## Geo 43881: Campus Martius
+[https://www.trismegistos.org/place/43881](https://www.trismegistos.org/place/43881)  
+
+### alignments:
+ - [Campus Martius](https://pleiades.stoa.org/places/422863)
+
+
 ## Geo 446: Boeotia
 [https://www.trismegistos.org/place/446](https://www.trismegistos.org/place/446)  
 
@@ -3383,13 +3397,6 @@
 
 ### alignments:
  - [Koussai/Koskam](https://pleiades.stoa.org/places/756588)
-
-
-## GEO ID 11774: Nikaia (Iznik)
-[https://www.trismegistos.org/place/11774](https://www.trismegistos.org/place/11774)  
-
-### alignments:
- - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
 
 
 ## GEO ID 11784: Calabria
@@ -29761,13 +29768,6 @@
 
 ### alignments:
  - [Nonakris](https://pleiades.stoa.org/places/570510)
-
-
-## GEO ID 43881: Campus Martius
-[https://www.trismegistos.org/place/43881](https://www.trismegistos.org/place/43881)  
-
-### alignments:
- - [Campus Martius](https://pleiades.stoa.org/places/422863)
 
 
 ## GEO ID 43887: Porta Collina

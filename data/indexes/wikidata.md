@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11339 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
+11349 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -12104,6 +12104,13 @@
  - [Caletranus Ager](https://pleiades.stoa.org/places/413059)
 
 
+## Calisia (Q1027023)
+[https://www.wikidata.org/wiki/Q1027023](https://www.wikidata.org/wiki/Q1027023)  
+
+### alignments:
+ - [Kalisia](https://pleiades.stoa.org/places/130617)
+
+
 ## Callengeville (Q1134698)
 [https://www.wikidata.org/wiki/Q1134698](https://www.wikidata.org/wiki/Q1134698)  
 
@@ -12312,6 +12319,13 @@
 
 ### alignments:
  - [Campus Lanatarius](https://pleiades.stoa.org/places/532313110)
+
+
+## Campus Martius (Q242839)
+[https://www.wikidata.org/wiki/Q242839](https://www.wikidata.org/wiki/Q242839)  
+
+### alignments:
+ - [Campus Martius](https://pleiades.stoa.org/places/422863)
 
 
 ## Campus Viminalis (Q127516682)
@@ -26542,6 +26556,13 @@
  - [Hostilia](https://pleiades.stoa.org/places/393438)
 
 
+## Hostýn (Q369552)
+[https://www.wikidata.org/wiki/Q369552](https://www.wikidata.org/wiki/Q369552)  
+
+### alignments:
+ - [Hostýn](https://pleiades.stoa.org/places/128411)
+
+
 ## Houat (Q13837005)
 [https://www.wikidata.org/wiki/Q13837005](https://www.wikidata.org/wiki/Q13837005)  
 
@@ -28445,6 +28466,13 @@
 
 ### alignments:
  - [Los Vilars](https://pleiades.stoa.org/places/814491445)
+
+
+## Jakuszowice (Q11716699)
+[https://www.wikidata.org/wiki/Q11716699](https://www.wikidata.org/wiki/Q11716699)  
+
+### alignments:
+ - [Jakuszowice](https://pleiades.stoa.org/places/128419)
 
 
 ## Jalalabad (Q183303)
@@ -30603,6 +30631,13 @@
 
 ### alignments:
  - [Krusza Zamkowa](https://pleiades.stoa.org/places/20515)
+
+
+## Kryspinów (Q3263231)
+[https://www.wikidata.org/wiki/Q3263231](https://www.wikidata.org/wiki/Q3263231)  
+
+### alignments:
+ - [Kryspinów](https://pleiades.stoa.org/places/128434)
 
 
 ## Ksar el Kaoua (Q20726070)
@@ -36414,6 +36449,13 @@
  - [Misus (river)](https://pleiades.stoa.org/places/413204)
 
 
+## Mistelbach (Q660428)
+[https://www.wikidata.org/wiki/Q660428](https://www.wikidata.org/wiki/Q660428)  
+
+### alignments:
+ - [Mistelbach an der Zaya](https://pleiades.stoa.org/places/128459)
+
+
 ## Mithraeum I (Q123437424)
 [https://www.wikidata.org/wiki/Q123437424](https://www.wikidata.org/wiki/Q123437424)  
 
@@ -38800,6 +38842,13 @@
 
 ### alignments:
  - [Andethanna](https://pleiades.stoa.org/places/108743)
+
+
+## Nietulisko Małe (Q13587839)
+[https://www.wikidata.org/wiki/Q13587839](https://www.wikidata.org/wiki/Q13587839)  
+
+### alignments:
+ - [Nietulisko Małe](https://pleiades.stoa.org/places/128469)
 
 
 ## Nigrum Pullum (Q3341443)
@@ -52438,13 +52487,6 @@
  - [Banabasi](https://pleiades.stoa.org/places/49895)
 
 
-## Q242839: Campus Martius
-[https://www.wikidata.org/wiki/Q242839](https://www.wikidata.org/wiki/Q242839)  
-
-### alignments:
- - [Campus Martius](https://pleiades.stoa.org/places/422863)
-
-
 ## Q2428630: Corfinium
 [https://www.wikidata.org/wiki/Q2428630](https://www.wikidata.org/wiki/Q2428630)  
 
@@ -65464,6 +65506,13 @@
  - [Skione](https://pleiades.stoa.org/places/501620)
 
 
+## Sclaveni (Q1257426)
+[https://www.wikidata.org/wiki/Q1257426](https://www.wikidata.org/wiki/Q1257426)  
+
+### alignments:
+ - [Sclaveni](https://pleiades.stoa.org/places/128508)
+
+
 ## Scodra (Q42716631)
 [https://www.wikidata.org/wiki/Q42716631](https://www.wikidata.org/wiki/Q42716631)  
 
@@ -68112,6 +68161,13 @@
  - [Strageath](https://pleiades.stoa.org/places/89293)
 
 
+## Stragona (Q28000881)
+[https://www.wikidata.org/wiki/Q28000881](https://www.wikidata.org/wiki/Q28000881)  
+
+### alignments:
+ - [Stragona](https://pleiades.stoa.org/places/123121)
+
+
 ## Strait of Bonifacio (Q207911)
 [https://www.wikidata.org/wiki/Q207911](https://www.wikidata.org/wiki/Q207911)  
 
@@ -68194,6 +68250,13 @@
 
 ### alignments:
  - [Stratos](https://pleiades.stoa.org/places/531104)
+
+
+## Streouinta (Q141239933)
+[https://www.wikidata.org/wiki/Q141239933](https://www.wikidata.org/wiki/Q141239933)  
+
+### alignments:
+ - [Streouinta](https://pleiades.stoa.org/places/129875)
 
 
 ## Strobilos (Q65045174)
@@ -77623,6 +77686,13 @@
 
 ### alignments:
  - [Visentium](https://pleiades.stoa.org/places/413386)
+
+
+## Vistula (Q548)
+[https://www.wikidata.org/wiki/Q548](https://www.wikidata.org/wiki/Q548)  
+
+### alignments:
+ - [Vistula (river)](https://pleiades.stoa.org/places/20639)
 
 
 ## Vistula Veneti (Q1416201)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1179 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
+1180 alignments exist in _Pleiades_ place references as of 2026-09-01. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4236,6 +4236,13 @@
 
 ### alignments:
  - [Achaiion](https://pleiades.stoa.org/places/550398)
+
+
+## 11313166: Cebrene (Troad)
+[https://resource.manto.unh.edu/11313166](https://resource.manto.unh.edu/11313166)  
+
+### alignments:
+ - [Kebren](https://pleiades.stoa.org/places/550633)
 
 
 ## 11313195: Achilleion (Troad)
