@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        15.374753,
+        41.012121,
+        15.374753,
+        41.012121
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -13,6 +18,12 @@
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Chiara Palladino",
+            "uri": "https://pleiades.stoa.org/author/cpalladino",
+            "username": "cpalladino"
         },
         {
             "homepage": null,
@@ -42,19 +53,30 @@
     "details": "<p>The Barrington Atlas Directory notes: Bisaccia?</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    15.374753,
+                    41.012121
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-bisaccia",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/446251/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 640",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/446251/osm-location-of-bisaccia",
+                "location_precision": "precise",
+                "snippet": "Settlement-modern; AD 2000 - AD 2099",
+                "title": "OSM Location of Bisaccia"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "update references",
+            "modified": "2026-08-31T23:49:09Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "RE in Honoratianum",
             "modified": "2025-07-12T00:08:32Z",
@@ -110,97 +132,109 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
-                {
-                    "confidence": "less-confident",
-                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/less-confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
-                },
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "late-antique",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "created": "2010-11-11T20:36:08Z",
+            "created": "2026-08-15T18:31:47Z",
             "creators": [
                 {
-                    "name": "I.E.M. Edlund Berry",
-                    "username": null
-                },
-                {
-                    "name": "A.M. Small",
-                    "username": null
+                    "homepage": null,
+                    "name": "Chiara Palladino",
+                    "uri": "https://pleiades.stoa.org/author/cpalladino",
+                    "username": "cpalladino"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 640,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "settlement-modern"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    15.374753,
+                    41.012121
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T05:12:33Z",
-                    "modifiedBy": "admin"
+                    "action": "Publish externally",
+                    "modified": "2026-08-31T23:50:17Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
-                    "action": "Publish externally",
-                    "modified": "2010-11-12T12:52:18Z",
-                    "modifiedBy": "thomase"
+                    "comment": "Edited",
+                    "modified": "2026-08-31T23:50:12Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-11-11T21:04:17Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-15T18:32:35Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-08-15T18:32:06Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-08-15T18:31:47Z",
+                    "modifiedBy": "cpalladino"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-11-11T20:36:08Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-15T18:31:47Z",
+                    "modifiedBy": "cpalladino"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-bisaccia",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
             ],
-            "provenance": "Barrington Atlas: BAtlas 45 In Honoratianum",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 68566713, version 2, osm:changeset=41859282, 2016-09-01T23:10:01Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/68566713",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 68566713",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=68566713",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/446251/batlas-location"
+            "start": 2000,
+            "title": "OSM Location of Bisaccia",
+            "uri": "https://pleiades.stoa.org/places/446251/osm-location-of-bisaccia"
         }
     ],
     "names": [
@@ -367,11 +401,13 @@
     ],
     "placeTypeURIs": [
         "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
-        "https://pleiades.stoa.org/vocabularies/place-types/station"
+        "https://pleiades.stoa.org/vocabularies/place-types/station",
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement-modern"
     ],
     "placeTypes": [
         "unlocated",
-        "station"
+        "station",
+        "settlement-modern"
     ],
     "provenance": "Barrington Atlas: BAtlas 45 In Honoratianum",
     "references": [
@@ -387,23 +423,23 @@
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/936644063",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/M4UH8NCU",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/M4UH8NCU",
             "citationDetail": "103.4",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div>Antonine Itinerary 103.4. O. Cuntz (ed.), <i>Itineraria Antonini Augusti et Burdigalense</i>, Itineraria Romana 1, Leipzig, 1929.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Cuntz, Otto, ed. <i>Itineraria Antonini Augusti et Burdigalense</i>. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063.</div>",
             "otherIdentifier": "",
             "shortTitle": "ItAnt (Cuntz)",
             "type": "seeFurther"
         },
         {
-            "accessURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/6684340",
             "alternateURI": "",
-            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/Q8X83VMV",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Q8X83VMV",
             "citationDetail": "377",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div>K. Miller, <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>, Stuttgart, 1916. See: 377.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Miller, Konrad. <i>Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana</i>. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340.</div>",
             "otherIdentifier": "",
             "shortTitle": "ItMiller",
             "type": "seeFurther"
@@ -445,15 +481,18 @@
             "accessURI": "https://de.wikisource.org/wiki/RE:in_Honoratianum",
             "alternateURI": "",
             "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HSGNAEBR",
-            "citationDetail": "in Honoratianum",
+            "citationDetail": "in Honoratianum (Moses Jakob Weiss)",
             "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
-            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894.</div>",
+            "formattedCitation": "<div class=\"csl-entry\">Pauly, August Friedrich von, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, and Konrat Ziegler, eds. <i>Real-Encyclopaedie der classischen Altertumswissenschaft</i>. 83 vols. Stuttgart: J. B. Metzler, 1894. https://de.wikisource.org/wiki/Paulys_Realencyclop%C3%A4die_der_classischen_Altertumswissenschaft.</div>",
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        15.374753,
+        41.012121
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
