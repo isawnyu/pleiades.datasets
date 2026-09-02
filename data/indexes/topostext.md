@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5143 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
+5144 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -14355,6 +14355,13 @@
  - [Atrium Vestae](https://pleiades.stoa.org/places/795139357)
 
 
+## https://topostext.org/place/370235XAVa
+[https://topostext.org/place/370235XAVa](https://topostext.org/place/370235XAVa)  
+
+### alignments:
+ - [Agios Vasileios, Laconia](https://pleiades.stoa.org/places/403621799)
+
+
 ## Hyampolis (Phthiotida)
 [https://topostext.org/place/386229PHya](https://topostext.org/place/386229PHya)  
 
@@ -14972,7 +14979,7 @@
  - [Imachara?](https://pleiades.stoa.org/places/462259)
 
 
-## Imbrasos R. (Samos)
+## Imbrasos R. (Samos) 13 Imbrasos
 [https://topostext.org/place/377269WImb](https://topostext.org/place/377269WImb)  
 
 ### alignments:

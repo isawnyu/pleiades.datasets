@@ -2995,7 +2995,7 @@
 [https://resource.manto.unh.edu/11297298](https://resource.manto.unh.edu/11297298)  
 
 ### alignments:
- - [Bryseai](https://pleiades.stoa.org/places/573155)
+ - [Bryseai (Laconia)](https://pleiades.stoa.org/places/573155)
 
 
 ## 11297659: Zancle (Sicily)

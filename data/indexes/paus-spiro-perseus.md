@@ -1622,7 +1622,7 @@
 [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0159%3Abook%3D3%3Achapter%3D20%3Asection%3D3](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0159%3Abook%3D3%3Achapter%3D20%3Asection%3D3)  
 
 ### alignments:
- - [Bryseai](https://pleiades.stoa.org/places/573155)
+ - [Bryseai (Laconia)](https://pleiades.stoa.org/places/573155)
 
 
 ## 3.20.3

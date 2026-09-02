@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11349 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
+11351 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1081,6 +1081,13 @@
  - [At(h)esis (river)](https://pleiades.stoa.org/places/393383)
 
 
+## Adony (Samian Ware Discovery Site) (Q103138276)
+[https://www.wikidata.org/wiki/Q103138276](https://www.wikidata.org/wiki/Q103138276)  
+
+### alignments:
+ - [Vetus Salina](https://pleiades.stoa.org/places/197580)
+
+
 ## Adoreus (Q130494112)
 [https://www.wikidata.org/wiki/Q130494112](https://www.wikidata.org/wiki/Q130494112)  
 
@@ -1703,6 +1710,13 @@
 
 ### alignments:
  - [Agios Nikolaos (island)](https://pleiades.stoa.org/places/63423309)
+
+
+## Agios Vasileios, Laconia (Q29015947)
+[https://www.wikidata.org/wiki/Q29015947](https://www.wikidata.org/wiki/Q29015947)  
+
+### alignments:
+ - [Agios Vasileios, Laconia](https://pleiades.stoa.org/places/403621799)
 
 
 ## Agira Castle (Q134303411)
@@ -9217,7 +9231,7 @@
 [https://www.wikidata.org/wiki/Q108541749](https://www.wikidata.org/wiki/Q108541749)  
 
 ### alignments:
- - [Belounoi?](https://pleiades.stoa.org/places/383585)
+ - [Belounoi](https://pleiades.stoa.org/places/383585)
 
 
 ## Belvedere di Spinello (Q54494)
@@ -11268,7 +11282,7 @@
 [https://www.wikidata.org/wiki/Q16538992](https://www.wikidata.org/wiki/Q16538992)  
 
 ### alignments:
- - [Bryseai](https://pleiades.stoa.org/places/573155)
+ - [Bryseai (Laconia)](https://pleiades.stoa.org/places/573155)
 
 
 ## Brú na Bóinne (Q339489)
@@ -14351,6 +14365,13 @@
  - [Castra Vetera](https://pleiades.stoa.org/places/108867)
 
 
+## Castra Vetus Salina (Q139210)
+[https://www.wikidata.org/wiki/Q139210](https://www.wikidata.org/wiki/Q139210)  
+
+### alignments:
+ - [Vetus Salina](https://pleiades.stoa.org/places/197580)
+
+
 ## Castrimoenium (Q3663119)
 [https://www.wikidata.org/wiki/Q3663119](https://www.wikidata.org/wiki/Q3663119)  
 
@@ -14706,6 +14727,13 @@
 
 ### alignments:
  - [Lugio/Florentia](https://pleiades.stoa.org/places/197360)
+
+
+## Castrum Lussonium (Q1563545)
+[https://www.wikidata.org/wiki/Q1563545](https://www.wikidata.org/wiki/Q1563545)  
+
+### alignments:
+ - [Lussonium](https://pleiades.stoa.org/places/197362)
 
 
 ## Castrum Mannaricium (Q1309550)
@@ -38655,6 +38683,13 @@
  - [Nertobriga](https://pleiades.stoa.org/places/246518)
 
 
+## Nerusi (Q21086007)
+[https://www.wikidata.org/wiki/Q21086007](https://www.wikidata.org/wiki/Q21086007)  
+
+### alignments:
+ - [Nerusii](https://pleiades.stoa.org/places/157893)
+
+
 ## Nervii (Q756812)
 [https://www.wikidata.org/wiki/Q756812](https://www.wikidata.org/wiki/Q756812)  
 
@@ -46027,13 +46062,6 @@
  - [Boucheporn](https://pleiades.stoa.org/places/749925822)
 
 
-## Q103138276: Adony (Samian Ware Discovery Site)
-[https://www.wikidata.org/wiki/Q103138276](https://www.wikidata.org/wiki/Q103138276)  
-
-### alignments:
- - [Vetus Salina](https://pleiades.stoa.org/places/197580)
-
-
 ## Q103139975: Alfoldean (Samian Ware Discovery Site)
 [https://www.wikidata.org/wiki/Q103139975](https://www.wikidata.org/wiki/Q103139975)  
 
@@ -48844,13 +48872,6 @@
  - [Plestia](https://pleiades.stoa.org/places/413264)
 
 
-## Q139210: Castra Vetus Salina
-[https://www.wikidata.org/wiki/Q139210](https://www.wikidata.org/wiki/Q139210)  
-
-### alignments:
- - [Vetus Salina](https://pleiades.stoa.org/places/197580)
-
-
 ## Q13924: Adriatic Sea
 [https://www.wikidata.org/wiki/Q13924](https://www.wikidata.org/wiki/Q13924)  
 
@@ -49535,13 +49556,6 @@
 
 ### alignments:
  - [Nisa](https://pleiades.stoa.org/places/543807)
-
-
-## Q1563545: Castrum Lussonium
-[https://www.wikidata.org/wiki/Q1563545](https://www.wikidata.org/wiki/Q1563545)  
-
-### alignments:
- - [Lussonium](https://pleiades.stoa.org/places/197362)
 
 
 ## Q1566744

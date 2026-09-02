@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5184 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
+5185 alignments exist in _Pleiades_ place references as of 2026-09-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2695,6 +2695,13 @@
 
 ### alignments:
  - [Seres/Serae](https://pleiades.stoa.org/places/60042)
+
+
+## Geo 6116: Orbadarou (Kirbekan)
+[https://www.trismegistos.org/place/6116](https://www.trismegistos.org/place/6116)  
+
+### alignments:
+ - [Orbadarou](https://pleiades.stoa.org/places/40241)
 
 
 ## Geo 61178: Minoa (Pachakion)
