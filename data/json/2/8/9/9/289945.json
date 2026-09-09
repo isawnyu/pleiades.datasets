@@ -1,16 +1,27 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        -4.2890343,
+        35.1684513,
+        -4.2890343,
+        35.1684513
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
         {
             "name": "R. Warner",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -20,15 +31,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Chiara Palladino",
+            "uri": "https://pleiades.stoa.org/author/cpalladino",
+            "username": "cpalladino"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-24T20:24:34Z",
@@ -42,14 +53,20 @@
     "details": "The Barrington Atlas Directory notes: Badis?",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    -4.2890343,
+                    35.1684513
+                ],
+                "type": "Point"
+            },
+            "id": "osm-modern-location-of-badis",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/289945/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/289945/osm-modern-location-of-badis",
+                "location_precision": "precise",
+                "snippet": "Unknown; AD 2000 - AD 2099",
+                "title": "OSM Modern location of Badis"
             },
             "type": "Feature"
         }
@@ -95,91 +112,103 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "less-certain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/less-certain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "contributors": [
-                {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
-                }
-            ],
-            "created": "2010-09-24T20:24:34Z",
+            "contributors": [],
+            "created": "2026-08-13T13:11:34Z",
             "creators": [
                 {
-                    "name": "T.W. Potter",
-                    "username": null
+                    "homepage": null,
+                    "name": "Chiara Palladino",
+                    "uri": "https://pleiades.stoa.org/author/cpalladino",
+                    "username": "cpalladino"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
                 "unknown"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    -4.2890343,
+                    35.1684513
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T04:00:27Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-24T20:37:47Z",
-                    "modifiedBy": "thomase"
+                    "modified": "2026-09-04T19:22:51Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T20:31:45Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-13T13:12:55Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "location associated with ancient Parietina",
+                    "modified": "2026-08-13T13:12:39Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modified": "2026-08-13T13:12:08Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-08-13T13:11:35Z",
+                    "modifiedBy": "cpalladino"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:24:34Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-13T13:11:34Z",
+                    "modifiedBy": "cpalladino"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-modern-location-of-badis",
             "locationType": [
-                "representative"
+                "representative",
+                "associated_modern"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "Barrington Atlas: BAtlas 29 Parietina",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 1923954574, version 9, osm:changeset=184939388, 2026-07-01T21:18:29Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/1923954574",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 1923954574",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=1923954574",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/289945/batlas-location"
+            "start": 2000,
+            "title": "OSM Modern location of Badis",
+            "uri": "https://pleiades.stoa.org/places/289945/osm-modern-location-of-badis"
         }
     ],
     "names": [
@@ -303,7 +332,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        -4.2890343,
+        35.1684513
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
