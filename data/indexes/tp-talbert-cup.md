@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2408 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+2410 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -3576,6 +3576,20 @@
 
 ### alignments:
  - [Choba](https://pleiades.stoa.org/places/305062)
+
+
+## 1C5 (Talbert 3512)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3512.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3512.html)  
+
+### alignments:
+ - [Baccarus](https://pleiades.stoa.org/places/311082)
+
+
+## 1C5 (Talbert 3513)
+[http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3513.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3513.html)  
+
+### alignments:
+ - [Ad Sturnos](https://pleiades.stoa.org/places/311076)
 
 
 ## 1C5 (Talbert 95)

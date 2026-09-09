@@ -1,18 +1,11 @@
 # _Pleiades_ alignments with ToposText
-5144 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+5148 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
 
 ### alignments:
  - [Elysium](https://pleiades.stoa.org/places/595204977)
-
-
-## 000000GHad
-[https://topostext.org/place/000000GHad](https://topostext.org/place/000000GHad)  
-
-### alignments:
- - [Hades (Underworld)](https://pleiades.stoa.org/places/853874840)
 
 
 ## 1072
@@ -48,6 +41,13 @@
 
 ### alignments:
  - [Agelastos Petra](https://pleiades.stoa.org/places/213957198)
+
+
+## 19710: Acheron
+[https://topostext.org/people/19710](https://topostext.org/people/19710)  
+
+### alignments:
+ - [Acheron (mythological river)](https://pleiades.stoa.org/places/36476595)
 
 
 ## 21415: Angulani
@@ -90,6 +90,13 @@
 
 ### alignments:
  - [Homoloid Gate (Thebes)](https://pleiades.stoa.org/places/132272517)
+
+
+## 2774: Phlegethon
+[https://topostext.org/people/2774](https://topostext.org/people/2774)  
+
+### alignments:
+ - [Phlegethon (mythological river)](https://pleiades.stoa.org/places/36476596)
 
 
 ## 306
@@ -2425,6 +2432,13 @@
 
 ### alignments:
  - [Amathous](https://pleiades.stoa.org/places/707462)
+
+
+## Amazoneion Memorial (Athens) (380237AAmz)
+[https://topostext.org/place/380237AAmz](https://topostext.org/place/380237AAmz)  
+
+### alignments:
+ - [Monument to the Amazons](https://pleiades.stoa.org/places/318468222)
 
 
 ## Amazonion cape (Patmos)
@@ -6277,6 +6291,13 @@
 
 ### alignments:
  - [Basilis](https://pleiades.stoa.org/places/570147)
+
+
+## Bastetania (Iberia)
+[https://topostext.org/place/379-22RBas](https://topostext.org/place/379-22RBas)  
+
+### alignments:
+ - [Bastetania](https://pleiades.stoa.org/places/265822)
 
 
 ## Batanaia (Syria)
@@ -10945,7 +10966,7 @@
 [https://topostext.org/place/376227FEll](https://topostext.org/place/376227FEll)  
 
 ### alignments:
- - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
+ - [Pyramid of Hellinikon](https://pleiades.stoa.org/places/37452547)
 
 
 ## Ellinospilios exc. (Cyprus)  NE Paphos
@@ -13140,6 +13161,13 @@
 
 ### alignments:
  - [Gyth(e)ion](https://pleiades.stoa.org/places/570268)
+
+
+## Hades (Underworld)
+[https://topostext.org/place/000000GHad](https://topostext.org/place/000000GHad)  
+
+### alignments:
+ - [Hades (Underworld)](https://pleiades.stoa.org/places/853874840)
 
 
 ## Hadrian's villa (Latium)

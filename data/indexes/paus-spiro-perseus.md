@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-563 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+565 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -112,6 +112,13 @@
 ### alignments:
  - [Agrai](https://pleiades.stoa.org/places/579846)
  - [Temple of Artemis Agrotera](https://pleiades.stoa.org/places/277534797)
+
+
+## 1.2.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.2.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.2.1)  
+
+### alignments:
+ - [Monument to the Amazons](https://pleiades.stoa.org/places/318468222)
 
 
 ## 1.2.4
@@ -752,6 +759,13 @@
  - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
 
 
+## 10.28.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.28.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.28.1)  
+
+### alignments:
+ - [Acheron (mythological river)](https://pleiades.stoa.org/places/36476595)
+
+
 ## 10.3.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.3.2)  
 
@@ -1081,7 +1095,7 @@
 ### alignments:
  - [Hysiai](https://pleiades.stoa.org/places/570306)
  - [Kenchreai](https://pleiades.stoa.org/places/570347)
- - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
+ - [Pyramid of Hellinikon](https://pleiades.stoa.org/places/37452547)
 
 
 ## 2.25.10

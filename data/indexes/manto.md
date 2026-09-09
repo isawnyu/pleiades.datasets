@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1180 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+1187 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -293,6 +293,13 @@
 
 ### alignments:
  - [Lucrinus (lake)](https://pleiades.stoa.org/places/432915)
+
+
+## 10093384: River Periphlegethon (Underworld)
+[https://resource.manto.unh.edu/10093384](https://resource.manto.unh.edu/10093384)  
+
+### alignments:
+ - [Phlegethon (mythological river)](https://pleiades.stoa.org/places/36476596)
 
 
 ## 10093386: River Cocytos
@@ -2641,6 +2648,13 @@
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
 
 
+## 10854612: the Tombs of the Amazons (Athens)
+[https://resource.manto.unh.edu/10854612](https://resource.manto.unh.edu/10854612)  
+
+### alignments:
+ - [Monument to the Amazons](https://pleiades.stoa.org/places/318468222)
+
+
 ## 10911528: the Gymnasium at Delphi (Delphi)
 [https://resource.manto.unh.edu/10911528](https://resource.manto.unh.edu/10911528)  
 
@@ -3264,6 +3278,13 @@
  - [Prusias ad Mare/Kios](https://pleiades.stoa.org/places/511385)
 
 
+## 11302056: Thynias (Thrace)
+[https://resource.manto.unh.edu/11302056](https://resource.manto.unh.edu/11302056)  
+
+### alignments:
+ - [Thynias](https://pleiades.stoa.org/places/511443)
+
+
 ## 11302148: Acherousias Promontory (Pontos)
 [https://resource.manto.unh.edu/11302148](https://resource.manto.unh.edu/11302148)  
 
@@ -3283,6 +3304,13 @@
 
 ### alignments:
  - [Sthenelou monu./Lyre](https://pleiades.stoa.org/places/847906)
+
+
+## 11302392: the Amazonian Mountains (Themiscyra)
+[https://resource.manto.unh.edu/11302392](https://resource.manto.unh.edu/11302392)  
+
+### alignments:
+ - [Amazonius (mountain)](https://pleiades.stoa.org/places/857019)
 
 
 ## 11302399: Acmonia (Asia Minor)
@@ -5512,6 +5540,20 @@
  - [Tauromenium](https://pleiades.stoa.org/places/462506)
 
 
+## 11332908: Deultum (Thrace)
+[https://resource.manto.unh.edu/11332908](https://resource.manto.unh.edu/11332908)  
+
+### alignments:
+ - [Deultum](https://pleiades.stoa.org/places/216788)
+
+
+## 11332914: Serdica (Moesia)
+[https://resource.manto.unh.edu/11332914](https://resource.manto.unh.edu/11332914)  
+
+### alignments:
+ - [Serdica](https://pleiades.stoa.org/places/207439)
+
+
 ## 11334116: New Hermion (Argolid)
 [https://resource.manto.unh.edu/11334116](https://resource.manto.unh.edu/11334116)  
 
@@ -6988,6 +7030,13 @@
 
 ### alignments:
  - [Achelous (river)](https://pleiades.stoa.org/places/530768)
+
+
+## 9611995: River Acheron (Underworld)
+[https://resource.manto.unh.edu/9611995](https://resource.manto.unh.edu/9611995)  
+
+### alignments:
+ - [Acheron (mythological river)](https://pleiades.stoa.org/places/36476595)
 
 
 ## 9611997: River Sangarios (Phrygia)

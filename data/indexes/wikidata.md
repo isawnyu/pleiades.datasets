@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11351 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+11359 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -672,6 +672,13 @@
 
 ### alignments:
  - [Acherdous](https://pleiades.stoa.org/places/585882)
+
+
+## Acheron (Q13081186)
+[https://www.wikidata.org/wiki/Q13081186](https://www.wikidata.org/wiki/Q13081186)  
+
+### alignments:
+ - [Acheron (mythological river)](https://pleiades.stoa.org/places/36476595)
 
 
 ## Acheron (Q191087)
@@ -3196,6 +3203,13 @@
 
 ### alignments:
  - [Amanium](https://pleiades.stoa.org/places/108739)
+
+
+## Amazoneion memorial (Athens) (Q141282296)
+[https://www.wikidata.org/wiki/Q141282296](https://www.wikidata.org/wiki/Q141282296)  
+
+### alignments:
+ - [Monument to the Amazons](https://pleiades.stoa.org/places/318468222)
 
 
 ## Ambar (Gre Filla) (Q133422846)
@@ -8664,6 +8678,13 @@
 
 ### alignments:
  - [Bastarnae](https://pleiades.stoa.org/places/216728)
+
+
+## Bastetania (Q3754807)
+[https://www.wikidata.org/wiki/Q3754807](https://www.wikidata.org/wiki/Q3754807)  
+
+### alignments:
+ - [Bastetania](https://pleiades.stoa.org/places/265822)
 
 
 ## Bastia Mondovì (Q18357)
@@ -17089,13 +17110,6 @@
  - [Columbarium of Caius Scribonius Menophilus](https://pleiades.stoa.org/places/367542073)
 
 
-## Columbarium of Constantine (Q105319793)
-[https://www.wikidata.org/wiki/Q105319793](https://www.wikidata.org/wiki/Q105319793)  
-
-### alignments:
- - [Columbarium of Constantine](https://pleiades.stoa.org/places/384365956)
-
-
 ## Columbarium of Largo Preneste (Q56256397)
 [https://www.wikidata.org/wiki/Q56256397](https://www.wikidata.org/wiki/Q56256397)  
 
@@ -17360,6 +17374,13 @@
 
 ### alignments:
  - [Constantiana Daphne](https://pleiades.stoa.org/places/222036)
+
+
+## Constantinian Columbarium (Q3683400)
+[https://www.wikidata.org/wiki/Q3683400](https://www.wikidata.org/wiki/Q3683400)  
+
+### alignments:
+ - [Constantinian Columbarium](https://pleiades.stoa.org/places/541774889)
 
 
 ## Contenebra (Q3688820)
@@ -20906,7 +20927,7 @@
 [https://www.wikidata.org/wiki/Q493527](https://www.wikidata.org/wiki/Q493527)  
 
 ### alignments:
- - [Pyramid of Kenchreai](https://pleiades.stoa.org/places/37452547)
+ - [Pyramid of Hellinikon](https://pleiades.stoa.org/places/37452547)
 
 
 ## Ellopia (Q16561475)
@@ -22490,6 +22511,13 @@
 
 ### alignments:
  - [Untitled](https://pleiades.stoa.org/places/582108)
+
+
+## Fort Shalmaneser (Q141327534)
+[https://www.wikidata.org/wiki/Q141327534](https://www.wikidata.org/wiki/Q141327534)  
+
+### alignments:
+ - [Fort Shalmaneser](https://pleiades.stoa.org/places/586635000)
 
 
 ## Forte Michelangelo (Q3748579)
@@ -24145,6 +24173,13 @@
 
 ### alignments:
  - [Golasecca](https://pleiades.stoa.org/places/383665)
+
+
+## Golfo di Cagliari (Q1285264)
+[https://www.wikidata.org/wiki/Q1285264](https://www.wikidata.org/wiki/Q1285264)  
+
+### alignments:
+ - [Karalitanos Kolpos](https://pleiades.stoa.org/places/471957)
 
 
 ## Golfo di Sant'Eufemia (Q722915)
@@ -29231,6 +29266,13 @@
 ### alignments:
  - [Karkheh/Eulaeus?/Ula(ya)? (river)](https://pleiades.stoa.org/places/912877)
  - [Shaur/Choaspes?/Eulaeus?/Uknu? (river)](https://pleiades.stoa.org/places/912935)
+
+
+## Karpoudaimon (Q141313737)
+[https://www.wikidata.org/wiki/Q141313737](https://www.wikidata.org/wiki/Q141313737)  
+
+### alignments:
+ - [Karpoudaimon](https://pleiades.stoa.org/places/222078)
 
 
 ## Karthaia (Q12878783)
@@ -42981,6 +43023,13 @@
  - [Phintias](https://pleiades.stoa.org/places/462424)
 
 
+## Phlegethon (Q868738)
+[https://www.wikidata.org/wiki/Q868738](https://www.wikidata.org/wiki/Q868738)  
+
+### alignments:
+ - [Phlegethon (mythological river)](https://pleiades.stoa.org/places/36476596)
+
+
 ## Phlegraean Fields (Q755123)
 [https://www.wikidata.org/wiki/Q755123](https://www.wikidata.org/wiki/Q755123)  
 
@@ -45150,6 +45199,13 @@
 
 ### alignments:
  - [Prasii](https://pleiades.stoa.org/places/60007)
+
+
+## Prason (Q138005839)
+[https://www.wikidata.org/wiki/Q138005839](https://www.wikidata.org/wiki/Q138005839)  
+
+### alignments:
+ - [Prason](https://pleiades.stoa.org/places/40256)
 
 
 ## Prassilus (Q18286328)
@@ -47938,13 +47994,6 @@
 
 ### alignments:
  - [Iberia (modern region/peninsula)](https://pleiades.stoa.org/places/540456066)
-
-
-## Q1285264: Golfo di Cagliari
-[https://www.wikidata.org/wiki/Q1285264](https://www.wikidata.org/wiki/Q1285264)  
-
-### alignments:
- - [Karalitanos Kolpos](https://pleiades.stoa.org/places/471957)
 
 
 ## Q1285: Apennine Mountains
@@ -54946,13 +54995,6 @@
  - [Grotte di Castro](https://pleiades.stoa.org/places/413158)
 
 
-## Q3683400: Constantinian Columbarium
-[https://www.wikidata.org/wiki/Q3683400](https://www.wikidata.org/wiki/Q3683400)  
-
-### alignments:
- - [Constantinian Columbarium](https://pleiades.stoa.org/places/541774889)
-
-
 ## Q369528: River Tame
 [https://www.wikidata.org/wiki/Q369528](https://www.wikidata.org/wiki/Q369528)  
 
@@ -58300,13 +58342,6 @@
 
 ### alignments:
  - [Pyloros](https://pleiades.stoa.org/places/590021)
-
-
-## Q65089329: Thynias
-[https://www.wikidata.org/wiki/Q65089329](https://www.wikidata.org/wiki/Q65089329)  
-
-### alignments:
- - [Thynias](https://pleiades.stoa.org/places/511443)
 
 
 ## Q65093845: Saint-Saturnin-du-Bois Gallo-Roman villa
@@ -64834,6 +64869,13 @@
  - [Santa Maria in Tempulo](https://pleiades.stoa.org/places/382995433)
 
 
+## Santa Maria Nova (Q141348756)
+[https://www.wikidata.org/wiki/Q141348756](https://www.wikidata.org/wiki/Q141348756)  
+
+### alignments:
+ - [Santa Maria Nova](https://pleiades.stoa.org/places/587082457)
+
+
 ## Santa Marinella (Q243425)
 [https://www.wikidata.org/wiki/Q243425](https://www.wikidata.org/wiki/Q243425)  
 
@@ -65588,6 +65630,13 @@
 
 ### alignments:
  - [Scoppieto](https://pleiades.stoa.org/places/992586572)
+
+
+## Scordisci (Q540432)
+[https://www.wikidata.org/wiki/Q540432](https://www.wikidata.org/wiki/Q540432)  
+
+### alignments:
+ - [Scordisci](https://pleiades.stoa.org/places/207434)
 
 
 ## Scratchbury Camp (Q7438847)
@@ -72042,6 +72091,13 @@
 
 ### alignments:
  - [Thymbrios (river)](https://pleiades.stoa.org/places/550930)
+
+
+## Thynias (Q65089329)
+[https://www.wikidata.org/wiki/Q65089329](https://www.wikidata.org/wiki/Q65089329)  
+
+### alignments:
+ - [Thynias](https://pleiades.stoa.org/places/511443)
 
 
 ## Thyrea (Q3036391)

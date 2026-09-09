@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5185 alignments exist in _Pleiades_ place references as of 2026-09-03. The following list of alignments is grouped by zotkey.
+5190 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2310,6 +2310,13 @@
 
 ### alignments:
  - [Verucchio](https://pleiades.stoa.org/places/413374)
+
+
+## Geo 4539: Thoy
+[https://www.trismegistos.org/place/4539](https://www.trismegistos.org/place/4539)  
+
+### alignments:
+ - [Thou](https://pleiades.stoa.org/places/730163)
 
 
 ## Geo 46319: Siparis (Sipar)
@@ -21043,6 +21050,13 @@
  - [Samaria/Sebaste](https://pleiades.stoa.org/places/678370)
 
 
+## GEO ID 3747: Baccaras
+[https://www.trismegistos.org/place/3747](https://www.trismegistos.org/place/3747)  
+
+### alignments:
+ - [Baccarus](https://pleiades.stoa.org/places/311082)
+
+
 ## GEO ID 37496: Nisa
 [http://www.trismegistos.org/place/37496](http://www.trismegistos.org/place/37496)  
 
@@ -22253,6 +22267,13 @@
 
 ### alignments:
  - [Ad Septimum Decimum](https://pleiades.stoa.org/places/246140)
+
+
+## GEO ID 40253: Tadutti (Oum el-Asnam)
+[https://www.trismegistos.org/place/40253](https://www.trismegistos.org/place/40253)  
+
+### alignments:
+ - [Thabute](https://pleiades.stoa.org/places/311147)
 
 
 ## GEO ID 40261: Ad Dracones (Hammam Bou Hadjar)
@@ -25565,6 +25586,13 @@
 
 ### alignments:
  - [Ad Stabulum Olearium](https://pleiades.stoa.org/places/311075)
+
+
+## GEO ID 41690: Ad Sturnos
+[https://www.trismegistos.org/place/41690](https://www.trismegistos.org/place/41690)  
+
+### alignments:
+ - [Ad Sturnos](https://pleiades.stoa.org/places/311076)
 
 
 ## GEO ID 41691: Ad villam Sele
@@ -30741,6 +30769,13 @@
 
 ### alignments:
  - [Boubastis](https://pleiades.stoa.org/places/727088)
+
+
+## GEO ID 4630: Vicus Iudaeorum
+[https://www.trismegistos.org/place/4630](https://www.trismegistos.org/place/4630)  
+
+### alignments:
+ - [Vicus Iudaeorum](https://pleiades.stoa.org/places/528689878)
 
 
 ## GEO ID 46380: Vinia Campegiensis
