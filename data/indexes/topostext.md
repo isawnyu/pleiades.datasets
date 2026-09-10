@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5148 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
+5149 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -14212,6 +14212,13 @@
 
 ### alignments:
  - [Hippo Regius](https://pleiades.stoa.org/places/305090)
+
+
+## Hippodrome (Olympia) (376216BOHi)
+[https://topostext.org/place/376216BOHi](https://topostext.org/place/376216BOHi)  
+
+### alignments:
+ - [Hippodrome of Olympia](https://pleiades.stoa.org/places/124732691)
 
 
 ## Hippoi (Ionia) 2 Ildır Körfezi - Ίπποi

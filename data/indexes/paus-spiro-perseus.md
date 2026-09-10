@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-565 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
+567 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -2535,6 +2535,13 @@
  - [Orontes (river)](https://pleiades.stoa.org/places/658560)
 
 
+## 6.20.10-11
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.20.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.20.10)  
+
+### alignments:
+ - [Hippodrome of Olympia](https://pleiades.stoa.org/places/124732691)
+
+
 ## 6.20.16
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.20.16](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.20.16)  
 
@@ -4038,6 +4045,13 @@
 
 ### alignments:
  - [Siphai/Tipha](https://pleiades.stoa.org/places/541102)
+
+
+## 9.33.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.33.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.33.4)  
+
+### alignments:
+ - [Lophis (river)](https://pleiades.stoa.org/places/685779845)
 
 
 ## 9.34.3

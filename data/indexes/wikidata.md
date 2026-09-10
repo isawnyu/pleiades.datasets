@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11359 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
+11362 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13245,6 +13245,13 @@
  - [House of the Hotel](https://pleiades.stoa.org/places/834833176)
 
 
+## Casa dell'Imperatrice di Russia (Q27686446)
+[https://www.wikidata.org/wiki/Q27686446](https://www.wikidata.org/wiki/Q27686446)  
+
+### alignments:
+ - [Casa dell'Imperatrice di Russia](https://pleiades.stoa.org/places/242365256)
+
+
 ## Casa della Gemma (Herculaneum) (Q17623921)
 [https://www.wikidata.org/wiki/Q17623921](https://www.wikidata.org/wiki/Q17623921)  
 
@@ -26318,6 +26325,13 @@
  - [Hippodrome of Constantinople](https://pleiades.stoa.org/places/773739435)
 
 
+## Hippodrome of Olympia (Q19602775)
+[https://www.wikidata.org/wiki/Q19602775](https://www.wikidata.org/wiki/Q19602775)  
+
+### alignments:
+ - [Hippodrome of Olympia](https://pleiades.stoa.org/places/124732691)
+
+
 ## Hippola (Q60790133)
 [https://www.wikidata.org/wiki/Q60790133](https://www.wikidata.org/wiki/Q60790133)  
 
@@ -33061,6 +33075,13 @@
 
 ### alignments:
  - [Longula](https://pleiades.stoa.org/places/438775)
+
+
+## Lophis (Q60791086)
+[https://www.wikidata.org/wiki/Q60791086](https://www.wikidata.org/wiki/Q60791086)  
+
+### alignments:
+ - [Lophis (river)](https://pleiades.stoa.org/places/685779845)
 
 
 ## Lorestan Province (Q1131727)

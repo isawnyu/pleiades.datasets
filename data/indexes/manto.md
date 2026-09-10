@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1187 alignments exist in _Pleiades_ place references as of 2026-09-09. The following list of alignments is grouped by zotkey.
+1191 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2137,6 +2137,13 @@
  - [Erythrai](https://pleiades.stoa.org/places/550535)
 
 
+## 10270177: River Lophis (Boiotia)
+[https://resource.manto.unh.edu/10270177](https://resource.manto.unh.edu/10270177)  
+
+### alignments:
+ - [Lophis (river)](https://pleiades.stoa.org/places/685779845)
+
+
 ## 10270184: Pamphylia region of Asia Minor
 [https://resource.manto.unh.edu/10270184](https://resource.manto.unh.edu/10270184)  
 
@@ -2765,6 +2772,13 @@
 
 ### alignments:
  - [Metapontum](https://pleiades.stoa.org/places/442658)
+
+
+## 11258658: the Hippodrome (Olympia)
+[https://resource.manto.unh.edu/11258658](https://resource.manto.unh.edu/11258658)  
+
+### alignments:
+ - [Hippodrome of Olympia](https://pleiades.stoa.org/places/124732691)
 
 
 ## 11259210: Peparethos (island)
@@ -4768,6 +4782,20 @@
 
 ### alignments:
  - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
+
+
+## 11320180: Casa della Imperatrice di Russia VI 14, 42 (Pompeii)
+[https://resource.manto.unh.edu/11320180](https://resource.manto.unh.edu/11320180)  
+
+### alignments:
+ - [Casa dell'Imperatrice di Russia](https://pleiades.stoa.org/places/242365256)
+
+
+## 11320181: Casa di Trittolemo VII 7, 5 (Pompeii)
+[https://resource.manto.unh.edu/11320181](https://resource.manto.unh.edu/11320181)  
+
+### alignments:
+ - [Casa di Trittolemo](https://pleiades.stoa.org/places/684689044)
 
 
 ## 11320290: Nepet (Etruria)
