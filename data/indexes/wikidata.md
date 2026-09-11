@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11362 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
+11368 alignments exist in _Pleiades_ place references as of 2026-09-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -14902,6 +14902,13 @@
 
 ### alignments:
  - [S. Felicita](https://pleiades.stoa.org/places/423043)
+
+
+## Catacomb of Aproniano (Q3663168)
+[https://www.wikidata.org/wiki/Q3663168](https://www.wikidata.org/wiki/Q3663168)  
+
+### alignments:
+ - [Catacomb of Apronianus](https://pleiades.stoa.org/places/549764183)
 
 
 ## Catacomb of Balbina (Q3663169)
@@ -36940,6 +36947,13 @@
  - [Monte del Grano](https://pleiades.stoa.org/places/422973)
 
 
+## Monte di Terra Tomb (Q97666909)
+[https://www.wikidata.org/wiki/Q97666909](https://www.wikidata.org/wiki/Q97666909)  
+
+### alignments:
+ - [Monte di Terra tomb](https://pleiades.stoa.org/places/212589831)
+
+
 ## Monte Erice (Q3861524)
 [https://www.wikidata.org/wiki/Q3861524](https://www.wikidata.org/wiki/Q3861524)  
 
@@ -37176,6 +37190,13 @@
 
 ### alignments:
  - [Monument La Torratxa (Vilablareix)](https://pleiades.stoa.org/places/246745)
+
+
+## Monument of Nikias (Q3323331)
+[https://www.wikidata.org/wiki/Q3323331](https://www.wikidata.org/wiki/Q3323331)  
+
+### alignments:
+ - [Monument of Nikias](https://pleiades.stoa.org/places/559880977)
 
 
 ## Monument of the Eponymous Heroes (Q2094507)
@@ -44590,6 +44611,13 @@
 
 ### alignments:
  - [Xiphonias Akroterion](https://pleiades.stoa.org/places/462536)
+
+
+## Porta Ardeatina (Q748516)
+[https://www.wikidata.org/wiki/Q748516](https://www.wikidata.org/wiki/Q748516)  
+
+### alignments:
+ - [Porta Ardeatina](https://pleiades.stoa.org/places/495155542)
 
 
 ## Porta Asinaria (Q2104854)
@@ -73059,6 +73087,13 @@
  - [Tomb of the Five Chairs, Caere](https://pleiades.stoa.org/places/424267586)
 
 
+## Tomb of the Greek Cross (Q130488159)
+[https://www.wikidata.org/wiki/Q130488159](https://www.wikidata.org/wiki/Q130488159)  
+
+### alignments:
+ - [Tomb of the Greek Cross](https://pleiades.stoa.org/places/832841466)
+
+
 ## Tomb of the Lollii (Q133631014)
 [https://www.wikidata.org/wiki/Q133631014](https://www.wikidata.org/wiki/Q133631014)  
 
@@ -76382,6 +76417,13 @@
 
 ### alignments:
  - [Via Aurelia](https://pleiades.stoa.org/places/174900201)
+
+
+## Via Berneri columbarium (Q131364539)
+[https://www.wikidata.org/wiki/Q131364539](https://www.wikidata.org/wiki/Q131364539)  
+
+### alignments:
+ - [Via Berneri columbarium](https://pleiades.stoa.org/places/653874577)
 
 
 ## Via Bisignano Sepulchre (Q56256399)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5149 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
+5151 alignments exist in _Pleiades_ place references as of 2026-09-11. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -23055,6 +23055,13 @@
  - [Nikesiane](https://pleiades.stoa.org/places/501527)
 
 
+## Nikias Monument (Athens)
+[https://topostext.org/place/380237BNic](https://topostext.org/place/380237BNic)  
+
+### alignments:
+ - [Monument of Nikias](https://pleiades.stoa.org/places/559880977)
+
+
 ## Nikiou (Egypt)
 [https://topostext.org/place/304308UNik](https://topostext.org/place/304308UNik)  
 
@@ -28044,6 +28051,13 @@
 
 ### alignments:
  - [Porta Appia](https://pleiades.stoa.org/places/661181629)
+
+
+## Porta Ardeatina (Rome)
+[https://topostext.org/place/419125FPAr](https://topostext.org/place/419125FPAr)  
+
+### alignments:
+ - [Porta Ardeatina](https://pleiades.stoa.org/places/495155542)
 
 
 ## Porta Asinaria (Rome)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5190 alignments exist in _Pleiades_ place references as of 2026-09-10. The following list of alignments is grouped by zotkey.
+5191 alignments exist in _Pleiades_ place references as of 2026-09-11. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -35395,6 +35395,13 @@
 
 ### alignments:
  - [Ainesisphyra? Akron](https://pleiades.stoa.org/places/716506)
+
+
+## Geo ID 8352
+[https://www.trismegistos.org/place/8352](https://www.trismegistos.org/place/8352)  
+
+### alignments:
+ - [Alyi](https://pleiades.stoa.org/places/401446821)
 
 
 ## GEO ID 8395
