@@ -1,16 +1,27 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        -4.666514,
+        35.205755,
+        -4.666514,
+        35.205755
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
+        {
+            "name": "R. Talbert",
+            "username": null
+        },
         {
             "name": "R. Warner",
             "username": null
         },
         {
-            "name": "R. Talbert",
-            "username": null
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -20,15 +31,15 @@
         },
         {
             "homepage": null,
-            "name": "Tom Elliott",
-            "uri": "https://pleiades.stoa.org/author/thomase",
-            "username": "thomase"
+            "name": "Chiara Palladino",
+            "uri": "https://pleiades.stoa.org/author/cpalladino",
+            "username": "cpalladino"
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase",
+            "username": "thomase"
         }
     ],
     "created": "2010-09-24T20:00:47Z",
@@ -42,19 +53,30 @@
     "details": "The Barrington Atlas Directory notes: el Jabha?",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    -4.666514,
+                    35.205755
+                ],
+                "type": "Point"
+            },
+            "id": "osm-modern-location-of-el-jebha",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/278605/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown; 30 BC - AD 300",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/278605/osm-modern-location-of-el-jebha",
+                "location_precision": "precise",
+                "snippet": "Unknown; AD 2000 - AD 2099",
+                "title": "OSM Modern Location of El Jebha"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "Baseline created",
+            "modified": "2026-09-13T22:05:34Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "Gozalbes 1980",
             "modified": "2021-11-13T19:52:16Z",
@@ -95,91 +117,125 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
-            "associationCertainty": "certain",
-            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "associationCertainty": "uncertain",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/uncertain",
             "attestations": [
                 {
                     "confidence": "confident",
                     "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
-                    "timePeriod": "roman",
-                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman"
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
             "contributors": [
                 {
-                    "name": "R. Warner",
-                    "username": null
-                },
-                {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
                     "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase",
+                    "username": "thomase"
                 }
             ],
-            "created": "2010-09-24T20:00:48Z",
+            "created": "2026-08-13T13:05:29Z",
             "creators": [
                 {
-                    "name": "M. Euzennat",
-                    "username": null
+                    "homepage": null,
+                    "name": "Chiara Palladino",
+                    "uri": "https://pleiades.stoa.org/author/cpalladino",
+                    "username": "cpalladino"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": 300,
+            "end": 2099,
             "featureType": [
                 "unknown"
             ],
             "featureTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    -4.666514,
+                    35.205755
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T03:58:44Z",
-                    "modifiedBy": "admin"
+                    "comment": "added BAtlDir reference",
+                    "modified": "2026-09-13T22:05:14Z",
+                    "modifiedBy": "thomase"
                 },
                 {
                     "action": "Publish externally",
-                    "modified": "2010-09-24T20:35:17Z",
+                    "modified": "2026-09-13T22:02:35Z",
+                    "modifiedBy": "thomase"
+                },
+                {
+                    "comment": "Edited",
+                    "modified": "2026-09-13T22:02:21Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-24T20:05:39Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-13T13:07:11Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "added location associated with Cobucla in BA",
+                    "modified": "2026-08-13T13:06:50Z",
+                    "modifiedBy": "cpalladino"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-08-13T13:05:30Z",
+                    "modifiedBy": "cpalladino"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-24T20:00:48Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-08-13T13:05:29Z",
+                    "modifiedBy": "cpalladino"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-modern-location-of-el-jebha",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
                 "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "Barrington Atlas: BAtlas 28 Cobucla",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 3393600987, version 13, osm:changeset=184371377, 2026-06-20T23:35:19Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/3393600987",
+                    "alternateURI": "",
+                    "bibliographicURI": "",
+                    "citationDetail": "Node 3393600987",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "osm:node=3393600987",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                },
+                {
+                    "accessURI": "https://search.worldcat.org/title/45084869",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9377UUFB",
+                    "citationDetail": "page 463 see \"Cobucla\" sub \"Unlocated Toponyms\"",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World: Map-by-Map Directory</i>. 2 vols. Princeton, N.J.: Princeton University Press, 2000. https://search.worldcat.org/title/45084869.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "BAtlDir",
+                    "type": "seeFurther"
+                }
+            ],
             "review_state": "published",
-            "start": -30,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/278605/batlas-location"
+            "start": 2000,
+            "title": "OSM Modern Location of El Jebha",
+            "uri": "https://pleiades.stoa.org/places/278605/osm-modern-location-of-el-jebha"
         }
     ],
     "names": [
@@ -303,7 +359,10 @@
             "type": "seeFurther"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        -4.666514,
+        35.205755
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
