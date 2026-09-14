@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 8,9
-# Date: 2026/09/06 07:53:57.157775 GMT-4
+# Date: 2026/09/13 07:55:5.439642 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 285535
+# Triple count: 285592
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -14303,6 +14303,24 @@
     dcterms:modified "2024-07-04T21:16:25-04:00";
     dcterms:title "OSM location of Necropoli arcaica";
     owl:sameAs <http://pleiades.stoa.org/places/832482572/osm-location> .
+
+<https://pleiades.stoa.org/places/832841466%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Tomb of the Greek Cross";
+    spatial:C <https://pleiades.stoa.org/places/356966898%23this>;
+    rdfs:comment "A tomb located at the tenth mile of the Via Appia.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/832841466> .
+
+<https://pleiades.stoa.org/places/832841466/osm-location-of-tombe-a-croix-grecque> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-09-10T16:36:26-04:00";
+    dcterms:title "OSM location of Tombe à croix grecque";
+    owl:sameAs <http://pleiades.stoa.org/places/832841466/osm-location-of-tombe-a-croix-grecque> .
+
+<https://pleiades.stoa.org/places/832841466/tomb-of-the-greek-cross> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-09-10T16:36:26-04:00";
+    dcterms:title "Tomb of the Greek Cross";
+    owl:sameAs <http://pleiades.stoa.org/places/832841466/tomb-of-the-greek-cross> .
 
 <https://pleiades.stoa.org/places/832870385%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Lower Church at Banganarti";
@@ -118220,6 +118238,29 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/name.2016-07-08.2166810920> .
+
+<https://pleiades.stoa.org/places/832841466> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Info.roma.it 6055: sepolcro a croce greca al x miglio dell'Appia Antica",
+        "Wikidata Tomb of the Greek Cross (Q130488159)",
+        "vici.org 71685: Tombe à croix grecque";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "A tomb located at the tenth mile of the Via Appia.";
+    dcterms:modified "2026-09-10T16:36:26-04:00";
+    dcterms:title "Tomb of the Greek Cross";
+    cito:citesAsRelated <https://vici.org/vici/71685/>,
+        <https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=6055>,
+        <https://www.wikidata.org/wiki/Q130488159>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/356966898>;
+    owl:sameAs <http://pleiades.stoa.org/places/832841466>;
+    geo:lat 41.7844472;
+    geo:long 12.5962628;
+    skos:altLabel "Tomb of the Greek Cross"@en;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/tomb>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-tombe-a-croix-grecque>;
+    pleiades:hasName <https://pleiades.stoa.org/places/tomb-of-the-greek-cross> .
 
 <https://pleiades.stoa.org/places/832870385> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -252000,6 +252041,14 @@
     pleiades:end_date -30;
     pleiades:start_date -330 .
 
+<https://pleiades.stoa.org/places/osm-location-of-tombe-a-croix-grecque> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[12.5962613, 41.7844112], [12.5963107, 41.7844424], [12.5962643, 41.7844832], [12.5962149, 41.784452], [12.5962613, 41.7844112]]]}";
+    osgeo:asWKT "POLYGON ((12.5962613000000001 41.7844112000000010, 12.5963107000000001 41.7844424000000032, 12.5962642999999996 41.7844831999999968, 12.5962148999999997 41.7844520000000017, 12.5962613000000001 41.7844112000000010))";
+    dcterms:bibliographicCitation "OSM Way 1055557265";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/1055557265>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-tombe-a-croix-grecque>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 1055557265, version 4, osm:changeset=157771781, 2024-10-11T20:02:26Z)" ] .
+
 <https://pleiades.stoa.org/places/osm-location-of-tombs-of-the-buccii-melissaei> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.480798, 40.751667], [14.4808142, 40.7516972], [14.4807864, 40.7517064], [14.4807698, 40.7516766], [14.480798, 40.751667]]]}";
     osgeo:asWKT "POLYGON ((14.4807980000000001 40.7516669999999976, 14.4808141999999993 40.7516972000000024, 14.4807863999999995 40.7517064000000033, 14.4807697999999991 40.7516766000000032, 14.4807980000000001 40.7516669999999976))";
@@ -264664,6 +264713,17 @@
     pleiades:nameAttested "Tomb of Lyson and Kallikles"@en;
     pleiades:nameRomanized "Tomb of Lyson and Kallikles";
     pleiades:start_date 1900 .
+
+<https://pleiades.stoa.org/places/tomb-of-the-greek-cross> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Tomb of the Greek Cross (Q130488159)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q130488159>;
+    owl:sameAs <http://pleiades.stoa.org/places/tomb-of-the-greek-cross>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Tomb of the Greek Cross"@en;
+    pleiades:nameRomanized "Tomb of the Greek Cross";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/tomb-of-theron> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikipedia (English) Theron of Acragas";
@@ -290131,8 +290191,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 E2 Euarchos/Euechos fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 A3 Gallos fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Berressa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 86 B3 Hieros/Siberis fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Bonchis" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 86 B3 Hieros/Siberis fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Cadata" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Gale" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Gistate/Cist(a)epe" ],
@@ -290173,8 +290233,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Hodioupolis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Kadosia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Kalpiton" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 86 Kressa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 D3" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 86 Kressa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Krobialos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Mala M." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Marmolitis" ],
@@ -290182,16 +290242,16 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Matrix" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Mision" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Nymphaion" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 86 Orminion Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 86 Orminion Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Paedopides fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Poimen" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Poseideion/Potistia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Priola" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sakorsa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sanisene" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 86 Skorobas Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 G1" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 86 Skorobas Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sthenelou monu./Lyre" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tetrakis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Theba(is) Ins." ],

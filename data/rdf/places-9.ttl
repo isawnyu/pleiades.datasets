@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 9,z
-# Date: 2026/09/06 07:58:51.328471 GMT-4
+# Date: 2026/09/13 08:00:5.109442 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 185783
+# Triple count: 185839
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -30125,6 +30125,17 @@
     dcterms:title "OSM location of Villa Romana di Valdonega";
     owl:sameAs <http://pleiades.stoa.org/places/94419788/osm-location-of-villa-romana-di-valdonega> .
 
+<https://pleiades.stoa.org/places/944262599%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Darat (river)";
+    rdfs:comment "Pliny the Elder describes the Darat River of North Africa as a place where crocodiles are found. It was located in the region of Mauritania.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/944262599> .
+
+<https://pleiades.stoa.org/places/944262599/flumen-darat> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-09-10T16:37:38-04:00";
+    dcterms:title "flumen Darat";
+    owl:sameAs <http://pleiades.stoa.org/places/944262599/flumen-darat> .
+
 <https://pleiades.stoa.org/places/944349914/bolkar-daglari> dcterms:creator <https://pleiades.stoa.org/author/jnovotny>;
     dcterms:description "Location based on OpenStreetMap node for Bolkar Dağları. A proposed location of Hilakku based on Bagg, RGTC 7/1.";
     dcterms:modified "2022-09-11T15:28:37-04:00";
@@ -43234,6 +43245,12 @@
     dcterms:modified "2026-08-31T18:53:11-04:00";
     dcterms:title "Boundary of the ancient site";
     owl:sameAs <http://pleiades.stoa.org/places/967060272/boundary-of-the-ancient-site> .
+
+<https://pleiades.stoa.org/places/967060272/milecastle-33-shield-on-the-wall> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-09-10T16:28:13-04:00";
+    dcterms:title "Milecastle 33 (Shield-on-the-Wall)";
+    owl:sameAs <http://pleiades.stoa.org/places/967060272/milecastle-33-shield-on-the-wall> .
 
 <https://pleiades.stoa.org/places/967060273/center-point-of-the-ancient-site> dcterms:contributor <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
@@ -63155,6 +63172,8 @@
     owl:sameAs <http://pleiades.stoa.org/places/99995226/osm-location-of-mahalibeh-castle> .
 
 <https://pleiades.stoa.org/places/hammamat%23this> owl:sameAs <http://pleiades.stoa.org/places/786032%23this> .
+
+<https://pleiades.stoa.org/places/redirect-for-corrupted-and-deleted-place-123096%23this> owl:sameAs <http://pleiades.stoa.org/places/616157799%23this> .
 
 <https://pleiades.stoa.org/places/redirect-for-withdrawn-place-674925422%23this> owl:sameAs <http://pleiades.stoa.org/places/668355%23this> .
 
@@ -90779,6 +90798,21 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/villa>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-villa-romana-di-valdonega> .
 
+<https://pleiades.stoa.org/places/944262599> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 5.10.1";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Pliny the Elder describes the Darat River of North Africa as a place where crocodiles are found. It was located in the region of Mauritania.";
+    dcterms:modified "2026-09-10T16:37:38-04:00";
+    dcterms:title "Darat (river)";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/321/631-636,923-930>;
+    owl:sameAs <http://pleiades.stoa.org/places/944262599>;
+    skos:altLabel "flumen Darat"@la;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/river>;
+    pleiades:hasName <https://pleiades.stoa.org/places/flumen-darat> .
+
 <https://pleiades.stoa.org/places/944396034> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/89%23I3>;
@@ -116551,7 +116585,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/achen>;
     dcterms:description "Main entrance gate in the western city walls of Dura-Europos. Built ca. 150 BCE, the city's fortifications were breached sometime around 256 CE and went out of use thereafter.";
-    dcterms:modified "2024-10-26T17:21:40-04:00";
+    dcterms:modified "2026-09-12T15:39:00-04:00";
     dcterms:subject "YDEA project";
     dcterms:title "Palmyrene Gate";
     cito:citesAsRelated <https://vici.org/vici/18094/>,
@@ -146045,6 +146079,17 @@
     pleiades:nameRomanized "Flaminio obelisk";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/flumen-darat> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 5.10.1";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/321/631-636,923-930>;
+    owl:sameAs <http://pleiades.stoa.org/places/flumen-darat>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 300;
+    pleiades:nameAttested "flumen Darat"@la;
+    pleiades:nameRomanized "flumen Darat";
+    pleiades:start_date -30 .
+
 <https://pleiades.stoa.org/places/flumen-masathat> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 5.9.10";
     cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/321/606-614>;
@@ -152527,6 +152572,17 @@
     pleiades:nameAttested "מגדל דוד"@he;
     pleiades:nameRomanized "Migdál Davíd";
     pleiades:start_date 1700 .
+
+<https://pleiades.stoa.org/places/milecastle-33-shield-on-the-wall> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikipedia (English) Milecastle 33";
+    cito:citesAsDataSource <https://en.wikipedia.org/wiki/Milecastle_33>;
+    owl:sameAs <http://pleiades.stoa.org/places/milecastle-33-shield-on-the-wall>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Milecastle 33 (Shield-on-the-Wall)"@en;
+    pleiades:nameRomanized "Milecastle 33 (Shield-on-the-Wall)";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/milecastle-43-great-chesters> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikipedia (English) Milecastle 43";
@@ -172374,6 +172430,7 @@
         <https://pleiades.stoa.org/places/433185%23this>,
         <https://pleiades.stoa.org/places/482523500%23this>,
         <https://pleiades.stoa.org/places/484666730%23this>,
+        <https://pleiades.stoa.org/places/549764183%23this>,
         <https://pleiades.stoa.org/places/57783831%23this>,
         <https://pleiades.stoa.org/places/870073463%23this>,
         <https://pleiades.stoa.org/places/874332557%23this>,
@@ -176485,7 +176542,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/sarcanon>;
     dcterms:description "A milecastle situated on Hadrian's Wall.";
-    dcterms:modified "2026-09-04T15:27:31-04:00";
+    dcterms:modified "2026-09-10T16:28:13-04:00";
     dcterms:subject "dare:ancient=2",
         "dare:feature=tower",
         "dare:major=0";
@@ -176500,10 +176557,12 @@
     owl:sameAs <http://pleiades.stoa.org/places/967060272>;
     geo:lat 55.0309186145;
     geo:long -2.26613358038;
+    skos:altLabel "Milecastle 33 (Shield-on-the-Wall)"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/fortlet>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/boundary-of-the-ancient-site> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/boundary-of-the-ancient-site>;
+    pleiades:hasName <https://pleiades.stoa.org/places/milecastle-33-shield-on-the-wall> .
 
 <https://pleiades.stoa.org/places/967060273> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -185628,6 +185687,7 @@
         <https://pleiades.stoa.org/places/433185>,
         <https://pleiades.stoa.org/places/482523500>,
         <https://pleiades.stoa.org/places/484666730>,
+        <https://pleiades.stoa.org/places/549764183>,
         <https://pleiades.stoa.org/places/57783831>,
         <https://pleiades.stoa.org/places/870073463>,
         <https://pleiades.stoa.org/places/874332557>,
@@ -190471,8 +190531,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 H2 Aemilia et Liguria" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 H2 Belgica I" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 H2 Germania I" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 H2 Sequania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 93 B4 Arabia" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 H2 Sequania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 H3 Viennensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 H4 Africa Proconsularis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 H4 Numidia Cirtensis" ],
