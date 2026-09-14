@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11368 alignments exist in _Pleiades_ place references as of 2026-09-11. The following list of alignments is grouped by zotkey.
+11379 alignments exist in _Pleiades_ place references as of 2026-09-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1338,6 +1338,13 @@
 
 ### alignments:
  - [Ainos](https://pleiades.stoa.org/places/501337)
+
+
+## Aeolia (Q406345)
+[https://www.wikidata.org/wiki/Q406345](https://www.wikidata.org/wiki/Q406345)  
+
+### alignments:
+ - [Island of Aeolus](https://pleiades.stoa.org/places/595204978)
 
 
 ## Aeolian Islands (Q179883)
@@ -13418,6 +13425,13 @@
 
 ### alignments:
  - [Gladiators' barracks](https://pleiades.stoa.org/places/182931393)
+
+
+## Casinalbo necropolis (Q97728054)
+[https://www.wikidata.org/wiki/Q97728054](https://www.wikidata.org/wiki/Q97728054)  
+
+### alignments:
+ - [Casinalbo necropolis](https://pleiades.stoa.org/places/669601729)
 
 
 ## Casinum (Q5048900)
@@ -39243,6 +39257,13 @@
  - [North Citadel Gate](https://pleiades.stoa.org/places/451190270)
 
 
+## North Gate (Q140891419)
+[https://www.wikidata.org/wiki/Q140891419](https://www.wikidata.org/wiki/Q140891419)  
+
+### alignments:
+ - [Porta Nord](https://pleiades.stoa.org/places/785966254)
+
+
 ## North Leigh Roman Villa (Q1705995)
 [https://www.wikidata.org/wiki/Q1705995](https://www.wikidata.org/wiki/Q1705995)  
 
@@ -45304,6 +45325,13 @@
 
 ### alignments:
  - [Paleoskala](https://pleiades.stoa.org/places/763750643)
+
+
+## Prehistoric village (Panarea) (Q47012034)
+[https://www.wikidata.org/wiki/Q47012034](https://www.wikidata.org/wiki/Q47012034)  
+
+### alignments:
+ - [Punta Milazzese](https://pleiades.stoa.org/places/837661672)
 
 
 ## Prestatyn (Q1813948)
@@ -64953,6 +64981,13 @@
  - [Basilica of Santa Pudenziana](https://pleiades.stoa.org/places/626333929)
 
 
+## Santa Restituta (Q2887134)
+[https://www.wikidata.org/wiki/Q2887134](https://www.wikidata.org/wiki/Q2887134)  
+
+### alignments:
+ - [Basilica di Santa Restituta](https://pleiades.stoa.org/places/580481246)
+
+
 ## Santerno (Q569068)
 [https://www.wikidata.org/wiki/Q569068](https://www.wikidata.org/wiki/Q569068)  
 
@@ -66400,7 +66435,7 @@
 [https://www.wikidata.org/wiki/Q962888](https://www.wikidata.org/wiki/Q962888)  
 
 ### alignments:
- - [Seurbi?](https://pleiades.stoa.org/places/236664)
+ - [Seurbi](https://pleiades.stoa.org/places/236664)
 
 
 ## Seven Sleepers cemetery (Ephesus) (Q1409276)
@@ -69072,6 +69107,13 @@
  - [Taulara](https://pleiades.stoa.org/places/857345)
 
 
+## Talayotic town of l'Hospitalet Vell (Q370336)
+[https://www.wikidata.org/wiki/Q370336](https://www.wikidata.org/wiki/Q370336)  
+
+### alignments:
+ - [Hospitalet Vell](https://pleiades.stoa.org/places/580555073)
+
+
 ## Talianki (Q7679481)
 [https://www.wikidata.org/wiki/Q7679481](https://www.wikidata.org/wiki/Q7679481)  
 
@@ -69963,6 +70005,13 @@
  - [Italic temple of Castel di Ieri](https://pleiades.stoa.org/places/431684924)
 
 
+## Temple A at Selinunte (Q12881643)
+[https://www.wikidata.org/wiki/Q12881643](https://www.wikidata.org/wiki/Q12881643)  
+
+### alignments:
+ - [Temple A (Selinus)](https://pleiades.stoa.org/places/42718908)
+
+
 ## Temple B (Selinunte) (Q58237083)
 [https://www.wikidata.org/wiki/Q58237083](https://www.wikidata.org/wiki/Q58237083)  
 
@@ -70017,6 +70066,13 @@
 
 ### alignments:
  - [Temple in Block X7](https://pleiades.stoa.org/places/888638003)
+
+
+## Temple O (Selinunte) (Q58237089)
+[https://www.wikidata.org/wiki/Q58237089](https://www.wikidata.org/wiki/Q58237089)  
+
+### alignments:
+ - [Temple O (Selinus)](https://pleiades.stoa.org/places/253721601)
 
 
 ## Temple of Adonis, Dura-Europos (Q56293428)
@@ -72779,6 +72835,13 @@
  - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
 
 
+## tomb of Cerberus (Q125882283)
+[https://www.wikidata.org/wiki/Q125882283](https://www.wikidata.org/wiki/Q125882283)  
+
+### alignments:
+ - [tomb of Cerberus](https://pleiades.stoa.org/places/35786281)
+
+
 ## Tomb of Charmylos (Q83731063)
 [https://www.wikidata.org/wiki/Q83731063](https://www.wikidata.org/wiki/Q83731063)  
 
@@ -73066,6 +73129,13 @@
  - [Tomb of the Blaesii](https://pleiades.stoa.org/places/176138363)
 
 
+## Tomb of the Calpurni (Q141024574)
+[https://www.wikidata.org/wiki/Q141024574](https://www.wikidata.org/wiki/Q141024574)  
+
+### alignments:
+ - [Sepolcro dei Calpurni](https://pleiades.stoa.org/places/705259128)
+
+
 ## Tomb of the Chariots (Q115596015)
 [https://www.wikidata.org/wiki/Q115596015](https://www.wikidata.org/wiki/Q115596015)  
 
@@ -73127,6 +73197,13 @@
 
 ### alignments:
  - [Tomb of the Sempronii (Palazzo San Felice, Rome)](https://pleiades.stoa.org/places/323719627)
+
+
+## Tomb of the Servilii (Q65168268)
+[https://www.wikidata.org/wiki/Q65168268](https://www.wikidata.org/wiki/Q65168268)  
+
+### alignments:
+ - [Tomb of the Servilii](https://pleiades.stoa.org/places/710307885)
 
 
 ## Tomb of the Silen (Q3531033)

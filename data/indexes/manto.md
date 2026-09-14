@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1191 alignments exist in _Pleiades_ place references as of 2026-09-11. The following list of alignments is grouped by zotkey.
+1193 alignments exist in _Pleiades_ place references as of 2026-09-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3719,6 +3719,13 @@
  - [Chaonia](https://pleiades.stoa.org/places/481787)
 
 
+## 11307437: Phyllos (Thessaly)
+[https://resource.manto.unh.edu/11307437](https://resource.manto.unh.edu/11307437)  
+
+### alignments:
+ - [Phyllos](https://pleiades.stoa.org/places/541056)
+
+
 ## 11307441: Cierion (Thessaly)
 [https://resource.manto.unh.edu/11307441](https://resource.manto.unh.edu/11307441)  
 
@@ -6687,6 +6694,13 @@
 
 ### alignments:
  - [Ismaros/Ismara/Parthenion/Phalesina](https://pleiades.stoa.org/places/507409)
+
+
+## 9051568: the Islands of Aiolos (Unlocatable)
+[https://resource.manto.unh.edu/9051568](https://resource.manto.unh.edu/9051568)  
+
+### alignments:
+ - [Island of Aeolus](https://pleiades.stoa.org/places/595204978)
 
 
 ## 9051582: Aiaia (unlocatable)
