@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1193 alignments exist in _Pleiades_ place references as of 2026-09-14. The following list of alignments is grouped by zotkey.
+1199 alignments exist in _Pleiades_ place references as of 2026-09-15. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2690,6 +2690,13 @@
  - [Smintheion](https://pleiades.stoa.org/places/550892)
 
 
+## 11003299: Themisonion (Phrygia)
+[https://resource.manto.unh.edu/11003299](https://resource.manto.unh.edu/11003299)  
+
+### alignments:
+ - [Themisonion](https://pleiades.stoa.org/places/642565)
+
+
 ## 11003301: Ledon (Phocis)
 [https://resource.manto.unh.edu/11003301](https://resource.manto.unh.edu/11003301)  
 
@@ -4728,6 +4735,20 @@
  - [Unnamed domus in Via Graziosa](https://pleiades.stoa.org/places/405322395)
 
 
+## 11319908: Casa degli Archi I 17, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319908](https://resource.manto.unh.edu/11319908)  
+
+### alignments:
+ - [Casa degli Archi](https://pleiades.stoa.org/places/22263645)
+
+
+## 11319918: Casa del Gemmario II 9, 2 (Pompeii)
+[https://resource.manto.unh.edu/11319918](https://resource.manto.unh.edu/11319918)  
+
+### alignments:
+ - [Casa del Gemmarius](https://pleiades.stoa.org/places/22263644)
+
+
 ## 11319931: Forum Boarium (Rome)
 [https://resource.manto.unh.edu/11319931](https://resource.manto.unh.edu/11319931)  
 
@@ -4742,11 +4763,25 @@
  - [Ara Maxima Herculis](https://pleiades.stoa.org/places/207271757)
 
 
+## 11319935: Casa di Diana I; VI 17, 10 (Pompeii)
+[https://resource.manto.unh.edu/11319935](https://resource.manto.unh.edu/11319935)  
+
+### alignments:
+ - [Casa di Diana I](https://pleiades.stoa.org/places/432992165)
+
+
 ## 11319954: Via della Fortuna (Pompeii)
 [https://resource.manto.unh.edu/11319954](https://resource.manto.unh.edu/11319954)  
 
 ### alignments:
  - [Via della Fortuna](https://pleiades.stoa.org/places/924546513)
+
+
+## 11319961: Casa di M. Pupius Rufus VI 5, 5 (Pompeii)
+[https://resource.manto.unh.edu/11319961](https://resource.manto.unh.edu/11319961)  
+
+### alignments:
+ - [Casa di M. Pupius Rufus](https://pleiades.stoa.org/places/800144977)
 
 
 ## 11319974: Villa di Diomede (Pompeii)
@@ -4775,6 +4810,13 @@
 
 ### alignments:
  - [Villa Poppaea](https://pleiades.stoa.org/places/60021200)
+
+
+## 11320058: Casa delle Grazie VIII 3, 10-12 (Pompeii)
+[https://resource.manto.unh.edu/11320058](https://resource.manto.unh.edu/11320058)  
+
+### alignments:
+ - [Casa delle Grazie](https://pleiades.stoa.org/places/109708136)
 
 
 ## 11320079: Private Dwelling VII 4, 22-23 (Pompeii)

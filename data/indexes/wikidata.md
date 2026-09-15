@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11379 alignments exist in _Pleiades_ place references as of 2026-09-14. The following list of alignments is grouped by zotkey.
+11383 alignments exist in _Pleiades_ place references as of 2026-09-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13210,6 +13210,13 @@
  - [Carzield](https://pleiades.stoa.org/places/109408874)
 
 
+## Casa degli Archi (Q27070584
+[https://www.wikidata.org/wiki/Q27070584](https://www.wikidata.org/wiki/Q27070584)  
+
+### alignments:
+ - [Casa degli Archi](https://pleiades.stoa.org/places/22263645)
+
+
 ## Casa dei Crescenzi (Q56333829)
 [https://www.wikidata.org/wiki/Q56333829](https://www.wikidata.org/wiki/Q56333829)  
 
@@ -13222,6 +13229,13 @@
 
 ### alignments:
  - [House of the Bicentenary](https://pleiades.stoa.org/places/756480383)
+
+
+## Casa del Gemmarius (Q27685762)
+[https://www.wikidata.org/wiki/Q27685762](https://www.wikidata.org/wiki/Q27685762)  
+
+### alignments:
+ - [Casa del Gemmarius](https://pleiades.stoa.org/places/22263644)
 
 
 ## Casa Del Marinaio (Q27687907)
@@ -19065,6 +19079,13 @@
  - [Deris](https://pleiades.stoa.org/places/501397)
 
 
+## Dersaei (Q5263257)
+[https://www.wikidata.org/wiki/Q5263257](https://www.wikidata.org/wiki/Q5263257)  
+
+### alignments:
+ - [Dersaioi](https://pleiades.stoa.org/places/507395)
+
+
 ## Dertosa (Q8354994)
 [https://www.wikidata.org/wiki/Q8354994](https://www.wikidata.org/wiki/Q8354994)  
 
@@ -22770,13 +22791,6 @@
 
 ### alignments:
  - [Forum of Norba](https://pleiades.stoa.org/places/149706992)
-
-
-## Forum of Pompeii (Q3748443)
-[https://www.wikidata.org/wiki/Q3748443](https://www.wikidata.org/wiki/Q3748443)  
-
-### alignments:
- - [Forum of Pompeii](https://pleiades.stoa.org/places/188321148)
 
 
 ## Forum of Theodosius (Q1247291)
@@ -26876,6 +26890,13 @@
 
 ### alignments:
  - [House of Caecilius Jucundus](https://pleiades.stoa.org/places/495398788)
+
+
+## House of M. Pupius Rufus (VI.15.5) (Q27686453)
+[https://www.wikidata.org/wiki/Q27686453](https://www.wikidata.org/wiki/Q27686453)  
+
+### alignments:
+ - [Casa di M. Pupius Rufus](https://pleiades.stoa.org/places/800144977)
 
 
 ## House of M. Spurius Saturninus and D. Volcius Modestus (Q27687127)
@@ -49131,13 +49152,6 @@
  - [Karamagara Bridge](https://pleiades.stoa.org/places/629685)
 
 
-## Q1419562: Saint-Michel tumulus
-[https://www.wikidata.org/wiki/Q1419562](https://www.wikidata.org/wiki/Q1419562)  
-
-### alignments:
- - [Saint-Michel tumulus](https://pleiades.stoa.org/places/915626351)
-
-
 ## Q1422542: Staigue stone fort
 [https://www.wikidata.org/wiki/Q1422542](https://www.wikidata.org/wiki/Q1422542)  
 
@@ -63700,6 +63714,13 @@
  - [St-Martin-d’Uriage](https://pleiades.stoa.org/places/167899)
 
 
+## Saint-Michel tumulus (Q1419562)
+[https://www.wikidata.org/wiki/Q1419562](https://www.wikidata.org/wiki/Q1419562)  
+
+### alignments:
+ - [Saint-Michel tumulus](https://pleiades.stoa.org/places/915626351)
+
+
 ## Saint-Saphorin Roman Villa (Q3558921)
 [https://www.wikidata.org/wiki/Q3558921](https://www.wikidata.org/wiki/Q3558921)  
 
@@ -71776,6 +71797,13 @@
 
 ### alignments:
  - [Themiskyra](https://pleiades.stoa.org/places/857350)
+
+
+## Themisonion (Q16327515)
+[https://www.wikidata.org/wiki/Q16327515](https://www.wikidata.org/wiki/Q16327515)  
+
+### alignments:
+ - [Themisonion](https://pleiades.stoa.org/places/642565)
 
 
 ## Theon Ochema (Q135971506)
