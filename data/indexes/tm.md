@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5191 alignments exist in _Pleiades_ place references as of 2026-09-15. The following list of alignments is grouped by zotkey.
+5192 alignments exist in _Pleiades_ place references as of 2026-09-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -225,6 +225,13 @@
 
 ### alignments:
  - [Taphos (island)](https://pleiades.stoa.org/places/531114)
+
+
+## Geo 1192: Kydisos (Tel Kedesh)
+[https://www.trismegistos.org/place/1192](https://www.trismegistos.org/place/1192)  
+
+### alignments:
+ - [Kadasa](https://pleiades.stoa.org/places/678215)
 
 
 ## Geo 1204: Kythnos
@@ -2031,6 +2038,13 @@
  - [Timalinum/Talamine](https://pleiades.stoa.org/places/236683)
 
 
+## Geo 40979: Pontos (Zavia)
+[https://www.trismegistos.org/place/40979](https://www.trismegistos.org/place/40979)  
+
+### alignments:
+ - [Pontos?](https://pleiades.stoa.org/places/344460)
+
+
 ## Geo 41001: Praesidium (Khirbet el-Khalde)
 [https://www.trismegistos.org/place/41001](https://www.trismegistos.org/place/41001)  
 
@@ -2807,6 +2821,13 @@
 
 ### alignments:
  - [Sobata](https://pleiades.stoa.org/places/688030)
+
+
+## Geo 7374: Tacasarta
+[https://www.trismegistos.org/place/7374](https://www.trismegistos.org/place/7374)  
+
+### alignments:
+ - [Tacasarta](https://pleiades.stoa.org/places/499401067)
 
 
 ## Geo 7518: Tenedos (Bozcaada)
@@ -3747,13 +3768,6 @@
 
 ### alignments:
  - [Stratioton](https://pleiades.stoa.org/places/40322)
-
-
-## GEO ID 1192: Kydisos (Tel Kedesh)
-[https://www.trismegistos.org/place/1192](https://www.trismegistos.org/place/1192)  
-
-### alignments:
- - [Kadasa](https://pleiades.stoa.org/places/678215)
 
 
 ## GEO ID 11934: Euphrates
@@ -23815,13 +23829,6 @@
 
 ### alignments:
  - [Putea Pallene](https://pleiades.stoa.org/places/344462)
-
-
-## GEO ID 40979: Pontos (Zavia)
-[https://www.trismegistos.org/place/40979](https://www.trismegistos.org/place/40979)  
-
-### alignments:
- - [Pontos?](https://pleiades.stoa.org/places/344460)
 
 
 ## GEO ID 40980: Assaria (Lmaia)

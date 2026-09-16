@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11383 alignments exist in _Pleiades_ place references as of 2026-09-15. The following list of alignments is grouped by zotkey.
+11385 alignments exist in _Pleiades_ place references as of 2026-09-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -18740,6 +18740,13 @@
 
 ### alignments:
  - [Darsa (island)](https://pleiades.stoa.org/places/900159787)
+
+
+## Darucinte (Q141462146)
+[https://www.wikidata.org/wiki/Q141462146](https://www.wikidata.org/wiki/Q141462146)  
+
+### alignments:
+ - [Darucinte/Tareina?/Horonon?](https://pleiades.stoa.org/places/874448)
 
 
 ## Dascylium (Q1171924)
@@ -45899,6 +45906,13 @@
 
 ### alignments:
  - [Pyramid of Userkaf](https://pleiades.stoa.org/places/393558281)
+
+
+## Pyramid of via Appia (Q114773163)
+[https://www.wikidata.org/wiki/Q114773163](https://www.wikidata.org/wiki/Q114773163)  
+
+### alignments:
+ - [Pyramidal tomb of the Via Appia](https://pleiades.stoa.org/places/754594357)
 
 
 ## Pyramidal mausoleum of Maktar (Q42756821)

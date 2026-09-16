@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5151 alignments exist in _Pleiades_ place references as of 2026-09-15. The following list of alignments is grouped by zotkey.
+5151 alignments exist in _Pleiades_ place references as of 2026-09-16. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
