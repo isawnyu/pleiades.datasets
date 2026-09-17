@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5192 alignments exist in _Pleiades_ place references as of 2026-09-16. The following list of alignments is grouped by zotkey.
+5193 alignments exist in _Pleiades_ place references as of 2026-09-17. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1167,6 +1167,13 @@
 
 ### alignments:
  - [Statulae](https://pleiades.stoa.org/places/413322)
+
+
+## Geo 32988: Barium (Bari)
+[https://www.trismegistos.org/place/32988](https://www.trismegistos.org/place/32988)  
+
+### alignments:
+ - [Barium](https://pleiades.stoa.org/places/442500)
 
 
 ## Geo 33123: Himera
@@ -13137,6 +13144,13 @@
  - [Zacynthus (island)](https://pleiades.stoa.org/places/531155)
 
 
+## GEO ID 25149
+[http://www.trismegistos.org/place/25149](http://www.trismegistos.org/place/25149)  
+
+### alignments:
+ - [‘Pontes Caldis’](https://pleiades.stoa.org/places/109256)
+
+
 ## GEO ID 2516: Zephyrion
 [https://www.trismegistos.org/place/2516](https://www.trismegistos.org/place/2516)  
 
@@ -18437,13 +18451,6 @@
 
 ### alignments:
  - [Ad Pirum](https://pleiades.stoa.org/places/442443)
-
-
-## GEO ID 32988: Barium (Bari)
-[http://www.trismegistos.org/place/32988](http://www.trismegistos.org/place/32988)  
-
-### alignments:
- - [Barium](https://pleiades.stoa.org/places/442500)
 
 
 ## GEO ID 32990: Aequum Tuticum (Ariano Irpino)

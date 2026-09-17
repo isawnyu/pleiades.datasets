@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11385 alignments exist in _Pleiades_ place references as of 2026-09-16. The following list of alignments is grouped by zotkey.
+11387 alignments exist in _Pleiades_ place references as of 2026-09-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -5781,6 +5781,13 @@
  - [Arco Augusteo di Siracusa](https://pleiades.stoa.org/places/74136618)
 
 
+## Arco dei Gavi (Q1153879)
+[https://www.wikidata.org/wiki/Q1153879](https://www.wikidata.org/wiki/Q1153879)  
+
+### alignments:
+ - [Arco dei Gavi](https://pleiades.stoa.org/places/391761931)
+
+
 ## Arco di Caio e Lucio Cesari (Q126374488)
 [https://www.wikidata.org/wiki/Q126374488](https://www.wikidata.org/wiki/Q126374488)  
 
@@ -9869,6 +9876,13 @@
 
 ### alignments:
  - [Blestium](https://pleiades.stoa.org/places/79333)
+
+
+## Blicquy (Q2906575)
+[https://www.wikidata.org/wiki/Q2906575](https://www.wikidata.org/wiki/Q2906575)  
+
+### alignments:
+ - [Blicquy](https://pleiades.stoa.org/places/108815)
 
 
 ## Blies (Q585833)
@@ -39068,6 +39082,13 @@
  - [Nimrud](https://pleiades.stoa.org/places/894019)
 
 
+## Nimy (Q1916957)
+[https://www.wikidata.org/wiki/Q1916957](https://www.wikidata.org/wiki/Q1916957)  
+
+### alignments:
+ - [Nimy](https://pleiades.stoa.org/places/109211)
+
+
 ## Nineveh (Q5680)
 [https://www.wikidata.org/wiki/Q5680](https://www.wikidata.org/wiki/Q5680)  
 
@@ -47209,13 +47230,6 @@
 
 ### alignments:
  - [Poblado de Irulegui](https://pleiades.stoa.org/places/24777983)
-
-
-## Q1153879: Arco dei Gavi
-[https://www.wikidata.org/wiki/Q1153879](https://www.wikidata.org/wiki/Q1153879)  
-
-### alignments:
- - [Arco dei Gavi](https://pleiades.stoa.org/places/391761931)
 
 
 ## Q115687000
