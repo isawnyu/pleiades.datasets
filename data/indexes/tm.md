@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5193 alignments exist in _Pleiades_ place references as of 2026-09-17. The following list of alignments is grouped by zotkey.
+5193 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -739,6 +739,13 @@
 
 ### alignments:
  - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
+
+
+## Geo 19954: Bracara Augusta (Braga)
+[https://www.trismegistos.org/place/19954](https://www.trismegistos.org/place/19954)  
+
+### alignments:
+ - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
 
 
 ## Geo 20052: Ala (Aalen)
@@ -10571,13 +10578,6 @@
 
 ### alignments:
  - [Vettones](https://pleiades.stoa.org/places/256512)
-
-
-## GEO ID 19954: Bracara Augusta (Braga)
-[http://www.trismegistos.org/place/19954](http://www.trismegistos.org/place/19954)  
-
-### alignments:
- - [Bracara Augusta](https://pleiades.stoa.org/places/236377)
 
 
 ## GEO ID 19955: Terdec

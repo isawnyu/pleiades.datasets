@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11387 alignments exist in _Pleiades_ place references as of 2026-09-17. The following list of alignments is grouped by zotkey.
+11388 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -22919,6 +22919,13 @@
  - [Fleury](https://pleiades.stoa.org/places/355548322)
 
 
+## Fountain of the Idol (Q3392134)
+[https://www.wikidata.org/wiki/Q3392134](https://www.wikidata.org/wiki/Q3392134)  
+
+### alignments:
+ - [Fonte do Ídolo](https://pleiades.stoa.org/places/59492268)
+
+
 ## Fournoi islands (Q608379)
 [https://www.wikidata.org/wiki/Q608379](https://www.wikidata.org/wiki/Q608379)  
 
@@ -23308,6 +23315,7 @@
 [https://www.wikidata.org/wiki/Q369692](https://www.wikidata.org/wiki/Q369692)  
 
 ### alignments:
+ - [Callaecia](https://pleiades.stoa.org/places/236400)
  - [Gallaecia](https://pleiades.stoa.org/places/991317)
 
 
