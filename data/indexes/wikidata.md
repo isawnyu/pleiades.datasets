@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11388 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
+11405 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7826,6 +7826,13 @@
  - [Meduacus Minor (river)](https://pleiades.stoa.org/places/393452)
 
 
+## Bacoli (Q71832)
+[https://www.wikidata.org/wiki/Q71832](https://www.wikidata.org/wiki/Q71832)  
+
+### alignments:
+ - [Bauli](https://pleiades.stoa.org/places/432720)
+
+
 ## Bactra (Q133883628)
 [https://www.wikidata.org/wiki/Q133883628](https://www.wikidata.org/wiki/Q133883628)  
 
@@ -15415,6 +15422,13 @@
  - [Torre di Centocelle](https://pleiades.stoa.org/places/108334324)
 
 
+## Central Church (Q141501126)
+[https://www.wikidata.org/wiki/Q141501126](https://www.wikidata.org/wiki/Q141501126)  
+
+### alignments:
+ - [So-called Central Church in Apollonia](https://pleiades.stoa.org/places/244211030)
+
+
 ## Centro Histórico de Lebrija (Q97643032)
 [https://www.wikidata.org/wiki/Q97643032](https://www.wikidata.org/wiki/Q97643032)  
 
@@ -19844,6 +19858,13 @@
  - [Dorchester-on-Thames](https://pleiades.stoa.org/places/79424)
 
 
+## Dordogne (Q208174)
+[https://www.wikidata.org/wiki/Q208174](https://www.wikidata.org/wiki/Q208174)  
+
+### alignments:
+ - [Duranius (river)](https://pleiades.stoa.org/places/138334)
+
+
 ## Dorginarti (Q11917692)
 [https://www.wikidata.org/wiki/Q11917692](https://www.wikidata.org/wiki/Q11917692)  
 
@@ -21553,6 +21574,13 @@
  - [Latopolis](https://pleiades.stoa.org/places/786059)
 
 
+## Esquiline tribe (Q3538789)
+[https://www.wikidata.org/wiki/Q3538789](https://www.wikidata.org/wiki/Q3538789)  
+
+### alignments:
+ - [tribus Esquilina](https://pleiades.stoa.org/places/134485260)
+
+
 ## Etchmiadzin Cathedral (Q1294648)
 [https://www.wikidata.org/wiki/Q1294648](https://www.wikidata.org/wiki/Q1294648)  
 
@@ -22791,6 +22819,13 @@
 
 ### alignments:
  - [Forum of Cosa](https://pleiades.stoa.org/places/6218928)
+
+
+## Forum of Hippo Regius (Q141514617)
+[https://www.wikidata.org/wiki/Q141514617](https://www.wikidata.org/wiki/Q141514617)  
+
+### alignments:
+ - [Forum of Hippo Regius](https://pleiades.stoa.org/places/504859129)
 
 
 ## Forum of Lucus Feroniae (Q140395024)
@@ -27978,6 +28013,13 @@
  - [Ingaevones](https://pleiades.stoa.org/places/101202)
 
 
+## Inlăceni (Q714832)
+[https://www.wikidata.org/wiki/Q714832](https://www.wikidata.org/wiki/Q714832)  
+
+### alignments:
+ - [Inlăceni](https://pleiades.stoa.org/places/216851)
+
+
 ## Inn (Q14369)
 [https://www.wikidata.org/wiki/Q14369](https://www.wikidata.org/wiki/Q14369)  
 
@@ -28357,8 +28399,8 @@
  - [Diabate (island)](https://pleiades.stoa.org/places/471914)
 
 
-## Isole Tremiti (Q51930)
-[https://www.wikidata.org/wiki/Q51930](https://www.wikidata.org/wiki/Q51930)  
+## Isole Tremiti (Q1243066)
+[https://www.wikidata.org/wiki/Q1243066](https://www.wikidata.org/wiki/Q1243066)  
 
 ### alignments:
  - [Diomedeae Islands](https://pleiades.stoa.org/places/442567)
@@ -28586,6 +28628,13 @@
 
 ### alignments:
  - [J4 Barracks](https://pleiades.stoa.org/places/888638033)
+
+
+## J7 Barracks (Q122158556)
+[https://www.wikidata.org/wiki/Q122158556](https://www.wikidata.org/wiki/Q122158556)  
+
+### alignments:
+ - [J7 Barracks](https://pleiades.stoa.org/places/888638026)
 
 
 ## Jabal Says archaeological site (Q21595920)
@@ -29738,6 +29787,13 @@
  - [Kenan Tepe](https://pleiades.stoa.org/places/381896576)
 
 
+## Kendale Hecala (Q141514787)
+[https://www.wikidata.org/wiki/Q141514787](https://www.wikidata.org/wiki/Q141514787)  
+
+### alignments:
+ - [Kendale Hecala](https://pleiades.stoa.org/places/299713605)
+
+
 ## Kephale (Q13445967)
 [https://www.wikidata.org/wiki/Q13445967](https://www.wikidata.org/wiki/Q13445967)  
 
@@ -29995,6 +30051,13 @@
 
 ### alignments:
  - [‘Praesidio’](https://pleiades.stoa.org/places/746796)
+
+
+## Khirbet ed Deir (Q141507849)
+[https://www.wikidata.org/wiki/Q141507849](https://www.wikidata.org/wiki/Q141507849)  
+
+### alignments:
+ - [Khirbet ed Deir](https://pleiades.stoa.org/places/687943)
 
 
 ## Khirbet el-Qirana (Q106463830)
@@ -36478,6 +36541,13 @@
  - [Milyas (region)](https://pleiades.stoa.org/places/638996)
 
 
+## Minaeans (Q1177379)
+[https://www.wikidata.org/wiki/Q1177379](https://www.wikidata.org/wiki/Q1177379)  
+
+### alignments:
+ - [Minaei](https://pleiades.stoa.org/places/39386)
+
+
 ## Mineo (Q478457)
 [https://www.wikidata.org/wiki/Q478457](https://www.wikidata.org/wiki/Q478457)  
 
@@ -37893,6 +37963,13 @@
  - [Mutugenna](https://pleiades.stoa.org/places/311125)
 
 
+## Muza (Q1956171)
+[https://www.wikidata.org/wiki/Q1956171](https://www.wikidata.org/wiki/Q1956171)  
+
+### alignments:
+ - [Mouza Emporion](https://pleiades.stoa.org/places/39390)
+
+
 ## Muziris (Q2974112)
 [https://www.wikidata.org/wiki/Q2974112](https://www.wikidata.org/wiki/Q2974112)  
 
@@ -38395,6 +38472,13 @@
 
 ### alignments:
  - [Tomba del Duce, Vetulonia](https://pleiades.stoa.org/places/182270778)
+
+
+## Nawa (Q1758024)
+[https://www.wikidata.org/wiki/Q1758024](https://www.wikidata.org/wiki/Q1758024)  
+
+### alignments:
+ - [Neue](https://pleiades.stoa.org/places/678307)
 
 
 ## Naxos (polis) (Q96575378)
@@ -44838,6 +44922,13 @@
  - [Porta Portuensis](https://pleiades.stoa.org/places/591390532)
 
 
+## Porta Praetoria (Q141508373)
+[https://www.wikidata.org/wiki/Q141508373](https://www.wikidata.org/wiki/Q141508373)  
+
+### alignments:
+ - [Porta Pretoria (Albano Laziale)](https://pleiades.stoa.org/places/240415207)
+
+
 ## Porta Principalis Dextra, Tulln (Q37890669)
 [https://www.wikidata.org/wiki/Q37890669](https://www.wikidata.org/wiki/Q37890669)  
 
@@ -45179,6 +45270,13 @@
 
 ### alignments:
  - [Pausilipum](https://pleiades.stoa.org/places/442113997)
+
+
+## Post-Archaic necropolis at Poggio dei Cavallari (Q141503921)
+[https://www.wikidata.org/wiki/Q141503921](https://www.wikidata.org/wiki/Q141503921)  
+
+### alignments:
+ - [Post-Archaic necropolis at Poggio dei Cavallari](https://pleiades.stoa.org/places/297163721)
 
 
 ## Posto Roman villa (Q131361267)
@@ -54625,13 +54723,6 @@
  - [tribus Cornelia](https://pleiades.stoa.org/places/182931391)
 
 
-## Q3538789: Esquilina
-[https://www.wikidata.org/wiki/Q3538789](https://www.wikidata.org/wiki/Q3538789)  
-
-### alignments:
- - [tribus Esquilina](https://pleiades.stoa.org/places/134485260)
-
-
 ## Q3538791: Fabia
 [https://www.wikidata.org/wiki/Q3538791](https://www.wikidata.org/wiki/Q3538791)  
 
@@ -61951,6 +62042,13 @@
  - [Roman arch (Medinaceli)](https://pleiades.stoa.org/places/768000924)
 
 
+## Roman Army camp (Eboda) (Q141503925)
+[https://www.wikidata.org/wiki/Q141503925](https://www.wikidata.org/wiki/Q141503925)  
+
+### alignments:
+ - [Roman Army camp (Eboda)](https://pleiades.stoa.org/places/339161339)
+
+
 ## Roman Basilica of Santa Eulalia, Mérida (Q98824936)
 [https://www.wikidata.org/wiki/Q98824936](https://www.wikidata.org/wiki/Q98824936)  
 
@@ -61998,6 +62096,13 @@
 
 ### alignments:
  - [Roman baths (Capsa)](https://pleiades.stoa.org/places/188790129)
+
+
+## Roman baths of Taormina (Q141503913)
+[https://www.wikidata.org/wiki/Q141503913](https://www.wikidata.org/wiki/Q141503913)  
+
+### alignments:
+ - [Roman baths of Taormina](https://pleiades.stoa.org/places/937547559)
 
 
 ## Roman Bridge (Q2179571)
@@ -67726,6 +67831,13 @@
 
 ### alignments:
  - [Sous (river in Morocco)](https://pleiades.stoa.org/places/440319749)
+
+
+## South Agora of Aphrodisias (Q141503930)
+[https://www.wikidata.org/wiki/Q141503930](https://www.wikidata.org/wiki/Q141503930)  
+
+### alignments:
+ - [South Agora](https://pleiades.stoa.org/places/792804148)
 
 
 ## South citadel gate, Dura-Europos (Q116621914)
@@ -79515,6 +79627,13 @@
 
 ### alignments:
  - [Malichou islands](https://pleiades.stoa.org/places/39376)
+
+
+## Zuccabar (Q21029726)
+[https://www.wikidata.org/wiki/Q21029726](https://www.wikidata.org/wiki/Q21029726)  
+
+### alignments:
+ - [Zucchabar](https://pleiades.stoa.org/places/295374)
 
 
 ## Zvartnots Cathedral (Q17054090)

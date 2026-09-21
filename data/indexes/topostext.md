@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5151 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
+5152 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -252,13 +252,6 @@
 
 ### alignments:
  - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
-
-
-## 385225BDGy
-[https://topostext.org/place/385225BDGy](https://topostext.org/place/385225BDGy)  
-
-### alignments:
- - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -13128,6 +13121,13 @@
  - [Gymnasium at Corinth](https://pleiades.stoa.org/places/100913712)
 
 
+## Gymnasium (Delphi) 3 Marmara - Γυμνάσιον
+[https://topostext.org/place/385225BDGy](https://topostext.org/place/385225BDGy)  
+
+### alignments:
+ - [Gymnasium at Delphi](https://pleiades.stoa.org/places/164931929)
+
+
 ## Gymnasium (Olympia)
 [https://topostext.org/place/376216BOGy](https://topostext.org/place/376216BOGy)  
 
@@ -23788,6 +23788,13 @@
 
 ### alignments:
  - [Oitylos](https://pleiades.stoa.org/places/570527)
+
+
+## Okelis/Akila (Arabia) 13 Murad - Ὀκηλις
+[https://topostext.org/place/127435HOke](https://topostext.org/place/127435HOke)  
+
+### alignments:
+ - [Akila/Okelis](https://pleiades.stoa.org/places/39279)
 
 
 ## Oktapolis (Caria)

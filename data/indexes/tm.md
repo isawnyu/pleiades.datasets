@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5193 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
+5194 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -760,6 +760,13 @@
 
 ### alignments:
  - [Thabudeos/Tabudium Oppidum](https://pleiades.stoa.org/places/334632)
+
+
+## Geo 20498: Zucchabar (Miliana)
+[https://www.trismegistos.org/place/20498](https://www.trismegistos.org/place/20498)  
+
+### alignments:
+ - [Zucchabar](https://pleiades.stoa.org/places/295374)
 
 
 ## Geo 20617: Timicis (Sidi Bou Chaib)
@@ -3277,6 +3284,13 @@
 
 ### alignments:
  - [Sabastrikon Stoma/Sebastikon Stoma](https://pleiades.stoa.org/places/40274)
+
+
+## GEO ID 11219
+[http://www.trismegistos.org/place/11219](http://www.trismegistos.org/place/11219)  
+
+### alignments:
+ - [Moundou](https://pleiades.stoa.org/places/39389)
 
 
 ## GEO ID 1121: Knidos (Tekir)
@@ -10886,13 +10900,6 @@
 
 ### alignments:
  - [Ouled Agla](https://pleiades.stoa.org/places/334543)
-
-
-## GEO ID 20498: Zucchabar (Miliana)
-[https://www.trismegistos.org/place/20498](https://www.trismegistos.org/place/20498)  
-
-### alignments:
- - [Zucchabar](https://pleiades.stoa.org/places/295374)
 
 
 ## GEO ID 204: Antiocheia (Yalvaç)

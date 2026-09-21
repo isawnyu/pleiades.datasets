@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1199 alignments exist in _Pleiades_ place references as of 2026-09-18. The following list of alignments is grouped by zotkey.
+1200 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4117,6 +4117,13 @@
 
 ### alignments:
  - [Campania](https://pleiades.stoa.org/places/432742)
+
+
+## 11310908: Bauli (Campania)
+[https://resource.manto.unh.edu/11310908](https://resource.manto.unh.edu/11310908)  
+
+### alignments:
+ - [Bauli](https://pleiades.stoa.org/places/432720)
 
 
 ## 11310924: Abatos (Egypt)
