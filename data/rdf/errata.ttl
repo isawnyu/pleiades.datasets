@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Errata Range False
-# Date: 2026/09/13 06:48:32.318814 GMT-4
+# Date: 2026/09/20 06:48:28.286672 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 6078
+# Triple count: 6135
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -734,6 +734,24 @@
     dcterms:title "OSM location of Ekklesiasterion";
     owl:sameAs <http://pleiades.stoa.org/errata/349338482/location-of-ekklesiasterion> .
 
+<https://pleiades.stoa.org/errata/384365956%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Withdrawn: Columbarium of Constantine";
+    spatial:C <https://pleiades.stoa.org/places/423025%23this>;
+    rdfs:comment "Doublet for https://pleiades.stoa.org/places/541774889";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/384365956> .
+
+<https://pleiades.stoa.org/errata/384365956/columbarium-of-constantine> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-09-16T11:26:52-04:00";
+    dcterms:title "Columbarium of Constantine";
+    owl:sameAs <http://pleiades.stoa.org/errata/384365956/columbarium-of-constantine> .
+
+<https://pleiades.stoa.org/errata/384365956/osm-location-of-colombario-costantiniano> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap.";
+    dcterms:modified "2026-09-16T11:26:52-04:00";
+    dcterms:title "OSM location of  Colombario Costantiniano";
+    owl:sameAs <http://pleiades.stoa.org/errata/384365956/osm-location-of-colombario-costantiniano> .
+
 <https://pleiades.stoa.org/errata/40301%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Withdrawn: Scytala (duplicate)";
     rdfs:comment "Duplicate inherited from BAtlDir for https://pleiades.stoa.org/places/767858";
@@ -1320,11 +1338,11 @@
     rdfs:comment "This Pleiades place resource was moved to errata because it is a doublet for another place resource (see details for link).";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/errata/857326> .
 
-<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/batlas-location> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Location is within the footprint of BAtlas map 87 grid A4, but otherwise undetermined";
@@ -1332,11 +1350,11 @@
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/errata/857326/batlas-location> .
 
-<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+<https://pleiades.stoa.org/errata/857326/skylax> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "";
@@ -3564,6 +3582,28 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/ekklesiasterion>;
     pleiades:hasLocation <https://pleiades.stoa.org/errata/location-of-ekklesiasterion> .
 
+<https://pleiades.stoa.org/errata/384365956> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Wikidata Columbarium of Constantine (Q105319793)",
+        "Wikipedia (English) Park of the Caffarella";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Doublet for https://pleiades.stoa.org/places/541774889";
+    dcterms:modified "2026-09-16T11:26:52-04:00";
+    dcterms:subject "columbarium",
+        "extant remains";
+    dcterms:title "Withdrawn: Columbarium of Constantine";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q105319793>;
+    cito:citesForInformation <https://en.wikipedia.org/wiki/Park_of_the_Caffarella>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/423025>;
+    owl:sameAs <http://pleiades.stoa.org/errata/384365956>;
+    skos:altLabel "Columbarium of Constantine"@en;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/tomb>;
+    pleiades:hasLocation <https://pleiades.stoa.org/errata/osm-location-of-colombario-costantiniano>;
+    pleiades:hasName <https://pleiades.stoa.org/errata/columbarium-of-constantine> .
+
 <https://pleiades.stoa.org/errata/40301> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "BAtlas 4 Scytala",
@@ -4244,11 +4284,11 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23A4>;
     dcterms:bibliographicCitation "";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Diane Braund" ],
-        <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Diane Braund" ];
     dcterms:coverage "Çekerek Irmak";
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
@@ -4363,10 +4403,10 @@
         "ToposText Mausoleum of Hadrian (Rome)",
         "Wikidata Q486382: Castel Sant'Angelo",
         "Wikipedia (English) Castel Sant'Angelo";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "jfu" ],
-        <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/thomase>,
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "jfu" ];
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904";
     dcterms:modified "2024-10-28T10:59:34-04:00";
@@ -5496,6 +5536,17 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ];
     pleiades:nameRomanized "Cilicia" .
 
+<https://pleiades.stoa.org/errata/columbarium-of-constantine> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Columbarium of Constantine (Q105319793)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q105319793>;
+    owl:sameAs <http://pleiades.stoa.org/errata/columbarium-of-constantine>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Columbarium of Constantine"@en;
+    pleiades:nameRomanized "Columbarium of Constantine";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/errata/creta> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/errata/creta>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ];
@@ -5839,6 +5890,15 @@
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/23956788>;
     owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-chiesa-di-santurbano-alla>;
     prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 23956788, version 9, osm:changeset=143781098, 2023-11-08T13:37:59Z)" ] .
+
+<https://pleiades.stoa.org/errata/osm-location-of-colombario-costantiniano> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "OSM Node 4406771103";
+    cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/4406771103>;
+    owl:sameAs <http://pleiades.stoa.org/errata/osm-location-of-colombario-costantiniano>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 4406771103, version 3, osm:changeset=165640636, 2025-04-30T15:41:09Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 300;
+    pleiades:start_date -30 .
 
 <https://pleiades.stoa.org/errata/osm-location-of-iiuii-iii1-4i-r-ioi-i1-iiii-ii-ii> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 8859029839";
@@ -6301,8 +6361,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 42 Cutiliensis L." ],
         [ rdfs:label "Barrington Atlas: BAtlas 44 Pollition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 55 B1 Perraibia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E4 20" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 58 B2 Ladon fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 58 Oinoe/Boinoa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 B3 Akropolis" ],
         [ rdfs:label "Pleiades" ],
@@ -6310,8 +6370,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 87 A4 Skylax fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 E3 31" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 B1 Armenia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 33" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 100 L4 Creta (et Cyrene)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Baetica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 E4 Lusitania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 F3 Tarraconensis" ],
@@ -6320,8 +6380,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Inferior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K2 Pannonia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 K3 Dalmatia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 45" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Macedonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Moesia Superior" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 L3 Thracia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 M3 Moesia Inferior" ],
@@ -6331,8 +6391,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 101 N3 Paphlagonia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Cyprus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 N4 Pisidia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 50" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 101 P3 Pontus Polemoniacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Armenia Minor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Cilicia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 101 P4 Isauria" ],
