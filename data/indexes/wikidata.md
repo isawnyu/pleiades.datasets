@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11405 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+11411 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -19009,6 +19009,13 @@
  - [Delos Synagogue](https://pleiades.stoa.org/places/152199037)
 
 
+## Delphi (Q75459)
+[https://www.wikidata.org/wiki/Q75459](https://www.wikidata.org/wiki/Q75459)  
+
+### alignments:
+ - [Delphi](https://pleiades.stoa.org/places/540726)
+
+
 ## Delphinium (Q60791095)
 [https://www.wikidata.org/wiki/Q60791095](https://www.wikidata.org/wiki/Q60791095)  
 
@@ -20108,6 +20115,13 @@
 
 ### alignments:
  - [Portus Dubris](https://pleiades.stoa.org/places/79646)
+
+
+## Dubris Pharos (Q3715786)
+[https://www.wikidata.org/wiki/Q3715786](https://www.wikidata.org/wiki/Q3715786)  
+
+### alignments:
+ - [Pharos of Portus Dubris](https://pleiades.stoa.org/places/81542)
 
 
 ## Dugi otok (Q725802)
@@ -30627,6 +30641,13 @@
  - [Celadussae (islands)](https://pleiades.stoa.org/places/197205)
 
 
+## Koroneia (Q593295)
+[https://www.wikidata.org/wiki/Q593295](https://www.wikidata.org/wiki/Q593295)  
+
+### alignments:
+ - [Coronea](https://pleiades.stoa.org/places/540717)
+
+
 ## Korucutepe (Q6098662)
 [https://www.wikidata.org/wiki/Q6098662](https://www.wikidata.org/wiki/Q6098662)  
 
@@ -30688,6 +30709,13 @@
 
 ### alignments:
  - [Kotyora](https://pleiades.stoa.org/places/857200)
+
+
+## Koukos site (Thasos) (Q141522956)
+[https://www.wikidata.org/wiki/Q141522956](https://www.wikidata.org/wiki/Q141522956)  
+
+### alignments:
+ - [Koukos](https://pleiades.stoa.org/places/501479)
 
 
 ## Kouloukonas Oŕos (Q25020687)
@@ -40889,6 +40917,13 @@
  - [Castro de Arrola](https://pleiades.stoa.org/places/873145894)
 
 
+## Oppidum of Conrouan (Q141521950)
+[https://www.wikidata.org/wiki/Q141521950](https://www.wikidata.org/wiki/Q141521950)  
+
+### alignments:
+ - [Oppidum de Conrouan](https://pleiades.stoa.org/places/456339119)
+
+
 ## oppidum of Villejoubert (Q19945498)
 [https://www.wikidata.org/wiki/Q19945498](https://www.wikidata.org/wiki/Q19945498)  
 
@@ -45251,8 +45286,15 @@
  - [Vatreni Portus](https://pleiades.stoa.org/places/397895)
 
 
+## Poseidium (Q17625765)
+[https://www.wikidata.org/wiki/Q17625765](https://www.wikidata.org/wiki/Q17625765)  
+
+### alignments:
+ - [Poseidion](https://pleiades.stoa.org/places/541068)
+
+
 ## Poseidon Hippios sanctuary at Mantineia (Q17574778)
-[https://www.wikidata.org/Q17574778](https://www.wikidata.org/Q17574778)  
+[https://www.wikidata.org/wiki/Q17574778](https://www.wikidata.org/wiki/Q17574778)  
 
 ### alignments:
  - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
@@ -47175,13 +47217,6 @@
 
 ### alignments:
  - [Roman Theatre at Caere](https://pleiades.stoa.org/places/616791790)
-
-
-## Q1123019: Temple of Olympian Zeus
-[https://www.wikidata.org/wiki/Q1123019](https://www.wikidata.org/wiki/Q1123019)  
-
-### alignments:
- - [Temple of Olympian Zeus, Athens](https://pleiades.stoa.org/places/659771158)
 
 
 ## Q1126234: Tavolara Island
@@ -55227,13 +55262,6 @@
  - [Arocas (river)](https://pleiades.stoa.org/places/452265)
 
 
-## Q3715786: Dubris Pharos
-[https://www.wikidata.org/wiki/Q3715786](https://www.wikidata.org/wiki/Q3715786)  
-
-### alignments:
- - [Pharos of Portus Dubris](https://pleiades.stoa.org/places/81542)
-
-
 ## Q3719160: Eumachia building
 [https://www.wikidata.org/wiki/Q3719160](https://www.wikidata.org/wiki/Q3719160)  
 
@@ -59204,13 +59232,6 @@
 
 ### alignments:
  - [Silva Ciminia](https://pleiades.stoa.org/places/30464757)
-
-
-## Q75459: Delphi
-[https://www.wikidata.org/wiki/Q75459](https://www.wikidata.org/wiki/Q75459)  
-
-### alignments:
- - [Delphi](https://pleiades.stoa.org/places/540726)
 
 
 ## Q763167: Qanawat
@@ -65458,6 +65479,13 @@
  - [*Aurinia/Saturnia](https://pleiades.stoa.org/places/413044)
 
 
+## Satyrides islands (Q17354919)
+[https://www.wikidata.org/wiki/Q17354919](https://www.wikidata.org/wiki/Q17354919)  
+
+### alignments:
+ - [Satyrides Islands](https://pleiades.stoa.org/places/85073943)
+
+
 ## Sauer (Q158847)
 [https://www.wikidata.org/wiki/Q158847](https://www.wikidata.org/wiki/Q158847)  
 
@@ -70938,6 +70966,13 @@
  - [Temple of Montu (El-Tod)](https://pleiades.stoa.org/places/542461377)
 
 
+## Temple of Olympian Zeus (Q1123019)
+[https://www.wikidata.org/wiki/Q1123019](https://www.wikidata.org/wiki/Q1123019)  
+
+### alignments:
+ - [Temple of Olympian Zeus, Athens](https://pleiades.stoa.org/places/659771158)
+
+
 ## Temple of Peace (Q1456939)
 [https://www.wikidata.org/wiki/Q1456939](https://www.wikidata.org/wiki/Q1456939)  
 
@@ -72610,6 +72645,13 @@
 
 ### alignments:
  - [Paliouros](https://pleiades.stoa.org/places/373868)
+
+
+## Timișoara (Q83404)
+[https://www.wikidata.org/wiki/Q83404](https://www.wikidata.org/wiki/Q83404)  
+
+### alignments:
+ - [Timișoara](https://pleiades.stoa.org/places/412344813)
 
 
 ## Timna valley (Q1973199)

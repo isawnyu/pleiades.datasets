@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5152 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+5153 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -175,13 +175,6 @@
 
 ### alignments:
  - [Helisson](https://pleiades.stoa.org/places/570282)
-
-
-## 376224SPos
-[https://topostext.org/place/376224SPos](https://topostext.org/place/376224SPos)  
-
-### alignments:
- - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
 
 
 ## 376227BKyG
@@ -25978,6 +25971,13 @@
  - [Persicus Sinus/Erythr(ae)um Mare](https://pleiades.stoa.org/places/29713)
 
 
+## person id 25264
+[https://topostext.org/people/25264](https://topostext.org/people/25264)  
+
+### alignments:
+ - [Satyrides Islands](https://pleiades.stoa.org/places/85073943)
+
+
 ## Perusia (Italy)
 [https://topostext.org/place/431124UPer](https://topostext.org/place/431124UPer)  
 
@@ -28262,6 +28262,13 @@
 
 ### alignments:
  - [Poseidon Pr.](https://pleiades.stoa.org/places/599900)
+
+
+## Poseidon Hippios (Mantineia) 9 Milia - βωμός Ποσειδώνος Ιππίου
+[https://topostext.org/place/376224SPos](https://topostext.org/place/376224SPos)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
 
 
 ## Poseidon of Kalaureia (Poros)

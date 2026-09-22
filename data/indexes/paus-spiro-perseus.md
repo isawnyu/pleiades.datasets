@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-567 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+569 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -55,6 +55,13 @@
 
 ### alignments:
  - [City Eleusinion at Athens](https://pleiades.stoa.org/places/650003009)
+
+
+## 1.14.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.14.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.14.7)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Ourania](https://pleiades.stoa.org/places/435244729)
 
 
 ## 1.17.2
@@ -140,6 +147,13 @@
 
 ### alignments:
  - [Sanctuary of Athena Hygieia](https://pleiades.stoa.org/places/130769474)
+
+
+## 1.23.6
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.23.6](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.23.6)  
+
+### alignments:
+ - [Satyrides Islands](https://pleiades.stoa.org/places/85073943)
 
 
 ## 1.23.7

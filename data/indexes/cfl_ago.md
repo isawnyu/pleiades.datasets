@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-492 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+494 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1713,6 +1713,13 @@
  - [Agrinion](https://pleiades.stoa.org/places/540599)
 
 
+## Toponyme - 37058: Koronia, Koutoumoulas-Δ.Δ.Κορωνείας, Κουτουμουλάς
+[https://chronique.efa.gr/?r=topo_public&id=37058](https://chronique.efa.gr/?r=topo_public&id=37058)  
+
+### alignments:
+ - [Coronea](https://pleiades.stoa.org/places/540717)
+
+
 ## Toponyme - 37413 Hydra
 [https://chronique.efa.gr/?r=topo_public&id=37413](https://chronique.efa.gr/?r=topo_public&id=37413)  
 
@@ -1802,6 +1809,13 @@
 
 ### alignments:
  - [Gourimadi Prehistoric Settlement](https://pleiades.stoa.org/places/941807582)
+
+
+## Toponyme - 70138: Koukos-Κούκος
+[https://chronique.efa.gr/?r=topo_public&id=70138](https://chronique.efa.gr/?r=topo_public&id=70138)  
+
+### alignments:
+ - [Koukos](https://pleiades.stoa.org/places/501479)
 
 
 ## Toponyme 10554: Oinoi, Mazi-Κ.Δ.Οινόης

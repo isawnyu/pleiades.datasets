@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5194 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+5194 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2618,13 +2618,6 @@
 
 ### alignments:
  - [Pserimos (island)](https://pleiades.stoa.org/places/599910)
-
-
-## Geo 58696: Koukos
-[https://www.trismegistos.org/place/58696](https://www.trismegistos.org/place/58696)  
-
-### alignments:
- - [Koukos](https://pleiades.stoa.org/places/501479)
 
 
 ## Geo 58879: Odrysai
@@ -32823,6 +32816,13 @@
 
 ### alignments:
  - [Hyria (Naxos)](https://pleiades.stoa.org/places/599661)
+
+
+## GEO ID 58696: Koukos
+[https://www.trismegistos.org/place/58696](https://www.trismegistos.org/place/58696)  
+
+### alignments:
+ - [Koukos](https://pleiades.stoa.org/places/501479)
 
 
 ## GEO ID 58700: Thourion

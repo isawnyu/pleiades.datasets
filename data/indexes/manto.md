@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1200 alignments exist in _Pleiades_ place references as of 2026-09-21. The following list of alignments is grouped by zotkey.
+1204 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -975,13 +975,6 @@
  - [Amnisos](https://pleiades.stoa.org/places/524143100)
 
 
-## 10151068: the Sanctuary of Poseidon at Mantineia
-[https://resource.manto.unh.edu/10151068](https://resource.manto.unh.edu/10151068)  
-
-### alignments:
- - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
-
-
 ## 10151142: Pharis
 [https://resource.manto.unh.edu/10151142](https://resource.manto.unh.edu/10151142)  
 
@@ -1001,6 +994,13 @@
 
 ### alignments:
  - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
+
+
+## 10151492: the Sanctuary of Olympian Zeus at Athens
+[https://resource.manto.unh.edu/10151492](https://resource.manto.unh.edu/10151492)  
+
+### alignments:
+ - [Temple of Olympian Zeus, Athens](https://pleiades.stoa.org/places/659771158)
 
 
 ## 10151497: the Temple of Apollo Delphinios at Athens
@@ -1085,6 +1085,13 @@
 
 ### alignments:
  - [Old Temple of Athena Polias at Athens](https://pleiades.stoa.org/places/164552991)
+
+
+## 10152984: the Sanctuary of Horse Poseidon near Mantineia
+[https://resource.manto.unh.edu/10152984](https://resource.manto.unh.edu/10152984)  
+
+### alignments:
+ - [Sanctuary of Poseidon Hippios (Mantineia)](https://pleiades.stoa.org/places/252314017)
 
 
 ## 10153056: Acharnai (Attica)
@@ -2718,6 +2725,13 @@
  - [Tomb of Iphigenia](https://pleiades.stoa.org/places/36476597)
 
 
+## 11009666: the Sanctuary of Aphrodite Ourania at Athens
+[https://resource.manto.unh.edu/11009666](https://resource.manto.unh.edu/11009666)  
+
+### alignments:
+ - [Sanctuary of Aphrodite Ourania](https://pleiades.stoa.org/places/435244729)
+
+
 ## 11009854: the Atlantic Ocean
 [https://resource.manto.unh.edu/11009854](https://resource.manto.unh.edu/11009854)  
 
@@ -2893,6 +2907,13 @@
  - [Apidanos (river)](https://pleiades.stoa.org/places/540647)
 
 
+## 11292535: the Satyrides Islands
+[https://resource.manto.unh.edu/11292535](https://resource.manto.unh.edu/11292535)  
+
+### alignments:
+ - [Satyrides Islands](https://pleiades.stoa.org/places/85073943)
+
+
 ## 11292595: Mount Hymettos (Attica)
 [https://resource.manto.unh.edu/11292595](https://resource.manto.unh.edu/11292595)  
 
@@ -3024,6 +3045,13 @@
 
 ### alignments:
  - [Amantia](https://pleiades.stoa.org/places/481715)
+
+
+## 11297178: Paos (Arcadia)
+[https://resource.manto.unh.edu/11297178](https://resource.manto.unh.edu/11297178)  
+
+### alignments:
+ - [Paos](https://pleiades.stoa.org/places/570558)
 
 
 ## 11297298: Bryseai (Laconia)
