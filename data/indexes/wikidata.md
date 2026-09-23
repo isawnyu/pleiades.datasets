@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11411 alignments exist in _Pleiades_ place references as of 2026-09-22. The following list of alignments is grouped by zotkey.
+11414 alignments exist in _Pleiades_ place references as of 2026-09-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8162,6 +8162,20 @@
  - [Bam](https://pleiades.stoa.org/places/29501)
 
 
+## Banassac (Q381323)
+[https://www.wikidata.org/wiki/Q381323](https://www.wikidata.org/wiki/Q381323)  
+
+### alignments:
+ - [Banassac](https://pleiades.stoa.org/places/138214)
+
+
+## Banassac (Samian Ware Discovery Site) (Q103145572)
+[https://www.wikidata.org/wiki/Q103145572](https://www.wikidata.org/wiki/Q103145572)  
+
+### alignments:
+ - [Banassac](https://pleiades.stoa.org/places/138214)
+
+
 ## Bancroft Roman Villa (Q4854164)
 [https://www.wikidata.org/wiki/Q4854164](https://www.wikidata.org/wiki/Q4854164)  
 
@@ -11180,6 +11194,13 @@
  - [Breviodurum](https://pleiades.stoa.org/places/114771)
 
 
+## Briord Roman aqueduct (Q2859240)
+[https://www.wikidata.org/wiki/Q2859240](https://www.wikidata.org/wiki/Q2859240)  
+
+### alignments:
+ - [Briord Roman aqueduct](https://pleiades.stoa.org/places/14985147)
+
+
 ## Brisgavi (Q905683)
 [https://www.wikidata.org/wiki/Q905683](https://www.wikidata.org/wiki/Q905683)  
 
@@ -13747,6 +13768,13 @@
 
 ### alignments:
  - [Castellum Mattiacorum](https://pleiades.stoa.org/places/108864)
+
+
+## Castellum of Can Blai (Q11913201)
+[https://www.wikidata.org/wiki/Q11913201](https://www.wikidata.org/wiki/Q11913201)  
+
+### alignments:
+ - [Can Blai](https://pleiades.stoa.org/places/234760228)
 
 
 ## Castelporziano Discobolus (Q126182491)
@@ -27248,6 +27276,13 @@
 
 ### alignments:
  - [‘A(n)dros’ Ins.](https://pleiades.stoa.org/places/79294)
+
+
+## Hoyo de la Campana (Q98501080)
+[https://www.wikidata.org/wiki/Q98501080](https://www.wikidata.org/wiki/Q98501080)  
+
+### alignments:
+ - [Hoyo de la Campana](https://pleiades.stoa.org/places/265914)
 
 
 ## Hozoviotissa monastery (Q2738728)
@@ -44712,6 +44747,13 @@
  - [Ponte Sodo](https://pleiades.stoa.org/places/980216943)
 
 
+## Ponte Taulella (Q137557050)
+[https://www.wikidata.org/wiki/Q137557050](https://www.wikidata.org/wiki/Q137557050)  
+
+### alignments:
+ - [Ponte Taulella](https://pleiades.stoa.org/places/467960423)
+
+
 ## Ponte Tufaro (Q134568215)
 [https://www.wikidata.org/wiki/Q134568215](https://www.wikidata.org/wiki/Q134568215)  
 
@@ -47555,13 +47597,6 @@
  - [Canini Campi](https://pleiades.stoa.org/places/194044)
 
 
-## Q11913201
-[https://www.wikidata.org/wiki/Q11913201](https://www.wikidata.org/wiki/Q11913201)  
-
-### alignments:
- - [Can Blai](https://pleiades.stoa.org/places/234760228)
-
-
 ## Q11915763: Chorsiai
 [https://www.wikidata.org/wiki/Q11915763](https://www.wikidata.org/wiki/Q11915763)  
 
@@ -49158,13 +49193,6 @@
 
 ### alignments:
  - [Alonianum](https://pleiades.stoa.org/places/552843025)
-
-
-## Q137557050
-[https://www.wikidata.org/wiki/Q137557050](https://www.wikidata.org/wiki/Q137557050)  
-
-### alignments:
- - [Ponte Taulella](https://pleiades.stoa.org/places/467960423)
 
 
 ## Q137872079
@@ -53725,13 +53753,6 @@
 
 ### alignments:
  - [Anthedon](https://pleiades.stoa.org/places/540639)
-
-
-## Q2859240: Aqueduc romain de Briord
-[https://www.wikidata.org/wiki/Q2859240](https://www.wikidata.org/wiki/Q2859240)  
-
-### alignments:
- - [Briord Roman aqueduct](https://pleiades.stoa.org/places/14985147)
 
 
 ## Q2859847: Arcus Novus
