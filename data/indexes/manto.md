@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1204 alignments exist in _Pleiades_ place references as of 2026-09-23. The following list of alignments is grouped by zotkey.
+1205 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1099,6 +1099,13 @@
 
 ### alignments:
  - [Acharnai (N)](https://pleiades.stoa.org/places/579842)
+
+
+## 10153073: Lechaion (Argolid)
+[https://resource.manto.unh.edu/10153073](https://resource.manto.unh.edu/10153073)  
+
+### alignments:
+ - [Lechaion](https://pleiades.stoa.org/places/570420)
 
 
 ## 10153076: the Acrocorinth (Corinth)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-494 alignments exist in _Pleiades_ place references as of 2026-09-23. The following list of alignments is grouped by zotkey.
+495 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1795,6 +1795,13 @@
 
 ### alignments:
  - [Corinthus/Korinthos](https://pleiades.stoa.org/places/570182)
+
+
+## Toponyme - 6128: Lechaion (Ancient)-Λέχαιο (αρχαίο)
+[https://chronique.efa.gr/?r=topo_public&id=6128](https://chronique.efa.gr/?r=topo_public&id=6128)  
+
+### alignments:
+ - [Lechaion](https://pleiades.stoa.org/places/570420)
 
 
 ## Toponyme - 70018: Argilos, ville antique, ancient city
