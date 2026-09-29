@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1205 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
+1210 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -786,6 +786,13 @@
  - [Migonion](https://pleiades.stoa.org/places/573377)
 
 
+## 10146680: the Sanctuary of Achilles near Sparta (Laconia)
+[https://resource.manto.unh.edu/10146680](https://resource.manto.unh.edu/10146680)  
+
+### alignments:
+ - [Sanctuary of Achilles (Laconia)](https://pleiades.stoa.org/places/306258361)
+
+
 ## 10148863: Aphytis
 [https://resource.manto.unh.edu/10148863](https://resource.manto.unh.edu/10148863)  
 
@@ -903,6 +910,13 @@
 
 ### alignments:
  - [Stoa Poikile](https://pleiades.stoa.org/places/143098101)
+
+
+## 10150351: the Sanctuary of Artemis Orthia at Sparta
+[https://resource.manto.unh.edu/10150351](https://resource.manto.unh.edu/10150351)  
+
+### alignments:
+ - [Temple of Artemis Orthia](https://pleiades.stoa.org/places/139216315)
 
 
 ## 10150355: the Sanctuary of Artemis Brauronia at Brauron (Attica)
@@ -2480,11 +2494,25 @@
  - [Amathous](https://pleiades.stoa.org/places/707462)
 
 
+## 10380213: the Tomb of Molpadia (Athens)
+[https://resource.manto.unh.edu/10380213](https://resource.manto.unh.edu/10380213)  
+
+### alignments:
+ - [Tomb of Molpadia (Athens)](https://pleiades.stoa.org/places/306258360)
+
+
 ## 10473826: the Sanctuary of Zeus (Mt Lycaion)
 [https://resource.manto.unh.edu/10473826](https://resource.manto.unh.edu/10473826)  
 
 ### alignments:
  - [Sanctuary of Zeus Lykaios](https://pleiades.stoa.org/places/570764)
+
+
+## 10474084: the Untilled Plain (Arcadia)
+[https://resource.manto.unh.edu/10474084](https://resource.manto.unh.edu/10474084)  
+
+### alignments:
+ - [Argon Pedion](https://pleiades.stoa.org/places/570105)
 
 
 ## 10474097: Mylasa (Caria)
@@ -7100,6 +7128,13 @@
 
 ### alignments:
  - [Amymone](https://pleiades.stoa.org/places/573086)
+
+
+## 9602370: the Stymphalian Marshes (Arcadia)
+[https://resource.manto.unh.edu/9602370](https://resource.manto.unh.edu/9602370)  
+
+### alignments:
+ - [Lake Stymphalia](https://pleiades.stoa.org/places/324369908)
 
 
 ## 9603205: Italy

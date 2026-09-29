@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-569 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
+570 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -126,6 +126,7 @@
 
 ### alignments:
  - [Monument to the Amazons](https://pleiades.stoa.org/places/318468222)
+ - [Tomb of Molpadia (Athens)](https://pleiades.stoa.org/places/306258360)
 
 
 ## 1.2.4
@@ -1688,6 +1689,13 @@
 ### alignments:
  - [Harpleia](https://pleiades.stoa.org/places/573244)
  - [Lapithaion](https://pleiades.stoa.org/places/570413)
+
+
+## 3.20.8
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.20.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:3.20.8)  
+
+### alignments:
+ - [Sanctuary of Achilles (Laconia)](https://pleiades.stoa.org/places/306258361)
 
 
 ## 3.21.2

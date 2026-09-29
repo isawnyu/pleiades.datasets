@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11440 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
+11446 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -6068,6 +6068,13 @@
  - [Akte](https://pleiades.stoa.org/places/573068)
 
 
+## Argon Pedion (Q70091883)
+[https://www.wikidata.org/wiki/Q70091883](https://www.wikidata.org/wiki/Q70091883)  
+
+### alignments:
+ - [Argon Pedion](https://pleiades.stoa.org/places/570105)
+
+
 ## Argos (Q13533353)
 [https://www.wikidata.org/wiki/Q13533353](https://www.wikidata.org/wiki/Q13533353)  
 
@@ -7782,13 +7789,6 @@
 
 ### alignments:
  - [Azov](https://pleiades.stoa.org/places/707913355)
-
-
-## Aïn El Hammam (Q276935)
-[https://www.wikidata.org/wiki/Q276935](https://www.wikidata.org/wiki/Q276935)  
-
-### alignments:
- - [Ain el Hammam](https://pleiades.stoa.org/places/275583)
 
 
 ## Aşağımollahasan höyük (Q24234673)
@@ -15429,6 +15429,13 @@
  - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
 
 
+## Celle necropolis (Q141592846)
+[https://www.wikidata.org/wiki/Q141592846](https://www.wikidata.org/wiki/Q141592846)  
+
+### alignments:
+ - [Necropoli di Celle](https://pleiades.stoa.org/places/531323023)
+
+
 ## Celone (Q3664304)
 [https://www.wikidata.org/wiki/Q3664304](https://www.wikidata.org/wiki/Q3664304)  
 
@@ -19617,6 +19624,13 @@
 
 ### alignments:
  - [Little Milton, Ditchend Villa](https://pleiades.stoa.org/places/875950353)
+
+
+## Ditchley Park Roman villa and part of an associated field system 450m ENE of Lodge Farm (Q17650207)
+[http://www.wikidata.org/entity/Q17650207](http://www.wikidata.org/entity/Q17650207)  
+
+### alignments:
+ - [Ditchley](https://pleiades.stoa.org/places/79422)
 
 
 ## Dium (Q15696538)
@@ -27605,6 +27619,13 @@
 
 ### alignments:
  - [Hypogeum of Clepsina](https://pleiades.stoa.org/places/226222204)
+
+
+## Hypogeum of Saint Bartholomew (Q3801611)
+[https://www.wikidata.org/wiki/Q3801611](https://www.wikidata.org/wiki/Q3801611)  
+
+### alignments:
+ - [Ipogeo di San Bartolomeo](https://pleiades.stoa.org/places/849381984)
 
 
 ## Hypogeum of the Aurelii (Q3801606)
@@ -38828,7 +38849,7 @@
 [https://www.wikidata.org/wiki/Q539095](https://www.wikidata.org/wiki/Q539095)  
 
 ### alignments:
- - [Anghelu Ruju necropolis](https://pleiades.stoa.org/places/441849878)
+ - [Necropolis of Anghelu Ruju](https://pleiades.stoa.org/places/441849878)
 
 
 ## Necropolis of Cannicella (Q3346851)
@@ -38857,6 +38878,13 @@
 
 ### alignments:
  - [Buffa necropolis](https://pleiades.stoa.org/places/725373390)
+
+
+## Necropolis of contrada Stefano (Q3874167)
+[https://www.wikidata.org/wiki/Q3874167](https://www.wikidata.org/wiki/Q3874167)  
+
+### alignments:
+ - [Rocca Stefano](https://pleiades.stoa.org/places/462470)
 
 
 ## Necropolis of Dahshur (Q3874150)
@@ -38954,7 +38982,7 @@
 [https://www.wikidata.org/wiki/Q3346872](https://www.wikidata.org/wiki/Q3346872)  
 
 ### alignments:
- - [Prato Rosello necropolis](https://pleiades.stoa.org/places/175420887)
+ - [Necropolis of Prato Rosello](https://pleiades.stoa.org/places/175420887)
 
 
 ## Necropolis of Puttu Codinu (Q56258634)
@@ -55550,13 +55578,6 @@
  - [Tomb of Trebius Iustus](https://pleiades.stoa.org/places/347468514)
 
 
-## Q3801611
-[https://www.wikidata.org/wiki/Q3801611](https://www.wikidata.org/wiki/Q3801611)  
-
-### alignments:
- - [Ipogeo di San Bartolomeo](https://pleiades.stoa.org/places/849381984)
-
-
 ## Q3801614: Hypogeum of via Dino Compagni
 [https://www.wikidata.org/wiki/Q3801614](https://www.wikidata.org/wiki/Q3801614)  
 
@@ -57363,13 +57384,6 @@
 
 ### alignments:
  - [Pianabella](https://pleiades.stoa.org/places/422998)
-
-
-## Q55685943
-[https://www.wikidata.org/wiki/Q55685943](https://www.wikidata.org/wiki/Q55685943)  
-
-### alignments:
- - [Via Celle necropolis](https://pleiades.stoa.org/places/282928579)
 
 
 ## Q558861: Alacahöyük
@@ -64777,6 +64791,13 @@
 
 ### alignments:
  - [Sanctuary 18/19](https://pleiades.stoa.org/places/888638049)
+
+
+## Sanctuary of Achilles on road out of Sparta (Q134037229)
+[https://www.wikidata.org/wiki/Q134037229](https://www.wikidata.org/wiki/Q134037229)  
+
+### alignments:
+ - [Sanctuary of Achilles (Laconia)](https://pleiades.stoa.org/places/306258361)
 
 
 ## Sanctuary of Anaiitis in Lydia, with xoanon of Artemis (Q124616459)
@@ -73389,6 +73410,13 @@
  - [Tomb of Menidi](https://pleiades.stoa.org/places/137893603)
 
 
+## Tomb of Molpadia, Athens (Q136487331)
+[https://www.wikidata.org/wiki/Q136487331](https://www.wikidata.org/wiki/Q136487331)  
+
+### alignments:
+ - [Tomb of Molpadia (Athens)](https://pleiades.stoa.org/places/306258360)
+
+
 ## Tomb of Novia Amoena (Q29887322)
 [https://www.wikidata.org/wiki/Q29887322](https://www.wikidata.org/wiki/Q29887322)  
 
@@ -75153,6 +75181,13 @@
  - [Tumulus aux Six Frères](https://pleiades.stoa.org/places/277534787)
 
 
+## Tumulus cemetery, Aigai (Q38278619)
+[https://www.wikidata.org/wiki/Q38278619](https://www.wikidata.org/wiki/Q38278619)  
+
+### alignments:
+ - [Royal Tombs of Vergina](https://pleiades.stoa.org/places/531279448)
+
+
 ## Tumulus of Avennes (Q2527398)
 [https://www.wikidata.org/wiki/Q2527398](https://www.wikidata.org/wiki/Q2527398)  
 
@@ -76915,6 +76950,13 @@
 
 ### alignments:
  - [Via Cassia](https://pleiades.stoa.org/places/447759107)
+
+
+## Via Celle necropolis (Q55685943)
+[https://www.wikidata.org/wiki/Q55685943](https://www.wikidata.org/wiki/Q55685943)  
+
+### alignments:
+ - [Via Celle necropolis](https://pleiades.stoa.org/places/282928579)
 
 
 ## Via Ciminia (Q20107851)

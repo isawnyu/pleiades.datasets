@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-495 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
+496 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1893,6 +1893,13 @@
 
 ### alignments:
  - [Stratos](https://pleiades.stoa.org/places/531104)
+
+
+## Toponyme 13042: Limni Stimfalia, Límnē Stymphalía, Lake Stymphalia
+[https://chronique.efa.gr/?r=topo_public&id=13042](https://chronique.efa.gr/?r=topo_public&id=13042)  
+
+### alignments:
+ - [Lake Stymphalia](https://pleiades.stoa.org/places/324369908)
 
 
 ## Toponyme 13208: Sision, Kato Sisi

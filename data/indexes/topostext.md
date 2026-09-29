@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5153 alignments exist in _Pleiades_ place references as of 2026-09-28. The following list of alignments is grouped by zotkey.
+5154 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -4525,6 +4525,13 @@
 
 ### alignments:
  - [Argolis](https://pleiades.stoa.org/places/570104)
+
+
+## Argon Pedion (Arkadia)
+[https://topostext.org/place/376225LArP](https://topostext.org/place/376225LArP)  
+
+### alignments:
+ - [Argon Pedion](https://pleiades.stoa.org/places/570105)
 
 
 ## Argos (Argolid)
