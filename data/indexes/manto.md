@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1210 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
+1212 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2186,6 +2186,13 @@
  - [Sanctuary of Athena Itonia](https://pleiades.stoa.org/places/540677)
 
 
+## 10270214: Mount Laphystios (Boiotia)
+[https://resource.manto.unh.edu/10270214](https://resource.manto.unh.edu/10270214)  
+
+### alignments:
+ - [Laphystios (Mountain)](https://pleiades.stoa.org/places/973726783)
+
+
 ## 10270708: Anaia
 [https://resource.manto.unh.edu/10270708](https://resource.manto.unh.edu/10270708)  
 
@@ -2387,6 +2394,13 @@
 
 ### alignments:
  - [Boline](https://pleiades.stoa.org/places/573148)
+
+
+## 10274641: River Hercyna (Boiotia)
+[https://resource.manto.unh.edu/10274641](https://resource.manto.unh.edu/10274641)  
+
+### alignments:
+ - [Herkyna (River)](https://pleiades.stoa.org/places/649390474)
 
 
 ## 10274653: River Marsyas (Phrygia)

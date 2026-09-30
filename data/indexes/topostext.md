@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5154 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
+5156 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -13933,6 +13933,13 @@
  - [Herdoniae/Ardaneae/Civitas Serdonis](https://pleiades.stoa.org/places/442613)
 
 
+## Herkyna river (Boeotia) (384229WHer)
+[https://topostext.org/place/384229WHer](https://topostext.org/place/384229WHer)  
+
+### alignments:
+ - [Herkyna (River)](https://pleiades.stoa.org/places/649390474)
+
+
 ## Hermai (Lakonia) 3 Phonemenoi - Ερμαί
 [https://topostext.org/place/373225SHer](https://topostext.org/place/373225SHer)  
 
@@ -18950,6 +18957,13 @@
  - [Laphron?](https://pleiades.stoa.org/places/540903)
 
 
+## Laphystion mountain (Boeotia) (384229LLap)
+[https://topostext.org/place/384229LLap](https://topostext.org/place/384229LLap)  
+
+### alignments:
+ - [Laphystios (Mountain)](https://pleiades.stoa.org/places/973726783)
+
+
 ## Lapithaion (Lakonia)
 [https://topostext.org/place/370224ULap](https://topostext.org/place/370224ULap)  
 
@@ -21691,7 +21705,7 @@
 [https://topostext.org/place/364254SMet](https://topostext.org/place/364254SMet)  
 
 ### alignments:
- - [Meter Theon, T.](https://pleiades.stoa.org/places/599797)
+ - [Meter Theon (temple)](https://pleiades.stoa.org/places/599797)
 
 
 ## Methana (Troizenia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11446 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
+11448 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -23684,6 +23684,13 @@
  - [Agoranis (river)](https://pleiades.stoa.org/places/59661)
 
 
+## Gardavitsa (Q24888313)
+[https://www.wikidata.org/wiki/Q24888313](https://www.wikidata.org/wiki/Q24888313)  
+
+### alignments:
+ - [Laphystios (Mountain)](https://pleiades.stoa.org/places/973726783)
+
+
 ## Garden (II.5.5) (Q27685742)
 [https://www.wikidata.org/wiki/Q27685742](https://www.wikidata.org/wiki/Q27685742)  
 
@@ -26303,6 +26310,13 @@
 
 ### alignments:
  - [Horrea Caelia](https://pleiades.stoa.org/places/315041)
+
+
+## Herkyna (Q106496258)
+[https://www.wikidata.org/wiki/Q106496258](https://www.wikidata.org/wiki/Q106496258)  
+
+### alignments:
+ - [Herkyna (River)](https://pleiades.stoa.org/places/649390474)
 
 
 ## Hermai (Q123501155)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-570 alignments exist in _Pleiades_ place references as of 2026-09-29. The following list of alignments is grouped by zotkey.
+572 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -4083,6 +4083,13 @@
  - [Coronea](https://pleiades.stoa.org/places/540717)
 
 
+## 9.34.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.34.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.34.5)  
+
+### alignments:
+ - [Laphystios (Mountain)](https://pleiades.stoa.org/places/973726783)
+
+
 ## 9.36.5
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.36.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.36.5)  
 
@@ -4102,6 +4109,13 @@
 
 ### alignments:
  - [Aspledon/Eudeielos](https://pleiades.stoa.org/places/540673)
+
+
+## 9.39.2
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.39.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.39.2)  
+
+### alignments:
+ - [Herkyna (River)](https://pleiades.stoa.org/places/649390474)
 
 
 ## 9.39.4
