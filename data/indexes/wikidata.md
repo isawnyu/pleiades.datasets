@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11448 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
+11451 alignments exist in _Pleiades_ place references as of 2026-10-01. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9939,6 +9939,13 @@
 
 ### alignments:
  - [Blemmyes](https://pleiades.stoa.org/places/795790)
+
+
+## Blenheim Villa, a Roman villa and associated field system 200m north east of Little Cote (Q17663599)
+[http://www.wikidata.org/entity/Q17663599](http://www.wikidata.org/entity/Q17663599)  
+
+### alignments:
+ - [Blenheim Roman villa](https://pleiades.stoa.org/places/584074927)
 
 
 ## Blera (Q159678)
@@ -44159,6 +44166,13 @@
  - [Halykos (river)](https://pleiades.stoa.org/places/462229)
 
 
+## Platanistas (Q3391805)
+[https://www.wikidata.org/wiki/Q3391805](https://www.wikidata.org/wiki/Q3391805)  
+
+### alignments:
+ - [Platanista grove](https://pleiades.stoa.org/places/552653587)
+
+
 ## Platonic Academy (Q193093)
 [https://www.wikidata.org/wiki/Q193093](https://www.wikidata.org/wiki/Q193093)  
 
@@ -63958,6 +63972,13 @@
 
 ### alignments:
  - [Shrine of Strenia](https://pleiades.stoa.org/places/582254847)
+
+
+## Sacred Animal Necropolis at Saqqara (Q136281122)
+[https://www.wikidata.org/wiki/Q136281122](https://www.wikidata.org/wiki/Q136281122)  
+
+### alignments:
+ - [Sacred Animal Necropolis (Ṣaqqārah)](https://pleiades.stoa.org/places/616791789)
 
 
 ## Sacred Way (Q3737100)

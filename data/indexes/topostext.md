@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5156 alignments exist in _Pleiades_ place references as of 2026-09-30. The following list of alignments is grouped by zotkey.
+5157 alignments exist in _Pleiades_ place references as of 2026-10-01. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -27644,6 +27644,13 @@
 
 ### alignments:
  - [Platania](https://pleiades.stoa.org/places/501571)
+
+
+## Platanista grove (Lakonia)
+[https://topostext.org/place/371224SPla](https://topostext.org/place/371224SPla)  
+
+### alignments:
+ - [Platanista grove](https://pleiades.stoa.org/places/552653587)
 
 
 ## Plataniston R. (Arkadia)
