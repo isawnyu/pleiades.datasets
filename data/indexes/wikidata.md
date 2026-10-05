@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11451 alignments exist in _Pleiades_ place references as of 2026-10-02. The following list of alignments is grouped by zotkey.
+11469 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -461,6 +461,13 @@
 
 ### alignments:
  - [Aulazon](https://pleiades.stoa.org/places/363930)
+
+
+## Abū Fanduwā (Q141625746)
+[https://www.wikidata.org/wiki/Q141625746](https://www.wikidata.org/wiki/Q141625746)  
+
+### alignments:
+ - [Abū Fanduwā](https://pleiades.stoa.org/places/235529944)
 
 
 ## Acacesium (Q48781557)
@@ -1030,6 +1037,13 @@
 
 ### alignments:
  - [Ad Teglanum](https://pleiades.stoa.org/places/432641)
+
+
+## Ad Tine Recine (Q141632586)
+[https://www.wikidata.org/wiki/Q141632586](https://www.wikidata.org/wiki/Q141632586)  
+
+### alignments:
+ - [Ad Tine Recine](https://pleiades.stoa.org/places/416772)
 
 
 ## Ad Turres (Q2823855)
@@ -15590,6 +15604,13 @@
  - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
 
 
+## Cerbani (Q1054676)
+[https://www.wikidata.org/wiki/Q1054676](https://www.wikidata.org/wiki/Q1054676)  
+
+### alignments:
+ - [Cerbani](https://pleiades.stoa.org/places/39327)
+
+
 ## Cercemaggiore (Q277460)
 [https://www.wikidata.org/wiki/Q277460](https://www.wikidata.org/wiki/Q277460)  
 
@@ -15658,6 +15679,13 @@
 
 ### alignments:
  - [Cessati Spiriti](https://pleiades.stoa.org/places/422892)
+
+
+## Cestrina (Q21645767)
+[https://www.wikidata.org/wiki/Q21645767](https://www.wikidata.org/wiki/Q21645767)  
+
+### alignments:
+ - [Kestrine/Kammania](https://pleiades.stoa.org/places/530942)
 
 
 ## Cetaria (Q5739036)
@@ -17404,8 +17432,8 @@
  - [Coombe Hill](https://pleiades.stoa.org/places/549429627)
 
 
-## Combley Roman villa (Q100377477)
-[https://www.wikidata.org/wiki/Q100377477](https://www.wikidata.org/wiki/Q100377477)  
+## Combley Roman villa (Q17648328)
+[https://www.wikidata.org/wiki/Q17648328](https://www.wikidata.org/wiki/Q17648328)  
 
 ### alignments:
  - [Combley Roman villa](https://pleiades.stoa.org/places/919152219)
@@ -17661,6 +17689,13 @@
 
 ### alignments:
  - [Coptos](https://pleiades.stoa.org/places/786010)
+
+
+## Cora (Q16827938)
+[https://www.wikidata.org/wiki/Q16827938](https://www.wikidata.org/wiki/Q16827938)  
+
+### alignments:
+ - [Cora](https://pleiades.stoa.org/places/422909)
 
 
 ## Coralla (Q65048867)
@@ -24947,6 +24982,13 @@
  - [Grottarossa](https://pleiades.stoa.org/places/422941)
 
 
+## Grotte di Seiano a Pietramelara (Q106341466)
+[https://www.wikidata.org/wiki/Q106341466](https://www.wikidata.org/wiki/Q106341466)  
+
+### alignments:
+ - [Grotte di Seiano a Pietramelara](https://pleiades.stoa.org/places/170427487)
+
+
 ## Grotte di Torri (Q3777134)
 [https://www.wikidata.org/wiki/Q3777134](https://www.wikidata.org/wiki/Q3777134)  
 
@@ -28265,6 +28307,13 @@
  - [Intemelii](https://pleiades.stoa.org/places/157871)
 
 
+## Interamna Nahars (Q134383419)
+[https://www.wikidata.org/wiki/Q134383419](https://www.wikidata.org/wiki/Q134383419)  
+
+### alignments:
+ - [Interamna Nahars](https://pleiades.stoa.org/places/413178)
+
+
 ## Inveravon Roman fort (Q48798464)
 [https://www.wikidata.org/wiki/Q48798464](https://www.wikidata.org/wiki/Q48798464)  
 
@@ -28341,6 +28390,13 @@
 
 ### alignments:
  - [Kambyses (river)](https://pleiades.stoa.org/places/863818)
+
+
+## Ios (Q216993)
+[https://www.wikidata.org/wiki/Q216993](https://www.wikidata.org/wiki/Q216993)  
+
+### alignments:
+ - [Ios (island)](https://pleiades.stoa.org/places/599673)
 
 
 ## Iotape (Q85769878)
@@ -34180,6 +34236,13 @@
  - [Maecium](https://pleiades.stoa.org/places/330747938)
 
 
+## Maen Castle (Q15072505)
+[https://www.wikidata.org/wiki/Q15072505](https://www.wikidata.org/wiki/Q15072505)  
+
+### alignments:
+ - [Maen Castle](https://pleiades.stoa.org/places/149003409)
+
+
 ## Maen Llia (Q1749088)
 [https://www.wikidata.org/wiki/Q1749088](https://www.wikidata.org/wiki/Q1749088)  
 
@@ -37431,6 +37494,13 @@
  - [Sacer Mons](https://pleiades.stoa.org/places/423029)
 
 
+## Monte San Giovanni Campano (Q116952)
+[https://www.wikidata.org/wiki/Q116952](https://www.wikidata.org/wiki/Q116952)  
+
+### alignments:
+ - [Monte San Giovanni Campano](https://pleiades.stoa.org/places/621589779)
+
+
 ## Monte San Mauro (Q3861964)
 [https://www.wikidata.org/wiki/Q3861964](https://www.wikidata.org/wiki/Q3861964)  
 
@@ -38003,6 +38073,13 @@
 
 ### alignments:
  - [Motya causeway](https://pleiades.stoa.org/places/464327)
+
+
+## Msoura Stone Circle (Q1140859)
+[https://www.wikidata.org/wiki/Q1140859](https://www.wikidata.org/wiki/Q1140859)  
+
+### alignments:
+ - [Mzora](https://pleiades.stoa.org/places/275683)
 
 
 ## Muel Dam (Q1951741)
@@ -40063,6 +40140,13 @@
  - [Nuraghe Maronzu](https://pleiades.stoa.org/places/237657887)
 
 
+## nuraghe Nolza (Q24933311)
+[https://www.wikidata.org/wiki/Q24933311](https://www.wikidata.org/wiki/Q24933311)  
+
+### alignments:
+ - [Nuraghe Nolza](https://pleiades.stoa.org/places/236026498)
+
+
 ## nuraghe Nuraddeo (Q55386324)
 [https://www.wikidata.org/wiki/Q55386324](https://www.wikidata.org/wiki/Q55386324)  
 
@@ -40103,6 +40187,13 @@
 
 ### alignments:
  - [Nuraghe Ruggiu at Filigosa](https://pleiades.stoa.org/places/32331672)
+
+
+## nuraghe Ruggiu (Q47492010)
+[https://www.wikidata.org/wiki/Q47492010](https://www.wikidata.org/wiki/Q47492010)  
+
+### alignments:
+ - [Nuraghe Ruggiu](https://pleiades.stoa.org/places/32331671)
 
 
 ## nuraghe Rumanedda (Q16583237)
@@ -41363,6 +41454,13 @@
 
 ### alignments:
  - [Ortha](https://pleiades.stoa.org/places/540991)
+
+
+## Orto della Regina (Q67591219)
+[https://www.wikidata.org/wiki/Q67591219](https://www.wikidata.org/wiki/Q67591219)  
+
+### alignments:
+ - [Orto della Regina](https://pleiades.stoa.org/places/789450243)
 
 
 ## Ortona (Q51256)
@@ -43444,6 +43542,13 @@
  - [Philaidai](https://pleiades.stoa.org/places/580075)
 
 
+## Philanorion (Q131911843)
+[https://www.wikidata.org/wiki/Q131911843](https://www.wikidata.org/wiki/Q131911843)  
+
+### alignments:
+ - [Philanorion](https://pleiades.stoa.org/places/570601)
+
+
 ## Philippeion (Q3396766)
 [https://www.wikidata.org/wiki/Q3396766](https://www.wikidata.org/wiki/Q3396766)  
 
@@ -44460,6 +44565,13 @@
  - [Thespian Polyandrion (Boeotia)](https://pleiades.stoa.org/places/35638987)
 
 
+## polygonal wall of Segni (Q141629991)
+[https://www.wikidata.org/wiki/Q141629991](https://www.wikidata.org/wiki/Q141629991)  
+
+### alignments:
+ - [Polygonal wall of Signia](https://pleiades.stoa.org/places/323580407)
+
+
 ## Polymedium (Q65072494)
 [https://www.wikidata.org/wiki/Q65072494](https://www.wikidata.org/wiki/Q65072494)  
 
@@ -45258,6 +45370,13 @@
  - [Porta Romanelli](https://pleiades.stoa.org/places/918074508)
 
 
+## Porta Rosa (Q3908774)
+[https://www.wikidata.org/wiki/Q3908774](https://www.wikidata.org/wiki/Q3908774)  
+
+### alignments:
+ - [Porta Rosa](https://pleiades.stoa.org/places/271500627)
+
+
 ## Porta Salaria (Q1657663)
 [https://www.wikidata.org/wiki/Q1657663](https://www.wikidata.org/wiki/Q1657663)  
 
@@ -45291,6 +45410,13 @@
 
 ### alignments:
  - [Porta Santo Spirito](https://pleiades.stoa.org/places/971832733)
+
+
+## Porta Saracena (Q87146870)
+[https://www.wikidata.org/wiki/Q87146870](https://www.wikidata.org/wiki/Q87146870)  
+
+### alignments:
+ - [Porta Saracena](https://pleiades.stoa.org/places/14626469)
 
 
 ## Porta Settimiana (Q1422040)
@@ -46089,6 +46215,13 @@
 
 ### alignments:
  - [Kerkenes/Pteria?](https://pleiades.stoa.org/places/619244)
+
+
+## Ptoion (Q1275456)
+[https://www.wikidata.org/wiki/Q1275456](https://www.wikidata.org/wiki/Q1275456)  
+
+### alignments:
+ - [Ptoion (Mountain)](https://pleiades.stoa.org/places/307983955)
 
 
 ## Ptolemaic Kingdom (Q2320005)
@@ -46999,13 +47132,6 @@
 
 ### alignments:
  - [Porta Borsari](https://pleiades.stoa.org/places/648728999)
-
-
-## Q106341466
-[https://www.wikidata.org/wiki/Q106341466](https://www.wikidata.org/wiki/Q106341466)  
-
-### alignments:
- - [Grotte di Seiano a Pietramelara](https://pleiades.stoa.org/places/170427487)
 
 
 ## Q106353248: Girsu Bridge
@@ -55942,13 +56068,6 @@
  - [Porta Romana](https://pleiades.stoa.org/places/745866777)
 
 
-## Q3908774: Porta Rosa
-[https://www.wikidata.org/wiki/Q3908774](https://www.wikidata.org/wiki/Q3908774)  
-
-### alignments:
- - [Porta Rosa](https://pleiades.stoa.org/places/271500627)
-
-
 ## Q392725: Shuruppak
 [https://www.wikidata.org/wiki/Q392725](https://www.wikidata.org/wiki/Q392725)  
 
@@ -58982,13 +59101,6 @@
  - [Glanum](https://pleiades.stoa.org/places/148093)
 
 
-## Q67591219
-[https://www.wikidata.org/wiki/Q67591219](https://www.wikidata.org/wiki/Q67591219)  
-
-### alignments:
- - [Orto della Regina](https://pleiades.stoa.org/places/789450243)
-
-
 ## Q677814
 [https://www.wikidata.org/wiki/Q677814](https://www.wikidata.org/wiki/Q677814)  
 
@@ -59953,13 +60065,6 @@
 
 ### alignments:
  - [Contra Florentiam](https://pleiades.stoa.org/places/197222)
-
-
-## Q87146870: Porta Saracena
-[https://www.wikidata.org/wiki/Q87146870](https://www.wikidata.org/wiki/Q87146870)  
-
-### alignments:
- - [Porta Saracena](https://pleiades.stoa.org/places/14626469)
 
 
 ## Q8771527: Eburobrittium
@@ -64679,6 +64784,13 @@
 
 ### alignments:
  - [Pieve di San Pietro ad Mensulas](https://pleiades.stoa.org/places/41658845)
+
+
+## San Pietro di Cantoni Italic sanctuary (Q110236697)
+[https://www.wikidata.org/wiki/Q110236697](https://www.wikidata.org/wiki/Q110236697)  
+
+### alignments:
+ - [San Pietro di Cantoni Italic sanctuary](https://pleiades.stoa.org/places/352972521)
 
 
 ## San Pietro in Vincoli (Q542070)
@@ -72591,6 +72703,13 @@
  - [Thurnham Roman villa](https://pleiades.stoa.org/places/779867419)
 
 
+## Thyamis (Q1721931)
+[https://www.wikidata.org/wiki/Q1721931](https://www.wikidata.org/wiki/Q1721931)  
+
+### alignments:
+ - [Thyamis (river)](https://pleiades.stoa.org/places/531121)
+
+
 ## Thymaitadai (Q13426469)
 [https://www.wikidata.org/wiki/Q13426469](https://www.wikidata.org/wiki/Q13426469)  
 
@@ -80033,6 +80152,13 @@
 
 ### alignments:
  - [Karyanda/Krousa? (island)](https://pleiades.stoa.org/places/599695)
+
+
+## Çatıören Hermes Temple (Q135582528)
+[https://www.wikidata.org/wiki/Q135582528](https://www.wikidata.org/wiki/Q135582528)  
+
+### alignments:
+ - [Temple of Hermes at Çatıören](https://pleiades.stoa.org/places/403927880)
 
 
 ## Çavuştepe (Q272699)

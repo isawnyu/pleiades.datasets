@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-496 alignments exist in _Pleiades_ place references as of 2026-10-02. The following list of alignments is grouped by zotkey.
+498 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2395,6 +2395,13 @@
  - [Herakleion](https://pleiades.stoa.org/places/491617)
 
 
+## Toponyme 30926: Kestrini, Skoupitsa-Δ.Δ.Κεστρίνης, Σκουπίτσα 1957
+[https://chronique.efa.gr/?r=topo_public&id=30926](https://chronique.efa.gr/?r=topo_public&id=30926)  
+
+### alignments:
+ - [Kestrine/Kammania](https://pleiades.stoa.org/places/530942)
+
+
 ## Toponyme 309: Sellasia, Vroulias, Vroulia
 [https://chronique.efa.gr/?kroute=topo_public&id=309](https://chronique.efa.gr/?kroute=topo_public&id=309)  
 
@@ -2842,6 +2849,13 @@
 
 ### alignments:
  - [Keos (island)](https://pleiades.stoa.org/places/570348)
+
+
+## Toponyme 41146: Ios, Nio-Δ.Δ. Ιητών
+[https://chronique.efa.gr/?r=topo_public&id=41146](https://chronique.efa.gr/?r=topo_public&id=41146)  
+
+### alignments:
+ - [Ios (island)](https://pleiades.stoa.org/places/599673)
 
 
 ## Toponyme 41180: Nisida Despotiko, Despotiki, Prepesinthos

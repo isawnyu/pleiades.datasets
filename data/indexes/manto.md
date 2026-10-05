@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1212 alignments exist in _Pleiades_ place references as of 2026-10-02. The following list of alignments is grouped by zotkey.
+1216 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -849,11 +849,25 @@
  - [Side](https://pleiades.stoa.org/places/570669)
 
 
+## 10149863: River Thyamis (Epeiros)
+[https://resource.manto.unh.edu/10149863](https://resource.manto.unh.edu/10149863)  
+
+### alignments:
+ - [Thyamis (river)](https://pleiades.stoa.org/places/531121)
+
+
 ## 10149864: the Neistan Gates (Thebes)
 [https://resource.manto.unh.edu/10149864](https://resource.manto.unh.edu/10149864)  
 
 ### alignments:
  - [Neistan Gate (Thebes)](https://pleiades.stoa.org/places/907860743)
+
+
+## 10149865: Cestrine (Epeiros)
+[https://resource.manto.unh.edu/10149865](https://resource.manto.unh.edu/10149865)  
+
+### alignments:
+ - [Kestrine/Kammania](https://pleiades.stoa.org/places/530942)
 
 
 ## 10149872: Pergamon
@@ -2618,6 +2632,13 @@
 
 ### alignments:
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
+
+
+## 10774298: Mount Ptoion (Boiotia)
+[https://resource.manto.unh.edu/10774298](https://resource.manto.unh.edu/10774298)  
+
+### alignments:
+ - [Ptoion (Mountain)](https://pleiades.stoa.org/places/307983955)
 
 
 ## 10774304: Lake Copais (Boiotia)
@@ -5027,6 +5048,13 @@
 
 ### alignments:
  - [Tusculum](https://pleiades.stoa.org/places/423108)
+
+
+## 11321278: Cora (Italy)
+[https://resource.manto.unh.edu/11321278](https://resource.manto.unh.edu/11321278)  
+
+### alignments:
+ - [Cora](https://pleiades.stoa.org/places/422909)
 
 
 ## 11321280: Lanuvium (Italy)

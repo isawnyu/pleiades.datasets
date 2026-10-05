@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-573 alignments exist in _Pleiades_ place references as of 2026-10-02. The following list of alignments is grouped by zotkey.
+574 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3969,6 +3969,13 @@
 ### alignments:
  - [Demeter Mykalessia](https://pleiades.stoa.org/places/543678)
  - [Harma](https://pleiades.stoa.org/places/540805)
+
+
+## 9.23.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.23.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:9.23.5)  
+
+### alignments:
+ - [Ptoion (Mountain)](https://pleiades.stoa.org/places/307983955)
 
 
 ## 9.23.6

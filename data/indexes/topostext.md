@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5157 alignments exist in _Pleiades_ place references as of 2026-10-02. The following list of alignments is grouped by zotkey.
+5159 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -245,6 +245,13 @@
 
 ### alignments:
  - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
+
+
+## 385232LPto
+[https://topostext.org/place/385232LPto](https://topostext.org/place/385232LPto)  
+
+### alignments:
+ - [Ptoion (Mountain)](https://pleiades.stoa.org/places/307983955)
 
 
 ## 389218LTym: Tymphrestos Mt. (Evrytania) 14 Velouchi - Τυμφρηστόν
@@ -29885,6 +29892,13 @@
 
 ### alignments:
  - [Samothrace (settlement)](https://pleiades.stoa.org/places/501596)
+
+
+## San Pietro dei Cantoni (Samnium)
+[https://topostext.org/place/414146SSPC](https://topostext.org/place/414146SSPC)  
+
+### alignments:
+ - [San Pietro di Cantoni Italic sanctuary](https://pleiades.stoa.org/places/352972521)
 
 
 ## Sanctuary of the Nymphs Ionides (Eleia) 1
