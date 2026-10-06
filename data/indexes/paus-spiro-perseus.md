@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-574 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
+575 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -3460,6 +3460,13 @@
 
 ### alignments:
  - [Bathyllos](https://pleiades.stoa.org/places/573140)
+
+
+## 8.33.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.33.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.33.4)  
+
+### alignments:
+ - [Chryse (sunken island)](https://pleiades.stoa.org/places/499394756)
 
 
 ## 8.34.1,5

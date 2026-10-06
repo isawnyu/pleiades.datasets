@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11469 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
+11472 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -16295,6 +16295,13 @@
 
 ### alignments:
  - [Chrysa](https://pleiades.stoa.org/places/550500)
+
+
+## Chryse Island (Q1088480)
+[https://www.wikidata.org/wiki/Q1088480](https://www.wikidata.org/wiki/Q1088480)  
+
+### alignments:
+ - [Chryse (sunken island)](https://pleiades.stoa.org/places/499394756)
 
 
 ## Chrysi (Q1088543)
@@ -54631,6 +54638,13 @@
  - [Ramesseum](https://pleiades.stoa.org/places/963047542)
 
 
+## Q31181602
+[https://www.wikidata.org/wiki/Q31181602](https://www.wikidata.org/wiki/Q31181602)  
+
+### alignments:
+ - [Monte Maranfusa](https://pleiades.stoa.org/places/462353)
+
+
 ## Q31207431: Jebel Khalid
 [https://www.wikidata.org/wiki/Q31207431](https://www.wikidata.org/wiki/Q31207431)  
 
@@ -70135,6 +70149,13 @@
 
 ### alignments:
  - [Telendos (island)](https://pleiades.stoa.org/places/599958)
+
+
+## Telepylos (Q3562104)
+[https://www.wikidata.org/wiki/Q3562104](https://www.wikidata.org/wiki/Q3562104)  
+
+### alignments:
+ - [Telepylos](https://pleiades.stoa.org/places/606192094)
 
 
 ## Telesterion (Q1819712)

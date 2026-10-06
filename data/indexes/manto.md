@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1216 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
+1218 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1675,6 +1675,13 @@
  - [Basilis](https://pleiades.stoa.org/places/570147)
 
 
+## 10214506: Chryse (island)
+[https://resource.manto.unh.edu/10214506](https://resource.manto.unh.edu/10214506)  
+
+### alignments:
+ - [Chryse (sunken island)](https://pleiades.stoa.org/places/499394756)
+
+
 ## 10214535: Zoitia
 [https://resource.manto.unh.edu/10214535](https://resource.manto.unh.edu/10214535)  
 
@@ -2527,6 +2534,13 @@
 
 ### alignments:
  - [Tomb of Molpadia (Athens)](https://pleiades.stoa.org/places/306258360)
+
+
+## 10472317: Telepylos
+[https://resource.manto.unh.edu/10472317](https://resource.manto.unh.edu/10472317)  
+
+### alignments:
+ - [Telepylos](https://pleiades.stoa.org/places/606192094)
 
 
 ## 10473826: the Sanctuary of Zeus (Mt Lycaion)

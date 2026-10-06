@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5159 alignments exist in _Pleiades_ place references as of 2026-10-05. The following list of alignments is grouped by zotkey.
+5160 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -8421,6 +8421,13 @@
 
 ### alignments:
  - [Chrysas, T.](https://pleiades.stoa.org/places/462159)
+
+
+## Chryse (Lemnos) (399255IChr)
+[https://topostext.org/place/399255IChr](https://topostext.org/place/399255IChr)  
+
+### alignments:
+ - [Chryse (sunken island)](https://pleiades.stoa.org/places/499394756)
 
 
 ## Chryse island (Crete)
