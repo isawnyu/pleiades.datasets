@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1218 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
+1219 alignments exist in _Pleiades_ place references as of 2026-10-07. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4453,6 +4453,13 @@
 
 ### alignments:
  - [Bargylia](https://pleiades.stoa.org/places/599550)
+
+
+## 11313379: Mount Cillaion (Lesbos)
+[https://resource.manto.unh.edu/11313379](https://resource.manto.unh.edu/11313379)  
+
+### alignments:
+ - [Killaion (mountain)](https://pleiades.stoa.org/places/550644)
 
 
 ## 11313418: River Ceteios (Mysia)

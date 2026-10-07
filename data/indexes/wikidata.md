@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11472 alignments exist in _Pleiades_ place references as of 2026-10-06. The following list of alignments is grouped by zotkey.
+11478 alignments exist in _Pleiades_ place references as of 2026-10-07. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -30410,6 +30410,13 @@
  - [Ciliza/Urmagiganti](https://pleiades.stoa.org/places/658442)
 
 
+## Killaion (Q105763631)
+[https://www.wikidata.org/wiki/Q105763631](https://www.wikidata.org/wiki/Q105763631)  
+
+### alignments:
+ - [Killaion (mountain)](https://pleiades.stoa.org/places/550644)
+
+
 ## Kimista (Q85774419)
 [https://www.wikidata.org/wiki/Q85774419](https://www.wikidata.org/wiki/Q85774419)  
 
@@ -32159,6 +32166,13 @@
 
 ### alignments:
  - [Xynias L.](https://pleiades.stoa.org/places/541175)
+
+
+## Lakh Mazar (Q1522009)
+[https://www.wikidata.org/wiki/Q1522009](https://www.wikidata.org/wiki/Q1522009)  
+
+### alignments:
+ - [Lakh-mazar](https://pleiades.stoa.org/places/29640)
 
 
 ## Lalandos (Q85775713)
@@ -46355,6 +46369,13 @@
 
 ### alignments:
  - [Kainys (promontory)](https://pleiades.stoa.org/places/452350)
+
+
+## Puntal dels Llops (Q9064785)
+[https://www.wikidata.org/wiki/Q9064785](https://www.wikidata.org/wiki/Q9064785)  
+
+### alignments:
+ - [Puntal dels Llops](https://pleiades.stoa.org/places/445647938)
 
 
 ## Pupinia (Q3538805)
@@ -64387,6 +64408,13 @@
  - [Salve necropolis](https://pleiades.stoa.org/places/9269628)
 
 
+## Samad al-Shan (Q7408439)
+[https://www.wikidata.org/wiki/Q7408439](https://www.wikidata.org/wiki/Q7408439)  
+
+### alignments:
+ - [Samad al-Shan](https://pleiades.stoa.org/places/650751935)
+
+
 ## Samara Bend (Q427143)
 [https://www.wikidata.org/wiki/Q427143](https://www.wikidata.org/wiki/Q427143)  
 
@@ -73674,6 +73702,20 @@
 
 ### alignments:
  - [Tomb of Rekhmire at Thebes](https://pleiades.stoa.org/places/447634115)
+
+
+## Tomb of Sampsigeramus (Q58484140)
+[https://www.wikidata.org/wiki/Q58484140](https://www.wikidata.org/wiki/Q58484140)  
+
+### alignments:
+ - [Tomb of Sampsigeramus](https://pleiades.stoa.org/places/506737959)
+
+
+## Tomb of Sarenput II (Q132125445)
+[https://www.wikidata.org/wiki/Q132125445](https://www.wikidata.org/wiki/Q132125445)  
+
+### alignments:
+ - [Tomb of Sarenput II](https://pleiades.stoa.org/places/698148329)
 
 
 ## Tomb of Septimia Galla (Q105046711)
