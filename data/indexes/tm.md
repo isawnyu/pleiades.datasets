@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5195 alignments exist in _Pleiades_ place references as of 2026-10-07. The following list of alignments is grouped by zotkey.
+5196 alignments exist in _Pleiades_ place references as of 2026-10-08. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7427,6 +7427,13 @@
 
 ### alignments:
  - [Tocolosida](https://pleiades.stoa.org/places/275737)
+
+
+## GEO ID 15602: Ain Schkour
+[https://www.trismegistos.org/place/15602](https://www.trismegistos.org/place/15602)  
+
+### alignments:
+ - [Ain Schkour](https://pleiades.stoa.org/places/275586)
 
 
 ## GEO ID 15603: Sala (Chellah)

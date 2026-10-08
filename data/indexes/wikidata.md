@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11478 alignments exist in _Pleiades_ place references as of 2026-10-07. The following list of alignments is grouped by zotkey.
+11481 alignments exist in _Pleiades_ place references as of 2026-10-08. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -7803,6 +7803,13 @@
 
 ### alignments:
  - [Azov](https://pleiades.stoa.org/places/707913355)
+
+
+## Aïn Schkor (Q30692860)
+[https://www.wikidata.org/wiki/Q30692860](https://www.wikidata.org/wiki/Q30692860)  
+
+### alignments:
+ - [Ain Schkour](https://pleiades.stoa.org/places/275586)
 
 
 ## Aşağımollahasan höyük (Q24234673)
@@ -20514,6 +20521,13 @@
 
 ### alignments:
  - [Dysoron (mountain)](https://pleiades.stoa.org/places/491582)
+
+
+## Dòmu d’Urxia (Q1270818)
+[https://www.wikidata.org/wiki/Q1270818](https://www.wikidata.org/wiki/Q1270818)  
+
+### alignments:
+ - [Esterzili](https://pleiades.stoa.org/places/739961553)
 
 
 ## Düden River (Q19458229)
@@ -39601,6 +39615,13 @@
  - [Nesope (island)](https://pleiades.stoa.org/places/550774)
 
 
+## Nisyra (Q85789241)
+[https://www.wikidata.org/wiki/Q85789241](https://www.wikidata.org/wiki/Q85789241)  
+
+### alignments:
+ - [*Nisyra](https://pleiades.stoa.org/places/609485)
+
+
 ## Nisyros (Q767528)
 [https://www.wikidata.org/wiki/Q767528](https://www.wikidata.org/wiki/Q767528)  
 
@@ -48576,13 +48597,6 @@
 
 ### alignments:
  - [Basilica Ulpia](https://pleiades.stoa.org/places/629324739)
-
-
-## Q1270818
-[https://www.wikidata.org/wiki/Q1270818](https://www.wikidata.org/wiki/Q1270818)  
-
-### alignments:
- - [Esterzili](https://pleiades.stoa.org/places/739961553)
 
 
 ## Q12723648
@@ -65610,6 +65624,13 @@
 
 ### alignments:
  - [Cesernia](https://pleiades.stoa.org/places/452297)
+
+
+## Saracen (Q105763)
+[https://www.wikidata.org/wiki/Q105763](https://www.wikidata.org/wiki/Q105763)  
+
+### alignments:
+ - [Saraceni](https://pleiades.stoa.org/places/697748)
 
 
 ## Saraceno di Favara (Q104416667)
