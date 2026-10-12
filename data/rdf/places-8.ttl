@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 8,9
-# Date: 2026/10/04 07:55:22.623360 GMT-4
+# Date: 2026/10/11 07:56:6.733038 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 285926
+# Triple count: 285988
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -6312,6 +6312,17 @@
     dcterms:modified "2024-12-20T23:11:31-04:00";
     dcterms:title "OSM location of Area archeologica etrusca di Poggio La Croce";
     owl:sameAs <http://pleiades.stoa.org/places/817583144/osm-location-of-area-archeologica-etrusca-di> .
+
+<https://pleiades.stoa.org/places/817592339%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Aktil Höyüğü";
+    rdfs:comment "Aktil Höyük is an archaeological site with evidence of human habitation in both the Chalcolithic Age and the Bronze Age.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/817592339> .
+
+<https://pleiades.stoa.org/places/817592339/osm-location-of-aktil-hapya1-4aa1-4> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-10-06T17:42:19-04:00";
+    dcterms:title "OSM location of Aktil Höyüğü";
+    owl:sameAs <http://pleiades.stoa.org/places/817592339/osm-location-of-aktil-hapya1-4aa1-4> .
 
 <https://pleiades.stoa.org/places/818039726%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Helwan necropolis";
@@ -80222,6 +80233,13 @@
     dcterms:title "Port antique de Marseille";
     owl:sameAs <http://pleiades.stoa.org/places/888303741/port-antique-de-marseille> .
 
+<https://pleiades.stoa.org/places/888374507%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Macedonia I";
+    spatial:C <https://pleiades.stoa.org/places/981531%23this>,
+        <https://pleiades.stoa.org/places/991253193%23this>;
+    rdfs:comment "One of four administrative regions (μερίδες) into which the Romans initially organized the cities and peoples of Macedonia. They were later combined into the Roman province of Macedonia.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/888374507> .
+
 <https://pleiades.stoa.org/places/888447551%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Necropoli di San Placido";
     spatial:C <https://pleiades.stoa.org/places/462538%23this>;
@@ -108928,6 +108946,22 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-area-archeologica-etrusca-di> .
 
+<https://pleiades.stoa.org/places/817592339> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "vici.org Aktil Höyük - Yalintas Village";
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Aktil Höyük is an archaeological site with evidence of human habitation in both the Chalcolithic Age and the Bronze Age.";
+    dcterms:modified "2026-10-06T17:42:19-04:00";
+    dcterms:title "Aktil Höyüğü";
+    cito:citesAsRelated <https://vici.org/vici/26163/>;
+    owl:sameAs <http://pleiades.stoa.org/places/817592339>;
+    geo:lat 38.3662604468;
+    geo:long 37.4196260011;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/tell>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-aktil-hapya1-4aa1-4> .
+
 <https://pleiades.stoa.org/places/818039726> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Köhler 2014 ";
@@ -128558,17 +128592,18 @@
 
 <https://pleiades.stoa.org/places/847419768> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "PastScape Roman villa, Durley Hill, Keynsham (61193)",
+    dcterms:bibliographicCitation "NHLE Roman villa, Durley Hill, Keynsham",
         "Wikidata Roman villa of Keynsham (Q15126688)",
         "vici.org Villa at Keynsham Cemetery (6732)";
-    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/maximeg>;
     dcterms:description "A Roman villa under Durley Hill cemetery, Keynsham, United Kingdom.";
-    dcterms:modified "2025-11-11T08:18:30-04:00";
+    dcterms:modified "2026-10-08T17:42:54-04:00";
     dcterms:title "Durley Hill";
-    cito:citesAsRelated <https://vici.org/vici/6732/>,
+    cito:citesAsRelated <https://historicengland.org.uk/listing/heritage-gateway/results/record/f47f405f-d030-4528-9054-1126aee5bfb8/61193>,
+        <https://vici.org/vici/6732/>,
         <https://www.wikidata.org/wiki/Q15126688>;
-    cito:citesForInformation <https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=61193&resourceID=1036>;
     owl:sameAs <http://pleiades.stoa.org/places/847419768>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
@@ -182712,6 +182747,25 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-jardin-des-vestiges>;
     pleiades:hasName <https://pleiades.stoa.org/places/jardin-des-vestiges>,
         <https://pleiades.stoa.org/places/port-antique-de-marseille> .
+
+<https://pleiades.stoa.org/places/888374507> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "New Pauly Macedonia D. Under Roman rule (R.M. Errington)",
+        "Wikipedia (French) Mérides de Macédoine";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/cdlisle>;
+    dcterms:description "One of four administrative regions (μερίδες) into which the Romans initially organized the cities and peoples of Macedonia. They were later combined into the Roman province of Macedonia.";
+    dcterms:modified "2026-10-09T18:06:59-04:00";
+    dcterms:title "Macedonia I";
+    cito:citesForInformation <https://doi.org/10.1163/1574-9347_bnp_e718840>,
+        <https://fr.wikipedia.org/wiki/M%25C3%25A9rides_de_Mac%25C3%25A9doine>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/981531>,
+        <https://pleiades.stoa.org/places/991253193>;
+    owl:sameAs <http://pleiades.stoa.org/places/888374507>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/admin-place>,
+        <https://pleiades.stoa.org/vocabularies/meris> .
 
 <https://pleiades.stoa.org/places/888447551> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -246992,6 +247046,17 @@
     pleiades:end_date 2099;
     pleiades:start_date 2000 .
 
+<https://pleiades.stoa.org/places/osm-location-of-aktil-hapya1-4aa1-4> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[37.4194005, 38.3658049], [37.41985, 38.3658559], [37.4202108, 38.3660507], [37.4202522, 38.3662593], [37.4201516, 38.3665329], [37.4198855, 38.3666906], [37.4196016, 38.366723], [37.4192763, 38.3666257], [37.4190457, 38.3664077], [37.4189984, 38.3662037], [37.4191167, 38.3659579], [37.4194005, 38.3658049]]]}";
+    osgeo:asWKT "POLYGON ((37.4194005000000018 38.3658049000000005, 37.4198499999999967 38.3658558999999997, 37.4202107999999996 38.3660507000000024, 37.4202522000000002 38.3662593000000030, 37.4201515999999970 38.3665329000000028, 37.4198854999999995 38.3666905999999983, 37.4196016000000000 38.3667230000000004, 37.4192762999999999 38.3666257000000002, 37.4190456999999981 38.3664077000000034, 37.4189983999999995 38.3662036999999998, 37.4191166999999965 38.3659578999999979, 37.4194005000000018 38.3658049000000005))";
+    dcterms:bibliographicCitation "OSM Way 235326843";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/235326843>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-aktil-hapya1-4aa1-4>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 235326843, version 1, osm:changeset=17538877, 2013-08-27T15:20:46Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/neolithic-eastern-med>;
+    pleiades:end_date -3300;
+    pleiades:start_date -10000 .
+
 <https://pleiades.stoa.org/places/osm-location-of-al-mahasna> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "AofE el-Mahasna",
         "OSM Node 8792622445";
@@ -289357,10 +289422,10 @@
         [ rdfs:label "OpenStreetMap (Way 238821148, version 11, osm:changeset=135852825, 2023-05-08T13:19:16Z)" ],
         [ rdfs:label "OpenStreetMap (Way 316124355, version 5, osm:changeset=138539687, 2023-07-15T10:47:22Z)" ],
         [ rdfs:label "OpenStreetMap (Way 651182007, version 2, osm:changeset=65074405, 2018-12-01T14:51:04Z)" ],
-        [ rdfs:label "OpenStreetMap (Node 2751523192, version 2, osm:changeset=22947892, 2014-06-15T16:47:46Z)" ],
         [ rdfs:label "OpenStreetMap (Way 370738078, version 4, osm:changeset=138539870, 2023-07-15T10:52:13Z)" ],
-        [ rdfs:label "OpenStreetMap (Node 1578597091, version 2, osm:changeset=17226236, 2013-08-05T10:57:50Z)" ],
+        [ rdfs:label "OpenStreetMap (Node 2751523192, version 2, osm:changeset=22947892, 2014-06-15T16:47:46Z)" ],
         [ rdfs:label "OpenStreetMap (Way 297991330, version 7, osm:changeset=103628988, 2021-04-26T10:35:04Z)" ],
+        [ rdfs:label "OpenStreetMap (Node 1578597091, version 2, osm:changeset=17226236, 2013-08-05T10:57:50Z)" ],
         [ rdfs:label "OpenStreetMap (Way 152828487, version 18, osm:changeset=141758793, 2023-09-26T06:41:11Z)" ],
         [ rdfs:label "OpenStreetMap (Way 4951341, version 15, osm:changeset=134391563, 2023-04-01T18:40:37Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2819621974, version 2, osm:changeset=101734270, 2021-03-25T16:46:48Z)" ],
@@ -290368,8 +290433,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 87 Boion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Diokleia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Ebriapa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 87 Gargaza" ],
         [ rdfs:label "Barrington Atlas: BAtlas 83 B5 Hippos? Oros" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 87 Gargaza" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Gerousa polis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Herakleion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Herakleion" ],
@@ -290430,8 +290495,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 83" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 D2" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
@@ -290607,8 +290672,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Theba(is) Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tobata" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 86 Tyndaridai/Kyrsaita" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 G1" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 86 Tyndaridai/Kyrsaita" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 ‘Viciu’" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Zoaka" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Diakimelion" ],
@@ -291270,13 +291335,13 @@
         [ rdfs:label "Barrington Atlas: BAtlas 90 Alouaka" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Amana" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Arabum" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 84 E2 Aorsoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Azaga" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Balasagan/Balasakan" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Bustica" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Dazan" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 (D)Elymaioi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Drybikes/Drebices" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 84 E2 Aorsoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Eneca" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gabale" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gabris" ],

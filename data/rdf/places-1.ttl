@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 0,2
-# Date: 2026/10/04 06:57:49.372775 GMT-4
+# Date: 2026/10/11 06:57:57.222166 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 334018
+# Triple count: 334086
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -69655,6 +69655,14 @@
     dcterms:title "Findspot (approx)";
     owl:sameAs <http://pleiades.stoa.org/places/164195342/findspot-approx> .
 
+<https://pleiades.stoa.org/places/164232995%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Macedonia III";
+    spatial:C <https://pleiades.stoa.org/places/491687%23this>,
+        <https://pleiades.stoa.org/places/981531%23this>,
+        <https://pleiades.stoa.org/places/991253193%23this>;
+    rdfs:comment "One of four client republics (administrative regions called μερίδες) into which the Romans initially organized the cities and peoples of Macedonia after their victory in the Third Macedonian War in 166 BC. They were replaced with the province of Macedonia in 146 BC.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/164232995> .
+
 <https://pleiades.stoa.org/places/164241957%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Pano Mantilaris";
     spatial:C <https://pleiades.stoa.org/places/707498%23this>;
@@ -94930,7 +94938,9 @@
         <https://pleiades.stoa.org/places/491687%23this>,
         <https://pleiades.stoa.org/places/491703%23this>,
         <https://pleiades.stoa.org/places/491741%23this>,
+        <https://pleiades.stoa.org/places/501326%23this>,
         <https://pleiades.stoa.org/places/501337%23this>,
+        <https://pleiades.stoa.org/places/501341%23this>,
         <https://pleiades.stoa.org/places/501347%23this>,
         <https://pleiades.stoa.org/places/501357%23this>,
         <https://pleiades.stoa.org/places/501380%23this>,
@@ -94938,6 +94948,7 @@
         <https://pleiades.stoa.org/places/501403%23this>,
         <https://pleiades.stoa.org/places/501482%23this>,
         <https://pleiades.stoa.org/places/501489%23this>,
+        <https://pleiades.stoa.org/places/501523%23this>,
         <https://pleiades.stoa.org/places/501555%23this>,
         <https://pleiades.stoa.org/places/501574%23this>,
         <https://pleiades.stoa.org/places/511201%23this>,
@@ -101050,12 +101061,13 @@
     owl:sameAs <http://pleiades.stoa.org/places/197327/iovia> .
 
 <https://pleiades.stoa.org/places/197329/issa> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/2500370>,
         <http://viaf.org/viaf/36949186>;
     dcterms:description "";
-    dcterms:modified "2012-02-14T17:45:54-04:00";
+    dcterms:modified "2026-10-10T00:02:51-04:00";
     dcterms:title "Issa";
     owl:sameAs <http://pleiades.stoa.org/places/197329/issa> .
 
@@ -172767,22 +172779,23 @@
 
 <https://pleiades.stoa.org/places/140445> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 14 F1 14";
+    dcterms:bibliographicCitation "BAtlas 14 F1 14",
+        "CAG 37 155";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Arnerie, Cm. St-Etienne-de-Chigny";
     dcterms:creator <http://viaf.org/viaf/113541735>,
         <http://viaf.org/viaf/17258746>;
     dcterms:description "An ancient place, cited: BAtlas 14 F1 no. 14 (Arnerie, Cm. St-Etienne-de-Chigny)";
-    dcterms:modified "2012-10-23T13:53:52-04:00";
+    dcterms:modified "2026-10-09T23:06:53-04:00";
     dcterms:subject "dare:ancient=2",
         "dare:feature=villa",
         "dare:major=0";
     dcterms:title "Barrington Atlas feature labeled 14";
-    cito:citesForInformation <http://atlantides.org/bibliography/c.html%23CAG-37.155>,
+    cito:citesForInformation <http://gallica.bnf.fr/ark:/12148/bd6t54206520m>,
         <http://www.worldcat.org/oclc/43970336>;
     owl:sameAs <http://pleiades.stoa.org/places/140445>;
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -192564,6 +192577,26 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/findspot>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/findspot-approx> .
 
+<https://pleiades.stoa.org/places/164232995> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "New Pauly Macedonia D. Under Roman rule (R.M. Errington)",
+        "Wikipedia (French) Mérides de Macédoine";
+    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/cdlisle>;
+    dcterms:description "One of four client republics (administrative regions called μερίδες) into which the Romans initially organized the cities and peoples of Macedonia after their victory in the Third Macedonian War in 166 BC. They were replaced with the province of Macedonia in 146 BC.";
+    dcterms:modified "2026-10-09T18:12:22-04:00";
+    dcterms:title "Macedonia III";
+    cito:citesForInformation <https://doi.org/10.1163/1574-9347_bnp_e718840>,
+        <https://fr.wikipedia.org/wiki/M%25C3%25A9rides_de_Mac%25C3%25A9doine>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/491687>,
+        <https://pleiades.stoa.org/places/981531>,
+        <https://pleiades.stoa.org/places/991253193>;
+    owl:sameAs <http://pleiades.stoa.org/places/164232995>;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/admin-place>,
+        <https://pleiades.stoa.org/vocabularies/meris> .
+
 <https://pleiades.stoa.org/places/164241957> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Hadjisavvas 2017 ",
@@ -198705,28 +198738,41 @@
         "CAGR 11 69",
         "Genin 1996 68",
         "GeoNames 2997235: Luc-en-Diois",
+        "KU TP Database (Rathmann) 3276: Lvco (Luco)",
+        "Plin., NH (Mayhoff: PHI) 3.37.5",
+        "RE Lucus Augusti 2",
         "Rivet 1988 291",
         "TM GEO ID, 20906: Lucus Augusti (Luc-en-Diois)",
         "TP (Talbert: CUP) 2B1 (Talbert 822)",
-        "Wikipedia (English) Luc-en-Diois";
+        "ToposText Lucus Augusti (Narbonensis)",
+        "Wikidata Lucus Augusti (Q106766315)",
+        "Wikipedia (English) Luc-en-Diois",
+        "vici.org 2738";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Luc-en-Diois";
     dcterms:creator <https://pleiades.stoa.org/author/bertrand-e>;
     dcterms:description "An ancient place, cited: BAtlas 17 E4 Lucus Augusti";
-    dcterms:modified "2020-11-27T15:57:28-04:00";
+    dcterms:modified "2026-10-10T00:08:11-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Lucus Augusti";
-    cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace822.html>;
+    cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace822.html>,
+        <https://latin.packhum.org/loc/978/1/231/775-788>;
     cito:citesAsRelated <http://www.geonames.org/2997235/luc-en-diois.html>,
-        <http://www.trismegistos.org/place/20906>;
+        <http://www.trismegistos.org/place/20906>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=3276>,
+        <https://vici.org/vici/2738>,
+        <https://www.wikidata.org/wiki/Q106766315>;
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://de.wikisource.org/wiki/Paulys_Realencyclop%25C3%25A4die_der_classischen_Altertumswissenschaft>,
         <https://en.wikipedia.org/wiki/Luc-en-Diois>,
+        <https://topostext.org/place/446055ULAu>,
         <https://www.persee.fr/doc/galia_0016-4119_1996_num_53_1_3201>,
         <https://www.zotero.org/groups/pleiades/items/6QM9RNB9>,
         <https://www.zotero.org/groups/pleiades/items/A2VAS7UC>;
@@ -223127,7 +223173,9 @@
         <https://pleiades.stoa.org/places/491687>,
         <https://pleiades.stoa.org/places/491703>,
         <https://pleiades.stoa.org/places/491741>,
+        <https://pleiades.stoa.org/places/501326>,
         <https://pleiades.stoa.org/places/501337>,
+        <https://pleiades.stoa.org/places/501341>,
         <https://pleiades.stoa.org/places/501347>,
         <https://pleiades.stoa.org/places/501357>,
         <https://pleiades.stoa.org/places/501380>,
@@ -223135,6 +223183,7 @@
         <https://pleiades.stoa.org/places/501403>,
         <https://pleiades.stoa.org/places/501482>,
         <https://pleiades.stoa.org/places/501489>,
+        <https://pleiades.stoa.org/places/501523>,
         <https://pleiades.stoa.org/places/501555>,
         <https://pleiades.stoa.org/places/501574>,
         <https://pleiades.stoa.org/places/511201>,
@@ -278063,6 +278112,8 @@
     pleiades:start_date 1700 .
 
 <https://pleiades.stoa.org/places/issa> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "TP (Talbert: CUP) ";
+    cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/prm.html>;
     owl:sameAs <http://pleiades.stoa.org/places/issa>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 20 D6 Issa Ins." ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/classical>,
@@ -278070,6 +278121,7 @@
         <https://pleiades.stoa.org/vocabularies/late-antique>,
         <https://pleiades.stoa.org/vocabularies/roman>;
     pleiades:end_date 640;
+    pleiades:nameAttested "Insula Issa"@la;
     pleiades:nameRomanized "Issa";
     pleiades:start_date -550 .
 
@@ -325959,10 +326011,12 @@
     dcterms:bibliographicCitation "BAtlas 20 E7 Elaphites Inss.",
         "Plin., NH (Mayhoff: PHI) 3.152.11",
         "Smith 1854 (Perseus) ELAPHITES",
+        "ToposText Elaphites islands (Dalmatia)",
         "Wikidata Elaphiti Islands (Q1324957)",
         "Wikipedia (English) Elaphiti Islands",
         "Wilkes 1969 11";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/pscalfano>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -325971,13 +326025,14 @@
     dcterms:creator <http://viaf.org/viaf/2500370>,
         <http://viaf.org/viaf/36949186>;
     dcterms:description "An island group off the coast of Illyricum.";
-    dcterms:modified "2025-02-03T17:02:37-04:00";
+    dcterms:modified "2026-10-10T07:53:24-04:00";
     dcterms:title "Elaphites (islands)";
     cito:citesAsEvidence <http://latin.packhum.org/loc/978/1/270/968-975%23270>;
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q1324957>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=elaphites-ins-geo&highlight=elaphites>,
         <http://www.worldcat.org/oclc/43970336>,
         <https://en.wikipedia.org/wiki/Elaphiti_Islands>,
+        <https://topostext.org/place/427179IEla>,
         <https://www.zotero.org/groups/pleiades/items/UCHQ82CK>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/1004>;
     owl:sameAs <http://pleiades.stoa.org/places/197257>;
@@ -326161,38 +326216,52 @@
 
 <https://pleiades.stoa.org/places/197329> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 20 D6 Issa Ins.",
+    dcterms:bibliographicCitation "BAtlas 20 D6 Issa Ins.",
+        "EDH Geographic Database G005993: Issa, insula – Vis",
+        "KU TP Database (Rathmann) 2149: ",
         "Kirigin 1996 ",
+        "MANTO 11307341: Issa (island)",
+        "RE Issa 3",
         "TM GEO ID 29472: Issa (Vis)",
         "TP (Talbert: CUP) 5A3 (Talbert 2987)",
+        "Theatrum 1158",
         "ToposText Issa (Adriatic)",
-        "Wikipedia (English) Vis (island)";
+        "Wikidata Vis (Q203767)",
+        "Wikipedia (English) Vis (island)",
+        "nomisma.org Issa";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "island";
     dcterms:creator <http://viaf.org/viaf/2500370>,
         <http://viaf.org/viaf/36949186>;
     dcterms:description "An island in the Adriatic, known today as Vis (Croatian) and Lissa (Italian).";
-    dcterms:modified "2021-06-13T11:56:56-04:00";
+    dcterms:modified "2026-10-10T00:02:52-04:00";
     dcterms:title "Issa (island)";
     cito:citesAsEvidence <https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2987.html>;
-    cito:citesAsRelated <https://en.wikipedia.org/wiki/Vis_(island)>,
-        <https://www.trismegistos.org/place/29472>;
-    cito:citesForInformation <http://theatrum.de/1158.html>,
-        <http://www.worldcat.org/oclc/43970336>,
+    cito:citesAsRelated <http://nomisma.org/id/issa>,
+        <http://theatrum.de/1158.html>,
+        <https://edh.ub.uni-heidelberg.de/edh/geographie/G005993>,
+        <https://en.wikipedia.org/wiki/Vis_(island)>,
+        <https://resource.manto.unh.edu/11307341>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=2149>,
+        <https://www.trismegistos.org/place/29472>,
+        <https://www.wikidata.org/wiki/Q203767>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://elexikon.ch/RE/SV_345.png>,
         <https://topostext.org/place/431162IIss>,
         <https://www.zotero.org/groups/pleiades/items/Z5C5IFJT>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/1004>;
     owl:sameAs <http://pleiades.stoa.org/places/197329>;
     geo:lat 43.0450457688;
     geo:long 16.1504884416;
-    skos:altLabel "Lissa"@it,
-        "Vis"@hr,
-        "Issa";
+    skos:altLabel "Insula Issa"@la,
+        "Lissa"@it,
+        "Vis"@hr;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 20 D6 Issa Ins." ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/island>;
@@ -342635,8 +342704,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 17 E5" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 E5" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 37" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F5" ],
@@ -342843,8 +342912,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 19 Medoullon" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Phligadia M." ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Quarqueni" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 19 Sanctio" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 Pontike" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 19 Sanctio" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Sinduni" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Subocrini" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Togienses" ],

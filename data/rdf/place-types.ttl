@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Vocabulary 'place-types'
-# Date: 2026/10/04 06:47:36.150537 GMT-4
+# Date: 2026/10/11 06:47:37.152786 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 1301
+# Triple count: 1313
 
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -29,6 +29,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "acropolis"@en;
     skos:scopeNote "An acropolis as defined by the Getty Art and Architecture Thesaurus term 300000700: \"The higher and usually fortified sections of ancient Greek cities, typically containing temples and some public buildings and used as places of refuge.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/admin-place> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/admin-place>,
+        <http://vocab.getty.edu/ontology%23AdminPlaceConcept>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "administrative place"@en;
+    skos:scopeNote "An administrative place as defined by the Getty Thesaurus of Geographic Names: Place defined by administrative boundaries and conditions, including inhabited places, nations, and empires. Example: Burgundy region in France"@en .
 
 <https://pleiades.stoa.org/vocabularies/agora> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/agora>,
@@ -706,6 +713,13 @@
     skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
     skos:prefLabel "meadow"@en;
     skos:scopeNote "A meadow as defined by the Getty Art and Architecture Thesaurus: \"Large open tracts of grassland, sometimes used for pasture.\""@en .
+
+<https://pleiades.stoa.org/vocabularies/meris> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    owl:sameAs <http://pleiades.stoa.org/vocabularies/meris>,
+        <https://www.wikidata.org/wiki/Q3333283>;
+    skos:inScheme <https://pleiades.stoa.org/vocabularies/>;
+    skos:prefLabel "meris"@en;
+    skos:scopeNote "A Roman administrative division or region (μερίς) used, for example, prior to the creation of the Roman province of Macedonia"@en .
 
 <https://pleiades.stoa.org/vocabularies/metalworking> a <http://www.w3.org/2004/02/skos/core#Concept>;
     owl:sameAs <http://pleiades.stoa.org/vocabularies/metalworking>,
