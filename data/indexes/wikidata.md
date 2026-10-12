@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11481 alignments exist in _Pleiades_ place references as of 2026-10-09. The following list of alignments is grouped by zotkey.
+11504 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -609,6 +609,13 @@
 
 ### alignments:
  - [Aceste](https://pleiades.stoa.org/places/465838)
+
+
+## Achaea (Q204772)
+[https://www.wikidata.org/wiki/Q204772](https://www.wikidata.org/wiki/Q204772)  
+
+### alignments:
+ - [Achaia (province)](https://pleiades.stoa.org/places/981502)
 
 
 ## Achaea (Q2790451)
@@ -2194,6 +2201,13 @@
 
 ### alignments:
  - [Panopolis/Schmin](https://pleiades.stoa.org/places/756613)
+
+
+## Akondisma (Q67182773)
+[https://www.wikidata.org/wiki/Q67182773](https://www.wikidata.org/wiki/Q67182773)  
+
+### alignments:
+ - [Akontisma](https://pleiades.stoa.org/places/501341)
 
 
 ## Akontio (Q12873267)
@@ -5074,6 +5088,13 @@
  - [Aquae Apollinares](https://pleiades.stoa.org/places/413022)
 
 
+## Aquae Arnemetiae (Q94579214)
+[https://www.wikidata.org/wiki/Q94579214](https://www.wikidata.org/wiki/Q94579214)  
+
+### alignments:
+ - [Aquae *Arnemetiae](https://pleiades.stoa.org/places/79298)
+
+
 ## Aquae Caeretanae (Q118898622)
 [https://www.wikidata.org/wiki/Q118898622](https://www.wikidata.org/wiki/Q118898622)  
 
@@ -6290,6 +6311,20 @@
 
 ### alignments:
  - [Armento](https://pleiades.stoa.org/places/442477)
+
+
+## Arne (Q16488813)
+[https://www.wikidata.org/wiki/Q16488813](https://www.wikidata.org/wiki/Q16488813)  
+
+### alignments:
+ - [Arne](https://pleiades.stoa.org/places/540663)
+
+
+## Arneae (Q692995)
+[https://www.wikidata.org/wiki/Q692995](https://www.wikidata.org/wiki/Q692995)  
+
+### alignments:
+ - [Arneai](https://pleiades.stoa.org/places/638763)
 
 
 ## Arnières-sur-Iton (Q1009681)
@@ -8272,6 +8307,13 @@
 
 ### alignments:
  - [Bani Walid](https://pleiades.stoa.org/places/198812462)
+
+
+## Baniurae (Q25391803)
+[https://www.wikidata.org/wiki/Q25391803](https://www.wikidata.org/wiki/Q25391803)  
+
+### alignments:
+ - [Baniurae?](https://pleiades.stoa.org/places/275600)
 
 
 ## Bankfoot,Roman camps & forts,Dalswinton (Q56663361)
@@ -26809,6 +26851,13 @@
  - [Hod Hill](https://pleiades.stoa.org/places/42178780)
 
 
+## Holmi (Q85767045)
+[https://www.wikidata.org/wiki/Q85767045](https://www.wikidata.org/wiki/Q85767045)  
+
+### alignments:
+ - [Holmoi](https://pleiades.stoa.org/places/614670)
+
+
 ## Holt Roman tilery (Q121411329)
 [https://www.wikidata.org/wiki/Q121411329](https://www.wikidata.org/wiki/Q121411329)  
 
@@ -28516,6 +28565,13 @@
 
 ### alignments:
  - [Is Pirois](https://pleiades.stoa.org/places/411868128)
+
+
+## Isaflenses (Q86668107)
+[https://www.wikidata.org/wiki/Q86668107](https://www.wikidata.org/wiki/Q86668107)  
+
+### alignments:
+ - [Isaflenses](https://pleiades.stoa.org/places/299002)
 
 
 ## Isca Augusta (Q929778)
@@ -30583,6 +30639,13 @@
 
 ### alignments:
  - [Kisamos](https://pleiades.stoa.org/places/589870)
+
+
+## Kish Island (Q221883)
+[https://www.wikidata.org/wiki/Q221883](https://www.wikidata.org/wiki/Q221883)  
+
+### alignments:
+ - [Kish (island)](https://pleiades.stoa.org/places/29630)
 
 
 ## Kissa (Q65049086)
@@ -33755,6 +33818,13 @@
 
 ### alignments:
  - [Lucus Asturum](https://pleiades.stoa.org/places/236524)
+
+
+## Lucus Augusti (Q106766315)
+[https://www.wikidata.org/wiki/Q106766315](https://www.wikidata.org/wiki/Q106766315)  
+
+### alignments:
+ - [Lucus Augusti](https://pleiades.stoa.org/places/167815)
 
 
 ## Lucus Ferentina (Q3836328)
@@ -37333,6 +37403,13 @@
  - [Mons Silicis](https://pleiades.stoa.org/places/393454)
 
 
+## Mont Zaccar (Q2423720)
+[https://www.wikidata.org/wiki/Q2423720](https://www.wikidata.org/wiki/Q2423720)  
+
+### alignments:
+ - [Transcellensis (mountain)](https://pleiades.stoa.org/places/295366)
+
+
 ## Montalto di Castro (Q175956)
 [https://www.wikidata.org/wiki/Q175956](https://www.wikidata.org/wiki/Q175956)  
 
@@ -40742,6 +40819,13 @@
  - [Oichalia (Aetolia)](https://pleiades.stoa.org/places/540970)
 
 
+## Oeneon (Q11939252)
+[https://www.wikidata.org/wiki/Q11939252](https://www.wikidata.org/wiki/Q11939252)  
+
+### alignments:
+ - [Oineon](https://pleiades.stoa.org/places/540972)
+
+
 ## Oenoe (Q17633263)
 [https://www.wikidata.org/wiki/Q17633263](https://www.wikidata.org/wiki/Q17633263)  
 
@@ -41307,6 +41391,13 @@
 
 ### alignments:
  - [Ammon](https://pleiades.stoa.org/places/716520)
+
+
+## Oracle of Tegyra (Q21088795)
+[https://www.wikidata.org/wiki/Q21088795](https://www.wikidata.org/wiki/Q21088795)  
+
+### alignments:
+ - [Apollo Tegyraios, T.](https://pleiades.stoa.org/places/540654)
 
 
 ## Oram's Arbour (Q7099422)
@@ -44320,6 +44411,13 @@
  - [Platanista grove](https://pleiades.stoa.org/places/552653587)
 
 
+## Platia Magoula Zarkou (Q141682984)
+[https://www.wikidata.org/wiki/Q141682984](https://www.wikidata.org/wiki/Q141682984)  
+
+### alignments:
+ - [Platia Magoula Zarkou](https://pleiades.stoa.org/places/731565554)
+
+
 ## Platonic Academy (Q193093)
 [https://www.wikidata.org/wiki/Q193093](https://www.wikidata.org/wiki/Q193093)  
 
@@ -46439,6 +46537,13 @@
 
 ### alignments:
  - [Kydna/Pydnai](https://pleiades.stoa.org/places/638949)
+
+
+## Pylene (Q16619015)
+[https://www.wikidata.org/wiki/Q16619015](https://www.wikidata.org/wiki/Q16619015)  
+
+### alignments:
+ - [Pylene?](https://pleiades.stoa.org/places/541079)
 
 
 ## Pylos (Q7263152)
@@ -51457,6 +51562,13 @@
  - [Borský Peter](https://pleiades.stoa.org/places/128367)
 
 
+## Q18005551
+[https://www.wikidata.org/wiki/Q18005551](https://www.wikidata.org/wiki/Q18005551)  
+
+### alignments:
+ - [Arnesp Roman villa, Valentine, Haute-Garonne](https://pleiades.stoa.org/places/249997)
+
+
 ## Q18008299: Theatre of Carthage
 [https://www.wikidata.org/wiki/Q18008299](https://www.wikidata.org/wiki/Q18008299)  
 
@@ -53073,6 +53185,13 @@
 
 ### alignments:
  - [Kaspiane/Paytakaran](https://pleiades.stoa.org/places/884169)
+
+
+## Q23802467
+[https://www.wikidata.org/wiki/Q23802467](https://www.wikidata.org/wiki/Q23802467)  
+
+### alignments:
+ - [Chinalaph (river)](https://pleiades.stoa.org/places/295251)
 
 
 ## Q23812071: Djebel Geurn es Slem
@@ -60487,13 +60606,6 @@
  - [Arco Romano de Dona Isabel](https://pleiades.stoa.org/places/982853456)
 
 
-## Q96671821: Apollo Tegyraios (sanctuary)
-[https://www.wikidata.org/wiki/Q96671821](https://www.wikidata.org/wiki/Q96671821)  
-
-### alignments:
- - [Apollo Tegyraios, T.](https://pleiades.stoa.org/places/540654)
-
-
 ## Q96972175: Oros (Aigina)
 [https://www.wikidata.org/wiki/Q96972175](https://www.wikidata.org/wiki/Q96972175)  
 
@@ -60814,6 +60926,20 @@
 
 ### alignments:
  - [Qasr Al-Kharanah](https://pleiades.stoa.org/places/318745558)
+
+
+## Qasr Nagazza East (Q104819162)
+[https://www.wikidata.org/wiki/Q104819162](https://www.wikidata.org/wiki/Q104819162)  
+
+### alignments:
+ - [Gasr en-Naggazza](https://pleiades.stoa.org/places/344366)
+
+
+## Qasr Nagazza West (Q104819174)
+[https://www.wikidata.org/wiki/Q104819174](https://www.wikidata.org/wiki/Q104819174)  
+
+### alignments:
+ - [Gasr en-Naggazza](https://pleiades.stoa.org/places/344366)
 
 
 ## Qasr Qarun (Q11944146)
@@ -68015,6 +68141,13 @@
  - [Serdica](https://pleiades.stoa.org/places/207439)
 
 
+## Sohar (Q943270)
+[https://www.wikidata.org/wiki/Q943270](https://www.wikidata.org/wiki/Q943270)  
+
+### alignments:
+ - [[Sohar]](https://pleiades.stoa.org/places/29766)
+
+
 ## Solarium Augusti (Q1233638)
 [https://www.wikidata.org/wiki/Q1233638](https://www.wikidata.org/wiki/Q1233638)  
 
@@ -69014,6 +69147,13 @@
 
 ### alignments:
  - [Strozzacapponi necropolis](https://pleiades.stoa.org/places/337356735)
+
+
+## Struma (Q204127)
+[http://www.wikidata.org/entity/Q204127](http://www.wikidata.org/entity/Q204127)  
+
+### alignments:
+ - [Strymon (river)](https://pleiades.stoa.org/places/501629)
 
 
 ## Strutt's Park Roman fort (Q1241270)
@@ -73998,6 +74138,13 @@
  - [Tophet de Salammbô](https://pleiades.stoa.org/places/908696791)
 
 
+## Topirus (Q18028685)
+[https://www.wikidata.org/wiki/Q18028685](https://www.wikidata.org/wiki/Q18028685)  
+
+### alignments:
+ - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
+
+
 ## Toprak-kala (Q2443559)
 [https://www.wikidata.org/wiki/Q2443559](https://www.wikidata.org/wiki/Q2443559)  
 
@@ -78564,6 +78711,13 @@
  - [Roman amphitheater of Virunum](https://pleiades.stoa.org/places/212586562)
 
 
+## Vis (Q203767)
+[https://www.wikidata.org/wiki/Q203767](https://www.wikidata.org/wiki/Q203767)  
+
+### alignments:
+ - [Issa (island)](https://pleiades.stoa.org/places/197329)
+
+
 ## Visakhapatnam (Q200016)
 [https://www.wikidata.org/wiki/Q200016](https://www.wikidata.org/wiki/Q200016)  
 
@@ -79753,6 +79907,13 @@
 
 ### alignments:
  - [Zagora](https://pleiades.stoa.org/places/857379)
+
+
+## Zagros Mountains (Q167021)
+[https://www.wikidata.org/wiki/Q167021](https://www.wikidata.org/wiki/Q167021)  
+
+### alignments:
+ - [Zagrus (mountain)](https://pleiades.stoa.org/places/29816)
 
 
 ## Zakisovaia Balka (Q131466576)

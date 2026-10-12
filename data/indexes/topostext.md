@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5160 alignments exist in _Pleiades_ place references as of 2026-10-09. The following list of alignments is grouped by zotkey.
+5166 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -2728,6 +2728,13 @@
  - [Amphitrope?](https://pleiades.stoa.org/places/579862)
 
 
+## Ampsaga river (Libya)
+[https://topostext.org/place/368060WAmp](https://topostext.org/place/368060WAmp)  
+
+### alignments:
+ - [Am(p)saga (river)](https://pleiades.stoa.org/places/305029)
+
+
 ## Amyklai (Lakonia) 99 Amykles - Αμύκλαι
 [https://topostext.org/place/370224UAmy](https://topostext.org/place/370224UAmy)  
 
@@ -4714,6 +4721,13 @@
 
 ### alignments:
  - [Arne](https://pleiades.stoa.org/places/540663)
+
+
+## Arneai (Lycia) 10 Ernez
+[https://topostext.org/place/364299UArn](https://topostext.org/place/364299UArn)  
+
+### alignments:
+ - [Arneai](https://pleiades.stoa.org/places/638763)
 
 
 ## Arnisa (Florina)
@@ -10736,6 +10750,13 @@
 
 ### alignments:
  - [Elaos?](https://pleiades.stoa.org/places/530857)
+
+
+## Elaphites islands (Dalmatia)
+[https://topostext.org/place/427179IEla](https://topostext.org/place/427179IEla)  
+
+### alignments:
+ - [Elaphites (islands)](https://pleiades.stoa.org/places/197257)
 
 
 ## Elaphonnesos? (Propontis)
@@ -20138,6 +20159,13 @@
  - [Lucus Augusti](https://pleiades.stoa.org/places/236525)
 
 
+## Lucus Augusti (Narbonensis)
+[https://topostext.org/place/446055ULAu](https://topostext.org/place/446055ULAu)  
+
+### alignments:
+ - [Lucus Augusti](https://pleiades.stoa.org/places/167815)
+
+
 ## Ludus Magnus (Rome) 2 Roma
 [https://topostext.org/place/419125BLuM](https://topostext.org/place/419125BLuM)  
 
@@ -20494,6 +20522,13 @@
 
 ### alignments:
  - [Magnesia (region)](https://pleiades.stoa.org/places/540923)
+
+
+## Magoula temple (Akarnania)
+[https://topostext.org/place/389209SMag](https://topostext.org/place/389209SMag)  
+
+### alignments:
+ - [Magoula](https://pleiades.stoa.org/places/530988)
 
 
 ## Maiandria (Illyria)
@@ -35858,6 +35893,13 @@
 
 ### alignments:
  - [Zagora](https://pleiades.stoa.org/places/857379)
+
+
+## Zagros Mountains (Mesopotamia)
+[https://topostext.org/place/361447LZag](https://topostext.org/place/361447LZag)  
+
+### alignments:
+ - [Zagrus (mountain)](https://pleiades.stoa.org/places/29816)
 
 
 ## Zakros palace (Lasithi)

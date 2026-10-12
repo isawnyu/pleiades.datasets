@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1219 alignments exist in _Pleiades_ place references as of 2026-10-09. The following list of alignments is grouped by zotkey.
+1225 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2487,6 +2487,13 @@
  - [Ambrossos](https://pleiades.stoa.org/places/540626)
 
 
+## 10274724: Cirrha (Phocis)
+[https://resource.manto.unh.edu/10274724](https://resource.manto.unh.edu/10274724)  
+
+### alignments:
+ - [Kirra](https://pleiades.stoa.org/places/540868)
+
+
 ## 10274737: Oiantheia (Ozolian Locris)
 [https://resource.manto.unh.edu/10274737](https://resource.manto.unh.edu/10274737)  
 
@@ -3208,6 +3215,13 @@
  - [Diktynnaion](https://pleiades.stoa.org/places/589760)
 
 
+## 11298965: Lacereia (Thessaly)
+[https://resource.manto.unh.edu/11298965](https://resource.manto.unh.edu/11298965)  
+
+### alignments:
+ - [Lakereia](https://pleiades.stoa.org/places/540901)
+
+
 ## 11299120: the Sanctuary of Poseidon Enalios (Pontos)
 [https://resource.manto.unh.edu/11299120](https://resource.manto.unh.edu/11299120)  
 
@@ -3808,6 +3822,13 @@
 
 ### alignments:
  - [Alope](https://pleiades.stoa.org/places/540621)
+
+
+## 11307341: Issa (island)
+[https://resource.manto.unh.edu/11307341](https://resource.manto.unh.edu/11307341)  
+
+### alignments:
+ - [Issa (island)](https://pleiades.stoa.org/places/197329)
 
 
 ## 11307374: Phthiotic Thebes (Thessaly)
@@ -5337,6 +5358,13 @@
  - [Maliacus Sinus](https://pleiades.stoa.org/places/540929)
 
 
+## 11327150: the Zagros Mountains (Media)
+[https://resource.manto.unh.edu/11327150](https://resource.manto.unh.edu/11327150)  
+
+### alignments:
+ - [Zagrus (mountain)](https://pleiades.stoa.org/places/29816)
+
+
 ## 11327154: Ecbatana (Media)
 [https://resource.manto.unh.edu/11327154](https://resource.manto.unh.edu/11327154)  
 
@@ -5762,6 +5790,13 @@
 
 ### alignments:
  - [Serdica](https://pleiades.stoa.org/places/207439)
+
+
+## 11332915: Topeiros (Thrace)
+[https://resource.manto.unh.edu/11332915](https://resource.manto.unh.edu/11332915)  
+
+### alignments:
+ - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
 
 
 ## 11334116: New Hermion (Argolid)
@@ -7800,6 +7835,13 @@
 
 ### alignments:
  - [Alesion (mountain)](https://pleiades.stoa.org/places/570064)
+
+
+## 9719431: Pylene (Aitolia)
+[https://resource.manto.unh.edu/9719431](https://resource.manto.unh.edu/9719431)  
+
+### alignments:
+ - [Pylene?](https://pleiades.stoa.org/places/541079)
 
 
 ## 9719432: Chalcis (Aitolia)

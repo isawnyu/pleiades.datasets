@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5196 alignments exist in _Pleiades_ place references as of 2026-10-09. The following list of alignments is grouped by zotkey.
+5199 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -7203,6 +7203,13 @@
 
 ### alignments:
  - [Segontium](https://pleiades.stoa.org/places/79678)
+
+
+## GEO ID 15378
+[http://www.trismegistos.org/place/15378](http://www.trismegistos.org/place/15378)  
+
+### alignments:
+ - [Aquae *Arnemetiae](https://pleiades.stoa.org/places/79298)
 
 
 ## GEO ID 15380: Magis (Burrow Walls)
@@ -15152,6 +15159,13 @@
 
 ### alignments:
  - [Taampeti](https://pleiades.stoa.org/places/737060)
+
+
+## GEO ID 2905
+[http://www.trismegistos.org/place/2905](http://www.trismegistos.org/place/2905)  
+
+### alignments:
+ - [Tanais](https://pleiades.stoa.org/places/741612)
 
 
 ## GEO ID 2906
@@ -32269,6 +32283,13 @@
 
 ### alignments:
  - [Compasi](https://pleiades.stoa.org/places/786005)
+
+
+## GEO ID 53076
+[https://www.trismegistos.org/place/53076](https://www.trismegistos.org/place/53076)  
+
+### alignments:
+ - [Arneai](https://pleiades.stoa.org/places/638763)
 
 
 ## GEO ID 53083: Karmylessos (Kaya)
