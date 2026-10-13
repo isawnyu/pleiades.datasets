@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5166 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
+5167 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -27722,6 +27722,13 @@
 ### alignments:
  - [Plateia? (island)](https://pleiades.stoa.org/places/373875)
  - [Plateia](https://pleiades.stoa.org/places/373874)
+
+
+## Pleistos river (Phokis)
+[https://topostext.org/place/385225WPle](https://topostext.org/place/385225WPle)  
+
+### alignments:
+ - [Pleistos (River)](https://pleiades.stoa.org/places/730150817)
 
 
 ## Plemmyrion cape (Sicily)

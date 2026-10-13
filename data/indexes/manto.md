@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1225 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
+1231 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3117,6 +3117,13 @@
  - [Munychia](https://pleiades.stoa.org/places/116035285)
 
 
+## 11296813: Pleistos
+[https://resource.manto.unh.edu/11296813](https://resource.manto.unh.edu/11296813)  
+
+### alignments:
+ - [Pleistos (River)](https://pleiades.stoa.org/places/730150817)
+
+
 ## 11296826: Mount Pindos (Thessaly)
 [https://resource.manto.unh.edu/11296826](https://resource.manto.unh.edu/11296826)  
 
@@ -4854,6 +4861,13 @@
  - [House of Argus](https://pleiades.stoa.org/places/77858278)
 
 
+## 11319326: Casa della Soffita V 3, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319326](https://resource.manto.unh.edu/11319326)  
+
+### alignments:
+ - [Casa della Soffitta](https://pleiades.stoa.org/places/871749316)
+
+
 ## 11319631: Ostia (Latium)
 [https://resource.manto.unh.edu/11319631](https://resource.manto.unh.edu/11319631)  
 
@@ -4868,6 +4882,20 @@
  - [Moregine](https://pleiades.stoa.org/places/826462996)
 
 
+## 11319671: Casa di L. Aelius Magnus VIII 2, 21 (Pompeii)
+[https://resource.manto.unh.edu/11319671](https://resource.manto.unh.edu/11319671)  
+
+### alignments:
+ - [Casa di L. Aelius Magnus](https://pleiades.stoa.org/places/871749315)
+
+
+## 11319683: Casa di Pane VIII 3, 28-31 (Pompeii)
+[https://resource.manto.unh.edu/11319683](https://resource.manto.unh.edu/11319683)  
+
+### alignments:
+ - [Casa di Pane](https://pleiades.stoa.org/places/722871113)
+
+
 ## 11319688: Villa di Giulia Felice II 4, 3 (Pompeii)
 [https://resource.manto.unh.edu/11319688](https://resource.manto.unh.edu/11319688)  
 
@@ -4880,6 +4908,20 @@
 
 ### alignments:
  - [Unnamed domus in Via Graziosa](https://pleiades.stoa.org/places/405322395)
+
+
+## 11319766: Casa di Adone Ferito VI 7, 18 (Pompeii)
+[https://resource.manto.unh.edu/11319766](https://resource.manto.unh.edu/11319766)  
+
+### alignments:
+ - [Casa di Adone Ferito](https://pleiades.stoa.org/places/885033375)
+
+
+## 11319799: Casa della Argenteria VI 7, 20.22 (Pompeii)
+[https://resource.manto.unh.edu/11319799](https://resource.manto.unh.edu/11319799)  
+
+### alignments:
+ - [Casa dell'Argenteria](https://pleiades.stoa.org/places/347865703)
 
 
 ## 11319908: Casa degli Archi I 17, 4 (Pompeii)

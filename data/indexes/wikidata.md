@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11504 alignments exist in _Pleiades_ place references as of 2026-10-12. The following list of alignments is grouped by zotkey.
+11510 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13455,6 +13455,20 @@
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
+## Casa della Soffitta (Q27685958)
+[https://www.wikidata.org/wiki/Q27685958](https://www.wikidata.org/wiki/Q27685958)  
+
+### alignments:
+ - [Casa della Soffitta](https://pleiades.stoa.org/places/871749316)
+
+
+## Casa delle Grazie (Q27688118)
+[https://www.wikidata.org/wiki/Q27688118](https://www.wikidata.org/wiki/Q27688118)  
+
+### alignments:
+ - [Casa delle Grazie](https://pleiades.stoa.org/places/109708136)
+
+
 ## Casa delle Pareti rosse (Q27688279)
 [https://www.wikidata.org/wiki/Q27688279](https://www.wikidata.org/wiki/Q27688279)  
 
@@ -19975,6 +19989,13 @@
 
 ### alignments:
  - [domus Gelotiana](https://pleiades.stoa.org/places/364530240)
+
+
+## Domus of P. Antistius Maximus and L. Laelius Trophimus (Q27686247)
+[https://www.wikidata.org/wiki/Q27686247](https://www.wikidata.org/wiki/Q27686247)  
+
+### alignments:
+ - [Casa dell'Argenteria](https://pleiades.stoa.org/places/347865703)
 
 
 ## Domus of Publius Confuleius Sabbio (Q48803904)
@@ -27108,6 +27129,13 @@
 
 ### alignments:
  - [Domus of A. Octavius Primus](https://pleiades.stoa.org/places/242335383)
+
+
+## House of Adonis (VI.7.18) (Q27686245)
+[https://www.wikidata.org/wiki/Q27686245](https://www.wikidata.org/wiki/Q27686245)  
+
+### alignments:
+ - [Casa di Adone Ferito](https://pleiades.stoa.org/places/885033375)
 
 
 ## House of Argus (Q16537494)
@@ -44425,6 +44453,13 @@
  - [Academy/Akademeia/Akademia](https://pleiades.stoa.org/places/479670108)
 
 
+## Pleistos (Q3537166)
+[https://www.wikidata.org/wiki/Q3537166](https://www.wikidata.org/wiki/Q3537166)  
+
+### alignments:
+ - [Pleistos (River)](https://pleiades.stoa.org/places/730150817)
+
+
 ## Pleuron (Q1317636)
 [https://www.wikidata.org/wiki/Q1317636](https://www.wikidata.org/wiki/Q1317636)  
 
@@ -61507,6 +61542,13 @@
 
 ### alignments:
  - [Regio IX (Circus Flaminius)](https://pleiades.stoa.org/places/936873471)
+
+
+## Regio V Picenum (Q510990)
+[https://www.wikidata.org/wiki/Q510990](https://www.wikidata.org/wiki/Q510990)  
+
+### alignments:
+ - [Italia, Regio V](https://pleiades.stoa.org/places/800834026)
 
 
 ## Regio VI Alta Semita (Q20008730)
