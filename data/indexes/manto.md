@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1231 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
+1233 alignments exist in _Pleiades_ place references as of 2026-10-14. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2121,6 +2121,13 @@
 
 ### alignments:
  - [Hybla Gereatis](https://pleiades.stoa.org/places/462251)
+
+
+## 10268953: Dyspontion (Elis)
+[https://resource.manto.unh.edu/10268953](https://resource.manto.unh.edu/10268953)  
+
+### alignments:
+ - [Dyspontion (Pisatis)](https://pleiades.stoa.org/places/329530270)
 
 
 ## 10268958: Tyre
@@ -8584,6 +8591,13 @@
 
 ### alignments:
  - [Prochyta (island)](https://pleiades.stoa.org/places/433053)
+
+
+## River Boagrios (Locris)
+[https://resource.manto.unh.edu/9688229](https://resource.manto.unh.edu/9688229)  
+
+### alignments:
+ - [Boagrius (River)](https://pleiades.stoa.org/places/523921684)
 
 
 ## River Odrysses (Mygdonia)

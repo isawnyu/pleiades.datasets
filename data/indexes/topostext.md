@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5167 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
+5169 alignments exist in _Pleiades_ place references as of 2026-10-14. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -6720,6 +6720,13 @@
  - [Blaundos](https://pleiades.stoa.org/places/609344)
 
 
+## Boagrios river (East Lokris) (388227WBoa)
+[https://topostext.org/place/388227WBoa](https://topostext.org/place/388227WBoa)  
+
+### alignments:
+ - [Boagrius (River)](https://pleiades.stoa.org/places/523921684)
+
+
 ## Boiai (Lakonia)
 [https://topostext.org/place/365231PBoi](https://topostext.org/place/365231PBoi)  
 
@@ -10434,6 +10441,13 @@
 
 ### alignments:
  - [Dysoron (mountain)](https://pleiades.stoa.org/places/491582)
+
+
+## Dyspontion (Pisatis) (377216UDys)
+[https://topostext.org/place/377216UDys](https://topostext.org/place/377216UDys)  
+
+### alignments:
+ - [Dyspontion (Pisatis)](https://pleiades.stoa.org/places/329530270)
 
 
 ## Dystos (Euboea)

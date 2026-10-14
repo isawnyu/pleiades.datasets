@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11510 alignments exist in _Pleiades_ place references as of 2026-10-13. The following list of alignments is grouped by zotkey.
+11517 alignments exist in _Pleiades_ place references as of 2026-10-14. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -3030,6 +3030,13 @@
  - [Alsium](https://pleiades.stoa.org/places/422831)
 
 
+## Alta Murgia National Park (Q680313)
+[https://www.wikidata.org/wiki/Q680313](https://www.wikidata.org/wiki/Q680313)  
+
+### alignments:
+ - [Parco Nazionale dell'Alta Murgia](https://pleiades.stoa.org/places/391973092)
+
+
 ## Alta Semita (Q2198565)
 [https://www.wikidata.org/wiki/Q2198565](https://www.wikidata.org/wiki/Q2198565)  
 
@@ -3602,6 +3609,13 @@
 
 ### alignments:
  - [Roman amphitheater at Paestum](https://pleiades.stoa.org/places/569006287)
+
+
+## Amphitheatre of Pompeii (Q2015116)
+[https://www.wikidata.org/wiki/Q2015116](https://www.wikidata.org/wiki/Q2015116)  
+
+### alignments:
+ - [Amphitheater of Pompeii](https://pleiades.stoa.org/places/379375824)
 
 
 ## Amphitheatre of Sbeitla (Q42760508)
@@ -5765,6 +5779,13 @@
 
 ### alignments:
  - [Andros (settlement)](https://pleiades.stoa.org/places/589692)
+
+
+## Archaeological site of Palamari (Q122501320)
+[https://www.wikidata.org/wiki/Q122501320](https://www.wikidata.org/wiki/Q122501320)  
+
+### alignments:
+ - [Palamari](https://pleiades.stoa.org/places/263405328)
 
 
 ## Archaeological site of Raveni (Q38278958)
@@ -10648,6 +10669,13 @@
  - [Astapous (river)](https://pleiades.stoa.org/places/39298)
 
 
+## Boagrius river (Q60790665)
+[https://www.wikidata.org/wiki/Q60790665](https://www.wikidata.org/wiki/Q60790665)  
+
+### alignments:
+ - [Boagrius (River)](https://pleiades.stoa.org/places/523921684)
+
+
 ## Bobadela amphitheatre (Q25419057)
 [https://www.wikidata.org/wiki/Q28974259](https://www.wikidata.org/wiki/Q28974259)  
 
@@ -13425,6 +13453,13 @@
 
 ### alignments:
  - [House of the Wooden Shrine](https://pleiades.stoa.org/places/342212957)
+
+
+## Casa del Triclinio all'Aperto (Q27685765)
+[https://www.wikidata.org/wiki/Q27685765](https://www.wikidata.org/wiki/Q27685765)  
+
+### alignments:
+ - [House of the outdoor triclinium](https://pleiades.stoa.org/places/670733374)
 
 
 ## Casa dell'Albergo (Q16487712)
@@ -20586,6 +20621,13 @@
  - [Dysoron (mountain)](https://pleiades.stoa.org/places/491582)
 
 
+## Dyspontium (Q3565717)
+[https://www.wikidata.org/wiki/Q3565717](https://www.wikidata.org/wiki/Q3565717)  
+
+### alignments:
+ - [Dyspontion (Pisatis)](https://pleiades.stoa.org/places/329530270)
+
+
 ## Dòmu d’Urxia (Q1270818)
 [https://www.wikidata.org/wiki/Q1270818](https://www.wikidata.org/wiki/Q1270818)  
 
@@ -27278,6 +27320,13 @@
  - [House of Many Colors](https://pleiades.stoa.org/places/170572803)
 
 
+## House of Messius Ampliatus (Q103821441)
+[https://www.wikidata.org/wiki/Q103821441](https://www.wikidata.org/wiki/Q103821441)  
+
+### alignments:
+ - [House of Messius Ampliatus](https://pleiades.stoa.org/places/634179974)
+
+
 ## House of Minucius (Q27070487)
 [https://www.wikidata.org/wiki/Q27070487](https://www.wikidata.org/wiki/Q27070487)  
 
@@ -27367,6 +27416,13 @@
 
 ### alignments:
  - [House of the Faun](https://pleiades.stoa.org/places/876060818)
+
+
+## House of the Four Styles (Q27070461)
+[https://www.wikidata.org/wiki/Q27070461](https://www.wikidata.org/wiki/Q27070461)  
+
+### alignments:
+ - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
 
 
 ## House of the garden of Hercules (Q27685760)
@@ -27486,6 +27542,13 @@
 
 ### alignments:
  - [Domus of Titus Macer](https://pleiades.stoa.org/places/411902357)
+
+
+## House of Trebius Valens (Q27685773)
+[https://www.wikidata.org/wiki/Q27685773](https://www.wikidata.org/wiki/Q27685773)  
+
+### alignments:
+ - [House of Trebius Valens](https://pleiades.stoa.org/places/387880487)
 
 
 ## House of Venus in the shell (Q27685715)
@@ -37164,6 +37227,13 @@
  - [Mithraeum of the Seven Spheres](https://pleiades.stoa.org/places/981681540)
 
 
+## Mitrou (Q6882940)
+[https://www.wikidata.org/wiki/Q6882940](https://www.wikidata.org/wiki/Q6882940)  
+
+### alignments:
+ - [Mitrou](https://pleiades.stoa.org/places/645204824)
+
+
 ## Mitrovica (Q178168)
 [https://www.wikidata.org/wiki/Q178168](https://www.wikidata.org/wiki/Q178168)  
 
@@ -38325,6 +38395,13 @@
 
 ### alignments:
  - [ Murder Loch](https://pleiades.stoa.org/places/465554585)
+
+
+## Murgia (Q1051664)
+[https://www.wikidata.org/wiki/Q1051664](https://www.wikidata.org/wiki/Q1051664)  
+
+### alignments:
+ - [Altopiano delle Murge](https://pleiades.stoa.org/places/391973091)
 
 
 ## Murgia Timone (Q136788507)
@@ -47099,13 +47176,6 @@
  - [Theater at Delphi](https://pleiades.stoa.org/places/333036424)
 
 
-## Q103821441: House of Messius Ampliatus
-[https://www.wikidata.org/wiki/Q103821441](https://www.wikidata.org/wiki/Q103821441)  
-
-### alignments:
- - [House of Messius Ampliatus](https://pleiades.stoa.org/places/634179974)
-
-
 ## Q103824876: Roman theater at Libarna
 [https://www.wikidata.org/wiki/Q103824876](https://www.wikidata.org/wiki/Q103824876)  
 
@@ -52332,13 +52402,6 @@
  - [Scarponna](https://pleiades.stoa.org/places/109329)
 
 
-## Q2015116: Amphitheatre of Pompeii
-[https://www.wikidata.org/wiki/Q2015116](https://www.wikidata.org/wiki/Q2015116)  
-
-### alignments:
- - [Amphitheater of Pompeii](https://pleiades.stoa.org/places/379375824)
-
-
 ## Q20170929: Dolmen of Guadalperal
 [https://www.wikidata.org/wiki/Q20170929](https://www.wikidata.org/wiki/Q20170929)  
 
@@ -53804,13 +53867,6 @@
  - [Caupona and Domus of L. Vetutius Placidus and Ascula](https://pleiades.stoa.org/places/560899635)
 
 
-## Q27070461: House of the Four Styles
-[https://www.wikidata.org/wiki/Q27070461](https://www.wikidata.org/wiki/Q27070461)  
-
-### alignments:
- - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
-
-
 ## Q27070550
 [https://www.wikidata.org/wiki/Q27070550](https://www.wikidata.org/wiki/Q27070550)  
 
@@ -53907,20 +53963,6 @@
 
 ### alignments:
  - [The House of the Masks ](https://pleiades.stoa.org/places/576206943)
-
-
-## Q27685765: Casa del Triclinio all'Aperto
-[https://www.wikidata.org/wiki/Q27685765](https://www.wikidata.org/wiki/Q27685765)  
-
-### alignments:
- - [House of the outdoor triclinium](https://pleiades.stoa.org/places/670733374)
-
-
-## Q27685773: House of Trebius Valens
-[https://www.wikidata.org/wiki/Q27685773](https://www.wikidata.org/wiki/Q27685773)  
-
-### alignments:
- - [House of Trebius Valens](https://pleiades.stoa.org/places/387880487)
 
 
 ## Q27685985
@@ -56299,13 +56341,6 @@
  - [Ager Romanus](https://pleiades.stoa.org/places/607225751)
 
 
-## Q3931878: region II of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931878](https://www.wikidata.org/wiki/Q3931878)  
-
-### alignments:
- - [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
-
-
 ## Q3931881: region IV of the archaeological excavations of Pompeii
 [https://www.wikidata.org/wiki/Q3931881](https://www.wikidata.org/wiki/Q3931881)  
 
@@ -56318,13 +56353,6 @@
 
 ### alignments:
  - [Regio I, Pompeii](https://pleiades.stoa.org/places/222138654)
-
-
-## Q3931890: region V of the archaeological excavations of Pompeii
-[https://www.wikidata.org/wiki/Q3931890](https://www.wikidata.org/wiki/Q3931890)  
-
-### alignments:
- - [Regio V, Pompeii](https://pleiades.stoa.org/places/984330150)
 
 
 ## Q3936300
@@ -61621,6 +61649,13 @@
  - [Regio XIV (Transtiberim)](https://pleiades.stoa.org/places/217953464)
 
 
+## region II of the archaeological excavations of Pompeii (Q3931878)
+[https://www.wikidata.org/wiki/Q3931878](https://www.wikidata.org/wiki/Q3931878)  
+
+### alignments:
+ - [Regio II, Pompeii](https://pleiades.stoa.org/places/456321707)
+
+
 ## region III of the archaeological excavations of Pompeii (Q3931875)
 [https://www.wikidata.org/wiki/Q3931875](https://www.wikidata.org/wiki/Q3931875)  
 
@@ -61633,6 +61668,13 @@
 
 ### alignments:
  - [Regio IX, Pompeii](https://pleiades.stoa.org/places/680072866)
+
+
+## region V of the archaeological excavations of Pompeii (Q3931890)
+[https://www.wikidata.org/wiki/Q3931890](https://www.wikidata.org/wiki/Q3931890)  
+
+### alignments:
+ - [Regio V, Pompeii](https://pleiades.stoa.org/places/984330150)
 
 
 ## region VI of the archaeological excavations of Pompeii (Q3931889)
@@ -67809,6 +67851,13 @@
 
 ### alignments:
  - [Hierasos/Gerasus/Tiarantos? (river)](https://pleiades.stoa.org/places/216837)
+
+
+## Sirhan Valley (Q7530196)
+[https://www.wikidata.org/wiki/Q7530196](https://www.wikidata.org/wiki/Q7530196)  
+
+### alignments:
+ - [Wadi Sirhan](https://pleiades.stoa.org/places/29807)
 
 
 ## Siris (Q2705822)
