@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11517 alignments exist in _Pleiades_ place references as of 2026-10-14. The following list of alignments is grouped by zotkey.
+11519 alignments exist in _Pleiades_ place references as of 2026-10-15. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8043,6 +8043,13 @@
  - [Baebiana](https://pleiades.stoa.org/places/422848)
 
 
+## Baelo Claudia (Q43174653)
+[https://www.wikidata.org/wiki/Q43174653](https://www.wikidata.org/wiki/Q43174653)  
+
+### alignments:
+ - [B(a)elo](https://pleiades.stoa.org/places/256005)
+
+
 ## Baeturia (Q8247313)
 [https://www.wikidata.org/wiki/Q8247313](https://www.wikidata.org/wiki/Q8247313)  
 
@@ -13448,6 +13455,13 @@
  - [House of Menander](https://pleiades.stoa.org/places/690549463)
 
 
+## Casa del Moralista (Q1046568)
+[https://www.wikidata.org/wiki/Q1046568](https://www.wikidata.org/wiki/Q1046568)  
+
+### alignments:
+ - [House of the Moralist](https://pleiades.stoa.org/places/557684935)
+
+
 ## Casa del Sacello di Legno (Q16537543)
 [https://www.wikidata.org/wiki/Q16537543](https://www.wikidata.org/wiki/Q16537543)  
 
@@ -13530,6 +13544,13 @@
 
 ### alignments:
  - [Casa di Championnet](https://pleiades.stoa.org/places/850575919)
+
+
+## Casa di Giulio Polibio (Q27688620)
+[https://www.wikidata.org/wiki/Q27688620](https://www.wikidata.org/wiki/Q27688620)  
+
+### alignments:
+ - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
 
 
 ## Casa di Pane (Q27688146)
@@ -23472,6 +23493,13 @@
  - [funeral monuments of the Via Iulia Augusta](https://pleiades.stoa.org/places/431472222)
 
 
+## Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason (Q141735488)
+[https://www.wikidata.org/wiki/Q141735488](https://www.wikidata.org/wiki/Q141735488)  
+
+### alignments:
+ - [Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason](https://pleiades.stoa.org/places/811119038)
+
+
 ## Funerary monuments in piazza del Corso (Q3862596)
 [https://www.wikidata.org/wiki/Q3862596](https://www.wikidata.org/wiki/Q3862596)  
 
@@ -27262,6 +27290,13 @@
 
 ### alignments:
  - [House of Flavius Germanus](https://pleiades.stoa.org/places/814800402)
+
+
+## House of Hylas (Q106693288)
+[https://www.wikidata.org/wiki/Q106693288](https://www.wikidata.org/wiki/Q106693288)  
+
+### alignments:
+ - [House of Hylas at Italica](https://pleiades.stoa.org/places/634946753)
 
 
 ## House of Julia Felix (Q5915068)
@@ -46924,13 +46959,6 @@
  - [Roman theater of Guelma](https://pleiades.stoa.org/places/646043396)
 
 
-## Q101245946: Villa Adriana, Pecile
-[https://www.wikidata.org/wiki/Q101245946](https://www.wikidata.org/wiki/Q101245946)  
-
-### alignments:
- - [Pecile at Hadrian's Villa](https://pleiades.stoa.org/places/781209675)
-
-
 ## Q1013648: Letopolis
 [https://www.wikidata.org/wiki/Q1013648](https://www.wikidata.org/wiki/Q1013648)  
 
@@ -47230,13 +47258,6 @@
 
 ### alignments:
  - [Sabratha amphitheater](https://pleiades.stoa.org/places/648366268)
-
-
-## Q1046568: Casa del Moralista
-[https://www.wikidata.org/wiki/Q1046568](https://www.wikidata.org/wiki/Q1046568)  
-
-### alignments:
- - [House of the Moralist](https://pleiades.stoa.org/places/557684935)
 
 
 ## Q104834170: Tell Ras Budran
@@ -54077,13 +54098,6 @@
  - [Central Baths](https://pleiades.stoa.org/places/335494560)
 
 
-## Q27688620: Casa di Giulio Polibio
-[https://www.wikidata.org/wiki/Q27688620](https://www.wikidata.org/wiki/Q27688620)  
-
-### alignments:
- - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
-
-
 ## Q2777464: Gibton
 [https://www.wikidata.org/wiki/Q2777464](https://www.wikidata.org/wiki/Q2777464)  
 
@@ -56837,13 +56851,6 @@
 
 ### alignments:
  - [Civita](https://pleiades.stoa.org/places/413084)
-
-
-## Q43174653: Baelo Claudia
-[https://www.wikidata.org/wiki/Q43174653](https://www.wikidata.org/wiki/Q43174653)  
-
-### alignments:
- - [B(a)elo](https://pleiades.stoa.org/places/256005)
 
 
 ## Q43176182: House of the Mitreo
@@ -77973,6 +77980,13 @@
 
 ### alignments:
  - [Herios (river)](https://pleiades.stoa.org/places/138384)
+
+
+## Villa Adriana, Pecile (Q101245946)
+[https://www.wikidata.org/wiki/Q101245946](https://www.wikidata.org/wiki/Q101245946)  
+
+### alignments:
+ - [Pecile at Hadrian's Villa](https://pleiades.stoa.org/places/781209675)
 
 
 ## Villa Aldobrandini (Q748743)
