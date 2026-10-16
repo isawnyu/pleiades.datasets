@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11519 alignments exist in _Pleiades_ place references as of 2026-10-15. The following list of alignments is grouped by zotkey.
+11530 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4164,6 +4164,13 @@
  - [Heumen-Heumensoord](https://pleiades.stoa.org/places/109045)
 
 
+## Ancient theater of Chaeronea (Q38281812)
+[https://www.wikidata.org/wiki/Q38281812](https://www.wikidata.org/wiki/Q38281812)  
+
+### alignments:
+ - [Ancient Theater of Chaeronea](https://pleiades.stoa.org/places/388668362)
+
+
 ## Ancient theater of Tarquimpol (Q115799274)
 [https://www.wikidata.org/wiki/Q115799274](https://www.wikidata.org/wiki/Q115799274)  
 
@@ -4876,6 +4883,13 @@
 
 ### alignments:
  - [Aphrodisias](https://pleiades.stoa.org/places/638753)
+
+
+## Aphrodisias Hadrian Baths (Q131738906)
+[https://www.wikidata.org/wiki/Q131738906](https://www.wikidata.org/wiki/Q131738906)  
+
+### alignments:
+ - [Hadrianic Baths](https://pleiades.stoa.org/places/38314636)
 
 
 ## Aphrodisias of Cilicia (Q4779720)
@@ -7399,6 +7413,13 @@
  - [Augusta/Augustopolis/[Thebae]?](https://pleiades.stoa.org/places/648577)
 
 
+## Augusta Bagiennorum (Q3629554)
+[https://www.wikidata.org/wiki/Q3629554](https://www.wikidata.org/wiki/Q3629554)  
+
+### alignments:
+ - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
+
+
 ## Augusta Bagiennorum amphitheatre (Q28977997)
 [https://www.wikidata.org/wiki/Q28977997](https://www.wikidata.org/wiki/Q28977997)  
 
@@ -7406,11 +7427,25 @@
  - [Augusta Bagiennorum amphitheater](https://pleiades.stoa.org/places/950560042)
 
 
+## Augusta Praetoria Salassorum (Q2736059)
+[https://www.wikidata.org/wiki/Q2736059](https://www.wikidata.org/wiki/Q2736059)  
+
+### alignments:
+ - [Augusta Praetoria](https://pleiades.stoa.org/places/383579)
+
+
 ## Augusta Raurica (Q610371)
 [https://www.wikidata.org/wiki/Q610371](https://www.wikidata.org/wiki/Q610371)  
 
 ### alignments:
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
+
+
+## Augusta Suessionum (Q4820973)
+[https://www.wikidata.org/wiki/Q4820973](https://www.wikidata.org/wiki/Q4820973)  
+
+### alignments:
+ - [Augusta Suessionum](https://pleiades.stoa.org/places/108772)
 
 
 ## Augusta Taurinorum (Q11907223)
@@ -7446,6 +7481,13 @@
 
 ### alignments:
  - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
+
+
+## Augusta Viromanduorum (Q940173)
+[https://www.wikidata.org/wiki/Q940173](https://www.wikidata.org/wiki/Q940173)  
+
+### alignments:
+ - [Augusta Viromanduorum](https://pleiades.stoa.org/places/108774)
 
 
 ## Augustales (Q62113190)
@@ -13441,6 +13483,13 @@
  - [Casa del Gemmarius](https://pleiades.stoa.org/places/22263644)
 
 
+## Casa del Larario Fiorito (Q27685764)
+[https://www.wikidata.org/wiki/Q27685764](https://www.wikidata.org/wiki/Q27685764)  
+
+### alignments:
+ - [House of the Floral Lararium](https://pleiades.stoa.org/places/51352111)
+
+
 ## Casa Del Marinaio (Q27687907)
 [https://www.wikidata.org/wiki/Q27687907](https://www.wikidata.org/wiki/Q27687907)  
 
@@ -13740,6 +13789,13 @@
 
 ### alignments:
  - [Kakyparis (river)](https://pleiades.stoa.org/places/462265)
+
+
+## Castabala (Q948243)
+[https://www.wikidata.org/wiki/Q948243](https://www.wikidata.org/wiki/Q948243)  
+
+### alignments:
+ - [Hierapolis/Kastabala](https://pleiades.stoa.org/places/658481)
 
 
 ## Castalian Spring (Q152348)
@@ -21621,6 +21677,13 @@
 
 ### alignments:
  - [(Epi)Delion](https://pleiades.stoa.org/places/570230)
+
+
+## Epiphania, Cilicia (Q1347187)
+[https://www.wikidata.org/wiki/Q1347187](https://www.wikidata.org/wiki/Q1347187)  
+
+### alignments:
+ - [Oeniandos/Epiphaneia](https://pleiades.stoa.org/places/658556)
 
 
 ## Epirote League (Q3240682)
@@ -39979,6 +40042,13 @@
  - [Normandykes](https://pleiades.stoa.org/places/48616465)
 
 
+## North Agora of Aphrodisias (Q141742808)
+[https://www.wikidata.org/wiki/Q141742808](https://www.wikidata.org/wiki/Q141742808)  
+
+### alignments:
+ - [North Agora](https://pleiades.stoa.org/places/326045393)
+
+
 ## North Atlantic Ocean (Q350134)
 [https://www.wikidata.org/wiki/Q350134](https://www.wikidata.org/wiki/Q350134)  
 
@@ -41510,6 +41580,13 @@
 
 ### alignments:
  - [Oppidum de Conrouan](https://pleiades.stoa.org/places/456339119)
+
+
+## oppidum of Pommiers (Q108908532)
+[https://www.wikidata.org/wiki/Q108908532](https://www.wikidata.org/wiki/Q108908532)  
+
+### alignments:
+ - [Pommiers oppidum](https://pleiades.stoa.org/places/109216)
 
 
 ## oppidum of Villejoubert (Q19945498)
@@ -44145,6 +44222,13 @@
  - [Plavis (river)](https://pleiades.stoa.org/places/393475)
 
 
+## Piazza d'Oro (Q100798503)
+[https://www.wikidata.org/wiki/Q100798503](https://www.wikidata.org/wiki/Q100798503)  
+
+### alignments:
+ - [Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
+
+
 ## Piazza di Monte Savello (Q28060715)
 [https://www.wikidata.org/wiki/Q28060715](https://www.wikidata.org/wiki/Q28060715)  
 
@@ -45706,6 +45790,13 @@
  - [Porta Saracena](https://pleiades.stoa.org/places/14626469)
 
 
+## Porta Sarno (Q138655328)
+[https://www.wikidata.org/wiki/Q138655328](https://www.wikidata.org/wiki/Q138655328)  
+
+### alignments:
+ - [Porta Sarno](https://pleiades.stoa.org/places/319881459)
+
+
 ## Porta Settimiana (Q1422040)
 [https://www.wikidata.org/wiki/Q1422040](https://www.wikidata.org/wiki/Q1422040)  
 
@@ -46936,13 +47027,6 @@
 
 ### alignments:
  - [Dekeleia](https://pleiades.stoa.org/places/579907)
-
-
-## Q100798503: Piazza d'Oro
-[https://www.wikidata.org/wiki/Q100798503](https://www.wikidata.org/wiki/Q100798503)  
-
-### alignments:
- - [Piazza d'Oro at Hadrian's Villa](https://pleiades.stoa.org/places/379689233)
 
 
 ## Q101003862
@@ -50403,7 +50487,7 @@
 [https://www.wikidata.org/wiki/Q1539735](https://www.wikidata.org/wiki/Q1539735)  
 
 ### alignments:
- - [Untitled](https://pleiades.stoa.org/places/109479)
+ - [Unnamed aqueduct (Ruwertal-Wasserleitung)](https://pleiades.stoa.org/places/109479)
 
 
 ## Q1541068: largo di Torre Argentina
@@ -54904,13 +54988,6 @@
  - [Hermopolis](https://pleiades.stoa.org/places/727122)
 
 
-## Q3138: Trier
-[https://www.wikidata.org/wiki/Q3138](https://www.wikidata.org/wiki/Q3138)  
-
-### alignments:
- - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
-
-
 ## Q317060: Altmühl
 [https://www.wikidata.org/wiki/Q317060](https://www.wikidata.org/wiki/Q317060)  
 
@@ -55689,13 +55766,6 @@
  - [Auditorium Maecenatis](https://pleiades.stoa.org/places/866548110)
 
 
-## Q3629554: Augusta Bagiennorum
-[https://www.wikidata.org/wiki/Q3629554](https://www.wikidata.org/wiki/Q3629554)  
-
-### alignments:
- - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
-
-
 ## Q3632901: Baths of Nero
 [https://www.wikidata.org/wiki/Q3632901](https://www.wikidata.org/wiki/Q3632901)  
 
@@ -56108,13 +56178,6 @@
 
 ### alignments:
  - [Methymna](https://pleiades.stoa.org/places/550738)
-
-
-## Q38281812: Ancient theater of Chaeronea
-[https://www.wikidata.org/wiki/Q38281812](https://www.wikidata.org/wiki/Q38281812)  
-
-### alignments:
- - [Ancient Theater of Chaeronea](https://pleiades.stoa.org/places/388668362)
 
 
 ## Q38283240: Cave of Caiada
@@ -58021,13 +58084,6 @@
 
 ### alignments:
  - [Memphis](https://pleiades.stoa.org/places/736963)
-
-
-## Q5717423: Roman thermae in Alange
-[https://www.wikidata.org/wiki/Q5717423](https://www.wikidata.org/wiki/Q5717423)  
-
-### alignments:
- - [Roman bath at Alange](https://pleiades.stoa.org/places/386745968)
 
 
 ## Q57357: Hadrian's Wall
@@ -60611,13 +60667,6 @@
 
 ### alignments:
  - [Tomb of Horemheb (KV57)](https://pleiades.stoa.org/places/380628162)
-
-
-## Q948243: Castabala
-[https://www.wikidata.org/wiki/Q948243](https://www.wikidata.org/wiki/Q948243)  
-
-### alignments:
- - [Hierapolis/Kastabala](https://pleiades.stoa.org/places/658481)
 
 
 ## Q951149
@@ -63512,6 +63561,13 @@
  - [Roman theater at Fiesole](https://pleiades.stoa.org/places/488345053)
 
 
+## Roman thermae in Alange (Q5717423)
+[https://www.wikidata.org/wiki/Q5717423](https://www.wikidata.org/wiki/Q5717423)  
+
+### alignments:
+ - [Roman bath at Alange](https://pleiades.stoa.org/places/386745968)
+
+
 ## Roman Thermae in Varna (Q12292389)
 [https://www.wikidata.org/wiki/Q12292389](https://www.wikidata.org/wiki/Q12292389)  
 
@@ -63566,6 +63622,13 @@
 
 ### alignments:
  - [Langton](https://pleiades.stoa.org/places/89223)
+
+
+## Roman villa (site of) 330yds (300m) N of Ninesprings (Q17645501)
+[https://www.wikidata.org/wiki/Q17645501](https://www.wikidata.org/wiki/Q17645501)  
+
+### alignments:
+ - [Wymondley Roman Villa](https://pleiades.stoa.org/places/432329375)
 
 
 ## Roman villa 200m east of Howletts (Q17674063)
@@ -70741,6 +70804,13 @@
  - [Sulaiymah](https://pleiades.stoa.org/places/489043288)
 
 
+## Tell Suraysur (Q141740747)
+[https://www.wikidata.org/wiki/Q141740747](https://www.wikidata.org/wiki/Q141740747)  
+
+### alignments:
+ - [Tell Suraysur](https://pleiades.stoa.org/places/894153)
+
+
 ## Tell Taya (Q7697518)
 [https://www.wikidata.org/wiki/Q7697518](https://www.wikidata.org/wiki/Q7697518)  
 
@@ -75207,6 +75277,13 @@
 
 ### alignments:
  - [Trident(i)um](https://pleiades.stoa.org/places/383804)
+
+
+## Trier (Q3138)
+[https://www.wikidata.org/wiki/Q3138](https://www.wikidata.org/wiki/Q3138)  
+
+### alignments:
+ - [Col. Augusta Treverorum](https://pleiades.stoa.org/places/108894)
 
 
 ## Trier (Samian Ware Discovery Site) (Q103198266)

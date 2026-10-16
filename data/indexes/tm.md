@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5199 alignments exist in _Pleiades_ place references as of 2026-10-15. The following list of alignments is grouped by zotkey.
+5199 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1132,13 +1132,6 @@
 
 ### alignments:
  - [Ain Ris](https://pleiades.stoa.org/places/716516)
-
-
-## Geo 31715: Augusta Bagiennorum (Bene Vagienna)
-[http://www.trismegistos.org/place/31715](http://www.trismegistos.org/place/31715)  
-
-### alignments:
- - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
 
 
 ## Geo 3217 Apameia (Qala’at el-Medik)
@@ -16714,6 +16707,13 @@
 
 ### alignments:
  - [Pachoras](https://pleiades.stoa.org/places/795838)
+
+
+## GEO ID 31715: Augusta Bagiennorum (Bene Vagienna)
+[http://www.trismegistos.org/place/31715](http://www.trismegistos.org/place/31715)  
+
+### alignments:
+ - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
 
 
 ## GEO ID 3172: Pakerkeesis

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5169 alignments exist in _Pleiades_ place references as of 2026-10-15. The following list of alignments is grouped by zotkey.
+5175 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -5697,6 +5697,13 @@
  - [Aufidus (river)](https://pleiades.stoa.org/places/442485)
 
 
+## Augusta (Cilicia)
+[https://topostext.org/place/372353UAug](https://topostext.org/place/372353UAug)  
+
+### alignments:
+ - [Augusta/Augustopolis/[Thebae]?](https://pleiades.stoa.org/places/648577)
+
+
 ## Augusta (Gallia)
 [https://topostext.org/place/447051UAug](https://topostext.org/place/447051UAug)  
 
@@ -5709,6 +5716,13 @@
 
 ### alignments:
  - [Augusta](https://pleiades.stoa.org/places/167659)
+
+
+## Augusta Bagiennorum (Italy)
+[https://topostext.org/place/44679UAug](https://topostext.org/place/44679UAug)  
+
+### alignments:
+ - [Augusta Bagiennorum](https://pleiades.stoa.org/places/383578)
 
 
 ## Augusta Emerita (Iberia)
@@ -5732,6 +5746,13 @@
  - [Col. Augusta Raurica](https://pleiades.stoa.org/places/177494)
 
 
+## Augusta Suessionum (Gallia) 17 Soissons
+[https://topostext.org/place/494033UAug](https://topostext.org/place/494033UAug)  
+
+### alignments:
+ - [Augusta Suessionum](https://pleiades.stoa.org/places/108772)
+
+
 ## Augusta Taurinorum (Italy)
 [https://topostext.org/place/45177UAug](https://topostext.org/place/45177UAug)  
 
@@ -5751,6 +5772,13 @@
 
 ### alignments:
  - [Augusta Vindelicum/Aelia Augusta](https://pleiades.stoa.org/places/118580)
+
+
+## Augusta Viromanduorum (Gallia) 9 Saint-Quentin
+[https://topostext.org/place/498033UAVi](https://topostext.org/place/498033UAVi)  
+
+### alignments:
+ - [Augusta Viromanduorum](https://pleiades.stoa.org/places/108774)
 
 
 ## Augustobona Tricassium (Gallia)
@@ -6844,6 +6872,13 @@
 
 ### alignments:
  - [Bormiskos](https://pleiades.stoa.org/places/501380)
+
+
+## Borsippa (Babylonia) 6 Birs Nimrud
+[https://topostext.org/place/324443UBor](https://topostext.org/place/324443UBor)  
+
+### alignments:
+ - [Borsippa/Burs](https://pleiades.stoa.org/places/893964)
 
 
 ## Borysthenes R. (Pontus) 93 Dniepr R. - Βορυσθένης
@@ -11317,6 +11352,13 @@
 
 ### alignments:
  - [Epikephisia](https://pleiades.stoa.org/places/579922)
+
+
+## Epiphaneia (Cilicia)
+[https://topostext.org/place/370361UEpi](https://topostext.org/place/370361UEpi)  
+
+### alignments:
+ - [Oeniandos/Epiphaneia](https://pleiades.stoa.org/places/658556)
 
 
 ## Epiphaneia/Hamath/Amathe (Syria)
