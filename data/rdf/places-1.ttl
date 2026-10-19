@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 0,2
-# Date: 2026/10/11 06:57:57.222166 GMT-4
+# Date: 2026/10/18 06:58:27.254554 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 334086
+# Triple count: 334349
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -6387,12 +6387,13 @@
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/108774> .
 
 <https://pleiades.stoa.org/places/108774/augusta-viromanduorum> dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "";
-    dcterms:modified "2012-02-14T17:08:44-04:00";
+    dcterms:modified "2026-10-15T10:27:35-04:00";
     dcterms:title "Augusta Viromanduorum";
     owl:sameAs <http://pleiades.stoa.org/places/108774/augusta-viromanduorum> .
 
@@ -18226,11 +18227,6 @@
     dcterms:title "Sturii";
     owl:sameAs <http://pleiades.stoa.org/places/109354/sturii> .
 
-<https://pleiades.stoa.org/places/109356%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Suessiones";
-    rdfs:comment "The Suessiones were a Belgic tribe located in what is now western Belgium.";
-    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/109356> .
-
 <https://pleiades.stoa.org/places/109356/batlas-map-label-location> dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Richard Talbert" ],
         <https://pleiades.stoa.org/author/mheubel>,
@@ -20693,6 +20689,12 @@
     dcterms:title "DARE Location";
     owl:sameAs <http://pleiades.stoa.org/places/109479/dare-location> .
 
+<https://pleiades.stoa.org/places/109479/osm-location-of-rapmische-wasserleitung> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-10-16T05:43:03-04:00";
+    dcterms:title "OSM location of Römische Wasserleitung";
+    owl:sameAs <http://pleiades.stoa.org/places/109479/osm-location-of-rapmische-wasserleitung> .
+
 <https://pleiades.stoa.org/places/109480%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Untitled";
     rdfs:comment "An ancient place, cited: BAtlas 11 I3 unnamed aqueduct (Mogontiacum)";
@@ -20721,20 +20723,31 @@
 
 <https://pleiades.stoa.org/places/109708136%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Casa delle Grazie";
+    spatial:C <https://pleiades.stoa.org/places/538911200%23this>;
     rdfs:comment "Dwelling in Pompeii excavated in 1817, 1838.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/109708136> .
 
 <https://pleiades.stoa.org/places/109708136/apothecaries-house> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "";
-    dcterms:modified "2026-09-14T10:54:06-04:00";
+    dcterms:modified "2026-10-14T13:59:58-04:00";
     dcterms:title "Apothecaries House";
     owl:sameAs <http://pleiades.stoa.org/places/109708136/apothecaries-house> .
 
 <https://pleiades.stoa.org/places/109708136/casa-del-cerusico> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "";
-    dcterms:modified "2026-09-14T10:54:06-04:00";
+    dcterms:modified "2026-10-14T13:59:58-04:00";
     dcterms:title "Casa del Cerusico";
     owl:sameAs <http://pleiades.stoa.org/places/109708136/casa-del-cerusico> .
+
+<https://pleiades.stoa.org/places/109708136/p-lod-location> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/acampbell>,
+        <https://pleiades.stoa.org/author/sebs>;
+    dcterms:description "Representative location derived from coordinates from PALP Geojson.";
+    dcterms:modified "2026-10-14T13:59:58-04:00";
+    dcterms:title "P-LOD Location";
+    owl:sameAs <http://pleiades.stoa.org/places/109708136/p-lod-location> .
 
 <https://pleiades.stoa.org/places/109791198%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Temple of Zeus at Nemea";
@@ -26213,6 +26226,13 @@
     dcterms:modified "2012-02-14T17:16:04-04:00";
     dcterms:title "DARMC location 7718";
     owl:sameAs <http://pleiades.stoa.org/places/118665/darmc-location-7718> .
+
+<https://pleiades.stoa.org/places/118665/emerkingen> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern German toponym designating the Roman period fort site.";
+    dcterms:modified "2026-10-13T16:07:53-04:00";
+    dcterms:title "Emerkingen";
+    owl:sameAs <http://pleiades.stoa.org/places/118665/emerkingen> .
 
 <https://pleiades.stoa.org/places/118667%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Erding";
@@ -34929,9 +34949,16 @@
     rdfs:comment "The Crowdundle Beck is a small river that is a tributary of the River Eden.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/12364848> .
 
+<https://pleiades.stoa.org/places/12364848/crowdundle-beck> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern English toponym designating the river and drainage tributary.";
+    dcterms:modified "2026-10-13T13:42:07-04:00";
+    dcterms:title "Crowdundle Beck";
+    owl:sameAs <http://pleiades.stoa.org/places/12364848/crowdundle-beck> .
+
 <https://pleiades.stoa.org/places/12364848/osm-location-of-crowdundle-beck> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Location based on OpenStreetMap";
-    dcterms:modified "2022-04-13T17:46:57-04:00";
+    dcterms:modified "2026-10-13T13:13:32-04:00";
     dcterms:title "OSM location of Crowdundle Beck";
     owl:sameAs <http://pleiades.stoa.org/places/12364848/osm-location-of-crowdundle-beck> .
 
@@ -41378,6 +41405,13 @@
     dcterms:modified "2026-07-16T21:15:48-04:00";
     dcterms:title "OSM location of Roman Fort Zawiyet el-Agdab";
     owl:sameAs <http://pleiades.stoa.org/places/136714002/osm-location-of-roman-fort-zawiyet-el-agdab> .
+
+<https://pleiades.stoa.org/places/136714002/zawiyet-el-agdab> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern romanized Arabic toponym designating the fortified Roman outpost in northwestern Egypt.";
+    dcterms:modified "2026-10-15T15:45:56-04:00";
+    dcterms:title "Zawiyet el-Agdab";
+    owl:sameAs <http://pleiades.stoa.org/places/136714002/zawiyet-el-agdab> .
 
 <https://pleiades.stoa.org/places/13728494%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Cerne (island)";
@@ -59941,6 +59975,13 @@
     dcterms:title "DARMC location 6718";
     owl:sameAs <http://pleiades.stoa.org/places/148106/darmc-location-6718> .
 
+<https://pleiades.stoa.org/places/148106/lanuejols> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern French toponym designating the Late Antique period monument and temple site.";
+    dcterms:modified "2026-10-16T18:48:45-04:00";
+    dcterms:title "Lanuéjols";
+    owl:sameAs <http://pleiades.stoa.org/places/148106/lanuejols> .
+
 <https://pleiades.stoa.org/places/148107/dare-location> dcterms:creator <https://pleiades.stoa.org/author/jahlfeldt>;
     dcterms:description "Representative point location, site precision";
     dcterms:modified "2012-10-20T15:20:24-04:00";
@@ -61002,6 +61043,13 @@
     dcterms:modified "2012-02-14T17:30:28-04:00";
     dcterms:title "DARMC location 17565";
     owl:sameAs <http://pleiades.stoa.org/places/148162/darmc-location-17565> .
+
+<https://pleiades.stoa.org/places/148162/psalmodi> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern French toponym designating the Late Antique period villa site.";
+    dcterms:modified "2026-10-16T05:28:48-04:00";
+    dcterms:title "Psalmodi";
+    owl:sameAs <http://pleiades.stoa.org/places/148162/psalmodi> .
 
 <https://pleiades.stoa.org/places/148163%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Puyloubier";
@@ -62629,6 +62677,13 @@
     dcterms:title "OSM location of Maen Castle";
     owl:sameAs <http://pleiades.stoa.org/places/149003409/location-of-maen-castle-hill-fort> .
 
+<https://pleiades.stoa.org/places/149003409/maen-castle> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern descriptive English toponym designating the Iron Age promontory fort in Cornwall.";
+    dcterms:modified "2026-10-14T15:38:27-04:00";
+    dcterms:title "Maen Castle";
+    owl:sameAs <http://pleiades.stoa.org/places/149003409/maen-castle> .
+
 <https://pleiades.stoa.org/places/149334673%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Fortunatae Insulae (Canary Islands)";
     spatial:C <https://pleiades.stoa.org/places/440618978%23this>,
@@ -62796,6 +62851,13 @@
     dcterms:modified "2023-04-04T17:35:32-04:00";
     dcterms:title "OSM location of Pont Flavien";
     owl:sameAs <http://pleiades.stoa.org/places/149499/location-of-pont-flavien> .
+
+<https://pleiades.stoa.org/places/149499/pont-flavien> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern French toponym designating the Roman period bridge site.";
+    dcterms:modified "2026-10-12T17:51:43-04:00";
+    dcterms:title "Pont Flavien";
+    owl:sameAs <http://pleiades.stoa.org/places/149499/pont-flavien> .
 
 <https://pleiades.stoa.org/places/149500%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Pont Julien";
@@ -78286,6 +78348,13 @@
     rdfs:label "Grotte di Seiano a Pietramelara";
     rdfs:comment "A ruined, terraced megalithic complex covering about 900 square meters. The complex likely dates to the second century B.C. and was destroyed in the time of Sulla. Scholars interpret the complex as a Samnite sanctuary.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/170427487> .
+
+<https://pleiades.stoa.org/places/170427487/grotte-di-seiano-a-pietramelara> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern descriptive Italian toponym designating the Hellenistic megalithic complex and rural sanctuary.";
+    dcterms:modified "2026-10-14T15:38:40-04:00";
+    dcterms:title "Grotte di Seiano a Pietramelara";
+    owl:sameAs <http://pleiades.stoa.org/places/170427487/grotte-di-seiano-a-pietramelara> .
 
 <https://pleiades.stoa.org/places/170427487/osm-location-of-grotte-di-seiano> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Representative location based on OpenStreetMap";
@@ -109189,6 +109258,7 @@
 <https://pleiades.stoa.org/places/1001941%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Palaestina III (late Roman province)";
     spatial:C <https://pleiades.stoa.org/places/1001136%23this>,
+        <https://pleiades.stoa.org/places/687892%23this>,
         <https://pleiades.stoa.org/places/687985%23this>,
         <https://pleiades.stoa.org/places/697725%23this>,
         <https://pleiades.stoa.org/places/746813%23this>,
@@ -114217,19 +114287,26 @@
 
 <https://pleiades.stoa.org/places/108774> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 11 D3 Augusta Viromanduorum",
+    dcterms:bibliographicCitation "BAtlas 11 D3 Augusta Viromanduorum",
         "CIL VI, 32551",
+        "EDH Geographic Database G001727: Saint-Quentin",
         "ItAnt (Cuntz) 379,4 Augusta Veromandorum",
         "ItMiller 63",
-        "New Pauly Augusta [10]",
+        "KU TP Database (Rathmann) 3032: Augusta Viromanduorum",
+        "New Pauly Augusta [10] A. Viromanduorum (M. Strothmann et al.)",
         "PECS (Perseus) SAINT-QUENTIN (“Augusta Vermanduorum”) Aisne, France",
+        "RE Augusta 24 (Maximilian Ihm)",
+        "RFO 240",
         "TIR Lutetia 162-63",
         "TP (Talbert: CUP) 1A3 (Talbert 598)",
+        "ToposText Augusta Viromanduorum (Gallia) 9 Saint-Quentin",
         "VillesGB 245-58",
-        "Wikipedia (English) Augusta Viromanduorum";
+        "Wikidata Augusta Viromanduorum (Q940173)",
+        "Wikipedia (English) Augusta Viromanduorum",
+        "vici.org 11954: Augusta Viromanduorum";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -114238,24 +114315,30 @@
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "Augusta Viromanduorum was a Roman settlement that replaced a pre-Roman oppidum of the Viromandui.";
-    dcterms:modified "2024-08-21T20:26:02-04:00";
+    dcterms:modified "2026-10-15T10:27:36-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Augusta Viromanduorum";
     cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace598.html>;
-    cito:citesAsRelated <http://francia.ahlfeldt.se/places/240>;
-    cito:citesForInformation <http://referenceworks.brillonline.com/entries/brill-s-new-pauly/augusta-e208550%23e12220020>,
-        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=saint-quentin>,
+    cito:citesAsRelated <http://francia.ahlfeldt.se/places/240>,
+        <https://edh.ub.uni-heidelberg.de/edh/geographie/G001727>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=3032>,
+        <https://vici.org/vici/11954/>,
+        <https://www.wikidata.org/wiki/Q940173>;
+    cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=saint-quentin>,
         <http://www.worldcat.org/oclc/43970336>,
         <http://www.worldcat.org/oclc/6684340>,
         <http://www.worldcat.org/oclc/758914364>,
         <http://www.worldcat.org/oclc/936644063>,
+        <https://de.wikisource.org/wiki/RE:Augusta_24>,
+        <https://doi.org/10.1163/1574-9347_bnp_e208550>,
         <https://en.wikipedia.org/wiki/Augusta_Viromanduorum>,
+        <https://topostext.org/place/498033UAVi>,
         <https://www.zotero.org/groups/pleiades/items/JCY8WN8B>,
         <https://www.zotero.org/groups/pleiades/items/YHK5PPF3>;
     owl:sameAs <http://pleiades.stoa.org/places/108774>;
-    skos:altLabel "Augusta Viromanduorum",
+    skos:altLabel "Augusta Viromanduorum"@la,
         "Saint-Quentin";
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 D3 Augusta Viromanduorum" ];
@@ -120280,7 +120363,7 @@
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "An ancient place, cited: BAtlas 11 B3 Guiry-Gadancourt";
-    dcterms:modified "2026-09-24T14:25:54-04:00";
+    dcterms:modified "2026-10-17T04:25:14-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=villa",
         "dare:major=0";
@@ -128089,40 +128172,11 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-map-label-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/sturii> .
 
-<https://pleiades.stoa.org/places/109356> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "BAtlas 11 C3 Suessiones",
-        "Plin., NH (Mayhoff: PHI) 4.106.5",
-        "TIR Lutetia 174",
-        "Wikidata Suessiones (Q1196925)",
-        "Wikipedia (English) Suessiones";
-    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "Richard Talbert" ],
-        <http://viaf.org/viaf/59162760>,
-        <https://pleiades.stoa.org/author/jbecker>,
-        <https://pleiades.stoa.org/author/mheubel>,
-        <https://pleiades.stoa.org/author/rmhorne>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:creator <http://viaf.org/viaf/19802204>,
-        <http://viaf.org/viaf/93262206>;
-    dcterms:description "The Suessiones were a Belgic tribe located in what is now western Belgium.";
-    dcterms:modified "2024-11-24T00:58:25-04:00";
-    dcterms:title "Suessiones";
-    cito:citesAsEvidence <http://latin.packhum.org/loc/978/1/310/771-781>;
-    cito:citesAsRelated <https://www.wikidata.org/wiki/Q1196925>;
-    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
-        <http://www.worldcat.org/oclc/758914364>,
-        <https://en.wikipedia.org/wiki/Suessiones>;
-    owl:sameAs <http://pleiades.stoa.org/places/109356>;
-    geo:lat 49.4851324811;
-    geo:long 3.22945917946;
-    skos:altLabel "Suessiones"@la;
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 C3 Suessiones" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/people>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-map-label-location>;
-    pleiades:hasName <https://pleiades.stoa.org/places/suessiones> .
+<https://pleiades.stoa.org/places/109356%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Suessiones";
+    spatial:C <https://pleiades.stoa.org/places/108772%23this>;
+    rdfs:comment "The Suessiones were a Belgic tribe located in what is now western Belgium.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/109356> .
 
 <https://pleiades.stoa.org/places/109357> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -131015,7 +131069,7 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/undetermined> .
 
 <https://pleiades.stoa.org/places/109479%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Untitled";
+    rdfs:label "Unnamed aqueduct (Ruwertal-Wasserleitung)";
     spatial:C <https://pleiades.stoa.org/places/108894%23this>;
     rdfs:comment "An ancient place, cited: BAtlas 11 G3 unnamed aqueduct (Ruwertal-Wasserleitung, at Col. Augusta Treverorum)";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/109479> .
@@ -131070,22 +131124,39 @@
 
 <https://pleiades.stoa.org/places/109708136> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "MANTO 11320058: Casa delle Grazie VIII 3, 10-12 (Pompeii)",
+    dcterms:bibliographicCitation "Arachne Casa VIII 3, 10-12 sog. Casa delle Grazie Pompei, Italien, Europa",
+        "MANTO 11320058: Casa delle Grazie VIII 3, 10-12 (Pompeii)",
         "PALP Property VIII.3.11",
-        "PompeiiinPictures VIII.3.12 Pompeii. Rear entrance to Workshop and dwelling of Casa delle Grazie";
+        "PompeiiinPictures VIII.3.12 Pompeii. Rear entrance to Workshop and dwelling of Casa delle Grazie",
+        "Wikidata Casa delle Grazie (Q27688118)",
+        "iDAI.gazetteer 2117143: Casa VIII 3, 10-12 sog. Casa delle Grazie";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "Dwelling in Pompeii excavated in 1817, 1838.";
-    dcterms:modified "2026-09-14T10:54:06-04:00";
+    dcterms:modified "2026-10-14T13:59:58-04:00";
     dcterms:title "Casa delle Grazie";
-    cito:citesAsRelated <https://resource.manto.unh.edu/11320058>;
+    cito:citesAsRelated <https://arachne.dainst.org/entity/1213030>,
+        <https://gazetteer.dainst.org/place/2117143>,
+        <https://resource.manto.unh.edu/11320058>,
+        <https://www.wikidata.org/wiki/Q27688118>;
     cito:citesForInformation <https://palp.art/browse/%23r8-i3-p11?map-lat=40.749138&map-lng=14.485995&map-z=19.00>,
         <https://pompeiiinpictures.com/pompeiiinpictures/R8/8%252003%252012.htm>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/538911200>;
     owl:sameAs <http://pleiades.stoa.org/places/109708136>;
+    geo:lat 40.749137297;
+    geo:long 14.4859950343;
     skos:altLabel "Apothecaries House"@en,
         "Casa del Cerusico"@it;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/p-lod-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/apothecaries-house>,
         <https://pleiades.stoa.org/places/casa-del-cerusico> .
 
@@ -138308,6 +138379,7 @@
             foaf:name "M. Puhane" ],
         <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/dndimitrov>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -138315,7 +138387,7 @@
     dcterms:coverage "Emerkingen";
     dcterms:creator <https://pleiades.stoa.org/author/bender-h>;
     dcterms:description "An ancient place, cited: BAtlas 12 C4 Emerkingen";
-    dcterms:modified "2026-10-04T04:32:10-04:00";
+    dcterms:modified "2026-10-13T16:07:53-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=fort",
         "dare:major=0";
@@ -138323,11 +138395,13 @@
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://www.zotero.org/groups/pleiades/items/K6S4HPPI>;
     owl:sameAs <http://pleiades.stoa.org/places/118665>;
+    skos:altLabel "Emerkingen"@de;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 12 C4 Emerkingen" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/fort>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
-        <https://pleiades.stoa.org/places/darmc-location-7718> .
+        <https://pleiades.stoa.org/places/darmc-location-7718>;
+    pleiades:hasName <https://pleiades.stoa.org/places/emerkingen> .
 
 <https://pleiades.stoa.org/places/118667> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -150262,18 +150336,21 @@
 
 <https://pleiades.stoa.org/places/12364848> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "The Crowdundle Beck is a small river that is a tributary of the River Eden.";
-    dcterms:modified "2022-04-13T17:46:57-04:00";
+    dcterms:modified "2026-10-13T13:42:07-04:00";
     dcterms:title "Crowdundle Beck";
     rdfs:seeAlso <https://pleiades.stoa.org/places/763166251>;
     owl:sameAs <http://pleiades.stoa.org/places/12364848>;
-    geo:lat 54.6569291909;
-    geo:long -2.58091144381;
+    geo:lat 54.657103978;
+    geo:long -2.58069854912;
+    skos:altLabel "Crowdundle Beck"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/river>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-crowdundle-beck> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-crowdundle-beck>;
+    pleiades:hasName <https://pleiades.stoa.org/places/crowdundle-beck> .
 
 <https://pleiades.stoa.org/places/123657252> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -153310,11 +153387,11 @@
     dcterms:bibliographicCitation "BAtlas 13 C4 Ivanká pri Dunaji",
         "TIR CastReg 150";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
-            foaf:name "P. Kaczanowski" ],
-        [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "R. Madyda‑Legutko" ],
         [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "E. Krekovič" ],
+        [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "P. Kaczanowski" ],
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -159388,9 +159465,11 @@
     dcterms:bibliographicCitation "Rieger 2015 ",
         "Wikidata  Zawiyet el Agdab (Q140355792)",
         "vici.org 34888: Roman Fort Zawiyet el-Agdab";
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A fortified Roman outpost located in northwestern Egypt near the margins of the Sahara Desert.";
-    dcterms:modified "2026-10-01T11:31:30-04:00";
+    dcterms:modified "2026-10-15T15:45:56-04:00";
     dcterms:title "Zawiyet el-Agdab";
     cito:citesAsRelated <https://vici.org/vici/34888/>,
         <https://www.wikidata.org/wiki/Q140355792>;
@@ -159398,10 +159477,12 @@
     owl:sameAs <http://pleiades.stoa.org/places/136714002>;
     geo:lat 31.3905628503;
     geo:long 25.5038924339;
+    skos:altLabel "Zawiyet el-Agdab"@ar;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/fort-2>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-roman-fort-zawiyet-el-agdab> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-roman-fort-zawiyet-el-agdab>;
+    pleiades:hasName <https://pleiades.stoa.org/places/zawiyet-el-agdab> .
 
 <https://pleiades.stoa.org/places/13728494> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -181138,13 +181219,14 @@
         "Joulia 1975 ";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/dndimitrov>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Lanuéjols";
     dcterms:creator <http://viaf.org/viaf/32108909>;
     dcterms:description "An ancient place, cited: BAtlas 15 A1 Lanuéjols";
-    dcterms:modified "2018-12-29T12:51:32-04:00";
+    dcterms:modified "2026-10-16T18:48:45-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=temple",
         "dare:major=0";
@@ -181152,10 +181234,12 @@
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://www.zotero.org/groups/pleiades/items/FREQAUBU>;
     owl:sameAs <http://pleiades.stoa.org/places/148106>;
+    skos:altLabel "Lanuéjols"@fr;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 15 A1 Lanuéjols" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/monument>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/darmc-location-6718> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/darmc-location-6718>;
+    pleiades:hasName <https://pleiades.stoa.org/places/lanuejols> .
 
 <https://pleiades.stoa.org/places/148108> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -182373,6 +182457,7 @@
         "BAtlas 15 C2 Psalmodi";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/dndimitrov>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -182380,7 +182465,7 @@
     dcterms:coverage "Psalmodi";
     dcterms:creator <http://viaf.org/viaf/32108909>;
     dcterms:description "An ancient place, cited: BAtlas 15 C2 Psalmodi";
-    dcterms:modified "2020-11-27T15:27:20-04:00";
+    dcterms:modified "2026-10-16T05:28:48-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=villa",
         "dare:major=0";
@@ -182388,11 +182473,13 @@
     cito:citesForInformation <http://atlantides.org/bibliography/g.html%23Gallia-Infos-(1987-88>,
         <http://www.worldcat.org/oclc/43970336>;
     owl:sameAs <http://pleiades.stoa.org/places/148162>;
+    skos:altLabel "Psalmodi"@fr;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 15 C2 Psalmodi" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/villa>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
-        <https://pleiades.stoa.org/places/darmc-location-17565> .
+        <https://pleiades.stoa.org/places/darmc-location-17565>;
+    pleiades:hasName <https://pleiades.stoa.org/places/psalmodi> .
 
 <https://pleiades.stoa.org/places/148163> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -184214,22 +184301,25 @@
         "PastScape (Internet Archive) monument no. 421208",
         "Wikidata Maen Castle (Q15072505)",
         "Wikipedia (English) Maen Castle";
-    dcterms:contributor <https://pleiades.stoa.org/author/maximeg>,
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>,
+        <https://pleiades.stoa.org/author/maximeg>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Maen Castle is an Iron Age promontory fort near Land's End in Cornwall.";
-    dcterms:modified "2026-10-02T11:44:18-04:00";
+    dcterms:modified "2026-10-14T15:38:27-04:00";
     dcterms:title "Maen Castle";
     cito:citesAsRelated <https://historicengland.org.uk/listing/the-list/list-entry/1006757>,
         <https://www.wikidata.org/wiki/Q15072505>;
     cito:citesForInformation <https://en.wikipedia.org/wiki/Maen_Castle>,
         <https://web.archive.org/web/20121007180719/http://www.pastscape.org.uk/hob.aspx?hob_id=421208>;
     owl:sameAs <http://pleiades.stoa.org/places/149003409>;
+    skos:altLabel "Maen Castle"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cape>,
         <https://pleiades.stoa.org/vocabularies/hillfort>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/location-of-maen-castle-hill-fort> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/location-of-maen-castle-hill-fort>;
+    pleiades:hasName <https://pleiades.stoa.org/places/maen-castle> .
 
 <https://pleiades.stoa.org/places/149334673> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -184448,6 +184538,7 @@
         "Wikipedia (English) Pont Flavien";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/dndimitrov>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -184455,7 +184546,7 @@
     dcterms:coverage "W Constantine at St-Chamas (Pont-Flavien)";
     dcterms:creator <http://viaf.org/viaf/32108909>;
     dcterms:description "A Roman bridge that carries the Via Julia Augusta across the Touloubre river.";
-    dcterms:modified "2023-04-04T16:58:49-04:00";
+    dcterms:modified "2026-10-12T17:51:43-04:00";
     dcterms:subject "dare:ancient=2",
         "dare:feature=bridge",
         "dare:major=0";
@@ -184469,12 +184560,14 @@
         <https://www.zotero.org/groups/pleiades/items/ZAMBQ3RN>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/507729266>;
     owl:sameAs <http://pleiades.stoa.org/places/149499>;
+    skos:altLabel "Pont Flavien"@fr;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 15 E2" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/bridge>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
         <https://pleiades.stoa.org/places/darmc-location-14383>,
-        <https://pleiades.stoa.org/places/location-of-pont-flavien> .
+        <https://pleiades.stoa.org/places/location-of-pont-flavien>;
+    pleiades:hasName <https://pleiades.stoa.org/places/pont-flavien> .
 
 <https://pleiades.stoa.org/places/149500> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -193293,7 +193386,7 @@
     dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "The Roman fort of Qreiye-Ayyash was established by the early third century CE and was abandoned by the mid-third century CE. It is situated on the outskirts of the modern village of Ayyash in Syria. It measures 220 x 220 m. Poidebard discovered the site in 1929. In the twenty-first century, the site has been the subject of several campaigns of geophysical prospection.";
-    dcterms:modified "2026-09-24T16:20:49-04:00";
+    dcterms:modified "2026-10-17T04:16:43-04:00";
     dcterms:title "Qreiye - Ayyash";
     cito:citesAsRelated <https://vici.org/vici/25427/>;
     cito:citesForInformation <https://journals.openedition.org/archeosciences/1829>,
@@ -193801,7 +193894,7 @@
     dcterms:bibliographicCitation "Baccheta et al. 2025 ";
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Approximately 41 burials from a Roman cremation necropolis were excavated in 2021 at Cascina Torretta, a locality in the municipality of Calvignasco (southwest of Milan, Italy). The tombs were poorly preserved, appeared to be relatively shallow pit graves, and were likely connected to a rural settlement.";
-    dcterms:modified "2026-09-30T08:45:52-04:00";
+    dcterms:modified "2026-10-17T03:57:36-04:00";
     dcterms:title "Cascina Torretta";
     cito:citesForInformation <https://bollettinodiarcheologiaonline.beniculturali.it/wp-content/uploads/2026/06/BAO_XVI_2025_4_Bacchetta-et-alii.pdf>;
     owl:sameAs <http://pleiades.stoa.org/places/166806801>;
@@ -203408,19 +203501,22 @@
     dcterms:bibliographicCitation "Caiazza 1986 ",
         "Caiazza 1995 ",
         "Wikidata Grotte di Seiano a Pietramelara (Q106341466)";
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A ruined, terraced megalithic complex covering about 900 square meters. The complex likely dates to the second century B.C. and was destroyed in the time of Sulla. Scholars interpret the complex as a Samnite sanctuary.";
-    dcterms:modified "2026-10-02T11:36:24-04:00";
+    dcterms:modified "2026-10-14T15:38:40-04:00";
     dcterms:subject "polygonal masonry";
     dcterms:title "Grotte di Seiano a Pietramelara";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q106341466>;
     cito:citesForInformation <http://www.worldcat.org/oclc/466583440>,
         <http://www.worldcat.org/oclc/878729236>;
     owl:sameAs <http://pleiades.stoa.org/places/170427487>;
+    skos:altLabel "Grotte di Seiano a Pietramelara"@it;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/architecturalcomplex>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-grotte-di-seiano> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-grotte-di-seiano>;
+    pleiades:hasName <https://pleiades.stoa.org/places/grotte-di-seiano-a-pietramelara> .
 
 <https://pleiades.stoa.org/places/170529772> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -249374,6 +249470,17 @@
     pleiades:nameRomanized "Crovio";
     pleiades:start_date 300 .
 
+<https://pleiades.stoa.org/places/crowdundle-beck> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "OSM Way: Crowdundle Beck (37230936)";
+    cito:citesAsDataSource <https://www.openstreetmap.org/way/37230936%23map=14/54.65939/-2.57904>;
+    owl:sameAs <http://pleiades.stoa.org/places/crowdundle-beck>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Crowdundle Beck"@en;
+    pleiades:nameRomanized "Crowdundle Beck";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/crucio> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "TP (Talbert: CUP) 4A2 (Talbert 1604)";
     cito:citesAsEvidence <https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1604.html>;
@@ -273091,6 +273198,19 @@
     pleiades:nameRomanized "Elykokoi";
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/places/emerkingen> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "BAtlas 12 C4 Emerkingen",
+        "Römer Baden-Württemberg 285-86";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://www.zotero.org/groups/pleiades/items/K6S4HPPI>;
+    owl:sameAs <http://pleiades.stoa.org/places/emerkingen>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
+    pleiades:end_date 2100;
+    pleiades:nameAttested "Emerkingen"@de;
+    pleiades:nameRomanized "Emerkingen";
+    pleiades:start_date 1700 .
+
 <https://pleiades.stoa.org/places/emeurur> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "BTTo Tintir IV";
     cito:citesAsEvidence <http://oracc.museum.upenn.edu/btto/Q000305>;
@@ -275891,6 +276011,17 @@
     pleiades:nameAttested "Grotta Paglicci"@it;
     pleiades:nameRomanized "Grotta Paglicci";
     pleiades:start_date 1900 .
+
+<https://pleiades.stoa.org/places/grotte-di-seiano-a-pietramelara> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Grotte di Seiano a Pietramelara (Q106341466)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q106341466>;
+    owl:sameAs <http://pleiades.stoa.org/places/grotte-di-seiano-a-pietramelara>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Grotte di Seiano a Pietramelara"@it;
+    pleiades:nameRomanized "Grotte di Seiano a Pietramelara";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/guntia> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/guntia>;
@@ -279843,14 +279974,6 @@
     pleiades:nameRomanized "Lansargues";
     pleiades:start_date 1700 .
 
-<https://pleiades.stoa.org/places/lanuejols> a <https://pleiades.stoa.org/places/vocab#Name>;
-    owl:sameAs <http://pleiades.stoa.org/places/lanuejols>;
-    prov:wasDerivedFrom [ rdfs:label "Regnum Francorum Online" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
-    pleiades:end_date 2100;
-    pleiades:nameRomanized "Lanuéjols";
-    pleiades:start_date 1700 .
-
 <https://pleiades.stoa.org/places/lapidaria> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "TP (Talbert: CUP) 3A1 (Talbert 1020)";
     cito:citesAsEvidence <https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1020.html>;
@@ -282858,6 +282981,17 @@
     pleiades:nameAttested "Maecia"@la;
     pleiades:nameRomanized "Maecia";
     pleiades:start_date -330 .
+
+<https://pleiades.stoa.org/places/maen-castle> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Maen Castle (Q15072505)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q15072505>;
+    owl:sameAs <http://pleiades.stoa.org/places/maen-castle>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Maen Castle"@en;
+    pleiades:nameRomanized "Maen Castle";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/maezaei> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/maezaei>;
@@ -290845,12 +290979,12 @@
     pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/osm-location-of-crowdundle-beck> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[-2.6044571, 54.6468404], [-2.5929961, 54.6477514], [-2.5900751, 54.6483985], [-2.5899276, 54.648442], [-2.5777967, 54.6522267], [-2.5754546, 54.6530667], [-2.5738968, 54.6537718], [-2.553343, 54.6649874], [-2.544245, 54.6719365], [-2.5446741, 54.6719365], [-2.5457041, 54.6718372], [-2.5672476, 54.6653845], [-2.6138338, 54.6502843], [-2.609994, 54.6479413], [-2.6090772, 54.6474644], [-2.6085466, 54.6472552], [-2.6082826, 54.6471512], [-2.6073281, 54.6469307], [-2.6044571, 54.6468404]]]}";
-    osgeo:asWKT "POLYGON ((-2.6044570999999999 54.6468404000000021, -2.5929961000000001 54.6477513999999971, -2.5900751000000000 54.6483984999999990, -2.5899276000000002 54.6484420000000028, -2.5777966999999999 54.6522266999999999, -2.5754546000000000 54.6530666999999966, -2.5738968000000000 54.6537718000000012, -2.5533429999999999 54.6649874000000011, -2.5442450000000001 54.6719365000000010, -2.5446740999999999 54.6719365000000010, -2.5457041000000000 54.6718371999999988, -2.5672476000000000 54.6653845000000018, -2.6138338000000001 54.6502843000000027, -2.6099939999999999 54.6479412999999994, -2.6090772000000002 54.6474643999999969, -2.6085465999999999 54.6472551999999965, -2.6082825999999999 54.6471512000000033, -2.6073281000000001 54.6469306999999986, -2.6044570999999999 54.6468404000000021))";
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[-2.6044571, 54.6468404], [-2.5929961, 54.6477514], [-2.5900751, 54.6483985], [-2.5899276, 54.648442], [-2.5777967, 54.6522267], [-2.5754546, 54.6530667], [-2.5738968, 54.6537718], [-2.553343, 54.6649874], [-2.544245, 54.6719365], [-2.5447225, 54.6719823], [-2.5456161, 54.672], [-2.5673669, 54.6656763], [-2.6138338, 54.6502843], [-2.609994, 54.6479413], [-2.6090772, 54.6474644], [-2.6085466, 54.6472552], [-2.6082826, 54.6471512], [-2.6073281, 54.6469307], [-2.6044571, 54.6468404]]]}";
+    osgeo:asWKT "POLYGON ((-2.6044570999999999 54.6468404000000021, -2.5929961000000001 54.6477513999999971, -2.5900751000000000 54.6483984999999990, -2.5899276000000002 54.6484420000000028, -2.5777966999999999 54.6522266999999999, -2.5754546000000000 54.6530666999999966, -2.5738968000000000 54.6537718000000012, -2.5533429999999999 54.6649874000000011, -2.5442450000000001 54.6719365000000010, -2.5447225000000002 54.6719823000000034, -2.5456161000000002 54.6719999999999970, -2.5673669000000001 54.6656763000000012, -2.6138338000000001 54.6502843000000027, -2.6099939999999999 54.6479412999999994, -2.6090772000000002 54.6474643999999969, -2.6085465999999999 54.6472551999999965, -2.6082825999999999 54.6471512000000033, -2.6073281000000001 54.6469306999999986, -2.6044570999999999 54.6468404000000021))";
     dcterms:bibliographicCitation "OSM Way 37230936";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/37230936>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-crowdundle-beck>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 37230936, version 8, osm:changeset=111372253, 2021-09-18T11:42:45Z)" ];
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 37230936, version 11, osm:changeset=163826655, 2025-03-19T17:02:32Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
     pleiades:end_date 2099;
     pleiades:start_date 2000 .
@@ -294829,6 +294963,17 @@
     pleiades:end_date 640;
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/places/osm-location-of-rapmische-wasserleitung> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[6.7427281, 49.7400559], [6.7427507, 49.7400727], [6.7427278, 49.7400855], [6.7427053, 49.7400686], [6.7427281, 49.7400559]]]}";
+    osgeo:asWKT "POLYGON ((6.7427280999999999 49.7400559000000015, 6.7427507000000002 49.7400726999999989, 6.7427277999999999 49.7400854999999993, 6.7427052999999999 49.7400686000000007, 6.7427280999999999 49.7400559000000015))";
+    dcterms:bibliographicCitation "OSM Way 542954333";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/542954333>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-rapmische-wasserleitung>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 542954333, version 5, osm:changeset=95508614, 2020-12-08T19:48:22Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 300;
+    pleiades:start_date -30 .
+
 <https://pleiades.stoa.org/places/osm-location-of-rapmischer-gutshof> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 2663562158";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/2663562158>;
@@ -297957,6 +298102,17 @@
     pleiades:nameRomanized "Oxybii";
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/places/p-lod-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.486015380505041, 40.74905562727637, 41.827900000003865], [14.486083234595856, 40.74907642193015, 41.827900000003865], [14.486062450982047, 40.749117183305515, 41.827900000003865], [14.486006217338778, 40.74922064900043, 41.827900000003865], [14.485909308914893, 40.749200003441345, 41.827900000003865], [14.485907279033517, 40.74919952889443, 41.827900000003865], [14.485926798614765, 40.749158410231374, 41.827900000003865], [14.4859679654707, 40.74907515435176, 41.827900000003865], [14.486015380505041, 40.74905562727637, 41.827900000003865]]]}";
+    osgeo:asWKT "POLYGON Z ((14.4860153805050409 40.7490556272763698 41.8279000000038650, 14.4860832345958563 40.7490764219301482 41.8279000000038650, 14.4860624509820468 40.7491171833055148 41.8279000000038650, 14.4860062173387778 40.7492206490004278 41.8279000000038650, 14.4859093089148931 40.7492000034413451 41.8279000000038650, 14.4859072790335173 40.7491995288944295 41.8279000000038650, 14.4859267986147646 40.7491584102313738 41.8279000000038650, 14.4859679654706994 40.7490751543517575 41.8279000000038650, 14.4860153805050409 40.7490556272763698 41.8279000000038650))";
+    dcterms:bibliographicCitation "P-LOD Property VIII.3.11";
+    cito:citesAsDataSource <https://p-lod.org/urn/urn:p-lod:id:r8-i3-p11>;
+    owl:sameAs <http://pleiades.stoa.org/places/p-lod-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/pachten> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/pachten>;
     prov:wasDerivedFrom [ rdfs:label "Regnum Francorum Online" ];
@@ -299492,6 +299648,17 @@
     pleiades:nameRomanized "Pont d'Ael";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/pont-flavien> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "BAtlas 15 E2 Pont Flavien";
+    cito:citesAsDataSource <http://www.worldcat.org/oclc/43970336>;
+    owl:sameAs <http://pleiades.stoa.org/places/pont-flavien>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
+    pleiades:end_date 2100;
+    pleiades:nameAttested "Pont Flavien"@fr;
+    pleiades:nameRomanized "Pont Flavien";
+    pleiades:start_date 1700 .
+
 <https://pleiades.stoa.org/places/ponte-della-maddalena> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikipedia (English) Ponte della Maddalena";
     cito:citesForInformation <https://en.wikipedia.org/wiki/Ponte_della_Maddalena>;
@@ -300076,6 +300243,17 @@
     pleiades:end_date 300;
     pleiades:nameRomanized "Prote";
     pleiades:start_date -30 .
+
+<https://pleiades.stoa.org/places/psalmodi> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "BAtlas 15 C2 Psalmodi";
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>;
+    owl:sameAs <http://pleiades.stoa.org/places/psalmodi>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
+    pleiades:end_date 2100;
+    pleiades:nameAttested "Psalmodi"@fr;
+    pleiades:nameRomanized "Psalmodi";
+    pleiades:start_date 1700 .
 
 <https://pleiades.stoa.org/places/ptrensibus> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/ptrensibus>;
@@ -311055,6 +311233,16 @@
     pleiades:nameRomanized "Zara";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/zawiyet-el-agdab> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Rieger 2015 ";
+    cito:citesForInformation <https://www.zotero.org/groups/pleiades/items/GBZPCNK3>;
+    owl:sameAs <http://pleiades.stoa.org/places/zawiyet-el-agdab>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
+    pleiades:end_date 2100;
+    pleiades:nameRomanized "Zawiyet el-Agdab";
+    pleiades:start_date 1700 .
+
 <https://pleiades.stoa.org/places/zillis-reischen> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikipedia (English) Zillis-Reischen";
     cito:citesAsDataSource <https://en.wikipedia.org/wiki/Zillis-Reischen>;
@@ -311918,6 +312106,7 @@
         <https://en.wikipedia.org/wiki/Palaestina_Salutaris>,
         <https://onlinelibrary.wiley.com/doi/10.1002/9781444338386.wbeah11175>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/1001136>,
+        <https://pleiades.stoa.org/places/687892>,
         <https://pleiades.stoa.org/places/687985>,
         <https://pleiades.stoa.org/places/697725>,
         <https://pleiades.stoa.org/places/746813>,
@@ -312426,13 +312615,6 @@
         <https://pleiades.stoa.org/places/tongeren>,
         <https://pleiades.stoa.org/places/tongeren-1>,
         <https://pleiades.stoa.org/places/tongres> .
-
-<https://pleiades.stoa.org/places/108772%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Augusta Suessionum";
-    spatial:C <https://pleiades.stoa.org/places/109216%23this>,
-        <https://pleiades.stoa.org/places/113268%23this>;
-    rdfs:comment "Augusta Suessionum (modern Soissons) was a Gallic site captured by Iulius Caesar and re-established as a Roman city.";
-    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/108772> .
 
 <https://pleiades.stoa.org/places/108775> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -314203,7 +314385,8 @@
         "PECS (Perseus) AUGUSTA SUESSIONUM (Soissons) Aisne, France",
         "RFO 17394: Le Moulin à Vent, Pommiers",
         "TIR Lutetia 145",
-        "VillesGB 27-39";
+        "VillesGB 27-39",
+        "Wikidata oppidum of Pommiers (Q108908532)";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
@@ -314214,14 +314397,15 @@
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "The archaeologically attested oppidum at modern Moulin à Vent in the French commune of Pommiers is probably to be identified with the Noviodunum mentioned by Caesar. The oppidum was occupied from the late La Tène period through the early Roman.";
-    dcterms:modified "2025-08-21T14:00:42-04:00";
+    dcterms:modified "2026-10-15T10:49:44-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=fort",
         "dare:major=0";
     dcterms:title "Pommiers oppidum";
     cito:citesAsEvidence <https://latin.packhum.org/loc/448/1/36/1482-1492>;
     cito:citesAsRelated <http://francia.ahlfeldt.se/places/17394>,
-        <https://darmc.harvard.edu/>;
+        <https://darmc.harvard.edu/>,
+        <https://www.wikidata.org/wiki/Q108908532>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=augusta-suessionum>,
         <http://www.worldcat.org/oclc/43970336>,
         <http://www.worldcat.org/oclc/758914364>,
@@ -314823,6 +315007,42 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-map-label-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/silvanectes> .
 
+<https://pleiades.stoa.org/places/109356> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "BAtlas 11 C3 Suessiones",
+        "Plin., NH (Mayhoff: PHI) 4.106.5",
+        "TIR Lutetia 174",
+        "Wikidata Suessiones (Q1196925)",
+        "Wikipedia (English) Suessiones";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Richard Talbert" ],
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/mheubel>,
+        <https://pleiades.stoa.org/author/rmhorne>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <http://viaf.org/viaf/19802204>,
+        <http://viaf.org/viaf/93262206>;
+    dcterms:description "The Suessiones were a Belgic tribe located in what is now western Belgium.";
+    dcterms:modified "2024-11-24T00:58:25-04:00";
+    dcterms:title "Suessiones";
+    cito:citesAsEvidence <http://latin.packhum.org/loc/978/1/310/771-781>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q1196925>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/758914364>,
+        <https://en.wikipedia.org/wiki/Suessiones>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/108772>;
+    owl:sameAs <http://pleiades.stoa.org/places/109356>;
+    geo:lat 49.4851324811;
+    geo:long 3.22945917946;
+    skos:altLabel "Suessiones"@la;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 C3 Suessiones" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/people>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-map-label-location>;
+    pleiades:hasName <https://pleiades.stoa.org/places/suessiones> .
+
 <https://pleiades.stoa.org/places/109359%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Sura (river)";
     spatial:C <https://pleiades.stoa.org/places/109182%23this>,
@@ -315359,21 +315579,24 @@
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "An ancient place, cited: BAtlas 11 G3 unnamed aqueduct (Ruwertal-Wasserleitung, at Col. Augusta Treverorum)";
-    dcterms:modified "2025-02-08T17:31:19-04:00";
+    dcterms:modified "2026-10-16T05:43:03-04:00";
     dcterms:subject "dare:ancient=2",
         "dare:feature=aqueduct",
         "dare:major=0";
-    dcterms:title "Untitled";
+    dcterms:title "Unnamed aqueduct (Ruwertal-Wasserleitung)";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q1539735>;
     cito:citesForInformation <http://www.worldcat.org/oclc/21765986>,
         <http://www.worldcat.org/oclc/43970336>,
         <https://de.wikipedia.org/wiki/R%25C3%25B6mische_Ruwerwasserleitung>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/108894>;
     owl:sameAs <http://pleiades.stoa.org/places/109479>;
+    geo:lat 49.7400706848;
+    geo:long 6.74272798315;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 G3" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/aqueduct>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
+        <https://pleiades.stoa.org/places/osm-location-of-rapmische-wasserleitung> .
 
 <https://pleiades.stoa.org/places/110234> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -328038,6 +328261,21 @@
     pleiades:nameRomanized "Kolankoron";
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/places/lanuejols> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Joulia 1975 ";
+    cito:citesForInformation <https://www.zotero.org/groups/pleiades/items/FREQAUBU>;
+    owl:sameAs <http://pleiades.stoa.org/places/lanuejols>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Regnum Francorum Online" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>,
+        <https://pleiades.stoa.org/vocabularies/twentieth-ce>;
+    pleiades:end_date 1999,
+        2100;
+    pleiades:nameAttested "Lanuéjols"@fr;
+    pleiades:nameRomanized "Lanuéjols";
+    pleiades:start_date 1700,
+        1900 .
+
 <https://pleiades.stoa.org/places/ledo> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/ledo>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 14 D2 Liger fl." ],
@@ -328877,59 +329115,13 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-map-label-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/atrebates> .
 
-<https://pleiades.stoa.org/places/108772> a <http://www.w3.org/2004/02/skos/core#Concept>,
-        <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "BAtlas 11 D3 Augusta Suessionum",
-        "Caes. BGall. (Seel: PHI) 2.12",
-        "ItAnt (Cuntz) 379,6 Augusta Suessonum",
-        "ItMiller 63",
-        "PECS (Perseus) AUGUSTA SUESSIONUM (Soissons) Aisne, France",
-        "RFO 49",
-        "Smith 1854 (Perseus) AUGUSTA SUESSONUM",
-        "TIR Lutetia 171",
-        "TM GEO ID 3341: Augusta Suessionum (Soissons)",
-        "TP (Talbert: CUP) 1A4 (Talbert 599)",
-        "VillesGB 205-22",
-        "Wikipedia (English) Soissons";
-    dcterms:contributor <http://darmc.harvard.edu>,
-        <http://viaf.org/viaf/59162760>,
-        <https://pleiades.stoa.org/author/jahlfeldt>,
-        <https://pleiades.stoa.org/author/jbecker>,
-        <https://pleiades.stoa.org/author/sgillies>,
-        <https://pleiades.stoa.org/author/thomase>;
-    dcterms:coverage "Soissons";
-    dcterms:creator <http://viaf.org/viaf/19802204>,
-        <http://viaf.org/viaf/93262206>;
-    dcterms:description "Augusta Suessionum (modern Soissons) was a Gallic site captured by Iulius Caesar and re-established as a Roman city.";
-    dcterms:modified "2024-08-21T12:14:18-04:00";
-    dcterms:subject "dare:ancient=1",
-        "dare:feature=settlement",
-        "dare:major=0";
-    dcterms:title "Augusta Suessionum";
-    cito:citesAsEvidence <http://latin.packhum.org/loc/448/1/36/1382-1392,1792-1802>,
-        <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace599.html>;
-    cito:citesAsRelated <http://francia.ahlfeldt.se/places/49>,
-        <http://www.trismegistos.org/place/3341>;
-    cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0064%253Aalphabetic+letter%253DA%253Aentry+group%253D21%253Aentry%253Daugusta-suessonum-geo>,
-        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=augusta-suessionum>,
-        <http://www.worldcat.org/oclc/43970336>,
-        <http://www.worldcat.org/oclc/6684340>,
-        <http://www.worldcat.org/oclc/758914364>,
-        <https://en.wikipedia.org/wiki/Soissons>,
-        <https://www.zotero.org/groups/pleiades/items/M4UH8NCU>,
-        <https://www.zotero.org/groups/pleiades/items/YHK5PPF3>;
-    rdfs:seeAlso <https://pleiades.stoa.org/places/109216>,
-        <https://pleiades.stoa.org/places/113268>;
-    owl:sameAs <http://pleiades.stoa.org/places/108772>;
-    skos:altLabel "Augusta Suessionum",
-        "Soissons";
-    skos:inScheme <https://pleiades.stoa.org/places>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 D3 Augusta Suessionum" ];
-    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
-        <https://pleiades.stoa.org/places/darmc-location-11575>;
-    pleiades:hasName <https://pleiades.stoa.org/places/augusta-suessionum>,
-        <https://pleiades.stoa.org/places/soissons> .
+<https://pleiades.stoa.org/places/108772%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Augusta Suessionum";
+    spatial:C <https://pleiades.stoa.org/places/109216%23this>,
+        <https://pleiades.stoa.org/places/109356%23this>,
+        <https://pleiades.stoa.org/places/113268%23this>;
+    rdfs:comment "Augusta Suessionum (modern Soissons) was a Gallic site captured by Iulius Caesar and re-established as a Roman city.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/108772> .
 
 <https://pleiades.stoa.org/places/108788%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Bagacum";
@@ -333984,6 +334176,80 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/batlas-location>;
     pleiades:hasName <https://pleiades.stoa.org/places/ionium-mare> .
 
+<https://pleiades.stoa.org/places/108772> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Arachne Augusta Suessionum, (Suessionem / Suessones / Noviodunum Suessionum / Noviodunum Suessionorum / Sexonas / Augusta Suessionorum / Σουεσσιόνων)",
+        "BAtlas 11 D3 Augusta Suessionum",
+        "Caes. BGall. (Seel: PHI) 2.12",
+        "EDH Geographic Database G003698: Augusta Suessionum – Soissons",
+        "ItAnt (Cuntz) 379,6 Augusta Suessonum",
+        "ItMiller 63",
+        "KU TP Database (Rathmann) 3033: Augusta Suessorum",
+        "New Pauly Augusta [9] A. Suess(i)onum Capital and civitas of the Suessiones (M. Strothmann et al.)",
+        "PECS (Perseus) AUGUSTA SUESSIONUM (Soissons) Aisne, France",
+        "RE Augusta 19 (M. Ihm)",
+        "RFO 49",
+        "Smith 1854 (Perseus) AUGUSTA SUESSONUM",
+        "TIR Lutetia 171",
+        "TM GEO ID 3341: Augusta Suessionum (Soissons)",
+        "TP (Talbert: CUP) 1A4 (Talbert 599)",
+        "ToposText Augusta Suessionum (Gallia) 17 Soissons",
+        "VillesGB 205-22",
+        "Wikidata Augusta Suessionum (Q4820973)",
+        "Wikipedia (English) Soissons",
+        "iDAI.gazetteer 2170180: Augusta Suessionum",
+        "vici.org 2554: Augusta Suessionum";
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/jahlfeldt>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:coverage "Soissons";
+    dcterms:creator <http://viaf.org/viaf/19802204>,
+        <http://viaf.org/viaf/93262206>;
+    dcterms:description "Augusta Suessionum (modern Soissons) was a Gallic site captured by Iulius Caesar and re-established as a Roman city.";
+    dcterms:modified "2026-10-15T10:58:40-04:00";
+    dcterms:subject "dare:ancient=1",
+        "dare:feature=settlement",
+        "dare:major=0";
+    dcterms:title "Augusta Suessionum";
+    cito:citesAsEvidence <http://latin.packhum.org/loc/448/1/36/1382-1392,1792-1802>,
+        <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace599.html>;
+    cito:citesAsRelated <http://francia.ahlfeldt.se/places/49>,
+        <http://www.trismegistos.org/place/3341>,
+        <https://arachne.dainst.org/entity/4329592>,
+        <https://edh.ub.uni-heidelberg.de/edh/geographie/G003698>,
+        <https://gazetteer.dainst.org/place/2170180>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=3033>,
+        <https://vici.org/vici/2554/>,
+        <https://www.wikidata.org/wiki/Q4820973>;
+    cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0064%253Aalphabetic+letter%253DA%253Aentry+group%253D21%253Aentry%253Daugusta-suessonum-geo>,
+        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=augusta-suessionum>,
+        <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/6684340>,
+        <http://www.worldcat.org/oclc/758914364>,
+        <https://de.wikisource.org/wiki/RE:Augusta_19>,
+        <https://doi.org/10.1163/1574-9347_bnp_e208550>,
+        <https://en.wikipedia.org/wiki/Soissons>,
+        <https://topostext.org/place/494033UAug>,
+        <https://www.zotero.org/groups/pleiades/items/M4UH8NCU>,
+        <https://www.zotero.org/groups/pleiades/items/YHK5PPF3>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/109216>,
+        <https://pleiades.stoa.org/places/109356>,
+        <https://pleiades.stoa.org/places/113268>;
+    owl:sameAs <http://pleiades.stoa.org/places/108772>;
+    skos:altLabel "Augusta Suessionum",
+        "Soissons";
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 11 D3 Augusta Suessionum" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
+        <https://pleiades.stoa.org/places/darmc-location-11575>;
+    pleiades:hasName <https://pleiades.stoa.org/places/augusta-suessionum>,
+        <https://pleiades.stoa.org/places/soissons> .
+
 <https://pleiades.stoa.org/places/108788> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "BAtlas 11 D2 Bagacum",
@@ -336752,8 +337018,9 @@
         "KU TP Database (Rathmann) 3356: Augusta Tres Virorum",
         "Livius.org Augusta Treverorum (Trier)",
         "MANTO 11330247: Colonia Augusta Treverorum (Germania)",
-        "New Pauly Augusta [6]",
+        "New Pauly Augusta [6] Treverorum (M. Strothmann et al.)",
         "PECS (Perseus) AUGUSTA TREVERORUM (Trier) Germany",
+        "RE Augusta 21 (M. Ihm)",
         "RFO 2",
         "Römer Rheinland-Pfalz 577-647",
         "Smith 1854 (Perseus) AUGUSTA TREVIRORUM",
@@ -336764,9 +337031,10 @@
         "ToposText Col. Augusta Treverorum (Germania)",
         "WHL 367: Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
         "Wikidata Augusta Treverorum (Q666165)",
-        "Wikidata Q3138: Trier",
+        "Wikidata Trier (Q3138)",
         "Wikidata Trier (Samian Ware Discovery Site) (Q103198266)",
-        "iDAI.gazetteer 2052651: Trier";
+        "iDAI.gazetteer 2052651: Trier",
+        "vici.org 2799";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
@@ -336781,7 +337049,7 @@
     dcterms:creator <http://viaf.org/viaf/19802204>,
         <http://viaf.org/viaf/93262206>;
     dcterms:description "The chief ancient city (civitas) of the Treveri. Modern Trier in Germany.";
-    dcterms:modified "2026-04-20T14:19:18-04:00";
+    dcterms:modified "2026-10-15T15:25:50-04:00";
     dcterms:subject "UWHS";
     dcterms:title "Col. Augusta Treverorum";
     cito:citesAsEvidence <http://latin.packhum.org/loc/1351/4/347/1083-1093%23353>,
@@ -336798,17 +337066,19 @@
         <https://gazetteer.dainst.org/place/2052651>,
         <https://resource.manto.unh.edu/11330247>,
         <https://tp-online.ku.de/trefferanzeige_en.php?id=3356>,
+        <https://vici.org/vici/2799>,
         <https://www.wikidata.org/wiki/Q103198266>,
         <https://www.wikidata.org/wiki/Q3138>,
         <https://www.wikidata.org/wiki/Q666165>;
-    cito:citesForInformation <http://referenceworks.brillonline.com/entries/brill-s-new-pauly/augusta-e208550?s.num=13&s.q=Augusta+Treverorum>,
-        <http://whc.unesco.org/en/list/367>,
+    cito:citesForInformation <http://whc.unesco.org/en/list/367>,
         <http://www.livius.org/articles/place/augusta-treverorum-trier/>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0064%253Aalphabetic+letter%253DA%253Aentry+group%253D21%253Aentry%253Daugusta-trevirorum-geo>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=augusta-treverorum>,
         <http://www.worldcat.org/oclc/43970336>,
         <http://www.worldcat.org/oclc/6684340>,
         <http://www.worldcat.org/oclc/936644063>,
+        <https://de.wikisource.org/wiki/RE:Augusta_21%23II,2>,
+        <https://doi.org/10.1163/1574-9347_bnp_e208550>,
         <https://topostext.org/place/498066UCol>,
         <https://www.zotero.org/groups/pleiades/items/2QMA4X33>,
         <https://www.zotero.org/groups/pleiades/items/HA3B8GSW>;
@@ -341775,11 +342045,10 @@
         [ rdfs:label "Barrington Atlas: BAtlas 11 F1" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 G3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 H2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 11 I2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Chalousos fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 11 I2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Chauci Maiores" ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Chauci Minores" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
@@ -341865,6 +342134,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 11" ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Flevum Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Flevum Ostium" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Aliso/Elison" ],
@@ -341884,8 +342154,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 11 Mose" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Portus Epatiacus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Portus Itius" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 11 Quartensis Locus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 10 Frisii Maiores" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 11 Quartensis Locus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Riobe" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Ritumagus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 11 Vicus Helena" ],
@@ -342611,9 +342881,9 @@
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 14" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 25" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 14" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
         [ rdfs:label "Barrington Atlas: BAtlas 14" ],
@@ -342703,8 +342973,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 17 E4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 E5" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 E5" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F4 37" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 17 F3" ],
@@ -342808,10 +343078,10 @@
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 G4 40" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
         [ rdfs:label "Barrington Atlas: BAtlas 18" ],
@@ -342911,8 +343181,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 19 Leunoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Medoullon" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Phligadia M." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 19 Quarqueni" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 F3 Pontike" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 19 Quarqueni" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Sanctio" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Sinduni" ],
         [ rdfs:label "Barrington Atlas: BAtlas 19 Subocrini" ],
@@ -342964,8 +343234,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 12 B2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 B3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 B3" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 12 B3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 1 G3 Ionium Mare" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 12 B3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 D4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 D4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 D4" ],
@@ -343015,8 +343285,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 12 *Seiopa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 Semanous Hyle" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 *Septemiacum" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 12 Solicinium" ],
         [ rdfs:label "Barrington Atlas: BAtlas 102 D4 12" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 12 Solicinium" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 Stragona" ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 Tiguntia fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 12 Traiani munimentum" ],

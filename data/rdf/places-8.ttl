@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 8,9
-# Date: 2026/10/11 07:56:6.733038 GMT-4
+# Date: 2026/10/18 07:58:36.507087 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 285988
+# Triple count: 286287
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -45,18 +45,20 @@
 
 <https://pleiades.stoa.org/places/800144977%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Casa di M. Pupius Rufus";
+    spatial:C <https://pleiades.stoa.org/places/984330151%23this>;
     rdfs:comment "Property in Pompeii excavated in 1895.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/800144977> .
 
 <https://pleiades.stoa.org/places/800144977/casa-di-m-pupius-rufus> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "";
-    dcterms:modified "2026-09-14T10:55:20-04:00";
+    dcterms:modified "2026-10-17T22:46:13-04:00";
     dcterms:title "Casa di M. Pupius Rufus";
     owl:sameAs <http://pleiades.stoa.org/places/800144977/casa-di-m-pupius-rufus> .
 
-<https://pleiades.stoa.org/places/800144977/wikidata-location> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+<https://pleiades.stoa.org/places/800144977/wikidata-location> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "Representative location derived from Wikidata";
-    dcterms:modified "2026-09-14T10:55:20-04:00";
+    dcterms:modified "2026-10-17T22:46:13-04:00";
     dcterms:title "Wikidata Location";
     owl:sameAs <http://pleiades.stoa.org/places/800144977/wikidata-location> .
 
@@ -150,6 +152,21 @@
     dcterms:modified "2025-10-08T13:43:11-04:00";
     dcterms:title "OSM Location: modern Güleç";
     owl:sameAs <http://pleiades.stoa.org/places/800531031/osm-location-modern-ga1-4leass> .
+
+<https://pleiades.stoa.org/places/800834026%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Italia, Regio V";
+    spatial:C <https://pleiades.stoa.org/places/413135%23this>,
+        <https://pleiades.stoa.org/places/413246%23this>,
+        <https://pleiades.stoa.org/places/413253%23this>;
+    rdfs:comment "One of the administrative regions from Augustus's division of Italy, comprising Picenum. Described by Pliny the Elder in Book III of his Natural History.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/800834026> .
+
+<https://pleiades.stoa.org/places/800834026/regio-v> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/sarcanon>;
+    dcterms:description "";
+    dcterms:modified "2026-10-12T17:52:44-04:00";
+    dcterms:title "Regio V Picenum";
+    owl:sameAs <http://pleiades.stoa.org/places/800834026/regio-v> .
 
 <https://pleiades.stoa.org/places/800924137%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Nuraghe Goni";
@@ -7404,6 +7421,7 @@
     spatial:C <https://pleiades.stoa.org/places/11924823%23this>,
         <https://pleiades.stoa.org/places/220742115%23this>,
         <https://pleiades.stoa.org/places/260329425%23this>,
+        <https://pleiades.stoa.org/places/319881459%23this>,
         <https://pleiades.stoa.org/places/433032%23this>,
         <https://pleiades.stoa.org/places/615138225%23this>,
         <https://pleiades.stoa.org/places/723728396%23this>,
@@ -14939,7 +14957,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>;
     dcterms:description "";
-    dcterms:modified "2012-02-14T23:43:13-04:00";
+    dcterms:modified "2026-10-16T19:02:29-04:00";
     dcterms:title "Barrington Atlas location";
     owl:sameAs <http://pleiades.stoa.org/places/835034/batlas-location> .
 
@@ -14950,7 +14968,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>;
     dcterms:description "";
-    dcterms:modified "2012-02-14T23:43:13-04:00";
+    dcterms:modified "2026-10-16T19:02:29-04:00";
     dcterms:title "Essedones";
     owl:sameAs <http://pleiades.stoa.org/places/835034/essedones> .
 
@@ -14961,7 +14979,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/108993388>;
     dcterms:description "";
-    dcterms:modified "2012-02-14T23:43:13-04:00";
+    dcterms:modified "2026-10-16T19:02:29-04:00";
     dcterms:title "Issedones";
     owl:sameAs <http://pleiades.stoa.org/places/835034/issedones> .
 
@@ -24351,6 +24369,14 @@
     rdfs:label "Durley Hill";
     rdfs:comment "A Roman villa under Durley Hill cemetery, Keynsham, United Kingdom.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/847419768> .
+
+<https://pleiades.stoa.org/places/847419768/durley-hill> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern English toponym designating the Roman period villa site.";
+    dcterms:modified "2026-10-13T13:45:52-04:00";
+    dcterms:title "Durley Hill";
+    owl:sameAs <http://pleiades.stoa.org/places/847419768/durley-hill> .
 
 <https://pleiades.stoa.org/places/847419768/pastscape-location-durley-hill> dcterms:creator <https://pleiades.stoa.org/author/maximeg>;
     dcterms:description "";
@@ -53888,6 +53914,39 @@
     dcterms:title "OSM location of Nuraghe Lobaos II";
     owl:sameAs <http://pleiades.stoa.org/places/871179047/osm-location-of-nuraghe-lobaos-ii> .
 
+<https://pleiades.stoa.org/places/871749315%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Casa di L. Aelius Magnus";
+    rdfs:comment "First excavated in 1808, later converted to Sarno baths and gymnasium. Linked to VIII.2.2.23";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/871749315> .
+
+<https://pleiades.stoa.org/places/871749315/p-lod-location> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/acampbell>,
+        <https://pleiades.stoa.org/author/sebs>;
+    dcterms:description "Representative location derived from PALP coordinates";
+    dcterms:modified "2026-10-14T14:04:48-04:00";
+    dcterms:title "P-LOD Location";
+    owl:sameAs <http://pleiades.stoa.org/places/871749315/p-lod-location> .
+
+<https://pleiades.stoa.org/places/871749316%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Casa della Soffitta";
+    spatial:C <https://pleiades.stoa.org/places/984330150%23this>;
+    rdfs:comment "House in Pompeii, excavated in 1877, 1905, and restored in 1979.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/871749316> .
+
+<https://pleiades.stoa.org/places/871749316/casa-della-soffitta> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "";
+    dcterms:modified "2026-10-12T18:03:16-04:00";
+    dcterms:title "Casa della Soffitta";
+    owl:sameAs <http://pleiades.stoa.org/places/871749316/casa-della-soffitta> .
+
+<https://pleiades.stoa.org/places/871749316/wikidata-location> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Representative location derived from Wikidata";
+    dcterms:modified "2026-10-12T18:03:16-04:00";
+    dcterms:title "Wikidata Location";
+    owl:sameAs <http://pleiades.stoa.org/places/871749316/wikidata-location> .
+
 <https://pleiades.stoa.org/places/871762029%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Tall Bint al-Amīr";
     rdfs:comment "Babylonian site where find of cuneiform inscription has been made.";
@@ -79759,6 +79818,28 @@
     dcterms:title "Vatican City";
     owl:sameAs <http://pleiades.stoa.org/places/88500321/vatican-city> .
 
+<https://pleiades.stoa.org/places/885033375%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Casa di Adone Ferito";
+    spatial:C <https://pleiades.stoa.org/places/984330151%23this>;
+    rdfs:comment "Also known as the House of Adonis, excavated in the 1830s and restored 1976. Linked to property VI.7.1-2";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/885033375> .
+
+<https://pleiades.stoa.org/places/885033375/casa-di-ione> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "";
+    dcterms:modified "2026-10-14T14:03:37-04:00";
+    dcterms:title "Casa di Ione";
+    owl:sameAs <http://pleiades.stoa.org/places/885033375/casa-di-ione> .
+
+<https://pleiades.stoa.org/places/885033375/p-lod-location-1> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/acampbell>,
+        <https://pleiades.stoa.org/author/sebs>;
+    dcterms:description "Representative location derived from PALP coordinates.";
+    dcterms:modified "2026-10-14T14:03:37-04:00";
+    dcterms:title "P-LOD Location";
+    owl:sameAs <http://pleiades.stoa.org/places/885033375/p-lod-location-1> .
+
 <https://pleiades.stoa.org/places/885142066%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Hippodrome at Ptolemais/Barkes Limen";
     spatial:C <https://pleiades.stoa.org/places/373879%23this>;
@@ -101636,14 +101717,21 @@
         "PALP Property VI.15.5",
         "PompeiiinPictures VI.15.5 Pompeii. Casa di M. Pupius Rufus",
         "Wikidata House of M. Pupius Rufus (VI.15.5) (Q27686453)";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>;
     dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
     dcterms:description "Property in Pompeii excavated in 1895.";
-    dcterms:modified "2026-09-14T10:55:20-04:00";
+    dcterms:modified "2026-10-17T22:46:13-04:00";
     dcterms:title "Casa di M. Pupius Rufus";
     cito:citesAsRelated <https://resource.manto.unh.edu/11319961>,
         <https://www.wikidata.org/wiki/Q27686453>;
     cito:citesForInformation <https://palp.art/browse/%23r6-i15-p5?map-lat=40.752310&map-lng=14.484342&map-z=18.00>,
         <https://pompeiiinpictures.com/pompeiiinpictures/R6/6%252015%252005.htm>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/984330151>;
     owl:sameAs <http://pleiades.stoa.org/places/800144977>;
     skos:altLabel "Casa di M. Pupius Rufus"@it;
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -101751,6 +101839,30 @@
     pleiades:hasName <https://pleiades.stoa.org/places/adliye>,
         <https://pleiades.stoa.org/places/gulec>,
         <https://pleiades.stoa.org/places/hoyukbayiri-tepe> .
+
+<https://pleiades.stoa.org/places/800834026> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Plin., NH (Mayhoff: PHI) 3.110.1",
+        "Wikidata Regio V Picenum (Q510990)",
+        "Wikipedia (Italian) Regio V Picenum";
+    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/sarcanon>;
+    dcterms:description "One of the administrative regions from Augustus's division of Italy, comprising Picenum. Described by Pliny the Elder in Book III of his Natural History.";
+    dcterms:modified "2026-10-12T17:52:44-04:00";
+    dcterms:subject "Augustan regiones";
+    dcterms:title "Italia, Regio V";
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/251/1803-1810%23252>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q510990>;
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Regio_V_Picenum>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/413135>,
+        <https://pleiades.stoa.org/places/413246>,
+        <https://pleiades.stoa.org/places/413253>;
+    owl:sameAs <http://pleiades.stoa.org/places/800834026>;
+    skos:altLabel "Regio V Picenum"@la;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/regio-augusti>;
+    pleiades:hasName <https://pleiades.stoa.org/places/regio-v> .
 
 <https://pleiades.stoa.org/places/800924137> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -102234,7 +102346,7 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/sarcanon>;
     dcterms:description "A complex of two Roman shrines to the god Vintonus on Scargill Moor, near Bowes in County Durham.";
-    dcterms:modified "2026-09-27T06:39:47-04:00";
+    dcterms:modified "2026-10-17T03:59:33-04:00";
     dcterms:title "Scargill Moors Roman shrines";
     cito:citesAsRelated <https://vici.org/vici/28115/>,
         <https://www.wikidata.org/wiki/Q17647282>;
@@ -105363,7 +105475,7 @@
         <https://pleiades.stoa.org/author/jbecker>;
     dcterms:creator <https://pleiades.stoa.org/author/lctsui>;
     dcterms:description "A small triangular plot near the northern wall of Italica that contained a garden in antiquity.";
-    dcterms:modified "2026-09-27T20:27:55-04:00";
+    dcterms:modified "2026-10-17T03:55:53-04:00";
     dcterms:subject "GardRomEmp";
     dcterms:title "Public Square at Italica";
     cito:citesForInformation <http://www.worldcat.org/oclc/1090911182>;
@@ -105377,13 +105489,13 @@
 <https://pleiades.stoa.org/places/810966696> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Brühlmann 2022 ",
-        "Caballos 1999 ";
+        "Caballas Rufino 2006 ";
     dcterms:contributor <https://pleiades.stoa.org/author/gmckee>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/lctsui>;
     dcterms:description "A building that has been identified as the seat of a Collegium because of its internal structure and size, was previously known as the\"House of the Exedra\".";
-    dcterms:modified "2023-06-20T19:37:40-04:00";
+    dcterms:modified "2026-10-14T12:42:05-04:00";
     dcterms:subject "GardRomEmp";
     dcterms:title "Collegium at Italica";
     cito:citesForInformation <http://www.worldcat.org/oclc/916989580>,
@@ -105450,11 +105562,12 @@
 <https://pleiades.stoa.org/places/811119036> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Keil 1914 no. 108",
-        "Kubińska 1968 page 146";
-    dcterms:contributor <https://pleiades.stoa.org/author/gmckee>;
+        "Kubin̋ska 1968 page 146";
+    dcterms:contributor <https://pleiades.stoa.org/author/gmckee>,
+        <https://pleiades.stoa.org/author/jbecker>;
     dcterms:creator <https://pleiades.stoa.org/author/alguan>;
     dcterms:description "Tomb garden built by C. Octabios (Octavius) Eutyches, Munatius Dionysius, and several others in Hypaipa";
-    dcterms:modified "2020-12-20T07:36:10-04:00";
+    dcterms:modified "2026-10-14T12:39:39-04:00";
     dcterms:subject "GardRomEmp";
     dcterms:title "Tomb Garden of C. Octabios Eutyches and Munatios Dionysios at Hypaipa";
     cito:citesForInformation <http://www.worldcat.org/oclc/1164839456>,
@@ -105489,14 +105602,17 @@
 
 <https://pleiades.stoa.org/places/811119038> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "Hermann 1969 ";
+    dcterms:bibliographicCitation "Herrmann 1969 ",
+        "Wikidata Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason (Q141735488)";
     dcterms:contributor <https://pleiades.stoa.org/author/gmckee>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/alguan>;
     dcterms:description "A funerary grove and tomb garden built by one Epikrates, attested by inscriptions on a stele, in the unlocated Anatolian settlement of Nakrason.";
-    dcterms:modified "2020-12-02T07:54:05-04:00";
+    dcterms:modified "2026-10-14T12:37:09-04:00";
     dcterms:subject "GardRomEmp";
     dcterms:title "Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus at Nakrason";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q141735488>;
     cito:citesForInformation <http://www.worldcat.org/oclc/1123735245>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/550767>;
     owl:sameAs <http://pleiades.stoa.org/places/811119038>;
@@ -110584,6 +110700,7 @@
     rdfs:seeAlso <https://pleiades.stoa.org/places/11924823>,
         <https://pleiades.stoa.org/places/220742115>,
         <https://pleiades.stoa.org/places/260329425>,
+        <https://pleiades.stoa.org/places/319881459>,
         <https://pleiades.stoa.org/places/433032>,
         <https://pleiades.stoa.org/places/615138225>,
         <https://pleiades.stoa.org/places/723728396>,
@@ -119087,20 +119204,25 @@
 
 <https://pleiades.stoa.org/places/835034> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 85 Issedones/Essedones";
+    dcterms:bibliographicCitation "BAtlas 85 Issedones/Essedones",
+        "Plin., NH (Mayhoff: PHI) 4.88.5",
+        "Plin., NH (Mayhoff: PHI) 6.50.6",
+        "RE Issedoi (Albert Herrmann)";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Diane Braund" ],
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Barrington Atlas grid 85 Unlocated";
     dcterms:creator <http://viaf.org/viaf/108993388>;
     dcterms:description "An ancient place, cited: BAtlas 85 unlocated Issedones/Essedones";
-    dcterms:modified "2012-07-23T15:04:52-04:00";
+    dcterms:modified "2026-10-16T19:02:29-04:00";
     dcterms:title "Issedones/Essedones";
-    cito:citesForInformation <http://atlantides.org/bibliography/r.html%23RE-Issedoi>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/303/317-326>,
+        <https://latin.packhum.org/loc/978/1/399/348-357>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://de.wikisource.org/wiki/RE:Issedoi>;
     owl:sameAs <http://pleiades.stoa.org/places/835034>;
     skos:altLabel "Essedones",
         "Issedones";
@@ -122702,7 +122824,7 @@
         <https://pleiades.stoa.org/author/sgillies>;
     dcterms:creator <https://pleiades.stoa.org/author/thomase>;
     dcterms:description "The stadium at Aphrodisias dates to the later first century A.D. and is thought to be part of a comprehensive program of monumental construction undertaken at the site. The stadium's form is unusual and scholars assign it to a category referred to as στάδιον ἀμφιθέατρον (an \"amphitheatral stadium\").";
-    dcterms:modified "2025-08-10T12:01:12-04:00";
+    dcterms:modified "2026-10-14T12:33:44-04:00";
     dcterms:subject "stadium";
     dcterms:title "Stadium (Aphrodisias)";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q135671890>;
@@ -128595,20 +128717,23 @@
     dcterms:bibliographicCitation "NHLE Roman villa, Durley Hill, Keynsham",
         "Wikidata Roman villa of Keynsham (Q15126688)",
         "vici.org Villa at Keynsham Cemetery (6732)";
-    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/maximeg>;
     dcterms:description "A Roman villa under Durley Hill cemetery, Keynsham, United Kingdom.";
-    dcterms:modified "2026-10-08T17:42:54-04:00";
+    dcterms:modified "2026-10-13T13:45:52-04:00";
     dcterms:title "Durley Hill";
     cito:citesAsRelated <https://historicengland.org.uk/listing/heritage-gateway/results/record/f47f405f-d030-4528-9054-1126aee5bfb8/61193>,
         <https://vici.org/vici/6732/>,
         <https://www.wikidata.org/wiki/Q15126688>;
     owl:sameAs <http://pleiades.stoa.org/places/847419768>;
+    skos:altLabel "Durley Hill"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/villa>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/pastscape-location-durley-hill> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/pastscape-location-durley-hill>;
+    pleiades:hasName <https://pleiades.stoa.org/places/durley-hill> .
 
 <https://pleiades.stoa.org/places/847557245> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -139296,10 +139421,10 @@
 <https://pleiades.stoa.org/places/857087> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/87%23G2>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 87 G2 Cherobios/Rhoas fl.",
+    dcterms:bibliographicCitation "BAtlas 87 G2 Cherobios/Rhoas fl.",
+        "Periplous (Shipley 2019) 81",
         "Plin., NH (Mayhoff: PHI) 6.14.3",
-        "RE Cherobios";
+        "RE Cherobios (Wilhelm Tomaschek)";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Diane Braund" ],
         <http://viaf.org/viaf/59162760>,
@@ -139310,10 +139435,10 @@
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "An ancient place, cited: BAtlas 87 G2 Cherobios/Rhoas fl.";
-    dcterms:modified "2023-05-31T20:17:13-04:00";
+    dcterms:modified "2026-10-15T19:41:58-04:00";
     dcterms:title "Cherobios/Rhoas (river)";
-    cito:citesAsEvidence <http://atlantides.org/bibliography/s.html%23Scylax-81>,
-        <https://latin.packhum.org/loc/978/1/352/696-701%23381>;
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/352/696-701%23381>,
+        <https://www.jstor.org/stable/j.ctv1931hb3>;
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://de.wikisource.org/wiki/RE:Cherobios>;
     owl:sameAs <http://pleiades.stoa.org/places/857087>;
@@ -140039,13 +140164,13 @@
     dcterms:creator <http://viaf.org/viaf/108993388>,
         <https://pleiades.stoa.org/author/sinclair-t>;
     dcterms:description "Euchaita was a Byzantine city and diocese located in Helenopontus, the Armeniac Theme of northern Asia Minor. The settlement was a station along the Roman road from Ancyra to Amasea.";
-    dcterms:modified "2025-08-28T21:45:56-04:00";
+    dcterms:modified "2026-10-16T15:13:33-04:00";
     dcterms:title "Euchaita";
     cito:citesAsRelated <https://darmc.harvard.edu/>,
         <https://kulturenvanteri.com/yer/eukhaita/%2317.1/40.568663/35.269386>,
         <https://nomisma.org/id/euchaitis>,
         <https://www.trismegistos.org/place/33628>,
-        <https://www.wikidata.org/>;
+        <https://www.wikidata.org/wiki/Q383825>;
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://en.wikipedia.org/wiki/Euchaita>,
         <https://history.princeton.edu/centers-programs/center-collaborative-history/special-projects/past-projects/avkat>,
@@ -159298,6 +159423,61 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/nuraghe>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-nuraghe-lobaos-i>,
         <https://pleiades.stoa.org/places/osm-location-of-nuraghe-lobaos-ii> .
+
+<https://pleiades.stoa.org/places/871749315> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "MANTO 11319671: Casa di L. Aelius Magnus VIII 2, 21 (Pompeii)",
+        "PALP Property VIII.2.21",
+        "PompeiiinPictures VIII.2.21 Pompeii. House of L. Aelius Magnus.";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/sebs>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "First excavated in 1808, later converted to Sarno baths and gymnasium. Linked to VIII.2.2.23";
+    dcterms:modified "2026-10-14T14:04:48-04:00";
+    dcterms:title "Casa di L. Aelius Magnus";
+    cito:citesForInformation <http://palp.art/browse/r8-i2-p21>,
+        <https://pompeiiinpictures.com/pompeiiinpictures/R8/8%252002%252021.htm>,
+        <https://resource.manto.unh.edu/11319671>;
+    owl:sameAs <http://pleiades.stoa.org/places/871749315>;
+    geo:lat 40.7480325469;
+    geo:long 14.4858162636;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/bath>,
+        <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/p-lod-location> .
+
+<https://pleiades.stoa.org/places/871749316> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Arachne Casa V 3, 4 Casa della Soffitta Pompei, Italien, Europa",
+        "MANTO 11319326: Casa della Soffita V 3, 4 (Pompeii)",
+        "PALP Property V.3.4",
+        "PompeiiinPictures V.3.4 Pompeii. Casa della Soffitta.",
+        "Wikidata Casa della Soffitta (Q27685958)",
+        "iDAI.gazetteer 2117107: Casa V 3, 4 Casa della Soffitta";
+    dcterms:contributor <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "House in Pompeii, excavated in 1877, 1905, and restored in 1979.";
+    dcterms:modified "2026-10-12T19:59:49-04:00";
+    dcterms:title "Casa della Soffitta";
+    cito:citesAsRelated <https://arachne.dainst.org/entity/1213021>,
+        <https://gazetteer.dainst.org/place/2117107>,
+        <https://resource.manto.unh.edu/11319326>,
+        <https://www.wikidata.org/wiki/Q27685958>;
+    cito:citesForInformation <http://palp.art/browse/r5-i3-p4>,
+        <https://pompeiiinpictures.com/pompeiiinpictures/R5/5%252003%252004.htm>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/984330150>;
+    owl:sameAs <http://pleiades.stoa.org/places/871749316>;
+    skos:altLabel "Casa della Soffitta"@it;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/wikidata-location>;
+    pleiades:hasName <https://pleiades.stoa.org/places/casa-della-soffitta> .
 
 <https://pleiades.stoa.org/places/871762029> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -182190,6 +182370,42 @@
         <https://pleiades.stoa.org/places/holy-see>,
         <https://pleiades.stoa.org/places/vatican-city> .
 
+<https://pleiades.stoa.org/places/885033375> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Arachne Casa VI 7, 18 Sog. Casa di Adone ferito Pompei, (Pompeii), Pompei",
+        "Laidlaw 1986 p. 148",
+        "MANTO 11319766: Casa di Adone Ferito VI 7, 18 (Pompeii)",
+        "PALP Property VI.7.18",
+        "PompeiiinPictures VI.7.18 Pompeii. Domus M. Asellini or House of Adonis",
+        "Wikidata House of Adonis (VI.7.18) (Q27686245)";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>,
+        <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Also known as the House of Adonis, excavated in the 1830s and restored 1976. Linked to property VI.7.1-2";
+    dcterms:modified "2026-10-14T14:03:37-04:00";
+    dcterms:title "Casa di Adone Ferito";
+    cito:citesAsRelated <https://arachne.dainst.org/entity/2293028>,
+        <https://resource.manto.unh.edu/11319766>,
+        <https://www.wikidata.org/wiki/Q27686245>;
+    cito:citesForInformation <http://palp.art/browse/r6-i7-p18>,
+        <https://pompeiiinpictures.com/pompeiiinpictures/R6/6%252007%252018.htm>,
+        <https://www.zotero.org/groups/pleiades/items/UB4URK2A>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/984330151>;
+    owl:sameAs <http://pleiades.stoa.org/places/885033375>;
+    geo:lat 40.751752703;
+    geo:long 14.4832148806;
+    skos:altLabel "Casa di Ione"@it;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/p-lod-location-1>;
+    pleiades:hasName <https://pleiades.stoa.org/places/casa-di-ione> .
+
 <https://pleiades.stoa.org/places/885142066> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "HGazLib 1303: Stadium, Ptolemais",
@@ -182584,11 +182800,11 @@
         <https://pleiades.stoa.org/author/rrattenborg>;
     dcterms:creator <https://pleiades.stoa.org/author/bchristiansen2>;
     dcterms:description "Hamam is a modern Turkish village near Erzurum in the Northeast of Turkey. Here an inscription of the Urartian king Argišti I, son of Minua (eighth century BCE), was found which reports the filling of a grain silo.";
-    dcterms:modified "2023-04-28T10:37:20-04:00";
+    dcterms:modified "2026-10-14T12:33:04-04:00";
     dcterms:title "Hamam (Hamamköy)";
     cito:cites <http://oracc.museum.upenn.edu/ecut/Q007033>,
-        <https://www.zotero.org/groups/pleiades/items/WZTF2D3Q>;
-    cito:citesForInformation <https://www.zotero.org/groups/pleiades/items/SHPA4R98>;
+        <http://www.worldcat.org/oclc/174421990>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/428815782>;
     owl:sameAs <http://pleiades.stoa.org/places/887415955>;
     skos:altLabel "Hamamköy"@tr;
     skos:inScheme <https://pleiades.stoa.org/places>;
@@ -191442,7 +191658,7 @@
 <https://pleiades.stoa.org/places/893924> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/91%23F5>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 .079",
         "BAtlas 91 F5 A079";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jbecker>,
@@ -191452,10 +191668,10 @@
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F5 A079";
-    dcterms:modified "2016-11-02T08:30:26-04:00";
+    dcterms:modified "2026-10-15T09:00:10-04:00";
     dcterms:title "A079";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
-        <https://www.zotero.org/groups/pleiades/items/itemKey/P5HSXXJZ/q/uruk>;
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/893924>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F5 A079" ];
@@ -191465,7 +191681,7 @@
 <https://pleiades.stoa.org/places/893925> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     osspatial:within <http://atlantides.org/capgrids/91%23G5>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 221",
         "BAtlas 91 G5 A221";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/jbecker>,
@@ -191475,10 +191691,10 @@
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 G5 A221";
-    dcterms:modified "2016-11-02T08:29:47-04:00";
+    dcterms:modified "2026-10-15T09:03:11-04:00";
     dcterms:title "A221";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
-        <https://www.zotero.org/groups/pleiades/items/itemKey/P5HSXXJZ/q/uruk>;
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/893925>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 G5 A221" ];
@@ -192176,6 +192392,7 @@
         "CENTCOM Iraq 029. Birs Nimrud (ancient: Borsippa)",
         "DARMC 22472",
         "TM GEO ID 11621: Borsippa (Birs Nimrud)",
+        "ToposText Borsippa (Babylonia) 6 Birs Nimrud",
         "Wikidata Borsippa (Q625134)",
         "Wikipedia (English) Borsippa";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
@@ -192186,6 +192403,7 @@
             foaf:name "B. Siewert-Mayer" ],
         <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/cjohansson>,
         <https://pleiades.stoa.org/author/ekansa>,
         <https://pleiades.stoa.org/author/fdeblauwe>,
@@ -192197,7 +192415,7 @@
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient city of Sumer, southwest of Babylon, on the east bank of the Euphrates River. Modern Birs Nimrūd in Iraq.";
-    dcterms:modified "2025-08-05T10:39:19-04:00";
+    dcterms:modified "2026-10-15T09:09:51-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -192208,6 +192426,7 @@
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <http://www.worldcat.org/oclc/483580>,
         <https://en.wikipedia.org/wiki/Borsippa>,
+        <https://topostext.org/place/324443UBor>,
         <https://www.cemml.colostate.edu/cultural/09476/iraqstart.html>,
         <https://www.jstor.org/stable/4200274>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/184449166>,
@@ -194745,22 +194964,24 @@
 
 <https://pleiades.stoa.org/places/894108> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 013",
         "BAtlas 91 F4 Tell Abu Jelamid";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell Abu Jelamid";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F4 Tell Abu Jelamid";
-    dcterms:modified "2012-10-20T20:02:53-04:00";
+    dcterms:modified "2026-10-15T09:40:12-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell Abu Jelamid";
-    cito:citesForInformation <http://atlantides.org/bibliography/a.html%23Adams-1972.013>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894108>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F4 Tell Abu Jelamid" ];
@@ -194877,22 +195098,24 @@
 
 <https://pleiades.stoa.org/places/894115> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 212",
         "BAtlas 91 F5 Tell al-Daym";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell al-Daym";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F5 Tell al-Daym";
-    dcterms:modified "2012-10-20T20:02:56-04:00";
+    dcterms:modified "2026-10-15T09:40:39-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell al-Daym";
-    cito:citesForInformation <http://atlantides.org/bibliography/a.html%23Adams-1972.212>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894115>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F5 Tell al-Daym" ];
@@ -194953,22 +195176,24 @@
 
 <https://pleiades.stoa.org/places/894118> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 055",
         "BAtlas 91 F4 Tell al-Hargawi";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell al-Hargawi";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F4 Tell al-Hargawi";
-    dcterms:modified "2012-10-20T20:02:57-04:00";
+    dcterms:modified "2026-10-15T09:43:46-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell al-Hargawi";
-    cito:citesForInformation <http://atlantides.org/bibliography/a.html%23Adams-1972.055>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894118>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F4 Tell al-Hargawi" ];
@@ -195025,22 +195250,24 @@
 
 <https://pleiades.stoa.org/places/894121> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 026",
         "BAtlas 91 F4 Tell al-Mas'ud";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell al-Mas'ud";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F4 Tell al-Mas'ud";
-    dcterms:modified "2012-10-20T20:02:58-04:00";
+    dcterms:modified "2026-10-15T09:39:15-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell al-Mas'ud";
-    cito:citesForInformation <http://atlantides.org/bibliography/a.html%23Adams-1972.026>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894121>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F4 Tell al-Mas'ud" ];
@@ -195049,16 +195276,18 @@
 
 <https://pleiades.stoa.org/places/894122> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 201",
         "BAtlas 91 F5 Tell al-Rishayd";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell al-Rishayd";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F5 Tell al-Rishayd";
-    dcterms:modified "2012-10-20T20:02:59-04:00";
+    dcterms:modified "2026-10-15T09:43:18-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
@@ -195073,7 +195302,7 @@
 
 <https://pleiades.stoa.org/places/894123> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Adams 1972 072",
         "BAtlas 91 F5 Tell al-Umfuggar";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
@@ -195084,13 +195313,13 @@
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F5 Tell al-Umfuggar";
-    dcterms:modified "2016-11-02T10:10:30-04:00";
+    dcterms:modified "2026-10-15T09:11:02-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell al-Umfuggar";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
-        <https://www.zotero.org/groups/pleiades/items/itemKey/P5HSXXJZ/q/uruk>;
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894123>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F5 Tell al-Umfuggar" ];
@@ -195845,22 +196074,26 @@
 
 <https://pleiades.stoa.org/places/894153> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 91 F5 Tell Suraysur";
-    dcterms:contributor <http://viaf.org/viaf/59162760>,
+    dcterms:bibliographicCitation "Adams 1972 210",
+        "BAtlas 91 F5 Tell Suraysur",
+        "Wikidata Tell Suraysur (Q141740747)";
+    dcterms:contributor <http://darmc.harvard.edu>,
+        <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tell Suraysur, Tell Suraysur and Tell Karuk";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
     dcterms:description "An ancient place, cited: BAtlas 91 F5 Tell Suraysur";
-    dcterms:modified "2012-10-20T20:03:19-04:00";
+    dcterms:modified "2026-10-15T09:33:31-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Tell Suraysur";
-    cito:citesForInformation <http://atlantides.org/bibliography/a.html%23Adams-1972.210>,
-        <http://www.worldcat.org/oclc/43970336>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q141740747>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/483580>;
     owl:sameAs <http://pleiades.stoa.org/places/894153>;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 91 F5 Tell Suraysur" ];
@@ -211884,6 +212117,17 @@
     pleiades:nameRomanized "Casa della Diana Arcaizzante";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/casa-della-soffitta> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Casa della Soffitta (Q27685958)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q27685958>;
+    owl:sameAs <http://pleiades.stoa.org/places/casa-della-soffitta>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Casa della Soffitta"@it;
+    pleiades:nameRomanized "Casa della Soffitta";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/casa-dellalbergo> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikipedia (Italian) Casa dell'Albergo";
     cito:citesForInformation <https://it.wikipedia.org>;
@@ -211916,6 +212160,17 @@
     pleiades:nameAttested "Casa di Goethe"@it;
     pleiades:nameRomanized "Casa di Goethe";
     pleiades:start_date 1700 .
+
+<https://pleiades.stoa.org/places/casa-di-ione> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "PompeiiinPictures VI.7.18 Pompeii. Domus M. Asellini or House of Adonis";
+    cito:citesAsDataSource <https://pompeiiinpictures.com/pompeiiinpictures/R6/6%252007%252018.htm>;
+    owl:sameAs <http://pleiades.stoa.org/places/casa-di-ione>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Casa di Ione"@it;
+    pleiades:nameRomanized "Casa di Ione";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/casa-di-m-pupius-rufus> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikidata House of M. Pupius Rufus (VI.15.5) (Q27686453)";
@@ -227879,6 +228134,17 @@
     pleiades:nameAttested "Dura-Europus"@en;
     pleiades:nameRomanized "Dura-Europus";
     pleiades:start_date 1900 .
+
+<https://pleiades.stoa.org/places/durley-hill> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "NHLE Roman villa, Durley Hill, Keynsham";
+    cito:citesAsDataSource <https://historicengland.org.uk/listing/heritage-gateway/results/record/f47f405f-d030-4528-9054-1126aee5bfb8/61193>;
+    owl:sameAs <http://pleiades.stoa.org/places/durley-hill>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Durley Hill"@en;
+    pleiades:nameRomanized "Durley Hill";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/dusae-ad-olympum> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "";
@@ -253417,6 +253683,28 @@
         "Pʻičvnari";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/p-lod-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.485789040076057, 40.747825014408996, 41.827900000003865], [14.485836215431318, 40.74783720328951, 41.827900000003865], [14.485991168233264, 40.747947165121374, 41.827900000003865], [14.48590174936178, 40.74819693207742, 41.827900000003865], [14.485882665980442, 40.74822946277373, 41.827900000003865], [14.485767020893093, 40.748195532014144, 41.827900000003865], [14.48568700097062, 40.74817034182306, 41.827900000003865], [14.485635975979527, 40.74814865888058, 41.827900000003865], [14.485729924506618, 40.74788844316214, 41.827900000003865], [14.485742423181751, 40.74786489921494, 41.827900000003865], [14.485789040076057, 40.747825014408996, 41.827900000003865]]]}";
+    osgeo:asWKT "POLYGON Z ((14.4857890400760567 40.7478250144089955 41.8279000000038650, 14.4858362154313181 40.7478372032895066 41.8279000000038650, 14.4859911682332640 40.7479471651213743 41.8279000000038650, 14.4859017493617799 40.7481969320774198 41.8279000000038650, 14.4858826659804425 40.7482294627737289 41.8279000000038650, 14.4857670208930926 40.7481955320141438 41.8279000000038650, 14.4856870009706196 40.7481703418230623 41.8279000000038650, 14.4856359759795268 40.7481486588805808 41.8279000000038650, 14.4857299245066180 40.7478884431621395 41.8279000000038650, 14.4857424231817511 40.7478648992149388 41.8279000000038650, 14.4857890400760567 40.7478250144089955 41.8279000000038650))";
+    dcterms:bibliographicCitation "P-LOD Property VIII.2.21";
+    cito:citesAsDataSource <https://p-lod.org/urn/urn:p-lod:id:r8-i2-p21>;
+    owl:sameAs <http://pleiades.stoa.org/places/p-lod-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
+<https://pleiades.stoa.org/places/p-lod-location-1> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.483146862451248, 40.751571287937686, -0.00010000000475], [14.483272258260758, 40.751623177863394, -0.00010000000475], [14.483410618503914, 40.75183911342408, 41.827900000003865], [14.48338359738181, 40.75188308796747, 41.827900000003865], [14.483358630479367, 40.75191990562105, 41.827900000003865], [14.483004942334059, 40.75179040816417, 0.07390000000305], [14.483116825719854, 40.75161008931995, 41.827900000003865], [14.483143090340002, 40.75157218168734, 41.827900000003865], [14.483146862451248, 40.751571287937686, -0.00010000000475]]]}";
+    osgeo:asWKT "POLYGON Z ((14.4831468624512478 40.7515712879376863 -0.0001000000047500, 14.4832722582607580 40.7516231778633937 -0.0001000000047500, 14.4834106185039140 40.7518391134240829 41.8279000000038650, 14.4833835973818097 40.7518830879674709 41.8279000000038650, 14.4833586304793673 40.7519199056210510 41.8279000000038650, 14.4830049423340590 40.7517904081641689 0.0739000000030500, 14.4831168257198541 40.7516100893199535 41.8279000000038650, 14.4831430903400022 40.7515721816873366 41.8279000000038650, 14.4831468624512478 40.7515712879376863 -0.0001000000047500))";
+    dcterms:bibliographicCitation "P-LOD Property VI.7.18";
+    cito:citesAsDataSource <https://p-lod.org/urn/urn:p-lod:id:r6-i7-p18>;
+    owl:sameAs <http://pleiades.stoa.org/places/p-lod-location-1>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/padishxvargar> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/padishxvargar>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 90 Parachoatras/Choatras M./Padishxvargar" ];
@@ -256351,6 +256639,17 @@
     pleiades:nameAttested "Regio IV"@la;
     pleiades:nameRomanized "Regio IV";
     pleiades:start_date -30 .
+
+<https://pleiades.stoa.org/places/regio-v> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Regio V Picenum (Q510990)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q510990>;
+    owl:sameAs <http://pleiades.stoa.org/places/regio-v>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Regio V Picenum"@la;
+    pleiades:nameRomanized "Regio V Picenum";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/regio-xii-piscina-publica> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/regio-xii-piscina-publica>;
@@ -267929,15 +268228,6 @@
     pleiades:nameRomanized "Whitley Castle";
     pleiades:start_date 1700 .
 
-<https://pleiades.stoa.org/places/wikidata-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    dcterms:bibliographicCitation "Wikidata House of M. Pupius Rufus (VI.15.5) (Q27686453)";
-    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q27686453>;
-    owl:sameAs <http://pleiades.stoa.org/places/wikidata-location>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
-    pleiades:end_date 2099;
-    pleiades:start_date 2000 .
-
 <https://pleiades.stoa.org/places/wikidata-location-of-kouphovouno> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "Wikidata Kouphovouno";
     cito:citesAsDataSource <https://www.wikidata.org/wiki/Q3199318>;
@@ -270038,7 +270328,7 @@
     dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A number of monumental, rupestral tombs at ancient Amaseia (modern Amasya in Turkey) among which 5 large ones are mentioned by Strabo and attributed to the kings. Mount Harşena and the Rock-tombs of the Pontic Kings were submitted to the Tentative World Heritage Lists in 2005 by the Permanent Delegation of Turkey to UNESCO.";
-    dcterms:modified "2026-10-01T10:39:54-04:00";
+    dcterms:modified "2026-10-17T04:18:33-04:00";
     dcterms:title "Pontic rock-cut tombs";
     cito:citesAsRelated <https://en.wikipedia.org/wiki/Amasya>;
     cito:citesForInformation <https://en.wikipedia.org/wiki/Tombs_of_the_kings_of_Pontus>,
@@ -281959,6 +282249,18 @@
     pleiades:nameRomanized "Verbeia";
     pleiades:start_date -30 .
 
+<https://pleiades.stoa.org/places/wikidata-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    dcterms:bibliographicCitation "Wikidata Casa della Soffitta (Q27685958)",
+        "Wikidata House of M. Pupius Rufus (VI.15.5) (Q27686453)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q27685958>,
+        <https://www.wikidata.org/wiki/Q27686453>;
+    owl:sameAs <http://pleiades.stoa.org/places/wikidata-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <http://atlantides.org/capgrids/8%23E2> osgeo:extent <http://atlantides.org/capgrids/8%23E2-extent> .
 
 <http://atlantides.org/capgrids/8%23E4> osgeo:extent <http://atlantides.org/capgrids/8%23E4-extent> .
@@ -288748,7 +289050,7 @@
         <https://pleiades.stoa.org/places/912849%23this>,
         <https://pleiades.stoa.org/places/928161013%23this>,
         <https://pleiades.stoa.org/places/937318869%23this>;
-    rdfs:comment "An ancient settlement on the Euphrates river in modern Syria.";
+    rdfs:comment "An ancient settlement on the Euphrates River in modern Syria.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/893990> .
 
 <http://atlantides.org/capgrids/87%23K2> osgeo:extent <http://atlantides.org/capgrids/87%23K2-extent> .
@@ -288763,8 +289065,8 @@
         "Baird 2011 ",
         "Baird 2018 ",
         "Baird 2026 ",
+        "Brody 2012 ",
         "Brody 2025 ",
-        "Brody [2012] ",
         "DARMC 22390",
         "Dirven 1999 ",
         "Dura-Europos, 'Pompeii of the Syrian Desert' (James) ",
@@ -288791,6 +289093,7 @@
         "Wikidata WikiProject YDEA: Yale Digital Dura Europos Archive",
         "Wikipedia (English) Dura-Europos",
         "iDAI.gazetteer 2296401: Dura Europos",
+        "nomisma.org Dura-Europus",
         "vici.org 18095: Doura";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Rajas Pradhan" ],
@@ -288815,13 +289118,14 @@
     dcterms:coverage "near Salihiya SYR";
     dcterms:creator <http://viaf.org/viaf/39678158>,
         <http://viaf.org/viaf/52023947>;
-    dcterms:description "An ancient settlement on the Euphrates river in modern Syria.";
-    dcterms:modified "2026-07-15T22:18:04-04:00";
+    dcterms:description "An ancient settlement on the Euphrates River in modern Syria.";
+    dcterms:modified "2026-10-17T16:28:24-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
     dcterms:title "D(o)ura/Europos";
     cito:citesAsRelated <http://arachne.uni-koeln.de/item/topographie/8006768>,
+        <http://nomisma.org/id/dura-europus>,
         <http://syriaca.org/place/77>,
         <http://vocab.getty.edu/page/tgn/7002270>,
         <http://www.geonames.org/172481/qal-at-as-salihiyah.html>,
@@ -289402,14 +289706,14 @@
         [ rdfs:label "OpenStreetMap (Node 1244779955, version 7, osm:changeset=28934676, 2015-02-18T14:46:26Z)" ],
         [ rdfs:label "OpenStreetMap (Way 95628504, version 6, osm:changeset=105124016, 2021-05-22T08:57:12Z)" ],
         [ rdfs:label "OpenStreetMap (Node 1796720182, version 12, osm:changeset=147899732, 2024-02-25T16:49:45Z)" ],
-        [ rdfs:label "OpenStreetMap (Node 26863815, version 7, osm:changeset=23915501, 2014-07-04T10:02:59Z)" ],
         [ rdfs:label "OpenStreetMap (Way 302197574, version 13, osm:changeset=34445487, 2015-10-05T11:03:47Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2421753190, version 7, osm:changeset=142771666, 2023-10-18T16:35:24Z)" ],
         [ rdfs:label "OpenStreetMap (Way 235301286, version 10, osm:changeset=69891707, 2019-05-04T23:26:09Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2002955813, version 2, osm:changeset=22108458, 2014-05-03T16:19:15Z)" ],
+        [ rdfs:label "OpenStreetMap (Node 26863815, version 7, osm:changeset=23915501, 2014-07-04T10:02:59Z)" ],
         [ rdfs:label "OpenStreetMap (Way 309604147, version 4, osm:changeset=148297692, 2024-03-06T14:21:13Z)" ],
-        [ rdfs:label "OpenStreetMap (Way 133840766, version 5, osm:changeset=132074647, 2023-02-04T12:39:23Z)" ],
         [ rdfs:label "OpenStreetMap (Way 205000677, version 11, osm:changeset=114477431, 2021-12-02T10:24:53Z)" ],
+        [ rdfs:label "OpenStreetMap (Way 133840766, version 5, osm:changeset=132074647, 2023-02-04T12:39:23Z)" ],
         [ rdfs:label "OpenStreetMap (Way 370462915, version 5, osm:changeset=138539870, 2023-07-15T10:52:13Z)" ],
         [ rdfs:label "OpenStreetMap (Way 364190391, version 5, osm:changeset=67712144, 2019-03-02T12:18:50Z)" ],
         [ rdfs:label "OpenStreetMap (Node 3323901629, version 1, osm:changeset=28529310, 2015-01-31T18:13:45Z)" ],
@@ -289448,11 +289752,11 @@
         [ rdfs:label "OpenStreetMap (Node 26697482, version 11, osm:changeset=19404960, 2013-12-12T00:42:17Z)" ],
         [ rdfs:label "OpenStreetMap (Way 131557337, version 8, osm:changeset=138539870, 2023-07-15T10:52:10Z)" ],
         [ rdfs:label "OpenStreetMap (Node 1696041982, version 4, osm:changeset=19632637, 2013-12-25T17:46:21Z)" ],
-        [ rdfs:label "OpenStreetMap (Way 319004042, version 6, osm:changeset=138539870, 2023-07-15T10:52:13Z)" ],
         [ rdfs:label "OpenStreetMap (Node 1256790875, version 7, osm:changeset=128683338, 2022-11-09T11:45:32Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2836024534, version 1, osm:changeset=22128095, 2014-05-04T15:41:07Z)" ],
         [ rdfs:label "OpenStreetMap (Way 266491585, version 4, osm:changeset=138539870, 2023-07-15T10:52:13Z)" ],
         [ rdfs:label "OpenStreetMap (Node 3095020681, version 3, osm:changeset=132560120, 2023-02-15T01:06:56Z)" ],
+        [ rdfs:label "OpenStreetMap (Way 319004042, version 6, osm:changeset=138539870, 2023-07-15T10:52:13Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2752467770, version 1, osm:changeset=21389183, 2014-03-29T20:07:15Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2752615769, version 1, osm:changeset=21390140, 2014-03-29T21:05:24Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2341616603, version 1, osm:changeset=16520141, 2013-06-12T07:41:14Z)" ],
@@ -289460,8 +289764,8 @@
         [ rdfs:label "OpenStreetMap (Way 124971469, version 4, osm:changeset=147052793, 2024-02-04T12:53:13Z)" ],
         [ rdfs:label "OpenStreetMap (Node 433732596, version 7, osm:changeset=75802105, 2019-10-16T21:04:42Z)" ],
         [ rdfs:label "OpenStreetMap (Way 291399482, version 3, osm:changeset=64572466, 2018-11-16T16:05:23Z)" ],
-        [ rdfs:label "OpenStreetMap (Way 133175824, version 7, osm:changeset=88521647, 2020-07-26T13:51:27Z)" ],
         [ rdfs:label "OpenStreetMap (Way 244779246, version 7, osm:changeset=96386906, 2020-12-24T12:57:03Z)" ],
+        [ rdfs:label "OpenStreetMap (Way 133175824, version 7, osm:changeset=88521647, 2020-07-26T13:51:27Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2889942917, version 1, osm:changeset=22646600, 2014-05-30T21:14:05Z)" ],
         [ rdfs:label "OpenStreetMap (Way 104909332, version 3, osm:changeset=49716533, 2017-06-21T10:29:16Z)" ],
         [ rdfs:label "OpenStreetMap (Way 230339567, version 10, osm:changeset=138539870, 2023-07-15T10:52:10Z)" ],
@@ -290411,13 +290715,14 @@
         <http://atlantides.org/capgrids/9%23F6>,
         <http://atlantides.org/capgrids/9%23G6>;
     owl:sameAs <http://pleiades.stoa.org/places/undetermined>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 83 C7 Arsai" ],
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 83 C5 Arreni" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 83 C7 Arsai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 83 D4 Athritai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 83 B6 Banoubaroi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 83 C5 Carrei" ],
         [ rdfs:label "Barrington Atlas: BAtlas 83 B5 Darae" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 83 D6 Hemnatae" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Aborake" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 83 D6 Hemnatae" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Achilleiou Kome" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Antissa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Apatouros" ],
@@ -290433,13 +290738,13 @@
         [ rdfs:label "Barrington Atlas: BAtlas 87 Boion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Diokleia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Ebriapa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 83 B5 Hippos? Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Gargaza" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Gerousa polis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Herakleion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Herakleion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Hermisium" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Hypanis, polis" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 83 B5 Hippos? Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Kimbrike? kome/Kimmerike? kome" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Kimmeris/Kimmerikon/Kimmerike/Cimmerium/Kerberias/Cerberion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 Kimmerion Pr." ],
@@ -290495,7 +290800,6 @@
         [ rdfs:label "Barrington Atlas: BAtlas 83" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 8 D2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
@@ -290505,6 +290809,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 8 G3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 H3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 8 H4" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 8 D2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 9 B5 Botis Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 9 E6 Dorvantium/[Derventio] fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 9 F6 Dounon Kolpos" ],
@@ -290606,17 +290911,17 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 E2 Euarchos/Euechos fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 A3 Gallos fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Artigula" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 82  Berressa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 B3 Hieros/Siberis fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 82  Berressa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Bonchis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Cadata" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Gale" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Gistate/Cist(a)epe" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Golpoa/Glopoa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 82  Magada" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 C2 Meles fl." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 82  Mathe" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 82  Magada" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 F2 Ocherainos/Ochosbanes/Ochthomanes fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 82  Mathe" ],
         [ rdfs:label "Barrington Atlas: BAtlas 82  Nakis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 E2 Potamoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 C2 Psilis/Papanios fl." ],
@@ -290656,7 +290961,6 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Mastya" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Matrix" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Mision" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 8 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Nymphaion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Orminion Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Paedopides fl." ],
@@ -290664,7 +290968,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Poseideion/Potistia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Priola" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sakorsa" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 8 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sanisene" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Skorobas Oros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Sthenelou monu./Lyre" ],
@@ -290672,12 +290976,13 @@
         [ rdfs:label "Barrington Atlas: BAtlas 86 Theba(is) Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tition" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tobata" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 8 G1" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Tyndaridai/Kyrsaita" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 8 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 ‘Viciu’" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Zoaka" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 Diakimelion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 86 ‘Dusae ad Olympum’" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 8 G1" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 L2 Coracanda fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 L2 Eone" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 M2 Eudousia" ],
@@ -290860,8 +291165,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 87 J2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 K2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 87 K2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 83 C4 Apataioi" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 83 C5 Arreni" ];
+        [ rdfs:label "Barrington Atlas: BAtlas 83 C4 Apataioi" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
         <https://pleiades.stoa.org/vocabularies/classical>,
         <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
@@ -291341,7 +291645,6 @@
         [ rdfs:label "Barrington Atlas: BAtlas 90 Dazan" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 (D)Elymaioi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Drybikes/Drebices" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 84 E2 Aorsoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Eneca" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gabale" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gabris" ],
@@ -291349,6 +291652,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gelan" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Gelan-Xvast-Abarvez-Husro" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Kandys" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 84 E2 Aorsoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Kaspioi/Caspii" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Kourna" ],
         [ rdfs:label "Barrington Atlas: BAtlas 90 Kyropolis" ],
