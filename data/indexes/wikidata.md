@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11530 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
+11547 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2840,6 +2840,13 @@
  - [Lucentum](https://pleiades.stoa.org/places/265954)
 
 
+## Alicudi (Q649957)
+[https://www.wikidata.org/wiki/Q649957](https://www.wikidata.org/wiki/Q649957)  
+
+### alignments:
+ - [Erikodes/Ericusa (island)](https://pleiades.stoa.org/places/462199)
+
+
 ## Aliphera (Q38281053)
 [https://www.wikidata.org/wiki/Q38281053](https://www.wikidata.org/wiki/Q38281053)  
 
@@ -4981,6 +4988,13 @@
 
 ### alignments:
  - [Apollonia](https://pleiades.stoa.org/places/481728)
+
+
+## Apollonia Salbaces (Q6032054)
+[https://www.wikidata.org/wiki/Q6032054](https://www.wikidata.org/wiki/Q6032054)  
+
+### alignments:
+ - [Apollonia Salbakes](https://pleiades.stoa.org/places/638757)
 
 
 ## Apollonieis (Q19829611)
@@ -11817,6 +11831,13 @@
  - [Bussock Camp](https://pleiades.stoa.org/places/933607030)
 
 
+## Buston VI Necropolis (Q141763734)
+[https://www.wikidata.org/wiki/Q141763734](https://www.wikidata.org/wiki/Q141763734)  
+
+### alignments:
+ - [Buston VI Necropolis](https://pleiades.stoa.org/places/875060625)
+
+
 ## Buto (Q739278)
 [https://www.wikidata.org/wiki/Q739278](https://www.wikidata.org/wiki/Q739278)  
 
@@ -18140,6 +18161,13 @@
  - [Carthage military harbor](https://pleiades.stoa.org/places/836358555)
 
 
+## Cotiaeum (Q127430054)
+[https://www.wikidata.org/wiki/Q127430054](https://www.wikidata.org/wiki/Q127430054)  
+
+### alignments:
+ - [Kotiaeion](https://pleiades.stoa.org/places/609444)
+
+
 ## Cotini (Q430457)
 [https://www.wikidata.org/wiki/Q430457](https://www.wikidata.org/wiki/Q430457)  
 
@@ -21819,6 +21847,13 @@
  - [Eretria (Thessaly)](https://pleiades.stoa.org/places/540767)
 
 
+## Ergetium (Q21236176)
+[https://www.wikidata.org/wiki/Q21236176](https://www.wikidata.org/wiki/Q21236176)  
+
+### alignments:
+ - [Sergetion/Hergetium/Ergetium](https://pleiades.stoa.org/places/465990)
+
+
 ## Ergitium (Q114568390)
 [https://www.wikidata.org/wiki/Q114568390](https://www.wikidata.org/wiki/Q114568390)  
 
@@ -22022,11 +22057,25 @@
  - [Euagina/Sebagena?](https://pleiades.stoa.org/places/628972)
 
 
+## Euboea (Q173096)
+[https://www.wikidata.org/wiki/Q173096](https://www.wikidata.org/wiki/Q173096)  
+
+### alignments:
+ - [Euboea (island)](https://pleiades.stoa.org/places/540775)
+
+
 ## Eucarpia (Q20717572)
 [https://www.wikidata.org/wiki/Q20717572](https://www.wikidata.org/wiki/Q20717572)  
 
 ### alignments:
  - [Eukarpia](https://pleiades.stoa.org/places/609378)
+
+
+## Euchaita (Q383825)
+[https://www.wikidata.org/wiki/Q383825](https://www.wikidata.org/wiki/Q383825)  
+
+### alignments:
+ - [Euchaita](https://pleiades.stoa.org/places/857120)
 
 
 ## Euganei (Q608519)
@@ -22352,6 +22401,13 @@
  - [Falerio](https://pleiades.stoa.org/places/413127)
 
 
+## Falerio Picenus amphitheatre (Q28978025)
+[https://www.wikidata.org/wiki/Q28978025](https://www.wikidata.org/wiki/Q28978025)  
+
+### alignments:
+ - [Roman amphitheater at Falerio Picenus](https://pleiades.stoa.org/places/262385625)
+
+
 ## Falerna (Q3538792)
 [https://www.wikidata.org/wiki/Q3538792](https://www.wikidata.org/wiki/Q3538792)  
 
@@ -22385,6 +22441,13 @@
 
 ### alignments:
  - [Hierakia (island)](https://pleiades.stoa.org/places/570293)
+
+
+## Fano (Q13142)
+[https://www.wikidata.org/wiki/Q13142](https://www.wikidata.org/wiki/Q13142)  
+
+### alignments:
+ - [Fanum Fortunae](https://pleiades.stoa.org/places/413129)
 
 
 ## Fanum d'Aron (Q3066668)
@@ -27500,6 +27563,13 @@
 
 ### alignments:
  - [House of the Chaste Lovers](https://pleiades.stoa.org/places/383340065)
+
+
+## House of the Drinking Contest (Q1590903)
+[https://www.wikidata.org/wiki/Q1590903](https://www.wikidata.org/wiki/Q1590903)  
+
+### alignments:
+ - [House of the Drinking Contest](https://pleiades.stoa.org/places/697493649)
 
 
 ## House of the Ephebe (Q141583086)
@@ -34368,7 +34438,6 @@
  - [Bera/Feres](https://pleiades.stoa.org/places/907598626)
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
  - [Eduranna](https://pleiades.stoa.org/places/175425813)
- - [Euchaita](https://pleiades.stoa.org/places/857120)
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
  - [Girmua](https://pleiades.stoa.org/places/248782116)
  - [Granicus (river)](https://pleiades.stoa.org/places/511260)
@@ -38131,6 +38200,13 @@
  - [Mostene](https://pleiades.stoa.org/places/550752)
 
 
+## Mosynopolis (Q1856344)
+[https://www.wikidata.org/wiki/Q1856344](https://www.wikidata.org/wiki/Q1856344)  
+
+### alignments:
+ - [*Porsulae/Maximianopolis](https://pleiades.stoa.org/places/501574)
+
+
 ## Motronynske Hill Fort (Q4304935)
 [https://www.wikidata.org/wiki/Q4304935](https://www.wikidata.org/wiki/Q4304935)  
 
@@ -39228,6 +39304,13 @@
 
 ### alignments:
  - [Etruscan necropolis of Pianacce](https://pleiades.stoa.org/places/289697636)
+
+
+## Necropoli di Dometaia (Q3346852)
+[https://www.wikidata.org/wiki/Q3346852](https://www.wikidata.org/wiki/Q3346852)  
+
+### alignments:
+ - [Etruscan necropolis of Dometaia](https://pleiades.stoa.org/places/576868068)
 
 
 ## Necropoli di Peschiera (Q91088310)
@@ -43486,6 +43569,13 @@
  - [Perinthus/Heraclea](https://pleiades.stoa.org/places/511357)
 
 
+## Peristera (Q2728339)
+[https://www.wikidata.org/wiki/Q2728339](https://www.wikidata.org/wiki/Q2728339)  
+
+### alignments:
+ - [Eudemia (island)](https://pleiades.stoa.org/places/540778)
+
+
 ## Perminounda (Q65122846)
 [https://www.wikidata.org/wiki/Q65122846](https://www.wikidata.org/wiki/Q65122846)  
 
@@ -43883,6 +43973,13 @@
 
 ### alignments:
  - [Phila](https://pleiades.stoa.org/places/541045)
+
+
+## Philadelphia (Q2085773)
+[https://www.wikidata.org/wiki/Q2085773](https://www.wikidata.org/wiki/Q2085773)  
+
+### alignments:
+ - [Philadelpheia](https://pleiades.stoa.org/places/550822)
 
 
 ## Philaidai (Q13526169)
@@ -46551,6 +46648,13 @@
 
 ### alignments:
  - [Psyra (island)](https://pleiades.stoa.org/places/550846)
+
+
+## Psaropyrgos (Q134444796)
+[https://www.wikidata.org/wiki/Q134444796](https://www.wikidata.org/wiki/Q134444796)  
+
+### alignments:
+ - [Psaropyrgos (Seriphos)](https://pleiades.stoa.org/places/480445815)
 
 
 ## Pseira (Q473606)
@@ -49353,13 +49457,6 @@
 
 ### alignments:
  - [Ponte Acque Alte](https://pleiades.stoa.org/places/147468860)
-
-
-## Q13142: Fano
-[https://www.wikidata.org/wiki/Q13142](https://www.wikidata.org/wiki/Q13142)  
-
-### alignments:
- - [Fanum Fortunae](https://pleiades.stoa.org/places/413129)
 
 
 ## Q131565042
@@ -54539,13 +54636,6 @@
  - [Roman macellum at Aeclanum](https://pleiades.stoa.org/places/570444075)
 
 
-## Q28978025: Falerio Picenus amphitheatre
-[https://www.wikidata.org/wiki/Q28978025](https://www.wikidata.org/wiki/Q28978025)  
-
-### alignments:
- - [Roman amphitheater at Falerio Picenus](https://pleiades.stoa.org/places/262385625)
-
-
 ## Q28978031: Frusinum amphitheatre
 [https://www.wikidata.org/wiki/Q28978031](https://www.wikidata.org/wiki/Q28978031)  
 
@@ -55112,6 +55202,13 @@
 
 ### alignments:
  - [Mura dell Arce](https://pleiades.stoa.org/places/15230116)
+
+
+## Q3333283
+[https://www.wikidata.org/wiki/Q3333283](https://www.wikidata.org/wiki/Q3333283)  
+
+### alignments:
+ - [Macedonia IV](https://pleiades.stoa.org/places/726728771)
 
 
 ## Q3345494
@@ -57589,13 +57686,6 @@
  - [Nymphaeum at Cupra Marittima](https://pleiades.stoa.org/places/639017286)
 
 
-## Q53673000: Roman Theatre of Falerio Picenus
-[https://www.wikidata.org/wiki/Q53673000](https://www.wikidata.org/wiki/Q53673000)  
-
-### alignments:
- - [Roman theater at Falerio Picenus](https://pleiades.stoa.org/places/672180338)
-
-
 ## Q536769: Aqua Alsietina
 [https://www.wikidata.org/wiki/Q536769](https://www.wikidata.org/wiki/Q536769)  
 
@@ -58385,6 +58475,7 @@
 
 ### alignments:
  - [Kral Kaya Mezarları](https://pleiades.stoa.org/places/650870018)
+ - [Tombs of the Kings of Pontus](https://pleiades.stoa.org/places/825080162)
 
 
 ## Q603841: Bubastis
@@ -63426,6 +63517,13 @@
 
 ### alignments:
  - [Roman theater at Cádiz](https://pleiades.stoa.org/places/434822371)
+
+
+## Roman Theatre of Falerio Picenus (Q53673000)
+[https://www.wikidata.org/wiki/Q53673000](https://www.wikidata.org/wiki/Q53673000)  
+
+### alignments:
+ - [Roman theater at Falerio Picenus](https://pleiades.stoa.org/places/672180338)
 
 
 ## Roman theatre of Ferentium (Q55992185)
@@ -71631,6 +71729,13 @@
  - [Temple of Khnum at Esna](https://pleiades.stoa.org/places/617165853)
 
 
+## Temple of Khonsu (Q746382)
+[https://www.wikidata.org/wiki/Q746382](https://www.wikidata.org/wiki/Q746382)  
+
+### alignments:
+ - [Temple of Khonsu at Karnak](https://pleiades.stoa.org/places/348714102)
+
+
 ## Temple of Kronos and Rhea (Q65238154)
 [https://www.wikidata.org/wiki/Q65238154](https://www.wikidata.org/wiki/Q65238154)  
 
@@ -73865,6 +73970,13 @@
  - [Tomb of Hilarus Fuscus](https://pleiades.stoa.org/places/242234873)
 
 
+## Tomb of Homer (Q58344705)
+[https://www.wikidata.org/wiki/Q58344705](https://www.wikidata.org/wiki/Q58344705)  
+
+### alignments:
+ - [Psaropyrgos (Ios)](https://pleiades.stoa.org/places/599909)
+
+
 ## Tomb of Kar (Q56397568)
 [https://www.wikidata.org/wiki/Q56397568](https://www.wikidata.org/wiki/Q56397568)  
 
@@ -75081,6 +75193,13 @@
 
 ### alignments:
  - [Ad Aquas Salvias](https://pleiades.stoa.org/places/422804)
+
+
+## Tre Ponti necropolis (Q105604746)
+[https://www.wikidata.org/wiki/Q105604746](https://www.wikidata.org/wiki/Q105604746)  
+
+### alignments:
+ - [Tre Ponti necropolis](https://pleiades.stoa.org/places/584272773)
 
 
 ## Tre'r Ceiri (Q1088007)

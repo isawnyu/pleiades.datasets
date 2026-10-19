@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-498 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
+499 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -3397,6 +3397,13 @@
 
 ### alignments:
  - [Chani Kokkonas](https://pleiades.stoa.org/places/113317585)
+
+
+## Toponyme 70097: Mosynopolis, Porsulis, Paisoulai, Maximianoupoli, Messine-Kale-Μοσυνόπολη, Παισούλαι, Μαξιμιανούπολη, Messine-Kale
+[https://chronique.efa.gr/?r=topo_public&id=70097](https://chronique.efa.gr/?r=topo_public&id=70097)  
+
+### alignments:
+ - [*Porsulae/Maximianopolis](https://pleiades.stoa.org/places/501574)
 
 
 ## Toponyme 70099: Delphes, Delfoi, Delfi, Delphi, Temple d'Apollon-Δελφοί, αρχαιολογικός χώρος, Ναός Απόλλωνος

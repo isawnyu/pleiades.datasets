@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5175 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
+5180 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -11494,6 +11494,13 @@
  - [Eretum](https://pleiades.stoa.org/places/413121)
 
 
+## Ergetion (Sicily)
+[https://topostext.org/place/376150UErg](https://topostext.org/place/376150UErg)  
+
+### alignments:
+ - [Sergetion/Hergetium/Ergetium](https://pleiades.stoa.org/places/465990)
+
+
 ## Eridanos R. (Athens)
 [https://topostext.org/place/380237WEri](https://topostext.org/place/380237WEri)  
 
@@ -19166,6 +19173,13 @@
 
 ### alignments:
  - [Larissa](https://pleiades.stoa.org/places/540905)
+
+
+## Larius Lake (Italia)
+[https://topostext.org/place/460093WLak](https://topostext.org/place/460093WLak)  
+
+### alignments:
+ - [Larius/Comacinus L.](https://pleiades.stoa.org/places/383689)
 
 
 ## Larsos site (Lesbos)  Larsos - Λάρσος
@@ -28816,6 +28830,27 @@
 
 ### alignments:
  - [Psaphis](https://pleiades.stoa.org/places/580093)
+
+
+## Psaropyrgos tower (Kea) Plagia
+[https://topostext.org/place/376243FPsa](https://topostext.org/place/376243FPsa)  
+
+### alignments:
+ - [Psaropyrgos (Kea)](https://pleiades.stoa.org/places/570637)
+
+
+## Psaropyrgos, tomb of Homer (Ios) 8 Psaropyrgos
+[https://topostext.org/place/368253FPsa](https://topostext.org/place/368253FPsa)  
+
+### alignments:
+ - [Psaropyrgos (Ios)](https://pleiades.stoa.org/places/599909)
+
+
+## Psaros Pyrgos (Seriphos) Evangelistrias Moni
+[https://topostext.org/place/371244FPsa](https://topostext.org/place/371244FPsa)  
+
+### alignments:
+ - [Psaropyrgos (Seriphos)](https://pleiades.stoa.org/places/480445815)
 
 
 ## Psatha tower (Megarid)

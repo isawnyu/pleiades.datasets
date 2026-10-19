@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5199 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
+5202 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -3810,6 +3810,13 @@
 
 ### alignments:
  - [Homeritai](https://pleiades.stoa.org/places/39350)
+
+
+## GEO ID 1196: Kynopolis (El-Qeis)
+[http://www.trismegistos.org/place/1196](http://www.trismegistos.org/place/1196)  
+
+### alignments:
+ - [Kynopolis/Sko/Euergetis](https://pleiades.stoa.org/places/736949)
 
 
 ## GEO ID 11991: Axios (Vardar)
@@ -19699,6 +19706,13 @@
  - [Stolos](https://pleiades.stoa.org/places/501627)
 
 
+## GEO ID 3389: Euergetis
+[http://www.trismegistos.org/place/3389](http://www.trismegistos.org/place/3389)  
+
+### alignments:
+ - [Kynopolis/Sko/Euergetis](https://pleiades.stoa.org/places/736949)
+
+
 ## GEO ID 33909: Mekyberna
 [https://www.trismegistos.org/place/33909](https://www.trismegistos.org/place/33909)  
 
@@ -28114,6 +28128,13 @@
 
 ### alignments:
  - [Acroceraunia Pr.](https://pleiades.stoa.org/places/481693)
+
+
+## GEO ID 42507
+[http://www.trismegistos.org/place/42507](http://www.trismegistos.org/place/42507)  
+
+### alignments:
+ - [Erikodes/Ericusa (island)](https://pleiades.stoa.org/places/462199)
 
 
 ## GEO ID 42508: Crathis (Crati)

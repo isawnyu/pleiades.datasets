@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1233 alignments exist in _Pleiades_ place references as of 2026-10-16. The following list of alignments is grouped by zotkey.
+1235 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -3649,6 +3649,13 @@
  - [Herakleion](https://pleiades.stoa.org/places/256197)
 
 
+## 11304371: Erytheia (Iberia)
+[https://resource.manto.unh.edu/11304371](https://resource.manto.unh.edu/11304371)  
+
+### alignments:
+ - [Aphrodisias/Erythea/Iunonis (island)](https://pleiades.stoa.org/places/255978)
+
+
 ## 11304376: the Tomb of Antaios (Libya)
 [https://resource.manto.unh.edu/11304376](https://resource.manto.unh.edu/11304376)  
 
@@ -4509,6 +4516,13 @@
 
 ### alignments:
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
+
+
+## 11313482: Catacecaumene (Mysia)
+[https://resource.manto.unh.edu/11313482](https://resource.manto.unh.edu/11313482)  
+
+### alignments:
+ - [Katakekaumene](https://pleiades.stoa.org/places/609427)
 
 
 ## 11313525: River Timavus (Italy)
