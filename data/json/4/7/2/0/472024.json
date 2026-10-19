@@ -222,13 +222,18 @@
                 "description": "Location based on OpenStreetMap",
                 "link": "https://pleiades.stoa.org/places/472024/osm-location-of-tofet",
                 "location_precision": "precise",
-                "snippet": "Cemetery, ; 750 BC - 550 BC",
+                "snippet": "Cemetery; 750 BC - 550 BC",
                 "title": "OSM location of Sulki"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "vici.org",
+            "modified": "2026-10-18T02:03:14Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "created darmc citation to preserve project linkage after DARMC location was withdrawn",
             "modified": "2026-04-13T21:47:05Z",
@@ -339,8 +344,8 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -366,12 +371,10 @@
             "details": "",
             "end": -550,
             "featureType": [
-                "cemetery",
-                ""
+                "cemetery"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "geometry": {
                 "coordinates": [
@@ -432,6 +435,16 @@
             },
             "history": [
                 {
+                    "comment": "add Generic OSM Accuracy Assessment",
+                    "modified": "2026-10-18T02:02:45Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2026-10-18T02:02:26Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2026-04-13T21:46:39Z",
                     "modifiedBy": "thomase"
@@ -452,8 +465,7 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/cemetery",
-                "https://pleiades.stoa.org/vocabularies/place-types/"
+                "https://pleiades.stoa.org/vocabularies/place-types/cemetery"
             ],
             "provenance": "OpenStreetMap (Way 320330687, version 2, osm:changeset=44453783, 2016-12-16T18:21:27Z)",
             "references": [
@@ -1351,6 +1363,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
             "otherIdentifier": "",
             "shortTitle": "DARMC",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://vici.org/vici/3503",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "citationDetail": "3503: Sulcis",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "vici.org",
             "type": "citesAsRelated"
         }
     ],

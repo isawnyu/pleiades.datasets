@@ -2,8 +2,8 @@
     "@type": "Place",
     "bbox": [
         25.308007,
-        36.7835967,
-        25.3104682,
+        36.7835376,
+        25.3104889,
         36.787045
     ],
     "connections": [
@@ -67,15 +67,21 @@
         },
         {
             "homepage": null,
-            "name": "Jeffrey Becker",
-            "uri": "https://pleiades.stoa.org/author/jbecker",
-            "username": "jbecker"
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling",
+            "username": "bkiesling"
         },
         {
             "homepage": null,
             "name": "Sean Gillies",
             "uri": "https://pleiades.stoa.org/author/sgillies",
             "username": "sgillies"
+        },
+        {
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker",
+            "username": "jbecker"
         },
         {
             "homepage": null,
@@ -90,7 +96,7 @@
             "username": "thomase"
         }
     ],
-    "created": "2009-10-15T09:10:45Z",
+    "created": "2026-10-15T20:07:11Z",
     "creators": [
         {
             "name": "C. Foss",
@@ -114,7 +120,7 @@
             },
             "id": "darmc-location-23459",
             "properties": {
-                "description": "Point location",
+                "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
                 "link": "https://pleiades.stoa.org/places/599909/darmc-location-23459",
                 "location_precision": "precise",
                 "snippet": "Unknown",
@@ -125,23 +131,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    25.3104682,
-                    36.7835967
+                    [
+                        25.3104889,
+                        36.7835722
+                    ],
+                    [
+                        25.3104591,
+                        36.7835466
+                    ],
+                    [
+                        25.3104466,
+                        36.7835376
+                    ],
+                    [
+                        25.3104328,
+                        36.7835393
+                    ],
+                    [
+                        25.310424,
+                        36.7835483
+                    ],
+                    [
+                        25.3104274,
+                        36.7835603
+                    ],
+                    [
+                        25.3104316,
+                        36.7835646
+                    ],
+                    [
+                        25.3103958,
+                        36.7835937
+                    ],
+                    [
+                        25.3104281,
+                        36.7836195
+                    ],
+                    [
+                        25.3104889,
+                        36.7835722
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
-            "id": "osm-location-of-so-called-tomb-of-homer",
+            "id": "osm-location-tomb-of-homer",
             "properties": {
-                "description": "Representative location based on OpenStreetMap",
-                "link": "https://pleiades.stoa.org/places/599909/osm-location-of-so-called-tomb-of-homer",
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/599909/osm-location-tomb-of-homer",
                 "location_precision": "precise",
-                "snippet": "Tomb",
-                "title": "OSM location of so-called Tomb of Homer"
+                "snippet": "Unknown",
+                "title": "OSM location: Tomb of Homer"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "added iDAI.gazetteer and ToposText references; added Wikidata reference provided by @bkiesling; title += \"(Ios)\"; tag + Poseidon @thomase",
+            "modified": "2026-10-17T00:12:38Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "Baseline created",
             "modified": "2026-10-15T20:07:09Z",
@@ -230,7 +279,7 @@
                     "username": null
                 }
             ],
-            "description": "Point location",
+            "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
             "details": "DARMC OBJECTID: 23459",
             "end": null,
             "featureType": [
@@ -308,7 +357,7 @@
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
             "attestations": [],
             "contributors": [],
-            "created": "2023-03-31T14:52:14Z",
+            "created": "2026-10-02T15:45:11Z",
             "creators": [
                 {
                     "homepage": null,
@@ -317,65 +366,103 @@
                     "username": "jbecker"
                 }
             ],
-            "description": "Representative location based on OpenStreetMap",
+            "description": "Location based on OpenStreetMap",
             "details": "",
             "end": null,
             "featureType": [
-                "tomb"
+                "unknown"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
             "geometry": {
                 "coordinates": [
-                    25.3104682,
-                    36.7835967
+                    [
+                        25.3104889,
+                        36.7835722
+                    ],
+                    [
+                        25.3104591,
+                        36.7835466
+                    ],
+                    [
+                        25.3104466,
+                        36.7835376
+                    ],
+                    [
+                        25.3104328,
+                        36.7835393
+                    ],
+                    [
+                        25.310424,
+                        36.7835483
+                    ],
+                    [
+                        25.3104274,
+                        36.7835603
+                    ],
+                    [
+                        25.3104316,
+                        36.7835646
+                    ],
+                    [
+                        25.3103958,
+                        36.7835937
+                    ],
+                    [
+                        25.3104281,
+                        36.7836195
+                    ],
+                    [
+                        25.3104889,
+                        36.7835722
+                    ]
                 ],
-                "type": "Point"
+                "type": "LineString"
             },
             "history": [
                 {
                     "action": "Publish externally",
-                    "modified": "2023-04-03T17:45:31Z",
-                    "modifiedBy": "thomase"
-                },
-                {
-                    "action": "Submit for review",
-                    "modified": "2023-03-31T14:52:35Z",
+                    "modified": "2026-10-17T00:13:42Z",
                     "modifiedBy": "jbecker"
                 },
                 {
-                    "comment": "added osm location",
-                    "modified": "2023-03-31T14:52:30Z",
+                    "action": "Submit for review",
+                    "modified": "2026-10-17T00:13:20Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "supersedes prev publ loc which relies on now-deprecated OSM data.",
+                    "modified": "2026-10-02T15:45:24Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
-                    "modified": "2023-03-31T14:52:14Z",
+                    "modified": "2026-10-02T15:45:12Z",
                     "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2023-03-31T14:52:14Z",
+                    "modified": "2026-10-02T15:45:11Z",
                     "modifiedBy": "jbecker"
                 }
             ],
-            "id": "osm-location-of-so-called-tomb-of-homer",
+            "id": "osm-location-tomb-of-homer",
             "locationType": [
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/tomb"
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
             ],
-            "provenance": "OpenStreetMap (Node 458896046, version 9, osm:changeset=134349286, 2023-03-31T14:51:47Z)",
+            "provenance": "OpenStreetMap (Way 1196810342, version 3, osm:changeset=162761552, 2025-02-21T01:00:58Z)",
             "references": [
                 {
-                    "accessURI": "https://www.openstreetmap.org/browse/node/458896046",
+                    "accessURI": "https://www.openstreetmap.org/browse/way/1196810342",
                     "alternateURI": "",
-                    "bibliographicURI": "",
-                    "citationDetail": "Node 458896046",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/BA93AHVQ",
+                    "citationDetail": "Way 1196810342",
                     "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
-                    "formattedCitation": "osm:node=458896046",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
                     "otherIdentifier": "",
                     "shortTitle": "OSM",
                     "type": "citesAsDataSource"
@@ -383,8 +470,8 @@
             ],
             "review_state": "published",
             "start": null,
-            "title": "OSM location of so-called Tomb of Homer",
-            "uri": "https://pleiades.stoa.org/places/599909/osm-location-of-so-called-tomb-of-homer"
+            "title": "OSM location: Tomb of Homer",
+            "uri": "https://pleiades.stoa.org/places/599909/osm-location-tomb-of-homer"
         }
     ],
     "names": [
@@ -506,20 +593,54 @@
             "otherIdentifier": "",
             "shortTitle": "RE",
             "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://topostext.org/place/368253FPsa",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MC9RGDVB",
+            "citationDetail": "Psaropyrgos, tomb of Homer (Ios) 8 Psaropyrgos",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "formattedCitation": "<div class=\"csl-entry\">Kiesling, Brady. <i>ToposText – a Reference Tool for Greek Civilization</i>. Version 2.0. Aikaterini Laskaridis Foundation, 2016. https://topostext.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "ToposText",
+            "type": "seeFurther"
+        },
+        {
+            "accessURI": "https://gazetteer.dainst.org/place/2362355",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KNGREWYQ",
+            "citationDetail": "2362355: Psaropyrgos",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>iDAI.Gazetteer</i>. Deutsches Archäologisches Institut. Accessed February 1, 2018. https://gazetteer.dainst.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "iDAI.gazetteer",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://www.wikidata.org/wiki/Q58344705",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "citationDetail": "Tomb of Homer (Q58344705)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "Wikidata",
+            "type": "citesAsRelated"
         }
     ],
     "reprPoint": [
-        25.3092376,
-        36.78532085
+        25.309223867522586,
+        36.7853114190417
     ],
     "review_state": "published",
     "rights": "Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [
         "dare:major=0",
         "dare:ancient=0",
+        "Poseidon",
         "dare:feature=cemetery"
     ],
-    "title": "Psaropyrgos",
+    "title": "Psaropyrgos (Ios)",
     "type": "FeatureCollection",
     "uri": "https://pleiades.stoa.org/places/599909"
 }
