@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11547 alignments exist in _Pleiades_ place references as of 2026-10-19. The following list of alignments is grouped by zotkey.
+11547 alignments exist in _Pleiades_ place references as of 2026-10-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -60564,13 +60564,6 @@
  - [Roman villa of Almenara-Puras](https://pleiades.stoa.org/places/236401)
 
 
-## Q91092820: Tomb of Cicero
-[https://www.wikidata.org/wiki/Q91092820](https://www.wikidata.org/wiki/Q91092820)  
-
-### alignments:
- - [So-called 'Tomb of Cicero' at Formiae](https://pleiades.stoa.org/places/98979035)
-
-
 ## Q911564: Santa Lucia in Selci
 [https://www.wikidata.org/wiki/Q911564](https://www.wikidata.org/wiki/Q911564)  
 
@@ -73891,6 +73884,13 @@
 
 ### alignments:
  - [Grave of Charmylos](https://pleiades.stoa.org/places/490062280)
+
+
+## Tomb of Cicero (Q91092820)
+[https://www.wikidata.org/wiki/Q91092820](https://www.wikidata.org/wiki/Q91092820)  
+
+### alignments:
+ - [So-called 'Tomb of Cicero' at Formiae](https://pleiades.stoa.org/places/98979035)
 
 
 ## Tomb of Cossinia (Q92821132)
