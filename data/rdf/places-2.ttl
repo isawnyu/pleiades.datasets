@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 2,3
-# Date: 2026/10/18 07:09:59.028996 GMT-4
+# Date: 2026/10/25 07:09:18.180941 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 464839
+# Triple count: 464859
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -121558,6 +121558,13 @@
     dcterms:modified "2024-07-17T06:37:01-04:00";
     dcterms:title "OSM location of Porta di Stabia";
     owl:sameAs <http://pleiades.stoa.org/places/260329425/osm-location-of-porta-di-stabia> .
+
+<https://pleiades.stoa.org/places/260329425/stabian-gate> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern descriptive English name designating the Roman city gate at the southern terminus of the Strada Stabiana in Pompeii.";
+    dcterms:modified "2026-10-18T10:48:03-04:00";
+    dcterms:title "Porta Stabia";
+    owl:sameAs <http://pleiades.stoa.org/places/260329425/stabian-gate> .
 
 <https://pleiades.stoa.org/places/260333638%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Gorkhatri";
@@ -310131,10 +310138,11 @@
         "PompeiiinPictures Pompeii. Porta di Stabia or Stabian Gate",
         "Wikidata Porta di Stabia (Q125810167)",
         "Wikipedia (Italian) Regio VIII degli scavi archeologici di Pompei";
-    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>,
+        <https://pleiades.stoa.org/author/jbecker>;
     dcterms:creator <https://pleiades.stoa.org/author/avarveri>;
     dcterms:description "A Roman city gate at the southern terminus of Strada Stabiana in Pompeii.";
-    dcterms:modified "2026-10-17T04:00:10-04:00";
+    dcterms:modified "2026-10-18T10:48:09-04:00";
     dcterms:title "Stabian Gate";
     cito:citesAsRelated <https://it.wikipedia.org/wiki/Regio_VIII_degli_scavi_archeologici_di_Pompei>,
         <https://www.wikidata.org/wiki/Q125810167>;
@@ -310143,7 +310151,7 @@
         <http://www.fastionline.org/record_view.php?fst_cd=AIAC_356>,
         <http://www.pompeiiinpictures.com/pompeiiinpictures/Gates/Gate%2520Stabian.htm>,
         <https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=7269081>,
-        <https://sites.google.com/site/ad79eruption/pompeii/the-city-gates/stabia-gate>,
+        <https://web.archive.org/web/20210929144322/https://sites.google.com/site/ad79eruption/pompeii/the-city-gates/stabia-gate>,
         <https://www.zotero.org/groups/pleiades/items/PQUY752Y>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/358482340>,
         <https://pleiades.stoa.org/places/433032>,
@@ -310152,10 +310160,12 @@
         <https://pleiades.stoa.org/places/71552717>,
         <https://pleiades.stoa.org/places/824486497>;
     owl:sameAs <http://pleiades.stoa.org/places/260329425>;
+    skos:altLabel "Porta Stabia"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/city-gate>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-porta-di-stabia> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-porta-di-stabia>;
+    pleiades:hasName <https://pleiades.stoa.org/places/stabian-gate> .
 
 <https://pleiades.stoa.org/places/260333638> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -343724,7 +343734,7 @@
     dcterms:coverage "Imainserène";
     dcterms:creator <http://viaf.org/viaf/12323175>;
     dcterms:description "The site of a pyramidal mausoleum.";
-    dcterms:modified "2026-10-17T04:24:13-04:00";
+    dcterms:modified "2026-10-18T09:39:26-04:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=temple",
         "dare:major=0";
@@ -347528,7 +347538,7 @@
     dcterms:coverage "at mouth of Oued Chélif";
     dcterms:creator <http://viaf.org/viaf/12323175>;
     dcterms:description "Noted by Gsell AAA, whence BAtlas 30 inset no. 1.";
-    dcterms:modified "2026-10-17T04:29:13-04:00";
+    dcterms:modified "2026-10-21T23:03:20-04:00";
     dcterms:title "Lighthouse at mouth of Oued Chélif";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://bibliotheque-numerique.inha.fr/viewer/21113/?%23page=123&viewer=picture&o=bookmark&n=0&q=>;
@@ -437164,6 +437174,17 @@
     pleiades:nameRomanized "Sremska Mitrovica";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/stabian-gate> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Ellis et al. 2023 ";
+    cito:citesAsDataSource <https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=7269081>;
+    owl:sameAs <http://pleiades.stoa.org/places/stabian-gate>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Porta Stabia"@en;
+    pleiades:nameRomanized "Porta Stabia";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/stabulum-novum> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/stabulum-novum>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 25 G4 Stabulum Novum" ];
@@ -456133,7 +456154,7 @@
         <http://viaf.org/viaf/13810037>,
         <http://viaf.org/viaf/84714015>;
     dcterms:description "An ancient place, cited: BAtlas 26 D2 unnamed centuriation group (around Mérida)";
-    dcterms:modified "2026-10-17T04:19:07-04:00";
+    dcterms:modified "2026-10-18T09:50:20-04:00";
     dcterms:title "Centuriation around Mérida";
     cito:citesForInformation <http://www.worldcat.org/oclc/36156421>,
         <http://www.worldcat.org/oclc/43970336>,

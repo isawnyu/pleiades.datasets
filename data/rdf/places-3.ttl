@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 3,4
-# Date: 2026/10/18 07:16:34.532688 GMT-4
+# Date: 2026/10/25 07:15:29.191176 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 254206
+# Triple count: 254218
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -47379,6 +47379,7 @@
 
 <https://pleiades.stoa.org/places/347865703%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Casa dell'Argenteria";
+    spatial:C <https://pleiades.stoa.org/places/984330151%23this>;
     rdfs:comment "Residential townhouse in Pompeii excavated in the 1830s and 1976.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/347865703> .
 
@@ -52194,7 +52195,7 @@
 
 <https://pleiades.stoa.org/places/358482340/osm-location-of-tomb-of-marcus-alleius-minius> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Representative location based on OpenStreetMap";
-    dcterms:modified "2025-06-16T16:29:57-04:00";
+    dcterms:modified "2026-10-18T10:55:38-04:00";
     dcterms:title "OSM location of Tomb of Marcus Alleius Minius";
     owl:sameAs <http://pleiades.stoa.org/places/358482340/osm-location-of-tomb-of-marcus-alleius-minius> .
 
@@ -67867,11 +67868,11 @@
     dcterms:title "Larius";
     owl:sameAs <http://pleiades.stoa.org/places/383689/larius> .
 
-<https://pleiades.stoa.org/places/383689/location-of-larius-comacinus-l> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "coordinates after GeoHack, verified in Google Earth.";
-    dcterms:modified "2026-10-02T11:42:52-04:00";
-    dcterms:title "location of Lake Como";
-    owl:sameAs <http://pleiades.stoa.org/places/383689/location-of-larius-comacinus-l> .
+<https://pleiades.stoa.org/places/383689/osm-location-modern-lake-como> dcterms:creator <https://pleiades.stoa.org/author/thomase>;
+    dcterms:description "Location based on OpenStreetMap";
+    dcterms:modified "2026-10-18T09:53:01-04:00";
+    dcterms:title "OSM Location: modern Lake Como";
+    owl:sameAs <http://pleiades.stoa.org/places/383689/osm-location-modern-lake-como> .
 
 <https://pleiades.stoa.org/places/383690%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Laumellum";
@@ -81435,7 +81436,7 @@
 
 <https://pleiades.stoa.org/places/393959243/osm-location-of-porta-san-lorenzo> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Location based on OpenStreetMap";
-    dcterms:modified "2025-08-11T21:55:57-04:00";
+    dcterms:modified "2026-10-21T22:37:27-04:00";
     dcterms:title "OSM location of Porta San Lorenzo";
     owl:sameAs <http://pleiades.stoa.org/places/393959243/osm-location-of-porta-san-lorenzo> .
 
@@ -137010,6 +137011,7 @@
         <https://www.wikidata.org/wiki/Q27686247>;
     cito:citesForInformation <http://palp.art/browse/r6-i7-p20>,
         <https://pompeiiinpictures.com/pompeiiinpictures/R6/6%252007%252020.htm>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/984330151>;
     owl:sameAs <http://pleiades.stoa.org/places/347865703>;
     geo:lat 40.7521044279;
     geo:long 14.4830286927;
@@ -166263,7 +166265,7 @@
 <https://pleiades.stoa.org/places/391973091%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Altopiano delle Murge";
     spatial:C <https://pleiades.stoa.org/places/391973092%23this>;
-    rdfs:comment "";
+    rdfs:comment "The Altopiano delle Murge is a karst plateau located in southern Italy. The toponym 'murge' may derive from the Latin 'murex'.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/391973091> .
 
 <https://pleiades.stoa.org/places/391973092%23this> a <http://geovocab.org/spatial#Feature>;
@@ -172681,7 +172683,8 @@
 
 <https://pleiades.stoa.org/places/393959243> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "Info.roma.it 383: Porta Tiburtina",
+    dcterms:bibliographicCitation "Arachne Porta Tiburtina Rom, (Roma), Rom (Metropolitanstadt)",
+        "Info.roma.it 383: Porta Tiburtina",
         "Platner 1929 (Perseus) PORTA TIBURTINA",
         "ToposText Porta Tiburtina (Rome)",
         "Wikidata Porta Tiburtina (Q186990)",
@@ -172690,9 +172693,10 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "The Porta Tiburtina is a gate in the Aurelianic Walls through which the Via Tiburtina passes. It is also known today as the Porta San Lorenzo.";
-    dcterms:modified "2026-05-03T11:23:42-04:00";
+    dcterms:modified "2026-10-21T22:39:45-04:00";
     dcterms:title "Porta Tiburtina";
-    cito:citesAsRelated <https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=383>,
+    cito:citesAsRelated <https://arachne.dainst.org/entity/12059>,
+        <https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=383>,
         <https://www.wikidata.org/wiki/Q186990>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0054%253Aalphabetic+letter%253DP%253Aentry+group%253D3%253Aentry%253Dporta-tiburtina>,
         <https://en.wikipedia.org/wiki/Porta_Tiburtina>,
@@ -209446,15 +209450,6 @@
     pleiades:end_date 300;
     pleiades:start_date -750 .
 
-<https://pleiades.stoa.org/places/location-of-larius-comacinus-l> a <https://pleiades.stoa.org/places/vocab#Location>;
-    dcterms:bibliographicCitation "";
-    cito:citesAsDataSource <http://toolserver.org/~geohack/geohack.php?pagename=Lake_Como&params=46_00_N_9_16_E_region:IT_type:waterbody>;
-    owl:sameAs <http://pleiades.stoa.org/places/location-of-larius-comacinus-l>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
-    pleiades:end_date 2100;
-    pleiades:start_date 1700 .
-
 <https://pleiades.stoa.org/places/location-of-latin-inscriptions> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 1976790538";
     cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/1976790538>;
@@ -216507,6 +216502,17 @@
     pleiades:end_date 2099;
     pleiades:start_date 2000 .
 
+<https://pleiades.stoa.org/places/osm-location-modern-lake-como> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[9.0775792, 45.8131208], [9.0802098, 45.8133388], [9.3870053, 45.8482741], [9.3870985, 45.8482928], [9.3871924, 45.8483222], [9.3872165, 45.8483325], [9.3872362, 45.8483578], [9.3876658, 45.8496142], [9.3889697, 45.854846], [9.3811676, 46.1587497], [9.3806532, 46.1613884], [9.3787393, 46.1689142], [9.3787187, 46.1689773], [9.3786533, 46.169126], [9.3785156, 46.169356], [9.3780268, 46.1700369], [9.3779671, 46.1700923], [9.3777689, 46.1702285], [9.3777506, 46.1702348], [9.3774459, 46.1703132], [9.377261, 46.1703501], [9.3770409, 46.1703598], [9.3618076, 46.1695538], [9.3591862, 46.1688593], [9.3552048, 46.1673566], [9.3061482, 46.1472115], [9.3059369, 46.1470864], [9.2909186, 46.1340328], [9.2794294, 46.1221618], [9.2793703, 46.1221002], [9.1290925, 45.9454224], [9.0685935, 45.8258695], [9.0669554, 45.8211697], [9.0667345, 45.819193], [9.0667597, 45.8189348], [9.0668879, 45.8178924], [9.067306, 45.8160182], [9.0673826, 45.8159404], [9.0680373, 45.815449], [9.0694217, 45.8145123], [9.0696386, 45.8143968], [9.0698352, 45.814336], [9.0775792, 45.8131208]]]}";
+    osgeo:asWKT "POLYGON ((9.0775792000000006 45.8131208000000001, 9.0802098000000004 45.8133387999999968, 9.3870053000000002 45.8482740999999976, 9.3870985000000005 45.8482928000000030, 9.3871924000000000 45.8483221999999984, 9.3872164999999992 45.8483324999999979, 9.3872362000000003 45.8483578000000023, 9.3876658000000006 45.8496141999999978, 9.3889697000000005 45.8548460000000020, 9.3811675999999995 46.1587497000000013, 9.3806531999999994 46.1613883999999999, 9.3787392999999994 46.1689142000000032, 9.3787187000000003 46.1689773000000017, 9.3786532999999999 46.1691259999999986, 9.3785156000000001 46.1693560000000005, 9.3780268000000007 46.1700368999999995, 9.3779670999999993 46.1700923000000003, 9.3777688999999995 46.1702285000000003, 9.3777506000000006 46.1702348000000029, 9.3774458999999997 46.1703132000000025, 9.3772610000000007 46.1703501000000003, 9.3770409000000008 46.1703598000000000, 9.3618076000000006 46.1695538000000028, 9.3591861999999999 46.1688593000000012, 9.3552047999999992 46.1673565999999980, 9.3061482000000009 46.1472114999999974, 9.3059369000000007 46.1470863999999992, 9.2909185999999995 46.1340328000000000, 9.2794293999999997 46.1221618000000007, 9.2793703000000001 46.1221001999999984, 9.1290925000000005 45.9454223999999982, 9.0685935000000004 45.8258695000000031, 9.0669553999999994 45.8211696999999987, 9.0667345000000008 45.8191929999999985, 9.0667597000000004 45.8189348000000010, 9.0668878999999993 45.8178923999999981, 9.0673060000000003 45.8160182000000020, 9.0673826000000002 45.8159404000000023, 9.0680373000000003 45.8154490000000010, 9.0694216999999995 45.8145122999999970, 9.0696385999999993 45.8143967999999973, 9.0698352000000000 45.8143359999999973, 9.0775792000000006 45.8131208000000001))";
+    dcterms:bibliographicCitation "OSM Relation 541757";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/relation/541757>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-modern-lake-como>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Relation 541757, version 101, osm:changeset=188447690, 2026-09-03T01:33:36Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/osm-location-modern-lys> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[7.791786, 45.589983], [7.8542207, 45.6408913], [7.8553878, 45.641854], [7.8592064, 45.6467568], [7.8593206, 45.6469256], [7.859392, 45.6470609], [7.8609923, 45.6507902], [7.8610899, 45.6510227], [7.8804023, 45.7059329], [7.8804128, 45.7060125], [7.8805506, 45.7073872], [7.8806909, 45.7098925], [7.8806958, 45.7100402], [7.8806885, 45.7140902], [7.8806729, 45.714191], [7.8801526, 45.7156829], [7.8115489, 45.882492], [7.8112283, 45.8831756], [7.8112078, 45.8832093], [7.8111329, 45.8830331], [7.8110715, 45.882886], [7.8075202, 45.8694694], [7.8072242, 45.8677499], [7.791786, 45.589983]]]}";
     osgeo:asWKT "POLYGON ((7.7917860000000001 45.5899829999999966, 7.8542206999999999 45.6408912999999998, 7.8553877999999999 45.6418540000000021, 7.8592063999999997 45.6467567999999986, 7.8593206000000002 45.6469256000000030, 7.8593919999999997 45.6470608999999996, 7.8609923000000004 45.6507902000000030, 7.8610898999999996 45.6510226999999986, 7.8804023000000001 45.7059329000000005, 7.8804128000000002 45.7060124999999999, 7.8805506000000003 45.7073871999999994, 7.8806909000000003 45.7098925000000023, 7.8806957999999998 45.7100402000000017, 7.8806884999999998 45.7140902000000011, 7.8806729000000004 45.7141909999999996, 7.8801525999999997 45.7156828999999973, 7.8115489000000000 45.8824919999999992, 7.8112282999999998 45.8831756000000013, 7.8112078000000000 45.8832092999999972, 7.8111328999999996 45.8830330999999987, 7.8110714999999997 45.8828859999999992, 7.8075201999999999 45.8694693999999998, 7.8072242000000003 45.8677498999999997, 7.7917860000000001 45.5899829999999966))";
@@ -220510,7 +220516,7 @@
     dcterms:bibliographicCitation "OSM Node 566650172";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/node/566650172>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-porta-san-lorenzo>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 566650172, version 5, osm:changeset=170054938, 2025-08-06T12:23:24Z)" ];
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 566650172, version 6, osm:changeset=189652369, 2026-09-27T22:32:22Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/late-antique>,
         <https://pleiades.stoa.org/vocabularies/mediaeval-byzantine>,
         <https://pleiades.stoa.org/vocabularies/modern>;
@@ -222040,7 +222046,7 @@
     dcterms:bibliographicCitation "OSM Way 505043439";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/505043439>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-tomb-of-marcus-alleius-minius>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 505043439, version 4, osm:changeset=154031102, 2024-07-16T19:54:38Z)" ];
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 505043439, version 6, osm:changeset=185557010, 2026-07-11T19:45:19Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/first-ce>;
     pleiades:end_date 99;
     pleiades:start_date 1 .
@@ -244838,22 +244844,25 @@
 
 <https://pleiades.stoa.org/places/383689> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 39 E1 Larius/Comacinus L.",
+    dcterms:bibliographicCitation "BAtlas 39 E1 Larius/Comacinus L.",
         "Carminati 2016 ",
         "Carminati 2025 ",
         "ItAnt (Parthey: archive.org) 278.7",
         "ItAnt (Parthey: archive.org) 279.1",
-        "New Pauly Lacus Larius",
+        "New Pauly Lacus Larius (A. Sartori)",
         "PaulDiac, HL 5.39",
         "Plin. Letters (Mynors: PHI) 3.40",
         "Plin., NH (Mayhoff: PHI) 2.224.10",
+        "Smith 1854 (Perseus) LÁRIUS LACUS",
         "Str. (Meineke: Perseus) 4.6.12",
         "TIR Mediolanum 81",
+        "ToposText Larius Lake (Italia)",
         "Tozzi 1983 ",
+        "Verg. Georg. (Mynors: PHI) 2.159",
         "Wikidata Lake Como (Q15523)",
         "Wikipedia (English) Lake Como";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
         <https://pleiades.stoa.org/author/fcarminati>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -244862,32 +244871,35 @@
     dcterms:creator <http://viaf.org/viaf/197700520>,
         <http://viaf.org/viaf/7513704>;
     dcterms:description "Larius/Comacinus L. (Lake Como). Until the 12th century CE, \"Comacinus\" was the name commonly used to refer only to the eastern branch of Lake Como—extending from Bellagio south to Brivio—and the surrounding area (\"Comacina\"). \"Larius\", \"Cumanus\", and \"Comensis\" were the names commonly used to denote the remaining part of Lake Como. After that date, the names \"Comacinus\", \"Cumanus\", \"Comensis\", and \"Larius\" gradually began to be used interchangeably to refer to the entire lake.";
-    dcterms:modified "2026-10-02T12:02:59-04:00";
+    dcterms:modified "2026-10-18T09:59:36-04:00";
     dcterms:title "Larius/Comacinus L.";
     cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:4.6.12>,
         <http://latin.packhum.org/loc/978/1/0%23202>,
         <http://www.worldcat.org/oclc/1181782090>;
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q15523>;
-    cito:citesForInformation <http://atlantides.org/bibliography/>,
-        <http://referenceworks.brillonline.com/entries/brill-s-new-pauly/lacus-larius-e628110>,
-        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=larius-lacus-geo>,
+    cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=larius-lacus-geo>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Plin.%2520Ep.%25204.30&lang=original>,
         <http://www.worldcat.org/oclc/43970336>,
         <https://archive.org/details/itinerariumanto00pindgoog>,
+        <https://doi.org/10.1163/1574-9347_bnp_e628110>,
         <https://en.wikipedia.org/wiki/Lake_como>,
+        <https://latin.packhum.org/loc/690/2/1/7333-7337,23142-23146,24823-24827%231>,
         <https://search.worldcat.org/it/title/1559038849>,
+        <https://topostext.org/place/460093WLak>,
         <https://www.torrossa.com/it/resources/an/3119414?digital=true>,
         <https://www.zotero.org/groups/pleiades/items/9A9Q5KRD>,
         <https://www.zotero.org/groups/pleiades/items/TBXZFNBE>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/383624>;
     owl:sameAs <http://pleiades.stoa.org/places/383689>;
+    geo:lat 45.960980553;
+    geo:long 9.26497171825;
     skos:altLabel "Larius"@la,
         "Comacinus L.",
         "Comus L.";
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 39 E1 Larius/Comacinus L." ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/lake>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/location-of-larius-comacinus-l>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-modern-lake-como>;
     pleiades:hasName <https://pleiades.stoa.org/places/Comacinus-L>,
         <https://pleiades.stoa.org/places/Comus-L>,
         <https://pleiades.stoa.org/places/larius> .
@@ -247168,8 +247180,8 @@
         "Wikidata  Murgia (Q1051664)",
         "Wikipedia (English) Altopiano delle Murge";
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "";
-    dcterms:modified "2026-10-13T07:41:10-04:00";
+    dcterms:description "The Altopiano delle Murge is a karst plateau located in southern Italy. The toponym 'murge' may derive from the Latin 'murex'.";
+    dcterms:modified "2026-10-19T21:51:12-04:00";
     dcterms:title "Altopiano delle Murge";
     cito:citesAsRelated <https://www.wikidata.org/wiki/Q1051664>;
     cito:citesForInformation <http://www.worldcat.org/oclc/909379581>,
@@ -248357,7 +248369,7 @@
     dcterms:bibliographicCitation "",
         "BAtlas 4 B2 Exusta/Katakekaumene Inss.",
         "Desanges 1978 157 (n. 39)",
-        "New Pauly Catacecaumene [2]",
+        "New Pauly Catacecaumene [2] Island in the Red Sea (Hans Kaletsch and Walter W. Müller)",
         "Plin., NH (Mayhoff: PHI) 6.175",
         "Ptol. (Nobbe: Hathi) 6.7.44";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
@@ -248367,13 +248379,13 @@
     dcterms:coverage "Jabal Tayr YEM";
     dcterms:creator <http://viaf.org/viaf/17238976>;
     dcterms:description "Exusta/Katakekaumene Inss. are a group of islands located in the Red Sea. The ancient names Exusta and Katakekaumene refer to the volcanic nature of these islands, one of which is identifiable as the modern Jabal al-Tair Island.";
-    dcterms:modified "2024-07-10T10:16:14-04:00";
+    dcterms:modified "2026-10-18T15:23:14-04:00";
     dcterms:title "Exusta/Katakekaumene (islands)";
     cito:citesAsEvidence <http://latin.packhum.org/loc/978/1/0%23425>;
     cito:citesForInformation <http://atlantides.org/bibliography/>,
-        <http://www.encquran.brill.nl/entries/brill-s-new-pauly/catacecaumene-e610490>,
         <http://www.worldcat.org/oclc/43970336>,
         <https://catalog.hathitrust.org/Record/002504277>,
+        <https://doi.org/10.1163/1574-9347_bnp_e610490>,
         <https://www.zotero.org/groups/pleiades/items/6NSG6GKT>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/39290>;
     owl:sameAs <http://pleiades.stoa.org/places/39345>;

@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 5,6
-# Date: 2026/10/18 07:38:20.637902 GMT-4
+# Date: 2026/10/25 07:36:6.038800 GMT-4
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 505591
+# Triple count: 505648
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -128651,6 +128651,13 @@
     dcterms:title "OSM location of Necropoli di \"Tre ponti\"";
     owl:sameAs <http://pleiades.stoa.org/places/584272773/location-of-necropolis> .
 
+<https://pleiades.stoa.org/places/584272773/tre-ponti-necropolis> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern descriptive English toponym designating the ancient necropolis situated along the Via Amerina.";
+    dcterms:modified "2026-10-18T10:02:55-04:00";
+    dcterms:title "Tre Ponti necropolis";
+    owl:sameAs <http://pleiades.stoa.org/places/584272773/tre-ponti-necropolis> .
+
 <https://pleiades.stoa.org/places/584272774%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Sant'Ilario";
     spatial:C <https://pleiades.stoa.org/places/74935822%23this>;
@@ -191509,20 +191516,27 @@
 
 <https://pleiades.stoa.org/places/512410974> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "GeoNames 10288738: Tempio Della Tosse",
+    dcterms:bibliographicCitation "Arachne Sog. Tempio della Tosse Tivoli, (Tibur), Rom (Metropolitanstadt)",
+        "FormIt Tibur 1 203-215, Abb. 233-250, cat. no. 106",
+        "GeoNames 10288738: Tempio Della Tosse",
         "Info.roma.it 6204: Tempio della Tosse a Tivoli",
+        "Rasch 1998 ",
         "Wikidata Temple of the Cough (Q3983216)",
         "Wikipedia (Italian) Tempio della Tosse",
+        "vici.org 79631: Tempio della Tosse",
         "vici.org 79631: Temple della Tosse";
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "The so-called \"Tempio della Tosse\" is an ancient Roman building along the river Anio. Its dating is problematic, but it is likely a building of late antiquity that is built on the site of an earlier villa. It has been interpreted as a nymphaeum, a temple, and also as a tomb.";
-    dcterms:modified "2026-05-01T23:17:04-04:00";
+    dcterms:modified "2026-10-24T14:27:08-04:00";
     dcterms:title "Tempio della Tosse";
-    cito:citesAsRelated <https://vici.org/vici/79631/>,
+    cito:citesAsRelated <https://arachne.dainst.org/entity/12195>,
+        <https://vici.org/vici/79631/>,
         <https://www.geonames.org/10288738/tempio-della-tosse.html>,
         <https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=6204>,
         <https://www.wikidata.org/wiki/Q3983216>;
-    cito:citesForInformation <https://it.wikipedia.org/wiki/Tempio_della_Tosse>;
+    cito:citesForInformation <https://it.wikipedia.org/wiki/Tempio_della_Tosse>,
+        <https://www.zotero.org/groups/pleiades/items/2SQTFWRZ>,
+        <https://www.zotero.org/groups/pleiades/items/64CQ39C5>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/423081>;
     owl:sameAs <http://pleiades.stoa.org/places/512410974>;
     geo:lat 41.9628548853;
@@ -241225,6 +241239,8 @@
     dcterms:bibliographicCitation "",
         "BAtlas 56 H5 Philadelpheia",
         "DARMC 5516",
+        "ItMiller 716",
+        "KU TP Database (Rathmann) 1284: Philadelfia",
         "PECS (Perseus) PHILADELPHIA (Alaşehir) Turkey",
         "Plin., NH (Mayhoff: PHI) 5.74.4",
         "RE Philadelpheia 1",
@@ -241232,7 +241248,10 @@
         "TM GEO ID 1762: Philadelpheia (Alaşehir)",
         "TP (Talbert: CUP) 8B4 (Talbert 2180)",
         "ToposText Philadelpheia (Lycia)",
-        "Wikipedia (English) Alaşehir";
+        "Wikidata Philadelphia (Q2085773)",
+        "Wikipedia (English) Alaşehir",
+        "nomisma.org Philadelpheia (Lydia)",
+        "vici.org 2275: Alaşehir (Philadelphia)";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
@@ -241246,7 +241265,7 @@
         <http://viaf.org/viaf/5046666>,
         <http://viaf.org/viaf/91669326>;
     dcterms:description "An ancient settlement of Asia Minor, modern Alaşehir, Turkey.";
-    dcterms:modified "2024-05-05T13:11:46-04:00";
+    dcterms:modified "2026-10-18T15:28:35-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -241254,14 +241273,19 @@
     cito:citesAsEvidence <http://latin.packhum.org/loc/1351/5/127/606-618>,
         <http://latin.packhum.org/loc/978/1/347/619-636%23347>,
         <https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2180.html>;
-    cito:citesAsRelated <http://www.trismegistos.org/place/1762>,
-        <https://darmc.harvard.edu/>;
+    cito:citesAsRelated <http://nomisma.org/id/philadelpheia_lydia>,
+        <http://www.trismegistos.org/place/1762>,
+        <https://darmc.harvard.edu/>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=1284>,
+        <https://vici.org/vici/2275/>,
+        <https://www.wikidata.org/wiki/Q2085773>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0006%253Aalphabetic+letter%253DP%253Aentry+group%253D4%253Aentry%253Dphiladelphia-1>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0064%253Aalphabetic+letter%253DP%253Aentry+group%253D9%253Aentry%253Dphiladelpheia-geo>,
         <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/6684340>,
+        <https://de.wikisource.org/wiki/Paulys_Realencyclop%25C3%25A4die_der_classischen_Altertumswissenschaft>,
         <https://en.wikipedia.org/wiki/Ala%25C5%259Fehir>,
-        <https://topostext.org/place/384285UPhi>,
-        <https://www.zotero.org/groups/pleiades/items/HSGNAEBR>;
+        <https://topostext.org/place/384285UPhi>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/177302800>,
         <https://pleiades.stoa.org/places/609427>,
         <https://pleiades.stoa.org/places/837>,
@@ -278366,13 +278390,17 @@
 
 <https://pleiades.stoa.org/places/576868068> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
+    dcterms:bibliographicCitation "Wikidata Necropoli di Dometaia (Q3346852)",
+        "Wikimedia Commons Category:Necropoli di Dometaia",
+        "Wikipedia (French) Nécropole de Dometaia",
         "Wikipedia (Italian) Dometaia";
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "An Etruscan necropolis dating to the sixth century B.C.";
-    dcterms:modified "2026-10-17T22:20:07-04:00";
+    dcterms:modified "2026-10-18T09:42:54-04:00";
     dcterms:title "Etruscan necropolis of Dometaia";
-    cito:citesForInformation <http://www.museocolle.it/dometaia.htm>,
+    cito:citesAsRelated <https://commons.wikimedia.org/wiki/Category:Necropoli_di_Dometaia>,
+        <https://www.wikidata.org/wiki/Q3346852>;
+    cito:citesForInformation <https://fr.wikipedia.org/wiki/N%25C3%25A9cropole_de_Dometaia>,
         <https://it.wikipedia.org/wiki/Dometaia>;
     owl:sameAs <http://pleiades.stoa.org/places/576868068>;
     geo:lat 43.3933088496;
@@ -285582,7 +285610,7 @@
     dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
     dcterms:creator <https://pleiades.stoa.org/author/thomase>;
     dcterms:description "A large rock-cut temple at Sikait in Egypt's Eastern desert.";
-    dcterms:modified "2022-06-30T06:56:36-04:00";
+    dcterms:modified "2026-10-19T10:42:20-04:00";
     dcterms:subject "rock-cut",
         "tomb";
     dcterms:title "Large Temple at Sikait";
@@ -285710,20 +285738,25 @@
 <https://pleiades.stoa.org/places/584272773> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "",
-        "Biella 1998 ";
+        "Biella 1998 ",
+        "Wikidata Tre Ponti necropolis (Q105604746)";
+    dcterms:contributor <https://pleiades.stoa.org/author/dndimitrov>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "A necropolis along the Via Amerina, likely in use from the third century BC until the third century AD.";
-    dcterms:modified "2026-09-30T08:20:36-04:00";
+    dcterms:modified "2026-10-18T10:02:55-04:00";
     dcterms:title "Tre Ponti necropolis";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q105604746>;
     cito:citesForInformation <http://www.lecatacombe.it/lazio/territorio-nepi/itinerario-archeologico/la-via-amerina-a-nord-e-la-necropoli-dei-tre-ponti>,
         <http://www.provincia.vt.it/turismo/SchedeDett.asp?Id=14>,
         <https://www.zotero.org/groups/pleiades/items/CAC668WE>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/690508612>;
     owl:sameAs <http://pleiades.stoa.org/places/584272773>;
+    skos:altLabel "Tre Ponti necropolis"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/location-of-necropolis> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/location-of-necropolis>;
+    pleiades:hasName <https://pleiades.stoa.org/places/tre-ponti-necropolis> .
 
 <https://pleiades.stoa.org/places/584272774> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -423644,6 +423677,19 @@
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 51 Trauos fl." ];
     pleiades:nameRomanized "Trauos" .
 
+<https://pleiades.stoa.org/places/tre-ponti-necropolis> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Biella 1998 ",
+        "Wikidata Tre Ponti necropolis (Q105604746)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q105604746>;
+    cito:citesForInformation <https://www.zotero.org/groups/pleiades/items/CAC668WE>;
+    owl:sameAs <http://pleiades.stoa.org/places/tre-ponti-necropolis>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Tre Ponti necropolis"@en;
+    pleiades:nameRomanized "Tre Ponti necropolis";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/treasury-of-the-massaliots> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikidata Treasury of the Massaliots (Q22936355)";
     cito:citesAsDataSource <https://www.wikidata.org/wiki/Q22936355>;
@@ -469419,7 +469465,8 @@
 
 <https://pleiades.stoa.org/places/590044%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Seriphos (island)";
-    spatial:C <https://pleiades.stoa.org/places/560353%23this>,
+    spatial:C <https://pleiades.stoa.org/places/480445815%23this>,
+        <https://pleiades.stoa.org/places/560353%23this>,
         <https://pleiades.stoa.org/places/590043%23this>;
     rdfs:comment "Seriphos is an island of the western Cyclades. The island was settled by the third millennium B.C. The island was a member of the Delian League.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/590044> .
@@ -490719,18 +490766,24 @@
     dcterms:bibliographicCitation "BAtlas 56 D4 Phocaea",
         "DARMC 14256",
         "Livius.org Phocaea",
+        "MANTO 8195129: Phocaia (Ionia)",
         "New Pauly Phocaea",
         "PECS (Perseus) PHOKAIA (Foça) Turkey",
         "RE Phokaia",
         "Str. (Meineke: Perseus) 14.1.3",
         "TM GEO ID 1792: Phokaia (Foça)",
         "ToposText Phokaia (Ionia)",
-        "Wikipedia (English) Phocaea";
+        "Wikidata Phocaea (Q428732)",
+        "Wikipedia (English) Phocaea",
+        "nomisma.org Phocaea",
+        "vici.org 15712";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/rmhorne>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Foça";
@@ -490738,21 +490791,25 @@
         <http://viaf.org/viaf/5046666>,
         <http://viaf.org/viaf/91669326>;
     dcterms:description "An ancient settlement of Asia Minor, modern Foça in Turkey.";
-    dcterms:modified "2023-09-12T19:45:16-04:00";
+    dcterms:modified "2026-10-24T23:05:31-04:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
     dcterms:title "Phocaea";
     cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:14.1.3>;
-    cito:citesAsRelated <http://www.trismegistos.org/place/1792>,
-        <https://darmc.harvard.edu/>;
+    cito:citesAsRelated <http://nomisma.org/id/phocaea>,
+        <http://www.trismegistos.org/place/1792>,
+        <https://darmc.harvard.edu/>,
+        <https://resource.manto.unh.edu/8195129>,
+        <https://vici.org/vici/15712>,
+        <https://www.wikidata.org/wiki/Q428732>;
     cito:citesForInformation <http://referenceworks.brillonline.com/entries/brill-s-new-pauly/phocaea-e923440>,
         <http://www.livius.org/articles/place/phocaea/>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0006%253Aalphabetic+letter%253DP%253Aentry+group%253D4%253Aentry%253Dphokaia>,
         <http://www.worldcat.org/oclc/43970336>,
+        <https://de.wikisource.org/wiki/Paulys_Realencyclop%25C3%25A4die_der_classischen_Altertumswissenschaft>,
         <https://en.wikipedia.org/wiki/Phocaea>,
-        <https://topostext.org/place/387268UPho>,
-        <https://www.zotero.org/groups/pleiades/items/HSGNAEBR>;
+        <https://topostext.org/place/387268UPho>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/177302800>,
         <https://pleiades.stoa.org/places/550406>,
         <https://pleiades.stoa.org/places/550597>,
@@ -497073,7 +497130,8 @@
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://elexikon.ch/RE/IIA,2_1729.png>,
         <https://referenceworks.brillonline.com/entries/brill-s-new-pauly/seriphos-e1109890>;
-    rdfs:seeAlso <https://pleiades.stoa.org/places/560353>,
+    rdfs:seeAlso <https://pleiades.stoa.org/places/480445815>,
+        <https://pleiades.stoa.org/places/560353>,
         <https://pleiades.stoa.org/places/590043>;
     owl:sameAs <http://pleiades.stoa.org/places/590044>;
     geo:lat 37.1569774444;
@@ -522057,15 +522115,15 @@
         [ rdfs:label "Barrington Atlas: BAtlas 59 Rhakidai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Rharion Pedion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Semachidai B" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 59 Siberus/Syverus fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 51 B3" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 59 Siberus/Syverus fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Sidertos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Skiradion Pr." ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Skiron" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Skopia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Sporgilos" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 59 Sybridai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 51 C2" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 59 Sybridai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Themakos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Thrasymos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 59 Thyrgonidai" ],
@@ -522205,8 +522263,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 60 Adiounos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Aeria/Aeros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Angyleia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 60 Asos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 5 Bitala Ins." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 60 Asos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Atrikos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Bilkon" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Daidala" ],
@@ -522223,8 +522281,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 60 Histania" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Ilattia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Keskyros Sinus" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 60 Kyrbe" ],
         [ rdfs:label "Barrington Atlas: BAtlas 5 Bokana" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 60 Kyrbe" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Kytelos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Lipara Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 60 Marathousa/Moratousa" ],
