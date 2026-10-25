@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1235 alignments exist in _Pleiades_ place references as of 2026-10-21. The following list of alignments is grouped by zotkey.
+1237 alignments exist in _Pleiades_ place references as of 2026-10-25. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4868,6 +4868,13 @@
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
 
 
+## 11319272: Casa del Centenario IX 8, 3.7 (Pompeii)
+[https://resource.manto.unh.edu/11319272](https://resource.manto.unh.edu/11319272)  
+
+### alignments:
+ - [House of the Centenary](https://pleiades.stoa.org/places/717810706)
+
+
 ## 11319297: Bicentennial House V 13-18 (Herculaneum)
 [https://resource.manto.unh.edu/11319297](https://resource.manto.unh.edu/11319297)  
 
@@ -6175,6 +6182,13 @@
 
 ### alignments:
  - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
+
+
+## 8195129: Phocaia (Ionia)
+[https://resource.manto.unh.edu/8195129](https://resource.manto.unh.edu/8195129)  
+
+### alignments:
+ - [Phocaea](https://pleiades.stoa.org/places/550823)
 
 
 ## 8195139: Aigialos (Paphlagonia)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11547 alignments exist in _Pleiades_ place references as of 2026-10-21. The following list of alignments is grouped by zotkey.
+11548 alignments exist in _Pleiades_ place references as of 2026-10-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4472,6 +4472,13 @@
  - [Anniaca](https://pleiades.stoa.org/places/857030)
 
 
+## Anobanini rock relief (Q5825525)
+[https://www.wikidata.org/wiki/Q5825525](https://www.wikidata.org/wiki/Q5825525)  
+
+### alignments:
+ - [Sar-i Pol-i Zohāb](https://pleiades.stoa.org/places/986129161)
+
+
 ## Anopolis (Q74567121)
 [https://www.wikidata.org/wiki/Q74567121](https://www.wikidata.org/wiki/Q74567121)  
 
@@ -5100,6 +5107,13 @@
 
 ### alignments:
  - [Aqua Appia](https://pleiades.stoa.org/places/423562)
+
+
+## Aqua Augusta (Q631734)
+[https://www.wikidata.org/wiki/Q631734](https://www.wikidata.org/wiki/Q631734)  
+
+### alignments:
+ - [Aqua Augusta (Naples)](https://pleiades.stoa.org/places/662332233)
 
 
 ## Aqua Claudia (Q622930)
@@ -13621,6 +13635,13 @@
 
 ### alignments:
  - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
+
+
+## Casa di Marco Lucrezio Fronto (Q24934597)
+[https://www.wikidata.org/wiki/Q24934597](https://www.wikidata.org/wiki/Q24934597)  
+
+### alignments:
+ - [House of Marcus Lucretius Fronto](https://pleiades.stoa.org/places/894852237)
 
 
 ## Casa di Pane (Q27688146)
@@ -27509,6 +27530,13 @@
  - [House of Obellius Firmus](https://pleiades.stoa.org/places/182931390)
 
 
+## House of Pansa (Q27686196)
+[https://www.wikidata.org/wiki/Q27686196](https://www.wikidata.org/wiki/Q27686196)  
+
+### alignments:
+ - [House of Pansa](https://pleiades.stoa.org/places/19985870)
+
+
 ## House of Paquius Proculus (Q27070424)
 [https://www.wikidata.org/wiki/Q27070424](https://www.wikidata.org/wiki/Q27070424)  
 
@@ -27556,6 +27584,13 @@
 
 ### alignments:
  - [Casa del Fabbro](https://pleiades.stoa.org/places/784028639)
+
+
+## House of the Centenary (Q12060566)
+[https://www.wikidata.org/wiki/Q12060566](https://www.wikidata.org/wiki/Q12060566)  
+
+### alignments:
+ - [House of the Centenary](https://pleiades.stoa.org/places/717810706)
 
 
 ## House of the Chaste Lovers (Q27688613)
@@ -27656,6 +27691,13 @@
  - [House of the Painters at Work](https://pleiades.stoa.org/places/746630758)
 
 
+## House of the Prince of Naples (Q27686456)
+[https://www.wikidata.org/wiki/Q27686456](https://www.wikidata.org/wiki/Q27686456)  
+
+### alignments:
+ - [House of the Prince of Naples](https://pleiades.stoa.org/places/836029916)
+
+
 ## House of the Relief of Telephus (Q16537540)
 [https://www.wikidata.org/wiki/Q16537540](https://www.wikidata.org/wiki/Q16537540)  
 
@@ -27675,6 +27717,13 @@
 
 ### alignments:
  - [House of the Skeleton](https://pleiades.stoa.org/places/42782119)
+
+
+## House of the surgeon (Q3661216)
+[https://www.wikidata.org/wiki/Q3661216](https://www.wikidata.org/wiki/Q3661216)  
+
+### alignments:
+ - [House of the surgeon](https://pleiades.stoa.org/places/449007780)
 
 
 ## House of the Tiles (Q1590858)
@@ -31830,6 +31879,13 @@
 
 ### alignments:
  - [La Hougue Bie](https://pleiades.stoa.org/places/982326584)
+
+
+## La Loggia (Q131720917)
+[https://www.wikidata.org/wiki/Q131720917](https://www.wikidata.org/wiki/Q131720917)  
+
+### alignments:
+ - [La Loggia](https://pleiades.stoa.org/places/477172416)
 
 
 ## La Maddalena (Q1911690)
@@ -44087,6 +44143,13 @@
  - [Phlya](https://pleiades.stoa.org/places/580076)
 
 
+## Phocaea (Q428732)
+[https://www.wikidata.org/wiki/Q428732](https://www.wikidata.org/wiki/Q428732)  
+
+### alignments:
+ - [Phocaea](https://pleiades.stoa.org/places/550823)
+
+
 ## Phoenice (Q781463)
 [https://www.wikidata.org/wiki/Q781463](https://www.wikidata.org/wiki/Q781463)  
 
@@ -45423,6 +45486,13 @@
 
 ### alignments:
  - [Ponte Loreto](https://pleiades.stoa.org/places/426629)
+
+
+## Ponte Lucano (Q3396627)
+[https://www.wikidata.org/wiki/Q3396627](https://www.wikidata.org/wiki/Q3396627)  
+
+### alignments:
+ - [Ponte Lucano Roman Bridge](https://pleiades.stoa.org/places/791702428)
 
 
 ## Ponte Lupo (Q55162589)
@@ -48576,13 +48646,6 @@
  - [Salem/Salumias](https://pleiades.stoa.org/places/678368)
 
 
-## Q12060566: House of the Centenary
-[https://www.wikidata.org/wiki/Q12060566](https://www.wikidata.org/wiki/Q12060566)  
-
-### alignments:
- - [House of the Centenary](https://pleiades.stoa.org/places/717810706)
-
-
 ## Q120638202
 [https://www.wikidata.org/wiki/Q120638202](https://www.wikidata.org/wiki/Q120638202)  
 
@@ -49478,13 +49541,6 @@
 
 ### alignments:
  - [Plestinus L.](https://pleiades.stoa.org/places/413265)
-
-
-## Q131720917
-[https://www.wikidata.org/wiki/Q131720917](https://www.wikidata.org/wiki/Q131720917)  
-
-### alignments:
- - [La Loggia](https://pleiades.stoa.org/places/477172416)
 
 
 ## Q1317854
@@ -53768,13 +53824,6 @@
  - [Apulia et Calabria](https://pleiades.stoa.org/places/991359)
 
 
-## Q24934597
-[https://www.wikidata.org/wiki/Q24934597](https://www.wikidata.org/wiki/Q24934597)  
-
-### alignments:
- - [House of Marcus Lucretius Fronto](https://pleiades.stoa.org/places/894852237)
-
-
 ## Q24940265
 [https://www.wikidata.org/wiki/Q24940265](https://www.wikidata.org/wiki/Q24940265)  
 
@@ -54167,25 +54216,11 @@
  - [The House of the Masks ](https://pleiades.stoa.org/places/576206943)
 
 
-## Q27685985
-[https://www.wikidata.org/wiki/Q27685985](https://www.wikidata.org/wiki/Q27685985)  
-
-### alignments:
- - [House of Marcus Lucretius Fronto](https://pleiades.stoa.org/places/894852237)
-
-
 ## Q27686122: Casa del Forno
 [https://www.wikidata.org/wiki/Q27686122](https://www.wikidata.org/wiki/Q27686122)  
 
 ### alignments:
  - [House of the Baker](https://pleiades.stoa.org/places/419907822)
-
-
-## Q27686196: House of Pansa
-[https://www.wikidata.org/wiki/Q27686196](https://www.wikidata.org/wiki/Q27686196)  
-
-### alignments:
- - [House of Pansa](https://pleiades.stoa.org/places/19985870)
 
 
 ## Q27686252: Casa di Apollo
@@ -54207,13 +54242,6 @@
 
 ### alignments:
  - [House of Meleager](https://pleiades.stoa.org/places/979775194)
-
-
-## Q27686456: House of the Prince of Naples
-[https://www.wikidata.org/wiki/Q27686456](https://www.wikidata.org/wiki/Q27686456)  
-
-### alignments:
- - [House of the Prince of Naples](https://pleiades.stoa.org/places/836029916)
 
 
 ## Q27686483: House of the Gilded Cupids
@@ -55910,13 +55938,6 @@
 
 ### alignments:
  - [Casa dei Grifi](https://pleiades.stoa.org/places/817164756)
-
-
-## Q3661216: House of the surgeon
-[https://www.wikidata.org/wiki/Q3661216](https://www.wikidata.org/wiki/Q3661216)  
-
-### alignments:
- - [House of the surgeon](https://pleiades.stoa.org/places/449007780)
 
 
 ## Q3661352: Samnite house
@@ -58295,13 +58316,6 @@
  - [Housesteads Mithraeum](https://pleiades.stoa.org/places/832240145)
 
 
-## Q5825525
-[https://www.wikidata.org/wiki/Q5825525](https://www.wikidata.org/wiki/Q5825525)  
-
-### alignments:
- - [Sar-i Pol-i Zohāb](https://pleiades.stoa.org/places/986129161)
-
-
 ## Q5830586: Arch of Dolabella
 [https://www.wikidata.org/wiki/Q5830586](https://www.wikidata.org/wiki/Q5830586)  
 
@@ -58994,13 +59008,6 @@
 
 ### alignments:
  - [Asklepieion](https://pleiades.stoa.org/places/550459)
-
-
-## Q631734: Aqua Augusta
-[https://www.wikidata.org/wiki/Q631734](https://www.wikidata.org/wiki/Q631734)  
-
-### alignments:
- - [Aqua Augusta (Naples)](https://pleiades.stoa.org/places/662332233)
 
 
 ## Q6359032: Kamouh el Hermel
