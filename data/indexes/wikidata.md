@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11548 alignments exist in _Pleiades_ place references as of 2026-10-25. The following list of alignments is grouped by zotkey.
+11557 alignments exist in _Pleiades_ place references as of 2026-10-26. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -11059,6 +11059,13 @@
 
 ### alignments:
  - [Bostel](https://pleiades.stoa.org/places/688740628)
+
+
+## Bostra (Q127429784)
+[https://www.wikidata.org/wiki/Q127429784](https://www.wikidata.org/wiki/Q127429784)  
+
+### alignments:
+ - [Bostra/Col. Nova Traiana Alexandriana](https://pleiades.stoa.org/places/678073)
 
 
 ## Bosut (Q2911647)
@@ -27719,6 +27726,13 @@
  - [House of the Skeleton](https://pleiades.stoa.org/places/42782119)
 
 
+## House of the Sundial (Q141859002)
+[https://www.wikidata.org/wiki/Q141859002](https://www.wikidata.org/wiki/Q141859002)  
+
+### alignments:
+ - [House of the Sundial at Baelo](https://pleiades.stoa.org/places/510567670)
+
+
 ## House of the surgeon (Q3661216)
 [https://www.wikidata.org/wiki/Q3661216](https://www.wikidata.org/wiki/Q3661216)  
 
@@ -33426,6 +33440,13 @@
 
 ### alignments:
  - [Libisosa](https://pleiades.stoa.org/places/265949)
+
+
+## Libraries' Courtyard at Hadrian's Villa (Q141865583)
+[https://www.wikidata.org/wiki/Q141865583](https://www.wikidata.org/wiki/Q141865583)  
+
+### alignments:
+ - [Libraries' Courtyard at Hadrian's Villa](https://pleiades.stoa.org/places/369692199)
 
 
 ## Library of Pantainus (Q5727966)
@@ -39411,6 +39432,13 @@
  - [Canicella necropolis](https://pleiades.stoa.org/places/364546694)
 
 
+## Necropolis of Carmona (Q71990941)
+[https://www.wikidata.org/wiki/Q71990941](https://www.wikidata.org/wiki/Q71990941)  
+
+### alignments:
+ - [Roman necropolis at Carmo](https://pleiades.stoa.org/places/577458078)
+
+
 ## necropolis of Castel d'Asso (Q3346847)
 [https://www.wikidata.org/wiki/Q3346847](https://www.wikidata.org/wiki/Q3346847)  
 
@@ -42034,6 +42062,13 @@
 
 ### alignments:
  - [Regio I, Ostia Antica](https://pleiades.stoa.org/places/461688683)
+
+
+## Ostia Antica, Regio II (Q1840036)
+[https://www.wikidata.org/wiki/Q1840036](https://www.wikidata.org/wiki/Q1840036)  
+
+### alignments:
+ - [Regio II, Ostia Antica](https://pleiades.stoa.org/places/461688684)
 
 
 ## Ostia Synagogue (Q123433)
@@ -52009,13 +52044,6 @@
  - [Maghlub/Forat?/Perat de Meshan?/Bahman Ardashir?/‘Oratha’?/Furat al-Basra?](https://pleiades.stoa.org/places/912899)
 
 
-## Q1840036: Ostia Antica, Regio II
-[https://www.wikidata.org/wiki/Q1840036](https://www.wikidata.org/wiki/Q1840036)  
-
-### alignments:
- - [Regio II, Ostia Antica](https://pleiades.stoa.org/places/461688684)
-
-
 ## Q18432478:
 [https://www.wikidata.org/wiki/Q18432478](https://www.wikidata.org/wiki/Q18432478)  
 
@@ -55940,13 +55968,6 @@
  - [Casa dei Grifi](https://pleiades.stoa.org/places/817164756)
 
 
-## Q3661352: Samnite house
-[https://www.wikidata.org/wiki/Q3661352](https://www.wikidata.org/wiki/Q3661352)  
-
-### alignments:
- - [Samnite House](https://pleiades.stoa.org/places/214908564)
-
-
 ## Q3663130: Area archeologica del Castrum Inui
 [https://www.wikidata.org/wiki/Q3663130](https://www.wikidata.org/wiki/Q3663130)  
 
@@ -58118,13 +58139,6 @@
 
 ### alignments:
  - [Whitemoss Roman auxiliary fort](https://pleiades.stoa.org/places/933587195)
-
-
-## Q56760760: Tritaea (Achaea)
-[https://www.wikidata.org/wiki/Q56760760](https://www.wikidata.org/wiki/Q56760760)  
-
-### alignments:
- - [Trit(a)ia](https://pleiades.stoa.org/places/570755)
 
 
 ## Q56761380: Leontium (Achaea)
@@ -64926,6 +64940,13 @@
  - [Mandra Castellone](https://pleiades.stoa.org/places/572637979)
 
 
+## Samnite house (Q3661352)
+[https://www.wikidata.org/wiki/Q3661352](https://www.wikidata.org/wiki/Q3661352)  
+
+### alignments:
+ - [Samnite House](https://pleiades.stoa.org/places/214908564)
+
+
 ## Samnite Sanctuary at Pietrabbondante (Q21552374)
 [https://www.wikidata.org/wiki/Q21552374](https://www.wikidata.org/wiki/Q21552374)  
 
@@ -69077,6 +69098,13 @@
 
 ### alignments:
  - [Hippodrome at Ptolemais/Barkes Limen](https://pleiades.stoa.org/places/885142066)
+
+
+## Stadium-garden at Hadrian's Villa (Q141869068)
+[https://www.wikidata.org/wiki/Q141869068](https://www.wikidata.org/wiki/Q141869068)  
+
+### alignments:
+ - [Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
 
 
 ## Stalae (Q65078998)
@@ -75538,11 +75566,25 @@
  - [Ad Centesimum](https://pleiades.stoa.org/places/412992)
 
 
+## Tritaea (Achaea) (Q56760760)
+[https://www.wikidata.org/wiki/Q56760760](https://www.wikidata.org/wiki/Q56760760)  
+
+### alignments:
+ - [Trit(a)ia](https://pleiades.stoa.org/places/570755)
+
+
 ## Tritaea (Q16642811)
 [https://www.wikidata.org/wiki/Q16642811](https://www.wikidata.org/wiki/Q16642811)  
 
 ### alignments:
  - [Triteia](https://pleiades.stoa.org/places/541166)
+
+
+## Tritaea (Q16737926)
+[https://www.wikidata.org/wiki/Q16737926](https://www.wikidata.org/wiki/Q16737926)  
+
+### alignments:
+ - [Trit(a)ia](https://pleiades.stoa.org/places/570755)
 
 
 ## Tritium Autrigonum (Q4890277)
@@ -79958,6 +80000,13 @@
  - [Xantheia/Xanthi](https://pleiades.stoa.org/places/630785464)
 
 
+## Xanthos (Q464936)
+[https://www.wikidata.org/wiki/Q464936](https://www.wikidata.org/wiki/Q464936)  
+
+### alignments:
+ - [Xanthos](https://pleiades.stoa.org/places/639166)
+
+
 ## Xatis Scythae (Q135197258)
 [https://www.wikidata.org/wiki/Q135197258](https://www.wikidata.org/wiki/Q135197258)  
 
@@ -79991,6 +80040,13 @@
 
 ### alignments:
  - [Xois](https://pleiades.stoa.org/places/727256)
+
+
+## Xouthia (Q137591292)
+[https://www.wikidata.org/wiki/Q137591292](https://www.wikidata.org/wiki/Q137591292)  
+
+### alignments:
+ - [Xouthia Chora](https://pleiades.stoa.org/places/466017)
 
 
 ## Xuvia River (Q9071847)
@@ -80593,6 +80649,13 @@
 
 ### alignments:
  - [Oaxus (lake)](https://pleiades.stoa.org/places/59950)
+
+
+## Zoster (Q24882540)
+[https://www.wikidata.org/wiki/Q24882540](https://www.wikidata.org/wiki/Q24882540)  
+
+### alignments:
+ - [Zoster Pr.](https://pleiades.stoa.org/places/580140)
 
 
 ## Zrmanja (Q227187)

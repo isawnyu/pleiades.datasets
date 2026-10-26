@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5180 alignments exist in _Pleiades_ place references as of 2026-10-25. The following list of alignments is grouped by zotkey.
+5181 alignments exist in _Pleiades_ place references as of 2026-10-26. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -34765,6 +34765,13 @@
 
 ### alignments:
  - [Ilium/Troia](https://pleiades.stoa.org/places/550595)
+
+
+## Trysa (Lycia)
+[https://topostext.org/place/363299UTry](https://topostext.org/place/363299UTry)  
+
+### alignments:
+ - [Trysa](https://pleiades.stoa.org/places/639155)
 
 
 ## Tsafi quarry (Lesbos)  Tarti - Τσάφι

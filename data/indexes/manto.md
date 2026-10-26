@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1237 alignments exist in _Pleiades_ place references as of 2026-10-25. The following list of alignments is grouped by zotkey.
+1250 alignments exist in _Pleiades_ place references as of 2026-10-26. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1269,6 +1269,13 @@
  - [Kolonos Hippios](https://pleiades.stoa.org/places/582869)
 
 
+## 10159360: Zoster (Attica)
+[https://resource.manto.unh.edu/10159360](https://resource.manto.unh.edu/10159360)  
+
+### alignments:
+ - [Zoster Pr.](https://pleiades.stoa.org/places/580140)
+
+
 ## 10159362: Cephale (Attica)
 [https://resource.manto.unh.edu/10159362](https://resource.manto.unh.edu/10159362)  
 
@@ -2277,6 +2284,13 @@
  - [Inykon?](https://pleiades.stoa.org/places/462261)
 
 
+## 10270815: Mount Corycos (Ionia)
+[https://resource.manto.unh.edu/10270815](https://resource.manto.unh.edu/10270815)  
+
+### alignments:
+ - [Korykos (mountain)](https://pleiades.stoa.org/places/550666)
+
+
 ## 10270831: the Castalian Spring (Delphi)
 [https://resource.manto.unh.edu/10270831](https://resource.manto.unh.edu/10270831)  
 
@@ -2408,6 +2422,13 @@
 
 ### alignments:
  - [Phara(i)](https://pleiades.stoa.org/places/570590)
+
+
+## 10274464: Tritaia (Achaia)
+[https://resource.manto.unh.edu/10274464](https://resource.manto.unh.edu/10274464)  
+
+### alignments:
+ - [Trit(a)ia](https://pleiades.stoa.org/places/570755)
 
 
 ## 10274476: Argyra
@@ -2858,6 +2879,13 @@
  - [Gryneion](https://pleiades.stoa.org/places/550555)
 
 
+## 11024254: Xanthos (Lycia)
+[https://resource.manto.unh.edu/11024254](https://resource.manto.unh.edu/11024254)  
+
+### alignments:
+ - [Xanthos](https://pleiades.stoa.org/places/639166)
+
+
 ## 11025128: Anagyrous (Attica)
 [https://resource.manto.unh.edu/11025128](https://resource.manto.unh.edu/11025128)  
 
@@ -2996,6 +3024,13 @@
 
 ### alignments:
  - [Agryle Hypenerthen](https://pleiades.stoa.org/places/579848)
+
+
+## 11290028: Zone (Thrace)
+[https://resource.manto.unh.edu/11290028](https://resource.manto.unh.edu/11290028)  
+
+### alignments:
+ - [Serreion/Zonaion M.](https://pleiades.stoa.org/places/501607)
 
 
 ## 11291564: River Apidanos (N. Greece)
@@ -3626,6 +3661,13 @@
 
 ### alignments:
  - [Heraia (mountain)](https://pleiades.stoa.org/places/462238)
+
+
+## 11304268: Xouthia (Sicily)
+[https://resource.manto.unh.edu/11304268](https://resource.manto.unh.edu/11304268)  
+
+### alignments:
+ - [Xouthia Chora](https://pleiades.stoa.org/places/466017)
 
 
 ## 11304272: Agathyrnos (Sicily)
@@ -4399,6 +4441,13 @@
  - [Caere](https://pleiades.stoa.org/places/422859)
 
 
+## 11312685: Trysa (Lycia)
+[https://resource.manto.unh.edu/11312685](https://resource.manto.unh.edu/11312685)  
+
+### alignments:
+ - [Trysa](https://pleiades.stoa.org/places/639155)
+
+
 ## 11312688: Silvium (Italy)
 [https://resource.manto.unh.edu/11312688](https://resource.manto.unh.edu/11312688)  
 
@@ -4476,6 +4525,13 @@
  - [Hamaxitos](https://pleiades.stoa.org/places/550565)
 
 
+## 11313299: Xypete (Attica)
+[https://resource.manto.unh.edu/11313299](https://resource.manto.unh.edu/11313299)  
+
+### alignments:
+ - [Xypete](https://pleiades.stoa.org/places/580134)
+
+
 ## 11313347: Gargara (Troad)
 [https://resource.manto.unh.edu/11313347](https://resource.manto.unh.edu/11313347)  
 
@@ -4523,6 +4579,13 @@
 
 ### alignments:
  - [Katakekaumene](https://pleiades.stoa.org/places/609427)
+
+
+## 11313499: Mount Solymos (Pisidia)
+[https://resource.manto.unh.edu/11313499](https://resource.manto.unh.edu/11313499)  
+
+### alignments:
+ - [Solymos (mountain)](https://pleiades.stoa.org/places/639116)
 
 
 ## 11313525: River Timavus (Italy)
@@ -4852,6 +4915,20 @@
 
 ### alignments:
  - [House of the Ara Maxima](https://pleiades.stoa.org/places/340380318)
+
+
+## 11319120: Casa degli Amorini Dorati VI 16, 7.38 (Pompeii)
+[https://resource.manto.unh.edu/11319120](https://resource.manto.unh.edu/11319120)  
+
+### alignments:
+ - [House of the Gilded Cupids](https://pleiades.stoa.org/places/978027002)
+
+
+## 11319148: Casa dei Dioscuri VI 9, 6.7 (Pompeii)
+[https://resource.manto.unh.edu/11319148](https://resource.manto.unh.edu/11319148)  
+
+### alignments:
+ - [House of the Dioscuri](https://pleiades.stoa.org/places/364001862)
 
 
 ## 11319200: the Temple of Apollo VII 7, 32, Pompeii
@@ -5617,6 +5694,13 @@
  - [Trica](https://pleiades.stoa.org/places/446299)
 
 
+## 11329317: Umbria (Italy)
+[https://resource.manto.unh.edu/11329317](https://resource.manto.unh.edu/11329317)  
+
+### alignments:
+ - [Umbria (region)](https://pleiades.stoa.org/places/413360)
+
+
 ## 11329378: Cape Apollo (N. Africa)?
 [https://resource.manto.unh.edu/11329378](https://resource.manto.unh.edu/11329378)  
 
@@ -5706,6 +5790,13 @@
 
 ### alignments:
  - [Giza](https://pleiades.stoa.org/places/442962448)
+
+
+## 11329764: Utica (N. Africa)
+[https://resource.manto.unh.edu/11329764](https://resource.manto.unh.edu/11329764)  
+
+### alignments:
+ - [Utica](https://pleiades.stoa.org/places/315248)
 
 
 ## 11329765: Saguntum (Iberia)
