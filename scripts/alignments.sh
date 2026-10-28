@@ -5,6 +5,7 @@ set -e
 SCRIPT_DIR=$(dirname "${BASH_SOURCE[0]}")
 cd $SCRIPT_DIR/..
 PD_HOME=$PWD
+PYDIR=$PD_HOME/.direnv/python-3.15
 
 # manto
 $PYDIR/bin/python $PD_HOME/scripts/alignments.py -z SLCUI2TB -f json > $PD_HOME/data/indexes/manto.json
