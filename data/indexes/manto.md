@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1250 alignments exist in _Pleiades_ place references as of 2026-10-26. The following list of alignments is grouped by zotkey.
+1264 alignments exist in _Pleiades_ place references as of 2026-10-28. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4336,6 +4336,13 @@
  - [Acharaka](https://pleiades.stoa.org/places/599472)
 
 
+## 11311140: Elpiai (Italy)
+[https://resource.manto.unh.edu/11311140](https://resource.manto.unh.edu/11311140)  
+
+### alignments:
+ - [Sal(a)pia(i)/Elpia](https://pleiades.stoa.org/places/442758)
+
+
 ## 11311160: the Chasm of Chimaira (Lycia)
 [https://resource.manto.unh.edu/11311160](https://resource.manto.unh.edu/11311160)  
 
@@ -4516,6 +4523,13 @@
 
 ### alignments:
  - [Achilleion](https://pleiades.stoa.org/places/550401)
+
+
+## 11313279: Argyria (Troad)
+[https://resource.manto.unh.edu/11313279](https://resource.manto.unh.edu/11313279)  
+
+### alignments:
+ - [Argyria?](https://pleiades.stoa.org/places/550451)
 
 
 ## 11313290: Hamaxitos (Troad)
@@ -4903,6 +4917,41 @@
  - [House of the Faun](https://pleiades.stoa.org/places/876060818)
 
 
+## 11319025: Casa del Fabbro I 10, 7 (Pompeii)
+[https://resource.manto.unh.edu/11319025](https://resource.manto.unh.edu/11319025)  
+
+### alignments:
+ - [Casa del Fabbro](https://pleiades.stoa.org/places/784028639)
+
+
+## 11319037: Casa del Citarista I 4, 5.25 (Pompeii)
+[https://resource.manto.unh.edu/11319037](https://resource.manto.unh.edu/11319037)  
+
+### alignments:
+ - [House of the cithara player](https://pleiades.stoa.org/places/43612993)
+
+
+## 11319038: Casa dei Quadretti Teatrali I 6, 11 (Pompeii)
+[https://resource.manto.unh.edu/11319038](https://resource.manto.unh.edu/11319038)  
+
+### alignments:
+ - [House of Publius Casca Longus](https://pleiades.stoa.org/places/836029917)
+
+
+## 11319054: Casa dei Quattro Stili I 8, 17 (Pompeii)
+[https://resource.manto.unh.edu/11319054](https://resource.manto.unh.edu/11319054)  
+
+### alignments:
+ - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
+
+
+## 11319083: Casa del Chirurgo VI 1, 10 (Pompeii)
+[https://resource.manto.unh.edu/11319083](https://resource.manto.unh.edu/11319083)  
+
+### alignments:
+ - [House of the surgeon](https://pleiades.stoa.org/places/449007780)
+
+
 ## 11319107: Casa dei Vettii VI 15, 1 (Pompeii)
 [https://resource.manto.unh.edu/11319107](https://resource.manto.unh.edu/11319107)  
 
@@ -4924,11 +4973,32 @@
  - [House of the Gilded Cupids](https://pleiades.stoa.org/places/978027002)
 
 
+## 11319123: Casa del Bracciale d’Oro VI 17, 42 (Pompeii)
+[https://resource.manto.unh.edu/11319123](https://resource.manto.unh.edu/11319123)  
+
+### alignments:
+ - [House of the Golden Bracelet](https://pleiades.stoa.org/places/971497934)
+
+
 ## 11319148: Casa dei Dioscuri VI 9, 6.7 (Pompeii)
 [https://resource.manto.unh.edu/11319148](https://resource.manto.unh.edu/11319148)  
 
 ### alignments:
  - [House of the Dioscuri](https://pleiades.stoa.org/places/364001862)
+
+
+## 11319174: Casa dell’Amore Punito VII 2, 23 (Pompeii)
+[https://resource.manto.unh.edu/11319174](https://resource.manto.unh.edu/11319174)  
+
+### alignments:
+ - [Casa dell’ Amore punito](https://pleiades.stoa.org/places/379116903)
+
+
+## 11319191: Casa della Caccia Antica VII 4, 48 (Pompeii)
+[https://resource.manto.unh.edu/11319191](https://resource.manto.unh.edu/11319191)  
+
+### alignments:
+ - [House of the Ancient Hunt](https://pleiades.stoa.org/places/132276185)
 
 
 ## 11319200: the Temple of Apollo VII 7, 32, Pompeii
@@ -4938,11 +5008,25 @@
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
 
 
+## 11319213: Casa della Regina Carolina VIII 3, 14 (Pompeii)
+[https://resource.manto.unh.edu/11319213](https://resource.manto.unh.edu/11319213)  
+
+### alignments:
+ - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
+
+
 ## 11319227: the Temple of Isis VIII 7, 28, Pompeii
 [https://resource.manto.unh.edu/11319227](https://resource.manto.unh.edu/11319227)  
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## 11319260: Casa di Achille IX 5, 1-3 (Pompeii)
+[https://resource.manto.unh.edu/11319260](https://resource.manto.unh.edu/11319260)  
+
+### alignments:
+ - [House of Achilles](https://pleiades.stoa.org/places/523350094)
 
 
 ## 11319272: Casa del Centenario IX 8, 3.7 (Pompeii)
@@ -5260,6 +5344,13 @@
  - [Satricum](https://pleiades.stoa.org/places/423060)
 
 
+## 11321284: Crustumerium (Italy)
+[https://resource.manto.unh.edu/11321284](https://resource.manto.unh.edu/11321284)  
+
+### alignments:
+ - [Crustumerium](https://pleiades.stoa.org/places/422914)
+
+
 ## 11321285: Caenina (Italy)
 [https://resource.manto.unh.edu/11321285](https://resource.manto.unh.edu/11321285)  
 
@@ -5377,6 +5468,13 @@
 
 ### alignments:
  - [Athos/Akte (peninsula)](https://pleiades.stoa.org/places/501365)
+
+
+## 11324176: Faliscum (Italy)
+[https://resource.manto.unh.edu/11324176](https://resource.manto.unh.edu/11324176)  
+
+### alignments:
+ - [Falisci](https://pleiades.stoa.org/places/413128)
 
 
 ## 11324380: the Temple of Quirinus on the Quirinal Hill (Rome)

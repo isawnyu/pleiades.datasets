@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11557 alignments exist in _Pleiades_ place references as of 2026-10-26. The following list of alignments is grouped by zotkey.
+11562 alignments exist in _Pleiades_ place references as of 2026-10-28. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -9142,6 +9142,13 @@
  - [Baths of Oceanus in Sabratha](https://pleiades.stoa.org/places/14493280)
 
 
+## Baths of the Christian Basilica (Q141868139)
+[https://www.wikidata.org/wiki/Q141868139](https://www.wikidata.org/wiki/Q141868139)  
+
+### alignments:
+ - [Terme della Basilica Cristiana (III,I,2-3)](https://pleiades.stoa.org/places/367085720)
+
+
 ## Baths of the Philosopher (Q133296401)
 [https://www.wikidata.org/wiki/Q133296401](https://www.wikidata.org/wiki/Q133296401)  
 
@@ -13511,11 +13518,25 @@
  - [Casa dei Crescenzi](https://pleiades.stoa.org/places/111763397)
 
 
+## Casa dei Quadretti Teatrali (Q27070418)
+[https://www.wikidata.org/wiki/Q27070418](https://www.wikidata.org/wiki/Q27070418)  
+
+### alignments:
+ - [House of Publius Casca Longus](https://pleiades.stoa.org/places/836029917)
+
+
 ## Casa del Bicentenario (Q16537513)
 [https://www.wikidata.org/wiki/Q16537513](https://www.wikidata.org/wiki/Q16537513)  
 
 ### alignments:
  - [House of the Bicentenary](https://pleiades.stoa.org/places/756480383)
+
+
+## Casa del Citarista (Q27070401)
+[https://www.wikidata.org/wiki/Q27070401](https://www.wikidata.org/wiki/Q27070401)  
+
+### alignments:
+ - [House of the cithara player](https://pleiades.stoa.org/places/43612993)
 
 
 ## Casa del Gemmarius (Q27685762)
@@ -13579,6 +13600,13 @@
 
 ### alignments:
  - [Casa dell'Imperatrice di Russia](https://pleiades.stoa.org/places/242365256)
+
+
+## Casa della Caccia Antica (Q27686986)
+[https://www.wikidata.org/wiki/Q27686986](https://www.wikidata.org/wiki/Q27686986)  
+
+### alignments:
+ - [House of the Ancient Hunt](https://pleiades.stoa.org/places/132276185)
 
 
 ## Casa della Gemma (Herculaneum) (Q17623921)
@@ -13761,6 +13789,13 @@
 
 ### alignments:
  - [Regina](https://pleiades.stoa.org/places/256397)
+
+
+## Case a giardino (Q3661636)
+[https://www.wikidata.org/wiki/Q3661636](https://www.wikidata.org/wiki/Q3661636)  
+
+### alignments:
+ - [Garden Houses](https://pleiades.stoa.org/places/223974298)
 
 
 ## Caselette Roman villa (Q125163027)
@@ -25164,6 +25199,13 @@
  - [Theater of Priene](https://pleiades.stoa.org/places/182750553)
 
 
+## Greek Theatre of Termessos (Q59771457)
+[https://www.wikidata.org/wiki/Q59771457](https://www.wikidata.org/wiki/Q59771457)  
+
+### alignments:
+ - [Theater at Termessos](https://pleiades.stoa.org/places/544710174)
+
+
 ## Greek Underworld (Q1521549)
 [https://www.wikidata.org/wiki/Q1521549](https://www.wikidata.org/wiki/Q1521549)  
 
@@ -27355,6 +27397,13 @@
  - [Domus of A. Octavius Primus](https://pleiades.stoa.org/places/242335383)
 
 
+## House of Achilles (IX.5.2) (Q27688478)
+[https://www.wikidata.org/wiki/Q27688478](https://www.wikidata.org/wiki/Q27688478)  
+
+### alignments:
+ - [House of Achilles](https://pleiades.stoa.org/places/523350094)
+
+
 ## House of Adonis (VI.7.18) (Q27686245)
 [https://www.wikidata.org/wiki/Q27686245](https://www.wikidata.org/wiki/Q27686245)  
 
@@ -27649,6 +27698,13 @@
  - [House of the geometric mosaics](https://pleiades.stoa.org/places/393691694)
 
 
+## House of the Golden Bracelet (Q27686571)
+[https://www.wikidata.org/wiki/Q27686571](https://www.wikidata.org/wiki/Q27686571)  
+
+### alignments:
+ - [House of the Golden Bracelet](https://pleiades.stoa.org/places/971497934)
+
+
 ## House of the Indian Statuette (Q27070449)
 [https://www.wikidata.org/wiki/Q27070449](https://www.wikidata.org/wiki/Q27070449)  
 
@@ -27705,6 +27761,13 @@
  - [House of the Prince of Naples](https://pleiades.stoa.org/places/836029916)
 
 
+## House of the Punished Eros (Q27686668)
+[https://www.wikidata.org/wiki/Q27686668](https://www.wikidata.org/wiki/Q27686668)  
+
+### alignments:
+ - [Casa dell’ Amore punito](https://pleiades.stoa.org/places/379116903)
+
+
 ## House of the Relief of Telephus (Q16537540)
 [https://www.wikidata.org/wiki/Q16537540](https://www.wikidata.org/wiki/Q16537540)  
 
@@ -27752,6 +27815,13 @@
 
 ### alignments:
  - [Atrium Vestae](https://pleiades.stoa.org/places/795139357)
+
+
+## House of the Vettii (Q1590855)
+[https://www.wikidata.org/wiki/Q1590855](https://www.wikidata.org/wiki/Q1590855)  
+
+### alignments:
+ - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
 
 
 ## House of the wounded animals (Q128828788)
@@ -45915,6 +45985,13 @@
  - [Porta Pretoria (Albano Laziale)](https://pleiades.stoa.org/places/240415207)
 
 
+## Porta Praetoria (Q3908766)
+[https://www.wikidata.org/wiki/Q3908766](https://www.wikidata.org/wiki/Q3908766)  
+
+### alignments:
+ - [Porta Praetoria at Aosta](https://pleiades.stoa.org/places/310024671)
+
+
 ## Porta Principalis Dextra, Tulln (Q37890669)
 [https://www.wikidata.org/wiki/Q37890669](https://www.wikidata.org/wiki/Q37890669)  
 
@@ -50874,13 +50951,6 @@
  - [Illeta dels Banyets](https://pleiades.stoa.org/places/18579265)
 
 
-## Q1590855: House of the Vettii
-[https://www.wikidata.org/wiki/Q1590855](https://www.wikidata.org/wiki/Q1590855)  
-
-### alignments:
- - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
-
-
 ## Q15926: Trebnje
 [https://www.wikidata.org/wiki/Q15926](https://www.wikidata.org/wiki/Q15926)  
 
@@ -54118,20 +54188,6 @@
  - [House of the Actors](https://pleiades.stoa.org/places/630423237)
 
 
-## Q27070401: Casa del Citarista
-[https://www.wikidata.org/wiki/Q27070401](https://www.wikidata.org/wiki/Q27070401)  
-
-### alignments:
- - [House of the cithara player](https://pleiades.stoa.org/places/43612993)
-
-
-## Q27070418: Casa dei Quadretti Teatrali
-[https://www.wikidata.org/wiki/Q27070418](https://www.wikidata.org/wiki/Q27070418)  
-
-### alignments:
- - [House of Publius Casca Longus](https://pleiades.stoa.org/places/836029917)
-
-
 ## Q27070452: Caupona of Lucius Betutius (Vetutius) Placidus
 [https://www.wikidata.org/wiki/Q27070452](https://www.wikidata.org/wiki/Q27070452)  
 
@@ -54277,27 +54333,6 @@
 
 ### alignments:
  - [House of the Gilded Cupids](https://pleiades.stoa.org/places/978027002)
-
-
-## Q27686571: House of the Golden Bracelet
-[https://www.wikidata.org/wiki/Q27686571](https://www.wikidata.org/wiki/Q27686571)  
-
-### alignments:
- - [House of the Golden Bracelet](https://pleiades.stoa.org/places/971497934)
-
-
-## Q27686668: House of the Punished Eros
-[https://www.wikidata.org/wiki/Q27686668](https://www.wikidata.org/wiki/Q27686668)  
-
-### alignments:
- - [Casa dell’ Amore punito](https://pleiades.stoa.org/places/379116903)
-
-
-## Q27686986: Casa della Caccia Antica
-[https://www.wikidata.org/wiki/Q27686986](https://www.wikidata.org/wiki/Q27686986)  
-
-### alignments:
- - [House of the Ancient Hunt](https://pleiades.stoa.org/places/132276185)
 
 
 ## Q27687118: Shop of Acastus (VII.5.29)
@@ -55378,13 +55413,6 @@
 
 ### alignments:
  - [(H)Atria](https://pleiades.stoa.org/places/393436)
-
-
-## Q3469627: Salapia
-[https://www.wikidata.org/wiki/Q3469627](https://www.wikidata.org/wiki/Q3469627)  
-
-### alignments:
- - [Sal(a)pia(i)/Elpia](https://pleiades.stoa.org/places/442758)
 
 
 ## Q3469953: Salentini
@@ -64672,6 +64700,13 @@
 
 ### alignments:
  - [Salamis sea-fight tumulus (Salamis) ](https://pleiades.stoa.org/places/629239338)
+
+
+## Salapia (Q3469627)
+[https://www.wikidata.org/wiki/Q3469627](https://www.wikidata.org/wiki/Q3469627)  
+
+### alignments:
+ - [Sal(a)pia(i)/Elpia](https://pleiades.stoa.org/places/442758)
 
 
 ## Salat Höyüğü (Q6101059)
