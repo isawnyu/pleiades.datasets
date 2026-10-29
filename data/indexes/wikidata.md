@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11562 alignments exist in _Pleiades_ place references as of 2026-10-28. The following list of alignments is grouped by zotkey.
+11569 alignments exist in _Pleiades_ place references as of 2026-10-29. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13511,6 +13511,13 @@
  - [Casa degli Archi](https://pleiades.stoa.org/places/22263645)
 
 
+## Casa degli Archi (Q27688548)
+[https://www.wikidata.org/wiki/Q27688548](https://www.wikidata.org/wiki/Q27688548)  
+
+### alignments:
+ - [House of Caprasius Felix and Fortunata](https://pleiades.stoa.org/places/523350093)
+
+
 ## Casa dei Crescenzi (Q56333829)
 [https://www.wikidata.org/wiki/Q56333829](https://www.wikidata.org/wiki/Q56333829)  
 
@@ -13663,6 +13670,13 @@
 
 ### alignments:
  - [Casa di Championnet](https://pleiades.stoa.org/places/850575919)
+
+
+## Casa di Giasone (Q27688496)
+[https://www.wikidata.org/wiki/Q27688496](https://www.wikidata.org/wiki/Q27688496)  
+
+### alignments:
+ - [House of Jason](https://pleiades.stoa.org/places/840990536)
 
 
 ## Casa di Giulio Polibio (Q27688620)
@@ -23696,6 +23710,13 @@
  - [Funerary monuments in piazza del Corso (Nocera Inferiore)](https://pleiades.stoa.org/places/754096801)
 
 
+## Funereal triclinium of Cnaeus Vibrius Saturninus (Q56258919)
+[https://www.wikidata.org/wiki/Q56258919](https://www.wikidata.org/wiki/Q56258919)  
+
+### alignments:
+ - [Funereal triclinium of Cnaeus Vibrius Saturninus](https://pleiades.stoa.org/places/267661040)
+
+
 ## Funtana Coberta (Q1474759)
 [https://www.wikidata.org/wiki/Q1474759](https://www.wikidata.org/wiki/Q1474759)  
 
@@ -27612,6 +27633,13 @@
 
 ### alignments:
  - [House of Plotilla](https://pleiades.stoa.org/places/583930486)
+
+
+## House of Primigenia (IX.8.8) (Q27688567)
+[https://www.wikidata.org/wiki/Q27688567](https://www.wikidata.org/wiki/Q27688567)  
+
+### alignments:
+ - [Casa di Primigenia](https://pleiades.stoa.org/places/570861307)
 
 
 ## House of Romulus and Remus (Q27687274)
@@ -73886,6 +73914,13 @@
  - [Tomb of Aulus Umbricius Scaurus](https://pleiades.stoa.org/places/972528602)
 
 
+## tomb of C. Calventius Quietus (Q29887283)
+[https://www.wikidata.org/wiki/Q29887283](https://www.wikidata.org/wiki/Q29887283)  
+
+### alignments:
+ - [Tomb of Gaius Calventius Quietus](https://pleiades.stoa.org/places/731345089)
+
+
 ## Tomb of C. Maenius Bassus (Q100605522)
 [https://www.wikidata.org/wiki/Q100605522](https://www.wikidata.org/wiki/Q100605522)  
 
@@ -78515,6 +78550,13 @@
  - [Cassio](https://pleiades.stoa.org/places/422879)
 
 
+## Villa of Cicero (Pompeii) (Q97326183)
+[https://www.wikidata.org/wiki/Q97326183](https://www.wikidata.org/wiki/Q97326183)  
+
+### alignments:
+ - [Villa of Cicero (Pompeii)](https://pleiades.stoa.org/places/867843981)
+
+
 ## Villa of Diomedes (Q2525951)
 [https://www.wikidata.org/wiki/Q2525951](https://www.wikidata.org/wiki/Q2525951)  
 
@@ -79375,6 +79417,13 @@
 
 ### alignments:
  - [Boudoros (river)](https://pleiades.stoa.org/places/540692)
+
+
+## Vouga River (Q15653)
+[https://www.wikidata.org/wiki/Q15653](https://www.wikidata.org/wiki/Q15653)  
+
+### alignments:
+ - [Vouga River](https://pleiades.stoa.org/places/206635854)
 
 
 ## Vouraikos (Q1871901)

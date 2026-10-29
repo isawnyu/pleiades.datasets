@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1264 alignments exist in _Pleiades_ place references as of 2026-10-28. The following list of alignments is grouped by zotkey.
+1267 alignments exist in _Pleiades_ place references as of 2026-10-29. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -5022,6 +5022,13 @@
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
 
 
+## 11319259: Casa di Giasone IX 5, 18 (Pompeii)
+[https://resource.manto.unh.edu/11319259](https://resource.manto.unh.edu/11319259)  
+
+### alignments:
+ - [House of Jason](https://pleiades.stoa.org/places/840990536)
+
+
 ## 11319260: Casa di Achille IX 5, 1-3 (Pompeii)
 [https://resource.manto.unh.edu/11319260](https://resource.manto.unh.edu/11319260)  
 
@@ -5029,11 +5036,25 @@
  - [House of Achilles](https://pleiades.stoa.org/places/523350094)
 
 
+## 11319271: Casa della Fortuna IX 7, 20 (Pompeii)
+[https://resource.manto.unh.edu/11319271](https://resource.manto.unh.edu/11319271)  
+
+### alignments:
+ - [House of Caprasius Felix and Fortunata](https://pleiades.stoa.org/places/523350093)
+
+
 ## 11319272: Casa del Centenario IX 8, 3.7 (Pompeii)
 [https://resource.manto.unh.edu/11319272](https://resource.manto.unh.edu/11319272)  
 
 ### alignments:
  - [House of the Centenary](https://pleiades.stoa.org/places/717810706)
+
+
+## 11319273: Casa di Primigenia IX 8, 8 (Pompeii)
+[https://resource.manto.unh.edu/11319273](https://resource.manto.unh.edu/11319273)  
+
+### alignments:
+ - [Casa di Primigenia](https://pleiades.stoa.org/places/570861307)
 
 
 ## 11319297: Bicentennial House V 13-18 (Herculaneum)
