@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5202 alignments exist in _Pleiades_ place references as of 2026-10-29. The following list of alignments is grouped by zotkey.
+5202 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -408,13 +408,6 @@
 
 ### alignments:
  - [Ialysos](https://pleiades.stoa.org/places/589815)
-
-
-## Geo 1339: Malta
-[https://www.trismegistos.org/place/1339](https://www.trismegistos.org/place/1339)  
-
-### alignments:
- - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
 
 
 ## Geo 1405: Myrina
@@ -1889,13 +1882,6 @@
 
 ### alignments:
  - [Boia(i)](https://pleiades.stoa.org/places/570156)
-
-
-## Geo 37973: Sellasia
-[https://www.trismegistos.org/place/37973](https://www.trismegistos.org/place/37973)  
-
-### alignments:
- - [Sellasia](https://pleiades.stoa.org/places/570662)
 
 
 ## Geo 37974: Epidauros Limera
@@ -4552,6 +4538,13 @@
 
 ### alignments:
  - [Megara](https://pleiades.stoa.org/places/570468)
+
+
+## GEO ID 1339: Malta
+[https://www.trismegistos.org/place/1339](https://www.trismegistos.org/place/1339)  
+
+### alignments:
+ - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
 
 
 ## GEO ID 1340: Melitonos Epoikion
@@ -21650,6 +21643,13 @@
 
 ### alignments:
  - [Akriai](https://pleiades.stoa.org/places/570058)
+
+
+## GEO ID 37973: Sellasia
+[https://www.trismegistos.org/place/37973](https://www.trismegistos.org/place/37973)  
+
+### alignments:
+ - [Sellasia](https://pleiades.stoa.org/places/570662)
 
 
 ## GEO ID 3797: Berky (Kom el-Rahib)

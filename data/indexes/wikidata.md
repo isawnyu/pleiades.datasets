@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11569 alignments exist in _Pleiades_ place references as of 2026-10-29. The following list of alignments is grouped by zotkey.
+11570 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13663,6 +13663,13 @@
 
 ### alignments:
  - [House of Anicetus](https://pleiades.stoa.org/places/850954730)
+
+
+## Casa di Apollo (Q27686252)
+[https://www.wikidata.org/wiki/Q27686252](https://www.wikidata.org/wiki/Q27686252)  
+
+### alignments:
+ - [House of Apollo](https://pleiades.stoa.org/places/419907821)
 
 
 ## Casa di Championnet I and II (Q27688032)
@@ -27838,6 +27845,13 @@
  - [House of the Tiles](https://pleiades.stoa.org/places/230446791)
 
 
+## House of the Tragic Poet (Q4177608)
+[https://www.wikidata.org/wiki/Q4177608](https://www.wikidata.org/wiki/Q4177608)  
+
+### alignments:
+ - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
+
+
 ## House of the Vestals (Q285196)
 [https://www.wikidata.org/wiki/Q285196](https://www.wikidata.org/wiki/Q285196)  
 
@@ -35136,6 +35150,13 @@
 
 ### alignments:
  - [Mallos/Antiochia ad Pyramum](https://pleiades.stoa.org/places/648702)
+
+
+## Malta (Q233)
+[https://www.wikidata.org/wiki/Q233](https://www.wikidata.org/wiki/Q233)  
+
+### alignments:
+ - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
 
 
 ## Maltepe Tumulus (Q64705221)
@@ -54335,13 +54356,6 @@
  - [House of the Baker](https://pleiades.stoa.org/places/419907822)
 
 
-## Q27686252: Casa di Apollo
-[https://www.wikidata.org/wiki/Q27686252](https://www.wikidata.org/wiki/Q27686252)  
-
-### alignments:
- - [House of Apollo](https://pleiades.stoa.org/places/419907821)
-
-
 ## Q27686281: House of the small fountain
 [https://www.wikidata.org/wiki/Q27686281](https://www.wikidata.org/wiki/Q27686281)  
 
@@ -56934,13 +56948,6 @@
 
 ### alignments:
  - [Akarçay Tepe Höyük](https://pleiades.stoa.org/places/968351378)
-
-
-## Q4177608: House of the Tragic Poet
-[https://www.wikidata.org/wiki/Q4177608](https://www.wikidata.org/wiki/Q4177608)  
-
-### alignments:
- - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
 
 
 ## Q41931

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1267 alignments exist in _Pleiades_ place references as of 2026-10-29. The following list of alignments is grouped by zotkey.
+1284 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1689,6 +1689,13 @@
  - [Chryse (sunken island)](https://pleiades.stoa.org/places/499394756)
 
 
+## 10214510: Maniai (Arcadia)
+[https://resource.manto.unh.edu/10214510](https://resource.manto.unh.edu/10214510)  
+
+### alignments:
+ - [Maniai](https://pleiades.stoa.org/places/573357)
+
+
 ## 10214535: Zoitia
 [https://resource.manto.unh.edu/10214535](https://resource.manto.unh.edu/10214535)  
 
@@ -3187,6 +3194,13 @@
  - [Amantia](https://pleiades.stoa.org/places/481715)
 
 
+## 11297173: Sellasia (Laconia)
+[https://resource.manto.unh.edu/11297173](https://resource.manto.unh.edu/11297173)  
+
+### alignments:
+ - [Sellasia](https://pleiades.stoa.org/places/570662)
+
+
 ## 11297178: Paos (Arcadia)
 [https://resource.manto.unh.edu/11297178](https://resource.manto.unh.edu/11297178)  
 
@@ -3374,6 +3388,13 @@
 
 ### alignments:
  - [Hipponion/Vibo Valentia](https://pleiades.stoa.org/places/452337)
+
+
+## 11300427: Medma (Italy)
+[https://resource.manto.unh.edu/11300427](https://resource.manto.unh.edu/11300427)  
+
+### alignments:
+ - [Emporion](https://pleiades.stoa.org/places/452323)
 
 
 ## 11300468: Lagaria (S. Italy)
@@ -4826,6 +4847,13 @@
  - [Aous (river)](https://pleiades.stoa.org/places/481726)
 
 
+## 11315212: Malta (island)
+[https://resource.manto.unh.edu/11315212](https://resource.manto.unh.edu/11315212)  
+
+### alignments:
+ - [Melita/Malta (island)](https://pleiades.stoa.org/places/462311)
+
+
 ## 11315307: Rhaicalos (Chalcidice)
 [https://resource.manto.unh.edu/11315307](https://resource.manto.unh.edu/11315307)  
 
@@ -4917,6 +4945,13 @@
  - [House of the Faun](https://pleiades.stoa.org/places/876060818)
 
 
+## 11319023: Casa del Menandro I 10, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319023](https://resource.manto.unh.edu/11319023)  
+
+### alignments:
+ - [House of Menander](https://pleiades.stoa.org/places/690549463)
+
+
 ## 11319025: Casa del Fabbro I 10, 7 (Pompeii)
 [https://resource.manto.unh.edu/11319025](https://resource.manto.unh.edu/11319025)  
 
@@ -4938,11 +4973,32 @@
  - [House of Publius Casca Longus](https://pleiades.stoa.org/places/836029917)
 
 
+## 11319043: Casa del Sacello Iliaco I 6, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319043](https://resource.manto.unh.edu/11319043)  
+
+### alignments:
+ - [House of the Lararium of Achilles](https://pleiades.stoa.org/places/999909608)
+
+
 ## 11319054: Casa dei Quattro Stili I 8, 17 (Pompeii)
 [https://resource.manto.unh.edu/11319054](https://resource.manto.unh.edu/11319054)  
 
 ### alignments:
  - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
+
+
+## 11319061: Casa della Venere in Conchiglia II 3, 3 (Pompeii)
+[https://resource.manto.unh.edu/11319061](https://resource.manto.unh.edu/11319061)  
+
+### alignments:
+ - [House of Venus in the shell](https://pleiades.stoa.org/places/981889086)
+
+
+## 11319082: Caserma dei Gladiatori V 5, 3 (Pompeii)
+[https://resource.manto.unh.edu/11319082](https://resource.manto.unh.edu/11319082)  
+
+### alignments:
+ - [Gladiators' barracks](https://pleiades.stoa.org/places/182931393)
 
 
 ## 11319083: Casa del Chirurgo VI 1, 10 (Pompeii)
@@ -4957,6 +5013,13 @@
 
 ### alignments:
  - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
+
+
+## 11319112: Casa del Principe di Napoli VI 15, 7.8 (Pompeii)
+[https://resource.manto.unh.edu/11319112](https://resource.manto.unh.edu/11319112)  
+
+### alignments:
+ - [House of the Prince of Naples](https://pleiades.stoa.org/places/836029916)
 
 
 ## 11319115: Casa dell’Ara Massima VI 16, 15.17 (Pompeii)
@@ -4980,11 +5043,32 @@
  - [House of the Golden Bracelet](https://pleiades.stoa.org/places/971497934)
 
 
+## 11319138: Casa di Apollo VI 7, 23 (Pompeii)
+[https://resource.manto.unh.edu/11319138](https://resource.manto.unh.edu/11319138)  
+
+### alignments:
+ - [House of Apollo](https://pleiades.stoa.org/places/419907821)
+
+
+## 11319144: Casa del Poeta Tragico VI 8, 3.5 (Pompeii)
+[https://resource.manto.unh.edu/11319144](https://resource.manto.unh.edu/11319144)  
+
+### alignments:
+ - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
+
+
 ## 11319148: Casa dei Dioscuri VI 9, 6.7 (Pompeii)
 [https://resource.manto.unh.edu/11319148](https://resource.manto.unh.edu/11319148)  
 
 ### alignments:
  - [House of the Dioscuri](https://pleiades.stoa.org/places/364001862)
+
+
+## 11319165: Casa del Marinaio VII 15, 2 (Pompeii)
+[https://resource.manto.unh.edu/11319165](https://resource.manto.unh.edu/11319165)  
+
+### alignments:
+ - [Casa del Marinaio](https://pleiades.stoa.org/places/456945392)
 
 
 ## 11319174: Casa dell’Amore Punito VII 2, 23 (Pompeii)
@@ -5013,6 +5097,13 @@
 
 ### alignments:
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
+
+
+## 11319224: Casa delle Pareti Rosse VIII 5, 37 (Pompeii)
+[https://resource.manto.unh.edu/11319224](https://resource.manto.unh.edu/11319224)  
+
+### alignments:
+ - [House of the Red Walls](https://pleiades.stoa.org/places/657262551)
 
 
 ## 11319227: the Temple of Isis VIII 7, 28, Pompeii
@@ -5055,6 +5146,13 @@
 
 ### alignments:
  - [Casa di Primigenia](https://pleiades.stoa.org/places/570861307)
+
+
+## 11319286: Samnite House V 1 (Herculaenum)
+[https://resource.manto.unh.edu/11319286](https://resource.manto.unh.edu/11319286)  
+
+### alignments:
+ - [Samnite House](https://pleiades.stoa.org/places/214908564)
 
 
 ## 11319297: Bicentennial House V 13-18 (Herculaneum)
@@ -5111,6 +5209,13 @@
 
 ### alignments:
  - [House of Julia Felix](https://pleiades.stoa.org/places/205387552)
+
+
+## 11319697: Casa della Statuetta Indiana I 8, 5 (Pompeii)
+[https://resource.manto.unh.edu/11319697](https://resource.manto.unh.edu/11319697)  
+
+### alignments:
+ - [Casa della statuetta indiana](https://pleiades.stoa.org/places/264408878)
 
 
 ## 11319759: House in the Via Graziosa (Rome)
@@ -5419,6 +5524,13 @@
 
 ### alignments:
  - [Aigeai](https://pleiades.stoa.org/places/491512)
+
+
+## 11321574: Stabiae (Italy)
+[https://resource.manto.unh.edu/11321574](https://resource.manto.unh.edu/11321574)  
+
+### alignments:
+ - [Stabiae](https://pleiades.stoa.org/places/433128)
 
 
 ## 11321575: Villa Arianna (Stabiae)
@@ -8311,6 +8423,13 @@
 
 ### alignments:
  - [Dodona (Thessaly)](https://pleiades.stoa.org/places/543686)
+
+
+## 9720491: River Titaressos (N. Greece)
+[https://resource.manto.unh.edu/9720491](https://resource.manto.unh.edu/9720491)  
+
+### alignments:
+ - [Titaresios (river)](https://pleiades.stoa.org/places/541151)
 
 
 ## 9720495: River Peneios (Thessaly)
