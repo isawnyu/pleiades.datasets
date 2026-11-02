@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-576 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
+576 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -357,6 +357,51 @@
 
 ### alignments:
  - [Rhamnous](https://pleiades.stoa.org/places/580097)
+
+
+## 1.33.3-1.33.7
+[http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1](http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1)  
+
+### alignments:
+ - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
+ - [Akakesion](https://pleiades.stoa.org/places/573060)
+ - [Alkimedon](https://pleiades.stoa.org/places/573073)
+ - [Amnisos](https://pleiades.stoa.org/places/524143100)
+ - [Antikyra](https://pleiades.stoa.org/places/540642)
+ - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
+ - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
+ - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
+ - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
+ - [Geren(i)a](https://pleiades.stoa.org/places/570261)
+ - [Germanicum Mare](https://pleiades.stoa.org/places/20469)
+ - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
+ - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
+ - [Hypsoi](https://pleiades.stoa.org/places/573258)
+ - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
+ - [Kalamai](https://pleiades.stoa.org/places/570323)
+ - [Kyrtones](https://pleiades.stoa.org/places/540898)
+ - [Makaria](https://pleiades.stoa.org/places/580018)
+ - [Marmaridai](https://pleiades.stoa.org/places/716596)
+ - [Medeon](https://pleiades.stoa.org/places/540939)
+ - [Myndos](https://pleiades.stoa.org/places/599811)
+ - [Nomia (mountain)](https://pleiades.stoa.org/places/570509)
+ - [Nonakris](https://pleiades.stoa.org/places/570510)
+ - [Oenotri](https://pleiades.stoa.org/places/452395)
+ - [Paroria](https://pleiades.stoa.org/places/570562)
+ - [Pegai](https://pleiades.stoa.org/places/573430)
+ - [Petrosaka](https://pleiades.stoa.org/places/573440)
+ - [Pionia(i)](https://pleiades.stoa.org/places/550832)
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
+ - [Sellasia](https://pleiades.stoa.org/places/570662)
+ - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
+ - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
+ - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
+ - [Themisonion](https://pleiades.stoa.org/places/642565)
+ - [Thourion](https://pleiades.stoa.org/places/487031708)
+ - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
+ - [Trikolonoi](https://pleiades.stoa.org/places/570750)
+ - [Untitled](https://pleiades.stoa.org/places/582108)
+ - [Zeugma Palaion](https://pleiades.stoa.org/places/662226)
 
 
 ## 1.33.3
@@ -3620,6 +3665,7 @@
 ### alignments:
  - [Mainalos](https://pleiades.stoa.org/places/570451)
  - [Soumateon/Soumetia](https://pleiades.stoa.org/places/573529)
+ - [Triodoi](https://pleiades.stoa.org/places/573570)
 
 
 ## 8.36.9
@@ -4226,41 +4272,5 @@
 
 ### alignments:
  - [Electran Gate (Thebes)](https://pleiades.stoa.org/places/492759698)
-
-
-## 
-[http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1](http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1)  
-
-### alignments:
- - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
- - [Akakesion](https://pleiades.stoa.org/places/573060)
- - [Amnisos](https://pleiades.stoa.org/places/524143100)
- - [Antikyra](https://pleiades.stoa.org/places/540642)
- - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
- - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
- - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
- - [Geren(i)a](https://pleiades.stoa.org/places/570261)
- - [Glaukos (river)](https://pleiades.stoa.org/places/570264)
- - [Gymnasium at Olympia](https://pleiades.stoa.org/places/728329643)
- - [Hypsoi](https://pleiades.stoa.org/places/573258)
- - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
- - [Kalamai](https://pleiades.stoa.org/places/570323)
- - [Kyrtones](https://pleiades.stoa.org/places/540898)
- - [Medeon](https://pleiades.stoa.org/places/540939)
- - [Myndos](https://pleiades.stoa.org/places/599811)
- - [Nonakris](https://pleiades.stoa.org/places/570510)
- - [Oenotri](https://pleiades.stoa.org/places/452395)
- - [Paroria](https://pleiades.stoa.org/places/570562)
- - [Pegai](https://pleiades.stoa.org/places/573430)
- - [Petrosaka](https://pleiades.stoa.org/places/573440)
- - [Pionia(i)](https://pleiades.stoa.org/places/550832)
- - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
- - [Sellasia](https://pleiades.stoa.org/places/570662)
- - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
- - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
- - [Theater of ancient Sicyon](https://pleiades.stoa.org/places/542568395)
- - [Thourion](https://pleiades.stoa.org/places/487031708)
- - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
- - [Untitled](https://pleiades.stoa.org/places/582108)
 
 

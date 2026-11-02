@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1284 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
+1405 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -618,6 +618,13 @@
  - [Charisiai/Charisia](https://pleiades.stoa.org/places/573167)
 
 
+## 10137156: Tricolonoi (Arcadia)
+[https://resource.manto.unh.edu/10137156](https://resource.manto.unh.edu/10137156)  
+
+### alignments:
+ - [Trikolonoi](https://pleiades.stoa.org/places/570750)
+
+
 ## 10137158: Peraitheis (Arcadia)
 [https://resource.manto.unh.edu/10137158](https://resource.manto.unh.edu/10137158)  
 
@@ -735,6 +742,13 @@
 
 ### alignments:
  - [Taleton Akra](https://pleiades.stoa.org/places/573541)
+
+
+## 10146627: Therai (Laconia)
+[https://resource.manto.unh.edu/10146627](https://resource.manto.unh.edu/10146627)  
+
+### alignments:
+ - [Therai](https://pleiades.stoa.org/places/573554)
 
 
 ## 10146647: Aigiai
@@ -1185,6 +1199,13 @@
  - [Mainalion (mountain)](https://pleiades.stoa.org/places/570449)
 
 
+## 10158617: the Plain of Alcimedon (Arcadia)
+[https://resource.manto.unh.edu/10158617](https://resource.manto.unh.edu/10158617)  
+
+### alignments:
+ - [Alkimedon](https://pleiades.stoa.org/places/573073)
+
+
 ## 10158629: Mount Chaon (Argolid)
 [https://resource.manto.unh.edu/10158629](https://resource.manto.unh.edu/10158629)  
 
@@ -1325,7 +1346,14 @@
  - [Larissa](https://pleiades.stoa.org/places/540905)
 
 
-## 10159708
+## 10159696: the Spring of Macaria (Attica)
+[https://resource.manto.unh.edu/10159696](https://resource.manto.unh.edu/10159696)  
+
+### alignments:
+ - [Makaria](https://pleiades.stoa.org/places/580018)
+
+
+## 10159708: the Temple of Nemesis at Rhamnous (Attica)
 [https://resource.manto.unh.edu/10159708](https://resource.manto.unh.edu/10159708)  
 
 ### alignments:
@@ -1570,6 +1598,13 @@
  - [Sphettos](https://pleiades.stoa.org/places/580109)
 
 
+## 10210626: the Aroanian Mountains (Arcadia)
+[https://resource.manto.unh.edu/10210626](https://resource.manto.unh.edu/10210626)  
+
+### alignments:
+ - [Aroania (mountain)](https://pleiades.stoa.org/places/570112)
+
+
 ## 10210633: Lousoi
 [https://resource.manto.unh.edu/10210633](https://resource.manto.unh.edu/10210633)  
 
@@ -1724,6 +1759,13 @@
  - [Lampeia (mountain)](https://pleiades.stoa.org/places/570410)
 
 
+## 10214627: Triodoi (Arcadia)
+[https://resource.manto.unh.edu/10214627](https://resource.manto.unh.edu/10214627)  
+
+### alignments:
+ - [Triodoi](https://pleiades.stoa.org/places/573570)
+
+
 ## 10214637: Alexiarous (Boiotia)
 [https://resource.manto.unh.edu/10214637](https://resource.manto.unh.edu/10214637)  
 
@@ -1743,6 +1785,13 @@
 
 ### alignments:
  - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
+
+
+## 10214776: Mount Coccygion (Argolid)
+[https://resource.manto.unh.edu/10214776](https://resource.manto.unh.edu/10214776)  
+
+### alignments:
+ - [Kokkygion/Thornax M.](https://pleiades.stoa.org/places/573294)
 
 
 ## 10214779: Methana (Argolid)
@@ -1799,6 +1848,13 @@
 
 ### alignments:
  - [Kalaureia (island)](https://pleiades.stoa.org/places/570325)
+
+
+## 10214927: the Nomian Mountains (Arcadia/Messenia)
+[https://resource.manto.unh.edu/10214927](https://resource.manto.unh.edu/10214927)  
+
+### alignments:
+ - [Nomia (mountain)](https://pleiades.stoa.org/places/570509)
 
 
 ## 10214996: the Tomg of Endymion (Olympia)
@@ -1990,6 +2046,13 @@
  - [Gortys](https://pleiades.stoa.org/places/570267)
 
 
+## 10267365: Catreus (Crete)
+[https://resource.manto.unh.edu/10267365](https://resource.manto.unh.edu/10267365)  
+
+### alignments:
+ - [Katre?](https://pleiades.stoa.org/places/589856)
+
+
 ## 10267540: Ionia region in western Asia Minor
 [https://resource.manto.unh.edu/10267540](https://resource.manto.unh.edu/10267540)  
 
@@ -2072,6 +2135,13 @@
 
 ### alignments:
  - [Pityoussa/Lampsacus](https://pleiades.stoa.org/places/501570)
+
+
+## 10268824: Thronion (Thesprotia)
+[https://resource.manto.unh.edu/10268824](https://resource.manto.unh.edu/10268824)  
+
+### alignments:
+ - [Thronion](https://pleiades.stoa.org/places/484015)
 
 
 ## 10268846: Tipha (Boiotia)
@@ -2422,6 +2492,13 @@
 
 ### alignments:
  - [Mesatis/Mesoa](https://pleiades.stoa.org/places/573370)
+
+
+## 10273489: the Plain of Zeugma
+[https://resource.manto.unh.edu/10273489](https://resource.manto.unh.edu/10273489)  
+
+### alignments:
+ - [Zeugma Palaion](https://pleiades.stoa.org/places/662226)
 
 
 ## 10274458: Pharai (Achaia)
@@ -2816,6 +2893,13 @@
  - [Psyttaleia (island)](https://pleiades.stoa.org/places/580094)
 
 
+## 10964270: Hippothontis (Attica)
+[https://resource.manto.unh.edu/10964270](https://resource.manto.unh.edu/10964270)  
+
+### alignments:
+ - [Korydallos](https://pleiades.stoa.org/places/579992)
+
+
 ## 10991032: the Temple of Apollo Smintheus at Sminthe (Troad)
 [https://resource.manto.unh.edu/10991032](https://resource.manto.unh.edu/10991032)  
 
@@ -2900,6 +2984,13 @@
  - [Anagyrous](https://pleiades.stoa.org/places/579863)
 
 
+## 11066632: the North Sea
+[https://resource.manto.unh.edu/11066632](https://resource.manto.unh.edu/11066632)  
+
+### alignments:
+ - [Germanicum Mare](https://pleiades.stoa.org/places/20469)
+
+
 ## 11066685: Anthion Well (Eleusis)
 [https://resource.manto.unh.edu/11066685](https://resource.manto.unh.edu/11066685)  
 
@@ -2954,6 +3045,13 @@
 
 ### alignments:
  - [Perraibia](https://pleiades.stoa.org/places/491689)
+
+
+## 11288770: the Lelantine Plain (Euboia)
+[https://resource.manto.unh.edu/11288770](https://resource.manto.unh.edu/11288770)  
+
+### alignments:
+ - [Lelant(i)on Pedion](https://pleiades.stoa.org/places/540911)
 
 
 ## 11288834: Cranae (Laconia)
@@ -3068,6 +3166,13 @@
  - [Kreusis](https://pleiades.stoa.org/places/540888)
 
 
+## 11292750: Mount Tilphossion (Boiotia)
+[https://resource.manto.unh.edu/11292750](https://resource.manto.unh.edu/11292750)  
+
+### alignments:
+ - [Tilphosaion?](https://pleiades.stoa.org/places/541148)
+
+
 ## 11293043: Asteris (island)
 [https://resource.manto.unh.edu/11293043](https://resource.manto.unh.edu/11293043)  
 
@@ -3138,6 +3243,13 @@
  - [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
 
+## 11296604: Thenai (Crete)
+[https://resource.manto.unh.edu/11296604](https://resource.manto.unh.edu/11296604)  
+
+### alignments:
+ - [Thenai](https://pleiades.stoa.org/places/595005)
+
+
 ## 11296676: Mount Leuca (Crete)
 [https://resource.manto.unh.edu/11296676](https://resource.manto.unh.edu/11296676)  
 
@@ -3150,6 +3262,13 @@
 
 ### alignments:
  - [Nif/Olympos? (mountain)](https://pleiades.stoa.org/places/550786)
+
+
+## 11296716: Halai Araphenides (Attica)
+[https://resource.manto.unh.edu/11296716](https://resource.manto.unh.edu/11296716)  
+
+### alignments:
+ - [Halai Araphenides](https://pleiades.stoa.org/places/579940)
 
 
 ## 11296719: Perge (Asia Minor)
@@ -3192,6 +3311,13 @@
 
 ### alignments:
  - [Amantia](https://pleiades.stoa.org/places/481715)
+
+
+## 11297012: the Rocks of Melas (island)
+[https://resource.manto.unh.edu/11297012](https://resource.manto.unh.edu/11297012)  
+
+### alignments:
+ - [Melantioi Petrai](https://pleiades.stoa.org/places/599793)
 
 
 ## 11297173: Sellasia (Laconia)
@@ -3248,6 +3374,20 @@
 
 ### alignments:
  - [Koresia/Arsinoe](https://pleiades.stoa.org/places/570370)
+
+
+## 11297985: the Pelasgian Wall of Athens
+[https://resource.manto.unh.edu/11297985](https://resource.manto.unh.edu/11297985)  
+
+### alignments:
+ - [Pelargikon wall](https://pleiades.stoa.org/places/992770796)
+
+
+## 11298001: the Altar of the Hero of the Stern (Phaleron)
+[https://resource.manto.unh.edu/11298001](https://resource.manto.unh.edu/11298001)  
+
+### alignments:
+ - [Altar of Androgeos](https://pleiades.stoa.org/places/756525877)
 
 
 ## 11298236: the Rhipean Mountains (unlocatable)
@@ -3348,6 +3488,13 @@
  - [Tanais (river)](https://pleiades.stoa.org/places/825398)
 
 
+## 11299998: the Brow of the Ram (Pontos)
+[https://resource.manto.unh.edu/11299998](https://resource.manto.unh.edu/11299998)  
+
+### alignments:
+ - [Kriou Metopon Pr.](https://pleiades.stoa.org/places/226671)
+
+
 ## 11300121: Babylon (Mesopotamia)
 [https://resource.manto.unh.edu/11300121](https://resource.manto.unh.edu/11300121)  
 
@@ -3367,6 +3514,13 @@
 
 ### alignments:
  - [Temple of Hera at Foce del Sele](https://pleiades.stoa.org/places/442610)
+
+
+## 11300395: the Promontory of Palinouros (Italy)
+[https://resource.manto.unh.edu/11300395](https://resource.manto.unh.edu/11300395)  
+
+### alignments:
+ - [Palinurus (promontory)](https://pleiades.stoa.org/places/452399)
 
 
 ## 11300409: Aigesta (Sicily)
@@ -3395,6 +3549,13 @@
 
 ### alignments:
  - [Emporion](https://pleiades.stoa.org/places/452323)
+
+
+## 11300429: the Harbor of Heracles (S. Italy)
+[https://resource.manto.unh.edu/11300429](https://resource.manto.unh.edu/11300429)  
+
+### alignments:
+ - [Portus Herculis/Herakleous Limen](https://pleiades.stoa.org/places/456117)
 
 
 ## 11300468: Lagaria (S. Italy)
@@ -3502,6 +3663,13 @@
  - [Thynias](https://pleiades.stoa.org/places/511443)
 
 
+## 11302104: Thynias (Bithynia)
+[https://resource.manto.unh.edu/11302104](https://resource.manto.unh.edu/11302104)  
+
+### alignments:
+ - [Thynias/Apollonia/Daphnousia (island)](https://pleiades.stoa.org/places/511446)
+
+
 ## 11302148: Acherousias Promontory (Pontos)
 [https://resource.manto.unh.edu/11302148](https://resource.manto.unh.edu/11302148)  
 
@@ -3530,11 +3698,25 @@
  - [Amazonius (mountain)](https://pleiades.stoa.org/places/857019)
 
 
+## 11302395: the Doiantian Plain (Themiscyra)
+[https://resource.manto.unh.edu/11302395](https://resource.manto.unh.edu/11302395)  
+
+### alignments:
+ - [Doiantos? Pedion](https://pleiades.stoa.org/places/857109)
+
+
 ## 11302399: Acmonia (Asia Minor)
 [https://resource.manto.unh.edu/11302399](https://resource.manto.unh.edu/11302399)  
 
 ### alignments:
  - [Akmonia](https://pleiades.stoa.org/places/609293)
+
+
+## 11302445: the Land of the Tibareni (Pontos)
+[https://resource.manto.unh.edu/11302445](https://resource.manto.unh.edu/11302445)  
+
+### alignments:
+ - [Tibareni](https://pleiades.stoa.org/places/857356)
 
 
 ## 11302741: Alesia (Gaul)
@@ -3605,6 +3787,13 @@
 
 ### alignments:
  - [Tomb of Castor (Sparta)](https://pleiades.stoa.org/places/303418080)
+
+
+## 11303037: Pelasgiotis (Thessaly)
+[https://resource.manto.unh.edu/11303037](https://resource.manto.unh.edu/11303037)  
+
+### alignments:
+ - [Pelasgiotis](https://pleiades.stoa.org/places/541018)
 
 
 ## 11303256: Aiolia
@@ -3733,6 +3922,13 @@
  - [Arabicus Sinus/Erythr(ae)um/Rubrum Mare](https://pleiades.stoa.org/places/39290)
 
 
+## 11304399: the Oracle of Zeus at Dodona (Epeiros)
+[https://resource.manto.unh.edu/11304399](https://resource.manto.unh.edu/11304399)  
+
+### alignments:
+ - [Dodona (Epirus)](https://pleiades.stoa.org/places/530843)
+
+
 ## 11304491: Tingi (N. Africa)
 [https://resource.manto.unh.edu/11304491](https://resource.manto.unh.edu/11304491)  
 
@@ -3745,6 +3941,13 @@
 
 ### alignments:
  - [Misenum (promontory)](https://pleiades.stoa.org/places/432942)
+
+
+## 11304607: Triopion Promontory (Caria)
+[https://resource.manto.unh.edu/11304607](https://resource.manto.unh.edu/11304607)  
+
+### alignments:
+ - [Triopion Pr.](https://pleiades.stoa.org/places/599989)
 
 
 ## 11304676: Rhodes (city)
@@ -3761,6 +3964,20 @@
  - [Orbelos (mountain)](https://pleiades.stoa.org/places/501539)
 
 
+## 11304778: Triopion (Caria)
+[https://resource.manto.unh.edu/11304778](https://resource.manto.unh.edu/11304778)  
+
+### alignments:
+ - [Triopion](https://pleiades.stoa.org/places/599988)
+
+
+## 11304799: the Oracle of Zeus-Ammon (N. Africa)
+[https://resource.manto.unh.edu/11304799](https://resource.manto.unh.edu/11304799)  
+
+### alignments:
+ - [Ammon](https://pleiades.stoa.org/places/716520)
+
+
 ## 11304805: the Caspian Sea
 [https://resource.manto.unh.edu/11304805](https://resource.manto.unh.edu/11304805)  
 
@@ -3775,6 +3992,13 @@
  - [Sarpedonion (promontory)](https://pleiades.stoa.org/places/648764)
 
 
+## 11304860: Castabos (Chersonesos)
+[https://resource.manto.unh.edu/11304860](https://resource.manto.unh.edu/11304860)  
+
+### alignments:
+ - [Kastabos](https://pleiades.stoa.org/places/599698)
+
+
 ## 11304938: River Triton (Crete)
 [https://resource.manto.unh.edu/11304938](https://resource.manto.unh.edu/11304938)  
 
@@ -3787,6 +4011,13 @@
 
 ### alignments:
  - [Calpe (mountain)](https://pleiades.stoa.org/places/256045)
+
+
+## 11304960: the Dionysiadai (islands)
+[https://resource.manto.unh.edu/11304960](https://resource.manto.unh.edu/11304960)  
+
+### alignments:
+ - [Dionysiades (islands)](https://pleiades.stoa.org/places/589763)
 
 
 ## 11305089: Ambracia (Epiros)
@@ -3817,6 +4048,13 @@
  - [Achaion Limen](https://pleiades.stoa.org/places/550399)
 
 
+## 11305890: the Temple of Amun-Re at Karnak (Egypt)
+[https://resource.manto.unh.edu/11305890](https://resource.manto.unh.edu/11305890)  
+
+### alignments:
+ - [Temple of Amon (Karnak)](https://pleiades.stoa.org/places/877521474)
+
+
 ## 11306085: Aidepsos (Euboia)
 [https://resource.manto.unh.edu/11306085](https://resource.manto.unh.edu/11306085)  
 
@@ -3829,6 +4067,13 @@
 
 ### alignments:
  - [Alyz(e)ia](https://pleiades.stoa.org/places/530793)
+
+
+## 11306295: the Alps
+[https://resource.manto.unh.edu/11306295](https://resource.manto.unh.edu/11306295)  
+
+### alignments:
+ - [Alpes (mountains)](https://pleiades.stoa.org/places/783)
 
 
 ## 11306299: the Steps of Cacios (Rome)
@@ -3850,6 +4095,13 @@
 
 ### alignments:
  - [Padus/Eridanus (river)](https://pleiades.stoa.org/places/393469)
+
+
+## 11306857: Gaul
+[https://resource.manto.unh.edu/11306857](https://resource.manto.unh.edu/11306857)  
+
+### alignments:
+ - [Gallia](https://pleiades.stoa.org/places/993)
 
 
 ## 11306921: Gaudos (island)
@@ -3887,6 +4139,13 @@
  - [Kynossema (promontory)](https://pleiades.stoa.org/places/501487)
 
 
+## 11307192: Thyssa (Chalcidice)
+[https://resource.manto.unh.edu/11307192](https://resource.manto.unh.edu/11307192)  
+
+### alignments:
+ - [Thyssos](https://pleiades.stoa.org/places/501643)
+
+
 ## 11307213: the Sanctuary of Thetis
 [https://resource.manto.unh.edu/11307213](https://resource.manto.unh.edu/11307213)  
 
@@ -3906,6 +4165,13 @@
 
 ### alignments:
  - [Alope](https://pleiades.stoa.org/places/540621)
+
+
+## 11307244: Thermopylai (Thessaly/Locris)
+[https://resource.manto.unh.edu/11307244](https://resource.manto.unh.edu/11307244)  
+
+### alignments:
+ - [Thermopylae](https://pleiades.stoa.org/places/541140)
 
 
 ## 11307341: Issa (island)
@@ -3957,6 +4223,13 @@
  - [Kierion](https://pleiades.stoa.org/places/540867)
 
 
+## 11307443: the Pagasetic Gulf (Thessaly)
+[https://resource.manto.unh.edu/11307443](https://resource.manto.unh.edu/11307443)  
+
+### alignments:
+ - [Pagasaeus/Demetriacus Sinus](https://pleiades.stoa.org/places/540997)
+
+
 ## 11307447: Deucalion (island)
 [https://resource.manto.unh.edu/11307447](https://resource.manto.unh.edu/11307447)  
 
@@ -3985,6 +4258,13 @@
  - [Eurymenai](https://pleiades.stoa.org/places/540784)
 
 
+## 11307727: the Pelasgian Plain (Thessaly)
+[https://resource.manto.unh.edu/11307727](https://resource.manto.unh.edu/11307727)  
+
+### alignments:
+ - [Pelasgiotis](https://pleiades.stoa.org/places/541018)
+
+
 ## 11307761: Lake Nessonis (Thessaly)
 [https://resource.manto.unh.edu/11307761](https://resource.manto.unh.edu/11307761)  
 
@@ -3997,6 +4277,13 @@
 
 ### alignments:
  - [Aigys](https://pleiades.stoa.org/places/570052)
+
+
+## 11307857: Hypaipa (Lydia/Maionia)
+[https://resource.manto.unh.edu/11307857](https://resource.manto.unh.edu/11307857)  
+
+### alignments:
+ - [Hypaipa](https://pleiades.stoa.org/places/550585)
 
 
 ## 11308145: Aigai (Euboia)
@@ -4034,6 +4321,13 @@
  - [Eurykydeion](https://pleiades.stoa.org/places/573224)
 
 
+## 11308397: Thera (city)
+[https://resource.manto.unh.edu/11308397](https://resource.manto.unh.edu/11308397)  
+
+### alignments:
+ - [Thera (settlement)](https://pleiades.stoa.org/places/599971)
+
+
 ## 11308433: Cyparissia (Elis)
 [https://resource.manto.unh.edu/11308433](https://resource.manto.unh.edu/11308433)  
 
@@ -4046,6 +4340,13 @@
 
 ### alignments:
  - [Amphigeneia](https://pleiades.stoa.org/places/573083)
+
+
+## 11308448: the Oxeiai Islands
+[https://resource.manto.unh.edu/11308448](https://resource.manto.unh.edu/11308448)  
+
+### alignments:
+ - [Oxeiai/Thoai (islands)](https://pleiades.stoa.org/places/531026)
 
 
 ## 11308487: the Sanctuary of the Daughters of Ion (Elis)
@@ -4090,6 +4391,13 @@
  - [Clusium](https://pleiades.stoa.org/places/413096)
 
 
+## 11309241: the Pharmacoussai (islands)
+[https://resource.manto.unh.edu/11309241](https://resource.manto.unh.edu/11309241)  
+
+### alignments:
+ - [Pharmakoussai/Choirades (islands)](https://pleiades.stoa.org/places/580073)
+
+
 ## 11309266: Epacria (Attica)
 [https://resource.manto.unh.edu/11309266](https://resource.manto.unh.edu/11309266)  
 
@@ -4123,6 +4431,13 @@
 
 ### alignments:
  - [Kephisia](https://pleiades.stoa.org/places/579972)
+
+
+## 11309420: Cranioi (Cephallenia)
+[https://resource.manto.unh.edu/11309420](https://resource.manto.unh.edu/11309420)  
+
+### alignments:
+ - [Krane](https://pleiades.stoa.org/places/530962)
 
 
 ## 11309426: Pronnoi (Cephallenia)
@@ -4237,6 +4552,13 @@
  - [Gargaphia](https://pleiades.stoa.org/places/543709)
 
 
+## 11310127: the City of Phrixos (Colchis)
+[https://resource.manto.unh.edu/11310127](https://resource.manto.unh.edu/11310127)  
+
+### alignments:
+ - [Ideessa/Phrixou polis](https://pleiades.stoa.org/places/866022)
+
+
 ## 11310130: the Propontis
 [https://resource.manto.unh.edu/11310130](https://resource.manto.unh.edu/11310130)  
 
@@ -4259,6 +4581,27 @@
  - [Latium Vetus (region)](https://pleiades.stoa.org/places/422958)
 
 
+## 11310179: the Sacred Promontory (Iberia)
+[https://resource.manto.unh.edu/11310179](https://resource.manto.unh.edu/11310179)  
+
+### alignments:
+ - [Sacrum Pr.](https://pleiades.stoa.org/places/256410)
+
+
+## 11310190: the Harbor of Menestheus (Iberia)
+[https://resource.manto.unh.edu/11310190](https://resource.manto.unh.edu/11310190)  
+
+### alignments:
+ - [Ad Portum/Gaditanus Portus](https://pleiades.stoa.org/places/255955)
+
+
+## 11310192: the Temple of Menestheus in Iberia
+[https://resource.manto.unh.edu/11310192](https://resource.manto.unh.edu/11310192)  
+
+### alignments:
+ - [Menestheus, T.](https://pleiades.stoa.org/places/256294)
+
+
 ## 11310223: the Canary Islands
 [https://resource.manto.unh.edu/11310223](https://resource.manto.unh.edu/11310223)  
 
@@ -4271,6 +4614,13 @@
 
 ### alignments:
  - [Carthago Nova/Col. Urbs Iulia](https://pleiades.stoa.org/places/265849)
+
+
+## 11310286: Theline (Gaul)
+[https://resource.manto.unh.edu/11310286](https://resource.manto.unh.edu/11310286)  
+
+### alignments:
+ - [Theline/Col. Arelate/Constantina](https://pleiades.stoa.org/places/148217)
 
 
 ## 11310299: Leron (island)
@@ -4308,6 +4658,13 @@
  - [Gordyene/Corduena](https://pleiades.stoa.org/places/874488)
 
 
+## 11310410: the Harbor of Aphrodite (Red Sea)
+[https://resource.manto.unh.edu/11310410](https://resource.manto.unh.edu/11310410)  
+
+### alignments:
+ - [Myos Hormos?](https://pleiades.stoa.org/places/786069)
+
+
 ## 11310451: the Trojan Mountain (Egypt)
 [https://resource.manto.unh.edu/11310451](https://resource.manto.unh.edu/11310451)  
 
@@ -4320,6 +4677,13 @@
 
 ### alignments:
  - [Abydos/Ebot](https://pleiades.stoa.org/places/756512)
+
+
+## 11310461: the Labyrinth (Egypt)
+[https://resource.manto.unh.edu/11310461](https://resource.manto.unh.edu/11310461)  
+
+### alignments:
+ - [Labyrinthos](https://pleiades.stoa.org/places/736952)
 
 
 ## 11310538: River Limaia (Iberia)
@@ -4357,6 +4721,13 @@
  - [Acharaka](https://pleiades.stoa.org/places/599472)
 
 
+## 11311092: the Gulf of Glaucos (Lycia)
+[https://resource.manto.unh.edu/11311092](https://resource.manto.unh.edu/11311092)  
+
+### alignments:
+ - [Glaukos/Telmessicus Sinus](https://pleiades.stoa.org/places/638844)
+
+
 ## 11311140: Elpiai (Italy)
 [https://resource.manto.unh.edu/11311140](https://resource.manto.unh.edu/11311140)  
 
@@ -4369,6 +4740,13 @@
 
 ### alignments:
  - [Chimaira](https://pleiades.stoa.org/places/638801)
+
+
+## 11311213: the Hearth of Mopsos (Cilicia)
+[https://resource.manto.unh.edu/11311213](https://resource.manto.unh.edu/11311213)  
+
+### alignments:
+ - [Mopsou(h)estia/Seleukeia pros to Pyramo](https://pleiades.stoa.org/places/658538)
 
 
 ## 11311477: the Tyndareian Rocks (Libya)
@@ -4385,6 +4763,13 @@
  - [Altamura](https://pleiades.stoa.org/places/442461)
 
 
+## 11311517: the Land of the Chalybians (Pontos)
+[https://resource.manto.unh.edu/11311517](https://resource.manto.unh.edu/11311517)  
+
+### alignments:
+ - [Chalybes](https://pleiades.stoa.org/places/857083)
+
+
 ## 11311527: Astyra (Troad)
 [https://resource.manto.unh.edu/11311527](https://resource.manto.unh.edu/11311527)  
 
@@ -4397,6 +4782,13 @@
 
 ### alignments:
  - [Alba Longa](https://pleiades.stoa.org/places/422824)
+
+
+## 11311729: the Lookout of Perseus (Egypt)
+[https://resource.manto.unh.edu/11311729](https://resource.manto.unh.edu/11311729)  
+
+### alignments:
+ - [Perseos Skope](https://pleiades.stoa.org/places/727193)
 
 
 ## 11311822: Piraeus (Attica)
@@ -4413,11 +4805,32 @@
  - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
 
 
+## 11311861: Catane (Sicily)
+[https://resource.manto.unh.edu/11311861](https://resource.manto.unh.edu/11311861)  
+
+### alignments:
+ - [Katane/Catina](https://pleiades.stoa.org/places/462270)
+
+
 ## 11311968: Spina (Italy)
 [https://resource.manto.unh.edu/11311968](https://resource.manto.unh.edu/11311968)  
 
 ### alignments:
  - [Spina](https://pleiades.stoa.org/places/393498)
+
+
+## 11311970: Favara (Sicily)
+[https://resource.manto.unh.edu/11311970](https://resource.manto.unh.edu/11311970)  
+
+### alignments:
+ - [Saraceno di Favara](https://pleiades.stoa.org/places/462484)
+
+
+## 11312024: Tieion (Paphlagonia)
+[https://resource.manto.unh.edu/11312024](https://resource.manto.unh.edu/11312024)  
+
+### alignments:
+ - [Tios/Tieion](https://pleiades.stoa.org/places/845084)
 
 
 ## 11312028: Amisos (Pontic)
@@ -4446,6 +4859,13 @@
 
 ### alignments:
  - [Arakynthos (mountain)](https://pleiades.stoa.org/places/543635)
+
+
+## 11312357: the Land of the Garamantes (Libya)
+[https://resource.manto.unh.edu/11312357](https://resource.manto.unh.edu/11312357)  
+
+### alignments:
+ - [Garamantes](https://pleiades.stoa.org/places/354116)
 
 
 ## 11312457: Ophryneion (Troad)
@@ -4644,6 +5064,13 @@
  - [Pisae](https://pleiades.stoa.org/places/403253)
 
 
+## 11313589: the Harbor of Heracles (C. Italy)
+[https://resource.manto.unh.edu/11313589](https://resource.manto.unh.edu/11313589)  
+
+### alignments:
+ - [Portus Herculis](https://pleiades.stoa.org/places/403260)
+
+
 ## 11313684: Regis Villa (Italy)
 [https://resource.manto.unh.edu/11313684](https://resource.manto.unh.edu/11313684)  
 
@@ -4754,6 +5181,13 @@
 
 ### alignments:
  - [Persian and Hellenistic Administrative Building (PHAB), Tel Kedesh](https://pleiades.stoa.org/places/937106860)
+
+
+## 11314417: Trampya (Epeiros)
+[https://resource.manto.unh.edu/11314417](https://resource.manto.unh.edu/11314417)  
+
+### alignments:
+ - [Trampya](https://pleiades.stoa.org/places/536139)
 
 
 ## 11314420: Cortona (Etruria)
@@ -4882,6 +5316,34 @@
  - [Fucinus (lake)](https://pleiades.stoa.org/places/432853)
 
 
+## 11315331: the Cave of the Sibyl (Cumae)
+[https://resource.manto.unh.edu/11315331](https://resource.manto.unh.edu/11315331)  
+
+### alignments:
+ - [Grotto of the Sibyl](https://pleiades.stoa.org/places/94135344)
+
+
+## 11315384: the Land of the Eordoi (Thrace)
+[https://resource.manto.unh.edu/11315384](https://resource.manto.unh.edu/11315384)  
+
+### alignments:
+ - [Eordaia](https://pleiades.stoa.org/places/491591)
+
+
+## 11315385: Galadrai (Thrace)
+[https://resource.manto.unh.edu/11315385](https://resource.manto.unh.edu/11315385)  
+
+### alignments:
+ - [Galadrai](https://pleiades.stoa.org/places/494561)
+
+
+## 11315417: Thrambous (Chalcidice)
+[https://resource.manto.unh.edu/11315417](https://resource.manto.unh.edu/11315417)  
+
+### alignments:
+ - [Th(e)rambos](https://pleiades.stoa.org/places/501637)
+
+
 ## 11315475: River Anio (Italy)
 [https://resource.manto.unh.edu/11315475](https://resource.manto.unh.edu/11315475)  
 
@@ -4924,11 +5386,25 @@
  - [Sanctuary of Apollo Pythios](https://pleiades.stoa.org/places/804115670)
 
 
+## 11318009: the Cave of the She-Wolf (Rome)
+[https://resource.manto.unh.edu/11318009](https://resource.manto.unh.edu/11318009)  
+
+### alignments:
+ - [Lupercal](https://pleiades.stoa.org/places/565793497)
+
+
 ## 11318082: Lake Pergus (Sicily)
 [https://resource.manto.unh.edu/11318082](https://resource.manto.unh.edu/11318082)  
 
 ### alignments:
  - [Pergus L.](https://pleiades.stoa.org/places/462417)
+
+
+## 11318683: Thessalonica (N. Greece)
+[https://resource.manto.unh.edu/11318683](https://resource.manto.unh.edu/11318683)  
+
+### alignments:
+ - [Thessalonica](https://pleiades.stoa.org/places/491741)
 
 
 ## 11318759: Herculaneum (Campania)
@@ -4943,6 +5419,13 @@
 
 ### alignments:
  - [House of the Faun](https://pleiades.stoa.org/places/876060818)
+
+
+## 11319022: Casa di D. Octavius Quartio II 2, 2 (Pompeii)
+[https://resource.manto.unh.edu/11319022](https://resource.manto.unh.edu/11319022)  
+
+### alignments:
+ - [House of Octavius Quartio](https://pleiades.stoa.org/places/658295679)
 
 
 ## 11319023: Casa del Menandro I 10, 4 (Pompeii)
@@ -4987,11 +5470,25 @@
  - [House of the Four Styles](https://pleiades.stoa.org/places/644629084)
 
 
+## 11319055: Termopolio I 8, 8 (Pompeii)
+[https://resource.manto.unh.edu/11319055](https://resource.manto.unh.edu/11319055)  
+
+### alignments:
+ - [Thermopolium of Vetutius Placidus](https://pleiades.stoa.org/places/975975197)
+
+
 ## 11319061: Casa della Venere in Conchiglia II 3, 3 (Pompeii)
 [https://resource.manto.unh.edu/11319061](https://resource.manto.unh.edu/11319061)  
 
 ### alignments:
  - [House of Venus in the shell](https://pleiades.stoa.org/places/981889086)
+
+
+## 11319081: Casa di M. Lucretius Fronto V 4, a (Pompeii)
+[https://resource.manto.unh.edu/11319081](https://resource.manto.unh.edu/11319081)  
+
+### alignments:
+ - [House of Marcus Lucretius Fronto](https://pleiades.stoa.org/places/894852237)
 
 
 ## 11319082: Caserma dei Gladiatori V 5, 3 (Pompeii)
@@ -5043,6 +5540,13 @@
  - [House of the Golden Bracelet](https://pleiades.stoa.org/places/971497934)
 
 
+## 11319128: Casa di Sallustio VI 2, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319128](https://resource.manto.unh.edu/11319128)  
+
+### alignments:
+ - [House of Sallust](https://pleiades.stoa.org/places/502004233)
+
+
 ## 11319138: Casa di Apollo VI 7, 23 (Pompeii)
 [https://resource.manto.unh.edu/11319138](https://resource.manto.unh.edu/11319138)  
 
@@ -5057,6 +5561,13 @@
  - [House of the Tragic Poet](https://pleiades.stoa.org/places/912505596)
 
 
+## 11319145: Casa di Meleagro VI 9, 2.13 (Pompeii)
+[https://resource.manto.unh.edu/11319145](https://resource.manto.unh.edu/11319145)  
+
+### alignments:
+ - [House of Meleager](https://pleiades.stoa.org/places/979775194)
+
+
 ## 11319148: Casa dei Dioscuri VI 9, 6.7 (Pompeii)
 [https://resource.manto.unh.edu/11319148](https://resource.manto.unh.edu/11319148)  
 
@@ -5064,11 +5575,32 @@
  - [House of the Dioscuri](https://pleiades.stoa.org/places/364001862)
 
 
+## 11319151: Terme Stabiane VII 1, 8 (Pompeii)
+[https://resource.manto.unh.edu/11319151](https://resource.manto.unh.edu/11319151)  
+
+### alignments:
+ - [Stabian Baths](https://pleiades.stoa.org/places/809159706)
+
+
+## 11319158: Casa di L. Cornelius Diadumenus VII 12, 26 (Pompeii)
+[https://resource.manto.unh.edu/11319158](https://resource.manto.unh.edu/11319158)  
+
+### alignments:
+ - [House of Lucius Cornelius Diadumenus](https://pleiades.stoa.org/places/615457796)
+
+
 ## 11319165: Casa del Marinaio VII 15, 2 (Pompeii)
 [https://resource.manto.unh.edu/11319165](https://resource.manto.unh.edu/11319165)  
 
 ### alignments:
  - [Casa del Marinaio](https://pleiades.stoa.org/places/456945392)
+
+
+## 11319173: Casa di N. Popidius Priscus VII 2, 20.40 (Pompeii)
+[https://resource.manto.unh.edu/11319173](https://resource.manto.unh.edu/11319173)  
+
+### alignments:
+ - [House of N. Popidius Priscus](https://pleiades.stoa.org/places/256404901)
 
 
 ## 11319174: Casa dell’Amore Punito VII 2, 23 (Pompeii)
@@ -5083,6 +5615,13 @@
 
 ### alignments:
  - [House of the Ancient Hunt](https://pleiades.stoa.org/places/132276185)
+
+
+## 11319196: Terme del Foro VII 5, 2 (Pompeii)
+[https://resource.manto.unh.edu/11319196](https://resource.manto.unh.edu/11319196)  
+
+### alignments:
+ - [Forum baths](https://pleiades.stoa.org/places/338820566)
 
 
 ## 11319200: the Temple of Apollo VII 7, 32, Pompeii
@@ -5111,6 +5650,13 @@
 
 ### alignments:
  - [Temple of Isis](https://pleiades.stoa.org/places/793723815)
+
+
+## 11319233: Casa di Polibio IX 13, 1-3 (Pompeii)
+[https://resource.manto.unh.edu/11319233](https://resource.manto.unh.edu/11319233)  
+
+### alignments:
+ - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
 
 
 ## 11319259: Casa di Giasone IX 5, 18 (Pompeii)
@@ -5216,6 +5762,13 @@
 
 ### alignments:
  - [Casa della statuetta indiana](https://pleiades.stoa.org/places/264408878)
+
+
+## 11319740: the Odeon VIII 7, 19 (Pompeii)
+[https://resource.manto.unh.edu/11319740](https://resource.manto.unh.edu/11319740)  
+
+### alignments:
+ - [Odeon](https://pleiades.stoa.org/places/829196251)
 
 
 ## 11319759: House in the Via Graziosa (Rome)
@@ -5526,6 +6079,20 @@
  - [Aigeai](https://pleiades.stoa.org/places/491512)
 
 
+## 11321439: the Stoa of Zeus Eleutherios (Athens)
+[https://resource.manto.unh.edu/11321439](https://resource.manto.unh.edu/11321439)  
+
+### alignments:
+ - [Stoa of Zeus (Eleutherios)](https://pleiades.stoa.org/places/649966334)
+
+
+## 11321485: Thysdrus (N. Africa)
+[https://resource.manto.unh.edu/11321485](https://resource.manto.unh.edu/11321485)  
+
+### alignments:
+ - [Thysdrus](https://pleiades.stoa.org/places/324835)
+
+
 ## 11321574: Stabiae (Italy)
 [https://resource.manto.unh.edu/11321574](https://resource.manto.unh.edu/11321574)  
 
@@ -5568,6 +6135,13 @@
  - [Kirphis (Mountain)](https://pleiades.stoa.org/places/630032554)
 
 
+## 11322050: Trinemeis (Attica)
+[https://resource.manto.unh.edu/11322050](https://resource.manto.unh.edu/11322050)  
+
+### alignments:
+ - [Trinemeia](https://pleiades.stoa.org/places/580126)
+
+
 ## 11322076: Mount Brilessos (Attica)
 [https://resource.manto.unh.edu/11322076](https://resource.manto.unh.edu/11322076)  
 
@@ -5575,11 +6149,25 @@
  - [Pentelikon/Brilessos (mountain)](https://pleiades.stoa.org/places/580065)
 
 
+## 11322499: the Athenian Treasury (Delphi)
+[https://resource.manto.unh.edu/11322499](https://resource.manto.unh.edu/11322499)  
+
+### alignments:
+ - [Athenian Treasury at Delphi](https://pleiades.stoa.org/places/707804475)
+
+
 ## 11322762: Coryphasion (Messenia)
 [https://resource.manto.unh.edu/11322762](https://resource.manto.unh.edu/11322762)  
 
 ### alignments:
  - [Koryphasion (promuntory)](https://pleiades.stoa.org/places/570375)
+
+
+## 11322787: the Arch of Hadrian (Athens)
+[https://resource.manto.unh.edu/11322787](https://resource.manto.unh.edu/11322787)  
+
+### alignments:
+ - [Arch of Hadrian at Athens](https://pleiades.stoa.org/places/235795850)
 
 
 ## 11322892: Peucetia (Italy)
@@ -5594,6 +6182,13 @@
 
 ### alignments:
  - [Paraetonium/Ammonia](https://pleiades.stoa.org/places/716615)
+
+
+## 11323266: the Land of the Sabaians (S. Arabia)
+[https://resource.manto.unh.edu/11323266](https://resource.manto.unh.edu/11323266)  
+
+### alignments:
+ - [Saba](https://pleiades.stoa.org/places/39417)
 
 
 ## 11324108: Acte (Chalcidice)
@@ -5645,6 +6240,13 @@
  - [Ancon(a)](https://pleiades.stoa.org/places/413014)
 
 
+## 11325487: the Land of the Hylloi (Illyria)
+[https://resource.manto.unh.edu/11325487](https://resource.manto.unh.edu/11325487)  
+
+### alignments:
+ - [Hylloi](https://pleiades.stoa.org/places/197310)
+
+
 ## 11325491: Bouthoe (Illyria)
 [https://resource.manto.unh.edu/11325491](https://resource.manto.unh.edu/11325491)  
 
@@ -5680,6 +6282,13 @@
  - [Eastern Outer Wall of Babylon](https://pleiades.stoa.org/places/722340789)
 
 
+## 11326177: the Land of the Marmaridai (Libya)
+[https://resource.manto.unh.edu/11326177](https://resource.manto.unh.edu/11326177)  
+
+### alignments:
+ - [Marmaridai](https://pleiades.stoa.org/places/716596)
+
+
 ## 11326179
 [https://resource.manto.unh.edu/11326179](https://resource.manto.unh.edu/11326179)  
 
@@ -5692,6 +6301,13 @@
 
 ### alignments:
  - [Nabataei](https://pleiades.stoa.org/places/746785)
+
+
+## 11326189: the Lakes of the Palici (Sicily)
+[https://resource.manto.unh.edu/11326189](https://resource.manto.unh.edu/11326189)  
+
+### alignments:
+ - [Palikoi/Palicorum Stagna](https://pleiades.stoa.org/places/462408)
 
 
 ## 11326362: Babylonia
@@ -5708,6 +6324,13 @@
  - [Koile Syria/Massyas](https://pleiades.stoa.org/places/668288)
 
 
+## 11326369: the Caspian Gates
+[https://resource.manto.unh.edu/11326369](https://resource.manto.unh.edu/11326369)  
+
+### alignments:
+ - [Caspiae Portae?](https://pleiades.stoa.org/places/903004)
+
+
 ## 11326372: the Walls of Nineveh
 [https://resource.manto.unh.edu/11326372](https://resource.manto.unh.edu/11326372)  
 
@@ -5720,6 +6343,13 @@
 
 ### alignments:
  - [Wall of Media](https://pleiades.stoa.org/places/896945)
+
+
+## 11326999: Hermopolis Magna (Egypt)
+[https://resource.manto.unh.edu/11326999](https://resource.manto.unh.edu/11326999)  
+
+### alignments:
+ - [Hermopolis Magna/Schmun](https://pleiades.stoa.org/places/756574)
 
 
 ## 11327003: Panopolis (Egypt)
@@ -5776,6 +6406,13 @@
 
 ### alignments:
  - [Velzna/*Volsinii Veteres/Urbiventus](https://pleiades.stoa.org/places/413373)
+
+
+## 11327750: the Melanteian Rocks (islands)
+[https://resource.manto.unh.edu/11327750](https://resource.manto.unh.edu/11327750)  
+
+### alignments:
+ - [Melanteioi Skopeloi (island)](https://pleiades.stoa.org/places/599792)
 
 
 ## 11327841: the Sanctuary of Artemis at Aulis (Boiotia)
@@ -5841,11 +6478,25 @@
  - [Pontiae (islands)](https://pleiades.stoa.org/places/433042)
 
 
+## 11328472: the Land of Psylli (N. Africa)
+[https://resource.manto.unh.edu/11328472](https://resource.manto.unh.edu/11328472)  
+
+### alignments:
+ - [Psylli](https://pleiades.stoa.org/places/364004)
+
+
 ## 11328490: the Land of the Marsi
 [https://resource.manto.unh.edu/11328490](https://resource.manto.unh.edu/11328490)  
 
 ### alignments:
  - [Marsi](https://pleiades.stoa.org/places/413191)
+
+
+## 11328604: Gerania (Thrace)
+[https://resource.manto.unh.edu/11328604](https://resource.manto.unh.edu/11328604)  
+
+### alignments:
+ - [Gerania](https://pleiades.stoa.org/places/216815)
 
 
 ## 11328607: Bizye (Thrace)
@@ -5860,6 +6511,20 @@
 
 ### alignments:
  - [Forum Iulium](https://pleiades.stoa.org/places/445545537)
+
+
+## 11328748: the Three Rocks of the Cyclopes (Sicily)
+[https://resource.manto.unh.edu/11328748](https://resource.manto.unh.edu/11328748)  
+
+### alignments:
+ - [Cyclopum Scopuli Tres](https://pleiades.stoa.org/places/462179)
+
+
+## 11328751: the Harbor of Odysseus (Sicily)
+[https://resource.manto.unh.edu/11328751](https://resource.manto.unh.edu/11328751)  
+
+### alignments:
+ - [Odysseae Portus](https://pleiades.stoa.org/places/462396)
 
 
 ## 11328766: Calypsos (S. Italy)
@@ -5960,11 +6625,32 @@
  - [Hanging Gardens of Babylon](https://pleiades.stoa.org/places/55248061)
 
 
+## 11329426: the Circus Flaminius (Rome)
+[https://resource.manto.unh.edu/11329426](https://resource.manto.unh.edu/11329426)  
+
+### alignments:
+ - [Circus Flaminius](https://pleiades.stoa.org/places/158081395)
+
+
+## 11329431: Heracleopolites Nome (Egypt)
+[https://resource.manto.unh.edu/11329431](https://resource.manto.unh.edu/11329431)  
+
+### alignments:
+ - [Herakleopolites Nomos](https://pleiades.stoa.org/places/736921)
+
+
 ## 11329504: River Savus (C. Europe)
 [https://resource.manto.unh.edu/11329504](https://resource.manto.unh.edu/11329504)  
 
 ### alignments:
  - [Savus (river)](https://pleiades.stoa.org/places/207429)
+
+
+## 11329523: the Land of the Lepontii (N. Italy)
+[https://resource.manto.unh.edu/11329523](https://resource.manto.unh.edu/11329523)  
+
+### alignments:
+ - [Lepontii](https://pleiades.stoa.org/places/383692)
 
 
 ## 11329528: Cape Diomedes (Illyria)
@@ -6114,6 +6800,13 @@
  - [Heraclea](https://pleiades.stoa.org/places/452333)
 
 
+## 11330725: the Thermaic Gulf (Chalcidice)
+[https://resource.manto.unh.edu/11330725](https://resource.manto.unh.edu/11330725)  
+
+### alignments:
+ - [Thermaicus Sinus](https://pleiades.stoa.org/places/491739)
+
+
 ## 11330736: the House of Faustulus (Rome)
 [https://resource.manto.unh.edu/11330736](https://resource.manto.unh.edu/11330736)  
 
@@ -6196,6 +6889,13 @@
 
 ### alignments:
  - [Hermion(e)](https://pleiades.stoa.org/places/570292)
+
+
+## 11334120: Mount Pron (Argolid)
+[https://resource.manto.unh.edu/11334120](https://resource.manto.unh.edu/11334120)  
+
+### alignments:
+ - [Pron (mountain)](https://pleiades.stoa.org/places/573481)
 
 
 ## 11334151: Amiternon (Italy)
@@ -6406,6 +7106,13 @@
 
 ### alignments:
  - [Peloponnesus/Peloponnesos/Peloponnese](https://pleiades.stoa.org/places/570577)
+
+
+## 8194522: the Icarian Sea
+[https://resource.manto.unh.edu/8194522](https://resource.manto.unh.edu/8194522)  
+
+### alignments:
+ - [Ikarion Mare](https://pleiades.stoa.org/places/599668)
 
 
 ## 8194532: Sicyon (Argolid)
@@ -6624,6 +7331,13 @@
 
 ### alignments:
  - [Thrake](https://pleiades.stoa.org/places/1001889)
+
+
+## 8195617: the Land of the Cicones (Thrace)
+[https://resource.manto.unh.edu/8195617](https://resource.manto.unh.edu/8195617)  
+
+### alignments:
+ - [Kikones](https://pleiades.stoa.org/places/501468)
 
 
 ## 8195619: Paionia
@@ -6892,6 +7606,13 @@
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
 
 
+## 8253957: the Echinades (islands)
+[https://resource.manto.unh.edu/8253957](https://resource.manto.unh.edu/8253957)  
+
+### alignments:
+ - [Echinades (islands)](https://pleiades.stoa.org/places/530852)
+
+
 ## 8253959: Taphos (island)
 [https://resource.manto.unh.edu/8253959](https://resource.manto.unh.edu/8253959)  
 
@@ -6918,6 +7639,13 @@
 
 ### alignments:
  - [Attica](https://pleiades.stoa.org/places/579888)
+
+
+## 8253964: Thoricos (Attica)
+[https://resource.manto.unh.edu/8253964](https://resource.manto.unh.edu/8253964)  
+
+### alignments:
+ - [Thorikos](https://pleiades.stoa.org/places/580119)
 
 
 ## 8253967: Thespiai (Boiotia)
@@ -7144,6 +7872,13 @@
  - [Caucasus (mountain range)](https://pleiades.stoa.org/places/863766)
 
 
+## 8254016: Troizen (Argolid)
+[https://resource.manto.unh.edu/8254016](https://resource.manto.unh.edu/8254016)  
+
+### alignments:
+ - [Troizen](https://pleiades.stoa.org/places/570756)
+
+
 ## 8254019: Lydia (Asia Minor)
 [https://resource.manto.unh.edu/8254019](https://resource.manto.unh.edu/8254019)  
 
@@ -7198,6 +7933,13 @@
 
 ### alignments:
  - [Lacedaemon/Laconia](https://pleiades.stoa.org/places/570406)
+
+
+## 8254030: Thesprotia
+[https://resource.manto.unh.edu/8254030](https://resource.manto.unh.edu/8254030)  
+
+### alignments:
+ - [Thesprotia](https://pleiades.stoa.org/places/531117)
 
 
 ## 8254032: Sardinia (island)
@@ -7284,6 +8026,13 @@
  - [Pelasgians](https://pleiades.stoa.org/places/915780954)
 
 
+## 8372321: Cimmerian Bosporos
+[https://resource.manto.unh.edu/8372321](https://resource.manto.unh.edu/8372321)  
+
+### alignments:
+ - [Cimmerius Bosp(h)orus](https://pleiades.stoa.org/places/854675)
+
+
 ## 9051534: Myconos (island)
 [https://resource.manto.unh.edu/9051534](https://resource.manto.unh.edu/9051534)  
 
@@ -7351,6 +8100,7 @@
 [https://resource.manto.unh.edu/9055591](https://resource.manto.unh.edu/9055591)  
 
 ### alignments:
+ - [Corycium Antrum](https://pleiades.stoa.org/places/648611)
  - [Korykion Antron (Kilikia)](https://pleiades.stoa.org/places/44420465)
 
 
@@ -7536,6 +8286,13 @@
  - [Anauros (river)](https://pleiades.stoa.org/places/540634)
 
 
+## 9374881: the Land of the Doliones (Pontos)
+[https://resource.manto.unh.edu/9374881](https://resource.manto.unh.edu/9374881)  
+
+### alignments:
+ - [Dolionis](https://pleiades.stoa.org/places/511238)
+
+
 ## 9374895: Aphetai (Thessaly)
 [https://resource.manto.unh.edu/9374895](https://resource.manto.unh.edu/9374895)  
 
@@ -7564,6 +8321,20 @@
  - [Phasis (river)](https://pleiades.stoa.org/places/857276)
 
 
+## 9414350: Tomoi (Pontos)
+[https://resource.manto.unh.edu/9414350](https://resource.manto.unh.edu/9414350)  
+
+### alignments:
+ - [Tomis](https://pleiades.stoa.org/places/217016)
+
+
+## 9414355: the Apsyrtides Islands (Illyria)
+[https://resource.manto.unh.edu/9414355](https://resource.manto.unh.edu/9414355)  
+
+### alignments:
+ - [Apsyrtides (islands)](https://pleiades.stoa.org/places/197124)
+
+
 ## 9587567: Ausonia (Italy)
 [https://resource.manto.unh.edu/9587567](https://resource.manto.unh.edu/9587567)  
 
@@ -7576,6 +8347,13 @@
 
 ### alignments:
  - [Corcyra (island)](https://pleiades.stoa.org/places/530835)
+
+
+## 9587579: the Ceraunian Mountains (N. Greece)
+[https://resource.manto.unh.edu/9587579](https://resource.manto.unh.edu/9587579)  
+
+### alignments:
+ - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
 
 
 ## 9587587: Anaphe (island)
@@ -7844,6 +8622,13 @@
  - [Ismenus (river)](https://pleiades.stoa.org/places/899305140)
 
 
+## 9613827: the Grove of Tilphousan Apollo (Boiotia)
+[https://resource.manto.unh.edu/9613827](https://resource.manto.unh.edu/9613827)  
+
+### alignments:
+ - [Tilphosaion?](https://pleiades.stoa.org/places/541148)
+
+
 ## 9613865: Amphilochian Argos (Epeiros)
 [https://resource.manto.unh.edu/9613865](https://resource.manto.unh.edu/9613865)  
 
@@ -7858,6 +8643,13 @@
  - [Acarnania](https://pleiades.stoa.org/places/530767)
 
 
+## 9614020: the Garden of the Hesperides (unlocatable)
+[https://resource.manto.unh.edu/9614020](https://resource.manto.unh.edu/9614020)  
+
+### alignments:
+ - [Hesperidum Horti](https://pleiades.stoa.org/places/278614)
+
+
 ## 9614046: Elis (city)
 [https://resource.manto.unh.edu/9614046](https://resource.manto.unh.edu/9614046)  
 
@@ -7870,6 +8662,13 @@
 
 ### alignments:
  - [Temple of Athena Alea at Tegea](https://pleiades.stoa.org/places/372843530)
+
+
+## 9615108: Trapezous (Arcadia)
+[https://resource.manto.unh.edu/9615108](https://resource.manto.unh.edu/9615108)  
+
+### alignments:
+ - [Trapezous](https://pleiades.stoa.org/places/570746)
 
 
 ## 9615905: The Troad (region around Troy)
@@ -7961,6 +8760,13 @@
 
 ### alignments:
  - [Harma](https://pleiades.stoa.org/places/540805)
+
+
+## 9651953: Thisbe (Boiotia)
+[https://resource.manto.unh.edu/9651953](https://resource.manto.unh.edu/9651953)  
+
+### alignments:
+ - [Thisbe](https://pleiades.stoa.org/places/541146)
 
 
 ## 9651955: Coroneia (Boiotia)
@@ -8199,6 +9005,13 @@
 
 ### alignments:
  - [Oitylos](https://pleiades.stoa.org/places/570527)
+
+
+## 9719364: Thryon (Messenia)
+[https://resource.manto.unh.edu/9719364](https://resource.manto.unh.edu/9719364)  
+
+### alignments:
+ - [Thryon](https://pleiades.stoa.org/places/573559)
 
 
 ## 9719368: Cyparisseis (Messenia)
@@ -8551,6 +9364,13 @@
  - [Leuke Ins./Achilleos Nesos](https://pleiades.stoa.org/places/226677)
 
 
+## 9746349: the Land of the Namnitai
+[https://resource.manto.unh.edu/9746349](https://resource.manto.unh.edu/9746349)  
+
+### alignments:
+ - [Namnetes/Samnitai](https://pleiades.stoa.org/places/138480)
+
+
 ## 9746355: Ogyris (island in the Persian Gulf)
 [https://resource.manto.unh.edu/9746355](https://resource.manto.unh.edu/9746355)  
 
@@ -8598,6 +9418,13 @@
 
 ### alignments:
  - [Satnioeis (river)](https://pleiades.stoa.org/places/550870)
+
+
+## 9748285: the Plain of Aleios (Cilicia)
+[https://resource.manto.unh.edu/9748285](https://resource.manto.unh.edu/9748285)  
+
+### alignments:
+ - [Aleion Pedion](https://pleiades.stoa.org/places/648554)
 
 
 ## 9748288
@@ -8654,6 +9481,13 @@
 
 ### alignments:
  - [Helicon (mountain)](https://pleiades.stoa.org/places/540808)
+
+
+## 9878254: the Hill of Cronos (Olympia)
+[https://resource.manto.unh.edu/9878254](https://resource.manto.unh.edu/9878254)  
+
+### alignments:
+ - [Kronios/Kronion](https://pleiades.stoa.org/places/573311)
 
 
 ## 9878333: Zerynthos (Samothrace)
@@ -8817,6 +9651,13 @@
  - [Erebus (Underworld)](https://pleiades.stoa.org/places/832339226)
 
 
+## 9960211: the Olenian Rock (Elis)
+[https://resource.manto.unh.edu/9960211](https://resource.manto.unh.edu/9960211)  
+
+### alignments:
+ - [Olenia Petra](https://pleiades.stoa.org/places/573404)
+
+
 ## 9962650: Liguria (region in northwest Italy)
 [https://resource.manto.unh.edu/9962650](https://resource.manto.unh.edu/9962650)  
 
@@ -8857,6 +9698,13 @@
 
 ### alignments:
  - [Athamania](https://pleiades.stoa.org/places/540676)
+
+
+## Casa di Obellius Firmus IX 14, 4 (Pompeii)
+[https://resource.manto.unh.edu/11319235](https://resource.manto.unh.edu/11319235)  
+
+### alignments:
+ - [House of Obellius Firmus](https://pleiades.stoa.org/places/182931390)
 
 
 ## Cenchriai (Argolid)

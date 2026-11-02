@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5202 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
+5202 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -908,13 +908,6 @@
 
 ### alignments:
  - [Thera (island)](https://pleiades.stoa.org/places/599973)
-
-
-## Geo 2394: Thessalonike
-[https://www.trismegistos.org/place/2394](https://www.trismegistos.org/place/2394)  
-
-### alignments:
- - [Thessalonica](https://pleiades.stoa.org/places/491741)
 
 
 ## GEO 2414: Thracia
@@ -1835,13 +1828,6 @@
  - [Sounion (Attica: cape)](https://pleiades.stoa.org/places/580108)
 
 
-## Geo 37810: Thorikos
-[https://www.trismegistos.org/place/37810](https://www.trismegistos.org/place/37810)  
-
-### alignments:
- - [Thorikos](https://pleiades.stoa.org/places/580119)
-
-
 ## Geo 37820: Eutresis (Arkopodi)
 [https://www.trismegistos.org/place/37820](https://www.trismegistos.org/place/37820)  
 
@@ -1861,13 +1847,6 @@
 
 ### alignments:
  - [Gitana](https://pleiades.stoa.org/places/530878)
-
-
-## Geo 37943: Krani
-[https://www.trismegistos.org/place/37943](https://www.trismegistos.org/place/37943)  
-
-### alignments:
- - [Krane](https://pleiades.stoa.org/places/530962)
 
 
 ## Geo 37945: Pronnoi
@@ -12654,6 +12633,13 @@
  - [Ad Fines](https://pleiades.stoa.org/places/617392611)
 
 
+## GEO ID 2394: Thessalonike
+[https://www.trismegistos.org/place/2394](https://www.trismegistos.org/place/2394)  
+
+### alignments:
+ - [Thessalonica](https://pleiades.stoa.org/places/491741)
+
+
 ## GEO ID 23: Abounkis (Kobodi)
 [https://www.trismegistos.org/place/23](https://www.trismegistos.org/place/23)  
 
@@ -21540,6 +21526,13 @@
  - [Prasiai](https://pleiades.stoa.org/places/570629)
 
 
+## GEO ID 37810: Thorikos
+[https://www.trismegistos.org/place/37810](https://www.trismegistos.org/place/37810)  
+
+### alignments:
+ - [Thorikos](https://pleiades.stoa.org/places/580119)
+
+
 ## GEO ID 37812: Vari
 [https://www.trismegistos.org/place/37812](https://www.trismegistos.org/place/37812)  
 
@@ -21636,6 +21629,13 @@
 
 ### alignments:
  - [Aulon](https://pleiades.stoa.org/places/481750)
+
+
+## Geo ID 37943: Krani
+[https://www.trismegistos.org/place/37943](https://www.trismegistos.org/place/37943)  
+
+### alignments:
+ - [Krane](https://pleiades.stoa.org/places/530962)
 
 
 ## GEO ID 37966: Akriai

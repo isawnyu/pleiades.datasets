@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-499 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
+500 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1556,7 +1556,7 @@
 [https://chronique.efa.gr/?kroute=topo_public&id=70020](https://chronique.efa.gr/?kroute=topo_public&id=70020)  
 
 ### alignments:
- - [Thera](https://pleiades.stoa.org/places/599971)
+ - [Thera (settlement)](https://pleiades.stoa.org/places/599971)
 
 
 ## Toponym 70025: Sparte, Sparta, Acropolis, Theatre
@@ -2534,6 +2534,13 @@
 
 ### alignments:
  - [Amphissa](https://pleiades.stoa.org/places/540630)
+
+
+## Toponyme 36813: Thisvi, Kakosi (148/1915)-Δ.Δ.Θίσβης, Κακόσι
+[https://chronique.efa.gr/?r=topo_public&id=36813](https://chronique.efa.gr/?r=topo_public&id=36813)  
+
+### alignments:
+ - [Thisbe](https://pleiades.stoa.org/places/541146)
 
 
 ## Toponyme 36828: Orchomène, Orchomenos, Adamas, Athamas, Skripou (JO54/1955)-Δ.Δ.Ορχομενού, Σκριπού, Αθάμας

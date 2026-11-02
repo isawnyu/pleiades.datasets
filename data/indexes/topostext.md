@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5181 alignments exist in _Pleiades_ place references as of 2026-10-30. The following list of alignments is grouped by zotkey.
+5194 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -750,6 +750,13 @@
 
 ### alignments:
  - [Ad Fines](https://pleiades.stoa.org/places/383545)
+
+
+## Ad Portum (Baetica)
+[https://topostext.org/place/366-62UAPo](https://topostext.org/place/366-62UAPo)  
+
+### alignments:
+ - [Ad Portum/Gaditanus Portus](https://pleiades.stoa.org/places/255955)
 
 
 ## Ad Quintum station (Illyria)
@@ -2105,6 +2112,13 @@
  - [Alebaece Reiorum Apollinarium/Apollinaris Reiorum/Reii](https://pleiades.stoa.org/places/157805)
 
 
+## Aleion Plain (Cilicia)
+[https://topostext.org/place/370354LAle](https://topostext.org/place/370354LAle)  
+
+### alignments:
+ - [Aleion Pedion](https://pleiades.stoa.org/places/648554)
+
+
 ## Alesia (Gallia)
 [https://topostext.org/place/475045XAle](https://topostext.org/place/475045XAle)  
 
@@ -2334,6 +2348,13 @@
 
 ### alignments:
  - [Alphe(i)os (river)](https://pleiades.stoa.org/places/570067)
+
+
+## Alps Mt. (Gallia)
+[https://topostext.org/place/441073LAlp](https://topostext.org/place/441073LAlp)  
+
+### alignments:
+ - [Alpes (mountains)](https://pleiades.stoa.org/places/783)
 
 
 ## Alsium (Etruria)
@@ -8017,6 +8038,13 @@
  - [Cave of Pan](https://pleiades.stoa.org/places/486617493)
 
 
+## Cebenna (Gallia)
+[https://topostext.org/place/444037LCeb](https://topostext.org/place/444037LCeb)  
+
+### alignments:
+ - [Cebenna Mons](https://pleiades.stoa.org/places/167703)
+
+
 ## Cellae (Florina)
 [https://topostext.org/place/408217UCel](https://topostext.org/place/408217UCel)  
 
@@ -10140,6 +10168,13 @@
 
 ### alignments:
  - [Dorikon](https://pleiades.stoa.org/places/540739)
+
+
+## Doris (Caria)
+[https://topostext.org/place/369279RDor](https://topostext.org/place/369279RDor)  
+
+### alignments:
+ - [Kerameios/Doridis Sinus](https://pleiades.stoa.org/places/599706)
 
 
 ## Doriskos (Evros)
@@ -12748,6 +12783,13 @@
 
 ### alignments:
  - [Aigiplanktos/Geran(e)ia (mountain)](https://pleiades.stoa.org/places/570050)
+
+
+## Gerania (Thrace)
+[https://topostext.org/place/433281UGer](https://topostext.org/place/433281UGer)  
+
+### alignments:
+ - [Gerania](https://pleiades.stoa.org/places/216815)
 
 
 ## Gerasa/Antiochia ad Chrysorhoam (Syria)
@@ -17600,6 +17642,13 @@
  - [Kokkinovouno](https://pleiades.stoa.org/places/707540)
 
 
+## Kokkygion mountain (Hermione)
+[https://topostext.org/place/374232LKok](https://topostext.org/place/374232LKok)  
+
+### alignments:
+ - [Kokkygion/Thornax M.](https://pleiades.stoa.org/places/573294)
+
+
 ## Kokylion? (Troad) 1 Karaev
 [https://topostext.org/place/397264UKok](https://topostext.org/place/397264UKok)  
 
@@ -20262,6 +20311,13 @@
 
 ### alignments:
  - [Luna](https://pleiades.stoa.org/places/403235)
+
+
+## Lupercal (Rome)
+[https://topostext.org/place/419125CLup](https://topostext.org/place/419125CLup)  
+
+### alignments:
+ - [Lupercal](https://pleiades.stoa.org/places/565793497)
 
 
 ## Lupiae (Magna Graecia)
@@ -24911,6 +24967,13 @@
  - [Palinouros Pr.](https://pleiades.stoa.org/places/599851)
 
 
+## Palinurus (Campania)
+[https://topostext.org/place/400153LPal](https://topostext.org/place/400153LPal)  
+
+### alignments:
+ - [Palinurus (promontory)](https://pleiades.stoa.org/places/452399)
+
+
 ## Paliopyrgos tower (Arkadia)
 [https://topostext.org/place/378226FPal](https://topostext.org/place/378226FPal)  
 
@@ -28713,6 +28776,13 @@
  - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
 
 
+## Pron hill (Hermione)
+[https://topostext.org/place/374232LPro](https://topostext.org/place/374232LPro)  
+
+### alignments:
+ - [Pron (mountain)](https://pleiades.stoa.org/places/573481)
+
+
 ## Pronnoi (Kefallenia)
 [https://topostext.org/place/381208PPro](https://topostext.org/place/381208PPro)  
 
@@ -29048,6 +29118,13 @@
 
 ### alignments:
  - [Pyra](https://pleiades.stoa.org/places/541080)
+
+
+## Pyrenees Mt. (Gallia)
+[https://topostext.org/place/426007LPyr](https://topostext.org/place/426007LPyr)  
+
+### alignments:
+ - [Pyrenaei (mountains)](https://pleiades.stoa.org/places/246582)
 
 
 ## Pyrgaki tower/Keressos? (Boeotia)
@@ -29750,6 +29827,13 @@
 
 ### alignments:
  - [Hiera Orgas](https://pleiades.stoa.org/places/66782793)
+
+
+## Sacred Promontory (Iberia)
+[https://topostext.org/place/370000LSPr](https://topostext.org/place/370000LSPr)  
+
+### alignments:
+ - [Sacrum Pr.](https://pleiades.stoa.org/places/256410)
 
 
 ## Saena (Tuscany)
@@ -33378,7 +33462,7 @@
 [https://topostext.org/place/364255PThe](https://topostext.org/place/364255PThe)  
 
 ### alignments:
- - [Thera](https://pleiades.stoa.org/places/599971)
+ - [Thera (settlement)](https://pleiades.stoa.org/places/599971)
 
 
 ## Therambos (Chalkidike) 7 Paliouri - Θεράμβως
@@ -34009,6 +34093,13 @@
 
 ### alignments:
  - [Tinurtium](https://pleiades.stoa.org/places/177641)
+
+
+## Tios (Pontus)
+[https://topostext.org/place/416230UTio](https://topostext.org/place/416230UTio)  
+
+### alignments:
+ - [Tios/Tieion](https://pleiades.stoa.org/places/845084)
 
 
 ## Tiristasis (Thrace)
