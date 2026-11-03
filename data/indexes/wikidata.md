@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11634 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
+11634 alignments exist in _Pleiades_ place references as of 2026-11-03. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -34835,6 +34835,13 @@
  - [Sanctuary of Zeus Lykaios](https://pleiades.stoa.org/places/570764)
 
 
+## Lykosoura sanctuary of the Mistress (Q38281257)
+[https://www.wikidata.org/wiki/Q38281257](https://www.wikidata.org/wiki/Q38281257)  
+
+### alignments:
+ - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
+
+
 ## Lymax (Q15205042)
 [https://www.wikidata.org/wiki/Q15205042](https://www.wikidata.org/wiki/Q15205042)  
 
@@ -56675,13 +56682,6 @@
 
 ### alignments:
  - [Necropolis at Archontiko](https://pleiades.stoa.org/places/409986438)
-
-
-## Q38281257
-[https://www.wikidata.org/wiki/Q38281257](https://www.wikidata.org/wiki/Q38281257)  
-
-### alignments:
- - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
 
 
 ## Q38281278: Methymna

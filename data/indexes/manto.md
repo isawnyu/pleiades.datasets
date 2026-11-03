@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1405 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
+1407 alignments exist in _Pleiades_ place references as of 2026-11-03. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4665,6 +4665,13 @@
  - [Myos Hormos?](https://pleiades.stoa.org/places/786069)
 
 
+## 11310437: Boutos (Egypt)
+[https://resource.manto.unh.edu/11310437](https://resource.manto.unh.edu/11310437)  
+
+### alignments:
+ - [Bouto](https://pleiades.stoa.org/places/727094)
+
+
 ## 11310451: the Trojan Mountain (Egypt)
 [https://resource.manto.unh.edu/11310451](https://resource.manto.unh.edu/11310451)  
 
@@ -4866,6 +4873,13 @@
 
 ### alignments:
  - [Garamantes](https://pleiades.stoa.org/places/354116)
+
+
+## 11312391: Mount Dindymon (E. Phrygia)
+[https://resource.manto.unh.edu/11312391](https://resource.manto.unh.edu/11312391)  
+
+### alignments:
+ - [Dindymon/Agdistis/Agdus (mountain)](https://pleiades.stoa.org/places/609360)
 
 
 ## 11312457: Ophryneion (Troad)

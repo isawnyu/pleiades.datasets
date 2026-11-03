@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5194 alignments exist in _Pleiades_ place references as of 2026-11-02. The following list of alignments is grouped by zotkey.
+5196 alignments exist in _Pleiades_ place references as of 2026-11-03. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -7091,6 +7091,13 @@
  - [Bouthroton](https://pleiades.stoa.org/places/530824)
 
 
+## Bouto/Buto (Egypt)
+[https://topostext.org/place/312307UBou](https://topostext.org/place/312307UBou)  
+
+### alignments:
+ - [Bouto](https://pleiades.stoa.org/places/727094)
+
+
 ## Bouttos (Aitolia)
 [https://topostext.org/place/384218UBou](https://topostext.org/place/384218UBou)  
 
@@ -9823,6 +9830,13 @@
 
 ### alignments:
  - [Dimini](https://pleiades.stoa.org/places/540613)
+
+
+## Dindymon mountain (Phrygia)
+[https://topostext.org/place/393318LDin](https://topostext.org/place/393318LDin)  
+
+### alignments:
+ - [Dindymon/Agdistis/Agdus (mountain)](https://pleiades.stoa.org/places/609360)
 
 
 ## Dine Whirlpool (Argolid)
