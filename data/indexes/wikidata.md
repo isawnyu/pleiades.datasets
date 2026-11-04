@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11634 alignments exist in _Pleiades_ place references as of 2026-11-03. The following list of alignments is grouped by zotkey.
+11635 alignments exist in _Pleiades_ place references as of 2026-11-04. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -50699,13 +50699,6 @@
  - [Temple of Jupiter?, Via Appia](https://pleiades.stoa.org/places/422950)
 
 
-## Q140523053
-[https://www.wikidata.org/wiki/Q140523053](https://www.wikidata.org/wiki/Q140523053)  
-
-### alignments:
- - [Roman Bridge (Auletta)](https://pleiades.stoa.org/places/547266548)
-
-
 ## Q1407535: Venta Icenorum
 [https://www.wikidata.org/wiki/Q1407535](https://www.wikidata.org/wiki/Q1407535)  
 
@@ -63170,6 +63163,13 @@
  - [Roman baths of Taormina](https://pleiades.stoa.org/places/937547559)
 
 
+## Roman Bridge (Auletta) (Q140523053)
+[https://www.wikidata.org/wiki/Q140523053](https://www.wikidata.org/wiki/Q140523053)  
+
+### alignments:
+ - [Roman Bridge (Auletta)](https://pleiades.stoa.org/places/547266548)
+
+
 ## Roman Bridge (Q2179571)
 [https://www.wikidata.org/wiki/Q2179571](https://www.wikidata.org/wiki/Q2179571)  
 
@@ -72841,6 +72841,13 @@
 
 ### alignments:
  - [Teurnia](https://pleiades.stoa.org/places/187583)
+
+
+## Teuthis (Q7707085)
+[https://www.wikidata.org/wiki/Q7707085](https://www.wikidata.org/wiki/Q7707085)  
+
+### alignments:
+ - [Teuthis](https://pleiades.stoa.org/places/570713)
 
 
 ## Teuthrania (Q11951693)

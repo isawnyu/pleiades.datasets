@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1407 alignments exist in _Pleiades_ place references as of 2026-11-03. The following list of alignments is grouped by zotkey.
+1410 alignments exist in _Pleiades_ place references as of 2026-11-04. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1708,6 +1708,13 @@
 
 ### alignments:
  - [Gortynios/Lousios (river)](https://pleiades.stoa.org/places/570266)
+
+
+## 10214426: Teuthis (Arcadia)
+[https://resource.manto.unh.edu/10214426](https://resource.manto.unh.edu/10214426)  
+
+### alignments:
+ - [Teuthis](https://pleiades.stoa.org/places/570713)
 
 
 ## 10214471: Basilis
@@ -4188,6 +4195,13 @@
  - [Thebai Phthiotides](https://pleiades.stoa.org/places/541137)
 
 
+## 11307381: Thaumacoi (Thessaly)
+[https://resource.manto.unh.edu/11307381](https://resource.manto.unh.edu/11307381)  
+
+### alignments:
+ - [Thaumakoi](https://pleiades.stoa.org/places/541136)
+
+
 ## 11307395: Anticyra (Thessaly)
 [https://resource.manto.unh.edu/11307395](https://resource.manto.unh.edu/11307395)  
 
@@ -6574,6 +6588,13 @@
 
 ### alignments:
  - [Alexandria Eschate](https://pleiades.stoa.org/places/59672)
+
+
+## 11328969: Taprobane
+[https://resource.manto.unh.edu/11328969](https://resource.manto.unh.edu/11328969)  
+
+### alignments:
+ - [Sri Lanka](https://pleiades.stoa.org/places/50298)
 
 
 ## 11329122: the Temple of Concordia at Rome
