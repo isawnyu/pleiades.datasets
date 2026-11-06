@@ -1,6 +1,11 @@
 {
     "@type": "Place",
-    "bbox": null,
+    "bbox": [
+        21.6311,
+        37.640848,
+        21.6311,
+        37.640848
+    ],
     "connections": [],
     "connectsWith": [],
     "contributors": [
@@ -60,19 +65,30 @@
     "details": "<p>The Barrington Atlas Directory notes: Elis: hill at Olympia</p>",
     "features": [
         {
-            "geometry": null,
-            "id": "batlas-location",
+            "geometry": {
+                "coordinates": [
+                    21.6311,
+                    37.640848
+                ],
+                "type": "Point"
+            },
+            "id": "osm-location-of-kronion-hill",
             "properties": {
-                "description": "",
-                "link": "https://pleiades.stoa.org/places/573311/batlas-location",
-                "location_precision": "unlocated",
-                "snippet": "Unknown",
-                "title": "Barrington Atlas location"
+                "description": "Location based on OpenStreetMap",
+                "link": "https://pleiades.stoa.org/places/573311/osm-location-of-kronion-hill",
+                "location_precision": "precise",
+                "snippet": "Hill; AD 2000 - AD 2099",
+                "title": "OSM location of Kronion Hill"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "removed unlocated place type and add hill",
+            "modified": "2026-11-05T23:44:56Z",
+            "modifiedBy": "thomase"
+        },
         {
             "comment": "update references",
             "modified": "2026-11-01T14:59:09Z",
@@ -123,84 +139,97 @@
     "locations": [
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/generic-osm-accuracy-assessment",
+            "accuracy_value": 20.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
-            "attestations": [],
-            "contributors": [
+            "attestations": [
                 {
-                    "name": "R. Talbert",
-                    "username": null
-                },
-                {
-                    "name": "T. Elliott",
-                    "username": null
-                },
-                {
-                    "homepage": null,
-                    "name": "Sean Gillies",
-                    "uri": "https://pleiades.stoa.org/author/sgillies",
-                    "username": "sgillies"
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident",
+                    "timePeriod": "twenty-first-ce",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/twenty-first-ce"
                 }
             ],
-            "created": "2010-09-20T20:35:40Z",
+            "contributors": [],
+            "created": "2026-11-01T15:00:30Z",
             "creators": [
                 {
-                    "name": "J. McK. Camp II",
-                    "username": null
-                },
-                {
-                    "name": "G. Reger",
-                    "username": null
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker",
+                    "username": "jbecker"
                 }
             ],
-            "description": "",
+            "description": "Location based on OpenStreetMap",
             "details": "",
-            "end": null,
+            "end": 2099,
             "featureType": [
-                "unknown"
+                "hill"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    21.6311,
+                    37.640848
+                ],
+                "type": "Point"
+            },
             "history": [
                 {
-                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
-                    "modified": "2012-02-15T06:36:58Z",
-                    "modifiedBy": "admin"
-                },
-                {
                     "action": "Publish externally",
-                    "modified": "2010-09-22T18:36:33Z",
+                    "modified": "2026-11-05T23:44:14Z",
                     "modifiedBy": "thomase"
                 },
                 {
                     "action": "Submit for review",
-                    "modified": "2010-09-20T22:16:58Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-11-01T15:00:55Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "added osm location",
+                    "modified": "2026-11-01T15:00:49Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
+                    "comment": "Location from OSM created by Products.PleiadesEntity.browser.osm.OSMLocationFactory",
+                    "modified": "2026-11-01T15:00:30Z",
+                    "modifiedBy": "jbecker"
                 },
                 {
                     "action": "Create",
-                    "modified": "2010-09-20T20:35:40Z",
-                    "modifiedBy": "sgillies"
+                    "modified": "2026-11-01T15:00:30Z",
+                    "modifiedBy": "jbecker"
                 }
             ],
-            "id": "batlas-location",
+            "id": "osm-location-of-kronion-hill",
             "locationType": [
-                "representative"
+                "associated_modern"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+                "https://pleiades.stoa.org/vocabularies/place-types/hill"
             ],
-            "provenance": "Barrington Atlas: BAtlas 58 Kronios/Kronion",
-            "references": [],
+            "provenance": "OpenStreetMap (Node 2107618106, version 16, osm:changeset=191323753, 2026-11-01T15:00:11Z)",
+            "references": [
+                {
+                    "accessURI": "https://www.openstreetmap.org/browse/node/2107618106",
+                    "alternateURI": "",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/BA93AHVQ",
+                    "citationDetail": "Node 2107618106",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "formattedCitation": "<div class=\"csl-entry\"><i>OpenStreetMap</i>. OpenStreetMap Foundation, 2004. http://www.openstreetmap.org/.</div>",
+                    "otherIdentifier": "",
+                    "shortTitle": "OSM",
+                    "type": "citesAsDataSource"
+                }
+            ],
             "review_state": "published",
-            "start": null,
-            "title": "Barrington Atlas location",
-            "uri": "https://pleiades.stoa.org/places/573311/batlas-location"
+            "start": 2000,
+            "title": "OSM location of Kronion Hill",
+            "uri": "https://pleiades.stoa.org/places/573311/osm-location-of-kronion-hill"
         }
     ],
     "names": [
@@ -346,11 +375,9 @@
         }
     ],
     "placeTypeURIs": [
-        "https://pleiades.stoa.org/vocabularies/place-types/unlocated",
         "https://pleiades.stoa.org/vocabularies/place-types/hill"
     ],
     "placeTypes": [
-        "unlocated",
         "hill"
     ],
     "provenance": "Barrington Atlas: BAtlas 58 Kronios/Kronion",
@@ -411,7 +438,10 @@
             "type": "citesAsRelated"
         }
     ],
-    "reprPoint": null,
+    "reprPoint": [
+        21.6311,
+        37.640848
+    ],
     "review_state": "published",
     "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
     "subject": [],
