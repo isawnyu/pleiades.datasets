@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 3,4
-# Date: 2026/11/01 07:15:36.381649 US/Eastern
+# Date: 2026/11/08 07:15:18.057362 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 254403
+# Triple count: 254621
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -8203,6 +8203,24 @@
     dcterms:modified "2024-04-14T23:56:13-04:00";
     dcterms:title "Aphrodision";
     owl:sameAs <http://pleiades.stoa.org/places/30893806/aphrodision> .
+
+<https://pleiades.stoa.org/places/308961168%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "House of Titus Dentatius Panthera";
+    spatial:C <https://pleiades.stoa.org/places/680072866%23this>;
+    rdfs:comment "Townhouse in regio IX at Pompeii, excavated from 1867-1876, restored in 1986.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/308961168> .
+
+<https://pleiades.stoa.org/places/308961168/casa-di-titus-dentatius-panthera> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "";
+    dcterms:modified "2026-11-06T07:06:53-05:00";
+    dcterms:title "Casa di Titus Dentatius Panthera";
+    owl:sameAs <http://pleiades.stoa.org/places/308961168/casa-di-titus-dentatius-panthera> .
+
+<https://pleiades.stoa.org/places/308961168/p-lod-location> dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Representative location derived from PALP coordinates";
+    dcterms:modified "2026-11-06T07:06:53-05:00";
+    dcterms:title "P-LOD Location";
+    owl:sameAs <http://pleiades.stoa.org/places/308961168/p-lod-location> .
 
 <https://pleiades.stoa.org/places/309101265%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Arzâ ";
@@ -21425,13 +21443,17 @@
     rdfs:comment "The Temple of Zeus at Olympia was built in the second quarter of the fifth century B.C. Libon of Elis served as architect.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/316294900> .
 
-<https://pleiades.stoa.org/places/316294900/center-of-the-temple-of-zeus-at-olympia> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
-        <https://pleiades.stoa.org/author/sgillies>;
-    dcterms:creator <https://pleiades.stoa.org/author/thomase>;
+<https://pleiades.stoa.org/places/316294900/osm-location-of-temple-of-zeus> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap";
+    dcterms:modified "2026-11-05T19:01:36-05:00";
+    dcterms:title "OSM location of Temple of Zeus";
+    owl:sameAs <http://pleiades.stoa.org/places/316294900/osm-location-of-temple-of-zeus> .
+
+<https://pleiades.stoa.org/places/316294900/temple-of-zeus-in-olympia> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "";
-    dcterms:modified "2026-06-15T09:27:44-04:00";
-    dcterms:title "Center of the Temple of Zeus at Olympia";
-    owl:sameAs <http://pleiades.stoa.org/places/316294900/center-of-the-temple-of-zeus-at-olympia> .
+    dcterms:modified "2026-11-05T19:01:19-05:00";
+    dcterms:title "Temple of Zeus in Olympia";
+    owl:sameAs <http://pleiades.stoa.org/places/316294900/temple-of-zeus-in-olympia> .
 
 <https://pleiades.stoa.org/places/316347%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Untitled";
@@ -25919,21 +25941,22 @@
         <https://pleiades.stoa.org/author/warner-r>;
     dcterms:creator <http://viaf.org/viaf/19524400>;
     dcterms:description "";
-    dcterms:modified "2026-05-14T14:29:44-04:00";
+    dcterms:modified "2026-11-06T09:35:29-05:00";
     dcterms:title "Althiburos";
     owl:sameAs <http://pleiades.stoa.org/places/324664/althiburos> .
 
 <https://pleiades.stoa.org/places/324664/imagery-location-of-althiburos> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "coordinates after GeoHack.";
-    dcterms:modified "2026-05-14T14:29:45-04:00";
+    dcterms:modified "2026-11-06T06:54:26-05:00";
     dcterms:title "Imagery location of Althiburos";
     owl:sameAs <http://pleiades.stoa.org/places/324664/imagery-location-of-althiburos> .
 
-<https://pleiades.stoa.org/places/324664/osm-location-of-althiburos-henchir-medeina> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+<https://pleiades.stoa.org/places/324664/osm-location-of-althiburos-henchir-medeina> dcterms:contributor <https://pleiades.stoa.org/author/sgillies>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "Representativ location based on OpenStreetMap";
-    dcterms:modified "2026-05-14T14:29:45-04:00";
+    dcterms:description "Representative location based on OpenStreetMap";
+    dcterms:modified "2026-11-06T09:35:29-05:00";
     dcterms:title "OSM location of Althiburos (Henchir Medeina)";
     owl:sameAs <http://pleiades.stoa.org/places/324664/osm-location-of-althiburos-henchir-medeina> .
 
@@ -29343,6 +29366,12 @@
     dcterms:modified "2018-06-07T20:12:47-04:00";
     dcterms:title "El Djem";
     owl:sameAs <http://pleiades.stoa.org/places/324835/el-djem> .
+
+<https://pleiades.stoa.org/places/324835/thisdro-colonia> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "";
+    dcterms:modified "2026-11-05T19:02:01-05:00";
+    dcterms:title "Thisdro Colonia";
+    owl:sameAs <http://pleiades.stoa.org/places/324835/thisdro-colonia> .
 
 <https://pleiades.stoa.org/places/324835/thysdrus> dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/sgillies>,
@@ -37096,6 +37125,13 @@
     dcterms:modified "2026-10-30T20:12:16-04:00";
     dcterms:title "Zarai";
     owl:sameAs <http://pleiades.stoa.org/places/334669/zarai> .
+
+<https://pleiades.stoa.org/places/334669/zraia> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/cdlisle>;
+    dcterms:description "";
+    dcterms:modified "2026-11-06T07:10:26-05:00";
+    dcterms:title "Zraia";
+    owl:sameAs <http://pleiades.stoa.org/places/334669/zraia> .
 
 <https://pleiades.stoa.org/places/334670%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Zerbaret et Tir";
@@ -50395,9 +50431,16 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <http://viaf.org/viaf/89088748>;
     dcterms:description "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.";
-    dcterms:modified "2012-02-14T18:27:27-05:00";
+    dcterms:modified "2026-11-06T16:35:09-05:00";
     dcterms:title "DARMC location 23022";
     owl:sameAs <http://pleiades.stoa.org/places/354156/darmc-location-23022> .
+
+<https://pleiades.stoa.org/places/354156/terbu> dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:creator <https://pleiades.stoa.org/author/dndimitrov>;
+    dcterms:description "The modern transliterated regional toponym used to refer to archaeological discoveries in the vicinity.";
+    dcterms:modified "2026-11-06T16:35:10-05:00";
+    dcterms:title "Terbu";
+    owl:sameAs <http://pleiades.stoa.org/places/354156/terbu> .
 
 <https://pleiades.stoa.org/places/354157%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Tesaua";
@@ -80615,15 +80658,15 @@
     owl:sameAs <http://pleiades.stoa.org/places/39369/lexianae> .
 
 <https://pleiades.stoa.org/places/393691694%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "House of the geometric mosaics";
+    rdfs:label "House of the Geometric Mosaics (VIII.2.16)";
     spatial:C <https://pleiades.stoa.org/places/433032%23this>,
         <https://pleiades.stoa.org/places/538911200%23this>;
-    rdfs:comment "The House of the Geometric Mosaics (VIII,2,14-16) is a large domus of more than 60 rooms that was achieved by combining two third to second century BC houses.";
+    rdfs:comment "The House of the Geometric Mosaics (VIII,2,14-16) is a large domus of more than 60 rooms that was achieved by combining two third- to second-century BC houses.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/393691694> .
 
 <https://pleiades.stoa.org/places/393691694/osm-location-of-house-of-the-geometric-mosaics> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Representative location based on OpenStreetMap";
-    dcterms:modified "2024-07-11T13:35:10-04:00";
+    dcterms:modified "2026-11-07T22:49:13-05:00";
     dcterms:title "OSM location of House of the Geometric Mosaics";
     owl:sameAs <http://pleiades.stoa.org/places/393691694/osm-location-of-house-of-the-geometric-mosaics> .
 
@@ -85209,7 +85252,8 @@
         "ToposText Theatre of Marcellus (Rome)",
         "Wikidata Q659138: Theatre of Marcellus",
         "Wikipedia (English) Marcus Claudius Marcellus (Julio-Claudian dynasty)",
-        "Wikipedia (English) Theatre of Marcellus";
+        "Wikipedia (English) Theatre of Marcellus",
+        "vici.org 9961: Theatre of Marcellus";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "jfu" ],
         <https://pleiades.stoa.org/author/bkiesling>,
@@ -85217,10 +85261,11 @@
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Theatrum Marcelli (Theater of Marcellus) is an ancient Roman theater in the Circus Flaminius. Augustus completed its construction and dedicated it in 12 BC.";
-    dcterms:modified "2024-04-03T15:54:34-04:00";
+    dcterms:modified "2026-11-01T09:32:48-05:00";
     dcterms:title "Theatrum Marcelli";
     cito:citesAsRelated <https://arachne.dainst.org/entity/5760>,
         <https://en.wikipedia.org/wiki/Marcus_Claudius_Marcellus_%2528Julio-Claudian_dynasty%2529>,
+        <https://vici.org/vici/9961>,
         <https://www.wikidata.org/wiki/Q659138>;
     cito:citesForInformation <http://www.jstor.org/stable/505952>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0054%253Aalphabetic+letter%253DT%253Aentry+group%253D1%253Aentry%253Dtheatrum-marcelli>,
@@ -92594,6 +92639,41 @@
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/temple-2>;
     pleiades:hasName <https://pleiades.stoa.org/places/aphrodision> .
+
+<https://pleiades.stoa.org/places/308961168> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "Arachne Casa IX 2, 16 Sog. Casa di T. Dentatius Pantherae Pompei, (Pompeii), Pompei",
+        "MANTO 11319237: Casa di T. Dentatius Panthera IX 2, 16 (Pompeii)",
+        "PALP Property IX.2.16",
+        "PompeiiinPictures IX.2.16 Pompeii. House of Titus Dentatius Panthera or Casa di Bellerofonte",
+        "Wikidata House of Titus Dentatius Panthera (IX.2.16) (Q27688412)",
+        "Wikipedia (German) Casa di Titus Dentatius Panthera";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>;
+    dcterms:creator <https://pleiades.stoa.org/author/acampbell>;
+    dcterms:description "Townhouse in regio IX at Pompeii, excavated from 1867-1876, restored in 1986.";
+    dcterms:modified "2026-11-06T09:29:48-05:00";
+    dcterms:title "House of Titus Dentatius Panthera";
+    cito:citesAsRelated <https://arachne.dainst.org/entity/12473>,
+        <https://de.wikipedia.org/wiki/Casa_di_Titus_Dentatius_Panthera>,
+        <https://resource.manto.unh.edu/11319237>,
+        <https://www.wikidata.org/wiki/Q27688412>;
+    cito:citesForInformation <http://pompeiiinpictures.com/pompeiiinpictures/R9/9%252002%252016.htm>,
+        <https://palp.art/browse/%23r9-i2-p16?map-lat=40.750656&map-lng=14.488002&map-z=19.00>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/680072866>;
+    owl:sameAs <http://pleiades.stoa.org/places/308961168>;
+    geo:lat 40.7507399085;
+    geo:long 14.4879129084;
+    skos:altLabel "Casa di Titus Dentatius Panthera"@it;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/townhouse>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/p-lod-location>;
+    pleiades:hasName <https://pleiades.stoa.org/places/casa-di-titus-dentatius-panthera> .
 
 <https://pleiades.stoa.org/places/309101265> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -107479,7 +107559,7 @@
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:description "The Temple of Zeus at Olympia was built in the second quarter of the fifth century B.C. Libon of Elis served as architect.";
-    dcterms:modified "2026-10-31T09:46:51-04:00";
+    dcterms:modified "2026-11-05T19:01:44-05:00";
     dcterms:subject "Doric",
         "Temple",
         "Zeus",
@@ -107496,10 +107576,14 @@
         <https://topostext.org/place/376216SOZe>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/570531>;
     owl:sameAs <http://pleiades.stoa.org/places/316294900>;
+    geo:lat 37.6379280818;
+    geo:long 21.6303103182;
+    skos:altLabel "Temple of Zeus in Olympia"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/temple-2>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/center-of-the-temple-of-zeus-at-olympia> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-temple-of-zeus>;
+    pleiades:hasName <https://pleiades.stoa.org/places/temple-of-zeus-in-olympia> .
 
 <https://pleiades.stoa.org/places/316347> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -112425,15 +112509,19 @@
         "BAtlas 33 C1 Althiburos",
         "CIL VIII Suppl. 4. 27769, 27775, 27781",
         "DARMC 1095",
+        "EDH Geographic Database G000956: Althiburos – Médeïna",
+        "España-Chamorro 2025 ",
         "New Pauly Althiburus",
         "PECS (Perseus) ALTHIBUROS (Ebba Ksour) Tunisia",
         "RE Althiburus (J. Schmidt)",
         "TM Geo 17336: Althiburos (Henchir Medeina)",
         "TP (Talbert: CUP) 4C1 (Talbert 184)",
         "Wikidata Altiburo (Q440812)",
-        "Wikipedia (French) Althiburos";
+        "Wikipedia (French) Althiburos",
+        "vici.org 4005";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/cdlisle>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>,
@@ -112441,13 +112529,15 @@
     dcterms:coverage "Medeina/Mdeina";
     dcterms:creator <http://viaf.org/viaf/19524400>;
     dcterms:description "Althiburos was a city of Africa Proconsularis that became a municipium under Hadrian and a colonia during the third century A.D.";
-    dcterms:modified "2026-05-14T14:35:10-04:00";
+    dcterms:modified "2026-11-06T09:35:29-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
     dcterms:title "Althiburos";
     cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace184.html>;
     cito:citesAsRelated <https://darmc.harvard.edu/>,
+        <https://edh.ub.uni-heidelberg.de/edh/geographie/G000956>,
+        <https://vici.org/vici/4005>,
         <https://www.trismegistos.org/place/17336>,
         <https://www.wikidata.org/wiki/Q440812>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=althiburos&highlight=>,
@@ -112456,7 +112546,8 @@
         <https://doi.org/10.1163/1574-9347_bnp_e116810>,
         <https://fr.wikipedia.org/wiki/Althiburos>,
         <https://www.zotero.org/groups/pleiades/items/AD9I4UH9>,
-        <https://www.zotero.org/groups/pleiades/items/JCY8WN8B>;
+        <https://www.zotero.org/groups/pleiades/items/JCY8WN8B>,
+        <https://www.zotero.org/groups/pleiades/items/SPYIDVH3>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/525741035>;
     owl:sameAs <http://pleiades.stoa.org/places/324664>;
     geo:lat 35.8739222001;
@@ -128451,17 +128542,26 @@
 
 <https://pleiades.stoa.org/places/338820566> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "AD79 Forum Baths",
-        "Wikidata Q17638213: Forum Baths, Pompeii",
+    dcterms:bibliographicCitation "AD79 Forum Baths",
+        "MANTO 11319196: Terme del Foro VII 5, 2 (Pompeii)",
+        "PALP r7-i5-p2",
+        "Pompeii Sites Forum Baths (VII,5,24)",
+        "Wikidata Forum Baths, Pompeii (Q17638213)",
         "Wikipedia (Italian) Terme del Foro (Pompei)";
-    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>,
         <https://pleiades.stoa.org/author/vvitale>;
     dcterms:creator <https://pleiades.stoa.org/author/avarveri>;
     dcterms:description "A bath complex adjacent to Pompeii's forum that was built after 80 BC (Reg VII, Ins 5, 2, 5, 7, 24). The baths are publicly financed by the duovir Lucius Caesius and the aediles Caius Occius and Lucius Niraemius.";
-    dcterms:modified "2020-12-11T12:17:39-05:00";
+    dcterms:modified "2026-11-01T17:48:07-05:00";
     dcterms:title "Forum baths";
-    cito:citesAsRelated <https://www.wikidata.org/wiki/Q17638213>;
+    cito:citesAsRelated <https://palp.art/browse/%23r7-i5-p2?map-lat=40.750332&map-lng=14.484015&map-z=18.00>,
+        <https://resource.manto.unh.edu/11319196>,
+        <https://www.wikidata.org/wiki/Q17638213>;
     cito:citesForInformation <http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%2528VII%252C5%252C24%2529&idSezione=664&lookfor=forum%2520baths>,
         <https://it.wikipedia.org/wiki/Terme_del_Foro_(Pompei)>,
         <https://sites.google.com/site/ad79eruption/pompeii/public-buildings/forum-baths>;
@@ -140775,13 +140875,14 @@
         "Daniels 1989 59";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/dndimitrov>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Terbu";
     dcterms:creator <http://viaf.org/viaf/89088748>;
     dcterms:description "An ancient place, cited: BAtlas 36 E6 Terbu";
-    dcterms:modified "2017-12-17T19:34:27-05:00";
+    dcterms:modified "2026-11-06T16:35:10-05:00";
     dcterms:subject "dare:ancient=0",
         "dare:feature=cemetery",
         "dare:major=0";
@@ -140789,10 +140890,12 @@
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://www.zotero.org/groups/pleiades/items/G8F527GK>;
     owl:sameAs <http://pleiades.stoa.org/places/354156>;
+    skos:altLabel "Terbu"@en;
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 36 E6 Terbu" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>;
-    pleiades:hasLocation <https://pleiades.stoa.org/places/darmc-location-23022> .
+    pleiades:hasLocation <https://pleiades.stoa.org/places/darmc-location-23022>;
+    pleiades:hasName <https://pleiades.stoa.org/places/terbu> .
 
 <https://pleiades.stoa.org/places/354157> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -172029,22 +172132,35 @@
 <https://pleiades.stoa.org/places/393691694> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "AD79 House of the Geometric Mosaics",
+        "MANTO 11319206: Private Dwelling VIII 2, 14-16 (Pompeii)",
+        "PALP Property VIII.2.15",
+        "PALP r8-i2-p14",
         "Pompeii Sites House of the geometric mosaics (VIII,2,14-16)",
         "Wikidata House of the Geometric Mosaics (VIII.2.16) (Q27688060)",
-        "Wikipedia (German) Casa dei Mosaici Geometrici";
-    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
+        "Wikipedia (German) Casa dei Mosaici Geometrici",
+        "vici.org 99007: Casa dei Mosaici Geometrici";
+    dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
+            foaf:name "Eric Poehler" ],
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
+        <https://pleiades.stoa.org/author/sebs>;
     dcterms:creator <https://pleiades.stoa.org/author/avarveri>;
-    dcterms:description "The House of the Geometric Mosaics (VIII,2,14-16) is a large domus of more than 60 rooms that was achieved by combining two third to second century BC houses.";
-    dcterms:modified "2024-07-11T13:35:16-04:00";
+    dcterms:description "The House of the Geometric Mosaics (VIII,2,14-16) is a large domus of more than 60 rooms that was achieved by combining two third- to second-century BC houses.";
+    dcterms:modified "2026-11-07T22:53:30-05:00";
     dcterms:subject "Mosaic",
         "domus",
         "extant remains",
         "wall painting";
-    dcterms:title "House of the geometric mosaics";
-    cito:citesAsRelated <https://www.wikidata.org/wiki/Q27688060>;
+    dcterms:title "House of the Geometric Mosaics (VIII.2.16)";
+    cito:citesAsRelated <https://palp.art/browse/%23r8-i2-p14?map-lat=40.748345&map-lng=14.485126&map-z=18.00>,
+        <https://palp.art/browse/%23r8-i2-p15?map-lat=40.748378&map-lng=14.485528&map-z=19.00>,
+        <https://resource.manto.unh.edu/11319206>,
+        <https://vici.org/vici/99007>,
+        <https://www.wikidata.org/wiki/Q27688060>;
     cito:citesForInformation <http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+geometric+mosaics+(VIII%252C2%252C14-16)&idSezione=597>,
         <https://de.wikipedia.org/wiki/Casa_dei_Mosaici_Geometrici>,
-        <https://sites.google.com/site/ad79eruption/pompeii/regio-viii/reg-viii-ins-2/house-of-the-geometric-mosaics>;
+        <https://web.archive.org/web/20201010070738/https://sites.google.com/site/ad79eruption/pompeii/regio-viii/reg-viii-ins-2/house-of-the-geometric-mosaics>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/433032>,
         <https://pleiades.stoa.org/places/538911200>;
     owl:sameAs <http://pleiades.stoa.org/places/393691694>;
@@ -184082,6 +184198,17 @@
     pleiades:nameRomanized "Casa di Gneo Centronio Fortunato";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/casa-di-titus-dentatius-panthera> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata House of Titus Dentatius Panthera (IX.2.16) (Q27688412)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q27688412>;
+    owl:sameAs <http://pleiades.stoa.org/places/casa-di-titus-dentatius-panthera>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Casa di Titus Dentatius Panthera"@it;
+    pleiades:nameRomanized "Casa di Titus Dentatius Panthera";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/casa-e-caupona-di-epagatus> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.4899516, 40.748373], [14.490069, 40.7484257], [14.4900456, 40.7484554], [14.4899724, 40.7485481], [14.489851, 40.7484918], [14.4898357, 40.7484847], [14.4899516, 40.748373]]]}";
     osgeo:asWKT "POLYGON ((14.4899515999999995 40.7483730000000008, 14.4900690000000001 40.7484256999999985, 14.4900456000000002 40.7484553999999974, 14.4899723999999992 40.7485481000000007, 14.4898509999999998 40.7484917999999965, 14.4898357000000004 40.7484846999999988, 14.4899515999999995 40.7483730000000008))";
@@ -184866,16 +184993,6 @@
         <https://pleiades.stoa.org/vocabularies/roman>;
     pleiades:end_date 640;
     pleiades:start_date -30 .
-
-<https://pleiades.stoa.org/places/center-of-the-temple-of-zeus-at-olympia> a <https://pleiades.stoa.org/places/vocab#Location>;
-    owl:sameAs <http://pleiades.stoa.org/places/center-of-the-temple-of-zeus-at-olympia>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
-        <https://pleiades.stoa.org/vocabularies/classical>,
-        <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
-        <https://pleiades.stoa.org/vocabularies/roman>;
-    pleiades:end_date 300;
-    pleiades:start_date -750 .
 
 <https://pleiades.stoa.org/places/centerpoint-of-settlement-approx> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "";
@@ -193698,9 +193815,9 @@
     cito:citesAsDataSource <https://darmc.harvard.edu/>;
     owl:sameAs <http://pleiades.stoa.org/places/darmc-location-23022>;
     prov:wasDerivedFrom [ rdfs:label "DARMC OBJECTID: 23022" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/roman>;
-    pleiades:end_date 300;
-    pleiades:start_date -30 .
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/darmc-location-23082> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "DARMC 23082";
@@ -218964,7 +219081,7 @@
     dcterms:bibliographicCitation "OSM Way 356147137";
     cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/356147137>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-house-of-the-geometric-mosaics>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 356147137, version 5, osm:changeset=63899419, 2018-10-26T17:26:00Z)" ];
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 356147137, version 7, osm:changeset=185540246, 2026-07-11T14:20:15Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/first-ce>,
         <https://pleiades.stoa.org/vocabularies/hellenistic-republican>;
     pleiades:end_date 99;
@@ -221789,6 +221906,21 @@
     pleiades:end_date -1086;
     pleiades:start_date -1548 .
 
+<https://pleiades.stoa.org/places/osm-location-of-temple-of-zeus> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[21.6299645, 37.6377607], [21.6306973, 37.6378325], [21.6306561, 37.6380955], [21.6299435, 37.6380256], [21.6299233, 37.6380236], [21.6299645, 37.6377607]]]}";
+    osgeo:asWKT "POLYGON ((21.6299644999999998 37.6377607000000012, 21.6306973000000013 37.6378325000000018, 21.6306560999999995 37.6380954999999986, 21.6299434999999995 37.6380255999999989, 21.6299233000000015 37.6380235999999968, 21.6299644999999998 37.6377607000000012))";
+    dcterms:bibliographicCitation "OSM Way 146770889";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/146770889>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-temple-of-zeus>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 146770889, version 22, osm:changeset=150180211, 2024-04-18T15:03:39Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
+        <https://pleiades.stoa.org/vocabularies/classical>,
+        <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,
+        <https://pleiades.stoa.org/vocabularies/late-antique>,
+        <https://pleiades.stoa.org/vocabularies/roman>;
+    pleiades:end_date 640;
+    pleiades:start_date -750 .
+
 <https://pleiades.stoa.org/places/osm-location-of-tepe-garan> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[47.3367403, 32.5777461], [47.3371609, 32.5777725], [47.3383544, 32.5781288], [47.340184, 32.5795826], [47.3402474, 32.5804724], [47.3396597, 32.5813773], [47.3376103, 32.582609], [47.336422, 32.5826194], [47.3353289, 32.5811282], [47.3351372, 32.5805766], [47.3351835, 32.5797664], [47.3353047, 32.5792524], [47.3360453, 32.5782823], [47.3364417, 32.5779219], [47.3367403, 32.5777461]]]}";
     osgeo:asWKT "POLYGON ((47.3367403000000024 32.5777460999999988, 47.3371609000000007 32.5777725000000018, 47.3383544000000001 32.5781288000000018, 47.3401840000000007 32.5795826000000019, 47.3402474000000026 32.5804723999999979, 47.3396596999999986 32.5813772999999998, 47.3376103000000015 32.5826089999999979, 47.3364219999999989 32.5826193999999987, 47.3353289000000004 32.5811282000000020, 47.3351371999999984 32.5805766000000006, 47.3351834999999994 32.5797663999999969, 47.3353047000000018 32.5792524000000014, 47.3360453000000021 32.5782822999999979, 47.3364417000000017 32.5779218999999998, 47.3367403000000024 32.5777460999999988))";
@@ -223277,17 +223409,6 @@
     pleiades:nameAttested "Ozzano"@it;
     pleiades:nameRomanized "Ozzano";
     pleiades:start_date 1900 .
-
-<https://pleiades.stoa.org/places/p-lod-location> a <https://pleiades.stoa.org/places/vocab#Location>;
-    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.482940766394258, 40.75189384029193, 0.038899999999558], [14.483294988612743, 40.752020455117176, 41.827900000003865], [14.483294412194006, 40.75202139886104, 41.827900000003865], [14.483098559994943, 40.75232157093588, 41.827900000003865], [14.483098346177991, 40.752321498209476, -0.00010000000475], [14.482934341361979, 40.75226202321977, -0.00010000000475], [14.48277519114132, 40.752160695669744, -0.00010000000475], [14.482940766394258, 40.75189384029193, 0.038899999999558]]]}";
-    osgeo:asWKT "POLYGON Z ((14.4829407663942575 40.7518938402919275 0.0388999999995580, 14.4832949886127427 40.7520204551171759 41.8279000000038650, 14.4832944121940059 40.7520213988610394 41.8279000000038650, 14.4830985599949429 40.7523215709358766 41.8279000000038650, 14.4830983461779912 40.7523214982094757 -0.0001000000047500, 14.4829343413619789 40.7522620232197710 -0.0001000000047500, 14.4827751911413198 40.7521606956697440 -0.0001000000047500, 14.4829407663942575 40.7518938402919275 0.0388999999995580))";
-    dcterms:bibliographicCitation "P-LOD Property VI.7.20";
-    cito:citesAsDataSource <https://p-lod.org/urn/urn:p-lod:id:r6-i7-p20>;
-    owl:sameAs <http://pleiades.stoa.org/places/p-lod-location>;
-    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
-    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
-    pleiades:end_date 2099;
-    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/paccianis-matidiae> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/paccianis-matidiae>;
@@ -230618,6 +230739,17 @@
     pleiades:nameRomanized "Temple of Thutmose III";
     pleiades:start_date 1700 .
 
+<https://pleiades.stoa.org/places/temple-of-zeus-in-olympia> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Wikidata Temple of Zeus in Olympia (Q197019)";
+    cito:citesAsDataSource <https://www.wikidata.org/wiki/Q197019>;
+    owl:sameAs <http://pleiades.stoa.org/places/temple-of-zeus-in-olympia>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Temple of Zeus in Olympia"@en;
+    pleiades:nameRomanized "Temple of Zeus in Olympia";
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/temple-z> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Pedersén 2021 153";
     cito:citesForInformation <https://www.zotero.org/groups/pleiades/items/G4TYAF5Z>;
@@ -230681,6 +230813,17 @@
     pleiades:end_date 640;
     pleiades:nameRomanized "Terapse";
     pleiades:start_date 300 .
+
+<https://pleiades.stoa.org/places/terbu> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Daniels 1989 59";
+    cito:citesForInformation <https://www.cambridge.org/core/journals/libyan-studies/article/excavation-and-fieldwork-amongst-the-garamantes/02B681ECC7BA2239D287BB1C850960A0>;
+    owl:sameAs <http://pleiades.stoa.org/places/terbu>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/modern>;
+    pleiades:end_date 2100;
+    pleiades:nameAttested "Terbu"@en;
+    pleiades:nameRomanized "Terbu";
+    pleiades:start_date 1700 .
 
 <https://pleiades.stoa.org/places/terme-centrali> a <https://pleiades.stoa.org/places/vocab#Location>;
     dcterms:bibliographicCitation "OSM Node 2032848656";
@@ -231505,6 +231648,17 @@
     pleiades:end_date 300;
     pleiades:nameRomanized "Thintis";
     pleiades:start_date -30 .
+
+<https://pleiades.stoa.org/places/thisdro-colonia> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "TP (Talbert: CUP) 5C3 (Talbert 199)";
+    cito:citesAsEvidence <https://web.archive.org/web/20260116130430/https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace199.html>;
+    owl:sameAs <http://pleiades.stoa.org/places/thisdro-colonia>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/late-antique>;
+    pleiades:end_date 640;
+    pleiades:nameAttested "Thisdro Col."@la;
+    pleiades:nameRomanized "Thisdro Colonia";
+    pleiades:start_date 300 .
 
 <https://pleiades.stoa.org/places/thisiduo> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/thisiduo>;
@@ -235654,6 +235808,17 @@
     pleiades:end_date 300;
     pleiades:nameRomanized "Zozynthion";
     pleiades:start_date -330 .
+
+<https://pleiades.stoa.org/places/zraia> a <https://pleiades.stoa.org/places/vocab#Name>;
+    dcterms:bibliographicCitation "Krim 2025 ";
+    cito:citesAsEvidence <https://www.zotero.org/groups/pleiades/items/M4XKEXBI>;
+    owl:sameAs <http://pleiades.stoa.org/places/zraia>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:nameAttested "Zraia"@fr;
+    pleiades:nameRomanized "Zraia";
+    pleiades:start_date 2000 .
 
 <https://pleiades.stoa.org/places/zubair-group> a <https://pleiades.stoa.org/places/vocab#Name>;
     dcterms:bibliographicCitation "Wikidata Zubair Group (Q227496)";
@@ -251173,6 +251338,22 @@
     pleiades:start_date -330,
         -30 .
 
+<https://pleiades.stoa.org/places/p-lod-location> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[14.482940766394258, 40.75189384029193, 0.038899999999558], [14.483294988612743, 40.752020455117176, 41.827900000003865], [14.483294412194006, 40.75202139886104, 41.827900000003865], [14.483098559994943, 40.75232157093588, 41.827900000003865], [14.483098346177991, 40.752321498209476, -0.00010000000475], [14.482934341361979, 40.75226202321977, -0.00010000000475], [14.48277519114132, 40.752160695669744, -0.00010000000475], [14.482940766394258, 40.75189384029193, 0.038899999999558]]]}",
+        "{\"type\": \"Polygon\", \"coordinates\": [[[14.487800982006215, 40.750623888112365, 41.827900000003865], [14.487904442605842, 40.750667943570164, 41.827900000003865], [14.488114678286077, 40.75077334116539, 41.827900000003865], [14.488104644991724, 40.75078303299409, 41.827900000003865], [14.488039312997323, 40.75084312373667, 41.827900000003865], [14.488028261060705, 40.75085255459316, 41.827900000003865], [14.487794979427198, 40.75075569570138, 41.827900000003865], [14.487719244293409, 40.75071417874035, 41.827900000003865], [14.4877427319137, 40.750688113590776, 41.827900000003865], [14.487800982006215, 40.750623888112365, 41.827900000003865]]]}";
+    osgeo:asWKT "POLYGON Z ((14.4829407663942575 40.7518938402919275 0.0388999999995580, 14.4832949886127427 40.7520204551171759 41.8279000000038650, 14.4832944121940059 40.7520213988610394 41.8279000000038650, 14.4830985599949429 40.7523215709358766 41.8279000000038650, 14.4830983461779912 40.7523214982094757 -0.0001000000047500, 14.4829343413619789 40.7522620232197710 -0.0001000000047500, 14.4827751911413198 40.7521606956697440 -0.0001000000047500, 14.4829407663942575 40.7518938402919275 0.0388999999995580))",
+        "POLYGON Z ((14.4878009820062150 40.7506238881123650 41.8279000000038650, 14.4879044426058421 40.7506679435701642 41.8279000000038650, 14.4881146782860775 40.7507733411653916 41.8279000000038650, 14.4881046449917239 40.7507830329940930 41.8279000000038650, 14.4880393129973228 40.7508431237366722 41.8279000000038650, 14.4880282610607054 40.7508525545931590 41.8279000000038650, 14.4877949794271981 40.7507556957013790 41.8279000000038650, 14.4877192442934088 40.7507141787403526 41.8279000000038650, 14.4877427319137002 40.7506881135907761 41.8279000000038650, 14.4878009820062150 40.7506238881123650 41.8279000000038650))";
+    dcterms:bibliographicCitation "P-LOD Property VI.7.20",
+        "PALP Property IX.2.16";
+    cito:citesAsDataSource <https://p-lod.org/urn/urn:p-lod:id:r6-i7-p20>,
+        <https://palp.art/browse/%23r9-i2-p16?map-lat=40.750656&map-lng=14.488002&map-z=19.00>;
+    owl:sameAs <http://pleiades.stoa.org/places/p-lod-location>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ],
+        [ rdfs:label "Pleiades" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/twenty-first-ce>;
+    pleiades:end_date 2099;
+    pleiades:start_date 2000 .
+
 <https://pleiades.stoa.org/places/pagus-muxsi> a <https://pleiades.stoa.org/places/vocab#Name>;
     owl:sameAs <http://pleiades.stoa.org/places/pagus-muxsi>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 32 E3 Muxitani" ],
@@ -253163,7 +253344,7 @@
     dcterms:coverage "el-Djem";
     dcterms:creator <http://viaf.org/viaf/19524400>;
     dcterms:description "Thysdrus (modern El Djem, Tunisia) was a Punic and Roman city of North Africa. It flourished in the second century A.D. and built its massive amphitheater in the third century. After an abortive revolt in A.D. 238, the city was destroyed by soldiers loyal to Maximinus Thrax.";
-    dcterms:modified "2026-10-31T11:04:48-04:00";
+    dcterms:modified "2026-11-05T19:02:01-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -253187,6 +253368,7 @@
         <https://pleiades.stoa.org/places/328433>;
     owl:sameAs <http://pleiades.stoa.org/places/324835>;
     skos:altLabel "El Djem"@ar,
+        "Thisdro Col."@la,
         "Thysdrus";
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 33 G2 Thysdrus" ];
@@ -253194,6 +253376,7 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>,
         <https://pleiades.stoa.org/places/darmc-location-15166>;
     pleiades:hasName <https://pleiades.stoa.org/places/el-djem>,
+        <https://pleiades.stoa.org/places/thisdro-colonia>,
         <https://pleiades.stoa.org/places/thysdrus> .
 
 <https://pleiades.stoa.org/places/328431> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -253865,26 +254048,34 @@
 
 <https://pleiades.stoa.org/places/344492> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "",
-        "BAtlas 35 C1 Syrtis Minor",
+    dcterms:bibliographicCitation "BAtlas 35 C1 Syrtis Minor",
+        "Desanges 1980 243-48, 264-65",
+        "MANTO 11325640: Syrtis Minor (N. Africa)",
+        "Periplous (Shipley 2019) 110.1",
+        "Plin., NH (Mayhoff: PHI) 5.27.4, 5.27.5, 5.27.8, 5.28.7",
         "ToposText Syrtis Minor gulf (Tunisia) 48 Gabes Bay - μικρά Σύρτις",
         "Wikidata Gulf of Gabès (Q323760)",
         "Wikipedia (English) Syrtis Minor";
     dcterms:contributor <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Lesser Syrtis";
     dcterms:creator <http://viaf.org/viaf/89088748>;
     dcterms:description "The Gulf of Gabès.";
-    dcterms:modified "2025-11-04T15:05:55-05:00";
+    dcterms:modified "2026-11-07T10:30:20-05:00";
     dcterms:title "Syrtis Minor";
-    cito:citesAsRelated <https://topostext.org/place/340105WSyr>,
+    cito:citesAsEvidence <https://latin.packhum.org/loc/978/1/326/723-729,792-804,942-948,1333-1339>;
+    cito:citesAsRelated <https://resource.manto.unh.edu/11325640>,
+        <https://topostext.org/place/340105WSyr>,
         <https://www.wikidata.org/wiki/Q323760>;
-    cito:citesForInformation <http://atlantides.org/bibliography/d.html%23Desanges-1980-243-48>,
-        <http://www.worldcat.org/oclc/43970336>,
-        <https://en.wikipedia.org/wiki/Syrtis_Minor>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://en.wikipedia.org/wiki/Syrtis_Minor>,
+        <https://www.jstor.org/stable/j.ctv1931hb3>,
+        <https://www.lesbelleslettres.com/livre/9782251011530/histoire-naturelle-livre-v-1re-partie>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/344496>,
         <https://pleiades.stoa.org/places/349582>;
     owl:sameAs <http://pleiades.stoa.org/places/344492>;
@@ -254242,7 +254433,7 @@
         <https://pleiades.stoa.org/places/373869%23this>,
         <https://pleiades.stoa.org/places/463803480%23this>,
         <https://pleiades.stoa.org/places/981517%23this>;
-    rdfs:comment "Arsinoe/Taucheira (modern Tocra) may have originally been a Greek foundation that was part of Pentapolis of Cyrenaica. It eventually became a Roman colony and, by the time of Justinian, was fortified.";
+    rdfs:comment "Arsinoe/Taucheira (modern Tocra) may have originally been a Greek foundation that was part of the Pentapolis of Cyrenaica. It eventually became a Roman colony and, by the time of Justinian, was fortified.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/373736> .
 
 <https://pleiades.stoa.org/places/373786> a <http://www.w3.org/2004/02/skos/core#Concept>,
@@ -257558,7 +257749,7 @@
     dcterms:coverage "Zraia";
     dcterms:creator <http://viaf.org/viaf/56622759>;
     dcterms:description "Zarai or Zaraï is an ancient place in the Roman province of Numidia. It was a Berber, Carthaginian, and, later, Roman settlement located near the site of present-day Aïn Oulmene, Algeria.";
-    dcterms:modified "2026-10-30T20:12:16-04:00";
+    dcterms:modified "2026-11-06T07:10:26-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -257582,12 +257773,14 @@
         <https://pleiades.stoa.org/places/338247>,
         <https://pleiades.stoa.org/places/338288>;
     owl:sameAs <http://pleiades.stoa.org/places/334669>;
-    skos:altLabel "Zarai";
+    skos:altLabel "Zraia"@fr,
+        "Zarai";
     skos:inScheme <https://pleiades.stoa.org/places>;
     prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 34 D2 Zarai" ];
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/settlement>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/dare-location>;
-    pleiades:hasName <https://pleiades.stoa.org/places/zarai> .
+    pleiades:hasName <https://pleiades.stoa.org/places/zarai>,
+        <https://pleiades.stoa.org/places/zraia> .
 
 <https://pleiades.stoa.org/places/344440> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
@@ -257761,27 +257954,42 @@
 
 <https://pleiades.stoa.org/places/373736> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "BAtlas 38 B1 Arsinoe/Taucheira",
+    dcterms:bibliographicCitation "Hansen 2004 1029",
+        "ItAnt (Cuntz) 67,3 Theucira",
+        "ItMiller 877",
+        "KU TP Database (Rathmann) 2623: Tauchira Colonia",
+        "Lycoph. Alex. (trans. Hornblower 2015) 877-908",
+        "MANTO 11314559: Taucheira (Cyrenaica)",
+        "PAThsAtl 159",
+        "PME (Casson) 38 B1 Arsinoe/Taucheira",
         "Plin., NH (Mayhoff: PHI) 5.31.3, 5.32.1",
         "Procop. Aed. (Dewing; Loeb) vi. 3",
         "Purcaro Pagano 1976 347-48",
+        "RE Arsinoë 7 (Richard Pietschmann)",
+        "RE Tauchira, Teuchira",
         "Str. (Meineke: Perseus) 17.3.20",
         "Stucchi 1975 ",
         "TM GEO ID 3640: Taucheira (Tokra)",
         "TP (Talbert: CUP) 7B4 (Talbert 342)",
         "ToposText Taucheira/Arsinoe (Libya)",
-        "Wikipedia (English) Tocra";
+        "WHG 7554367: Taucheira (Heritage Gazetteer of Libya)",
+        "Wikidata Taucheira (Q115324844)",
+        "Wikipedia (English) Tocra",
+        "nomisma.org Teucheira",
+        "vici.org 2452: Arsinoe";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Tocra";
     dcterms:creator <http://viaf.org/viaf/89088748>;
-    dcterms:description "Arsinoe/Taucheira (modern Tocra) may have originally been a Greek foundation that was part of Pentapolis of Cyrenaica. It eventually became a Roman colony and, by the time of Justinian, was fortified.";
-    dcterms:modified "2024-05-05T20:42:28-04:00";
+    dcterms:description "Arsinoe/Taucheira (modern Tocra) may have originally been a Greek foundation that was part of the Pentapolis of Cyrenaica. It eventually became a Roman colony and, by the time of Justinian, was fortified.";
+    dcterms:modified "2026-11-07T16:06:18-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -257790,12 +257998,25 @@
         <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace342.html>,
         <http://www.loebclassics.com/view/procopius-buildings/1940/work.xml>,
         <https://latin.packhum.org/loc/978/1/328/190-197,466-473>;
-    cito:citesAsRelated <https://www.trismegistos.org/place/3640>;
-    cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+    cito:citesAsRelated <http://nomisma.org/id/teucheira>,
+        <https://atlas.paths-erc.eu/places/159>,
+        <https://resource.manto.unh.edu/11314559>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=2623>,
+        <https://vici.org/vici/2452>,
+        <https://whgazetteer.org/places/7554367/detail>,
+        <https://www.trismegistos.org/place/3640>,
+        <https://www.wikidata.org/wiki/Q115324844>;
+    cito:citesForInformation <http://www.worldcat.org/oclc/252695579>,
+        <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/6684340>,
+        <http://www.worldcat.org/oclc/936644063>,
+        <https://elexikon.ch/RE/II,1_1277.png>,
+        <https://elexikon.ch/RE/IVA,2_2501.png>,
         <https://en.wikipedia.org/wiki/Tocra>,
         <https://topostext.org/place/325206UTau>,
         <https://www.zotero.org/groups/pleiades/items/E76HZ6MI>,
-        <https://www.zotero.org/groups/pleiades/items/MK6NMMWU>;
+        <https://www.zotero.org/groups/pleiades/items/MK6NMMWU>,
+        <https://www.zotero.org/groups/pleiades/items/MSZ85ARM>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/373750>,
         <https://pleiades.stoa.org/places/373778>,
         <https://pleiades.stoa.org/places/373869>,
@@ -261633,8 +261854,8 @@
         [ rdfs:label "OpenStreetMap (Way 94225542, version 4, osm:changeset=124159934, 2022-07-27T22:10:08Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2127352566, version 4, osm:changeset=28827078, 2015-02-13T18:15:16Z)" ],
         [ rdfs:label "OpenStreetMap (Way 237845525, version 5, osm:changeset=138539870, 2023-07-15T10:52:10Z)" ],
-        [ rdfs:label "OpenStreetMap (Way 129812184, version 5, osm:changeset=98727861, 2021-02-04T21:33:24Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2754390405, version 1, osm:changeset=21404819, 2014-03-30T17:35:25Z)" ],
+        [ rdfs:label "OpenStreetMap (Way 129812184, version 5, osm:changeset=98727861, 2021-02-04T21:33:24Z)" ],
         [ rdfs:label "OpenStreetMap (Way 177575269, version 3, osm:changeset=67120108, 2019-02-12T04:47:38Z)" ],
         [ rdfs:label "OpenStreetMap (Way 284043864, version 1, osm:changeset=22526222, 2014-05-24T15:43:23Z)" ],
         [ rdfs:label "OpenStreetMap (Node 465291526, version 7, osm:changeset=147052186, 2024-02-04T12:34:46Z)" ],
@@ -262991,7 +263212,8 @@
         <http://atlantides.org/capgrids/40%23D1>,
         <http://atlantides.org/capgrids/40%23D4>;
     owl:sameAs <http://pleiades.stoa.org/places/batlas-location>;
-    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 35 G4 Wadi Ghirza" ],
+    prov:wasDerivedFrom [ rdfs:label "Barrington Atlas: BAtlas 35 G4 Magrusa" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 35 G4 Wadi Ghirza" ],
         [ rdfs:label "Barrington Atlas: BAtlas 31 D3 Goulos? fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 31 F4 Nicives" ],
         [ rdfs:label "Pleiades" ],
@@ -263393,15 +263615,15 @@
         [ rdfs:label "Barrington Atlas: BAtlas 3 ‘Cetrora’" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Charadrai" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Chelonophagoi" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 E3 Thibiuca?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Dagaseira" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 E3 Thibiuca?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Daras fl." ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Dendrobosa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Derane Billa/Derenobilla" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Guzeran-Ardashir /[Kujaran]" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Hictanis/Hyktanis fl." ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Kanasida" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4" ],
@@ -263412,27 +263634,27 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 E3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F3" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 3 Karpella Pr." ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F4" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 3 Karpella Pr." ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F4" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 G3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Kathraps fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 G3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4 Fossa Regia" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 C4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Khwash/Qash" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Kophanta /Kophas" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 G3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 H2" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Kophanta" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32" ],
@@ -263456,9 +263678,9 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 D2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 D4" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 3 Nih" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 E2" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 E3" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 3 Nih" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 E4" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F3" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 F4" ],
@@ -263488,8 +263710,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 Civitas Bencennensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Civitas Faustianensis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Civitas Themetra" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 Cubdensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Pantyene" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 Cubdensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Culusitanus" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Cynazin" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Enerensis" ],
@@ -263499,8 +263721,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 Gisipensis Maior Plebs/Kipipa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Guzantes" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Hiltensis Plebs" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 Ismuc" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Parikane" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 Ismuc" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Libertinensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Locha" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Marthama" ],
@@ -263516,8 +263738,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 (Praedia) Zocliana C(aesarum) N(ostrorum)" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Prion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Promontoriensis Ecclesia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 Salaeca" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Portospana" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 Salaeca" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Siccenni" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Simidiccensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Sitipensis Plebs" ],
@@ -263526,8 +263748,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 Tagaratensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Tagorensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Taphroura/Taparura" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 Teglata" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Poura" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 Teglata" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Teg(u)lata?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Telensis Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Thigibba" ],
@@ -263536,8 +263758,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 32 Tholounta" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Thon" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Tisidium" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 32 Tucciane(n)sis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Pushang" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 32 Tucciane(n)sis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Turuzitana Plebs" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Utummensis Plebs/Uthumae" ],
         [ rdfs:label "Barrington Atlas: BAtlas 32 Uzippara" ],
@@ -263562,15 +263784,15 @@
         [ rdfs:label "Barrington Atlas: BAtlas 33 D1 Henchir-el-Ksiba" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Sidodone" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Sigara /Sigana" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 33 F1 Libyphoenices" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Soxotai" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 33 F1 Libyphoenices" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Talmena" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 ‘Tazora’" ],
         [ rdfs:label "Barrington Atlas: BAtlas 33 G2 Sidi-bel-Kassem" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Teisa" ],
         [ rdfs:label "Barrington Atlas: BAtlas 33 C1 Thala" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 33 D1 Thigibba?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 3 Zorambos fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 33 D1 Thigibba?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 33 F1 Vicus Augusti?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 33 G1 Zeta?" ],
         [ rdfs:label "Barrington Atlas: BAtlas 33 C2" ],
@@ -263789,8 +264011,7 @@
         [ rdfs:label "Barrington Atlas: BAtlas 34 Zerboule" ],
         [ rdfs:label "Barrington Atlas: BAtlas 34 Zerquilis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 34 Zert(...)" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 34 Zyrnas Maseli" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 35 G4 Magrusa" ];
+        [ rdfs:label "Barrington Atlas: BAtlas 34 Zyrnas Maseli" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
         <https://pleiades.stoa.org/vocabularies/classical>,
         <https://pleiades.stoa.org/vocabularies/hellenistic-republican>,

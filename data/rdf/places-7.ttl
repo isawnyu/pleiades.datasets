@@ -1,9 +1,9 @@
 # Pleiades RDF Dump
 # Contents: Pleiades Places Range 7,8
-# Date: 2026/11/01 07:48:43.382098 US/Eastern
+# Date: 2026/11/08 07:47:50.008794 US/Eastern
 # License: http://creativecommons.org/licenses/by/3.0/us/
 # Credits: https://pleiades.stoa.org/credits
-# Triple count: 240292
+# Triple count: 240395
 
 @prefix cito: <http://purl.org/spar/cito/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -15440,7 +15440,7 @@
 
 <https://pleiades.stoa.org/places/727094/osm-location-of-buto> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
     dcterms:description "Representative location based on OpenStreetMap.";
-    dcterms:modified "2025-04-01T06:23:16-04:00";
+    dcterms:modified "2026-11-02T16:05:00-05:00";
     dcterms:title "OSM location of Buto";
     owl:sameAs <http://pleiades.stoa.org/places/727094/osm-location-of-buto> .
 
@@ -39658,6 +39658,18 @@
     dcterms:title "OSM location of Qidfaʻ 1";
     owl:sameAs <http://pleiades.stoa.org/places/753895541/qidfa-1> .
 
+<https://pleiades.stoa.org/places/753895542%23this> a <http://geovocab.org/spatial#Feature>;
+    rdfs:label "Palace of Galerius";
+    spatial:C <https://pleiades.stoa.org/places/491741%23this>;
+    rdfs:comment "Remains of a palatial villa complex in Thessaloniki associated with Galerius.";
+    foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/753895542> .
+
+<https://pleiades.stoa.org/places/753895542/osm-location-of-roman-villa-of-galerius> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Representative location based on OpenStreetMap";
+    dcterms:modified "2026-11-06T14:10:25-05:00";
+    dcterms:title "OSM location of Roman Villa of Galerius";
+    owl:sameAs <http://pleiades.stoa.org/places/753895542/osm-location-of-roman-villa-of-galerius> .
+
 <https://pleiades.stoa.org/places/753898782/achaemenid-empire> dcterms:contributor <https://pleiades.stoa.org/author/jbecker>;
     dcterms:creator <https://pleiades.stoa.org/author/cdlisle>;
     dcterms:description "";
@@ -40604,7 +40616,7 @@
 <https://pleiades.stoa.org/places/756525877%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Altar of Androgeos";
     spatial:C <https://pleiades.stoa.org/places/580072%23this>;
-    rdfs:comment "The Altar of Androgeos, son of Minos, at Phaleron is described by Pausanias.";
+    rdfs:comment "Pausanias describes the Altar of Androgeos, son of Minos, at Phaleron.";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/756525877> .
 
 <https://pleiades.stoa.org/places/756525877/androgeu-bomos-tou-mino> dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
@@ -82533,15 +82545,19 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "Dinsmoor 1912 ",
         "Hoff 2009 ",
+        "MANTO 11322499: the Athenian Treasury (Delphi)",
         "Neer 2004 ",
         "ToposText Athenian Treasury (Delphi)",
-        "Wikidata Q478011: Athenian Treasury",
+        "Wikidata Athenian Treasury (Q478011)",
         "Wikipedia (English) Athenian Treasury";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "John Paul Aguilar" ],
         <https://pleiades.stoa.org/author/arabinowitz>,
         <https://pleiades.stoa.org/author/bkiesling>,
-        <https://pleiades.stoa.org/author/jbecker>;
+        <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/jscholten>,
+        <https://pleiades.stoa.org/author/rssmith>;
     dcterms:creator [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Morgan Lubenow" ],
         [ a <http://xmlns.com/foaf/0.1/Person>;
@@ -82551,13 +82567,14 @@
         <https://pleiades.stoa.org/author/hspock>,
         <https://pleiades.stoa.org/author/jpaguilar>;
     dcterms:description "The Athenian Treasury at Delphi, built between 510 and 480 BC, is a building intended to house offerings made to Apollo by the citizens of Athens.";
-    dcterms:modified "2026-07-02T16:53:54-04:00";
+    dcterms:modified "2026-11-01T17:40:10-05:00";
     dcterms:subject "Apollo",
         "Delphi",
         "Treasury",
         "Treasury, doric, metopes";
     dcterms:title "Athenian Treasury at Delphi";
     cito:citesAsRelated <https://en.wikipedia.org/wiki/Athenian_Treasury>,
+        <https://resource.manto.unh.edu/11322499>,
         <https://www.wikidata.org/wiki/Q478011>;
     cito:citesForInformation <http://archiv.ub.uni-heidelberg.de/propylaeumdok/2159/1/vdH_Athenian_Treasury_2009.pdf>,
         <http://www.jstor.org/stable/10.1525/ca.2004.23.1.63>,
@@ -82702,7 +82719,7 @@
     pleiades:hasLocation <https://pleiades.stoa.org/places/undetermined> .
 
 <https://pleiades.stoa.org/places/708193%23this> a <http://geovocab.org/spatial#Feature>;
-    rdfs:label "Untitled";
+    rdfs:label "Unnamed aqueduct (Soloi)";
     spatial:C <https://pleiades.stoa.org/places/707624%23this>;
     rdfs:comment "An ancient place, cited: BAtlas 72 B2 unnamed aqueduct (Soloi)";
     foaf:isPrimaryTopicOf <https://pleiades.stoa.org/places/708193> .
@@ -103119,7 +103136,8 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "BAtlas 75 D2 Labyrinthos",
         "C-D 3 176",
-        "RE Labyrinthos 4",
+        "MANTO 11310461: the Labyrinth (Egypt)",
+        "RE Labyrinthos 4 (Hermann Kees)",
         "Str. (Meineke: Perseus) 17.1.37",
         "TM GEO ID 1212: Labyrinthos",
         "ToposText Labyrinthos T. (Egypt)",
@@ -103134,25 +103152,28 @@
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/adamp>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "near Hawwara";
     dcterms:creator <http://viaf.org/viaf/94041687>;
     dcterms:description "Labyrinthos is a name applied by Greek authors, notably Herodotus and Strabo, to describe a monumental funerary temple at Hawara.";
-    dcterms:modified "2023-11-19T11:04:52-05:00";
+    dcterms:modified "2026-11-01T09:57:28-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=temple",
         "dare:major=0";
     dcterms:title "Labyrinthos";
     cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:17.1.37>;
-    cito:citesAsRelated <http://www.trismegistos.org/place/1212>;
+    cito:citesAsRelated <http://www.trismegistos.org/place/1212>,
+        <https://resource.manto.unh.edu/11310461>;
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
+        <https://de.wikisource.org/wiki/RE:Labyrinthos_4>,
         <https://en.wikipedia.org/wiki/Hawara>,
         <https://topostext.org/place/293309SLab>,
-        <https://www.zotero.org/groups/pleiades/items/C88MK99P>,
-        <https://www.zotero.org/groups/pleiades/items/HSGNAEBR>;
+        <https://www.zotero.org/groups/pleiades/items/C88MK99P>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/389338583>;
     owl:sameAs <http://pleiades.stoa.org/places/736952>;
     skos:altLabel "Λαβύρινθος"@grc;
@@ -118851,6 +118872,27 @@
     pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/cemetery>;
     pleiades:hasLocation <https://pleiades.stoa.org/places/qidfa-1> .
 
+<https://pleiades.stoa.org/places/753895542> a <http://www.w3.org/2004/02/skos/core#Concept>,
+        <https://pleiades.stoa.org/places/vocab#Place>;
+    dcterms:bibliographicCitation "ToposText Galerian Palace (Thessaloniki)",
+        "Wikidata Galerius palace (Q3891634)";
+    dcterms:contributor <https://pleiades.stoa.org/author/bkiesling>;
+    dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
+    dcterms:description "Remains of a palatial villa complex in Thessaloniki associated with Galerius.";
+    dcterms:modified "2026-11-06T14:10:25-05:00";
+    dcterms:title "Palace of Galerius";
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q3891634>;
+    cito:citesForInformation <https://topostext.org/place/406229BPGa>;
+    rdfs:seeAlso <https://pleiades.stoa.org/places/491741>;
+    owl:sameAs <http://pleiades.stoa.org/places/753895542>;
+    geo:lat 40.6302171155;
+    geo:long 22.9492731505;
+    skos:inScheme <https://pleiades.stoa.org/places>;
+    prov:wasDerivedFrom [ rdfs:label "Pleiades" ];
+    pleiades:hasFeatureType <https://pleiades.stoa.org/vocabularies/archaeological-site>,
+        <https://pleiades.stoa.org/vocabularies/villa>;
+    pleiades:hasLocation <https://pleiades.stoa.org/places/osm-location-of-roman-villa-of-galerius> .
+
 <https://pleiades.stoa.org/places/753898782%23this> a <http://geovocab.org/spatial#Feature>;
     rdfs:label "Achaemenid empire";
     spatial:C <https://pleiades.stoa.org/places/501325%23this>,
@@ -119999,14 +120041,18 @@
 
 <https://pleiades.stoa.org/places/756525877> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "Paus. (Spiro: Perseus) 1.1.4",
+    dcterms:bibliographicCitation "MANTO 11298001: the Altar of the Hero of the Stern (Phaleron)",
+        "Paus. (Spiro: Perseus) 1.1.4",
         "Wikidata Altar of Androgeos, son of Minos, Phaleron (Q124644553)";
+    dcterms:contributor <https://pleiades.stoa.org/author/ghawes>,
+        <https://pleiades.stoa.org/author/rssmith>;
     dcterms:creator <https://pleiades.stoa.org/author/jbecker>;
-    dcterms:description "The Altar of Androgeos, son of Minos, at Phaleron is described by Pausanias.";
-    dcterms:modified "2025-01-16T11:34:34-05:00";
+    dcterms:description "Pausanias describes the Altar of Androgeos, son of Minos, at Phaleron.";
+    dcterms:modified "2026-11-01T19:50:07-05:00";
     dcterms:title "Altar of Androgeos";
     cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.4>;
-    cito:citesAsRelated <https://www.wikidata.org/wiki/Q124644553>;
+    cito:citesAsRelated <https://resource.manto.unh.edu/11298001>,
+        <https://www.wikidata.org/wiki/Q124644553>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/580072>;
     owl:sameAs <http://pleiades.stoa.org/places/756525877>;
     skos:altLabel "Ἀνδρόγεω βωμὸς τοῦ Μίνω"@grc;
@@ -140209,6 +140255,7 @@
         <https://pleiades.stoa.org/places/vocab#Place>;
     dcterms:bibliographicCitation "BAtlas 80 E1 Myos Hormos?",
         "Bülow-Jacobsen 1994 ",
+        "MANTO 11310410: the Harbor of Aphrodite (Red Sea)",
         "New Pauly Myos Hormos",
         "Peacock 1993 ",
         "Str. (Meineke: Perseus) 16.4.24",
@@ -140217,7 +140264,8 @@
         "Whitcomb 1982 ",
         "Whitcomb 1996 ",
         "Wikidata Myos Hormos (Q1956723)",
-        "Wikipedia (English) Myos Hormos";
+        "Wikipedia (English) Myos Hormos",
+        "vici.org 13339";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Jen Thum" ],
         [ a <http://xmlns.com/foaf/0.1/Person>;
@@ -140228,7 +140276,9 @@
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/adamp>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Quseir el-Qadim";
@@ -140236,13 +140286,15 @@
         <http://viaf.org/viaf/7512162>,
         <https://pleiades.stoa.org/author/keenan-j>;
     dcterms:description "Myos Hormos was a port on the Red Sea built by the Ptolemies in the third century BC.";
-    dcterms:modified "2025-02-14T11:50:37-05:00";
+    dcterms:modified "2026-11-01T10:38:25-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=settlement",
         "dare:major=0";
     dcterms:title "Myos Hormos?";
     cito:citesAsEvidence <http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:16.4.24>;
     cito:citesAsRelated <http://www.trismegistos.org/place/3156>,
+        <https://resource.manto.unh.edu/11310410>,
+        <https://vici.org/vici/13339>,
         <https://www.wikidata.org/wiki/Q1956723>;
     cito:citesForInformation <http://www.encquran.brill.nl/entries/brill-s-new-pauly/myos-hormos-e814220?s.num=11>,
         <http://www.worldcat.org/oclc/43970336>,
@@ -204225,7 +204277,7 @@
     dcterms:bibliographicCitation "OSM Node 5062456966";
     cito:citesAsDataSource <http://www.openstreetmap.org/browse/node/5062456966>;
     owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-buto>;
-    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 5062456966, version 2, osm:changeset=51486619, 2017-08-27T16:38:23Z)" ];
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Node 5062456966, version 4, osm:changeset=142592171, 2023-10-14T20:46:18Z)" ];
     pleiades:during <https://pleiades.stoa.org/vocabularies/archaic>,
         <https://pleiades.stoa.org/vocabularies/classical>,
         <https://pleiades.stoa.org/vocabularies/early-dynastic-egypt>,
@@ -207510,6 +207562,17 @@
         <https://pleiades.stoa.org/vocabularies/third-ce>;
     pleiades:end_date 640;
     pleiades:start_date 200 .
+
+<https://pleiades.stoa.org/places/osm-location-of-roman-villa-of-galerius> a <https://pleiades.stoa.org/places/vocab#Location>;
+    osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[22.9496258, 40.6297739], [22.9498223, 40.6299776], [22.9500426, 40.6303614], [22.9493036, 40.630763], [22.9486872, 40.6303564], [22.9484432, 40.6301122], [22.9485284, 40.630013], [22.9485597, 40.6299793], [22.948744, 40.6298821], [22.9496258, 40.6297739]]]}";
+    osgeo:asWKT "POLYGON ((22.9496257999999997 40.6297739000000036, 22.9498223000000010 40.6299775999999966, 22.9500425999999997 40.6303613999999982, 22.9493036000000004 40.6307630000000017, 22.9486871999999984 40.6303563999999966, 22.9484431999999998 40.6301121999999992, 22.9485284000000007 40.6300129999999982, 22.9485597000000006 40.6299793000000022, 22.9487440000000014 40.6298821000000032, 22.9496257999999997 40.6297739000000036))";
+    dcterms:bibliographicCitation "OSM Way 14788577";
+    cito:citesAsDataSource <https://www.openstreetmap.org/browse/way/14788577>;
+    owl:sameAs <http://pleiades.stoa.org/places/osm-location-of-roman-villa-of-galerius>;
+    prov:wasDerivedFrom [ rdfs:label "OpenStreetMap (Way 14788577, version 15, osm:changeset=125232325, 2022-08-22T15:18:44Z)" ];
+    pleiades:during <https://pleiades.stoa.org/vocabularies/fourth-ce>;
+    pleiades:end_date 399;
+    pleiades:start_date 300 .
 
 <https://pleiades.stoa.org/places/osm-location-of-rosetta-branch-river-course> a <https://pleiades.stoa.org/places/vocab#Location>;
     osgeo:asGeoJSON "{\"type\": \"Polygon\", \"coordinates\": [[[31.1418951, 30.1711573], [30.7605278, 30.9922889], [30.7232022, 31.0667751], [30.5197191, 31.3273197], [30.5183244, 31.328951], [30.4234416, 31.4361073], [30.4213483, 31.4377623], [30.418117, 31.4391723], [30.3712787, 31.4589543], [30.8203122, 30.3386853], [30.8221672, 30.3356489], [30.8251737, 30.3324467], [30.8279148, 30.330229], [30.9887194, 30.2080479], [30.9911656, 30.2064346], [30.9941749, 30.2050482], [31.0103595, 30.1979595], [31.0118937, 30.1974217], [31.1418951, 30.1711573]]]}";
@@ -225947,7 +226010,8 @@
         "TP (Talbert: CUP) 9B3 (Talbert 2427)",
         "ToposText Tamassos (Cyprus)",
         "Wikidata Tamassos (Q1720688)",
-        "Wikipedia (English) Tamassos";
+        "Wikipedia (English) Tamassos",
+        "vici.org 3385: Tamassos";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
@@ -225961,7 +226025,7 @@
     dcterms:coverage "SE Politiko";
     dcterms:creator <http://viaf.org/viaf/135024>;
     dcterms:description "An ancient place, cited: BAtlas 72 C2 Tamassos";
-    dcterms:modified "2026-05-27T14:14:12-04:00";
+    dcterms:modified "2026-11-07T10:43:58-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -225973,6 +226037,7 @@
         <https://darmc.harvard.edu/>,
         <https://resource.manto.unh.edu/11300419>,
         <https://tp-online.ku.de/trefferanzeige_en.php?id=1548>,
+        <https://vici.org/vici/3385>,
         <https://www.geonames.org/16148/tamassos.html>,
         <https://www.wikidata.org/wiki/Q1720688>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0006%253Aalphabetic+letter%253DT%253Aentry+group%253D1%253Aentry%253Dtamassos>,
@@ -226274,8 +226339,8 @@
     dcterms:coverage "Soloi";
     dcterms:creator <http://viaf.org/viaf/135024>;
     dcterms:description "An ancient place, cited: BAtlas 72 B2 unnamed aqueduct (Soloi)";
-    dcterms:modified "2024-12-12T13:54:14-05:00";
-    dcterms:title "Untitled";
+    dcterms:modified "2026-11-07T20:54:30-05:00";
+    dcterms:title "Unnamed aqueduct (Soloi)";
     cito:citesForInformation <http://www.worldcat.org/oclc/43970336>,
         <https://www.degruyter.com/document/doi/10.1515/9783110860429-015/html?lang=en>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/707624>;
@@ -226471,14 +226536,17 @@
 
 <https://pleiades.stoa.org/places/7162996> a <http://www.w3.org/2004/02/skos/core#Concept>,
         <https://pleiades.stoa.org/places/vocab#Place>;
-    dcterms:bibliographicCitation "Porter 1972 pp. 527-530";
-    dcterms:contributor <https://pleiades.stoa.org/author/thomase>;
+    dcterms:bibliographicCitation "Porter 1972 pp. 527-530",
+        "Wikidata Qasr el-Aguz (Q3517626)";
+    dcterms:contributor <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/thomase>;
     dcterms:creator <https://pleiades.stoa.org/author/nsouchon>;
     dcterms:description "Site in Luxor (Egypt) associated with a Ptolemaic temple dedicated to the god Thoth.";
-    dcterms:modified "2025-03-12T16:45:13-04:00";
+    dcterms:modified "2026-11-01T17:34:42-05:00";
     dcterms:subject "Temple";
     dcterms:title "Qasr el-Aguz";
     cito:citesAsDataSource <https://worldcat.org/title/10954935>;
+    cito:citesAsRelated <https://www.wikidata.org/wiki/Q3517626>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/786017>;
     owl:sameAs <http://pleiades.stoa.org/places/7162996>;
     geo:lat 25.7170215745;
@@ -227367,34 +227435,45 @@
         "DARE 21702",
         "DARMC 752 and 34891",
         "DARMC 753",
+        "MANTO 11310437: Boutos (Egypt)",
+        "PAThs Atlas 40: Buto",
         "Porter 1968  p. 45",
+        "Str. (Meineke: Perseus) 17.1.16",
         "TM Geo 3685: Bouto (Tell el-Fara'un)",
+        "ToposText Bouto/Buto (Egypt)",
         "Wikidata Buto (Q739278)",
         "Wikipedia (English) Buto";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
+        <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/nsouchon>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "Kom el-Farain";
     dcterms:creator <http://viaf.org/viaf/19689588>;
     dcterms:description "Modern Tell/Kawm el-Fara’in, located in Egypt's Nile delta. The site was a locus of human settlement and activity from the prehistoric period through the early Islamic period.";
-    dcterms:modified "2025-04-01T06:24:22-04:00";
+    dcterms:modified "2026-11-02T16:06:56-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
     dcterms:title "Bouto";
     cito:citesAsRelated <http://dare.ht.lu.se/>,
         <http://www.trismegistos.org/place/3685>,
+        <https://atlas.paths-erc.eu/places/40>,
         <https://darmc.harvard.edu/>,
+        <https://resource.manto.unh.edu/11310437>,
         <https://www.wikidata.org/wiki/Q739278>,
         <https://www.zotero.org/groups/pleiades/items/9UD9W75C>;
-    cito:citesForInformation <http://www.griffith.ox.ac.uk/topbib/pdf/pm4.pdf>,
+    cito:citesForInformation <http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1>,
+        <http://www.griffith.ox.ac.uk/topbib/pdf/pm4.pdf>,
         <http://www.worldcat.org/oclc/43970336>,
         <https://en.wikipedia.org/wiki/Buto>,
         <https://journals.openedition.org/baefe/7945?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US>,
+        <https://topostext.org/place/312307UBou>,
         <https://www.zotero.org/groups/pleiades/items/9NUERM7D>;
     rdfs:seeAlso <https://pleiades.stoa.org/places/727093>;
     owl:sameAs <http://pleiades.stoa.org/places/727094>;
@@ -234060,6 +234139,7 @@
         "ItAnt (Cuntz) 164,6 Siene",
         "ItMiller 861",
         "KU TP Database (Rathmann) 2815: Syene",
+        "MANTO 11310919: Syene (Egypt)",
         "PAThsAtl 128",
         "PECS (Perseus) SYÊNÊ (Aswan) and ELEPHANTINE Egypt",
         "Smith 1854 (Perseus) SYÉNE",
@@ -234067,7 +234147,8 @@
         "TP (Talbert: CUP) 8C1 (Talbert 391)",
         "ToposText Syene (Egypt)",
         "Wikidata Aswan (Q29888)",
-        "Wikipedia (English) Aswan";
+        "Wikipedia (English) Aswan",
+        "vici.org 3382: Syene";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Jen Thum" ],
         [ a <http://xmlns.com/foaf/0.1/Person>;
@@ -234087,8 +234168,10 @@
         <https://pleiades.stoa.org/author/ekansa>,
         <https://pleiades.stoa.org/author/enesy>,
         <https://pleiades.stoa.org/author/fdeblauwe>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "settlement and quarry cluster at Aswan";
@@ -234096,7 +234179,7 @@
         <http://viaf.org/viaf/7512162>,
         <https://pleiades.stoa.org/author/keenan-j>;
     dcterms:description "The ancient city of Swenett in Egypt, called Syene by the Greeks.";
-    dcterms:modified "2025-11-15T10:24:18-05:00";
+    dcterms:modified "2026-11-07T10:31:59-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
@@ -234106,7 +234189,9 @@
         <https://atlas.paths-erc.eu/places/128>,
         <https://edh.ub.uni-heidelberg.de/edh/geographie/G000154>,
         <https://en.wikipedia.org/wiki/Aswan>,
+        <https://resource.manto.unh.edu/11310919>,
         <https://tp-online.ku.de/trefferanzeige_en.php?id=2815>,
+        <https://vici.org/vici/3382>,
         <https://www.wikidata.org/wiki/Q29888>;
     cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus%253Atext%253A1999.04.0064%253Aentry%253Dsyene-geo>,
         <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=syene>,
@@ -238940,30 +239025,48 @@
     dcterms:bibliographicCitation "",
         "Al-Radi 1983 82-83",
         "BAtlas 72 B2 Soloi/Aipeia?",
+        "ItMiller 828-29",
+        "KU TP Database (Rathmann) 1543: Soloae",
         "KlPauly Soloi",
+        "MANTO 11311741: Soloi (Cyprus)",
         "OEANE Soloi",
+        "RE Soloi 2 (Eugen Oberhummer)",
+        "Str. (Meineke: Perseus) 14.6.3",
         "TP (Talbert: CUP) 9B3 (Talbert 2422)",
         "ToposText Soloi (Cyprus)",
-        "Wikipedia (English) Soli, Cyprus";
+        "Wikidata Soli (Q1757296)",
+        "Wikipedia (English) Soli, Cyprus",
+        "nomisma.org Soli",
+        "vici.org 2359: Soloi";
     dcterms:contributor <http://darmc.harvard.edu>,
         <http://viaf.org/viaf/59162760>,
         <https://pleiades.stoa.org/author/bkiesling>,
+        <https://pleiades.stoa.org/author/ghawes>,
         <https://pleiades.stoa.org/author/jahlfeldt>,
         <https://pleiades.stoa.org/author/jbecker>,
         <https://pleiades.stoa.org/author/jnovotny>,
+        <https://pleiades.stoa.org/author/rssmith>,
         <https://pleiades.stoa.org/author/sgillies>,
         <https://pleiades.stoa.org/author/thomase>;
     dcterms:coverage "SW Morphou CYX";
     dcterms:creator <http://viaf.org/viaf/135024>;
     dcterms:description "An ancient place, cited: BAtlas 72 B2 Soloi/Aipeia?";
-    dcterms:modified "2020-07-29T10:25:37-04:00";
+    dcterms:modified "2026-11-07T21:00:11-05:00";
     dcterms:subject "dare:ancient=1",
         "dare:feature=major settlement",
         "dare:major=1";
     dcterms:title "Soloi/Aipeia?";
     cito:citesAsEvidence <http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2422.html>;
-    cito:citesForInformation <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=soloi-1>,
+    cito:citesAsRelated <http://nomisma.org/id/soli_cyprus>,
+        <https://resource.manto.unh.edu/11311741>,
+        <https://tp-online.ku.de/trefferanzeige_en.php?id=1543>,
+        <https://vici.org/vici/2359>,
+        <https://www.wikidata.org/wiki/Q1757296>;
+    cito:citesForInformation <http://data.perseus.org/texts/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1>,
+        <http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=soloi-1>,
         <http://www.worldcat.org/oclc/43970336>,
+        <http://www.worldcat.org/oclc/6684340>,
+        <https://de.wikisource.org/wiki/RE:Soloi_2%23III_A,1>,
         <https://en.wikipedia.org/wiki/Soli,_Cyprus>,
         <https://topostext.org/place/351328PSol>,
         <https://www.oxfordreference.com/view/10.1093/acref/9780195065121.001.0001/acref-9780195065121-e-996?rskey=9Oequ1&result=981>,
@@ -242328,7 +242431,8 @@
         "Wikidata Luxor (Q130514)",
         "Wikidata Thebes (Q101583)",
         "Wikipedia (English) Luxor",
-        "Wikipedia (English) Thebes, Egypt";
+        "Wikipedia (English) Thebes, Egypt",
+        "vici.org 3476";
     dcterms:contributor [ a <http://xmlns.com/foaf/0.1/Person>;
             foaf:name "Jen Thum" ],
         [ a <http://xmlns.com/foaf/0.1/Person>;
@@ -242360,7 +242464,7 @@
         <http://viaf.org/viaf/7512162>,
         <https://pleiades.stoa.org/author/keenan-j>;
     dcterms:description "Diospolis Magna/Thebai was known in ancient Egypt as Waset, \"City of the Sceptre\". The site was designated as a UNESCO World Heritage Site in 1979.";
-    dcterms:modified "2026-04-07T09:32:13-04:00";
+    dcterms:modified "2026-11-01T17:32:08-05:00";
     dcterms:subject "UWHS",
         "dare:ancient=1",
         "dare:feature=major settlement",
@@ -242376,6 +242480,7 @@
         <https://en.wikipedia.org/wiki/Luxor>,
         <https://resource.manto.unh.edu/9821352>,
         <https://tp-online.ku.de/trefferanzeige_en.php?id=2819>,
+        <https://vici.org/vici/3476>,
         <https://www.wikidata.org/wiki/Q101583>,
         <https://www.wikidata.org/wiki/Q130514>;
     cito:citesForInformation <http://whc.unesco.org/en/list/87>,
@@ -244025,8 +244130,8 @@
         [ rdfs:label "OpenStreetMap (Node 166863567, version 2, osm:changeset=4092196, 2010-03-10T18:53:40Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2345995603, version 1, osm:changeset=16565412, 2013-06-15T16:39:19Z)" ],
         [ rdfs:label "OpenStreetMap (Node 2598895015, version 4, osm:changeset=71590397, 2019-06-25T08:29:22Z)" ],
-        [ rdfs:label "OpenStreetMap (Way 324947508, version 1, osm:changeset=28459912, 2015-01-28T08:35:29Z)" ],
         [ rdfs:label "OpenStreetMap (Way 51108194, version 5, osm:changeset=140683730, 2023-09-01T14:53:57Z)" ],
+        [ rdfs:label "OpenStreetMap (Way 324947508, version 1, osm:changeset=28459912, 2015-01-28T08:35:29Z)" ],
         [ rdfs:label "OpenStreetMap (Node 3254126542, version 1, osm:changeset=27715726, 2014-12-26T19:03:13Z)" ],
         [ rdfs:label "OpenStreetMap (Way 268496962, version 4, osm:changeset=132756226, 2023-02-19T16:43:35Z)" ],
         [ rdfs:label "OpenStreetMap (Way 1075925392, version 1, osm:changeset=123212836, 2022-07-05T01:55:33Z)" ],
@@ -245383,8 +245488,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 77 Bourdonos, Mon." ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Chairephanous" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Damaratou" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 77 Demetriou" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 B3 Satrachos? fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 77 Demetriou" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Diodorou" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Dioskorou" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Ekous" ],
@@ -245480,8 +245585,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tasris" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tekerkethothis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tellaeos" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 77 Tertembythis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 D3 Tetios? fl." ],
+        [ rdfs:label "Barrington Atlas: BAtlas 77 Tertembythis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tertesmonis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tertonkano" ],
         [ rdfs:label "Barrington Atlas: BAtlas 77 Tertonpegmoeos" ],
@@ -245615,8 +245720,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 80  Ombos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Ophieion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pais" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 80  Pakenis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Alexandreia" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 80  Pakenis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pakerkeesis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pampanis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Papa" ],
@@ -245624,8 +245729,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 80  Peinpoar" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Peinsinoi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pentakomia" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 80  Peptaucha" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Asine" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 80  Peptaucha" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Philonos diorux" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Philonos diorux" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Phmeu" ],
@@ -245635,8 +245740,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pinpoor" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pion" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pmouchis" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 80  Poanemouneos Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Akra" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 80  Poanemouneos Ins." ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Poenpois" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Pois" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Poonamounis Ins." ],
@@ -245646,8 +245751,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 80  Psebtomit" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Psiathous" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Sykaminos" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 80  Tanyaithis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Akragas" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 80  Tanyaithis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Telonos" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Thynis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 80  Tmoeris Ins." ],
@@ -245707,8 +245812,8 @@
         [ rdfs:label "Barrington Atlas: BAtlas 72 *Solios" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Stortyke" ],
         [ rdfs:label "Barrington Atlas: BAtlas 81 D1 Wadi el-Hudi" ],
-        [ rdfs:label "Barrington Atlas: BAtlas 81 D2 Wadi el-Hudi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Tegessos" ],
+        [ rdfs:label "Barrington Atlas: BAtlas 81 D2 Wadi el-Hudi" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Tembros" ],
         [ rdfs:label "Barrington Atlas: BAtlas 72 Tiberioupolis" ],
         [ rdfs:label "Barrington Atlas: BAtlas 81" ],
