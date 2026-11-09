@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2410 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+2412 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -16038,6 +16038,20 @@
 
 ### alignments:
  - [Arasaxa](https://pleiades.stoa.org/places/628928)
+
+
+## 9B3 (Talbert 2325)
+[https://web.archive.org/web/20190612065600/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2325.html](https://web.archive.org/web/20190612065600/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2325.html)  
+
+### alignments:
+ - [Koropissos](https://pleiades.stoa.org/places/652347)
+
+
+## 9B3 (Talbert 2326)
+[https://web.archive.org/web/20190614212654/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2326.html](https://web.archive.org/web/20190614212654/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2326.html)  
+
+### alignments:
+ - [In Monte](https://pleiades.stoa.org/places/652342)
 
 
 ## 9B3 (Talbert 2337)

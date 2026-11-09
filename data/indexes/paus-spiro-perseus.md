@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-576 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+577 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -369,6 +369,7 @@
  - [Amnisos](https://pleiades.stoa.org/places/524143100)
  - [Antikyra](https://pleiades.stoa.org/places/540642)
  - [Apamea/Kelainai/Kibotos](https://pleiades.stoa.org/places/638751)
+ - [Arethusae Fons](https://pleiades.stoa.org/places/462101)
  - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
  - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
  - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
@@ -379,11 +380,13 @@
  - [Hypsoi](https://pleiades.stoa.org/places/573258)
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
  - [Kalamai](https://pleiades.stoa.org/places/570323)
+ - [Koddinou Petra](https://pleiades.stoa.org/places/550653)
  - [Kyrtones](https://pleiades.stoa.org/places/540898)
  - [Makaria](https://pleiades.stoa.org/places/580018)
  - [Marmaridai](https://pleiades.stoa.org/places/716596)
  - [Medeon](https://pleiades.stoa.org/places/540939)
  - [Myndos](https://pleiades.stoa.org/places/599811)
+ - [Naulochon/Smyrna/Palaia Smyrna](https://pleiades.stoa.org/places/550771)
  - [Nomia (mountain)](https://pleiades.stoa.org/places/570509)
  - [Nonakris](https://pleiades.stoa.org/places/570510)
  - [Oenotri](https://pleiades.stoa.org/places/452395)
@@ -393,6 +396,8 @@
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
  - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
  - [Sellasia](https://pleiades.stoa.org/places/570662)
+ - [Stektorion](https://pleiades.stoa.org/places/609535)
+ - [Stenykleros (plain)](https://pleiades.stoa.org/places/570690)
  - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
  - [Tenerikon Pedion](https://pleiades.stoa.org/places/541132)
  - [Teuthis](https://pleiades.stoa.org/places/570713)
@@ -725,6 +730,13 @@
 
 ### alignments:
  - [Andros (island)](https://pleiades.stoa.org/places/589693)
+
+
+## 10.16.5
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.16.5](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.16.5)  
+
+### alignments:
+ - [Tarra](https://pleiades.stoa.org/places/590072)
 
 
 ## 10.17.2
@@ -1692,6 +1704,7 @@
 
 ### alignments:
  - [Messeis](https://pleiades.stoa.org/places/573374)
+ - [Polydeukia](https://pleiades.stoa.org/places/573472)
 
 
 ## 3.20.2
@@ -3603,7 +3616,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.35.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.35.8)  
 
 ### alignments:
- - [Krounoi](https://pleiades.stoa.org/places/573313)
+ - [Krounoi (Arcadia)](https://pleiades.stoa.org/places/573313)
 
 
 ## 8.35.9

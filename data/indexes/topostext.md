@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5196 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+5201 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -11550,6 +11550,13 @@
  - [Sergetion/Hergetium/Ergetium](https://pleiades.stoa.org/places/465990)
 
 
+## Ericusa (Lipari)
+[https://topostext.org/place/385144IEri](https://topostext.org/place/385144IEri)  
+
+### alignments:
+ - [Erikodes/Ericusa (island)](https://pleiades.stoa.org/places/462199)
+
+
 ## Eridanos R. (Athens)
 [https://topostext.org/place/380237WEri](https://topostext.org/place/380237WEri)  
 
@@ -12476,6 +12483,13 @@
  - [Galepsos (Thrace)](https://pleiades.stoa.org/places/501421)
 
 
+## Galerian Palace (Thessaloniki)
+[https://topostext.org/place/406229BPGa](https://topostext.org/place/406229BPGa)  
+
+### alignments:
+ - [Palace of Galerius](https://pleiades.stoa.org/places/753895542)
+
+
 ## Galessos (Syros) Galissas - Γαλήσσιος
 [https://topostext.org/place/374249UGal](https://topostext.org/place/374249UGal)  
 
@@ -13135,7 +13149,7 @@
  - [Gournia](https://pleiades.stoa.org/places/771100776)
 
 
-## Gradetsi site (Ioannina)  Megali Gotitsa - Γραδέτσι
+## Gradetsi site (Ioannina) Megali Gotitsa - Γραδέτσι
 [https://topostext.org/place/397211XGra](https://topostext.org/place/397211XGra)  
 
 ### alignments:
@@ -24652,6 +24666,13 @@
  - [Pactolus (river)](https://pleiades.stoa.org/places/550794)
 
 
+## Padyandus (Cappadocia)
+[https://topostext.org/place/374349UPad](https://topostext.org/place/374349UPad)  
+
+### alignments:
+ - [Podandus](https://pleiades.stoa.org/places/648742)
+
+
 ## Paeligni tribe (Italy) 68 L'Aquila - Παιλιγνοί
 [https://topostext.org/place/421139RPae](https://topostext.org/place/421139RPae)  
 
@@ -31627,6 +31648,13 @@
  - [Soulia](https://pleiades.stoa.org/places/590056)
 
 
+## Soumetia (Arkadia)
+[https://topostext.org/place/375223USou](https://topostext.org/place/375223USou)  
+
+### alignments:
+ - [Soumateon/Soumetia](https://pleiades.stoa.org/places/573529)
+
+
 ## Sounion Athena T (Attica)
 [https://topostext.org/place/377240SAth](https://topostext.org/place/377240SAth)  
 
@@ -31899,6 +31927,13 @@
 
 ### alignments:
  - [Steiria](https://pleiades.stoa.org/places/580110)
+
+
+## Stektorion (Phrygia)
+[https://topostext.org/place/383301USte](https://topostext.org/place/383301USte)  
+
+### alignments:
+ - [Stektorion](https://pleiades.stoa.org/places/609535)
 
 
 ## Steni Apollo sanct. (Euboea)  Steni - Απόλλων
@@ -32403,6 +32438,7 @@
 [https://topostext.org/place/364225STai](https://topostext.org/place/364225STai)  
 
 ### alignments:
+ - [Sanctuary of Poseidon at Tainaron](https://pleiades.stoa.org/places/469183604)
  - [Tainaron (settlement)](https://pleiades.stoa.org/places/570702)
 
 
@@ -32999,7 +33035,7 @@
 [https://topostext.org/place/398261ITen](https://topostext.org/place/398261ITen)  
 
 ### alignments:
- - [Tenedos](https://pleiades.stoa.org/places/550911)
+ - [Tenedos (settlement)](https://pleiades.stoa.org/places/550911)
 
 
 ## Teneric Plain (Boeotia)

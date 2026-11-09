@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5202 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+5207 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -43,13 +43,6 @@
 
 ### alignments:
  - [Ossa](https://pleiades.stoa.org/places/897819)
-
-
-## 2133: Side (Selimiye)
-[http://www.trismegistos.org/place/2133](http://www.trismegistos.org/place/2133)  
-
-### alignments:
- - [Side](https://pleiades.stoa.org/places/639105)
 
 
 ## 24534
@@ -288,13 +281,6 @@
 
 ### alignments:
  - [Tempe](https://pleiades.stoa.org/places/541131)
-
-
-## Geo 12124: Same
-[https://www.trismegistos.org/place/12124](https://www.trismegistos.org/place/12124)  
-
-### alignments:
- - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
 
 
 ## Geo 12159: Lychnidos (Ohrid)
@@ -1275,13 +1261,6 @@
  - [Skiathos (settlement)](https://pleiades.stoa.org/places/541104)
 
 
-## Geo 33249: Skyros
-[https://www.trismegistos.org/place/33249](https://www.trismegistos.org/place/33249)  
-
-### alignments:
- - [Skyros (settlement)](https://pleiades.stoa.org/places/541108)
-
-
 ## Geo 33250: Kantanos
 [https://www.trismegistos.org/place/33250](https://www.trismegistos.org/place/33250)  
 
@@ -2043,13 +2022,6 @@
 
 ### alignments:
  - [‘Vindenis’](https://pleiades.stoa.org/places/207551)
-
-
-## Geo 41382: Naulochon (Bayraklı)
-[https://www.trismegistos.org/place/41382](https://www.trismegistos.org/place/41382)  
-
-### alignments:
- - [Naulochon/Smyrna/Palaia Smyrna](https://pleiades.stoa.org/places/550771)
 
 
 ## Geo 41416: Athenai (Pazar)
@@ -3943,6 +3915,13 @@
 
 ### alignments:
  - [Pydna/Kitron](https://pleiades.stoa.org/places/491704)
+
+
+## GEO ID 12124: Same
+[https://www.trismegistos.org/place/12124](https://www.trismegistos.org/place/12124)  
+
+### alignments:
+ - [Same/Samos (settlement)](https://pleiades.stoa.org/places/531093)
 
 
 ## GEO ID 12125: Thaumakoi (Domokos)
@@ -8032,6 +8011,13 @@
  - [Saittai](https://pleiades.stoa.org/places/609517)
 
 
+## GEO ID 16254
+[https://www.trismegistos.org/place/16254](https://www.trismegistos.org/place/16254)  
+
+### alignments:
+ - [Stektorion](https://pleiades.stoa.org/places/609535)
+
+
 ## GEO ID 16256: Blaundos (Sülmenli)
 [https://www.trismegistos.org/place/16256](https://www.trismegistos.org/place/16256)  
 
@@ -11064,6 +11050,13 @@
  - [Lexovii](https://pleiades.stoa.org/places/109110)
 
 
+## GEO ID 2072
+[http://www.trismegistos.org/place/2072](http://www.trismegistos.org/place/2072)  
+
+### alignments:
+ - [Sais](https://pleiades.stoa.org/places/727217)
+
+
 ## GEO ID 20737: Treveri
 [http://www.trismegistos.org/place/20737](http://www.trismegistos.org/place/20737)  
 
@@ -11211,6 +11204,13 @@
  - [Gaujac](https://pleiades.stoa.org/places/148092)
 
 
+## GEO ID 2112
+[http://www.trismegistos.org/place/2112](http://www.trismegistos.org/place/2112)  
+
+### alignments:
+ - [Selge](https://pleiades.stoa.org/places/639100)
+
+
 ## GEO ID 2114: Selymbria (Silivri)
 [https://www.trismegistos.org/place/2114](https://www.trismegistos.org/place/2114)  
 
@@ -11272,6 +11272,13 @@
 
 ### alignments:
  - [Seoueriane Ousia](https://pleiades.stoa.org/places/741601)
+
+
+## GEO ID 2133: Side (Selimiye)
+[http://www.trismegistos.org/place/2133](http://www.trismegistos.org/place/2133)  
+
+### alignments:
+ - [Side](https://pleiades.stoa.org/places/639105)
 
 
 ## GEO ID 21347: Illiberis (Elne)
@@ -18971,6 +18978,13 @@
  - [Scyrus (island)](https://pleiades.stoa.org/places/541093)
 
 
+## Geo ID 33249: Skyros
+[https://www.trismegistos.org/place/33249](https://www.trismegistos.org/place/33249)  
+
+### alignments:
+ - [Skyros (settlement)](https://pleiades.stoa.org/places/541108)
+
+
 ## GEO ID 3324: Biriciana (Weissenburg)
 [https://www.trismegistos.org/place/3324](https://www.trismegistos.org/place/3324)  
 
@@ -24916,6 +24930,13 @@
  - [Eukarpia](https://pleiades.stoa.org/places/609378)
 
 
+## GEO ID 41382: Naulochon (Bayraklı)
+[https://www.trismegistos.org/place/41382](https://www.trismegistos.org/place/41382)  
+
+### alignments:
+ - [Naulochon/Smyrna/Palaia Smyrna](https://pleiades.stoa.org/places/550771)
+
+
 ## GEO ID 41384: Garzoubanthon (Kurzuvet)
 [https://www.trismegistos.org/place/41384](https://www.trismegistos.org/place/41384)  
 
@@ -28165,6 +28186,13 @@
  - [Heraclea/Heracliotes](https://pleiades.stoa.org/places/465906)
 
 
+## GEO ID 42514
+[http://www.trismegistos.org/place/42514](http://www.trismegistos.org/place/42514)  
+
+### alignments:
+ - [Strongyle (island)](https://pleiades.stoa.org/places/452455)
+
+
 ## GEO ID 42517: Sallentinum Promuntorium (Punta Meliso)
 [http://www.trismegistos.org/place/42517](http://www.trismegistos.org/place/42517)  
 
@@ -28835,6 +28863,13 @@
 
 ### alignments:
  - [Berenikis Aigialou](https://pleiades.stoa.org/places/741442)
+
+
+## GEO ID 4303
+[http://www.trismegistos.org/place/4303](http://www.trismegistos.org/place/4303)  
+
+### alignments:
+ - [Sarepta/Makra Kome](https://pleiades.stoa.org/places/678374)
 
 
 ## GEO ID 43095: Tempagnano di Lunato

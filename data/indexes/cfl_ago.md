@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-500 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+502 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2071,6 +2071,13 @@
  - [Phrixa(i)](https://pleiades.stoa.org/places/570609)
 
 
+## Toponyme 1909: Salmoni, Koukoura-Δ.Δ.Σαλμώνης
+[https://chronique.efa.gr/?r=topo_public&id=1909](https://chronique.efa.gr/?r=topo_public&id=1909)  
+
+### alignments:
+ - [Salmone](https://pleiades.stoa.org/places/570652)
+
+
 ## Toponyme 19241: Glyfa
 [https://chronique.efa.gr/?kroute=topo_public&id=19241](https://chronique.efa.gr/?kroute=topo_public&id=19241)  
 
@@ -2948,6 +2955,13 @@
 
 ### alignments:
  - [Naxos (settlement)](https://pleiades.stoa.org/places/599821)
+
+
+## Toponyme 41650: Tenos, Tinos, Ofiousa
+[https://chronique.efa.gr/?r=topo_public&id=41650](https://chronique.efa.gr/?r=topo_public&id=41650)  
+
+### alignments:
+ - [Tenos (island)](https://pleiades.stoa.org/places/590074)
 
 
 ## Toponyme 41660: Tinos, Tenos, Saint Nicholas

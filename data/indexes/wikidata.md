@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11635 alignments exist in _Pleiades_ place references as of 2026-11-06. The following list of alignments is grouped by zotkey.
+11668 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13707,6 +13707,13 @@
  - [House of the Ancient Hunt](https://pleiades.stoa.org/places/132276185)
 
 
+## Casa della Fontana d'Amore (Q27688402)
+[https://www.wikidata.org/wiki/Q27688402](https://www.wikidata.org/wiki/Q27688402)  
+
+### alignments:
+ - [Casa della Fontana d'Amore](https://pleiades.stoa.org/places/957496556)
+
+
 ## Casa della Gemma (Herculaneum) (Q17623921)
 [https://www.wikidata.org/wiki/Q17623921](https://www.wikidata.org/wiki/Q17623921)  
 
@@ -13782,6 +13789,13 @@
 
 ### alignments:
  - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
+
+
+## Casa di M. Epidio Sabino (Q27688379)
+[https://www.wikidata.org/wiki/Q27688379](https://www.wikidata.org/wiki/Q27688379)  
+
+### alignments:
+ - [House of M. Epidi Sabini](https://pleiades.stoa.org/places/228444379)
 
 
 ## Casa di Marco Lucrezio Fronto (Q24934597)
@@ -18298,6 +18312,13 @@
 
 ### alignments:
  - [Korone](https://pleiades.stoa.org/places/570371)
+
+
+## Coropissus (Q111526770)
+[https://www.wikidata.org/wiki/Q111526770](https://www.wikidata.org/wiki/Q111526770)  
+
+### alignments:
+ - [Koropissos](https://pleiades.stoa.org/places/652347)
 
 
 ## Corpili (Q5172357)
@@ -24074,6 +24095,13 @@
  - [Galava](https://pleiades.stoa.org/places/89191)
 
 
+## Galerius palace (Q3891634)
+[https://www.wikidata.org/wiki/Q3891634](https://www.wikidata.org/wiki/Q3891634)  
+
+### alignments:
+ - [Palace of Galerius](https://pleiades.stoa.org/places/753895542)
+
+
 ## Galeso (Q1491970)
 [https://www.wikidata.org/wiki/Q1491970](https://www.wikidata.org/wiki/Q1491970)  
 
@@ -27922,6 +27950,13 @@
  - [House of Simon the Shoemaker](https://pleiades.stoa.org/places/982727687)
 
 
+## House of the Actors (Q27070314)
+[https://www.wikidata.org/wiki/Q27070314](https://www.wikidata.org/wiki/Q27070314)  
+
+### alignments:
+ - [House of the Actors](https://pleiades.stoa.org/places/630423237)
+
+
 ## House of the Ara Maxima (Q1046582)
 [https://www.wikidata.org/wiki/Q1046582](https://www.wikidata.org/wiki/Q1046582)  
 
@@ -27989,7 +28024,7 @@
 [https://www.wikidata.org/wiki/Q27688060](https://www.wikidata.org/wiki/Q27688060)  
 
 ### alignments:
- - [House of the geometric mosaics](https://pleiades.stoa.org/places/393691694)
+ - [House of the Geometric Mosaics (VIII.2.16)](https://pleiades.stoa.org/places/393691694)
 
 
 ## House of the Golden Bracelet (Q27686571)
@@ -28137,6 +28172,13 @@
 
 ### alignments:
  - [House of Thiasus](https://pleiades.stoa.org/places/868835070)
+
+
+## House of Titus Dentatius Panthera (IX.2.16) (Q27688412)
+[https://www.wikidata.org/wiki/Q27688412](https://www.wikidata.org/wiki/Q27688412)  
+
+### alignments:
+ - [House of Titus Dentatius Panthera](https://pleiades.stoa.org/places/308961168)
 
 
 ## House of Titus Macer (Q55686163)
@@ -31516,6 +31558,13 @@
  - [Termerion (promuntory)](https://pleiades.stoa.org/places/599966)
 
 
+## Koddinou Petra (Q85774779)
+[https://www.wikidata.org/wiki/Q85774779](https://www.wikidata.org/wiki/Q85774779)  
+
+### alignments:
+ - [Koddinou Petra](https://pleiades.stoa.org/places/550653)
+
+
 ## Kodrana (Q21556405)
 [https://www.wikidata.org/wiki/Q21556405](https://www.wikidata.org/wiki/Q21556405)  
 
@@ -33139,6 +33188,13 @@
 
 ### alignments:
  - [Lapethos/Lepethis Phoinikon](https://pleiades.stoa.org/places/707555)
+
+
+## Lapithe (Q60790618)
+[https://www.wikidata.org/wiki/Q60790618](https://www.wikidata.org/wiki/Q60790618)  
+
+### alignments:
+ - [Lapithe](https://pleiades.stoa.org/places/892369425)
 
 
 ## Larak (Q3217825)
@@ -35584,6 +35640,13 @@
 
 ### alignments:
  - [Manika](https://pleiades.stoa.org/places/540932)
+
+
+## Manisa relief (Q1404385)
+[https://www.wikidata.org/wiki/Q1404385](https://www.wikidata.org/wiki/Q1404385)  
+
+### alignments:
+ - [Meter Plastena, T.](https://pleiades.stoa.org/places/550736)
 
 
 ## Mannar Island (Q426532)
@@ -42743,6 +42806,13 @@
  - [Patavium](https://pleiades.stoa.org/places/393473)
 
 
+## Padyandus (Q7124031)
+[https://www.wikidata.org/wiki/Q7124031](https://www.wikidata.org/wiki/Q7124031)  
+
+### alignments:
+ - [Podandus](https://pleiades.stoa.org/places/648742)
+
+
 ## Paedagogium (Q1227764)
 [https://www.wikidata.org/wiki/Q1227764](https://www.wikidata.org/wiki/Q1227764)  
 
@@ -42776,6 +42846,13 @@
 
 ### alignments:
  - [Poseidonia/Paestum](https://pleiades.stoa.org/places/442733)
+
+
+## Paesus (Q18286282)
+[https://www.wikidata.org/wiki/Q18286282](https://www.wikidata.org/wiki/Q18286282)  
+
+### alignments:
+ - [Paisos](https://pleiades.stoa.org/places/501544)
 
 
 ## Pagae (Q935675)
@@ -49150,13 +49227,6 @@
  - [Suhu](https://pleiades.stoa.org/places/247838452)
 
 
-## Q11950863: Tamynae
-[https://www.wikidata.org/wiki/Q11950863](https://www.wikidata.org/wiki/Q11950863)  
-
-### alignments:
- - [Tamynai](https://pleiades.stoa.org/places/541121)
-
-
 ## Q11951065
 [https://www.wikidata.org/wiki/Q11951065](https://www.wikidata.org/wiki/Q11951065)  
 
@@ -50396,13 +50466,6 @@
 
 ### alignments:
  - [Ptelea](https://pleiades.stoa.org/places/580095)
-
-
-## Q134287: Tarsus
-[https://www.wikidata.org/wiki/Q134287](https://www.wikidata.org/wiki/Q134287)  
-
-### alignments:
- - [Tarsus/Antiochia ad Cydnum](https://pleiades.stoa.org/places/648789)
 
 
 ## Q13436232: Eiresidai
@@ -54553,13 +54616,6 @@
  - [Hospitium of Hermes](https://pleiades.stoa.org/places/260329423)
 
 
-## Q27070314: House of the Actors
-[https://www.wikidata.org/wiki/Q27070314](https://www.wikidata.org/wiki/Q27070314)  
-
-### alignments:
- - [House of the Actors](https://pleiades.stoa.org/places/630423237)
-
-
 ## Q27070453
 [https://www.wikidata.org/wiki/Q27070453](https://www.wikidata.org/wiki/Q27070453)  
 
@@ -55787,13 +55843,6 @@
  - [Abini nuragic sanctuary](https://pleiades.stoa.org/places/795823945)
 
 
-## Q3475188: Scarphe
-[https://www.wikidata.org/wiki/Q3475188](https://www.wikidata.org/wiki/Q3475188)  
-
-### alignments:
- - [Skarpheia](https://pleiades.stoa.org/places/541103)
-
-
 ## Q3482023: Shibaniba
 [https://www.wikidata.org/wiki/Q3482023](https://www.wikidata.org/wiki/Q3482023)  
 
@@ -55995,13 +56044,6 @@
 
 ### alignments:
  - [tribus Romilia](https://pleiades.stoa.org/places/260329424)
-
-
-## Q3538808: Scaptia tribe
-[https://www.wikidata.org/wiki/Q3538808](https://www.wikidata.org/wiki/Q3538808)  
-
-### alignments:
- - [tribus Scaptia](https://pleiades.stoa.org/places/873367356)
 
 
 ## Q3538809: Stellatina
@@ -65030,6 +65072,7 @@
 
 ### alignments:
  - [Sal(a)pia(i)/Elpia](https://pleiades.stoa.org/places/442758)
+ - [Sal(a)pia(i)/Salinae](https://pleiades.stoa.org/places/442759)
 
 
 ## Salat Höyüğü (Q6101059)
@@ -65114,6 +65157,13 @@
 
 ### alignments:
  - [Tricomia](https://pleiades.stoa.org/places/678436)
+
+
+## Salmone (Q2214802)
+[https://www.wikidata.org/wiki/Q2214802](https://www.wikidata.org/wiki/Q2214802)  
+
+### alignments:
+ - [Salmone](https://pleiades.stoa.org/places/570652)
 
 
 ## Salmydessus (Q65051022)
@@ -65970,6 +66020,13 @@
  - [Building IV on the Athenian Acropolis](https://pleiades.stoa.org/places/747002130)
 
 
+## Sanctuary of Poseidon (Tainaron) (Q33119266)
+[https://www.wikidata.org/wiki/Q33119266](https://www.wikidata.org/wiki/Q33119266)  
+
+### alignments:
+ - [Sanctuary of Poseidon at Tainaron](https://pleiades.stoa.org/places/469183604)
+
+
 ## Sanctuary of Poseidon and Amphitrite in Kionia (Q22681616)
 [https://www.wikidata.org/wiki/Q22681616](https://www.wikidata.org/wiki/Q22681616)  
 
@@ -66803,6 +66860,13 @@
  - [Scaptia](https://pleiades.stoa.org/places/438829)
 
 
+## Scaptia (Q3538808)
+[https://www.wikidata.org/wiki/Q3538808](https://www.wikidata.org/wiki/Q3538808)  
+
+### alignments:
+ - [tribus Scaptia](https://pleiades.stoa.org/places/873367356)
+
+
 ## Scarbantia (Q12902033)
 [https://www.wikidata.org/wiki/Q12902033](https://www.wikidata.org/wiki/Q12902033)  
 
@@ -66824,11 +66888,25 @@
  - [Scarborough Castle](https://pleiades.stoa.org/places/272290638)
 
 
+## Scarphe (Q3475188)
+[https://www.wikidata.org/wiki/Q3475188](https://www.wikidata.org/wiki/Q3475188)  
+
+### alignments:
+ - [Skarpheia](https://pleiades.stoa.org/places/541103)
+
+
 ## Scaugdae (Q7430632)
 [https://www.wikidata.org/wiki/Q7430632](https://www.wikidata.org/wiki/Q7430632)  
 
 ### alignments:
  - [Scaugdae](https://pleiades.stoa.org/places/222178)
+
+
+## Scepsis (Q2292038)
+[https://www.wikidata.org/wiki/Q2292038](https://www.wikidata.org/wiki/Q2292038)  
+
+### alignments:
+ - [Skepsis](https://pleiades.stoa.org/places/550890)
 
 
 ## Schaan (Q49657)
@@ -67361,6 +67439,13 @@
 
 ### alignments:
  - [Seleucid Empire](https://pleiades.stoa.org/places/45635759)
+
+
+## Selge (Q769197)
+[https://www.wikidata.org/wiki/Q769197](https://www.wikidata.org/wiki/Q769197)  
+
+### alignments:
+ - [Selge](https://pleiades.stoa.org/places/639100)
 
 
 ## Selinountas (Q7448488)
@@ -68043,6 +68128,13 @@
  - [Sicyon/Demetrias](https://pleiades.stoa.org/places/570668)
 
 
+## Side (Q152405)
+[https://www.wikidata.org/wiki/Q152405](https://www.wikidata.org/wiki/Q152405)  
+
+### alignments:
+ - [Side](https://pleiades.stoa.org/places/639105)
+
+
 ## Sidene (Q20108923)
 [https://www.wikidata.org/wiki/Q20108923](https://www.wikidata.org/wiki/Q20108923)  
 
@@ -68125,6 +68217,13 @@
 
 ### alignments:
  - [Sigditsa](https://pleiades.stoa.org/places/541100)
+
+
+## Sigeion (Q1583181)
+[https://www.wikidata.org/wiki/Q1583181](https://www.wikidata.org/wiki/Q1583181)  
+
+### alignments:
+ - [Sigeion](https://pleiades.stoa.org/places/550877)
 
 
 ## Sigiriya (Q272153)
@@ -68309,6 +68408,13 @@
  - [Singaras](https://pleiades.stoa.org/places/874700)
 
 
+## Sinope (Q107557833)
+[https://www.wikidata.org/wiki/Q107557833](https://www.wikidata.org/wiki/Q107557833)  
+
+### alignments:
+ - [Sinope](https://pleiades.stoa.org/places/857321)
+
+
 ## Sintice (Q3961944)
 [https://www.wikidata.org/wiki/Q3961944](https://www.wikidata.org/wiki/Q3961944)  
 
@@ -68349,6 +68455,13 @@
 
 ### alignments:
  - [The Siphnian Treasury](https://pleiades.stoa.org/places/333036425)
+
+
+## Siphnos (Q65244417)
+[https://www.wikidata.org/wiki/Q65244417](https://www.wikidata.org/wiki/Q65244417)  
+
+### alignments:
+ - [Siphnos (settlement)](https://pleiades.stoa.org/places/590048)
 
 
 ## Siphnos (Q95452882)
@@ -68645,6 +68758,13 @@
  - [Skotino cave](https://pleiades.stoa.org/places/14671932)
 
 
+## Skotitas (Q124607542)
+[https://www.wikidata.org/wiki/Q124607542](https://www.wikidata.org/wiki/Q124607542)  
+
+### alignments:
+ - [Skotitas](https://pleiades.stoa.org/places/570678)
+
+
 ## Skotoussa (Q20497236)
 [https://www.wikidata.org/wiki/Q20497236](https://www.wikidata.org/wiki/Q20497236)  
 
@@ -68819,6 +68939,13 @@
 
 ### alignments:
  - [Solforata](https://pleiades.stoa.org/places/423075)
+
+
+## Soli (Q1757296)
+[https://www.wikidata.org/wiki/Q1757296](https://www.wikidata.org/wiki/Q1757296)  
+
+### alignments:
+ - [Soloi/Aipeia?](https://pleiades.stoa.org/places/707624)
 
 
 ## Soli (Q656954)
@@ -69015,6 +69142,13 @@
 
 ### alignments:
  - [Sounion (Attica: settlement and deme)](https://pleiades.stoa.org/places/580107)
+
+
+## source of Arethusa (Q3747483)
+[https://www.wikidata.org/wiki/Q3747483](https://www.wikidata.org/wiki/Q3747483)  
+
+### alignments:
+ - [Arethusae Fons](https://pleiades.stoa.org/places/462101)
 
 
 ## Sous River (Q2883844)
@@ -69535,6 +69669,13 @@
  - [Statua Valeriana](https://pleiades.stoa.org/places/739987352)
 
 
+## Stectorium (Q131911713)
+[https://www.wikidata.org/wiki/Q131911713](https://www.wikidata.org/wiki/Q131911713)  
+
+### alignments:
+ - [Stektorion](https://pleiades.stoa.org/places/609535)
+
+
 ## Steinerner Steg (Q782829)
 [https://www.wikidata.org/wiki/Q782829](https://www.wikidata.org/wiki/Q782829)  
 
@@ -69556,6 +69697,13 @@
  - [Stelida](https://pleiades.stoa.org/places/507121565)
 
 
+## Stenyclarus (Q15829811)
+[https://www.wikidata.org/wiki/Q15829811](https://www.wikidata.org/wiki/Q15829811)  
+
+### alignments:
+ - [Stenykleros (plain)](https://pleiades.stoa.org/places/570690)
+
+
 ## Stielanaioi (Q65244662)
 [https://www.wikidata.org/wiki/Q65244662](https://www.wikidata.org/wiki/Q65244662)  
 
@@ -69568,6 +69716,13 @@
 
 ### alignments:
  - [Elleporos (river)](https://pleiades.stoa.org/places/456060)
+
+
+## Stiris (Q12884846)
+[https://www.wikidata.org/wiki/Q12884846](https://www.wikidata.org/wiki/Q12884846)  
+
+### alignments:
+ - [Stiris/Steiris](https://pleiades.stoa.org/places/541113)
 
 
 ## Stoa at Brauron (Q132326811)
@@ -69752,6 +69907,13 @@
  - [Strategeion](https://pleiades.stoa.org/places/888638009)
 
 
+## Stratia (Q3563487)
+[https://www.wikidata.org/wiki/Q3563487](https://www.wikidata.org/wiki/Q3563487)  
+
+### alignments:
+ - [Stratie (island)](https://pleiades.stoa.org/places/573535)
+
+
 ## Stratoclia (Q134349945)
 [https://www.wikidata.org/wiki/Q134349945](https://www.wikidata.org/wiki/Q134349945)  
 
@@ -69869,6 +70031,13 @@
 
 ### alignments:
  - [Styl(l)angion](https://pleiades.stoa.org/places/570695)
+
+
+## Stymphalos (Q2359730)
+[https://www.wikidata.org/wiki/Q2359730](https://www.wikidata.org/wiki/Q2359730)  
+
+### alignments:
+ - [Stymphalos](https://pleiades.stoa.org/places/570696)
 
 
 ## Styx (Q542758)
@@ -70023,6 +70192,13 @@
 
 ### alignments:
  - [Sulloniacis](https://pleiades.stoa.org/places/79701)
+
+
+## Sumatia (Q39081737)
+[https://www.wikidata.org/wiki/Q39081737](https://www.wikidata.org/wiki/Q39081737)  
+
+### alignments:
+ - [Soumateon/Soumetia](https://pleiades.stoa.org/places/573529)
 
 
 ## Sumer (Q35355)
@@ -70558,6 +70734,13 @@
  - [Tanusia](https://pleiades.stoa.org/places/252989)
 
 
+## Tamynae (Q11950863)
+[https://www.wikidata.org/wiki/Q11950863](https://www.wikidata.org/wiki/Q11950863)  
+
+### alignments:
+ - [Tamynai](https://pleiades.stoa.org/places/541121)
+
+
 ## Tanagra acropolis (Q56259452)
 [https://www.wikidata.org/wiki/Q56259452](https://www.wikidata.org/wiki/Q56259452)  
 
@@ -70726,6 +70909,13 @@
  - [Tarr Steps](https://pleiades.stoa.org/places/913465647)
 
 
+## Tarra (Q354701)
+[https://www.wikidata.org/wiki/Q354701](https://www.wikidata.org/wiki/Q354701)  
+
+### alignments:
+ - [Tarra](https://pleiades.stoa.org/places/590072)
+
+
 ## Tarragona Amphitheatre (Q2746482)
 [https://www.wikidata.org/wiki/Q2746482](https://www.wikidata.org/wiki/Q2746482)  
 
@@ -70745,6 +70935,13 @@
 
 ### alignments:
  - [Tarrenz](https://pleiades.stoa.org/places/187569)
+
+
+## Tarsus (Q134287)
+[https://www.wikidata.org/wiki/Q134287](https://www.wikidata.org/wiki/Q134287)  
+
+### alignments:
+ - [Tarsus/Antiochia ad Cydnum](https://pleiades.stoa.org/places/648789)
 
 
 ## Tartarus (Q101322)
@@ -70801,6 +70998,13 @@
 
 ### alignments:
  - [Tattaios](https://pleiades.stoa.org/places/511431)
+
+
+## Taucheira (Q115324844)
+[https://www.wikidata.org/wiki/Q115324844](https://www.wikidata.org/wiki/Q115324844)  
+
+### alignments:
+ - [Arsinoe/Taucheira](https://pleiades.stoa.org/places/373736)
 
 
 ## Taurasia (Q11950970)
@@ -72493,6 +72697,13 @@
  - [*Tempsis](https://pleiades.stoa.org/places/550909)
 
 
+## Tenarus (Q25345031)
+[https://www.wikidata.org/wiki/Q25345031](https://www.wikidata.org/wiki/Q25345031)  
+
+### alignments:
+ - [Tainaron (settlement)](https://pleiades.stoa.org/places/570702)
+
+
 ## Tenba (Q65046426)
 [https://www.wikidata.org/wiki/Q65046426](https://www.wikidata.org/wiki/Q65046426)  
 
@@ -72505,6 +72716,13 @@
 
 ### alignments:
  - [Tendeba](https://pleiades.stoa.org/places/599962)
+
+
+## Tenedos (Q123764842)
+[https://www.wikidata.org/wiki/Q123764842](https://www.wikidata.org/wiki/Q123764842)  
+
+### alignments:
+ - [Tenedos (settlement)](https://pleiades.stoa.org/places/550911)
 
 
 ## Tenedos (Q65041740)
@@ -72638,6 +72856,13 @@
 
 ### alignments:
  - [tribus Teretina](https://pleiades.stoa.org/places/239510733)
+
+
+## Tergeste (Q11951603)
+[https://www.wikidata.org/wiki/Q11951603](https://www.wikidata.org/wiki/Q11951603)  
+
+### alignments:
+ - [Tergeste](https://pleiades.stoa.org/places/187578)
 
 
 ## Terich Mir (Q207132)
@@ -74067,6 +74292,13 @@
 
 ### alignments:
  - [Tenos (settlement)](https://pleiades.stoa.org/places/590073)
+
+
+## Tinos (Q211285)
+[https://www.wikidata.org/wiki/Q211285](https://www.wikidata.org/wiki/Q211285)  
+
+### alignments:
+ - [Tenos (island)](https://pleiades.stoa.org/places/590074)
 
 
 ## Tinto (Q17744)
