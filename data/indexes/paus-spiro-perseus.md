@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-577 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
+578 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -4037,6 +4037,13 @@
 
 ### alignments:
  - [Proitidian Gate (Thebes)](https://pleiades.stoa.org/places/291401357)
+
+
+## 9.19.3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19.3)  
+
+### alignments:
+ - [Thermodon (river)](https://pleiades.stoa.org/places/543884)
 
 
 ## 9.19.4

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1478 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
+1489 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2922,6 +2922,13 @@
  - [Ardettos](https://pleiades.stoa.org/places/582870)
 
 
+## 10833984: River Thermodon (Boiotia)
+[https://resource.manto.unh.edu/10833984](https://resource.manto.unh.edu/10833984)  
+
+### alignments:
+ - [Thermodon (river)](https://pleiades.stoa.org/places/543884)
+
+
 ## 10833985: Scotoussa (Thessaly)
 [https://resource.manto.unh.edu/10833985](https://resource.manto.unh.edu/10833985)  
 
@@ -3608,6 +3615,13 @@
  - [Araxes (river)](https://pleiades.stoa.org/places/884118)
 
 
+## 11300242: River Tigris (Armenia)
+[https://resource.manto.unh.edu/11300242](https://resource.manto.unh.edu/11300242)  
+
+### alignments:
+ - [Kentrites/Tigris/Zirmas (river)](https://pleiades.stoa.org/places/874545)
+
+
 ## 11300389: the Sanctuary of Argive Hera at the mouth of the River Sele (Italy)
 [https://resource.manto.unh.edu/11300389](https://resource.manto.unh.edu/11300389)  
 
@@ -3655,6 +3669,13 @@
 
 ### alignments:
  - [Portus Herculis/Herakleous Limen](https://pleiades.stoa.org/places/456117)
+
+
+## 11300438: River Sagras (Italy)
+[https://resource.manto.unh.edu/11300438](https://resource.manto.unh.edu/11300438)  
+
+### alignments:
+ - [Sagra(s) (river)](https://pleiades.stoa.org/places/452425)
 
 
 ## 11300442: Scylletion (Italy)
@@ -3760,6 +3781,13 @@
 
 ### alignments:
  - [Taurus (mountain range)](https://pleiades.stoa.org/places/648792)
+
+
+## 11301678: River Rhyndacos (Mysia)
+[https://resource.manto.unh.edu/11301678](https://resource.manto.unh.edu/11301678)  
+
+### alignments:
+ - [Rhyndakos (river)](https://pleiades.stoa.org/places/511401)
 
 
 ## 11301701: Cios (Propontis)
@@ -4154,6 +4182,13 @@
  - [Triton (river)](https://pleiades.stoa.org/places/590083)
 
 
+## 11304942: River Theren (Crete)
+[https://resource.manto.unh.edu/11304942](https://resource.manto.unh.edu/11304942)  
+
+### alignments:
+ - [Theren? (river)](https://pleiades.stoa.org/places/590076)
+
+
 ## 11304947: Mount Calpe (Iberia)
 [https://resource.manto.unh.edu/11304947](https://resource.manto.unh.edu/11304947)  
 
@@ -4264,6 +4299,13 @@
 
 ### alignments:
  - [Gaulos (island)](https://pleiades.stoa.org/places/462213)
+
+
+## 11306973: River Tyras (Pontos)
+[https://resource.manto.unh.edu/11306973](https://resource.manto.unh.edu/11306973)  
+
+### alignments:
+ - [Tyras (river)](https://pleiades.stoa.org/places/226799)
 
 
 ## 11306987: Cape Parthenion (Chersonesos)
@@ -5028,6 +5070,13 @@
 
 ### alignments:
  - [Aventinus mons](https://pleiades.stoa.org/places/865014139)
+
+
+## 11311858: River Symaithos (Sicily)
+[https://resource.manto.unh.edu/11311858](https://resource.manto.unh.edu/11311858)  
+
+### alignments:
+ - [Symaethus (river)](https://pleiades.stoa.org/places/462502)
 
 
 ## 11311861: Catane (Sicily)
@@ -5968,6 +6017,27 @@
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
+## 11319217: Casa di Cornelius Rufus VIII 4, 15.30 (Pompeii)
+[https://resource.manto.unh.edu/11319217](https://resource.manto.unh.edu/11319217)  
+
+### alignments:
+ - [Casa di Cornelio Rufo ](https://pleiades.stoa.org/places/405317581)
+
+
+## 11319219: Casa dei Postumii VIII 4, 4.49 (Pompeii)
+[https://resource.manto.unh.edu/11319219](https://resource.manto.unh.edu/11319219)  
+
+### alignments:
+ - [Casa dei Postumii](https://pleiades.stoa.org/places/65932637)
+
+
+## 11319222: Casa del Gallo VIII 5, 2.5 (Pompeii)
+[https://resource.manto.unh.edu/11319222](https://resource.manto.unh.edu/11319222)  
+
+### alignments:
+ - [Casa del Gallo I](https://pleiades.stoa.org/places/509508245)
+
+
 ## 11319224: Casa delle Pareti Rosse VIII 5, 37 (Pompeii)
 [https://resource.manto.unh.edu/11319224](https://resource.manto.unh.edu/11319224)  
 
@@ -6799,6 +6869,13 @@
 
 ### alignments:
  - [Melanteioi Skopeloi (island)](https://pleiades.stoa.org/places/599792)
+
+
+## 11327776: River Tanaos (S. Peloponnese)
+[https://resource.manto.unh.edu/11327776](https://resource.manto.unh.edu/11327776)  
+
+### alignments:
+ - [Tan(a)os (river)](https://pleiades.stoa.org/places/570704)
 
 
 ## 11327841: the Sanctuary of Artemis at Aulis (Boiotia)

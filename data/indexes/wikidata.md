@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11668 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
+11678 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -1556,6 +1556,13 @@
 
 ### alignments:
  - [Agathyrnum](https://pleiades.stoa.org/places/462079)
+
+
+## Agathyrsi (Q430172)
+[https://www.wikidata.org/wiki/Q430172](https://www.wikidata.org/wiki/Q430172)  
+
+### alignments:
+ - [Agathyrsoi](https://pleiades.stoa.org/places/226511)
 
 
 ## Agbia (Q392050)
@@ -12545,6 +12552,13 @@
  - [Kallimache](https://pleiades.stoa.org/places/638890)
 
 
+## Callipidae (Q12107831)
+[https://www.wikidata.org/wiki/Q12107831](https://www.wikidata.org/wiki/Q12107831)  
+
+### alignments:
+ - [Kallipidai](https://pleiades.stoa.org/places/226644)
+
+
 ## Callithera (Q48781686)
 [https://www.wikidata.org/wiki/Q48781686](https://www.wikidata.org/wiki/Q48781686)  
 
@@ -13630,6 +13644,13 @@
  - [House of the cithara player](https://pleiades.stoa.org/places/43612993)
 
 
+## Casa del Gallo I (Q27688231)
+[https://www.wikidata.org/wiki/Q27688231](https://www.wikidata.org/wiki/Q27688231)  
+
+### alignments:
+ - [Casa del Gallo I](https://pleiades.stoa.org/places/509508245)
+
+
 ## Casa del Gemmarius (Q27685762)
 [https://www.wikidata.org/wiki/Q27685762](https://www.wikidata.org/wiki/Q27685762)  
 
@@ -13775,6 +13796,13 @@
 
 ### alignments:
  - [Casa di Championnet](https://pleiades.stoa.org/places/850575919)
+
+
+## Casa di Cornelio Rufo (Q27688173)
+[https://www.wikidata.org/wiki/Q27688173](https://www.wikidata.org/wiki/Q27688173)  
+
+### alignments:
+ - [Casa di Cornelio Rufo ](https://pleiades.stoa.org/places/405317581)
 
 
 ## Casa di Giasone (Q27688496)
@@ -20228,6 +20256,13 @@
  - [Borysthenes (river)](https://pleiades.stoa.org/places/226544)
 
 
+## Dniester (Q131210)
+[https://www.wikidata.org/wiki/Q131210](https://www.wikidata.org/wiki/Q131210)  
+
+### alignments:
+ - [Tyras (river)](https://pleiades.stoa.org/places/226799)
+
+
 ## Dobunni (Q599445)
 [https://www.wikidata.org/wiki/Q599445](https://www.wikidata.org/wiki/Q599445)  
 
@@ -22590,6 +22625,13 @@
  - [Euenos (river)](https://pleiades.stoa.org/places/540780)
 
 
+## Exampaios (Q133863463)
+[https://www.wikidata.org/wiki/Q133863463](https://www.wikidata.org/wiki/Q133863463)  
+
+### alignments:
+ - [Exampaios](https://pleiades.stoa.org/places/229549)
+
+
 ## Excubitorium (Q3735926)
 [https://www.wikidata.org/wiki/Q3735926](https://www.wikidata.org/wiki/Q3735926)  
 
@@ -24909,6 +24951,13 @@
 
 ### alignments:
  - [Gintota](https://pleiades.stoa.org/places/49988)
+
+
+## Giofyros (Q25164287)
+[https://www.wikidata.org/wiki/Q25164287](https://www.wikidata.org/wiki/Q25164287)  
+
+### alignments:
+ - [Triton (river)](https://pleiades.stoa.org/places/590083)
 
 
 ## Gioia dei Marsi (Q50096)
@@ -27796,6 +27845,13 @@
  - [House of Flavius Germanus](https://pleiades.stoa.org/places/814800402)
 
 
+## House of Holconius Rufus (Q27688153)
+[https://www.wikidata.org/wiki/Q27688153](https://www.wikidata.org/wiki/Q27688153)  
+
+### alignments:
+ - [Casa dei Postumii](https://pleiades.stoa.org/places/65932637)
+
+
 ## House of Hylas (Q106693288)
 [https://www.wikidata.org/wiki/Q106693288](https://www.wikidata.org/wiki/Q106693288)  
 
@@ -28158,6 +28214,13 @@
 
 ### alignments:
  - [House of the Vettii](https://pleiades.stoa.org/places/531536068)
+
+
+## House of the Wild Boar (Q27688114)
+[https://www.wikidata.org/wiki/Q27688114](https://www.wikidata.org/wiki/Q27688114)  
+
+### alignments:
+ - [Casa del Cinghiale I](https://pleiades.stoa.org/places/834984566)
 
 
 ## House of the wounded animals (Q128828788)
@@ -73564,6 +73627,13 @@
 
 ### alignments:
  - [Thermes des Lutteurs](https://pleiades.stoa.org/places/663163576)
+
+
+## Thermodon (Q60791109)
+[https://www.wikidata.org/wiki/Q60791109](https://www.wikidata.org/wiki/Q60791109)  
+
+### alignments:
+ - [Thermodon (river)](https://pleiades.stoa.org/places/543884)
 
 
 ## Thermodon (Q684421)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5201 alignments exist in _Pleiades_ place references as of 2026-11-09. The following list of alignments is grouped by zotkey.
+5203 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -33606,6 +33606,13 @@
  - [Thermodon (river)](https://pleiades.stoa.org/places/857352)
 
 
+## Thermodon torrent (Boeotia)
+[https://topostext.org/place/384234WThe](https://topostext.org/place/384234WThe)  
+
+### alignments:
+ - [Thermodon (river)](https://pleiades.stoa.org/places/543884)
+
+
 ## Thermon (Aitolia)
 [https://topostext.org/place/386217SThe](https://topostext.org/place/386217SThe)  
 
@@ -35116,6 +35123,13 @@
 
 ### alignments:
  - [Tyras/Ophioussa](https://pleiades.stoa.org/places/226800)
+
+
+## Tyras river (Scythia)
+[https://topostext.org/place/466300WTyr](https://topostext.org/place/466300WTyr)  
+
+### alignments:
+ - [Tyras (river)](https://pleiades.stoa.org/places/226799)
 
 
 ## Tyre (Lebanon)
