@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1489 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
+1492 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4476,6 +4476,13 @@
  - [Skiathos/Sciathus (island)](https://pleiades.stoa.org/places/541092)
 
 
+## 11307555: Sepias (Thessaly)
+[https://resource.manto.unh.edu/11307555](https://resource.manto.unh.edu/11307555)  
+
+### alignments:
+ - [Sepias (promontory)](https://pleiades.stoa.org/places/541097)
+
+
 ## 11307721: Erymnai (Thessaly)
 [https://resource.manto.unh.edu/11307721](https://resource.manto.unh.edu/11307721)  
 
@@ -4593,6 +4600,13 @@
 
 ### alignments:
  - [Rhypes](https://pleiades.stoa.org/places/570647)
+
+
+## 11308539: River Styx (Arcadia)
+[https://resource.manto.unh.edu/11308539](https://resource.manto.unh.edu/11308539)  
+
+### alignments:
+ - [Styx (river)](https://pleiades.stoa.org/places/570698)
 
 
 ## 11308550: Acte (Argolid)
@@ -6064,6 +6078,13 @@
 
 ### alignments:
  - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
+
+
+## 11319234: Fullonica di Ululitremulus IX 13, 5 (Pompeii)
+[https://resource.manto.unh.edu/11319234](https://resource.manto.unh.edu/11319234)  
+
+### alignments:
+ - [House of M. Fabius Ululitremulus](https://pleiades.stoa.org/places/228444378)
 
 
 ## 11319237: Casa di T. Dentatius Panthera IX 2, 16 (Pompeii)

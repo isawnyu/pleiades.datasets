@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11678 alignments exist in _Pleiades_ place references as of 2026-11-10. The following list of alignments is grouped by zotkey.
+11686 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13063,6 +13063,13 @@
  - [Sam(m)onion (promontory)](https://pleiades.stoa.org/places/590037)
 
 
+## Cape St. George (Q60790477)
+[https://www.wikidata.org/wiki/Q60790477](https://www.wikidata.org/wiki/Q60790477)  
+
+### alignments:
+ - [Sepias (promontory)](https://pleiades.stoa.org/places/541097)
+
+
 ## Cape St. Vincent (Q4103)
 [https://www.wikidata.org/wiki/Q4103](https://www.wikidata.org/wiki/Q4103)  
 
@@ -13749,6 +13756,13 @@
  - [Casa della Regina Carolina](https://pleiades.stoa.org/places/26245224)
 
 
+## Casa della Regina Margherita (Q27685919)
+[https://www.wikidata.org/wiki/Q27685919](https://www.wikidata.org/wiki/Q27685919)  
+
+### alignments:
+ - [Casa della Regina Margherita](https://pleiades.stoa.org/places/245540148)
+
+
 ## Casa della Soffitta (Q27685958)
 [https://www.wikidata.org/wiki/Q27685958](https://www.wikidata.org/wiki/Q27685958)  
 
@@ -13824,6 +13838,13 @@
 
 ### alignments:
  - [House of M. Epidi Sabini](https://pleiades.stoa.org/places/228444379)
+
+
+## Casa di M. Fabius Ululitremulus (Q27688622)
+[https://www.wikidata.org/wiki/Q27688622](https://www.wikidata.org/wiki/Q27688622)  
+
+### alignments:
+ - [House of M. Fabius Ululitremulus](https://pleiades.stoa.org/places/228444378)
 
 
 ## Casa di Marco Lucrezio Fronto (Q24934597)
@@ -17661,6 +17682,13 @@
 
 ### alignments:
  - [Ad Navalia](https://pleiades.stoa.org/places/383551)
+
+
+## Colangorum (Q27926783)
+[https://www.wikidata.org/wiki/Q27926783](https://www.wikidata.org/wiki/Q27926783)  
+
+### alignments:
+ - [Kolankoron](https://pleiades.stoa.org/places/129869)
 
 
 ## Cold Knap Roman building (Q121890897)
@@ -31374,6 +31402,13 @@
 
 ### alignments:
  - [Kingdom of Mapungubwe](https://pleiades.stoa.org/places/568111824)
+
+
+## Kingdom of Pontus (Q7380487)
+[https://www.wikidata.org/wiki/Q7380487](https://www.wikidata.org/wiki/Q7380487)  
+
+### alignments:
+ - [Pontus (Hellenistic kingdom)](https://pleiades.stoa.org/places/791474498)
 
 
 ## Kinnaird Head (Q31312419)
@@ -69333,6 +69368,13 @@
  - [Southwest fountain house](https://pleiades.stoa.org/places/935991896)
 
 
+## Southwest temple (Q24204671)
+[https://www.wikidata.org/wiki/Q24204671](https://www.wikidata.org/wiki/Q24204671)  
+
+### alignments:
+ - [Southwest Temple in the Agora of Athens](https://pleiades.stoa.org/places/162463494)
+
+
 ## Southwick Roman villa (Q16857788)
 [https://www.wikidata.org/wiki/Q16857788](https://www.wikidata.org/wiki/Q16857788)  
 
@@ -71933,6 +71975,13 @@
  - [Artemis Tauropolos temple](https://pleiades.stoa.org/places/579878)
 
 
+## Temple of Asclepius (Q27688330)
+[https://www.wikidata.org/wiki/Q27688330](https://www.wikidata.org/wiki/Q27688330)  
+
+### alignments:
+ - [Temple of Asclepius](https://pleiades.stoa.org/places/83544252)
+
+
 ## Temple of Atargatis (Q109375494)
 [https://www.wikidata.org/wiki/Q109375494](https://www.wikidata.org/wiki/Q109375494)  
 
@@ -73809,6 +73858,13 @@
 
 ### alignments:
  - [Thorikos](https://pleiades.stoa.org/places/580119)
+
+
+## Thorikos double stoa (Attica) (Q142108311)
+[https://www.wikidata.org/wiki/Q142108311](https://www.wikidata.org/wiki/Q142108311)  
+
+### alignments:
+ - [Double Stoa at Thorikos](https://pleiades.stoa.org/places/842459208)
 
 
 ## Thouththourbia (Q85809387)
