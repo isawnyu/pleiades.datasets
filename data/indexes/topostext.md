@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5203 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
+5211 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -21582,6 +21582,13 @@
  - [Melas? (river)](https://pleiades.stoa.org/places/501514)
 
 
+## Meles river (Smyrna) 28 Meles Çayı
+[https://topostext.org/place/385272WMel](https://topostext.org/place/385272WMel)  
+
+### alignments:
+ - [Meles (river)](https://pleiades.stoa.org/places/550729)
+
+
 ## Melia? (Ionia)
 [https://topostext.org/place/377272UMel](https://topostext.org/place/377272UMel)  
 
@@ -23566,6 +23573,13 @@
  - [Numantia](https://pleiades.stoa.org/places/246523)
 
 
+## Numicus (Italia) 18 Fosso di Pratica
+[https://topostext.org/place/417124WNum](https://topostext.org/place/417124WNum)  
+
+### alignments:
+ - [Numicus (river)](https://pleiades.stoa.org/places/422988)
+
+
 ## Numidia
 [https://topostext.org/place/360030RNum](https://topostext.org/place/360030RNum)  
 
@@ -23683,6 +23697,13 @@
 
 ### alignments:
  - [Oche (mountain)](https://pleiades.stoa.org/places/540965)
+
+
+## Ocinarus (Bruttium)
+[https://topostext.org/place/388163WOci](https://topostext.org/place/388163WOci)  
+
+### alignments:
+ - [Ocinarus (river)](https://pleiades.stoa.org/places/452394)
 
 
 ## Ocinarus (Italia) 2 Savuto
@@ -24272,6 +24293,13 @@
 
 ### alignments:
  - [Onouphis](https://pleiades.stoa.org/places/730134)
+
+
+## Ophis (Arkadia)
+[https://topostext.org/place/378223WOph](https://topostext.org/place/378223WOph)  
+
+### alignments:
+ - [Ophis (river)](https://pleiades.stoa.org/places/570534)
 
 
 ## Ophiussa (Propontis)
@@ -25838,6 +25866,13 @@
  - [Peiraion](https://pleiades.stoa.org/places/570571)
 
 
+## Peiros R. (Achaia) 29 Kamenitsa/Peiras - Πείρος
+[https://topostext.org/place/383218WPei](https://topostext.org/place/383218WPei)  
+
+### alignments:
+ - [Peiros (river)](https://pleiades.stoa.org/places/570572)
+
+
 ## Pelagoniae Fauces (Paionia)
 [https://topostext.org/place/412213LPel](https://topostext.org/place/412213LPel)  
 
@@ -26900,6 +26935,13 @@
 
 ### alignments:
  - [Phoinix?](https://pleiades.stoa.org/places/589994)
+
+
+## Phoinix R. (Phthiotis)
+[https://topostext.org/place/388225WPho](https://topostext.org/place/388225WPho)  
+
+### alignments:
+ - [Phoinix? (river)](https://pleiades.stoa.org/places/541049)
 
 
 ## Phoitiai (Akarnania)
@@ -29069,6 +29111,13 @@
 
 ### alignments:
  - [Ptolemais Theron](https://pleiades.stoa.org/places/39409)
+
+
+## Ptolis (Arcadia)
+[https://topostext.org/place/376224UPto](https://topostext.org/place/376224UPto)  
+
+### alignments:
+ - [Ptolis](https://pleiades.stoa.org/places/573488)
 
 
 ## Ptychia (Kerkyra) 5 Vido - Πτυχία
@@ -31512,6 +31561,13 @@
 
 ### alignments:
  - [Skyllaion (promontory)](https://pleiades.stoa.org/places/570679)
+
+
+## Skyras R. (Lakonia)
+[https://topostext.org/place/367225WSky](https://topostext.org/place/367225WSky)  
+
+### alignments:
+ - [Skyras (river)](https://pleiades.stoa.org/places/573526)
 
 
 ## Skyros (Sporades) 108 Skyros Kastro - Σκύρος

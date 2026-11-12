@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1492 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
+1517 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -399,6 +399,13 @@
 
 ### alignments:
  - [Methone/Mothone (Messenian)](https://pleiades.stoa.org/places/570483)
+
+
+## 10113708: River Pamisos (Messenia)
+[https://resource.manto.unh.edu/10113708](https://resource.manto.unh.edu/10113708)  
+
+### alignments:
+ - [Pamisos (river of Messenia)](https://pleiades.stoa.org/places/570551)
 
 
 ## 10126072: Ancyra (Phrygia)
@@ -939,6 +946,13 @@
 
 ### alignments:
  - [Arainon](https://pleiades.stoa.org/places/570099)
+
+
+## 10149935: River Scyras (Laconia)
+[https://resource.manto.unh.edu/10149935](https://resource.manto.unh.edu/10149935)  
+
+### alignments:
+ - [Skyras (river)](https://pleiades.stoa.org/places/573526)
 
 
 ## 10149939: Pyrrhichos (Laconia)
@@ -1893,6 +1907,13 @@
  - [Sphairia (island)](https://pleiades.stoa.org/places/573531)
 
 
+## 10214900: River Acheloos (Mt Sipylos)
+[https://resource.manto.unh.edu/10214900](https://resource.manto.unh.edu/10214900)  
+
+### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/554173)
+
+
 ## 10214901: Calaureia (Island)
 [https://resource.manto.unh.edu/10214901](https://resource.manto.unh.edu/10214901)  
 
@@ -2586,6 +2607,13 @@
  - [Trit(a)ia](https://pleiades.stoa.org/places/570755)
 
 
+## 10274473: River Selemnos (Achaia)
+[https://resource.manto.unh.edu/10274473](https://resource.manto.unh.edu/10274473)  
+
+### alignments:
+ - [Selemnos? (river)](https://pleiades.stoa.org/places/570657)
+
+
 ## 10274476: Argyra
 [https://resource.manto.unh.edu/10274476](https://resource.manto.unh.edu/10274476)  
 
@@ -2738,6 +2766,13 @@
 
 ### alignments:
  - [Telepylos](https://pleiades.stoa.org/places/606192094)
+
+
+## 10473759: River Meilichos (Achaia)
+[https://resource.manto.unh.edu/10473759](https://resource.manto.unh.edu/10473759)  
+
+### alignments:
+ - [(A)Meilichos (river)](https://pleiades.stoa.org/places/570069)
 
 
 ## 10473826: the Sanctuary of Zeus (Mt Lycaion)
@@ -2899,6 +2934,13 @@
 
 ### alignments:
  - [Helikore/Nicaea](https://pleiades.stoa.org/places/511268)
+
+
+## 10815229: River Soloeis (Bithynia)
+[https://resource.manto.unh.edu/10815229](https://resource.manto.unh.edu/10815229)  
+
+### alignments:
+ - [Soloeis (river)](https://pleiades.stoa.org/places/511421)
 
 
 ## 10815232: Pythopolis (Bithynia)
@@ -3195,6 +3237,13 @@
  - [Temple of Diana at Nemi](https://pleiades.stoa.org/places/422917)
 
 
+## 11289232: River Meles (Asia Minor)
+[https://resource.manto.unh.edu/11289232](https://resource.manto.unh.edu/11289232)  
+
+### alignments:
+ - [Meles (river)](https://pleiades.stoa.org/places/550729)
+
+
 ## 11289315: Halicarnassos (Caria)
 [https://resource.manto.unh.edu/11289315](https://resource.manto.unh.edu/11289315)  
 
@@ -3396,6 +3445,20 @@
 
 ### alignments:
  - [Pindus (mountain range)](https://pleiades.stoa.org/places/541062)
+
+
+## 11296841: River Pactolos (Lydia)
+[https://resource.manto.unh.edu/11296841](https://resource.manto.unh.edu/11296841)  
+
+### alignments:
+ - [Pactolus (river)](https://pleiades.stoa.org/places/550794)
+
+
+## 11296888: Old Mantineia (Arcadia)
+[https://resource.manto.unh.edu/11296888](https://resource.manto.unh.edu/11296888)  
+
+### alignments:
+ - [Ptolis](https://pleiades.stoa.org/places/573488)
 
 
 ## 11296918: Cnidos (Asia Minor)
@@ -3804,11 +3867,25 @@
  - [Thynias](https://pleiades.stoa.org/places/511443)
 
 
+## 11302080: River Rhebas (Bithynia)
+[https://resource.manto.unh.edu/11302080](https://resource.manto.unh.edu/11302080)  
+
+### alignments:
+ - [Rhebas (river)](https://pleiades.stoa.org/places/511396)
+
+
 ## 11302104: Thynias (Bithynia)
 [https://resource.manto.unh.edu/11302104](https://resource.manto.unh.edu/11302104)  
 
 ### alignments:
  - [Thynias/Apollonia/Daphnousia (island)](https://pleiades.stoa.org/places/511446)
+
+
+## 11302133: River Lycos (Phrygia)
+[https://resource.manto.unh.edu/11302133](https://resource.manto.unh.edu/11302133)  
+
+### alignments:
+ - [Lykos (river)](https://pleiades.stoa.org/places/845006)
 
 
 ## 11302148: Acherousias Promontory (Pontos)
@@ -4238,6 +4315,13 @@
  - [Temple of Amon (Karnak)](https://pleiades.stoa.org/places/877521474)
 
 
+## 11305947: River Peiros (Achaia)
+[https://resource.manto.unh.edu/11305947](https://resource.manto.unh.edu/11305947)  
+
+### alignments:
+ - [Peiros (river)](https://pleiades.stoa.org/places/570572)
+
+
 ## 11306085: Aidepsos (Euboia)
 [https://resource.manto.unh.edu/11306085](https://resource.manto.unh.edu/11306085)  
 
@@ -4525,6 +4609,13 @@
  - [Naryka/Tarphe?](https://pleiades.stoa.org/places/540958)
 
 
+## 11307929: River Phoinix (Thessaly)
+[https://resource.manto.unh.edu/11307929](https://resource.manto.unh.edu/11307929)  
+
+### alignments:
+ - [Phoinix? (river)](https://pleiades.stoa.org/places/541049)
+
+
 ## 11308145: Aigai (Euboia)
 [https://resource.manto.unh.edu/11308145](https://resource.manto.unh.edu/11308145)  
 
@@ -4740,6 +4831,13 @@
 
 ### alignments:
  - [Rhodanus (river)](https://pleiades.stoa.org/places/148168)
+
+
+## 11309794: River Nedon (Messenia/Laconia)
+[https://resource.manto.unh.edu/11309794](https://resource.manto.unh.edu/11309794)  
+
+### alignments:
+ - [Nedon (river)](https://pleiades.stoa.org/places/570503)
 
 
 ## 11309803: the Calydnian Islands (Tenedos)
@@ -5303,6 +5401,13 @@
  - [Xypete](https://pleiades.stoa.org/places/580134)
 
 
+## 11313336: River Scamandros (Sicily)
+[https://resource.manto.unh.edu/11313336](https://resource.manto.unh.edu/11313336)  
+
+### alignments:
+ - [Skamandros (river)](https://pleiades.stoa.org/places/465994)
+
+
 ## 11313347: Gargara (Troad)
 [https://resource.manto.unh.edu/11313347](https://resource.manto.unh.edu/11313347)  
 
@@ -5343,6 +5448,13 @@
 
 ### alignments:
  - [Keteios (river)](https://pleiades.stoa.org/places/550637)
+
+
+## 11313421: River Mysios (Mysia)
+[https://resource.manto.unh.edu/11313421](https://resource.manto.unh.edu/11313421)  
+
+### alignments:
+ - [Mysios (river)](https://pleiades.stoa.org/places/550761)
 
 
 ## 11313460: the Harbor of the Achaians (Aiolia)
@@ -5513,6 +5625,13 @@
  - [Persian and Hellenistic Administrative Building (PHAB), Tel Kedesh](https://pleiades.stoa.org/places/937106860)
 
 
+## 11314393: River Ocinaros (Italy)
+[https://resource.manto.unh.edu/11314393](https://resource.manto.unh.edu/11314393)  
+
+### alignments:
+ - [Ocinarus (river)](https://pleiades.stoa.org/places/452394)
+
+
 ## 11314417: Trampya (Epeiros)
 [https://resource.manto.unh.edu/11314417](https://resource.manto.unh.edu/11314417)  
 
@@ -5546,6 +5665,13 @@
 
 ### alignments:
  - [Arsinoe/Taucheira](https://pleiades.stoa.org/places/373736)
+
+
+## 11314608: River Odrysses (Mygdonia)
+[https://resource.manto.unh.edu/11314608](https://resource.manto.unh.edu/11314608)  
+
+### alignments:
+ - [Odryses (river)](https://pleiades.stoa.org/places/511340)
 
 
 ## 11314863: Luceria (Italy)
@@ -5623,6 +5749,13 @@
 
 ### alignments:
  - [Adiabene](https://pleiades.stoa.org/places/893935)
+
+
+## 11314995: River Mermadalis (Albania)
+[https://resource.manto.unh.edu/11314995](https://resource.manto.unh.edu/11314995)  
+
+### alignments:
+ - [Mermadalis (river)](https://pleiades.stoa.org/places/835038)
 
 
 ## 11315061: Spalauthra (Thessaly)
@@ -6626,6 +6759,13 @@
  - [Arch of Hadrian at Athens](https://pleiades.stoa.org/places/235795850)
 
 
+## 11322819: Caunos (Caria)
+[https://resource.manto.unh.edu/11322819](https://resource.manto.unh.edu/11322819)  
+
+### alignments:
+ - [Caunus](https://pleiades.stoa.org/places/638796)
+
+
 ## 11322892: Peucetia (Italy)
 [https://resource.manto.unh.edu/11322892](https://resource.manto.unh.edu/11322892)  
 
@@ -6666,6 +6806,13 @@
 
 ### alignments:
  - [Falisci](https://pleiades.stoa.org/places/413128)
+
+
+## 11324307: River Numicius (Italy)
+[https://resource.manto.unh.edu/11324307](https://resource.manto.unh.edu/11324307)  
+
+### alignments:
+ - [Numicus (river)](https://pleiades.stoa.org/places/422988)
 
 
 ## 11324380: the Temple of Quirinus on the Quirinal Hill (Rome)
@@ -7144,6 +7291,13 @@
  - [Herakleopolites Nomos](https://pleiades.stoa.org/places/736921)
 
 
+## 11329500: River Nauportus (C. Europe)
+[https://resource.manto.unh.edu/11329500](https://resource.manto.unh.edu/11329500)  
+
+### alignments:
+ - [Emona/Nauportus (river)](https://pleiades.stoa.org/places/197259)
+
+
 ## 11329502: Tergeste (N. Italy)
 [https://resource.manto.unh.edu/11329502](https://resource.manto.unh.edu/11329502)  
 
@@ -7403,6 +7557,13 @@
  - [Topeiros (Paradeisos)](https://pleiades.stoa.org/places/501645)
 
 
+## 11333636: Troy (Latium)
+[https://resource.manto.unh.edu/11333636](https://resource.manto.unh.edu/11333636)  
+
+### alignments:
+ - [Troia?](https://pleiades.stoa.org/places/423107)
+
+
 ## 11334116: New Hermion (Argolid)
 [https://resource.manto.unh.edu/11334116](https://resource.manto.unh.edu/11334116)  
 
@@ -7450,6 +7611,13 @@
 
 ### alignments:
  - [Al(al)komenai](https://pleiades.stoa.org/places/530791)
+
+
+## 11334907: Tralles (Caria)
+[https://resource.manto.unh.edu/11334907](https://resource.manto.unh.edu/11334907)  
+
+### alignments:
+ - [Tralles/Dia/Seleuceia ad Maeandrum/Kaisareia](https://pleiades.stoa.org/places/599987)
 
 
 ## 8188000: Charybdis
@@ -9036,18 +9204,18 @@
  - [Sangarius (river)](https://pleiades.stoa.org/places/511406)
 
 
+## 9611998: River Simoeis (Troad)
+[https://resource.manto.unh.edu/9611998](https://resource.manto.unh.edu/9611998)  
+
+### alignments:
+ - [Simoeis (river)](https://pleiades.stoa.org/places/550883)
+
+
 ## 9611999: River Spercheios (central Greece)
 [https://resource.manto.unh.edu/9611999](https://resource.manto.unh.edu/9611999)  
 
 ### alignments:
  - [Spercheios](https://pleiades.stoa.org/places/541112)
-
-
-## 961199: River Simoeis (Troad)
-[https://resource.manto.unh.edu/961199](https://resource.manto.unh.edu/961199)  
-
-### alignments:
- - [Simoeis (river)](https://pleiades.stoa.org/places/550883)
 
 
 ## 9612000: River Asopos (Boiotia)
@@ -9440,6 +9608,13 @@
 
 ### alignments:
  - [Thronion](https://pleiades.stoa.org/places/541147)
+
+
+## 9688232: River Maiandros (Caria)
+[https://resource.manto.unh.edu/9688232](https://resource.manto.unh.edu/9688232)  
+
+### alignments:
+ - [Maeander (river)](https://pleiades.stoa.org/places/599777)
 
 
 ## 9688233: Mount Mycale (Caria)
@@ -10128,6 +10303,13 @@
  - [Rhesos (river)](https://pleiades.stoa.org/places/511398)
 
 
+## 9878399: River Nestos (Thrace)
+[https://resource.manto.unh.edu/9878399](https://resource.manto.unh.edu/9878399)  
+
+### alignments:
+ - [Nestos (river)](https://pleiades.stoa.org/places/501524)
+
+
 ## 9878403: River Haliacmon (N. Greece)
 [https://resource.manto.unh.edu/9878403](https://resource.manto.unh.edu/9878403)  
 
@@ -10413,13 +10595,6 @@
 
 ### alignments:
  - [Boagrius (River)](https://pleiades.stoa.org/places/523921684)
-
-
-## River Odrysses (Mygdonia)
-[https://resource.manto.unh.edu/11314608](https://resource.manto.unh.edu/11314608)  
-
-### alignments:
- - [Odryses (river)](https://pleiades.stoa.org/places/511340)
 
 
 ## River Selleis

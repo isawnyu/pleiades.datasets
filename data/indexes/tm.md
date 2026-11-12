@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5207 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
+5208 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -316,13 +316,6 @@
 
 ### alignments:
  - [Tell el-Yahudiya](https://pleiades.stoa.org/places/727147)
-
-
-## Geo 1242: Lesbos
-[http://www.trismegistos.org/place/1242](http://www.trismegistos.org/place/1242)  
-
-### alignments:
- - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
 
 
 ## Geo 1246: Leukas
@@ -3756,6 +3749,13 @@
  - [Kynopolis/Sko/Euergetis](https://pleiades.stoa.org/places/736949)
 
 
+## GEO ID 11989
+[https://www.trismegistos.org/place/11989](https://www.trismegistos.org/place/11989)  
+
+### alignments:
+ - [Maeander (river)](https://pleiades.stoa.org/places/599777)
+
+
 ## GEO ID 11991: Axios (Vardar)
 [https://www.trismegistos.org/place/11991](https://www.trismegistos.org/place/11991)  
 
@@ -4237,6 +4237,13 @@
 
 ### alignments:
  - [Hierapolis/Pamukkale](https://pleiades.stoa.org/places/638860)
+
+
+## GEO ID 1242: Lesbos
+[http://www.trismegistos.org/place/1242](http://www.trismegistos.org/place/1242)  
+
+### alignments:
+ - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
 
 
 ## GEO ID 12438: Dios Polis (Lod)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-578 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
+583 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -363,6 +363,7 @@
 [http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1](http://data.perseus.org/texts/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1)  
 
 ### alignments:
+ - [Achelous (river)](https://pleiades.stoa.org/places/554173)
  - [Aidoneus (river)](https://pleiades.stoa.org/places/550416)
  - [Akakesion](https://pleiades.stoa.org/places/573060)
  - [Alkimedon](https://pleiades.stoa.org/places/573073)
@@ -396,6 +397,7 @@
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
  - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
  - [Sellasia](https://pleiades.stoa.org/places/570662)
+ - [Skyras (river)](https://pleiades.stoa.org/places/573526)
  - [Stektorion](https://pleiades.stoa.org/places/609535)
  - [Stenykleros (plain)](https://pleiades.stoa.org/places/570690)
  - [Temple of Apollo Patroos](https://pleiades.stoa.org/places/240065109)
@@ -1563,6 +1565,7 @@
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.7.8](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:2.7.8)  
 
 ### alignments:
+ - [Maeander (river)](https://pleiades.stoa.org/places/599777)
  - [Sythas (river)](https://pleiades.stoa.org/places/570700)
 
 
@@ -2823,6 +2826,20 @@
  - [Mesatis/Mesoa](https://pleiades.stoa.org/places/573370)
 
 
+## 7.19.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.19.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.19.4)  
+
+### alignments:
+ - [(A)Meilichos (river)](https://pleiades.stoa.org/places/570069)
+
+
+## 7.19.9
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.19.9](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.19.9)  
+
+### alignments:
+ - [(A)Meilichos (river)](https://pleiades.stoa.org/places/570069)
+
+
 ## 7.2.10
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.2.10](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.2.10)  
 
@@ -2836,6 +2853,13 @@
 ### alignments:
  - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
  - [Ephesus/Arsinoe(ia)](https://pleiades.stoa.org/places/599612)
+
+
+## 7.20.1
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.20.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:7.20.1)  
+
+### alignments:
+ - [(A)Meilichos (river)](https://pleiades.stoa.org/places/570069)
 
 
 ## 7.20.6
@@ -3116,6 +3140,13 @@
 
 ### alignments:
  - [Ostrakina (mountain)](https://pleiades.stoa.org/places/573421)
+
+
+## 8.12.7
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.12.7](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.12.7)  
+
+### alignments:
+ - [Ptolis](https://pleiades.stoa.org/places/573488)
 
 
 ## 8.12.8
@@ -3986,6 +4017,13 @@
 
 ### alignments:
  - [Ophis (river)](https://pleiades.stoa.org/places/570534)
+
+
+## 8.8.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.8.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:8.8.4)  
+
+### alignments:
+ - [Ptolis](https://pleiades.stoa.org/places/573488)
 
 
 ## 8

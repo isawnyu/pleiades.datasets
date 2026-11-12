@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11686 alignments exist in _Pleiades_ place references as of 2026-11-11. The following list of alignments is grouped by zotkey.
+11701 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13903,6 +13903,13 @@
  - [Tugurium Romuli](https://pleiades.stoa.org/places/251058809)
 
 
+## Casal Bernocchi necropolis (Q141086013)
+[https://www.wikidata.org/wiki/Q141086013](https://www.wikidata.org/wiki/Q141086013)  
+
+### alignments:
+ - [Casal Bernocchi-Malafede](https://pleiades.stoa.org/places/52385299)
+
+
 ## Casal Bertone necropolis (Q141044807)
 [https://www.wikidata.org/wiki/Q141044807](https://www.wikidata.org/wiki/Q141044807)  
 
@@ -25444,6 +25451,13 @@
  - [Great Dunmow](https://pleiades.stoa.org/places/79489)
 
 
+## Great Menderes River (Q211089)
+[https://www.wikidata.org/wiki/Q211089](https://www.wikidata.org/wiki/Q211089)  
+
+### alignments:
+ - [Maeander (river)](https://pleiades.stoa.org/places/599777)
+
+
 ## Great Morava (Q211328)
 [https://www.wikidata.org/wiki/Q211328](https://www.wikidata.org/wiki/Q211328)  
 
@@ -33281,6 +33295,13 @@
  - [Laodicea ad Libanum](https://pleiades.stoa.org/places/668291)
 
 
+## Laodicea North Theater (Q135581857)
+[https://www.wikidata.org/wiki/Q135581857](https://www.wikidata.org/wiki/Q135581857)  
+
+### alignments:
+ - [Eastern theater at Laodicea ad Lycum](https://pleiades.stoa.org/places/601030061)
+
+
 ## Lapathus (Q1329990)
 [https://www.wikidata.org/wiki/Q1329990](https://www.wikidata.org/wiki/Q1329990)  
 
@@ -33797,6 +33818,13 @@
 
 ### alignments:
  - [L’Ecluse](https://pleiades.stoa.org/places/246375)
+
+
+## Lesbos (Q128087)
+[https://www.wikidata.org/wiki/Q128087](https://www.wikidata.org/wiki/Q128087)  
+
+### alignments:
+ - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
 
 
 ## Lescar (Q324551)
@@ -34364,6 +34392,13 @@
 
 ### alignments:
  - [Roman amphitheater at Lixus](https://pleiades.stoa.org/places/35858006)
+
+
+## Ljubljanica (Q339990)
+[https://www.wikidata.org/wiki/Q339990](https://www.wikidata.org/wiki/Q339990)  
+
+### alignments:
+ - [Emona/Nauportus (river)](https://pleiades.stoa.org/places/197259)
 
 
 ## Llanfor Roman fort (Q20586656)
@@ -35099,7 +35134,6 @@
  - [Fortuna Muliebris, T.](https://pleiades.stoa.org/places/422926)
  - [Girmua](https://pleiades.stoa.org/places/248782116)
  - [Granicus (river)](https://pleiades.stoa.org/places/511260)
- - [Lesbos (island)](https://pleiades.stoa.org/places/550696)
  - [Macael](https://pleiades.stoa.org/places/265957)
  - [Marad](https://pleiades.stoa.org/places/912901)
  - [Per-Sopdu](https://pleiades.stoa.org/places/738393046)
@@ -36698,6 +36732,13 @@
 
 ### alignments:
  - [Melas (river)](https://pleiades.stoa.org/places/543781)
+
+
+## Meles river (Q7337631)
+[https://www.wikidata.org/wiki/Q7337631](https://www.wikidata.org/wiki/Q7337631)  
+
+### alignments:
+ - [Meles (river)](https://pleiades.stoa.org/places/550729)
 
 
 ## Melet Cayi (Q19296191)
@@ -41070,6 +41111,13 @@
  - [Numerus Syrorum](https://pleiades.stoa.org/places/285495)
 
 
+## Numicus (Q3346299)
+[https://www.wikidata.org/wiki/Q3346299](https://www.wikidata.org/wiki/Q3346299)  
+
+### alignments:
+ - [Numicus (river)](https://pleiades.stoa.org/places/422988)
+
+
 ## Numidia (Q12901244)
 [https://www.wikidata.org/wiki/Q12901244](https://www.wikidata.org/wiki/Q12901244)  
 
@@ -41649,6 +41697,13 @@
 
 ### alignments:
  - [Oche (mountain)](https://pleiades.stoa.org/places/540965)
+
+
+## Ocinarus (Q121286065)
+[https://www.wikidata.org/wiki/Q121286065](https://www.wikidata.org/wiki/Q121286065)  
+
+### alignments:
+ - [Ocinarus (river)](https://pleiades.stoa.org/places/452394)
 
 
 ## Octapolis (Q6004039)
@@ -42244,6 +42299,13 @@
 
 ### alignments:
  - [Ontikes](https://pleiades.stoa.org/places/252973)
+
+
+## Ophis (Q106042343)
+[https://www.wikidata.org/wiki/Q106042343](https://www.wikidata.org/wiki/Q106042343)  
+
+### alignments:
+ - [Ophis (river)](https://pleiades.stoa.org/places/570534)
 
 
 ## Ophis (Q65049073)
@@ -44024,6 +44086,13 @@
  - [Peel Gap Tower](https://pleiades.stoa.org/places/967060397)
 
 
+## Peiros (Q3555219)
+[https://www.wikidata.org/wiki/Q3555219](https://www.wikidata.org/wiki/Q3555219)  
+
+### alignments:
+ - [Peiros (river)](https://pleiades.stoa.org/places/570572)
+
+
 ## Peithesa (Q124157929)
 [https://www.wikidata.org/wiki/Q124157929](https://www.wikidata.org/wiki/Q124157929)  
 
@@ -44890,6 +44959,13 @@
 
 ### alignments:
  - [Phoibaion](https://pleiades.stoa.org/places/573452)
+
+
+## Phoinix (Q31842066)
+[https://www.wikidata.org/wiki/Q31842066](https://www.wikidata.org/wiki/Q31842066)  
+
+### alignments:
+ - [Phoinix? (river)](https://pleiades.stoa.org/places/541049)
 
 
 ## Pholoe (Q2354090)
@@ -47523,6 +47599,13 @@
 
 ### alignments:
  - [Ptolemais Hermiou/Psoi](https://pleiades.stoa.org/places/756635)
+
+
+## Ptolis (Q60791931)
+[https://www.wikidata.org/wiki/Q60791931](https://www.wikidata.org/wiki/Q60791931)  
+
+### alignments:
+ - [Ptolis](https://pleiades.stoa.org/places/573488)
 
 
 ## Public Administration Buildings (Q27688042)
@@ -55807,13 +55890,6 @@
  - [Noviomagus Lexoviorum](https://pleiades.stoa.org/places/69540)
 
 
-## Q3346299: Numicus
-[https://www.wikidata.org/wiki/Q3346299](https://www.wikidata.org/wiki/Q3346299)  
-
-### alignments:
- - [Numicus (river)](https://pleiades.stoa.org/places/422988)
-
-
 ## Q3346857: Monte Abatone necropolis
 [https://www.wikidata.org/wiki/Q3346857](https://www.wikidata.org/wiki/Q3346857)  
 
@@ -57333,13 +57409,6 @@
 
 ### alignments:
  - [Durrueli di Realmonte](https://pleiades.stoa.org/places/462188)
-
-
-## Q4012811: villa romana di Torvaianica
-[https://www.wikidata.org/wiki/Q4012811](https://www.wikidata.org/wiki/Q4012811)  
-
-### alignments:
- - [Torvaianica](https://pleiades.stoa.org/places/492463658)
 
 
 ## Q404064
@@ -62719,6 +62788,13 @@
 
 ### alignments:
  - [Melpis (river)](https://pleiades.stoa.org/places/432935)
+
+
+## River Mermadalis (Q142117002)
+[https://www.wikidata.org/wiki/Q142117002](https://www.wikidata.org/wiki/Q142117002)  
+
+### alignments:
+ - [Mermadalis (river)](https://pleiades.stoa.org/places/835038)
 
 
 ## River Naver (Q2433199)
@@ -70278,6 +70354,13 @@
  - [Suessula](https://pleiades.stoa.org/places/433133)
 
 
+## Sukhoe Ozero II (Q142114071)
+[https://www.wikidata.org/wiki/Q142114071](https://www.wikidata.org/wiki/Q142114071)  
+
+### alignments:
+ - [Sukhoe Ozero II](https://pleiades.stoa.org/places/715491726)
+
+
 ## Sulaiman-Too (Q750190)
 [https://www.wikidata.org/wiki/Q750190](https://www.wikidata.org/wiki/Q750190)  
 
@@ -76016,6 +76099,13 @@
  - [Trajan's Kiosk](https://pleiades.stoa.org/places/222740561)
 
 
+## Tralleis (Q462630)
+[https://www.wikidata.org/wiki/Q462630](https://www.wikidata.org/wiki/Q462630)  
+
+### alignments:
+ - [Tralles/Dia/Seleuceia ad Maeandrum/Kaisareia](https://pleiades.stoa.org/places/599987)
+
+
 ## Trampya (Q7833206)
 [https://www.wikidata.org/wiki/Q7833206](https://www.wikidata.org/wiki/Q7833206)  
 
@@ -76588,6 +76678,13 @@
 
 ### alignments:
  - [Trossulum](https://pleiades.stoa.org/places/416874)
+
+
+## Troy (Latium) (Q142116714)
+[https://www.wikidata.org/wiki/Q142116714](https://www.wikidata.org/wiki/Q142116714)  
+
+### alignments:
+ - [Troia?](https://pleiades.stoa.org/places/423107)
 
 
 ## Troy (Q121887129)
@@ -79691,6 +79788,13 @@
 
 ### alignments:
  - [Villa Romana di Collesecco](https://pleiades.stoa.org/places/755104812)
+
+
+## villa romana di Torvaianica (Q4012811)
+[https://www.wikidata.org/wiki/Q4012811](https://www.wikidata.org/wiki/Q4012811)  
+
+### alignments:
+ - [Torvaianica](https://pleiades.stoa.org/places/492463658)
 
 
 ## Villa Romana do Montinho das Laranjeiras (Q10391475)
