@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5211 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
+5212 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -29314,6 +29314,13 @@
 
 ### alignments:
  - [Quiza Cenitana](https://pleiades.stoa.org/places/295327)
+
+
+## Raetia (Europe)
+[https://topostext.org/place/469105RRae](https://topostext.org/place/469105RRae)  
+
+### alignments:
+ - [Raetia](https://pleiades.stoa.org/places/187523)
 
 
 ## Rakhi fort (Kefallenia)  Rakhi

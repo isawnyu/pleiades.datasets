@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11701 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
+11702 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -61948,6 +61948,13 @@
 
 ### alignments:
  - [Raeburnfoot](https://pleiades.stoa.org/places/950298919)
+
+
+## Raetia (Q156789)
+[https://www.wikidata.org/wiki/Q156789](https://www.wikidata.org/wiki/Q156789)  
+
+### alignments:
+ - [Raetia](https://pleiades.stoa.org/places/187523)
 
 
 ## Raetovari (Q356540)

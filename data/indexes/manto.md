@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1517 alignments exist in _Pleiades_ place references as of 2026-11-12. The following list of alignments is grouped by zotkey.
+1520 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -4532,6 +4532,13 @@
  - [Pagasaeus/Demetriacus Sinus](https://pleiades.stoa.org/places/540997)
 
 
+## 11307445: Pyrrha (island)
+[https://resource.manto.unh.edu/11307445](https://resource.manto.unh.edu/11307445)  
+
+### alignments:
+ - [Pyrrha Pr.](https://pleiades.stoa.org/places/543857)
+
+
 ## 11307447: Deucalion (island)
 [https://resource.manto.unh.edu/11307447](https://resource.manto.unh.edu/11307447)  
 
@@ -5826,6 +5833,13 @@
 
 ### alignments:
  - [Sarepta/Makra Kome](https://pleiades.stoa.org/places/678374)
+
+
+## 11315347: Rhaucos (Crete)
+[https://resource.manto.unh.edu/11315347](https://resource.manto.unh.edu/11315347)  
+
+### alignments:
+ - [Rhaukos](https://pleiades.stoa.org/places/590026)
 
 
 ## 11315384: the Land of the Eordoi (Thrace)
@@ -7317,6 +7331,13 @@
 
 ### alignments:
  - [Teanum Apulum](https://pleiades.stoa.org/places/442815)
+
+
+## 11329517: Raetia (N. Italy)
+[https://resource.manto.unh.edu/11329517](https://resource.manto.unh.edu/11329517)  
+
+### alignments:
+ - [Raetia](https://pleiades.stoa.org/places/187523)
 
 
 ## 11329523: the Land of the Lepontii (N. Italy)
