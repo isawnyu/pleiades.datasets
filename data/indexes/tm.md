@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5208 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+5209 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -10641,6 +10641,13 @@
 
 ### alignments:
  - [Ptolemais Hermiou/Psoi](https://pleiades.stoa.org/places/756635)
+
+
+## GEO ID 2024
+[http://www.trismegistos.org/place/2024](http://www.trismegistos.org/place/2024)  
+
+### alignments:
+ - [Ptolemais Hormou](https://pleiades.stoa.org/places/737029)
 
 
 ## GEO ID 2026: Ptolemais Melissourgon

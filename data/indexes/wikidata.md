@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11702 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+11718 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -813,6 +813,13 @@
 
 ### alignments:
  - [Akrasos](https://pleiades.stoa.org/places/554181)
+
+
+## Acre (Q126084)
+[https://www.wikidata.org/wiki/Q126084](https://www.wikidata.org/wiki/Q126084)  
+
+### alignments:
+ - [Ake/Ptolemais](https://pleiades.stoa.org/places/678010)
 
 
 ## Acrocorinth (Q420810)
@@ -4780,6 +4787,13 @@
  - [Antisara](https://pleiades.stoa.org/places/501351)
 
 
+## Antissa (Q42434557)
+[https://www.wikidata.org/wiki/Q42434557](https://www.wikidata.org/wiki/Q42434557)  
+
+### alignments:
+ - [Antissa](https://pleiades.stoa.org/places/550435)
+
+
 ## Antium (Q16010710)
 [https://www.wikidata.org/wiki/Q16010710](https://www.wikidata.org/wiki/Q16010710)  
 
@@ -8050,6 +8064,13 @@
  - [Acherousias Pr.](https://pleiades.stoa.org/places/844849)
 
 
+## Baba Hatim Ziyarat (Q4837307)
+[https://www.wikidata.org/wiki/Q4837307](https://www.wikidata.org/wiki/Q4837307)  
+
+### alignments:
+ - [Baba Hatim Ziyarat](https://pleiades.stoa.org/places/148315058)
+
+
 ## Babadağ (Q4837427)
 [https://www.wikidata.org/wiki/Q4837427](https://www.wikidata.org/wiki/Q4837427)  
 
@@ -8311,6 +8332,13 @@
 
 ## Balawat (Q1659846)
 [https://www.wikidata.org/wiki/Q1659846](https://www.wikidata.org/wiki/Q1659846)  
+
+### alignments:
+ - [Balāwāt](https://pleiades.stoa.org/places/924247288)
+
+
+## Balawat Gates (Q15510197)
+[https://www.wikidata.org/wiki/Q15510197](https://www.wikidata.org/wiki/Q15510197)  
 
 ### alignments:
  - [Balāwāt](https://pleiades.stoa.org/places/924247288)
@@ -9876,6 +9904,13 @@
 
 ### alignments:
  - [Barygaza](https://pleiades.stoa.org/places/59737)
+
+
+## Bhir Mound (Q854989)
+[https://www.wikidata.org/wiki/Q854989](https://www.wikidata.org/wiki/Q854989)  
+
+### alignments:
+ - [Bhir Mound](https://pleiades.stoa.org/places/107421148)
 
 
 ## Bhirrana (Q4901824)
@@ -15751,6 +15786,13 @@
  - [Caudium](https://pleiades.stoa.org/places/432773)
 
 
+## Caulonia (Q1292498)
+[https://www.wikidata.org/wiki/Q1292498](https://www.wikidata.org/wiki/Q1292498)  
+
+### alignments:
+ - [Kaulonia](https://pleiades.stoa.org/places/452352)
+
+
 ## Caulonia (Q54597)
 [https://www.wikidata.org/wiki/Q54597](https://www.wikidata.org/wiki/Q54597)  
 
@@ -15931,6 +15973,13 @@
 
 ### alignments:
  - [Caelia (Apulia)](https://pleiades.stoa.org/places/442515)
+
+
+## Celeae (Q115380594)
+[https://www.wikidata.org/wiki/Q115380594](https://www.wikidata.org/wiki/Q115380594)  
+
+### alignments:
+ - [Keleai](https://pleiades.stoa.org/places/573280)
 
 
 ## Celle necropolis (Q141592846)
@@ -17766,6 +17815,13 @@
 
 ### alignments:
  - [Colombarone](https://pleiades.stoa.org/places/584324061)
+
+
+## Colonia Salaria (Q20087591)
+[https://www.wikidata.org/wiki/Q20087591](https://www.wikidata.org/wiki/Q20087591)  
+
+### alignments:
+ - [Salaria?](https://pleiades.stoa.org/places/266022)
 
 
 ## Colonnacce Roman villa (Q100349105)
@@ -20043,6 +20099,13 @@
 
 ### alignments:
  - [Diktynnaion](https://pleiades.stoa.org/places/589760)
+
+
+## Dilbarjin (Q1225443)
+[https://www.wikidata.org/wiki/Q1225443](https://www.wikidata.org/wiki/Q1225443)  
+
+### alignments:
+ - [Dilbarjin](https://pleiades.stoa.org/places/961901)
 
 
 ## Dilmun Burial Mounds (Q5276996)
@@ -22863,6 +22926,13 @@
  - [Fanum Voltumnae](https://pleiades.stoa.org/places/416806)
 
 
+## Farah Citadel (Q5434719)
+[https://www.wikidata.org/wiki/Q5434719](https://www.wikidata.org/wiki/Q5434719)  
+
+### alignments:
+ - [Farah Bala Hisar](https://pleiades.stoa.org/places/682990830)
+
+
 ## Faras Cathedral (Q1227931)
 [https://www.wikidata.org/wiki/Q1227931](https://www.wikidata.org/wiki/Q1227931)  
 
@@ -24753,6 +24823,13 @@
 
 ### alignments:
  - [Geren(i)a](https://pleiades.stoa.org/places/570261)
+
+
+## Geretae (Q142174354)
+[https://www.wikidata.org/wiki/Q142174354](https://www.wikidata.org/wiki/Q142174354)  
+
+### alignments:
+ - [Geretae](https://pleiades.stoa.org/places/60517)
 
 
 ## Gergis (Q17155131)
@@ -27040,6 +27117,13 @@
  - [Temple of Hera at Foce del Sele](https://pleiades.stoa.org/places/442610)
 
 
+## Heraion of Argos (Q1607754)
+[https://www.wikidata.org/wiki/Q1607754](https://www.wikidata.org/wiki/Q1607754)  
+
+### alignments:
+ - [Heraion (Argolis)](https://pleiades.stoa.org/places/570289)
+
+
 ## Heraion of Perachora (Q2070087)
 [https://www.wikidata.org/wiki/Q2070087](https://www.wikidata.org/wiki/Q2070087)  
 
@@ -27661,6 +27745,13 @@
 
 ### alignments:
  - [Horti Spei Veteris](https://pleiades.stoa.org/places/874244230)
+
+
+## Hosh el-Kab fort (Q85767329)
+[https://www.wikidata.org/wiki/Q85767329](https://www.wikidata.org/wiki/Q85767329)  
+
+### alignments:
+ - [Hosh el-Kab](https://pleiades.stoa.org/places/499069176)
 
 
 ## Hosios Loukas (Q844841)
@@ -31299,6 +31390,13 @@
  - [Kalama Kolpos](https://pleiades.stoa.org/places/59857)
 
 
+## Khwaja Hafiz (Q108321113)
+[https://www.wikidata.org/wiki/Q108321113](https://www.wikidata.org/wiki/Q108321113)  
+
+### alignments:
+ - [Khwaja Hafiz](https://pleiades.stoa.org/places/971805)
+
+
 ## Kiboreia (Q6404060)
 [https://www.wikidata.org/wiki/Q6404060](https://www.wikidata.org/wiki/Q6404060)  
 
@@ -31458,6 +31556,13 @@
 
 ### alignments:
  - [Kippenheim](https://pleiades.stoa.org/places/109083)
+
+
+## Kirkbride Roman fort, part of associated vicus and length of Roman road around, 370m south east of Whitrigg Bridge (Q17677964)
+[https://www.wikidata.org/wiki/Q17677964](https://www.wikidata.org/wiki/Q17677964)  
+
+### alignments:
+ - [Kirkbride](https://pleiades.stoa.org/places/774886524)
 
 
 ## Kirkby Thore Roman Fort and Associated Vicus (Q17662365)
@@ -39235,6 +39340,13 @@
  - [Mithraeum at Mundelsheim](https://pleiades.stoa.org/places/955393848)
 
 
+## Mundigak (Q6935822)
+[https://www.wikidata.org/wiki/Q6935822](https://www.wikidata.org/wiki/Q6935822)  
+
+### alignments:
+ - [Mundigak](https://pleiades.stoa.org/places/498033127)
+
+
 ## Municipium Dardanorum (Q4817379)
 [https://www.wikidata.org/wiki/Q4817379](https://www.wikidata.org/wiki/Q4817379)  
 
@@ -42378,6 +42490,13 @@
  - [Ensérune](https://pleiades.stoa.org/places/246383)
 
 
+## Oppidum de Boviolles (Q22975746)
+[https://www.wikidata.org/wiki/Q22975746](https://www.wikidata.org/wiki/Q22975746)  
+
+### alignments:
+ - [Boviolles](https://pleiades.stoa.org/places/58239709)
+
+
 ## Oppidum de Nages (Q3354378)
 [https://www.wikidata.org/wiki/Q3354378](https://www.wikidata.org/wiki/Q3354378)  
 
@@ -43722,6 +43841,13 @@
  - [Theatre of Parium](https://pleiades.stoa.org/places/713959974)
 
 
+## Parishan Tepe (Q108308658)
+[https://www.wikidata.org/wiki/Q108308658](https://www.wikidata.org/wiki/Q108308658)  
+
+### alignments:
+ - [Parishan tepe](https://pleiades.stoa.org/places/961951)
+
+
 ## Parisi (Q953386)
 [https://www.wikidata.org/wiki/Q953386](https://www.wikidata.org/wiki/Q953386)  
 
@@ -44721,6 +44847,13 @@
 
 ### alignments:
  - [Pharsalus](https://pleiades.stoa.org/places/541042)
+
+
+## Phaselis (Q595329)
+[https://www.wikidata.org/wiki/Q595329](https://www.wikidata.org/wiki/Q595329)  
+
+### alignments:
+ - [Phaselis](https://pleiades.stoa.org/places/639051)
 
 
 ## Pheca (Q60790443)
@@ -47447,6 +47580,13 @@
  - [Prospalta](https://pleiades.stoa.org/places/580092)
 
 
+## Prosymna (Q20047246)
+[https://www.wikidata.org/wiki/Q20047246](https://www.wikidata.org/wiki/Q20047246)  
+
+### alignments:
+ - [Prosymna](https://pleiades.stoa.org/places/573485)
+
+
 ## Prosymna Tholos (Q20184045)
 [https://www.wikidata.org/wiki/Q20184045](https://www.wikidata.org/wiki/Q20184045)  
 
@@ -47557,6 +47697,13 @@
 
 ### alignments:
  - [Pteleon](https://pleiades.stoa.org/places/541077)
+
+
+## Pteleum (Q16622926)
+[https://www.wikidata.org/wiki/Q16622926](https://www.wikidata.org/wiki/Q16622926)  
+
+### alignments:
+ - [Pteleon/Pteleasion](https://pleiades.stoa.org/places/573486)
 
 
 ## Pteria (Q7256680)
@@ -47720,6 +47867,13 @@
  - [Pupinia](https://pleiades.stoa.org/places/666067877)
 
 
+## Pust-i Gau (Q108308812)
+[https://www.wikidata.org/wiki/Q108308812](https://www.wikidata.org/wiki/Q108308812)  
+
+### alignments:
+ - [Pust-i Gau](https://pleiades.stoa.org/places/231057103)
+
+
 ## Puy d'Issolud (Q16964768)
 [https://www.wikidata.org/wiki/Q16964768](https://www.wikidata.org/wiki/Q16964768)  
 
@@ -47753,6 +47907,13 @@
 
 ### alignments:
  - [Kydna/Pydnai](https://pleiades.stoa.org/places/638949)
+
+
+## Pygela (Q17266554)
+[https://www.wikidata.org/wiki/Q17266554](https://www.wikidata.org/wiki/Q17266554)  
+
+### alignments:
+ - [P(h)ygela](https://pleiades.stoa.org/places/599887)
 
 
 ## Pylene (Q16619015)
@@ -48679,27 +48840,6 @@
  - [Nimlik](https://pleiades.stoa.org/places/961944)
 
 
-## Q108308658: Parishan Tepe
-[https://www.wikidata.org/wiki/Q108308658](https://www.wikidata.org/wiki/Q108308658)  
-
-### alignments:
- - [Parishan tepe](https://pleiades.stoa.org/places/961951)
-
-
-## Q108308812: Pust-i Gau
-[https://www.wikidata.org/wiki/Q108308812](https://www.wikidata.org/wiki/Q108308812)  
-
-### alignments:
- - [Pust-i Gau](https://pleiades.stoa.org/places/231057103)
-
-
-## Q108309893: Sra Ghundai, Ghazni
-[https://www.wikidata.org/wiki/Q108309893](https://www.wikidata.org/wiki/Q108309893)  
-
-### alignments:
- - [Sra Ghundai, Ghazni](https://pleiades.stoa.org/places/231057104)
-
-
 ## Q108310073: Urta Buz
 [https://www.wikidata.org/wiki/Q108310073](https://www.wikidata.org/wiki/Q108310073)  
 
@@ -48719,20 +48859,6 @@
 
 ### alignments:
  - [Sanctuary at Fondo Iozzino](https://pleiades.stoa.org/places/315612319)
-
-
-## Q108320875: Shahr-i Kuhna
-[https://www.wikidata.org/wiki/Q108320875](https://www.wikidata.org/wiki/Q108320875)  
-
-### alignments:
- - [Shahr-i Kuhna](https://pleiades.stoa.org/places/34659070)
-
-
-## Q108321113: Khwaja Hafiz
-[https://www.wikidata.org/wiki/Q108321113](https://www.wikidata.org/wiki/Q108321113)  
-
-### alignments:
- - [Khwaja Hafiz](https://pleiades.stoa.org/places/971805)
 
 
 ## Q108337284
@@ -49563,13 +49689,6 @@
  - [Dikte (mountain)](https://pleiades.stoa.org/places/589759)
 
 
-## Q1225443: Dilbarjin
-[https://www.wikidata.org/wiki/Q1225443](https://www.wikidata.org/wiki/Q1225443)  
-
-### alignments:
- - [Dilbarjin](https://pleiades.stoa.org/places/961901)
-
-
 ## Q1225897: Aeminium
 [https://www.wikidata.org/wiki/Q1225897](https://www.wikidata.org/wiki/Q1225897)  
 
@@ -49829,13 +49948,6 @@
  - [Ekišnugal](https://pleiades.stoa.org/places/663286875)
 
 
-## Q126084: Acre
-[https://www.wikidata.org/wiki/Q126084](https://www.wikidata.org/wiki/Q126084)  
-
-### alignments:
- - [Ake/Ptolemais](https://pleiades.stoa.org/places/678010)
-
-
 ## Q1262524: Treasury of Atreus
 [https://www.wikidata.org/wiki/Q1262524](https://www.wikidata.org/wiki/Q1262524)  
 
@@ -50065,13 +50177,6 @@
 
 ### alignments:
  - [Regio V (Esquiliae)](https://pleiades.stoa.org/places/406470991)
-
-
-## Q1292498: Caulonia
-[https://www.wikidata.org/wiki/Q1292498](https://www.wikidata.org/wiki/Q1292498)  
-
-### alignments:
- - [Kaulonia](https://pleiades.stoa.org/places/452352)
 
 
 ## Q1301011: Ehulhul
@@ -50324,13 +50429,6 @@
 
 ### alignments:
  - [Plestinus L.](https://pleiades.stoa.org/places/413265)
-
-
-## Q1317854
-[https://www.wikidata.org/wiki/Q1317854](https://www.wikidata.org/wiki/Q1317854)  
-
-### alignments:
- - [Tell al-Ubaid](https://pleiades.stoa.org/places/339709658)
 
 
 ## Q131820: Pyramid of Sahure
@@ -51475,13 +51573,6 @@
  - [Grumentum](https://pleiades.stoa.org/places/442603)
 
 
-## Q15510197
-[https://www.wikidata.org/wiki/Q15510197](https://www.wikidata.org/wiki/Q15510197)  
-
-### alignments:
- - [Balāwāt](https://pleiades.stoa.org/places/924247288)
-
-
 ## Q155868: Snake Island
 [https://www.wikidata.org/wiki/Q155868](https://www.wikidata.org/wiki/Q155868)  
 
@@ -51683,13 +51774,6 @@
 
 ### alignments:
  - [Chios (island)](https://pleiades.stoa.org/places/550497)
-
-
-## Q1607754: Heraion of Argos
-[https://www.wikidata.org/wiki/Q1607754](https://www.wikidata.org/wiki/Q1607754)  
-
-### alignments:
- - [Heraion (Argolis)](https://pleiades.stoa.org/places/570289)
 
 
 ## Q1607758: Heracleion
@@ -53343,13 +53427,6 @@
 
 ### alignments:
  - [Maidanetske, Ukraine](https://pleiades.stoa.org/places/304421600)
-
-
-## Q20087591: Colonia Salaria
-[https://www.wikidata.org/wiki/Q20087591](https://www.wikidata.org/wiki/Q20087591)  
-
-### alignments:
- - [Salaria?](https://pleiades.stoa.org/places/266022)
 
 
 ## Q20103
@@ -58330,13 +58407,6 @@
  - [Falerii](https://pleiades.stoa.org/places/413125)
 
 
-## Q5434719: Farah Citadel
-[https://www.wikidata.org/wiki/Q5434719](https://www.wikidata.org/wiki/Q5434719)  
-
-### alignments:
- - [Farah Bala Hisar](https://pleiades.stoa.org/places/682990830)
-
-
 ## Q5442948: Fen Causeway
 [https://www.wikidata.org/wiki/Q5442948](https://www.wikidata.org/wiki/Q5442948)  
 
@@ -58883,13 +58953,6 @@
  - [Arcus Dolabellae et Silani](https://pleiades.stoa.org/places/159953179)
 
 
-## Q583490: Antissa
-[https://www.wikidata.org/wiki/Q583490](https://www.wikidata.org/wiki/Q583490)  
-
-### alignments:
- - [Antissa](https://pleiades.stoa.org/places/550435)
-
-
 ## Q58401924: Hermione (Argolis)
 [https://www.wikidata.org/wiki/Q58401924](https://www.wikidata.org/wiki/Q58401924)  
 
@@ -58993,13 +59056,6 @@
 
 ### alignments:
  - [Torre de Urkulu](https://pleiades.stoa.org/places/487048968)
-
-
-## Q595329: Phaselis
-[https://www.wikidata.org/wiki/Q595329](https://www.wikidata.org/wiki/Q595329)  
-
-### alignments:
- - [Phaselis](https://pleiades.stoa.org/places/639051)
 
 
 ## Q5957170: Hypaepa
@@ -60144,13 +60200,6 @@
  - [Lepti Minus](https://pleiades.stoa.org/places/324767)
 
 
-## Q6935822: Mundigak
-[https://www.wikidata.org/wiki/Q6935822](https://www.wikidata.org/wiki/Q6935822)  
-
-### alignments:
- - [Mundigak](https://pleiades.stoa.org/places/498033127)
-
-
 ## Q6948301
 [https://www.wikidata.org/wiki/Q6948301](https://www.wikidata.org/wiki/Q6948301)  
 
@@ -60758,13 +60807,6 @@
 
 ### alignments:
  - [Temple of Roma and Augustus, Leptis Magna](https://pleiades.stoa.org/places/676148653)
-
-
-## Q82076027: Taxila - Jandial
-[https://www.wikidata.org/wiki/Q82076027](https://www.wikidata.org/wiki/Q82076027)  
-
-### alignments:
- - [Jandial Temple](https://pleiades.stoa.org/places/891186737)
 
 
 ## Q822842: Umm ar-Rasas
@@ -62503,6 +62545,13 @@
  - [Rhegion/Regium](https://pleiades.stoa.org/places/452416)
 
 
+## Rheneia (Q63994838)
+[https://www.wikidata.org/wiki/Q63994838](https://www.wikidata.org/wiki/Q63994838)  
+
+### alignments:
+ - [Rheneia (settlement)](https://pleiades.stoa.org/places/599918)
+
+
 ## Rhesaena (Q111536866)
 [https://www.wikidata.org/wiki/Q111536866](https://www.wikidata.org/wiki/Q111536866)  
 
@@ -62564,6 +62613,13 @@
 
 ### alignments:
  - [Rhodope (mountain)](https://pleiades.stoa.org/places/501592)
+
+
+## Rhoiteion (Q7321268)
+[https://www.wikidata.org/wiki/Q7321268](https://www.wikidata.org/wiki/Q7321268)  
+
+### alignments:
+ - [Rhoiteion](https://pleiades.stoa.org/places/550856)
 
 
 ## Rhypes (Q2148349)
@@ -66278,6 +66334,13 @@
  - [Hyria (Naxos)](https://pleiades.stoa.org/places/599661)
 
 
+## Sanctuary, Suluntah (Q80085899)
+[https://www.wikidata.org/wiki/Q80085899](https://www.wikidata.org/wiki/Q80085899)  
+
+### alignments:
+ - [Slonta](https://pleiades.stoa.org/places/373895)
+
+
 ## Sandaraca (Q65046787)
 [https://www.wikidata.org/wiki/Q65046787](https://www.wikidata.org/wiki/Q65046787)  
 
@@ -68106,6 +68169,13 @@
  - [Shahr-e Sukhteh](https://pleiades.stoa.org/places/377547413)
 
 
+## Shahr-i Kuhna (Q108320875)
+[https://www.wikidata.org/wiki/Q108320875](https://www.wikidata.org/wiki/Q108320875)  
+
+### alignments:
+ - [Shahr-i Kuhna](https://pleiades.stoa.org/places/34659070)
+
+
 ## Shahrisabz (Q569766)
 [https://www.wikidata.org/wiki/Q569766](https://www.wikidata.org/wiki/Q569766)  
 
@@ -69038,6 +69108,13 @@
  - [Snartemo](https://pleiades.stoa.org/places/20609)
 
 
+## Snibat el-Awila (Q106418446)
+[https://www.wikidata.org/wiki/Q106418446](https://www.wikidata.org/wiki/Q106418446)  
+
+### alignments:
+ - [Snibat el-Awila](https://pleiades.stoa.org/places/373896)
+
+
 ## So-called Villa of Quintilius Varus (Q131538679)
 [https://www.wikidata.org/wiki/Q131538679](https://www.wikidata.org/wiki/Q131538679)  
 
@@ -69638,6 +69715,13 @@
 
 ### alignments:
  - [Square Peristyle](https://pleiades.stoa.org/places/841476129)
+
+
+## Sra Ghundai, Ghazni (Q108309893)
+[https://www.wikidata.org/wiki/Q108309893](https://www.wikidata.org/wiki/Q108309893)  
+
+### alignments:
+ - [Sra Ghundai, Ghazni](https://pleiades.stoa.org/places/231057104)
 
 
 ## Sri Lanka (Q4526612)
@@ -71265,6 +71349,13 @@
  - [Tavşan Tepe Tümülüsü](https://pleiades.stoa.org/places/194611949)
 
 
+## Taxila - Jandial (Q82076027)
+[https://www.wikidata.org/wiki/Q82076027](https://www.wikidata.org/wiki/Q82076027)  
+
+### alignments:
+ - [Jandial Temple](https://pleiades.stoa.org/places/891186737)
+
+
 ## Taygetus (Q515809)
 [https://www.wikidata.org/wiki/Q515809](https://www.wikidata.org/wiki/Q515809)  
 
@@ -71466,6 +71557,13 @@
 
 ### alignments:
  - [Tell Afis](https://pleiades.stoa.org/places/725486993)
+
+
+## Tell al-'Ubaid (Q1317854)
+[https://www.wikidata.org/wiki/Q1317854](https://www.wikidata.org/wiki/Q1317854)  
+
+### alignments:
+ - [Tell al-Ubaid](https://pleiades.stoa.org/places/339709658)
 
 
 ## Tell al-Dhiba'i (Q28716833)
@@ -80126,6 +80224,13 @@
  - [Vitsa](https://pleiades.stoa.org/places/531144)
 
 
+## Vivatia (Q133310808)
+[https://www.wikidata.org/wiki/Q133310808](https://www.wikidata.org/wiki/Q133310808)  
+
+### alignments:
+ - [Vi(v)atia](https://pleiades.stoa.org/places/266099)
+
+
 ## Viviers Roman bridge (Q3397584)
 [https://www.wikidata.org/wiki/Q3397584](https://www.wikidata.org/wiki/Q3397584)  
 
@@ -81735,6 +81840,13 @@
 
 ### alignments:
  - [Phykous](https://pleiades.stoa.org/places/373872)
+
+
+## Zāwiyat aţ Ţilīmūn (Q104884611)
+[https://www.wikidata.org/wiki/Q104884611](https://www.wikidata.org/wiki/Q104884611)  
+
+### alignments:
+ - [et-Tailimun](https://pleiades.stoa.org/places/373900)
 
 
 ## Zāwiyat Nablū (Q106422105)

@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-502 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+505 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -112,6 +112,13 @@
 
 ### alignments:
  - [Apollo, T.](https://pleiades.stoa.org/places/540652)
+
+
+## 3837: PROSYMNI - 2002
+[https://chronique.efa.gr/?kroute=report&id=3837](https://chronique.efa.gr/?kroute=report&id=3837)  
+
+### alignments:
+ - [Prosymna](https://pleiades.stoa.org/places/573485)
 
 
 ## 39740
@@ -2978,6 +2985,13 @@
  - [Seriphos (island)](https://pleiades.stoa.org/places/590044)
 
 
+## Toponyme 41727: Rhenea, Megali Dilos, Nisos Rineia, Rhénée-Ρήνεια, η (νησίς)
+[https://chronique.efa.gr/?r=topo_public&id=41727](https://chronique.efa.gr/?r=topo_public&id=41727)  
+
+### alignments:
+ - [Rheneia (island)](https://pleiades.stoa.org/places/599919)
+
+
 ## Toponyme 42466: Chios, Hios, Scio, Chora, Castro, Kastron, Sakız
 [https://chronique.efa.gr/?kroute=topo_public&id=42466](https://chronique.efa.gr/?kroute=topo_public&id=42466)  
 
@@ -3517,6 +3531,13 @@
 
 ### alignments:
  - [Krenides/Philippi/Col. Augusta Iulia Philippensis](https://pleiades.stoa.org/places/501482)
+
+
+## Toponyme 9626: Psofis, Chozova (156/1928)-Δ.Δ.Ψωφίδος, Ψωφίς, Χόζοβα
+[https://chronique.efa.gr/?r=topo_public&id=9626](https://chronique.efa.gr/?r=topo_public&id=9626)  
+
+### alignments:
+ - [Psophis](https://pleiades.stoa.org/places/570638)
 
 
 ## VOULIAGMENI - ASTERAS - 2008

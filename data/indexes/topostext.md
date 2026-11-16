@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5212 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+5217 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -8050,6 +8050,13 @@
 
 ### alignments:
  - [Cebenna Mons](https://pleiades.stoa.org/places/167703)
+
+
+## Celeae (Peloponnese)
+[https://topostext.org/place/378226RCel](https://topostext.org/place/378226RCel)  
+
+### alignments:
+ - [Keleai](https://pleiades.stoa.org/places/573280)
 
 
 ## Cellae (Florina)
@@ -22927,6 +22934,13 @@
  - [Naustathmos](https://pleiades.stoa.org/places/373862)
 
 
+## Naustathmus (Pontus
+[https://topostext.org/place/415361UNau](https://topostext.org/place/415361UNau)  
+
+### alignments:
+ - [Naustathmos](https://pleiades.stoa.org/places/857242)
+
+
 ## Navel of the City of Rome (Rome)
 [https://topostext.org/place/419125AOmp](https://topostext.org/place/419125AOmp)  
 
@@ -28930,6 +28944,13 @@
  - [Prosymna tholos](https://pleiades.stoa.org/places/751681995)
 
 
+## Prosymna? (Argolid)
+[https://topostext.org/place/377226UPro](https://topostext.org/place/377226UPro)  
+
+### alignments:
+ - [Prosymna](https://pleiades.stoa.org/places/573485)
+
+
 ## Prote (Messenia)
 [https://topostext.org/place/371216IPro](https://topostext.org/place/371216IPro)  
 
@@ -29090,6 +29111,13 @@
 
 ### alignments:
  - [Pteleon (mountain)](https://pleiades.stoa.org/places/531077)
+
+
+## Pteleon? (Eleia)
+[https://topostext.org/place/375218UPte](https://topostext.org/place/375218UPte)  
+
+### alignments:
+ - [Pteleon/Pteleasion](https://pleiades.stoa.org/places/573486)
 
 
 ## Ptolemais (Libya)
@@ -35942,6 +35970,13 @@
 
 ### alignments:
  - [Vitsa](https://pleiades.stoa.org/places/531144)
+
+
+## Vivatia (Iberia)
+[https://topostext.org/place/380-35UViv](https://topostext.org/place/380-35UViv)  
+
+### alignments:
+ - [Vi(v)atia](https://pleiades.stoa.org/places/266099)
 
 
 ## Vlithias site (Crete)

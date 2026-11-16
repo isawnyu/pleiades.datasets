@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2412 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+2415 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -12462,6 +12462,13 @@
  - [Messene](https://pleiades.stoa.org/places/570479)
 
 
+## 6C5 (Talbert 3056)
+[https://web.archive.org/web/20260128022455/https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3056.html](https://web.archive.org/web/20260128022455/https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3056.html)  
+
+### alignments:
+ - [Seli](https://pleiades.stoa.org/places/364012)
+
+
 ## 6C5 (Talbert 308)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace308.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace308.html)  
 
@@ -15081,6 +15088,13 @@
  - [Herakleopolis](https://pleiades.stoa.org/places/736920)
 
 
+## 8C3 (Talbert 421)
+[https://web.archive.org/web/20190613020631/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace421.html](https://web.archive.org/web/20190613020631/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace421.html)  
+
+### alignments:
+ - [Ptolemais Hormou](https://pleiades.stoa.org/places/737029)
+
+
 ## 8C3 (Talbert 424)
 [https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace424.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace424.html)  
 
@@ -15310,6 +15324,13 @@
 
 ### alignments:
  - [Gadilon/Helega?](https://pleiades.stoa.org/places/857128)
+
+
+## 9A1 (Talbert 2234)
+[https://web.archive.org/web/20190721050602/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2234.html](https://web.archive.org/web/20190721050602/http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2234.html)  
+
+### alignments:
+ - [Naustathmos](https://pleiades.stoa.org/places/857242)
 
 
 ## 9A1 (Talbert 2253)

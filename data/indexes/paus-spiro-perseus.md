@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-583 alignments exist in _Pleiades_ place references as of 2026-11-13. The following list of alignments is grouped by zotkey.
+583 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -395,6 +395,7 @@
  - [Pegai](https://pleiades.stoa.org/places/573430)
  - [Petrosaka](https://pleiades.stoa.org/places/573440)
  - [Pionia(i)](https://pleiades.stoa.org/places/550832)
+ - [Prosymna](https://pleiades.stoa.org/places/573485)
  - [Sanctuary of Despoina at Lykosoura](https://pleiades.stoa.org/places/29727643)
  - [Sellasia](https://pleiades.stoa.org/places/570662)
  - [Skyras (river)](https://pleiades.stoa.org/places/573526)
