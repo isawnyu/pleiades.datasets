@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TP (Talbert: CUP)
-2415 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
+2415 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
 
 ## 10A1 (Talbert 2448)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2448.html)  
@@ -13842,13 +13842,6 @@
  - [Montes Cyrenei](https://pleiades.stoa.org/places/950256720)
 
 
-## 8 B1 ? (TPPlace3134)
-[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3134.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3134.html)  
-
-### alignments:
- - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
-
-
 ## 8A1 (Talbert 2084)
 [http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2084.html](http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace2084.html)  
 
@@ -14190,6 +14183,13 @@
 
 ### alignments:
  - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
+
+
+## 8B1 (Talbert 3134)
+[https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3134.html](https://www.cambridge.org/us/talbert/talbertdatabase/TPPlace3134.html)  
+
+### alignments:
+ - [Lemnos (island)](https://pleiades.stoa.org/places/550693)
 
 
 ## 8B1 Cnoso (Talbert 2071)

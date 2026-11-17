@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5217 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
+5219 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Tomb of Endymion (Olympia)](https://pleiades.stoa.org/places/846808377)
+
+
+## 376216GOin
+[https://topostext.org/place/376216GOin](https://topostext.org/place/376216GOin)  
+
+### alignments:
+ - [Tomb of Oinomaos (Olympia)](https://pleiades.stoa.org/places/986089274)
 
 
 ## 376221UHyp: Hypsous (Arkadia) 12 Stemnitsa/Hypsous - Υψούς
@@ -35774,6 +35781,13 @@
 
 ### alignments:
  - [Via Labicana](https://pleiades.stoa.org/places/74935822)
+
+
+## Via Laurentina (Rome)
+[https://topostext.org/place/418125LVla](https://topostext.org/place/418125LVla)  
+
+### alignments:
+ - [Via Laurentina](https://pleiades.stoa.org/places/988280578)
 
 
 ## Via Nomentana (Latium)

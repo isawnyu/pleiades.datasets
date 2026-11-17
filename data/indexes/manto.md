@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1538 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
+1542 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2236,6 +2236,13 @@
  - [Thronion](https://pleiades.stoa.org/places/484015)
 
 
+## 10268833: the Tomb of Oinomaos (Olympia)
+[https://resource.manto.unh.edu/10268833](https://resource.manto.unh.edu/10268833)  
+
+### alignments:
+ - [Tomb of Oinomaos (Olympia)](https://pleiades.stoa.org/places/986089274)
+
+
 ## 10268846: Tipha (Boiotia)
 [https://resource.manto.unh.edu/10268846](https://resource.manto.unh.edu/10268846)  
 
@@ -2332,6 +2339,13 @@
 
 ### alignments:
  - [Herakleia](https://pleiades.stoa.org/places/570290)
+
+
+## 10269073:  the Tomb of Laios (Phocis)
+[https://resource.manto.unh.edu/10269073](https://resource.manto.unh.edu/10269073)  
+
+### alignments:
+ - [Tomb of Laius](https://pleiades.stoa.org/places/986089273)
 
 
 ## 10269093: Tempe (Thessaly) valley in Thessaly
@@ -6269,11 +6283,25 @@
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
 
 
+## 11319201: Casa del Re di Prussia VII 9, 33 (Pompeii)
+[https://resource.manto.unh.edu/11319201](https://resource.manto.unh.edu/11319201)  
+
+### alignments:
+ - [House of the King of Prussia](https://pleiades.stoa.org/places/812734415)
+
+
 ## 11319206: Private Dwelling VIII 2, 14-16 (Pompeii)
 [https://resource.manto.unh.edu/11319206](https://resource.manto.unh.edu/11319206)  
 
 ### alignments:
  - [House of the Geometric Mosaics (VIII.2.16)](https://pleiades.stoa.org/places/393691694)
+
+
+## 11319212: Casa di Giuseppe II; VIII 2, 39 (Pompeii)
+[https://resource.manto.unh.edu/11319212](https://resource.manto.unh.edu/11319212)  
+
+### alignments:
+ - [Casa di Giuseppe II](https://pleiades.stoa.org/places/315639757)
 
 
 ## 11319213: Casa della Regina Carolina VIII 3, 14 (Pompeii)

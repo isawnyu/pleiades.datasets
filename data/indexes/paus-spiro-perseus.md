@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-583 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
+585 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -982,6 +982,13 @@
 
 ### alignments:
  - [Daulis](https://pleiades.stoa.org/places/540723)
+
+
+## 10.5.4
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.5.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:10.5.4)  
+
+### alignments:
+ - [Tomb of Laius](https://pleiades.stoa.org/places/986089273)
 
 
 ## 10.5
@@ -2654,6 +2661,13 @@
 
 ### alignments:
  - [Sanctuary of Demeter Chamyne](https://pleiades.stoa.org/places/469444289)
+
+
+## 6.21.3
+[http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.21.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:6.21.3)  
+
+### alignments:
+ - [Tomb of Oinomaos (Olympia)](https://pleiades.stoa.org/places/986089274)
 
 
 ## 6.21.5

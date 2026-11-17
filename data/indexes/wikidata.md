@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11718 alignments exist in _Pleiades_ place references as of 2026-11-16. The following list of alignments is grouped by zotkey.
+11722 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -13868,6 +13868,13 @@
  - [House of Julius Polybius](https://pleiades.stoa.org/places/23240266)
 
 
+## Casa di Giuseppe II (Q27688100)
+[https://www.wikidata.org/wiki/Q27688100](https://www.wikidata.org/wiki/Q27688100)  
+
+### alignments:
+ - [Casa di Giuseppe II](https://pleiades.stoa.org/places/315639757)
+
+
 ## Casa di M. Epidio Sabino (Q27688379)
 [https://www.wikidata.org/wiki/Q27688379](https://www.wikidata.org/wiki/Q27688379)  
 
@@ -17374,6 +17381,13 @@
 
 ### alignments:
  - [Iamo/Iamna](https://pleiades.stoa.org/places/265916)
+
+
+## Ciutadella de Roses (Q1094405)
+[https://www.wikidata.org/wiki/Q1094405](https://www.wikidata.org/wiki/Q1094405)  
+
+### alignments:
+ - [Ciutadella de Roses](https://pleiades.stoa.org/places/402577060)
 
 
 ## Civic forum of Praeneste (Q3748440)
@@ -57425,13 +57439,6 @@
  - [Via Flavia](https://pleiades.stoa.org/places/855236251)
 
 
-## Q4010652: Via Laurentina
-[https://www.wikidata.org/wiki/Q4010652](https://www.wikidata.org/wiki/Q4010652)  
-
-### alignments:
- - [Via Laurentina](https://pleiades.stoa.org/places/988280578)
-
-
 ## Q4010741: Via Severiana
 [https://www.wikidata.org/wiki/Q4010741](https://www.wikidata.org/wiki/Q4010741)  
 
@@ -69420,7 +69427,7 @@
 [https://www.wikidata.org/wiki/Q141503930](https://www.wikidata.org/wiki/Q141503930)  
 
 ### alignments:
- - [South Agora](https://pleiades.stoa.org/places/792804148)
+ - [South Agora (Aphrodisias)](https://pleiades.stoa.org/places/792804148)
 
 
 ## South citadel gate, Dura-Europos (Q116621914)
@@ -75063,6 +75070,13 @@
  - [Tomb of Kar (Megarid)](https://pleiades.stoa.org/places/513113841)
 
 
+## Tomb of Laius and his servant on road to Delphi (Q136487463)
+[https://www.wikidata.org/wiki/Q136487463](https://www.wikidata.org/wiki/Q136487463)  
+
+### alignments:
+ - [Tomb of Laius](https://pleiades.stoa.org/places/986089273)
+
+
 ## Tomb of Lison and Kallikles (Q24262437)
 [https://www.wikidata.org/wiki/Q24262437](https://www.wikidata.org/wiki/Q24262437)  
 
@@ -75152,6 +75166,13 @@
 
 ### alignments:
  - [Tomb of Numerius Agrestinus Equitius Pulcher](https://pleiades.stoa.org/places/719121735)
+
+
+## Tomb of Oinomaos (Olympia) (Q107031179)
+[https://www.wikidata.org/wiki/Q107031179](https://www.wikidata.org/wiki/Q107031179)  
+
+### alignments:
+ - [Tomb of Oinomaos (Olympia)](https://pleiades.stoa.org/places/986089274)
 
 
 ## Tomb of Orestes near sanctuary of the Fates at Sparta (Q124616308)
@@ -78904,6 +78925,13 @@
 
 ### alignments:
  - [Via Lata](https://pleiades.stoa.org/places/753239987)
+
+
+## Via Laurentina (Q4010652)
+[https://www.wikidata.org/wiki/Q4010652](https://www.wikidata.org/wiki/Q4010652)  
+
+### alignments:
+ - [Via Laurentina](https://pleiades.stoa.org/places/988280578)
 
 
 ## Via Minucia (Q94144672)
