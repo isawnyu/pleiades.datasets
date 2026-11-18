@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-505 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
+507 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -1895,6 +1895,13 @@
  - [Halos](https://pleiades.stoa.org/places/540804)
 
 
+## Toponyme 12150: Stagira-Δ.Δ.Σταγίρων
+[https://chronique.efa.gr/?r=topo_public&id=12150](https://chronique.efa.gr/?r=topo_public&id=12150)  
+
+### alignments:
+ - [Stageira](https://pleiades.stoa.org/places/501625)
+
+
 ## Toponyme 12198: Stratos, Sorovigli (JO81/1928)
 [https://chronique.efa.gr/?kroute=topo_public&id=12198](https://chronique.efa.gr/?kroute=topo_public&id=12198)  
 
@@ -2828,6 +2835,13 @@
 
 ### alignments:
  - [Aptera](https://pleiades.stoa.org/places/589704)
+
+
+## Toponyme 39015: Asklipieion, sanctuaire d'Asclépios, Sanctuary of Asklepios-Ασκληπιείο, Αρχαιολογικός χώρος
+[https://chronique.efa.gr/?r=topo_public&id=39015](https://chronique.efa.gr/?r=topo_public&id=39015)  
+
+### alignments:
+ - [Asklepieion (Kos)](https://pleiades.stoa.org/places/599528)
 
 
 ## Toponyme 39147: Agathonision, ancient Tragia-Αγαθονήσι, αρχαία Τραγιά

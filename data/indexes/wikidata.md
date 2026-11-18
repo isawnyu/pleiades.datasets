@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11722 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
+11728 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -8351,6 +8351,13 @@
  - [Balboura](https://pleiades.stoa.org/places/638789)
 
 
+## Baldersheim (Q274688)
+[https://www.wikidata.org/wiki/Q274688](https://www.wikidata.org/wiki/Q274688)  
+
+### alignments:
+ - [Baldersheim](https://pleiades.stoa.org/places/118589)
+
+
 ## Baldock (Q17663370)
 [https://www.wikidata.org/wiki/Q17663370](https://www.wikidata.org/wiki/Q17663370)  
 
@@ -12046,6 +12053,13 @@
 
 ### alignments:
  - [Roman amphitheater at Béziers](https://pleiades.stoa.org/places/977841705)
+
+
+## Bû (Q22940705)
+[https://www.wikidata.org/wiki/Q22940705](https://www.wikidata.org/wiki/Q22940705)  
+
+### alignments:
+ - [Gallo-Roman Sanctuary at Bû](https://pleiades.stoa.org/places/108833)
 
 
 ## Büderich (Q1020467)
@@ -39543,6 +39557,13 @@
  - [Muziris](https://pleiades.stoa.org/places/50146)
 
 
+## Mycale (Q1330828)
+[https://www.wikidata.org/wiki/Q1330828](https://www.wikidata.org/wiki/Q1330828)  
+
+### alignments:
+ - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
+
+
 ## Mycenae (Q60791422)
 [https://www.wikidata.org/wiki/Q60791422](https://www.wikidata.org/wiki/Q60791422)  
 
@@ -48588,13 +48609,6 @@
  - [Cyclopean Bridge of Agios Ioannis ](https://pleiades.stoa.org/places/682104977)
 
 
-## Q1058264: Severan Bridge
-[https://www.wikidata.org/wiki/Q1058264](https://www.wikidata.org/wiki/Q1058264)  
-
-### alignments:
- - [Pons Chabinae](https://pleiades.stoa.org/places/659885)
-
-
 ## Q1058770: Metapontum
 [https://www.wikidata.org/wiki/Q1058770](https://www.wikidata.org/wiki/Q1058770)  
 
@@ -49077,13 +49091,6 @@
 
 ### alignments:
  - [Panchaea](https://pleiades.stoa.org/places/539001207)
-
-
-## Q112188918: Roman theater of Caere
-[https://www.wikidata.org/wiki/Q112188918](https://www.wikidata.org/wiki/Q112188918)  
-
-### alignments:
- - [Roman Theatre at Caere](https://pleiades.stoa.org/places/616791790)
 
 
 ## Q1126234: Tavolara Island
@@ -50556,13 +50563,6 @@
 ### alignments:
  - [Dicle Tüneli](https://pleiades.stoa.org/places/319653209)
  - [ Tigris Tunnel Inscriptions](https://pleiades.stoa.org/places/914118846)
-
-
-## Q1330828: Mycale
-[https://www.wikidata.org/wiki/Q1330828](https://www.wikidata.org/wiki/Q1330828)  
-
-### alignments:
- - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
 
 
 ## Q133123: Patras
@@ -53984,13 +53984,6 @@
  - [Vicus Iugarius](https://pleiades.stoa.org/places/889101791)
 
 
-## Q2179572: Vaison-la-Romaine Roman Bridge
-[https://www.wikidata.org/wiki/Q2179572](https://www.wikidata.org/wiki/Q2179572)  
-
-### alignments:
- - [Vaison-la-Romaine Roman Bridge](https://pleiades.stoa.org/places/149498)
-
-
 ## Q2179583: Hedemunden
 [https://www.wikidata.org/wiki/Q2179583](https://www.wikidata.org/wiki/Q2179583)  
 
@@ -54213,13 +54206,6 @@
 
 ### alignments:
  - [Tour de Biran](https://pleiades.stoa.org/places/123268647)
-
-
-## Q22940705
-[https://www.wikidata.org/wiki/Q22940705](https://www.wikidata.org/wiki/Q22940705)  
-
-### alignments:
- - [Gallo-Roman Sanctuary at Bû](https://pleiades.stoa.org/places/108833)
 
 
 ## Q22951105
@@ -57613,13 +57599,6 @@
 
 ### alignments:
  - [Gough's Cave](https://pleiades.stoa.org/places/850427781)
-
-
-## Q42755146: Theatre of Assuras
-[https://www.wikidata.org/wiki/Q42755146](https://www.wikidata.org/wiki/Q42755146)  
-
-### alignments:
- - [Theater of Assuras](https://pleiades.stoa.org/places/176578175)
 
 
 ## Q42760350: Theatre of Sufutela
@@ -62132,6 +62111,13 @@
  - [Rathlin Island](https://pleiades.stoa.org/places/423742643)
 
 
+## Ratiaria (Q1309702)
+[https://www.wikidata.org/wiki/Q1309702](https://www.wikidata.org/wiki/Q1309702)  
+
+### alignments:
+ - [Ratiaria](https://pleiades.stoa.org/places/207376)
+
+
 ## Ravenglass Roman Bath House (Q3108515)
 [https://www.wikidata.org/wiki/Q3108515](https://www.wikidata.org/wiki/Q3108515)  
 
@@ -63993,6 +63979,13 @@
 
 ### alignments:
  - [Roman theater, Atri](https://pleiades.stoa.org/places/856482651)
+
+
+## Roman theater of Caere (Q112188918)
+[https://www.wikidata.org/wiki/Q112188918](https://www.wikidata.org/wiki/Q112188918)  
+
+### alignments:
+ - [Roman Theatre at Caere](https://pleiades.stoa.org/places/616791790)
 
 
 ## Roman theater of Ferentinum (Q107063823)
@@ -65954,6 +65947,13 @@
 
 ### alignments:
  - [Catacombs of San Senatore](https://pleiades.stoa.org/places/789855015)
+
+
+## San Severo (Q19275)
+[https://www.wikidata.org/wiki/Q19275](https://www.wikidata.org/wiki/Q19275)  
+
+### alignments:
+ - [S. Severo](https://pleiades.stoa.org/places/442783)
 
 
 ## San Stino di Livenza (Q47215)
@@ -68120,6 +68120,13 @@
  - [Basilica of Septimius Severus](https://pleiades.stoa.org/places/165453294)
 
 
+## Severan Bridge (Q1058264)
+[https://www.wikidata.org/wiki/Q1058264](https://www.wikidata.org/wiki/Q1058264)  
+
+### alignments:
+ - [Pons Chabinae](https://pleiades.stoa.org/places/659885)
+
+
 ## Sexaginta Prista (Q12293503)
 [https://www.wikidata.org/wiki/Q12293503](https://www.wikidata.org/wiki/Q12293503)  
 
@@ -68908,7 +68915,7 @@
 [https://www.wikidata.org/wiki/Q489519](https://www.wikidata.org/wiki/Q489519)  
 
 ### alignments:
- - [Sitones?](https://pleiades.stoa.org/places/20604)
+ - [Sitones](https://pleiades.stoa.org/places/20604)
 
 
 ## Sittacene (Q669814)
@@ -69892,6 +69899,13 @@
  - [Stadium-garden at Hadrian's Villa](https://pleiades.stoa.org/places/190433997)
 
 
+## Stageira (Q846127)
+[https://www.wikidata.org/wiki/Q846127](https://www.wikidata.org/wiki/Q846127)  
+
+### alignments:
+ - [Stageira](https://pleiades.stoa.org/places/501625)
+
+
 ## Stalae (Q65078998)
 [https://www.wikidata.org/wiki/Q65078998](https://www.wikidata.org/wiki/Q65078998)  
 
@@ -70205,6 +70219,13 @@
 
 ### alignments:
  - [Stratonikeia](https://pleiades.stoa.org/places/599947)
+
+
+## Stratonicea (Q2682135)
+[https://www.wikidata.org/wiki/Q2682135](https://www.wikidata.org/wiki/Q2682135)  
+
+### alignments:
+ - [Stratoni (Stratonikeia/Stratonike?)](https://pleiades.stoa.org/places/507469)
 
 
 ## Stratos (Q25408797)
@@ -73583,6 +73604,13 @@
 
 ### alignments:
  - [Roman theater (Haidra)](https://pleiades.stoa.org/places/24892247)
+
+
+## Theatre of Assuras (Q42755146)
+[https://www.wikidata.org/wiki/Q42755146](https://www.wikidata.org/wiki/Q42755146)  
+
+### alignments:
+ - [Theater of Assuras](https://pleiades.stoa.org/places/176578175)
 
 
 ## Theatre of Balbus (Q2734384)
@@ -78024,6 +78052,13 @@
  - [Vagniacis](https://pleiades.stoa.org/places/79729)
 
 
+## Vaison-la-Romaine Roman Bridge (Q2179572)
+[https://www.wikidata.org/wiki/Q2179572](https://www.wikidata.org/wiki/Q2179572)  
+
+### alignments:
+ - [Vaison-la-Romaine Roman Bridge](https://pleiades.stoa.org/places/149498)
+
+
 ## Val d'Orcia (Q217449)
 [https://www.wikidata.org/wiki/Q217449](https://www.wikidata.org/wiki/Q217449)  
 
@@ -81385,6 +81420,13 @@
 
 ### alignments:
  - [Yoncalı](https://pleiades.stoa.org/places/708232007)
+
+
+## Yurtbaşı (Q5250167)
+[https://www.wikidata.org/wiki/Q5250167](https://www.wikidata.org/wiki/Q5250167)  
+
+### alignments:
+ - [Yurtbaşı/Melik Şerif](https://pleiades.stoa.org/places/305820069)
 
 
 ## Yverdon-les-Bains (Q63946)

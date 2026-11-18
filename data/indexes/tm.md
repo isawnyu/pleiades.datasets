@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5209 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
+5211 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -2169,13 +2169,6 @@
 
 ### alignments:
  - [Keria (island)](https://pleiades.stoa.org/places/599708)
-
-
-## Geo 42605: Mykale (Samsun Dağı)
-[https://www.trismegistos.org/place/42605](https://www.trismegistos.org/place/42605)  
-
-### alignments:
- - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
 
 
 ## Geo 42665: Dioecesis Britanniae
@@ -7981,6 +7974,13 @@
 
 ### alignments:
  - [Amphipolis](https://pleiades.stoa.org/places/501347)
+
+
+## GEO ID 16204
+[http://www.trismegistos.org/place/16204](http://www.trismegistos.org/place/16204)  
+
+### alignments:
+ - [Litarba/Litargon](https://pleiades.stoa.org/places/658521)
 
 
 ## GEO ID 16205: Elaioussa (Ayaş)
@@ -15796,6 +15796,13 @@
 
 ### alignments:
  - [Securisca](https://pleiades.stoa.org/places/216978)
+
+
+## GEO ID 29859
+[http://www.trismegistos.org/place/29859](http://www.trismegistos.org/place/29859)  
+
+### alignments:
+ - [Augustae](https://pleiades.stoa.org/places/216719)
 
 
 ## GEO ID 2985: Apis (Luxor)
@@ -28338,6 +28345,13 @@
 
 ### alignments:
  - [Leukai (islands)](https://pleiades.stoa.org/places/550698)
+
+
+## GEO ID 42605: Mykale (Samsun Dağı)
+[https://www.trismegistos.org/place/42605](https://www.trismegistos.org/place/42605)  
+
+### alignments:
+ - [Mycale (mountain)](https://pleiades.stoa.org/places/599805)
 
 
 ## GEO ID 42608: Ida (Kaz Dağı)

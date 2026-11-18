@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5219 alignments exist in _Pleiades_ place references as of 2026-11-17. The following list of alignments is grouped by zotkey.
+5221 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -28965,6 +28965,13 @@
  - [Prote (island)](https://pleiades.stoa.org/places/570634)
 
 
+## Prousias ad Hypium/Kieron (Bithynia)
+[https://topostext.org/place/409311UPro](https://topostext.org/place/409311UPro)  
+
+### alignments:
+ - [Prusias ad Hypium/Kieros](https://pleiades.stoa.org/places/845049)
+
+
 ## Provatas site (Melos)  Provatas - Προβατάς
 [https://topostext.org/place/367244VPro](https://topostext.org/place/367244VPro)  
 
@@ -32131,6 +32138,13 @@
 
 ### alignments:
  - [Siculum Fretum](https://pleiades.stoa.org/places/462494)
+
+
+## Stratonike (Chalkidike)
+[https://topostext.org/place/405238UStr](https://topostext.org/place/405238UStr)  
+
+### alignments:
+ - [Stratoni (Stratonikeia/Stratonike?)](https://pleiades.stoa.org/places/507469)
 
 
 ## Stratonikeia (Caria)
