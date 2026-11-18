@@ -8,17 +8,21 @@
 """
 Code for making derivatives from JSON
 """
+
 from bs4 import BeautifulSoup, Tag
 import csv
 from haversine import inverse_haversine, Direction
 import logging
 from pathlib import Path
 from pprint import pformat
+from random import randint
 import requests_cache
+from requests.exceptions import ConnectionError
 from shapely import distance, GeometryCollection, Point, simplify
 from shapely.geometry import shape, box
 import sys
 from textnorm import normalize_space
+from time import sleep
 from datetime import timedelta
 import traceback
 
@@ -282,7 +286,16 @@ class JSON2CSV:
             ):
                 continue
             component_uri = f"{vocab_uri}/{link['href'].split('/')[-1]}"
-            cr = self.session.get(component_uri, headers=HEADERS)
+            try:
+                cr = self.session.get(component_uri, headers=HEADERS)
+            except ConnectionError as err:
+                nap_time = randint(256, 1024)
+                logger.error(
+                    str(err)
+                    + f": {component_uri}\nsleeping for {nap_time:.0f} seconds and trying again"
+                )
+                sleep(float(nap_time))
+                cr = self.session.get(component_uri, headers=HEADERS)
             if cr.status_code != 200:
                 cr.raise_for_status()
             component_soup = BeautifulSoup(cr.text, features="lxml")
