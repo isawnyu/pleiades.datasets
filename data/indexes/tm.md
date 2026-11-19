@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5211 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
+5213 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -14479,6 +14479,13 @@
 
 ### alignments:
  - [(Mons) Brisiacus](https://pleiades.stoa.org/places/109174)
+
+
+## GEO ID 2785
+[https://www.trismegistos.org/place/2785](https://www.trismegistos.org/place/2785)  
+
+### alignments:
+ - [Bacchias (island)](https://pleiades.stoa.org/places/40069)
 
 
 ## GEO ID 27860: Buconica
@@ -29010,6 +29017,13 @@
 
 ### alignments:
  - [Coriossedum](https://pleiades.stoa.org/places/151769)
+
+
+## GEO ID 43214
+[http://www.trismegistos.org/place/43214](http://www.trismegistos.org/place/43214)  
+
+### alignments:
+ - [Vicus Atucausensis](https://pleiades.stoa.org/places/236714)
 
 
 ## GEO ID 43220: Castellum Meidunium (Castro de S. Facundo?)

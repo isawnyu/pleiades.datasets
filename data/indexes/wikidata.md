@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11728 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
+11738 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -160,6 +160,13 @@
 
 ### alignments:
  - [Ābādān (island)](https://pleiades.stoa.org/places/996415846)
+
+
+## Abae (Q304823)
+[https://www.wikidata.org/wiki/Q304823](https://www.wikidata.org/wiki/Q304823)  
+
+### alignments:
+ - [Abai](https://pleiades.stoa.org/places/540582)
 
 
 ## Abai Apollo sanctuary (Q38281622)
@@ -7292,6 +7299,13 @@
 
 ### alignments:
  - [Athenopolis](https://pleiades.stoa.org/places/157816)
+
+
+## Athens (Q1524)
+[https://www.wikidata.org/wiki/Q1524](https://www.wikidata.org/wiki/Q1524)  
+
+### alignments:
+ - [Athenae](https://pleiades.stoa.org/places/579885)
 
 
 ## Athens Klepsydra well (Q12879136)
@@ -16052,6 +16066,13 @@
  - [Cencelle](https://pleiades.stoa.org/places/952765524)
 
 
+## Cenchreae (Q111565756)
+[https://www.wikidata.org/wiki/Q111565756](https://www.wikidata.org/wiki/Q111565756)  
+
+### alignments:
+ - [Kenchreai](https://pleiades.stoa.org/places/570347)
+
+
 ## Cenchreae (Q60791302)
 [https://www.wikidata.org/wiki/Q60791302](https://www.wikidata.org/wiki/Q60791302)  
 
@@ -19463,6 +19484,13 @@
  - [Danuvius/Istros/Hister (river)](https://pleiades.stoa.org/places/226577)
 
 
+## Daphne Mainomene (Q65046297)
+[https://www.wikidata.org/wiki/Q65046297](https://www.wikidata.org/wiki/Q65046297)  
+
+### alignments:
+ - [Daphne Mainomene?/Nymphaion?](https://pleiades.stoa.org/places/521003)
+
+
 ## Daphni Monastery (Q500444)
 [https://www.wikidata.org/wiki/Q500444](https://www.wikidata.org/wiki/Q500444)  
 
@@ -20298,8 +20326,8 @@
  - [Achates (river)](https://pleiades.stoa.org/places/462065)
 
 
-## Dissei (Q29409602)
-[https://www.wikidata.org/wiki/Q29409602](https://www.wikidata.org/wiki/Q29409602)  
+## Disei (Q3710299)
+[https://www.wikidata.org/wiki/Q3710299](https://www.wikidata.org/wiki/Q3710299)  
 
 ### alignments:
  - [Oreine (island)](https://pleiades.stoa.org/places/39404)
@@ -23976,6 +24004,13 @@
  - [Fratuertium/Fratuentium](https://pleiades.stoa.org/places/446244)
 
 
+## Fregellae (Q1453755)
+[https://www.wikidata.org/wiki/Q1453755](https://www.wikidata.org/wiki/Q1453755)  
+
+### alignments:
+ - [Fregellae](https://pleiades.stoa.org/places/432846)
+
+
 ## Fregenae (Q1918325)
 [https://www.wikidata.org/wiki/Q1918325](https://www.wikidata.org/wiki/Q1918325)  
 
@@ -25631,6 +25666,13 @@
 
 ### alignments:
  - [Armenia Maior](https://pleiades.stoa.org/places/863747)
+
+
+## Greco-Roman theatre of Marina di Gioiosa Ionica (Q3982350)
+[https://www.wikidata.org/wiki/Q3982350](https://www.wikidata.org/wiki/Q3982350)  
+
+### alignments:
+ - [Graeco-Roman theater at Marina di Gioiosa Ionica](https://pleiades.stoa.org/places/612060178)
 
 
 ## Greek Baths of Syracuse (Q138661980)
@@ -36075,6 +36117,13 @@
  - [Maries](https://pleiades.stoa.org/places/501506)
 
 
+## Marina di Gioiosa Ionica (Q54621)
+[https://www.wikidata.org/wiki/Q54621](https://www.wikidata.org/wiki/Q54621)  
+
+### alignments:
+ - [‘Subsicivo’?](https://pleiades.stoa.org/places/452456)
+
+
 ## Marina di Palo Roman villa (Q140238729)
 [https://www.wikidata.org/wiki/Q140238729](https://www.wikidata.org/wiki/Q140238729)  
 
@@ -36633,6 +36682,13 @@
 
 ### alignments:
  - [Mago](https://pleiades.stoa.org/places/265960)
+
+
+## Maşat Höyük (Q3303460)
+[https://www.wikidata.org/wiki/Q3303460](https://www.wikidata.org/wiki/Q3303460)  
+
+### alignments:
+ - [Maşat Höyük](https://pleiades.stoa.org/places/133411593)
 
 
 ## Ma‘āţin Bishr (Q105989547)
@@ -38021,6 +38077,13 @@
 
 ### alignments:
  - [Military Zeus Temple](https://pleiades.stoa.org/places/888638052)
+
+
+## Millau (Q203278)
+[https://www.wikidata.org/wiki/Q203278](https://www.wikidata.org/wiki/Q203278)  
+
+### alignments:
+ - [Condatomagus?](https://pleiades.stoa.org/places/246353)
 
 
 ## milliarium in Caveirac (Gard, France) (Q2911154)
@@ -40465,6 +40528,13 @@
 
 ### alignments:
  - [Nemausus](https://pleiades.stoa.org/places/148142)
+
+
+## Nemea (Q748108)
+[https://www.wikidata.org/wiki/Q748108](https://www.wikidata.org/wiki/Q748108)  
+
+### alignments:
+ - [Nemea](https://pleiades.stoa.org/places/570504)
 
 
 ## Nemesis temple Rhamnous (Q94946184)
@@ -44891,6 +44961,13 @@
  - [Phaselis](https://pleiades.stoa.org/places/639051)
 
 
+## Phayttos (Q60790532)
+[https://www.wikidata.org/wiki/Q60790532](https://www.wikidata.org/wiki/Q60790532)  
+
+### alignments:
+ - [Phayttos](https://pleiades.stoa.org/places/541043)
+
+
 ## Pheca (Q60790443)
 [https://www.wikidata.org/wiki/Q60790443](https://www.wikidata.org/wiki/Q60790443)  
 
@@ -47650,6 +47727,13 @@
  - [Prusa](https://pleiades.stoa.org/places/511384)
 
 
+## Prusias ad Hypium (Q102128005)
+[https://www.wikidata.org/wiki/Q102128005](https://www.wikidata.org/wiki/Q102128005)  
+
+### alignments:
+ - [Prusias ad Hypium/Kieros](https://pleiades.stoa.org/places/845049)
+
+
 ## Prut (Q182445)
 [https://www.wikidata.org/wiki/Q182445](https://www.wikidata.org/wiki/Q182445)  
 
@@ -49548,13 +49632,6 @@
  - [Sextantio](https://pleiades.stoa.org/places/148202)
 
 
-## Q11950473
-[https://www.wikidata.org/Q11950473](https://www.wikidata.org/Q11950473)  
-
-### alignments:
- - [Suhu](https://pleiades.stoa.org/places/247838452)
-
-
 ## Q11951065
 [https://www.wikidata.org/wiki/Q11951065](https://www.wikidata.org/wiki/Q11951065)  
 
@@ -51188,13 +51265,6 @@
  - [Umm Howeitat](https://pleiades.stoa.org/places/786137)
 
 
-## Q1453755: Fregellae
-[https://www.wikidata.org/wiki/Q1453755](https://www.wikidata.org/wiki/Q1453755)  
-
-### alignments:
- - [Fregellae](https://pleiades.stoa.org/places/432846)
-
-
 ## Q14551916: Mortuary Temple of Montuhotep II
 [https://www.wikidata.org/wiki/Q14551916](https://www.wikidata.org/wiki/Q14551916)  
 
@@ -51445,13 +51515,6 @@
 
 ### alignments:
  - [Porta Nigra](https://pleiades.stoa.org/places/151157248)
-
-
-## Q1524: Athens
-[https://www.wikidata.org/wiki/Q1524](https://www.wikidata.org/wiki/Q1524)  
-
-### alignments:
- - [Athenae](https://pleiades.stoa.org/places/579885)
 
 
 ## Q15253382: Milecastle 6
@@ -52033,13 +52096,6 @@
 
 ### alignments:
  - [Methone (Magnesian)](https://pleiades.stoa.org/places/540946)
-
-
-## Q16612682: Tellenae
-[https://www.wikidata.org/wiki/Q16612682](https://www.wikidata.org/wiki/Q16612682)  
-
-### alignments:
- - [Tellena](https://pleiades.stoa.org/places/438850)
 
 
 ## Q16613514: Olizon
@@ -55897,13 +55953,6 @@
  - [Mazices](https://pleiades.stoa.org/places/295306)
 
 
-## Q3303460: Maşat Höyük
-[https://www.wikidata.org/wiki/Q3303460](https://www.wikidata.org/wiki/Q3303460)  
-
-### alignments:
- - [Maşat Höyük](https://pleiades.stoa.org/places/133411593)
-
-
 ## Q3305261: Melone Sode II
 [https://www.wikidata.org/wiki/Q3305261](https://www.wikidata.org/wiki/Q3305261)  
 
@@ -57706,13 +57755,6 @@
  - [Angkor Wat](https://pleiades.stoa.org/places/835369289)
 
 
-## Q43474: San Giovenale
-[https://www.wikidata.org/wiki/Q43474](https://www.wikidata.org/wiki/Q43474)  
-
-### alignments:
- - [San Giovenale](https://pleiades.stoa.org/places/413298)
-
-
 ## Q43544909: Via Herdonitana
 [https://www.wikidata.org/wiki/Q43544909](https://www.wikidata.org/wiki/Q43544909)  
 
@@ -59169,13 +59211,6 @@
 
 ### alignments:
  - [Silana](https://pleiades.stoa.org/places/543864)
-
-
-## Q60790532: Phayttos
-[https://www.wikidata.org/wiki/Q60790532](https://www.wikidata.org/wiki/Q60790532)  
-
-### alignments:
- - [Phayttos](https://pleiades.stoa.org/places/541043)
 
 
 ## Q60790541: Sperchiae
@@ -61360,13 +61395,6 @@
 
 ### alignments:
  - [Tunnel of Eupalinos](https://pleiades.stoa.org/places/640889631)
-
-
-## Q957227: Vaphio
-[https://www.wikidata.org/wiki/Q957227](https://www.wikidata.org/wiki/Q957227)  
-
-### alignments:
- - [Vapheio Tholos Tomb](https://pleiades.stoa.org/places/172198383)
 
 
 ## Q962760
@@ -65765,6 +65793,13 @@
 
 ### alignments:
  - [San Giovanni in Oleo](https://pleiades.stoa.org/places/108889249)
+
+
+## San Giovenale (Q43474)
+[https://www.wikidata.org/wiki/Q43474](https://www.wikidata.org/wiki/Q43474)  
+
+### alignments:
+ - [San Giovenale](https://pleiades.stoa.org/places/413298)
 
 
 ## San Lazzaro degli Armeni (Q1791020)
@@ -70473,6 +70508,13 @@
  - [Suessula](https://pleiades.stoa.org/places/433133)
 
 
+## Suhum (Q11950473)
+[https://www.wikidata.org/Q11950473](https://www.wikidata.org/Q11950473)  
+
+### alignments:
+ - [Suhu](https://pleiades.stoa.org/places/247838452)
+
+
 ## Sukhoe Ozero II (Q142114071)
 [https://www.wikidata.org/wiki/Q142114071](https://www.wikidata.org/wiki/Q142114071)  
 
@@ -71496,6 +71538,13 @@
  - [Tel Batash (Timnah)](https://pleiades.stoa.org/places/925655548)
 
 
+## Tel el Khuweilfe (Q49004180)
+[https://www.wikidata.org/wiki/Q49004180](https://www.wikidata.org/wiki/Q49004180)  
+
+### alignments:
+ - [Thala](https://pleiades.stoa.org/places/688038)
+
+
 ## Tel Mor (Q6787064)
 [https://www.wikidata.org/wiki/Q6787064](https://www.wikidata.org/wiki/Q6787064)  
 
@@ -71874,6 +71923,13 @@
 
 ### alignments:
  - [Nina](https://pleiades.stoa.org/places/912909)
+
+
+## Tellenae (Q16612682)
+[https://www.wikidata.org/wiki/Q16612682](https://www.wikidata.org/wiki/Q16612682)  
+
+### alignments:
+ - [Tellena](https://pleiades.stoa.org/places/438850)
 
 
 ## Telmessos (Q1145385)
@@ -73100,6 +73156,13 @@
 
 ### alignments:
  - [Teos](https://pleiades.stoa.org/places/550913)
+
+
+## Teos bouleuterion (Q139436414)
+[https://www.wikidata.org/wiki/Q139436414](https://www.wikidata.org/wiki/Q139436414)  
+
+### alignments:
+ - [Odeon of Teos](https://pleiades.stoa.org/places/698493693)
 
 
 ## Teos Theater (Q135581839)
@@ -78176,6 +78239,13 @@
 
 ### alignments:
  - [Vani](https://pleiades.stoa.org/places/863918)
+
+
+## Vaphio (Q957227)
+[https://www.wikidata.org/wiki/Q957227](https://www.wikidata.org/wiki/Q957227)  
+
+### alignments:
+ - [Vapheio Tholos Tomb](https://pleiades.stoa.org/places/172198383)
 
 
 ## Var (Q933979)

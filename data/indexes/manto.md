@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1542 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
+1546 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1212,6 +1212,13 @@
 
 ### alignments:
  - [Temple of Poseidon at Isthmia](https://pleiades.stoa.org/places/107524051)
+
+
+## 10153143: Cenchriai (Corinth)
+[https://resource.manto.unh.edu/10153143](https://resource.manto.unh.edu/10153143)  
+
+### alignments:
+ - [Kenchreai](https://pleiades.stoa.org/places/570347)
 
 
 ## 10153163: Tithorea (Phocis)
@@ -4756,6 +4763,13 @@
  - [Thera (settlement)](https://pleiades.stoa.org/places/599971)
 
 
+## 11308418: Chaa (Elis)
+[https://resource.manto.unh.edu/11308418](https://resource.manto.unh.edu/11308418)  
+
+### alignments:
+ - [Chaa?](https://pleiades.stoa.org/places/570170)
+
+
 ## 11308433: Cyparissia (Elis)
 [https://resource.manto.unh.edu/11308433](https://resource.manto.unh.edu/11308433)  
 
@@ -5238,6 +5252,13 @@
 
 ### alignments:
  - [Altamura](https://pleiades.stoa.org/places/442461)
+
+
+## 11311505: North Africa (region)
+[https://resource.manto.unh.edu/11311505](https://resource.manto.unh.edu/11311505)  
+
+### alignments:
+ - [Africa (region)](https://pleiades.stoa.org/places/775)
 
 
 ## 11311517: the Land of the Chalybians (Pontos)
@@ -6757,6 +6778,13 @@
 
 ### alignments:
  - [Satricum](https://pleiades.stoa.org/places/423060)
+
+
+## 11321283: Tellenae (Italy)
+[https://resource.manto.unh.edu/11321283](https://resource.manto.unh.edu/11321283)  
+
+### alignments:
+ - [Tellena](https://pleiades.stoa.org/places/438850)
 
 
 ## 11321284: Crustumerium (Italy)

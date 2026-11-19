@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5221 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
+5222 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -9296,6 +9296,13 @@
 
 ### alignments:
  - [Daphne](https://pleiades.stoa.org/places/658450)
+
+
+## Daphne Mainomene (Bithynia)
+[https://topostext.org/place/412291UDap](https://topostext.org/place/412291UDap)  
+
+### alignments:
+ - [Daphne Mainomene?/Nymphaion?](https://pleiades.stoa.org/places/521003)
 
 
 ## Daphne Monast. (Attica)

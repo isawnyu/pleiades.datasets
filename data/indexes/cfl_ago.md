@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-507 alignments exist in _Pleiades_ place references as of 2026-11-18. The following list of alignments is grouped by zotkey.
+508 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2168,6 +2168,13 @@
 
 ### alignments:
  - [Hypsous (settlement)](https://pleiades.stoa.org/places/570303)
+
+
+## Toponyme 21429: Archaia Nemea, Iraklio (Previous), and archaeological site-Δ.Δ. Αρχαίας Νεμέας και αρχαιολογικός χώρος
+[https://chronique.efa.gr/?r=topo_public&id=21429](https://chronique.efa.gr/?r=topo_public&id=21429)  
+
+### alignments:
+ - [Nemea](https://pleiades.stoa.org/places/570504)
 
 
 ## Toponyme 22066: Kenchreai
