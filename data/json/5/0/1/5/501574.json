@@ -205,13 +205,18 @@
                 "description": "Remains of the Roman and Byzantine fortified town of Maximianoupoli (4th cent. AD) or Mosynopoli (9th cent. AD). Its Roman name was Porsula.",
                 "link": "https://pleiades.stoa.org/places/501574/cfl-ago-location-maximianoupoli-mosynopoli",
                 "location_precision": "precise",
-                "snippet": "Unknown, Church-2, Archaeological-site; AD 300 - AD 1453",
+                "snippet": "Church-2, Archaeological-site; AD 300 - AD 1453",
                 "title": "CFL/AGO Location: Maximianoupoli-Mosynopoli"
             },
             "type": "Feature"
         }
     ],
     "history": [
+        {
+            "comment": "KU TP Database (Rathmann)",
+            "modified": "2026-11-18T21:45:02Z",
+            "modifiedBy": "jbecker"
+        },
         {
             "comment": "update references",
             "modified": "2026-10-18T02:05:33Z",
@@ -442,6 +447,11 @@
             },
             "history": [
                 {
+                    "comment": "Reimported full way geometry and updated provenance",
+                    "modified": "2026-11-18T21:43:36Z",
+                    "modifiedBy": "jbecker"
+                },
+                {
                     "action": "Publish externally",
                     "modified": "2024-06-10T18:51:47Z",
                     "modifiedBy": "thomase"
@@ -495,8 +505,8 @@
         },
         {
             "@type": "Location",
-            "accuracy": null,
-            "accuracy_value": null,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/cfl-ago-toponym-coordinates",
+            "accuracy_value": 100.0,
             "archaeologicalRemains": "unknown",
             "associationCertainty": "certain",
             "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
@@ -535,12 +545,10 @@
             "details": "",
             "end": 1453,
             "featureType": [
-                "unknown",
                 "church-2",
                 "archaeological-site"
             ],
             "featureTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/church-2",
                 "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
@@ -552,6 +560,11 @@
                 "type": "Point"
             },
             "history": [
+                {
+                    "comment": "added CFL/AGO PAA",
+                    "modified": "2026-11-18T15:52:23Z",
+                    "modifiedBy": "thomase"
+                },
                 {
                     "action": "Publish externally",
                     "modified": "2026-02-19T01:50:14Z",
@@ -583,7 +596,6 @@
                 "representative"
             ],
             "locationTypeURI": [
-                "https://pleiades.stoa.org/vocabularies/place-types/unknown",
                 "https://pleiades.stoa.org/vocabularies/place-types/church-2",
                 "https://pleiades.stoa.org/vocabularies/place-types/archaeological-site"
             ],
@@ -937,6 +949,17 @@
             "formattedCitation": "<div class=\"csl-entry\">Veronique Chankowski, Amélie Perrier, Catherine Bouras, Sabine Fourrier, John Bennet, Michaeol Loy, Kostis Christakis, L. Mulot, and G. Bejjaji. <i>Chronique Des Fouilles En Ligne = Archaeology in Greece Online</i>. Athens: Ecole française d’Athènes and British School at Athens, 2018. https://chronique.efa.gr/.</div>",
             "otherIdentifier": "",
             "shortTitle": "CFL/AGO",
+            "type": "citesAsRelated"
+        },
+        {
+            "accessURI": "https://tp-online.ku.de/trefferanzeige_en.php?id=1140",
+            "alternateURI": "",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/KDZ6Q72N",
+            "citationDetail": "1140: Porsulis",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "formattedCitation": "<div class=\"csl-entry\">Ingolstadt, Katholische Universität Eichstätt-. “Tabula Peutingeriana.” Datenbank tp-online, 2019. https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online.</div>",
+            "otherIdentifier": "",
+            "shortTitle": "KU TP Database (Rathmann)",
             "type": "citesAsRelated"
         }
     ],
