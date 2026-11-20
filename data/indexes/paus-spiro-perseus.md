@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Paus. (Spiro: Perseus)
-585 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
+585 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
 
 ## 1.1.2
 [http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-grc1:1.1.2)  
@@ -373,6 +373,7 @@
  - [Arethusae Fons](https://pleiades.stoa.org/places/462101)
  - [Bouporthmos (mountain)](https://pleiades.stoa.org/places/570165)
  - [Ceraunii (mountain)](https://pleiades.stoa.org/places/481785)
+ - [Chaeronea](https://pleiades.stoa.org/places/540701)
  - [Cheimerion? (promontory)](https://pleiades.stoa.org/places/530833)
  - [Geren(i)a](https://pleiades.stoa.org/places/570261)
  - [Germanicum Mare](https://pleiades.stoa.org/places/20469)

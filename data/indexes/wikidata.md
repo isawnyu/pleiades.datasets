@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11738 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
+11740 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -16304,6 +16304,13 @@
  - [Chadisia](https://pleiades.stoa.org/places/857079)
 
 
+## Chaeronea (Q13574678)
+[https://www.wikidata.org/wiki/Q13574678](https://www.wikidata.org/wiki/Q13574678)  
+
+### alignments:
+ - [Chaeronea](https://pleiades.stoa.org/places/540701)
+
+
 ## Chafarinas Islands (Q130574)
 [https://www.wikidata.org/wiki/Q130574](https://www.wikidata.org/wiki/Q130574)  
 
@@ -22938,6 +22945,13 @@
 
 ### alignments:
  - [Hierakia (island)](https://pleiades.stoa.org/places/570293)
+
+
+## Famars (Q665618)
+[https://www.wikidata.org/wiki/Q665618](https://www.wikidata.org/wiki/Q665618)  
+
+### alignments:
+ - [Fanum Martis](https://pleiades.stoa.org/places/108977)
 
 
 ## Fano (Q13142)
@@ -41419,6 +41433,13 @@
  - [Nuraghe Cobulas](https://pleiades.stoa.org/places/314963951)
 
 
+## Nuraghe Columbos (Q122325312)
+[https://www.wikidata.org/wiki/Q122325312](https://www.wikidata.org/wiki/Q122325312)  
+
+### alignments:
+ - [Nuraghe Colombos](https://pleiades.stoa.org/places/237657888)
+
+
 ## Nuraghe Cubalciada (Q122277702)
 [https://www.wikidata.org/wiki/Q122277702](https://www.wikidata.org/wiki/Q122277702)  
 
@@ -50964,13 +50985,6 @@
  - [Flag Fen](https://pleiades.stoa.org/places/535275912)
 
 
-## Q13574678: Chaeronea
-[https://www.wikidata.org/wiki/Q13574678](https://www.wikidata.org/wiki/Q13574678)  
-
-### alignments:
- - [Chaeronea](https://pleiades.stoa.org/places/540701)
-
-
 ## Q13580770: Larymna
 [https://www.wikidata.org/wiki/Q13580770](https://www.wikidata.org/wiki/Q13580770)  
 
@@ -58181,13 +58195,6 @@
 
 ### alignments:
  - [Karoura](https://pleiades.stoa.org/places/638901)
-
-
-## Q505617: Villa Romana del Casale
-[https://www.wikidata.org/wiki/Q505617](https://www.wikidata.org/wiki/Q505617)  
-
-### alignments:
- - [Roman Villa and Medieval Settlement at Piazza Armerina](https://pleiades.stoa.org/places/462435)
 
 
 ## Q507076: Maes Howe
@@ -79956,6 +79963,13 @@
 
 ### alignments:
  - [Pago de Bruñel](https://pleiades.stoa.org/places/265996)
+
+
+## Villa Romana del Casale (Q505617)
+[https://www.wikidata.org/wiki/Q505617](https://www.wikidata.org/wiki/Q505617)  
+
+### alignments:
+ - [Roman Villa and Medieval Settlement at Piazza Armerina](https://pleiades.stoa.org/places/462435)
 
 
 ## Villa romana del Paturro (Q5474005)

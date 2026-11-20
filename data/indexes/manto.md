@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1546 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
+1547 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -2766,6 +2766,13 @@
 
 ### alignments:
  - [Aiga/Kane Pr.](https://pleiades.stoa.org/places/550417)
+
+
+## 10276460: Chaironeia (Boiotia)
+[https://resource.manto.unh.edu/10276460](https://resource.manto.unh.edu/10276460)  
+
+### alignments:
+ - [Chaeronea](https://pleiades.stoa.org/places/540701)
 
 
 ## 10276475: Patara (Lycia)

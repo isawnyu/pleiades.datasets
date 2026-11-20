@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with CFL/AGO
-508 alignments exist in _Pleiades_ place references as of 2026-11-19. The following list of alignments is grouped by zotkey.
+509 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
 
 ## 10119: Pteleos, Ftelio
 [https://chronique.efa.gr/?kroute=topo_public&id=10119](https://chronique.efa.gr/?kroute=topo_public&id=10119)  
@@ -2590,6 +2590,13 @@
 
 ### alignments:
  - [Thebai/Thebae](https://pleiades.stoa.org/places/541138)
+
+
+## Toponyme 36917: Chéronée, Chaironia, Cheronia, Kaironia, Kopraina, Kapraina (V79/1916)-Δ.Δ.Χαιρωνείας, Κόπραινα
+[https://chronique.efa.gr/?r=topo_public&id=36917](https://chronique.efa.gr/?r=topo_public&id=36917)  
+
+### alignments:
+ - [Chaeronea](https://pleiades.stoa.org/places/540701)
 
 
 ## Toponyme 36984: Davlia-Δ.Δ.Δαυλείας
