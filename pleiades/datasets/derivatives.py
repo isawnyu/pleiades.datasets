@@ -20,6 +20,7 @@ import requests_cache
 from requests.exceptions import ConnectionError
 from shapely import distance, GeometryCollection, Point, simplify
 from shapely.geometry import shape, box
+from sympy import nextprime
 import sys
 from textnorm import normalize_space
 from time import sleep
@@ -277,7 +278,7 @@ class JSON2CSV:
             r.raise_for_status()
         soup = BeautifulSoup(r.text, features="lxml")
         div = soup.find("div", id="content")
-        links = div.find_all("a", href=True)
+        links = div.find_all("a", href=True)  # type: ignore
         components = list()
         for link in links:
             if (
@@ -289,21 +290,37 @@ class JSON2CSV:
             try:
                 cr = self.session.get(component_uri, headers=HEADERS)
             except ConnectionError as err:
-                nap_time = randint(256, 1024)
-                logger.error(
-                    str(err)
-                    + f": {component_uri}\nsleeping for {nap_time:.0f} seconds and trying again"
-                )
-                sleep(float(nap_time))
-                cr = self.session.get(component_uri, headers=HEADERS)
+                logger.error(str(err))
+                err_count = 1
+                nap_time = 30
+                while True:
+                    if err_count > 5:
+                        raise ConnectionError(
+                            f"Experienced {err_count} connection errors attempting to get {component_uri}"
+                        )
+                    sleep_min = max(int(nap_time), 30)  # type: ignore
+                    sleep_max = sleep_min * (err_count + 1)
+                    nap_time = nextprime(randint(sleep_min, sleep_max))
+                    logger.error(
+                        f": {component_uri}\nsleeping for {nap_time:.0f} seconds and trying again"
+                    )
+                    sleep(nap_time)  # type: ignore
+                    try:
+                        cr = self.session.get(component_uri, headers=HEADERS)
+                    except ConnectionError as err2:
+                        logger.error(str(err2))
+                        err_count += 1
+                        continue
+                    if cr.status_code == 200:
+                        break
             if cr.status_code != 200:
                 cr.raise_for_status()
             component_soup = BeautifulSoup(cr.text, features="lxml")
             content_div = component_soup.find("div", id="content")
             term_text = normalize_space(content_div.find("p").text)  # type: ignore
             same_as_uri = ""
-            sub_div = content_div.find("div")
-            sub_paragraphs = sub_div.find_all("p")
+            sub_div = content_div.find("div")  # type: ignore
+            sub_paragraphs = sub_div.find_all("p")  # type: ignore
             if len(sub_paragraphs) == 2:
                 additional_text = normalize_space(sub_paragraphs[1].text)
                 if additional_text.startswith("Same as:"):
@@ -312,7 +329,7 @@ class JSON2CSV:
                         same_as_uri = same_as["href"]
             components.append(
                 {
-                    "key": normalize_space(link["href"].split("/")[-1]),
+                    "key": normalize_space(link["href"].split("/")[-1]),  # type: ignore
                     "term": normalize_space(link.text),
                     "definition": term_text,
                     "same-as": same_as_uri,
