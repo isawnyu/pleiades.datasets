@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11740 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
+11755 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -2768,6 +2768,13 @@
 
 ### alignments:
  - [Aleion Pedion](https://pleiades.stoa.org/places/648554)
+
+
+## Alepotrypa cave (Q38251077)
+[https://www.wikidata.org/wiki/Q38251077](https://www.wikidata.org/wiki/Q38251077)  
+
+### alignments:
+ - [Alepotrypa](https://pleiades.stoa.org/places/385804799)
 
 
 ## Alesia (Q835966)
@@ -6311,6 +6318,13 @@
 
 ### alignments:
  - [Ar(e)ia](https://pleiades.stoa.org/places/961881)
+
+
+## Ariaca (Q4790158)
+[https://www.wikidata.org/wiki/Q4790158](https://www.wikidata.org/wiki/Q4790158)  
+
+### alignments:
+ - [Ariake Sadenon](https://pleiades.stoa.org/places/49874)
 
 
 ## Ariana (Q3296890)
@@ -12482,6 +12496,13 @@
  - [Calagurris (Nassica) Iulia](https://pleiades.stoa.org/places/246279)
 
 
+## Calalzo di Cadore (Q41021)
+[https://www.wikidata.org/wiki/Q41021](https://www.wikidata.org/wiki/Q41021)  
+
+### alignments:
+ - [Calalzo](https://pleiades.stoa.org/places/187333)
+
+
 ## Calama (Q17513228)
 [https://www.wikidata.org/wiki/Q17513228](https://www.wikidata.org/wiki/Q17513228)  
 
@@ -18623,6 +18644,13 @@
  - [Cotini](https://pleiades.stoa.org/places/128386)
 
 
+## Cournon (Samian Ware Discovery Site) (Q103160136)
+[https://www.wikidata.org/wiki/Q103160136](https://www.wikidata.org/wiki/Q103160136)  
+
+### alignments:
+ - [*Chrononum](https://pleiades.stoa.org/places/138294)
+
+
 ## Coutances (Q202565)
 [https://www.wikidata.org/wiki/Q202565](https://www.wikidata.org/wiki/Q202565)  
 
@@ -19638,6 +19666,13 @@
  - [Dataleis?](https://pleiades.stoa.org/places/589752)
 
 
+## Daugava (Q8197)
+[https://www.wikidata.org/wiki/Q8197](https://www.wikidata.org/wiki/Q8197)  
+
+### alignments:
+ - [Chesinos (river)](https://pleiades.stoa.org/places/20430)
+
+
 ## Daulis (Q1172948)
 [https://www.wikidata.org/wiki/Q1172948](https://www.wikidata.org/wiki/Q1172948)  
 
@@ -20106,6 +20141,13 @@
 
 ### alignments:
  - [Dikaiarcheia/Puteoli](https://pleiades.stoa.org/places/432815)
+
+
+## Didyma (Q671358)
+[https://www.wikidata.org/wiki/Q671358](https://www.wikidata.org/wiki/Q671358)  
+
+### alignments:
+ - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## Didymoi (Q125936606)
@@ -22237,6 +22279,13 @@
 
 ### alignments:
  - [Lokroi Epizephyrioi](https://pleiades.stoa.org/places/452369)
+
+
+## Equestrian statue of Tiridates I (Q25403362)
+[https://www.wikidata.org/wiki/Q25403362](https://www.wikidata.org/wiki/Q25403362)  
+
+### alignments:
+ - [Equus Tiridatis Regis Armeniorum](https://pleiades.stoa.org/places/408402998)
 
 
 ## Erana (Q5384871)
@@ -31803,6 +31852,13 @@
  - [Klukhor Pass](https://pleiades.stoa.org/places/857192)
 
 
+## Knidos (Q690575)
+[https://www.wikidata.org/wiki/Q690575](https://www.wikidata.org/wiki/Q690575)  
+
+### alignments:
+ - [Cnidus (Burgaz)](https://pleiades.stoa.org/places/599576)
+
+
 ## Knockeen Portal Tomb (Q17984614)
 [https://www.wikidata.org/wiki/Q17984614](https://www.wikidata.org/wiki/Q17984614)  
 
@@ -35283,6 +35339,13 @@
  - [Lysimachea?](https://pleiades.stoa.org/places/550704)
 
 
+## Lédignan (Q532580)
+[https://www.wikidata.org/wiki/Q532580](https://www.wikidata.org/wiki/Q532580)  
+
+### alignments:
+ - [Lédignan](https://pleiades.stoa.org/places/148109)
+
+
 ## M'Daourouch (Q54205)
 [https://www.wikidata.org/wiki/Q54205](https://www.wikidata.org/wiki/Q54205)  
 
@@ -35415,6 +35478,13 @@
 
 ### alignments:
  - [Machilipatnam](https://pleiades.stoa.org/places/25660908)
+
+
+## Macomer (Q295248)
+[https://www.wikidata.org/wiki/Q295248](https://www.wikidata.org/wiki/Q295248)  
+
+### alignments:
+ - [Makopsisa](https://pleiades.stoa.org/places/471967)
 
 
 ## Mactaris (Q3485394)
@@ -36215,6 +36285,13 @@
  - [Portone necropolis at Volaterrae](https://pleiades.stoa.org/places/484892186)
 
 
+## Marmoutier Abbey, Tours (Q141544605)
+[https://www.wikidata.org/wiki/Q141544605](https://www.wikidata.org/wiki/Q141544605)  
+
+### alignments:
+ - [Marmoutier Abbey](https://pleiades.stoa.org/places/138436)
+
+
 ## Maroboudon (Q11770456)
 [https://www.wikidata.org/wiki/Q11770456](https://www.wikidata.org/wiki/Q11770456)  
 
@@ -36752,6 +36829,13 @@
 
 ### alignments:
  - [Mediomatrici](https://pleiades.stoa.org/places/109154)
+
+
+## Mediterranean Sea (Q4918)
+[https://www.wikidata.org/wiki/Q4918](https://www.wikidata.org/wiki/Q4918)  
+
+### alignments:
+ - [Internum Mare](https://pleiades.stoa.org/places/1043)
 
 
 ## Medjerda River (Q340043)
@@ -38358,6 +38442,13 @@
 
 ### alignments:
  - [Mochadion](https://pleiades.stoa.org/places/521086)
+
+
+## Mochlos site (Q38281104)
+[https://www.wikidata.org/wiki/Q38281104](https://www.wikidata.org/wiki/Q38281104)  
+
+### alignments:
+ - [Mochlos archaeological site](https://pleiades.stoa.org/places/484509128)
 
 
 ## Modica (Q34102)
@@ -40017,6 +40108,13 @@
 
 ### alignments:
  - [Nares Lucanae](https://pleiades.stoa.org/places/442685)
+
+
+## Narmada (Q234004)
+[https://www.wikidata.org/wiki/Q234004](https://www.wikidata.org/wiki/Q234004)  
+
+### alignments:
+ - [Namades/Lamnaios (river)](https://pleiades.stoa.org/places/50156)
 
 
 ## Narnia (Q105392316)
@@ -46045,6 +46143,13 @@
 
 ### alignments:
  - [Pogon](https://pleiades.stoa.org/places/570622)
+
+
+## Point Calimere (Q7207977)
+[https://www.wikidata.org/wiki/Q7207977](https://www.wikidata.org/wiki/Q7207977)  
+
+### alignments:
+ - [Coliacum/Kalligikon Pr.](https://pleiades.stoa.org/places/49951)
 
 
 ## Pointe Restinga (Q27511405)
@@ -54755,13 +54860,6 @@
  - [Dur-Sharrukin](https://pleiades.stoa.org/places/874458)
 
 
-## Q25403362: Equestrian statue of Tiridates I
-[https://www.wikidata.org/wiki/Q25403362](https://www.wikidata.org/wiki/Q25403362)  
-
-### alignments:
- - [Equus Tiridatis Regis Armeniorum](https://pleiades.stoa.org/places/408402998)
-
-
 ## Q25409793: La Almoloya
 [https://www.wikidata.org/wiki/Q25409793](https://www.wikidata.org/wiki/Q25409793)  
 
@@ -56984,13 +57082,6 @@
  - [Beirut](https://pleiades.stoa.org/places/678060)
 
 
-## Q38251077
-[https://www.wikidata.org/wiki/Q38251077](https://www.wikidata.org/wiki/Q38251077)  
-
-### alignments:
- - [Alepotrypa](https://pleiades.stoa.org/places/385804799)
-
-
 ## Q3825952: Lago di Fondi
 [https://www.wikidata.org/wiki/Q3825952](https://www.wikidata.org/wiki/Q3825952)  
 
@@ -58097,13 +58188,6 @@
 
 ### alignments:
  - [Locris Ozolia](https://pleiades.stoa.org/places/540919)
-
-
-## Q4918: Mediterranean Sea
-[https://www.wikidata.org/wiki/Q4918](https://www.wikidata.org/wiki/Q4918)  
-
-### alignments:
- - [Internum Mare](https://pleiades.stoa.org/places/1043)
 
 
 ## Q4936168: Bocchoris
@@ -59976,13 +60060,6 @@
  - [Korakou](https://pleiades.stoa.org/places/312809379)
 
 
-## Q65241320: Mochlos (archaeological site)
-[https://www.wikidata.org/wiki/Q65241320](https://www.wikidata.org/wiki/Q65241320)  
-
-### alignments:
- - [Mochlos archaeological site](https://pleiades.stoa.org/places/484509128)
-
-
 ## Q65297123: Cillium
 [https://www.wikidata.org/wiki/Q65297123](https://www.wikidata.org/wiki/Q65297123)  
 
@@ -60114,13 +60191,6 @@
 
 ### alignments:
  - [Loughbrickland Crannóg](https://pleiades.stoa.org/places/362278690)
-
-
-## Q671358: Didyma
-[https://www.wikidata.org/wiki/Q671358](https://www.wikidata.org/wiki/Q671358)  
-
-### alignments:
- - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## Q672905: Arrapha
@@ -61318,13 +61388,6 @@
 
 ### alignments:
  - [Cocytus (mythological river)](https://pleiades.stoa.org/places/287442731)
-
-
-## Q9396534: Temple of Apollo at Didyma
-[https://www.wikidata.org/wiki/Q9396534](https://www.wikidata.org/wiki/Q9396534)  
-
-### alignments:
- - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## Q940045: Taq-e Bostan
@@ -64457,6 +64520,13 @@
  - [Grimston](https://pleiades.stoa.org/places/79494)
 
 
+## Roman villa and antiquarium of Palazzo Pignano (Q55388463)
+[https://www.wikidata.org/wiki/Q55388463](https://www.wikidata.org/wiki/Q55388463)  
+
+### alignments:
+ - [Palazzo Pignano](https://pleiades.stoa.org/places/383735)
+
+
 ## Roman villa and medieval settlement remains immediately north of Ewefields Farm (Q17674963)
 [http://www.wikidata.org/entity/Q17674963](http://www.wikidata.org/entity/Q17674963)  
 
@@ -64945,6 +65015,13 @@
 
 ### alignments:
  - [Rujm el-Farideyyeh](https://pleiades.stoa.org/places/697745)
+
+
+## Rumst (Q943446)
+[https://www.wikidata.org/wiki/Q943446](https://www.wikidata.org/wiki/Q943446)  
+
+### alignments:
+ - [Rumst](https://pleiades.stoa.org/places/109292)
 
 
 ## Rur (Q152331)
@@ -67053,6 +67130,7 @@
 
 ### alignments:
  - [Litus Saxonicum](https://pleiades.stoa.org/places/109117)
+ - [Litus Saxonicum](https://pleiades.stoa.org/places/138423)
 
 
 ## Saxon-Sion (Q224357)
@@ -68391,6 +68469,13 @@
 
 ### alignments:
  - [Praesidium Si Aioun](https://pleiades.stoa.org/places/418328458)
+
+
+## Sibi (Q140288280)
+[https://www.wikidata.org/wiki/Q140288280](https://www.wikidata.org/wiki/Q140288280)  
+
+### alignments:
+ - [Sibai](https://pleiades.stoa.org/places/60047)
 
 
 ## Sibillini Mountains (Q691073)
@@ -70754,6 +70839,13 @@
  - [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
 
+## Syria (Q13415123)
+[https://www.wikidata.org/wiki/Q13415123](https://www.wikidata.org/wiki/Q13415123)  
+
+### alignments:
+ - [Syria](https://pleiades.stoa.org/places/1306)
+
+
 ## Syriac sanctuary on Gianicolo hill (Q62036962)
 [https://www.wikidata.org/wiki/Q62036962](https://www.wikidata.org/wiki/Q62036962)  
 
@@ -71799,6 +71891,13 @@
  - [Tell Fidain/Appadana?/Neapolis?](https://pleiades.stoa.org/places/894133)
 
 
+## Tell Hammam et-Turkman (Q21513167)
+[https://www.wikidata.org/wiki/Q21513167](https://www.wikidata.org/wiki/Q21513167)  
+
+### alignments:
+ - [Tell Hammam al-Turkmen](https://pleiades.stoa.org/places/874741)
+
+
 ## Tell Jemmeh (Q1301002)
 [https://www.wikidata.org/wiki/Q1301002](https://www.wikidata.org/wiki/Q1301002)  
 
@@ -72147,6 +72246,13 @@
 
 ### alignments:
  - [Temple of Apollo](https://pleiades.stoa.org/places/780913480)
+
+
+## Temple of Apollo at Didyma (Q9396534)
+[https://www.wikidata.org/wiki/Q9396534](https://www.wikidata.org/wiki/Q9396534)  
+
+### alignments:
+ - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## Temple of Apollo Epicurius in Bassae (Q38278862)

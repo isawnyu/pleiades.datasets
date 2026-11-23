@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5222 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
+5230 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -4632,6 +4632,13 @@
  - [*Aria?](https://pleiades.stoa.org/places/589709)
 
 
+## Ariaca (India)
+[https://topostext.org/place/181745RAri](https://topostext.org/place/181745RAri)  
+
+### alignments:
+ - [Ariake Sadenon](https://pleiades.stoa.org/places/49874)
+
+
 ## Aricia (Italy)
 [https://topostext.org/place/417127UAri](https://topostext.org/place/417127UAri)  
 
@@ -8437,6 +8444,13 @@
  - [Chesios (river)](https://pleiades.stoa.org/places/599572)
 
 
+## Chesynus river (Germania)
+[https://topostext.org/place/569241WChe](https://topostext.org/place/569241WChe)  
+
+### alignments:
+ - [Chesinos (river)](https://pleiades.stoa.org/places/20430)
+
+
 ## Chimaira (Epiros) 4 Himarë - Χίμαιρα
 [https://topostext.org/place/401197UChi](https://topostext.org/place/401197UChi)  
 
@@ -8484,6 +8498,13 @@
 
 ### alignments:
  - [Cholleidai](https://pleiades.stoa.org/places/585901)
+
+
+## Choma (Lycia)
+[https://topostext.org/place/366298UCho](https://topostext.org/place/366298UCho)  
+
+### alignments:
+ - [Hacımusalar Höyük](https://pleiades.stoa.org/places/638803)
 
 
 ## Choma harbor work (Piraeus)
@@ -17605,6 +17626,13 @@
 
 ### alignments:
  - [Lesche of the Cnidians (Delphi)](https://pleiades.stoa.org/places/661181030)
+
+
+## Knidos (Caria)
+[https://topostext.org/place/367274PKni](https://topostext.org/place/367274PKni)  
+
+### alignments:
+ - [Cnidus (Burgaz)](https://pleiades.stoa.org/places/599576)
 
 
 ## Knossos (Irakleio)
@@ -32490,6 +32518,13 @@
  - [Syracusae/Syrakousai](https://pleiades.stoa.org/places/462503)
 
 
+## Syria (Asia) 1547 Syria-Palestine - Συρία
+[https://topostext.org/place/355390RSyr](https://topostext.org/place/355390RSyr)  
+
+### alignments:
+ - [Syria](https://pleiades.stoa.org/places/1306)
+
+
 ## Syrinthos (Crete)
 [https://topostext.org/place/350261USyr](https://topostext.org/place/350261USyr)  
 
@@ -33998,6 +34033,13 @@
  - [Thryon](https://pleiades.stoa.org/places/573559)
 
 
+## Thugga (Numidia)
+[https://topostext.org/place/364092UTho](https://topostext.org/place/364092UTho)  
+
+### alignments:
+ - [Thugga/Tokai?](https://pleiades.stoa.org/places/315223)
+
+
 ## Thule island (Atlantic)
 [https://topostext.org/place/000000UThu](https://topostext.org/place/000000UThu)  
 
@@ -35370,6 +35412,13 @@
  - [Urso/Col. Genetiva Iulia](https://pleiades.stoa.org/places/256503)
 
 
+## Ustica island (Sicilia)
+[https://topostext.org/place/387132IUst](https://topostext.org/place/387132IUst)  
+
+### alignments:
+ - [Ustica (island)](https://pleiades.stoa.org/places/1361)
+
+
 ## Utica (Tunisia)
 [https://topostext.org/place/371101UUti](https://topostext.org/place/371101UUti)  
 
@@ -35403,6 +35452,13 @@
 
 ### alignments:
  - [Valentia](https://pleiades.stoa.org/places/266090)
+
+
+## Valentia Col. (Gallia)
+[https://topostext.org/place/449049UCol](https://topostext.org/place/449049UCol)  
+
+### alignments:
+ - [Col. Valentia](https://pleiades.stoa.org/places/167718)
 
 
 ## Valeria (Iberia)

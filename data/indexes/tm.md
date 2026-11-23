@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5213 alignments exist in _Pleiades_ place references as of 2026-11-20. The following list of alignments is grouped by zotkey.
+5213 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1581,13 +1581,6 @@
 
 ### alignments:
  - [Lato](https://pleiades.stoa.org/places/589899)
-
-
-## Geo 3679: Didyma (Didim)
-[https://www.trismegistos.org/place/3679](https://www.trismegistos.org/place/3679)  
-
-### alignments:
- - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## Geo 3683: Tegea
@@ -20866,6 +20859,13 @@
 
 ### alignments:
  - [Akanthopolis](https://pleiades.stoa.org/places/730087)
+
+
+## GEO ID 3679: Didyma (Didim)
+[https://www.trismegistos.org/place/3679](https://www.trismegistos.org/place/3679)  
+
+### alignments:
+ - [Didyma/Branchidai/Ioustinianopolis](https://pleiades.stoa.org/places/599593)
 
 
 ## GEO ID 367: Athenas Kome
