@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with MANTO
-1547 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
+1548 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
 
 ## 10043139: River Asterion (Argolid)
 [https://resource.manto.unh.edu/10043139](https://resource.manto.unh.edu/10043139)  
@@ -1471,6 +1471,13 @@
 
 ### alignments:
  - [Temenouthyrai](https://pleiades.stoa.org/places/609549)
+
+
+## 10160355: Laciadai (Attica)
+[https://resource.manto.unh.edu/10160355](https://resource.manto.unh.edu/10160355)  
+
+### alignments:
+ - [Lakiadai](https://pleiades.stoa.org/places/580006)
 
 
 ## 10161356: River Cephisos (Attica)

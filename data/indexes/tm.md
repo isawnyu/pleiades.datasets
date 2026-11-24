@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5213 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
+5213 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -1469,13 +1469,6 @@
 
 ### alignments:
  - [Kadıkalesi/Anaia](https://pleiades.stoa.org/places/599490)
-
-
-## Geo 34304: Klazomenai
-[https://www.trismegistos.org/place/34304](https://www.trismegistos.org/place/34304)  
-
-### alignments:
- - [Klazomenai (later)](https://pleiades.stoa.org/places/550651)
 
 
 ## Geo 3432: Apameia Kibotos (Dinar)
@@ -19991,6 +19984,13 @@
 
 ### alignments:
  - [Germia/Myriangeloi](https://pleiades.stoa.org/places/609388)
+
+
+## GEO ID 34304: Klazomenai
+[https://www.trismegistos.org/place/34304](https://www.trismegistos.org/place/34304)  
+
+### alignments:
+ - [Klazomenai (later)](https://pleiades.stoa.org/places/550651)
 
 
 ## GEO ID 34306: Metropolis

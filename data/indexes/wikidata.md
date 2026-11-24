@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11755 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
+11762 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -4036,6 +4036,13 @@
 
 ### alignments:
  - [Gela](https://pleiades.stoa.org/places/462214)
+
+
+## Ancient Greek theatre of Corinth (Q25451392)
+[https://www.wikidata.org/wiki/Q25451392](https://www.wikidata.org/wiki/Q25451392)  
+
+### alignments:
+ - [Corinth Theater](https://pleiades.stoa.org/places/309736112)
 
 
 ## Ancient Greek theatre of Eretria (Q20552028)
@@ -23787,6 +23794,13 @@
  - [Forum Fulvii Valentinum](https://pleiades.stoa.org/places/383651)
 
 
+## Forum Gallorum (Q16517283)
+[https://www.wikidata.org/wiki/Q16517283](https://www.wikidata.org/wiki/Q16517283)  
+
+### alignments:
+ - [Forum Gallorum](https://pleiades.stoa.org/places/246395)
+
+
 ## Forum granary (Q27687329)
 [https://www.wikidata.org/wiki/Q27687329](https://www.wikidata.org/wiki/Q27687329)  
 
@@ -23801,8 +23815,15 @@
  - [Aurelium Cananefatium/Forum Hadriani](https://pleiades.stoa.org/places/98918)
 
 
-## Forum Iulii (Q127430247)
-[https://www.wikidata.org/wiki/Q127430247](https://www.wikidata.org/wiki/Q127430247)  
+## Forum Iulii (Q21088741)
+[https://www.wikidata.org/wiki/Q21088741](https://www.wikidata.org/wiki/Q21088741)  
+
+### alignments:
+ - [Forum Iulii](https://pleiades.stoa.org/places/187386)
+
+
+## Forum Iulii (Q3078607)
+[https://www.wikidata.org/wiki/Q3078607](https://www.wikidata.org/wiki/Q3078607)  
 
 ### alignments:
  - [Col. Forum Iulii](https://pleiades.stoa.org/places/157836)
@@ -29245,6 +29266,13 @@
  - [Illerup Ådal](https://pleiades.stoa.org/places/20492)
 
 
+## Illiturgis (Q3068185)
+[https://www.wikidata.org/wiki/Q3068185](https://www.wikidata.org/wiki/Q3068185)  
+
+### alignments:
+ - [Iliturgi](https://pleiades.stoa.org/places/265924)
+
+
 ## Illyricum (Q753824)
 [https://www.wikidata.org/wiki/Q753824](https://www.wikidata.org/wiki/Q753824)  
 
@@ -33379,6 +33407,13 @@
  - [Lakh-mazar](https://pleiades.stoa.org/places/29640)
 
 
+## Lakiadai (Q13427353)
+[https://www.wikidata.org/wiki/Q13427353](https://www.wikidata.org/wiki/Q13427353)  
+
+### alignments:
+ - [Lakiadai](https://pleiades.stoa.org/places/580006)
+
+
 ## Lalandos (Q85775713)
 [https://www.wikidata.org/wiki/Q85775713](https://www.wikidata.org/wiki/Q85775713)  
 
@@ -33804,6 +33839,13 @@
 
 ### alignments:
  - [Le Langon](https://pleiades.stoa.org/places/138425)
+
+
+## Le Puy-en-Velay (Q184359)
+[https://www.wikidata.org/wiki/Q184359](https://www.wikidata.org/wiki/Q184359)  
+
+### alignments:
+ - [Anicium](https://pleiades.stoa.org/places/167646)
 
 
 ## Le Rozier (Samian Ware Discovery Site) (Q103174089)
@@ -36570,6 +36612,13 @@
 
 ### alignments:
  - [Mauretania Tingitana (Roman province)](https://pleiades.stoa.org/places/981533)
+
+
+## Mausoleo de Chiprana (Q6007249)
+[https://www.wikidata.org/wiki/Q6007249](https://www.wikidata.org/wiki/Q6007249)  
+
+### alignments:
+ - [Mausoleo de Chiprana](https://pleiades.stoa.org/places/559027220)
 
 
 ## Mausoleo di Gallieno (Q48809427)
@@ -50936,13 +50985,6 @@
  - [Epikephisia](https://pleiades.stoa.org/places/579922)
 
 
-## Q13427353: Lakiadai
-[https://www.wikidata.org/wiki/Q13427353](https://www.wikidata.org/wiki/Q13427353)  
-
-### alignments:
- - [Lakiadai](https://pleiades.stoa.org/places/580006)
-
-
 ## Q13427355: Lousia
 [https://www.wikidata.org/wiki/Q13427355](https://www.wikidata.org/wiki/Q13427355)  
 
@@ -51263,6 +51305,13 @@
 
 ### alignments:
  - [Temple of Minerva Medica](https://pleiades.stoa.org/places/540898685)
+
+
+## Q141680071
+[https://www.wikidata.org/wiki/Q141680071](https://www.wikidata.org/wiki/Q141680071)  
+
+### alignments:
+ - [Villaggio di Tramontana](https://pleiades.stoa.org/places/923265256)
 
 
 ## Q1416983: Villa rustica of Littlecote
@@ -60585,13 +60634,6 @@
  - [Septempeda](https://pleiades.stoa.org/places/413314)
 
 
-## Q74590612: Ancient Greek theatre of Corinth
-[https://www.wikidata.org/wiki/Q74590612](https://www.wikidata.org/wiki/Q74590612)  
-
-### alignments:
- - [Corinth Theater](https://pleiades.stoa.org/places/309736112)
-
-
 ## Q748363: Balaklava
 [https://www.wikidata.org/wiki/Q748363](https://www.wikidata.org/wiki/Q748363)  
 
@@ -63862,8 +63904,8 @@
  - [Necropoli Romana](https://pleiades.stoa.org/places/243492426)
 
 
-## Roman Odeion at Corinth (Q38283545)
-[https://www.wikidata.org/wiki/Q38283545](https://www.wikidata.org/wiki/Q38283545)  
+## Roman Odeion at Corinth (Q25461265)
+[https://www.wikidata.org/wiki/Q25461265](https://www.wikidata.org/wiki/Q25461265)  
 
 ### alignments:
  - [Roman Odeion at Corinth](https://pleiades.stoa.org/places/45246736)
@@ -73479,6 +73521,13 @@
 
 ### alignments:
  - [Terpni/Paliokastro](https://pleiades.stoa.org/places/114689183)
+
+
+## Terqa (Q644872)
+[https://www.wikidata.org/wiki/Q644872](https://www.wikidata.org/wiki/Q644872)  
+
+### alignments:
+ - [[Terqa]/Asicha?](https://pleiades.stoa.org/places/894158)
 
 
 ## Terracina (Q128226)

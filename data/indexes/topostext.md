@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with ToposText
-5230 alignments exist in _Pleiades_ place references as of 2026-11-23. The following list of alignments is grouped by zotkey.
+5232 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
 
 ## 000000GEly
 [https://topostext.org/place/000000GEly](https://topostext.org/place/000000GEly)  
@@ -12350,6 +12350,13 @@
  - [Forum Iulii](https://pleiades.stoa.org/places/187386)
 
 
+## Forum Julium (Gallia)
+[https://topostext.org/place/434067UFIo](https://topostext.org/place/434067UFIo)  
+
+### alignments:
+ - [Col. Forum Iulii](https://pleiades.stoa.org/places/157836)
+
+
 ## Forum Livii (Italia)
 [https://topostext.org/place/442120UFLi](https://topostext.org/place/442120UFLi)  
 
@@ -13238,6 +13245,13 @@
 
 ### alignments:
  - [Graviscae](https://pleiades.stoa.org/places/413157)
+
+
+## Great Altar of Hercules (Rome)
+[https://topostext.org/place/419125SGre](https://topostext.org/place/419125SGre)  
+
+### alignments:
+ - [Ara Maxima Herculis](https://pleiades.stoa.org/places/207271757)
 
 
 ## Great Gods sanctuary (Samothrace) 23 Samothraki - Μεγάλων θεών ιερόν
