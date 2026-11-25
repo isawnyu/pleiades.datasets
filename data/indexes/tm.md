@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with TM
-5213 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
+5214 alignments exist in _Pleiades_ place references as of 2026-11-25. The following list of alignments is grouped by zotkey.
 
 ## 
 []()  
@@ -20495,6 +20495,13 @@
 
 ### alignments:
  - [Umm 'Anab](https://pleiades.stoa.org/places/766410)
+
+
+## GEO ID 35482: Molzbichl
+[https://www.trismegistos.org/place/35482](https://www.trismegistos.org/place/35482)  
+
+### alignments:
+ - [Molzbichl](https://pleiades.stoa.org/places/187480)
 
 
 ## GEO ID 35485: Laciacum (Mösendorf)

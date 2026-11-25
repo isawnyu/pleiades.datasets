@@ -1,5 +1,5 @@
 # _Pleiades_ alignments with Wikidata
-11762 alignments exist in _Pleiades_ place references as of 2026-11-24. The following list of alignments is grouped by zotkey.
+11764 alignments exist in _Pleiades_ place references as of 2026-11-25. The following list of alignments is grouped by zotkey.
 
 ## 'Adhaim (Q9143945)
 [https://www.wikidata.org/wiki/Q9143945](https://www.wikidata.org/wiki/Q9143945)  
@@ -38605,6 +38605,13 @@
  - [Molykreion?](https://pleiades.stoa.org/places/540948)
 
 
+## Molzbichl (Q1943790)
+[https://www.wikidata.org/wiki/Q1943790](https://www.wikidata.org/wiki/Q1943790)  
+
+### alignments:
+ - [Molzbichl](https://pleiades.stoa.org/places/187480)
+
+
 ## Monastery of Saint Benedict (Q19622375)
 [https://www.wikidata.org/wiki/Q19622375](https://www.wikidata.org/wiki/Q19622375)  
 
@@ -65393,6 +65400,13 @@
 
 ### alignments:
  - [Saint-Michel tumulus](https://pleiades.stoa.org/places/915626351)
+
+
+## Saint-Romain-de-Lerps (Q375313)
+[https://www.wikidata.org/wiki/Q375313](https://www.wikidata.org/wiki/Q375313)  
+
+### alignments:
+ - [St-Romain-de-Lerps](https://pleiades.stoa.org/places/167904)
 
 
 ## Saint-Saphorin Roman Villa (Q3558921)
